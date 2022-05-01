@@ -1,0 +1,6 @@
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q AAA799-O18_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o AAA799-O18_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Marine_Group_1_crenarchaeote_sp_SCGC_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o Marine_Group_1_crenarchaeote_sp_SCGC_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q AAA007-N19_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o AAA007-N19_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Thaumarchaeota_archaeon_SCGC_AAA007-O23_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o Thaumarchaeota_archaeon_SCGC_AAA007-O23_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q AAA288-D22_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o AAA288-D22_renamed.fa.fasta.kegg.m8 --query-cover 75

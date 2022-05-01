@@ -1,0 +1,4 @@
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Nitrosopelagicus_sp_REDSEA-S31_B2_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o Nitrosopelagicus_sp_REDSEA-S31_B2_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Candidatus_Nitrosopelagicus_sp_Isolate_GoM_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o Candidatus_Nitrosopelagicus_sp_Isolate_GoM_renamed.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Nitrosopelagicus_brevis_U25.fa.fasta -k 1 -e 0.000001 --threads 64 -o Nitrosopelagicus_brevis_U25.fa.fasta.kegg.m8 --query-cover 75
+diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q Nitrosopelagicus_brevis_strain_CN25_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o Nitrosopelagicus_brevis_strain_CN25_renamed.fa.fasta.kegg.m8 --query-cover 75

@@ -1,0 +1,42 @@
+[2022-04-16 00:15:33] INFO: CheckM v1.1.3
+[2022-04-16 00:15:33] INFO: checkm lineage_wf -x fa -t 64 genomes genomes_checkm
+[2022-04-16 00:15:33] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2022-04-16 00:15:33] INFO: Identifying marker genes in 4 bins with 64 threads:
+[2022-04-16 00:15:39] INFO: Saving HMM info to file.
+[2022-04-16 00:15:39] INFO: Calculating genome statistics for 4 bins with 64 threads:
+[2022-04-16 00:15:40] INFO: Extracting marker genes to align.
+[2022-04-16 00:15:40] INFO: Parsing HMM hits to marker genes:
+[2022-04-16 00:15:40] INFO: Extracting 43 HMMs with 64 threads:
+[2022-04-16 00:15:40] INFO: Aligning 43 marker genes with 64 threads:
+[2022-04-16 00:15:40] INFO: Reading marker alignment files.
+[2022-04-16 00:15:40] INFO: Concatenating alignments.
+[2022-04-16 00:15:40] INFO: Placing 4 bins into the genome tree with pplacer (be patient).
+[2022-04-16 00:20:16] INFO: { Current stage: 0:04:42.638 || Total: 0:04:42.638 }
+[2022-04-16 00:20:16] INFO: [CheckM - lineage_set] Inferring lineage-specific marker sets.
+[2022-04-16 00:20:16] INFO: Reading HMM info from file.
+[2022-04-16 00:20:16] INFO: Parsing HMM hits to marker genes:
+[2022-04-16 00:20:16] INFO: Determining marker sets for each genome bin.
+[2022-04-16 00:20:17] INFO: Marker set written to: genomes_checkm/lineage.ms
+[2022-04-16 00:20:17] INFO: { Current stage: 0:00:01.741 || Total: 0:04:44.380 }
+[2022-04-16 00:20:17] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2022-04-16 00:20:17] INFO: Identifying marker genes in 4 bins with 64 threads:
+[2022-04-16 00:21:24] INFO: Saving HMM info to file.
+[2022-04-16 00:21:24] INFO: { Current stage: 0:01:07.108 || Total: 0:05:51.488 }
+[2022-04-16 00:21:24] INFO: Parsing HMM hits to marker genes:
+[2022-04-16 00:21:25] INFO: Aligning marker genes with multiple hits in a single bin:
+[2022-04-16 00:21:26] INFO: { Current stage: 0:00:01.235 || Total: 0:05:52.724 }
+[2022-04-16 00:21:26] INFO: Calculating genome statistics for 4 bins with 64 threads:
+[2022-04-16 00:21:26] INFO: { Current stage: 0:00:00.175 || Total: 0:05:52.900 }
+[2022-04-16 00:21:26] INFO: [CheckM - qa] Tabulating genome statistics.
+[2022-04-16 00:21:26] INFO: Calculating AAI between multi-copy marker genes.
+[2022-04-16 00:21:26] INFO: Reading HMM info from file.
+[2022-04-16 00:21:26] INFO: Parsing HMM hits to marker genes:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                                                 Marker lineage    # genomes   # markers   # marker sets   0     1    2   3   4   5+   Completeness   Contamination   Strain heterogeneity  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Nitrosopelagicus_brevis_strain_CN25_renamed          k__Archaea (UID2)      207         145           103        1    144   0   0   0   0       99.51            0.00               0.00          
+  Nitrosopelagicus_brevis_U25                          k__Archaea (UID2)      207         145           103        1    144   0   0   0   0       99.51            0.00               0.00          
+  Nitrosopelagicus_sp_REDSEA-S31_B2_renamed            k__Archaea (UID2)      207         145           103        9    134   2   0   0   0       92.64            1.05              100.00         
+  Candidatus_Nitrosopelagicus_sp_Isolate_GoM_renamed   k__Archaea (UID2)      207         145           103        34   108   2   1   0   0       75.90            3.88              40.00          
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2022-04-16 00:21:27] INFO: { Current stage: 0:00:00.944 || Total: 0:05:53.844 }

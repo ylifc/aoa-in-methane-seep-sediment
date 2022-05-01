@@ -1,0 +1,56 @@
+[2022-04-15 23:54:00] INFO: CheckM v1.1.3
+[2022-04-15 23:54:00] INFO: checkm lineage_wf -x fa -t 60 genomes methane_seep_checkm
+[2022-04-15 23:54:00] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2022-04-15 23:54:00] INFO: Identifying marker genes in 18 bins with 60 threads:
+[2022-04-15 23:54:29] INFO: Saving HMM info to file.
+[2022-04-15 23:54:29] INFO: Calculating genome statistics for 18 bins with 60 threads:
+[2022-04-15 23:54:29] INFO: Extracting marker genes to align.
+[2022-04-15 23:54:29] INFO: Parsing HMM hits to marker genes:
+[2022-04-15 23:54:31] INFO: Extracting 43 HMMs with 60 threads:
+[2022-04-15 23:54:31] INFO: Aligning 43 marker genes with 60 threads:
+[2022-04-15 23:54:31] INFO: Reading marker alignment files.
+[2022-04-15 23:54:31] INFO: Concatenating alignments.
+[2022-04-15 23:54:31] INFO: Placing 18 bins into the genome tree with pplacer (be patient).
+[2022-04-16 00:00:53] INFO: { Current stage: 0:06:53.001 || Total: 0:06:53.001 }
+[2022-04-16 00:00:53] INFO: [CheckM - lineage_set] Inferring lineage-specific marker sets.
+[2022-04-16 00:00:53] INFO: Reading HMM info from file.
+[2022-04-16 00:00:53] INFO: Parsing HMM hits to marker genes:
+[2022-04-16 00:00:54] INFO: Determining marker sets for each genome bin.
+[2022-04-16 00:00:57] INFO: Marker set written to: methane_seep_checkm/lineage.ms
+[2022-04-16 00:00:57] INFO: { Current stage: 0:00:04.159 || Total: 0:06:57.161 }
+[2022-04-16 00:00:57] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2022-04-16 00:00:57] INFO: Identifying marker genes in 18 bins with 60 threads:
+[2022-04-16 00:02:25] INFO: Saving HMM info to file.
+[2022-04-16 00:02:26] INFO: { Current stage: 0:01:29.225 || Total: 0:08:26.386 }
+[2022-04-16 00:02:26] INFO: Parsing HMM hits to marker genes:
+[2022-04-16 00:02:32] INFO: Aligning marker genes with multiple hits in a single bin:
+[2022-04-16 00:02:34] INFO: { Current stage: 0:00:07.552 || Total: 0:08:33.939 }
+[2022-04-16 00:02:34] INFO: Calculating genome statistics for 18 bins with 60 threads:
+[2022-04-16 00:02:34] INFO: { Current stage: 0:00:00.440 || Total: 0:08:34.379 }
+[2022-04-16 00:02:34] INFO: [CheckM - qa] Tabulating genome statistics.
+[2022-04-16 00:02:34] INFO: Calculating AAI between multi-copy marker genes.
+[2022-04-16 00:02:35] INFO: Reading HMM info from file.
+[2022-04-16 00:02:35] INFO: Parsing HMM hits to marker genes:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Bin Id                Marker lineage    # genomes   # markers   # marker sets   0     1    2    3   4   5+   Completeness   Contamination   Strain heterogeneity  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  XS83_01_renamed     k__Archaea (UID2)      207         145           103        10   107   22   4   2   0       94.27           30.88               8.70          
+  XS83_02_renamed     k__Archaea (UID2)      207         145           103        10   101   27   6   1   0       92.56           32.08              11.76          
+  HM82_Bin2_renamed   k__Archaea (UID2)      207         145           103        17    93   26   5   4   0       91.52           42.07              12.31          
+  HM82_Bin1_renamed   k__Archaea (UID2)      207         145           103        12   104   21   5   3   0       91.26           28.43              14.81          
+  HM58_Bin_renamed    k__Archaea (UID2)      207         145           103        13    98   27   4   2   1       90.22           34.19              12.12          
+  EGM_Bin1_renamed    k__Archaea (UID2)      207         145           103        19   106   16   2   1   1       87.47           22.98               5.26          
+  EGM_Bin2_renamed    k__Archaea (UID2)      207         145           103        21    94   24   2   3   1       85.12           29.16              27.59          
+  XS87_01_renamed     k__Archaea (UID2)      207         145           103        26   100   11   8   0   0       84.02           18.84              14.29          
+  SB_02_renamed       k__Archaea (UID2)      207         145           103        28    99   13   5   0   0       83.28           19.42               3.57          
+  XS87_02_renamed     k__Archaea (UID2)      207         145           103        29   111   5    0   0   0       83.12            4.85               0.00          
+  HM45_Bin1_renamed   k__Archaea (UID2)      207         145           103        22    85   29   4   4   1       83.01           34.14              13.33          
+  HM81_Bin2_renamed   k__Archaea (UID2)      207         145           103        27    87   24   5   2   0       82.86           29.81              11.76          
+  HM79_Bin_renamed    k__Archaea (UID2)      207         145           103        27    99   15   4   0   0       79.77           17.72              22.22          
+  F_renamed           k__Archaea (UID2)      207         145           103        29   110   6    0   0   0       76.46            4.37               0.00          
+  HM45_Bin2_renamed   k__Archaea (UID2)      207         145           103        38    91   12   2   0   2       76.40           20.71               9.30          
+  SB_01_renamed       k__Archaea (UID2)      207         145           103        37    99   6    2   0   1       74.46           12.06               0.00          
+  HM81_Bin1_renamed   k__Archaea (UID2)      207         145           103        41    94   9    1   0   0       70.58            9.22               8.33          
+  SMM_01_renamed      k__Archaea (UID2)      207         149           107        45    95   7    2   0   0       70.51            7.71              15.38          
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[2022-04-16 00:02:40] INFO: { Current stage: 0:00:05.990 || Total: 0:08:40.369 }
