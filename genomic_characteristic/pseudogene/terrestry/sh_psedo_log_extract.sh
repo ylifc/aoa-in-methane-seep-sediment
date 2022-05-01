@@ -1,0 +1,15 @@
+cp Nitrosotenuis_aquarius_strain_AQ6F.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrososphaera_viennensis_EN76.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosocosmicus_hydrocola_strain_G61.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosocosmicus_oleophilus_strain_MY3.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrososphaerales_archaeon_UBA213.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrososphaera_evergladensis_SR1.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrososphaera_gargensis_Ga9.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosotalea_bavarica_SbT1.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosotalea_devanaterra_Nd1.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosotalea_koreensis_CS.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosotalea_sinensis_Nd2.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosotenuis_chungbukensis_MY2.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Nitrosotenuis_cloacae_strain_SAT1.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Thaumarchaeota_archaeon_N4.fa_pseudo/*_log.txt ./pseudo_log_summmary/
+cp Thaumarchaeota_archaeon_SAT137.fa_pseudo/*_log.txt ./pseudo_log_summmary/

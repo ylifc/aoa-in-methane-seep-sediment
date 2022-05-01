@@ -1,0 +1,3067 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CDCMDIPF_00001	gene	459				
+CDCMDIPF_00001	CDS	459				hypothetical protein
+CDCMDIPF_00002	gene	642				
+CDCMDIPF_00002	CDS	642				hypothetical protein
+CDCMDIPF_00003	gene	573				
+CDCMDIPF_00003	CDS	573				hypothetical protein
+CDCMDIPF_00004	gene	768				
+CDCMDIPF_00004	CDS	768				hypothetical protein
+CDCMDIPF_00005	gene	1296	tufB			
+CDCMDIPF_00005	CDS	1296	tufB		COG0050	Elongation factor Tu-B
+CDCMDIPF_00006	gene	279				
+CDCMDIPF_00006	CDS	279				hypothetical protein
+CDCMDIPF_00007	gene	1356	rpoB			
+CDCMDIPF_00007	CDS	1356	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+CDCMDIPF_00008	gene	900				
+CDCMDIPF_00008	CDS	900		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+CDCMDIPF_00009	gene	495				
+CDCMDIPF_00009	CDS	495				hypothetical protein
+CDCMDIPF_00010	gene	1530				
+CDCMDIPF_00010	CDS	1530				hypothetical protein
+CDCMDIPF_00011	gene	510				
+CDCMDIPF_00011	CDS	510				hypothetical protein
+CDCMDIPF_00012	gene	681	deoC			
+CDCMDIPF_00012	CDS	681	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+CDCMDIPF_00013	gene	282				
+CDCMDIPF_00013	CDS	282				hypothetical protein
+CDCMDIPF_00014	gene	537				
+CDCMDIPF_00014	CDS	537				hypothetical protein
+CDCMDIPF_00015	gene	627				
+CDCMDIPF_00015	CDS	627				hypothetical protein
+CDCMDIPF_00016	gene	1128				
+CDCMDIPF_00016	CDS	1128				hypothetical protein
+CDCMDIPF_00017	gene	873				
+CDCMDIPF_00017	CDS	873				hypothetical protein
+CDCMDIPF_00018	gene	1005	lnrL_1			
+CDCMDIPF_00018	CDS	1005	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CDCMDIPF_00019	gene	759				
+CDCMDIPF_00019	CDS	759				hypothetical protein
+CDCMDIPF_00020	gene	810	bhbA			
+CDCMDIPF_00020	CDS	810	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+CDCMDIPF_00021	gene	447	mcm			
+CDCMDIPF_00021	CDS	447	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+CDCMDIPF_00022	gene	924	icmF			
+CDCMDIPF_00022	CDS	924	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+CDCMDIPF_00023	gene	1167	lysC			
+CDCMDIPF_00023	CDS	1167	lysC	2.7.2.4		Aspartokinase
+CDCMDIPF_00024	gene	1302	lysA			
+CDCMDIPF_00024	CDS	1302	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+CDCMDIPF_00025	gene	1170	dapL_1			
+CDCMDIPF_00025	CDS	1170	dapL_1	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+CDCMDIPF_00026	gene	372	yabJ			
+CDCMDIPF_00026	CDS	372	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+CDCMDIPF_00027	gene	342				
+CDCMDIPF_00027	CDS	342			COG0316	Protein
+CDCMDIPF_00028	gene	1272				
+CDCMDIPF_00028	CDS	1272				hypothetical protein
+CDCMDIPF_00029	gene	696				
+CDCMDIPF_00029	CDS	696				hypothetical protein
+CDCMDIPF_00030	gene	2688				
+CDCMDIPF_00030	CDS	2688				hypothetical protein
+CDCMDIPF_00031	gene	1281				
+CDCMDIPF_00031	CDS	1281				hypothetical protein
+CDCMDIPF_00032	gene	333				
+CDCMDIPF_00032	CDS	333				hypothetical protein
+CDCMDIPF_00033	gene	612				
+CDCMDIPF_00033	CDS	612				hypothetical protein
+CDCMDIPF_00034	gene	1323	hemA			
+CDCMDIPF_00034	CDS	1323	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+CDCMDIPF_00035	gene	915	hemC			
+CDCMDIPF_00035	CDS	915	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+CDCMDIPF_00036	gene	582				
+CDCMDIPF_00036	CDS	582				hypothetical protein
+CDCMDIPF_00037	gene	951	hemB			
+CDCMDIPF_00037	CDS	951	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+CDCMDIPF_00038	gene	708				
+CDCMDIPF_00038	CDS	708			COG3253	putative protein/MSMEI_2713
+CDCMDIPF_00039	gene	1299	hemL			
+CDCMDIPF_00039	CDS	1299	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+CDCMDIPF_00040	gene	1029	hemE			
+CDCMDIPF_00040	CDS	1029	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+CDCMDIPF_00041	gene	900	hemH1			
+CDCMDIPF_00041	CDS	900	hemH1	4.99.1.1	COG0276	Ferrochelatase 1
+CDCMDIPF_00042	gene	444	lrp_1			
+CDCMDIPF_00042	CDS	444	lrp_1		COG1522	Leucine-responsive regulatory protein
+CDCMDIPF_00043	gene	969	asnS_1			
+CDCMDIPF_00043	CDS	969	asnS_1	6.1.1.22	COG0017	Asparagine--tRNA ligase
+CDCMDIPF_00044	gene	819	xpt			
+CDCMDIPF_00044	CDS	819	xpt	2.4.2.22		Xanthine phosphoribosyltransferase
+CDCMDIPF_00045	gene	675	udgb			
+CDCMDIPF_00045	CDS	675	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+CDCMDIPF_00046	gene	444	yvqK_1			
+CDCMDIPF_00046	CDS	444	yvqK_1	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+CDCMDIPF_00047	gene	819				
+CDCMDIPF_00047	CDS	819				hypothetical protein
+CDCMDIPF_00048	gene	1326	trpB_1			
+CDCMDIPF_00048	CDS	1326	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+CDCMDIPF_00049	gene	846	fadM			
+CDCMDIPF_00049	CDS	846	fadM	1.5.5.2		Proline dehydrogenase 1
+CDCMDIPF_00050	gene	1152				
+CDCMDIPF_00050	CDS	1152		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+CDCMDIPF_00051	gene	1164	moeA			
+CDCMDIPF_00051	CDS	1164	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+CDCMDIPF_00052	gene	810				
+CDCMDIPF_00052	CDS	810				hypothetical protein
+CDCMDIPF_00053	gene	1638				
+CDCMDIPF_00053	CDS	1638				hypothetical protein
+CDCMDIPF_00054	gene	777	natA			
+CDCMDIPF_00054	CDS	777	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+CDCMDIPF_00055	gene	540	grpE			
+CDCMDIPF_00055	CDS	540	grpE			Protein GrpE
+CDCMDIPF_00056	gene	1869	dnaK			
+CDCMDIPF_00056	CDS	1869	dnaK		COG0443	Chaperone protein DnaK
+CDCMDIPF_00057	gene	1083	dnaJ			
+CDCMDIPF_00057	CDS	1083	dnaJ		COG0484	Chaperone protein DnaJ
+CDCMDIPF_00058	gene	1926	dpp5			
+CDCMDIPF_00058	CDS	1926	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+CDCMDIPF_00059	gene	1620				
+CDCMDIPF_00059	CDS	1620				hypothetical protein
+CDCMDIPF_00060	gene	534	vapC_1			
+CDCMDIPF_00060	CDS	534	vapC_1	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+CDCMDIPF_00061	gene	825	nadK			
+CDCMDIPF_00061	CDS	825	nadK	2.7.1.23		NAD kinase
+CDCMDIPF_00062	gene	672				
+CDCMDIPF_00062	CDS	672				hypothetical protein
+CDCMDIPF_00063	gene	1326	ffh			
+CDCMDIPF_00063	CDS	1326	ffh		COG0541	Signal recognition particle protein
+CDCMDIPF_00064	gene	1149				
+CDCMDIPF_00064	CDS	1149				hypothetical protein
+CDCMDIPF_00065	gene	342				
+CDCMDIPF_00065	CDS	342				hypothetical protein
+CDCMDIPF_00066	gene	564				
+CDCMDIPF_00066	CDS	564				hypothetical protein
+CDCMDIPF_00067	gene	774	rsmA			
+CDCMDIPF_00067	CDS	774	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+CDCMDIPF_00068	gene	516	prmC			
+CDCMDIPF_00068	CDS	516	prmC	2.1.1.297		Release factor glutamine methyltransferase
+CDCMDIPF_00069	gene	714				
+CDCMDIPF_00069	CDS	714				hypothetical protein
+CDCMDIPF_00070	gene	276				
+CDCMDIPF_00070	CDS	276				hypothetical protein
+CDCMDIPF_00071	gene	2010				
+CDCMDIPF_00071	CDS	2010				hypothetical protein
+CDCMDIPF_00072	gene	2520				
+CDCMDIPF_00072	CDS	2520				hypothetical protein
+CDCMDIPF_00073	gene	333				
+CDCMDIPF_00073	CDS	333				hypothetical protein
+CDCMDIPF_00074	gene	459				
+CDCMDIPF_00074	CDS	459				hypothetical protein
+CDCMDIPF_00075	gene	417				
+CDCMDIPF_00075	CDS	417				hypothetical protein
+CDCMDIPF_00076	gene	1143	hflX			
+CDCMDIPF_00076	CDS	1143	hflX		COG2262	GTPase HflX
+CDCMDIPF_00077	gene	345				
+CDCMDIPF_00077	CDS	345				hypothetical protein
+CDCMDIPF_00078	gene	507				
+CDCMDIPF_00078	CDS	507				hypothetical protein
+CDCMDIPF_00079	gene	537	COQ5_1			
+CDCMDIPF_00079	CDS	537	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CDCMDIPF_00080	gene	1164				
+CDCMDIPF_00080	CDS	1164				hypothetical protein
+CDCMDIPF_00081	gene	1383	mvaS			
+CDCMDIPF_00081	CDS	1383	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+CDCMDIPF_00082	gene	423				
+CDCMDIPF_00082	CDS	423				hypothetical protein
+CDCMDIPF_00083	gene	444				
+CDCMDIPF_00083	CDS	444				hypothetical protein
+CDCMDIPF_00084	gene	525	thyX			
+CDCMDIPF_00084	CDS	525	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+CDCMDIPF_00085	gene	321				
+CDCMDIPF_00085	CDS	321				hypothetical protein
+CDCMDIPF_00086	gene	1200				
+CDCMDIPF_00086	CDS	1200		1.3.99.-	COG1960	Acyl-CoA dehydrogenase fadE12
+CDCMDIPF_00087	gene	822	mcl2			
+CDCMDIPF_00087	CDS	822	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+CDCMDIPF_00088	gene	1278				
+CDCMDIPF_00088	CDS	1278				hypothetical protein
+CDCMDIPF_00089	gene	234				
+CDCMDIPF_00089	CDS	234				hypothetical protein
+CDCMDIPF_00090	gene	546				
+CDCMDIPF_00090	CDS	546				hypothetical protein
+CDCMDIPF_00091	gene	289				
+CDCMDIPF_00091	misc_RNA	289				RNaseP_arch
+CDCMDIPF_00092	gene	411				
+CDCMDIPF_00092	CDS	411				hypothetical protein
+CDCMDIPF_00093	gene	1026				
+CDCMDIPF_00093	CDS	1026				hypothetical protein
+CDCMDIPF_00094	gene	1005				
+CDCMDIPF_00094	CDS	1005				hypothetical protein
+CDCMDIPF_00095	gene	1128				
+CDCMDIPF_00095	CDS	1128		2.2.1.8		Fluorothreonine transaldolase
+CDCMDIPF_00096	gene	3270				
+CDCMDIPF_00096	CDS	3270				hypothetical protein
+CDCMDIPF_00097	gene	738				
+CDCMDIPF_00097	CDS	738		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+CDCMDIPF_00098	gene	384				
+CDCMDIPF_00098	CDS	384				hypothetical protein
+CDCMDIPF_00099	gene	468				
+CDCMDIPF_00099	CDS	468				hypothetical protein
+CDCMDIPF_00100	gene	420				
+CDCMDIPF_00100	CDS	420				hypothetical protein
+CDCMDIPF_00101	gene	1209				
+CDCMDIPF_00101	CDS	1209				hypothetical protein
+CDCMDIPF_00102	gene	1383				
+CDCMDIPF_00102	CDS	1383				hypothetical protein
+CDCMDIPF_00103	gene	687	pyrH			
+CDCMDIPF_00103	CDS	687	pyrH	2.7.4.22		Uridylate kinase
+CDCMDIPF_00104	gene	1248				
+CDCMDIPF_00104	CDS	1248				hypothetical protein
+CDCMDIPF_00105	gene	2358	valS_1			
+CDCMDIPF_00105	CDS	2358	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+CDCMDIPF_00106	gene	990				
+CDCMDIPF_00106	CDS	990				hypothetical protein
+CDCMDIPF_00107	gene	945	prs_1			
+CDCMDIPF_00107	CDS	945	prs_1	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CDCMDIPF_00108	gene	783				
+CDCMDIPF_00108	CDS	783				hypothetical protein
+CDCMDIPF_00109	gene	525				
+CDCMDIPF_00109	CDS	525				hypothetical protein
+CDCMDIPF_00110	gene	426				
+CDCMDIPF_00110	CDS	426				hypothetical protein
+CDCMDIPF_00111	gene	321				
+CDCMDIPF_00111	CDS	321				hypothetical protein
+CDCMDIPF_00112	gene	1236	leuB			
+CDCMDIPF_00112	CDS	1236	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+CDCMDIPF_00113	gene	543				
+CDCMDIPF_00113	CDS	543				hypothetical protein
+CDCMDIPF_00114	gene	291				
+CDCMDIPF_00114	CDS	291				hypothetical protein
+CDCMDIPF_00115	gene	351				
+CDCMDIPF_00115	CDS	351				hypothetical protein
+CDCMDIPF_00116	gene	666				
+CDCMDIPF_00116	CDS	666				hypothetical protein
+CDCMDIPF_00117	gene	435	pfdA			
+CDCMDIPF_00117	CDS	435	pfdA			Prefoldin subunit alpha
+CDCMDIPF_00118	gene	900	ftsY			
+CDCMDIPF_00118	CDS	900	ftsY			Signal recognition particle receptor FtsY
+CDCMDIPF_00119	gene	918	argF			
+CDCMDIPF_00119	CDS	918	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+CDCMDIPF_00120	gene	339				
+CDCMDIPF_00120	CDS	339				hypothetical protein
+CDCMDIPF_00121	gene	303				
+CDCMDIPF_00121	CDS	303				hypothetical protein
+CDCMDIPF_00122	gene	516	atoC			
+CDCMDIPF_00122	CDS	516	atoC		COG2204	Regulatory protein AtoC
+CDCMDIPF_00123	gene	1369				
+CDCMDIPF_00123	rRNA	1369				16S ribosomal RNA
+CDCMDIPF_00124	gene	2602				
+CDCMDIPF_00124	rRNA	2602				23S ribosomal RNA
+CDCMDIPF_00125	gene	792	zupT			
+CDCMDIPF_00125	CDS	792	zupT			Zinc transporter ZupT
+CDCMDIPF_00126	gene	552				
+CDCMDIPF_00126	CDS	552			COG3039	IS5 family transposase ISMeco1
+CDCMDIPF_00127	gene	789	proC			
+CDCMDIPF_00127	CDS	789	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+CDCMDIPF_00128	gene	696	alaS_1			
+CDCMDIPF_00128	CDS	696	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+CDCMDIPF_00129	gene	330				
+CDCMDIPF_00129	CDS	330				hypothetical protein
+CDCMDIPF_00130	gene	1635				
+CDCMDIPF_00130	CDS	1635		2.3.1.-		tRNA uridine(34) acetyltransferase
+CDCMDIPF_00131	gene	912	fbiA			
+CDCMDIPF_00131	CDS	912	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+CDCMDIPF_00132	gene	852				
+CDCMDIPF_00132	CDS	852				hypothetical protein
+CDCMDIPF_00133	gene	270				
+CDCMDIPF_00133	CDS	270				hypothetical protein
+CDCMDIPF_00134	gene	795	surE_1			
+CDCMDIPF_00134	CDS	795	surE_1	3.1.3.5	COG0496	5'-nucleotidase SurE
+CDCMDIPF_00135	gene	1161	metK			
+CDCMDIPF_00135	CDS	1161	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+CDCMDIPF_00136	gene	1041	asnS_2			
+CDCMDIPF_00136	CDS	1041	asnS_2	6.1.1.22	COG0017	Asparagine--tRNA ligase
+CDCMDIPF_00137	gene	573	pyrE			
+CDCMDIPF_00137	CDS	573	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+CDCMDIPF_00138	gene	909	pyrD			
+CDCMDIPF_00138	CDS	909	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+CDCMDIPF_00139	gene	681	pyrF			
+CDCMDIPF_00139	CDS	681	pyrF			Orotidine 5'-phosphate decarboxylase
+CDCMDIPF_00140	gene	585				
+CDCMDIPF_00140	CDS	585				hypothetical protein
+CDCMDIPF_00141	gene	1917				
+CDCMDIPF_00141	CDS	1917				hypothetical protein
+CDCMDIPF_00142	gene	393	mauC			
+CDCMDIPF_00142	CDS	393	mauC			Amicyanin
+CDCMDIPF_00143	gene	843	IMPDH			
+CDCMDIPF_00143	CDS	843	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+CDCMDIPF_00144	gene	1062				
+CDCMDIPF_00144	CDS	1062				hypothetical protein
+CDCMDIPF_00145	gene	570				
+CDCMDIPF_00145	CDS	570				hypothetical protein
+CDCMDIPF_00146	gene	372				
+CDCMDIPF_00146	CDS	372				hypothetical protein
+CDCMDIPF_00147	gene	1167	dnaG			
+CDCMDIPF_00147	CDS	1167	dnaG	2.7.7.-		DNA primase
+CDCMDIPF_00148	gene	1053				
+CDCMDIPF_00148	CDS	1053				hypothetical protein
+CDCMDIPF_00149	gene	924	ttuA			
+CDCMDIPF_00149	CDS	924	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+CDCMDIPF_00150	gene	295				
+CDCMDIPF_00150	misc_RNA	295				Archaea_SRP
+CDCMDIPF_00151	gene	717	nth			
+CDCMDIPF_00151	CDS	717	nth	4.2.99.18		Endonuclease III
+CDCMDIPF_00152	gene	1119				
+CDCMDIPF_00152	CDS	1119				hypothetical protein
+CDCMDIPF_00153	gene	414	cdd			
+CDCMDIPF_00153	CDS	414	cdd	3.5.4.5	COG0295	Cytidine deaminase
+CDCMDIPF_00154	gene	342				
+CDCMDIPF_00154	CDS	342				hypothetical protein
+CDCMDIPF_00155	gene	651	hbd			
+CDCMDIPF_00155	CDS	651	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+CDCMDIPF_00156	gene	342				
+CDCMDIPF_00156	CDS	342				hypothetical protein
+CDCMDIPF_00157	gene	1188	fadJ_1			
+CDCMDIPF_00157	CDS	1188	fadJ_1	5.1.2.3		Fatty acid oxidation complex subunit alpha
+CDCMDIPF_00158	gene	525				
+CDCMDIPF_00158	CDS	525				hypothetical protein
+CDCMDIPF_00159	gene	801				
+CDCMDIPF_00159	CDS	801				hypothetical protein
+CDCMDIPF_00160	gene	363				
+CDCMDIPF_00160	CDS	363				hypothetical protein
+CDCMDIPF_00161	gene	1254	ubiB			
+CDCMDIPF_00161	CDS	1254	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+CDCMDIPF_00162	gene	348				
+CDCMDIPF_00162	CDS	348				hypothetical protein
+CDCMDIPF_00163	gene	525	yjjX			
+CDCMDIPF_00163	CDS	525	yjjX	3.6.1.-	COG1986	Inosine/xanthosine triphosphatase
+CDCMDIPF_00164	gene	1746	gsiB			
+CDCMDIPF_00164	CDS	1746	gsiB		COG0747	Glutathione-binding protein GsiB
+CDCMDIPF_00165	gene	1056	ddpB			
+CDCMDIPF_00165	CDS	1056	ddpB		COG0601	putative D,D-dipeptide transport system permease protein DdpB
+CDCMDIPF_00166	gene	411				
+CDCMDIPF_00166	CDS	411				hypothetical protein
+CDCMDIPF_00167	gene	507	ddpC			
+CDCMDIPF_00167	CDS	507	ddpC		COG1173	putative D,D-dipeptide transport system permease protein DdpC
+CDCMDIPF_00168	gene	978	oppD_1			
+CDCMDIPF_00168	CDS	978	oppD_1		COG0444	Oligopeptide transport ATP-binding protein OppD
+CDCMDIPF_00169	gene	990	ddpF			
+CDCMDIPF_00169	CDS	990	ddpF		COG1124	putative D,D-dipeptide transport ATP-binding protein DdpF
+CDCMDIPF_00170	gene	1266				
+CDCMDIPF_00170	CDS	1266				hypothetical protein
+CDCMDIPF_00171	gene	1227				
+CDCMDIPF_00171	CDS	1227				hypothetical protein
+CDCMDIPF_00172	gene	684				
+CDCMDIPF_00172	CDS	684				hypothetical protein
+CDCMDIPF_00173	gene	1212	argG			
+CDCMDIPF_00173	CDS	1212	argG	6.3.4.5		Argininosuccinate synthase
+CDCMDIPF_00174	gene	1350	argH_1			
+CDCMDIPF_00174	CDS	1350	argH_1	4.3.2.1	COG0165	Argininosuccinate lyase
+CDCMDIPF_00175	gene	858	lysX			
+CDCMDIPF_00175	CDS	858	lysX	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+CDCMDIPF_00176	gene	1053	lysY			
+CDCMDIPF_00176	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+CDCMDIPF_00177	gene	810	lysZ			
+CDCMDIPF_00177	CDS	810	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+CDCMDIPF_00178	gene	1203	lysJ			
+CDCMDIPF_00178	CDS	1203	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+CDCMDIPF_00179	gene	1101	lysK			
+CDCMDIPF_00179	CDS	1101	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+CDCMDIPF_00180	gene	1158	gerN			
+CDCMDIPF_00180	CDS	1158	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+CDCMDIPF_00181	gene	408				
+CDCMDIPF_00181	CDS	408				hypothetical protein
+CDCMDIPF_00182	gene	378				
+CDCMDIPF_00182	CDS	378				hypothetical protein
+CDCMDIPF_00183	gene	954				
+CDCMDIPF_00183	CDS	954				hypothetical protein
+CDCMDIPF_00184	gene	531				
+CDCMDIPF_00184	CDS	531				hypothetical protein
+CDCMDIPF_00185	gene	549	pdaD			
+CDCMDIPF_00185	CDS	549	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+CDCMDIPF_00186	gene	1074	glmM_1			
+CDCMDIPF_00186	CDS	1074	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+CDCMDIPF_00187	gene	1011				
+CDCMDIPF_00187	CDS	1011				hypothetical protein
+CDCMDIPF_00188	gene	708	kch			
+CDCMDIPF_00188	CDS	708	kch		COG1226	Voltage-gated potassium channel Kch
+CDCMDIPF_00189	gene	1098				
+CDCMDIPF_00189	CDS	1098				hypothetical protein
+CDCMDIPF_00190	gene	1671	groL_1			
+CDCMDIPF_00190	CDS	1671	groL_1		COG0459	60 kDa chaperonin
+CDCMDIPF_00191	gene	507				
+CDCMDIPF_00191	CDS	507				hypothetical protein
+CDCMDIPF_00192	gene	540				
+CDCMDIPF_00192	CDS	540				hypothetical protein
+CDCMDIPF_00193	gene	546				
+CDCMDIPF_00193	CDS	546				hypothetical protein
+CDCMDIPF_00194	gene	507				
+CDCMDIPF_00194	CDS	507				hypothetical protein
+CDCMDIPF_00195	gene	891	garR			
+CDCMDIPF_00195	CDS	891	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+CDCMDIPF_00196	gene	426				
+CDCMDIPF_00196	CDS	426				hypothetical protein
+CDCMDIPF_00197	gene	987	ilvE_1			
+CDCMDIPF_00197	CDS	987	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+CDCMDIPF_00198	gene	582	tdk			
+CDCMDIPF_00198	CDS	582	tdk	2.7.1.21	COG1435	Thymidine kinase
+CDCMDIPF_00199	gene	390				
+CDCMDIPF_00199	CDS	390				hypothetical protein
+CDCMDIPF_00200	gene	423				
+CDCMDIPF_00200	CDS	423				hypothetical protein
+CDCMDIPF_00201	gene	879				
+CDCMDIPF_00201	CDS	879				hypothetical protein
+CDCMDIPF_00202	gene	384				
+CDCMDIPF_00202	CDS	384				hypothetical protein
+CDCMDIPF_00203	gene	798				
+CDCMDIPF_00203	CDS	798				hypothetical protein
+CDCMDIPF_00204	gene	813				
+CDCMDIPF_00204	CDS	813				hypothetical protein
+CDCMDIPF_00205	gene	528				
+CDCMDIPF_00205	CDS	528				hypothetical protein
+CDCMDIPF_00206	gene	3201	ileS			
+CDCMDIPF_00206	CDS	3201	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+CDCMDIPF_00207	gene	708	queE			
+CDCMDIPF_00207	CDS	708	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+CDCMDIPF_00208	gene	573	bsdB			
+CDCMDIPF_00208	CDS	573	bsdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+CDCMDIPF_00209	gene	693				
+CDCMDIPF_00209	CDS	693				hypothetical protein
+CDCMDIPF_00210	gene	492				
+CDCMDIPF_00210	CDS	492				hypothetical protein
+CDCMDIPF_00211	gene	240				
+CDCMDIPF_00211	CDS	240				hypothetical protein
+CDCMDIPF_00212	gene	846				
+CDCMDIPF_00212	CDS	846				hypothetical protein
+CDCMDIPF_00213	gene	240				
+CDCMDIPF_00213	CDS	240				hypothetical protein
+CDCMDIPF_00214	gene	354				
+CDCMDIPF_00214	CDS	354				hypothetical protein
+CDCMDIPF_00215	gene	222				
+CDCMDIPF_00215	CDS	222				hypothetical protein
+CDCMDIPF_00216	gene	264	frdA_1			
+CDCMDIPF_00216	CDS	264	frdA_1	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+CDCMDIPF_00217	gene	468				
+CDCMDIPF_00217	CDS	468				hypothetical protein
+CDCMDIPF_00218	gene	327				
+CDCMDIPF_00218	CDS	327				hypothetical protein
+CDCMDIPF_00219	gene	786	frdB_1			
+CDCMDIPF_00219	CDS	786	frdB_1	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+CDCMDIPF_00220	gene	444				
+CDCMDIPF_00220	CDS	444				hypothetical protein
+CDCMDIPF_00221	gene	1161				
+CDCMDIPF_00221	CDS	1161				hypothetical protein
+CDCMDIPF_00222	gene	240	tusA			
+CDCMDIPF_00222	CDS	240	tusA			Sulfur carrier protein TusA
+CDCMDIPF_00223	gene	972				
+CDCMDIPF_00223	CDS	972		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+CDCMDIPF_00224	gene	1392				
+CDCMDIPF_00224	CDS	1392				hypothetical protein
+CDCMDIPF_00225	gene	1815				
+CDCMDIPF_00225	CDS	1815				hypothetical protein
+CDCMDIPF_00226	gene	1122	ugpC			
+CDCMDIPF_00226	CDS	1122	ugpC	7.6.2.10	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+CDCMDIPF_00227	gene	1023				
+CDCMDIPF_00227	CDS	1023				hypothetical protein
+CDCMDIPF_00228	gene	378				
+CDCMDIPF_00228	CDS	378				hypothetical protein
+CDCMDIPF_00229	gene	450				
+CDCMDIPF_00229	CDS	450				hypothetical protein
+CDCMDIPF_00230	gene	690				
+CDCMDIPF_00230	CDS	690				hypothetical protein
+CDCMDIPF_00231	gene	324				
+CDCMDIPF_00231	CDS	324				hypothetical protein
+CDCMDIPF_00232	gene	726				
+CDCMDIPF_00232	CDS	726				hypothetical protein
+CDCMDIPF_00233	gene	897	wbpE			
+CDCMDIPF_00233	CDS	897	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+CDCMDIPF_00234	gene	402				
+CDCMDIPF_00234	CDS	402				hypothetical protein
+CDCMDIPF_00235	gene	222				
+CDCMDIPF_00235	CDS	222				hypothetical protein
+CDCMDIPF_00236	gene	579	atpE			
+CDCMDIPF_00236	CDS	579	atpE			V-type proton ATPase subunit E
+CDCMDIPF_00237	gene	1068	atpC_1			
+CDCMDIPF_00237	CDS	1068	atpC_1			V-type ATP synthase subunit C
+CDCMDIPF_00238	gene	351	atpF			
+CDCMDIPF_00238	CDS	351	atpF			V-type ATP synthase subunit F
+CDCMDIPF_00239	gene	2538	atpA			
+CDCMDIPF_00239	CDS	2538	atpA	7.1.2.2		V-type ATP synthase alpha chain
+CDCMDIPF_00240	gene	1383	ntpB			
+CDCMDIPF_00240	CDS	1383	ntpB			V-type sodium ATPase subunit B
+CDCMDIPF_00241	gene	633	atpD			
+CDCMDIPF_00241	CDS	633	atpD		COG1394	V-type ATP synthase subunit D
+CDCMDIPF_00242	gene	333				
+CDCMDIPF_00242	CDS	333				hypothetical protein
+CDCMDIPF_00243	gene	2025				
+CDCMDIPF_00243	CDS	2025				hypothetical protein
+CDCMDIPF_00244	gene	1089	atpC_2			
+CDCMDIPF_00244	CDS	1089	atpC_2			V-type ATP synthase subunit C
+CDCMDIPF_00245	gene	279				
+CDCMDIPF_00245	CDS	279				hypothetical protein
+CDCMDIPF_00246	gene	864	gbh			
+CDCMDIPF_00246	CDS	864	gbh	3.5.3.7		Guanidinobutyrase
+CDCMDIPF_00247	gene	240				
+CDCMDIPF_00247	CDS	240				hypothetical protein
+CDCMDIPF_00248	gene	411				
+CDCMDIPF_00248	CDS	411				hypothetical protein
+CDCMDIPF_00249	gene	828	polB			
+CDCMDIPF_00249	CDS	828	polB	2.7.7.7	COG0417	DNA polymerase II
+CDCMDIPF_00250	gene	711				
+CDCMDIPF_00250	CDS	711				hypothetical protein
+CDCMDIPF_00251	gene	396	pgsA1			
+CDCMDIPF_00251	CDS	396	pgsA1	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+CDCMDIPF_00252	gene	303				
+CDCMDIPF_00252	CDS	303				hypothetical protein
+CDCMDIPF_00253	gene	276				
+CDCMDIPF_00253	CDS	276				hypothetical protein
+CDCMDIPF_00254	gene	354				
+CDCMDIPF_00254	CDS	354				hypothetical protein
+CDCMDIPF_00255	gene	576				
+CDCMDIPF_00255	CDS	576				hypothetical protein
+CDCMDIPF_00256	gene	630	cpdA			
+CDCMDIPF_00256	CDS	630	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CDCMDIPF_00257	gene	1146	glmU			
+CDCMDIPF_00257	CDS	1146	glmU	2.7.7.23		Bifunctional protein GlmU
+CDCMDIPF_00258	gene	708	cugP_1			
+CDCMDIPF_00258	CDS	708	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+CDCMDIPF_00259	gene	738				
+CDCMDIPF_00259	CDS	738				hypothetical protein
+CDCMDIPF_00260	gene	198	yisK			
+CDCMDIPF_00260	CDS	198	yisK		COG0179	putative protein YisK
+CDCMDIPF_00261	gene	735	ligB			
+CDCMDIPF_00261	CDS	735	ligB	6.5.1.1	COG1793	DNA ligase B
+CDCMDIPF_00262	gene	654				
+CDCMDIPF_00262	CDS	654				hypothetical protein
+CDCMDIPF_00263	gene	540				
+CDCMDIPF_00263	CDS	540				hypothetical protein
+CDCMDIPF_00264	gene	954	mtnA_1			
+CDCMDIPF_00264	CDS	954	mtnA_1	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+CDCMDIPF_00265	gene	261				
+CDCMDIPF_00265	CDS	261				hypothetical protein
+CDCMDIPF_00266	gene	681				
+CDCMDIPF_00266	CDS	681				hypothetical protein
+CDCMDIPF_00267	gene	606				
+CDCMDIPF_00267	CDS	606				hypothetical protein
+CDCMDIPF_00268	gene	357				
+CDCMDIPF_00268	CDS	357				hypothetical protein
+CDCMDIPF_00269	gene	645				
+CDCMDIPF_00269	CDS	645				hypothetical protein
+CDCMDIPF_00270	gene	942				
+CDCMDIPF_00270	CDS	942				hypothetical protein
+CDCMDIPF_00271	gene	456				
+CDCMDIPF_00271	CDS	456				hypothetical protein
+CDCMDIPF_00272	gene	1473	fumC			
+CDCMDIPF_00272	CDS	1473	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+CDCMDIPF_00273	gene	567				
+CDCMDIPF_00273	CDS	567				hypothetical protein
+CDCMDIPF_00274	gene	1029				
+CDCMDIPF_00274	CDS	1029		1.1.1.301		D-arabitol-phosphate dehydrogenase
+CDCMDIPF_00275	gene	201	lsrF			
+CDCMDIPF_00275	CDS	201	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+CDCMDIPF_00276	gene	585	apt_1			
+CDCMDIPF_00276	CDS	585	apt_1	2.4.2.7		Adenine phosphoribosyltransferase
+CDCMDIPF_00277	gene	1536	guaA_1			
+CDCMDIPF_00277	CDS	1536	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+CDCMDIPF_00278	gene	1065	lnrL_2			
+CDCMDIPF_00278	CDS	1065	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CDCMDIPF_00279	gene	900				
+CDCMDIPF_00279	CDS	900				hypothetical protein
+CDCMDIPF_00280	gene	1053	hypE			
+CDCMDIPF_00280	CDS	1053	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+CDCMDIPF_00281	gene	462				
+CDCMDIPF_00281	CDS	462				hypothetical protein
+CDCMDIPF_00282	gene	1278				
+CDCMDIPF_00282	CDS	1278				hypothetical protein
+CDCMDIPF_00283	gene	987	gdhA			
+CDCMDIPF_00283	CDS	987	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+CDCMDIPF_00284	gene	1059	aspS2			
+CDCMDIPF_00284	CDS	1059	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+CDCMDIPF_00285	gene	750				
+CDCMDIPF_00285	CDS	750				hypothetical protein
+CDCMDIPF_00286	gene	1239	mdtD_1			
+CDCMDIPF_00286	CDS	1239	mdtD_1			Putative multidrug resistance protein MdtD
+CDCMDIPF_00287	gene	513				
+CDCMDIPF_00287	CDS	513				hypothetical protein
+CDCMDIPF_00288	gene	489	C1-hpah			
+CDCMDIPF_00288	CDS	489	C1-hpah	1.5.1.36		p-hydroxyphenylacetate 3-hydroxylase, reductase component
+CDCMDIPF_00289	gene	498				
+CDCMDIPF_00289	CDS	498				hypothetical protein
+CDCMDIPF_00290	gene	1554	murJ			
+CDCMDIPF_00290	CDS	1554	murJ			lipid II flippase MurJ
+CDCMDIPF_00291	gene	729	ppm1			
+CDCMDIPF_00291	CDS	729	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+CDCMDIPF_00292	gene	588				
+CDCMDIPF_00292	CDS	588				hypothetical protein
+CDCMDIPF_00293	gene	360				
+CDCMDIPF_00293	CDS	360				hypothetical protein
+CDCMDIPF_00294	gene	369				
+CDCMDIPF_00294	CDS	369				hypothetical protein
+CDCMDIPF_00295	gene	342				
+CDCMDIPF_00295	CDS	342				hypothetical protein
+CDCMDIPF_00296	gene	255				
+CDCMDIPF_00296	CDS	255				hypothetical protein
+CDCMDIPF_00297	gene	318				
+CDCMDIPF_00297	CDS	318				hypothetical protein
+CDCMDIPF_00298	gene	558				
+CDCMDIPF_00298	CDS	558				hypothetical protein
+CDCMDIPF_00299	gene	915	qmcA			
+CDCMDIPF_00299	CDS	915	qmcA		COG0330	Protein QmcA
+CDCMDIPF_00300	gene	417				
+CDCMDIPF_00300	CDS	417				hypothetical protein
+CDCMDIPF_00301	gene	1266				
+CDCMDIPF_00301	CDS	1266				hypothetical protein
+CDCMDIPF_00302	gene	579				
+CDCMDIPF_00302	CDS	579				hypothetical protein
+CDCMDIPF_00303	gene	768				
+CDCMDIPF_00303	CDS	768				hypothetical protein
+CDCMDIPF_00304	gene	2502				
+CDCMDIPF_00304	CDS	2502				hypothetical protein
+CDCMDIPF_00305	gene	486				
+CDCMDIPF_00305	CDS	486				hypothetical protein
+CDCMDIPF_00306	gene	486				
+CDCMDIPF_00306	CDS	486				hypothetical protein
+CDCMDIPF_00307	gene	855				
+CDCMDIPF_00307	CDS	855				hypothetical protein
+CDCMDIPF_00308	gene	798				
+CDCMDIPF_00308	CDS	798				hypothetical protein
+CDCMDIPF_00309	gene	1026	glgC			
+CDCMDIPF_00309	CDS	1026	glgC	2.7.7.27		Glucose-1-phosphate adenylyltransferase
+CDCMDIPF_00310	gene	678				
+CDCMDIPF_00310	CDS	678				IS6 family transposase ISPfu2
+CDCMDIPF_00311	gene	360				
+CDCMDIPF_00311	CDS	360				hypothetical protein
+CDCMDIPF_00312	gene	240				
+CDCMDIPF_00312	CDS	240				hypothetical protein
+CDCMDIPF_00313	gene	489				
+CDCMDIPF_00313	CDS	489				hypothetical protein
+CDCMDIPF_00314	gene	294				
+CDCMDIPF_00314	CDS	294				hypothetical protein
+CDCMDIPF_00315	gene	927				
+CDCMDIPF_00315	CDS	927				hypothetical protein
+CDCMDIPF_00316	gene	1029				
+CDCMDIPF_00316	CDS	1029				hypothetical protein
+CDCMDIPF_00317	gene	1095				
+CDCMDIPF_00317	CDS	1095				hypothetical protein
+CDCMDIPF_00318	gene	450				
+CDCMDIPF_00318	CDS	450				hypothetical protein
+CDCMDIPF_00319	gene	768				
+CDCMDIPF_00319	CDS	768				hypothetical protein
+CDCMDIPF_00320	gene	1176				
+CDCMDIPF_00320	CDS	1176		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+CDCMDIPF_00321	gene	549				
+CDCMDIPF_00321	CDS	549		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+CDCMDIPF_00322	gene	1074	rtcA			
+CDCMDIPF_00322	CDS	1074	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+CDCMDIPF_00323	gene	603	prcB2			
+CDCMDIPF_00323	CDS	603	prcB2	3.4.25.1	COG0638	Proteasome subunit beta 2
+CDCMDIPF_00324	gene	636				
+CDCMDIPF_00324	CDS	636				hypothetical protein
+CDCMDIPF_00325	gene	639	nfi			
+CDCMDIPF_00325	CDS	639	nfi	3.1.21.7		Endonuclease V
+CDCMDIPF_00326	gene	642	hldE			
+CDCMDIPF_00326	CDS	642	hldE	2.7.7.70		Bifunctional protein HldE
+CDCMDIPF_00327	gene	456				
+CDCMDIPF_00327	CDS	456				hypothetical protein
+CDCMDIPF_00328	gene	945				
+CDCMDIPF_00328	CDS	945		1.1.1.81	COG0111	Hydroxypyruvate reductase
+CDCMDIPF_00329	gene	1323	nasB			
+CDCMDIPF_00329	CDS	1323	nasB		COG1251	Assimilatory nitrate reductase electron transfer subunit
+CDCMDIPF_00330	gene	1200	ychF			
+CDCMDIPF_00330	CDS	1200	ychF		COG0012	Ribosome-binding ATPase YchF
+CDCMDIPF_00331	gene	624				
+CDCMDIPF_00331	CDS	624				hypothetical protein
+CDCMDIPF_00332	gene	1275	serS			
+CDCMDIPF_00332	CDS	1275	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CDCMDIPF_00333	gene	249				
+CDCMDIPF_00333	CDS	249				hypothetical protein
+CDCMDIPF_00334	gene	1395				
+CDCMDIPF_00334	CDS	1395				hypothetical protein
+CDCMDIPF_00335	gene	450				
+CDCMDIPF_00335	CDS	450				hypothetical protein
+CDCMDIPF_00336	gene	558				
+CDCMDIPF_00336	CDS	558		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+CDCMDIPF_00337	gene	627				
+CDCMDIPF_00337	CDS	627				hypothetical protein
+CDCMDIPF_00338	gene	999	tsaD			
+CDCMDIPF_00338	CDS	999	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+CDCMDIPF_00339	gene	417				
+CDCMDIPF_00339	CDS	417				hypothetical protein
+CDCMDIPF_00340	gene	570				
+CDCMDIPF_00340	CDS	570				hypothetical protein
+CDCMDIPF_00341	gene	237				
+CDCMDIPF_00341	CDS	237				hypothetical protein
+CDCMDIPF_00342	gene	270	acyP			
+CDCMDIPF_00342	CDS	270	acyP	3.6.1.7	COG1254	Acylphosphatase
+CDCMDIPF_00343	gene	414	lrp_2			
+CDCMDIPF_00343	CDS	414	lrp_2		COG1522	Leucine-responsive regulatory protein
+CDCMDIPF_00344	gene	429				
+CDCMDIPF_00344	CDS	429				hypothetical protein
+CDCMDIPF_00345	gene	669	pcm			
+CDCMDIPF_00345	CDS	669	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+CDCMDIPF_00346	gene	1026				
+CDCMDIPF_00346	CDS	1026				hypothetical protein
+CDCMDIPF_00347	gene	264				
+CDCMDIPF_00347	CDS	264				hypothetical protein
+CDCMDIPF_00348	gene	1353	ftsH_1			
+CDCMDIPF_00348	CDS	1353	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CDCMDIPF_00349	gene	279				
+CDCMDIPF_00349	CDS	279				hypothetical protein
+CDCMDIPF_00350	gene	1176				
+CDCMDIPF_00350	CDS	1176				hypothetical protein
+CDCMDIPF_00351	gene	609				
+CDCMDIPF_00351	CDS	609				hypothetical protein
+CDCMDIPF_00352	gene	363				
+CDCMDIPF_00352	CDS	363				hypothetical protein
+CDCMDIPF_00353	gene	1098	truD			
+CDCMDIPF_00353	CDS	1098	truD	5.4.99.27	COG0585	tRNA pseudouridine synthase D
+CDCMDIPF_00354	gene	1053				
+CDCMDIPF_00354	CDS	1053				hypothetical protein
+CDCMDIPF_00355	gene	240				
+CDCMDIPF_00355	CDS	240				hypothetical protein
+CDCMDIPF_00356	gene	618	rnr			
+CDCMDIPF_00356	CDS	618	rnr	3.1.13.1		Ribonuclease R
+CDCMDIPF_00357	gene	372				
+CDCMDIPF_00357	CDS	372				hypothetical protein
+CDCMDIPF_00358	gene	1251	tufA			
+CDCMDIPF_00358	CDS	1251	tufA		COG0050	Elongation factor Tu
+CDCMDIPF_00359	gene	396				
+CDCMDIPF_00359	CDS	396				hypothetical protein
+CDCMDIPF_00360	gene	1020	fgd_1			
+CDCMDIPF_00360	CDS	1020	fgd_1	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+CDCMDIPF_00361	gene	1797	infB			
+CDCMDIPF_00361	CDS	1797	infB			Translation initiation factor IF-2
+CDCMDIPF_00362	gene	411	ndk			
+CDCMDIPF_00362	CDS	411	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+CDCMDIPF_00363	gene	216				
+CDCMDIPF_00363	CDS	216				hypothetical protein
+CDCMDIPF_00364	gene	390				
+CDCMDIPF_00364	CDS	390				hypothetical protein
+CDCMDIPF_00365	gene	996	fgd_2			
+CDCMDIPF_00365	CDS	996	fgd_2	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+CDCMDIPF_00366	gene	1299				
+CDCMDIPF_00366	CDS	1299				hypothetical protein
+CDCMDIPF_00367	gene	504				
+CDCMDIPF_00367	CDS	504				hypothetical protein
+CDCMDIPF_00368	gene	786				
+CDCMDIPF_00368	CDS	786				hypothetical protein
+CDCMDIPF_00369	gene	957	hldD			
+CDCMDIPF_00369	CDS	957	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+CDCMDIPF_00370	gene	279				
+CDCMDIPF_00370	CDS	279				hypothetical protein
+CDCMDIPF_00371	gene	1206	trpB_2			
+CDCMDIPF_00371	CDS	1206	trpB_2	4.2.1.20		Tryptophan synthase beta chain
+CDCMDIPF_00372	gene	951	thrB_1			
+CDCMDIPF_00372	CDS	951	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+CDCMDIPF_00373	gene	648	kynB_1			
+CDCMDIPF_00373	CDS	648	kynB_1	3.5.1.9	COG1878	Kynurenine formamidase
+CDCMDIPF_00374	gene	1614				
+CDCMDIPF_00374	CDS	1614				hypothetical protein
+CDCMDIPF_00375	gene	948				
+CDCMDIPF_00375	CDS	948				hypothetical protein
+CDCMDIPF_00376	gene	495				
+CDCMDIPF_00376	CDS	495				hypothetical protein
+CDCMDIPF_00377	gene	741	livF			
+CDCMDIPF_00377	CDS	741	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+CDCMDIPF_00378	gene	573	artM			
+CDCMDIPF_00378	CDS	573	artM		COG1126	Arginine transport ATP-binding protein ArtM
+CDCMDIPF_00379	gene	1413				
+CDCMDIPF_00379	CDS	1413				hypothetical protein
+CDCMDIPF_00380	gene	735				
+CDCMDIPF_00380	CDS	735				hypothetical protein
+CDCMDIPF_00381	gene	666	gltD			
+CDCMDIPF_00381	CDS	666	gltD	1.4.1.13		Glutamate synthase [NADPH] small chain
+CDCMDIPF_00382	gene	840	sfnG			
+CDCMDIPF_00382	CDS	840	sfnG	1.14.14.35		FMNH(2)-dependent dimethylsulfone monooxygenase
+CDCMDIPF_00383	gene	1122	adhE			
+CDCMDIPF_00383	CDS	1122	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+CDCMDIPF_00384	gene	405				
+CDCMDIPF_00384	CDS	405				hypothetical protein
+CDCMDIPF_00385	gene	1347				
+CDCMDIPF_00385	CDS	1347		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+CDCMDIPF_00386	gene	1350	glpK			
+CDCMDIPF_00386	CDS	1350	glpK	2.7.1.30	COG0554	Glycerol kinase
+CDCMDIPF_00387	gene	1095				
+CDCMDIPF_00387	CDS	1095				putative protein MG039 
+CDCMDIPF_00388	gene	1389				
+CDCMDIPF_00388	CDS	1389				hypothetical protein
+CDCMDIPF_00389	gene	882	melD			
+CDCMDIPF_00389	CDS	882	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+CDCMDIPF_00390	gene	873	dasC			
+CDCMDIPF_00390	CDS	873	dasC		COG0395	Diacetylchitobiose uptake system permease protein DasC
+CDCMDIPF_00391	gene	1881				
+CDCMDIPF_00391	CDS	1881				hypothetical protein
+CDCMDIPF_00392	gene	1095	msmX			
+CDCMDIPF_00392	CDS	1095	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+CDCMDIPF_00393	gene	1011				
+CDCMDIPF_00393	CDS	1011				hypothetical protein
+CDCMDIPF_00394	gene	1515	quiP			
+CDCMDIPF_00394	CDS	1515	quiP	3.5.1.97	COG2366	Acyl-homoserine lactone acylase QuiP
+CDCMDIPF_00395	gene	366				
+CDCMDIPF_00395	CDS	366				hypothetical protein
+CDCMDIPF_00396	gene	666				
+CDCMDIPF_00396	CDS	666				hypothetical protein
+CDCMDIPF_00397	gene	1974				
+CDCMDIPF_00397	CDS	1974				hypothetical protein
+CDCMDIPF_00398	gene	1626	vgb_1			
+CDCMDIPF_00398	CDS	1626	vgb_1	4.2.99.-		Virginiamycin B lyase
+CDCMDIPF_00399	gene	1125	vgb_2			
+CDCMDIPF_00399	CDS	1125	vgb_2	4.2.99.-		Virginiamycin B lyase
+CDCMDIPF_00400	gene	333				
+CDCMDIPF_00400	CDS	333				hypothetical protein
+CDCMDIPF_00401	gene	660	gcvH_1			
+CDCMDIPF_00401	CDS	660	gcvH_1			Glycine cleavage system H protein
+CDCMDIPF_00402	gene	1062				
+CDCMDIPF_00402	CDS	1062				hypothetical protein
+CDCMDIPF_00403	gene	291				
+CDCMDIPF_00403	CDS	291				hypothetical protein
+CDCMDIPF_00404	gene	1203	cysS			
+CDCMDIPF_00404	CDS	1203	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CDCMDIPF_00405	gene	1317				
+CDCMDIPF_00405	CDS	1317				hypothetical protein
+CDCMDIPF_00406	gene	330				
+CDCMDIPF_00406	CDS	330				hypothetical protein
+CDCMDIPF_00407	gene	1581				
+CDCMDIPF_00407	CDS	1581				hypothetical protein
+CDCMDIPF_00408	gene	1590	citB			
+CDCMDIPF_00408	CDS	1590	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+CDCMDIPF_00409	gene	1017	acn			
+CDCMDIPF_00409	CDS	1017	acn	4.2.1.3	COG1048	Aconitate hydratase A
+CDCMDIPF_00410	gene	429				
+CDCMDIPF_00410	CDS	429				hypothetical protein
+CDCMDIPF_00411	gene	2079				
+CDCMDIPF_00411	CDS	2079				hypothetical protein
+CDCMDIPF_00412	gene	279				
+CDCMDIPF_00412	CDS	279				hypothetical protein
+CDCMDIPF_00413	gene	276				
+CDCMDIPF_00413	CDS	276				hypothetical protein
+CDCMDIPF_00414	gene	699				
+CDCMDIPF_00414	CDS	699				hypothetical protein
+CDCMDIPF_00415	gene	438				
+CDCMDIPF_00415	CDS	438				hypothetical protein
+CDCMDIPF_00416	gene	378				
+CDCMDIPF_00416	CDS	378				hypothetical protein
+CDCMDIPF_00417	gene	762				
+CDCMDIPF_00417	CDS	762				hypothetical protein
+CDCMDIPF_00418	gene	570				
+CDCMDIPF_00418	CDS	570				hypothetical protein
+CDCMDIPF_00419	gene	1659	moaA_1			
+CDCMDIPF_00419	CDS	1659	moaA_1			GTP 3',8-cyclase
+CDCMDIPF_00420	gene	282	tatA			
+CDCMDIPF_00420	CDS	282	tatA			Sec-independent protein translocase protein TatA
+CDCMDIPF_00421	gene	834	tatC			
+CDCMDIPF_00421	CDS	834	tatC		COG0805	Sec-independent protein translocase protein TatC
+CDCMDIPF_00422	gene	582	pncA			
+CDCMDIPF_00422	CDS	582	pncA	3.5.1.19	COG1335	Nicotinamidase
+CDCMDIPF_00423	gene	1212				
+CDCMDIPF_00423	CDS	1212				hypothetical protein
+CDCMDIPF_00424	gene	579	tmung			
+CDCMDIPF_00424	CDS	579	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+CDCMDIPF_00425	gene	390				
+CDCMDIPF_00425	CDS	390				hypothetical protein
+CDCMDIPF_00426	gene	1635	groL_2			
+CDCMDIPF_00426	CDS	1635	groL_2			60 kDa chaperonin
+CDCMDIPF_00427	gene	402				
+CDCMDIPF_00427	CDS	402				hypothetical protein
+CDCMDIPF_00428	gene	870				
+CDCMDIPF_00428	CDS	870				hypothetical protein
+CDCMDIPF_00429	gene	552	plaP			
+CDCMDIPF_00429	CDS	552	plaP		COG0531	Low-affinity putrescine importer PlaP
+CDCMDIPF_00430	gene	1410	metG_1			
+CDCMDIPF_00430	CDS	1410	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+CDCMDIPF_00431	gene	432				
+CDCMDIPF_00431	CDS	432				hypothetical protein
+CDCMDIPF_00432	gene	993	trxB			
+CDCMDIPF_00432	CDS	993	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+CDCMDIPF_00433	gene	1107	dinB			
+CDCMDIPF_00433	CDS	1107	dinB	2.7.7.7		DNA polymerase IV
+CDCMDIPF_00434	gene	804				
+CDCMDIPF_00434	CDS	804				hypothetical protein
+CDCMDIPF_00435	gene	1323	yjeH			
+CDCMDIPF_00435	CDS	1323	yjeH		COG0531	L-methionine/branched-chain amino acid exporter YjeH
+CDCMDIPF_00436	gene	1773	polX			
+CDCMDIPF_00436	CDS	1773	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+CDCMDIPF_00437	gene	1581	lcfB			
+CDCMDIPF_00437	CDS	1581	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+CDCMDIPF_00438	gene	741	fabG_1			
+CDCMDIPF_00438	CDS	741	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CDCMDIPF_00439	gene	849	fgd_3			
+CDCMDIPF_00439	CDS	849	fgd_3	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+CDCMDIPF_00440	gene	222				
+CDCMDIPF_00440	CDS	222				hypothetical protein
+CDCMDIPF_00441	gene	1164				
+CDCMDIPF_00441	CDS	1164				hypothetical protein
+CDCMDIPF_00442	gene	2481	malT			
+CDCMDIPF_00442	CDS	2481	malT			HTH-type transcriptional regulator MalT
+CDCMDIPF_00443	gene	588				
+CDCMDIPF_00443	CDS	588				hypothetical protein
+CDCMDIPF_00444	gene	1482	ubiD_1			
+CDCMDIPF_00444	CDS	1482	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+CDCMDIPF_00445	gene	849	btuF			
+CDCMDIPF_00445	CDS	849	btuF			Vitamin B12-binding protein
+CDCMDIPF_00446	gene	1344	plcC			
+CDCMDIPF_00446	CDS	1344	plcC	3.1.4.3	COG3511	Phospholipase C 3
+CDCMDIPF_00447	gene	1515				
+CDCMDIPF_00447	CDS	1515				hypothetical protein
+CDCMDIPF_00448	gene	1332	uvrB			
+CDCMDIPF_00448	CDS	1332	uvrB			UvrABC system protein B
+CDCMDIPF_00449	gene	342				
+CDCMDIPF_00449	CDS	342				hypothetical protein
+CDCMDIPF_00450	gene	873	cutM			
+CDCMDIPF_00450	CDS	873	cutM	1.2.5.3		Carbon monoxide dehydrogenase medium chain
+CDCMDIPF_00451	gene	519	cutS			
+CDCMDIPF_00451	CDS	519	cutS	1.2.5.3		Carbon monoxide dehydrogenase small chain
+CDCMDIPF_00452	gene	444				
+CDCMDIPF_00452	CDS	444				hypothetical protein
+CDCMDIPF_00453	gene	648	ctaC			
+CDCMDIPF_00453	CDS	648	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+CDCMDIPF_00454	gene	2364				
+CDCMDIPF_00454	CDS	2364				hypothetical protein
+CDCMDIPF_00455	gene	267				
+CDCMDIPF_00455	CDS	267				hypothetical protein
+CDCMDIPF_00456	gene	774	petE			
+CDCMDIPF_00456	CDS	774	petE			Plastocyanin
+CDCMDIPF_00457	gene	477	ctaA			
+CDCMDIPF_00457	CDS	477	ctaA	1.3.-.-		Heme A synthase
+CDCMDIPF_00458	gene	807				
+CDCMDIPF_00458	CDS	807				hypothetical protein
+CDCMDIPF_00459	gene	498				
+CDCMDIPF_00459	CDS	498				hypothetical protein
+CDCMDIPF_00460	gene	465	bcp_1			
+CDCMDIPF_00460	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin
+CDCMDIPF_00461	gene	462	bcp_2			
+CDCMDIPF_00461	CDS	462	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+CDCMDIPF_00462	gene	696	thiI_1			
+CDCMDIPF_00462	CDS	696	thiI_1	2.8.1.4		tRNA sulfurtransferase
+CDCMDIPF_00463	gene	1149	murG			
+CDCMDIPF_00463	CDS	1149	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CDCMDIPF_00464	gene	342				
+CDCMDIPF_00464	CDS	342				hypothetical protein
+CDCMDIPF_00465	gene	807	hutU_1			
+CDCMDIPF_00465	CDS	807	hutU_1	4.2.1.49	COG2987	Urocanate hydratase
+CDCMDIPF_00466	gene	489	hutU_2			
+CDCMDIPF_00466	CDS	489	hutU_2	4.2.1.49		Urocanate hydratase
+CDCMDIPF_00467	gene	1206				
+CDCMDIPF_00467	CDS	1206				hypothetical protein
+CDCMDIPF_00468	gene	1410				
+CDCMDIPF_00468	CDS	1410				hypothetical protein
+CDCMDIPF_00469	gene	2592				
+CDCMDIPF_00469	CDS	2592				hypothetical protein
+CDCMDIPF_00470	gene	981				
+CDCMDIPF_00470	CDS	981				hypothetical protein
+CDCMDIPF_00471	gene	1242				
+CDCMDIPF_00471	CDS	1242				hypothetical protein
+CDCMDIPF_00472	gene	1644				
+CDCMDIPF_00472	CDS	1644		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+CDCMDIPF_00473	gene	1572				
+CDCMDIPF_00473	CDS	1572				hypothetical protein
+CDCMDIPF_00474	gene	963				
+CDCMDIPF_00474	CDS	963				hypothetical protein
+CDCMDIPF_00475	gene	225				
+CDCMDIPF_00475	CDS	225				hypothetical protein
+CDCMDIPF_00476	gene	1269	gcvPB			
+CDCMDIPF_00476	CDS	1269	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+CDCMDIPF_00477	gene	594				
+CDCMDIPF_00477	CDS	594				hypothetical protein
+CDCMDIPF_00478	gene	600	cysA_1			
+CDCMDIPF_00478	CDS	600	cysA_1	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+CDCMDIPF_00479	gene	1608				
+CDCMDIPF_00479	CDS	1608				hypothetical protein
+CDCMDIPF_00480	gene	447				
+CDCMDIPF_00480	CDS	447				hypothetical protein
+CDCMDIPF_00481	gene	696				
+CDCMDIPF_00481	CDS	696				hypothetical protein
+CDCMDIPF_00482	gene	1101				
+CDCMDIPF_00482	CDS	1101				hypothetical protein
+CDCMDIPF_00483	gene	480	cheB			
+CDCMDIPF_00483	CDS	480	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+CDCMDIPF_00484	gene	327				
+CDCMDIPF_00484	CDS	327				hypothetical protein
+CDCMDIPF_00485	gene	1071	ywlC			
+CDCMDIPF_00485	CDS	1071	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+CDCMDIPF_00486	gene	1728				
+CDCMDIPF_00486	CDS	1728				hypothetical protein
+CDCMDIPF_00487	gene	339				
+CDCMDIPF_00487	CDS	339				hypothetical protein
+CDCMDIPF_00488	gene	975				
+CDCMDIPF_00488	CDS	975				hypothetical protein
+CDCMDIPF_00489	gene	543				
+CDCMDIPF_00489	CDS	543				hypothetical protein
+CDCMDIPF_00490	gene	339				
+CDCMDIPF_00490	CDS	339				hypothetical protein
+CDCMDIPF_00491	gene	381				
+CDCMDIPF_00491	CDS	381				hypothetical protein
+CDCMDIPF_00492	gene	279				
+CDCMDIPF_00492	CDS	279				hypothetical protein
+CDCMDIPF_00493	gene	522				
+CDCMDIPF_00493	CDS	522				hypothetical protein
+CDCMDIPF_00494	gene	432				
+CDCMDIPF_00494	CDS	432				hypothetical protein
+CDCMDIPF_00495	gene	297				
+CDCMDIPF_00495	CDS	297				hypothetical protein
+CDCMDIPF_00496	gene	750				
+CDCMDIPF_00496	CDS	750				hypothetical protein
+CDCMDIPF_00497	gene	444				
+CDCMDIPF_00497	CDS	444				hypothetical protein
+CDCMDIPF_00498	gene	330				
+CDCMDIPF_00498	CDS	330				hypothetical protein
+CDCMDIPF_00499	gene	552				
+CDCMDIPF_00499	CDS	552				hypothetical protein
+CDCMDIPF_00500	gene	411				
+CDCMDIPF_00500	CDS	411				hypothetical protein
+CDCMDIPF_00501	gene	810				
+CDCMDIPF_00501	CDS	810				hypothetical protein
+CDCMDIPF_00502	gene	1278	eno			
+CDCMDIPF_00502	CDS	1278	eno	4.2.1.11	COG0148	Enolase
+CDCMDIPF_00503	gene	1182	rspA			
+CDCMDIPF_00503	CDS	1182	rspA	4.2.1.-	COG4948	D-galactonate dehydratase family member RspA
+CDCMDIPF_00504	gene	1422	ttuE			
+CDCMDIPF_00504	CDS	1422	ttuE	2.7.1.40		Pyruvate kinase
+CDCMDIPF_00505	gene	1362				
+CDCMDIPF_00505	CDS	1362		2.7.1.165	COG2379	D-glycerate 2-kinase
+CDCMDIPF_00506	gene	918				
+CDCMDIPF_00506	CDS	918				hypothetical protein
+CDCMDIPF_00507	gene	870				
+CDCMDIPF_00507	CDS	870				hypothetical protein
+CDCMDIPF_00508	gene	1491	aldHT			
+CDCMDIPF_00508	CDS	1491	aldHT	1.2.1.5		Aldehyde dehydrogenase, thermostable
+CDCMDIPF_00509	gene	1341	spuC			
+CDCMDIPF_00509	CDS	1341	spuC	2.6.1.113	COG0161	Putrescine--pyruvate aminotransferase
+CDCMDIPF_00510	gene	1197	uctC			
+CDCMDIPF_00510	CDS	1197	uctC	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+CDCMDIPF_00511	gene	465	moaE1			
+CDCMDIPF_00511	CDS	465	moaE1	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit 1
+CDCMDIPF_00512	gene	918	mdtD_2			
+CDCMDIPF_00512	CDS	918	mdtD_2			Putative multidrug resistance protein MdtD
+CDCMDIPF_00513	gene	321	ribZ			
+CDCMDIPF_00513	CDS	321	ribZ			Riboflavin transporter RibZ
+CDCMDIPF_00514	gene	249	moaD			
+CDCMDIPF_00514	CDS	249	moaD			Molybdopterin synthase sulfur carrier subunit
+CDCMDIPF_00515	gene	1065	moaA_2			
+CDCMDIPF_00515	CDS	1065	moaA_2	4.1.99.22		GTP 3',8-cyclase
+CDCMDIPF_00516	gene	531				
+CDCMDIPF_00516	CDS	531				hypothetical protein
+CDCMDIPF_00517	gene	846				
+CDCMDIPF_00517	CDS	846				hypothetical protein
+CDCMDIPF_00518	gene	603	pucB			
+CDCMDIPF_00518	CDS	603	pucB		COG2068	Purine catabolism protein PucB
+CDCMDIPF_00519	gene	1200				
+CDCMDIPF_00519	CDS	1200				hypothetical protein
+CDCMDIPF_00520	gene	2349	cutL			
+CDCMDIPF_00520	CDS	2349	cutL	1.2.5.3		Carbon monoxide dehydrogenase large chain
+CDCMDIPF_00521	gene	1164				
+CDCMDIPF_00521	CDS	1164				hypothetical protein
+CDCMDIPF_00522	gene	1383	gndA			
+CDCMDIPF_00522	CDS	1383	gndA	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+CDCMDIPF_00523	gene	831	yajO			
+CDCMDIPF_00523	CDS	831	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+CDCMDIPF_00524	gene	1326	arcA			
+CDCMDIPF_00524	CDS	1326	arcA	3.5.3.6		Arginine deiminase
+CDCMDIPF_00525	gene	717	deoD			
+CDCMDIPF_00525	CDS	717	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+CDCMDIPF_00526	gene	321				
+CDCMDIPF_00526	CDS	321				hypothetical protein
+CDCMDIPF_00527	gene	2205	dxs			
+CDCMDIPF_00527	CDS	2205	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+CDCMDIPF_00528	gene	387				
+CDCMDIPF_00528	CDS	387				hypothetical protein
+CDCMDIPF_00529	gene	576				
+CDCMDIPF_00529	CDS	576				hypothetical protein
+CDCMDIPF_00530	gene	834	topA_1			
+CDCMDIPF_00530	CDS	834	topA_1	5.6.2.1	COG0550	DNA topoisomerase 1
+CDCMDIPF_00531	gene	825	topA_2			
+CDCMDIPF_00531	CDS	825	topA_2	5.6.2.1		DNA topoisomerase 1
+CDCMDIPF_00532	gene	708	hppA			
+CDCMDIPF_00532	CDS	708	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+CDCMDIPF_00533	gene	828	hppA1			
+CDCMDIPF_00533	CDS	828	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+CDCMDIPF_00534	gene	552	yraA			
+CDCMDIPF_00534	CDS	552	yraA	3.2.-.-	COG0693	Putative cysteine protease YraA
+CDCMDIPF_00535	gene	273				
+CDCMDIPF_00535	CDS	273				hypothetical protein
+CDCMDIPF_00536	gene	852				
+CDCMDIPF_00536	CDS	852				hypothetical protein
+CDCMDIPF_00537	gene	1437	ndhB_1			
+CDCMDIPF_00537	CDS	1437	ndhB_1	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+CDCMDIPF_00538	gene	1449	nuoM			
+CDCMDIPF_00538	CDS	1449	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+CDCMDIPF_00539	gene	2070	ndhB_2			
+CDCMDIPF_00539	CDS	2070	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+CDCMDIPF_00540	gene	1515	mrpA			
+CDCMDIPF_00540	CDS	1515	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+CDCMDIPF_00541	gene	309				
+CDCMDIPF_00541	CDS	309		7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit 11
+CDCMDIPF_00542	gene	495				
+CDCMDIPF_00542	CDS	495				hypothetical protein
+CDCMDIPF_00543	gene	1116	ndhA			
+CDCMDIPF_00543	CDS	1116	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+CDCMDIPF_00544	gene	360	ndhC_1			
+CDCMDIPF_00544	CDS	360	ndhC_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+CDCMDIPF_00545	gene	1032				
+CDCMDIPF_00545	CDS	1032				hypothetical protein
+CDCMDIPF_00546	gene	1179	mdtG			
+CDCMDIPF_00546	CDS	1179	mdtG			Multidrug resistance protein MdtG
+CDCMDIPF_00547	gene	1398				
+CDCMDIPF_00547	CDS	1398		5.1.1.21	COG0160	Isoleucine 2-epimerase
+CDCMDIPF_00548	gene	636	alkA			
+CDCMDIPF_00548	CDS	636	alkA		COG0122	putative bifunctional transcriptional activator/DNA repair enzyme AlkA
+CDCMDIPF_00549	gene	432	hrp1_1			
+CDCMDIPF_00549	CDS	432	hrp1_1		COG0517	Hypoxic response protein 1
+CDCMDIPF_00550	gene	447				
+CDCMDIPF_00550	CDS	447				hypothetical protein
+CDCMDIPF_00551	gene	387				
+CDCMDIPF_00551	CDS	387				hypothetical protein
+CDCMDIPF_00552	gene	429				
+CDCMDIPF_00552	CDS	429				hypothetical protein
+CDCMDIPF_00553	gene	774				
+CDCMDIPF_00553	CDS	774				hypothetical protein
+CDCMDIPF_00554	gene	507				
+CDCMDIPF_00554	CDS	507				hypothetical protein
+CDCMDIPF_00555	gene	681				
+CDCMDIPF_00555	CDS	681				hypothetical protein
+CDCMDIPF_00556	gene	297				
+CDCMDIPF_00556	CDS	297				hypothetical protein
+CDCMDIPF_00557	gene	702				
+CDCMDIPF_00557	CDS	702				hypothetical protein
+CDCMDIPF_00558	gene	627				
+CDCMDIPF_00558	CDS	627				hypothetical protein
+CDCMDIPF_00559	gene	597				
+CDCMDIPF_00559	CDS	597				hypothetical protein
+CDCMDIPF_00560	gene	381				
+CDCMDIPF_00560	CDS	381				hypothetical protein
+CDCMDIPF_00561	gene	336	trxA			
+CDCMDIPF_00561	CDS	336	trxA		COG0526	Thioredoxin
+CDCMDIPF_00562	gene	1371				
+CDCMDIPF_00562	CDS	1371		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+CDCMDIPF_00563	gene	417				
+CDCMDIPF_00563	CDS	417		3.1.-.-	COG0824	Putative esterase
+CDCMDIPF_00564	gene	1770	ade			
+CDCMDIPF_00564	CDS	1770	ade	3.5.4.2	COG1001	Adenine deaminase
+CDCMDIPF_00565	gene	876	atzA			
+CDCMDIPF_00565	CDS	876	atzA	3.8.1.8		Atrazine chlorohydrolase
+CDCMDIPF_00566	gene	2289	cdhA			
+CDCMDIPF_00566	CDS	2289	cdhA	1.17.5.2		Caffeine dehydrogenase subunit alpha
+CDCMDIPF_00567	gene	885	pgdA			
+CDCMDIPF_00567	CDS	885	pgdA	3.5.1.-		Peptidoglycan deacetylase
+CDCMDIPF_00568	gene	924	pyrB			
+CDCMDIPF_00568	CDS	924	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CDCMDIPF_00569	gene	429	pyrI			
+CDCMDIPF_00569	CDS	429	pyrI			Aspartate carbamoyltransferase regulatory chain
+CDCMDIPF_00570	gene	372	pcp			
+CDCMDIPF_00570	CDS	372	pcp	3.4.19.3	COG2039	Pyrrolidone-carboxylate peptidase
+CDCMDIPF_00571	gene	1218	codA			
+CDCMDIPF_00571	CDS	1218	codA	3.5.4.1	COG0402	Cytosine deaminase
+CDCMDIPF_00572	gene	1404	lhyD			
+CDCMDIPF_00572	CDS	1404	lhyD	3.5.2.-		L-hydantoinase
+CDCMDIPF_00573	gene	510				
+CDCMDIPF_00573	CDS	510				hypothetical protein
+CDCMDIPF_00574	gene	603				
+CDCMDIPF_00574	CDS	603				hypothetical protein
+CDCMDIPF_00575	gene	951				
+CDCMDIPF_00575	CDS	951				hypothetical protein
+CDCMDIPF_00576	gene	1047	luxA			
+CDCMDIPF_00576	CDS	1047	luxA	1.14.14.3		Alkanal monooxygenase alpha chain
+CDCMDIPF_00577	gene	978				
+CDCMDIPF_00577	CDS	978				hypothetical protein
+CDCMDIPF_00578	gene	891				
+CDCMDIPF_00578	CDS	891				hypothetical protein
+CDCMDIPF_00579	gene	261				
+CDCMDIPF_00579	CDS	261				hypothetical protein
+CDCMDIPF_00580	gene	558				
+CDCMDIPF_00580	CDS	558				hypothetical protein
+CDCMDIPF_00581	gene	405				
+CDCMDIPF_00581	CDS	405				hypothetical protein
+CDCMDIPF_00582	gene	1017				
+CDCMDIPF_00582	CDS	1017				hypothetical protein
+CDCMDIPF_00583	gene	381	gloA			
+CDCMDIPF_00583	CDS	381	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+CDCMDIPF_00584	gene	1665	pucI_1			
+CDCMDIPF_00584	CDS	1665	pucI_1		COG1953	putative allantoin permease
+CDCMDIPF_00585	gene	732	folE2			
+CDCMDIPF_00585	CDS	732	folE2	3.5.4.16		GTP cyclohydrolase FolE2
+CDCMDIPF_00586	gene	633	queC_1			
+CDCMDIPF_00586	CDS	633	queC_1	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+CDCMDIPF_00587	gene	519				
+CDCMDIPF_00587	CDS	519				hypothetical protein
+CDCMDIPF_00588	gene	744	fabG_2			
+CDCMDIPF_00588	CDS	744	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CDCMDIPF_00589	gene	1089	dppB			
+CDCMDIPF_00589	CDS	1089	dppB		COG0601	Dipeptide transport system permease protein DppB
+CDCMDIPF_00590	gene	921	dppC			
+CDCMDIPF_00590	CDS	921	dppC		COG1173	Dipeptide transport system permease protein DppC
+CDCMDIPF_00591	gene	969	oppD_2			
+CDCMDIPF_00591	CDS	969	oppD_2		COG0444	Oligopeptide transport ATP-binding protein OppD
+CDCMDIPF_00592	gene	1038	oppF			
+CDCMDIPF_00592	CDS	1038	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+CDCMDIPF_00593	gene	372				
+CDCMDIPF_00593	CDS	372				hypothetical protein
+CDCMDIPF_00594	gene	1881				
+CDCMDIPF_00594	CDS	1881				hypothetical protein
+CDCMDIPF_00595	gene	375				
+CDCMDIPF_00595	CDS	375				hypothetical protein
+CDCMDIPF_00596	gene	957				
+CDCMDIPF_00596	CDS	957				hypothetical protein
+CDCMDIPF_00597	gene	561				
+CDCMDIPF_00597	CDS	561				hypothetical protein
+CDCMDIPF_00598	gene	585	gtf3			
+CDCMDIPF_00598	CDS	585	gtf3	2.4.1.-		Glucosyltransferase 3
+CDCMDIPF_00599	gene	924	rfbB			
+CDCMDIPF_00599	CDS	924	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+CDCMDIPF_00600	gene	1308	wecC			
+CDCMDIPF_00600	CDS	1308	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+CDCMDIPF_00601	gene	1140				
+CDCMDIPF_00601	CDS	1140				hypothetical protein
+CDCMDIPF_00602	gene	861	pxpC			
+CDCMDIPF_00602	CDS	861	pxpC	3.5.2.9	COG1984	5-oxoprolinase subunit C
+CDCMDIPF_00603	gene	663	pxpB			
+CDCMDIPF_00603	CDS	663	pxpB	3.5.2.9	COG2049	5-oxoprolinase subunit B
+CDCMDIPF_00604	gene	753	pxpA			
+CDCMDIPF_00604	CDS	753	pxpA	3.5.2.9	COG1540	5-oxoprolinase subunit A
+CDCMDIPF_00605	gene	723	birA			
+CDCMDIPF_00605	CDS	723	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+CDCMDIPF_00606	gene	1101	OLA1_1			
+CDCMDIPF_00606	CDS	1101	OLA1_1			Obg-like ATPase 1
+CDCMDIPF_00607	gene	1017				
+CDCMDIPF_00607	CDS	1017				hypothetical protein
+CDCMDIPF_00608	gene	474				
+CDCMDIPF_00608	CDS	474				hypothetical protein
+CDCMDIPF_00609	gene	321				
+CDCMDIPF_00609	CDS	321				hypothetical protein
+CDCMDIPF_00610	gene	645	wbpA_1			
+CDCMDIPF_00610	CDS	645	wbpA_1	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+CDCMDIPF_00611	gene	915				
+CDCMDIPF_00611	CDS	915				hypothetical protein
+CDCMDIPF_00612	gene	1143				
+CDCMDIPF_00612	CDS	1143		2.4.1.11	COG0438	Glycogen synthase
+CDCMDIPF_00613	gene	813				
+CDCMDIPF_00613	CDS	813				hypothetical protein
+CDCMDIPF_00614	gene	933				
+CDCMDIPF_00614	CDS	933				hypothetical protein
+CDCMDIPF_00615	gene	1212	COQ5_2			
+CDCMDIPF_00615	CDS	1212	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CDCMDIPF_00616	gene	1062				
+CDCMDIPF_00616	CDS	1062				hypothetical protein
+CDCMDIPF_00617	gene	303				
+CDCMDIPF_00617	CDS	303				hypothetical protein
+CDCMDIPF_00618	gene	447	moaC2			
+CDCMDIPF_00618	CDS	447	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+CDCMDIPF_00619	gene	546	moaB			
+CDCMDIPF_00619	CDS	546	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+CDCMDIPF_00620	gene	735	ecfT			
+CDCMDIPF_00620	CDS	735	ecfT		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+CDCMDIPF_00621	gene	834	cbiO			
+CDCMDIPF_00621	CDS	834	cbiO	3.6.3.-	COG1122	Cobalt import ATP-binding protein CbiO
+CDCMDIPF_00622	gene	849	ecfA1			
+CDCMDIPF_00622	CDS	849	ecfA1	7.-.-.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA1
+CDCMDIPF_00623	gene	999				
+CDCMDIPF_00623	CDS	999				hypothetical protein
+CDCMDIPF_00624	gene	378				
+CDCMDIPF_00624	CDS	378				hypothetical protein
+CDCMDIPF_00625	gene	222				
+CDCMDIPF_00625	CDS	222				hypothetical protein
+CDCMDIPF_00626	gene	834	rph_1			
+CDCMDIPF_00626	CDS	834	rph_1	2.7.7.56		Ribonuclease PH
+CDCMDIPF_00627	gene	723	rph_2			
+CDCMDIPF_00627	CDS	723	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+CDCMDIPF_00628	gene	324				
+CDCMDIPF_00628	CDS	324				hypothetical protein
+CDCMDIPF_00629	gene	414	mtnA_2			
+CDCMDIPF_00629	CDS	414	mtnA_2	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+CDCMDIPF_00630	gene	1299	aarA			
+CDCMDIPF_00630	CDS	1299	aarA	2.3.3.16		Citrate synthase
+CDCMDIPF_00631	gene	1566	mctP_1			
+CDCMDIPF_00631	CDS	1566	mctP_1			Monocarboxylate transport permease protein
+CDCMDIPF_00632	gene	1137	nit			
+CDCMDIPF_00632	CDS	1137	nit	3.5.5.1		Nitrilase
+CDCMDIPF_00633	gene	648				
+CDCMDIPF_00633	CDS	648				hypothetical protein
+CDCMDIPF_00634	gene	1125	yfdE			
+CDCMDIPF_00634	CDS	1125	yfdE	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+CDCMDIPF_00635	gene	1839				
+CDCMDIPF_00635	CDS	1839				hypothetical protein
+CDCMDIPF_00636	gene	1425	mtr			
+CDCMDIPF_00636	CDS	1425	mtr	1.8.1.15	COG1249	Mycothione reductase
+CDCMDIPF_00637	gene	465				
+CDCMDIPF_00637	CDS	465				Putative universal stress protein
+CDCMDIPF_00638	gene	252				
+CDCMDIPF_00638	CDS	252				hypothetical protein
+CDCMDIPF_00639	gene	504	bcp_3			
+CDCMDIPF_00639	CDS	504	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+CDCMDIPF_00640	gene	825				
+CDCMDIPF_00640	CDS	825				hypothetical protein
+CDCMDIPF_00641	gene	504				
+CDCMDIPF_00641	CDS	504				hypothetical protein
+CDCMDIPF_00642	gene	1095				
+CDCMDIPF_00642	CDS	1095				hypothetical protein
+CDCMDIPF_00643	gene	669	lipB			
+CDCMDIPF_00643	CDS	669	lipB	2.3.1.181	COG0321	Octanoyltransferase
+CDCMDIPF_00644	gene	1416	pdhD			
+CDCMDIPF_00644	CDS	1416	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+CDCMDIPF_00645	gene	1203	pdhC_1			
+CDCMDIPF_00645	CDS	1203	pdhC_1	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+CDCMDIPF_00646	gene	900	lipA			
+CDCMDIPF_00646	CDS	900	lipA	2.8.1.8		Lipoyl synthase
+CDCMDIPF_00647	gene	498				
+CDCMDIPF_00647	CDS	498		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+CDCMDIPF_00648	gene	501				
+CDCMDIPF_00648	CDS	501				hypothetical protein
+CDCMDIPF_00649	gene	417				
+CDCMDIPF_00649	CDS	417				hypothetical protein
+CDCMDIPF_00650	gene	438				
+CDCMDIPF_00650	CDS	438				hypothetical protein
+CDCMDIPF_00651	gene	525				
+CDCMDIPF_00651	CDS	525				hypothetical protein
+CDCMDIPF_00652	gene	1269				
+CDCMDIPF_00652	CDS	1269				hypothetical protein
+CDCMDIPF_00653	gene	954				
+CDCMDIPF_00653	CDS	954				hypothetical protein
+CDCMDIPF_00654	gene	420				
+CDCMDIPF_00654	CDS	420				hypothetical protein
+CDCMDIPF_00655	gene	840				
+CDCMDIPF_00655	CDS	840				hypothetical protein
+CDCMDIPF_00656	gene	1008	lnrL_3			
+CDCMDIPF_00656	CDS	1008	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CDCMDIPF_00657	gene	741				
+CDCMDIPF_00657	CDS	741				hypothetical protein
+CDCMDIPF_00658	gene	291				
+CDCMDIPF_00658	CDS	291				hypothetical protein
+CDCMDIPF_00659	gene	825				
+CDCMDIPF_00659	CDS	825				hypothetical protein
+CDCMDIPF_00660	gene	936	btuD_1			
+CDCMDIPF_00660	CDS	936	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CDCMDIPF_00661	gene	507				
+CDCMDIPF_00661	CDS	507				hypothetical protein
+CDCMDIPF_00662	gene	1392	nfdA			
+CDCMDIPF_00662	CDS	1392	nfdA	3.5.1.91		N-substituted formamide deformylase
+CDCMDIPF_00663	gene	1335	naiP			
+CDCMDIPF_00663	CDS	1335	naiP			Putative niacin/nicotinamide transporter NaiP
+CDCMDIPF_00664	gene	2121				
+CDCMDIPF_00664	CDS	2121				hypothetical protein
+CDCMDIPF_00665	gene	1017				
+CDCMDIPF_00665	CDS	1017				hypothetical protein
+CDCMDIPF_00666	gene	249				
+CDCMDIPF_00666	CDS	249				hypothetical protein
+CDCMDIPF_00667	gene	759				
+CDCMDIPF_00667	CDS	759				hypothetical protein
+CDCMDIPF_00668	gene	210				
+CDCMDIPF_00668	CDS	210				hypothetical protein
+CDCMDIPF_00669	gene	246				
+CDCMDIPF_00669	CDS	246				hypothetical protein
+CDCMDIPF_00670	gene	450				
+CDCMDIPF_00670	CDS	450				hypothetical protein
+CDCMDIPF_00671	gene	210				
+CDCMDIPF_00671	CDS	210				hypothetical protein
+CDCMDIPF_00672	gene	471				
+CDCMDIPF_00672	CDS	471				hypothetical protein
+CDCMDIPF_00673	gene	354				
+CDCMDIPF_00673	CDS	354				hypothetical protein
+CDCMDIPF_00674	gene	576				
+CDCMDIPF_00674	CDS	576				hypothetical protein
+CDCMDIPF_00675	gene	420				
+CDCMDIPF_00675	CDS	420				hypothetical protein
+CDCMDIPF_00676	gene	1242				
+CDCMDIPF_00676	CDS	1242				hypothetical protein
+CDCMDIPF_00677	gene	741	petC			
+CDCMDIPF_00677	CDS	741	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+CDCMDIPF_00678	gene	1650	petB			
+CDCMDIPF_00678	CDS	1650	petB			Cytochrome b6
+CDCMDIPF_00679	gene	798	fadB			
+CDCMDIPF_00679	CDS	798	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+CDCMDIPF_00680	gene	1101				
+CDCMDIPF_00680	CDS	1101				hypothetical protein
+CDCMDIPF_00681	gene	405				
+CDCMDIPF_00681	CDS	405				hypothetical protein
+CDCMDIPF_00682	gene	705				
+CDCMDIPF_00682	CDS	705				IS6 family transposase ISCbo1
+CDCMDIPF_00683	gene	867				
+CDCMDIPF_00683	CDS	867				hypothetical protein
+CDCMDIPF_00684	gene	798				
+CDCMDIPF_00684	CDS	798				hypothetical protein
+CDCMDIPF_00685	gene	597				
+CDCMDIPF_00685	CDS	597				hypothetical protein
+CDCMDIPF_00686	gene	1011				
+CDCMDIPF_00686	CDS	1011				hypothetical protein
+CDCMDIPF_00687	gene	384				
+CDCMDIPF_00687	CDS	384				hypothetical protein
+CDCMDIPF_00688	gene	585				
+CDCMDIPF_00688	CDS	585				hypothetical protein
+CDCMDIPF_00689	gene	414				
+CDCMDIPF_00689	CDS	414				hypothetical protein
+CDCMDIPF_00690	gene	912	rnz_1			
+CDCMDIPF_00690	CDS	912	rnz_1	3.1.26.11	COG1234	Ribonuclease Z
+CDCMDIPF_00691	gene	990				
+CDCMDIPF_00691	CDS	990				hypothetical protein
+CDCMDIPF_00692	gene	402	prs_2			
+CDCMDIPF_00692	CDS	402	prs_2	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CDCMDIPF_00693	gene	480				
+CDCMDIPF_00693	CDS	480				hypothetical protein
+CDCMDIPF_00694	gene	375				
+CDCMDIPF_00694	CDS	375				hypothetical protein
+CDCMDIPF_00695	gene	684				
+CDCMDIPF_00695	CDS	684				hypothetical protein
+CDCMDIPF_00696	gene	1305	ftsH_2			
+CDCMDIPF_00696	CDS	1305	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CDCMDIPF_00697	gene	615				
+CDCMDIPF_00697	CDS	615				hypothetical protein
+CDCMDIPF_00698	gene	552				
+CDCMDIPF_00698	CDS	552				hypothetical protein
+CDCMDIPF_00699	gene	204				
+CDCMDIPF_00699	CDS	204				hypothetical protein
+CDCMDIPF_00700	gene	477	tldD			
+CDCMDIPF_00700	CDS	477	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+CDCMDIPF_00701	gene	1344				
+CDCMDIPF_00701	CDS	1344				hypothetical protein
+CDCMDIPF_00702	gene	807				
+CDCMDIPF_00702	CDS	807				hypothetical protein
+CDCMDIPF_00703	gene	693				
+CDCMDIPF_00703	CDS	693				hypothetical protein
+CDCMDIPF_00704	gene	738	fbiB			
+CDCMDIPF_00704	CDS	738	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+CDCMDIPF_00705	gene	1113	gcvT			
+CDCMDIPF_00705	CDS	1113	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+CDCMDIPF_00706	gene	429	gcvH_2			
+CDCMDIPF_00706	CDS	429	gcvH_2		COG0509	Glycine cleavage system H protein
+CDCMDIPF_00707	gene	2211				
+CDCMDIPF_00707	CDS	2211				hypothetical protein
+CDCMDIPF_00708	gene	774	pnp			
+CDCMDIPF_00708	CDS	774	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+CDCMDIPF_00709	gene	279				
+CDCMDIPF_00709	CDS	279				hypothetical protein
+CDCMDIPF_00710	gene	636				
+CDCMDIPF_00710	CDS	636				hypothetical protein
+CDCMDIPF_00711	gene	1140				
+CDCMDIPF_00711	CDS	1140				hypothetical protein
+CDCMDIPF_00712	gene	744				
+CDCMDIPF_00712	CDS	744				hypothetical protein
+CDCMDIPF_00713	gene	357				
+CDCMDIPF_00713	CDS	357				hypothetical protein
+CDCMDIPF_00714	gene	1791	dinG			
+CDCMDIPF_00714	CDS	1791	dinG	3.1.-.-		3'-5' exonuclease DinG
+CDCMDIPF_00715	gene	1365	ubiD_2			
+CDCMDIPF_00715	CDS	1365	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+CDCMDIPF_00716	gene	411				
+CDCMDIPF_00716	CDS	411				hypothetical protein
+CDCMDIPF_00717	gene	1293				
+CDCMDIPF_00717	CDS	1293				hypothetical protein
+CDCMDIPF_00718	gene	846	tmk			
+CDCMDIPF_00718	CDS	846	tmk	2.7.4.9		Thymidylate kinase
+CDCMDIPF_00719	gene	465				
+CDCMDIPF_00719	CDS	465				hypothetical protein
+CDCMDIPF_00720	gene	1215				
+CDCMDIPF_00720	CDS	1215				hypothetical protein
+CDCMDIPF_00721	gene	327				
+CDCMDIPF_00721	CDS	327				hypothetical protein
+CDCMDIPF_00722	gene	1245	dbpA_1			
+CDCMDIPF_00722	CDS	1245	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+CDCMDIPF_00723	gene	360				
+CDCMDIPF_00723	CDS	360				hypothetical protein
+CDCMDIPF_00724	gene	411				
+CDCMDIPF_00724	CDS	411				hypothetical protein
+CDCMDIPF_00725	gene	390	sufU			
+CDCMDIPF_00725	CDS	390	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+CDCMDIPF_00726	gene	1236	csd			
+CDCMDIPF_00726	CDS	1236	csd	2.8.1.7		putative cysteine desulfurase
+CDCMDIPF_00727	gene	537				
+CDCMDIPF_00727	CDS	537				hypothetical protein
+CDCMDIPF_00728	gene	321				
+CDCMDIPF_00728	CDS	321				hypothetical protein
+CDCMDIPF_00729	gene	1404				
+CDCMDIPF_00729	CDS	1404				hypothetical protein
+CDCMDIPF_00730	gene	777	sufC_1			
+CDCMDIPF_00730	CDS	777	sufC_1		COG0396	Vegetative protein 296
+CDCMDIPF_00731	gene	312				
+CDCMDIPF_00731	CDS	312				hypothetical protein
+CDCMDIPF_00732	gene	945				
+CDCMDIPF_00732	CDS	945				hypothetical protein
+CDCMDIPF_00733	gene	483				
+CDCMDIPF_00733	CDS	483				hypothetical protein
+CDCMDIPF_00734	gene	480				
+CDCMDIPF_00734	CDS	480				hypothetical protein
+CDCMDIPF_00735	gene	375				
+CDCMDIPF_00735	CDS	375				hypothetical protein
+CDCMDIPF_00736	gene	408	vapC_2			
+CDCMDIPF_00736	CDS	408	vapC_2	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+CDCMDIPF_00737	gene	639				
+CDCMDIPF_00737	CDS	639				hypothetical protein
+CDCMDIPF_00738	gene	1020				
+CDCMDIPF_00738	CDS	1020				hypothetical protein
+CDCMDIPF_00739	gene	1119				
+CDCMDIPF_00739	CDS	1119				hypothetical protein
+CDCMDIPF_00740	gene	1146				
+CDCMDIPF_00740	CDS	1146				hypothetical protein
+CDCMDIPF_00741	gene	1122				
+CDCMDIPF_00741	CDS	1122		3.4.-.-		putative peptidase
+CDCMDIPF_00742	gene	531				
+CDCMDIPF_00742	CDS	531				hypothetical protein
+CDCMDIPF_00743	gene	393	betI			
+CDCMDIPF_00743	CDS	393	betI			HTH-type transcriptional regulator BetI
+CDCMDIPF_00744	gene	201				
+CDCMDIPF_00744	CDS	201				hypothetical protein
+CDCMDIPF_00745	gene	1155				
+CDCMDIPF_00745	CDS	1155		2.5.-.-		Deoxyhypusine synthase-like protein
+CDCMDIPF_00746	gene	297				
+CDCMDIPF_00746	CDS	297				hypothetical protein
+CDCMDIPF_00747	gene	954				
+CDCMDIPF_00747	CDS	954				hypothetical protein
+CDCMDIPF_00748	gene	351				
+CDCMDIPF_00748	CDS	351				hypothetical protein
+CDCMDIPF_00749	gene	282	ndhC_2			
+CDCMDIPF_00749	CDS	282	ndhC_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+CDCMDIPF_00750	gene	549				
+CDCMDIPF_00750	CDS	549		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+CDCMDIPF_00751	gene	789				
+CDCMDIPF_00751	CDS	789				hypothetical protein
+CDCMDIPF_00752	gene	741				
+CDCMDIPF_00752	CDS	741				hypothetical protein
+CDCMDIPF_00753	gene	1857	rhlE			
+CDCMDIPF_00753	CDS	1857	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+CDCMDIPF_00754	gene	294				
+CDCMDIPF_00754	CDS	294				hypothetical protein
+CDCMDIPF_00755	gene	567				
+CDCMDIPF_00755	CDS	567				hypothetical protein
+CDCMDIPF_00756	gene	528				
+CDCMDIPF_00756	CDS	528				hypothetical protein
+CDCMDIPF_00757	gene	708	rnz_2			
+CDCMDIPF_00757	CDS	708	rnz_2	3.1.26.11	COG1234	Ribonuclease Z
+CDCMDIPF_00758	gene	771	cinA			
+CDCMDIPF_00758	CDS	771	cinA			Putative competence-damage inducible protein
+CDCMDIPF_00759	gene	1131				
+CDCMDIPF_00759	CDS	1131				hypothetical protein
+CDCMDIPF_00760	gene	819				
+CDCMDIPF_00760	CDS	819		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+CDCMDIPF_00761	gene	306				
+CDCMDIPF_00761	CDS	306				hypothetical protein
+CDCMDIPF_00762	gene	306				
+CDCMDIPF_00762	CDS	306				hypothetical protein
+CDCMDIPF_00763	gene	297				
+CDCMDIPF_00763	CDS	297				hypothetical protein
+CDCMDIPF_00764	gene	393				
+CDCMDIPF_00764	CDS	393				hypothetical protein
+CDCMDIPF_00765	gene	609	rlmE_1			
+CDCMDIPF_00765	CDS	609	rlmE_1	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+CDCMDIPF_00766	gene	927	pyrG_1			
+CDCMDIPF_00766	CDS	927	pyrG_1	6.3.4.2	COG0504	CTP synthase
+CDCMDIPF_00767	gene	1542	alaS_2			
+CDCMDIPF_00767	CDS	1542	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+CDCMDIPF_00768	gene	2883	valS_2			
+CDCMDIPF_00768	CDS	2883	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+CDCMDIPF_00769	gene	1023				
+CDCMDIPF_00769	CDS	1023		1.1.1.1		Alcohol dehydrogenase
+CDCMDIPF_00770	gene	483				
+CDCMDIPF_00770	CDS	483				hypothetical protein
+CDCMDIPF_00771	gene	1512	cfiB			
+CDCMDIPF_00771	CDS	1512	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+CDCMDIPF_00772	gene	1554	pccB			
+CDCMDIPF_00772	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+CDCMDIPF_00773	gene	513				
+CDCMDIPF_00773	CDS	513				hypothetical protein
+CDCMDIPF_00774	gene	222				
+CDCMDIPF_00774	CDS	222				hypothetical protein
+CDCMDIPF_00775	gene	618				
+CDCMDIPF_00775	CDS	618				hypothetical protein
+CDCMDIPF_00776	gene	678				
+CDCMDIPF_00776	CDS	678				hypothetical protein
+CDCMDIPF_00777	gene	981				
+CDCMDIPF_00777	CDS	981		1.-.-.-	COG1052	Putative 2-hydroxyacid dehydrogenase
+CDCMDIPF_00778	gene	918	ilvE_2			
+CDCMDIPF_00778	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+CDCMDIPF_00779	gene	846				
+CDCMDIPF_00779	CDS	846				hypothetical protein
+CDCMDIPF_00780	gene	660	nnr_1			
+CDCMDIPF_00780	CDS	660	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+CDCMDIPF_00781	gene	669				
+CDCMDIPF_00781	CDS	669				hypothetical protein
+CDCMDIPF_00782	gene	957	fusA			
+CDCMDIPF_00782	CDS	957	fusA		COG0480	Elongation factor G
+CDCMDIPF_00783	gene	1722				
+CDCMDIPF_00783	CDS	1722				hypothetical protein
+CDCMDIPF_00784	gene	1458	guaB			
+CDCMDIPF_00784	CDS	1458	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+CDCMDIPF_00785	gene	1206	purA			
+CDCMDIPF_00785	CDS	1206	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+CDCMDIPF_00786	gene	1317	purB			
+CDCMDIPF_00786	CDS	1317	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+CDCMDIPF_00787	gene	654	yhdG_1			
+CDCMDIPF_00787	CDS	654	yhdG_1		COG0531	putative amino acid permease YhdG
+CDCMDIPF_00788	gene	699	yhdG_2			
+CDCMDIPF_00788	CDS	699	yhdG_2		COG0531	putative amino acid permease YhdG
+CDCMDIPF_00789	gene	639				
+CDCMDIPF_00789	CDS	639				hypothetical protein
+CDCMDIPF_00790	gene	693				
+CDCMDIPF_00790	CDS	693				hypothetical protein
+CDCMDIPF_00791	gene	840				
+CDCMDIPF_00791	CDS	840				hypothetical protein
+CDCMDIPF_00792	gene	1254				
+CDCMDIPF_00792	CDS	1254				hypothetical protein
+CDCMDIPF_00793	gene	801				
+CDCMDIPF_00793	CDS	801		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+CDCMDIPF_00794	gene	693				
+CDCMDIPF_00794	CDS	693				hypothetical protein
+CDCMDIPF_00795	gene	1083	ino1			
+CDCMDIPF_00795	CDS	1083	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+CDCMDIPF_00796	gene	660	rnhB			
+CDCMDIPF_00796	CDS	660	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+CDCMDIPF_00797	gene	552				
+CDCMDIPF_00797	CDS	552		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+CDCMDIPF_00798	gene	1164	trm1			
+CDCMDIPF_00798	CDS	1164	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+CDCMDIPF_00799	gene	666	rlmE_2			
+CDCMDIPF_00799	CDS	666	rlmE_2	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+CDCMDIPF_00800	gene	387				
+CDCMDIPF_00800	CDS	387				hypothetical protein
+CDCMDIPF_00801	gene	960				
+CDCMDIPF_00801	CDS	960				hypothetical protein
+CDCMDIPF_00802	gene	285				
+CDCMDIPF_00802	CDS	285				hypothetical protein
+CDCMDIPF_00803	gene	306				
+CDCMDIPF_00803	CDS	306				hypothetical protein
+CDCMDIPF_00804	gene	267				
+CDCMDIPF_00804	CDS	267				hypothetical protein
+CDCMDIPF_00805	gene	291				
+CDCMDIPF_00805	CDS	291				hypothetical protein
+CDCMDIPF_00806	gene	327				
+CDCMDIPF_00806	CDS	327				hypothetical protein
+CDCMDIPF_00807	gene	210				
+CDCMDIPF_00807	CDS	210				hypothetical protein
+CDCMDIPF_00808	gene	1833	smc_1			
+CDCMDIPF_00808	CDS	1833	smc_1			Chromosome partition protein Smc
+CDCMDIPF_00809	gene	1263				
+CDCMDIPF_00809	CDS	1263				hypothetical protein
+CDCMDIPF_00810	gene	471				
+CDCMDIPF_00810	CDS	471				hypothetical protein
+CDCMDIPF_00811	gene	1194	cshA			
+CDCMDIPF_00811	CDS	1194	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+CDCMDIPF_00812	gene	1179				
+CDCMDIPF_00812	CDS	1179		2.3.1.29	COG0156	8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase
+CDCMDIPF_00813	gene	1224				
+CDCMDIPF_00813	CDS	1224				hypothetical protein
+CDCMDIPF_00814	gene	288				
+CDCMDIPF_00814	CDS	288				hypothetical protein
+CDCMDIPF_00815	gene	594				
+CDCMDIPF_00815	CDS	594				hypothetical protein
+CDCMDIPF_00816	gene	213				
+CDCMDIPF_00816	CDS	213				hypothetical protein
+CDCMDIPF_00817	gene	1542	mctP_2			
+CDCMDIPF_00817	CDS	1542	mctP_2			Monocarboxylate transport permease protein
+CDCMDIPF_00818	gene	2055	fadJ_2			
+CDCMDIPF_00818	CDS	2055	fadJ_2	5.1.2.3		Fatty acid oxidation complex subunit alpha
+CDCMDIPF_00819	gene	1206	fadA			
+CDCMDIPF_00819	CDS	1206	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+CDCMDIPF_00820	gene	1080	nadE			
+CDCMDIPF_00820	CDS	1080	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+CDCMDIPF_00821	gene	1116	pncB2			
+CDCMDIPF_00821	CDS	1116	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+CDCMDIPF_00822	gene	639				
+CDCMDIPF_00822	CDS	639				hypothetical protein
+CDCMDIPF_00823	gene	348				
+CDCMDIPF_00823	CDS	348				hypothetical protein
+CDCMDIPF_00824	gene	348				
+CDCMDIPF_00824	CDS	348				hypothetical protein
+CDCMDIPF_00825	gene	444				
+CDCMDIPF_00825	CDS	444				hypothetical protein
+CDCMDIPF_00826	gene	585				
+CDCMDIPF_00826	CDS	585				hypothetical protein
+CDCMDIPF_00827	gene	630				
+CDCMDIPF_00827	CDS	630				hypothetical protein
+CDCMDIPF_00828	gene	471				
+CDCMDIPF_00828	CDS	471				hypothetical protein
+CDCMDIPF_00829	gene	417				
+CDCMDIPF_00829	CDS	417				hypothetical protein
+CDCMDIPF_00830	gene	1434	secY			
+CDCMDIPF_00830	CDS	1434	secY			Protein translocase subunit SecY
+CDCMDIPF_00831	gene	597				
+CDCMDIPF_00831	CDS	597				hypothetical protein
+CDCMDIPF_00832	gene	522				
+CDCMDIPF_00832	CDS	522				hypothetical protein
+CDCMDIPF_00833	gene	525	cmk			
+CDCMDIPF_00833	CDS	525	cmk	2.7.4.25		Cytidylate kinase
+CDCMDIPF_00834	gene	1017	truB			
+CDCMDIPF_00834	CDS	1017	truB	5.4.99.25		tRNA pseudouridine synthase B
+CDCMDIPF_00835	gene	429				
+CDCMDIPF_00835	CDS	429				hypothetical protein
+CDCMDIPF_00836	gene	768				
+CDCMDIPF_00836	CDS	768				hypothetical protein
+CDCMDIPF_00837	gene	855	glmS_1			
+CDCMDIPF_00837	CDS	855	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CDCMDIPF_00838	gene	945	glmS_2			
+CDCMDIPF_00838	CDS	945	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CDCMDIPF_00839	gene	951				
+CDCMDIPF_00839	CDS	951				hypothetical protein
+CDCMDIPF_00840	gene	480	rpsM			
+CDCMDIPF_00840	CDS	480	rpsM		COG0099	30S ribosomal protein S13
+CDCMDIPF_00841	gene	501				
+CDCMDIPF_00841	CDS	501				hypothetical protein
+CDCMDIPF_00842	gene	519				
+CDCMDIPF_00842	CDS	519				hypothetical protein
+CDCMDIPF_00843	gene	639				
+CDCMDIPF_00843	CDS	639				hypothetical protein
+CDCMDIPF_00844	gene	330				
+CDCMDIPF_00844	CDS	330				hypothetical protein
+CDCMDIPF_00845	gene	513				
+CDCMDIPF_00845	CDS	513				hypothetical protein
+CDCMDIPF_00846	gene	417	rpsI			
+CDCMDIPF_00846	CDS	417	rpsI		COG0103	30S ribosomal protein S9
+CDCMDIPF_00847	gene	1689	bmr3			
+CDCMDIPF_00847	CDS	1689	bmr3			Multidrug resistance protein 3
+CDCMDIPF_00848	gene	570	ndhK_1			
+CDCMDIPF_00848	CDS	570	ndhK_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+CDCMDIPF_00849	gene	522	nuoI			
+CDCMDIPF_00849	CDS	522	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+CDCMDIPF_00850	gene	510	ndhJ_1			
+CDCMDIPF_00850	CDS	510	ndhJ_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+CDCMDIPF_00851	gene	648				
+CDCMDIPF_00851	CDS	648				hypothetical protein
+CDCMDIPF_00852	gene	858				
+CDCMDIPF_00852	CDS	858				hypothetical protein
+CDCMDIPF_00853	gene	294				
+CDCMDIPF_00853	CDS	294				hypothetical protein
+CDCMDIPF_00854	gene	1266				
+CDCMDIPF_00854	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+CDCMDIPF_00855	gene	705				
+CDCMDIPF_00855	CDS	705				hypothetical protein
+CDCMDIPF_00856	gene	1527	QTRT1			
+CDCMDIPF_00856	CDS	1527	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+CDCMDIPF_00857	gene	861	nnr_2			
+CDCMDIPF_00857	CDS	861	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+CDCMDIPF_00858	gene	705	menG			
+CDCMDIPF_00858	CDS	705	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+CDCMDIPF_00859	gene	324				
+CDCMDIPF_00859	CDS	324				hypothetical protein
+CDCMDIPF_00860	gene	339				
+CDCMDIPF_00860	CDS	339				hypothetical protein
+CDCMDIPF_00861	gene	1248	apgM			
+CDCMDIPF_00861	CDS	1248	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+CDCMDIPF_00862	gene	591				
+CDCMDIPF_00862	CDS	591				hypothetical protein
+CDCMDIPF_00863	gene	1746				
+CDCMDIPF_00863	CDS	1746				hypothetical protein
+CDCMDIPF_00864	gene	684				
+CDCMDIPF_00864	CDS	684				hypothetical protein
+CDCMDIPF_00865	gene	318				
+CDCMDIPF_00865	CDS	318				hypothetical protein
+CDCMDIPF_00866	gene	861	nfo			
+CDCMDIPF_00866	CDS	861	nfo	3.1.21.2	COG0648	putative endonuclease 4
+CDCMDIPF_00867	gene	780	frdB_2			
+CDCMDIPF_00867	CDS	780	frdB_2	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+CDCMDIPF_00868	gene	1740	frdA_2			
+CDCMDIPF_00868	CDS	1740	frdA_2	1.3.5.4		Fumarate reductase flavoprotein subunit
+CDCMDIPF_00869	gene	243				
+CDCMDIPF_00869	CDS	243				hypothetical protein
+CDCMDIPF_00870	gene	540	surE_2			
+CDCMDIPF_00870	CDS	540	surE_2	3.1.3.5	COG0496	5'-nucleotidase SurE
+CDCMDIPF_00871	gene	582	act			
+CDCMDIPF_00871	CDS	582	act	3.-.-.-		Methanol dehydrogenase activator
+CDCMDIPF_00872	gene	1401				
+CDCMDIPF_00872	CDS	1401		1.18.1.2		Ferredoxin--NADP reductase
+CDCMDIPF_00873	gene	414	mscL			
+CDCMDIPF_00873	CDS	414	mscL			Large-conductance mechanosensitive channel
+CDCMDIPF_00874	gene	855				
+CDCMDIPF_00874	CDS	855				hypothetical protein
+CDCMDIPF_00875	gene	312				
+CDCMDIPF_00875	CDS	312				hypothetical protein
+CDCMDIPF_00876	gene	1311				
+CDCMDIPF_00876	CDS	1311				hypothetical protein
+CDCMDIPF_00877	gene	1911	GATB			
+CDCMDIPF_00877	CDS	1911	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+CDCMDIPF_00878	gene	453				
+CDCMDIPF_00878	CDS	453				hypothetical protein
+CDCMDIPF_00879	gene	480				
+CDCMDIPF_00879	CDS	480				hypothetical protein
+CDCMDIPF_00880	gene	378				
+CDCMDIPF_00880	CDS	378				hypothetical protein
+CDCMDIPF_00881	gene	990				
+CDCMDIPF_00881	CDS	990				hypothetical protein
+CDCMDIPF_00882	gene	750				
+CDCMDIPF_00882	CDS	750				hypothetical protein
+CDCMDIPF_00883	gene	732				
+CDCMDIPF_00883	CDS	732				hypothetical protein
+CDCMDIPF_00884	gene	798				
+CDCMDIPF_00884	CDS	798				hypothetical protein
+CDCMDIPF_00885	gene	435	mntR			
+CDCMDIPF_00885	CDS	435	mntR			HTH-type transcriptional regulator MntR
+CDCMDIPF_00886	gene	399				
+CDCMDIPF_00886	CDS	399				hypothetical protein
+CDCMDIPF_00887	gene	1122	TOP6A			
+CDCMDIPF_00887	CDS	1122	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+CDCMDIPF_00888	gene	1536	TOP6B			
+CDCMDIPF_00888	CDS	1536	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+CDCMDIPF_00889	gene	606				
+CDCMDIPF_00889	CDS	606				hypothetical protein
+CDCMDIPF_00890	gene	789				
+CDCMDIPF_00890	CDS	789				hypothetical protein
+CDCMDIPF_00891	gene	309				
+CDCMDIPF_00891	CDS	309				hypothetical protein
+CDCMDIPF_00892	gene	306				
+CDCMDIPF_00892	CDS	306				hypothetical protein
+CDCMDIPF_00893	gene	414				
+CDCMDIPF_00893	CDS	414				hypothetical protein
+CDCMDIPF_00894	gene	633	clcD			
+CDCMDIPF_00894	CDS	633	clcD	3.1.1.45		Carboxymethylenebutenolidase
+CDCMDIPF_00895	gene	804				
+CDCMDIPF_00895	CDS	804				hypothetical protein
+CDCMDIPF_00896	gene	330	metG_2			
+CDCMDIPF_00896	CDS	330	metG_2	6.1.1.10		Methionine--tRNA ligase
+CDCMDIPF_00897	gene	606				
+CDCMDIPF_00897	CDS	606				hypothetical protein
+CDCMDIPF_00898	gene	456	lrpC			
+CDCMDIPF_00898	CDS	456	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+CDCMDIPF_00899	gene	1476	glnA			
+CDCMDIPF_00899	CDS	1476	glnA	6.3.1.2	COG0174	Glutamine synthetase
+CDCMDIPF_00900	gene	1581	rocA1			
+CDCMDIPF_00900	CDS	1581	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+CDCMDIPF_00901	gene	1254	mmgC			
+CDCMDIPF_00901	CDS	1254	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CDCMDIPF_00902	gene	972				
+CDCMDIPF_00902	CDS	972				hypothetical protein
+CDCMDIPF_00903	gene	1917				
+CDCMDIPF_00903	CDS	1917				hypothetical protein
+CDCMDIPF_00904	gene	972	hycD			
+CDCMDIPF_00904	CDS	972	hycD		COG0650	Formate hydrogenlyase subunit 4
+CDCMDIPF_00905	gene	660				
+CDCMDIPF_00905	CDS	660				hypothetical protein
+CDCMDIPF_00906	gene	741	hycE			
+CDCMDIPF_00906	CDS	741	hycE		COG3261	Formate hydrogenlyase subunit 5
+CDCMDIPF_00907	gene	750	ndhK_2			
+CDCMDIPF_00907	CDS	750	ndhK_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+CDCMDIPF_00908	gene	2043	ndhB_3			
+CDCMDIPF_00908	CDS	2043	ndhB_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+CDCMDIPF_00909	gene	417				
+CDCMDIPF_00909	CDS	417				hypothetical protein
+CDCMDIPF_00910	gene	1455	mutS2			
+CDCMDIPF_00910	CDS	1455	mutS2	3.1.-.-		Endonuclease MutS2
+CDCMDIPF_00911	gene	1548	mutS			
+CDCMDIPF_00911	CDS	1548	mutS			DNA mismatch repair protein MutS
+CDCMDIPF_00912	gene	1239				
+CDCMDIPF_00912	CDS	1239				hypothetical protein
+CDCMDIPF_00913	gene	654	lolD			
+CDCMDIPF_00913	CDS	654	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+CDCMDIPF_00914	gene	786				
+CDCMDIPF_00914	CDS	786				hypothetical protein
+CDCMDIPF_00915	gene	540				
+CDCMDIPF_00915	CDS	540				hypothetical protein
+CDCMDIPF_00916	gene	1353	mshA_1			
+CDCMDIPF_00916	CDS	1353	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CDCMDIPF_00917	gene	915				
+CDCMDIPF_00917	CDS	915				hypothetical protein
+CDCMDIPF_00918	gene	735	cof			
+CDCMDIPF_00918	CDS	735	cof	3.6.1.-		HMP-PP phosphatase
+CDCMDIPF_00919	gene	1761				
+CDCMDIPF_00919	CDS	1761				hypothetical protein
+CDCMDIPF_00920	gene	483				
+CDCMDIPF_00920	CDS	483				hypothetical protein
+CDCMDIPF_00921	gene	1122				
+CDCMDIPF_00921	CDS	1122				hypothetical protein
+CDCMDIPF_00922	gene	378				
+CDCMDIPF_00922	CDS	378				hypothetical protein
+CDCMDIPF_00923	gene	1776	korA			
+CDCMDIPF_00923	CDS	1776	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+CDCMDIPF_00924	gene	867				
+CDCMDIPF_00924	CDS	867				hypothetical protein
+CDCMDIPF_00925	gene	285				
+CDCMDIPF_00925	CDS	285				hypothetical protein
+CDCMDIPF_00926	gene	303				
+CDCMDIPF_00926	CDS	303				hypothetical protein
+CDCMDIPF_00927	gene	495	gpt			
+CDCMDIPF_00927	CDS	495	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+CDCMDIPF_00928	gene	942	thrC_1			
+CDCMDIPF_00928	CDS	942	thrC_1	4.2.3.1	COG0498	Threonine synthase
+CDCMDIPF_00929	gene	753				
+CDCMDIPF_00929	CDS	753				hypothetical protein
+CDCMDIPF_00930	gene	1209				
+CDCMDIPF_00930	CDS	1209				hypothetical protein
+CDCMDIPF_00931	gene	783	phnT			
+CDCMDIPF_00931	CDS	783	phnT		COG3842	Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+CDCMDIPF_00932	gene	1161	xerC			
+CDCMDIPF_00932	CDS	1161	xerC			Tyrosine recombinase XerC
+CDCMDIPF_00933	gene	2355	cga			
+CDCMDIPF_00933	CDS	2355	cga	3.2.1.3		Glucoamylase
+CDCMDIPF_00934	gene	255				
+CDCMDIPF_00934	CDS	255				hypothetical protein
+CDCMDIPF_00935	gene	606				
+CDCMDIPF_00935	CDS	606				hypothetical protein
+CDCMDIPF_00936	gene	1203				
+CDCMDIPF_00936	CDS	1203		2.4.1.11	COG0438	Glycogen synthase
+CDCMDIPF_00937	gene	1221				
+CDCMDIPF_00937	CDS	1221		2.4.1.11	COG0438	Glycogen synthase
+CDCMDIPF_00938	gene	1896				
+CDCMDIPF_00938	CDS	1896				hypothetical protein
+CDCMDIPF_00939	gene	1515				
+CDCMDIPF_00939	CDS	1515				hypothetical protein
+CDCMDIPF_00940	gene	1260	cugP_2			
+CDCMDIPF_00940	CDS	1260	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+CDCMDIPF_00941	gene	1617	glgP			
+CDCMDIPF_00941	CDS	1617	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+CDCMDIPF_00942	gene	612				
+CDCMDIPF_00942	CDS	612				hypothetical protein
+CDCMDIPF_00943	gene	492				
+CDCMDIPF_00943	CDS	492				hypothetical protein
+CDCMDIPF_00944	gene	1011				
+CDCMDIPF_00944	CDS	1011		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+CDCMDIPF_00945	gene	789	ubiD_3			
+CDCMDIPF_00945	CDS	789	ubiD_3	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+CDCMDIPF_00946	gene	801	cbiA			
+CDCMDIPF_00946	CDS	801	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+CDCMDIPF_00947	gene	543	yvqK_2			
+CDCMDIPF_00947	CDS	543	yvqK_2	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+CDCMDIPF_00948	gene	348				
+CDCMDIPF_00948	CDS	348				hypothetical protein
+CDCMDIPF_00949	gene	399				
+CDCMDIPF_00949	CDS	399				hypothetical protein
+CDCMDIPF_00950	gene	330				
+CDCMDIPF_00950	CDS	330				hypothetical protein
+CDCMDIPF_00951	gene	822				
+CDCMDIPF_00951	CDS	822				hypothetical protein
+CDCMDIPF_00952	gene	642				
+CDCMDIPF_00952	CDS	642				hypothetical protein
+CDCMDIPF_00953	gene	264				
+CDCMDIPF_00953	CDS	264				hypothetical protein
+CDCMDIPF_00954	gene	228				
+CDCMDIPF_00954	CDS	228				hypothetical protein
+CDCMDIPF_00955	gene	363				
+CDCMDIPF_00955	CDS	363				hypothetical protein
+CDCMDIPF_00956	gene	462				
+CDCMDIPF_00956	CDS	462				hypothetical protein
+CDCMDIPF_00957	gene	342				
+CDCMDIPF_00957	CDS	342				hypothetical protein
+CDCMDIPF_00958	gene	315				
+CDCMDIPF_00958	CDS	315				hypothetical protein
+CDCMDIPF_00959	gene	1404				
+CDCMDIPF_00959	CDS	1404				hypothetical protein
+CDCMDIPF_00960	gene	699				
+CDCMDIPF_00960	CDS	699				IS200/IS605 family transposase ISH22
+CDCMDIPF_00961	gene	378				
+CDCMDIPF_00961	CDS	378				hypothetical protein
+CDCMDIPF_00962	gene	720				
+CDCMDIPF_00962	CDS	720				hypothetical protein
+CDCMDIPF_00963	gene	777	carE			
+CDCMDIPF_00963	CDS	777	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+CDCMDIPF_00964	gene	1614				
+CDCMDIPF_00964	CDS	1614				hypothetical protein
+CDCMDIPF_00965	gene	609	sodA			
+CDCMDIPF_00965	CDS	609	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+CDCMDIPF_00966	gene	657	nudL			
+CDCMDIPF_00966	CDS	657	nudL	3.6.1.-		putative Nudix hydrolase NudL
+CDCMDIPF_00967	gene	1629				
+CDCMDIPF_00967	CDS	1629				hypothetical protein
+CDCMDIPF_00968	gene	804	ssuB			
+CDCMDIPF_00968	CDS	804	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+CDCMDIPF_00969	gene	477				
+CDCMDIPF_00969	CDS	477				hypothetical protein
+CDCMDIPF_00970	gene	606	pdxT			
+CDCMDIPF_00970	CDS	606	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+CDCMDIPF_00971	gene	960	pdxS			
+CDCMDIPF_00971	CDS	960	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+CDCMDIPF_00972	gene	1029				
+CDCMDIPF_00972	CDS	1029				hypothetical protein
+CDCMDIPF_00973	gene	669	COQ5_3			
+CDCMDIPF_00973	CDS	669	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CDCMDIPF_00974	gene	453	asnC			
+CDCMDIPF_00974	CDS	453	asnC		COG1522	Regulatory protein AsnC
+CDCMDIPF_00975	gene	957	arcC2			
+CDCMDIPF_00975	CDS	957	arcC2	2.7.2.2		Carbamate kinase 2
+CDCMDIPF_00976	gene	384	dadA			
+CDCMDIPF_00976	CDS	384	dadA	1.4.99.-		D-amino acid dehydrogenase
+CDCMDIPF_00977	gene	1239	coaBC			
+CDCMDIPF_00977	CDS	1239	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+CDCMDIPF_00978	gene	768	yafV			
+CDCMDIPF_00978	CDS	768	yafV	3.5.1.3		Omega-amidase YafV
+CDCMDIPF_00979	gene	1461				
+CDCMDIPF_00979	CDS	1461		1.14.14.9	COG2368	4-hydroxyphenylacetate 3-monooxygenase oxygenase component
+CDCMDIPF_00980	gene	744				
+CDCMDIPF_00980	CDS	744				hypothetical protein
+CDCMDIPF_00981	gene	591				
+CDCMDIPF_00981	CDS	591				hypothetical protein
+CDCMDIPF_00982	gene	522				
+CDCMDIPF_00982	CDS	522				hypothetical protein
+CDCMDIPF_00983	gene	1641	clcB_1			
+CDCMDIPF_00983	CDS	1641	clcB_1			Voltage-gated ClC-type chloride channel ClcB
+CDCMDIPF_00984	gene	582				
+CDCMDIPF_00984	CDS	582				hypothetical protein
+CDCMDIPF_00985	gene	1011	rtcB			
+CDCMDIPF_00985	CDS	1011	rtcB	6.5.1.-		RNA-splicing ligase RtcB
+CDCMDIPF_00986	gene	579				
+CDCMDIPF_00986	CDS	579				hypothetical protein
+CDCMDIPF_00987	gene	840	cyoE			
+CDCMDIPF_00987	CDS	840	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+CDCMDIPF_00988	gene	1188				
+CDCMDIPF_00988	CDS	1188				hypothetical protein
+CDCMDIPF_00989	gene	681				
+CDCMDIPF_00989	CDS	681				hypothetical protein
+CDCMDIPF_00990	gene	561	msrA			
+CDCMDIPF_00990	CDS	561	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+CDCMDIPF_00991	gene	1140				
+CDCMDIPF_00991	CDS	1140				hypothetical protein
+CDCMDIPF_00992	gene	1815				
+CDCMDIPF_00992	CDS	1815				hypothetical protein
+CDCMDIPF_00993	gene	3345				
+CDCMDIPF_00993	CDS	3345				hypothetical protein
+CDCMDIPF_00994	gene	549				
+CDCMDIPF_00994	CDS	549				hypothetical protein
+CDCMDIPF_00995	gene	1107	mgs			
+CDCMDIPF_00995	CDS	1107	mgs	2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+CDCMDIPF_00996	gene	927	mshA_2			
+CDCMDIPF_00996	CDS	927	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CDCMDIPF_00997	gene	810				
+CDCMDIPF_00997	CDS	810				hypothetical protein
+CDCMDIPF_00998	gene	1044	lnrL_4			
+CDCMDIPF_00998	CDS	1044	lnrL_4	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CDCMDIPF_00999	gene	255				
+CDCMDIPF_00999	CDS	255				hypothetical protein
+CDCMDIPF_01000	gene	1179	mshA_3			
+CDCMDIPF_01000	CDS	1179	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CDCMDIPF_01001	gene	1239	mshA_4			
+CDCMDIPF_01001	CDS	1239	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CDCMDIPF_01002	gene	1044	arnC_1			
+CDCMDIPF_01002	CDS	1044	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CDCMDIPF_01003	gene	2136	iolG			
+CDCMDIPF_01003	CDS	2136	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+CDCMDIPF_01004	gene	510				
+CDCMDIPF_01004	CDS	510				hypothetical protein
+CDCMDIPF_01005	gene	1062				
+CDCMDIPF_01005	CDS	1062				hypothetical protein
+CDCMDIPF_01006	gene	1716	btuD_2			
+CDCMDIPF_01006	CDS	1716	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CDCMDIPF_01007	gene	900				
+CDCMDIPF_01007	CDS	900				hypothetical protein
+CDCMDIPF_01008	gene	579				
+CDCMDIPF_01008	CDS	579				hypothetical protein
+CDCMDIPF_01009	gene	531				
+CDCMDIPF_01009	CDS	531				hypothetical protein
+CDCMDIPF_01010	gene	222				
+CDCMDIPF_01010	CDS	222				hypothetical protein
+CDCMDIPF_01011	gene	771				
+CDCMDIPF_01011	CDS	771				hypothetical protein
+CDCMDIPF_01012	gene	768				
+CDCMDIPF_01012	CDS	768				hypothetical protein
+CDCMDIPF_01013	gene	756	yadG			
+CDCMDIPF_01013	CDS	756	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+CDCMDIPF_01014	gene	279				
+CDCMDIPF_01014	CDS	279				hypothetical protein
+CDCMDIPF_01015	gene	501				
+CDCMDIPF_01015	CDS	501				hypothetical protein
+CDCMDIPF_01016	gene	402				
+CDCMDIPF_01016	CDS	402				hypothetical protein
+CDCMDIPF_01017	gene	384				
+CDCMDIPF_01017	CDS	384				hypothetical protein
+CDCMDIPF_01018	gene	1197	scmP			
+CDCMDIPF_01018	CDS	1197	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+CDCMDIPF_01019	gene	1305	glmM_2			
+CDCMDIPF_01019	CDS	1305	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+CDCMDIPF_01020	gene	984	thiL			
+CDCMDIPF_01020	CDS	984	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+CDCMDIPF_01021	gene	672	glmM_3			
+CDCMDIPF_01021	CDS	672	glmM_3	5.4.2.10	COG1109	Phosphoglucosamine mutase
+CDCMDIPF_01022	gene	1257				
+CDCMDIPF_01022	CDS	1257				hypothetical protein
+CDCMDIPF_01023	gene	738	trpA			
+CDCMDIPF_01023	CDS	738	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+CDCMDIPF_01024	gene	777	tyrA			
+CDCMDIPF_01024	CDS	777	tyrA		COG0287	T-protein
+CDCMDIPF_01025	gene	1392	dapL_2			
+CDCMDIPF_01025	CDS	1392	dapL_2	2.6.1.83		LL-diaminopimelate aminotransferase
+CDCMDIPF_01026	gene	1104	aroC			
+CDCMDIPF_01026	CDS	1104	aroC	4.2.3.5	COG0082	Chorismate synthase
+CDCMDIPF_01027	gene	459	aroA_1			
+CDCMDIPF_01027	CDS	459	aroA_1	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+CDCMDIPF_01028	gene	1056	aroB'			
+CDCMDIPF_01028	CDS	1056	aroB'	1.4.1.24		3-dehydroquinate synthase
+CDCMDIPF_01029	gene	789	griI			
+CDCMDIPF_01029	CDS	789	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+CDCMDIPF_01030	gene	1059	asd			
+CDCMDIPF_01030	CDS	1059	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+CDCMDIPF_01031	gene	1218				
+CDCMDIPF_01031	CDS	1218		2.7.2.4	COG0527	Aspartate kinase
+CDCMDIPF_01032	gene	504				
+CDCMDIPF_01032	CDS	504				hypothetical protein
+CDCMDIPF_01033	gene	504				
+CDCMDIPF_01033	CDS	504		3.2.1.28	COG3387	Trehalase
+CDCMDIPF_01034	gene	345				
+CDCMDIPF_01034	CDS	345				hypothetical protein
+CDCMDIPF_01035	gene	1167				
+CDCMDIPF_01035	CDS	1167				hypothetical protein
+CDCMDIPF_01036	gene	1062	mshA_5			
+CDCMDIPF_01036	CDS	1062	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CDCMDIPF_01037	gene	1311				
+CDCMDIPF_01037	CDS	1311				hypothetical protein
+CDCMDIPF_01038	gene	282				
+CDCMDIPF_01038	CDS	282				hypothetical protein
+CDCMDIPF_01039	gene	687				
+CDCMDIPF_01039	CDS	687				hypothetical protein
+CDCMDIPF_01040	gene	423				
+CDCMDIPF_01040	CDS	423				hypothetical protein
+CDCMDIPF_01041	gene	417				
+CDCMDIPF_01041	CDS	417				hypothetical protein
+CDCMDIPF_01042	gene	1140	pckA			
+CDCMDIPF_01042	CDS	1140	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+CDCMDIPF_01043	gene	414				
+CDCMDIPF_01043	CDS	414				hypothetical protein
+CDCMDIPF_01044	gene	441				
+CDCMDIPF_01044	CDS	441				hypothetical protein
+CDCMDIPF_01045	gene	384				
+CDCMDIPF_01045	CDS	384				hypothetical protein
+CDCMDIPF_01046	gene	660	mobA_1			
+CDCMDIPF_01046	CDS	660	mobA_1	2.7.7.77		putative molybdenum cofactor guanylyltransferase
+CDCMDIPF_01047	gene	507				
+CDCMDIPF_01047	CDS	507				hypothetical protein
+CDCMDIPF_01048	gene	1194				
+CDCMDIPF_01048	CDS	1194				hypothetical protein
+CDCMDIPF_01049	gene	1032				
+CDCMDIPF_01049	CDS	1032				hypothetical protein
+CDCMDIPF_01050	gene	936	narG_1			
+CDCMDIPF_01050	CDS	936	narG_1	1.7.5.1	COG5013	Respiratory nitrate reductase 1 alpha chain
+CDCMDIPF_01051	gene	624				
+CDCMDIPF_01051	CDS	624				hypothetical protein
+CDCMDIPF_01052	gene	627				
+CDCMDIPF_01052	CDS	627				hypothetical protein
+CDCMDIPF_01053	gene	951	ruvB			
+CDCMDIPF_01053	CDS	951	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+CDCMDIPF_01054	gene	1266	hisS			
+CDCMDIPF_01054	CDS	1266	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+CDCMDIPF_01055	gene	1206	paaJ			
+CDCMDIPF_01055	CDS	1206	paaJ	2.3.1.174	COG0183	3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+CDCMDIPF_01056	gene	798	paaG			
+CDCMDIPF_01056	CDS	798	paaG	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+CDCMDIPF_01057	gene	756	echA8			
+CDCMDIPF_01057	CDS	756	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+CDCMDIPF_01058	gene	837				
+CDCMDIPF_01058	CDS	837				hypothetical protein
+CDCMDIPF_01059	gene	1035				
+CDCMDIPF_01059	CDS	1035				hypothetical protein
+CDCMDIPF_01060	gene	1350				
+CDCMDIPF_01060	CDS	1350				hypothetical protein
+CDCMDIPF_01061	gene	1656	clcB_2			
+CDCMDIPF_01061	CDS	1656	clcB_2			Voltage-gated ClC-type chloride channel ClcB
+CDCMDIPF_01062	gene	1167	thlA			
+CDCMDIPF_01062	CDS	1167	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+CDCMDIPF_01063	gene	618				
+CDCMDIPF_01063	CDS	618				IS481 family transposase ISA0963-1
+CDCMDIPF_01064	gene	273				
+CDCMDIPF_01064	CDS	273				hypothetical protein
+CDCMDIPF_01065	gene	594				
+CDCMDIPF_01065	CDS	594				hypothetical protein
+CDCMDIPF_01066	gene	1920				
+CDCMDIPF_01066	CDS	1920				hypothetical protein
+CDCMDIPF_01067	gene	735				
+CDCMDIPF_01067	CDS	735				hypothetical protein
+CDCMDIPF_01068	gene	2649	dbpA_2			
+CDCMDIPF_01068	CDS	2649	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+CDCMDIPF_01069	gene	957				
+CDCMDIPF_01069	CDS	957				hypothetical protein
+CDCMDIPF_01070	gene	777	cugP_3			
+CDCMDIPF_01070	CDS	777	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+CDCMDIPF_01071	gene	783	kynB_2			
+CDCMDIPF_01071	CDS	783	kynB_2	3.5.1.9		Kynurenine formamidase
+CDCMDIPF_01072	gene	1722	pucI_2			
+CDCMDIPF_01072	CDS	1722	pucI_2		COG1953	putative allantoin permease
+CDCMDIPF_01073	gene	828				
+CDCMDIPF_01073	CDS	828		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+CDCMDIPF_01074	gene	1383				
+CDCMDIPF_01074	CDS	1383		3.5.2.-		D-hydantoinase
+CDCMDIPF_01075	gene	2412	hcrA			
+CDCMDIPF_01075	CDS	2412	hcrA	1.3.7.9		4-hydroxybenzoyl-CoA reductase subunit alpha
+CDCMDIPF_01076	gene	870				
+CDCMDIPF_01076	CDS	870				hypothetical protein
+CDCMDIPF_01077	gene	498	ndhS			
+CDCMDIPF_01077	CDS	498	ndhS	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+CDCMDIPF_01078	gene	1071	fdrA			
+CDCMDIPF_01078	CDS	1071	fdrA		COG0074	Protein FdrA
+CDCMDIPF_01079	gene	315	rpsJ			
+CDCMDIPF_01079	CDS	315	rpsJ		COG0051	30S ribosomal protein S10
+CDCMDIPF_01080	gene	1104				
+CDCMDIPF_01080	CDS	1104				hypothetical protein
+CDCMDIPF_01081	gene	273				
+CDCMDIPF_01081	CDS	273				hypothetical protein
+CDCMDIPF_01082	gene	1845	aprA			
+CDCMDIPF_01082	CDS	1845	aprA	1.8.99.2		Adenylylsulfate reductase subunit alpha
+CDCMDIPF_01083	gene	438	aprB			
+CDCMDIPF_01083	CDS	438	aprB			Adenylylsulfate reductase subunit beta
+CDCMDIPF_01084	gene	684				
+CDCMDIPF_01084	CDS	684				hypothetical protein
+CDCMDIPF_01085	gene	324				
+CDCMDIPF_01085	CDS	324				hypothetical protein
+CDCMDIPF_01086	gene	768				
+CDCMDIPF_01086	CDS	768				hypothetical protein
+CDCMDIPF_01087	gene	1296				
+CDCMDIPF_01087	CDS	1296				hypothetical protein
+CDCMDIPF_01088	gene	1302				
+CDCMDIPF_01088	CDS	1302		4.2.1.79		2-methylcitrate dehydratase
+CDCMDIPF_01089	gene	726	tpiA_1			
+CDCMDIPF_01089	CDS	726	tpiA_1			Triosephosphate isomerase
+CDCMDIPF_01090	gene	603				
+CDCMDIPF_01090	CDS	603				hypothetical protein
+CDCMDIPF_01091	gene	750	sufC_2			
+CDCMDIPF_01091	CDS	750	sufC_2		COG0396	Vegetative protein 296
+CDCMDIPF_01092	gene	1440				
+CDCMDIPF_01092	CDS	1440				hypothetical protein
+CDCMDIPF_01093	gene	1167				
+CDCMDIPF_01093	CDS	1167				hypothetical protein
+CDCMDIPF_01094	gene	906	htpX_1			
+CDCMDIPF_01094	CDS	906	htpX_1	3.4.24.-	COG0501	Protease HtpX
+CDCMDIPF_01095	gene	519				
+CDCMDIPF_01095	CDS	519				hypothetical protein
+CDCMDIPF_01096	gene	1362				
+CDCMDIPF_01096	CDS	1362		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+CDCMDIPF_01097	gene	1287	glyA			
+CDCMDIPF_01097	CDS	1287	glyA	2.1.2.1		Serine hydroxymethyltransferase
+CDCMDIPF_01098	gene	699				
+CDCMDIPF_01098	CDS	699				hypothetical protein
+CDCMDIPF_01099	gene	786				
+CDCMDIPF_01099	CDS	786				hypothetical protein
+CDCMDIPF_01100	gene	1125	nuoN			
+CDCMDIPF_01100	CDS	1125	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+CDCMDIPF_01101	gene	297				
+CDCMDIPF_01101	CDS	297				hypothetical protein
+CDCMDIPF_01102	gene	225				
+CDCMDIPF_01102	CDS	225				hypothetical protein
+CDCMDIPF_01103	gene	306	ubiX			
+CDCMDIPF_01103	CDS	306	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+CDCMDIPF_01104	gene	831				
+CDCMDIPF_01104	CDS	831				hypothetical protein
+CDCMDIPF_01105	gene	711				
+CDCMDIPF_01105	CDS	711				hypothetical protein
+CDCMDIPF_01106	gene	2394				
+CDCMDIPF_01106	CDS	2394				hypothetical protein
+CDCMDIPF_01107	gene	768				
+CDCMDIPF_01107	CDS	768				hypothetical protein
+CDCMDIPF_01108	gene	417				
+CDCMDIPF_01108	CDS	417				hypothetical protein
+CDCMDIPF_01109	gene	798				
+CDCMDIPF_01109	CDS	798				hypothetical protein
+CDCMDIPF_01110	gene	1413				
+CDCMDIPF_01110	CDS	1413				hypothetical protein
+CDCMDIPF_01111	gene	540				
+CDCMDIPF_01111	CDS	540				hypothetical protein
+CDCMDIPF_01112	gene	189				
+CDCMDIPF_01112	CDS	189				hypothetical protein
+CDCMDIPF_01113	gene	936	ndhB_4			
+CDCMDIPF_01113	CDS	936	ndhB_4	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+CDCMDIPF_01114	gene	486				
+CDCMDIPF_01114	CDS	486				hypothetical protein
+CDCMDIPF_01115	gene	735				
+CDCMDIPF_01115	CDS	735				hypothetical protein
+CDCMDIPF_01116	gene	1092				
+CDCMDIPF_01116	CDS	1092		1.13.12.4	COG1304	Lactate 2-monooxygenase
+CDCMDIPF_01117	gene	348				
+CDCMDIPF_01117	CDS	348				hypothetical protein
+CDCMDIPF_01118	gene	306	pdhC_2			
+CDCMDIPF_01118	CDS	306	pdhC_2	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+CDCMDIPF_01119	gene	768	carD			
+CDCMDIPF_01119	CDS	768	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+CDCMDIPF_01120	gene	1077	btuD_3			
+CDCMDIPF_01120	CDS	1077	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CDCMDIPF_01121	gene	528				
+CDCMDIPF_01121	CDS	528				hypothetical protein
+CDCMDIPF_01122	gene	564				
+CDCMDIPF_01122	CDS	564				hypothetical protein
+CDCMDIPF_01123	gene	1365	ubiD_4			
+CDCMDIPF_01123	CDS	1365	ubiD_4	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+CDCMDIPF_01124	gene	1485	purH			
+CDCMDIPF_01124	CDS	1485	purH			Bifunctional purine biosynthesis protein PurH
+CDCMDIPF_01125	gene	939	trpB_3			
+CDCMDIPF_01125	CDS	939	trpB_3	4.2.1.20	COG0133	Tryptophan synthase beta chain
+CDCMDIPF_01126	gene	624	trpF			
+CDCMDIPF_01126	CDS	624	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+CDCMDIPF_01127	gene	777	trpC			
+CDCMDIPF_01127	CDS	777	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+CDCMDIPF_01128	gene	1050	trpD			
+CDCMDIPF_01128	CDS	1050	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+CDCMDIPF_01129	gene	585	pabA			
+CDCMDIPF_01129	CDS	585	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+CDCMDIPF_01130	gene	1209	trpE			
+CDCMDIPF_01130	CDS	1209	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+CDCMDIPF_01131	gene	717				
+CDCMDIPF_01131	CDS	717				hypothetical protein
+CDCMDIPF_01132	gene	525				
+CDCMDIPF_01132	CDS	525				hypothetical protein
+CDCMDIPF_01133	gene	2169	ftsH_3			
+CDCMDIPF_01133	CDS	2169	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CDCMDIPF_01134	gene	819				
+CDCMDIPF_01134	CDS	819				hypothetical protein
+CDCMDIPF_01135	gene	381				
+CDCMDIPF_01135	CDS	381		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+CDCMDIPF_01136	gene	1020				
+CDCMDIPF_01136	CDS	1020				hypothetical protein
+CDCMDIPF_01137	gene	1575				
+CDCMDIPF_01137	CDS	1575				hypothetical protein
+CDCMDIPF_01138	gene	456	argH_2			
+CDCMDIPF_01138	CDS	456	argH_2	4.3.2.1		Argininosuccinate lyase
+CDCMDIPF_01139	gene	960				
+CDCMDIPF_01139	CDS	960				hypothetical protein
+CDCMDIPF_01140	gene	594	ndhJ_2			
+CDCMDIPF_01140	CDS	594	ndhJ_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+CDCMDIPF_01141	gene	1002				
+CDCMDIPF_01141	CDS	1002				hypothetical protein
+CDCMDIPF_01142	gene	789				
+CDCMDIPF_01142	CDS	789				hypothetical protein
+CDCMDIPF_01143	gene	267	rplW			
+CDCMDIPF_01143	CDS	267	rplW			50S ribosomal protein L23
+CDCMDIPF_01144	gene	750				
+CDCMDIPF_01144	CDS	750				hypothetical protein
+CDCMDIPF_01145	gene	384				
+CDCMDIPF_01145	CDS	384				hypothetical protein
+CDCMDIPF_01146	gene	375				
+CDCMDIPF_01146	CDS	375				hypothetical protein
+CDCMDIPF_01147	gene	858				
+CDCMDIPF_01147	CDS	858				hypothetical protein
+CDCMDIPF_01148	gene	465				
+CDCMDIPF_01148	CDS	465				hypothetical protein
+CDCMDIPF_01149	gene	660	rpsC			
+CDCMDIPF_01149	CDS	660	rpsC		COG0092	30S ribosomal protein S3
+CDCMDIPF_01150	gene	207				
+CDCMDIPF_01150	CDS	207				hypothetical protein
+CDCMDIPF_01151	gene	234				
+CDCMDIPF_01151	CDS	234				hypothetical protein
+CDCMDIPF_01152	gene	327				
+CDCMDIPF_01152	CDS	327				hypothetical protein
+CDCMDIPF_01153	gene	435	rplN			
+CDCMDIPF_01153	CDS	435	rplN			50S ribosomal protein L14
+CDCMDIPF_01154	gene	372				
+CDCMDIPF_01154	CDS	372				hypothetical protein
+CDCMDIPF_01155	gene	735				
+CDCMDIPF_01155	CDS	735				hypothetical protein
+CDCMDIPF_01156	gene	507				
+CDCMDIPF_01156	CDS	507				hypothetical protein
+CDCMDIPF_01157	gene	393	rpsH			
+CDCMDIPF_01157	CDS	393	rpsH			30S ribosomal protein S8
+CDCMDIPF_01158	gene	1158				
+CDCMDIPF_01158	CDS	1158				hypothetical protein
+CDCMDIPF_01159	gene	528				
+CDCMDIPF_01159	CDS	528				hypothetical protein
+CDCMDIPF_01160	gene	792				
+CDCMDIPF_01160	CDS	792				hypothetical protein
+CDCMDIPF_01161	gene	621	vgb_3			
+CDCMDIPF_01161	CDS	621	vgb_3	4.2.99.-		Virginiamycin B lyase
+CDCMDIPF_01162	gene	741	ndhB_5			
+CDCMDIPF_01162	CDS	741	ndhB_5	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+CDCMDIPF_01163	gene	1434				
+CDCMDIPF_01163	CDS	1434				hypothetical protein
+CDCMDIPF_01164	gene	303				
+CDCMDIPF_01164	CDS	303				hypothetical protein
+CDCMDIPF_01165	gene	534				
+CDCMDIPF_01165	CDS	534				hypothetical protein
+CDCMDIPF_01166	gene	588	nboR			
+CDCMDIPF_01166	CDS	588	nboR	1.1.1.328		Nicotine blue oxidoreductase
+CDCMDIPF_01167	gene	585	mobA_2			
+CDCMDIPF_01167	CDS	585	mobA_2	2.7.7.77		putative molybdenum cofactor guanylyltransferase
+CDCMDIPF_01168	gene	450				
+CDCMDIPF_01168	CDS	450				hypothetical protein
+CDCMDIPF_01169	gene	1005	COQ3			
+CDCMDIPF_01169	CDS	1005	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+CDCMDIPF_01170	gene	396				
+CDCMDIPF_01170	CDS	396				hypothetical protein
+CDCMDIPF_01171	gene	354				
+CDCMDIPF_01171	CDS	354				hypothetical protein
+CDCMDIPF_01172	gene	537				
+CDCMDIPF_01172	CDS	537				hypothetical protein
+CDCMDIPF_01173	gene	1173				
+CDCMDIPF_01173	CDS	1173				hypothetical protein
+CDCMDIPF_01174	gene	639	trpB_4			
+CDCMDIPF_01174	CDS	639	trpB_4	4.2.1.20	COG0133	Tryptophan synthase beta chain
+CDCMDIPF_01175	gene	939	glkA			
+CDCMDIPF_01175	CDS	939	glkA	2.7.1.2		Glucokinase
+CDCMDIPF_01176	gene	1176	dgoD			
+CDCMDIPF_01176	CDS	1176	dgoD	4.2.1.6	COG4948	D-galactonate dehydratase
+CDCMDIPF_01177	gene	213	purS			
+CDCMDIPF_01177	CDS	213	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+CDCMDIPF_01178	gene	912	mtaD			
+CDCMDIPF_01178	CDS	912	mtaD	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+CDCMDIPF_01179	gene	486	folK			
+CDCMDIPF_01179	CDS	486	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+CDCMDIPF_01180	gene	939				
+CDCMDIPF_01180	CDS	939				hypothetical protein
+CDCMDIPF_01181	gene	519				
+CDCMDIPF_01181	CDS	519				hypothetical protein
+CDCMDIPF_01182	gene	936				
+CDCMDIPF_01182	CDS	936		4.1.2.27	COG0076	putative sphingosine-1-phosphate lyase
+CDCMDIPF_01183	gene	1563	xylB			
+CDCMDIPF_01183	CDS	1563	xylB	2.7.1.17	COG1070	Xylulose kinase
+CDCMDIPF_01184	gene	435				
+CDCMDIPF_01184	CDS	435				hypothetical protein
+CDCMDIPF_01185	gene	762	hprA			
+CDCMDIPF_01185	CDS	762	hprA	1.1.1.29	COG1052	Glycerate dehydrogenase
+CDCMDIPF_01186	gene	408				
+CDCMDIPF_01186	CDS	408				hypothetical protein
+CDCMDIPF_01187	gene	546				
+CDCMDIPF_01187	CDS	546				hypothetical protein
+CDCMDIPF_01188	gene	585				
+CDCMDIPF_01188	CDS	585				hypothetical protein
+CDCMDIPF_01189	gene	843				
+CDCMDIPF_01189	CDS	843				hypothetical protein
+CDCMDIPF_01190	gene	969	htpX_2			
+CDCMDIPF_01190	CDS	969	htpX_2	3.4.24.-	COG0501	Protease HtpX 
+CDCMDIPF_01191	gene	1113				
+CDCMDIPF_01191	CDS	1113				hypothetical protein
+CDCMDIPF_01192	gene	1014	thiI_2			
+CDCMDIPF_01192	CDS	1014	thiI_2	2.8.1.4		tRNA sulfurtransferase
+CDCMDIPF_01193	gene	231				
+CDCMDIPF_01193	CDS	231				hypothetical protein
+CDCMDIPF_01194	gene	2685	ppdK			
+CDCMDIPF_01194	CDS	2685	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+CDCMDIPF_01195	gene	864	ctaB			
+CDCMDIPF_01195	CDS	864	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+CDCMDIPF_01196	gene	1197				
+CDCMDIPF_01196	CDS	1197				hypothetical protein
+CDCMDIPF_01197	gene	372				
+CDCMDIPF_01197	CDS	372				hypothetical protein
+CDCMDIPF_01198	gene	963				
+CDCMDIPF_01198	CDS	963				hypothetical protein
+CDCMDIPF_01199	gene	447				
+CDCMDIPF_01199	CDS	447				hypothetical protein
+CDCMDIPF_01200	gene	1470	dbpA_3			
+CDCMDIPF_01200	CDS	1470	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+CDCMDIPF_01201	gene	960	gcvPA			
+CDCMDIPF_01201	CDS	960	gcvPA	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+CDCMDIPF_01202	gene	315				
+CDCMDIPF_01202	CDS	315				hypothetical protein
+CDCMDIPF_01203	gene	321				
+CDCMDIPF_01203	CDS	321				hypothetical protein
+CDCMDIPF_01204	gene	2520	smc_2			
+CDCMDIPF_01204	CDS	2520	smc_2			Chromosome partition protein Smc
+CDCMDIPF_01205	gene	1167				
+CDCMDIPF_01205	CDS	1167				hypothetical protein
+CDCMDIPF_01206	gene	1527				
+CDCMDIPF_01206	CDS	1527				hypothetical protein
+CDCMDIPF_01207	gene	786				
+CDCMDIPF_01207	CDS	786				hypothetical protein
+CDCMDIPF_01208	gene	948	kdgK			
+CDCMDIPF_01208	CDS	948	kdgK	2.7.1.45		2-dehydro-3-deoxygluconokinase
+CDCMDIPF_01209	gene	402				
+CDCMDIPF_01209	CDS	402				hypothetical protein
+CDCMDIPF_01210	gene	915	mdh			
+CDCMDIPF_01210	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+CDCMDIPF_01211	gene	474				
+CDCMDIPF_01211	CDS	474				hypothetical protein
+CDCMDIPF_01212	gene	1350				
+CDCMDIPF_01212	CDS	1350		1.1.1.38		NAD-dependent malic enzyme
+CDCMDIPF_01213	gene	1167				
+CDCMDIPF_01213	CDS	1167				hypothetical protein
+CDCMDIPF_01214	gene	1122	fbp			
+CDCMDIPF_01214	CDS	1122	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+CDCMDIPF_01215	gene	699	tpiA_2			
+CDCMDIPF_01215	CDS	699	tpiA_2			Triosephosphate isomerase
+CDCMDIPF_01216	gene	666	gph			
+CDCMDIPF_01216	CDS	666	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+CDCMDIPF_01217	gene	984				
+CDCMDIPF_01217	CDS	984				hypothetical protein
+CDCMDIPF_01218	gene	648				
+CDCMDIPF_01218	CDS	648				hypothetical protein
+CDCMDIPF_01219	gene	1896	argS			
+CDCMDIPF_01219	CDS	1896	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+CDCMDIPF_01220	gene	357				
+CDCMDIPF_01220	CDS	357				hypothetical protein
+CDCMDIPF_01221	gene	2208				
+CDCMDIPF_01221	CDS	2208				hypothetical protein
+CDCMDIPF_01222	gene	372				
+CDCMDIPF_01222	CDS	372				hypothetical protein
+CDCMDIPF_01223	gene	1875				
+CDCMDIPF_01223	CDS	1875				hypothetical protein
+CDCMDIPF_01224	gene	666				
+CDCMDIPF_01224	CDS	666				hypothetical protein
+CDCMDIPF_01225	gene	300				
+CDCMDIPF_01225	CDS	300				hypothetical protein
+CDCMDIPF_01226	gene	912	btuD_4			
+CDCMDIPF_01226	CDS	912	btuD_4	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CDCMDIPF_01227	gene	1440				
+CDCMDIPF_01227	CDS	1440				hypothetical protein
+CDCMDIPF_01228	gene	192				
+CDCMDIPF_01228	CDS	192				hypothetical protein
+CDCMDIPF_01229	gene	1152				
+CDCMDIPF_01229	CDS	1152				hypothetical protein
+CDCMDIPF_01230	gene	237				
+CDCMDIPF_01230	CDS	237				hypothetical protein
+CDCMDIPF_01231	gene	540				
+CDCMDIPF_01231	CDS	540				hypothetical protein
+CDCMDIPF_01232	gene	1641	smc_3			
+CDCMDIPF_01232	CDS	1641	smc_3			Chromosome partition protein Smc
+CDCMDIPF_01233	gene	693				
+CDCMDIPF_01233	CDS	693				hypothetical protein
+CDCMDIPF_01234	gene	483				
+CDCMDIPF_01234	CDS	483				hypothetical protein
+CDCMDIPF_01235	gene	1350				
+CDCMDIPF_01235	CDS	1350				hypothetical protein
+CDCMDIPF_01236	gene	1047				
+CDCMDIPF_01236	CDS	1047				hypothetical protein
+CDCMDIPF_01237	gene	942	thrC_2			
+CDCMDIPF_01237	CDS	942	thrC_2	4.2.3.1	COG0498	Threonine synthase
+CDCMDIPF_01238	gene	504				
+CDCMDIPF_01238	CDS	504				hypothetical protein
+CDCMDIPF_01239	gene	258				
+CDCMDIPF_01239	CDS	258				hypothetical protein
+CDCMDIPF_01240	gene	567	thpR			
+CDCMDIPF_01240	CDS	567	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+CDCMDIPF_01241	gene	582				
+CDCMDIPF_01241	CDS	582				hypothetical protein
+CDCMDIPF_01242	gene	1647				
+CDCMDIPF_01242	CDS	1647				hypothetical protein
+CDCMDIPF_01243	gene	792				
+CDCMDIPF_01243	CDS	792				hypothetical protein
+CDCMDIPF_01244	gene	258				
+CDCMDIPF_01244	CDS	258				hypothetical protein
+CDCMDIPF_01245	gene	645	MENG			
+CDCMDIPF_01245	CDS	645	MENG	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+CDCMDIPF_01246	gene	213				
+CDCMDIPF_01246	CDS	213				hypothetical protein
+CDCMDIPF_01247	gene	615				
+CDCMDIPF_01247	CDS	615				hypothetical protein
+CDCMDIPF_01248	gene	282				
+CDCMDIPF_01248	CDS	282				hypothetical protein
+CDCMDIPF_01249	gene	666				
+CDCMDIPF_01249	CDS	666				hypothetical protein
+CDCMDIPF_01250	gene	909				
+CDCMDIPF_01250	CDS	909				hypothetical protein
+CDCMDIPF_01251	gene	462				
+CDCMDIPF_01251	CDS	462				hypothetical protein
+CDCMDIPF_01252	gene	513				
+CDCMDIPF_01252	CDS	513				hypothetical protein
+CDCMDIPF_01253	gene	1941	recD2			
+CDCMDIPF_01253	CDS	1941	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+CDCMDIPF_01254	gene	1479				
+CDCMDIPF_01254	CDS	1479				hypothetical protein
+CDCMDIPF_01255	gene	264				
+CDCMDIPF_01255	CDS	264				hypothetical protein
+CDCMDIPF_01256	gene	894				
+CDCMDIPF_01256	CDS	894				hypothetical protein
+CDCMDIPF_01257	gene	1512				
+CDCMDIPF_01257	CDS	1512		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+CDCMDIPF_01258	gene	1653				
+CDCMDIPF_01258	CDS	1653				hypothetical protein
+CDCMDIPF_01259	gene	942				
+CDCMDIPF_01259	CDS	942				hypothetical protein
+CDCMDIPF_01260	gene	417				
+CDCMDIPF_01260	CDS	417				hypothetical protein
+CDCMDIPF_01261	gene	684				
+CDCMDIPF_01261	CDS	684				hypothetical protein
+CDCMDIPF_01262	gene	282				
+CDCMDIPF_01262	CDS	282				hypothetical protein
+CDCMDIPF_01263	gene	951				
+CDCMDIPF_01263	CDS	951				hypothetical protein
+CDCMDIPF_01264	gene	747	pyrG_2			
+CDCMDIPF_01264	CDS	747	pyrG_2	6.3.4.2		CTP synthase
+CDCMDIPF_01265	gene	1380				
+CDCMDIPF_01265	CDS	1380				hypothetical protein
+CDCMDIPF_01266	gene	2868	deaD			
+CDCMDIPF_01266	CDS	2868	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+CDCMDIPF_01267	gene	693	narX_1			
+CDCMDIPF_01267	CDS	693	narX_1		COG2180	Nitrate reductase-like protein NarX
+CDCMDIPF_01268	gene	501	narX_2			
+CDCMDIPF_01268	CDS	501	narX_2		COG2180	Nitrate reductase-like protein NarX
+CDCMDIPF_01269	gene	1527	narH			
+CDCMDIPF_01269	CDS	1527	narH	1.7.5.1	COG1140	Respiratory nitrate reductase 1 beta chain
+CDCMDIPF_01270	gene	873	narG_2			
+CDCMDIPF_01270	CDS	873	narG_2	1.7.5.1	COG5013	Respiratory nitrate reductase 1 alpha chain
+CDCMDIPF_01271	gene	978	ndhH			
+CDCMDIPF_01271	CDS	978	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+CDCMDIPF_01272	gene	231				
+CDCMDIPF_01272	CDS	231				hypothetical protein
+CDCMDIPF_01273	gene	669	rpsB			
+CDCMDIPF_01273	CDS	669	rpsB			30S ribosomal protein S2
+CDCMDIPF_01274	gene	837				
+CDCMDIPF_01274	CDS	837				hypothetical protein
+CDCMDIPF_01275	gene	762	argB			
+CDCMDIPF_01275	CDS	762	argB	2.7.2.8		Acetylglutamate kinase
+CDCMDIPF_01276	gene	1068	fni			
+CDCMDIPF_01276	CDS	1068	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+CDCMDIPF_01277	gene	990				
+CDCMDIPF_01277	CDS	990		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+CDCMDIPF_01278	gene	984	yjmD			
+CDCMDIPF_01278	CDS	984	yjmD	1.-.-.-	COG1063	putative zinc-type alcohol dehydrogenase-like protein YjmD
+CDCMDIPF_01279	gene	648				
+CDCMDIPF_01279	CDS	648				hypothetical protein
+CDCMDIPF_01280	gene	792				
+CDCMDIPF_01280	CDS	792				hypothetical protein
+CDCMDIPF_01281	gene	468	chrB1			
+CDCMDIPF_01281	CDS	468	chrB1			Protein ChrB
+CDCMDIPF_01282	gene	339				
+CDCMDIPF_01282	CDS	339				hypothetical protein
+CDCMDIPF_01283	gene	1473				
+CDCMDIPF_01283	CDS	1473				hypothetical protein
+CDCMDIPF_01284	gene	1368	pat			
+CDCMDIPF_01284	CDS	1368	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+CDCMDIPF_01285	gene	285				
+CDCMDIPF_01285	CDS	285				hypothetical protein
+CDCMDIPF_01286	gene	1068	tdh_1			
+CDCMDIPF_01286	CDS	1068	tdh_1	1.1.1.103		L-threonine 3-dehydrogenase
+CDCMDIPF_01287	gene	828				
+CDCMDIPF_01287	CDS	828				hypothetical protein
+CDCMDIPF_01288	gene	270				
+CDCMDIPF_01288	CDS	270				hypothetical protein
+CDCMDIPF_01289	gene	888	arnC_2			
+CDCMDIPF_01289	CDS	888	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CDCMDIPF_01290	gene	459				
+CDCMDIPF_01290	CDS	459				hypothetical protein
+CDCMDIPF_01291	gene	912				
+CDCMDIPF_01291	CDS	912				hypothetical protein
+CDCMDIPF_01292	gene	252				
+CDCMDIPF_01292	CDS	252				hypothetical protein
+CDCMDIPF_01293	gene	390				
+CDCMDIPF_01293	CDS	390				hypothetical protein
+CDCMDIPF_01294	gene	777	sufC_3			
+CDCMDIPF_01294	CDS	777	sufC_3		COG0396	Vegetative protein 296
+CDCMDIPF_01295	gene	648				
+CDCMDIPF_01295	CDS	648				hypothetical protein
+CDCMDIPF_01296	gene	450	hrp1_2			
+CDCMDIPF_01296	CDS	450	hrp1_2		COG0517	Hypoxic response protein 1
+CDCMDIPF_01297	gene	909	metE			
+CDCMDIPF_01297	CDS	909	metE	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+CDCMDIPF_01298	gene	1299	asnS_3			
+CDCMDIPF_01298	CDS	1299	asnS_3	6.1.1.22		Asparagine--tRNA ligase
+CDCMDIPF_01299	gene	2019	kdhC			
+CDCMDIPF_01299	CDS	2019	kdhC	1.5.99.14		6-hydroxypseudooxynicotine dehydrogenase complex subunit gamma
+CDCMDIPF_01300	gene	948				
+CDCMDIPF_01300	CDS	948				hypothetical protein
+CDCMDIPF_01301	gene	2295				
+CDCMDIPF_01301	CDS	2295				hypothetical protein
+CDCMDIPF_01302	gene	1284				
+CDCMDIPF_01302	CDS	1284				hypothetical protein
+CDCMDIPF_01303	gene	2454				
+CDCMDIPF_01303	rRNA	2454				23S ribosomal RNA (partial)
+CDCMDIPF_01304	gene	429				
+CDCMDIPF_01304	CDS	429				hypothetical protein
+CDCMDIPF_01305	gene	726				
+CDCMDIPF_01305	CDS	726				hypothetical protein
+CDCMDIPF_01306	gene	417				
+CDCMDIPF_01306	CDS	417				hypothetical protein
+CDCMDIPF_01307	gene	327	aroD			
+CDCMDIPF_01307	CDS	327	aroD	4.2.1.10		3-dehydroquinate dehydratase
+CDCMDIPF_01308	gene	816	aroE			
+CDCMDIPF_01308	CDS	816	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+CDCMDIPF_01309	gene	882	thrB_2			
+CDCMDIPF_01309	CDS	882	thrB_2	2.7.1.39		Homoserine kinase
+CDCMDIPF_01310	gene	294	aroA_2			
+CDCMDIPF_01310	CDS	294	aroA_2	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+CDCMDIPF_01311	gene	2037	patZ			
+CDCMDIPF_01311	CDS	2037	patZ	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase PatZ
+CDCMDIPF_01312	gene	531	upp_1			
+CDCMDIPF_01312	CDS	531	upp_1	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+CDCMDIPF_01313	gene	672				
+CDCMDIPF_01313	CDS	672				hypothetical protein
+CDCMDIPF_01314	gene	288				
+CDCMDIPF_01314	CDS	288				hypothetical protein
+CDCMDIPF_01315	gene	717				
+CDCMDIPF_01315	CDS	717				hypothetical protein
+CDCMDIPF_01316	gene	381				
+CDCMDIPF_01316	CDS	381				hypothetical protein
+CDCMDIPF_01317	gene	441				
+CDCMDIPF_01317	CDS	441				hypothetical protein
+CDCMDIPF_01318	gene	318	yodB			
+CDCMDIPF_01318	CDS	318	yodB		COG1733	HTH-type transcriptional regulator YodB
+CDCMDIPF_01319	gene	993				
+CDCMDIPF_01319	CDS	993				hypothetical protein
+CDCMDIPF_01320	gene	375				
+CDCMDIPF_01320	CDS	375				hypothetical protein
+CDCMDIPF_01321	gene	699				
+CDCMDIPF_01321	CDS	699				hypothetical protein
+CDCMDIPF_01322	gene	459				
+CDCMDIPF_01322	CDS	459				hypothetical protein
+CDCMDIPF_01323	gene	210				
+CDCMDIPF_01323	CDS	210				hypothetical protein
+CDCMDIPF_01324	gene	291				
+CDCMDIPF_01324	CDS	291				hypothetical protein
+CDCMDIPF_01325	gene	270				
+CDCMDIPF_01325	CDS	270				hypothetical protein
+CDCMDIPF_01326	gene	729				
+CDCMDIPF_01326	CDS	729				hypothetical protein
+CDCMDIPF_01327	gene	342				
+CDCMDIPF_01327	CDS	342				hypothetical protein
+CDCMDIPF_01328	gene	1332				
+CDCMDIPF_01328	CDS	1332				IS256 family transposase ISCsa2
+CDCMDIPF_01329	gene	756				
+CDCMDIPF_01329	CDS	756				hypothetical protein
+CDCMDIPF_01330	gene	273				
+CDCMDIPF_01330	CDS	273				hypothetical protein
+CDCMDIPF_01331	gene	1311	cbbL			
+CDCMDIPF_01331	CDS	1311	cbbL	4.1.1.39		Ribulose bisphosphate carboxylase large chain
+CDCMDIPF_01332	gene	369				
+CDCMDIPF_01332	CDS	369				hypothetical protein
+CDCMDIPF_01333	gene	429				
+CDCMDIPF_01333	CDS	429				hypothetical protein
+CDCMDIPF_01334	gene	1041	tdh_2			
+CDCMDIPF_01334	CDS	1041	tdh_2	1.1.1.103	COG1063	L-threonine 3-dehydrogenase
+CDCMDIPF_01335	gene	618				
+CDCMDIPF_01335	CDS	618				hypothetical protein
+CDCMDIPF_01336	gene	510				
+CDCMDIPF_01336	CDS	510				hypothetical protein
+CDCMDIPF_01337	gene	1272				
+CDCMDIPF_01337	CDS	1272				hypothetical protein
+CDCMDIPF_01338	gene	981	degQ			
+CDCMDIPF_01338	CDS	981	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+CDCMDIPF_01339	gene	1260				
+CDCMDIPF_01339	CDS	1260				hypothetical protein
+CDCMDIPF_01340	gene	285				
+CDCMDIPF_01340	CDS	285				hypothetical protein
+CDCMDIPF_01341	gene	846				
+CDCMDIPF_01341	CDS	846				hypothetical protein
+CDCMDIPF_01342	gene	375				
+CDCMDIPF_01342	CDS	375				hypothetical protein
+CDCMDIPF_01343	gene	582				
+CDCMDIPF_01343	CDS	582				hypothetical protein
+CDCMDIPF_01344	gene	576	hutU_3			
+CDCMDIPF_01344	CDS	576	hutU_3	4.2.1.49	COG2987	Urocanate hydratase
+CDCMDIPF_01345	gene	996	folP			
+CDCMDIPF_01345	CDS	996	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+CDCMDIPF_01346	gene	300				
+CDCMDIPF_01346	CDS	300				hypothetical protein
+CDCMDIPF_01347	gene	573				
+CDCMDIPF_01347	CDS	573				hypothetical protein
+CDCMDIPF_01348	gene	240				
+CDCMDIPF_01348	CDS	240				hypothetical protein
+CDCMDIPF_01349	gene	750				
+CDCMDIPF_01349	CDS	750				hypothetical protein
+CDCMDIPF_01350	gene	675				
+CDCMDIPF_01350	CDS	675				hypothetical protein
+CDCMDIPF_01351	gene	1452				
+CDCMDIPF_01351	CDS	1452				hypothetical protein
+CDCMDIPF_01352	gene	306				
+CDCMDIPF_01352	CDS	306				hypothetical protein
+CDCMDIPF_01353	gene	543	dcd			
+CDCMDIPF_01353	CDS	543	dcd	3.5.4.13		dCTP deaminase, dUMP-forming
+CDCMDIPF_01354	gene	1044				
+CDCMDIPF_01354	CDS	1044				hypothetical protein
+CDCMDIPF_01355	gene	1343				
+CDCMDIPF_01355	rRNA	1343				16S ribosomal RNA
+CDCMDIPF_01356	gene	1957				
+CDCMDIPF_01356	rRNA	1957				23S ribosomal RNA (partial)
+CDCMDIPF_01357	gene	103				
+CDCMDIPF_01357	tRNA	103				tRNA-Leu(aag)
+CDCMDIPF_01358	gene	1443	dapE			
+CDCMDIPF_01358	CDS	1443	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+CDCMDIPF_01359	gene	267				
+CDCMDIPF_01359	CDS	267				hypothetical protein
+CDCMDIPF_01360	gene	756				
+CDCMDIPF_01360	CDS	756				hypothetical protein
+CDCMDIPF_01361	gene	381				
+CDCMDIPF_01361	CDS	381				hypothetical protein
+CDCMDIPF_01362	gene	720				
+CDCMDIPF_01362	CDS	720				hypothetical protein
+CDCMDIPF_01363	gene	759				
+CDCMDIPF_01363	CDS	759				hypothetical protein
+CDCMDIPF_01364	gene	396	prcA			
+CDCMDIPF_01364	CDS	396	prcA			Proteasome subunit alpha
+CDCMDIPF_01365	gene	540				
+CDCMDIPF_01365	CDS	540				hypothetical protein
+CDCMDIPF_01366	gene	486	mshD			
+CDCMDIPF_01366	CDS	486	mshD	2.3.1.189		Mycothiol acetyltransferase
+CDCMDIPF_01367	gene	771				
+CDCMDIPF_01367	CDS	771				hypothetical protein
+CDCMDIPF_01368	gene	549				
+CDCMDIPF_01368	CDS	549				hypothetical protein
+CDCMDIPF_01369	gene	585				
+CDCMDIPF_01369	CDS	585				hypothetical protein
+CDCMDIPF_01370	gene	480				
+CDCMDIPF_01370	CDS	480				hypothetical protein
+CDCMDIPF_01371	gene	606				
+CDCMDIPF_01371	CDS	606				hypothetical protein
+CDCMDIPF_01372	gene	252				
+CDCMDIPF_01372	CDS	252				hypothetical protein
+CDCMDIPF_01373	gene	480				
+CDCMDIPF_01373	CDS	480				hypothetical protein
+CDCMDIPF_01374	gene	402				
+CDCMDIPF_01374	CDS	402				hypothetical protein
+CDCMDIPF_01375	gene	522				
+CDCMDIPF_01375	CDS	522				hypothetical protein
+CDCMDIPF_01376	gene	549				
+CDCMDIPF_01376	CDS	549				hypothetical protein
+CDCMDIPF_01377	gene	573				
+CDCMDIPF_01377	CDS	573				IS200/IS605 family transposase ISHsal13
+CDCMDIPF_01378	gene	432				
+CDCMDIPF_01378	CDS	432				hypothetical protein
+CDCMDIPF_01379	gene	750				
+CDCMDIPF_01379	CDS	750				hypothetical protein
+CDCMDIPF_01380	gene	267				
+CDCMDIPF_01380	CDS	267				hypothetical protein
+CDCMDIPF_01381	gene	1336				
+CDCMDIPF_01381	rRNA	1336				16S ribosomal RNA
+CDCMDIPF_01382	gene	999				
+CDCMDIPF_01382	CDS	999				hypothetical protein
+CDCMDIPF_01383	gene	501				
+CDCMDIPF_01383	CDS	501				hypothetical protein
+CDCMDIPF_01384	gene	390				
+CDCMDIPF_01384	CDS	390				hypothetical protein
+CDCMDIPF_01385	gene	1128	entS			
+CDCMDIPF_01385	CDS	1128	entS			Enterobactin exporter EntS
+CDCMDIPF_01386	gene	438	upp_2			
+CDCMDIPF_01386	CDS	438	upp_2	2.4.2.9		Uracil phosphoribosyltransferase
+CDCMDIPF_01387	gene	411				
+CDCMDIPF_01387	CDS	411				hypothetical protein
+CDCMDIPF_01388	gene	1041				
+CDCMDIPF_01388	CDS	1041				IS110 family transposase ISHvo9
+CDCMDIPF_01389	gene	1329				
+CDCMDIPF_01389	CDS	1329				hypothetical protein
+CDCMDIPF_01390	gene	339				
+CDCMDIPF_01390	CDS	339				hypothetical protein
+CDCMDIPF_01391	gene	465				
+CDCMDIPF_01391	CDS	465				hypothetical protein
+CDCMDIPF_01392	gene	228				
+CDCMDIPF_01392	CDS	228				hypothetical protein
+CDCMDIPF_01393	gene	984	mvaA			
+CDCMDIPF_01393	CDS	984	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+CDCMDIPF_01394	gene	522				
+CDCMDIPF_01394	CDS	522				hypothetical protein
+CDCMDIPF_01395	gene	720				
+CDCMDIPF_01395	CDS	720				IS256 family transposase ISCsa2
+CDCMDIPF_01396	gene	459				
+CDCMDIPF_01396	CDS	459				hypothetical protein
+CDCMDIPF_01397	gene	288				
+CDCMDIPF_01397	CDS	288				hypothetical protein
+CDCMDIPF_01398	gene	555	apt_2			
+CDCMDIPF_01398	CDS	555	apt_2	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+CDCMDIPF_01399	gene	639	OLA1_2			
+CDCMDIPF_01399	CDS	639	OLA1_2			Obg-like ATPase 1
+CDCMDIPF_01400	gene	687	queC_2			
+CDCMDIPF_01400	CDS	687	queC_2	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+CDCMDIPF_01401	gene	369				
+CDCMDIPF_01401	CDS	369				hypothetical protein
+CDCMDIPF_01402	gene	1281				
+CDCMDIPF_01402	CDS	1281				hypothetical protein
+CDCMDIPF_01403	gene	249				
+CDCMDIPF_01403	CDS	249				hypothetical protein
+CDCMDIPF_01404	gene	396				
+CDCMDIPF_01404	CDS	396				hypothetical protein
+CDCMDIPF_01405	gene	312				
+CDCMDIPF_01405	CDS	312				hypothetical protein
+CDCMDIPF_01406	gene	1005				
+CDCMDIPF_01406	CDS	1005				hypothetical protein
+CDCMDIPF_01407	gene	393				
+CDCMDIPF_01407	CDS	393				hypothetical protein
+CDCMDIPF_01408	gene	561				
+CDCMDIPF_01408	CDS	561		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+CDCMDIPF_01409	gene	279				
+CDCMDIPF_01409	CDS	279				hypothetical protein
+CDCMDIPF_01410	gene	435				
+CDCMDIPF_01410	CDS	435				hypothetical protein
+CDCMDIPF_01411	gene	225				
+CDCMDIPF_01411	CDS	225				hypothetical protein
+CDCMDIPF_01412	gene	444	gcvH_3			
+CDCMDIPF_01412	CDS	444	gcvH_3			Glycine cleavage system H protein
+CDCMDIPF_01413	gene	663	lplA			
+CDCMDIPF_01413	CDS	663	lplA	6.3.1.20		Lipoate-protein ligase A
+CDCMDIPF_01414	gene	570				
+CDCMDIPF_01414	CDS	570				hypothetical protein
+CDCMDIPF_01415	gene	771				
+CDCMDIPF_01415	CDS	771		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+CDCMDIPF_01416	gene	315				
+CDCMDIPF_01416	CDS	315				hypothetical protein
+CDCMDIPF_01417	gene	459				
+CDCMDIPF_01417	CDS	459				hypothetical protein
+CDCMDIPF_01418	gene	405				
+CDCMDIPF_01418	CDS	405				hypothetical protein
+CDCMDIPF_01419	gene	429				
+CDCMDIPF_01419	CDS	429				hypothetical protein
+CDCMDIPF_01420	gene	594				
+CDCMDIPF_01420	CDS	594				hypothetical protein
+CDCMDIPF_01421	gene	417				
+CDCMDIPF_01421	CDS	417				hypothetical protein
+CDCMDIPF_01422	gene	567	sucD			
+CDCMDIPF_01422	CDS	567	sucD	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit alpha
+CDCMDIPF_01423	gene	777				
+CDCMDIPF_01423	CDS	777				hypothetical protein
+CDCMDIPF_01424	gene	561	mopA			
+CDCMDIPF_01424	CDS	561	mopA		COG2005	Molybdenum-pterin-binding protein MopA
+CDCMDIPF_01425	gene	282				
+CDCMDIPF_01425	CDS	282				hypothetical protein
+CDCMDIPF_01426	gene	816	bcrA			
+CDCMDIPF_01426	CDS	816	bcrA			Bacitracin transport ATP-binding protein BcrA
+CDCMDIPF_01427	gene	432				
+CDCMDIPF_01427	CDS	432			COG0328	Bifunctional protein
+CDCMDIPF_01428	gene	762	ecsA			
+CDCMDIPF_01428	CDS	762	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+CDCMDIPF_01429	gene	543				
+CDCMDIPF_01429	CDS	543				hypothetical protein
+CDCMDIPF_01430	gene	639	rpiA			
+CDCMDIPF_01430	CDS	639	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+CDCMDIPF_01431	gene	297				
+CDCMDIPF_01431	CDS	297				hypothetical protein
+CDCMDIPF_01432	gene	357				
+CDCMDIPF_01432	CDS	357				hypothetical protein
+CDCMDIPF_01433	gene	390	mii			
+CDCMDIPF_01433	CDS	390	mii	5.3.3.6		3-methylitaconate isomerase
+CDCMDIPF_01434	gene	456				
+CDCMDIPF_01434	CDS	456				hypothetical protein
+CDCMDIPF_01435	gene	354				
+CDCMDIPF_01435	CDS	354				hypothetical protein
+CDCMDIPF_01436	gene	483	ahpF			
+CDCMDIPF_01436	CDS	483	ahpF	1.8.1.-	COG3634	Alkyl hydroperoxide reductase subunit F
+CDCMDIPF_01437	gene	213				
+CDCMDIPF_01437	CDS	213				hypothetical protein
+CDCMDIPF_01438	gene	1290				
+CDCMDIPF_01438	rRNA	1290				23S ribosomal RNA (partial)
+CDCMDIPF_01439	gene	699	mntH			
+CDCMDIPF_01439	CDS	699	mntH			Divalent metal cation transporter MntH
+CDCMDIPF_01440	gene	384				
+CDCMDIPF_01440	CDS	384				hypothetical protein
+CDCMDIPF_01441	gene	765				
+CDCMDIPF_01441	CDS	765				IS110 family transposase ISHvo9
+CDCMDIPF_01442	gene	285				
+CDCMDIPF_01442	CDS	285				hypothetical protein
+CDCMDIPF_01443	gene	951	fgd_4			
+CDCMDIPF_01443	CDS	951	fgd_4	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+CDCMDIPF_01444	gene	264				
+CDCMDIPF_01444	CDS	264				hypothetical protein
+CDCMDIPF_01445	gene	546	guaA_2			
+CDCMDIPF_01445	CDS	546	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+CDCMDIPF_01446	gene	966				
+CDCMDIPF_01446	CDS	966				hypothetical protein
+CDCMDIPF_01447	gene	1287	yveA			
+CDCMDIPF_01447	CDS	1287	yveA		COG0531	Aspartate-proton symporter
+CDCMDIPF_01448	gene	486				
+CDCMDIPF_01448	CDS	486				hypothetical protein
+CDCMDIPF_01449	gene	618				
+CDCMDIPF_01449	CDS	618				hypothetical protein
+CDCMDIPF_01450	gene	924				
+CDCMDIPF_01450	CDS	924				hypothetical protein
+CDCMDIPF_01451	gene	225				
+CDCMDIPF_01451	CDS	225				hypothetical protein
+CDCMDIPF_01452	gene	438				
+CDCMDIPF_01452	CDS	438				hypothetical protein
+CDCMDIPF_01453	gene	369				
+CDCMDIPF_01453	CDS	369				hypothetical protein
+CDCMDIPF_01454	gene	690				
+CDCMDIPF_01454	CDS	690				hypothetical protein
+CDCMDIPF_01455	gene	267				
+CDCMDIPF_01455	CDS	267				hypothetical protein
+CDCMDIPF_01456	gene	945				
+CDCMDIPF_01456	CDS	945				IS200/IS605 family transposase ISMma22
+CDCMDIPF_01457	gene	390				
+CDCMDIPF_01457	CDS	390				hypothetical protein
+CDCMDIPF_01458	gene	765				
+CDCMDIPF_01458	CDS	765				hypothetical protein
+CDCMDIPF_01459	gene	462				
+CDCMDIPF_01459	CDS	462				hypothetical protein
+CDCMDIPF_01460	gene	417				
+CDCMDIPF_01460	CDS	417				hypothetical protein
+CDCMDIPF_01461	gene	351				
+CDCMDIPF_01461	CDS	351				hypothetical protein
+CDCMDIPF_01462	gene	501				
+CDCMDIPF_01462	CDS	501				hypothetical protein
+CDCMDIPF_01463	gene	540				
+CDCMDIPF_01463	CDS	540				hypothetical protein
+CDCMDIPF_01464	gene	492				
+CDCMDIPF_01464	CDS	492				hypothetical protein
+CDCMDIPF_01465	gene	600	cysA_2			
+CDCMDIPF_01465	CDS	600	cysA_2	7.3.2.3	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+CDCMDIPF_01466	gene	501				
+CDCMDIPF_01466	CDS	501				hypothetical protein
+CDCMDIPF_01467	gene	411				
+CDCMDIPF_01467	CDS	411				hypothetical protein
+CDCMDIPF_01468	gene	294				
+CDCMDIPF_01468	CDS	294			COG3039	IS5 family transposase ISArch23
+CDCMDIPF_01469	gene	1169				
+CDCMDIPF_01469	rRNA	1169				23S ribosomal RNA (partial)
+CDCMDIPF_01470	gene	423				
+CDCMDIPF_01470	CDS	423				hypothetical protein
+CDCMDIPF_01471	gene	237				
+CDCMDIPF_01471	CDS	237				hypothetical protein
+CDCMDIPF_01472	gene	360				
+CDCMDIPF_01472	CDS	360				hypothetical protein
+CDCMDIPF_01473	gene	336				
+CDCMDIPF_01473	CDS	336				hypothetical protein
+CDCMDIPF_01474	gene	528				
+CDCMDIPF_01474	CDS	528				hypothetical protein
+CDCMDIPF_01475	gene	444				
+CDCMDIPF_01475	CDS	444				hypothetical protein
+CDCMDIPF_01476	gene	585				
+CDCMDIPF_01476	CDS	585				hypothetical protein
+CDCMDIPF_01477	gene	561	pgk			
+CDCMDIPF_01477	CDS	561	pgk	2.7.2.3		Phosphoglycerate kinase
+CDCMDIPF_01478	gene	426				
+CDCMDIPF_01478	CDS	426			COG1055	putative transporter
+CDCMDIPF_01479	gene	495				
+CDCMDIPF_01479	CDS	495				hypothetical protein
+CDCMDIPF_01480	gene	768				
+CDCMDIPF_01480	CDS	768				hypothetical protein
+CDCMDIPF_01481	gene	561				
+CDCMDIPF_01481	CDS	561				hypothetical protein
+CDCMDIPF_01482	gene	345				
+CDCMDIPF_01482	CDS	345				hypothetical protein
+CDCMDIPF_01483	gene	495	gapN			
+CDCMDIPF_01483	CDS	495	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+CDCMDIPF_01484	gene	441				
+CDCMDIPF_01484	CDS	441				hypothetical protein
+CDCMDIPF_01485	gene	231				
+CDCMDIPF_01485	CDS	231				hypothetical protein
+CDCMDIPF_01486	gene	723				
+CDCMDIPF_01486	CDS	723				hypothetical protein
+CDCMDIPF_01487	gene	1047	lutB			
+CDCMDIPF_01487	CDS	1047	lutB		COG1139	Lactate utilization protein B
+CDCMDIPF_01488	gene	456				
+CDCMDIPF_01488	CDS	456				hypothetical protein
+CDCMDIPF_01489	gene	744				
+CDCMDIPF_01489	CDS	744				hypothetical protein
+CDCMDIPF_01490	gene	318				
+CDCMDIPF_01490	CDS	318		4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+CDCMDIPF_01491	gene	420				
+CDCMDIPF_01491	CDS	420				hypothetical protein
+CDCMDIPF_01492	gene	636				
+CDCMDIPF_01492	CDS	636				hypothetical protein
+CDCMDIPF_01493	gene	1121				
+CDCMDIPF_01493	rRNA	1121				16S ribosomal RNA (partial)
+CDCMDIPF_01494	gene	537				
+CDCMDIPF_01494	CDS	537				hypothetical protein
+CDCMDIPF_01495	gene	447	mutT4			
+CDCMDIPF_01495	CDS	447	mutT4	3.6.1.-	COG0494	Putative mutator protein MutT4
+CDCMDIPF_01496	gene	1095				
+CDCMDIPF_01496	rRNA	1095				23S ribosomal RNA (partial)
+CDCMDIPF_01497	gene	594				
+CDCMDIPF_01497	CDS	594				IS481 family transposase ISA0963-1
+CDCMDIPF_01498	gene	750				
+CDCMDIPF_01498	CDS	750				hypothetical protein
+CDCMDIPF_01499	gene	432				
+CDCMDIPF_01499	CDS	432				hypothetical protein
+CDCMDIPF_01500	gene	294				
+CDCMDIPF_01500	CDS	294				hypothetical protein
+CDCMDIPF_01501	gene	375				
+CDCMDIPF_01501	CDS	375				hypothetical protein
+CDCMDIPF_01502	gene	420				
+CDCMDIPF_01502	CDS	420				hypothetical protein
+CDCMDIPF_01503	gene	513				
+CDCMDIPF_01503	CDS	513				hypothetical protein
+CDCMDIPF_01504	gene	240				
+CDCMDIPF_01504	CDS	240				hypothetical protein
+CDCMDIPF_01505	gene	387	macB			
+CDCMDIPF_01505	CDS	387	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+CDCMDIPF_01506	gene	210				
+CDCMDIPF_01506	CDS	210				hypothetical protein
+CDCMDIPF_01507	gene	348				
+CDCMDIPF_01507	CDS	348				hypothetical protein
+CDCMDIPF_01508	gene	801				
+CDCMDIPF_01508	CDS	801			COG3039	IS5 family transposase ISMeco1
+CDCMDIPF_01509	gene	300				
+CDCMDIPF_01509	CDS	300				hypothetical protein
+CDCMDIPF_01510	gene	360				
+CDCMDIPF_01510	CDS	360				hypothetical protein
+CDCMDIPF_01511	gene	477				
+CDCMDIPF_01511	CDS	477				hypothetical protein
+CDCMDIPF_01512	gene	288				
+CDCMDIPF_01512	CDS	288				hypothetical protein
+CDCMDIPF_01513	gene	243				
+CDCMDIPF_01513	CDS	243				hypothetical protein
+CDCMDIPF_01514	gene	264				
+CDCMDIPF_01514	CDS	264				hypothetical protein
+CDCMDIPF_01515	gene	989				
+CDCMDIPF_01515	rRNA	989				23S ribosomal RNA (partial)
+CDCMDIPF_01516	gene	891				
+CDCMDIPF_01516	CDS	891				IS110 family transposase ISHvo10
+CDCMDIPF_01517	gene	276				
+CDCMDIPF_01517	CDS	276				hypothetical protein
+CDCMDIPF_01518	gene	510				
+CDCMDIPF_01518	CDS	510				hypothetical protein
+CDCMDIPF_01519	gene	561				
+CDCMDIPF_01519	CDS	561				hypothetical protein
+CDCMDIPF_01520	gene	321				
+CDCMDIPF_01520	CDS	321				hypothetical protein
+CDCMDIPF_01521	gene	252				
+CDCMDIPF_01521	CDS	252				hypothetical protein
+CDCMDIPF_01522	gene	360				
+CDCMDIPF_01522	CDS	360				hypothetical protein
+CDCMDIPF_01523	gene	537				
+CDCMDIPF_01523	CDS	537				hypothetical protein
+CDCMDIPF_01524	gene	429				
+CDCMDIPF_01524	CDS	429				hypothetical protein
+CDCMDIPF_01525	gene	288				
+CDCMDIPF_01525	CDS	288				hypothetical protein
+CDCMDIPF_01526	gene	948	lig			
+CDCMDIPF_01526	CDS	948	lig	6.5.1.1		DNA ligase
+CDCMDIPF_01527	gene	819	wbpA_2			
+CDCMDIPF_01527	CDS	819	wbpA_2	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+CDCMDIPF_01528	gene	525				
+CDCMDIPF_01528	CDS	525				hypothetical protein
+CDCMDIPF_01529	gene	687	acs			
+CDCMDIPF_01529	CDS	687	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+CDCMDIPF_01530	gene	450				
+CDCMDIPF_01530	CDS	450				hypothetical protein
+CDCMDIPF_01531	gene	435				
+CDCMDIPF_01531	CDS	435				hypothetical protein
+CDCMDIPF_01532	gene	351				
+CDCMDIPF_01532	CDS	351				hypothetical protein
+CDCMDIPF_01533	gene	267				
+CDCMDIPF_01533	CDS	267				hypothetical protein

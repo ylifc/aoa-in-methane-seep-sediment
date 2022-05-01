@@ -1,0 +1,308 @@
+[20:02:20] This is prokka 1.14.6
+[20:02:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[20:02:20] Homepage is https://github.com/tseemann/prokka
+[20:02:20] Local time is Sun Oct 31 20:02:20 2021
+[20:02:20] You are ylifc
+[20:02:20] Operating system is linux
+[20:02:20] You have BioPerl 1.007002
+[20:02:20] System has 64 cores.
+[20:02:20] Will use maximum of 64 cores.
+[20:02:20] Annotating as >>> Bacteria <<<
+[20:02:20] Generating locus_tag from 'AAA007-N19.fa' contents.
+[20:02:20] Setting --locustag ADDFNANM from MD5 addf7a7688105b8c64ca4b1d10608b24
+[20:02:20] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[20:02:20] Creating new output folder: AAA007-N19.fa_prokka
+[20:02:20] Running: mkdir -p AAA007\-N19\.fa_prokka
+[20:02:20] Using filename prefix: PROKKA_10312021.XXX
+[20:02:20] Setting HMMER_NCPU=1
+[20:02:20] Writing log to: AAA007-N19.fa_prokka/PROKKA_10312021.log
+[20:02:20] Command: /home/ylifc/miniconda2/envs/prokka/bin/prokka --cpus 0 --compliant --rfam AAA007-N19.fa --outdir AAA007-N19.fa_prokka
+[20:02:20] Appending to PATH: /home/ylifc/miniconda2/envs/prokka/bin
+[20:02:20] Looking for 'aragorn' - found /home/ylifc/miniconda2/envs/prokka/bin/aragorn
+[20:02:20] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[20:02:20] Looking for 'barrnap' - found /home/ylifc/miniconda2/envs/prokka/bin/barrnap
+[20:02:20] Determined barrnap version is 000009 from 'barrnap 0.9'
+[20:02:20] Looking for 'blastp' - found /home/ylifc/miniconda2/envs/prokka/bin/blastp
+[20:02:22] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[20:02:22] Looking for 'cmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/cmpress
+[20:02:22] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[20:02:22] Looking for 'cmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/cmscan
+[20:02:22] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[20:02:22] Looking for 'egrep' - found /bin/egrep
+[20:02:22] Looking for 'find' - found /usr/bin/find
+[20:02:22] Looking for 'grep' - found /bin/grep
+[20:02:22] Looking for 'hmmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmpress
+[20:02:22] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[20:02:22] Looking for 'hmmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmscan
+[20:02:22] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[20:02:22] Looking for 'java' - found /home/ylifc/miniconda2/envs/prokka/bin/java
+[20:02:22] Looking for 'makeblastdb' - found /home/ylifc/miniconda2/envs/prokka/bin/makeblastdb
+[20:02:24] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[20:02:24] Looking for 'minced' - found /home/ylifc/miniconda2/envs/prokka/bin/minced
+[20:02:24] Determined minced version is 004002 from 'minced 0.4.2'
+[20:02:24] Looking for 'parallel' - found /home/ylifc/miniconda2/envs/prokka/bin/parallel
+[20:02:25] Determined parallel version is 20211022 from 'GNU parallel 20211022'
+[20:02:25] Looking for 'prodigal' - found /home/ylifc/miniconda2/envs/prokka/bin/prodigal
+[20:02:25] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[20:02:25] Looking for 'prokka-genbank_to_fasta_db' - found /home/ylifc/miniconda2/envs/prokka/bin/prokka-genbank_to_fasta_db
+[20:02:25] Looking for 'sed' - found /bin/sed
+[20:02:25] Looking for 'tbl2asn' - found /home/ylifc/miniconda2/envs/prokka/bin/tbl2asn
+[20:02:25] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[20:02:25] Using genetic code table 11.
+[20:02:25] Loading and checking input file: AAA007-N19.fa
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00151_NODE_104_len_145_cov_17964_234375.151
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00152_NODE_18_len_135_cov_46714_660156.152
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00153_NODE_290_len_135_cov_19495_029297.153
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00154_NODE_133_len_133_cov_36457_097656.154
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00155_NODE_197_len_133_cov_43326_406250.155
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00156_NODE_168_len_131_cov_46899_097656.156
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00157_NODE_251_len_126_cov_28252_650391.157
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00158_NODE_134_len_119_cov_70627_937500.158
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00159_NODE_207_len_118_cov_50371_152344.159
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00160_NODE_4_len_116_cov_46296_722656.160
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00161_NODE_92_len_115_cov_29608_208984.161
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00162_NODE_169_len_109_cov_27633_513672.162
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00163_NODE_45_len_108_cov_54532_304688.163
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00164_NODE_352_len_105_cov_7083_304688.164
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00165_NODE_37_len_101_cov_68017_734375.165
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00166_NODE_57_len_101_cov_11864_049805.166
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00167_NODE_191_len_100_cov_41917_449219.167
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00168_NODE_91_len_97_cov_14443_267578.168
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00169_NODE_135_len_97_cov_34302_144531.169
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00170_NODE_211_len_96_cov_56223_000000.170
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00171_NODE_289_len_88_cov_26478_181641.171
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00172_NODE_312_len_85_cov_16704_929688.172
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00173_NODE_305_len_81_cov_614_469116.173
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00174_NODE_322_len_79_cov_10192_607422.174
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00175_NODE_53_len_78_cov_15418_730469.175
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00176_NODE_269_len_77_cov_18693_597656.176
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00177_NODE_244_len_76_cov_20387_105469.177
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00178_NODE_17_len_75_cov_73857_320312.178
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00179_NODE_32_len_75_cov_72664_812500.179
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00180_NODE_137_len_75_cov_12504_013672.180
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00181_NODE_173_len_73_cov_44286_929688.181
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00182_NODE_249_len_73_cov_33425_492188.182
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00183_NODE_179_len_68_cov_11477_220703.183
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00184_NODE_103_len_66_cov_7239_515137.184
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00185_NODE_93_len_63_cov_35203_015625.185
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00186_NODE_100_len_62_cov_27530_208984.186
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00187_NODE_354_len_60_cov_35891_199219.187
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00188_NODE_209_len_58_cov_50721_742188.188
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00189_NODE_35_len_57_cov_67392_945312.189
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00190_NODE_381_len_56_cov_4658_910645.190
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00191_NODE_112_len_55_cov_38059_328125.191
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00192_NODE_174_len_55_cov_5559_218262.192
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00193_NODE_323_len_55_cov_19964_654297.193
+[20:02:25] Skipping short (<200 bp) contig: A7N19_AAA007N19_contig00194_NODE_370_len_55_cov_1887_545410.194
+[20:02:25] Wrote 150 contigs totalling 881982 bp.
+[20:02:25] Predicting tRNAs and tmRNAs
+[20:02:25] Running: aragorn -l -gc11  -w AAA007\-N19\.fa_prokka\/PROKKA_10312021\.fna
+[20:02:26] 1 tRNA-Val c[20916,20992] 37 (cac)
+[20:02:26] 2 tRNA-Thr [25680,25754] 36 (tgt)
+[20:02:26] 1 tRNA-Ala c[6398,6472] 33 (cgc)
+[20:02:26] 2 tRNA-Leu c[11602,11689] 37 (tag)
+[20:02:26] 3 tRNA-Ser [19352,19437] 36 (tga)
+[20:02:26] 4 tRNA-Pro c[29792,29867] 36 (cgg)
+[20:02:26] 5 tRNA-Ala [32801,32877] 35 (ggc)
+[20:02:26] 6 tRNA-Lys c[41301,41376] 36 (ctt)
+[20:02:26] 7 tRNA-Arg [48849,48923] 36 (tcg)
+[20:02:26] 1 tRNA-Gln [5225,5297] 34 (ttg)
+[20:02:26] 2 tRNA-Gly [24270,24343] 35 (ccc)
+[20:02:26] 1 tRNA-Leu c[45905,45990] 38 (cag)
+[20:02:26] 1 tRNA-Arg c[17352,17428] 37 (tct)
+[20:02:26] 2 tRNA-His [29801,29873] 33 (gtg)
+[20:02:26] 3 tRNA-Leu [39750,39836] 38 (gag)
+[20:02:26] 1 tRNA-Pro c[16967,17042] 36 (tgg)
+[20:02:26] 1 tRNA-Gly c[4691,4764] 36 (gcc)
+[20:02:26] 2 tRNA-Glu c[7006,7081] 37 (ctc)
+[20:02:26] 1 tRNA-Cys [11750,11824] 35 (gca)
+[20:02:26] 2 tRNA-Thr c[15587,15660] 35 (cgt)
+[20:02:26] 1 tRNA-Pro c[1631,1704] 35 (ggg)
+[20:02:26] 1 tRNA-Met [8477,8551] 36 (cat)
+[20:02:26] 1 tRNA-Ser [4556,4640] 35 (gct)
+[20:02:26] 1 tRNA-Gly [10043,10118] 37 (tcc)
+[20:02:26] 1 tRNA-Val c[2471,2547] 37 (tac)
+[20:02:26] 2 tRNA-Lys c[5257,5330] 35 (ttt)
+[20:02:26] 3 tRNA-Asp [5424,5501] 37 (gtc)
+[20:02:26] 1 tRNA-Thr c[36,109] 35 (ggt)
+[20:02:26] 1 tRNA-Ile c[3434,3508] 36 (gat)
+[20:02:26] 2 tRNA-Ala [4179,4254] 35 (tgc)
+[20:02:26] 1 tRNA-Arg [113,191] 37 (gcg)
+[20:02:26] 1 tRNA-Gln c[123,195] 35 (ctg)
+[20:02:26] Found 32 tRNAs
+[20:02:26] Predicting Ribosomal RNAs
+[20:02:26] Running Barrnap with 64 threads
+[20:02:28] 1 gnl|Prokka|ADDFNANM_6 6660 5S ribosomal RNA
+[20:02:28] Found 1 rRNAs
+[20:02:28] Scanning for ncRNAs... please be patient.
+[20:02:28] Running: cmscan -Z 1.763964 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 64 --tblout /dev/stdout -o /dev/null --noali /home/ylifc/miniconda2/envs/prokka/db/cm/Bacteria AAA007\-N19\.fa_prokka\/PROKKA_10312021\.fna
+[20:06:57] 1 ncRNA 1 gnl|Prokka|ADDFNANM_4 1..318
+[20:06:57] 2 ncRNA 1 gnl|Prokka|ADDFNANM_7 1..303
+[20:06:57] Found 2 ncRNAs.
+[20:06:57] Total of 33 tRNA + rRNA features
+[20:06:57] Searching for CRISPR repeats
+[20:06:58] Found 0 CRISPRs
+[20:06:58] Predicting coding sequences
+[20:06:58] Contigs total 881982 bp, so using single mode
+[20:06:58] Running: prodigal -i AAA007\-N19\.fa_prokka\/PROKKA_10312021\.fna -c -m -g 11 -p single -f sco -q
+[20:07:03] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|ADDFNANM_17:8549..9754 on - strand
+[20:07:03] Found 1169 CDS
+[20:07:03] Connecting features back to sequences
+[20:07:03] Not using genus-specific database. Try --usegenus to enable it.
+[20:07:03] Annotating CDS, please be patient.
+[20:07:03] Will use 64 CPUs for similarity searching.
+[20:07:04] There are still 1169 unannotated CDS left (started with 1169)
+[20:07:04] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS with 64 CPUs
+[20:07:04] Running: cat AAA007\-N19\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.51135\.faa | parallel --gnu --plain -j 64 --block 2001 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > AAA007\-N19\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.51135\.blast 2> /dev/null
+[20:07:44] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.IS.tmp.51135.faa
+[20:07:44] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.IS.tmp.51135.blast
+[20:07:45] There are still 1168 unannotated CDS left (started with 1169)
+[20:07:45] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR with 64 CPUs
+[20:07:45] Running: cat AAA007\-N19\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.51135\.faa | parallel --gnu --plain -j 64 --block 2000 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > AAA007\-N19\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.51135\.blast 2> /dev/null
+[20:08:22] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.AMR.tmp.51135.faa
+[20:08:22] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.AMR.tmp.51135.blast
+[20:08:23] There are still 1168 unannotated CDS left (started with 1169)
+[20:08:23] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot with 64 CPUs
+[20:08:23] Running: cat AAA007\-N19\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.51135\.faa | parallel --gnu --plain -j 64 --block 2000 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > AAA007\-N19\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.51135\.blast 2> /dev/null
+[20:10:05] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[20:10:05] Modify product: Uncharacterized protein YqgN => putative protein YqgN
+[20:10:05] Modify product: Probable nicotinate-nucleotide pyrophosphorylase [carboxylating] => putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+[20:10:05] Modify product: UPF0098 protein CT_736 => hypothetical protein
+[20:10:06] Modify product: Probable polyketide biosynthesis zinc-dependent hydrolase PksB => putative polyketide biosynthesis zinc-dependent hydrolase PksB
+[20:10:06] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[20:10:06] Modify product: Uncharacterized protein YisK => putative protein YisK
+[20:10:06] Modify product: Uncharacterized oxidoreductase SA2266 => putative oxidoreductase
+[20:10:06] Modify product: Probable aspartate aminotransferase => putative aspartate aminotransferase
+[20:10:06] Modify product: Uncharacterized transporter Rv2685 => putative transporter
+[20:10:06] Modify product: Uncharacterized transporter Rv2685 => putative transporter
+[20:10:06] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[20:10:06] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[20:10:06] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[20:10:06] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[20:10:06] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[20:10:06] Modify product: Uncharacterized oxidoreductase SA2266 => putative oxidoreductase
+[20:10:07] Modify product: Probable dual-specificity RNA methyltransferase RlmN => putative dual-specificity RNA methyltransferase RlmN
+[20:10:07] Modify product: Probable GTPase Rv1496 => putative GTPase
+[20:10:07] Modify product: Uncharacterized protein Rv2715 => putative protein
+[20:10:07] Modify product: Uncharacterized protein MSMEG_2782/MSMEI_2713 => putative protein/MSMEI_2713
+[20:10:07] Modify product: Uncharacterized glycosyltransferase sll0501 => putative glycosyltransferase
+[20:10:07] Cleaned 22 /product names
+[20:10:07] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.sprot.tmp.51135.faa
+[20:10:07] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.sprot.tmp.51135.blast
+[20:10:08] There are still 857 unannotated CDS left (started with 1169)
+[20:10:08] Will use hmmer3 to search against /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm with 64 CPUs
+[20:10:08] Running: cat AAA007\-N19\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.51135\.faa | parallel --gnu --plain -j 64 --block 1302 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm /dev/stdin > AAA007\-N19\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.51135\.hmmer3 2> /dev/null
+[20:11:26] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[20:11:27] Cleaned 1 /product names
+[20:11:27] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.51135.faa
+[20:11:27] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.51135.hmmer3
+[20:11:27] Labelling remaining 732 proteins as 'hypothetical protein'
+[20:11:27] Possible /pseudo '5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase' at gnl|Prokka|ADDFNANM_1 position 73989
+[20:11:27] Possible /pseudo '[LysW]-aminoadipate semialdehyde transaminase' at gnl|Prokka|ADDFNANM_1 position 82540
+[20:11:27] Possible /pseudo 'Formate dehydrogenase' at gnl|Prokka|ADDFNANM_4 position 30797
+[20:11:27] Possible /pseudo 'Glutamine--fructose-6-phosphate aminotransferase [isomerizing]' at gnl|Prokka|ADDFNANM_5 position 44473
+[20:11:27] Possible /pseudo 'FO synthase' at gnl|Prokka|ADDFNANM_7 position 24694
+[20:11:27] Possible /pseudo 'Phosphoribosylformylglycinamidine cyclo-ligase' at gnl|Prokka|ADDFNANM_7 position 29982
+[20:11:27] Possible /pseudo 'putative transporter' at gnl|Prokka|ADDFNANM_7 position 31057
+[20:11:27] Possible /pseudo 'Glutamine synthetase' at gnl|Prokka|ADDFNANM_12 position 4148
+[20:11:27] Possible /pseudo 'Glutamine synthetase' at gnl|Prokka|ADDFNANM_12 position 4396
+[20:11:27] Possible /pseudo 'Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein' at gnl|Prokka|ADDFNANM_16 position 7257
+[20:11:27] Possible /pseudo 'Malate dehydrogenase' at gnl|Prokka|ADDFNANM_16 position 8772
+[20:11:27] Possible /pseudo 'Histidinol-phosphate aminotransferase' at gnl|Prokka|ADDFNANM_17 position 3168
+[20:11:27] Possible /pseudo 'ATP phosphoribosyltransferase' at gnl|Prokka|ADDFNANM_17 position 5595
+[20:11:27] Possible /pseudo '3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA' at gnl|Prokka|ADDFNANM_19 position 3890
+[20:11:27] Possible /pseudo '3-phosphoshikimate 1-carboxyvinyltransferase' at gnl|Prokka|ADDFNANM_20 position 4032
+[20:11:27] Possible /pseudo '3-phosphoshikimate 1-carboxyvinyltransferase' at gnl|Prokka|ADDFNANM_20 position 4198
+[20:11:27] Possible /pseudo '3-dehydroquinate dehydratase' at gnl|Prokka|ADDFNANM_20 position 6588
+[20:11:27] Possible /pseudo '3-octaprenyl-4-hydroxybenzoate carboxy-lyase' at gnl|Prokka|ADDFNANM_20 position 10606
+[20:11:27] Possible /pseudo 'Ribonuclease PH' at gnl|Prokka|ADDFNANM_26 position 1661
+[20:11:27] Possible /pseudo 'DNA-directed RNA polymerase subunit beta' at gnl|Prokka|ADDFNANM_40 position 1012
+[20:11:27] Possible /pseudo 'Short-chain-enoyl-CoA hydratase' at gnl|Prokka|ADDFNANM_42 position 1372
+[20:11:27] Possible /pseudo 'Cobalamin biosynthesis protein CbiB' at gnl|Prokka|ADDFNANM_52 position 377
+[20:11:27] Possible /pseudo 'Imidazole glycerol phosphate synthase subunit HisH' at gnl|Prokka|ADDFNANM_61 position 591
+[20:11:27] Possible /pseudo 'Adenine deaminase' at gnl|Prokka|ADDFNANM_68 position 650
+[20:11:27] Found 339 unique /gene codes.
+[20:11:27] Fixed 3 duplicate /gene - glnA_1 glnA_2 glnA_3
+[20:11:27] Fixed 2 duplicate /gene - thiI_1 thiI_2
+[20:11:27] Fixed 2 duplicate /gene - algC_1 algC_2
+[20:11:27] Fixed 2 duplicate /gene - iolG_1 iolG_2
+[20:11:27] Fixed 2 duplicate /gene - purM_1 purM_2
+[20:11:27] Fixed 3 duplicate /gene - thrB_1 thrB_2 thrB_3
+[20:11:27] Fixed 2 duplicate /gene - larC_1 larC_2
+[20:11:27] Fixed 2 duplicate /gene - iscS_1 iscS_2
+[20:11:27] Fixed 2 duplicate /gene - hisG_1 hisG_2
+[20:11:27] Fixed 2 duplicate /gene - hemA_1 hemA_2
+[20:11:27] Fixed 3 duplicate /gene - dnaJ_1 dnaJ_2 dnaJ_3
+[20:11:27] Fixed 2 duplicate /gene - fcl_1 fcl_2
+[20:11:27] Fixed 3 duplicate /gene - rpoB_1 rpoB_2 rpoB_3
+[20:11:27] Fixed 2 duplicate /gene - apgM_1 apgM_2
+[20:11:27] Fixed 2 duplicate /gene - arnC_1 arnC_2
+[20:11:27] Fixed 3 duplicate /gene - aroA_1 aroA_2 aroA_3
+[20:11:27] Fixed 2 duplicate /gene - cugP_1 cugP_2
+[20:11:27] Fixed 4 duplicate /gene - moaA_1 moaA_2 moaA_3 moaA_4
+[20:11:27] Fixed 2 duplicate /gene - mdh_1 mdh_2
+[20:11:27] Fixed 2 duplicate /gene - hisH_1 hisH_2
+[20:11:27] Fixed 2 duplicate /gene - srmB_1 srmB_2
+[20:11:27] Fixed 2 duplicate /gene - asnB_1 asnB_2
+[20:11:27] Fixed 2 duplicate /gene - ndhI_1 ndhI_2
+[20:11:27] Fixed 3 duplicate /gene - hisC_1 hisC_2 hisC_3
+[20:11:27] Fixed 2 duplicate /gene - rph_1 rph_2
+[20:11:27] Fixed 3 duplicate /gene - thiC_1 thiC_2 thiC_3
+[20:11:27] Fixed 2 duplicate /gene - vgb_1 vgb_2
+[20:11:27] Fixed 2 duplicate /gene - metE_1 metE_2
+[20:11:27] Fixed 2 duplicate /gene - nadK_1 nadK_2
+[20:11:27] Fixed 2 duplicate /gene - cbiB_1 cbiB_2
+[20:11:27] Fixed 2 duplicate /gene - cpdA_1 cpdA_2
+[20:11:27] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[20:11:27] Fixed 2 duplicate /gene - ubiD_1 ubiD_2
+[20:11:27] Fixed 2 duplicate /gene - nrdZ_1 nrdZ_2
+[20:11:27] Fixed 2 duplicate /gene - bcp_1 bcp_2
+[20:11:27] Fixed 3 duplicate /gene - mshA_1 mshA_2 mshA_3
+[20:11:27] Fixed 2 duplicate /gene - mcm_1 mcm_2
+[20:11:27] Fixed 2 duplicate /gene - aspC_1 aspC_2
+[20:11:27] Fixed 2 duplicate /gene - galE_1 galE_2
+[20:11:27] Fixed 2 duplicate /gene - crt_1 crt_2
+[20:11:27] Fixed 2 duplicate /gene - lysJ_1 lysJ_2
+[20:11:27] Fixed 2 duplicate /gene - glmS_1 glmS_2
+[20:11:27] Fixed 2 duplicate /gene - fbiC_1 fbiC_2
+[20:11:27] Fixed 2 duplicate /gene - guaA_1 guaA_2
+[20:11:27] Fixed 2 duplicate /gene - folP_1 folP_2
+[20:11:27] Fixed 2 duplicate /gene - ade_1 ade_2
+[20:11:27] Fixed 3 duplicate /gene - ftsH_1 ftsH_2 ftsH_3
+[20:11:27] Fixed 2 duplicate /gene - aroD_1 aroD_2
+[20:11:27] Fixed 2 duplicate /gene - lysX_1 lysX_2
+[20:11:27] Fixed 2 duplicate /gene - gatB_1 gatB_2
+[20:11:27] Fixed 50 colliding /gene names.
+[20:11:27] Adding /locus_tag identifiers
+[20:11:27] Assigned 1204 locus_tags to CDS and RNA features.
+[20:11:27] Writing outputs to AAA007-N19.fa_prokka/
+[20:11:30] Generating annotation statistics file
+[20:11:30] Generating Genbank and Sequin files
+[20:11:30] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z AAA007\-N19\.fa_prokka\/PROKKA_10312021\.err -i AAA007\-N19\.fa_prokka\/PROKKA_10312021\.fsa 2> /dev/null
+[20:11:39] Deleting unwanted file: AAA007-N19.fa_prokka/errorsummary.val
+[20:11:39] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.dr
+[20:11:39] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.fixedproducts
+[20:11:39] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.ecn
+[20:11:39] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.val
+[20:11:39] Repairing broken .GBK output that tbl2asn produces...
+[20:11:39] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < AAA007\-N19\.fa_prokka\/PROKKA_10312021\.gbf > AAA007\-N19\.fa_prokka\/PROKKA_10312021\.gbk
+[20:11:39] Deleting unwanted file: AAA007-N19.fa_prokka/PROKKA_10312021.gbf
+[20:11:39] Output files:
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.err
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.faa
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.ffn
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.fna
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.fsa
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.gbk
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.gff
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.log
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.sqn
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.tbl
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.tsv
+[20:11:39] AAA007-N19.fa_prokka/PROKKA_10312021.txt
+[20:11:39] Annotation finished successfully.
+[20:11:39] Walltime used: 9.32 minutes
+[20:11:39] If you use this result please cite the Prokka paper:
+[20:11:39] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[20:11:39] Type 'prokka --citation' for more details.
+[20:11:39] Share and enjoy!

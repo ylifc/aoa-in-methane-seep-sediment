@@ -1,0 +1,3443 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HEKDCIED_00001	gene	1203				
+HEKDCIED_00001	CDS	1203				hypothetical protein
+HEKDCIED_00002	gene	1464				
+HEKDCIED_00002	CDS	1464				hypothetical protein
+HEKDCIED_00003	gene	537				
+HEKDCIED_00003	CDS	537				hypothetical protein
+HEKDCIED_00004	gene	717				
+HEKDCIED_00004	CDS	717				hypothetical protein
+HEKDCIED_00005	gene	480				
+HEKDCIED_00005	CDS	480				hypothetical protein
+HEKDCIED_00006	gene	1536				
+HEKDCIED_00006	CDS	1536				hypothetical protein
+HEKDCIED_00007	gene	1359				
+HEKDCIED_00007	CDS	1359		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+HEKDCIED_00008	gene	651				
+HEKDCIED_00008	CDS	651				hypothetical protein
+HEKDCIED_00009	gene	495				
+HEKDCIED_00009	CDS	495				hypothetical protein
+HEKDCIED_00010	gene	2142	ftsH_1			
+HEKDCIED_00010	CDS	2142	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HEKDCIED_00011	gene	219				
+HEKDCIED_00011	CDS	219				hypothetical protein
+HEKDCIED_00012	gene	915	ureD1			
+HEKDCIED_00012	CDS	915	ureD1		COG0829	Urease accessory protein UreD
+HEKDCIED_00013	gene	657	ureG			
+HEKDCIED_00013	CDS	657	ureG			Urease accessory protein UreG
+HEKDCIED_00014	gene	702	ureF			
+HEKDCIED_00014	CDS	702	ureF		COG0830	Urease accessory protein UreF
+HEKDCIED_00015	gene	474	ureE			
+HEKDCIED_00015	CDS	474	ureE			Urease accessory protein UreE
+HEKDCIED_00016	gene	306	ureA			
+HEKDCIED_00016	CDS	306	ureA	3.5.1.5	COG0831	Urease subunit gamma
+HEKDCIED_00017	gene	369	ureB			
+HEKDCIED_00017	CDS	369	ureB	3.5.1.5		Urease subunit beta
+HEKDCIED_00018	gene	1713	ureC			
+HEKDCIED_00018	CDS	1713	ureC	3.5.1.5		Urease subunit alpha
+HEKDCIED_00019	gene	293				
+HEKDCIED_00019	misc_RNA	293				5_ureB_sRNA
+HEKDCIED_00020	gene	1992				
+HEKDCIED_00020	CDS	1992				hypothetical protein
+HEKDCIED_00021	gene	516				
+HEKDCIED_00021	CDS	516				hypothetical protein
+HEKDCIED_00022	gene	93				
+HEKDCIED_00022	CDS	93				hypothetical protein
+HEKDCIED_00023	gene	192				
+HEKDCIED_00023	CDS	192				hypothetical protein
+HEKDCIED_00024	gene	381	crcB			
+HEKDCIED_00024	CDS	381	crcB			Putative fluoride ion transporter CrcB
+HEKDCIED_00025	gene	231				
+HEKDCIED_00025	CDS	231				hypothetical protein
+HEKDCIED_00026	gene	300				
+HEKDCIED_00026	CDS	300				hypothetical protein
+HEKDCIED_00027	gene	1512	nhaP2			
+HEKDCIED_00027	CDS	1512	nhaP2			K(+)/H(+) antiporter NhaP2
+HEKDCIED_00028	gene	543				
+HEKDCIED_00028	CDS	543				hypothetical protein
+HEKDCIED_00029	gene	516	cysC			
+HEKDCIED_00029	CDS	516	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+HEKDCIED_00030	gene	816	cysQ_1			
+HEKDCIED_00030	CDS	816	cysQ_1	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+HEKDCIED_00031	gene	210				
+HEKDCIED_00031	CDS	210				hypothetical protein
+HEKDCIED_00032	gene	744	bacC			
+HEKDCIED_00032	CDS	744	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+HEKDCIED_00033	gene	438				
+HEKDCIED_00033	CDS	438				hypothetical protein
+HEKDCIED_00034	gene	642				
+HEKDCIED_00034	CDS	642				hypothetical protein
+HEKDCIED_00035	gene	474				
+HEKDCIED_00035	CDS	474				hypothetical protein
+HEKDCIED_00036	gene	261				
+HEKDCIED_00036	CDS	261				hypothetical protein
+HEKDCIED_00037	gene	1011				
+HEKDCIED_00037	CDS	1011				hypothetical protein
+HEKDCIED_00038	gene	831				
+HEKDCIED_00038	CDS	831				hypothetical protein
+HEKDCIED_00039	gene	195				
+HEKDCIED_00039	CDS	195				hypothetical protein
+HEKDCIED_00040	gene	714	queE			
+HEKDCIED_00040	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+HEKDCIED_00041	gene	558	folE			
+HEKDCIED_00041	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+HEKDCIED_00042	gene	246				
+HEKDCIED_00042	CDS	246				hypothetical protein
+HEKDCIED_00043	gene	675	queC			
+HEKDCIED_00043	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+HEKDCIED_00044	gene	924	thrB_1			
+HEKDCIED_00044	CDS	924	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+HEKDCIED_00045	gene	759				
+HEKDCIED_00045	CDS	759				hypothetical protein
+HEKDCIED_00046	gene	1017				
+HEKDCIED_00046	CDS	1017				hypothetical protein
+HEKDCIED_00047	gene	801				
+HEKDCIED_00047	CDS	801		1.-.-.-		putative oxidoreductase
+HEKDCIED_00048	gene	399				
+HEKDCIED_00048	CDS	399				hypothetical protein
+HEKDCIED_00049	gene	312				
+HEKDCIED_00049	CDS	312				hypothetical protein
+HEKDCIED_00050	gene	1236				
+HEKDCIED_00050	CDS	1236				hypothetical protein
+HEKDCIED_00051	gene	1155	thiI_1			
+HEKDCIED_00051	CDS	1155	thiI_1	2.8.1.4		tRNA sulfurtransferase
+HEKDCIED_00052	gene	756	cysH			
+HEKDCIED_00052	CDS	756	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+HEKDCIED_00053	gene	1143	sat			
+HEKDCIED_00053	CDS	1143	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+HEKDCIED_00054	gene	666				
+HEKDCIED_00054	CDS	666				hypothetical protein
+HEKDCIED_00055	gene	651	nth			
+HEKDCIED_00055	CDS	651	nth	4.2.99.18	COG0177	Endonuclease III
+HEKDCIED_00056	gene	1155				
+HEKDCIED_00056	CDS	1155				hypothetical protein
+HEKDCIED_00057	gene	390				
+HEKDCIED_00057	CDS	390				hypothetical protein
+HEKDCIED_00058	gene	1950				
+HEKDCIED_00058	CDS	1950				hypothetical protein
+HEKDCIED_00059	gene	483				
+HEKDCIED_00059	CDS	483				hypothetical protein
+HEKDCIED_00060	gene	591	cbiT			
+HEKDCIED_00060	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+HEKDCIED_00061	gene	1134				
+HEKDCIED_00061	CDS	1134				hypothetical protein
+HEKDCIED_00062	gene	723	cbiL			
+HEKDCIED_00062	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+HEKDCIED_00063	gene	765	cbiF			
+HEKDCIED_00063	CDS	765	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+HEKDCIED_00064	gene	765	murI			
+HEKDCIED_00064	CDS	765	murI	5.1.1.3		Glutamate racemase
+HEKDCIED_00065	gene	654				
+HEKDCIED_00065	CDS	654				hypothetical protein
+HEKDCIED_00066	gene	1458	glyQS			
+HEKDCIED_00066	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+HEKDCIED_00067	gene	840	nfo			
+HEKDCIED_00067	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+HEKDCIED_00068	gene	1029				
+HEKDCIED_00068	CDS	1029				hypothetical protein
+HEKDCIED_00069	gene	1125				
+HEKDCIED_00069	CDS	1125				hypothetical protein
+HEKDCIED_00070	gene	2862				
+HEKDCIED_00070	CDS	2862				hypothetical protein
+HEKDCIED_00071	gene	543	guaA_1			
+HEKDCIED_00071	CDS	543	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+HEKDCIED_00072	gene	963				
+HEKDCIED_00072	CDS	963				hypothetical protein
+HEKDCIED_00073	gene	74				
+HEKDCIED_00073	tRNA	74				tRNA-Gly(ccc)
+HEKDCIED_00074	gene	174				
+HEKDCIED_00074	CDS	174				hypothetical protein
+HEKDCIED_00075	gene	123				
+HEKDCIED_00075	CDS	123				hypothetical protein
+HEKDCIED_00076	gene	399				
+HEKDCIED_00076	CDS	399				hypothetical protein
+HEKDCIED_00077	gene	1263	selB			
+HEKDCIED_00077	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+HEKDCIED_00078	gene	369				
+HEKDCIED_00078	CDS	369				hypothetical protein
+HEKDCIED_00079	gene	429				
+HEKDCIED_00079	CDS	429				hypothetical protein
+HEKDCIED_00080	gene	156				
+HEKDCIED_00080	CDS	156				hypothetical protein
+HEKDCIED_00081	gene	792	pnp_1			
+HEKDCIED_00081	CDS	792	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+HEKDCIED_00082	gene	534	cobO_1			
+HEKDCIED_00082	CDS	534	cobO_1	2.5.1.17		Corrinoid adenosyltransferase
+HEKDCIED_00083	gene	1356	cbiA			
+HEKDCIED_00083	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+HEKDCIED_00084	gene	1515	phrB			
+HEKDCIED_00084	CDS	1515	phrB	4.1.99.13	COG3046	(6-4) photolyase
+HEKDCIED_00085	gene	642	cbiC			
+HEKDCIED_00085	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+HEKDCIED_00086	gene	753	cbiX			
+HEKDCIED_00086	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+HEKDCIED_00087	gene	1053	cbiG			
+HEKDCIED_00087	CDS	1053	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+HEKDCIED_00088	gene	1098	cbiD			
+HEKDCIED_00088	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+HEKDCIED_00089	gene	870				
+HEKDCIED_00089	CDS	870				hypothetical protein
+HEKDCIED_00090	gene	1167	metK			
+HEKDCIED_00090	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+HEKDCIED_00091	gene	267				
+HEKDCIED_00091	CDS	267				hypothetical protein
+HEKDCIED_00092	gene	654	recA_1			
+HEKDCIED_00092	CDS	654	recA_1			Protein RecA
+HEKDCIED_00093	gene	1404				
+HEKDCIED_00093	CDS	1404				hypothetical protein
+HEKDCIED_00094	gene	945	lnrL			
+HEKDCIED_00094	CDS	945	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+HEKDCIED_00095	gene	762				
+HEKDCIED_00095	CDS	762				hypothetical protein
+HEKDCIED_00096	gene	738				
+HEKDCIED_00096	CDS	738				hypothetical protein
+HEKDCIED_00097	gene	74				
+HEKDCIED_00097	tRNA	74				tRNA-Gln(ttg)
+HEKDCIED_00098	gene	1029				
+HEKDCIED_00098	CDS	1029				hypothetical protein
+HEKDCIED_00099	gene	1140				
+HEKDCIED_00099	CDS	1140				hypothetical protein
+HEKDCIED_00100	gene	588	grpE			
+HEKDCIED_00100	CDS	588	grpE			Protein GrpE
+HEKDCIED_00101	gene	1908	dnaK			
+HEKDCIED_00101	CDS	1908	dnaK		COG0443	Chaperone protein DnaK
+HEKDCIED_00102	gene	1056	dnaJ_1			
+HEKDCIED_00102	CDS	1056	dnaJ_1		COG0484	Chaperone protein DnaJ
+HEKDCIED_00103	gene	540				
+HEKDCIED_00103	CDS	540				hypothetical protein
+HEKDCIED_00104	gene	165				
+HEKDCIED_00104	CDS	165				hypothetical protein
+HEKDCIED_00105	gene	86				
+HEKDCIED_00105	tRNA	86				tRNA-Leu(cag)
+HEKDCIED_00106	gene	1905	GATB			
+HEKDCIED_00106	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+HEKDCIED_00107	gene	1290				
+HEKDCIED_00107	CDS	1290				hypothetical protein
+HEKDCIED_00108	gene	2202	ftsH_2			
+HEKDCIED_00108	CDS	2202	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HEKDCIED_00109	gene	795				
+HEKDCIED_00109	CDS	795				hypothetical protein
+HEKDCIED_00110	gene	279	yccX			
+HEKDCIED_00110	CDS	279	yccX	3.6.1.7		Acylphosphatase
+HEKDCIED_00111	gene	333				
+HEKDCIED_00111	CDS	333				hypothetical protein
+HEKDCIED_00112	gene	312				
+HEKDCIED_00112	misc_RNA	312				Archaea_SRP
+HEKDCIED_00113	gene	921	ttuA			
+HEKDCIED_00113	CDS	921	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+HEKDCIED_00114	gene	1152				
+HEKDCIED_00114	CDS	1152				hypothetical protein
+HEKDCIED_00115	gene	312	cutA			
+HEKDCIED_00115	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+HEKDCIED_00116	gene	1044				
+HEKDCIED_00116	CDS	1044				hypothetical protein
+HEKDCIED_00117	gene	441				
+HEKDCIED_00117	CDS	441				hypothetical protein
+HEKDCIED_00118	gene	420				
+HEKDCIED_00118	CDS	420				hypothetical protein
+HEKDCIED_00119	gene	165				
+HEKDCIED_00119	CDS	165				hypothetical protein
+HEKDCIED_00120	gene	444	mntR_1			
+HEKDCIED_00120	CDS	444	mntR_1			HTH-type transcriptional regulator MntR
+HEKDCIED_00121	gene	768				
+HEKDCIED_00121	CDS	768				hypothetical protein
+HEKDCIED_00122	gene	1665	moaA_1			
+HEKDCIED_00122	CDS	1665	moaA_1			GTP 3',8-cyclase
+HEKDCIED_00123	gene	2169				
+HEKDCIED_00123	CDS	2169				hypothetical protein
+HEKDCIED_00124	gene	1041	COQ5_1			
+HEKDCIED_00124	CDS	1041	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HEKDCIED_00125	gene	1212				
+HEKDCIED_00125	CDS	1212				hypothetical protein
+HEKDCIED_00126	gene	900	wbgU			
+HEKDCIED_00126	CDS	900	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+HEKDCIED_00127	gene	951	mgtA			
+HEKDCIED_00127	CDS	951	mgtA	2.4.1.-	COG0438	GDP-mannose-dependent alpha-mannosyltransferase
+HEKDCIED_00128	gene	1071	wbpI			
+HEKDCIED_00128	CDS	1071	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HEKDCIED_00129	gene	675	COQ3_1			
+HEKDCIED_00129	CDS	675	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+HEKDCIED_00130	gene	1131	bshA			
+HEKDCIED_00130	CDS	1131	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+HEKDCIED_00131	gene	1101				
+HEKDCIED_00131	CDS	1101				hypothetical protein
+HEKDCIED_00132	gene	1371	wbpA			
+HEKDCIED_00132	CDS	1371	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+HEKDCIED_00133	gene	165				
+HEKDCIED_00133	CDS	165				hypothetical protein
+HEKDCIED_00134	gene	1500				
+HEKDCIED_00134	CDS	1500				hypothetical protein
+HEKDCIED_00135	gene	1059				
+HEKDCIED_00135	CDS	1059				hypothetical protein
+HEKDCIED_00136	gene	1143				
+HEKDCIED_00136	CDS	1143				hypothetical protein
+HEKDCIED_00137	gene	852	gtaB			
+HEKDCIED_00137	CDS	852	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+HEKDCIED_00138	gene	1323	tuaD			
+HEKDCIED_00138	CDS	1323	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+HEKDCIED_00139	gene	957				
+HEKDCIED_00139	CDS	957				hypothetical protein
+HEKDCIED_00140	gene	1473	patA			
+HEKDCIED_00140	CDS	1473	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+HEKDCIED_00141	gene	900	COQ3_2			
+HEKDCIED_00141	CDS	900	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+HEKDCIED_00142	gene	1845				
+HEKDCIED_00142	CDS	1845				hypothetical protein
+HEKDCIED_00143	gene	681	kdsB			
+HEKDCIED_00143	CDS	681	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+HEKDCIED_00144	gene	882	pseB			
+HEKDCIED_00144	CDS	882	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+HEKDCIED_00145	gene	1119	arnB			
+HEKDCIED_00145	CDS	1119	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+HEKDCIED_00146	gene	939	fmt			
+HEKDCIED_00146	CDS	939	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+HEKDCIED_00147	gene	663	bshB1			
+HEKDCIED_00147	CDS	663	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+HEKDCIED_00148	gene	1032				
+HEKDCIED_00148	CDS	1032				hypothetical protein
+HEKDCIED_00149	gene	1005	legI			
+HEKDCIED_00149	CDS	1005	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+HEKDCIED_00150	gene	417				
+HEKDCIED_00150	CDS	417				hypothetical protein
+HEKDCIED_00151	gene	1047	moaA_2			
+HEKDCIED_00151	CDS	1047	moaA_2			GTP 3',8-cyclase
+HEKDCIED_00152	gene	1326				
+HEKDCIED_00152	CDS	1326				hypothetical protein
+HEKDCIED_00153	gene	1362				
+HEKDCIED_00153	CDS	1362				hypothetical protein
+HEKDCIED_00154	gene	1104				
+HEKDCIED_00154	CDS	1104				hypothetical protein
+HEKDCIED_00155	gene	735				
+HEKDCIED_00155	CDS	735		2.7.7.-	COG1213	CTP:phosphoglutamine cytidylyltransferase
+HEKDCIED_00156	gene	549				
+HEKDCIED_00156	CDS	549				hypothetical protein
+HEKDCIED_00157	gene	489				
+HEKDCIED_00157	CDS	489				hypothetical protein
+HEKDCIED_00158	gene	900	pphA			
+HEKDCIED_00158	CDS	900	pphA	3.11.1.3		Phosphonopyruvate hydrolase
+HEKDCIED_00159	gene	945				
+HEKDCIED_00159	CDS	945				hypothetical protein
+HEKDCIED_00160	gene	1989				
+HEKDCIED_00160	CDS	1989				hypothetical protein
+HEKDCIED_00161	gene	1008				
+HEKDCIED_00161	CDS	1008				hypothetical protein
+HEKDCIED_00162	gene	1047	mtnA			
+HEKDCIED_00162	CDS	1047	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HEKDCIED_00163	gene	642				
+HEKDCIED_00163	CDS	642				hypothetical protein
+HEKDCIED_00164	gene	144				
+HEKDCIED_00164	CDS	144				hypothetical protein
+HEKDCIED_00165	gene	828	frlC			
+HEKDCIED_00165	CDS	828	frlC	5.1.3.41	COG1082	Fructoselysine 3-epimerase
+HEKDCIED_00166	gene	774				
+HEKDCIED_00166	CDS	774				hypothetical protein
+HEKDCIED_00167	gene	828	iolE			
+HEKDCIED_00167	CDS	828	iolE	4.2.1.44		Inosose dehydratase
+HEKDCIED_00168	gene	840	cyoE			
+HEKDCIED_00168	CDS	840	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+HEKDCIED_00169	gene	1302				
+HEKDCIED_00169	CDS	1302				hypothetical protein
+HEKDCIED_00170	gene	1011				
+HEKDCIED_00170	CDS	1011		1.1.1.301		D-arabitol-phosphate dehydrogenase
+HEKDCIED_00171	gene	648	bacG			
+HEKDCIED_00171	CDS	648	bacG	1.3.1.-	COG1028	NADPH-dependent reductase BacG
+HEKDCIED_00172	gene	210				
+HEKDCIED_00172	CDS	210				hypothetical protein
+HEKDCIED_00173	gene	942	ctaB_1			
+HEKDCIED_00173	CDS	942	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HEKDCIED_00174	gene	360	asnC			
+HEKDCIED_00174	CDS	360	asnC		COG1522	Regulatory protein AsnC
+HEKDCIED_00175	gene	1077	asd2			
+HEKDCIED_00175	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+HEKDCIED_00176	gene	1083	cobD_1			
+HEKDCIED_00176	CDS	1083	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+HEKDCIED_00177	gene	840	cobQ			
+HEKDCIED_00177	CDS	840	cobQ		COG1492	Cobyric acid synthase
+HEKDCIED_00178	gene	972	cobD_2			
+HEKDCIED_00178	CDS	972	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+HEKDCIED_00179	gene	726	cobS			
+HEKDCIED_00179	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+HEKDCIED_00180	gene	585	mobA			
+HEKDCIED_00180	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+HEKDCIED_00181	gene	198				
+HEKDCIED_00181	CDS	198				hypothetical protein
+HEKDCIED_00182	gene	282				
+HEKDCIED_00182	CDS	282				hypothetical protein
+HEKDCIED_00183	gene	1764	ade			
+HEKDCIED_00183	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+HEKDCIED_00184	gene	1626	groL_1			
+HEKDCIED_00184	CDS	1626	groL_1		COG0459	60 kDa chaperonin
+HEKDCIED_00185	gene	867	mak			
+HEKDCIED_00185	CDS	867	mak	2.7.1.4	COG1940	Fructokinase
+HEKDCIED_00186	gene	261				
+HEKDCIED_00186	CDS	261				hypothetical protein
+HEKDCIED_00187	gene	360				
+HEKDCIED_00187	CDS	360				hypothetical protein
+HEKDCIED_00188	gene	1524	guaA_2			
+HEKDCIED_00188	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+HEKDCIED_00189	gene	585				
+HEKDCIED_00189	CDS	585				hypothetical protein
+HEKDCIED_00190	gene	735				
+HEKDCIED_00190	CDS	735				hypothetical protein
+HEKDCIED_00191	gene	852	folP			
+HEKDCIED_00191	CDS	852	folP	2.5.1.15		Dihydropteroate synthase
+HEKDCIED_00192	gene	1431	guaB			
+HEKDCIED_00192	CDS	1431	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HEKDCIED_00193	gene	474				
+HEKDCIED_00193	CDS	474				hypothetical protein
+HEKDCIED_00194	gene	816	pheA			
+HEKDCIED_00194	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+HEKDCIED_00195	gene	555				
+HEKDCIED_00195	CDS	555				hypothetical protein
+HEKDCIED_00196	gene	1080	ccr_1			
+HEKDCIED_00196	CDS	1080	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HEKDCIED_00197	gene	600				
+HEKDCIED_00197	CDS	600				hypothetical protein
+HEKDCIED_00198	gene	996				
+HEKDCIED_00198	CDS	996				hypothetical protein
+HEKDCIED_00199	gene	1329				
+HEKDCIED_00199	CDS	1329				hypothetical protein
+HEKDCIED_00200	gene	76				
+HEKDCIED_00200	tRNA	76				tRNA-Met(cat)
+HEKDCIED_00201	gene	1098	yliI			
+HEKDCIED_00201	CDS	1098	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+HEKDCIED_00202	gene	1257	mvaA			
+HEKDCIED_00202	CDS	1257	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+HEKDCIED_00203	gene	984	hisG			
+HEKDCIED_00203	CDS	984	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+HEKDCIED_00204	gene	1272	hisD			
+HEKDCIED_00204	CDS	1272	hisD	1.1.1.23		Histidinol dehydrogenase
+HEKDCIED_00205	gene	1071	hisC			
+HEKDCIED_00205	CDS	1071	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+HEKDCIED_00206	gene	969				
+HEKDCIED_00206	CDS	969				hypothetical protein
+HEKDCIED_00207	gene	588	hisB			
+HEKDCIED_00207	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+HEKDCIED_00208	gene	609	hisH			
+HEKDCIED_00208	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+HEKDCIED_00209	gene	708	hisA			
+HEKDCIED_00209	CDS	708	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+HEKDCIED_00210	gene	804	hisF			
+HEKDCIED_00210	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+HEKDCIED_00211	gene	333	hisI			
+HEKDCIED_00211	CDS	333	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+HEKDCIED_00212	gene	573				
+HEKDCIED_00212	CDS	573				hypothetical protein
+HEKDCIED_00213	gene	1215	thrC			
+HEKDCIED_00213	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+HEKDCIED_00214	gene	1323				
+HEKDCIED_00214	CDS	1323				hypothetical protein
+HEKDCIED_00215	gene	4578				
+HEKDCIED_00215	CDS	4578				hypothetical protein
+HEKDCIED_00216	gene	939				
+HEKDCIED_00216	CDS	939				hypothetical protein
+HEKDCIED_00217	gene	3804				
+HEKDCIED_00217	CDS	3804				hypothetical protein
+HEKDCIED_00218	gene	606				
+HEKDCIED_00218	CDS	606				hypothetical protein
+HEKDCIED_00219	gene	1599	petB			
+HEKDCIED_00219	CDS	1599	petB			Cytochrome b6
+HEKDCIED_00220	gene	462				
+HEKDCIED_00220	CDS	462				hypothetical protein
+HEKDCIED_00221	gene	351				
+HEKDCIED_00221	CDS	351				hypothetical protein
+HEKDCIED_00222	gene	76				
+HEKDCIED_00222	tRNA	76				tRNA-Arg(tct)
+HEKDCIED_00223	gene	843				
+HEKDCIED_00223	CDS	843				hypothetical protein
+HEKDCIED_00224	gene	1266				
+HEKDCIED_00224	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+HEKDCIED_00225	gene	213				
+HEKDCIED_00225	CDS	213				hypothetical protein
+HEKDCIED_00226	gene	303	ndhI_1			
+HEKDCIED_00226	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HEKDCIED_00227	gene	1512	QTRT1			
+HEKDCIED_00227	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+HEKDCIED_00228	gene	549				
+HEKDCIED_00228	CDS	549				hypothetical protein
+HEKDCIED_00229	gene	1188	OLA1			
+HEKDCIED_00229	CDS	1188	OLA1			Obg-like ATPase 1
+HEKDCIED_00230	gene	984	tsaD			
+HEKDCIED_00230	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+HEKDCIED_00231	gene	315				
+HEKDCIED_00231	CDS	315				hypothetical protein
+HEKDCIED_00232	gene	621				
+HEKDCIED_00232	CDS	621				hypothetical protein
+HEKDCIED_00233	gene	567				
+HEKDCIED_00233	CDS	567		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+HEKDCIED_00234	gene	1032				
+HEKDCIED_00234	CDS	1032				hypothetical protein
+HEKDCIED_00235	gene	2112				
+HEKDCIED_00235	CDS	2112				hypothetical protein
+HEKDCIED_00236	gene	963	dusB			
+HEKDCIED_00236	CDS	963	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+HEKDCIED_00237	gene	342				
+HEKDCIED_00237	CDS	342				hypothetical protein
+HEKDCIED_00238	gene	183				
+HEKDCIED_00238	CDS	183				hypothetical protein
+HEKDCIED_00239	gene	678				
+HEKDCIED_00239	CDS	678				hypothetical protein
+HEKDCIED_00240	gene	582				
+HEKDCIED_00240	CDS	582				hypothetical protein
+HEKDCIED_00241	gene	237				
+HEKDCIED_00241	CDS	237				hypothetical protein
+HEKDCIED_00242	gene	639				
+HEKDCIED_00242	CDS	639				hypothetical protein
+HEKDCIED_00243	gene	456				
+HEKDCIED_00243	CDS	456				hypothetical protein
+HEKDCIED_00244	gene	1566				
+HEKDCIED_00244	CDS	1566				hypothetical protein
+HEKDCIED_00245	gene	1563				
+HEKDCIED_00245	CDS	1563				hypothetical protein
+HEKDCIED_00246	gene	795	nirQ			
+HEKDCIED_00246	CDS	795	nirQ		COG0714	Denitrification regulatory protein NirQ
+HEKDCIED_00247	gene	1464				
+HEKDCIED_00247	CDS	1464				hypothetical protein
+HEKDCIED_00248	gene	432				
+HEKDCIED_00248	CDS	432				hypothetical protein
+HEKDCIED_00249	gene	612				
+HEKDCIED_00249	CDS	612				hypothetical protein
+HEKDCIED_00250	gene	1266	serS			
+HEKDCIED_00250	CDS	1266	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+HEKDCIED_00251	gene	243				
+HEKDCIED_00251	CDS	243				hypothetical protein
+HEKDCIED_00252	gene	1422				
+HEKDCIED_00252	CDS	1422				hypothetical protein
+HEKDCIED_00253	gene	450				
+HEKDCIED_00253	CDS	450				hypothetical protein
+HEKDCIED_00254	gene	333				
+HEKDCIED_00254	CDS	333				hypothetical protein
+HEKDCIED_00255	gene	270				
+HEKDCIED_00255	CDS	270				hypothetical protein
+HEKDCIED_00256	gene	528				
+HEKDCIED_00256	CDS	528				hypothetical protein
+HEKDCIED_00257	gene	318				
+HEKDCIED_00257	CDS	318				hypothetical protein
+HEKDCIED_00258	gene	570				
+HEKDCIED_00258	CDS	570				hypothetical protein
+HEKDCIED_00259	gene	564				
+HEKDCIED_00259	CDS	564				hypothetical protein
+HEKDCIED_00260	gene	363				
+HEKDCIED_00260	CDS	363				hypothetical protein
+HEKDCIED_00261	gene	651				
+HEKDCIED_00261	CDS	651				hypothetical protein
+HEKDCIED_00262	gene	861	dpnM			
+HEKDCIED_00262	CDS	861	dpnM	2.1.1.72		Modification methylase DpnIIA
+HEKDCIED_00263	gene	74				
+HEKDCIED_00263	tRNA	74				tRNA-Thr(ggt)
+HEKDCIED_00264	gene	387				
+HEKDCIED_00264	CDS	387				hypothetical protein
+HEKDCIED_00265	gene	894				
+HEKDCIED_00265	CDS	894				hypothetical protein
+HEKDCIED_00266	gene	76				
+HEKDCIED_00266	tRNA	76				tRNA-Ile(gat)
+HEKDCIED_00267	gene	555	resA_1			
+HEKDCIED_00267	CDS	555	resA_1			Thiol-disulfide oxidoreductase ResA
+HEKDCIED_00268	gene	75				
+HEKDCIED_00268	tRNA	75				tRNA-Ala(tgc)
+HEKDCIED_00269	gene	102				
+HEKDCIED_00269	CDS	102				hypothetical protein
+HEKDCIED_00270	gene	1137				
+HEKDCIED_00270	CDS	1137				hypothetical protein
+HEKDCIED_00271	gene	477	hldE_1			
+HEKDCIED_00271	CDS	477	hldE_1	2.7.7.70		Bifunctional protein HldE
+HEKDCIED_00272	gene	330				
+HEKDCIED_00272	CDS	330				hypothetical protein
+HEKDCIED_00273	gene	483				
+HEKDCIED_00273	CDS	483				hypothetical protein
+HEKDCIED_00274	gene	177				
+HEKDCIED_00274	CDS	177				hypothetical protein
+HEKDCIED_00275	gene	345				
+HEKDCIED_00275	CDS	345				hypothetical protein
+HEKDCIED_00276	gene	282				
+HEKDCIED_00276	CDS	282				hypothetical protein
+HEKDCIED_00277	gene	1113				
+HEKDCIED_00277	CDS	1113				hypothetical protein
+HEKDCIED_00278	gene	1389				
+HEKDCIED_00278	CDS	1389				hypothetical protein
+HEKDCIED_00279	gene	1644				
+HEKDCIED_00279	CDS	1644				hypothetical protein
+HEKDCIED_00280	gene	261				
+HEKDCIED_00280	CDS	261				hypothetical protein
+HEKDCIED_00281	gene	423				
+HEKDCIED_00281	CDS	423				hypothetical protein
+HEKDCIED_00282	gene	240				
+HEKDCIED_00282	CDS	240				hypothetical protein
+HEKDCIED_00283	gene	567				
+HEKDCIED_00283	CDS	567				hypothetical protein
+HEKDCIED_00284	gene	633				
+HEKDCIED_00284	CDS	633				hypothetical protein
+HEKDCIED_00285	gene	2268	acnA			
+HEKDCIED_00285	CDS	2268	acnA	4.2.1.3		Aconitate hydratase A
+HEKDCIED_00286	gene	76				
+HEKDCIED_00286	tRNA	76				tRNA-Trp(cca)
+HEKDCIED_00287	gene	534				
+HEKDCIED_00287	CDS	534				hypothetical protein
+HEKDCIED_00288	gene	969	pdxS			
+HEKDCIED_00288	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+HEKDCIED_00289	gene	618	pdxT			
+HEKDCIED_00289	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+HEKDCIED_00290	gene	369				
+HEKDCIED_00290	CDS	369				hypothetical protein
+HEKDCIED_00291	gene	567				
+HEKDCIED_00291	CDS	567				hypothetical protein
+HEKDCIED_00292	gene	2319	valS_1			
+HEKDCIED_00292	CDS	2319	valS_1	6.1.1.9		Valine--tRNA ligase
+HEKDCIED_00293	gene	816				
+HEKDCIED_00293	CDS	816				hypothetical protein
+HEKDCIED_00294	gene	279	phhB			
+HEKDCIED_00294	CDS	279	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+HEKDCIED_00295	gene	498	pipB2_1			
+HEKDCIED_00295	CDS	498	pipB2_1		COG1357	Secreted effector protein PipB2
+HEKDCIED_00296	gene	756				
+HEKDCIED_00296	CDS	756				hypothetical protein
+HEKDCIED_00297	gene	1365	purB			
+HEKDCIED_00297	CDS	1365	purB	4.3.2.2		Adenylosuccinate lyase
+HEKDCIED_00298	gene	156				
+HEKDCIED_00298	CDS	156				hypothetical protein
+HEKDCIED_00299	gene	1449	rtcB			
+HEKDCIED_00299	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+HEKDCIED_00300	gene	411				
+HEKDCIED_00300	CDS	411				hypothetical protein
+HEKDCIED_00301	gene	312				
+HEKDCIED_00301	CDS	312				hypothetical protein
+HEKDCIED_00302	gene	504				
+HEKDCIED_00302	CDS	504				hypothetical protein
+HEKDCIED_00303	gene	321				
+HEKDCIED_00303	CDS	321				hypothetical protein
+HEKDCIED_00304	gene	951	thiL			
+HEKDCIED_00304	CDS	951	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+HEKDCIED_00305	gene	1299	glmM_1			
+HEKDCIED_00305	CDS	1299	glmM_1	5.4.2.10		Phosphoglucosamine mutase
+HEKDCIED_00306	gene	75				
+HEKDCIED_00306	tRNA	75				tRNA-Thr(cgt)
+HEKDCIED_00307	gene	141				
+HEKDCIED_00307	CDS	141				hypothetical protein
+HEKDCIED_00308	gene	195				
+HEKDCIED_00308	CDS	195				hypothetical protein
+HEKDCIED_00309	gene	219				
+HEKDCIED_00309	CDS	219				hypothetical protein
+HEKDCIED_00310	gene	282				
+HEKDCIED_00310	CDS	282				hypothetical protein
+HEKDCIED_00311	gene	585				
+HEKDCIED_00311	CDS	585				hypothetical protein
+HEKDCIED_00312	gene	168				
+HEKDCIED_00312	CDS	168				hypothetical protein
+HEKDCIED_00313	gene	1752				
+HEKDCIED_00313	CDS	1752				hypothetical protein
+HEKDCIED_00314	gene	441				
+HEKDCIED_00314	CDS	441				hypothetical protein
+HEKDCIED_00315	gene	72				
+HEKDCIED_00315	tRNA	72				tRNA-Cys(gca)
+HEKDCIED_00316	gene	219				
+HEKDCIED_00316	CDS	219				hypothetical protein
+HEKDCIED_00317	gene	759	dtd3			
+HEKDCIED_00317	CDS	759	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+HEKDCIED_00318	gene	351				
+HEKDCIED_00318	CDS	351				hypothetical protein
+HEKDCIED_00319	gene	774				
+HEKDCIED_00319	CDS	774				hypothetical protein
+HEKDCIED_00320	gene	522				
+HEKDCIED_00320	CDS	522				hypothetical protein
+HEKDCIED_00321	gene	606				
+HEKDCIED_00321	CDS	606		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+HEKDCIED_00322	gene	288				
+HEKDCIED_00322	CDS	288				hypothetical protein
+HEKDCIED_00323	gene	648				
+HEKDCIED_00323	CDS	648				hypothetical protein
+HEKDCIED_00324	gene	216				
+HEKDCIED_00324	CDS	216				hypothetical protein
+HEKDCIED_00325	gene	282				
+HEKDCIED_00325	CDS	282				hypothetical protein
+HEKDCIED_00326	gene	462				
+HEKDCIED_00326	CDS	462				hypothetical protein
+HEKDCIED_00327	gene	1002	purA			
+HEKDCIED_00327	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+HEKDCIED_00328	gene	687				
+HEKDCIED_00328	CDS	687				hypothetical protein
+HEKDCIED_00329	gene	735	pyrF			
+HEKDCIED_00329	CDS	735	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+HEKDCIED_00330	gene	420	rppH			
+HEKDCIED_00330	CDS	420	rppH	3.6.1.-		RNA pyrophosphohydrolase
+HEKDCIED_00331	gene	792				
+HEKDCIED_00331	CDS	792		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+HEKDCIED_00332	gene	1140				
+HEKDCIED_00332	CDS	1140				hypothetical protein
+HEKDCIED_00333	gene	498				
+HEKDCIED_00333	CDS	498				hypothetical protein
+HEKDCIED_00334	gene	153				
+HEKDCIED_00334	CDS	153				hypothetical protein
+HEKDCIED_00335	gene	423				
+HEKDCIED_00335	CDS	423				hypothetical protein
+HEKDCIED_00336	gene	297				
+HEKDCIED_00336	CDS	297				hypothetical protein
+HEKDCIED_00337	gene	786				
+HEKDCIED_00337	CDS	786				hypothetical protein
+HEKDCIED_00338	gene	573				
+HEKDCIED_00338	CDS	573				hypothetical protein
+HEKDCIED_00339	gene	1875	TOP6B			
+HEKDCIED_00339	CDS	1875	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+HEKDCIED_00340	gene	1125	TOP6A			
+HEKDCIED_00340	CDS	1125	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+HEKDCIED_00341	gene	516				
+HEKDCIED_00341	CDS	516				hypothetical protein
+HEKDCIED_00342	gene	219				
+HEKDCIED_00342	CDS	219				hypothetical protein
+HEKDCIED_00343	gene	381				
+HEKDCIED_00343	CDS	381				hypothetical protein
+HEKDCIED_00344	gene	453				
+HEKDCIED_00344	CDS	453				hypothetical protein
+HEKDCIED_00345	gene	285				
+HEKDCIED_00345	CDS	285				hypothetical protein
+HEKDCIED_00346	gene	792	mtnP			
+HEKDCIED_00346	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+HEKDCIED_00347	gene	513	apt			
+HEKDCIED_00347	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+HEKDCIED_00348	gene	2193				
+HEKDCIED_00348	CDS	2193				hypothetical protein
+HEKDCIED_00349	gene	2094				
+HEKDCIED_00349	CDS	2094				hypothetical protein
+HEKDCIED_00350	gene	474				
+HEKDCIED_00350	CDS	474				hypothetical protein
+HEKDCIED_00351	gene	795				
+HEKDCIED_00351	CDS	795				hypothetical protein
+HEKDCIED_00352	gene	594	rlmE			
+HEKDCIED_00352	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+HEKDCIED_00353	gene	1170	trm1			
+HEKDCIED_00353	CDS	1170	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+HEKDCIED_00354	gene	621	rnhB			
+HEKDCIED_00354	CDS	621	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+HEKDCIED_00355	gene	723				
+HEKDCIED_00355	CDS	723				hypothetical protein
+HEKDCIED_00356	gene	1500				
+HEKDCIED_00356	CDS	1500				hypothetical protein
+HEKDCIED_00357	gene	912	pyrD			
+HEKDCIED_00357	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+HEKDCIED_00358	gene	813	pyrK			
+HEKDCIED_00358	CDS	813	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HEKDCIED_00359	gene	1725				
+HEKDCIED_00359	CDS	1725				hypothetical protein
+HEKDCIED_00360	gene	183				
+HEKDCIED_00360	CDS	183				hypothetical protein
+HEKDCIED_00361	gene	1221	recA_2			
+HEKDCIED_00361	CDS	1221	recA_2			Protein RecA
+HEKDCIED_00362	gene	1056	rlmN			
+HEKDCIED_00362	CDS	1056	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+HEKDCIED_00363	gene	300				
+HEKDCIED_00363	CDS	300				hypothetical protein
+HEKDCIED_00364	gene	327				
+HEKDCIED_00364	CDS	327				hypothetical protein
+HEKDCIED_00365	gene	567				
+HEKDCIED_00365	CDS	567				hypothetical protein
+HEKDCIED_00366	gene	705	rsmA			
+HEKDCIED_00366	CDS	705	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+HEKDCIED_00367	gene	537				
+HEKDCIED_00367	CDS	537				hypothetical protein
+HEKDCIED_00368	gene	1053	icd			
+HEKDCIED_00368	CDS	1053	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+HEKDCIED_00369	gene	87				
+HEKDCIED_00369	tRNA	87				tRNA-Ser(gct)
+HEKDCIED_00370	gene	162				
+HEKDCIED_00370	CDS	162				hypothetical protein
+HEKDCIED_00371	gene	171				
+HEKDCIED_00371	CDS	171				hypothetical protein
+HEKDCIED_00372	gene	819				
+HEKDCIED_00372	CDS	819				hypothetical protein
+HEKDCIED_00373	gene	1194				
+HEKDCIED_00373	CDS	1194				hypothetical protein
+HEKDCIED_00374	gene	303				
+HEKDCIED_00374	CDS	303				hypothetical protein
+HEKDCIED_00375	gene	900				
+HEKDCIED_00375	CDS	900				hypothetical protein
+HEKDCIED_00376	gene	444				
+HEKDCIED_00376	CDS	444				hypothetical protein
+HEKDCIED_00377	gene	1662				
+HEKDCIED_00377	CDS	1662				hypothetical protein
+HEKDCIED_00378	gene	831				
+HEKDCIED_00378	CDS	831				hypothetical protein
+HEKDCIED_00379	gene	2511	dbpA_1			
+HEKDCIED_00379	CDS	2511	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+HEKDCIED_00380	gene	846	yhdJ			
+HEKDCIED_00380	CDS	846	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+HEKDCIED_00381	gene	345				
+HEKDCIED_00381	CDS	345				hypothetical protein
+HEKDCIED_00382	gene	1161	ycaD			
+HEKDCIED_00382	CDS	1161	ycaD			putative MFS-type transporter YcaD
+HEKDCIED_00383	gene	693	menG			
+HEKDCIED_00383	CDS	693	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+HEKDCIED_00384	gene	723	prcA_1			
+HEKDCIED_00384	CDS	723	prcA_1			Proteasome subunit alpha
+HEKDCIED_00385	gene	1275	gluD			
+HEKDCIED_00385	CDS	1275	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+HEKDCIED_00386	gene	684				
+HEKDCIED_00386	CDS	684				hypothetical protein
+HEKDCIED_00387	gene	2118				
+HEKDCIED_00387	CDS	2118				hypothetical protein
+HEKDCIED_00388	gene	762	crt			
+HEKDCIED_00388	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+HEKDCIED_00389	gene	351	erpA			
+HEKDCIED_00389	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+HEKDCIED_00390	gene	1143				
+HEKDCIED_00390	CDS	1143				hypothetical protein
+HEKDCIED_00391	gene	684				
+HEKDCIED_00391	CDS	684				hypothetical protein
+HEKDCIED_00392	gene	678	hldE_2			
+HEKDCIED_00392	CDS	678	hldE_2	2.7.7.70		Bifunctional protein HldE
+HEKDCIED_00393	gene	1038				
+HEKDCIED_00393	CDS	1038				hypothetical protein
+HEKDCIED_00394	gene	1086	lysK			
+HEKDCIED_00394	CDS	1086	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+HEKDCIED_00395	gene	843	lysX_1			
+HEKDCIED_00395	CDS	843	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HEKDCIED_00396	gene	168				
+HEKDCIED_00396	CDS	168				hypothetical protein
+HEKDCIED_00397	gene	1167	frbC			
+HEKDCIED_00397	CDS	1167	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+HEKDCIED_00398	gene	420	lrpC			
+HEKDCIED_00398	CDS	420	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+HEKDCIED_00399	gene	1176	lysJ			
+HEKDCIED_00399	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+HEKDCIED_00400	gene	804	lysZ			
+HEKDCIED_00400	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+HEKDCIED_00401	gene	1047	argC			
+HEKDCIED_00401	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+HEKDCIED_00402	gene	945				
+HEKDCIED_00402	CDS	945		2.5.-.-		Deoxyhypusine synthase-like protein
+HEKDCIED_00403	gene	372				
+HEKDCIED_00403	CDS	372				hypothetical protein
+HEKDCIED_00404	gene	330				
+HEKDCIED_00404	CDS	330				hypothetical protein
+HEKDCIED_00405	gene	858	lysX_2			
+HEKDCIED_00405	CDS	858	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HEKDCIED_00406	gene	168				
+HEKDCIED_00406	CDS	168				hypothetical protein
+HEKDCIED_00407	gene	1200	argG			
+HEKDCIED_00407	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+HEKDCIED_00408	gene	1026				
+HEKDCIED_00408	CDS	1026				hypothetical protein
+HEKDCIED_00409	gene	765	nrtD			
+HEKDCIED_00409	CDS	765	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+HEKDCIED_00410	gene	765	ssuC			
+HEKDCIED_00410	CDS	765	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+HEKDCIED_00411	gene	1101				
+HEKDCIED_00411	CDS	1101				hypothetical protein
+HEKDCIED_00412	gene	963	metH_1			
+HEKDCIED_00412	CDS	963	metH_1	2.1.1.13	COG0646	Methionine synthase
+HEKDCIED_00413	gene	2499	metH_2			
+HEKDCIED_00413	CDS	2499	metH_2	2.1.1.13	COG0646	Methionine synthase
+HEKDCIED_00414	gene	732				
+HEKDCIED_00414	CDS	732				hypothetical protein
+HEKDCIED_00415	gene	552	nudL			
+HEKDCIED_00415	CDS	552	nudL	3.6.1.-		putative Nudix hydrolase NudL
+HEKDCIED_00416	gene	159				
+HEKDCIED_00416	CDS	159				hypothetical protein
+HEKDCIED_00417	gene	465				
+HEKDCIED_00417	CDS	465				hypothetical protein
+HEKDCIED_00418	gene	228				
+HEKDCIED_00418	CDS	228				hypothetical protein
+HEKDCIED_00419	gene	948	ftsZ			
+HEKDCIED_00419	CDS	948	ftsZ			Cell division protein FtsZ
+HEKDCIED_00420	gene	1269	miaB			
+HEKDCIED_00420	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+HEKDCIED_00421	gene	1410	aspA			
+HEKDCIED_00421	CDS	1410	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+HEKDCIED_00422	gene	1428				
+HEKDCIED_00422	CDS	1428				hypothetical protein
+HEKDCIED_00423	gene	933				
+HEKDCIED_00423	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+HEKDCIED_00424	gene	1326				
+HEKDCIED_00424	CDS	1326				hypothetical protein
+HEKDCIED_00425	gene	684				
+HEKDCIED_00425	CDS	684				hypothetical protein
+HEKDCIED_00426	gene	456				
+HEKDCIED_00426	CDS	456				hypothetical protein
+HEKDCIED_00427	gene	567				
+HEKDCIED_00427	CDS	567				hypothetical protein
+HEKDCIED_00428	gene	666				
+HEKDCIED_00428	CDS	666				hypothetical protein
+HEKDCIED_00429	gene	489				
+HEKDCIED_00429	CDS	489				hypothetical protein
+HEKDCIED_00430	gene	801				
+HEKDCIED_00430	CDS	801				hypothetical protein
+HEKDCIED_00431	gene	540				
+HEKDCIED_00431	CDS	540				hypothetical protein
+HEKDCIED_00432	gene	2913	smc_1			
+HEKDCIED_00432	CDS	2913	smc_1			Chromosome partition protein Smc
+HEKDCIED_00433	gene	1152				
+HEKDCIED_00433	CDS	1152				hypothetical protein
+HEKDCIED_00434	gene	1533				
+HEKDCIED_00434	CDS	1533				hypothetical protein
+HEKDCIED_00435	gene	837				
+HEKDCIED_00435	CDS	837				hypothetical protein
+HEKDCIED_00436	gene	951				
+HEKDCIED_00436	CDS	951				hypothetical protein
+HEKDCIED_00437	gene	819	nadX			
+HEKDCIED_00437	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+HEKDCIED_00438	gene	957	nadA			
+HEKDCIED_00438	CDS	957	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+HEKDCIED_00439	gene	402				
+HEKDCIED_00439	CDS	402				hypothetical protein
+HEKDCIED_00440	gene	816	nadC			
+HEKDCIED_00440	CDS	816	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+HEKDCIED_00441	gene	189				
+HEKDCIED_00441	CDS	189				hypothetical protein
+HEKDCIED_00442	gene	594				
+HEKDCIED_00442	CDS	594				hypothetical protein
+HEKDCIED_00443	gene	1125	apbC			
+HEKDCIED_00443	CDS	1125	apbC		COG0489	Iron-sulfur cluster carrier protein
+HEKDCIED_00444	gene	495				
+HEKDCIED_00444	CDS	495				hypothetical protein
+HEKDCIED_00445	gene	378				
+HEKDCIED_00445	CDS	378				hypothetical protein
+HEKDCIED_00446	gene	2079	hppA			
+HEKDCIED_00446	CDS	2079	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+HEKDCIED_00447	gene	177				
+HEKDCIED_00447	CDS	177				hypothetical protein
+HEKDCIED_00448	gene	258				
+HEKDCIED_00448	CDS	258				hypothetical protein
+HEKDCIED_00449	gene	441				
+HEKDCIED_00449	CDS	441				hypothetical protein
+HEKDCIED_00450	gene	1071	petE_1			
+HEKDCIED_00450	CDS	1071	petE_1			Plastocyanin
+HEKDCIED_00451	gene	888	ctaB_2			
+HEKDCIED_00451	CDS	888	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HEKDCIED_00452	gene	297				
+HEKDCIED_00452	CDS	297				hypothetical protein
+HEKDCIED_00453	gene	2169	ftsH_3			
+HEKDCIED_00453	CDS	2169	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HEKDCIED_00454	gene	267				
+HEKDCIED_00454	CDS	267				hypothetical protein
+HEKDCIED_00455	gene	1137				
+HEKDCIED_00455	CDS	1137				hypothetical protein
+HEKDCIED_00456	gene	354				
+HEKDCIED_00456	CDS	354				hypothetical protein
+HEKDCIED_00457	gene	1623	vgb_1			
+HEKDCIED_00457	CDS	1623	vgb_1	4.2.99.-		Virginiamycin B lyase
+HEKDCIED_00458	gene	1197	truD			
+HEKDCIED_00458	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+HEKDCIED_00459	gene	207				
+HEKDCIED_00459	CDS	207				hypothetical protein
+HEKDCIED_00460	gene	687				
+HEKDCIED_00460	CDS	687				hypothetical protein
+HEKDCIED_00461	gene	339				
+HEKDCIED_00461	CDS	339				hypothetical protein
+HEKDCIED_00462	gene	249				
+HEKDCIED_00462	CDS	249				hypothetical protein
+HEKDCIED_00463	gene	453				
+HEKDCIED_00463	CDS	453				hypothetical protein
+HEKDCIED_00464	gene	234				
+HEKDCIED_00464	CDS	234				hypothetical protein
+HEKDCIED_00465	gene	153				
+HEKDCIED_00465	CDS	153				hypothetical protein
+HEKDCIED_00466	gene	153				
+HEKDCIED_00466	CDS	153				hypothetical protein
+HEKDCIED_00467	gene	1041	adhT			
+HEKDCIED_00467	CDS	1041	adhT	1.1.1.1		Alcohol dehydrogenase
+HEKDCIED_00468	gene	231				
+HEKDCIED_00468	CDS	231				hypothetical protein
+HEKDCIED_00469	gene	2028				
+HEKDCIED_00469	CDS	2028				hypothetical protein
+HEKDCIED_00470	gene	321				
+HEKDCIED_00470	CDS	321				hypothetical protein
+HEKDCIED_00471	gene	93				
+HEKDCIED_00471	CDS	93				hypothetical protein
+HEKDCIED_00472	gene	315				
+HEKDCIED_00472	CDS	315				hypothetical protein
+HEKDCIED_00473	gene	318				
+HEKDCIED_00473	CDS	318				hypothetical protein
+HEKDCIED_00474	gene	132				
+HEKDCIED_00474	CDS	132				hypothetical protein
+HEKDCIED_00475	gene	462				
+HEKDCIED_00475	CDS	462				hypothetical protein
+HEKDCIED_00476	gene	690				
+HEKDCIED_00476	CDS	690				hypothetical protein
+HEKDCIED_00477	gene	291				
+HEKDCIED_00477	CDS	291				hypothetical protein
+HEKDCIED_00478	gene	771				
+HEKDCIED_00478	CDS	771				hypothetical protein
+HEKDCIED_00479	gene	288				
+HEKDCIED_00479	CDS	288				hypothetical protein
+HEKDCIED_00480	gene	123				
+HEKDCIED_00480	CDS	123				hypothetical protein
+HEKDCIED_00481	gene	204				
+HEKDCIED_00481	CDS	204				hypothetical protein
+HEKDCIED_00482	gene	237				
+HEKDCIED_00482	CDS	237				hypothetical protein
+HEKDCIED_00483	gene	1386	deaD			
+HEKDCIED_00483	CDS	1386	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+HEKDCIED_00484	gene	804				
+HEKDCIED_00484	CDS	804				hypothetical protein
+HEKDCIED_00485	gene	74				
+HEKDCIED_00485	tRNA	74				tRNA-Thr(tgt)
+HEKDCIED_00486	gene	237				
+HEKDCIED_00486	CDS	237				hypothetical protein
+HEKDCIED_00487	gene	552	pdaD			
+HEKDCIED_00487	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+HEKDCIED_00488	gene	1218				
+HEKDCIED_00488	CDS	1218				hypothetical protein
+HEKDCIED_00489	gene	615				
+HEKDCIED_00489	CDS	615				hypothetical protein
+HEKDCIED_00490	gene	459				
+HEKDCIED_00490	CDS	459				hypothetical protein
+HEKDCIED_00491	gene	1773	pepF1			
+HEKDCIED_00491	CDS	1773	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+HEKDCIED_00492	gene	531				
+HEKDCIED_00492	CDS	531				hypothetical protein
+HEKDCIED_00493	gene	258				
+HEKDCIED_00493	CDS	258				hypothetical protein
+HEKDCIED_00494	gene	540	ppa			
+HEKDCIED_00494	CDS	540	ppa	3.6.1.1		Inorganic pyrophosphatase
+HEKDCIED_00495	gene	423				
+HEKDCIED_00495	CDS	423				hypothetical protein
+HEKDCIED_00496	gene	666				
+HEKDCIED_00496	CDS	666				hypothetical protein
+HEKDCIED_00497	gene	94				
+HEKDCIED_00497	tRNA	94				tRNA-Val(cac)
+HEKDCIED_00498	gene	264				
+HEKDCIED_00498	CDS	264				hypothetical protein
+HEKDCIED_00499	gene	168				
+HEKDCIED_00499	CDS	168				hypothetical protein
+HEKDCIED_00500	gene	912	sucD			
+HEKDCIED_00500	CDS	912	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+HEKDCIED_00501	gene	1107	sucC			
+HEKDCIED_00501	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+HEKDCIED_00502	gene	330				
+HEKDCIED_00502	CDS	330				hypothetical protein
+HEKDCIED_00503	gene	585				
+HEKDCIED_00503	CDS	585				hypothetical protein
+HEKDCIED_00504	gene	3198	ileS			
+HEKDCIED_00504	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+HEKDCIED_00505	gene	1263	purD			
+HEKDCIED_00505	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+HEKDCIED_00506	gene	561	yqgN			
+HEKDCIED_00506	CDS	561	yqgN		COG0212	putative protein YqgN
+HEKDCIED_00507	gene	867	folD			
+HEKDCIED_00507	CDS	867	folD		COG0190	Bifunctional protein FolD protein
+HEKDCIED_00508	gene	285				
+HEKDCIED_00508	CDS	285				hypothetical protein
+HEKDCIED_00509	gene	321				
+HEKDCIED_00509	CDS	321				hypothetical protein
+HEKDCIED_00510	gene	576	purN			
+HEKDCIED_00510	CDS	576	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+HEKDCIED_00511	gene	963				
+HEKDCIED_00511	CDS	963				hypothetical protein
+HEKDCIED_00512	gene	237				
+HEKDCIED_00512	CDS	237				hypothetical protein
+HEKDCIED_00513	gene	132				
+HEKDCIED_00513	CDS	132				hypothetical protein
+HEKDCIED_00514	gene	240				
+HEKDCIED_00514	CDS	240				hypothetical protein
+HEKDCIED_00515	gene	492	lrp_1			
+HEKDCIED_00515	CDS	492	lrp_1		COG1522	Leucine-responsive regulatory protein
+HEKDCIED_00516	gene	300				
+HEKDCIED_00516	CDS	300				hypothetical protein
+HEKDCIED_00517	gene	1278				
+HEKDCIED_00517	CDS	1278		2.7.1.165	COG2379	D-glycerate 2-kinase
+HEKDCIED_00518	gene	945				
+HEKDCIED_00518	CDS	945				hypothetical protein
+HEKDCIED_00519	gene	1110				
+HEKDCIED_00519	CDS	1110		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+HEKDCIED_00520	gene	228				
+HEKDCIED_00520	CDS	228				hypothetical protein
+HEKDCIED_00521	gene	420				
+HEKDCIED_00521	CDS	420				hypothetical protein
+HEKDCIED_00522	gene	225				
+HEKDCIED_00522	CDS	225				hypothetical protein
+HEKDCIED_00523	gene	633				
+HEKDCIED_00523	CDS	633				hypothetical protein
+HEKDCIED_00524	gene	1953	uvrB			
+HEKDCIED_00524	CDS	1953	uvrB			UvrABC system protein B
+HEKDCIED_00525	gene	2820	uvrA			
+HEKDCIED_00525	CDS	2820	uvrA			UvrABC system protein A
+HEKDCIED_00526	gene	1587	uvrC			
+HEKDCIED_00526	CDS	1587	uvrC		COG0322	UvrABC system protein C
+HEKDCIED_00527	gene	708				
+HEKDCIED_00527	CDS	708				hypothetical protein
+HEKDCIED_00528	gene	372				
+HEKDCIED_00528	CDS	372				hypothetical protein
+HEKDCIED_00529	gene	207				
+HEKDCIED_00529	CDS	207				hypothetical protein
+HEKDCIED_00530	gene	1164	citZ			
+HEKDCIED_00530	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+HEKDCIED_00531	gene	192				
+HEKDCIED_00531	CDS	192				hypothetical protein
+HEKDCIED_00532	gene	1173				
+HEKDCIED_00532	CDS	1173				hypothetical protein
+HEKDCIED_00533	gene	456				
+HEKDCIED_00533	CDS	456				hypothetical protein
+HEKDCIED_00534	gene	1161				
+HEKDCIED_00534	CDS	1161				hypothetical protein
+HEKDCIED_00535	gene	564				
+HEKDCIED_00535	CDS	564				hypothetical protein
+HEKDCIED_00536	gene	489				
+HEKDCIED_00536	CDS	489				hypothetical protein
+HEKDCIED_00537	gene	1194	mpa			
+HEKDCIED_00537	CDS	1194	mpa			Proteasome-associated ATPase
+HEKDCIED_00538	gene	1023	carA			
+HEKDCIED_00538	CDS	1023	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+HEKDCIED_00539	gene	3243	carB			
+HEKDCIED_00539	CDS	3243	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HEKDCIED_00540	gene	315				
+HEKDCIED_00540	CDS	315				hypothetical protein
+HEKDCIED_00541	gene	252				
+HEKDCIED_00541	CDS	252				hypothetical protein
+HEKDCIED_00542	gene	297				
+HEKDCIED_00542	CDS	297				hypothetical protein
+HEKDCIED_00543	gene	294	atpF			
+HEKDCIED_00543	CDS	294	atpF			V-type ATP synthase subunit F
+HEKDCIED_00544	gene	1029	gutB			
+HEKDCIED_00544	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+HEKDCIED_00545	gene	933	lsrF			
+HEKDCIED_00545	CDS	933	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+HEKDCIED_00546	gene	414				
+HEKDCIED_00546	CDS	414				hypothetical protein
+HEKDCIED_00547	gene	1689	ilvB			
+HEKDCIED_00547	CDS	1689	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+HEKDCIED_00548	gene	483	ilvH			
+HEKDCIED_00548	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+HEKDCIED_00549	gene	1515	leuA			
+HEKDCIED_00549	CDS	1515	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+HEKDCIED_00550	gene	1014	hicd			
+HEKDCIED_00550	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+HEKDCIED_00551	gene	132				
+HEKDCIED_00551	CDS	132				hypothetical protein
+HEKDCIED_00552	gene	756				
+HEKDCIED_00552	CDS	756				hypothetical protein
+HEKDCIED_00553	gene	1389				
+HEKDCIED_00553	CDS	1389				hypothetical protein
+HEKDCIED_00554	gene	255				
+HEKDCIED_00554	CDS	255				hypothetical protein
+HEKDCIED_00555	gene	138				
+HEKDCIED_00555	CDS	138				hypothetical protein
+HEKDCIED_00556	gene	303				
+HEKDCIED_00556	CDS	303				hypothetical protein
+HEKDCIED_00557	gene	99				
+HEKDCIED_00557	CDS	99				hypothetical protein
+HEKDCIED_00558	gene	195				
+HEKDCIED_00558	CDS	195				hypothetical protein
+HEKDCIED_00559	gene	231				
+HEKDCIED_00559	CDS	231				hypothetical protein
+HEKDCIED_00560	gene	414				
+HEKDCIED_00560	CDS	414				hypothetical protein
+HEKDCIED_00561	gene	393				
+HEKDCIED_00561	CDS	393				hypothetical protein
+HEKDCIED_00562	gene	600				
+HEKDCIED_00562	CDS	600				hypothetical protein
+HEKDCIED_00563	gene	1065	phaC			
+HEKDCIED_00563	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+HEKDCIED_00564	gene	438				
+HEKDCIED_00564	CDS	438				hypothetical protein
+HEKDCIED_00565	gene	426				
+HEKDCIED_00565	CDS	426				hypothetical protein
+HEKDCIED_00566	gene	804				
+HEKDCIED_00566	CDS	804			COG0596	putative protein
+HEKDCIED_00567	gene	183				
+HEKDCIED_00567	CDS	183				hypothetical protein
+HEKDCIED_00568	gene	354				
+HEKDCIED_00568	CDS	354				hypothetical protein
+HEKDCIED_00569	gene	261				
+HEKDCIED_00569	CDS	261				hypothetical protein
+HEKDCIED_00570	gene	222				
+HEKDCIED_00570	CDS	222				hypothetical protein
+HEKDCIED_00571	gene	156				
+HEKDCIED_00571	CDS	156				hypothetical protein
+HEKDCIED_00572	gene	102				
+HEKDCIED_00572	CDS	102				hypothetical protein
+HEKDCIED_00573	gene	741				
+HEKDCIED_00573	CDS	741				hypothetical protein
+HEKDCIED_00574	gene	204				
+HEKDCIED_00574	CDS	204				hypothetical protein
+HEKDCIED_00575	gene	1287	aspS2_1			
+HEKDCIED_00575	CDS	1287	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HEKDCIED_00576	gene	507				
+HEKDCIED_00576	CDS	507				hypothetical protein
+HEKDCIED_00577	gene	936	oppD			
+HEKDCIED_00577	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+HEKDCIED_00578	gene	276				
+HEKDCIED_00578	CDS	276				hypothetical protein
+HEKDCIED_00579	gene	375				
+HEKDCIED_00579	CDS	375				hypothetical protein
+HEKDCIED_00580	gene	501				
+HEKDCIED_00580	CDS	501				hypothetical protein
+HEKDCIED_00581	gene	657				
+HEKDCIED_00581	CDS	657				hypothetical protein
+HEKDCIED_00582	gene	558				
+HEKDCIED_00582	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+HEKDCIED_00583	gene	594	tmung			
+HEKDCIED_00583	CDS	594	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+HEKDCIED_00584	gene	1416				
+HEKDCIED_00584	CDS	1416				hypothetical protein
+HEKDCIED_00585	gene	1821				
+HEKDCIED_00585	CDS	1821				hypothetical protein
+HEKDCIED_00586	gene	465	mntR_2			
+HEKDCIED_00586	CDS	465	mntR_2			HTH-type transcriptional regulator MntR
+HEKDCIED_00587	gene	351				
+HEKDCIED_00587	CDS	351				hypothetical protein
+HEKDCIED_00588	gene	495				
+HEKDCIED_00588	CDS	495				hypothetical protein
+HEKDCIED_00589	gene	630				
+HEKDCIED_00589	CDS	630				hypothetical protein
+HEKDCIED_00590	gene	765	yfcA			
+HEKDCIED_00590	CDS	765	yfcA		COG0730	putative membrane transporter protein YfcA
+HEKDCIED_00591	gene	456				
+HEKDCIED_00591	CDS	456				hypothetical protein
+HEKDCIED_00592	gene	1767				
+HEKDCIED_00592	CDS	1767				hypothetical protein
+HEKDCIED_00593	gene	237				
+HEKDCIED_00593	CDS	237				hypothetical protein
+HEKDCIED_00594	gene	378				
+HEKDCIED_00594	CDS	378				hypothetical protein
+HEKDCIED_00595	gene	537				
+HEKDCIED_00595	CDS	537				hypothetical protein
+HEKDCIED_00596	gene	654				
+HEKDCIED_00596	CDS	654				hypothetical protein
+HEKDCIED_00597	gene	1767	lig			
+HEKDCIED_00597	CDS	1767	lig	6.5.1.1		DNA ligase
+HEKDCIED_00598	gene	411				
+HEKDCIED_00598	CDS	411				hypothetical protein
+HEKDCIED_00599	gene	1137	fbp			
+HEKDCIED_00599	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+HEKDCIED_00600	gene	1299	cysN			
+HEKDCIED_00600	CDS	1299	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1
+HEKDCIED_00601	gene	309	rpsJ			
+HEKDCIED_00601	CDS	309	rpsJ			30S ribosomal protein S10
+HEKDCIED_00602	gene	195				
+HEKDCIED_00602	CDS	195				hypothetical protein
+HEKDCIED_00603	gene	411				
+HEKDCIED_00603	CDS	411				hypothetical protein
+HEKDCIED_00604	gene	129				
+HEKDCIED_00604	CDS	129				hypothetical protein
+HEKDCIED_00605	gene	510				
+HEKDCIED_00605	CDS	510				hypothetical protein
+HEKDCIED_00606	gene	1140	fadB			
+HEKDCIED_00606	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+HEKDCIED_00607	gene	168				
+HEKDCIED_00607	CDS	168				hypothetical protein
+HEKDCIED_00608	gene	306				
+HEKDCIED_00608	CDS	306				hypothetical protein
+HEKDCIED_00609	gene	408				
+HEKDCIED_00609	CDS	408				hypothetical protein
+HEKDCIED_00610	gene	669	dnaJ_2			
+HEKDCIED_00610	CDS	669	dnaJ_2			Chaperone protein DnaJ
+HEKDCIED_00611	gene	363				
+HEKDCIED_00611	CDS	363				hypothetical protein
+HEKDCIED_00612	gene	456				
+HEKDCIED_00612	CDS	456				hypothetical protein
+HEKDCIED_00613	gene	705				
+HEKDCIED_00613	CDS	705				hypothetical protein
+HEKDCIED_00614	gene	822	cpoB			
+HEKDCIED_00614	CDS	822	cpoB			Cell division coordinator CpoB
+HEKDCIED_00615	gene	120				
+HEKDCIED_00615	CDS	120				hypothetical protein
+HEKDCIED_00616	gene	354				
+HEKDCIED_00616	CDS	354				hypothetical protein
+HEKDCIED_00617	gene	1290	hemL1			
+HEKDCIED_00617	CDS	1290	hemL1	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase 1
+HEKDCIED_00618	gene	1465				
+HEKDCIED_00618	rRNA	1465				16S ribosomal RNA
+HEKDCIED_00619	gene	2967				
+HEKDCIED_00619	rRNA	2967				23S ribosomal RNA
+HEKDCIED_00620	gene	555				
+HEKDCIED_00620	CDS	555				hypothetical protein
+HEKDCIED_00621	gene	840	eryG			
+HEKDCIED_00621	CDS	840	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+HEKDCIED_00622	gene	381				
+HEKDCIED_00622	CDS	381				hypothetical protein
+HEKDCIED_00623	gene	453	msrA			
+HEKDCIED_00623	CDS	453	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+HEKDCIED_00624	gene	432	nhaX			
+HEKDCIED_00624	CDS	432	nhaX		COG0589	Stress response protein NhaX
+HEKDCIED_00625	gene	411	gpt			
+HEKDCIED_00625	CDS	411	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+HEKDCIED_00626	gene	915				
+HEKDCIED_00626	CDS	915				hypothetical protein
+HEKDCIED_00627	gene	1437				
+HEKDCIED_00627	CDS	1437				hypothetical protein
+HEKDCIED_00628	gene	387				
+HEKDCIED_00628	CDS	387				hypothetical protein
+HEKDCIED_00629	gene	1008	birA			
+HEKDCIED_00629	CDS	1008	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+HEKDCIED_00630	gene	498				
+HEKDCIED_00630	CDS	498				hypothetical protein
+HEKDCIED_00631	gene	909	auaH			
+HEKDCIED_00631	CDS	909	auaH	1.1.1.394		Aurachin B dehydrogenase
+HEKDCIED_00632	gene	414	yccU			
+HEKDCIED_00632	CDS	414	yccU		COG1832	putative protein YccU
+HEKDCIED_00633	gene	369				
+HEKDCIED_00633	CDS	369				hypothetical protein
+HEKDCIED_00634	gene	588				
+HEKDCIED_00634	CDS	588				hypothetical protein
+HEKDCIED_00635	gene	183				
+HEKDCIED_00635	CDS	183				hypothetical protein
+HEKDCIED_00636	gene	651	rutE			
+HEKDCIED_00636	CDS	651	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+HEKDCIED_00637	gene	234				
+HEKDCIED_00637	CDS	234				hypothetical protein
+HEKDCIED_00638	gene	210				
+HEKDCIED_00638	CDS	210				hypothetical protein
+HEKDCIED_00639	gene	177				
+HEKDCIED_00639	CDS	177				hypothetical protein
+HEKDCIED_00640	gene	381				
+HEKDCIED_00640	CDS	381				hypothetical protein
+HEKDCIED_00641	gene	222				
+HEKDCIED_00641	CDS	222				hypothetical protein
+HEKDCIED_00642	gene	315				
+HEKDCIED_00642	CDS	315				hypothetical protein
+HEKDCIED_00643	gene	462				
+HEKDCIED_00643	CDS	462				hypothetical protein
+HEKDCIED_00644	gene	1284				
+HEKDCIED_00644	CDS	1284				hypothetical protein
+HEKDCIED_00645	gene	423				
+HEKDCIED_00645	CDS	423				hypothetical protein
+HEKDCIED_00646	gene	345				
+HEKDCIED_00646	CDS	345				hypothetical protein
+HEKDCIED_00647	gene	318				
+HEKDCIED_00647	CDS	318				hypothetical protein
+HEKDCIED_00648	gene	1368				
+HEKDCIED_00648	CDS	1368				hypothetical protein
+HEKDCIED_00649	gene	1053				
+HEKDCIED_00649	CDS	1053				hypothetical protein
+HEKDCIED_00650	gene	249				
+HEKDCIED_00650	CDS	249				hypothetical protein
+HEKDCIED_00651	gene	339	mgsR			
+HEKDCIED_00651	CDS	339	mgsR		COG1393	Regulatory protein MgsR
+HEKDCIED_00652	gene	699				
+HEKDCIED_00652	CDS	699				hypothetical protein
+HEKDCIED_00653	gene	1725				
+HEKDCIED_00653	CDS	1725				hypothetical protein
+HEKDCIED_00654	gene	99				
+HEKDCIED_00654	CDS	99				hypothetical protein
+HEKDCIED_00655	gene	540				
+HEKDCIED_00655	CDS	540				hypothetical protein
+HEKDCIED_00656	gene	606	drgA			
+HEKDCIED_00656	CDS	606	drgA			Protein DrgA
+HEKDCIED_00657	gene	1389	cysS			
+HEKDCIED_00657	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+HEKDCIED_00658	gene	852	nadE			
+HEKDCIED_00658	CDS	852	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+HEKDCIED_00659	gene	747	cmoA			
+HEKDCIED_00659	CDS	747	cmoA	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+HEKDCIED_00660	gene	492				
+HEKDCIED_00660	CDS	492				hypothetical protein
+HEKDCIED_00661	gene	303	bphF			
+HEKDCIED_00661	CDS	303	bphF		COG2146	Biphenyl dioxygenase system ferredoxin subunit
+HEKDCIED_00662	gene	1242	ahcY			
+HEKDCIED_00662	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+HEKDCIED_00663	gene	513				
+HEKDCIED_00663	CDS	513				hypothetical protein
+HEKDCIED_00664	gene	351				
+HEKDCIED_00664	CDS	351				hypothetical protein
+HEKDCIED_00665	gene	588				
+HEKDCIED_00665	CDS	588				hypothetical protein
+HEKDCIED_00666	gene	384	hrp1_1			
+HEKDCIED_00666	CDS	384	hrp1_1		COG0517	Hypoxic response protein 1
+HEKDCIED_00667	gene	1656	metG_1			
+HEKDCIED_00667	CDS	1656	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+HEKDCIED_00668	gene	753				
+HEKDCIED_00668	CDS	753				hypothetical protein
+HEKDCIED_00669	gene	921	tuf			
+HEKDCIED_00669	CDS	921	tuf			Elongation factor Tu
+HEKDCIED_00670	gene	1884	hcf136			
+HEKDCIED_00670	CDS	1884	hcf136			Ycf48-like protein
+HEKDCIED_00671	gene	999	ilvC			
+HEKDCIED_00671	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+HEKDCIED_00672	gene	423	mcm			
+HEKDCIED_00672	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+HEKDCIED_00673	gene	285				
+HEKDCIED_00673	CDS	285				hypothetical protein
+HEKDCIED_00674	gene	930				
+HEKDCIED_00674	CDS	930				hypothetical protein
+HEKDCIED_00675	gene	2502	pepN			
+HEKDCIED_00675	CDS	2502	pepN	3.4.11.2	COG0308	Aminopeptidase N
+HEKDCIED_00676	gene	408				
+HEKDCIED_00676	CDS	408				hypothetical protein
+HEKDCIED_00677	gene	918				
+HEKDCIED_00677	CDS	918		3.6.-.-	COG1703	putative GTPase
+HEKDCIED_00678	gene	1602	bhbA			
+HEKDCIED_00678	CDS	1602	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+HEKDCIED_00679	gene	393	epi			
+HEKDCIED_00679	CDS	393	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+HEKDCIED_00680	gene	615				
+HEKDCIED_00680	CDS	615				hypothetical protein
+HEKDCIED_00681	gene	621	sodA_1			
+HEKDCIED_00681	CDS	621	sodA_1	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+HEKDCIED_00682	gene	243				
+HEKDCIED_00682	CDS	243				hypothetical protein
+HEKDCIED_00683	gene	1449				
+HEKDCIED_00683	CDS	1449			COG0247	putative protein
+HEKDCIED_00684	gene	1317				
+HEKDCIED_00684	CDS	1317				hypothetical protein
+HEKDCIED_00685	gene	405				
+HEKDCIED_00685	CDS	405				hypothetical protein
+HEKDCIED_00686	gene	555	dnaJ_3			
+HEKDCIED_00686	CDS	555	dnaJ_3			Chaperone protein DnaJ
+HEKDCIED_00687	gene	228				
+HEKDCIED_00687	CDS	228				hypothetical protein
+HEKDCIED_00688	gene	627				
+HEKDCIED_00688	CDS	627				hypothetical protein
+HEKDCIED_00689	gene	174				
+HEKDCIED_00689	CDS	174				hypothetical protein
+HEKDCIED_00690	gene	1116	mqnE			
+HEKDCIED_00690	CDS	1116	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+HEKDCIED_00691	gene	306				
+HEKDCIED_00691	CDS	306				hypothetical protein
+HEKDCIED_00692	gene	282				
+HEKDCIED_00692	CDS	282				hypothetical protein
+HEKDCIED_00693	gene	318				
+HEKDCIED_00693	CDS	318				hypothetical protein
+HEKDCIED_00694	gene	258				
+HEKDCIED_00694	CDS	258				hypothetical protein
+HEKDCIED_00695	gene	345				
+HEKDCIED_00695	CDS	345				hypothetical protein
+HEKDCIED_00696	gene	309				
+HEKDCIED_00696	CDS	309				hypothetical protein
+HEKDCIED_00697	gene	315				
+HEKDCIED_00697	CDS	315				hypothetical protein
+HEKDCIED_00698	gene	300				
+HEKDCIED_00698	CDS	300				hypothetical protein
+HEKDCIED_00699	gene	867	mqnD			
+HEKDCIED_00699	CDS	867	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+HEKDCIED_00700	gene	2193	fusA			
+HEKDCIED_00700	CDS	2193	fusA		COG0480	Elongation factor G
+HEKDCIED_00701	gene	147				
+HEKDCIED_00701	CDS	147				hypothetical protein
+HEKDCIED_00702	gene	576				
+HEKDCIED_00702	CDS	576				hypothetical protein
+HEKDCIED_00703	gene	240				
+HEKDCIED_00703	CDS	240				hypothetical protein
+HEKDCIED_00704	gene	231				
+HEKDCIED_00704	CDS	231				hypothetical protein
+HEKDCIED_00705	gene	426				
+HEKDCIED_00705	CDS	426				hypothetical protein
+HEKDCIED_00706	gene	225				
+HEKDCIED_00706	CDS	225				hypothetical protein
+HEKDCIED_00707	gene	381				
+HEKDCIED_00707	CDS	381				hypothetical protein
+HEKDCIED_00708	gene	354				
+HEKDCIED_00708	CDS	354				hypothetical protein
+HEKDCIED_00709	gene	207				
+HEKDCIED_00709	CDS	207				hypothetical protein
+HEKDCIED_00710	gene	237				
+HEKDCIED_00710	CDS	237				hypothetical protein
+HEKDCIED_00711	gene	270				
+HEKDCIED_00711	CDS	270				hypothetical protein
+HEKDCIED_00712	gene	234				
+HEKDCIED_00712	CDS	234				hypothetical protein
+HEKDCIED_00713	gene	177				
+HEKDCIED_00713	CDS	177				hypothetical protein
+HEKDCIED_00714	gene	114				
+HEKDCIED_00714	CDS	114				hypothetical protein
+HEKDCIED_00715	gene	609				
+HEKDCIED_00715	CDS	609				hypothetical protein
+HEKDCIED_00716	gene	273				
+HEKDCIED_00716	CDS	273				hypothetical protein
+HEKDCIED_00717	gene	567				
+HEKDCIED_00717	CDS	567				hypothetical protein
+HEKDCIED_00718	gene	255				
+HEKDCIED_00718	CDS	255				hypothetical protein
+HEKDCIED_00719	gene	261				
+HEKDCIED_00719	CDS	261				hypothetical protein
+HEKDCIED_00720	gene	825				
+HEKDCIED_00720	CDS	825				hypothetical protein
+HEKDCIED_00721	gene	1815				
+HEKDCIED_00721	CDS	1815				hypothetical protein
+HEKDCIED_00722	gene	426				
+HEKDCIED_00722	CDS	426				hypothetical protein
+HEKDCIED_00723	gene	213				
+HEKDCIED_00723	CDS	213				hypothetical protein
+HEKDCIED_00724	gene	249				
+HEKDCIED_00724	CDS	249				hypothetical protein
+HEKDCIED_00725	gene	297				
+HEKDCIED_00725	CDS	297				hypothetical protein
+HEKDCIED_00726	gene	276				
+HEKDCIED_00726	CDS	276				hypothetical protein
+HEKDCIED_00727	gene	4062				
+HEKDCIED_00727	CDS	4062				hypothetical protein
+HEKDCIED_00728	gene	564				
+HEKDCIED_00728	CDS	564				hypothetical protein
+HEKDCIED_00729	gene	1092				
+HEKDCIED_00729	CDS	1092				hypothetical protein
+HEKDCIED_00730	gene	195				
+HEKDCIED_00730	CDS	195				hypothetical protein
+HEKDCIED_00731	gene	1134				
+HEKDCIED_00731	CDS	1134				hypothetical protein
+HEKDCIED_00732	gene	558	ecdB			
+HEKDCIED_00732	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+HEKDCIED_00733	gene	474				
+HEKDCIED_00733	CDS	474				hypothetical protein
+HEKDCIED_00734	gene	207	tatA			
+HEKDCIED_00734	CDS	207	tatA			Sec-independent protein translocase protein TatA
+HEKDCIED_00735	gene	792	tatC			
+HEKDCIED_00735	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+HEKDCIED_00736	gene	471				
+HEKDCIED_00736	CDS	471				hypothetical protein
+HEKDCIED_00737	gene	1176				
+HEKDCIED_00737	CDS	1176				hypothetical protein
+HEKDCIED_00738	gene	261	purS			
+HEKDCIED_00738	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+HEKDCIED_00739	gene	417	hrp1_2			
+HEKDCIED_00739	CDS	417	hrp1_2		COG0517	Hypoxic response protein 1
+HEKDCIED_00740	gene	681	purQ			
+HEKDCIED_00740	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+HEKDCIED_00741	gene	2166	purL			
+HEKDCIED_00741	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+HEKDCIED_00742	gene	1443	purF			
+HEKDCIED_00742	CDS	1443	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HEKDCIED_00743	gene	279				
+HEKDCIED_00743	CDS	279				hypothetical protein
+HEKDCIED_00744	gene	825	purC			
+HEKDCIED_00744	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HEKDCIED_00745	gene	504				
+HEKDCIED_00745	CDS	504				hypothetical protein
+HEKDCIED_00746	gene	432				
+HEKDCIED_00746	CDS	432				hypothetical protein
+HEKDCIED_00747	gene	399				
+HEKDCIED_00747	CDS	399				hypothetical protein
+HEKDCIED_00748	gene	486				
+HEKDCIED_00748	CDS	486				hypothetical protein
+HEKDCIED_00749	gene	435				
+HEKDCIED_00749	CDS	435				hypothetical protein
+HEKDCIED_00750	gene	228				
+HEKDCIED_00750	CDS	228				hypothetical protein
+HEKDCIED_00751	gene	249				
+HEKDCIED_00751	CDS	249				hypothetical protein
+HEKDCIED_00752	gene	75				
+HEKDCIED_00752	tRNA	75				tRNA-Asn(gtt)
+HEKDCIED_00753	gene	291				
+HEKDCIED_00753	CDS	291				hypothetical protein
+HEKDCIED_00754	gene	558				
+HEKDCIED_00754	CDS	558				hypothetical protein
+HEKDCIED_00755	gene	393	rpsH			
+HEKDCIED_00755	CDS	393	rpsH			30S ribosomal protein S8
+HEKDCIED_00756	gene	180				
+HEKDCIED_00756	CDS	180				hypothetical protein
+HEKDCIED_00757	gene	522				
+HEKDCIED_00757	CDS	522				hypothetical protein
+HEKDCIED_00758	gene	717				
+HEKDCIED_00758	CDS	717				hypothetical protein
+HEKDCIED_00759	gene	441				
+HEKDCIED_00759	CDS	441				hypothetical protein
+HEKDCIED_00760	gene	423	rplN			
+HEKDCIED_00760	CDS	423	rplN		COG0093	50S ribosomal protein L14
+HEKDCIED_00761	gene	330				
+HEKDCIED_00761	CDS	330				hypothetical protein
+HEKDCIED_00762	gene	267				
+HEKDCIED_00762	CDS	267				hypothetical protein
+HEKDCIED_00763	gene	207				
+HEKDCIED_00763	CDS	207				hypothetical protein
+HEKDCIED_00764	gene	789				
+HEKDCIED_00764	CDS	789				hypothetical protein
+HEKDCIED_00765	gene	459				
+HEKDCIED_00765	CDS	459				hypothetical protein
+HEKDCIED_00766	gene	396				
+HEKDCIED_00766	CDS	396				hypothetical protein
+HEKDCIED_00767	gene	267				
+HEKDCIED_00767	CDS	267				hypothetical protein
+HEKDCIED_00768	gene	813				
+HEKDCIED_00768	CDS	813				hypothetical protein
+HEKDCIED_00769	gene	996				
+HEKDCIED_00769	CDS	996				hypothetical protein
+HEKDCIED_00770	gene	108				
+HEKDCIED_00770	CDS	108				hypothetical protein
+HEKDCIED_00771	gene	807				
+HEKDCIED_00771	CDS	807				hypothetical protein
+HEKDCIED_00772	gene	738	prcA_2			
+HEKDCIED_00772	CDS	738	prcA_2			Proteasome subunit alpha
+HEKDCIED_00773	gene	417				
+HEKDCIED_00773	CDS	417				hypothetical protein
+HEKDCIED_00774	gene	129				
+HEKDCIED_00774	CDS	129				hypothetical protein
+HEKDCIED_00775	gene	645				
+HEKDCIED_00775	CDS	645				hypothetical protein
+HEKDCIED_00776	gene	2664	dbpA_2			
+HEKDCIED_00776	CDS	2664	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+HEKDCIED_00777	gene	111				
+HEKDCIED_00777	CDS	111				hypothetical protein
+HEKDCIED_00778	gene	342				
+HEKDCIED_00778	CDS	342				hypothetical protein
+HEKDCIED_00779	gene	651				
+HEKDCIED_00779	CDS	651				hypothetical protein
+HEKDCIED_00780	gene	1107	dipZ			
+HEKDCIED_00780	CDS	1107	dipZ		COG0785	Protein DipZ
+HEKDCIED_00781	gene	732				
+HEKDCIED_00781	CDS	732				hypothetical protein
+HEKDCIED_00782	gene	123				
+HEKDCIED_00782	CDS	123				hypothetical protein
+HEKDCIED_00783	gene	1125				
+HEKDCIED_00783	CDS	1125		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+HEKDCIED_00784	gene	978	bioB			
+HEKDCIED_00784	CDS	978	bioB	2.8.1.6	COG0502	Biotin synthase
+HEKDCIED_00785	gene	1317	bioK			
+HEKDCIED_00785	CDS	1317	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+HEKDCIED_00786	gene	159				
+HEKDCIED_00786	CDS	159				hypothetical protein
+HEKDCIED_00787	gene	231				
+HEKDCIED_00787	CDS	231				hypothetical protein
+HEKDCIED_00788	gene	549				
+HEKDCIED_00788	CDS	549				hypothetical protein
+HEKDCIED_00789	gene	684	bioD			
+HEKDCIED_00789	CDS	684	bioD	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD
+HEKDCIED_00790	gene	534				
+HEKDCIED_00790	CDS	534				hypothetical protein
+HEKDCIED_00791	gene	1395	mvaS			
+HEKDCIED_00791	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+HEKDCIED_00792	gene	705				
+HEKDCIED_00792	CDS	705				hypothetical protein
+HEKDCIED_00793	gene	1053				
+HEKDCIED_00793	CDS	1053				hypothetical protein
+HEKDCIED_00794	gene	1254				
+HEKDCIED_00794	CDS	1254				hypothetical protein
+HEKDCIED_00795	gene	1338				
+HEKDCIED_00795	CDS	1338				hypothetical protein
+HEKDCIED_00796	gene	375				
+HEKDCIED_00796	CDS	375				hypothetical protein
+HEKDCIED_00797	gene	318				
+HEKDCIED_00797	CDS	318				hypothetical protein
+HEKDCIED_00798	gene	450				
+HEKDCIED_00798	CDS	450				hypothetical protein
+HEKDCIED_00799	gene	564				
+HEKDCIED_00799	CDS	564				hypothetical protein
+HEKDCIED_00800	gene	201				
+HEKDCIED_00800	CDS	201				hypothetical protein
+HEKDCIED_00801	gene	828				
+HEKDCIED_00801	CDS	828				hypothetical protein
+HEKDCIED_00802	gene	309				
+HEKDCIED_00802	CDS	309				hypothetical protein
+HEKDCIED_00803	gene	1110	fadA_1			
+HEKDCIED_00803	CDS	1110	fadA_1	2.3.1.16		3-ketoacyl-CoA thiolase
+HEKDCIED_00804	gene	966				
+HEKDCIED_00804	CDS	966		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+HEKDCIED_00805	gene	144				
+HEKDCIED_00805	CDS	144				hypothetical protein
+HEKDCIED_00806	gene	669	cugP_1			
+HEKDCIED_00806	CDS	669	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HEKDCIED_00807	gene	240				
+HEKDCIED_00807	CDS	240				hypothetical protein
+HEKDCIED_00808	gene	147				
+HEKDCIED_00808	CDS	147				hypothetical protein
+HEKDCIED_00809	gene	375				
+HEKDCIED_00809	CDS	375				hypothetical protein
+HEKDCIED_00810	gene	1143	purK			
+HEKDCIED_00810	CDS	1143	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+HEKDCIED_00811	gene	96				
+HEKDCIED_00811	CDS	96				hypothetical protein
+HEKDCIED_00812	gene	618	isiB			
+HEKDCIED_00812	CDS	618	isiB			Flavodoxin
+HEKDCIED_00813	gene	180				
+HEKDCIED_00813	CDS	180				hypothetical protein
+HEKDCIED_00814	gene	228				
+HEKDCIED_00814	CDS	228				hypothetical protein
+HEKDCIED_00815	gene	1209	tdcB			
+HEKDCIED_00815	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+HEKDCIED_00816	gene	843				
+HEKDCIED_00816	CDS	843				hypothetical protein
+HEKDCIED_00817	gene	780				
+HEKDCIED_00817	CDS	780				hypothetical protein
+HEKDCIED_00818	gene	147				
+HEKDCIED_00818	CDS	147				hypothetical protein
+HEKDCIED_00819	gene	381				
+HEKDCIED_00819	CDS	381				hypothetical protein
+HEKDCIED_00820	gene	384				
+HEKDCIED_00820	CDS	384				hypothetical protein
+HEKDCIED_00821	gene	414				
+HEKDCIED_00821	CDS	414				hypothetical protein
+HEKDCIED_00822	gene	219				
+HEKDCIED_00822	CDS	219				hypothetical protein
+HEKDCIED_00823	gene	240				
+HEKDCIED_00823	CDS	240				hypothetical protein
+HEKDCIED_00824	gene	267				
+HEKDCIED_00824	CDS	267				hypothetical protein
+HEKDCIED_00825	gene	228				
+HEKDCIED_00825	CDS	228				hypothetical protein
+HEKDCIED_00826	gene	372				
+HEKDCIED_00826	CDS	372				hypothetical protein
+HEKDCIED_00827	gene	3759				
+HEKDCIED_00827	CDS	3759				hypothetical protein
+HEKDCIED_00828	gene	75				
+HEKDCIED_00828	tRNA	75				tRNA-Phe(gaa)
+HEKDCIED_00829	gene	537	cobO_2			
+HEKDCIED_00829	CDS	537	cobO_2	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+HEKDCIED_00830	gene	534				
+HEKDCIED_00830	CDS	534				hypothetical protein
+HEKDCIED_00831	gene	225				
+HEKDCIED_00831	CDS	225				hypothetical protein
+HEKDCIED_00832	gene	204				
+HEKDCIED_00832	CDS	204				hypothetical protein
+HEKDCIED_00833	gene	225				
+HEKDCIED_00833	CDS	225				hypothetical protein
+HEKDCIED_00834	gene	330				
+HEKDCIED_00834	CDS	330				hypothetical protein
+HEKDCIED_00835	gene	300				
+HEKDCIED_00835	CDS	300				hypothetical protein
+HEKDCIED_00836	gene	348				
+HEKDCIED_00836	CDS	348				hypothetical protein
+HEKDCIED_00837	gene	621				
+HEKDCIED_00837	CDS	621				hypothetical protein
+HEKDCIED_00838	gene	816				
+HEKDCIED_00838	CDS	816				hypothetical protein
+HEKDCIED_00839	gene	1227				
+HEKDCIED_00839	CDS	1227				hypothetical protein
+HEKDCIED_00840	gene	2199				
+HEKDCIED_00840	CDS	2199				hypothetical protein
+HEKDCIED_00841	gene	1311				
+HEKDCIED_00841	CDS	1311		2.6.1.1		Aspartate aminotransferase
+HEKDCIED_00842	gene	153				
+HEKDCIED_00842	CDS	153				hypothetical protein
+HEKDCIED_00843	gene	1863	acs			
+HEKDCIED_00843	CDS	1863	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HEKDCIED_00844	gene	264				
+HEKDCIED_00844	CDS	264				hypothetical protein
+HEKDCIED_00845	gene	1407	gatB			
+HEKDCIED_00845	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+HEKDCIED_00846	gene	1446	gatA			
+HEKDCIED_00846	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+HEKDCIED_00847	gene	264				
+HEKDCIED_00847	CDS	264				hypothetical protein
+HEKDCIED_00848	gene	528				
+HEKDCIED_00848	CDS	528				hypothetical protein
+HEKDCIED_00849	gene	1272				
+HEKDCIED_00849	CDS	1272				hypothetical protein
+HEKDCIED_00850	gene	636				
+HEKDCIED_00850	CDS	636				hypothetical protein
+HEKDCIED_00851	gene	1311	aspS2_2			
+HEKDCIED_00851	CDS	1311	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HEKDCIED_00852	gene	195				
+HEKDCIED_00852	CDS	195				hypothetical protein
+HEKDCIED_00853	gene	231				
+HEKDCIED_00853	CDS	231				hypothetical protein
+HEKDCIED_00854	gene	618				
+HEKDCIED_00854	CDS	618				hypothetical protein
+HEKDCIED_00855	gene	177				
+HEKDCIED_00855	CDS	177				hypothetical protein
+HEKDCIED_00856	gene	111				
+HEKDCIED_00856	CDS	111				hypothetical protein
+HEKDCIED_00857	gene	177				
+HEKDCIED_00857	CDS	177				hypothetical protein
+HEKDCIED_00858	gene	138				
+HEKDCIED_00858	CDS	138				hypothetical protein
+HEKDCIED_00859	gene	291				
+HEKDCIED_00859	CDS	291				hypothetical protein
+HEKDCIED_00860	gene	1026				
+HEKDCIED_00860	CDS	1026				hypothetical protein
+HEKDCIED_00861	gene	228				
+HEKDCIED_00861	CDS	228				hypothetical protein
+HEKDCIED_00862	gene	657	phnE			
+HEKDCIED_00862	CDS	657	phnE		COG3639	Phosphate-import permease protein PhnE
+HEKDCIED_00863	gene	864	metN2			
+HEKDCIED_00863	CDS	864	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+HEKDCIED_00864	gene	999				
+HEKDCIED_00864	CDS	999				hypothetical protein
+HEKDCIED_00865	gene	351				
+HEKDCIED_00865	CDS	351				hypothetical protein
+HEKDCIED_00866	gene	336				
+HEKDCIED_00866	CDS	336				hypothetical protein
+HEKDCIED_00867	gene	726				
+HEKDCIED_00867	CDS	726				hypothetical protein
+HEKDCIED_00868	gene	216				
+HEKDCIED_00868	CDS	216				hypothetical protein
+HEKDCIED_00869	gene	177				
+HEKDCIED_00869	CDS	177				hypothetical protein
+HEKDCIED_00870	gene	1281				
+HEKDCIED_00870	CDS	1281				hypothetical protein
+HEKDCIED_00871	gene	408	hit			
+HEKDCIED_00871	CDS	408	hit		COG0537	Protein hit
+HEKDCIED_00872	gene	597				
+HEKDCIED_00872	CDS	597				hypothetical protein
+HEKDCIED_00873	gene	147				
+HEKDCIED_00873	CDS	147				hypothetical protein
+HEKDCIED_00874	gene	222				
+HEKDCIED_00874	CDS	222				hypothetical protein
+HEKDCIED_00875	gene	150				
+HEKDCIED_00875	CDS	150				hypothetical protein
+HEKDCIED_00876	gene	1674	ilvD			
+HEKDCIED_00876	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+HEKDCIED_00877	gene	138				
+HEKDCIED_00877	CDS	138				hypothetical protein
+HEKDCIED_00878	gene	429				
+HEKDCIED_00878	CDS	429				hypothetical protein
+HEKDCIED_00879	gene	1599	dinG			
+HEKDCIED_00879	CDS	1599	dinG	3.1.-.-		3'-5' exonuclease DinG
+HEKDCIED_00880	gene	315				
+HEKDCIED_00880	CDS	315				hypothetical protein
+HEKDCIED_00881	gene	132				
+HEKDCIED_00881	CDS	132				hypothetical protein
+HEKDCIED_00882	gene	264				
+HEKDCIED_00882	CDS	264				hypothetical protein
+HEKDCIED_00883	gene	537				
+HEKDCIED_00883	CDS	537				hypothetical protein
+HEKDCIED_00884	gene	207				
+HEKDCIED_00884	CDS	207				hypothetical protein
+HEKDCIED_00885	gene	597				
+HEKDCIED_00885	CDS	597				hypothetical protein
+HEKDCIED_00886	gene	96				
+HEKDCIED_00886	CDS	96				hypothetical protein
+HEKDCIED_00887	gene	156				
+HEKDCIED_00887	CDS	156				hypothetical protein
+HEKDCIED_00888	gene	681				
+HEKDCIED_00888	CDS	681				hypothetical protein
+HEKDCIED_00889	gene	1191	trpB			
+HEKDCIED_00889	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+HEKDCIED_00890	gene	777	trpC			
+HEKDCIED_00890	CDS	777	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+HEKDCIED_00891	gene	1047	trpD			
+HEKDCIED_00891	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+HEKDCIED_00892	gene	591	trpG			
+HEKDCIED_00892	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+HEKDCIED_00893	gene	1350	pabB			
+HEKDCIED_00893	CDS	1350	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+HEKDCIED_00894	gene	2370				
+HEKDCIED_00894	CDS	2370				hypothetical protein
+HEKDCIED_00895	gene	234				
+HEKDCIED_00895	CDS	234				hypothetical protein
+HEKDCIED_00896	gene	609				
+HEKDCIED_00896	CDS	609				hypothetical protein
+HEKDCIED_00897	gene	198				
+HEKDCIED_00897	CDS	198				hypothetical protein
+HEKDCIED_00898	gene	1875				
+HEKDCIED_00898	CDS	1875				hypothetical protein
+HEKDCIED_00899	gene	1524				
+HEKDCIED_00899	CDS	1524				hypothetical protein
+HEKDCIED_00900	gene	1134				
+HEKDCIED_00900	CDS	1134				hypothetical protein
+HEKDCIED_00901	gene	1287				
+HEKDCIED_00901	CDS	1287				hypothetical protein
+HEKDCIED_00902	gene	1023				
+HEKDCIED_00902	CDS	1023				hypothetical protein
+HEKDCIED_00903	gene	879				
+HEKDCIED_00903	CDS	879				hypothetical protein
+HEKDCIED_00904	gene	945				
+HEKDCIED_00904	CDS	945				hypothetical protein
+HEKDCIED_00905	gene	417				
+HEKDCIED_00905	CDS	417				hypothetical protein
+HEKDCIED_00906	gene	528				
+HEKDCIED_00906	CDS	528				hypothetical protein
+HEKDCIED_00907	gene	351				
+HEKDCIED_00907	CDS	351				hypothetical protein
+HEKDCIED_00908	gene	237				
+HEKDCIED_00908	CDS	237				hypothetical protein
+HEKDCIED_00909	gene	480				
+HEKDCIED_00909	CDS	480				hypothetical protein
+HEKDCIED_00910	gene	969				
+HEKDCIED_00910	CDS	969				hypothetical protein
+HEKDCIED_00911	gene	222				
+HEKDCIED_00911	CDS	222				hypothetical protein
+HEKDCIED_00912	gene	306				
+HEKDCIED_00912	CDS	306				hypothetical protein
+HEKDCIED_00913	gene	588				
+HEKDCIED_00913	CDS	588				hypothetical protein
+HEKDCIED_00914	gene	498	ftn			
+HEKDCIED_00914	CDS	498	ftn	1.16.3.2	COG1528	Bacterial non-heme ferritin
+HEKDCIED_00915	gene	93				
+HEKDCIED_00915	CDS	93				hypothetical protein
+HEKDCIED_00916	gene	321				
+HEKDCIED_00916	CDS	321				hypothetical protein
+HEKDCIED_00917	gene	804	trpA			
+HEKDCIED_00917	CDS	804	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+HEKDCIED_00918	gene	1563	pyrG			
+HEKDCIED_00918	CDS	1563	pyrG	6.3.4.2		CTP synthase
+HEKDCIED_00919	gene	999	nadK_1			
+HEKDCIED_00919	CDS	999	nadK_1	2.7.1.23		NAD kinase
+HEKDCIED_00920	gene	873				
+HEKDCIED_00920	CDS	873				hypothetical protein
+HEKDCIED_00921	gene	288				
+HEKDCIED_00921	CDS	288				hypothetical protein
+HEKDCIED_00922	gene	573	pgsA2			
+HEKDCIED_00922	CDS	573	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+HEKDCIED_00923	gene	663				
+HEKDCIED_00923	CDS	663				hypothetical protein
+HEKDCIED_00924	gene	873	speB			
+HEKDCIED_00924	CDS	873	speB	3.5.3.11	COG0010	Agmatinase
+HEKDCIED_00925	gene	1869				
+HEKDCIED_00925	CDS	1869				hypothetical protein
+HEKDCIED_00926	gene	603	alkA			
+HEKDCIED_00926	CDS	603	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+HEKDCIED_00927	gene	339				
+HEKDCIED_00927	CDS	339				hypothetical protein
+HEKDCIED_00928	gene	1071				
+HEKDCIED_00928	CDS	1071		2.5.-.-		Deoxyhypusine synthase-like protein
+HEKDCIED_00929	gene	213				
+HEKDCIED_00929	CDS	213				hypothetical protein
+HEKDCIED_00930	gene	288				
+HEKDCIED_00930	CDS	288				hypothetical protein
+HEKDCIED_00931	gene	357				
+HEKDCIED_00931	CDS	357				hypothetical protein
+HEKDCIED_00932	gene	531				
+HEKDCIED_00932	CDS	531				hypothetical protein
+HEKDCIED_00933	gene	291				
+HEKDCIED_00933	CDS	291				hypothetical protein
+HEKDCIED_00934	gene	417				
+HEKDCIED_00934	CDS	417				hypothetical protein
+HEKDCIED_00935	gene	945	asnB			
+HEKDCIED_00935	CDS	945	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+HEKDCIED_00936	gene	1101				
+HEKDCIED_00936	CDS	1101				hypothetical protein
+HEKDCIED_00937	gene	213				
+HEKDCIED_00937	CDS	213				hypothetical protein
+HEKDCIED_00938	gene	264				
+HEKDCIED_00938	CDS	264				hypothetical protein
+HEKDCIED_00939	gene	885	menA			
+HEKDCIED_00939	CDS	885	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HEKDCIED_00940	gene	207				
+HEKDCIED_00940	CDS	207				hypothetical protein
+HEKDCIED_00941	gene	402				
+HEKDCIED_00941	CDS	402				hypothetical protein
+HEKDCIED_00942	gene	279				
+HEKDCIED_00942	CDS	279				hypothetical protein
+HEKDCIED_00943	gene	399				
+HEKDCIED_00943	CDS	399				hypothetical protein
+HEKDCIED_00944	gene	1056				
+HEKDCIED_00944	CDS	1056				hypothetical protein
+HEKDCIED_00945	gene	900				
+HEKDCIED_00945	CDS	900				hypothetical protein
+HEKDCIED_00946	gene	561				
+HEKDCIED_00946	CDS	561				hypothetical protein
+HEKDCIED_00947	gene	1284				
+HEKDCIED_00947	CDS	1284				hypothetical protein
+HEKDCIED_00948	gene	948				
+HEKDCIED_00948	CDS	948				hypothetical protein
+HEKDCIED_00949	gene	582				
+HEKDCIED_00949	CDS	582				hypothetical protein
+HEKDCIED_00950	gene	1428				
+HEKDCIED_00950	CDS	1428				hypothetical protein
+HEKDCIED_00951	gene	372				
+HEKDCIED_00951	CDS	372				hypothetical protein
+HEKDCIED_00952	gene	234				
+HEKDCIED_00952	CDS	234				hypothetical protein
+HEKDCIED_00953	gene	897				
+HEKDCIED_00953	CDS	897				hypothetical protein
+HEKDCIED_00954	gene	1347				
+HEKDCIED_00954	CDS	1347				hypothetical protein
+HEKDCIED_00955	gene	441				
+HEKDCIED_00955	CDS	441				hypothetical protein
+HEKDCIED_00956	gene	363				
+HEKDCIED_00956	CDS	363				hypothetical protein
+HEKDCIED_00957	gene	912				
+HEKDCIED_00957	CDS	912				hypothetical protein
+HEKDCIED_00958	gene	681				
+HEKDCIED_00958	CDS	681				hypothetical protein
+HEKDCIED_00959	gene	432				
+HEKDCIED_00959	CDS	432				hypothetical protein
+HEKDCIED_00960	gene	138				
+HEKDCIED_00960	CDS	138				hypothetical protein
+HEKDCIED_00961	gene	315				
+HEKDCIED_00961	CDS	315				hypothetical protein
+HEKDCIED_00962	gene	276	ppiC			
+HEKDCIED_00962	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+HEKDCIED_00963	gene	273				
+HEKDCIED_00963	CDS	273				hypothetical protein
+HEKDCIED_00964	gene	1506	dbpA_3			
+HEKDCIED_00964	CDS	1506	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+HEKDCIED_00965	gene	144				
+HEKDCIED_00965	CDS	144				hypothetical protein
+HEKDCIED_00966	gene	303				
+HEKDCIED_00966	CDS	303				hypothetical protein
+HEKDCIED_00967	gene	153				
+HEKDCIED_00967	CDS	153				hypothetical protein
+HEKDCIED_00968	gene	1344				
+HEKDCIED_00968	CDS	1344				hypothetical protein
+HEKDCIED_00969	gene	216				
+HEKDCIED_00969	CDS	216				hypothetical protein
+HEKDCIED_00970	gene	702				
+HEKDCIED_00970	CDS	702				hypothetical protein
+HEKDCIED_00971	gene	543				
+HEKDCIED_00971	CDS	543				hypothetical protein
+HEKDCIED_00972	gene	2556				
+HEKDCIED_00972	CDS	2556				hypothetical protein
+HEKDCIED_00973	gene	288				
+HEKDCIED_00973	CDS	288			COG4095	Sugar transporter SemiSWEET
+HEKDCIED_00974	gene	657	tpiA			
+HEKDCIED_00974	CDS	657	tpiA			Triosephosphate isomerase
+HEKDCIED_00975	gene	2679	ppdK			
+HEKDCIED_00975	CDS	2679	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HEKDCIED_00976	gene	558				
+HEKDCIED_00976	CDS	558				hypothetical protein
+HEKDCIED_00977	gene	279				
+HEKDCIED_00977	CDS	279				hypothetical protein
+HEKDCIED_00978	gene	825	mscS			
+HEKDCIED_00978	CDS	825	mscS		COG0668	Small-conductance mechanosensitive channel
+HEKDCIED_00979	gene	762				
+HEKDCIED_00979	CDS	762				hypothetical protein
+HEKDCIED_00980	gene	201				
+HEKDCIED_00980	CDS	201				hypothetical protein
+HEKDCIED_00981	gene	924	btuF			
+HEKDCIED_00981	CDS	924	btuF		COG0614	Vitamin B12-binding protein
+HEKDCIED_00982	gene	1158				
+HEKDCIED_00982	CDS	1158				hypothetical protein
+HEKDCIED_00983	gene	84				
+HEKDCIED_00983	tRNA	84				tRNA-Ser(cga)
+HEKDCIED_00984	gene	270				
+HEKDCIED_00984	CDS	270				hypothetical protein
+HEKDCIED_00985	gene	1023				
+HEKDCIED_00985	CDS	1023				hypothetical protein
+HEKDCIED_00986	gene	528				
+HEKDCIED_00986	CDS	528				hypothetical protein
+HEKDCIED_00987	gene	1896	acsA			
+HEKDCIED_00987	CDS	1896	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HEKDCIED_00988	gene	963				
+HEKDCIED_00988	CDS	963				hypothetical protein
+HEKDCIED_00989	gene	294				
+HEKDCIED_00989	CDS	294				hypothetical protein
+HEKDCIED_00990	gene	1623	thyX			
+HEKDCIED_00990	CDS	1623	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+HEKDCIED_00991	gene	399	msrB			
+HEKDCIED_00991	CDS	399	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+HEKDCIED_00992	gene	1011	hom			
+HEKDCIED_00992	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+HEKDCIED_00993	gene	477				
+HEKDCIED_00993	CDS	477				hypothetical protein
+HEKDCIED_00994	gene	597	prcB_1			
+HEKDCIED_00994	CDS	597	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+HEKDCIED_00995	gene	420				
+HEKDCIED_00995	CDS	420				hypothetical protein
+HEKDCIED_00996	gene	1353	dapE			
+HEKDCIED_00996	CDS	1353	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+HEKDCIED_00997	gene	849	nnr_1			
+HEKDCIED_00997	CDS	849	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HEKDCIED_00998	gene	909	pcm			
+HEKDCIED_00998	CDS	909	pcm	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+HEKDCIED_00999	gene	147				
+HEKDCIED_00999	CDS	147				hypothetical protein
+HEKDCIED_01000	gene	744				
+HEKDCIED_01000	CDS	744				hypothetical protein
+HEKDCIED_01001	gene	321				
+HEKDCIED_01001	CDS	321				hypothetical protein
+HEKDCIED_01002	gene	141				
+HEKDCIED_01002	CDS	141				hypothetical protein
+HEKDCIED_01003	gene	513				
+HEKDCIED_01003	CDS	513				hypothetical protein
+HEKDCIED_01004	gene	411				
+HEKDCIED_01004	CDS	411				hypothetical protein
+HEKDCIED_01005	gene	300				
+HEKDCIED_01005	CDS	300				hypothetical protein
+HEKDCIED_01006	gene	156				
+HEKDCIED_01006	CDS	156				hypothetical protein
+HEKDCIED_01007	gene	402				
+HEKDCIED_01007	CDS	402				hypothetical protein
+HEKDCIED_01008	gene	408				
+HEKDCIED_01008	CDS	408				hypothetical protein
+HEKDCIED_01009	gene	561				
+HEKDCIED_01009	CDS	561				hypothetical protein
+HEKDCIED_01010	gene	1344	phr			
+HEKDCIED_01010	CDS	1344	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+HEKDCIED_01011	gene	564				
+HEKDCIED_01011	CDS	564				hypothetical protein
+HEKDCIED_01012	gene	1320				
+HEKDCIED_01012	CDS	1320				hypothetical protein
+HEKDCIED_01013	gene	864				
+HEKDCIED_01013	CDS	864				hypothetical protein
+HEKDCIED_01014	gene	561				
+HEKDCIED_01014	CDS	561				hypothetical protein
+HEKDCIED_01015	gene	276				
+HEKDCIED_01015	CDS	276				hypothetical protein
+HEKDCIED_01016	gene	195				
+HEKDCIED_01016	CDS	195				hypothetical protein
+HEKDCIED_01017	gene	129				
+HEKDCIED_01017	CDS	129				hypothetical protein
+HEKDCIED_01018	gene	1887	argS			
+HEKDCIED_01018	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+HEKDCIED_01019	gene	744	mngB			
+HEKDCIED_01019	CDS	744	mngB	3.1.3.70		Mannosyl-3-phosphoglycerate phosphatase
+HEKDCIED_01020	gene	462				
+HEKDCIED_01020	CDS	462				hypothetical protein
+HEKDCIED_01021	gene	1080				
+HEKDCIED_01021	CDS	1080				hypothetical protein
+HEKDCIED_01022	gene	582				
+HEKDCIED_01022	CDS	582				hypothetical protein
+HEKDCIED_01023	gene	1119	obg			
+HEKDCIED_01023	CDS	1119	obg	3.6.5.-		GTPase Obg
+HEKDCIED_01024	gene	480				
+HEKDCIED_01024	CDS	480				hypothetical protein
+HEKDCIED_01025	gene	1662				
+HEKDCIED_01025	CDS	1662				hypothetical protein
+HEKDCIED_01026	gene	1134				
+HEKDCIED_01026	CDS	1134				hypothetical protein
+HEKDCIED_01027	gene	807	rhdA_1			
+HEKDCIED_01027	CDS	807	rhdA_1	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+HEKDCIED_01028	gene	1809	sir			
+HEKDCIED_01028	CDS	1809	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+HEKDCIED_01029	gene	843	thi4_1			
+HEKDCIED_01029	CDS	843	thi4_1	2.4.2.59		Thiamine thiazole synthase
+HEKDCIED_01030	gene	774				
+HEKDCIED_01030	CDS	774				hypothetical protein
+HEKDCIED_01031	gene	996	trxB			
+HEKDCIED_01031	CDS	996	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+HEKDCIED_01032	gene	234				
+HEKDCIED_01032	CDS	234				hypothetical protein
+HEKDCIED_01033	gene	474				
+HEKDCIED_01033	CDS	474				hypothetical protein
+HEKDCIED_01034	gene	237	tusA			
+HEKDCIED_01034	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+HEKDCIED_01035	gene	726	fbiB_1			
+HEKDCIED_01035	CDS	726	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+HEKDCIED_01036	gene	645	serB			
+HEKDCIED_01036	CDS	645	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+HEKDCIED_01037	gene	291				
+HEKDCIED_01037	CDS	291				hypothetical protein
+HEKDCIED_01038	gene	1443	proS			
+HEKDCIED_01038	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+HEKDCIED_01039	gene	1311	egtB			
+HEKDCIED_01039	CDS	1311	egtB	1.14.99.50		Hercynine oxygenase
+HEKDCIED_01040	gene	1023	egtD			
+HEKDCIED_01040	CDS	1023	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+HEKDCIED_01041	gene	966	oppF			
+HEKDCIED_01041	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+HEKDCIED_01042	gene	3528	smc_2			
+HEKDCIED_01042	CDS	3528	smc_2			Chromosome partition protein Smc
+HEKDCIED_01043	gene	1095	ino1			
+HEKDCIED_01043	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+HEKDCIED_01044	gene	717				
+HEKDCIED_01044	CDS	717				hypothetical protein
+HEKDCIED_01045	gene	621				
+HEKDCIED_01045	CDS	621				hypothetical protein
+HEKDCIED_01046	gene	132				
+HEKDCIED_01046	CDS	132				hypothetical protein
+HEKDCIED_01047	gene	573				
+HEKDCIED_01047	CDS	573				hypothetical protein
+HEKDCIED_01048	gene	267				
+HEKDCIED_01048	CDS	267				hypothetical protein
+HEKDCIED_01049	gene	873				
+HEKDCIED_01049	CDS	873				hypothetical protein
+HEKDCIED_01050	gene	1092	dinB1			
+HEKDCIED_01050	CDS	1092	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+HEKDCIED_01051	gene	936				
+HEKDCIED_01051	CDS	936				hypothetical protein
+HEKDCIED_01052	gene	480				
+HEKDCIED_01052	CDS	480				hypothetical protein
+HEKDCIED_01053	gene	681				
+HEKDCIED_01053	CDS	681				hypothetical protein
+HEKDCIED_01054	gene	198				
+HEKDCIED_01054	CDS	198				hypothetical protein
+HEKDCIED_01055	gene	369				
+HEKDCIED_01055	CDS	369				hypothetical protein
+HEKDCIED_01056	gene	387				
+HEKDCIED_01056	CDS	387				hypothetical protein
+HEKDCIED_01057	gene	879	garR			
+HEKDCIED_01057	CDS	879	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+HEKDCIED_01058	gene	210				
+HEKDCIED_01058	CDS	210				hypothetical protein
+HEKDCIED_01059	gene	1212	thi4_2			
+HEKDCIED_01059	CDS	1212	thi4_2	2.4.2.59		Thiamine thiazole synthase
+HEKDCIED_01060	gene	630	COQ3_3			
+HEKDCIED_01060	CDS	630	COQ3_3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+HEKDCIED_01061	gene	280				
+HEKDCIED_01061	misc_RNA	280				RNaseP_arch
+HEKDCIED_01062	gene	1392				
+HEKDCIED_01062	CDS	1392				hypothetical protein
+HEKDCIED_01063	gene	921	fbiA			
+HEKDCIED_01063	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+HEKDCIED_01064	gene	633	fbiD			
+HEKDCIED_01064	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+HEKDCIED_01065	gene	975				
+HEKDCIED_01065	CDS	975				hypothetical protein
+HEKDCIED_01066	gene	309				
+HEKDCIED_01066	CDS	309				hypothetical protein
+HEKDCIED_01067	gene	330				
+HEKDCIED_01067	CDS	330				hypothetical protein
+HEKDCIED_01068	gene	162				
+HEKDCIED_01068	CDS	162				hypothetical protein
+HEKDCIED_01069	gene	1749				
+HEKDCIED_01069	CDS	1749				hypothetical protein
+HEKDCIED_01070	gene	636				
+HEKDCIED_01070	CDS	636				hypothetical protein
+HEKDCIED_01071	gene	225				
+HEKDCIED_01071	CDS	225				hypothetical protein
+HEKDCIED_01072	gene	189				
+HEKDCIED_01072	CDS	189				hypothetical protein
+HEKDCIED_01073	gene	2460				
+HEKDCIED_01073	CDS	2460				hypothetical protein
+HEKDCIED_01074	gene	474				
+HEKDCIED_01074	CDS	474				hypothetical protein
+HEKDCIED_01075	gene	2031				
+HEKDCIED_01075	CDS	2031				hypothetical protein
+HEKDCIED_01076	gene	246				
+HEKDCIED_01076	CDS	246				hypothetical protein
+HEKDCIED_01077	gene	77				
+HEKDCIED_01077	tRNA	77				tRNA-Pro(tgg)
+HEKDCIED_01078	gene	900				
+HEKDCIED_01078	CDS	900		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+HEKDCIED_01079	gene	540				
+HEKDCIED_01079	CDS	540				hypothetical protein
+HEKDCIED_01080	gene	183				
+HEKDCIED_01080	CDS	183				hypothetical protein
+HEKDCIED_01081	gene	1083				
+HEKDCIED_01081	CDS	1083				hypothetical protein
+HEKDCIED_01082	gene	561				
+HEKDCIED_01082	CDS	561				hypothetical protein
+HEKDCIED_01083	gene	330	metG_2			
+HEKDCIED_01083	CDS	330	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+HEKDCIED_01084	gene	198				
+HEKDCIED_01084	CDS	198				hypothetical protein
+HEKDCIED_01085	gene	417				
+HEKDCIED_01085	CDS	417				hypothetical protein
+HEKDCIED_01086	gene	1209	arnC_1			
+HEKDCIED_01086	CDS	1209	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HEKDCIED_01087	gene	1161	hhoA			
+HEKDCIED_01087	CDS	1161	hhoA			Putative serine protease HhoA
+HEKDCIED_01088	gene	1170	fbiC_1			
+HEKDCIED_01088	CDS	1170	fbiC_1		COG1060	FO synthase
+HEKDCIED_01089	gene	1260	fbiC_2			
+HEKDCIED_01089	CDS	1260	fbiC_2		COG1060	FO synthase
+HEKDCIED_01090	gene	1362	pmbA			
+HEKDCIED_01090	CDS	1362	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+HEKDCIED_01091	gene	936	yrbG			
+HEKDCIED_01091	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+HEKDCIED_01092	gene	345				
+HEKDCIED_01092	CDS	345				hypothetical protein
+HEKDCIED_01093	gene	726				
+HEKDCIED_01093	CDS	726				hypothetical protein
+HEKDCIED_01094	gene	1023	purM			
+HEKDCIED_01094	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+HEKDCIED_01095	gene	1248	gerN			
+HEKDCIED_01095	CDS	1248	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+HEKDCIED_01096	gene	1587				
+HEKDCIED_01096	CDS	1587		2.3.1.-		tRNA uridine(34) acetyltransferase
+HEKDCIED_01097	gene	1593	lysS			
+HEKDCIED_01097	CDS	1593	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+HEKDCIED_01098	gene	201				
+HEKDCIED_01098	CDS	201				hypothetical protein
+HEKDCIED_01099	gene	762				
+HEKDCIED_01099	CDS	762				hypothetical protein
+HEKDCIED_01100	gene	447				
+HEKDCIED_01100	CDS	447				hypothetical protein
+HEKDCIED_01101	gene	135				
+HEKDCIED_01101	CDS	135				hypothetical protein
+HEKDCIED_01102	gene	270				
+HEKDCIED_01102	CDS	270				hypothetical protein
+HEKDCIED_01103	gene	159				
+HEKDCIED_01103	CDS	159				hypothetical protein
+HEKDCIED_01104	gene	300				
+HEKDCIED_01104	CDS	300				hypothetical protein
+HEKDCIED_01105	gene	174				
+HEKDCIED_01105	CDS	174				hypothetical protein
+HEKDCIED_01106	gene	381				
+HEKDCIED_01106	CDS	381				hypothetical protein
+HEKDCIED_01107	gene	258				
+HEKDCIED_01107	CDS	258				hypothetical protein
+HEKDCIED_01108	gene	555	tag			
+HEKDCIED_01108	CDS	555	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+HEKDCIED_01109	gene	426				
+HEKDCIED_01109	CDS	426				hypothetical protein
+HEKDCIED_01110	gene	399	IMPDH			
+HEKDCIED_01110	CDS	399	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HEKDCIED_01111	gene	76				
+HEKDCIED_01111	tRNA	76				tRNA-Arg(gcg)
+HEKDCIED_01112	gene	825				
+HEKDCIED_01112	CDS	825				hypothetical protein
+HEKDCIED_01113	gene	435				
+HEKDCIED_01113	CDS	435				hypothetical protein
+HEKDCIED_01114	gene	714	aqpZ2			
+HEKDCIED_01114	CDS	714	aqpZ2			Aquaporin Z 2
+HEKDCIED_01115	gene	459	bcp_1			
+HEKDCIED_01115	CDS	459	bcp_1	1.11.1.15	COG1225	Peroxiredoxin Bcp
+HEKDCIED_01116	gene	945				
+HEKDCIED_01116	CDS	945				hypothetical protein
+HEKDCIED_01117	gene	192				
+HEKDCIED_01117	CDS	192				hypothetical protein
+HEKDCIED_01118	gene	216				
+HEKDCIED_01118	CDS	216				hypothetical protein
+HEKDCIED_01119	gene	738				
+HEKDCIED_01119	CDS	738				hypothetical protein
+HEKDCIED_01120	gene	375				
+HEKDCIED_01120	CDS	375				hypothetical protein
+HEKDCIED_01121	gene	1458	ubiD			
+HEKDCIED_01121	CDS	1458	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+HEKDCIED_01122	gene	1119	mqnC			
+HEKDCIED_01122	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+HEKDCIED_01123	gene	783	griI			
+HEKDCIED_01123	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+HEKDCIED_01124	gene	1062	griH			
+HEKDCIED_01124	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+HEKDCIED_01125	gene	678	aroD			
+HEKDCIED_01125	CDS	678	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+HEKDCIED_01126	gene	819	aroE			
+HEKDCIED_01126	CDS	819	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HEKDCIED_01127	gene	855	thrB_2			
+HEKDCIED_01127	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+HEKDCIED_01128	gene	1275	aroA			
+HEKDCIED_01128	CDS	1275	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HEKDCIED_01129	gene	1098	aroC			
+HEKDCIED_01129	CDS	1098	aroC	4.2.3.5		Chorismate synthase
+HEKDCIED_01130	gene	1371	dapL			
+HEKDCIED_01130	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+HEKDCIED_01131	gene	852				
+HEKDCIED_01131	CDS	852				hypothetical protein
+HEKDCIED_01132	gene	405				
+HEKDCIED_01132	CDS	405				hypothetical protein
+HEKDCIED_01133	gene	1329	bzaF			
+HEKDCIED_01133	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+HEKDCIED_01134	gene	222				
+HEKDCIED_01134	CDS	222				hypothetical protein
+HEKDCIED_01135	gene	177				
+HEKDCIED_01135	CDS	177				hypothetical protein
+HEKDCIED_01136	gene	1308	pdxK			
+HEKDCIED_01136	CDS	1308	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+HEKDCIED_01137	gene	705	cugP_2			
+HEKDCIED_01137	CDS	705	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HEKDCIED_01138	gene	438				
+HEKDCIED_01138	CDS	438				hypothetical protein
+HEKDCIED_01139	gene	444				
+HEKDCIED_01139	CDS	444				hypothetical protein
+HEKDCIED_01140	gene	1014				
+HEKDCIED_01140	CDS	1014				hypothetical protein
+HEKDCIED_01141	gene	1278	apgM			
+HEKDCIED_01141	CDS	1278	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HEKDCIED_01142	gene	561				
+HEKDCIED_01142	CDS	561				hypothetical protein
+HEKDCIED_01143	gene	411				
+HEKDCIED_01143	CDS	411				hypothetical protein
+HEKDCIED_01144	gene	186				
+HEKDCIED_01144	CDS	186				hypothetical protein
+HEKDCIED_01145	gene	708				
+HEKDCIED_01145	CDS	708				hypothetical protein
+HEKDCIED_01146	gene	99				
+HEKDCIED_01146	CDS	99				hypothetical protein
+HEKDCIED_01147	gene	1155				
+HEKDCIED_01147	CDS	1155				hypothetical protein
+HEKDCIED_01148	gene	1326	ffh			
+HEKDCIED_01148	CDS	1326	ffh		COG0541	Signal recognition particle protein
+HEKDCIED_01149	gene	690				
+HEKDCIED_01149	CDS	690				hypothetical protein
+HEKDCIED_01150	gene	414				
+HEKDCIED_01150	CDS	414				hypothetical protein
+HEKDCIED_01151	gene	612				
+HEKDCIED_01151	CDS	612				hypothetical protein
+HEKDCIED_01152	gene	1041	atpC_1			
+HEKDCIED_01152	CDS	1041	atpC_1			V-type ATP synthase subunit C
+HEKDCIED_01153	gene	192	cspLA			
+HEKDCIED_01153	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+HEKDCIED_01154	gene	336				
+HEKDCIED_01154	CDS	336				hypothetical protein
+HEKDCIED_01155	gene	570				
+HEKDCIED_01155	CDS	570				hypothetical protein
+HEKDCIED_01156	gene	1050				
+HEKDCIED_01156	CDS	1050		1.1.1.1		Alcohol dehydrogenase
+HEKDCIED_01157	gene	687				
+HEKDCIED_01157	CDS	687				hypothetical protein
+HEKDCIED_01158	gene	579	scpB			
+HEKDCIED_01158	CDS	579	scpB			Segregation and condensation protein B
+HEKDCIED_01159	gene	384				
+HEKDCIED_01159	CDS	384				hypothetical protein
+HEKDCIED_01160	gene	300				
+HEKDCIED_01160	CDS	300				hypothetical protein
+HEKDCIED_01161	gene	249				
+HEKDCIED_01161	CDS	249				hypothetical protein
+HEKDCIED_01162	gene	957				
+HEKDCIED_01162	CDS	957				hypothetical protein
+HEKDCIED_01163	gene	771	sufC			
+HEKDCIED_01163	CDS	771	sufC		COG0396	Vegetative protein 296
+HEKDCIED_01164	gene	675				
+HEKDCIED_01164	CDS	675			COG3253	putative protein/MSMEI_2713
+HEKDCIED_01165	gene	999	iolS			
+HEKDCIED_01165	CDS	999	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+HEKDCIED_01166	gene	339				
+HEKDCIED_01166	CDS	339				hypothetical protein
+HEKDCIED_01167	gene	1023				
+HEKDCIED_01167	CDS	1023				hypothetical protein
+HEKDCIED_01168	gene	654	cysG			
+HEKDCIED_01168	CDS	654	cysG	4.99.1.4		Siroheme synthase
+HEKDCIED_01169	gene	1272	hemA_1			
+HEKDCIED_01169	CDS	1272	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HEKDCIED_01170	gene	981	hemB			
+HEKDCIED_01170	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+HEKDCIED_01171	gene	312				
+HEKDCIED_01171	CDS	312				hypothetical protein
+HEKDCIED_01172	gene	621	yedJ			
+HEKDCIED_01172	CDS	621	yedJ		COG1418	putative protein YedJ
+HEKDCIED_01173	gene	618				
+HEKDCIED_01173	CDS	618				hypothetical protein
+HEKDCIED_01174	gene	162				
+HEKDCIED_01174	CDS	162				hypothetical protein
+HEKDCIED_01175	gene	318				
+HEKDCIED_01175	CDS	318				hypothetical protein
+HEKDCIED_01176	gene	606				
+HEKDCIED_01176	CDS	606				hypothetical protein
+HEKDCIED_01177	gene	954				
+HEKDCIED_01177	CDS	954				hypothetical protein
+HEKDCIED_01178	gene	312				
+HEKDCIED_01178	CDS	312				hypothetical protein
+HEKDCIED_01179	gene	669				
+HEKDCIED_01179	CDS	669				hypothetical protein
+HEKDCIED_01180	gene	1227	pgk/tpi			
+HEKDCIED_01180	CDS	1227	pgk/tpi		COG0126	Bifunctional PGK/TIM
+HEKDCIED_01181	gene	348				
+HEKDCIED_01181	CDS	348				hypothetical protein
+HEKDCIED_01182	gene	444	sufU			
+HEKDCIED_01182	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+HEKDCIED_01183	gene	1245	csd			
+HEKDCIED_01183	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+HEKDCIED_01184	gene	309	doxA			
+HEKDCIED_01184	CDS	309	doxA			Naphthalene 1,2-dioxygenase system, ferredoxin component
+HEKDCIED_01185	gene	1401				
+HEKDCIED_01185	CDS	1401				hypothetical protein
+HEKDCIED_01186	gene	1401				
+HEKDCIED_01186	CDS	1401				hypothetical protein
+HEKDCIED_01187	gene	576	purE			
+HEKDCIED_01187	CDS	576	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+HEKDCIED_01188	gene	798				
+HEKDCIED_01188	CDS	798				hypothetical protein
+HEKDCIED_01189	gene	741	sumT			
+HEKDCIED_01189	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+HEKDCIED_01190	gene	936	hemC			
+HEKDCIED_01190	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+HEKDCIED_01191	gene	1278	hemL			
+HEKDCIED_01191	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HEKDCIED_01192	gene	705	aqpZ			
+HEKDCIED_01192	CDS	705	aqpZ		COG0580	Aquaporin Z
+HEKDCIED_01193	gene	414	arsC2			
+HEKDCIED_01193	CDS	414	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+HEKDCIED_01194	gene	300	cadC			
+HEKDCIED_01194	CDS	300	cadC			Cadmium resistance transcriptional regulatory protein CadC
+HEKDCIED_01195	gene	303				
+HEKDCIED_01195	CDS	303				hypothetical protein
+HEKDCIED_01196	gene	1083				
+HEKDCIED_01196	CDS	1083				hypothetical protein
+HEKDCIED_01197	gene	987				
+HEKDCIED_01197	CDS	987				hypothetical protein
+HEKDCIED_01198	gene	630				
+HEKDCIED_01198	CDS	630				hypothetical protein
+HEKDCIED_01199	gene	786				
+HEKDCIED_01199	CDS	786				hypothetical protein
+HEKDCIED_01200	gene	999	drrA			
+HEKDCIED_01200	CDS	999	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+HEKDCIED_01201	gene	93				
+HEKDCIED_01201	CDS	93				hypothetical protein
+HEKDCIED_01202	gene	453				
+HEKDCIED_01202	CDS	453				hypothetical protein
+HEKDCIED_01203	gene	330				
+HEKDCIED_01203	CDS	330				hypothetical protein
+HEKDCIED_01204	gene	585				
+HEKDCIED_01204	CDS	585				hypothetical protein
+HEKDCIED_01205	gene	822	fpr_1			
+HEKDCIED_01205	CDS	822	fpr_1	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+HEKDCIED_01206	gene	387				
+HEKDCIED_01206	CDS	387				hypothetical protein
+HEKDCIED_01207	gene	1323	nrgA			
+HEKDCIED_01207	CDS	1323	nrgA			Ammonium transporter
+HEKDCIED_01208	gene	330	glnB			
+HEKDCIED_01208	CDS	330	glnB		COG0347	Nitrogen regulatory protein P-II
+HEKDCIED_01209	gene	126				
+HEKDCIED_01209	CDS	126				hypothetical protein
+HEKDCIED_01210	gene	273				
+HEKDCIED_01210	CDS	273				hypothetical protein
+HEKDCIED_01211	gene	120				
+HEKDCIED_01211	CDS	120				hypothetical protein
+HEKDCIED_01212	gene	645				
+HEKDCIED_01212	CDS	645				hypothetical protein
+HEKDCIED_01213	gene	477				
+HEKDCIED_01213	CDS	477				hypothetical protein
+HEKDCIED_01214	gene	360				
+HEKDCIED_01214	CDS	360				hypothetical protein
+HEKDCIED_01215	gene	1491				
+HEKDCIED_01215	CDS	1491				hypothetical protein
+HEKDCIED_01216	gene	168				
+HEKDCIED_01216	CDS	168				hypothetical protein
+HEKDCIED_01217	gene	144				
+HEKDCIED_01217	CDS	144				hypothetical protein
+HEKDCIED_01218	gene	885				
+HEKDCIED_01218	CDS	885				hypothetical protein
+HEKDCIED_01219	gene	76				
+HEKDCIED_01219	tRNA	76				tRNA-Glu(ctc)
+HEKDCIED_01220	gene	1089				
+HEKDCIED_01220	CDS	1089				hypothetical protein
+HEKDCIED_01221	gene	513				
+HEKDCIED_01221	CDS	513				hypothetical protein
+HEKDCIED_01222	gene	513				
+HEKDCIED_01222	CDS	513				hypothetical protein
+HEKDCIED_01223	gene	288				
+HEKDCIED_01223	CDS	288				hypothetical protein
+HEKDCIED_01224	gene	177				
+HEKDCIED_01224	CDS	177				hypothetical protein
+HEKDCIED_01225	gene	393				
+HEKDCIED_01225	CDS	393				hypothetical protein
+HEKDCIED_01226	gene	327				
+HEKDCIED_01226	CDS	327				hypothetical protein
+HEKDCIED_01227	gene	420				
+HEKDCIED_01227	CDS	420				hypothetical protein
+HEKDCIED_01228	gene	549				
+HEKDCIED_01228	CDS	549				hypothetical protein
+HEKDCIED_01229	gene	207				
+HEKDCIED_01229	CDS	207				hypothetical protein
+HEKDCIED_01230	gene	348				
+HEKDCIED_01230	CDS	348				hypothetical protein
+HEKDCIED_01231	gene	504				
+HEKDCIED_01231	CDS	504				hypothetical protein
+HEKDCIED_01232	gene	765				
+HEKDCIED_01232	CDS	765				hypothetical protein
+HEKDCIED_01233	gene	1626				
+HEKDCIED_01233	CDS	1626				hypothetical protein
+HEKDCIED_01234	gene	393				
+HEKDCIED_01234	CDS	393				hypothetical protein
+HEKDCIED_01235	gene	462				
+HEKDCIED_01235	CDS	462				hypothetical protein
+HEKDCIED_01236	gene	1077				
+HEKDCIED_01236	CDS	1077				hypothetical protein
+HEKDCIED_01237	gene	465	dnaJ_4			
+HEKDCIED_01237	CDS	465	dnaJ_4			Chaperone protein DnaJ
+HEKDCIED_01238	gene	204				
+HEKDCIED_01238	CDS	204				hypothetical protein
+HEKDCIED_01239	gene	924	dnaJ_5			
+HEKDCIED_01239	CDS	924	dnaJ_5			Chaperone protein DnaJ
+HEKDCIED_01240	gene	453				
+HEKDCIED_01240	CDS	453				hypothetical protein
+HEKDCIED_01241	gene	738				
+HEKDCIED_01241	CDS	738				hypothetical protein
+HEKDCIED_01242	gene	780				
+HEKDCIED_01242	CDS	780				hypothetical protein
+HEKDCIED_01243	gene	270				
+HEKDCIED_01243	CDS	270				hypothetical protein
+HEKDCIED_01244	gene	519				
+HEKDCIED_01244	CDS	519				hypothetical protein
+HEKDCIED_01245	gene	504				
+HEKDCIED_01245	CDS	504				hypothetical protein
+HEKDCIED_01246	gene	600	dnaJ_6			
+HEKDCIED_01246	CDS	600	dnaJ_6			Chaperone protein DnaJ
+HEKDCIED_01247	gene	204				
+HEKDCIED_01247	CDS	204				hypothetical protein
+HEKDCIED_01248	gene	978				
+HEKDCIED_01248	CDS	978				hypothetical protein
+HEKDCIED_01249	gene	144				
+HEKDCIED_01249	CDS	144				hypothetical protein
+HEKDCIED_01250	gene	252				
+HEKDCIED_01250	CDS	252				hypothetical protein
+HEKDCIED_01251	gene	396				
+HEKDCIED_01251	CDS	396				hypothetical protein
+HEKDCIED_01252	gene	1821				
+HEKDCIED_01252	CDS	1821				hypothetical protein
+HEKDCIED_01253	gene	915				
+HEKDCIED_01253	CDS	915				hypothetical protein
+HEKDCIED_01254	gene	978				
+HEKDCIED_01254	CDS	978				hypothetical protein
+HEKDCIED_01255	gene	1269				
+HEKDCIED_01255	CDS	1269				hypothetical protein
+HEKDCIED_01256	gene	858				
+HEKDCIED_01256	CDS	858				hypothetical protein
+HEKDCIED_01257	gene	318				
+HEKDCIED_01257	CDS	318				hypothetical protein
+HEKDCIED_01258	gene	840	ycf3			
+HEKDCIED_01258	CDS	840	ycf3			Photosystem I assembly protein Ycf3
+HEKDCIED_01259	gene	1485	rnj_1			
+HEKDCIED_01259	CDS	1485	rnj_1	3.1.-.-		Ribonuclease J
+HEKDCIED_01260	gene	762				
+HEKDCIED_01260	CDS	762				hypothetical protein
+HEKDCIED_01261	gene	2232				
+HEKDCIED_01261	CDS	2232				hypothetical protein
+HEKDCIED_01262	gene	534				
+HEKDCIED_01262	CDS	534				hypothetical protein
+HEKDCIED_01263	gene	2091				
+HEKDCIED_01263	CDS	2091				hypothetical protein
+HEKDCIED_01264	gene	216				
+HEKDCIED_01264	CDS	216				hypothetical protein
+HEKDCIED_01265	gene	204				
+HEKDCIED_01265	CDS	204				hypothetical protein
+HEKDCIED_01266	gene	873				
+HEKDCIED_01266	CDS	873				hypothetical protein
+HEKDCIED_01267	gene	2247				
+HEKDCIED_01267	CDS	2247				hypothetical protein
+HEKDCIED_01268	gene	1056				
+HEKDCIED_01268	CDS	1056				hypothetical protein
+HEKDCIED_01269	gene	1158	iscS_1			
+HEKDCIED_01269	CDS	1158	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+HEKDCIED_01270	gene	414				
+HEKDCIED_01270	CDS	414				hypothetical protein
+HEKDCIED_01271	gene	2037				
+HEKDCIED_01271	CDS	2037				hypothetical protein
+HEKDCIED_01272	gene	1548				
+HEKDCIED_01272	CDS	1548				hypothetical protein
+HEKDCIED_01273	gene	1104				
+HEKDCIED_01273	CDS	1104				hypothetical protein
+HEKDCIED_01274	gene	168				
+HEKDCIED_01274	CDS	168				hypothetical protein
+HEKDCIED_01275	gene	498				
+HEKDCIED_01275	CDS	498				hypothetical protein
+HEKDCIED_01276	gene	432				
+HEKDCIED_01276	CDS	432				hypothetical protein
+HEKDCIED_01277	gene	756	pipB2_2			
+HEKDCIED_01277	CDS	756	pipB2_2		COG1357	Secreted effector protein PipB2
+HEKDCIED_01278	gene	579				
+HEKDCIED_01278	CDS	579				hypothetical protein
+HEKDCIED_01279	gene	657				
+HEKDCIED_01279	CDS	657				hypothetical protein
+HEKDCIED_01280	gene	564				
+HEKDCIED_01280	CDS	564				hypothetical protein
+HEKDCIED_01281	gene	510				
+HEKDCIED_01281	CDS	510				hypothetical protein
+HEKDCIED_01282	gene	264				
+HEKDCIED_01282	CDS	264				hypothetical protein
+HEKDCIED_01283	gene	77				
+HEKDCIED_01283	tRNA	77				tRNA-Gly(gcc)
+HEKDCIED_01284	gene	429				
+HEKDCIED_01284	CDS	429				hypothetical protein
+HEKDCIED_01285	gene	1329	ybaL			
+HEKDCIED_01285	CDS	1329	ybaL		COG1226	Putative cation/proton antiporter YbaL
+HEKDCIED_01286	gene	108				
+HEKDCIED_01286	CDS	108				hypothetical protein
+HEKDCIED_01287	gene	1506				
+HEKDCIED_01287	CDS	1506				hypothetical protein
+HEKDCIED_01288	gene	2067				
+HEKDCIED_01288	CDS	2067				hypothetical protein
+HEKDCIED_01289	gene	948				
+HEKDCIED_01289	CDS	948				hypothetical protein
+HEKDCIED_01290	gene	312				
+HEKDCIED_01290	CDS	312				hypothetical protein
+HEKDCIED_01291	gene	846	ttuD			
+HEKDCIED_01291	CDS	846	ttuD		COG2897	Sulfur carrier protein TtuD
+HEKDCIED_01292	gene	816	nadK_2			
+HEKDCIED_01292	CDS	816	nadK_2	2.7.1.23		NAD kinase
+HEKDCIED_01293	gene	477				
+HEKDCIED_01293	CDS	477				hypothetical protein
+HEKDCIED_01294	gene	819				
+HEKDCIED_01294	CDS	819				hypothetical protein
+HEKDCIED_01295	gene	681				
+HEKDCIED_01295	CDS	681				hypothetical protein
+HEKDCIED_01296	gene	393				
+HEKDCIED_01296	CDS	393				hypothetical protein
+HEKDCIED_01297	gene	246				
+HEKDCIED_01297	CDS	246				hypothetical protein
+HEKDCIED_01298	gene	213				
+HEKDCIED_01298	CDS	213				hypothetical protein
+HEKDCIED_01299	gene	819	rph_1			
+HEKDCIED_01299	CDS	819	rph_1	2.7.7.56		Ribonuclease PH
+HEKDCIED_01300	gene	735	rph_2			
+HEKDCIED_01300	CDS	735	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+HEKDCIED_01301	gene	681	pnp_2			
+HEKDCIED_01301	CDS	681	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+HEKDCIED_01302	gene	687				
+HEKDCIED_01302	CDS	687				hypothetical protein
+HEKDCIED_01303	gene	627				
+HEKDCIED_01303	CDS	627				hypothetical protein
+HEKDCIED_01304	gene	348				
+HEKDCIED_01304	CDS	348				hypothetical protein
+HEKDCIED_01305	gene	510				
+HEKDCIED_01305	CDS	510				hypothetical protein
+HEKDCIED_01306	gene	447	rpsI			
+HEKDCIED_01306	CDS	447	rpsI		COG0103	30S ribosomal protein S9
+HEKDCIED_01307	gene	717	cugP_3			
+HEKDCIED_01307	CDS	717	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HEKDCIED_01308	gene	585	leuD			
+HEKDCIED_01308	CDS	585	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+HEKDCIED_01309	gene	1416	leuC			
+HEKDCIED_01309	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+HEKDCIED_01310	gene	492	DmdB			
+HEKDCIED_01310	CDS	492	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+HEKDCIED_01311	gene	1272	dmdA			
+HEKDCIED_01311	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+HEKDCIED_01312	gene	777	fbiB_2			
+HEKDCIED_01312	CDS	777	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+HEKDCIED_01313	gene	555				
+HEKDCIED_01313	CDS	555				hypothetical protein
+HEKDCIED_01314	gene	336				
+HEKDCIED_01314	CDS	336				hypothetical protein
+HEKDCIED_01315	gene	549				
+HEKDCIED_01315	CDS	549				hypothetical protein
+HEKDCIED_01316	gene	963				
+HEKDCIED_01316	CDS	963				hypothetical protein
+HEKDCIED_01317	gene	1908	korA			
+HEKDCIED_01317	CDS	1908	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HEKDCIED_01318	gene	144				
+HEKDCIED_01318	CDS	144				hypothetical protein
+HEKDCIED_01319	gene	969	ghrB			
+HEKDCIED_01319	CDS	969	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+HEKDCIED_01320	gene	375				
+HEKDCIED_01320	CDS	375				hypothetical protein
+HEKDCIED_01321	gene	279				
+HEKDCIED_01321	CDS	279				hypothetical protein
+HEKDCIED_01322	gene	1311	lhgD			
+HEKDCIED_01322	CDS	1311	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+HEKDCIED_01323	gene	507				
+HEKDCIED_01323	CDS	507				hypothetical protein
+HEKDCIED_01324	gene	1002	truB			
+HEKDCIED_01324	CDS	1002	truB	5.4.99.25		tRNA pseudouridine synthase B
+HEKDCIED_01325	gene	561	cmk			
+HEKDCIED_01325	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+HEKDCIED_01326	gene	630				
+HEKDCIED_01326	CDS	630				hypothetical protein
+HEKDCIED_01327	gene	579				
+HEKDCIED_01327	CDS	579				hypothetical protein
+HEKDCIED_01328	gene	1434	secY			
+HEKDCIED_01328	CDS	1434	secY			Protein translocase subunit SecY
+HEKDCIED_01329	gene	447				
+HEKDCIED_01329	CDS	447				hypothetical protein
+HEKDCIED_01330	gene	468				
+HEKDCIED_01330	CDS	468				hypothetical protein
+HEKDCIED_01331	gene	744				
+HEKDCIED_01331	CDS	744				hypothetical protein
+HEKDCIED_01332	gene	483				
+HEKDCIED_01332	CDS	483				hypothetical protein
+HEKDCIED_01333	gene	915	argF			
+HEKDCIED_01333	CDS	915	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HEKDCIED_01334	gene	1452	ftsY			
+HEKDCIED_01334	CDS	1452	ftsY			Signal recognition particle receptor FtsY
+HEKDCIED_01335	gene	432	pfdA			
+HEKDCIED_01335	CDS	432	pfdA			Prefoldin subunit alpha
+HEKDCIED_01336	gene	621	sodA_2			
+HEKDCIED_01336	CDS	621	sodA_2	1.15.1.1		Superoxide dismutase [Mn]
+HEKDCIED_01337	gene	2028				
+HEKDCIED_01337	CDS	2028				hypothetical protein
+HEKDCIED_01338	gene	1605	pckA			
+HEKDCIED_01338	CDS	1605	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+HEKDCIED_01339	gene	405				
+HEKDCIED_01339	CDS	405				hypothetical protein
+HEKDCIED_01340	gene	456				
+HEKDCIED_01340	CDS	456				hypothetical protein
+HEKDCIED_01341	gene	300	ogt			
+HEKDCIED_01341	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+HEKDCIED_01342	gene	777				
+HEKDCIED_01342	CDS	777				hypothetical protein
+HEKDCIED_01343	gene	174				
+HEKDCIED_01343	CDS	174				hypothetical protein
+HEKDCIED_01344	gene	459				
+HEKDCIED_01344	CDS	459				hypothetical protein
+HEKDCIED_01345	gene	480	rplK			
+HEKDCIED_01345	CDS	480	rplK		COG0080	50S ribosomal protein L11
+HEKDCIED_01346	gene	480	lrp_2			
+HEKDCIED_01346	CDS	480	lrp_2		COG1522	Leucine-responsive regulatory protein
+HEKDCIED_01347	gene	663	rplA			
+HEKDCIED_01347	CDS	663	rplA		COG0081	50S ribosomal protein L1
+HEKDCIED_01348	gene	867				
+HEKDCIED_01348	CDS	867				hypothetical protein
+HEKDCIED_01349	gene	639				
+HEKDCIED_01349	CDS	639				hypothetical protein
+HEKDCIED_01350	gene	300				
+HEKDCIED_01350	CDS	300				hypothetical protein
+HEKDCIED_01351	gene	510				
+HEKDCIED_01351	CDS	510				hypothetical protein
+HEKDCIED_01352	gene	2670	alaS			
+HEKDCIED_01352	CDS	2670	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+HEKDCIED_01353	gene	2871	valS_2			
+HEKDCIED_01353	CDS	2871	valS_2	6.1.1.9		Valine--tRNA ligase
+HEKDCIED_01354	gene	429				
+HEKDCIED_01354	CDS	429				hypothetical protein
+HEKDCIED_01355	gene	999				
+HEKDCIED_01355	CDS	999				hypothetical protein
+HEKDCIED_01356	gene	705				
+HEKDCIED_01356	CDS	705				hypothetical protein
+HEKDCIED_01357	gene	321				
+HEKDCIED_01357	CDS	321				hypothetical protein
+HEKDCIED_01358	gene	89				
+HEKDCIED_01358	tRNA	89				tRNA-Gln(ctg)
+HEKDCIED_01359	gene	600				
+HEKDCIED_01359	CDS	600				hypothetical protein
+HEKDCIED_01360	gene	438				
+HEKDCIED_01360	CDS	438				hypothetical protein
+HEKDCIED_01361	gene	465	nusA			
+HEKDCIED_01361	CDS	465	nusA			Transcription termination/antitermination protein NusA
+HEKDCIED_01362	gene	324				
+HEKDCIED_01362	CDS	324				hypothetical protein
+HEKDCIED_01363	gene	1179				
+HEKDCIED_01363	CDS	1179				hypothetical protein
+HEKDCIED_01364	gene	231				
+HEKDCIED_01364	CDS	231				hypothetical protein
+HEKDCIED_01365	gene	3795	rpoC			
+HEKDCIED_01365	CDS	3795	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+HEKDCIED_01366	gene	3351	rpoB			
+HEKDCIED_01366	CDS	3351	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+HEKDCIED_01367	gene	252				
+HEKDCIED_01367	CDS	252				hypothetical protein
+HEKDCIED_01368	gene	780	larB			
+HEKDCIED_01368	CDS	780	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+HEKDCIED_01369	gene	915	mdh			
+HEKDCIED_01369	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+HEKDCIED_01370	gene	1227	larC			
+HEKDCIED_01370	CDS	1227	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+HEKDCIED_01371	gene	798	larE			
+HEKDCIED_01371	CDS	798	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+HEKDCIED_01372	gene	1170	iscS_2			
+HEKDCIED_01372	CDS	1170	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+HEKDCIED_01373	gene	819				
+HEKDCIED_01373	CDS	819				hypothetical protein
+HEKDCIED_01374	gene	807				
+HEKDCIED_01374	CDS	807				hypothetical protein
+HEKDCIED_01375	gene	825				
+HEKDCIED_01375	CDS	825				hypothetical protein
+HEKDCIED_01376	gene	891				
+HEKDCIED_01376	CDS	891				hypothetical protein
+HEKDCIED_01377	gene	1581				
+HEKDCIED_01377	CDS	1581				hypothetical protein
+HEKDCIED_01378	gene	324				
+HEKDCIED_01378	CDS	324				hypothetical protein
+HEKDCIED_01379	gene	963				
+HEKDCIED_01379	CDS	963				hypothetical protein
+HEKDCIED_01380	gene	1359	fieF			
+HEKDCIED_01380	CDS	1359	fieF			Ferrous-iron efflux pump FieF
+HEKDCIED_01381	gene	1176				
+HEKDCIED_01381	CDS	1176				hypothetical protein
+HEKDCIED_01382	gene	1032				
+HEKDCIED_01382	CDS	1032				hypothetical protein
+HEKDCIED_01383	gene	507				
+HEKDCIED_01383	CDS	507				hypothetical protein
+HEKDCIED_01384	gene	312				
+HEKDCIED_01384	CDS	312				hypothetical protein
+HEKDCIED_01385	gene	570				
+HEKDCIED_01385	CDS	570				hypothetical protein
+HEKDCIED_01386	gene	654				
+HEKDCIED_01386	CDS	654				hypothetical protein
+HEKDCIED_01387	gene	1758	glmS			
+HEKDCIED_01387	CDS	1758	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+HEKDCIED_01388	gene	396				
+HEKDCIED_01388	CDS	396				hypothetical protein
+HEKDCIED_01389	gene	402				
+HEKDCIED_01389	CDS	402				hypothetical protein
+HEKDCIED_01390	gene	1056	cobT			
+HEKDCIED_01390	CDS	1056	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+HEKDCIED_01391	gene	609	pksB			
+HEKDCIED_01391	CDS	609	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+HEKDCIED_01392	gene	648	nnr_2			
+HEKDCIED_01392	CDS	648	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HEKDCIED_01393	gene	615				
+HEKDCIED_01393	CDS	615				hypothetical protein
+HEKDCIED_01394	gene	86				
+HEKDCIED_01394	tRNA	86				tRNA-Leu(gag)
+HEKDCIED_01395	gene	237				
+HEKDCIED_01395	CDS	237				hypothetical protein
+HEKDCIED_01396	gene	1239	eno			
+HEKDCIED_01396	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+HEKDCIED_01397	gene	663				
+HEKDCIED_01397	CDS	663				hypothetical protein
+HEKDCIED_01398	gene	942	thrB_3			
+HEKDCIED_01398	CDS	942	thrB_3	2.7.1.39		Homoserine kinase
+HEKDCIED_01399	gene	753	argB			
+HEKDCIED_01399	CDS	753	argB	2.7.2.8		Acetylglutamate kinase
+HEKDCIED_01400	gene	651	idi			
+HEKDCIED_01400	CDS	651	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+HEKDCIED_01401	gene	981				
+HEKDCIED_01401	CDS	981				hypothetical protein
+HEKDCIED_01402	gene	1710	glnS			
+HEKDCIED_01402	CDS	1710	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+HEKDCIED_01403	gene	870	yisK			
+HEKDCIED_01403	CDS	870	yisK		COG0179	putative protein YisK
+HEKDCIED_01404	gene	780				
+HEKDCIED_01404	CDS	780				hypothetical protein
+HEKDCIED_01405	gene	309	bphA3			
+HEKDCIED_01405	CDS	309	bphA3			Biphenyl dioxygenase ferredoxin subunit
+HEKDCIED_01406	gene	279				
+HEKDCIED_01406	CDS	279				hypothetical protein
+HEKDCIED_01407	gene	759				
+HEKDCIED_01407	CDS	759				hypothetical protein
+HEKDCIED_01408	gene	348				
+HEKDCIED_01408	CDS	348				hypothetical protein
+HEKDCIED_01409	gene	73				
+HEKDCIED_01409	tRNA	73				tRNA-His(gtg)
+HEKDCIED_01410	gene	1023	corA			
+HEKDCIED_01410	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+HEKDCIED_01411	gene	783				
+HEKDCIED_01411	CDS	783				hypothetical protein
+HEKDCIED_01412	gene	261				
+HEKDCIED_01412	CDS	261				hypothetical protein
+HEKDCIED_01413	gene	666	tal			
+HEKDCIED_01413	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+HEKDCIED_01414	gene	975	aptB			
+HEKDCIED_01414	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+HEKDCIED_01415	gene	1668	dxs			
+HEKDCIED_01415	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+HEKDCIED_01416	gene	390				
+HEKDCIED_01416	CDS	390				hypothetical protein
+HEKDCIED_01417	gene	1476	pepA			
+HEKDCIED_01417	CDS	1476	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+HEKDCIED_01418	gene	112				
+HEKDCIED_01418	rRNA	112				5S ribosomal RNA
+HEKDCIED_01419	gene	1788	btuD			
+HEKDCIED_01419	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HEKDCIED_01420	gene	828				
+HEKDCIED_01420	CDS	828				hypothetical protein
+HEKDCIED_01421	gene	231				
+HEKDCIED_01421	CDS	231				hypothetical protein
+HEKDCIED_01422	gene	492				
+HEKDCIED_01422	CDS	492				hypothetical protein
+HEKDCIED_01423	gene	1107				
+HEKDCIED_01423	CDS	1107				hypothetical protein
+HEKDCIED_01424	gene	1083				
+HEKDCIED_01424	CDS	1083				hypothetical protein
+HEKDCIED_01425	gene	606	pyrE			
+HEKDCIED_01425	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HEKDCIED_01426	gene	74				
+HEKDCIED_01426	tRNA	74				tRNA-Met(cat)
+HEKDCIED_01427	gene	633				
+HEKDCIED_01427	CDS	633		1.-.-.-	COG5424	putative oxidoreductase CT_610
+HEKDCIED_01428	gene	79				
+HEKDCIED_01428	tRNA	79				tRNA-Glu(ttc)
+HEKDCIED_01429	gene	852				
+HEKDCIED_01429	CDS	852				hypothetical protein
+HEKDCIED_01430	gene	1485	ndhB_1			
+HEKDCIED_01430	CDS	1485	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HEKDCIED_01431	gene	2070	ndhB_2			
+HEKDCIED_01431	CDS	2070	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HEKDCIED_01432	gene	1554	mrpA			
+HEKDCIED_01432	CDS	1554	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+HEKDCIED_01433	gene	306	nuoK			
+HEKDCIED_01433	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+HEKDCIED_01434	gene	513				
+HEKDCIED_01434	CDS	513				hypothetical protein
+HEKDCIED_01435	gene	501	nuoI			
+HEKDCIED_01435	CDS	501	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+HEKDCIED_01436	gene	1314	ndhA			
+HEKDCIED_01436	CDS	1314	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+HEKDCIED_01437	gene	1137	nqo4			
+HEKDCIED_01437	CDS	1137	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+HEKDCIED_01438	gene	579	nuoC			
+HEKDCIED_01438	CDS	579	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+HEKDCIED_01439	gene	525	ndhK			
+HEKDCIED_01439	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+HEKDCIED_01440	gene	387	ndhC			
+HEKDCIED_01440	CDS	387	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+HEKDCIED_01441	gene	465	bcp_2			
+HEKDCIED_01441	CDS	465	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+HEKDCIED_01442	gene	516				
+HEKDCIED_01442	CDS	516				hypothetical protein
+HEKDCIED_01443	gene	1488	cfiB			
+HEKDCIED_01443	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+HEKDCIED_01444	gene	1575	pccB			
+HEKDCIED_01444	CDS	1575	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HEKDCIED_01445	gene	312				
+HEKDCIED_01445	CDS	312				hypothetical protein
+HEKDCIED_01446	gene	1158				
+HEKDCIED_01446	CDS	1158				hypothetical protein
+HEKDCIED_01447	gene	1122				
+HEKDCIED_01447	CDS	1122				hypothetical protein
+HEKDCIED_01448	gene	798	cysQ_2			
+HEKDCIED_01448	CDS	798	cysQ_2	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+HEKDCIED_01449	gene	843	fpr_2			
+HEKDCIED_01449	CDS	843	fpr_2	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+HEKDCIED_01450	gene	165				
+HEKDCIED_01450	CDS	165				hypothetical protein
+HEKDCIED_01451	gene	1077	hemA_2			
+HEKDCIED_01451	CDS	1077	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HEKDCIED_01452	gene	717				
+HEKDCIED_01452	CDS	717				hypothetical protein
+HEKDCIED_01453	gene	78				
+HEKDCIED_01453	tRNA	78				tRNA-Asp(gtc)
+HEKDCIED_01454	gene	75				
+HEKDCIED_01454	tRNA	75				tRNA-Lys(ttt)
+HEKDCIED_01455	gene	1458	argH			
+HEKDCIED_01455	CDS	1458	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+HEKDCIED_01456	gene	345				
+HEKDCIED_01456	CDS	345				hypothetical protein
+HEKDCIED_01457	gene	768	frdB			
+HEKDCIED_01457	CDS	768	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+HEKDCIED_01458	gene	345				
+HEKDCIED_01458	CDS	345				hypothetical protein
+HEKDCIED_01459	gene	432				
+HEKDCIED_01459	CDS	432				hypothetical protein
+HEKDCIED_01460	gene	1713	frdA			
+HEKDCIED_01460	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+HEKDCIED_01461	gene	510				
+HEKDCIED_01461	CDS	510				hypothetical protein
+HEKDCIED_01462	gene	867	Dml			
+HEKDCIED_01462	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+HEKDCIED_01463	gene	288				
+HEKDCIED_01463	CDS	288				hypothetical protein
+HEKDCIED_01464	gene	537				
+HEKDCIED_01464	CDS	537				hypothetical protein
+HEKDCIED_01465	gene	75				
+HEKDCIED_01465	tRNA	75				tRNA-Ala(ggc)
+HEKDCIED_01466	gene	846	fpr_3			
+HEKDCIED_01466	CDS	846	fpr_3	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+HEKDCIED_01467	gene	603				
+HEKDCIED_01467	CDS	603				hypothetical protein
+HEKDCIED_01468	gene	918	ilvE_1			
+HEKDCIED_01468	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HEKDCIED_01469	gene	936	iolG			
+HEKDCIED_01469	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+HEKDCIED_01470	gene	270				
+HEKDCIED_01470	CDS	270				hypothetical protein
+HEKDCIED_01471	gene	477	fdtC			
+HEKDCIED_01471	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+HEKDCIED_01472	gene	231				
+HEKDCIED_01472	CDS	231				hypothetical protein
+HEKDCIED_01473	gene	993	mraY			
+HEKDCIED_01473	CDS	993	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+HEKDCIED_01474	gene	2130	dbpA_4			
+HEKDCIED_01474	CDS	2130	dbpA_4	3.6.4.13		ATP-dependent RNA helicase DbpA
+HEKDCIED_01475	gene	2085				
+HEKDCIED_01475	CDS	2085				hypothetical protein
+HEKDCIED_01476	gene	519				
+HEKDCIED_01476	CDS	519				hypothetical protein
+HEKDCIED_01477	gene	951	ruvB			
+HEKDCIED_01477	CDS	951	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+HEKDCIED_01478	gene	86				
+HEKDCIED_01478	tRNA	86				tRNA-Ser(tga)
+HEKDCIED_01479	gene	549	napF_1			
+HEKDCIED_01479	CDS	549	napF_1			Ferredoxin-type protein NapF
+HEKDCIED_01480	gene	510	napF_2			
+HEKDCIED_01480	CDS	510	napF_2			Ferredoxin-type protein NapF
+HEKDCIED_01481	gene	666				
+HEKDCIED_01481	CDS	666				hypothetical protein
+HEKDCIED_01482	gene	1281	hisS			
+HEKDCIED_01482	CDS	1281	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HEKDCIED_01483	gene	792				
+HEKDCIED_01483	CDS	792				hypothetical protein
+HEKDCIED_01484	gene	528	dedA			
+HEKDCIED_01484	CDS	528	dedA		COG0586	Protein DedA
+HEKDCIED_01485	gene	1164	arnC_2			
+HEKDCIED_01485	CDS	1164	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HEKDCIED_01486	gene	951	neoA			
+HEKDCIED_01486	CDS	951	neoA	1.1.1.329		2-deoxy-scyllo-inosamine dehydrogenase
+HEKDCIED_01487	gene	417				
+HEKDCIED_01487	CDS	417				Protein archease
+HEKDCIED_01488	gene	1479				
+HEKDCIED_01488	CDS	1479				hypothetical protein
+HEKDCIED_01489	gene	147				
+HEKDCIED_01489	CDS	147				hypothetical protein
+HEKDCIED_01490	gene	402				
+HEKDCIED_01490	CDS	402				hypothetical protein
+HEKDCIED_01491	gene	1782	infB			
+HEKDCIED_01491	CDS	1782	infB			Translation initiation factor IF-2
+HEKDCIED_01492	gene	402	ndk			
+HEKDCIED_01492	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+HEKDCIED_01493	gene	201				
+HEKDCIED_01493	CDS	201				hypothetical protein
+HEKDCIED_01494	gene	210				
+HEKDCIED_01494	CDS	210				hypothetical protein
+HEKDCIED_01495	gene	387				
+HEKDCIED_01495	CDS	387				hypothetical protein
+HEKDCIED_01496	gene	1350	glmM_2			
+HEKDCIED_01496	CDS	1350	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+HEKDCIED_01497	gene	88				
+HEKDCIED_01497	tRNA	88				tRNA-Leu(tag)
+HEKDCIED_01498	gene	870	purU			
+HEKDCIED_01498	CDS	870	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+HEKDCIED_01499	gene	723	mftE			
+HEKDCIED_01499	CDS	723	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+HEKDCIED_01500	gene	237				
+HEKDCIED_01500	CDS	237				hypothetical protein
+HEKDCIED_01501	gene	960				
+HEKDCIED_01501	CDS	960				hypothetical protein
+HEKDCIED_01502	gene	675	rpiA			
+HEKDCIED_01502	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+HEKDCIED_01503	gene	1398				
+HEKDCIED_01503	CDS	1398		3.5.2.-		D-hydantoinase
+HEKDCIED_01504	gene	198				
+HEKDCIED_01504	CDS	198				hypothetical protein
+HEKDCIED_01505	gene	72				
+HEKDCIED_01505	tRNA	72				tRNA-Ala(cgc)
+HEKDCIED_01506	gene	360				
+HEKDCIED_01506	CDS	360				hypothetical protein
+HEKDCIED_01507	gene	540				
+HEKDCIED_01507	CDS	540				hypothetical protein
+HEKDCIED_01508	gene	327	trxA			
+HEKDCIED_01508	CDS	327	trxA			Thioredoxin 1
+HEKDCIED_01509	gene	765				
+HEKDCIED_01509	CDS	765				hypothetical protein
+HEKDCIED_01510	gene	678				
+HEKDCIED_01510	CDS	678				hypothetical protein
+HEKDCIED_01511	gene	1527	abfD			
+HEKDCIED_01511	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+HEKDCIED_01512	gene	2097	FCS1			
+HEKDCIED_01512	CDS	2097	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+HEKDCIED_01513	gene	357				
+HEKDCIED_01513	CDS	357				hypothetical protein
+HEKDCIED_01514	gene	882				
+HEKDCIED_01514	CDS	882				hypothetical protein
+HEKDCIED_01515	gene	261				
+HEKDCIED_01515	CDS	261				hypothetical protein
+HEKDCIED_01516	gene	507				
+HEKDCIED_01516	CDS	507				hypothetical protein
+HEKDCIED_01517	gene	981				
+HEKDCIED_01517	CDS	981				hypothetical protein
+HEKDCIED_01518	gene	76				
+HEKDCIED_01518	tRNA	76				tRNA-Val(tac)
+HEKDCIED_01519	gene	1017	murG			
+HEKDCIED_01519	CDS	1017	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HEKDCIED_01520	gene	1416				
+HEKDCIED_01520	CDS	1416				hypothetical protein
+HEKDCIED_01521	gene	207				
+HEKDCIED_01521	CDS	207				hypothetical protein
+HEKDCIED_01522	gene	915	ilvE_2			
+HEKDCIED_01522	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HEKDCIED_01523	gene	162				
+HEKDCIED_01523	CDS	162				hypothetical protein
+HEKDCIED_01524	gene	558				
+HEKDCIED_01524	CDS	558				hypothetical protein
+HEKDCIED_01525	gene	75				
+HEKDCIED_01525	tRNA	75				tRNA-Lys(ctt)
+HEKDCIED_01526	gene	606				
+HEKDCIED_01526	CDS	606				hypothetical protein
+HEKDCIED_01527	gene	522				
+HEKDCIED_01527	CDS	522				hypothetical protein
+HEKDCIED_01528	gene	444	ctaA			
+HEKDCIED_01528	CDS	444	ctaA	1.3.-.-		Heme A synthase
+HEKDCIED_01529	gene	957	petE_2			
+HEKDCIED_01529	CDS	957	petE_2			Plastocyanin
+HEKDCIED_01530	gene	1527	ctaD			
+HEKDCIED_01530	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+HEKDCIED_01531	gene	432	coxM			
+HEKDCIED_01531	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+HEKDCIED_01532	gene	231				
+HEKDCIED_01532	CDS	231				hypothetical protein
+HEKDCIED_01533	gene	660	pspA			
+HEKDCIED_01533	CDS	660	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+HEKDCIED_01534	gene	672				
+HEKDCIED_01534	CDS	672				hypothetical protein
+HEKDCIED_01535	gene	234				
+HEKDCIED_01535	CDS	234				hypothetical protein
+HEKDCIED_01536	gene	402				
+HEKDCIED_01536	CDS	402				hypothetical protein
+HEKDCIED_01537	gene	1176	alaA			
+HEKDCIED_01537	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+HEKDCIED_01538	gene	75				
+HEKDCIED_01538	tRNA	75				tRNA-Arg(tcg)
+HEKDCIED_01539	gene	492				
+HEKDCIED_01539	CDS	492				hypothetical protein
+HEKDCIED_01540	gene	594				
+HEKDCIED_01540	CDS	594				hypothetical protein
+HEKDCIED_01541	gene	240				
+HEKDCIED_01541	CDS	240				hypothetical protein
+HEKDCIED_01542	gene	384				
+HEKDCIED_01542	CDS	384				hypothetical protein
+HEKDCIED_01543	gene	681				
+HEKDCIED_01543	CDS	681				hypothetical protein
+HEKDCIED_01544	gene	519				
+HEKDCIED_01544	CDS	519				hypothetical protein
+HEKDCIED_01545	gene	1332	bsdC			
+HEKDCIED_01545	CDS	1332	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+HEKDCIED_01546	gene	342				
+HEKDCIED_01546	CDS	342				hypothetical protein
+HEKDCIED_01547	gene	462				
+HEKDCIED_01547	CDS	462				hypothetical protein
+HEKDCIED_01548	gene	771				
+HEKDCIED_01548	CDS	771				hypothetical protein
+HEKDCIED_01549	gene	336				
+HEKDCIED_01549	CDS	336				hypothetical protein
+HEKDCIED_01550	gene	342				
+HEKDCIED_01550	CDS	342				hypothetical protein
+HEKDCIED_01551	gene	474				
+HEKDCIED_01551	CDS	474				hypothetical protein
+HEKDCIED_01552	gene	1047				
+HEKDCIED_01552	CDS	1047				hypothetical protein
+HEKDCIED_01553	gene	1122	hflX			
+HEKDCIED_01553	CDS	1122	hflX		COG2262	GTPase HflX
+HEKDCIED_01554	gene	534				
+HEKDCIED_01554	CDS	534				hypothetical protein
+HEKDCIED_01555	gene	516				
+HEKDCIED_01555	CDS	516				hypothetical protein
+HEKDCIED_01556	gene	294				
+HEKDCIED_01556	CDS	294				hypothetical protein
+HEKDCIED_01557	gene	558				
+HEKDCIED_01557	CDS	558				hypothetical protein
+HEKDCIED_01558	gene	279				
+HEKDCIED_01558	CDS	279				hypothetical protein
+HEKDCIED_01559	gene	657	ribD2			
+HEKDCIED_01559	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+HEKDCIED_01560	gene	1191	atzA			
+HEKDCIED_01560	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+HEKDCIED_01561	gene	747				
+HEKDCIED_01561	CDS	747				hypothetical protein
+HEKDCIED_01562	gene	411	ribH			
+HEKDCIED_01562	CDS	411	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+HEKDCIED_01563	gene	666	ribBA			
+HEKDCIED_01563	CDS	666	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+HEKDCIED_01564	gene	591	ribE			
+HEKDCIED_01564	CDS	591	ribE	2.5.1.9	COG0307	Riboflavin synthase
+HEKDCIED_01565	gene	705				
+HEKDCIED_01565	CDS	705				hypothetical protein
+HEKDCIED_01566	gene	855	mcl2			
+HEKDCIED_01566	CDS	855	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+HEKDCIED_01567	gene	1077	ccr_2			
+HEKDCIED_01567	CDS	1077	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HEKDCIED_01568	gene	285				
+HEKDCIED_01568	CDS	285				hypothetical protein
+HEKDCIED_01569	gene	453				
+HEKDCIED_01569	CDS	453				hypothetical protein
+HEKDCIED_01570	gene	90				
+HEKDCIED_01570	CDS	90				hypothetical protein
+HEKDCIED_01571	gene	1617				
+HEKDCIED_01571	CDS	1617				hypothetical protein
+HEKDCIED_01572	gene	300				
+HEKDCIED_01572	CDS	300				hypothetical protein
+HEKDCIED_01573	gene	74				
+HEKDCIED_01573	tRNA	74				tRNA-Gly(tcc)
+HEKDCIED_01574	gene	669				
+HEKDCIED_01574	CDS	669				hypothetical protein
+HEKDCIED_01575	gene	1143				
+HEKDCIED_01575	CDS	1143				hypothetical protein
+HEKDCIED_01576	gene	2670				
+HEKDCIED_01576	CDS	2670				hypothetical protein
+HEKDCIED_01577	gene	2169				
+HEKDCIED_01577	CDS	2169				hypothetical protein
+HEKDCIED_01578	gene	162				
+HEKDCIED_01578	CDS	162				hypothetical protein
+HEKDCIED_01579	gene	366				
+HEKDCIED_01579	CDS	366				hypothetical protein
+HEKDCIED_01580	gene	1164	fadA_2			
+HEKDCIED_01580	CDS	1164	fadA_2	2.3.1.16		3-ketoacyl-CoA thiolase
+HEKDCIED_01581	gene	468				
+HEKDCIED_01581	CDS	468				hypothetical protein
+HEKDCIED_01582	gene	807	ybeM			
+HEKDCIED_01582	CDS	807	ybeM	3.5.1.128		Deaminated glutathione amidase
+HEKDCIED_01583	gene	1287	resA_2			
+HEKDCIED_01583	CDS	1287	resA_2			Thiol-disulfide oxidoreductase ResA
+HEKDCIED_01584	gene	1389				
+HEKDCIED_01584	CDS	1389				hypothetical protein
+HEKDCIED_01585	gene	396				
+HEKDCIED_01585	CDS	396				hypothetical protein
+HEKDCIED_01586	gene	1518				
+HEKDCIED_01586	CDS	1518				hypothetical protein
+HEKDCIED_01587	gene	177				
+HEKDCIED_01587	CDS	177				hypothetical protein
+HEKDCIED_01588	gene	774				
+HEKDCIED_01588	CDS	774				hypothetical protein
+HEKDCIED_01589	gene	1275				
+HEKDCIED_01589	CDS	1275				hypothetical protein
+HEKDCIED_01590	gene	501				
+HEKDCIED_01590	CDS	501				hypothetical protein
+HEKDCIED_01591	gene	393				
+HEKDCIED_01591	CDS	393				hypothetical protein
+HEKDCIED_01592	gene	1566				
+HEKDCIED_01592	CDS	1566				hypothetical protein
+HEKDCIED_01593	gene	207				
+HEKDCIED_01593	CDS	207				hypothetical protein
+HEKDCIED_01594	gene	1716				
+HEKDCIED_01594	CDS	1716				hypothetical protein
+HEKDCIED_01595	gene	801				
+HEKDCIED_01595	CDS	801				hypothetical protein
+HEKDCIED_01596	gene	150				
+HEKDCIED_01596	CDS	150				hypothetical protein
+HEKDCIED_01597	gene	882				
+HEKDCIED_01597	CDS	882				hypothetical protein
+HEKDCIED_01598	gene	639				
+HEKDCIED_01598	CDS	639				hypothetical protein
+HEKDCIED_01599	gene	2796	vgb_2			
+HEKDCIED_01599	CDS	2796	vgb_2	4.2.99.-		Virginiamycin B lyase
+HEKDCIED_01600	gene	819	znuB			
+HEKDCIED_01600	CDS	819	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+HEKDCIED_01601	gene	723	mntB			
+HEKDCIED_01601	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+HEKDCIED_01602	gene	261				
+HEKDCIED_01602	CDS	261				hypothetical protein
+HEKDCIED_01603	gene	369	nikR			
+HEKDCIED_01603	CDS	369	nikR			Nickel-responsive regulator
+HEKDCIED_01604	gene	984				
+HEKDCIED_01604	CDS	984				hypothetical protein
+HEKDCIED_01605	gene	1725				
+HEKDCIED_01605	CDS	1725				hypothetical protein
+HEKDCIED_01606	gene	711				
+HEKDCIED_01606	CDS	711				hypothetical protein
+HEKDCIED_01607	gene	930	pyrB			
+HEKDCIED_01607	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HEKDCIED_01608	gene	462	pyrI			
+HEKDCIED_01608	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+HEKDCIED_01609	gene	306	atpH			
+HEKDCIED_01609	CDS	306	atpH			ATP synthase subunit c
+HEKDCIED_01610	gene	132				
+HEKDCIED_01610	CDS	132				hypothetical protein
+HEKDCIED_01611	gene	633	ntpD			
+HEKDCIED_01611	CDS	633	ntpD			V-type sodium ATPase subunit D
+HEKDCIED_01612	gene	1386	ntpB			
+HEKDCIED_01612	CDS	1386	ntpB			V-type sodium ATPase subunit B
+HEKDCIED_01613	gene	1779	atpA			
+HEKDCIED_01613	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+HEKDCIED_01614	gene	615	atpE			
+HEKDCIED_01614	CDS	615	atpE			V-type proton ATPase subunit E
+HEKDCIED_01615	gene	2100				
+HEKDCIED_01615	CDS	2100				hypothetical protein
+HEKDCIED_01616	gene	777	rhdA_2			
+HEKDCIED_01616	CDS	777	rhdA_2	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+HEKDCIED_01617	gene	1569	amtB			
+HEKDCIED_01617	CDS	1569	amtB			Ammonia channel
+HEKDCIED_01618	gene	669				
+HEKDCIED_01618	CDS	669				hypothetical protein
+HEKDCIED_01619	gene	1035	atpC_2			
+HEKDCIED_01619	CDS	1035	atpC_2			V-type ATP synthase subunit C
+HEKDCIED_01620	gene	237				
+HEKDCIED_01620	CDS	237				hypothetical protein
+HEKDCIED_01621	gene	657				
+HEKDCIED_01621	CDS	657				hypothetical protein
+HEKDCIED_01622	gene	129				
+HEKDCIED_01622	CDS	129				hypothetical protein
+HEKDCIED_01623	gene	576				
+HEKDCIED_01623	CDS	576				hypothetical protein
+HEKDCIED_01624	gene	351				
+HEKDCIED_01624	CDS	351				hypothetical protein
+HEKDCIED_01625	gene	687	pyrH			
+HEKDCIED_01625	CDS	687	pyrH	2.7.4.22		Uridylate kinase
+HEKDCIED_01626	gene	1236				
+HEKDCIED_01626	CDS	1236				hypothetical protein
+HEKDCIED_01627	gene	603	tmk			
+HEKDCIED_01627	CDS	603	tmk	2.7.4.9	COG0125	Thymidylate kinase
+HEKDCIED_01628	gene	171				
+HEKDCIED_01628	CDS	171				hypothetical protein
+HEKDCIED_01629	gene	381				
+HEKDCIED_01629	CDS	381				hypothetical protein
+HEKDCIED_01630	gene	1545	ubiB			
+HEKDCIED_01630	CDS	1545	ubiB	2.7.-.-		protein kinase UbiB
+HEKDCIED_01631	gene	384				
+HEKDCIED_01631	CDS	384				hypothetical protein
+HEKDCIED_01632	gene	183				
+HEKDCIED_01632	CDS	183				hypothetical protein
+HEKDCIED_01633	gene	339				
+HEKDCIED_01633	CDS	339				hypothetical protein
+HEKDCIED_01634	gene	1317				
+HEKDCIED_01634	CDS	1317				hypothetical protein
+HEKDCIED_01635	gene	549	macB			
+HEKDCIED_01635	CDS	549	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+HEKDCIED_01636	gene	1176				
+HEKDCIED_01636	CDS	1176				hypothetical protein
+HEKDCIED_01637	gene	975				
+HEKDCIED_01637	CDS	975				hypothetical protein
+HEKDCIED_01638	gene	516	act			
+HEKDCIED_01638	CDS	516	act	3.-.-.-		Methanol dehydrogenase activator
+HEKDCIED_01639	gene	978				
+HEKDCIED_01639	CDS	978				hypothetical protein
+HEKDCIED_01640	gene	894				
+HEKDCIED_01640	CDS	894				hypothetical protein
+HEKDCIED_01641	gene	741				
+HEKDCIED_01641	CDS	741				hypothetical protein
+HEKDCIED_01642	gene	816	panB			
+HEKDCIED_01642	CDS	816	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+HEKDCIED_01643	gene	1239	coaBC			
+HEKDCIED_01643	CDS	1239	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+HEKDCIED_01644	gene	846	COQ5_2			
+HEKDCIED_01644	CDS	846	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HEKDCIED_01645	gene	192				
+HEKDCIED_01645	CDS	192				hypothetical protein
+HEKDCIED_01646	gene	177				
+HEKDCIED_01646	CDS	177				hypothetical protein
+HEKDCIED_01647	gene	486				
+HEKDCIED_01647	CDS	486				hypothetical protein
+HEKDCIED_01648	gene	1065	pepE			
+HEKDCIED_01648	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+HEKDCIED_01649	gene	1011	thiI_2			
+HEKDCIED_01649	CDS	1011	thiI_2	2.8.1.4		tRNA sulfurtransferase
+HEKDCIED_01650	gene	279				
+HEKDCIED_01650	CDS	279				hypothetical protein
+HEKDCIED_01651	gene	1941	rnj_2			
+HEKDCIED_01651	CDS	1941	rnj_2	3.1.-.-		Ribonuclease J
+HEKDCIED_01652	gene	633	prcB_2			
+HEKDCIED_01652	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+HEKDCIED_01653	gene	1044	egsA			
+HEKDCIED_01653	CDS	1044	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+HEKDCIED_01654	gene	732				
+HEKDCIED_01654	CDS	732				hypothetical protein
+HEKDCIED_01655	gene	1143				
+HEKDCIED_01655	CDS	1143		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+HEKDCIED_01656	gene	495				
+HEKDCIED_01656	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+HEKDCIED_01657	gene	1026	rtcA			
+HEKDCIED_01657	CDS	1026	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+HEKDCIED_01658	gene	498				
+HEKDCIED_01658	CDS	498				hypothetical protein
+HEKDCIED_01659	gene	489				
+HEKDCIED_01659	CDS	489				hypothetical protein
+HEKDCIED_01660	gene	76				
+HEKDCIED_01660	tRNA	76				tRNA-Val(gac)
+HEKDCIED_01661	gene	714	bluB			
+HEKDCIED_01661	CDS	714	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+HEKDCIED_01662	gene	528				
+HEKDCIED_01662	CDS	528		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+HEKDCIED_01663	gene	468				
+HEKDCIED_01663	CDS	468				hypothetical protein
+HEKDCIED_01664	gene	231				
+HEKDCIED_01664	CDS	231				hypothetical protein
+HEKDCIED_01665	gene	477	cypB			
+HEKDCIED_01665	CDS	477	cypB	5.2.1.8		Peptidyl-prolyl cis-trans isomerase B
+HEKDCIED_01666	gene	918				
+HEKDCIED_01666	CDS	918				hypothetical protein
+HEKDCIED_01667	gene	156				
+HEKDCIED_01667	CDS	156				hypothetical protein
+HEKDCIED_01668	gene	474				
+HEKDCIED_01668	CDS	474				hypothetical protein
+HEKDCIED_01669	gene	444				
+HEKDCIED_01669	CDS	444				hypothetical protein
+HEKDCIED_01670	gene	894	RBKS			
+HEKDCIED_01670	CDS	894	RBKS	2.7.1.15		Ribokinase
+HEKDCIED_01671	gene	345				
+HEKDCIED_01671	CDS	345				hypothetical protein
+HEKDCIED_01672	gene	477				
+HEKDCIED_01672	CDS	477				hypothetical protein
+HEKDCIED_01673	gene	1083	desV			
+HEKDCIED_01673	CDS	1083	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+HEKDCIED_01674	gene	564				
+HEKDCIED_01674	CDS	564				hypothetical protein
+HEKDCIED_01675	gene	189				
+HEKDCIED_01675	CDS	189				hypothetical protein
+HEKDCIED_01676	gene	192				
+HEKDCIED_01676	CDS	192				hypothetical protein
+HEKDCIED_01677	gene	1047				
+HEKDCIED_01677	CDS	1047				hypothetical protein
+HEKDCIED_01678	gene	795				
+HEKDCIED_01678	CDS	795		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+HEKDCIED_01679	gene	1461				
+HEKDCIED_01679	CDS	1461				hypothetical protein
+HEKDCIED_01680	gene	1404	thrA			
+HEKDCIED_01680	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HEKDCIED_01681	gene	747				
+HEKDCIED_01681	CDS	747				hypothetical protein
+HEKDCIED_01682	gene	318				
+HEKDCIED_01682	CDS	318				hypothetical protein
+HEKDCIED_01683	gene	273				
+HEKDCIED_01683	CDS	273				hypothetical protein
+HEKDCIED_01684	gene	549				
+HEKDCIED_01684	CDS	549				hypothetical protein
+HEKDCIED_01685	gene	153				
+HEKDCIED_01685	CDS	153				hypothetical protein
+HEKDCIED_01686	gene	147				
+HEKDCIED_01686	CDS	147				hypothetical protein
+HEKDCIED_01687	gene	495				
+HEKDCIED_01687	CDS	495				hypothetical protein
+HEKDCIED_01688	gene	258				
+HEKDCIED_01688	CDS	258				hypothetical protein
+HEKDCIED_01689	gene	1143	sufS			
+HEKDCIED_01689	CDS	1143	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+HEKDCIED_01690	gene	612				
+HEKDCIED_01690	CDS	612				hypothetical protein
+HEKDCIED_01691	gene	300	ndhI_2			
+HEKDCIED_01691	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HEKDCIED_01692	gene	1155	dnaJ_7			
+HEKDCIED_01692	CDS	1155	dnaJ_7			Chaperone protein DnaJ
+HEKDCIED_01693	gene	678				
+HEKDCIED_01693	CDS	678				hypothetical protein
+HEKDCIED_01694	gene	1446	glnA_1			
+HEKDCIED_01694	CDS	1446	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+HEKDCIED_01695	gene	1452				
+HEKDCIED_01695	CDS	1452				hypothetical protein
+HEKDCIED_01696	gene	1734				
+HEKDCIED_01696	CDS	1734				hypothetical protein
+HEKDCIED_01697	gene	879	prs			
+HEKDCIED_01697	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+HEKDCIED_01698	gene	948				
+HEKDCIED_01698	CDS	948				hypothetical protein
+HEKDCIED_01699	gene	900	rnz			
+HEKDCIED_01699	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+HEKDCIED_01700	gene	465				
+HEKDCIED_01700	CDS	465				hypothetical protein
+HEKDCIED_01701	gene	396				
+HEKDCIED_01701	CDS	396				hypothetical protein
+HEKDCIED_01702	gene	552				
+HEKDCIED_01702	CDS	552				hypothetical protein
+HEKDCIED_01703	gene	1332				
+HEKDCIED_01703	CDS	1332				hypothetical protein
+HEKDCIED_01704	gene	762				
+HEKDCIED_01704	CDS	762				hypothetical protein
+HEKDCIED_01705	gene	74				
+HEKDCIED_01705	tRNA	74				tRNA-Pro(ggg)
+HEKDCIED_01706	gene	210				
+HEKDCIED_01706	CDS	210				hypothetical protein
+HEKDCIED_01707	gene	1149	sqr			
+HEKDCIED_01707	CDS	1149	sqr	1.8.5.4	COG0446	Sulfide-quinone reductase
+HEKDCIED_01708	gene	741				
+HEKDCIED_01708	CDS	741		1.-.-.-		putative oxidoreductase
+HEKDCIED_01709	gene	219				
+HEKDCIED_01709	CDS	219				hypothetical protein
+HEKDCIED_01710	gene	285				
+HEKDCIED_01710	CDS	285				hypothetical protein
+HEKDCIED_01711	gene	558				
+HEKDCIED_01711	CDS	558				hypothetical protein
+HEKDCIED_01712	gene	1461	glnA_2			
+HEKDCIED_01712	CDS	1461	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+HEKDCIED_01713	gene	279				
+HEKDCIED_01713	CDS	279				hypothetical protein
+HEKDCIED_01714	gene	1710	groL_2			
+HEKDCIED_01714	CDS	1710	groL_2		COG0459	60 kDa chaperonin
+HEKDCIED_01715	gene	1323	glyA			
+HEKDCIED_01715	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+HEKDCIED_01716	gene	3378				
+HEKDCIED_01716	CDS	3378				hypothetical protein
+HEKDCIED_01717	gene	750				
+HEKDCIED_01717	CDS	750		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+HEKDCIED_01718	gene	363				
+HEKDCIED_01718	CDS	363				hypothetical protein
+HEKDCIED_01719	gene	603				
+HEKDCIED_01719	CDS	603				hypothetical protein
+HEKDCIED_01720	gene	162				
+HEKDCIED_01720	CDS	162				hypothetical protein
+HEKDCIED_01721	gene	390				
+HEKDCIED_01721	CDS	390				hypothetical protein

@@ -1,0 +1,3797 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IOOACKGP_00001	gene	705				
+IOOACKGP_00001	CDS	705				hypothetical protein
+IOOACKGP_00002	gene	423				
+IOOACKGP_00002	CDS	423				hypothetical protein
+IOOACKGP_00003	gene	582	petC			
+IOOACKGP_00003	CDS	582	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+IOOACKGP_00004	gene	1014	petB_1			
+IOOACKGP_00004	CDS	1014	petB_1			Cytochrome b6
+IOOACKGP_00005	gene	186				
+IOOACKGP_00005	CDS	186				hypothetical protein
+IOOACKGP_00006	gene	402				
+IOOACKGP_00006	CDS	402				hypothetical protein
+IOOACKGP_00007	gene	246				
+IOOACKGP_00007	CDS	246				hypothetical protein
+IOOACKGP_00008	gene	249				
+IOOACKGP_00008	CDS	249				hypothetical protein
+IOOACKGP_00009	gene	147				
+IOOACKGP_00009	CDS	147				hypothetical protein
+IOOACKGP_00010	gene	285				
+IOOACKGP_00010	CDS	285				hypothetical protein
+IOOACKGP_00011	gene	498	pipB2			
+IOOACKGP_00011	CDS	498	pipB2		COG1357	Secreted effector protein PipB2
+IOOACKGP_00012	gene	558				
+IOOACKGP_00012	CDS	558				hypothetical protein
+IOOACKGP_00013	gene	381				
+IOOACKGP_00013	CDS	381				hypothetical protein
+IOOACKGP_00014	gene	351				
+IOOACKGP_00014	CDS	351				hypothetical protein
+IOOACKGP_00015	gene	471				
+IOOACKGP_00015	CDS	471				hypothetical protein
+IOOACKGP_00016	gene	240				
+IOOACKGP_00016	CDS	240				hypothetical protein
+IOOACKGP_00017	gene	501				
+IOOACKGP_00017	CDS	501				hypothetical protein
+IOOACKGP_00018	gene	237				
+IOOACKGP_00018	CDS	237				hypothetical protein
+IOOACKGP_00019	gene	828				
+IOOACKGP_00019	CDS	828				hypothetical protein
+IOOACKGP_00020	gene	456				
+IOOACKGP_00020	CDS	456				hypothetical protein
+IOOACKGP_00021	gene	642				
+IOOACKGP_00021	CDS	642				hypothetical protein
+IOOACKGP_00022	gene	513				
+IOOACKGP_00022	CDS	513				hypothetical protein
+IOOACKGP_00023	gene	924				
+IOOACKGP_00023	CDS	924				hypothetical protein
+IOOACKGP_00024	gene	933				
+IOOACKGP_00024	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+IOOACKGP_00025	gene	1413				
+IOOACKGP_00025	CDS	1413				hypothetical protein
+IOOACKGP_00026	gene	1362	aspA			
+IOOACKGP_00026	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+IOOACKGP_00027	gene	1269	miaB			
+IOOACKGP_00027	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+IOOACKGP_00028	gene	951	ftsZ			
+IOOACKGP_00028	CDS	951	ftsZ			Cell division protein FtsZ
+IOOACKGP_00029	gene	570				
+IOOACKGP_00029	CDS	570				hypothetical protein
+IOOACKGP_00030	gene	159				
+IOOACKGP_00030	CDS	159				hypothetical protein
+IOOACKGP_00031	gene	543	nudL			
+IOOACKGP_00031	CDS	543	nudL	3.6.1.-		putative Nudix hydrolase NudL
+IOOACKGP_00032	gene	753				
+IOOACKGP_00032	CDS	753				hypothetical protein
+IOOACKGP_00033	gene	2502	metH_1			
+IOOACKGP_00033	CDS	2502	metH_1	2.1.1.13	COG0646	Methionine synthase
+IOOACKGP_00034	gene	963	metH_2			
+IOOACKGP_00034	CDS	963	metH_2	2.1.1.13	COG0646	Methionine synthase
+IOOACKGP_00035	gene	1101				
+IOOACKGP_00035	CDS	1101				hypothetical protein
+IOOACKGP_00036	gene	759	ssuC			
+IOOACKGP_00036	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+IOOACKGP_00037	gene	759	nrtD			
+IOOACKGP_00037	CDS	759	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+IOOACKGP_00038	gene	1041				
+IOOACKGP_00038	CDS	1041				hypothetical protein
+IOOACKGP_00039	gene	1200	argG			
+IOOACKGP_00039	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+IOOACKGP_00040	gene	168				
+IOOACKGP_00040	CDS	168				hypothetical protein
+IOOACKGP_00041	gene	858	lysX_1			
+IOOACKGP_00041	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IOOACKGP_00042	gene	1047	argC			
+IOOACKGP_00042	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+IOOACKGP_00043	gene	804	lysZ			
+IOOACKGP_00043	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+IOOACKGP_00044	gene	1176	lysJ			
+IOOACKGP_00044	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+IOOACKGP_00045	gene	420				
+IOOACKGP_00045	CDS	420				hypothetical protein
+IOOACKGP_00046	gene	1185	leuA_1			
+IOOACKGP_00046	CDS	1185	leuA_1	2.3.3.13		2-isopropylmalate synthase
+IOOACKGP_00047	gene	168				
+IOOACKGP_00047	CDS	168				hypothetical protein
+IOOACKGP_00048	gene	849	lysX_2			
+IOOACKGP_00048	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IOOACKGP_00049	gene	1128	lysK			
+IOOACKGP_00049	CDS	1128	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+IOOACKGP_00050	gene	1038				
+IOOACKGP_00050	CDS	1038				hypothetical protein
+IOOACKGP_00051	gene	618	hldE			
+IOOACKGP_00051	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+IOOACKGP_00052	gene	684				
+IOOACKGP_00052	CDS	684				hypothetical protein
+IOOACKGP_00053	gene	1146				
+IOOACKGP_00053	CDS	1146				hypothetical protein
+IOOACKGP_00054	gene	351	erpA			
+IOOACKGP_00054	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+IOOACKGP_00055	gene	762	crt			
+IOOACKGP_00055	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+IOOACKGP_00056	gene	2118				
+IOOACKGP_00056	CDS	2118				hypothetical protein
+IOOACKGP_00057	gene	684				
+IOOACKGP_00057	CDS	684				hypothetical protein
+IOOACKGP_00058	gene	378				
+IOOACKGP_00058	CDS	378				hypothetical protein
+IOOACKGP_00059	gene	1275	gluD			
+IOOACKGP_00059	CDS	1275	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+IOOACKGP_00060	gene	381				
+IOOACKGP_00060	CDS	381				hypothetical protein
+IOOACKGP_00061	gene	726	prcA_1			
+IOOACKGP_00061	CDS	726	prcA_1			Proteasome subunit alpha
+IOOACKGP_00062	gene	690	menG_1			
+IOOACKGP_00062	CDS	690	menG_1	2.1.1.163		Demethylmenaquinone methyltransferase
+IOOACKGP_00063	gene	414				
+IOOACKGP_00063	CDS	414				hypothetical protein
+IOOACKGP_00064	gene	756				
+IOOACKGP_00064	CDS	756				hypothetical protein
+IOOACKGP_00065	gene	2928	smc_1			
+IOOACKGP_00065	CDS	2928	smc_1			Chromosome partition protein Smc
+IOOACKGP_00066	gene	348				
+IOOACKGP_00066	CDS	348				hypothetical protein
+IOOACKGP_00067	gene	849	dpnA			
+IOOACKGP_00067	CDS	849	dpnA	2.1.1.72		Modification methylase DpnIIB
+IOOACKGP_00068	gene	2535	dbpA_1			
+IOOACKGP_00068	CDS	2535	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+IOOACKGP_00069	gene	825	cpnA			
+IOOACKGP_00069	CDS	825	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+IOOACKGP_00070	gene	1668				
+IOOACKGP_00070	CDS	1668				hypothetical protein
+IOOACKGP_00071	gene	186				
+IOOACKGP_00071	CDS	186				hypothetical protein
+IOOACKGP_00072	gene	669	COQ3			
+IOOACKGP_00072	CDS	669	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+IOOACKGP_00073	gene	1197				
+IOOACKGP_00073	CDS	1197				hypothetical protein
+IOOACKGP_00074	gene	819				
+IOOACKGP_00074	CDS	819				hypothetical protein
+IOOACKGP_00075	gene	171				
+IOOACKGP_00075	CDS	171				hypothetical protein
+IOOACKGP_00076	gene	162				
+IOOACKGP_00076	CDS	162				hypothetical protein
+IOOACKGP_00077	gene	426				
+IOOACKGP_00077	CDS	426				hypothetical protein
+IOOACKGP_00078	gene	1305				
+IOOACKGP_00078	CDS	1305				hypothetical protein
+IOOACKGP_00079	gene	1437	fieF			
+IOOACKGP_00079	CDS	1437	fieF			Ferrous-iron efflux pump FieF
+IOOACKGP_00080	gene	552				
+IOOACKGP_00080	CDS	552				hypothetical protein
+IOOACKGP_00081	gene	87				
+IOOACKGP_00081	tRNA	87				tRNA-Ser(gct)
+IOOACKGP_00082	gene	270				
+IOOACKGP_00082	CDS	270				hypothetical protein
+IOOACKGP_00083	gene	180				
+IOOACKGP_00083	CDS	180				hypothetical protein
+IOOACKGP_00084	gene	750				
+IOOACKGP_00084	CDS	750				hypothetical protein
+IOOACKGP_00085	gene	204				
+IOOACKGP_00085	CDS	204				hypothetical protein
+IOOACKGP_00086	gene	186				
+IOOACKGP_00086	CDS	186				hypothetical protein
+IOOACKGP_00087	gene	1116				
+IOOACKGP_00087	CDS	1116				hypothetical protein
+IOOACKGP_00088	gene	1368	rcsC_1			
+IOOACKGP_00088	CDS	1368	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+IOOACKGP_00089	gene	363				
+IOOACKGP_00089	CDS	363				Response regulator receiver protein
+IOOACKGP_00090	gene	1404				
+IOOACKGP_00090	CDS	1404				hypothetical protein
+IOOACKGP_00091	gene	147				
+IOOACKGP_00091	CDS	147				hypothetical protein
+IOOACKGP_00092	gene	504				
+IOOACKGP_00092	CDS	504				hypothetical protein
+IOOACKGP_00093	gene	138				
+IOOACKGP_00093	CDS	138				hypothetical protein
+IOOACKGP_00094	gene	162				
+IOOACKGP_00094	CDS	162				hypothetical protein
+IOOACKGP_00095	gene	87				
+IOOACKGP_00095	tRNA	87				tRNA-Ser(act)
+IOOACKGP_00096	gene	456				
+IOOACKGP_00096	CDS	456				hypothetical protein
+IOOACKGP_00097	gene	747	cpdA			
+IOOACKGP_00097	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IOOACKGP_00098	gene	1029	icd			
+IOOACKGP_00098	CDS	1029	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+IOOACKGP_00099	gene	540				
+IOOACKGP_00099	CDS	540				hypothetical protein
+IOOACKGP_00100	gene	708	rsmA			
+IOOACKGP_00100	CDS	708	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+IOOACKGP_00101	gene	567				
+IOOACKGP_00101	CDS	567				hypothetical protein
+IOOACKGP_00102	gene	327				
+IOOACKGP_00102	CDS	327				hypothetical protein
+IOOACKGP_00103	gene	300				
+IOOACKGP_00103	CDS	300				hypothetical protein
+IOOACKGP_00104	gene	1056	rlmN			
+IOOACKGP_00104	CDS	1056	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+IOOACKGP_00105	gene	1116	recA_1			
+IOOACKGP_00105	CDS	1116	recA_1			Protein RecA
+IOOACKGP_00106	gene	183				
+IOOACKGP_00106	CDS	183				hypothetical protein
+IOOACKGP_00107	gene	1725				
+IOOACKGP_00107	CDS	1725				hypothetical protein
+IOOACKGP_00108	gene	813	pyrK			
+IOOACKGP_00108	CDS	813	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+IOOACKGP_00109	gene	912	pyrD			
+IOOACKGP_00109	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IOOACKGP_00110	gene	1767				
+IOOACKGP_00110	CDS	1767				hypothetical protein
+IOOACKGP_00111	gene	675				
+IOOACKGP_00111	CDS	675				hypothetical protein
+IOOACKGP_00112	gene	648	rnhB			
+IOOACKGP_00112	CDS	648	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+IOOACKGP_00113	gene	1167	trm1			
+IOOACKGP_00113	CDS	1167	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+IOOACKGP_00114	gene	594	rlmE			
+IOOACKGP_00114	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+IOOACKGP_00115	gene	762				
+IOOACKGP_00115	CDS	762				hypothetical protein
+IOOACKGP_00116	gene	462				
+IOOACKGP_00116	CDS	462				hypothetical protein
+IOOACKGP_00117	gene	1206				
+IOOACKGP_00117	CDS	1206				hypothetical protein
+IOOACKGP_00118	gene	837				
+IOOACKGP_00118	CDS	837				hypothetical protein
+IOOACKGP_00119	gene	915				
+IOOACKGP_00119	CDS	915				hypothetical protein
+IOOACKGP_00120	gene	1212				
+IOOACKGP_00120	CDS	1212				hypothetical protein
+IOOACKGP_00121	gene	513	apt			
+IOOACKGP_00121	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+IOOACKGP_00122	gene	792	mtnP			
+IOOACKGP_00122	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+IOOACKGP_00123	gene	285				
+IOOACKGP_00123	CDS	285				hypothetical protein
+IOOACKGP_00124	gene	444				
+IOOACKGP_00124	CDS	444				hypothetical protein
+IOOACKGP_00125	gene	354				
+IOOACKGP_00125	CDS	354				hypothetical protein
+IOOACKGP_00126	gene	189				
+IOOACKGP_00126	CDS	189				hypothetical protein
+IOOACKGP_00127	gene	525				
+IOOACKGP_00127	CDS	525				hypothetical protein
+IOOACKGP_00128	gene	1107	TOP6A			
+IOOACKGP_00128	CDS	1107	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+IOOACKGP_00129	gene	1839	TOP6B			
+IOOACKGP_00129	CDS	1839	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+IOOACKGP_00130	gene	573				
+IOOACKGP_00130	CDS	573				hypothetical protein
+IOOACKGP_00131	gene	810				
+IOOACKGP_00131	CDS	810				hypothetical protein
+IOOACKGP_00132	gene	297				
+IOOACKGP_00132	CDS	297				hypothetical protein
+IOOACKGP_00133	gene	420				
+IOOACKGP_00133	CDS	420				hypothetical protein
+IOOACKGP_00134	gene	144				
+IOOACKGP_00134	CDS	144				hypothetical protein
+IOOACKGP_00135	gene	489				
+IOOACKGP_00135	CDS	489				hypothetical protein
+IOOACKGP_00136	gene	1149				
+IOOACKGP_00136	CDS	1149				hypothetical protein
+IOOACKGP_00137	gene	552				
+IOOACKGP_00137	CDS	552		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+IOOACKGP_00138	gene	420	rppH			
+IOOACKGP_00138	CDS	420	rppH	3.6.1.-		RNA pyrophosphohydrolase
+IOOACKGP_00139	gene	741	pyrF			
+IOOACKGP_00139	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+IOOACKGP_00140	gene	663				
+IOOACKGP_00140	CDS	663				hypothetical protein
+IOOACKGP_00141	gene	1002	purA			
+IOOACKGP_00141	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+IOOACKGP_00142	gene	462				
+IOOACKGP_00142	CDS	462				hypothetical protein
+IOOACKGP_00143	gene	294				
+IOOACKGP_00143	CDS	294				hypothetical protein
+IOOACKGP_00144	gene	210				
+IOOACKGP_00144	CDS	210				hypothetical protein
+IOOACKGP_00145	gene	642				
+IOOACKGP_00145	CDS	642				hypothetical protein
+IOOACKGP_00146	gene	288				
+IOOACKGP_00146	CDS	288				hypothetical protein
+IOOACKGP_00147	gene	90				
+IOOACKGP_00147	CDS	90				hypothetical protein
+IOOACKGP_00148	gene	600	ywlC			
+IOOACKGP_00148	CDS	600	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+IOOACKGP_00149	gene	372				
+IOOACKGP_00149	CDS	372				hypothetical protein
+IOOACKGP_00150	gene	120				
+IOOACKGP_00150	CDS	120				hypothetical protein
+IOOACKGP_00151	gene	774				
+IOOACKGP_00151	CDS	774				hypothetical protein
+IOOACKGP_00152	gene	96				
+IOOACKGP_00152	CDS	96				hypothetical protein
+IOOACKGP_00153	gene	201				
+IOOACKGP_00153	CDS	201				hypothetical protein
+IOOACKGP_00154	gene	756	ycfH			
+IOOACKGP_00154	CDS	756	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+IOOACKGP_00155	gene	216				
+IOOACKGP_00155	CDS	216				hypothetical protein
+IOOACKGP_00156	gene	72				
+IOOACKGP_00156	tRNA	72				tRNA-Cys(gca)
+IOOACKGP_00157	gene	423				
+IOOACKGP_00157	CDS	423				hypothetical protein
+IOOACKGP_00158	gene	1752				
+IOOACKGP_00158	CDS	1752				hypothetical protein
+IOOACKGP_00159	gene	165				
+IOOACKGP_00159	CDS	165				hypothetical protein
+IOOACKGP_00160	gene	546				
+IOOACKGP_00160	CDS	546				hypothetical protein
+IOOACKGP_00161	gene	282				
+IOOACKGP_00161	CDS	282				hypothetical protein
+IOOACKGP_00162	gene	303				
+IOOACKGP_00162	CDS	303				hypothetical protein
+IOOACKGP_00163	gene	74				
+IOOACKGP_00163	tRNA	74				tRNA-Thr(cgt)
+IOOACKGP_00164	gene	1299	glmM			
+IOOACKGP_00164	CDS	1299	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+IOOACKGP_00165	gene	954	thiL			
+IOOACKGP_00165	CDS	954	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+IOOACKGP_00166	gene	321				
+IOOACKGP_00166	CDS	321				hypothetical protein
+IOOACKGP_00167	gene	327	rpsK			
+IOOACKGP_00167	CDS	327	rpsK		COG0100	30S ribosomal protein S11
+IOOACKGP_00168	gene	312				
+IOOACKGP_00168	CDS	312				hypothetical protein
+IOOACKGP_00169	gene	417				
+IOOACKGP_00169	CDS	417				hypothetical protein
+IOOACKGP_00170	gene	1449	rtcB			
+IOOACKGP_00170	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+IOOACKGP_00171	gene	1362	purB			
+IOOACKGP_00171	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+IOOACKGP_00172	gene	747	asnB_1			
+IOOACKGP_00172	CDS	747	asnB_1	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+IOOACKGP_00173	gene	279	phhB			
+IOOACKGP_00173	CDS	279	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+IOOACKGP_00174	gene	255				
+IOOACKGP_00174	CDS	255				hypothetical protein
+IOOACKGP_00175	gene	546				
+IOOACKGP_00175	CDS	546				hypothetical protein
+IOOACKGP_00176	gene	2322	valS_1			
+IOOACKGP_00176	CDS	2322	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+IOOACKGP_00177	gene	618	pdxT			
+IOOACKGP_00177	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+IOOACKGP_00178	gene	969	pdxS			
+IOOACKGP_00178	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+IOOACKGP_00179	gene	534				
+IOOACKGP_00179	CDS	534				hypothetical protein
+IOOACKGP_00180	gene	2265	acnA			
+IOOACKGP_00180	CDS	2265	acnA	4.2.1.3		Aconitate hydratase A
+IOOACKGP_00181	gene	633				
+IOOACKGP_00181	CDS	633				hypothetical protein
+IOOACKGP_00182	gene	576				
+IOOACKGP_00182	CDS	576				hypothetical protein
+IOOACKGP_00183	gene	240				
+IOOACKGP_00183	CDS	240				hypothetical protein
+IOOACKGP_00184	gene	426				
+IOOACKGP_00184	CDS	426				hypothetical protein
+IOOACKGP_00185	gene	132				
+IOOACKGP_00185	CDS	132				hypothetical protein
+IOOACKGP_00186	gene	141				
+IOOACKGP_00186	CDS	141				hypothetical protein
+IOOACKGP_00187	gene	1638				
+IOOACKGP_00187	CDS	1638				hypothetical protein
+IOOACKGP_00188	gene	1392				
+IOOACKGP_00188	CDS	1392				hypothetical protein
+IOOACKGP_00189	gene	1113				
+IOOACKGP_00189	CDS	1113				hypothetical protein
+IOOACKGP_00190	gene	282				
+IOOACKGP_00190	CDS	282				hypothetical protein
+IOOACKGP_00191	gene	810				
+IOOACKGP_00191	CDS	810				hypothetical protein
+IOOACKGP_00192	gene	330				
+IOOACKGP_00192	CDS	330				hypothetical protein
+IOOACKGP_00193	gene	474				
+IOOACKGP_00193	CDS	474				hypothetical protein
+IOOACKGP_00194	gene	1059				
+IOOACKGP_00194	CDS	1059				hypothetical protein
+IOOACKGP_00195	gene	108				
+IOOACKGP_00195	CDS	108				hypothetical protein
+IOOACKGP_00196	gene	75				
+IOOACKGP_00196	tRNA	75				tRNA-Ala(tgc)
+IOOACKGP_00197	gene	399	resA			
+IOOACKGP_00197	CDS	399	resA			Thiol-disulfide oxidoreductase ResA
+IOOACKGP_00198	gene	129				
+IOOACKGP_00198	CDS	129				hypothetical protein
+IOOACKGP_00199	gene	77				
+IOOACKGP_00199	tRNA	77				tRNA-Ile(gat)
+IOOACKGP_00200	gene	744				
+IOOACKGP_00200	CDS	744				hypothetical protein
+IOOACKGP_00201	gene	387				
+IOOACKGP_00201	CDS	387				hypothetical protein
+IOOACKGP_00202	gene	74				
+IOOACKGP_00202	tRNA	74				tRNA-Thr(ggt)
+IOOACKGP_00203	gene	663	dpnM			
+IOOACKGP_00203	CDS	663	dpnM	2.1.1.72		Modification methylase DpnIIA
+IOOACKGP_00204	gene	651				
+IOOACKGP_00204	CDS	651				hypothetical protein
+IOOACKGP_00205	gene	363				
+IOOACKGP_00205	CDS	363				hypothetical protein
+IOOACKGP_00206	gene	564				
+IOOACKGP_00206	CDS	564				hypothetical protein
+IOOACKGP_00207	gene	669				
+IOOACKGP_00207	CDS	669				hypothetical protein
+IOOACKGP_00208	gene	315				
+IOOACKGP_00208	CDS	315				hypothetical protein
+IOOACKGP_00209	gene	522				
+IOOACKGP_00209	CDS	522				hypothetical protein
+IOOACKGP_00210	gene	270				
+IOOACKGP_00210	CDS	270				hypothetical protein
+IOOACKGP_00211	gene	132				
+IOOACKGP_00211	CDS	132				hypothetical protein
+IOOACKGP_00212	gene	231				
+IOOACKGP_00212	CDS	231				hypothetical protein
+IOOACKGP_00213	gene	450				
+IOOACKGP_00213	CDS	450				hypothetical protein
+IOOACKGP_00214	gene	1401				
+IOOACKGP_00214	CDS	1401				hypothetical protein
+IOOACKGP_00215	gene	243				
+IOOACKGP_00215	CDS	243				hypothetical protein
+IOOACKGP_00216	gene	1263	serS			
+IOOACKGP_00216	CDS	1263	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+IOOACKGP_00217	gene	612				
+IOOACKGP_00217	CDS	612				hypothetical protein
+IOOACKGP_00218	gene	426				
+IOOACKGP_00218	CDS	426				hypothetical protein
+IOOACKGP_00219	gene	1458				
+IOOACKGP_00219	CDS	1458				hypothetical protein
+IOOACKGP_00220	gene	798	nirQ			
+IOOACKGP_00220	CDS	798	nirQ		COG0714	Denitrification regulatory protein NirQ
+IOOACKGP_00221	gene	1563				
+IOOACKGP_00221	CDS	1563				hypothetical protein
+IOOACKGP_00222	gene	300				
+IOOACKGP_00222	CDS	300				hypothetical protein
+IOOACKGP_00223	gene	1563				
+IOOACKGP_00223	CDS	1563				hypothetical protein
+IOOACKGP_00224	gene	456				
+IOOACKGP_00224	CDS	456				hypothetical protein
+IOOACKGP_00225	gene	564				
+IOOACKGP_00225	CDS	564				hypothetical protein
+IOOACKGP_00226	gene	222				
+IOOACKGP_00226	CDS	222				hypothetical protein
+IOOACKGP_00227	gene	588				
+IOOACKGP_00227	CDS	588				hypothetical protein
+IOOACKGP_00228	gene	696				
+IOOACKGP_00228	CDS	696				hypothetical protein
+IOOACKGP_00229	gene	177				
+IOOACKGP_00229	CDS	177				hypothetical protein
+IOOACKGP_00230	gene	342	glnB_1			
+IOOACKGP_00230	CDS	342	glnB_1		COG0347	Nitrogen regulatory protein P-II
+IOOACKGP_00231	gene	255				
+IOOACKGP_00231	CDS	255				hypothetical protein
+IOOACKGP_00232	gene	390				
+IOOACKGP_00232	CDS	390				hypothetical protein
+IOOACKGP_00233	gene	270				
+IOOACKGP_00233	CDS	270				hypothetical protein
+IOOACKGP_00234	gene	528				
+IOOACKGP_00234	CDS	528				hypothetical protein
+IOOACKGP_00235	gene	237				
+IOOACKGP_00235	CDS	237				hypothetical protein
+IOOACKGP_00236	gene	966	dusB			
+IOOACKGP_00236	CDS	966	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+IOOACKGP_00237	gene	2151				
+IOOACKGP_00237	CDS	2151				hypothetical protein
+IOOACKGP_00238	gene	2154				
+IOOACKGP_00238	CDS	2154				hypothetical protein
+IOOACKGP_00239	gene	1152				
+IOOACKGP_00239	CDS	1152				hypothetical protein
+IOOACKGP_00240	gene	1176				
+IOOACKGP_00240	CDS	1176				hypothetical protein
+IOOACKGP_00241	gene	996				
+IOOACKGP_00241	CDS	996				hypothetical protein
+IOOACKGP_00242	gene	567				
+IOOACKGP_00242	CDS	567		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+IOOACKGP_00243	gene	621				
+IOOACKGP_00243	CDS	621				hypothetical protein
+IOOACKGP_00244	gene	327				
+IOOACKGP_00244	CDS	327				hypothetical protein
+IOOACKGP_00245	gene	984	tsaD			
+IOOACKGP_00245	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+IOOACKGP_00246	gene	1191	ychF			
+IOOACKGP_00246	CDS	1191	ychF		COG0012	Ribosome-binding ATPase YchF
+IOOACKGP_00247	gene	357				
+IOOACKGP_00247	CDS	357				hypothetical protein
+IOOACKGP_00248	gene	1512	QTRT1			
+IOOACKGP_00248	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+IOOACKGP_00249	gene	303	ndhI_1			
+IOOACKGP_00249	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IOOACKGP_00250	gene	213				
+IOOACKGP_00250	CDS	213				hypothetical protein
+IOOACKGP_00251	gene	1020				
+IOOACKGP_00251	CDS	1020		3.1.-.-	COG1236	Ribonuclease
+IOOACKGP_00252	gene	207				
+IOOACKGP_00252	CDS	207				hypothetical protein
+IOOACKGP_00253	gene	843				
+IOOACKGP_00253	CDS	843				hypothetical protein
+IOOACKGP_00254	gene	77				
+IOOACKGP_00254	tRNA	77				tRNA-Arg(tct)
+IOOACKGP_00255	gene	351				
+IOOACKGP_00255	CDS	351				hypothetical protein
+IOOACKGP_00256	gene	429				
+IOOACKGP_00256	CDS	429				hypothetical protein
+IOOACKGP_00257	gene	1581	petB_2			
+IOOACKGP_00257	CDS	1581	petB_2			Cytochrome b6
+IOOACKGP_00258	gene	501				
+IOOACKGP_00258	CDS	501				hypothetical protein
+IOOACKGP_00259	gene	153				
+IOOACKGP_00259	CDS	153				hypothetical protein
+IOOACKGP_00260	gene	129				
+IOOACKGP_00260	CDS	129				hypothetical protein
+IOOACKGP_00261	gene	207				
+IOOACKGP_00261	CDS	207				hypothetical protein
+IOOACKGP_00262	gene	318				
+IOOACKGP_00262	CDS	318				hypothetical protein
+IOOACKGP_00263	gene	240				
+IOOACKGP_00263	CDS	240				hypothetical protein
+IOOACKGP_00264	gene	216				
+IOOACKGP_00264	CDS	216				hypothetical protein
+IOOACKGP_00265	gene	222	phaJ			
+IOOACKGP_00265	CDS	222	phaJ	4.2.1.119		(R)-specific enoyl-CoA hydratase
+IOOACKGP_00266	gene	252				
+IOOACKGP_00266	CDS	252				hypothetical protein
+IOOACKGP_00267	gene	579				
+IOOACKGP_00267	CDS	579				hypothetical protein
+IOOACKGP_00268	gene	297				
+IOOACKGP_00268	CDS	297				hypothetical protein
+IOOACKGP_00269	gene	123				
+IOOACKGP_00269	CDS	123				hypothetical protein
+IOOACKGP_00270	gene	567	rmlA			
+IOOACKGP_00270	CDS	567	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+IOOACKGP_00271	gene	987	rmlB			
+IOOACKGP_00271	CDS	987	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+IOOACKGP_00272	gene	453				
+IOOACKGP_00272	CDS	453				hypothetical protein
+IOOACKGP_00273	gene	1026	pseB			
+IOOACKGP_00273	CDS	1026	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+IOOACKGP_00274	gene	1872				
+IOOACKGP_00274	CDS	1872				hypothetical protein
+IOOACKGP_00275	gene	1320				
+IOOACKGP_00275	CDS	1320			COG4310	Putative polysaccharide biosynthesis protein with aminopeptidase-like domain protein
+IOOACKGP_00276	gene	843				
+IOOACKGP_00276	CDS	843				hypothetical protein
+IOOACKGP_00277	gene	717	kdsB			
+IOOACKGP_00277	CDS	717	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+IOOACKGP_00278	gene	405				
+IOOACKGP_00278	CDS	405				hypothetical protein
+IOOACKGP_00279	gene	303	pseI			
+IOOACKGP_00279	CDS	303	pseI	2.5.1.97	COG2089	Pseudaminic acid synthase
+IOOACKGP_00280	gene	201				
+IOOACKGP_00280	CDS	201				hypothetical protein
+IOOACKGP_00281	gene	186	arnB_1			
+IOOACKGP_00281	CDS	186	arnB_1	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+IOOACKGP_00282	gene	132				
+IOOACKGP_00282	CDS	132				hypothetical protein
+IOOACKGP_00283	gene	510	arnB_2			
+IOOACKGP_00283	CDS	510	arnB_2	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+IOOACKGP_00284	gene	291				
+IOOACKGP_00284	CDS	291				hypothetical protein
+IOOACKGP_00285	gene	135				
+IOOACKGP_00285	CDS	135				hypothetical protein
+IOOACKGP_00286	gene	1329				
+IOOACKGP_00286	CDS	1329				hypothetical protein
+IOOACKGP_00287	gene	708	legF			
+IOOACKGP_00287	CDS	708	legF	2.7.7.82	COG1083	CMP-N,N'-diacetyllegionaminic acid synthase
+IOOACKGP_00288	gene	573	gmhA1			
+IOOACKGP_00288	CDS	573	gmhA1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+IOOACKGP_00289	gene	831	neuB			
+IOOACKGP_00289	CDS	831	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+IOOACKGP_00290	gene	387				
+IOOACKGP_00290	CDS	387		3.1.3.103	COG1778	2-keto-3-deoxy-D-glycero-D-galacto-9-phosphonononic acid phosphatase
+IOOACKGP_00291	gene	234				
+IOOACKGP_00291	CDS	234				hypothetical protein
+IOOACKGP_00292	gene	618				
+IOOACKGP_00292	CDS	618				hypothetical protein
+IOOACKGP_00293	gene	672				
+IOOACKGP_00293	CDS	672				hypothetical protein
+IOOACKGP_00294	gene	999				
+IOOACKGP_00294	CDS	999		1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+IOOACKGP_00295	gene	924				
+IOOACKGP_00295	CDS	924				hypothetical protein
+IOOACKGP_00296	gene	153				
+IOOACKGP_00296	CDS	153				hypothetical protein
+IOOACKGP_00297	gene	1011				
+IOOACKGP_00297	CDS	1011				hypothetical protein
+IOOACKGP_00298	gene	534				
+IOOACKGP_00298	CDS	534				hypothetical protein
+IOOACKGP_00299	gene	273				
+IOOACKGP_00299	CDS	273				hypothetical protein
+IOOACKGP_00300	gene	273				
+IOOACKGP_00300	CDS	273				hypothetical protein
+IOOACKGP_00301	gene	255				
+IOOACKGP_00301	CDS	255				hypothetical protein
+IOOACKGP_00302	gene	1059	mtnA			
+IOOACKGP_00302	CDS	1059	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+IOOACKGP_00303	gene	1467	patA			
+IOOACKGP_00303	CDS	1467	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+IOOACKGP_00304	gene	1005				
+IOOACKGP_00304	CDS	1005				hypothetical protein
+IOOACKGP_00305	gene	630				
+IOOACKGP_00305	CDS	630				hypothetical protein
+IOOACKGP_00306	gene	648	fabG			
+IOOACKGP_00306	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IOOACKGP_00307	gene	240				
+IOOACKGP_00307	CDS	240				hypothetical protein
+IOOACKGP_00308	gene	594				
+IOOACKGP_00308	CDS	594				hypothetical protein
+IOOACKGP_00309	gene	489				
+IOOACKGP_00309	CDS	489				hypothetical protein
+IOOACKGP_00310	gene	76				
+IOOACKGP_00310	tRNA	76				tRNA-Arg(tcg)
+IOOACKGP_00311	gene	1176	alaA			
+IOOACKGP_00311	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+IOOACKGP_00312	gene	399				
+IOOACKGP_00312	CDS	399				hypothetical protein
+IOOACKGP_00313	gene	234				
+IOOACKGP_00313	CDS	234				hypothetical protein
+IOOACKGP_00314	gene	672				
+IOOACKGP_00314	CDS	672				hypothetical protein
+IOOACKGP_00315	gene	624	pspA			
+IOOACKGP_00315	CDS	624	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+IOOACKGP_00316	gene	264				
+IOOACKGP_00316	CDS	264				hypothetical protein
+IOOACKGP_00317	gene	435	coxM			
+IOOACKGP_00317	CDS	435	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+IOOACKGP_00318	gene	1527	ctaD			
+IOOACKGP_00318	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+IOOACKGP_00319	gene	963	petE_1			
+IOOACKGP_00319	CDS	963	petE_1			Plastocyanin
+IOOACKGP_00320	gene	444	ctaA			
+IOOACKGP_00320	CDS	444	ctaA	1.3.-.-	COG1612	Heme A synthase
+IOOACKGP_00321	gene	525				
+IOOACKGP_00321	CDS	525				hypothetical protein
+IOOACKGP_00322	gene	603				
+IOOACKGP_00322	CDS	603				hypothetical protein
+IOOACKGP_00323	gene	75				
+IOOACKGP_00323	tRNA	75				tRNA-Lys(ctt)
+IOOACKGP_00324	gene	363	cheB_1			
+IOOACKGP_00324	CDS	363	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+IOOACKGP_00325	gene	1785	sasA_1			
+IOOACKGP_00325	CDS	1785	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+IOOACKGP_00326	gene	555				
+IOOACKGP_00326	CDS	555				hypothetical protein
+IOOACKGP_00327	gene	162				
+IOOACKGP_00327	CDS	162				hypothetical protein
+IOOACKGP_00328	gene	915	ilvE_1			
+IOOACKGP_00328	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+IOOACKGP_00329	gene	207				
+IOOACKGP_00329	CDS	207				hypothetical protein
+IOOACKGP_00330	gene	1416				
+IOOACKGP_00330	CDS	1416				hypothetical protein
+IOOACKGP_00331	gene	999	murG			
+IOOACKGP_00331	CDS	999	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IOOACKGP_00332	gene	77				
+IOOACKGP_00332	tRNA	77				tRNA-Val(tac)
+IOOACKGP_00333	gene	999				
+IOOACKGP_00333	CDS	999				hypothetical protein
+IOOACKGP_00334	gene	138				
+IOOACKGP_00334	CDS	138				hypothetical protein
+IOOACKGP_00335	gene	222				
+IOOACKGP_00335	CDS	222				hypothetical protein
+IOOACKGP_00336	gene	252				
+IOOACKGP_00336	CDS	252				hypothetical protein
+IOOACKGP_00337	gene	882				
+IOOACKGP_00337	CDS	882				hypothetical protein
+IOOACKGP_00338	gene	303				
+IOOACKGP_00338	CDS	303				hypothetical protein
+IOOACKGP_00339	gene	1077				
+IOOACKGP_00339	CDS	1077		2.5.-.-		Deoxyhypusine synthase-like protein
+IOOACKGP_00340	gene	939				
+IOOACKGP_00340	CDS	939		2.5.-.-		Deoxyhypusine synthase-like protein
+IOOACKGP_00341	gene	411				
+IOOACKGP_00341	CDS	411				hypothetical protein
+IOOACKGP_00342	gene	126				
+IOOACKGP_00342	CDS	126				hypothetical protein
+IOOACKGP_00343	gene	750				
+IOOACKGP_00343	CDS	750				hypothetical protein
+IOOACKGP_00344	gene	288				
+IOOACKGP_00344	CDS	288				hypothetical protein
+IOOACKGP_00345	gene	525	ureD			
+IOOACKGP_00345	CDS	525	ureD			Urease accessory protein UreD
+IOOACKGP_00346	gene	129				
+IOOACKGP_00346	CDS	129				hypothetical protein
+IOOACKGP_00347	gene	663	ureG			
+IOOACKGP_00347	CDS	663	ureG		COG0378	Urease accessory protein UreG
+IOOACKGP_00348	gene	699	ureF			
+IOOACKGP_00348	CDS	699	ureF		COG0830	Urease accessory protein UreF
+IOOACKGP_00349	gene	483	ureE			
+IOOACKGP_00349	CDS	483	ureE			Urease accessory protein UreE
+IOOACKGP_00350	gene	303	ureA			
+IOOACKGP_00350	CDS	303	ureA	3.5.1.5	COG0831	Urease subunit gamma
+IOOACKGP_00351	gene	360	ureB			
+IOOACKGP_00351	CDS	360	ureB	3.5.1.5		Urease subunit beta
+IOOACKGP_00352	gene	1713	ureC			
+IOOACKGP_00352	CDS	1713	ureC	3.5.1.5		Urease subunit alpha
+IOOACKGP_00353	gene	293				
+IOOACKGP_00353	misc_RNA	293				5_ureB_sRNA
+IOOACKGP_00354	gene	285				
+IOOACKGP_00354	CDS	285				hypothetical protein
+IOOACKGP_00355	gene	426				
+IOOACKGP_00355	CDS	426				hypothetical protein
+IOOACKGP_00356	gene	351				
+IOOACKGP_00356	CDS	351				hypothetical protein
+IOOACKGP_00357	gene	2097	FCS1			
+IOOACKGP_00357	CDS	2097	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+IOOACKGP_00358	gene	1623	abfD			
+IOOACKGP_00358	CDS	1623	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+IOOACKGP_00359	gene	684				
+IOOACKGP_00359	CDS	684				hypothetical protein
+IOOACKGP_00360	gene	753				
+IOOACKGP_00360	CDS	753				hypothetical protein
+IOOACKGP_00361	gene	330	trxA			
+IOOACKGP_00361	CDS	330	trxA			Thioredoxin 1
+IOOACKGP_00362	gene	528				
+IOOACKGP_00362	CDS	528				hypothetical protein
+IOOACKGP_00363	gene	360				
+IOOACKGP_00363	CDS	360				hypothetical protein
+IOOACKGP_00364	gene	72				
+IOOACKGP_00364	tRNA	72				tRNA-Ala(cgc)
+IOOACKGP_00365	gene	1548				
+IOOACKGP_00365	CDS	1548				hypothetical protein
+IOOACKGP_00366	gene	1392				
+IOOACKGP_00366	CDS	1392		3.5.2.-		D-hydantoinase
+IOOACKGP_00367	gene	546				
+IOOACKGP_00367	CDS	546				hypothetical protein
+IOOACKGP_00368	gene	675	rpiA			
+IOOACKGP_00368	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+IOOACKGP_00369	gene	939				
+IOOACKGP_00369	CDS	939				hypothetical protein
+IOOACKGP_00370	gene	237				
+IOOACKGP_00370	CDS	237				hypothetical protein
+IOOACKGP_00371	gene	735	mftE			
+IOOACKGP_00371	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+IOOACKGP_00372	gene	627	purU			
+IOOACKGP_00372	CDS	627	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+IOOACKGP_00373	gene	231				
+IOOACKGP_00373	CDS	231				hypothetical protein
+IOOACKGP_00374	gene	87				
+IOOACKGP_00374	tRNA	87				tRNA-Leu(tag)
+IOOACKGP_00375	gene	1371	algC			
+IOOACKGP_00375	CDS	1371	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+IOOACKGP_00376	gene	387				
+IOOACKGP_00376	CDS	387				hypothetical protein
+IOOACKGP_00377	gene	213				
+IOOACKGP_00377	CDS	213				hypothetical protein
+IOOACKGP_00378	gene	204				
+IOOACKGP_00378	CDS	204				hypothetical protein
+IOOACKGP_00379	gene	450	ndk			
+IOOACKGP_00379	CDS	450	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+IOOACKGP_00380	gene	1731	infB			
+IOOACKGP_00380	CDS	1731	infB			Translation initiation factor IF-2
+IOOACKGP_00381	gene	402				
+IOOACKGP_00381	CDS	402				hypothetical protein
+IOOACKGP_00382	gene	147				
+IOOACKGP_00382	CDS	147				hypothetical protein
+IOOACKGP_00383	gene	1656				
+IOOACKGP_00383	CDS	1656				hypothetical protein
+IOOACKGP_00384	gene	468				
+IOOACKGP_00384	CDS	468				Protein archease
+IOOACKGP_00385	gene	1200				
+IOOACKGP_00385	CDS	1200				hypothetical protein
+IOOACKGP_00386	gene	1281	hisS			
+IOOACKGP_00386	CDS	1281	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+IOOACKGP_00387	gene	666				
+IOOACKGP_00387	CDS	666				hypothetical protein
+IOOACKGP_00388	gene	552	napF			
+IOOACKGP_00388	CDS	552	napF			Ferredoxin-type protein NapF
+IOOACKGP_00389	gene	543				
+IOOACKGP_00389	CDS	543				hypothetical protein
+IOOACKGP_00390	gene	86				
+IOOACKGP_00390	tRNA	86				tRNA-Ser(tga)
+IOOACKGP_00391	gene	975				
+IOOACKGP_00391	CDS	975				hypothetical protein
+IOOACKGP_00392	gene	531				
+IOOACKGP_00392	CDS	531				hypothetical protein
+IOOACKGP_00393	gene	2088				
+IOOACKGP_00393	CDS	2088				hypothetical protein
+IOOACKGP_00394	gene	2127				
+IOOACKGP_00394	CDS	2127				hypothetical protein
+IOOACKGP_00395	gene	990	mraY			
+IOOACKGP_00395	CDS	990	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IOOACKGP_00396	gene	231				
+IOOACKGP_00396	CDS	231				hypothetical protein
+IOOACKGP_00397	gene	477	fdtC			
+IOOACKGP_00397	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+IOOACKGP_00398	gene	270				
+IOOACKGP_00398	CDS	270				hypothetical protein
+IOOACKGP_00399	gene	936	iolG			
+IOOACKGP_00399	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+IOOACKGP_00400	gene	918	ilvE_2			
+IOOACKGP_00400	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+IOOACKGP_00401	gene	603				
+IOOACKGP_00401	CDS	603				hypothetical protein
+IOOACKGP_00402	gene	76				
+IOOACKGP_00402	tRNA	76				tRNA-Pro(cgg)
+IOOACKGP_00403	gene	846	nqrF			
+IOOACKGP_00403	CDS	846	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+IOOACKGP_00404	gene	75				
+IOOACKGP_00404	tRNA	75				tRNA-Ala(ggc)
+IOOACKGP_00405	gene	285				
+IOOACKGP_00405	CDS	285				hypothetical protein
+IOOACKGP_00406	gene	867	Dml			
+IOOACKGP_00406	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+IOOACKGP_00407	gene	582				
+IOOACKGP_00407	CDS	582				hypothetical protein
+IOOACKGP_00408	gene	1713	frdA			
+IOOACKGP_00408	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+IOOACKGP_00409	gene	435				
+IOOACKGP_00409	CDS	435				hypothetical protein
+IOOACKGP_00410	gene	345				
+IOOACKGP_00410	CDS	345				hypothetical protein
+IOOACKGP_00411	gene	765	frdB			
+IOOACKGP_00411	CDS	765	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+IOOACKGP_00412	gene	357				
+IOOACKGP_00412	CDS	357				hypothetical protein
+IOOACKGP_00413	gene	1461	argH			
+IOOACKGP_00413	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+IOOACKGP_00414	gene	75				
+IOOACKGP_00414	tRNA	75				tRNA-Lys(ttt)
+IOOACKGP_00415	gene	77				
+IOOACKGP_00415	tRNA	77				tRNA-Asp(gtc)
+IOOACKGP_00416	gene	678				
+IOOACKGP_00416	CDS	678				hypothetical protein
+IOOACKGP_00417	gene	1077	hemA_1			
+IOOACKGP_00417	CDS	1077	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+IOOACKGP_00418	gene	243				
+IOOACKGP_00418	CDS	243				hypothetical protein
+IOOACKGP_00419	gene	840	mimB			
+IOOACKGP_00419	CDS	840	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+IOOACKGP_00420	gene	801	cysQ_1			
+IOOACKGP_00420	CDS	801	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+IOOACKGP_00421	gene	1116				
+IOOACKGP_00421	CDS	1116				hypothetical protein
+IOOACKGP_00422	gene	1158				
+IOOACKGP_00422	CDS	1158				hypothetical protein
+IOOACKGP_00423	gene	309				
+IOOACKGP_00423	CDS	309				hypothetical protein
+IOOACKGP_00424	gene	1548	pccB			
+IOOACKGP_00424	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+IOOACKGP_00425	gene	1488	cfiB			
+IOOACKGP_00425	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+IOOACKGP_00426	gene	513				
+IOOACKGP_00426	CDS	513				hypothetical protein
+IOOACKGP_00427	gene	465	bcp_1			
+IOOACKGP_00427	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IOOACKGP_00428	gene	375	ndhC			
+IOOACKGP_00428	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+IOOACKGP_00429	gene	525	ndhK			
+IOOACKGP_00429	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+IOOACKGP_00430	gene	591	ndhJ			
+IOOACKGP_00430	CDS	591	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+IOOACKGP_00431	gene	1137	nqo4			
+IOOACKGP_00431	CDS	1137	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+IOOACKGP_00432	gene	1299	ndhA			
+IOOACKGP_00432	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+IOOACKGP_00433	gene	498	nuoI			
+IOOACKGP_00433	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+IOOACKGP_00434	gene	510				
+IOOACKGP_00434	CDS	510				hypothetical protein
+IOOACKGP_00435	gene	306	nuoK			
+IOOACKGP_00435	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+IOOACKGP_00436	gene	927	mrpA_1			
+IOOACKGP_00436	CDS	927	mrpA_1		COG1009	Na(+)/H(+) antiporter subunit A
+IOOACKGP_00437	gene	627	mrpA_2			
+IOOACKGP_00437	CDS	627	mrpA_2		COG1009	Na(+)/H(+) antiporter subunit A
+IOOACKGP_00438	gene	2079	ndhB_1			
+IOOACKGP_00438	CDS	2079	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IOOACKGP_00439	gene	1485	ndhB_2			
+IOOACKGP_00439	CDS	1485	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IOOACKGP_00440	gene	852				
+IOOACKGP_00440	CDS	852				hypothetical protein
+IOOACKGP_00441	gene	633				
+IOOACKGP_00441	CDS	633		1.-.-.-	COG5424	putative oxidoreductase CT_610
+IOOACKGP_00442	gene	74				
+IOOACKGP_00442	tRNA	74				tRNA-Met(cat)
+IOOACKGP_00443	gene	651	pyrE			
+IOOACKGP_00443	CDS	651	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+IOOACKGP_00444	gene	1083				
+IOOACKGP_00444	CDS	1083				hypothetical protein
+IOOACKGP_00445	gene	1107				
+IOOACKGP_00445	CDS	1107				hypothetical protein
+IOOACKGP_00446	gene	498				
+IOOACKGP_00446	CDS	498				hypothetical protein
+IOOACKGP_00447	gene	219				
+IOOACKGP_00447	CDS	219				hypothetical protein
+IOOACKGP_00448	gene	828				
+IOOACKGP_00448	CDS	828				hypothetical protein
+IOOACKGP_00449	gene	1788	btuD			
+IOOACKGP_00449	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IOOACKGP_00450	gene	112				
+IOOACKGP_00450	rRNA	112				5S ribosomal RNA
+IOOACKGP_00451	gene	234				
+IOOACKGP_00451	CDS	234				hypothetical protein
+IOOACKGP_00452	gene	1479	pepA			
+IOOACKGP_00452	CDS	1479	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+IOOACKGP_00453	gene	378				
+IOOACKGP_00453	CDS	378				hypothetical protein
+IOOACKGP_00454	gene	1689	dxs			
+IOOACKGP_00454	CDS	1689	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+IOOACKGP_00455	gene	975	aptB			
+IOOACKGP_00455	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+IOOACKGP_00456	gene	672	tal			
+IOOACKGP_00456	CDS	672	tal	2.2.1.2	COG0176	Transaldolase
+IOOACKGP_00457	gene	273				
+IOOACKGP_00457	CDS	273				hypothetical protein
+IOOACKGP_00458	gene	813				
+IOOACKGP_00458	CDS	813				hypothetical protein
+IOOACKGP_00459	gene	1017	corA			
+IOOACKGP_00459	CDS	1017	corA		COG0598	Cobalt/magnesium transport protein CorA
+IOOACKGP_00460	gene	74				
+IOOACKGP_00460	tRNA	74				tRNA-His(gtg)
+IOOACKGP_00461	gene	759				
+IOOACKGP_00461	CDS	759				hypothetical protein
+IOOACKGP_00462	gene	270				
+IOOACKGP_00462	CDS	270				hypothetical protein
+IOOACKGP_00463	gene	309	bnzC			
+IOOACKGP_00463	CDS	309	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+IOOACKGP_00464	gene	705				
+IOOACKGP_00464	CDS	705				hypothetical protein
+IOOACKGP_00465	gene	870	yisK			
+IOOACKGP_00465	CDS	870	yisK		COG0179	putative protein YisK
+IOOACKGP_00466	gene	213				
+IOOACKGP_00466	CDS	213				hypothetical protein
+IOOACKGP_00467	gene	1524	gluQ			
+IOOACKGP_00467	CDS	1524	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+IOOACKGP_00468	gene	981				
+IOOACKGP_00468	CDS	981		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+IOOACKGP_00469	gene	669	idi			
+IOOACKGP_00469	CDS	669	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+IOOACKGP_00470	gene	753	argB			
+IOOACKGP_00470	CDS	753	argB	2.7.2.8		Acetylglutamate kinase
+IOOACKGP_00471	gene	948	galK			
+IOOACKGP_00471	CDS	948	galK	2.7.1.6		Galactokinase
+IOOACKGP_00472	gene	834				
+IOOACKGP_00472	CDS	834				hypothetical protein
+IOOACKGP_00473	gene	624				
+IOOACKGP_00473	CDS	624				hypothetical protein
+IOOACKGP_00474	gene	1239	eno			
+IOOACKGP_00474	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+IOOACKGP_00475	gene	237				
+IOOACKGP_00475	CDS	237				hypothetical protein
+IOOACKGP_00476	gene	88				
+IOOACKGP_00476	tRNA	88				tRNA-Leu(gag)
+IOOACKGP_00477	gene	627				
+IOOACKGP_00477	CDS	627				hypothetical protein
+IOOACKGP_00478	gene	648	nnr_1			
+IOOACKGP_00478	CDS	648	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IOOACKGP_00479	gene	609	pksB			
+IOOACKGP_00479	CDS	609	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+IOOACKGP_00480	gene	1074	cobT			
+IOOACKGP_00480	CDS	1074	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+IOOACKGP_00481	gene	1761	glmS			
+IOOACKGP_00481	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IOOACKGP_00482	gene	564				
+IOOACKGP_00482	CDS	564				hypothetical protein
+IOOACKGP_00483	gene	567				
+IOOACKGP_00483	CDS	567				hypothetical protein
+IOOACKGP_00484	gene	312				
+IOOACKGP_00484	CDS	312				hypothetical protein
+IOOACKGP_00485	gene	504				
+IOOACKGP_00485	CDS	504				hypothetical protein
+IOOACKGP_00486	gene	1023				
+IOOACKGP_00486	CDS	1023				hypothetical protein
+IOOACKGP_00487	gene	1173				
+IOOACKGP_00487	CDS	1173				hypothetical protein
+IOOACKGP_00488	gene	3141				
+IOOACKGP_00488	CDS	3141				hypothetical protein
+IOOACKGP_00489	gene	1074				
+IOOACKGP_00489	CDS	1074				hypothetical protein
+IOOACKGP_00490	gene	1215				
+IOOACKGP_00490	CDS	1215				hypothetical protein
+IOOACKGP_00491	gene	324				
+IOOACKGP_00491	CDS	324				hypothetical protein
+IOOACKGP_00492	gene	1578				
+IOOACKGP_00492	CDS	1578				hypothetical protein
+IOOACKGP_00493	gene	783	larB			
+IOOACKGP_00493	CDS	783	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+IOOACKGP_00494	gene	915	mdh_1			
+IOOACKGP_00494	CDS	915	mdh_1	1.1.1.37		Malate dehydrogenase
+IOOACKGP_00495	gene	1233	larC			
+IOOACKGP_00495	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+IOOACKGP_00496	gene	807	larE			
+IOOACKGP_00496	CDS	807	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+IOOACKGP_00497	gene	1167	iscS			
+IOOACKGP_00497	CDS	1167	iscS	2.8.1.7		Cysteine desulfurase IscS
+IOOACKGP_00498	gene	801				
+IOOACKGP_00498	CDS	801				hypothetical protein
+IOOACKGP_00499	gene	849				
+IOOACKGP_00499	CDS	849				hypothetical protein
+IOOACKGP_00500	gene	174				
+IOOACKGP_00500	CDS	174				hypothetical protein
+IOOACKGP_00501	gene	855				
+IOOACKGP_00501	CDS	855				hypothetical protein
+IOOACKGP_00502	gene	822				
+IOOACKGP_00502	CDS	822				hypothetical protein
+IOOACKGP_00503	gene	252				
+IOOACKGP_00503	CDS	252				hypothetical protein
+IOOACKGP_00504	gene	3348	rpoB			
+IOOACKGP_00504	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+IOOACKGP_00505	gene	3792	rpoC			
+IOOACKGP_00505	CDS	3792	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+IOOACKGP_00506	gene	231				
+IOOACKGP_00506	CDS	231				hypothetical protein
+IOOACKGP_00507	gene	1182				
+IOOACKGP_00507	CDS	1182				hypothetical protein
+IOOACKGP_00508	gene	1458				
+IOOACKGP_00508	CDS	1458				hypothetical protein
+IOOACKGP_00509	gene	324				
+IOOACKGP_00509	CDS	324				hypothetical protein
+IOOACKGP_00510	gene	465	nusA			
+IOOACKGP_00510	CDS	465	nusA			Transcription termination/antitermination protein NusA
+IOOACKGP_00511	gene	438				
+IOOACKGP_00511	CDS	438				hypothetical protein
+IOOACKGP_00512	gene	600				
+IOOACKGP_00512	CDS	600				hypothetical protein
+IOOACKGP_00513	gene	330				
+IOOACKGP_00513	CDS	330				hypothetical protein
+IOOACKGP_00514	gene	705				
+IOOACKGP_00514	CDS	705				hypothetical protein
+IOOACKGP_00515	gene	1014				
+IOOACKGP_00515	CDS	1014				hypothetical protein
+IOOACKGP_00516	gene	600	drgA			
+IOOACKGP_00516	CDS	600	drgA			Protein DrgA
+IOOACKGP_00517	gene	216				
+IOOACKGP_00517	CDS	216				hypothetical protein
+IOOACKGP_00518	gene	2880	valS_2			
+IOOACKGP_00518	CDS	2880	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+IOOACKGP_00519	gene	381				
+IOOACKGP_00519	CDS	381				hypothetical protein
+IOOACKGP_00520	gene	2316	alaS			
+IOOACKGP_00520	CDS	2316	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+IOOACKGP_00521	gene	510				
+IOOACKGP_00521	CDS	510				hypothetical protein
+IOOACKGP_00522	gene	294				
+IOOACKGP_00522	CDS	294				hypothetical protein
+IOOACKGP_00523	gene	294				
+IOOACKGP_00523	CDS	294				hypothetical protein
+IOOACKGP_00524	gene	348				
+IOOACKGP_00524	CDS	348				hypothetical protein
+IOOACKGP_00525	gene	867				
+IOOACKGP_00525	CDS	867				hypothetical protein
+IOOACKGP_00526	gene	663	rplA			
+IOOACKGP_00526	CDS	663	rplA		COG0081	50S ribosomal protein L1
+IOOACKGP_00527	gene	456	lrp			
+IOOACKGP_00527	CDS	456	lrp		COG1522	Leucine-responsive regulatory protein
+IOOACKGP_00528	gene	483	rplK			
+IOOACKGP_00528	CDS	483	rplK		COG0080	50S ribosomal protein L11
+IOOACKGP_00529	gene	459				
+IOOACKGP_00529	CDS	459				hypothetical protein
+IOOACKGP_00530	gene	174				
+IOOACKGP_00530	CDS	174				hypothetical protein
+IOOACKGP_00531	gene	777				
+IOOACKGP_00531	CDS	777				hypothetical protein
+IOOACKGP_00532	gene	300	ogt			
+IOOACKGP_00532	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+IOOACKGP_00533	gene	456				
+IOOACKGP_00533	CDS	456				hypothetical protein
+IOOACKGP_00534	gene	405				
+IOOACKGP_00534	CDS	405				hypothetical protein
+IOOACKGP_00535	gene	1605	pckA			
+IOOACKGP_00535	CDS	1605	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+IOOACKGP_00536	gene	2052				
+IOOACKGP_00536	CDS	2052				hypothetical protein
+IOOACKGP_00537	gene	621	sodA_1			
+IOOACKGP_00537	CDS	621	sodA_1	1.15.1.1		Superoxide dismutase [Mn]
+IOOACKGP_00538	gene	426	pfdA			
+IOOACKGP_00538	CDS	426	pfdA			Prefoldin subunit alpha
+IOOACKGP_00539	gene	1455	ftsY			
+IOOACKGP_00539	CDS	1455	ftsY			Signal recognition particle receptor FtsY
+IOOACKGP_00540	gene	912	argF			
+IOOACKGP_00540	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+IOOACKGP_00541	gene	483				
+IOOACKGP_00541	CDS	483				hypothetical protein
+IOOACKGP_00542	gene	828				
+IOOACKGP_00542	CDS	828				hypothetical protein
+IOOACKGP_00543	gene	468				
+IOOACKGP_00543	CDS	468				hypothetical protein
+IOOACKGP_00544	gene	426				
+IOOACKGP_00544	CDS	426				hypothetical protein
+IOOACKGP_00545	gene	111				
+IOOACKGP_00545	CDS	111				hypothetical protein
+IOOACKGP_00546	gene	1290	secY			
+IOOACKGP_00546	CDS	1290	secY			Protein translocase subunit SecY
+IOOACKGP_00547	gene	129				
+IOOACKGP_00547	CDS	129				hypothetical protein
+IOOACKGP_00548	gene	450				
+IOOACKGP_00548	CDS	450				hypothetical protein
+IOOACKGP_00549	gene	645				
+IOOACKGP_00549	CDS	645				hypothetical protein
+IOOACKGP_00550	gene	561	cmk			
+IOOACKGP_00550	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+IOOACKGP_00551	gene	999	truB			
+IOOACKGP_00551	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+IOOACKGP_00552	gene	447				
+IOOACKGP_00552	CDS	447				hypothetical protein
+IOOACKGP_00553	gene	1311	lhgD			
+IOOACKGP_00553	CDS	1311	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+IOOACKGP_00554	gene	267				
+IOOACKGP_00554	CDS	267				hypothetical protein
+IOOACKGP_00555	gene	375				
+IOOACKGP_00555	CDS	375				hypothetical protein
+IOOACKGP_00556	gene	972	ghrB			
+IOOACKGP_00556	CDS	972	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+IOOACKGP_00557	gene	141				
+IOOACKGP_00557	CDS	141				hypothetical protein
+IOOACKGP_00558	gene	1911	korA			
+IOOACKGP_00558	CDS	1911	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+IOOACKGP_00559	gene	963				
+IOOACKGP_00559	CDS	963				hypothetical protein
+IOOACKGP_00560	gene	441				
+IOOACKGP_00560	CDS	441				hypothetical protein
+IOOACKGP_00561	gene	537				
+IOOACKGP_00561	CDS	537				hypothetical protein
+IOOACKGP_00562	gene	330				
+IOOACKGP_00562	CDS	330				hypothetical protein
+IOOACKGP_00563	gene	549				
+IOOACKGP_00563	CDS	549				hypothetical protein
+IOOACKGP_00564	gene	777	fbiB_1			
+IOOACKGP_00564	CDS	777	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+IOOACKGP_00565	gene	711				
+IOOACKGP_00565	CDS	711				hypothetical protein
+IOOACKGP_00566	gene	1272	dmdA			
+IOOACKGP_00566	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+IOOACKGP_00567	gene	486	DmdB			
+IOOACKGP_00567	CDS	486	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+IOOACKGP_00568	gene	1416	leuC			
+IOOACKGP_00568	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+IOOACKGP_00569	gene	585	leuD1			
+IOOACKGP_00569	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+IOOACKGP_00570	gene	729	cugP_1			
+IOOACKGP_00570	CDS	729	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IOOACKGP_00571	gene	450	rpsI			
+IOOACKGP_00571	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+IOOACKGP_00572	gene	465				
+IOOACKGP_00572	CDS	465				hypothetical protein
+IOOACKGP_00573	gene	348				
+IOOACKGP_00573	CDS	348				hypothetical protein
+IOOACKGP_00574	gene	600				
+IOOACKGP_00574	CDS	600				hypothetical protein
+IOOACKGP_00575	gene	456				
+IOOACKGP_00575	CDS	456				hypothetical protein
+IOOACKGP_00576	gene	291				
+IOOACKGP_00576	CDS	291				hypothetical protein
+IOOACKGP_00577	gene	339				
+IOOACKGP_00577	CDS	339				hypothetical protein
+IOOACKGP_00578	gene	1287	mntH			
+IOOACKGP_00578	CDS	1287	mntH		COG1914	Divalent metal cation transporter MntH
+IOOACKGP_00579	gene	1869	cadA			
+IOOACKGP_00579	CDS	1869	cadA	3.6.3.3		putative cadmium-transporting ATPase
+IOOACKGP_00580	gene	570				
+IOOACKGP_00580	CDS	570				hypothetical protein
+IOOACKGP_00581	gene	1446				
+IOOACKGP_00581	CDS	1446				hypothetical protein
+IOOACKGP_00582	gene	687				
+IOOACKGP_00582	CDS	687				hypothetical protein
+IOOACKGP_00583	gene	681				
+IOOACKGP_00583	CDS	681				hypothetical protein
+IOOACKGP_00584	gene	735	rph_1			
+IOOACKGP_00584	CDS	735	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+IOOACKGP_00585	gene	819	rph_2			
+IOOACKGP_00585	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+IOOACKGP_00586	gene	195				
+IOOACKGP_00586	CDS	195				hypothetical protein
+IOOACKGP_00587	gene	156				
+IOOACKGP_00587	CDS	156				hypothetical protein
+IOOACKGP_00588	gene	978				
+IOOACKGP_00588	CDS	978				hypothetical protein
+IOOACKGP_00589	gene	360				
+IOOACKGP_00589	CDS	360				hypothetical protein
+IOOACKGP_00590	gene	2256				
+IOOACKGP_00590	CDS	2256				hypothetical protein
+IOOACKGP_00591	gene	1341				
+IOOACKGP_00591	CDS	1341				hypothetical protein
+IOOACKGP_00592	gene	1215	thrC_1			
+IOOACKGP_00592	CDS	1215	thrC_1	4.2.3.1	COG0498	Threonine synthase
+IOOACKGP_00593	gene	612				
+IOOACKGP_00593	CDS	612				hypothetical protein
+IOOACKGP_00594	gene	330	hisI			
+IOOACKGP_00594	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+IOOACKGP_00595	gene	240	hisF_1			
+IOOACKGP_00595	CDS	240	hisF_1	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+IOOACKGP_00596	gene	558	hisF_2			
+IOOACKGP_00596	CDS	558	hisF_2	4.3.2.10		Imidazole glycerol phosphate synthase subunit HisF
+IOOACKGP_00597	gene	366	hisA_1			
+IOOACKGP_00597	CDS	366	hisA_1	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+IOOACKGP_00598	gene	354	hisA_2			
+IOOACKGP_00598	CDS	354	hisA_2	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+IOOACKGP_00599	gene	609	hisH			
+IOOACKGP_00599	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+IOOACKGP_00600	gene	588	hisB			
+IOOACKGP_00600	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+IOOACKGP_00601	gene	975				
+IOOACKGP_00601	CDS	975				hypothetical protein
+IOOACKGP_00602	gene	546	hisC_1			
+IOOACKGP_00602	CDS	546	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+IOOACKGP_00603	gene	525	hisC_2			
+IOOACKGP_00603	CDS	525	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+IOOACKGP_00604	gene	342	hisD_1			
+IOOACKGP_00604	CDS	342	hisD_1	1.1.1.23	COG0141	Histidinol dehydrogenase
+IOOACKGP_00605	gene	876	hisD_2			
+IOOACKGP_00605	CDS	876	hisD_2	1.1.1.23		Histidinol dehydrogenase
+IOOACKGP_00606	gene	654	hisG_1			
+IOOACKGP_00606	CDS	654	hisG_1	2.4.2.17		ATP phosphoribosyltransferase
+IOOACKGP_00607	gene	279	hisG_2			
+IOOACKGP_00607	CDS	279	hisG_2	2.4.2.17		ATP phosphoribosyltransferase
+IOOACKGP_00608	gene	864				
+IOOACKGP_00608	CDS	864				hypothetical protein
+IOOACKGP_00609	gene	816	mvaA_1			
+IOOACKGP_00609	CDS	816	mvaA_1	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IOOACKGP_00610	gene	393	mvaA_2			
+IOOACKGP_00610	CDS	393	mvaA_2	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IOOACKGP_00611	gene	1092	yliI			
+IOOACKGP_00611	CDS	1092	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+IOOACKGP_00612	gene	846				
+IOOACKGP_00612	CDS	846				hypothetical protein
+IOOACKGP_00613	gene	345				
+IOOACKGP_00613	CDS	345				hypothetical protein
+IOOACKGP_00614	gene	996				
+IOOACKGP_00614	CDS	996				hypothetical protein
+IOOACKGP_00615	gene	603				
+IOOACKGP_00615	CDS	603				hypothetical protein
+IOOACKGP_00616	gene	1071	ccr_1			
+IOOACKGP_00616	CDS	1071	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+IOOACKGP_00617	gene	552				
+IOOACKGP_00617	CDS	552				hypothetical protein
+IOOACKGP_00618	gene	423	pheA_1			
+IOOACKGP_00618	CDS	423	pheA_1		COG0077	Bifunctional chorismate mutase/prephenate dehydratase
+IOOACKGP_00619	gene	354	pheA_2			
+IOOACKGP_00619	CDS	354	pheA_2			Bifunctional chorismate mutase/prephenate dehydratase
+IOOACKGP_00620	gene	468				
+IOOACKGP_00620	CDS	468				hypothetical protein
+IOOACKGP_00621	gene	1434	guaB			
+IOOACKGP_00621	CDS	1434	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+IOOACKGP_00622	gene	876	folP			
+IOOACKGP_00622	CDS	876	folP	2.5.1.15		Dihydropteroate synthase
+IOOACKGP_00623	gene	735				
+IOOACKGP_00623	CDS	735				hypothetical protein
+IOOACKGP_00624	gene	594				
+IOOACKGP_00624	CDS	594				hypothetical protein
+IOOACKGP_00625	gene	1524	guaA_1			
+IOOACKGP_00625	CDS	1524	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+IOOACKGP_00626	gene	1152				
+IOOACKGP_00626	CDS	1152		1.1.1.38		NAD-dependent malic enzyme
+IOOACKGP_00627	gene	1434				
+IOOACKGP_00627	CDS	1434		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+IOOACKGP_00628	gene	471				
+IOOACKGP_00628	CDS	471				hypothetical protein
+IOOACKGP_00629	gene	261				
+IOOACKGP_00629	CDS	261				hypothetical protein
+IOOACKGP_00630	gene	495				
+IOOACKGP_00630	CDS	495				hypothetical protein
+IOOACKGP_00631	gene	864	mak			
+IOOACKGP_00631	CDS	864	mak	2.7.1.4	COG1940	Fructokinase
+IOOACKGP_00632	gene	1596	groL_1			
+IOOACKGP_00632	CDS	1596	groL_1		COG0459	60 kDa chaperonin
+IOOACKGP_00633	gene	1764	ade			
+IOOACKGP_00633	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+IOOACKGP_00634	gene	282				
+IOOACKGP_00634	CDS	282				hypothetical protein
+IOOACKGP_00635	gene	198				
+IOOACKGP_00635	CDS	198				hypothetical protein
+IOOACKGP_00636	gene	585	mobA			
+IOOACKGP_00636	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+IOOACKGP_00637	gene	726	cobS			
+IOOACKGP_00637	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+IOOACKGP_00638	gene	972	cobD_1			
+IOOACKGP_00638	CDS	972	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+IOOACKGP_00639	gene	564	cobQ_1			
+IOOACKGP_00639	CDS	564	cobQ_1			Cobyric acid synthase
+IOOACKGP_00640	gene	186	cobQ_2			
+IOOACKGP_00640	CDS	186	cobQ_2			Cobyric acid synthase
+IOOACKGP_00641	gene	1074	cobD_2			
+IOOACKGP_00641	CDS	1074	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+IOOACKGP_00642	gene	1068	asd2			
+IOOACKGP_00642	CDS	1068	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+IOOACKGP_00643	gene	363				
+IOOACKGP_00643	CDS	363				hypothetical protein
+IOOACKGP_00644	gene	930	ctaB_1			
+IOOACKGP_00644	CDS	930	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+IOOACKGP_00645	gene	210				
+IOOACKGP_00645	CDS	210				hypothetical protein
+IOOACKGP_00646	gene	474				
+IOOACKGP_00646	CDS	474				hypothetical protein
+IOOACKGP_00647	gene	375	cheY_1			
+IOOACKGP_00647	CDS	375	cheY_1		COG0784	Chemotaxis protein CheY
+IOOACKGP_00648	gene	378				
+IOOACKGP_00648	CDS	378				hypothetical protein
+IOOACKGP_00649	gene	687				
+IOOACKGP_00649	CDS	687				hypothetical protein
+IOOACKGP_00650	gene	423				
+IOOACKGP_00650	CDS	423				hypothetical protein
+IOOACKGP_00651	gene	504				
+IOOACKGP_00651	CDS	504				hypothetical protein
+IOOACKGP_00652	gene	1332	ubiD_1			
+IOOACKGP_00652	CDS	1332	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IOOACKGP_00653	gene	282				
+IOOACKGP_00653	CDS	282				hypothetical protein
+IOOACKGP_00654	gene	570				
+IOOACKGP_00654	CDS	570				hypothetical protein
+IOOACKGP_00655	gene	129				
+IOOACKGP_00655	CDS	129				hypothetical protein
+IOOACKGP_00656	gene	360				
+IOOACKGP_00656	CDS	360				hypothetical protein
+IOOACKGP_00657	gene	342				
+IOOACKGP_00657	CDS	342				hypothetical protein
+IOOACKGP_00658	gene	480				
+IOOACKGP_00658	CDS	480				hypothetical protein
+IOOACKGP_00659	gene	1044				
+IOOACKGP_00659	CDS	1044				hypothetical protein
+IOOACKGP_00660	gene	618				
+IOOACKGP_00660	CDS	618				hypothetical protein
+IOOACKGP_00661	gene	1152	hflX			
+IOOACKGP_00661	CDS	1152	hflX		COG2262	GTPase HflX
+IOOACKGP_00662	gene	237				
+IOOACKGP_00662	CDS	237				hypothetical protein
+IOOACKGP_00663	gene	282				
+IOOACKGP_00663	CDS	282				hypothetical protein
+IOOACKGP_00664	gene	516				
+IOOACKGP_00664	CDS	516				hypothetical protein
+IOOACKGP_00665	gene	1332	sad			
+IOOACKGP_00665	CDS	1332	sad	1.2.1.16	COG1012	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+IOOACKGP_00666	gene	276				
+IOOACKGP_00666	CDS	276				hypothetical protein
+IOOACKGP_00667	gene	558				
+IOOACKGP_00667	CDS	558				hypothetical protein
+IOOACKGP_00668	gene	252				
+IOOACKGP_00668	CDS	252				hypothetical protein
+IOOACKGP_00669	gene	657	ribD2			
+IOOACKGP_00669	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+IOOACKGP_00670	gene	1191	triA			
+IOOACKGP_00670	CDS	1191	triA	3.5.4.45		Melamine deaminase
+IOOACKGP_00671	gene	753				
+IOOACKGP_00671	CDS	753				hypothetical protein
+IOOACKGP_00672	gene	417	ribH			
+IOOACKGP_00672	CDS	417	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+IOOACKGP_00673	gene	666	ribBA			
+IOOACKGP_00673	CDS	666	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+IOOACKGP_00674	gene	585	ribE			
+IOOACKGP_00674	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+IOOACKGP_00675	gene	720				
+IOOACKGP_00675	CDS	720				hypothetical protein
+IOOACKGP_00676	gene	144				
+IOOACKGP_00676	CDS	144				hypothetical protein
+IOOACKGP_00677	gene	351	cheY_2			
+IOOACKGP_00677	CDS	351	cheY_2		COG0784	Chemotaxis protein CheY
+IOOACKGP_00678	gene	600				
+IOOACKGP_00678	CDS	600				hypothetical protein
+IOOACKGP_00679	gene	870	citE			
+IOOACKGP_00679	CDS	870	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+IOOACKGP_00680	gene	1080	ccr_2			
+IOOACKGP_00680	CDS	1080	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+IOOACKGP_00681	gene	279				
+IOOACKGP_00681	CDS	279				hypothetical protein
+IOOACKGP_00682	gene	453				
+IOOACKGP_00682	CDS	453				hypothetical protein
+IOOACKGP_00683	gene	303				
+IOOACKGP_00683	CDS	303				hypothetical protein
+IOOACKGP_00684	gene	75				
+IOOACKGP_00684	tRNA	75				tRNA-Gly(tcc)
+IOOACKGP_00685	gene	669				
+IOOACKGP_00685	CDS	669				hypothetical protein
+IOOACKGP_00686	gene	1119				
+IOOACKGP_00686	CDS	1119				hypothetical protein
+IOOACKGP_00687	gene	2652				
+IOOACKGP_00687	CDS	2652				hypothetical protein
+IOOACKGP_00688	gene	2094				
+IOOACKGP_00688	CDS	2094				hypothetical protein
+IOOACKGP_00689	gene	174				
+IOOACKGP_00689	CDS	174				hypothetical protein
+IOOACKGP_00690	gene	366				
+IOOACKGP_00690	CDS	366				hypothetical protein
+IOOACKGP_00691	gene	1155	fadA			
+IOOACKGP_00691	CDS	1155	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+IOOACKGP_00692	gene	513				
+IOOACKGP_00692	CDS	513				hypothetical protein
+IOOACKGP_00693	gene	807	ybeM			
+IOOACKGP_00693	CDS	807	ybeM	3.5.1.128		Deaminated glutathione amidase
+IOOACKGP_00694	gene	177				
+IOOACKGP_00694	CDS	177				hypothetical protein
+IOOACKGP_00695	gene	774				
+IOOACKGP_00695	CDS	774				hypothetical protein
+IOOACKGP_00696	gene	1266				
+IOOACKGP_00696	CDS	1266				hypothetical protein
+IOOACKGP_00697	gene	1566				
+IOOACKGP_00697	CDS	1566				hypothetical protein
+IOOACKGP_00698	gene	393				
+IOOACKGP_00698	CDS	393				hypothetical protein
+IOOACKGP_00699	gene	207				
+IOOACKGP_00699	CDS	207				hypothetical protein
+IOOACKGP_00700	gene	1668				
+IOOACKGP_00700	CDS	1668				hypothetical protein
+IOOACKGP_00701	gene	822				
+IOOACKGP_00701	CDS	822				hypothetical protein
+IOOACKGP_00702	gene	846				
+IOOACKGP_00702	CDS	846				hypothetical protein
+IOOACKGP_00703	gene	855				
+IOOACKGP_00703	CDS	855				hypothetical protein
+IOOACKGP_00704	gene	627				
+IOOACKGP_00704	CDS	627				hypothetical protein
+IOOACKGP_00705	gene	2787	vgb_1			
+IOOACKGP_00705	CDS	2787	vgb_1	4.2.99.-		Virginiamycin B lyase
+IOOACKGP_00706	gene	822	znuB			
+IOOACKGP_00706	CDS	822	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+IOOACKGP_00707	gene	723	mntB			
+IOOACKGP_00707	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+IOOACKGP_00708	gene	936	znuA			
+IOOACKGP_00708	CDS	936	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+IOOACKGP_00709	gene	384	nikR			
+IOOACKGP_00709	CDS	384	nikR			Nickel-responsive regulator
+IOOACKGP_00710	gene	1371				
+IOOACKGP_00710	CDS	1371				hypothetical protein
+IOOACKGP_00711	gene	711				
+IOOACKGP_00711	CDS	711				hypothetical protein
+IOOACKGP_00712	gene	930	pyrB			
+IOOACKGP_00712	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+IOOACKGP_00713	gene	462	pyrI			
+IOOACKGP_00713	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+IOOACKGP_00714	gene	309	atpH			
+IOOACKGP_00714	CDS	309	atpH			ATP synthase subunit c
+IOOACKGP_00715	gene	132				
+IOOACKGP_00715	CDS	132				hypothetical protein
+IOOACKGP_00716	gene	633	ntpD			
+IOOACKGP_00716	CDS	633	ntpD			V-type sodium ATPase subunit D
+IOOACKGP_00717	gene	1386	ntpB			
+IOOACKGP_00717	CDS	1386	ntpB			V-type sodium ATPase subunit B
+IOOACKGP_00718	gene	1779	atpA			
+IOOACKGP_00718	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+IOOACKGP_00719	gene	336	atpE			
+IOOACKGP_00719	CDS	336	atpE			V-type proton ATPase subunit E
+IOOACKGP_00720	gene	216				
+IOOACKGP_00720	CDS	216				hypothetical protein
+IOOACKGP_00721	gene	2109				
+IOOACKGP_00721	CDS	2109				hypothetical protein
+IOOACKGP_00722	gene	777	rhdA			
+IOOACKGP_00722	CDS	777	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+IOOACKGP_00723	gene	1545	nrgA_1			
+IOOACKGP_00723	CDS	1545	nrgA_1			Ammonium transporter
+IOOACKGP_00724	gene	216				
+IOOACKGP_00724	CDS	216				hypothetical protein
+IOOACKGP_00725	gene	432				
+IOOACKGP_00725	CDS	432				hypothetical protein
+IOOACKGP_00726	gene	1035	atpC			
+IOOACKGP_00726	CDS	1035	atpC			V-type ATP synthase subunit C
+IOOACKGP_00727	gene	192				
+IOOACKGP_00727	CDS	192				hypothetical protein
+IOOACKGP_00728	gene	645				
+IOOACKGP_00728	CDS	645				hypothetical protein
+IOOACKGP_00729	gene	111				
+IOOACKGP_00729	CDS	111				hypothetical protein
+IOOACKGP_00730	gene	165				
+IOOACKGP_00730	CDS	165				hypothetical protein
+IOOACKGP_00731	gene	354				
+IOOACKGP_00731	CDS	354				hypothetical protein
+IOOACKGP_00732	gene	357				
+IOOACKGP_00732	CDS	357				hypothetical protein
+IOOACKGP_00733	gene	684	pyrH			
+IOOACKGP_00733	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+IOOACKGP_00734	gene	1236				
+IOOACKGP_00734	CDS	1236				hypothetical protein
+IOOACKGP_00735	gene	582	tmk			
+IOOACKGP_00735	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+IOOACKGP_00736	gene	393				
+IOOACKGP_00736	CDS	393				hypothetical protein
+IOOACKGP_00737	gene	1551	ubiB			
+IOOACKGP_00737	CDS	1551	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+IOOACKGP_00738	gene	387				
+IOOACKGP_00738	CDS	387				hypothetical protein
+IOOACKGP_00739	gene	249				
+IOOACKGP_00739	CDS	249				hypothetical protein
+IOOACKGP_00740	gene	1293				
+IOOACKGP_00740	CDS	1293				hypothetical protein
+IOOACKGP_00741	gene	705	lolD			
+IOOACKGP_00741	CDS	705	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+IOOACKGP_00742	gene	1188				
+IOOACKGP_00742	CDS	1188				hypothetical protein
+IOOACKGP_00743	gene	867				
+IOOACKGP_00743	CDS	867				hypothetical protein
+IOOACKGP_00744	gene	516	nudF			
+IOOACKGP_00744	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+IOOACKGP_00745	gene	981				
+IOOACKGP_00745	CDS	981				hypothetical protein
+IOOACKGP_00746	gene	915	thrB_1			
+IOOACKGP_00746	CDS	915	thrB_1	2.7.1.39		Homoserine kinase
+IOOACKGP_00747	gene	765				
+IOOACKGP_00747	CDS	765				hypothetical protein
+IOOACKGP_00748	gene	840	panB			
+IOOACKGP_00748	CDS	840	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+IOOACKGP_00749	gene	1260	coaBC			
+IOOACKGP_00749	CDS	1260	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+IOOACKGP_00750	gene	168				
+IOOACKGP_00750	CDS	168				hypothetical protein
+IOOACKGP_00751	gene	846	COQ5			
+IOOACKGP_00751	CDS	846	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IOOACKGP_00752	gene	495				
+IOOACKGP_00752	CDS	495				hypothetical protein
+IOOACKGP_00753	gene	1065	pepE			
+IOOACKGP_00753	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+IOOACKGP_00754	gene	1038	thiI_1			
+IOOACKGP_00754	CDS	1038	thiI_1	2.8.1.4		tRNA sulfurtransferase
+IOOACKGP_00755	gene	279				
+IOOACKGP_00755	CDS	279				hypothetical protein
+IOOACKGP_00756	gene	1938	rnj			
+IOOACKGP_00756	CDS	1938	rnj	3.1.-.-		Ribonuclease J
+IOOACKGP_00757	gene	633	prcB_1			
+IOOACKGP_00757	CDS	633	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+IOOACKGP_00758	gene	1029	egsA			
+IOOACKGP_00758	CDS	1029	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+IOOACKGP_00759	gene	747				
+IOOACKGP_00759	CDS	747				hypothetical protein
+IOOACKGP_00760	gene	1146				
+IOOACKGP_00760	CDS	1146		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+IOOACKGP_00761	gene	495				
+IOOACKGP_00761	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+IOOACKGP_00762	gene	1026	rtcA			
+IOOACKGP_00762	CDS	1026	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+IOOACKGP_00763	gene	498				
+IOOACKGP_00763	CDS	498				hypothetical protein
+IOOACKGP_00764	gene	495				
+IOOACKGP_00764	CDS	495				hypothetical protein
+IOOACKGP_00765	gene	75				
+IOOACKGP_00765	tRNA	75				tRNA-Val(gac)
+IOOACKGP_00766	gene	711	bluB			
+IOOACKGP_00766	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+IOOACKGP_00767	gene	531				
+IOOACKGP_00767	CDS	531		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+IOOACKGP_00768	gene	519				
+IOOACKGP_00768	CDS	519				hypothetical protein
+IOOACKGP_00769	gene	486				
+IOOACKGP_00769	CDS	486				hypothetical protein
+IOOACKGP_00770	gene	228				
+IOOACKGP_00770	CDS	228				hypothetical protein
+IOOACKGP_00771	gene	477	ppiB			
+IOOACKGP_00771	CDS	477	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+IOOACKGP_00772	gene	993				
+IOOACKGP_00772	CDS	993				hypothetical protein
+IOOACKGP_00773	gene	177				
+IOOACKGP_00773	CDS	177				hypothetical protein
+IOOACKGP_00774	gene	192				
+IOOACKGP_00774	CDS	192				hypothetical protein
+IOOACKGP_00775	gene	489				
+IOOACKGP_00775	CDS	489				hypothetical protein
+IOOACKGP_00776	gene	453				
+IOOACKGP_00776	CDS	453				hypothetical protein
+IOOACKGP_00777	gene	894	RBKS_1			
+IOOACKGP_00777	CDS	894	RBKS_1	2.7.1.15		Ribokinase
+IOOACKGP_00778	gene	345				
+IOOACKGP_00778	CDS	345				hypothetical protein
+IOOACKGP_00779	gene	471				
+IOOACKGP_00779	CDS	471				hypothetical protein
+IOOACKGP_00780	gene	879	wbpE			
+IOOACKGP_00780	CDS	879	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+IOOACKGP_00781	gene	147				
+IOOACKGP_00781	CDS	147				hypothetical protein
+IOOACKGP_00782	gene	579				
+IOOACKGP_00782	CDS	579				hypothetical protein
+IOOACKGP_00783	gene	390				
+IOOACKGP_00783	CDS	390				hypothetical protein
+IOOACKGP_00784	gene	228				
+IOOACKGP_00784	CDS	228				hypothetical protein
+IOOACKGP_00785	gene	351				
+IOOACKGP_00785	CDS	351				hypothetical protein
+IOOACKGP_00786	gene	219				
+IOOACKGP_00786	CDS	219				hypothetical protein
+IOOACKGP_00787	gene	1047				
+IOOACKGP_00787	CDS	1047				hypothetical protein
+IOOACKGP_00788	gene	795				
+IOOACKGP_00788	CDS	795		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+IOOACKGP_00789	gene	1461				
+IOOACKGP_00789	CDS	1461				hypothetical protein
+IOOACKGP_00790	gene	1404	thrA			
+IOOACKGP_00790	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+IOOACKGP_00791	gene	747				
+IOOACKGP_00791	CDS	747				hypothetical protein
+IOOACKGP_00792	gene	312				
+IOOACKGP_00792	CDS	312				hypothetical protein
+IOOACKGP_00793	gene	279				
+IOOACKGP_00793	CDS	279				hypothetical protein
+IOOACKGP_00794	gene	537				
+IOOACKGP_00794	CDS	537				hypothetical protein
+IOOACKGP_00795	gene	153				
+IOOACKGP_00795	CDS	153				hypothetical protein
+IOOACKGP_00796	gene	147				
+IOOACKGP_00796	CDS	147				hypothetical protein
+IOOACKGP_00797	gene	498				
+IOOACKGP_00797	CDS	498				hypothetical protein
+IOOACKGP_00798	gene	1059				
+IOOACKGP_00798	CDS	1059				hypothetical protein
+IOOACKGP_00799	gene	654	kynB			
+IOOACKGP_00799	CDS	654	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+IOOACKGP_00800	gene	273				
+IOOACKGP_00800	CDS	273				hypothetical protein
+IOOACKGP_00801	gene	1152	sufS			
+IOOACKGP_00801	CDS	1152	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+IOOACKGP_00802	gene	618				
+IOOACKGP_00802	CDS	618				hypothetical protein
+IOOACKGP_00803	gene	300	ndhI_2			
+IOOACKGP_00803	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IOOACKGP_00804	gene	318	glnB_2			
+IOOACKGP_00804	CDS	318	glnB_2		COG0347	Nitrogen regulatory protein P-II
+IOOACKGP_00805	gene	1764				
+IOOACKGP_00805	CDS	1764				hypothetical protein
+IOOACKGP_00806	gene	1155	dnaJ_1			
+IOOACKGP_00806	CDS	1155	dnaJ_1			Chaperone protein DnaJ
+IOOACKGP_00807	gene	423	teaD_1			
+IOOACKGP_00807	CDS	423	teaD_1		COG0589	TRAP-T-associated universal stress protein TeaD
+IOOACKGP_00808	gene	102				
+IOOACKGP_00808	CDS	102				hypothetical protein
+IOOACKGP_00809	gene	903	mdh_2			
+IOOACKGP_00809	CDS	903	mdh_2	1.1.1.37		Malate dehydrogenase
+IOOACKGP_00810	gene	330				
+IOOACKGP_00810	CDS	330				hypothetical protein
+IOOACKGP_00811	gene	852	IMPDH_1			
+IOOACKGP_00811	CDS	852	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IOOACKGP_00812	gene	879	prs			
+IOOACKGP_00812	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+IOOACKGP_00813	gene	948				
+IOOACKGP_00813	CDS	948				hypothetical protein
+IOOACKGP_00814	gene	900	rnz			
+IOOACKGP_00814	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+IOOACKGP_00815	gene	717	cobB			
+IOOACKGP_00815	CDS	717	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+IOOACKGP_00816	gene	399				
+IOOACKGP_00816	CDS	399				hypothetical protein
+IOOACKGP_00817	gene	549				
+IOOACKGP_00817	CDS	549				hypothetical protein
+IOOACKGP_00818	gene	543	thpR			
+IOOACKGP_00818	CDS	543	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+IOOACKGP_00819	gene	1332				
+IOOACKGP_00819	CDS	1332				hypothetical protein
+IOOACKGP_00820	gene	762				
+IOOACKGP_00820	CDS	762				hypothetical protein
+IOOACKGP_00821	gene	74				
+IOOACKGP_00821	tRNA	74				tRNA-Pro(ggg)
+IOOACKGP_00822	gene	210				
+IOOACKGP_00822	CDS	210				hypothetical protein
+IOOACKGP_00823	gene	1149				
+IOOACKGP_00823	CDS	1149		1.8.5.4	COG0446	Sulfide-quinone reductase
+IOOACKGP_00824	gene	564				
+IOOACKGP_00824	CDS	564		1.-.-.-		putative oxidoreductase
+IOOACKGP_00825	gene	261				
+IOOACKGP_00825	CDS	261				hypothetical protein
+IOOACKGP_00826	gene	234				
+IOOACKGP_00826	CDS	234				hypothetical protein
+IOOACKGP_00827	gene	285				
+IOOACKGP_00827	CDS	285				hypothetical protein
+IOOACKGP_00828	gene	558				
+IOOACKGP_00828	CDS	558				hypothetical protein
+IOOACKGP_00829	gene	1461	glnA			
+IOOACKGP_00829	CDS	1461	glnA	6.3.1.2	COG0174	Glutamine synthetase
+IOOACKGP_00830	gene	258				
+IOOACKGP_00830	CDS	258				hypothetical protein
+IOOACKGP_00831	gene	1704	groL_2			
+IOOACKGP_00831	CDS	1704	groL_2		COG0459	60 kDa chaperonin
+IOOACKGP_00832	gene	1239	glyA			
+IOOACKGP_00832	CDS	1239	glyA	2.1.2.1		Serine hydroxymethyltransferase
+IOOACKGP_00833	gene	3381				
+IOOACKGP_00833	CDS	3381				hypothetical protein
+IOOACKGP_00834	gene	750				
+IOOACKGP_00834	CDS	750		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+IOOACKGP_00835	gene	363				
+IOOACKGP_00835	CDS	363				hypothetical protein
+IOOACKGP_00836	gene	657				
+IOOACKGP_00836	CDS	657				hypothetical protein
+IOOACKGP_00837	gene	162				
+IOOACKGP_00837	CDS	162				hypothetical protein
+IOOACKGP_00838	gene	402				
+IOOACKGP_00838	CDS	402				hypothetical protein
+IOOACKGP_00839	gene	1206				
+IOOACKGP_00839	CDS	1206				hypothetical protein
+IOOACKGP_00840	gene	1449				
+IOOACKGP_00840	CDS	1449				hypothetical protein
+IOOACKGP_00841	gene	612				
+IOOACKGP_00841	CDS	612				hypothetical protein
+IOOACKGP_00842	gene	933				
+IOOACKGP_00842	CDS	933				hypothetical protein
+IOOACKGP_00843	gene	717				
+IOOACKGP_00843	CDS	717				hypothetical protein
+IOOACKGP_00844	gene	492				
+IOOACKGP_00844	CDS	492				hypothetical protein
+IOOACKGP_00845	gene	1530				
+IOOACKGP_00845	CDS	1530				hypothetical protein
+IOOACKGP_00846	gene	1359				
+IOOACKGP_00846	CDS	1359		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+IOOACKGP_00847	gene	540				
+IOOACKGP_00847	CDS	540				hypothetical protein
+IOOACKGP_00848	gene	498				
+IOOACKGP_00848	CDS	498				hypothetical protein
+IOOACKGP_00849	gene	2148	ftsH_1			
+IOOACKGP_00849	CDS	2148	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IOOACKGP_00850	gene	219				
+IOOACKGP_00850	CDS	219				hypothetical protein
+IOOACKGP_00851	gene	381	crcB_1			
+IOOACKGP_00851	CDS	381	crcB_1			Putative fluoride ion transporter CrcB
+IOOACKGP_00852	gene	441	hrp1			
+IOOACKGP_00852	CDS	441	hrp1		COG0517	Hypoxic response protein 1
+IOOACKGP_00853	gene	231				
+IOOACKGP_00853	CDS	231				hypothetical protein
+IOOACKGP_00854	gene	951				
+IOOACKGP_00854	CDS	951				hypothetical protein
+IOOACKGP_00855	gene	165				
+IOOACKGP_00855	CDS	165				hypothetical protein
+IOOACKGP_00856	gene	330				
+IOOACKGP_00856	CDS	330				hypothetical protein
+IOOACKGP_00857	gene	588				
+IOOACKGP_00857	CDS	588				hypothetical protein
+IOOACKGP_00858	gene	300				
+IOOACKGP_00858	CDS	300				hypothetical protein
+IOOACKGP_00859	gene	429				
+IOOACKGP_00859	CDS	429				hypothetical protein
+IOOACKGP_00860	gene	804	bacC_1			
+IOOACKGP_00860	CDS	804	bacC_1	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+IOOACKGP_00861	gene	207				
+IOOACKGP_00861	CDS	207				hypothetical protein
+IOOACKGP_00862	gene	774	cysQ_2			
+IOOACKGP_00862	CDS	774	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+IOOACKGP_00863	gene	495	cysC_1			
+IOOACKGP_00863	CDS	495	cysC_1	2.7.1.25		putative adenylyl-sulfate kinase
+IOOACKGP_00864	gene	543				
+IOOACKGP_00864	CDS	543				hypothetical protein
+IOOACKGP_00865	gene	642				
+IOOACKGP_00865	CDS	642				hypothetical protein
+IOOACKGP_00866	gene	471				
+IOOACKGP_00866	CDS	471				hypothetical protein
+IOOACKGP_00867	gene	288				
+IOOACKGP_00867	CDS	288				hypothetical protein
+IOOACKGP_00868	gene	1029				
+IOOACKGP_00868	CDS	1029				hypothetical protein
+IOOACKGP_00869	gene	801				
+IOOACKGP_00869	CDS	801				hypothetical protein
+IOOACKGP_00870	gene	195				
+IOOACKGP_00870	CDS	195				hypothetical protein
+IOOACKGP_00871	gene	714	queE			
+IOOACKGP_00871	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+IOOACKGP_00872	gene	558	folE			
+IOOACKGP_00872	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+IOOACKGP_00873	gene	252				
+IOOACKGP_00873	CDS	252				hypothetical protein
+IOOACKGP_00874	gene	675	queC			
+IOOACKGP_00874	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+IOOACKGP_00875	gene	924	thrB_2			
+IOOACKGP_00875	CDS	924	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+IOOACKGP_00876	gene	759				
+IOOACKGP_00876	CDS	759				hypothetical protein
+IOOACKGP_00877	gene	156				
+IOOACKGP_00877	CDS	156				hypothetical protein
+IOOACKGP_00878	gene	1017				
+IOOACKGP_00878	CDS	1017				hypothetical protein
+IOOACKGP_00879	gene	615				
+IOOACKGP_00879	CDS	615		1.-.-.-		putative oxidoreductase
+IOOACKGP_00880	gene	201				
+IOOACKGP_00880	CDS	201				hypothetical protein
+IOOACKGP_00881	gene	447				
+IOOACKGP_00881	CDS	447				hypothetical protein
+IOOACKGP_00882	gene	309				
+IOOACKGP_00882	CDS	309				hypothetical protein
+IOOACKGP_00883	gene	1236				
+IOOACKGP_00883	CDS	1236				hypothetical protein
+IOOACKGP_00884	gene	1119	thiI_2			
+IOOACKGP_00884	CDS	1119	thiI_2	2.8.1.4		tRNA sulfurtransferase
+IOOACKGP_00885	gene	717	cysH			
+IOOACKGP_00885	CDS	717	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+IOOACKGP_00886	gene	1140	sat			
+IOOACKGP_00886	CDS	1140	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+IOOACKGP_00887	gene	669				
+IOOACKGP_00887	CDS	669				hypothetical protein
+IOOACKGP_00888	gene	651	pdg			
+IOOACKGP_00888	CDS	651	pdg			Ultraviolet N-glycosylase/AP lyase
+IOOACKGP_00889	gene	1155				
+IOOACKGP_00889	CDS	1155				hypothetical protein
+IOOACKGP_00890	gene	387				
+IOOACKGP_00890	CDS	387				hypothetical protein
+IOOACKGP_00891	gene	612				
+IOOACKGP_00891	CDS	612				hypothetical protein
+IOOACKGP_00892	gene	1917				
+IOOACKGP_00892	CDS	1917				hypothetical protein
+IOOACKGP_00893	gene	291				
+IOOACKGP_00893	CDS	291				hypothetical protein
+IOOACKGP_00894	gene	264	cbiT_1			
+IOOACKGP_00894	CDS	264	cbiT_1	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+IOOACKGP_00895	gene	327	cbiET			
+IOOACKGP_00895	CDS	327	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+IOOACKGP_00896	gene	300	cbiL_1			
+IOOACKGP_00896	CDS	300	cbiL_1	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+IOOACKGP_00897	gene	390				
+IOOACKGP_00897	CDS	390				hypothetical protein
+IOOACKGP_00898	gene	765	cbiF_1			
+IOOACKGP_00898	CDS	765	cbiF_1	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+IOOACKGP_00899	gene	552	murI_1			
+IOOACKGP_00899	CDS	552	murI_1	5.1.1.3		Glutamate racemase
+IOOACKGP_00900	gene	201	murI_2			
+IOOACKGP_00900	CDS	201	murI_2	5.1.1.3		Glutamate racemase
+IOOACKGP_00901	gene	645				
+IOOACKGP_00901	CDS	645				hypothetical protein
+IOOACKGP_00902	gene	780				
+IOOACKGP_00902	CDS	780				hypothetical protein
+IOOACKGP_00903	gene	189				
+IOOACKGP_00903	CDS	189				hypothetical protein
+IOOACKGP_00904	gene	648				
+IOOACKGP_00904	CDS	648				hypothetical protein
+IOOACKGP_00905	gene	189				
+IOOACKGP_00905	CDS	189				hypothetical protein
+IOOACKGP_00906	gene	147				
+IOOACKGP_00906	CDS	147				hypothetical protein
+IOOACKGP_00907	gene	315				
+IOOACKGP_00907	CDS	315				hypothetical protein
+IOOACKGP_00908	gene	258				
+IOOACKGP_00908	CDS	258				hypothetical protein
+IOOACKGP_00909	gene	189				
+IOOACKGP_00909	CDS	189				hypothetical protein
+IOOACKGP_00910	gene	213				
+IOOACKGP_00910	CDS	213				hypothetical protein
+IOOACKGP_00911	gene	615				
+IOOACKGP_00911	CDS	615				hypothetical protein
+IOOACKGP_00912	gene	471				
+IOOACKGP_00912	CDS	471				hypothetical protein
+IOOACKGP_00913	gene	588	cbiT_2			
+IOOACKGP_00913	CDS	588	cbiT_2	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+IOOACKGP_00914	gene	723	cbiL_2			
+IOOACKGP_00914	CDS	723	cbiL_2	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+IOOACKGP_00915	gene	765	cbiF_2			
+IOOACKGP_00915	CDS	765	cbiF_2	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+IOOACKGP_00916	gene	756	murI_3			
+IOOACKGP_00916	CDS	756	murI_3	5.1.1.3		Glutamate racemase
+IOOACKGP_00917	gene	648				
+IOOACKGP_00917	CDS	648				hypothetical protein
+IOOACKGP_00918	gene	750				
+IOOACKGP_00918	CDS	750				hypothetical protein
+IOOACKGP_00919	gene	189				
+IOOACKGP_00919	CDS	189				hypothetical protein
+IOOACKGP_00920	gene	657				
+IOOACKGP_00920	CDS	657				hypothetical protein
+	repeat_region	2883				
+	repeat_region	212				
+IOOACKGP_00921	gene	204				
+IOOACKGP_00921	CDS	204				hypothetical protein
+IOOACKGP_00922	gene	165				
+IOOACKGP_00922	CDS	165				hypothetical protein
+IOOACKGP_00923	gene	606				
+IOOACKGP_00923	CDS	606				hypothetical protein
+IOOACKGP_00924	gene	531				
+IOOACKGP_00924	CDS	531				hypothetical protein
+IOOACKGP_00925	gene	1458	glyQS			
+IOOACKGP_00925	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+IOOACKGP_00926	gene	846				
+IOOACKGP_00926	CDS	846				hypothetical protein
+IOOACKGP_00927	gene	408				
+IOOACKGP_00927	CDS	408				hypothetical protein
+IOOACKGP_00928	gene	840	nfo			
+IOOACKGP_00928	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+IOOACKGP_00929	gene	1026				
+IOOACKGP_00929	CDS	1026				hypothetical protein
+IOOACKGP_00930	gene	1122				
+IOOACKGP_00930	CDS	1122				hypothetical protein
+IOOACKGP_00931	gene	2850				
+IOOACKGP_00931	CDS	2850				hypothetical protein
+IOOACKGP_00932	gene	318	guaA_2			
+IOOACKGP_00932	CDS	318	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+IOOACKGP_00933	gene	963				
+IOOACKGP_00933	CDS	963				hypothetical protein
+IOOACKGP_00934	gene	74				
+IOOACKGP_00934	tRNA	74				tRNA-Gly(ccc)
+IOOACKGP_00935	gene	174				
+IOOACKGP_00935	CDS	174				hypothetical protein
+IOOACKGP_00936	gene	381				
+IOOACKGP_00936	CDS	381				hypothetical protein
+IOOACKGP_00937	gene	1263	tuf_1			
+IOOACKGP_00937	CDS	1263	tuf_1			Elongation factor Tu
+IOOACKGP_00938	gene	369				
+IOOACKGP_00938	CDS	369				hypothetical protein
+IOOACKGP_00939	gene	456				
+IOOACKGP_00939	CDS	456				hypothetical protein
+IOOACKGP_00940	gene	2127				
+IOOACKGP_00940	CDS	2127				hypothetical protein
+IOOACKGP_00941	gene	156				
+IOOACKGP_00941	CDS	156				hypothetical protein
+IOOACKGP_00942	gene	258				
+IOOACKGP_00942	CDS	258				hypothetical protein
+IOOACKGP_00943	gene	282	pnp_1			
+IOOACKGP_00943	CDS	282	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+IOOACKGP_00944	gene	534	btuR			
+IOOACKGP_00944	CDS	534	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+IOOACKGP_00945	gene	528	cbiA_1			
+IOOACKGP_00945	CDS	528	cbiA_1	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+IOOACKGP_00946	gene	684	cbiA_2			
+IOOACKGP_00946	CDS	684	cbiA_2	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+IOOACKGP_00947	gene	642	cbiC			
+IOOACKGP_00947	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+IOOACKGP_00948	gene	489	sirB			
+IOOACKGP_00948	CDS	489	sirB	4.99.1.4	COG2138	Sirohydrochlorin ferrochelatase
+IOOACKGP_00949	gene	588	cbiG_1			
+IOOACKGP_00949	CDS	588	cbiG_1	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+IOOACKGP_00950	gene	378	cbiG_2			
+IOOACKGP_00950	CDS	378	cbiG_2	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+IOOACKGP_00951	gene	396	cbiD_1			
+IOOACKGP_00951	CDS	396	cbiD_1	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+IOOACKGP_00952	gene	435	cbiD_2			
+IOOACKGP_00952	CDS	435	cbiD_2	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+IOOACKGP_00953	gene	870				
+IOOACKGP_00953	CDS	870				hypothetical protein
+IOOACKGP_00954	gene	1167	metK			
+IOOACKGP_00954	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+IOOACKGP_00955	gene	243				
+IOOACKGP_00955	CDS	243				hypothetical protein
+IOOACKGP_00956	gene	660	recA_2			
+IOOACKGP_00956	CDS	660	recA_2			Protein RecA
+IOOACKGP_00957	gene	120				
+IOOACKGP_00957	CDS	120				hypothetical protein
+IOOACKGP_00958	gene	2754	dbpA_2			
+IOOACKGP_00958	CDS	2754	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+IOOACKGP_00959	gene	1395				
+IOOACKGP_00959	CDS	1395				hypothetical protein
+IOOACKGP_00960	gene	939	lnrL_1			
+IOOACKGP_00960	CDS	939	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IOOACKGP_00961	gene	762				
+IOOACKGP_00961	CDS	762				hypothetical protein
+IOOACKGP_00962	gene	756				
+IOOACKGP_00962	CDS	756				hypothetical protein
+IOOACKGP_00963	gene	74				
+IOOACKGP_00963	tRNA	74				tRNA-Gln(ttg)
+IOOACKGP_00964	gene	1029				
+IOOACKGP_00964	CDS	1029				hypothetical protein
+IOOACKGP_00965	gene	1140				
+IOOACKGP_00965	CDS	1140				hypothetical protein
+IOOACKGP_00966	gene	576	grpE			
+IOOACKGP_00966	CDS	576	grpE			Protein GrpE
+IOOACKGP_00967	gene	1863	dnaK			
+IOOACKGP_00967	CDS	1863	dnaK		COG0443	Chaperone protein DnaK
+IOOACKGP_00968	gene	1080	dnaJ_2			
+IOOACKGP_00968	CDS	1080	dnaJ_2		COG0484	Chaperone protein DnaJ
+IOOACKGP_00969	gene	537				
+IOOACKGP_00969	CDS	537				hypothetical protein
+IOOACKGP_00970	gene	174				
+IOOACKGP_00970	CDS	174				hypothetical protein
+IOOACKGP_00971	gene	87				
+IOOACKGP_00971	tRNA	87				tRNA-Leu(cag)
+IOOACKGP_00972	gene	1911	GATB			
+IOOACKGP_00972	CDS	1911	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+IOOACKGP_00973	gene	1290				
+IOOACKGP_00973	CDS	1290				hypothetical protein
+IOOACKGP_00974	gene	2187	ftsH_2			
+IOOACKGP_00974	CDS	2187	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IOOACKGP_00975	gene	735				
+IOOACKGP_00975	CDS	735				hypothetical protein
+IOOACKGP_00976	gene	279	acyP			
+IOOACKGP_00976	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+IOOACKGP_00977	gene	333				
+IOOACKGP_00977	CDS	333				hypothetical protein
+IOOACKGP_00978	gene	312				
+IOOACKGP_00978	misc_RNA	312				Archaea_SRP
+IOOACKGP_00979	gene	915	ttuA			
+IOOACKGP_00979	CDS	915	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+IOOACKGP_00980	gene	1203				
+IOOACKGP_00980	CDS	1203				hypothetical protein
+IOOACKGP_00981	gene	312	cutA			
+IOOACKGP_00981	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+IOOACKGP_00982	gene	582				
+IOOACKGP_00982	CDS	582				hypothetical protein
+IOOACKGP_00983	gene	300				
+IOOACKGP_00983	CDS	300				hypothetical protein
+IOOACKGP_00984	gene	429				
+IOOACKGP_00984	CDS	429				IS200/IS605 family transposase ISTac1
+IOOACKGP_00985	gene	429	menA_1			
+IOOACKGP_00985	CDS	429	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IOOACKGP_00986	gene	249				
+IOOACKGP_00986	CDS	249				hypothetical protein
+IOOACKGP_00987	gene	1002				
+IOOACKGP_00987	CDS	1002				hypothetical protein
+IOOACKGP_00988	gene	1461				
+IOOACKGP_00988	CDS	1461				hypothetical protein
+IOOACKGP_00989	gene	663				
+IOOACKGP_00989	CDS	663				hypothetical protein
+IOOACKGP_00990	gene	1779				
+IOOACKGP_00990	CDS	1779				hypothetical protein
+IOOACKGP_00991	gene	717				
+IOOACKGP_00991	CDS	717				hypothetical protein
+IOOACKGP_00992	gene	276	cheY_3			
+IOOACKGP_00992	CDS	276	cheY_3		COG0784	Chemotaxis protein CheY
+IOOACKGP_00993	gene	234				
+IOOACKGP_00993	CDS	234				hypothetical protein
+IOOACKGP_00994	gene	366	cheB_2			
+IOOACKGP_00994	CDS	366	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+IOOACKGP_00995	gene	399				
+IOOACKGP_00995	CDS	399				hypothetical protein
+IOOACKGP_00996	gene	279				
+IOOACKGP_00996	CDS	279				hypothetical protein
+IOOACKGP_00997	gene	402				
+IOOACKGP_00997	CDS	402				hypothetical protein
+IOOACKGP_00998	gene	105				
+IOOACKGP_00998	CDS	105				hypothetical protein
+IOOACKGP_00999	gene	843				
+IOOACKGP_00999	CDS	843				hypothetical protein
+IOOACKGP_01000	gene	627				
+IOOACKGP_01000	CDS	627				hypothetical protein
+IOOACKGP_01001	gene	372	cheY_4			
+IOOACKGP_01001	CDS	372	cheY_4		COG0784	Chemotaxis protein CheY
+IOOACKGP_01002	gene	279	prsA1_1			
+IOOACKGP_01002	CDS	279	prsA1_1	5.2.1.8	COG0760	Foldase protein PrsA 1
+IOOACKGP_01003	gene	162				
+IOOACKGP_01003	CDS	162				hypothetical protein
+IOOACKGP_01004	gene	1512	dbpA_3			
+IOOACKGP_01004	CDS	1512	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+IOOACKGP_01005	gene	171				
+IOOACKGP_01005	CDS	171				hypothetical protein
+IOOACKGP_01006	gene	285				
+IOOACKGP_01006	CDS	285				hypothetical protein
+IOOACKGP_01007	gene	120				
+IOOACKGP_01007	CDS	120				hypothetical protein
+IOOACKGP_01008	gene	180				
+IOOACKGP_01008	CDS	180				hypothetical protein
+IOOACKGP_01009	gene	2148	ftsH_3			
+IOOACKGP_01009	CDS	2148	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IOOACKGP_01010	gene	219				
+IOOACKGP_01010	CDS	219				hypothetical protein
+IOOACKGP_01011	gene	918				
+IOOACKGP_01011	CDS	918				hypothetical protein
+IOOACKGP_01012	gene	381	crcB_2			
+IOOACKGP_01012	CDS	381	crcB_2			Putative fluoride ion transporter CrcB
+IOOACKGP_01013	gene	462				
+IOOACKGP_01013	CDS	462		2.7.7.-	COG0517	A-adding tRNA nucleotidyltransferase
+IOOACKGP_01014	gene	423	teaD_2			
+IOOACKGP_01014	CDS	423	teaD_2		COG0589	TRAP-T-associated universal stress protein TeaD
+IOOACKGP_01015	gene	441	IMPDH_2			
+IOOACKGP_01015	CDS	441	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IOOACKGP_01016	gene	231				
+IOOACKGP_01016	CDS	231				hypothetical protein
+IOOACKGP_01017	gene	456	teaD_3			
+IOOACKGP_01017	CDS	456	teaD_3		COG0589	TRAP-T-associated universal stress protein TeaD
+IOOACKGP_01018	gene	429	teaD_4			
+IOOACKGP_01018	CDS	429	teaD_4		COG0589	TRAP-T-associated universal stress protein TeaD
+IOOACKGP_01019	gene	429	teaD_5			
+IOOACKGP_01019	CDS	429	teaD_5		COG0589	TRAP-T-associated universal stress protein TeaD
+IOOACKGP_01020	gene	909	IMPDH_3			
+IOOACKGP_01020	CDS	909	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IOOACKGP_01021	gene	1167				
+IOOACKGP_01021	CDS	1167				hypothetical protein
+IOOACKGP_01022	gene	222				
+IOOACKGP_01022	CDS	222				hypothetical protein
+IOOACKGP_01023	gene	402				
+IOOACKGP_01023	CDS	402				hypothetical protein
+IOOACKGP_01024	gene	396				
+IOOACKGP_01024	CDS	396				hypothetical protein
+IOOACKGP_01025	gene	273				
+IOOACKGP_01025	CDS	273				hypothetical protein
+IOOACKGP_01026	gene	579				
+IOOACKGP_01026	CDS	579				hypothetical protein
+IOOACKGP_01027	gene	330				
+IOOACKGP_01027	CDS	330				hypothetical protein
+IOOACKGP_01028	gene	1308	nrgA_2			
+IOOACKGP_01028	CDS	1308	nrgA_2			Ammonium transporter
+IOOACKGP_01029	gene	588				
+IOOACKGP_01029	CDS	588				hypothetical protein
+IOOACKGP_01030	gene	300				
+IOOACKGP_01030	CDS	300				hypothetical protein
+IOOACKGP_01031	gene	429				
+IOOACKGP_01031	CDS	429				hypothetical protein
+IOOACKGP_01032	gene	804	bacC_2			
+IOOACKGP_01032	CDS	804	bacC_2	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+IOOACKGP_01033	gene	207				
+IOOACKGP_01033	CDS	207				hypothetical protein
+IOOACKGP_01034	gene	717	cysQ_3			
+IOOACKGP_01034	CDS	717	cysQ_3	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+IOOACKGP_01035	gene	165	cysC_2			
+IOOACKGP_01035	CDS	165	cysC_2	2.7.1.25		putative adenylyl-sulfate kinase
+IOOACKGP_01036	gene	174				
+IOOACKGP_01036	CDS	174				hypothetical protein
+IOOACKGP_01037	gene	570	dnaJ_3			
+IOOACKGP_01037	CDS	570	dnaJ_3			Chaperone protein DnaJ
+IOOACKGP_01038	gene	405				
+IOOACKGP_01038	CDS	405				hypothetical protein
+IOOACKGP_01039	gene	1323				
+IOOACKGP_01039	CDS	1323				hypothetical protein
+IOOACKGP_01040	gene	444				
+IOOACKGP_01040	CDS	444				hypothetical protein
+IOOACKGP_01041	gene	243				
+IOOACKGP_01041	CDS	243				hypothetical protein
+IOOACKGP_01042	gene	435	sodA_2			
+IOOACKGP_01042	CDS	435	sodA_2	1.15.1.1		Superoxide dismutase [Mn/Fe]
+IOOACKGP_01043	gene	873				
+IOOACKGP_01043	CDS	873				hypothetical protein
+IOOACKGP_01044	gene	852				
+IOOACKGP_01044	CDS	852				hypothetical protein
+IOOACKGP_01045	gene	366				
+IOOACKGP_01045	CDS	366				hypothetical protein
+IOOACKGP_01046	gene	660				
+IOOACKGP_01046	CDS	660				hypothetical protein
+IOOACKGP_01047	gene	1146				
+IOOACKGP_01047	CDS	1146				hypothetical protein
+IOOACKGP_01048	gene	240				
+IOOACKGP_01048	CDS	240				hypothetical protein
+IOOACKGP_01049	gene	303				
+IOOACKGP_01049	CDS	303				hypothetical protein
+IOOACKGP_01050	gene	1053				
+IOOACKGP_01050	CDS	1053				hypothetical protein
+IOOACKGP_01051	gene	1368				
+IOOACKGP_01051	CDS	1368				hypothetical protein
+IOOACKGP_01052	gene	318				
+IOOACKGP_01052	CDS	318				hypothetical protein
+IOOACKGP_01053	gene	282				
+IOOACKGP_01053	CDS	282				hypothetical protein
+IOOACKGP_01054	gene	399				
+IOOACKGP_01054	CDS	399				hypothetical protein
+IOOACKGP_01055	gene	1275				
+IOOACKGP_01055	CDS	1275				hypothetical protein
+IOOACKGP_01056	gene	339				
+IOOACKGP_01056	CDS	339				hypothetical protein
+IOOACKGP_01057	gene	93				
+IOOACKGP_01057	CDS	93				hypothetical protein
+IOOACKGP_01058	gene	327				
+IOOACKGP_01058	CDS	327				hypothetical protein
+IOOACKGP_01059	gene	378				
+IOOACKGP_01059	CDS	378				hypothetical protein
+IOOACKGP_01060	gene	177				
+IOOACKGP_01060	CDS	177				hypothetical protein
+IOOACKGP_01061	gene	234				
+IOOACKGP_01061	CDS	234				hypothetical protein
+IOOACKGP_01062	gene	360	mscL			
+IOOACKGP_01062	CDS	360	mscL		COG1970	Large-conductance mechanosensitive channel
+IOOACKGP_01063	gene	162				
+IOOACKGP_01063	CDS	162				hypothetical protein
+IOOACKGP_01064	gene	1623				
+IOOACKGP_01064	CDS	1623				hypothetical protein
+IOOACKGP_01065	gene	534				
+IOOACKGP_01065	CDS	534				hypothetical protein
+IOOACKGP_01066	gene	573				
+IOOACKGP_01066	CDS	573				hypothetical protein
+IOOACKGP_01067	gene	315				
+IOOACKGP_01067	CDS	315				hypothetical protein
+IOOACKGP_01068	gene	429				
+IOOACKGP_01068	CDS	429				hypothetical protein
+IOOACKGP_01069	gene	951				
+IOOACKGP_01069	CDS	951				hypothetical protein
+IOOACKGP_01070	gene	219				
+IOOACKGP_01070	CDS	219				hypothetical protein
+IOOACKGP_01071	gene	84				
+IOOACKGP_01071	tRNA	84				tRNA-Ser(cga)
+IOOACKGP_01072	gene	1026				
+IOOACKGP_01072	CDS	1026				hypothetical protein
+IOOACKGP_01073	gene	531				
+IOOACKGP_01073	CDS	531				hypothetical protein
+IOOACKGP_01074	gene	1917	acsA			
+IOOACKGP_01074	CDS	1917	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+IOOACKGP_01075	gene	834				
+IOOACKGP_01075	CDS	834				hypothetical protein
+IOOACKGP_01076	gene	309				
+IOOACKGP_01076	CDS	309				hypothetical protein
+IOOACKGP_01077	gene	219				
+IOOACKGP_01077	CDS	219				hypothetical protein
+IOOACKGP_01078	gene	1920				
+IOOACKGP_01078	CDS	1920				hypothetical protein
+IOOACKGP_01079	gene	978	alx			
+IOOACKGP_01079	CDS	978	alx		COG0861	Putative membrane-bound redox modulator Alx
+IOOACKGP_01080	gene	564				
+IOOACKGP_01080	CDS	564				hypothetical protein
+IOOACKGP_01081	gene	285				
+IOOACKGP_01081	CDS	285				hypothetical protein
+IOOACKGP_01082	gene	1617	thyX			
+IOOACKGP_01082	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+IOOACKGP_01083	gene	402	msrB			
+IOOACKGP_01083	CDS	402	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+IOOACKGP_01084	gene	1011	hom			
+IOOACKGP_01084	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+IOOACKGP_01085	gene	477				
+IOOACKGP_01085	CDS	477				hypothetical protein
+IOOACKGP_01086	gene	645	prcB_2			
+IOOACKGP_01086	CDS	645	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+IOOACKGP_01087	gene	417				
+IOOACKGP_01087	CDS	417				hypothetical protein
+IOOACKGP_01088	gene	1359	dapE			
+IOOACKGP_01088	CDS	1359	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+IOOACKGP_01089	gene	864	nnr_2			
+IOOACKGP_01089	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IOOACKGP_01090	gene	861	trmI			
+IOOACKGP_01090	CDS	861	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+IOOACKGP_01091	gene	336				
+IOOACKGP_01091	CDS	336				hypothetical protein
+IOOACKGP_01092	gene	228				
+IOOACKGP_01092	CDS	228				hypothetical protein
+IOOACKGP_01093	gene	1887	argS			
+IOOACKGP_01093	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+IOOACKGP_01094	gene	696	ycsE			
+IOOACKGP_01094	CDS	696	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+IOOACKGP_01095	gene	129				
+IOOACKGP_01095	CDS	129				hypothetical protein
+IOOACKGP_01096	gene	429				
+IOOACKGP_01096	CDS	429				hypothetical protein
+IOOACKGP_01097	gene	840				
+IOOACKGP_01097	CDS	840				hypothetical protein
+IOOACKGP_01098	gene	297				
+IOOACKGP_01098	CDS	297				hypothetical protein
+IOOACKGP_01099	gene	228				
+IOOACKGP_01099	CDS	228				hypothetical protein
+IOOACKGP_01100	gene	138				
+IOOACKGP_01100	CDS	138				hypothetical protein
+IOOACKGP_01101	gene	1110	obg			
+IOOACKGP_01101	CDS	1110	obg	3.6.5.-		GTPase Obg
+IOOACKGP_01102	gene	165				
+IOOACKGP_01102	CDS	165				hypothetical protein
+IOOACKGP_01103	gene	300				
+IOOACKGP_01103	CDS	300				hypothetical protein
+IOOACKGP_01104	gene	285				
+IOOACKGP_01104	CDS	285				hypothetical protein
+IOOACKGP_01105	gene	1611				
+IOOACKGP_01105	CDS	1611				hypothetical protein
+IOOACKGP_01106	gene	1122				
+IOOACKGP_01106	CDS	1122				hypothetical protein
+IOOACKGP_01107	gene	222				
+IOOACKGP_01107	CDS	222				hypothetical protein
+IOOACKGP_01108	gene	540				
+IOOACKGP_01108	CDS	540				hypothetical protein
+IOOACKGP_01109	gene	1884				
+IOOACKGP_01109	CDS	1884				hypothetical protein
+IOOACKGP_01110	gene	618	thi4_1			
+IOOACKGP_01110	CDS	618	thi4_1	2.4.2.59		Thiamine thiazole synthase
+IOOACKGP_01111	gene	204	thi4_2			
+IOOACKGP_01111	CDS	204	thi4_2	2.4.2.59		Thiamine thiazole synthase
+IOOACKGP_01112	gene	756				
+IOOACKGP_01112	CDS	756				hypothetical protein
+IOOACKGP_01113	gene	993	trxB			
+IOOACKGP_01113	CDS	993	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+IOOACKGP_01114	gene	219				
+IOOACKGP_01114	CDS	219				hypothetical protein
+IOOACKGP_01115	gene	474				
+IOOACKGP_01115	CDS	474				hypothetical protein
+IOOACKGP_01116	gene	993	cysM			
+IOOACKGP_01116	CDS	993	cysM	2.5.1.47	COG0031	Cysteine synthase B
+IOOACKGP_01117	gene	237	tusA			
+IOOACKGP_01117	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+IOOACKGP_01118	gene	915				
+IOOACKGP_01118	CDS	915				hypothetical protein
+IOOACKGP_01119	gene	609	fbiB_2			
+IOOACKGP_01119	CDS	609	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+IOOACKGP_01120	gene	651	serB			
+IOOACKGP_01120	CDS	651	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+IOOACKGP_01121	gene	288				
+IOOACKGP_01121	CDS	288				hypothetical protein
+IOOACKGP_01122	gene	735	proS_1			
+IOOACKGP_01122	CDS	735	proS_1	6.1.1.15	COG0442	Proline--tRNA ligase
+IOOACKGP_01123	gene	759	proS_2			
+IOOACKGP_01123	CDS	759	proS_2	6.1.1.15	COG0442	Proline--tRNA ligase
+IOOACKGP_01124	gene	1044	egtB_1			
+IOOACKGP_01124	CDS	1044	egtB_1	1.14.99.50		Hercynine oxygenase
+IOOACKGP_01125	gene	225	egtB_2			
+IOOACKGP_01125	CDS	225	egtB_2	1.14.99.50	COG1262	Hercynine oxygenase
+IOOACKGP_01126	gene	219	egtD_1			
+IOOACKGP_01126	CDS	219	egtD_1	2.1.1.44		Histidine N-alpha-methyltransferase
+IOOACKGP_01127	gene	693	egtD_2			
+IOOACKGP_01127	CDS	693	egtD_2	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+IOOACKGP_01128	gene	966	oppF			
+IOOACKGP_01128	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+IOOACKGP_01129	gene	3525	smc_2			
+IOOACKGP_01129	CDS	3525	smc_2		COG1196	Chromosome partition protein Smc
+IOOACKGP_01130	gene	1095	ino1			
+IOOACKGP_01130	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+IOOACKGP_01131	gene	693				
+IOOACKGP_01131	CDS	693				hypothetical protein
+IOOACKGP_01132	gene	735				
+IOOACKGP_01132	CDS	735				hypothetical protein
+IOOACKGP_01133	gene	549				
+IOOACKGP_01133	CDS	549				hypothetical protein
+IOOACKGP_01134	gene	558				
+IOOACKGP_01134	CDS	558				hypothetical protein
+IOOACKGP_01135	gene	636				
+IOOACKGP_01135	CDS	636				hypothetical protein
+IOOACKGP_01136	gene	1470				
+IOOACKGP_01136	CDS	1470				hypothetical protein
+IOOACKGP_01137	gene	459				
+IOOACKGP_01137	CDS	459				hypothetical protein
+IOOACKGP_01138	gene	462				
+IOOACKGP_01138	CDS	462				hypothetical protein
+IOOACKGP_01139	gene	381				
+IOOACKGP_01139	CDS	381				hypothetical protein
+IOOACKGP_01140	gene	552				
+IOOACKGP_01140	CDS	552				hypothetical protein
+IOOACKGP_01141	gene	798				
+IOOACKGP_01141	CDS	798				hypothetical protein
+IOOACKGP_01142	gene	3225				
+IOOACKGP_01142	CDS	3225				hypothetical protein
+IOOACKGP_01143	gene	489				
+IOOACKGP_01143	CDS	489				hypothetical protein
+IOOACKGP_01144	gene	330				
+IOOACKGP_01144	CDS	330				hypothetical protein
+IOOACKGP_01145	gene	414				
+IOOACKGP_01145	CDS	414				hypothetical protein
+IOOACKGP_01146	gene	615				
+IOOACKGP_01146	CDS	615				hypothetical protein
+IOOACKGP_01147	gene	243				
+IOOACKGP_01147	CDS	243				hypothetical protein
+IOOACKGP_01148	gene	537				
+IOOACKGP_01148	CDS	537				hypothetical protein
+IOOACKGP_01149	gene	270				
+IOOACKGP_01149	CDS	270				hypothetical protein
+IOOACKGP_01150	gene	213	dinB			
+IOOACKGP_01150	CDS	213	dinB	2.7.7.7	COG0389	DNA polymerase IV
+IOOACKGP_01151	gene	813	dinB1			
+IOOACKGP_01151	CDS	813	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+IOOACKGP_01152	gene	945				
+IOOACKGP_01152	CDS	945				hypothetical protein
+IOOACKGP_01153	gene	1122				
+IOOACKGP_01153	CDS	1122				hypothetical protein
+IOOACKGP_01154	gene	924	btuF			
+IOOACKGP_01154	CDS	924	btuF			Vitamin B12-binding protein
+IOOACKGP_01155	gene	405				
+IOOACKGP_01155	CDS	405				hypothetical protein
+IOOACKGP_01156	gene	366				
+IOOACKGP_01156	CDS	366				hypothetical protein
+IOOACKGP_01157	gene	387				
+IOOACKGP_01157	CDS	387				hypothetical protein
+IOOACKGP_01158	gene	876	garR			
+IOOACKGP_01158	CDS	876	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+IOOACKGP_01159	gene	762	baiA			
+IOOACKGP_01159	CDS	762	baiA	1.1.1.392		3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+IOOACKGP_01160	gene	216				
+IOOACKGP_01160	CDS	216				hypothetical protein
+IOOACKGP_01161	gene	1218	thi4_3			
+IOOACKGP_01161	CDS	1218	thi4_3	2.4.2.59		Thiamine thiazole synthase
+IOOACKGP_01162	gene	279				
+IOOACKGP_01162	misc_RNA	279				RNaseP_arch
+IOOACKGP_01163	gene	1359				
+IOOACKGP_01163	CDS	1359				hypothetical protein
+IOOACKGP_01164	gene	921	fbiA			
+IOOACKGP_01164	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+IOOACKGP_01165	gene	639	fbiD			
+IOOACKGP_01165	CDS	639	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+IOOACKGP_01166	gene	909				
+IOOACKGP_01166	CDS	909				hypothetical protein
+IOOACKGP_01167	gene	993				
+IOOACKGP_01167	CDS	993				hypothetical protein
+IOOACKGP_01168	gene	309				
+IOOACKGP_01168	CDS	309				hypothetical protein
+IOOACKGP_01169	gene	333				
+IOOACKGP_01169	CDS	333				hypothetical protein
+IOOACKGP_01170	gene	168				
+IOOACKGP_01170	CDS	168				hypothetical protein
+IOOACKGP_01171	gene	1743				
+IOOACKGP_01171	CDS	1743				hypothetical protein
+IOOACKGP_01172	gene	636				
+IOOACKGP_01172	CDS	636				hypothetical protein
+IOOACKGP_01173	gene	2463				
+IOOACKGP_01173	CDS	2463				hypothetical protein
+IOOACKGP_01174	gene	477				
+IOOACKGP_01174	CDS	477				hypothetical protein
+IOOACKGP_01175	gene	3285				
+IOOACKGP_01175	CDS	3285				hypothetical protein
+IOOACKGP_01176	gene	378				
+IOOACKGP_01176	CDS	378				hypothetical protein
+IOOACKGP_01177	gene	198				
+IOOACKGP_01177	CDS	198				hypothetical protein
+IOOACKGP_01178	gene	252				
+IOOACKGP_01178	CDS	252				hypothetical protein
+IOOACKGP_01179	gene	249				
+IOOACKGP_01179	CDS	249				hypothetical protein
+IOOACKGP_01180	gene	77				
+IOOACKGP_01180	tRNA	77				tRNA-Pro(tgg)
+IOOACKGP_01181	gene	900				
+IOOACKGP_01181	CDS	900		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+IOOACKGP_01182	gene	345				
+IOOACKGP_01182	CDS	345				hypothetical protein
+IOOACKGP_01183	gene	180				
+IOOACKGP_01183	CDS	180				hypothetical protein
+IOOACKGP_01184	gene	1122				
+IOOACKGP_01184	CDS	1122				hypothetical protein
+IOOACKGP_01185	gene	561				
+IOOACKGP_01185	CDS	561				hypothetical protein
+IOOACKGP_01186	gene	327	metG_1			
+IOOACKGP_01186	CDS	327	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+IOOACKGP_01187	gene	216				
+IOOACKGP_01187	CDS	216				hypothetical protein
+IOOACKGP_01188	gene	417				
+IOOACKGP_01188	CDS	417				hypothetical protein
+IOOACKGP_01189	gene	1206	arnC			
+IOOACKGP_01189	CDS	1206	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IOOACKGP_01190	gene	1128				
+IOOACKGP_01190	CDS	1128				hypothetical protein
+IOOACKGP_01191	gene	1170	fbiC_1			
+IOOACKGP_01191	CDS	1170	fbiC_1		COG1060	FO synthase
+IOOACKGP_01192	gene	1260	fbiC_2			
+IOOACKGP_01192	CDS	1260	fbiC_2		COG1060	FO synthase
+IOOACKGP_01193	gene	222				
+IOOACKGP_01193	CDS	222				hypothetical protein
+IOOACKGP_01194	gene	726				
+IOOACKGP_01194	CDS	726				hypothetical protein
+IOOACKGP_01195	gene	1092	purM			
+IOOACKGP_01195	CDS	1092	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+IOOACKGP_01196	gene	618				
+IOOACKGP_01196	CDS	618				hypothetical protein
+IOOACKGP_01197	gene	822				
+IOOACKGP_01197	CDS	822			COG1055	putative transporter
+IOOACKGP_01198	gene	897				
+IOOACKGP_01198	CDS	897				hypothetical protein
+IOOACKGP_01199	gene	702				
+IOOACKGP_01199	CDS	702		2.3.1.-		tRNA uridine(34) acetyltransferase
+IOOACKGP_01200	gene	1587	lysS			
+IOOACKGP_01200	CDS	1587	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+IOOACKGP_01201	gene	201				
+IOOACKGP_01201	CDS	201				hypothetical protein
+IOOACKGP_01202	gene	648				
+IOOACKGP_01202	CDS	648				hypothetical protein
+IOOACKGP_01203	gene	114				
+IOOACKGP_01203	CDS	114				hypothetical protein
+IOOACKGP_01204	gene	138				
+IOOACKGP_01204	CDS	138				hypothetical protein
+IOOACKGP_01205	gene	174				
+IOOACKGP_01205	CDS	174				hypothetical protein
+IOOACKGP_01206	gene	237				
+IOOACKGP_01206	CDS	237				hypothetical protein
+IOOACKGP_01207	gene	159				
+IOOACKGP_01207	CDS	159				hypothetical protein
+IOOACKGP_01208	gene	333				
+IOOACKGP_01208	CDS	333				hypothetical protein
+IOOACKGP_01209	gene	558	ftnA			
+IOOACKGP_01209	CDS	558	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+IOOACKGP_01210	gene	300				
+IOOACKGP_01210	CDS	300				hypothetical protein
+IOOACKGP_01211	gene	597	tag			
+IOOACKGP_01211	CDS	597	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+IOOACKGP_01212	gene	426				
+IOOACKGP_01212	CDS	426				hypothetical protein
+IOOACKGP_01213	gene	76				
+IOOACKGP_01213	tRNA	76				tRNA-Arg(gcg)
+IOOACKGP_01214	gene	702	aqpZ2_1			
+IOOACKGP_01214	CDS	702	aqpZ2_1			Aquaporin Z 2
+IOOACKGP_01215	gene	519	bcp_2			
+IOOACKGP_01215	CDS	519	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin
+IOOACKGP_01216	gene	879				
+IOOACKGP_01216	CDS	879				hypothetical protein
+IOOACKGP_01217	gene	642				
+IOOACKGP_01217	CDS	642				hypothetical protein
+IOOACKGP_01218	gene	378				
+IOOACKGP_01218	CDS	378				hypothetical protein
+IOOACKGP_01219	gene	231				
+IOOACKGP_01219	CDS	231				hypothetical protein
+IOOACKGP_01220	gene	1395	ubiD_2			
+IOOACKGP_01220	CDS	1395	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IOOACKGP_01221	gene	1119	mqnC			
+IOOACKGP_01221	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+IOOACKGP_01222	gene	783	griI			
+IOOACKGP_01222	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+IOOACKGP_01223	gene	1062	griH			
+IOOACKGP_01223	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+IOOACKGP_01224	gene	675	aroD			
+IOOACKGP_01224	CDS	675	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+IOOACKGP_01225	gene	822	aroE			
+IOOACKGP_01225	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+IOOACKGP_01226	gene	855	thrB_3			
+IOOACKGP_01226	CDS	855	thrB_3	2.7.1.39		Homoserine kinase
+IOOACKGP_01227	gene	1269	aroA			
+IOOACKGP_01227	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+IOOACKGP_01228	gene	1095	aroC			
+IOOACKGP_01228	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+IOOACKGP_01229	gene	1413	dapL			
+IOOACKGP_01229	CDS	1413	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+IOOACKGP_01230	gene	855				
+IOOACKGP_01230	CDS	855				hypothetical protein
+IOOACKGP_01231	gene	405				
+IOOACKGP_01231	CDS	405				hypothetical protein
+IOOACKGP_01232	gene	1326	bzaF			
+IOOACKGP_01232	CDS	1326	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+IOOACKGP_01233	gene	216				
+IOOACKGP_01233	CDS	216				hypothetical protein
+IOOACKGP_01234	gene	903	pdxK			
+IOOACKGP_01234	CDS	903	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+IOOACKGP_01235	gene	459	thiDN			
+IOOACKGP_01235	CDS	459	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+IOOACKGP_01236	gene	702	cugP_2			
+IOOACKGP_01236	CDS	702	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IOOACKGP_01237	gene	438				
+IOOACKGP_01237	CDS	438				hypothetical protein
+IOOACKGP_01238	gene	489				
+IOOACKGP_01238	CDS	489				hypothetical protein
+IOOACKGP_01239	gene	1017				
+IOOACKGP_01239	CDS	1017				hypothetical protein
+IOOACKGP_01240	gene	1335	apgM			
+IOOACKGP_01240	CDS	1335	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+IOOACKGP_01241	gene	549				
+IOOACKGP_01241	CDS	549				hypothetical protein
+IOOACKGP_01242	gene	369				
+IOOACKGP_01242	CDS	369				hypothetical protein
+IOOACKGP_01243	gene	192				
+IOOACKGP_01243	CDS	192				hypothetical protein
+IOOACKGP_01244	gene	357				
+IOOACKGP_01244	CDS	357				hypothetical protein
+IOOACKGP_01245	gene	708				
+IOOACKGP_01245	CDS	708				hypothetical protein
+IOOACKGP_01246	gene	1149				
+IOOACKGP_01246	CDS	1149				hypothetical protein
+IOOACKGP_01247	gene	1266	ffh			
+IOOACKGP_01247	CDS	1266	ffh		COG0541	Signal recognition particle protein
+IOOACKGP_01248	gene	690				
+IOOACKGP_01248	CDS	690				hypothetical protein
+IOOACKGP_01249	gene	315				
+IOOACKGP_01249	CDS	315				hypothetical protein
+IOOACKGP_01250	gene	1125	dipZ			
+IOOACKGP_01250	CDS	1125	dipZ		COG0785	Protein DipZ
+IOOACKGP_01251	gene	732				
+IOOACKGP_01251	CDS	732				hypothetical protein
+IOOACKGP_01252	gene	363				
+IOOACKGP_01252	CDS	363				hypothetical protein
+IOOACKGP_01253	gene	624	trmR			
+IOOACKGP_01253	CDS	624	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+IOOACKGP_01254	gene	396				
+IOOACKGP_01254	CDS	396				hypothetical protein
+IOOACKGP_01255	gene	678				
+IOOACKGP_01255	CDS	678				hypothetical protein
+IOOACKGP_01256	gene	687	menG_2			
+IOOACKGP_01256	CDS	687	menG_2	2.1.1.163		Demethylmenaquinone methyltransferase
+IOOACKGP_01257	gene	411				
+IOOACKGP_01257	CDS	411				hypothetical protein
+IOOACKGP_01258	gene	660				
+IOOACKGP_01258	CDS	660				hypothetical protein
+IOOACKGP_01259	gene	192	cspLA			
+IOOACKGP_01259	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+IOOACKGP_01260	gene	336				
+IOOACKGP_01260	CDS	336				hypothetical protein
+IOOACKGP_01261	gene	270				
+IOOACKGP_01261	CDS	270				hypothetical protein
+IOOACKGP_01262	gene	252				
+IOOACKGP_01262	CDS	252				hypothetical protein
+IOOACKGP_01263	gene	564				
+IOOACKGP_01263	CDS	564				hypothetical protein
+IOOACKGP_01264	gene	501				
+IOOACKGP_01264	CDS	501				hypothetical protein
+IOOACKGP_01265	gene	750	rcsC_2			
+IOOACKGP_01265	CDS	750	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+IOOACKGP_01266	gene	1053				
+IOOACKGP_01266	CDS	1053		1.1.1.1		Alcohol dehydrogenase
+IOOACKGP_01267	gene	672				
+IOOACKGP_01267	CDS	672				hypothetical protein
+IOOACKGP_01268	gene	579	scpB			
+IOOACKGP_01268	CDS	579	scpB			Segregation and condensation protein B
+IOOACKGP_01269	gene	381				
+IOOACKGP_01269	CDS	381				hypothetical protein
+IOOACKGP_01270	gene	318				
+IOOACKGP_01270	CDS	318				hypothetical protein
+IOOACKGP_01271	gene	273				
+IOOACKGP_01271	CDS	273				hypothetical protein
+IOOACKGP_01272	gene	957				
+IOOACKGP_01272	CDS	957				hypothetical protein
+IOOACKGP_01273	gene	771				
+IOOACKGP_01273	CDS	771				putative ABC transporter ATP-binding protein
+IOOACKGP_01274	gene	228				
+IOOACKGP_01274	CDS	228				hypothetical protein
+IOOACKGP_01275	gene	678				
+IOOACKGP_01275	CDS	678			COG3253	putative protein/MSMEI_2713
+IOOACKGP_01276	gene	546				
+IOOACKGP_01276	CDS	546				hypothetical protein
+IOOACKGP_01277	gene	996	iolS_1			
+IOOACKGP_01277	CDS	996	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+IOOACKGP_01278	gene	123				
+IOOACKGP_01278	CDS	123				hypothetical protein
+IOOACKGP_01279	gene	219				
+IOOACKGP_01279	CDS	219				hypothetical protein
+IOOACKGP_01280	gene	1029				
+IOOACKGP_01280	CDS	1029				hypothetical protein
+IOOACKGP_01281	gene	654	cysG			
+IOOACKGP_01281	CDS	654	cysG	4.99.1.4		Siroheme synthase
+IOOACKGP_01282	gene	1266	hemA_2			
+IOOACKGP_01282	CDS	1266	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+IOOACKGP_01283	gene	981	hemB			
+IOOACKGP_01283	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+IOOACKGP_01284	gene	312				
+IOOACKGP_01284	CDS	312				hypothetical protein
+IOOACKGP_01285	gene	921				
+IOOACKGP_01285	CDS	921				hypothetical protein
+IOOACKGP_01286	gene	561				
+IOOACKGP_01286	CDS	561				hypothetical protein
+IOOACKGP_01287	gene	1359	phr			
+IOOACKGP_01287	CDS	1359	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+IOOACKGP_01288	gene	1380				
+IOOACKGP_01288	CDS	1380				hypothetical protein
+IOOACKGP_01289	gene	843				
+IOOACKGP_01289	CDS	843				hypothetical protein
+IOOACKGP_01290	gene	348				
+IOOACKGP_01290	CDS	348				hypothetical protein
+IOOACKGP_01291	gene	684				
+IOOACKGP_01291	CDS	684				hypothetical protein
+IOOACKGP_01292	gene	1335				
+IOOACKGP_01292	CDS	1335				hypothetical protein
+IOOACKGP_01293	gene	459				
+IOOACKGP_01293	CDS	459				hypothetical protein
+IOOACKGP_01294	gene	372				
+IOOACKGP_01294	CDS	372				hypothetical protein
+IOOACKGP_01295	gene	165				
+IOOACKGP_01295	CDS	165				hypothetical protein
+IOOACKGP_01296	gene	120				
+IOOACKGP_01296	CDS	120				hypothetical protein
+IOOACKGP_01297	gene	438				
+IOOACKGP_01297	CDS	438				hypothetical protein
+IOOACKGP_01298	gene	153				
+IOOACKGP_01298	CDS	153				hypothetical protein
+IOOACKGP_01299	gene	903				
+IOOACKGP_01299	CDS	903				hypothetical protein
+IOOACKGP_01300	gene	183				
+IOOACKGP_01300	CDS	183				hypothetical protein
+IOOACKGP_01301	gene	624	yedJ			
+IOOACKGP_01301	CDS	624	yedJ		COG1418	putative protein YedJ
+IOOACKGP_01302	gene	534				
+IOOACKGP_01302	CDS	534				hypothetical protein
+IOOACKGP_01303	gene	429				
+IOOACKGP_01303	CDS	429				hypothetical protein
+IOOACKGP_01304	gene	306				
+IOOACKGP_01304	CDS	306				hypothetical protein
+IOOACKGP_01305	gene	639				
+IOOACKGP_01305	CDS	639				hypothetical protein
+IOOACKGP_01306	gene	1050				
+IOOACKGP_01306	CDS	1050				hypothetical protein
+IOOACKGP_01307	gene	312				
+IOOACKGP_01307	CDS	312				hypothetical protein
+IOOACKGP_01308	gene	669				
+IOOACKGP_01308	CDS	669				hypothetical protein
+IOOACKGP_01309	gene	1227	pgk			
+IOOACKGP_01309	CDS	1227	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+IOOACKGP_01310	gene	348				
+IOOACKGP_01310	CDS	348				hypothetical protein
+IOOACKGP_01311	gene	444	sufU			
+IOOACKGP_01311	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+IOOACKGP_01312	gene	1245	csd			
+IOOACKGP_01312	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+IOOACKGP_01313	gene	309	doxA			
+IOOACKGP_01313	CDS	309	doxA			Naphthalene 1,2-dioxygenase system, ferredoxin component
+IOOACKGP_01314	gene	1401				
+IOOACKGP_01314	CDS	1401				hypothetical protein
+IOOACKGP_01315	gene	1401				
+IOOACKGP_01315	CDS	1401				hypothetical protein
+IOOACKGP_01316	gene	1230				
+IOOACKGP_01316	CDS	1230				hypothetical protein
+IOOACKGP_01317	gene	2112				
+IOOACKGP_01317	CDS	2112				hypothetical protein
+IOOACKGP_01318	gene	801				
+IOOACKGP_01318	CDS	801				hypothetical protein
+IOOACKGP_01319	gene	750	sumT			
+IOOACKGP_01319	CDS	750	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+IOOACKGP_01320	gene	936	hemC			
+IOOACKGP_01320	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+IOOACKGP_01321	gene	1278	hemL			
+IOOACKGP_01321	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+IOOACKGP_01322	gene	666	aqpZ2_2			
+IOOACKGP_01322	CDS	666	aqpZ2_2			Aquaporin Z 2
+IOOACKGP_01323	gene	357	arsC			
+IOOACKGP_01323	CDS	357	arsC	1.20.4.4		Arsenate reductase
+IOOACKGP_01324	gene	987				
+IOOACKGP_01324	CDS	987				hypothetical protein
+IOOACKGP_01325	gene	621				
+IOOACKGP_01325	CDS	621				hypothetical protein
+IOOACKGP_01326	gene	663				
+IOOACKGP_01326	CDS	663				hypothetical protein
+IOOACKGP_01327	gene	828	pstB3			
+IOOACKGP_01327	CDS	828	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+IOOACKGP_01328	gene	819	pstA			
+IOOACKGP_01328	CDS	819	pstA		COG0581	Phosphate transport system permease protein PstA
+IOOACKGP_01329	gene	972	pstC			
+IOOACKGP_01329	CDS	972	pstC		COG0573	Phosphate transport system permease protein PstC
+IOOACKGP_01330	gene	1053				
+IOOACKGP_01330	CDS	1053				hypothetical protein
+IOOACKGP_01331	gene	693				
+IOOACKGP_01331	CDS	693				hypothetical protein
+IOOACKGP_01332	gene	1317				
+IOOACKGP_01332	CDS	1317				hypothetical protein
+IOOACKGP_01333	gene	786	drrB			
+IOOACKGP_01333	CDS	786	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+IOOACKGP_01334	gene	996	lnrL_2			
+IOOACKGP_01334	CDS	996	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IOOACKGP_01335	gene	453				
+IOOACKGP_01335	CDS	453				hypothetical protein
+IOOACKGP_01336	gene	324				
+IOOACKGP_01336	CDS	324				hypothetical protein
+IOOACKGP_01337	gene	633				
+IOOACKGP_01337	CDS	633				hypothetical protein
+IOOACKGP_01338	gene	573				
+IOOACKGP_01338	CDS	573				hypothetical protein
+IOOACKGP_01339	gene	360				
+IOOACKGP_01339	CDS	360				hypothetical protein
+IOOACKGP_01340	gene	1524				
+IOOACKGP_01340	CDS	1524				hypothetical protein
+IOOACKGP_01341	gene	165				
+IOOACKGP_01341	CDS	165				hypothetical protein
+IOOACKGP_01342	gene	144				
+IOOACKGP_01342	CDS	144				hypothetical protein
+IOOACKGP_01343	gene	885				
+IOOACKGP_01343	CDS	885				hypothetical protein
+IOOACKGP_01344	gene	77				
+IOOACKGP_01344	tRNA	77				tRNA-Glu(ctc)
+IOOACKGP_01345	gene	654				
+IOOACKGP_01345	CDS	654				hypothetical protein
+IOOACKGP_01346	gene	564				
+IOOACKGP_01346	CDS	564				hypothetical protein
+IOOACKGP_01347	gene	510				
+IOOACKGP_01347	CDS	510				hypothetical protein
+IOOACKGP_01348	gene	249				
+IOOACKGP_01348	CDS	249				hypothetical protein
+IOOACKGP_01349	gene	77				
+IOOACKGP_01349	tRNA	77				tRNA-Gly(gcc)
+IOOACKGP_01350	gene	432				
+IOOACKGP_01350	CDS	432				hypothetical protein
+IOOACKGP_01351	gene	1329	magA			
+IOOACKGP_01351	CDS	1329	magA		COG0475	Iron transporter MagA
+IOOACKGP_01352	gene	108				
+IOOACKGP_01352	CDS	108				hypothetical protein
+IOOACKGP_01353	gene	1527				
+IOOACKGP_01353	CDS	1527				hypothetical protein
+IOOACKGP_01354	gene	2043				
+IOOACKGP_01354	CDS	2043				hypothetical protein
+IOOACKGP_01355	gene	948				
+IOOACKGP_01355	CDS	948				hypothetical protein
+IOOACKGP_01356	gene	312				
+IOOACKGP_01356	CDS	312				hypothetical protein
+IOOACKGP_01357	gene	846	ttuD_1			
+IOOACKGP_01357	CDS	846	ttuD_1		COG2897	Sulfur carrier protein TtuD
+IOOACKGP_01358	gene	816	nadK_1			
+IOOACKGP_01358	CDS	816	nadK_1	2.7.1.23		NAD kinase
+IOOACKGP_01359	gene	507				
+IOOACKGP_01359	CDS	507				hypothetical protein
+IOOACKGP_01360	gene	759	ttuD_2			
+IOOACKGP_01360	CDS	759	ttuD_2		COG2897	Sulfur carrier protein TtuD
+IOOACKGP_01361	gene	732				
+IOOACKGP_01361	CDS	732				hypothetical protein
+IOOACKGP_01362	gene	408				
+IOOACKGP_01362	CDS	408				hypothetical protein
+IOOACKGP_01363	gene	246				
+IOOACKGP_01363	CDS	246				hypothetical protein
+IOOACKGP_01364	gene	210				
+IOOACKGP_01364	CDS	210				hypothetical protein
+IOOACKGP_01365	gene	819	rph_3			
+IOOACKGP_01365	CDS	819	rph_3	2.7.7.56		Ribonuclease PH
+IOOACKGP_01366	gene	735	rph_4			
+IOOACKGP_01366	CDS	735	rph_4	2.7.7.56	COG0689	Ribonuclease PH
+IOOACKGP_01367	gene	450	pnp_2			
+IOOACKGP_01367	CDS	450	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+IOOACKGP_01368	gene	192				
+IOOACKGP_01368	CDS	192				hypothetical protein
+IOOACKGP_01369	gene	786				
+IOOACKGP_01369	CDS	786				hypothetical protein
+IOOACKGP_01370	gene	237	msrA3			
+IOOACKGP_01370	CDS	237	msrA3	1.8.4.11		Peptide methionine sulfoxide reductase MsrA 3
+IOOACKGP_01371	gene	285				
+IOOACKGP_01371	CDS	285				hypothetical protein
+IOOACKGP_01372	gene	594				
+IOOACKGP_01372	CDS	594				hypothetical protein
+IOOACKGP_01373	gene	387				
+IOOACKGP_01373	CDS	387				hypothetical protein
+IOOACKGP_01374	gene	1059				
+IOOACKGP_01374	CDS	1059				hypothetical protein
+IOOACKGP_01375	gene	741	eryG			
+IOOACKGP_01375	CDS	741	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+IOOACKGP_01376	gene	303				
+IOOACKGP_01376	CDS	303				hypothetical protein
+IOOACKGP_01377	gene	171				
+IOOACKGP_01377	CDS	171				hypothetical protein
+IOOACKGP_01378	gene	465				
+IOOACKGP_01378	CDS	465				hypothetical protein
+IOOACKGP_01379	gene	2966				
+IOOACKGP_01379	rRNA	2966				23S ribosomal RNA
+IOOACKGP_01380	gene	1465				
+IOOACKGP_01380	rRNA	1465				16S ribosomal RNA
+IOOACKGP_01381	gene	1299	hemL1			
+IOOACKGP_01381	CDS	1299	hemL1	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase 1
+IOOACKGP_01382	gene	822	cpoB			
+IOOACKGP_01382	CDS	822	cpoB			Cell division coordinator CpoB
+IOOACKGP_01383	gene	498				
+IOOACKGP_01383	CDS	498				hypothetical protein
+IOOACKGP_01384	gene	363				
+IOOACKGP_01384	CDS	363				hypothetical protein
+IOOACKGP_01385	gene	708	dnaJ_4			
+IOOACKGP_01385	CDS	708	dnaJ_4			Chaperone protein DnaJ
+IOOACKGP_01386	gene	402	hit_1			
+IOOACKGP_01386	CDS	402	hit_1		COG0537	Protein hit
+IOOACKGP_01387	gene	228				
+IOOACKGP_01387	CDS	228				hypothetical protein
+IOOACKGP_01388	gene	642				
+IOOACKGP_01388	CDS	642				hypothetical protein
+IOOACKGP_01389	gene	978	hbd			
+IOOACKGP_01389	CDS	978	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+IOOACKGP_01390	gene	369				
+IOOACKGP_01390	CDS	369				hypothetical protein
+IOOACKGP_01391	gene	108				
+IOOACKGP_01391	CDS	108				hypothetical protein
+IOOACKGP_01392	gene	261				
+IOOACKGP_01392	CDS	261				hypothetical protein
+IOOACKGP_01393	gene	477				
+IOOACKGP_01393	CDS	477				hypothetical protein
+IOOACKGP_01394	gene	411				
+IOOACKGP_01394	CDS	411				hypothetical protein
+IOOACKGP_01395	gene	195				
+IOOACKGP_01395	CDS	195				hypothetical protein
+IOOACKGP_01396	gene	309	rpsJ			
+IOOACKGP_01396	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+IOOACKGP_01397	gene	1299	cysNC			
+IOOACKGP_01397	CDS	1299	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+IOOACKGP_01398	gene	1137	fbp			
+IOOACKGP_01398	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+IOOACKGP_01399	gene	411				
+IOOACKGP_01399	CDS	411				hypothetical protein
+IOOACKGP_01400	gene	1773	lig			
+IOOACKGP_01400	CDS	1773	lig	6.5.1.1		DNA ligase
+IOOACKGP_01401	gene	654				
+IOOACKGP_01401	CDS	654				hypothetical protein
+IOOACKGP_01402	gene	537				
+IOOACKGP_01402	CDS	537				hypothetical protein
+IOOACKGP_01403	gene	381				
+IOOACKGP_01403	CDS	381				hypothetical protein
+IOOACKGP_01404	gene	237				
+IOOACKGP_01404	CDS	237				hypothetical protein
+IOOACKGP_01405	gene	1779				
+IOOACKGP_01405	CDS	1779				hypothetical protein
+IOOACKGP_01406	gene	450				
+IOOACKGP_01406	CDS	450				hypothetical protein
+IOOACKGP_01407	gene	444				
+IOOACKGP_01407	CDS	444				hypothetical protein
+IOOACKGP_01408	gene	138				
+IOOACKGP_01408	CDS	138				hypothetical protein
+IOOACKGP_01409	gene	768				
+IOOACKGP_01409	CDS	768				hypothetical protein
+IOOACKGP_01410	gene	768				
+IOOACKGP_01410	CDS	768				hypothetical protein
+IOOACKGP_01411	gene	492				
+IOOACKGP_01411	CDS	492				hypothetical protein
+IOOACKGP_01412	gene	162				
+IOOACKGP_01412	CDS	162				hypothetical protein
+IOOACKGP_01413	gene	216				
+IOOACKGP_01413	CDS	216				hypothetical protein
+IOOACKGP_01414	gene	141				
+IOOACKGP_01414	CDS	141				hypothetical protein
+IOOACKGP_01415	gene	249				
+IOOACKGP_01415	CDS	249				hypothetical protein
+IOOACKGP_01416	gene	1275	proP			
+IOOACKGP_01416	CDS	1275	proP			Proline/betaine transporter
+IOOACKGP_01417	gene	273				
+IOOACKGP_01417	CDS	273				hypothetical protein
+IOOACKGP_01418	gene	489				
+IOOACKGP_01418	CDS	489				hypothetical protein
+IOOACKGP_01419	gene	390				
+IOOACKGP_01419	CDS	390				hypothetical protein
+IOOACKGP_01420	gene	345				
+IOOACKGP_01420	CDS	345				hypothetical protein
+IOOACKGP_01421	gene	465	mntR			
+IOOACKGP_01421	CDS	465	mntR		COG1321	Transcriptional regulator MntR
+IOOACKGP_01422	gene	1353				
+IOOACKGP_01422	CDS	1353				hypothetical protein
+IOOACKGP_01423	gene	468				
+IOOACKGP_01423	CDS	468				hypothetical protein
+IOOACKGP_01424	gene	363	cheY_5			
+IOOACKGP_01424	CDS	363	cheY_5		COG0784	Chemotaxis protein CheY
+IOOACKGP_01425	gene	357				
+IOOACKGP_01425	CDS	357				hypothetical protein
+IOOACKGP_01426	gene	1884	rcsC_3			
+IOOACKGP_01426	CDS	1884	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+IOOACKGP_01427	gene	612	tmung			
+IOOACKGP_01427	CDS	612	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+IOOACKGP_01428	gene	561				
+IOOACKGP_01428	CDS	561		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+IOOACKGP_01429	gene	618				
+IOOACKGP_01429	CDS	618				hypothetical protein
+IOOACKGP_01430	gene	381				
+IOOACKGP_01430	CDS	381				hypothetical protein
+IOOACKGP_01431	gene	300				
+IOOACKGP_01431	CDS	300				hypothetical protein
+IOOACKGP_01432	gene	933	oppD			
+IOOACKGP_01432	CDS	933	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+IOOACKGP_01433	gene	1305	aspS2_1			
+IOOACKGP_01433	CDS	1305	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+IOOACKGP_01434	gene	243				
+IOOACKGP_01434	CDS	243				hypothetical protein
+IOOACKGP_01435	gene	1014	hicd			
+IOOACKGP_01435	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+IOOACKGP_01436	gene	1515	leuA_2			
+IOOACKGP_01436	CDS	1515	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+IOOACKGP_01437	gene	483	ilvH			
+IOOACKGP_01437	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+IOOACKGP_01438	gene	1698	ilvB			
+IOOACKGP_01438	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+IOOACKGP_01439	gene	405				
+IOOACKGP_01439	CDS	405				hypothetical protein
+IOOACKGP_01440	gene	1167	lsrF			
+IOOACKGP_01440	CDS	1167	lsrF	2.3.1.245		3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+IOOACKGP_01441	gene	1029	gutB			
+IOOACKGP_01441	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+IOOACKGP_01442	gene	294	atpF			
+IOOACKGP_01442	CDS	294	atpF			V-type ATP synthase subunit F
+IOOACKGP_01443	gene	300				
+IOOACKGP_01443	CDS	300				hypothetical protein
+IOOACKGP_01444	gene	252				
+IOOACKGP_01444	CDS	252				hypothetical protein
+IOOACKGP_01445	gene	303				
+IOOACKGP_01445	CDS	303				hypothetical protein
+IOOACKGP_01446	gene	750				
+IOOACKGP_01446	CDS	750				hypothetical protein
+IOOACKGP_01447	gene	3048	carB			
+IOOACKGP_01447	CDS	3048	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+IOOACKGP_01448	gene	1083	carA			
+IOOACKGP_01448	CDS	1083	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+IOOACKGP_01449	gene	1194	mpa			
+IOOACKGP_01449	CDS	1194	mpa			Proteasome-associated ATPase
+IOOACKGP_01450	gene	498				
+IOOACKGP_01450	CDS	498				hypothetical protein
+IOOACKGP_01451	gene	561				
+IOOACKGP_01451	CDS	561				hypothetical protein
+IOOACKGP_01452	gene	1161				
+IOOACKGP_01452	CDS	1161				hypothetical protein
+IOOACKGP_01453	gene	453				
+IOOACKGP_01453	CDS	453				hypothetical protein
+IOOACKGP_01454	gene	1056				
+IOOACKGP_01454	CDS	1056				hypothetical protein
+IOOACKGP_01455	gene	195				
+IOOACKGP_01455	CDS	195				hypothetical protein
+IOOACKGP_01456	gene	1164	citZ			
+IOOACKGP_01456	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+IOOACKGP_01457	gene	261				
+IOOACKGP_01457	CDS	261				hypothetical protein
+IOOACKGP_01458	gene	396				
+IOOACKGP_01458	CDS	396				hypothetical protein
+IOOACKGP_01459	gene	564	petE_2			
+IOOACKGP_01459	CDS	564	petE_2			Plastocyanin
+IOOACKGP_01460	gene	1587	uvrC			
+IOOACKGP_01460	CDS	1587	uvrC		COG0322	UvrABC system protein C
+IOOACKGP_01461	gene	573	uvrA_1			
+IOOACKGP_01461	CDS	573	uvrA_1		COG0178	UvrABC system protein A
+IOOACKGP_01462	gene	2196	uvrA_2			
+IOOACKGP_01462	CDS	2196	uvrA_2			UvrABC system protein A
+IOOACKGP_01463	gene	1953	uvrB			
+IOOACKGP_01463	CDS	1953	uvrB			UvrABC system protein B
+IOOACKGP_01464	gene	648				
+IOOACKGP_01464	CDS	648				hypothetical protein
+IOOACKGP_01465	gene	225				
+IOOACKGP_01465	CDS	225				hypothetical protein
+IOOACKGP_01466	gene	429				
+IOOACKGP_01466	CDS	429				hypothetical protein
+IOOACKGP_01467	gene	228				
+IOOACKGP_01467	CDS	228				hypothetical protein
+IOOACKGP_01468	gene	1104				
+IOOACKGP_01468	CDS	1104		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+IOOACKGP_01469	gene	945				
+IOOACKGP_01469	CDS	945				hypothetical protein
+IOOACKGP_01470	gene	1278				
+IOOACKGP_01470	CDS	1278		2.7.1.165	COG2379	D-glycerate 2-kinase
+IOOACKGP_01471	gene	105				
+IOOACKGP_01471	CDS	105				hypothetical protein
+IOOACKGP_01472	gene	240				
+IOOACKGP_01472	CDS	240				hypothetical protein
+IOOACKGP_01473	gene	981				
+IOOACKGP_01473	CDS	981				hypothetical protein
+IOOACKGP_01474	gene	618	purN			
+IOOACKGP_01474	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+IOOACKGP_01475	gene	321				
+IOOACKGP_01475	CDS	321				hypothetical protein
+IOOACKGP_01476	gene	285				
+IOOACKGP_01476	CDS	285				hypothetical protein
+IOOACKGP_01477	gene	864	folD			
+IOOACKGP_01477	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+IOOACKGP_01478	gene	570	yqgN			
+IOOACKGP_01478	CDS	570	yqgN		COG0212	putative protein YqgN
+IOOACKGP_01479	gene	1263	purD			
+IOOACKGP_01479	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+IOOACKGP_01480	gene	138				
+IOOACKGP_01480	CDS	138				hypothetical protein
+IOOACKGP_01481	gene	3198	ileS			
+IOOACKGP_01481	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+IOOACKGP_01482	gene	588				
+IOOACKGP_01482	CDS	588				hypothetical protein
+IOOACKGP_01483	gene	330				
+IOOACKGP_01483	CDS	330				hypothetical protein
+IOOACKGP_01484	gene	1107	sucC			
+IOOACKGP_01484	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+IOOACKGP_01485	gene	918	sucD			
+IOOACKGP_01485	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+IOOACKGP_01486	gene	168				
+IOOACKGP_01486	CDS	168				hypothetical protein
+IOOACKGP_01487	gene	249				
+IOOACKGP_01487	CDS	249				hypothetical protein
+IOOACKGP_01488	gene	92				
+IOOACKGP_01488	tRNA	92				tRNA-Val(cac)
+IOOACKGP_01489	gene	312				
+IOOACKGP_01489	CDS	312				hypothetical protein
+IOOACKGP_01490	gene	1293				
+IOOACKGP_01490	CDS	1293			COG1055	putative transporter
+IOOACKGP_01491	gene	186				
+IOOACKGP_01491	CDS	186				hypothetical protein
+IOOACKGP_01492	gene	96				
+IOOACKGP_01492	CDS	96				hypothetical protein
+IOOACKGP_01493	gene	318				
+IOOACKGP_01493	CDS	318				hypothetical protein
+IOOACKGP_01494	gene	249				
+IOOACKGP_01494	CDS	249				hypothetical protein
+IOOACKGP_01495	gene	198				
+IOOACKGP_01495	CDS	198				hypothetical protein
+IOOACKGP_01496	gene	363				
+IOOACKGP_01496	CDS	363				hypothetical protein
+IOOACKGP_01497	gene	117				
+IOOACKGP_01497	CDS	117				hypothetical protein
+IOOACKGP_01498	gene	1074				
+IOOACKGP_01498	CDS	1074				hypothetical protein
+IOOACKGP_01499	gene	552	pdaD			
+IOOACKGP_01499	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+IOOACKGP_01500	gene	552				
+IOOACKGP_01500	CDS	552				hypothetical protein
+IOOACKGP_01501	gene	231				
+IOOACKGP_01501	CDS	231				hypothetical protein
+IOOACKGP_01502	gene	75				
+IOOACKGP_01502	tRNA	75				tRNA-Thr(tgt)
+IOOACKGP_01503	gene	159				
+IOOACKGP_01503	CDS	159				hypothetical protein
+IOOACKGP_01504	gene	813				
+IOOACKGP_01504	CDS	813				hypothetical protein
+IOOACKGP_01505	gene	1347	deaD			
+IOOACKGP_01505	CDS	1347	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+IOOACKGP_01506	gene	234				
+IOOACKGP_01506	CDS	234				hypothetical protein
+IOOACKGP_01507	gene	288				
+IOOACKGP_01507	CDS	288				hypothetical protein
+IOOACKGP_01508	gene	492				
+IOOACKGP_01508	CDS	492				hypothetical protein
+IOOACKGP_01509	gene	456				
+IOOACKGP_01509	CDS	456				hypothetical protein
+IOOACKGP_01510	gene	303				
+IOOACKGP_01510	CDS	303				hypothetical protein
+IOOACKGP_01511	gene	93				
+IOOACKGP_01511	CDS	93				hypothetical protein
+IOOACKGP_01512	gene	321				
+IOOACKGP_01512	CDS	321				hypothetical protein
+IOOACKGP_01513	gene	2046				
+IOOACKGP_01513	CDS	2046				hypothetical protein
+IOOACKGP_01514	gene	237				
+IOOACKGP_01514	CDS	237				hypothetical protein
+IOOACKGP_01515	gene	1032	adhT			
+IOOACKGP_01515	CDS	1032	adhT	1.1.1.1		Alcohol dehydrogenase
+IOOACKGP_01516	gene	96				
+IOOACKGP_01516	CDS	96				hypothetical protein
+IOOACKGP_01517	gene	483				
+IOOACKGP_01517	CDS	483				hypothetical protein
+IOOACKGP_01518	gene	423				
+IOOACKGP_01518	CDS	423				hypothetical protein
+IOOACKGP_01519	gene	195				
+IOOACKGP_01519	CDS	195				hypothetical protein
+IOOACKGP_01520	gene	333				
+IOOACKGP_01520	CDS	333				hypothetical protein
+IOOACKGP_01521	gene	498				
+IOOACKGP_01521	CDS	498				hypothetical protein
+IOOACKGP_01522	gene	249				
+IOOACKGP_01522	CDS	249				hypothetical protein
+IOOACKGP_01523	gene	690				
+IOOACKGP_01523	CDS	690				hypothetical protein
+IOOACKGP_01524	gene	210				
+IOOACKGP_01524	CDS	210				hypothetical protein
+IOOACKGP_01525	gene	303				
+IOOACKGP_01525	CDS	303				hypothetical protein
+IOOACKGP_01526	gene	1197	truD			
+IOOACKGP_01526	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+IOOACKGP_01527	gene	1575	vgb_2			
+IOOACKGP_01527	CDS	1575	vgb_2	4.2.99.-		Virginiamycin B lyase
+IOOACKGP_01528	gene	354				
+IOOACKGP_01528	CDS	354				hypothetical protein
+IOOACKGP_01529	gene	1137				
+IOOACKGP_01529	CDS	1137				hypothetical protein
+IOOACKGP_01530	gene	282				
+IOOACKGP_01530	CDS	282				hypothetical protein
+IOOACKGP_01531	gene	2142	ftsH_4			
+IOOACKGP_01531	CDS	2142	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IOOACKGP_01532	gene	297				
+IOOACKGP_01532	CDS	297				hypothetical protein
+IOOACKGP_01533	gene	909	ctaB_2			
+IOOACKGP_01533	CDS	909	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+IOOACKGP_01534	gene	1047				
+IOOACKGP_01534	CDS	1047				hypothetical protein
+IOOACKGP_01535	gene	450				
+IOOACKGP_01535	CDS	450				hypothetical protein
+IOOACKGP_01536	gene	234				
+IOOACKGP_01536	CDS	234				hypothetical protein
+IOOACKGP_01537	gene	255				
+IOOACKGP_01537	CDS	255				hypothetical protein
+IOOACKGP_01538	gene	258				
+IOOACKGP_01538	CDS	258				hypothetical protein
+IOOACKGP_01539	gene	183				
+IOOACKGP_01539	CDS	183				hypothetical protein
+IOOACKGP_01540	gene	2040	hppA			
+IOOACKGP_01540	CDS	2040	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+IOOACKGP_01541	gene	363				
+IOOACKGP_01541	CDS	363				hypothetical protein
+IOOACKGP_01542	gene	1287	ftsP			
+IOOACKGP_01542	CDS	1287	ftsP			Cell division protein FtsP
+IOOACKGP_01543	gene	498				
+IOOACKGP_01543	CDS	498				hypothetical protein
+IOOACKGP_01544	gene	1113	apbC			
+IOOACKGP_01544	CDS	1113	apbC		COG0489	Iron-sulfur cluster carrier protein
+IOOACKGP_01545	gene	585	rnr			
+IOOACKGP_01545	CDS	585	rnr	3.1.13.1		Ribonuclease R
+IOOACKGP_01546	gene	189				
+IOOACKGP_01546	CDS	189				hypothetical protein
+IOOACKGP_01547	gene	819	nadC			
+IOOACKGP_01547	CDS	819	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+IOOACKGP_01548	gene	399				
+IOOACKGP_01548	CDS	399				hypothetical protein
+IOOACKGP_01549	gene	954	nadA			
+IOOACKGP_01549	CDS	954	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+IOOACKGP_01550	gene	819	nadX			
+IOOACKGP_01550	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+IOOACKGP_01551	gene	222	spo0F			
+IOOACKGP_01551	CDS	222	spo0F	2.7.-.-	COG0784	Sporulation initiation phosphotransferase F
+IOOACKGP_01552	gene	354				
+IOOACKGP_01552	CDS	354				hypothetical protein
+IOOACKGP_01553	gene	216				
+IOOACKGP_01553	CDS	216				hypothetical protein
+IOOACKGP_01554	gene	555				
+IOOACKGP_01554	CDS	555				hypothetical protein
+IOOACKGP_01555	gene	255				
+IOOACKGP_01555	CDS	255				hypothetical protein
+IOOACKGP_01556	gene	537				
+IOOACKGP_01556	CDS	537				hypothetical protein
+IOOACKGP_01557	gene	270				
+IOOACKGP_01557	CDS	270				hypothetical protein
+IOOACKGP_01558	gene	438				
+IOOACKGP_01558	CDS	438				hypothetical protein
+IOOACKGP_01559	gene	540				
+IOOACKGP_01559	CDS	540				hypothetical protein
+IOOACKGP_01560	gene	387				
+IOOACKGP_01560	CDS	387				hypothetical protein
+IOOACKGP_01561	gene	978				
+IOOACKGP_01561	CDS	978				hypothetical protein
+IOOACKGP_01562	gene	456	msrA			
+IOOACKGP_01562	CDS	456	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+IOOACKGP_01563	gene	432				
+IOOACKGP_01563	CDS	432				hypothetical protein
+IOOACKGP_01564	gene	792				
+IOOACKGP_01564	CDS	792			COG0596	putative protein
+IOOACKGP_01565	gene	426				
+IOOACKGP_01565	CDS	426				hypothetical protein
+IOOACKGP_01566	gene	426				
+IOOACKGP_01566	CDS	426				hypothetical protein
+IOOACKGP_01567	gene	1065	phaC			
+IOOACKGP_01567	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+IOOACKGP_01568	gene	597				
+IOOACKGP_01568	CDS	597				hypothetical protein
+IOOACKGP_01569	gene	393				
+IOOACKGP_01569	CDS	393				hypothetical protein
+IOOACKGP_01570	gene	423	gpt			
+IOOACKGP_01570	CDS	423	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+IOOACKGP_01571	gene	291				
+IOOACKGP_01571	CDS	291				hypothetical protein
+IOOACKGP_01572	gene	912				
+IOOACKGP_01572	CDS	912				hypothetical protein
+IOOACKGP_01573	gene	1419				
+IOOACKGP_01573	CDS	1419				hypothetical protein
+IOOACKGP_01574	gene	354				
+IOOACKGP_01574	CDS	354				hypothetical protein
+IOOACKGP_01575	gene	987	birA			
+IOOACKGP_01575	CDS	987	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+IOOACKGP_01576	gene	387				
+IOOACKGP_01576	CDS	387				hypothetical protein
+IOOACKGP_01577	gene	90				
+IOOACKGP_01577	CDS	90				hypothetical protein
+IOOACKGP_01578	gene	912	hldD			
+IOOACKGP_01578	CDS	912	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+IOOACKGP_01579	gene	411	yccU			
+IOOACKGP_01579	CDS	411	yccU		COG1832	putative protein YccU
+IOOACKGP_01580	gene	405				
+IOOACKGP_01580	CDS	405				hypothetical protein
+IOOACKGP_01581	gene	1212	OLA1			
+IOOACKGP_01581	CDS	1212	OLA1			Obg-like ATPase 1
+IOOACKGP_01582	gene	1428	cysS			
+IOOACKGP_01582	CDS	1428	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IOOACKGP_01583	gene	843	nadE			
+IOOACKGP_01583	CDS	843	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+IOOACKGP_01584	gene	303	todB			
+IOOACKGP_01584	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+IOOACKGP_01585	gene	1242	ahcY			
+IOOACKGP_01585	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+IOOACKGP_01586	gene	1656	metG_2			
+IOOACKGP_01586	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+IOOACKGP_01587	gene	756				
+IOOACKGP_01587	CDS	756				hypothetical protein
+IOOACKGP_01588	gene	921	tuf_2			
+IOOACKGP_01588	CDS	921	tuf_2			Elongation factor Tu
+IOOACKGP_01589	gene	516				
+IOOACKGP_01589	CDS	516		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+IOOACKGP_01590	gene	120				
+IOOACKGP_01590	CDS	120				hypothetical protein
+IOOACKGP_01591	gene	999	ilvC			
+IOOACKGP_01591	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+IOOACKGP_01592	gene	423	scpA			
+IOOACKGP_01592	CDS	423	scpA	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+IOOACKGP_01593	gene	144				
+IOOACKGP_01593	CDS	144				hypothetical protein
+IOOACKGP_01594	gene	2475	pepN			
+IOOACKGP_01594	CDS	2475	pepN	3.4.11.2	COG0308	Aminopeptidase N
+IOOACKGP_01595	gene	405				
+IOOACKGP_01595	CDS	405				hypothetical protein
+IOOACKGP_01596	gene	915				
+IOOACKGP_01596	CDS	915		3.6.-.-	COG1703	putative GTPase
+IOOACKGP_01597	gene	1602	mcm			
+IOOACKGP_01597	CDS	1602	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+IOOACKGP_01598	gene	3309				
+IOOACKGP_01598	CDS	3309				hypothetical protein
+IOOACKGP_01599	gene	720				
+IOOACKGP_01599	CDS	720				hypothetical protein
+IOOACKGP_01600	gene	621				
+IOOACKGP_01600	CDS	621				hypothetical protein
+IOOACKGP_01601	gene	1314				
+IOOACKGP_01601	CDS	1314				hypothetical protein
+IOOACKGP_01602	gene	189				
+IOOACKGP_01602	CDS	189				hypothetical protein
+IOOACKGP_01603	gene	174				
+IOOACKGP_01603	CDS	174				hypothetical protein
+IOOACKGP_01604	gene	441				
+IOOACKGP_01604	CDS	441				hypothetical protein
+IOOACKGP_01605	gene	987				
+IOOACKGP_01605	CDS	987				hypothetical protein
+IOOACKGP_01606	gene	1761				
+IOOACKGP_01606	CDS	1761				hypothetical protein
+IOOACKGP_01607	gene	213				
+IOOACKGP_01607	CDS	213				hypothetical protein
+IOOACKGP_01608	gene	867				
+IOOACKGP_01608	CDS	867				hypothetical protein
+IOOACKGP_01609	gene	330				
+IOOACKGP_01609	CDS	330				hypothetical protein
+IOOACKGP_01610	gene	1518				
+IOOACKGP_01610	CDS	1518				hypothetical protein
+IOOACKGP_01611	gene	396	epi			
+IOOACKGP_01611	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+IOOACKGP_01612	gene	1881	sasA_2			
+IOOACKGP_01612	CDS	1881	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+IOOACKGP_01613	gene	558				
+IOOACKGP_01613	CDS	558				hypothetical protein
+IOOACKGP_01614	gene	2775	ppdK			
+IOOACKGP_01614	CDS	2775	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+IOOACKGP_01615	gene	282				
+IOOACKGP_01615	CDS	282				hypothetical protein
+IOOACKGP_01616	gene	417				
+IOOACKGP_01616	CDS	417				hypothetical protein
+IOOACKGP_01617	gene	657	tpiA			
+IOOACKGP_01617	CDS	657	tpiA			Triosephosphate isomerase
+IOOACKGP_01618	gene	288				
+IOOACKGP_01618	CDS	288				hypothetical protein
+IOOACKGP_01619	gene	2559				
+IOOACKGP_01619	CDS	2559				hypothetical protein
+IOOACKGP_01620	gene	564				
+IOOACKGP_01620	CDS	564				hypothetical protein
+IOOACKGP_01621	gene	657				
+IOOACKGP_01621	CDS	657				hypothetical protein
+IOOACKGP_01622	gene	924				
+IOOACKGP_01622	CDS	924				hypothetical protein
+IOOACKGP_01623	gene	723				
+IOOACKGP_01623	CDS	723				hypothetical protein
+IOOACKGP_01624	gene	801				
+IOOACKGP_01624	CDS	801				hypothetical protein
+IOOACKGP_01625	gene	1272				
+IOOACKGP_01625	CDS	1272				hypothetical protein
+IOOACKGP_01626	gene	783				
+IOOACKGP_01626	CDS	783				hypothetical protein
+IOOACKGP_01627	gene	285				
+IOOACKGP_01627	CDS	285				hypothetical protein
+IOOACKGP_01628	gene	171				
+IOOACKGP_01628	CDS	171				hypothetical protein
+IOOACKGP_01629	gene	1491	dbpA_4			
+IOOACKGP_01629	CDS	1491	dbpA_4	3.6.4.13		ATP-dependent RNA helicase DbpA
+IOOACKGP_01630	gene	117				
+IOOACKGP_01630	CDS	117				hypothetical protein
+IOOACKGP_01631	gene	279	prsA1_2			
+IOOACKGP_01631	CDS	279	prsA1_2	5.2.1.8	COG0760	Foldase protein PrsA 1
+IOOACKGP_01632	gene	336	cheY_6			
+IOOACKGP_01632	CDS	336	cheY_6		COG0784	Chemotaxis protein CheY
+IOOACKGP_01633	gene	603				
+IOOACKGP_01633	CDS	603				hypothetical protein
+IOOACKGP_01634	gene	213				
+IOOACKGP_01634	CDS	213				hypothetical protein
+IOOACKGP_01635	gene	402	cheY_7			
+IOOACKGP_01635	CDS	402	cheY_7		COG0784	Chemotaxis protein CheY
+IOOACKGP_01636	gene	234				
+IOOACKGP_01636	CDS	234				hypothetical protein
+IOOACKGP_01637	gene	366	cheB_3			
+IOOACKGP_01637	CDS	366	cheB_3	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+IOOACKGP_01638	gene	399				
+IOOACKGP_01638	CDS	399				hypothetical protein
+IOOACKGP_01639	gene	279				
+IOOACKGP_01639	CDS	279				hypothetical protein
+IOOACKGP_01640	gene	402				
+IOOACKGP_01640	CDS	402				hypothetical protein
+IOOACKGP_01641	gene	747				
+IOOACKGP_01641	CDS	747				hypothetical protein
+IOOACKGP_01642	gene	888	menA_2			
+IOOACKGP_01642	CDS	888	menA_2	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IOOACKGP_01643	gene	1101				
+IOOACKGP_01643	CDS	1101				hypothetical protein
+IOOACKGP_01644	gene	366				
+IOOACKGP_01644	CDS	366				hypothetical protein
+IOOACKGP_01645	gene	915	asnB_2			
+IOOACKGP_01645	CDS	915	asnB_2	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+IOOACKGP_01646	gene	486				
+IOOACKGP_01646	CDS	486				hypothetical protein
+IOOACKGP_01647	gene	309				
+IOOACKGP_01647	CDS	309				hypothetical protein
+IOOACKGP_01648	gene	567				
+IOOACKGP_01648	CDS	567				hypothetical protein
+IOOACKGP_01649	gene	387				
+IOOACKGP_01649	CDS	387				hypothetical protein
+IOOACKGP_01650	gene	321				
+IOOACKGP_01650	CDS	321				hypothetical protein
+IOOACKGP_01651	gene	213				
+IOOACKGP_01651	CDS	213				hypothetical protein
+IOOACKGP_01652	gene	1806				
+IOOACKGP_01652	CDS	1806				hypothetical protein
+IOOACKGP_01653	gene	345				
+IOOACKGP_01653	CDS	345				hypothetical protein
+IOOACKGP_01654	gene	378				
+IOOACKGP_01654	CDS	378				hypothetical protein
+IOOACKGP_01655	gene	402				
+IOOACKGP_01655	CDS	402				hypothetical protein
+IOOACKGP_01656	gene	198				
+IOOACKGP_01656	CDS	198				hypothetical protein
+IOOACKGP_01657	gene	1689	thrS			
+IOOACKGP_01657	CDS	1689	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+IOOACKGP_01658	gene	885	speB			
+IOOACKGP_01658	CDS	885	speB	3.5.3.11	COG0010	Agmatinase
+IOOACKGP_01659	gene	582				
+IOOACKGP_01659	CDS	582		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+IOOACKGP_01660	gene	288				
+IOOACKGP_01660	CDS	288				hypothetical protein
+IOOACKGP_01661	gene	870	RBKS_2			
+IOOACKGP_01661	CDS	870	RBKS_2	2.7.1.15		Ribokinase
+IOOACKGP_01662	gene	1002	nadK_2			
+IOOACKGP_01662	CDS	1002	nadK_2	2.7.1.23		NAD kinase
+IOOACKGP_01663	gene	216				
+IOOACKGP_01663	CDS	216				hypothetical protein
+IOOACKGP_01664	gene	1566	pyrG			
+IOOACKGP_01664	CDS	1566	pyrG	6.3.4.2		CTP synthase
+IOOACKGP_01665	gene	333				
+IOOACKGP_01665	CDS	333				hypothetical protein
+IOOACKGP_01666	gene	804	trpA			
+IOOACKGP_01666	CDS	804	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+IOOACKGP_01667	gene	1191	trpB			
+IOOACKGP_01667	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+IOOACKGP_01668	gene	777	trpC			
+IOOACKGP_01668	CDS	777	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+IOOACKGP_01669	gene	1041	trpD			
+IOOACKGP_01669	CDS	1041	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+IOOACKGP_01670	gene	594	trpG			
+IOOACKGP_01670	CDS	594	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+IOOACKGP_01671	gene	1350	pabB			
+IOOACKGP_01671	CDS	1350	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+IOOACKGP_01672	gene	192				
+IOOACKGP_01672	CDS	192				hypothetical protein
+IOOACKGP_01673	gene	186				
+IOOACKGP_01673	CDS	186				hypothetical protein
+IOOACKGP_01674	gene	351				
+IOOACKGP_01674	CDS	351				hypothetical protein
+IOOACKGP_01675	gene	804				
+IOOACKGP_01675	CDS	804		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+IOOACKGP_01676	gene	1422				
+IOOACKGP_01676	CDS	1422				hypothetical protein
+IOOACKGP_01677	gene	249				
+IOOACKGP_01677	CDS	249				hypothetical protein
+IOOACKGP_01678	gene	999	iolS_2			
+IOOACKGP_01678	CDS	999	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+IOOACKGP_01679	gene	210				
+IOOACKGP_01679	CDS	210				hypothetical protein
+IOOACKGP_01680	gene	351				
+IOOACKGP_01680	CDS	351				hypothetical protein
+IOOACKGP_01681	gene	138				
+IOOACKGP_01681	CDS	138				hypothetical protein
+IOOACKGP_01682	gene	1203				
+IOOACKGP_01682	CDS	1203				hypothetical protein
+IOOACKGP_01683	gene	90				
+IOOACKGP_01683	CDS	90				hypothetical protein
+IOOACKGP_01684	gene	3369				
+IOOACKGP_01684	CDS	3369				hypothetical protein
+IOOACKGP_01685	gene	561				
+IOOACKGP_01685	CDS	561				hypothetical protein
+IOOACKGP_01686	gene	669				
+IOOACKGP_01686	CDS	669				hypothetical protein
+IOOACKGP_01687	gene	681				
+IOOACKGP_01687	CDS	681				hypothetical protein
+IOOACKGP_01688	gene	210				
+IOOACKGP_01688	CDS	210				hypothetical protein
+IOOACKGP_01689	gene	639	rutE			
+IOOACKGP_01689	CDS	639	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+IOOACKGP_01690	gene	192				
+IOOACKGP_01690	CDS	192				hypothetical protein
+IOOACKGP_01691	gene	351				
+IOOACKGP_01691	CDS	351				hypothetical protein
+IOOACKGP_01692	gene	210				
+IOOACKGP_01692	CDS	210				hypothetical protein
+IOOACKGP_01693	gene	471				
+IOOACKGP_01693	CDS	471				hypothetical protein
+IOOACKGP_01694	gene	270				
+IOOACKGP_01694	CDS	270				hypothetical protein
+IOOACKGP_01695	gene	231				
+IOOACKGP_01695	CDS	231				hypothetical protein
+IOOACKGP_01696	gene	333				
+IOOACKGP_01696	CDS	333				hypothetical protein
+IOOACKGP_01697	gene	333				
+IOOACKGP_01697	CDS	333				hypothetical protein
+IOOACKGP_01698	gene	435				
+IOOACKGP_01698	CDS	435				hypothetical protein
+IOOACKGP_01699	gene	594				
+IOOACKGP_01699	CDS	594				hypothetical protein
+IOOACKGP_01700	gene	207				
+IOOACKGP_01700	CDS	207				hypothetical protein
+IOOACKGP_01701	gene	162				
+IOOACKGP_01701	CDS	162				hypothetical protein
+IOOACKGP_01702	gene	903				
+IOOACKGP_01702	CDS	903				hypothetical protein
+IOOACKGP_01703	gene	540				
+IOOACKGP_01703	CDS	540				hypothetical protein
+IOOACKGP_01704	gene	264				
+IOOACKGP_01704	CDS	264				hypothetical protein
+IOOACKGP_01705	gene	318				
+IOOACKGP_01705	CDS	318				hypothetical protein
+IOOACKGP_01706	gene	1572	dinG			
+IOOACKGP_01706	CDS	1572	dinG	3.1.-.-		3'-5' exonuclease DinG
+IOOACKGP_01707	gene	561				
+IOOACKGP_01707	CDS	561				hypothetical protein
+IOOACKGP_01708	gene	1674	ilvD			
+IOOACKGP_01708	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+IOOACKGP_01709	gene	213				
+IOOACKGP_01709	CDS	213				hypothetical protein
+IOOACKGP_01710	gene	600				
+IOOACKGP_01710	CDS	600				hypothetical protein
+IOOACKGP_01711	gene	408	hit_2			
+IOOACKGP_01711	CDS	408	hit_2		COG0537	Protein hit
+IOOACKGP_01712	gene	1281				
+IOOACKGP_01712	CDS	1281				hypothetical protein
+IOOACKGP_01713	gene	645				
+IOOACKGP_01713	CDS	645				hypothetical protein
+IOOACKGP_01714	gene	609				
+IOOACKGP_01714	CDS	609				hypothetical protein
+IOOACKGP_01715	gene	216				
+IOOACKGP_01715	CDS	216				hypothetical protein
+IOOACKGP_01716	gene	729				
+IOOACKGP_01716	CDS	729				hypothetical protein
+IOOACKGP_01717	gene	333				
+IOOACKGP_01717	CDS	333				hypothetical protein
+IOOACKGP_01718	gene	351				
+IOOACKGP_01718	CDS	351				hypothetical protein
+IOOACKGP_01719	gene	849	zupT			
+IOOACKGP_01719	CDS	849	zupT			Zinc transporter ZupT
+IOOACKGP_01720	gene	495				
+IOOACKGP_01720	CDS	495				hypothetical protein
+IOOACKGP_01721	gene	1026				
+IOOACKGP_01721	CDS	1026				hypothetical protein
+IOOACKGP_01722	gene	210				
+IOOACKGP_01722	CDS	210				hypothetical protein
+IOOACKGP_01723	gene	192				
+IOOACKGP_01723	CDS	192				hypothetical protein
+IOOACKGP_01724	gene	1311	aspS2_2			
+IOOACKGP_01724	CDS	1311	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+IOOACKGP_01725	gene	273				
+IOOACKGP_01725	CDS	273				hypothetical protein
+IOOACKGP_01726	gene	432				
+IOOACKGP_01726	CDS	432				hypothetical protein
+IOOACKGP_01727	gene	264				
+IOOACKGP_01727	CDS	264				hypothetical protein
+IOOACKGP_01728	gene	1446	gatA			
+IOOACKGP_01728	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IOOACKGP_01729	gene	1404	gatB			
+IOOACKGP_01729	CDS	1404	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IOOACKGP_01730	gene	264				
+IOOACKGP_01730	CDS	264				hypothetical protein
+IOOACKGP_01731	gene	876	resE			
+IOOACKGP_01731	CDS	876	resE	2.7.13.3		Sensor histidine kinase ResE
+IOOACKGP_01732	gene	498	kaiC			
+IOOACKGP_01732	CDS	498	kaiC	2.7.11.1		Circadian clock protein kinase KaiC
+IOOACKGP_01733	gene	1227				
+IOOACKGP_01733	CDS	1227				hypothetical protein
+IOOACKGP_01734	gene	348				
+IOOACKGP_01734	CDS	348				hypothetical protein
+IOOACKGP_01735	gene	735				
+IOOACKGP_01735	CDS	735				hypothetical protein
+IOOACKGP_01736	gene	345				
+IOOACKGP_01736	CDS	345				hypothetical protein
+IOOACKGP_01737	gene	228				
+IOOACKGP_01737	CDS	228				hypothetical protein
+IOOACKGP_01738	gene	558				
+IOOACKGP_01738	CDS	558				hypothetical protein
+IOOACKGP_01739	gene	537	yvqK			
+IOOACKGP_01739	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+IOOACKGP_01740	gene	123				
+IOOACKGP_01740	CDS	123				hypothetical protein
+IOOACKGP_01741	gene	77				
+IOOACKGP_01741	tRNA	77				tRNA-Phe(gaa)
+IOOACKGP_01742	gene	300				
+IOOACKGP_01742	CDS	300				hypothetical protein
+IOOACKGP_01743	gene	240				
+IOOACKGP_01743	CDS	240				hypothetical protein
+IOOACKGP_01744	gene	219				
+IOOACKGP_01744	CDS	219				hypothetical protein
+IOOACKGP_01745	gene	414				
+IOOACKGP_01745	CDS	414				hypothetical protein
+IOOACKGP_01746	gene	387				
+IOOACKGP_01746	CDS	387				hypothetical protein
+IOOACKGP_01747	gene	387				
+IOOACKGP_01747	CDS	387				hypothetical protein
+IOOACKGP_01748	gene	783				
+IOOACKGP_01748	CDS	783				hypothetical protein
+IOOACKGP_01749	gene	612				
+IOOACKGP_01749	CDS	612				hypothetical protein
+IOOACKGP_01750	gene	1209	tdcB			
+IOOACKGP_01750	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+IOOACKGP_01751	gene	576	purE			
+IOOACKGP_01751	CDS	576	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+IOOACKGP_01752	gene	96				
+IOOACKGP_01752	CDS	96				hypothetical protein
+IOOACKGP_01753	gene	1143	purK			
+IOOACKGP_01753	CDS	1143	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+IOOACKGP_01754	gene	393				
+IOOACKGP_01754	CDS	393				hypothetical protein
+IOOACKGP_01755	gene	528				
+IOOACKGP_01755	CDS	528			COG0586	putative membrane protein
+IOOACKGP_01756	gene	117				
+IOOACKGP_01756	CDS	117				hypothetical protein
+IOOACKGP_01757	gene	672	cugP_3			
+IOOACKGP_01757	CDS	672	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IOOACKGP_01758	gene	150				
+IOOACKGP_01758	CDS	150				hypothetical protein
+IOOACKGP_01759	gene	792	fgd			
+IOOACKGP_01759	CDS	792	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+IOOACKGP_01760	gene	165				
+IOOACKGP_01760	CDS	165				hypothetical protein
+IOOACKGP_01761	gene	939				
+IOOACKGP_01761	CDS	939				hypothetical protein
+IOOACKGP_01762	gene	174				
+IOOACKGP_01762	CDS	174				hypothetical protein
+IOOACKGP_01763	gene	249				
+IOOACKGP_01763	CDS	249				hypothetical protein
+IOOACKGP_01764	gene	825				
+IOOACKGP_01764	CDS	825				hypothetical protein
+IOOACKGP_01765	gene	747				
+IOOACKGP_01765	CDS	747				hypothetical protein
+IOOACKGP_01766	gene	432				
+IOOACKGP_01766	CDS	432				hypothetical protein
+IOOACKGP_01767	gene	252				
+IOOACKGP_01767	CDS	252				hypothetical protein
+IOOACKGP_01768	gene	261				
+IOOACKGP_01768	CDS	261				hypothetical protein
+IOOACKGP_01769	gene	336				
+IOOACKGP_01769	CDS	336				hypothetical protein
+IOOACKGP_01770	gene	468				
+IOOACKGP_01770	CDS	468				hypothetical protein
+IOOACKGP_01771	gene	324				
+IOOACKGP_01771	CDS	324				hypothetical protein
+IOOACKGP_01772	gene	372				
+IOOACKGP_01772	CDS	372				hypothetical protein
+IOOACKGP_01773	gene	843	thrC_2			
+IOOACKGP_01773	CDS	843	thrC_2	4.2.3.1	COG0498	Threonine synthase
+IOOACKGP_01774	gene	1251				
+IOOACKGP_01774	CDS	1251				hypothetical protein
+IOOACKGP_01775	gene	1053				
+IOOACKGP_01775	CDS	1053				hypothetical protein
+IOOACKGP_01776	gene	807				
+IOOACKGP_01776	CDS	807				hypothetical protein
+IOOACKGP_01777	gene	906				
+IOOACKGP_01777	CDS	906				hypothetical protein
+IOOACKGP_01778	gene	1959				
+IOOACKGP_01778	CDS	1959				hypothetical protein
+IOOACKGP_01779	gene	957	rssB			
+IOOACKGP_01779	CDS	957	rssB			Regulator of RpoS
+IOOACKGP_01780	gene	705				
+IOOACKGP_01780	CDS	705				hypothetical protein
+IOOACKGP_01781	gene	1395	mvaS			
+IOOACKGP_01781	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+IOOACKGP_01782	gene	612				
+IOOACKGP_01782	CDS	612				hypothetical protein
+IOOACKGP_01783	gene	690	bioD1			
+IOOACKGP_01783	CDS	690	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+IOOACKGP_01784	gene	372				
+IOOACKGP_01784	CDS	372				hypothetical protein
+IOOACKGP_01785	gene	168				
+IOOACKGP_01785	CDS	168				hypothetical protein
+IOOACKGP_01786	gene	426				
+IOOACKGP_01786	CDS	426				hypothetical protein
+IOOACKGP_01787	gene	561				
+IOOACKGP_01787	CDS	561				hypothetical protein
+IOOACKGP_01788	gene	921				
+IOOACKGP_01788	CDS	921				hypothetical protein
+IOOACKGP_01789	gene	1215	bioK			
+IOOACKGP_01789	CDS	1215	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+IOOACKGP_01790	gene	99				
+IOOACKGP_01790	CDS	99				hypothetical protein
+IOOACKGP_01791	gene	981	bioB			
+IOOACKGP_01791	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+IOOACKGP_01792	gene	162				
+IOOACKGP_01792	CDS	162				hypothetical protein
+IOOACKGP_01793	gene	720				
+IOOACKGP_01793	CDS	720				hypothetical protein
+IOOACKGP_01794	gene	177				
+IOOACKGP_01794	CDS	177				hypothetical protein
+IOOACKGP_01795	gene	186				
+IOOACKGP_01795	CDS	186				hypothetical protein
+IOOACKGP_01796	gene	330				
+IOOACKGP_01796	CDS	330				hypothetical protein
+IOOACKGP_01797	gene	1158	bioF			
+IOOACKGP_01797	CDS	1158	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+IOOACKGP_01798	gene	1722	sasA_3			
+IOOACKGP_01798	CDS	1722	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+IOOACKGP_01799	gene	351	cheY_8			
+IOOACKGP_01799	CDS	351	cheY_8		COG0784	Chemotaxis protein CheY
+IOOACKGP_01800	gene	654				
+IOOACKGP_01800	CDS	654				hypothetical protein
+IOOACKGP_01801	gene	342				
+IOOACKGP_01801	CDS	342				hypothetical protein
+IOOACKGP_01802	gene	435				
+IOOACKGP_01802	CDS	435				hypothetical protein
+IOOACKGP_01803	gene	738	prcA_2			
+IOOACKGP_01803	CDS	738	prcA_2			Proteasome subunit alpha
+IOOACKGP_01804	gene	813				
+IOOACKGP_01804	CDS	813				hypothetical protein
+IOOACKGP_01805	gene	111				
+IOOACKGP_01805	CDS	111				hypothetical protein
+IOOACKGP_01806	gene	993				
+IOOACKGP_01806	CDS	993				hypothetical protein
+IOOACKGP_01807	gene	816				
+IOOACKGP_01807	CDS	816				hypothetical protein
+IOOACKGP_01808	gene	267				
+IOOACKGP_01808	CDS	267				hypothetical protein
+IOOACKGP_01809	gene	396				
+IOOACKGP_01809	CDS	396				hypothetical protein
+IOOACKGP_01810	gene	459				
+IOOACKGP_01810	CDS	459				hypothetical protein
+IOOACKGP_01811	gene	756				
+IOOACKGP_01811	CDS	756				hypothetical protein
+IOOACKGP_01812	gene	204				
+IOOACKGP_01812	CDS	204				hypothetical protein
+IOOACKGP_01813	gene	267				
+IOOACKGP_01813	CDS	267				hypothetical protein
+IOOACKGP_01814	gene	324				
+IOOACKGP_01814	CDS	324				hypothetical protein
+IOOACKGP_01815	gene	423	rplN			
+IOOACKGP_01815	CDS	423	rplN			50S ribosomal protein L14
+IOOACKGP_01816	gene	474				
+IOOACKGP_01816	CDS	474				hypothetical protein
+IOOACKGP_01817	gene	717				
+IOOACKGP_01817	CDS	717				hypothetical protein
+IOOACKGP_01818	gene	522				
+IOOACKGP_01818	CDS	522				hypothetical protein
+IOOACKGP_01819	gene	180				
+IOOACKGP_01819	CDS	180				hypothetical protein
+IOOACKGP_01820	gene	393	rpsH			
+IOOACKGP_01820	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+IOOACKGP_01821	gene	558				
+IOOACKGP_01821	CDS	558				hypothetical protein
+IOOACKGP_01822	gene	288				
+IOOACKGP_01822	CDS	288				hypothetical protein
+IOOACKGP_01823	gene	75				
+IOOACKGP_01823	tRNA	75				tRNA-Asn(gtt)
+IOOACKGP_01824	gene	240				
+IOOACKGP_01824	CDS	240				hypothetical protein
+IOOACKGP_01825	gene	225				
+IOOACKGP_01825	CDS	225				hypothetical protein
+IOOACKGP_01826	gene	450				
+IOOACKGP_01826	CDS	450				hypothetical protein
+IOOACKGP_01827	gene	555				
+IOOACKGP_01827	CDS	555				hypothetical protein
+IOOACKGP_01828	gene	342				
+IOOACKGP_01828	CDS	342				hypothetical protein
+IOOACKGP_01829	gene	411				
+IOOACKGP_01829	CDS	411				hypothetical protein
+IOOACKGP_01830	gene	531				
+IOOACKGP_01830	CDS	531				hypothetical protein
+IOOACKGP_01831	gene	825	purC			
+IOOACKGP_01831	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IOOACKGP_01832	gene	246				
+IOOACKGP_01832	CDS	246				hypothetical protein
+IOOACKGP_01833	gene	246				
+IOOACKGP_01833	CDS	246				hypothetical protein
+IOOACKGP_01834	gene	1434	purF			
+IOOACKGP_01834	CDS	1434	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+IOOACKGP_01835	gene	2163	purL			
+IOOACKGP_01835	CDS	2163	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+IOOACKGP_01836	gene	681	purQ			
+IOOACKGP_01836	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IOOACKGP_01837	gene	261	purS			
+IOOACKGP_01837	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+IOOACKGP_01838	gene	780				
+IOOACKGP_01838	CDS	780			COG2968	26 kDa periplasmic immunogenic protein
+IOOACKGP_01839	gene	708				
+IOOACKGP_01839	CDS	708				hypothetical protein
+IOOACKGP_01840	gene	465				
+IOOACKGP_01840	CDS	465				hypothetical protein
+IOOACKGP_01841	gene	801	tatC			
+IOOACKGP_01841	CDS	801	tatC		COG0805	Sec-independent protein translocase protein TatC
+IOOACKGP_01842	gene	210	tatA			
+IOOACKGP_01842	CDS	210	tatA			Sec-independent protein translocase protein TatA
+IOOACKGP_01843	gene	429				
+IOOACKGP_01843	CDS	429				hypothetical protein
+IOOACKGP_01844	gene	558	ecdB			
+IOOACKGP_01844	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+IOOACKGP_01845	gene	195				
+IOOACKGP_01845	CDS	195				hypothetical protein
+IOOACKGP_01846	gene	1092				
+IOOACKGP_01846	CDS	1092				hypothetical protein
+IOOACKGP_01847	gene	261				
+IOOACKGP_01847	CDS	261				hypothetical protein
+IOOACKGP_01848	gene	180				
+IOOACKGP_01848	CDS	180				hypothetical protein
+IOOACKGP_01849	gene	564				
+IOOACKGP_01849	CDS	564				hypothetical protein
+IOOACKGP_01850	gene	396				
+IOOACKGP_01850	CDS	396				hypothetical protein
+IOOACKGP_01851	gene	213				
+IOOACKGP_01851	CDS	213				hypothetical protein
+IOOACKGP_01852	gene	213				
+IOOACKGP_01852	CDS	213				hypothetical protein
+IOOACKGP_01853	gene	426				
+IOOACKGP_01853	CDS	426				hypothetical protein
+IOOACKGP_01854	gene	1815	IMPDH_4			
+IOOACKGP_01854	CDS	1815	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IOOACKGP_01855	gene	825				
+IOOACKGP_01855	CDS	825				hypothetical protein
+IOOACKGP_01856	gene	255				
+IOOACKGP_01856	CDS	255				hypothetical protein
+IOOACKGP_01857	gene	153				
+IOOACKGP_01857	CDS	153				hypothetical protein
+IOOACKGP_01858	gene	234				
+IOOACKGP_01858	CDS	234				hypothetical protein
+IOOACKGP_01859	gene	567				
+IOOACKGP_01859	CDS	567				hypothetical protein
+IOOACKGP_01860	gene	288				
+IOOACKGP_01860	CDS	288				hypothetical protein
+IOOACKGP_01861	gene	216				
+IOOACKGP_01861	CDS	216				hypothetical protein
+IOOACKGP_01862	gene	186				
+IOOACKGP_01862	CDS	186				hypothetical protein
+IOOACKGP_01863	gene	378				
+IOOACKGP_01863	CDS	378				hypothetical protein
+IOOACKGP_01864	gene	1503				
+IOOACKGP_01864	CDS	1503				hypothetical protein
+IOOACKGP_01865	gene	159				
+IOOACKGP_01865	CDS	159				hypothetical protein
+IOOACKGP_01866	gene	885				
+IOOACKGP_01866	CDS	885				hypothetical protein
+IOOACKGP_01867	gene	228				
+IOOACKGP_01867	CDS	228				hypothetical protein
+IOOACKGP_01868	gene	240				
+IOOACKGP_01868	CDS	240				hypothetical protein
+IOOACKGP_01869	gene	228				
+IOOACKGP_01869	CDS	228				hypothetical protein
+IOOACKGP_01870	gene	582				
+IOOACKGP_01870	CDS	582				hypothetical protein
+IOOACKGP_01871	gene	243				
+IOOACKGP_01871	CDS	243				hypothetical protein
+IOOACKGP_01872	gene	2193	fusA			
+IOOACKGP_01872	CDS	2193	fusA		COG0480	Elongation factor G
+IOOACKGP_01873	gene	828	mqnD			
+IOOACKGP_01873	CDS	828	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+IOOACKGP_01874	gene	294				
+IOOACKGP_01874	CDS	294				hypothetical protein
+IOOACKGP_01875	gene	1371				
+IOOACKGP_01875	CDS	1371				hypothetical protein
+IOOACKGP_01876	gene	750	petE_3			
+IOOACKGP_01876	CDS	750	petE_3			Plastocyanin
+IOOACKGP_01877	gene	900				
+IOOACKGP_01877	CDS	900				hypothetical protein
+IOOACKGP_01878	gene	327				
+IOOACKGP_01878	CDS	327				hypothetical protein
+IOOACKGP_01879	gene	564				
+IOOACKGP_01879	CDS	564				hypothetical protein
+IOOACKGP_01880	gene	276				
+IOOACKGP_01880	CDS	276				hypothetical protein
+IOOACKGP_01881	gene	105				
+IOOACKGP_01881	CDS	105				hypothetical protein
+IOOACKGP_01882	gene	156				
+IOOACKGP_01882	CDS	156				hypothetical protein
+IOOACKGP_01883	gene	201				
+IOOACKGP_01883	CDS	201				hypothetical protein
+IOOACKGP_01884	gene	279				
+IOOACKGP_01884	CDS	279				hypothetical protein
+IOOACKGP_01885	gene	318				
+IOOACKGP_01885	CDS	318				hypothetical protein
+IOOACKGP_01886	gene	1098	mqnE			
+IOOACKGP_01886	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+IOOACKGP_01887	gene	174				
+IOOACKGP_01887	CDS	174				hypothetical protein
+IOOACKGP_01888	gene	498				
+IOOACKGP_01888	CDS	498				hypothetical protein
+IOOACKGP_01889	gene	180				
+IOOACKGP_01889	CDS	180				hypothetical protein
+IOOACKGP_01890	gene	183				
+IOOACKGP_01890	CDS	183				hypothetical protein
+IOOACKGP_01891	gene	246				
+IOOACKGP_01891	CDS	246				hypothetical protein
+IOOACKGP_01892	gene	921				
+IOOACKGP_01892	CDS	921				hypothetical protein
+IOOACKGP_01893	gene	228				
+IOOACKGP_01893	CDS	228				hypothetical protein
+IOOACKGP_01894	gene	237	lrpC			
+IOOACKGP_01894	CDS	237	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+IOOACKGP_01895	gene	174				
+IOOACKGP_01895	CDS	174				hypothetical protein
+IOOACKGP_01896	gene	192				
+IOOACKGP_01896	CDS	192				hypothetical protein
+IOOACKGP_01897	gene	252				
+IOOACKGP_01897	CDS	252				hypothetical protein

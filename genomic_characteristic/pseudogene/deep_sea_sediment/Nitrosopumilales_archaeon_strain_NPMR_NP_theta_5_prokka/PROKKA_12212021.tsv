@@ -1,0 +1,1625 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ICONNLDH_00001	gene	396				
+ICONNLDH_00001	CDS	396				hypothetical protein
+ICONNLDH_00002	gene	768				
+ICONNLDH_00002	CDS	768				hypothetical protein
+ICONNLDH_00003	gene	465	dtxR			
+ICONNLDH_00003	CDS	465	dtxR			Diphtheria toxin repressor
+ICONNLDH_00004	gene	165				
+ICONNLDH_00004	CDS	165				hypothetical protein
+ICONNLDH_00005	gene	420				
+ICONNLDH_00005	CDS	420				hypothetical protein
+ICONNLDH_00006	gene	369				
+ICONNLDH_00006	CDS	369				hypothetical protein
+ICONNLDH_00007	gene	1053				
+ICONNLDH_00007	CDS	1053				hypothetical protein
+ICONNLDH_00008	gene	294	cutA			
+ICONNLDH_00008	CDS	294	cutA		COG1324	Divalent-cation tolerance protein CutA
+ICONNLDH_00009	gene	1203				
+ICONNLDH_00009	CDS	1203				hypothetical protein
+ICONNLDH_00010	gene	912	ttuA			
+ICONNLDH_00010	CDS	912	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+ICONNLDH_00011	gene	312				
+ICONNLDH_00011	misc_RNA	312				Archaea_SRP
+ICONNLDH_00012	gene	417				
+ICONNLDH_00012	CDS	417				hypothetical protein
+ICONNLDH_00013	gene	279	yccX			
+ICONNLDH_00013	CDS	279	yccX	3.6.1.7		Acylphosphatase
+ICONNLDH_00014	gene	732				
+ICONNLDH_00014	CDS	732				hypothetical protein
+ICONNLDH_00015	gene	2187	ftsH_1			
+ICONNLDH_00015	CDS	2187	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+ICONNLDH_00016	gene	1290				
+ICONNLDH_00016	CDS	1290				hypothetical protein
+ICONNLDH_00017	gene	237				
+ICONNLDH_00017	CDS	237				hypothetical protein
+ICONNLDH_00018	gene	243				
+ICONNLDH_00018	CDS	243				hypothetical protein
+ICONNLDH_00019	gene	987				
+ICONNLDH_00019	CDS	987				hypothetical protein
+ICONNLDH_00020	gene	687	aqpZ			
+ICONNLDH_00020	CDS	687	aqpZ		COG0580	Aquaporin Z
+ICONNLDH_00021	gene	1278	hemL			
+ICONNLDH_00021	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+ICONNLDH_00022	gene	933	hemC			
+ICONNLDH_00022	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+ICONNLDH_00023	gene	756	sumT			
+ICONNLDH_00023	CDS	756	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+ICONNLDH_00024	gene	798				
+ICONNLDH_00024	CDS	798				hypothetical protein
+ICONNLDH_00025	gene	1401				
+ICONNLDH_00025	CDS	1401				hypothetical protein
+ICONNLDH_00026	gene	1401				
+ICONNLDH_00026	CDS	1401				hypothetical protein
+ICONNLDH_00027	gene	318	bphA3			
+ICONNLDH_00027	CDS	318	bphA3			Biphenyl dioxygenase ferredoxin subunit
+ICONNLDH_00028	gene	1245	csd			
+ICONNLDH_00028	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+ICONNLDH_00029	gene	447	sufU			
+ICONNLDH_00029	CDS	447	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+ICONNLDH_00030	gene	348				
+ICONNLDH_00030	CDS	348				hypothetical protein
+ICONNLDH_00031	gene	1119	pgk/tpi			
+ICONNLDH_00031	CDS	1119	pgk/tpi		COG0126	Bifunctional PGK/TIM
+ICONNLDH_00032	gene	405				
+ICONNLDH_00032	CDS	405				hypothetical protein
+ICONNLDH_00033	gene	687				
+ICONNLDH_00033	CDS	687				hypothetical protein
+ICONNLDH_00034	gene	489				
+ICONNLDH_00034	CDS	489				hypothetical protein
+ICONNLDH_00035	gene	816	nadK			
+ICONNLDH_00035	CDS	816	nadK	2.7.1.23		NAD kinase
+ICONNLDH_00036	gene	846	ttuD			
+ICONNLDH_00036	CDS	846	ttuD		COG2897	Sulfur carrier protein TtuD
+ICONNLDH_00037	gene	312				
+ICONNLDH_00037	CDS	312				hypothetical protein
+ICONNLDH_00038	gene	957				
+ICONNLDH_00038	CDS	957				hypothetical protein
+ICONNLDH_00039	gene	2022				
+ICONNLDH_00039	CDS	2022				hypothetical protein
+ICONNLDH_00040	gene	1224				
+ICONNLDH_00040	CDS	1224				hypothetical protein
+ICONNLDH_00041	gene	1323	magA			
+ICONNLDH_00041	CDS	1323	magA		COG0475	Iron transporter MagA
+ICONNLDH_00042	gene	447				
+ICONNLDH_00042	CDS	447				hypothetical protein
+ICONNLDH_00043	gene	74				
+ICONNLDH_00043	tRNA	74				tRNA-Gly(gcc)
+ICONNLDH_00044	gene	510				
+ICONNLDH_00044	CDS	510				hypothetical protein
+ICONNLDH_00045	gene	618				
+ICONNLDH_00045	CDS	618				hypothetical protein
+ICONNLDH_00046	gene	663				
+ICONNLDH_00046	CDS	663				hypothetical protein
+ICONNLDH_00047	gene	1449	rtcB			
+ICONNLDH_00047	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+ICONNLDH_00048	gene	1362	purB			
+ICONNLDH_00048	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+ICONNLDH_00049	gene	747	asnB			
+ICONNLDH_00049	CDS	747	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+ICONNLDH_00050	gene	285	phhB			
+ICONNLDH_00050	CDS	285	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+ICONNLDH_00051	gene	816				
+ICONNLDH_00051	CDS	816				hypothetical protein
+ICONNLDH_00052	gene	2316	valS			
+ICONNLDH_00052	CDS	2316	valS	6.1.1.9		Valine--tRNA ligase
+ICONNLDH_00053	gene	612	pdxT			
+ICONNLDH_00053	CDS	612	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+ICONNLDH_00054	gene	969	pdxS			
+ICONNLDH_00054	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+ICONNLDH_00055	gene	534				
+ICONNLDH_00055	CDS	534				hypothetical protein
+ICONNLDH_00056	gene	2271	acnA			
+ICONNLDH_00056	CDS	2271	acnA	4.2.1.3		Aconitate hydratase A
+ICONNLDH_00057	gene	1560	mrpA			
+ICONNLDH_00057	CDS	1560	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+ICONNLDH_00058	gene	306	nuoK			
+ICONNLDH_00058	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+ICONNLDH_00059	gene	501				
+ICONNLDH_00059	CDS	501				hypothetical protein
+ICONNLDH_00060	gene	498	ndhI_1			
+ICONNLDH_00060	CDS	498	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ICONNLDH_00061	gene	1299	ndhA			
+ICONNLDH_00061	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+ICONNLDH_00062	gene	1134	ndhH			
+ICONNLDH_00062	CDS	1134	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+ICONNLDH_00063	gene	576	ndhJ			
+ICONNLDH_00063	CDS	576	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+ICONNLDH_00064	gene	525	ndhK			
+ICONNLDH_00064	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+ICONNLDH_00065	gene	375	ndhC			
+ICONNLDH_00065	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+ICONNLDH_00066	gene	474	bcp			
+ICONNLDH_00066	CDS	474	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+ICONNLDH_00067	gene	513				
+ICONNLDH_00067	CDS	513				hypothetical protein
+ICONNLDH_00068	gene	1488	cfiB			
+ICONNLDH_00068	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+ICONNLDH_00069	gene	1548	pccB			
+ICONNLDH_00069	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+ICONNLDH_00070	gene	1020	corA			
+ICONNLDH_00070	CDS	1020	corA		COG0598	Cobalt/magnesium transport protein CorA
+ICONNLDH_00071	gene	570				
+ICONNLDH_00071	CDS	570		1.6.5.7		2-hydroxy-1,4-benzoquinone reductase
+ICONNLDH_00072	gene	1026				
+ICONNLDH_00072	CDS	1026				hypothetical protein
+ICONNLDH_00073	gene	570				
+ICONNLDH_00073	CDS	570		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+ICONNLDH_00074	gene	621				
+ICONNLDH_00074	CDS	621				hypothetical protein
+ICONNLDH_00075	gene	327				
+ICONNLDH_00075	CDS	327				hypothetical protein
+ICONNLDH_00076	gene	984	tsaD			
+ICONNLDH_00076	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+ICONNLDH_00077	gene	1191	OLA1			
+ICONNLDH_00077	CDS	1191	OLA1			Obg-like ATPase 1
+ICONNLDH_00078	gene	552				
+ICONNLDH_00078	CDS	552				hypothetical protein
+ICONNLDH_00079	gene	1512	QTRT1			
+ICONNLDH_00079	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+ICONNLDH_00080	gene	300	ndhI_2			
+ICONNLDH_00080	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ICONNLDH_00081	gene	219				
+ICONNLDH_00081	CDS	219				hypothetical protein
+ICONNLDH_00082	gene	1266				
+ICONNLDH_00082	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+ICONNLDH_00083	gene	546				
+ICONNLDH_00083	CDS	546				hypothetical protein
+ICONNLDH_00084	gene	231				
+ICONNLDH_00084	CDS	231				hypothetical protein
+ICONNLDH_00085	gene	76				
+ICONNLDH_00085	tRNA	76				tRNA-Arg(tct)
+ICONNLDH_00086	gene	981				
+ICONNLDH_00086	CDS	981				hypothetical protein
+ICONNLDH_00087	gene	516	act			
+ICONNLDH_00087	CDS	516	act	3.-.-.-		Methanol dehydrogenase activator
+ICONNLDH_00088	gene	888				
+ICONNLDH_00088	CDS	888				hypothetical protein
+ICONNLDH_00089	gene	1188				
+ICONNLDH_00089	CDS	1188				hypothetical protein
+ICONNLDH_00090	gene	549	lolD			
+ICONNLDH_00090	CDS	549	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+ICONNLDH_00091	gene	1305				
+ICONNLDH_00091	CDS	1305				hypothetical protein
+ICONNLDH_00092	gene	582	tmk			
+ICONNLDH_00092	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+ICONNLDH_00093	gene	1245				
+ICONNLDH_00093	CDS	1245				hypothetical protein
+ICONNLDH_00094	gene	675	pyrH			
+ICONNLDH_00094	CDS	675	pyrH	2.7.4.22		Uridylate kinase
+ICONNLDH_00095	gene	360				
+ICONNLDH_00095	CDS	360				hypothetical protein
+ICONNLDH_00096	gene	546				
+ICONNLDH_00096	CDS	546				hypothetical protein
+ICONNLDH_00097	gene	96				
+ICONNLDH_00097	CDS	96				hypothetical protein
+ICONNLDH_00098	gene	645				
+ICONNLDH_00098	CDS	645				hypothetical protein
+ICONNLDH_00099	gene	165				
+ICONNLDH_00099	CDS	165				hypothetical protein
+ICONNLDH_00100	gene	210				
+ICONNLDH_00100	CDS	210				hypothetical protein
+ICONNLDH_00101	gene	309				
+ICONNLDH_00101	CDS	309				hypothetical protein
+ICONNLDH_00102	gene	1299	tuf			
+ICONNLDH_00102	CDS	1299	tuf		COG0050	Elongation factor Tu
+ICONNLDH_00103	gene	1155	fbp			
+ICONNLDH_00103	CDS	1155	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+ICONNLDH_00104	gene	417				
+ICONNLDH_00104	CDS	417				hypothetical protein
+ICONNLDH_00105	gene	1767	lig			
+ICONNLDH_00105	CDS	1767	lig	6.5.1.1		DNA ligase
+ICONNLDH_00106	gene	654				
+ICONNLDH_00106	CDS	654				hypothetical protein
+ICONNLDH_00107	gene	537				
+ICONNLDH_00107	CDS	537				hypothetical protein
+ICONNLDH_00108	gene	369				
+ICONNLDH_00108	CDS	369				hypothetical protein
+ICONNLDH_00109	gene	237				
+ICONNLDH_00109	CDS	237				hypothetical protein
+ICONNLDH_00110	gene	1773				
+ICONNLDH_00110	CDS	1773				hypothetical protein
+ICONNLDH_00111	gene	528				
+ICONNLDH_00111	CDS	528				hypothetical protein
+ICONNLDH_00112	gene	462				
+ICONNLDH_00112	CDS	462				hypothetical protein
+ICONNLDH_00113	gene	450	rpsI			
+ICONNLDH_00113	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+ICONNLDH_00114	gene	729	cugP_1			
+ICONNLDH_00114	CDS	729	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+ICONNLDH_00115	gene	585	leuD1			
+ICONNLDH_00115	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+ICONNLDH_00116	gene	1416	leuC			
+ICONNLDH_00116	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+ICONNLDH_00117	gene	483	DmdB			
+ICONNLDH_00117	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+ICONNLDH_00118	gene	1272	dmdA			
+ICONNLDH_00118	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+ICONNLDH_00119	gene	780	fbiB			
+ICONNLDH_00119	CDS	780	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+ICONNLDH_00120	gene	552				
+ICONNLDH_00120	CDS	552				hypothetical protein
+ICONNLDH_00121	gene	537				
+ICONNLDH_00121	CDS	537				hypothetical protein
+ICONNLDH_00122	gene	435				
+ICONNLDH_00122	CDS	435				hypothetical protein
+ICONNLDH_00123	gene	963				
+ICONNLDH_00123	CDS	963				hypothetical protein
+ICONNLDH_00124	gene	681				
+ICONNLDH_00124	CDS	681				hypothetical protein
+ICONNLDH_00125	gene	567				
+ICONNLDH_00125	CDS	567				hypothetical protein
+ICONNLDH_00126	gene	330				
+ICONNLDH_00126	CDS	330				hypothetical protein
+ICONNLDH_00127	gene	303				
+ICONNLDH_00127	CDS	303				hypothetical protein
+ICONNLDH_00128	gene	1056	recA			
+ICONNLDH_00128	CDS	1056	recA			Protein RecA
+ICONNLDH_00129	gene	183				
+ICONNLDH_00129	CDS	183				hypothetical protein
+ICONNLDH_00130	gene	1719				
+ICONNLDH_00130	CDS	1719				hypothetical protein
+ICONNLDH_00131	gene	813	pyrK			
+ICONNLDH_00131	CDS	813	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+ICONNLDH_00132	gene	912	pyrD			
+ICONNLDH_00132	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ICONNLDH_00133	gene	1329				
+ICONNLDH_00133	CDS	1329				hypothetical protein
+ICONNLDH_00134	gene	681				
+ICONNLDH_00134	CDS	681				hypothetical protein
+ICONNLDH_00135	gene	621	rnhB			
+ICONNLDH_00135	CDS	621	rnhB			Ribonuclease HII
+ICONNLDH_00136	gene	453				
+ICONNLDH_00136	CDS	453				hypothetical protein
+ICONNLDH_00137	gene	219				
+ICONNLDH_00137	CDS	219				hypothetical protein
+ICONNLDH_00138	gene	1323	glyA			
+ICONNLDH_00138	CDS	1323	glyA	2.1.2.1		Serine hydroxymethyltransferase
+ICONNLDH_00139	gene	3384				
+ICONNLDH_00139	CDS	3384				hypothetical protein
+ICONNLDH_00140	gene	747				
+ICONNLDH_00140	CDS	747		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+ICONNLDH_00141	gene	363				
+ICONNLDH_00141	CDS	363				hypothetical protein
+ICONNLDH_00142	gene	468				
+ICONNLDH_00142	CDS	468				hypothetical protein
+ICONNLDH_00143	gene	162				
+ICONNLDH_00143	CDS	162				hypothetical protein
+ICONNLDH_00144	gene	399				
+ICONNLDH_00144	CDS	399				hypothetical protein
+ICONNLDH_00145	gene	606				
+ICONNLDH_00145	CDS	606				hypothetical protein
+ICONNLDH_00146	gene	1485	ndhB			
+ICONNLDH_00146	CDS	1485	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+ICONNLDH_00147	gene	858				
+ICONNLDH_00147	CDS	858				hypothetical protein
+ICONNLDH_00148	gene	636				
+ICONNLDH_00148	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+ICONNLDH_00149	gene	74				
+ICONNLDH_00149	tRNA	74				tRNA-Met(cat)
+ICONNLDH_00150	gene	609	pyrE			
+ICONNLDH_00150	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+ICONNLDH_00151	gene	1086				
+ICONNLDH_00151	CDS	1086				hypothetical protein
+ICONNLDH_00152	gene	1092				
+ICONNLDH_00152	CDS	1092				hypothetical protein
+ICONNLDH_00153	gene	390				
+ICONNLDH_00153	CDS	390				hypothetical protein
+ICONNLDH_00154	gene	225				
+ICONNLDH_00154	CDS	225				hypothetical protein
+ICONNLDH_00155	gene	828				
+ICONNLDH_00155	CDS	828				hypothetical protein
+ICONNLDH_00156	gene	171	ilvE_1			
+ICONNLDH_00156	CDS	171	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+ICONNLDH_00157	gene	936	iolG			
+ICONNLDH_00157	CDS	936	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+ICONNLDH_00158	gene	270				
+ICONNLDH_00158	CDS	270				hypothetical protein
+ICONNLDH_00159	gene	477	fdtC			
+ICONNLDH_00159	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+ICONNLDH_00160	gene	201				
+ICONNLDH_00160	CDS	201				hypothetical protein
+ICONNLDH_00161	gene	1014	tagO			
+ICONNLDH_00161	CDS	1014	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+ICONNLDH_00162	gene	2127				
+ICONNLDH_00162	CDS	2127				hypothetical protein
+ICONNLDH_00163	gene	2088				
+ICONNLDH_00163	CDS	2088				hypothetical protein
+ICONNLDH_00164	gene	516				
+ICONNLDH_00164	CDS	516				hypothetical protein
+ICONNLDH_00165	gene	516				
+ICONNLDH_00165	CDS	516				hypothetical protein
+ICONNLDH_00166	gene	534				
+ICONNLDH_00166	CDS	534				hypothetical protein
+ICONNLDH_00167	gene	1125	hflX			
+ICONNLDH_00167	CDS	1125	hflX		COG2262	GTPase HflX
+ICONNLDH_00168	gene	1047				
+ICONNLDH_00168	CDS	1047				hypothetical protein
+ICONNLDH_00169	gene	477				
+ICONNLDH_00169	CDS	477				hypothetical protein
+ICONNLDH_00170	gene	342				
+ICONNLDH_00170	CDS	342				hypothetical protein
+ICONNLDH_00171	gene	402				
+ICONNLDH_00171	CDS	402				hypothetical protein
+ICONNLDH_00172	gene	243				
+ICONNLDH_00172	CDS	243				hypothetical protein
+ICONNLDH_00173	gene	279				
+ICONNLDH_00173	CDS	279				hypothetical protein
+ICONNLDH_00174	gene	1332	ubiD_1			
+ICONNLDH_00174	CDS	1332	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ICONNLDH_00175	gene	276				
+ICONNLDH_00175	CDS	276				hypothetical protein
+ICONNLDH_00176	gene	1047	metK			
+ICONNLDH_00176	CDS	1047	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+ICONNLDH_00177	gene	870				
+ICONNLDH_00177	CDS	870				hypothetical protein
+ICONNLDH_00178	gene	1098	cbiD			
+ICONNLDH_00178	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+ICONNLDH_00179	gene	1056	cbiG			
+ICONNLDH_00179	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+ICONNLDH_00180	gene	753	cbiX			
+ICONNLDH_00180	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+ICONNLDH_00181	gene	624	cbiC			
+ICONNLDH_00181	CDS	624	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+ICONNLDH_00182	gene	1356	cbiA_1			
+ICONNLDH_00182	CDS	1356	cbiA_1	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+ICONNLDH_00183	gene	534	cobO			
+ICONNLDH_00183	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+ICONNLDH_00184	gene	669				
+ICONNLDH_00184	CDS	669				hypothetical protein
+ICONNLDH_00185	gene	564	scpB			
+ICONNLDH_00185	CDS	564	scpB			Segregation and condensation protein B
+ICONNLDH_00186	gene	381				
+ICONNLDH_00186	CDS	381				hypothetical protein
+ICONNLDH_00187	gene	300				
+ICONNLDH_00187	CDS	300				hypothetical protein
+ICONNLDH_00188	gene	246				
+ICONNLDH_00188	CDS	246				hypothetical protein
+ICONNLDH_00189	gene	957				
+ICONNLDH_00189	CDS	957				hypothetical protein
+ICONNLDH_00190	gene	771	sufC			
+ICONNLDH_00190	CDS	771	sufC		COG0396	Vegetative protein 296
+ICONNLDH_00191	gene	678				
+ICONNLDH_00191	CDS	678			COG3253	putative protein/MSMEI_2713
+ICONNLDH_00192	gene	546				
+ICONNLDH_00192	CDS	546				hypothetical protein
+ICONNLDH_00193	gene	1008	iolS			
+ICONNLDH_00193	CDS	1008	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+ICONNLDH_00194	gene	648				
+ICONNLDH_00194	CDS	648				hypothetical protein
+ICONNLDH_00195	gene	840	cobQ			
+ICONNLDH_00195	CDS	840	cobQ			Cobyric acid synthase
+ICONNLDH_00196	gene	960	cobD			
+ICONNLDH_00196	CDS	960	cobD		COG1270	Cobalamin biosynthesis protein CobD
+ICONNLDH_00197	gene	729	cobS			
+ICONNLDH_00197	CDS	729	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+ICONNLDH_00198	gene	570	mobA			
+ICONNLDH_00198	CDS	570	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+ICONNLDH_00199	gene	198				
+ICONNLDH_00199	CDS	198				hypothetical protein
+ICONNLDH_00200	gene	282				
+ICONNLDH_00200	CDS	282				hypothetical protein
+ICONNLDH_00201	gene	1767	ade			
+ICONNLDH_00201	CDS	1767	ade	3.5.4.2	COG1001	Adenine deaminase
+ICONNLDH_00202	gene	225				
+ICONNLDH_00202	CDS	225				hypothetical protein
+ICONNLDH_00203	gene	552	putB			
+ICONNLDH_00203	CDS	552	putB	1.5.5.2	COG0506	Proline dehydrogenase 2
+ICONNLDH_00204	gene	1566	rocA1			
+ICONNLDH_00204	CDS	1566	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+ICONNLDH_00205	gene	852	speB			
+ICONNLDH_00205	CDS	852	speB	3.5.3.11	COG0010	Agmatinase
+ICONNLDH_00206	gene	585	ribE			
+ICONNLDH_00206	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+ICONNLDH_00207	gene	675	ribBA			
+ICONNLDH_00207	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+ICONNLDH_00208	gene	414	ribH			
+ICONNLDH_00208	CDS	414	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+ICONNLDH_00209	gene	750				
+ICONNLDH_00209	CDS	750				hypothetical protein
+ICONNLDH_00210	gene	1191	dadD			
+ICONNLDH_00210	CDS	1191	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+ICONNLDH_00211	gene	495	ribD			
+ICONNLDH_00211	CDS	495	ribD		COG0117	Riboflavin biosynthesis protein RibD
+ICONNLDH_00212	gene	333	trxA			
+ICONNLDH_00212	CDS	333	trxA			Thioredoxin
+ICONNLDH_00213	gene	528				
+ICONNLDH_00213	CDS	528				hypothetical protein
+ICONNLDH_00214	gene	363				
+ICONNLDH_00214	CDS	363				hypothetical protein
+ICONNLDH_00215	gene	73				
+ICONNLDH_00215	tRNA	73				tRNA-Ala(cgc)
+ICONNLDH_00216	gene	1386				
+ICONNLDH_00216	CDS	1386		3.5.2.-		D-hydantoinase
+ICONNLDH_00217	gene	678	rpiA			
+ICONNLDH_00217	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+ICONNLDH_00218	gene	900				
+ICONNLDH_00218	CDS	900				hypothetical protein
+ICONNLDH_00219	gene	234				
+ICONNLDH_00219	CDS	234				hypothetical protein
+ICONNLDH_00220	gene	735	mftE			
+ICONNLDH_00220	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+ICONNLDH_00221	gene	843	purU			
+ICONNLDH_00221	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+ICONNLDH_00222	gene	432				
+ICONNLDH_00222	CDS	432				hypothetical protein
+ICONNLDH_00223	gene	663	aroD			
+ICONNLDH_00223	CDS	663	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+ICONNLDH_00224	gene	1062	griH			
+ICONNLDH_00224	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+ICONNLDH_00225	gene	804	griI			
+ICONNLDH_00225	CDS	804	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+ICONNLDH_00226	gene	1119	mqnC			
+ICONNLDH_00226	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+ICONNLDH_00227	gene	1443	ubiD_2			
+ICONNLDH_00227	CDS	1443	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ICONNLDH_00228	gene	231				
+ICONNLDH_00228	CDS	231				hypothetical protein
+ICONNLDH_00229	gene	378				
+ICONNLDH_00229	CDS	378				hypothetical protein
+ICONNLDH_00230	gene	1086	lysK			
+ICONNLDH_00230	CDS	1086	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+ICONNLDH_00231	gene	849	lysX_1			
+ICONNLDH_00231	CDS	849	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+ICONNLDH_00232	gene	168				
+ICONNLDH_00232	CDS	168				hypothetical protein
+ICONNLDH_00233	gene	1191	leuA_1			
+ICONNLDH_00233	CDS	1191	leuA_1	2.3.3.13		2-isopropylmalate synthase
+ICONNLDH_00234	gene	420				
+ICONNLDH_00234	CDS	420				hypothetical protein
+ICONNLDH_00235	gene	1176	lysJ			
+ICONNLDH_00235	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+ICONNLDH_00236	gene	801	lysZ_1			
+ICONNLDH_00236	CDS	801	lysZ_1	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+ICONNLDH_00237	gene	471	lysY			
+ICONNLDH_00237	CDS	471	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+ICONNLDH_00238	gene	618	purN			
+ICONNLDH_00238	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+ICONNLDH_00239	gene	321				
+ICONNLDH_00239	CDS	321				hypothetical protein
+ICONNLDH_00240	gene	867	folD			
+ICONNLDH_00240	CDS	867	folD		COG0190	Bifunctional protein FolD protein
+ICONNLDH_00241	gene	558	yqgN			
+ICONNLDH_00241	CDS	558	yqgN		COG0212	putative protein YqgN
+ICONNLDH_00242	gene	1263	purD_1			
+ICONNLDH_00242	CDS	1263	purD_1	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+ICONNLDH_00243	gene	996				
+ICONNLDH_00243	CDS	996				hypothetical protein
+ICONNLDH_00244	gene	1332				
+ICONNLDH_00244	CDS	1332				hypothetical protein
+ICONNLDH_00245	gene	1095	yliI			
+ICONNLDH_00245	CDS	1095	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+ICONNLDH_00246	gene	1212	mvaA			
+ICONNLDH_00246	CDS	1212	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+ICONNLDH_00247	gene	978	hisG			
+ICONNLDH_00247	CDS	978	hisG	2.4.2.17		ATP phosphoribosyltransferase
+ICONNLDH_00248	gene	537				
+ICONNLDH_00248	CDS	537				hypothetical protein
+ICONNLDH_00249	gene	759				
+ICONNLDH_00249	CDS	759				hypothetical protein
+ICONNLDH_00250	gene	1131				
+ICONNLDH_00250	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+ICONNLDH_00251	gene	504				
+ICONNLDH_00251	CDS	504				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+ICONNLDH_00252	gene	489				
+ICONNLDH_00252	CDS	489				hypothetical protein
+ICONNLDH_00253	gene	477				
+ICONNLDH_00253	CDS	477				hypothetical protein
+ICONNLDH_00254	gene	77				
+ICONNLDH_00254	tRNA	77				tRNA-Val(gac)
+ICONNLDH_00255	gene	711	bluB			
+ICONNLDH_00255	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+ICONNLDH_00256	gene	531				
+ICONNLDH_00256	CDS	531		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+ICONNLDH_00257	gene	432				
+ICONNLDH_00257	CDS	432				hypothetical protein
+ICONNLDH_00258	gene	471	aroA			
+ICONNLDH_00258	CDS	471	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+ICONNLDH_00259	gene	1095	aroC			
+ICONNLDH_00259	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+ICONNLDH_00260	gene	1371	dapL			
+ICONNLDH_00260	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+ICONNLDH_00261	gene	858				
+ICONNLDH_00261	CDS	858				hypothetical protein
+ICONNLDH_00262	gene	405				
+ICONNLDH_00262	CDS	405				hypothetical protein
+ICONNLDH_00263	gene	1329	bzaF			
+ICONNLDH_00263	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+ICONNLDH_00264	gene	126				
+ICONNLDH_00264	CDS	126				hypothetical protein
+ICONNLDH_00265	gene	240				
+ICONNLDH_00265	CDS	240				hypothetical protein
+ICONNLDH_00266	gene	741	argB			
+ICONNLDH_00266	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+ICONNLDH_00267	gene	642	idi			
+ICONNLDH_00267	CDS	642	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+ICONNLDH_00268	gene	978				
+ICONNLDH_00268	CDS	978				hypothetical protein
+ICONNLDH_00269	gene	1713	glnS			
+ICONNLDH_00269	CDS	1713	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+ICONNLDH_00270	gene	867	yisK			
+ICONNLDH_00270	CDS	867	yisK		COG0179	putative protein YisK
+ICONNLDH_00271	gene	507				
+ICONNLDH_00271	CDS	507				hypothetical protein
+ICONNLDH_00272	gene	3714	rpoC			
+ICONNLDH_00272	CDS	3714	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+ICONNLDH_00273	gene	1539	rpoB			
+ICONNLDH_00273	CDS	1539	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+ICONNLDH_00274	gene	621	sodA			
+ICONNLDH_00274	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+ICONNLDH_00275	gene	423	pfdA			
+ICONNLDH_00275	CDS	423	pfdA			Prefoldin subunit alpha
+ICONNLDH_00276	gene	1209	ftsY			
+ICONNLDH_00276	CDS	1209	ftsY			Signal recognition particle receptor FtsY
+ICONNLDH_00277	gene	912	argF			
+ICONNLDH_00277	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+ICONNLDH_00278	gene	489				
+ICONNLDH_00278	CDS	489				hypothetical protein
+ICONNLDH_00279	gene	687				
+ICONNLDH_00279	CDS	687				hypothetical protein
+ICONNLDH_00280	gene	468				
+ICONNLDH_00280	CDS	468				hypothetical protein
+ICONNLDH_00281	gene	636				
+ICONNLDH_00281	CDS	636				hypothetical protein
+ICONNLDH_00282	gene	222				
+ICONNLDH_00282	CDS	222				hypothetical protein
+ICONNLDH_00283	gene	288				
+ICONNLDH_00283	CDS	288				hypothetical protein
+ICONNLDH_00284	gene	516				
+ICONNLDH_00284	CDS	516				hypothetical protein
+ICONNLDH_00285	gene	1002	purA			
+ICONNLDH_00285	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+ICONNLDH_00286	gene	663				
+ICONNLDH_00286	CDS	663				hypothetical protein
+ICONNLDH_00287	gene	744	pyrF			
+ICONNLDH_00287	CDS	744	pyrF			Orotidine 5'-phosphate decarboxylase
+ICONNLDH_00288	gene	429				
+ICONNLDH_00288	CDS	429				hypothetical protein
+ICONNLDH_00289	gene	702				
+ICONNLDH_00289	CDS	702		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+ICONNLDH_00290	gene	615	degP			
+ICONNLDH_00290	CDS	615	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+ICONNLDH_00291	gene	1170	cofG			
+ICONNLDH_00291	CDS	1170	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+ICONNLDH_00292	gene	1269	fbiC			
+ICONNLDH_00292	CDS	1269	fbiC		COG1060	FO synthase
+ICONNLDH_00293	gene	1362	pmbA			
+ICONNLDH_00293	CDS	1362	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+ICONNLDH_00294	gene	933	yrbG			
+ICONNLDH_00294	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+ICONNLDH_00295	gene	318				
+ICONNLDH_00295	CDS	318				hypothetical protein
+ICONNLDH_00296	gene	1155				
+ICONNLDH_00296	CDS	1155				hypothetical protein
+ICONNLDH_00297	gene	1116				
+ICONNLDH_00297	CDS	1116				hypothetical protein
+ICONNLDH_00298	gene	795	cysQ			
+ICONNLDH_00298	CDS	795	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+ICONNLDH_00299	gene	78				
+ICONNLDH_00299	tRNA	78				tRNA-Asp(gtc)
+ICONNLDH_00300	gene	75				
+ICONNLDH_00300	tRNA	75				tRNA-Lys(ttt)
+ICONNLDH_00301	gene	561				
+ICONNLDH_00301	CDS	561				hypothetical protein
+ICONNLDH_00302	gene	135				
+ICONNLDH_00302	CDS	135				hypothetical protein
+ICONNLDH_00303	gene	225				
+ICONNLDH_00303	CDS	225				hypothetical protein
+ICONNLDH_00304	gene	948				
+ICONNLDH_00304	CDS	948				hypothetical protein
+ICONNLDH_00305	gene	585	grpE			
+ICONNLDH_00305	CDS	585	grpE			Protein GrpE
+ICONNLDH_00306	gene	1854	dnaK			
+ICONNLDH_00306	CDS	1854	dnaK		COG0443	Chaperone protein DnaK
+ICONNLDH_00307	gene	1116	dnaJ_1			
+ICONNLDH_00307	CDS	1116	dnaJ_1		COG0484	Chaperone protein DnaJ
+ICONNLDH_00308	gene	171				
+ICONNLDH_00308	CDS	171				hypothetical protein
+ICONNLDH_00309	gene	87				
+ICONNLDH_00309	tRNA	87				tRNA-Leu(cag)
+ICONNLDH_00310	gene	258				
+ICONNLDH_00310	CDS	258				hypothetical protein
+ICONNLDH_00311	gene	141				
+ICONNLDH_00311	CDS	141				hypothetical protein
+ICONNLDH_00312	gene	345				
+ICONNLDH_00312	CDS	345				hypothetical protein
+ICONNLDH_00313	gene	873	ctaB			
+ICONNLDH_00313	CDS	873	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+ICONNLDH_00314	gene	300				
+ICONNLDH_00314	CDS	300				hypothetical protein
+ICONNLDH_00315	gene	2142	ftsH_2			
+ICONNLDH_00315	CDS	2142	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+ICONNLDH_00316	gene	282				
+ICONNLDH_00316	CDS	282				hypothetical protein
+ICONNLDH_00317	gene	705				
+ICONNLDH_00317	CDS	705				hypothetical protein
+ICONNLDH_00318	gene	801	lysZ_2			
+ICONNLDH_00318	CDS	801	lysZ_2	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+ICONNLDH_00319	gene	1047	argC			
+ICONNLDH_00319	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+ICONNLDH_00320	gene	858	lysX_2			
+ICONNLDH_00320	CDS	858	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+ICONNLDH_00321	gene	168				
+ICONNLDH_00321	CDS	168				hypothetical protein
+ICONNLDH_00322	gene	1188	argG			
+ICONNLDH_00322	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+ICONNLDH_00323	gene	453				
+ICONNLDH_00323	CDS	453				hypothetical protein
+ICONNLDH_00324	gene	282				
+ICONNLDH_00324	CDS	282				hypothetical protein
+ICONNLDH_00325	gene	645				
+ICONNLDH_00325	CDS	645				hypothetical protein
+ICONNLDH_00326	gene	495				
+ICONNLDH_00326	CDS	495				hypothetical protein
+ICONNLDH_00327	gene	354				
+ICONNLDH_00327	CDS	354				hypothetical protein
+ICONNLDH_00328	gene	1449				
+ICONNLDH_00328	CDS	1449				hypothetical protein
+ICONNLDH_00329	gene	168				
+ICONNLDH_00329	CDS	168				hypothetical protein
+ICONNLDH_00330	gene	144				
+ICONNLDH_00330	CDS	144				hypothetical protein
+ICONNLDH_00331	gene	675				
+ICONNLDH_00331	CDS	675				hypothetical protein
+ICONNLDH_00332	gene	120				
+ICONNLDH_00332	CDS	120				hypothetical protein
+ICONNLDH_00333	gene	162				
+ICONNLDH_00333	CDS	162				hypothetical protein
+ICONNLDH_00334	gene	2106				
+ICONNLDH_00334	CDS	2106				hypothetical protein
+ICONNLDH_00335	gene	642	kynB			
+ICONNLDH_00335	CDS	642	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+ICONNLDH_00336	gene	1104				
+ICONNLDH_00336	CDS	1104				hypothetical protein
+ICONNLDH_00337	gene	495				
+ICONNLDH_00337	CDS	495				hypothetical protein
+ICONNLDH_00338	gene	147				
+ICONNLDH_00338	CDS	147				hypothetical protein
+ICONNLDH_00339	gene	153				
+ICONNLDH_00339	CDS	153				hypothetical protein
+ICONNLDH_00340	gene	276				
+ICONNLDH_00340	CDS	276				hypothetical protein
+ICONNLDH_00341	gene	318				
+ICONNLDH_00341	CDS	318				hypothetical protein
+ICONNLDH_00342	gene	282				
+ICONNLDH_00342	CDS	282				hypothetical protein
+ICONNLDH_00343	gene	999	ilvC			
+ICONNLDH_00343	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+ICONNLDH_00344	gene	327				
+ICONNLDH_00344	CDS	327				hypothetical protein
+ICONNLDH_00345	gene	765	frdB			
+ICONNLDH_00345	CDS	765	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+ICONNLDH_00346	gene	345				
+ICONNLDH_00346	CDS	345				hypothetical protein
+ICONNLDH_00347	gene	435				
+ICONNLDH_00347	CDS	435				hypothetical protein
+ICONNLDH_00348	gene	1713	frdA			
+ICONNLDH_00348	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+ICONNLDH_00349	gene	501				
+ICONNLDH_00349	CDS	501				hypothetical protein
+ICONNLDH_00350	gene	180	nfi			
+ICONNLDH_00350	CDS	180	nfi	3.1.21.7		Endonuclease V
+ICONNLDH_00351	gene	915				
+ICONNLDH_00351	CDS	915				hypothetical protein
+ICONNLDH_00352	gene	804	rhdA_1			
+ICONNLDH_00352	CDS	804	rhdA_1	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+ICONNLDH_00353	gene	1854				
+ICONNLDH_00353	CDS	1854				hypothetical protein
+ICONNLDH_00354	gene	816	thi4			
+ICONNLDH_00354	CDS	816	thi4	2.4.2.59		Thiamine thiazole synthase
+ICONNLDH_00355	gene	705	hisA			
+ICONNLDH_00355	CDS	705	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+ICONNLDH_00356	gene	609	hisH			
+ICONNLDH_00356	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+ICONNLDH_00357	gene	588	hisB			
+ICONNLDH_00357	CDS	588	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+ICONNLDH_00358	gene	972	ppaX			
+ICONNLDH_00358	CDS	972	ppaX	3.6.1.1		Pyrophosphatase PpaX
+ICONNLDH_00359	gene	1071	hisC			
+ICONNLDH_00359	CDS	1071	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+ICONNLDH_00360	gene	759				
+ICONNLDH_00360	CDS	759				hypothetical protein
+ICONNLDH_00361	gene	1017				
+ICONNLDH_00361	CDS	1017				hypothetical protein
+ICONNLDH_00362	gene	801				
+ICONNLDH_00362	CDS	801		1.-.-.-		putative oxidoreductase
+ICONNLDH_00363	gene	291				
+ICONNLDH_00363	CDS	291				hypothetical protein
+ICONNLDH_00364	gene	1236				
+ICONNLDH_00364	CDS	1236				hypothetical protein
+ICONNLDH_00365	gene	141				
+ICONNLDH_00365	CDS	141				hypothetical protein
+ICONNLDH_00366	gene	264				
+ICONNLDH_00366	CDS	264				hypothetical protein
+ICONNLDH_00367	gene	669				
+ICONNLDH_00367	CDS	669				hypothetical protein
+ICONNLDH_00368	gene	75				
+ICONNLDH_00368	tRNA	75				tRNA-Gly(tcc)
+ICONNLDH_00369	gene	303				
+ICONNLDH_00369	CDS	303				hypothetical protein
+ICONNLDH_00370	gene	453				
+ICONNLDH_00370	CDS	453				hypothetical protein
+ICONNLDH_00371	gene	291				
+ICONNLDH_00371	CDS	291				hypothetical protein
+ICONNLDH_00372	gene	1080	ccr			
+ICONNLDH_00372	CDS	1080	ccr	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+ICONNLDH_00373	gene	858	citE			
+ICONNLDH_00373	CDS	858	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+ICONNLDH_00374	gene	399				
+ICONNLDH_00374	CDS	399				hypothetical protein
+ICONNLDH_00375	gene	528				
+ICONNLDH_00375	CDS	528				hypothetical protein
+ICONNLDH_00376	gene	1503	srmB			
+ICONNLDH_00376	CDS	1503	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+ICONNLDH_00377	gene	279	prsA1			
+ICONNLDH_00377	CDS	279	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+ICONNLDH_00378	gene	411	ssuC			
+ICONNLDH_00378	CDS	411	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+ICONNLDH_00379	gene	1122				
+ICONNLDH_00379	CDS	1122				hypothetical protein
+ICONNLDH_00380	gene	1014	metE_1			
+ICONNLDH_00380	CDS	1014	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+ICONNLDH_00381	gene	927	metE_2			
+ICONNLDH_00381	CDS	927	metE_2	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+ICONNLDH_00382	gene	759				
+ICONNLDH_00382	CDS	759				hypothetical protein
+ICONNLDH_00383	gene	681	purQ			
+ICONNLDH_00383	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+ICONNLDH_00384	gene	2166	purL			
+ICONNLDH_00384	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+ICONNLDH_00385	gene	450	purF_1			
+ICONNLDH_00385	CDS	450	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+ICONNLDH_00386	gene	1029	purF_2			
+ICONNLDH_00386	CDS	1029	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+ICONNLDH_00387	gene	567				
+ICONNLDH_00387	CDS	567				hypothetical protein
+ICONNLDH_00388	gene	240				
+ICONNLDH_00388	CDS	240				hypothetical protein
+ICONNLDH_00389	gene	411				
+ICONNLDH_00389	CDS	411				hypothetical protein
+ICONNLDH_00390	gene	1638				
+ICONNLDH_00390	CDS	1638				hypothetical protein
+ICONNLDH_00391	gene	1080				
+ICONNLDH_00391	CDS	1080				hypothetical protein
+ICONNLDH_00392	gene	720	dpnA			
+ICONNLDH_00392	CDS	720	dpnA	2.1.1.72		Modification methylase DpnIIB
+ICONNLDH_00393	gene	201				
+ICONNLDH_00393	CDS	201				hypothetical protein
+ICONNLDH_00394	gene	2520	dbpA_1			
+ICONNLDH_00394	CDS	2520	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+ICONNLDH_00395	gene	74				
+ICONNLDH_00395	tRNA	74				tRNA-Glu(ctc)
+ICONNLDH_00396	gene	633	prcB			
+ICONNLDH_00396	CDS	633	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+ICONNLDH_00397	gene	1890	rnj			
+ICONNLDH_00397	CDS	1890	rnj	3.1.-.-		Ribonuclease J
+ICONNLDH_00398	gene	279				
+ICONNLDH_00398	CDS	279				hypothetical protein
+ICONNLDH_00399	gene	780				
+ICONNLDH_00399	CDS	780				hypothetical protein
+ICONNLDH_00400	gene	1119	desV			
+ICONNLDH_00400	CDS	1119	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+ICONNLDH_00401	gene	477				
+ICONNLDH_00401	CDS	477				hypothetical protein
+ICONNLDH_00402	gene	282				
+ICONNLDH_00402	CDS	282				hypothetical protein
+ICONNLDH_00403	gene	894	RBKS			
+ICONNLDH_00403	CDS	894	RBKS	2.7.1.15		Ribokinase
+ICONNLDH_00404	gene	456				
+ICONNLDH_00404	CDS	456				hypothetical protein
+ICONNLDH_00405	gene	1794	polB			
+ICONNLDH_00405	CDS	1794	polB	2.7.7.7	COG0417	DNA polymerase II
+ICONNLDH_00406	gene	279				
+ICONNLDH_00406	CDS	279				hypothetical protein
+ICONNLDH_00407	gene	657	tpiA			
+ICONNLDH_00407	CDS	657	tpiA			Triosephosphate isomerase
+ICONNLDH_00408	gene	672				
+ICONNLDH_00408	CDS	672				hypothetical protein
+ICONNLDH_00409	gene	624	pspB			
+ICONNLDH_00409	CDS	624	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+ICONNLDH_00410	gene	261				
+ICONNLDH_00410	CDS	261				hypothetical protein
+ICONNLDH_00411	gene	429				
+ICONNLDH_00411	CDS	429				hypothetical protein
+ICONNLDH_00412	gene	1536	ctaD			
+ICONNLDH_00412	CDS	1536	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+ICONNLDH_00413	gene	924	pcm			
+ICONNLDH_00413	CDS	924	pcm	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+ICONNLDH_00414	gene	864	nnr_1			
+ICONNLDH_00414	CDS	864	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ICONNLDH_00415	gene	1356	dapE			
+ICONNLDH_00415	CDS	1356	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+ICONNLDH_00416	gene	183				
+ICONNLDH_00416	CDS	183				hypothetical protein
+ICONNLDH_00417	gene	1092				
+ICONNLDH_00417	CDS	1092				hypothetical protein
+ICONNLDH_00418	gene	426				
+ICONNLDH_00418	CDS	426				hypothetical protein
+ICONNLDH_00419	gene	126				
+ICONNLDH_00419	CDS	126				hypothetical protein
+ICONNLDH_00420	gene	141				
+ICONNLDH_00420	CDS	141				hypothetical protein
+ICONNLDH_00421	gene	132				
+ICONNLDH_00421	CDS	132				hypothetical protein
+ICONNLDH_00422	gene	186				
+ICONNLDH_00422	CDS	186				hypothetical protein
+ICONNLDH_00423	gene	126				
+ICONNLDH_00423	CDS	126				hypothetical protein
+ICONNLDH_00424	gene	135				
+ICONNLDH_00424	CDS	135				hypothetical protein
+ICONNLDH_00425	gene	651				
+ICONNLDH_00425	CDS	651				hypothetical protein
+ICONNLDH_00426	gene	588				
+ICONNLDH_00426	CDS	588				hypothetical protein
+ICONNLDH_00427	gene	1311	bioK			
+ICONNLDH_00427	CDS	1311	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+ICONNLDH_00428	gene	693	bioD1			
+ICONNLDH_00428	CDS	693	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+ICONNLDH_00429	gene	1395	mvaS			
+ICONNLDH_00429	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+ICONNLDH_00430	gene	357				
+ICONNLDH_00430	CDS	357				hypothetical protein
+ICONNLDH_00431	gene	1611	pckA			
+ICONNLDH_00431	CDS	1611	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+ICONNLDH_00432	gene	405				
+ICONNLDH_00432	CDS	405				hypothetical protein
+ICONNLDH_00433	gene	456				
+ICONNLDH_00433	CDS	456				hypothetical protein
+ICONNLDH_00434	gene	300	ogt			
+ICONNLDH_00434	CDS	300	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+ICONNLDH_00435	gene	102				
+ICONNLDH_00435	CDS	102				hypothetical protein
+ICONNLDH_00436	gene	1350				
+ICONNLDH_00436	CDS	1350				hypothetical protein
+ICONNLDH_00437	gene	1254				
+ICONNLDH_00437	CDS	1254				hypothetical protein
+ICONNLDH_00438	gene	549				
+ICONNLDH_00438	CDS	549				hypothetical protein
+ICONNLDH_00439	gene	885				
+ICONNLDH_00439	CDS	885				hypothetical protein
+ICONNLDH_00440	gene	303				
+ICONNLDH_00440	CDS	303				hypothetical protein
+ICONNLDH_00441	gene	285				
+ICONNLDH_00441	CDS	285				hypothetical protein
+ICONNLDH_00442	gene	357				
+ICONNLDH_00442	CDS	357				hypothetical protein
+ICONNLDH_00443	gene	210				
+ICONNLDH_00443	CDS	210				hypothetical protein
+ICONNLDH_00444	gene	405				
+ICONNLDH_00444	CDS	405				hypothetical protein
+ICONNLDH_00445	gene	282				
+ICONNLDH_00445	CDS	282				hypothetical protein
+ICONNLDH_00446	gene	318				
+ICONNLDH_00446	CDS	318				hypothetical protein
+ICONNLDH_00447	gene	570				
+ICONNLDH_00447	CDS	570				hypothetical protein
+ICONNLDH_00448	gene	564				
+ICONNLDH_00448	CDS	564				hypothetical protein
+ICONNLDH_00449	gene	363				
+ICONNLDH_00449	CDS	363				hypothetical protein
+ICONNLDH_00450	gene	651				
+ICONNLDH_00450	CDS	651				hypothetical protein
+ICONNLDH_00451	gene	141				
+ICONNLDH_00451	CDS	141				hypothetical protein
+ICONNLDH_00452	gene	177				
+ICONNLDH_00452	CDS	177				hypothetical protein
+ICONNLDH_00453	gene	1158				
+ICONNLDH_00453	CDS	1158				hypothetical protein
+ICONNLDH_00454	gene	378				
+ICONNLDH_00454	CDS	378				hypothetical protein
+ICONNLDH_00455	gene	261				
+ICONNLDH_00455	CDS	261				hypothetical protein
+ICONNLDH_00456	gene	312				
+ICONNLDH_00456	CDS	312				hypothetical protein
+ICONNLDH_00457	gene	984	hemB			
+ICONNLDH_00457	CDS	984	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+ICONNLDH_00458	gene	1257	hemA			
+ICONNLDH_00458	CDS	1257	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+ICONNLDH_00459	gene	249				
+ICONNLDH_00459	CDS	249				hypothetical protein
+ICONNLDH_00460	gene	123				
+ICONNLDH_00460	CDS	123				hypothetical protein
+ICONNLDH_00461	gene	1029	icd			
+ICONNLDH_00461	CDS	1029	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+ICONNLDH_00462	gene	420	cpdA			
+ICONNLDH_00462	CDS	420	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+ICONNLDH_00463	gene	342				
+ICONNLDH_00463	CDS	342				hypothetical protein
+ICONNLDH_00464	gene	87				
+ICONNLDH_00464	tRNA	87				tRNA-Ser(gct)
+ICONNLDH_00465	gene	162				
+ICONNLDH_00465	CDS	162				hypothetical protein
+ICONNLDH_00466	gene	189				
+ICONNLDH_00466	CDS	189				hypothetical protein
+ICONNLDH_00467	gene	609				
+ICONNLDH_00467	CDS	609				hypothetical protein
+ICONNLDH_00468	gene	726	thrB			
+ICONNLDH_00468	CDS	726	thrB	2.7.1.39	COG0083	Homoserine kinase
+ICONNLDH_00469	gene	675	queC			
+ICONNLDH_00469	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+ICONNLDH_00470	gene	324				
+ICONNLDH_00470	CDS	324				hypothetical protein
+ICONNLDH_00471	gene	561	folE			
+ICONNLDH_00471	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+ICONNLDH_00472	gene	714	queE			
+ICONNLDH_00472	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+ICONNLDH_00473	gene	246				
+ICONNLDH_00473	CDS	246				hypothetical protein
+ICONNLDH_00474	gene	1263	selB			
+ICONNLDH_00474	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+ICONNLDH_00475	gene	414				
+ICONNLDH_00475	CDS	414				hypothetical protein
+ICONNLDH_00476	gene	174				
+ICONNLDH_00476	CDS	174				hypothetical protein
+ICONNLDH_00477	gene	74				
+ICONNLDH_00477	tRNA	74				tRNA-Gly(ccc)
+ICONNLDH_00478	gene	321	guaA_1			
+ICONNLDH_00478	CDS	321	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+ICONNLDH_00479	gene	1143				
+ICONNLDH_00479	CDS	1143				hypothetical protein
+ICONNLDH_00480	gene	351	erpA			
+ICONNLDH_00480	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+ICONNLDH_00481	gene	762	crt			
+ICONNLDH_00481	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+ICONNLDH_00482	gene	291				
+ICONNLDH_00482	CDS	291				hypothetical protein
+ICONNLDH_00483	gene	201				
+ICONNLDH_00483	CDS	201				hypothetical protein
+ICONNLDH_00484	gene	231				
+ICONNLDH_00484	CDS	231				hypothetical protein
+ICONNLDH_00485	gene	1545	guaA_2			
+ICONNLDH_00485	CDS	1545	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+ICONNLDH_00486	gene	609	mak			
+ICONNLDH_00486	CDS	609	mak	2.7.1.4	COG1940	Fructokinase
+ICONNLDH_00487	gene	279	lipA2			
+ICONNLDH_00487	CDS	279	lipA2	2.8.1.8	COG0320	Lipoyl synthase 2
+ICONNLDH_00488	gene	867				
+ICONNLDH_00488	CDS	867				hypothetical protein
+ICONNLDH_00489	gene	663	rplA			
+ICONNLDH_00489	CDS	663	rplA		COG0081	50S ribosomal protein L1
+ICONNLDH_00490	gene	468	asnC_1			
+ICONNLDH_00490	CDS	468	asnC_1		COG1522	Regulatory protein AsnC
+ICONNLDH_00491	gene	483	rplK			
+ICONNLDH_00491	CDS	483	rplK		COG0080	50S ribosomal protein L11
+ICONNLDH_00492	gene	138				
+ICONNLDH_00492	CDS	138				hypothetical protein
+ICONNLDH_00493	gene	2316	dbpA_2			
+ICONNLDH_00493	CDS	2316	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+ICONNLDH_00494	gene	498				
+ICONNLDH_00494	CDS	498				hypothetical protein
+ICONNLDH_00495	gene	189				
+ICONNLDH_00495	CDS	189				hypothetical protein
+ICONNLDH_00496	gene	837				
+ICONNLDH_00496	CDS	837				hypothetical protein
+ICONNLDH_00497	gene	624				
+ICONNLDH_00497	CDS	624				hypothetical protein
+ICONNLDH_00498	gene	1029	eno			
+ICONNLDH_00498	CDS	1029	eno	4.2.1.11	COG0148	Enolase
+ICONNLDH_00499	gene	312				
+ICONNLDH_00499	CDS	312				hypothetical protein
+ICONNLDH_00500	gene	465	nusA			
+ICONNLDH_00500	CDS	465	nusA			Transcription termination/antitermination protein NusA
+ICONNLDH_00501	gene	438				
+ICONNLDH_00501	CDS	438				hypothetical protein
+ICONNLDH_00502	gene	600				
+ICONNLDH_00502	CDS	600				hypothetical protein
+ICONNLDH_00503	gene	321				
+ICONNLDH_00503	CDS	321				hypothetical protein
+ICONNLDH_00504	gene	321				
+ICONNLDH_00504	CDS	321				hypothetical protein
+ICONNLDH_00505	gene	1404	thrA			
+ICONNLDH_00505	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+ICONNLDH_00506	gene	747				
+ICONNLDH_00506	CDS	747				hypothetical protein
+ICONNLDH_00507	gene	564	lsrF			
+ICONNLDH_00507	CDS	564	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+ICONNLDH_00508	gene	402				
+ICONNLDH_00508	CDS	402				hypothetical protein
+ICONNLDH_00509	gene	1698	ilvB			
+ICONNLDH_00509	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+ICONNLDH_00510	gene	132				
+ICONNLDH_00510	CDS	132				hypothetical protein
+ICONNLDH_00511	gene	74				
+ICONNLDH_00511	tRNA	74				tRNA-Ala(tgc)
+ICONNLDH_00512	gene	555	resA			
+ICONNLDH_00512	CDS	555	resA			Thiol-disulfide oxidoreductase ResA
+ICONNLDH_00513	gene	903				
+ICONNLDH_00513	CDS	903				hypothetical protein
+ICONNLDH_00514	gene	387				
+ICONNLDH_00514	CDS	387				hypothetical protein
+ICONNLDH_00515	gene	74				
+ICONNLDH_00515	tRNA	74				tRNA-Thr(ggt)
+ICONNLDH_00516	gene	348				
+ICONNLDH_00516	CDS	348				hypothetical protein
+ICONNLDH_00517	gene	729				
+ICONNLDH_00517	CDS	729				hypothetical protein
+ICONNLDH_00518	gene	1023	purM			
+ICONNLDH_00518	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+ICONNLDH_00519	gene	231				
+ICONNLDH_00519	CDS	231				hypothetical protein
+ICONNLDH_00520	gene	789	nadE			
+ICONNLDH_00520	CDS	789	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+ICONNLDH_00521	gene	1344	cysS			
+ICONNLDH_00521	CDS	1344	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+ICONNLDH_00522	gene	693				
+ICONNLDH_00522	CDS	693				hypothetical protein
+ICONNLDH_00523	gene	336				
+ICONNLDH_00523	CDS	336				hypothetical protein
+ICONNLDH_00524	gene	2442				
+ICONNLDH_00524	CDS	2442				hypothetical protein
+ICONNLDH_00525	gene	840				
+ICONNLDH_00525	CDS	840				hypothetical protein
+ICONNLDH_00526	gene	480				
+ICONNLDH_00526	CDS	480				hypothetical protein
+ICONNLDH_00527	gene	396				
+ICONNLDH_00527	CDS	396				hypothetical protein
+ICONNLDH_00528	gene	278				
+ICONNLDH_00528	misc_RNA	278				RNaseP_arch
+ICONNLDH_00529	gene	984				
+ICONNLDH_00529	CDS	984				hypothetical protein
+ICONNLDH_00530	gene	1617	thyX			
+ICONNLDH_00530	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+ICONNLDH_00531	gene	282				
+ICONNLDH_00531	CDS	282				hypothetical protein
+ICONNLDH_00532	gene	1362	aspA			
+ICONNLDH_00532	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+ICONNLDH_00533	gene	351				
+ICONNLDH_00533	CDS	351				hypothetical protein
+ICONNLDH_00534	gene	969	hppA			
+ICONNLDH_00534	CDS	969	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+ICONNLDH_00535	gene	183				
+ICONNLDH_00535	CDS	183				hypothetical protein
+ICONNLDH_00536	gene	258				
+ICONNLDH_00536	CDS	258				hypothetical protein
+ICONNLDH_00537	gene	435				
+ICONNLDH_00537	CDS	435				hypothetical protein
+ICONNLDH_00538	gene	444				
+ICONNLDH_00538	CDS	444				hypothetical protein
+ICONNLDH_00539	gene	243				
+ICONNLDH_00539	CDS	243				hypothetical protein
+ICONNLDH_00540	gene	765				
+ICONNLDH_00540	CDS	765				hypothetical protein
+ICONNLDH_00541	gene	834	panB			
+ICONNLDH_00541	CDS	834	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+ICONNLDH_00542	gene	132				
+ICONNLDH_00542	CDS	132				hypothetical protein
+ICONNLDH_00543	gene	339				
+ICONNLDH_00543	CDS	339				hypothetical protein
+ICONNLDH_00544	gene	267				
+ICONNLDH_00544	CDS	267				hypothetical protein
+ICONNLDH_00545	gene	324				
+ICONNLDH_00545	CDS	324				hypothetical protein
+ICONNLDH_00546	gene	1575				
+ICONNLDH_00546	CDS	1575				hypothetical protein
+ICONNLDH_00547	gene	381				
+ICONNLDH_00547	CDS	381				hypothetical protein
+ICONNLDH_00548	gene	171				
+ICONNLDH_00548	CDS	171				hypothetical protein
+ICONNLDH_00549	gene	1752				
+ICONNLDH_00549	CDS	1752				hypothetical protein
+ICONNLDH_00550	gene	73				
+ICONNLDH_00550	tRNA	73				tRNA-Cys(gca)
+ICONNLDH_00551	gene	711	lnrL			
+ICONNLDH_00551	CDS	711	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+ICONNLDH_00552	gene	777				
+ICONNLDH_00552	CDS	777				hypothetical protein
+ICONNLDH_00553	gene	2091				
+ICONNLDH_00553	CDS	2091				hypothetical protein
+ICONNLDH_00554	gene	1587	lysS			
+ICONNLDH_00554	CDS	1587	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+ICONNLDH_00555	gene	777				
+ICONNLDH_00555	CDS	777		2.3.1.-		tRNA uridine(34) acetyltransferase
+ICONNLDH_00556	gene	615				
+ICONNLDH_00556	CDS	615				hypothetical protein
+ICONNLDH_00557	gene	648	nnr_2			
+ICONNLDH_00557	CDS	648	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ICONNLDH_00558	gene	609	blh			
+ICONNLDH_00558	CDS	609	blh	3.-.-.-	COG0491	Beta-lactamase hydrolase-like protein
+ICONNLDH_00559	gene	1416	yclM			
+ICONNLDH_00559	CDS	1416	yclM	2.7.2.4	COG0527	Aspartokinase 3
+ICONNLDH_00560	gene	213				
+ICONNLDH_00560	CDS	213				hypothetical protein
+ICONNLDH_00561	gene	1176	alaA			
+ICONNLDH_00561	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+ICONNLDH_00562	gene	75				
+ICONNLDH_00562	tRNA	75				tRNA-Arg(tcg)
+ICONNLDH_00563	gene	492				
+ICONNLDH_00563	CDS	492				hypothetical protein
+ICONNLDH_00564	gene	459				
+ICONNLDH_00564	CDS	459				hypothetical protein
+ICONNLDH_00565	gene	276				
+ICONNLDH_00565	CDS	276				hypothetical protein
+ICONNLDH_00566	gene	774	rhdA_2			
+ICONNLDH_00566	CDS	774	rhdA_2	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+ICONNLDH_00567	gene	1143	nrgA			
+ICONNLDH_00567	CDS	1143	nrgA			Ammonium transporter
+ICONNLDH_00568	gene	1326	ffh			
+ICONNLDH_00568	CDS	1326	ffh		COG0541	Signal recognition particle protein
+ICONNLDH_00569	gene	408				
+ICONNLDH_00569	CDS	408				hypothetical protein
+ICONNLDH_00570	gene	285				
+ICONNLDH_00570	CDS	285				hypothetical protein
+ICONNLDH_00571	gene	402				
+ICONNLDH_00571	CDS	402				hypothetical protein
+ICONNLDH_00572	gene	132				
+ICONNLDH_00572	CDS	132				hypothetical protein
+ICONNLDH_00573	gene	384	nikR			
+ICONNLDH_00573	CDS	384	nikR			Nickel-responsive regulator
+ICONNLDH_00574	gene	930	pyrB			
+ICONNLDH_00574	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+ICONNLDH_00575	gene	252				
+ICONNLDH_00575	CDS	252				hypothetical protein
+ICONNLDH_00576	gene	606	petC			
+ICONNLDH_00576	CDS	606	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+ICONNLDH_00577	gene	1581	petB			
+ICONNLDH_00577	CDS	1581	petB			Cytochrome b6
+ICONNLDH_00578	gene	477	znuA			
+ICONNLDH_00578	CDS	477	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+ICONNLDH_00579	gene	729	znuC			
+ICONNLDH_00579	CDS	729	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+ICONNLDH_00580	gene	813	znuB			
+ICONNLDH_00580	CDS	813	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+ICONNLDH_00581	gene	1788	btuD			
+ICONNLDH_00581	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+ICONNLDH_00582	gene	109				
+ICONNLDH_00582	rRNA	109				5S ribosomal RNA
+ICONNLDH_00583	gene	867	Dml			
+ICONNLDH_00583	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+ICONNLDH_00584	gene	294				
+ICONNLDH_00584	CDS	294				hypothetical protein
+ICONNLDH_00585	gene	75				
+ICONNLDH_00585	tRNA	75				tRNA-Ala(ggc)
+ICONNLDH_00586	gene	396				
+ICONNLDH_00586	CDS	396				hypothetical protein
+ICONNLDH_00587	gene	300	ndhI_3			
+ICONNLDH_00587	CDS	300	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ICONNLDH_00588	gene	1173	dnaJ_2			
+ICONNLDH_00588	CDS	1173	dnaJ_2			Chaperone protein DnaJ
+ICONNLDH_00589	gene	339	FCS1			
+ICONNLDH_00589	CDS	339	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+ICONNLDH_00590	gene	1512	abfD			
+ICONNLDH_00590	CDS	1512	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+ICONNLDH_00591	gene	246				
+ICONNLDH_00591	CDS	246				hypothetical protein
+ICONNLDH_00592	gene	915	mdh			
+ICONNLDH_00592	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+ICONNLDH_00593	gene	249				
+ICONNLDH_00593	CDS	249				hypothetical protein
+ICONNLDH_00594	gene	186				
+ICONNLDH_00594	CDS	186				hypothetical protein
+ICONNLDH_00595	gene	162				
+ICONNLDH_00595	CDS	162				hypothetical protein
+ICONNLDH_00596	gene	396	epi			
+ICONNLDH_00596	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+ICONNLDH_00597	gene	1449	bhbA			
+ICONNLDH_00597	CDS	1449	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+ICONNLDH_00598	gene	1080	asd2			
+ICONNLDH_00598	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+ICONNLDH_00599	gene	468	asnC_2			
+ICONNLDH_00599	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+ICONNLDH_00600	gene	1722				
+ICONNLDH_00600	CDS	1722				hypothetical protein
+ICONNLDH_00601	gene	249	mntR			
+ICONNLDH_00601	CDS	249	mntR		COG1321	HTH-type transcriptional regulator MntR
+ICONNLDH_00602	gene	561				
+ICONNLDH_00602	CDS	561				hypothetical protein
+ICONNLDH_00603	gene	792	COQ5			
+ICONNLDH_00603	CDS	792	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+ICONNLDH_00604	gene	174				
+ICONNLDH_00604	CDS	174				hypothetical protein
+ICONNLDH_00605	gene	1296	glmM			
+ICONNLDH_00605	CDS	1296	glmM	5.4.2.10		Phosphoglucosamine mutase
+ICONNLDH_00606	gene	74				
+ICONNLDH_00606	tRNA	74				tRNA-Thr(cgt)
+ICONNLDH_00607	gene	171				
+ICONNLDH_00607	CDS	171				hypothetical protein
+ICONNLDH_00608	gene	267				
+ICONNLDH_00608	CDS	267				hypothetical protein
+ICONNLDH_00609	gene	1107	sucC			
+ICONNLDH_00609	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+ICONNLDH_00610	gene	330				
+ICONNLDH_00610	CDS	330				hypothetical protein
+ICONNLDH_00611	gene	219				
+ICONNLDH_00611	CDS	219				hypothetical protein
+ICONNLDH_00612	gene	1107	obg			
+ICONNLDH_00612	CDS	1107	obg	3.6.5.-		GTPase Obg
+ICONNLDH_00613	gene	177				
+ICONNLDH_00613	CDS	177				hypothetical protein
+ICONNLDH_00614	gene	981	arnC			
+ICONNLDH_00614	CDS	981	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ICONNLDH_00615	gene	654				
+ICONNLDH_00615	CDS	654				hypothetical protein
+ICONNLDH_00616	gene	1074				
+ICONNLDH_00616	CDS	1074				hypothetical protein
+ICONNLDH_00617	gene	453				
+ICONNLDH_00617	CDS	453				hypothetical protein
+ICONNLDH_00618	gene	369				
+ICONNLDH_00618	CDS	369				hypothetical protein
+ICONNLDH_00619	gene	333				
+ICONNLDH_00619	CDS	333				hypothetical protein
+ICONNLDH_00620	gene	249				
+ICONNLDH_00620	CDS	249				hypothetical protein
+ICONNLDH_00621	gene	690	menG			
+ICONNLDH_00621	CDS	690	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+ICONNLDH_00622	gene	306	prcA			
+ICONNLDH_00622	CDS	306	prcA			Proteasome subunit alpha
+ICONNLDH_00623	gene	282				
+ICONNLDH_00623	CDS	282				hypothetical protein
+ICONNLDH_00624	gene	1110				
+ICONNLDH_00624	CDS	1110				hypothetical protein
+ICONNLDH_00625	gene	372	garR			
+ICONNLDH_00625	CDS	372	garR	1.1.1.60		2-hydroxy-3-oxopropionate reductase
+ICONNLDH_00626	gene	762	xecD			
+ICONNLDH_00626	CDS	762	xecD	1.1.1.268		2-(R)-hydroxypropyl-CoM dehydrogenase
+ICONNLDH_00627	gene	570				
+ICONNLDH_00627	CDS	570				hypothetical protein
+ICONNLDH_00628	gene	126				
+ICONNLDH_00628	CDS	126				hypothetical protein
+ICONNLDH_00629	gene	1416				
+ICONNLDH_00629	CDS	1416				hypothetical protein
+ICONNLDH_00630	gene	1518	leuA_2			
+ICONNLDH_00630	CDS	1518	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+ICONNLDH_00631	gene	186				
+ICONNLDH_00631	CDS	186				hypothetical protein
+ICONNLDH_00632	gene	309				
+ICONNLDH_00632	CDS	309				hypothetical protein
+ICONNLDH_00633	gene	990				
+ICONNLDH_00633	CDS	990				hypothetical protein
+ICONNLDH_00634	gene	180				
+ICONNLDH_00634	CDS	180				hypothetical protein
+ICONNLDH_00635	gene	1458				
+ICONNLDH_00635	CDS	1458				hypothetical protein
+ICONNLDH_00636	gene	435				
+ICONNLDH_00636	CDS	435				hypothetical protein
+ICONNLDH_00637	gene	687				
+ICONNLDH_00637	CDS	687				hypothetical protein
+ICONNLDH_00638	gene	642				
+ICONNLDH_00638	CDS	642				hypothetical protein
+ICONNLDH_00639	gene	222				
+ICONNLDH_00639	CDS	222				hypothetical protein
+ICONNLDH_00640	gene	1104	TOP6A			
+ICONNLDH_00640	CDS	1104	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+ICONNLDH_00641	gene	462				
+ICONNLDH_00641	CDS	462				hypothetical protein
+ICONNLDH_00642	gene	102				
+ICONNLDH_00642	CDS	102				hypothetical protein
+ICONNLDH_00643	gene	717	cobB			
+ICONNLDH_00643	CDS	717	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+ICONNLDH_00644	gene	900	rnz			
+ICONNLDH_00644	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+ICONNLDH_00645	gene	840	nfo			
+ICONNLDH_00645	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+ICONNLDH_00646	gene	387				
+ICONNLDH_00646	CDS	387				hypothetical protein
+ICONNLDH_00647	gene	1266				
+ICONNLDH_00647	CDS	1266				hypothetical protein
+ICONNLDH_00648	gene	315				
+ICONNLDH_00648	CDS	315				hypothetical protein
+ICONNLDH_00649	gene	120				
+ICONNLDH_00649	CDS	120				hypothetical protein
+ICONNLDH_00650	gene	819	metN2			
+ICONNLDH_00650	CDS	819	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+ICONNLDH_00651	gene	207				
+ICONNLDH_00651	CDS	207				hypothetical protein
+ICONNLDH_00652	gene	549				
+ICONNLDH_00652	CDS	549				hypothetical protein
+ICONNLDH_00653	gene	150				
+ICONNLDH_00653	CDS	150				hypothetical protein
+ICONNLDH_00654	gene	144				
+ICONNLDH_00654	CDS	144				hypothetical protein
+ICONNLDH_00655	gene	219				
+ICONNLDH_00655	CDS	219				hypothetical protein
+ICONNLDH_00656	gene	177				
+ICONNLDH_00656	CDS	177				hypothetical protein
+ICONNLDH_00657	gene	804	ybeM			
+ICONNLDH_00657	CDS	804	ybeM	3.5.1.128		Deaminated glutathione amidase
+ICONNLDH_00658	gene	219				
+ICONNLDH_00658	CDS	219				hypothetical protein
+ICONNLDH_00659	gene	750				
+ICONNLDH_00659	CDS	750				hypothetical protein
+ICONNLDH_00660	gene	114				
+ICONNLDH_00660	CDS	114				hypothetical protein
+ICONNLDH_00661	gene	558				
+ICONNLDH_00661	CDS	558				hypothetical protein
+ICONNLDH_00662	gene	573				
+ICONNLDH_00662	CDS	573				hypothetical protein
+ICONNLDH_00663	gene	822				
+ICONNLDH_00663	CDS	822				hypothetical protein
+ICONNLDH_00664	gene	1038	adhT			
+ICONNLDH_00664	CDS	1038	adhT	1.1.1.1		Alcohol dehydrogenase
+ICONNLDH_00665	gene	438				
+ICONNLDH_00665	CDS	438				hypothetical protein
+ICONNLDH_00666	gene	702	cugP_2			
+ICONNLDH_00666	CDS	702	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+ICONNLDH_00667	gene	300	thiDN			
+ICONNLDH_00667	CDS	300	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+ICONNLDH_00668	gene	576				
+ICONNLDH_00668	CDS	576				hypothetical protein
+ICONNLDH_00669	gene	429	phaC			
+ICONNLDH_00669	CDS	429	phaC	2.3.1.-		Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+ICONNLDH_00670	gene	267				
+ICONNLDH_00670	CDS	267				hypothetical protein
+ICONNLDH_00671	gene	1311	aspS2_1			
+ICONNLDH_00671	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+ICONNLDH_00672	gene	1095	ino1			
+ICONNLDH_00672	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+ICONNLDH_00673	gene	999				
+ICONNLDH_00673	CDS	999				hypothetical protein
+ICONNLDH_00674	gene	111				
+ICONNLDH_00674	CDS	111				hypothetical protein
+ICONNLDH_00675	gene	183				
+ICONNLDH_00675	CDS	183				hypothetical protein
+ICONNLDH_00676	gene	237				
+ICONNLDH_00676	CDS	237				hypothetical protein
+ICONNLDH_00677	gene	243				
+ICONNLDH_00677	CDS	243				hypothetical protein
+ICONNLDH_00678	gene	477				
+ICONNLDH_00678	CDS	477				hypothetical protein
+ICONNLDH_00679	gene	588				
+ICONNLDH_00679	CDS	588				hypothetical protein
+ICONNLDH_00680	gene	642				
+ICONNLDH_00680	CDS	642				hypothetical protein
+ICONNLDH_00681	gene	1263	purD_2			
+ICONNLDH_00681	CDS	1263	purD_2	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+ICONNLDH_00682	gene	981				
+ICONNLDH_00682	CDS	981				hypothetical protein
+ICONNLDH_00683	gene	492	bioB			
+ICONNLDH_00683	CDS	492	bioB	2.8.1.6	COG0502	Biotin synthase
+ICONNLDH_00684	gene	306				
+ICONNLDH_00684	CDS	306				hypothetical protein
+ICONNLDH_00685	gene	231	folP			
+ICONNLDH_00685	CDS	231	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+ICONNLDH_00686	gene	363				
+ICONNLDH_00686	CDS	363				hypothetical protein
+ICONNLDH_00687	gene	300				
+ICONNLDH_00687	CDS	300				hypothetical protein
+ICONNLDH_00688	gene	183				
+ICONNLDH_00688	CDS	183				hypothetical protein
+ICONNLDH_00689	gene	126				
+ICONNLDH_00689	CDS	126				hypothetical protein
+ICONNLDH_00690	gene	762				
+ICONNLDH_00690	CDS	762				hypothetical protein
+ICONNLDH_00691	gene	348				
+ICONNLDH_00691	CDS	348				hypothetical protein
+ICONNLDH_00692	gene	300				
+ICONNLDH_00692	CDS	300				hypothetical protein
+ICONNLDH_00693	gene	411	yccU			
+ICONNLDH_00693	CDS	411	yccU		COG1832	putative protein YccU
+ICONNLDH_00694	gene	357				
+ICONNLDH_00694	CDS	357				hypothetical protein
+ICONNLDH_00695	gene	1110	fadA			
+ICONNLDH_00695	CDS	1110	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+ICONNLDH_00696	gene	285				
+ICONNLDH_00696	CDS	285				hypothetical protein
+ICONNLDH_00697	gene	393	rpsH			
+ICONNLDH_00697	CDS	393	rpsH			30S ribosomal protein S8
+ICONNLDH_00698	gene	735				
+ICONNLDH_00698	CDS	735				hypothetical protein
+ICONNLDH_00699	gene	1008	lapB			
+ICONNLDH_00699	CDS	1008	lapB			Lipopolysaccharide assembly protein B
+ICONNLDH_00700	gene	144				
+ICONNLDH_00700	CDS	144				hypothetical protein
+ICONNLDH_00701	gene	1143				
+ICONNLDH_00701	CDS	1143				hypothetical protein
+ICONNLDH_00702	gene	312				
+ICONNLDH_00702	CDS	312				hypothetical protein
+ICONNLDH_00703	gene	297				
+ICONNLDH_00703	CDS	297				hypothetical protein
+ICONNLDH_00704	gene	423				
+ICONNLDH_00704	CDS	423				hypothetical protein
+ICONNLDH_00705	gene	201				
+ICONNLDH_00705	CDS	201				hypothetical protein
+ICONNLDH_00706	gene	78				
+ICONNLDH_00706	tRNA	78				tRNA-Thr(tgt)
+ICONNLDH_00707	gene	177				
+ICONNLDH_00707	CDS	177				hypothetical protein
+ICONNLDH_00708	gene	774	hicd_1			
+ICONNLDH_00708	CDS	774	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+ICONNLDH_00709	gene	603				
+ICONNLDH_00709	CDS	603				hypothetical protein
+ICONNLDH_00710	gene	75				
+ICONNLDH_00710	tRNA	75				tRNA-Lys(ctt)
+ICONNLDH_00711	gene	1098	mqnE			
+ICONNLDH_00711	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+ICONNLDH_00712	gene	273				
+ICONNLDH_00712	CDS	273				hypothetical protein
+ICONNLDH_00713	gene	789				
+ICONNLDH_00713	CDS	789				hypothetical protein
+ICONNLDH_00714	gene	408				
+ICONNLDH_00714	CDS	408				hypothetical protein
+ICONNLDH_00715	gene	504	sucD			
+ICONNLDH_00715	CDS	504	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+ICONNLDH_00716	gene	96				
+ICONNLDH_00716	tRNA	96				tRNA-Val(cac)
+ICONNLDH_00717	gene	276				
+ICONNLDH_00717	CDS	276				hypothetical protein
+ICONNLDH_00718	gene	138				
+ICONNLDH_00718	CDS	138				hypothetical protein
+ICONNLDH_00719	gene	150				
+ICONNLDH_00719	CDS	150				hypothetical protein
+ICONNLDH_00720	gene	288				
+ICONNLDH_00720	CDS	288				hypothetical protein
+ICONNLDH_00721	gene	1227	aspS2_2			
+ICONNLDH_00721	CDS	1227	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+ICONNLDH_00722	gene	246				
+ICONNLDH_00722	CDS	246				hypothetical protein
+ICONNLDH_00723	gene	240				
+ICONNLDH_00723	CDS	240				hypothetical protein
+ICONNLDH_00724	gene	702				
+ICONNLDH_00724	CDS	702				hypothetical protein
+ICONNLDH_00725	gene	930	trxB			
+ICONNLDH_00725	CDS	930	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+ICONNLDH_00726	gene	273				
+ICONNLDH_00726	CDS	273				hypothetical protein
+ICONNLDH_00727	gene	318				
+ICONNLDH_00727	CDS	318				hypothetical protein
+ICONNLDH_00728	gene	399				
+ICONNLDH_00728	CDS	399				hypothetical protein
+ICONNLDH_00729	gene	723				
+ICONNLDH_00729	CDS	723				hypothetical protein
+ICONNLDH_00730	gene	315				
+ICONNLDH_00730	CDS	315				hypothetical protein
+ICONNLDH_00731	gene	993	oppF			
+ICONNLDH_00731	CDS	993	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+ICONNLDH_00732	gene	624	rnr			
+ICONNLDH_00732	CDS	624	rnr	3.1.13.1		Ribonuclease R
+ICONNLDH_00733	gene	1089	cbiA_2			
+ICONNLDH_00733	CDS	1089	cbiA_2	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+ICONNLDH_00734	gene	636				
+ICONNLDH_00734	CDS	636				hypothetical protein
+ICONNLDH_00735	gene	309	pdg			
+ICONNLDH_00735	CDS	309	pdg			Ultraviolet N-glycosylase/AP lyase
+ICONNLDH_00736	gene	672				
+ICONNLDH_00736	CDS	672				hypothetical protein
+ICONNLDH_00737	gene	984				
+ICONNLDH_00737	CDS	984				hypothetical protein
+ICONNLDH_00738	gene	561				
+ICONNLDH_00738	CDS	561				hypothetical protein
+ICONNLDH_00739	gene	456				
+ICONNLDH_00739	CDS	456				hypothetical protein
+ICONNLDH_00740	gene	276	trpA			
+ICONNLDH_00740	CDS	276	trpA	4.2.1.20		Tryptophan synthase alpha chain
+ICONNLDH_00741	gene	489	glmS			
+ICONNLDH_00741	CDS	489	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ICONNLDH_00742	gene	540				
+ICONNLDH_00742	CDS	540				hypothetical protein
+ICONNLDH_00743	gene	846	apgM			
+ICONNLDH_00743	CDS	846	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ICONNLDH_00744	gene	135				
+ICONNLDH_00744	CDS	135				hypothetical protein
+ICONNLDH_00745	gene	528				
+ICONNLDH_00745	CDS	528		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+ICONNLDH_00746	gene	1011	hom			
+ICONNLDH_00746	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+ICONNLDH_00747	gene	441				
+ICONNLDH_00747	CDS	441				hypothetical protein
+ICONNLDH_00748	gene	300				
+ICONNLDH_00748	CDS	300				hypothetical protein
+ICONNLDH_00749	gene	546	smc			
+ICONNLDH_00749	CDS	546	smc		COG1196	Chromosome partition protein Smc
+ICONNLDH_00750	gene	471				
+ICONNLDH_00750	CDS	471				hypothetical protein
+ICONNLDH_00751	gene	246				
+ICONNLDH_00751	CDS	246				hypothetical protein
+ICONNLDH_00752	gene	159				
+ICONNLDH_00752	CDS	159				hypothetical protein
+ICONNLDH_00753	gene	339				
+ICONNLDH_00753	CDS	339				hypothetical protein
+ICONNLDH_00754	gene	381				
+ICONNLDH_00754	CDS	381				hypothetical protein
+ICONNLDH_00755	gene	279				
+ICONNLDH_00755	CDS	279				hypothetical protein
+ICONNLDH_00756	gene	819				
+ICONNLDH_00756	CDS	819				hypothetical protein
+ICONNLDH_00757	gene	210				
+ICONNLDH_00757	CDS	210				hypothetical protein
+ICONNLDH_00758	gene	165				
+ICONNLDH_00758	CDS	165				hypothetical protein
+ICONNLDH_00759	gene	408	hit			
+ICONNLDH_00759	CDS	408	hit		COG0537	Protein hit
+ICONNLDH_00760	gene	651	purE			
+ICONNLDH_00760	CDS	651	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+ICONNLDH_00761	gene	246				
+ICONNLDH_00761	CDS	246				hypothetical protein
+ICONNLDH_00762	gene	465				
+ICONNLDH_00762	CDS	465				hypothetical protein
+ICONNLDH_00763	gene	90				
+ICONNLDH_00763	CDS	90				hypothetical protein
+ICONNLDH_00764	gene	369	ywlC			
+ICONNLDH_00764	CDS	369	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+ICONNLDH_00765	gene	126				
+ICONNLDH_00765	CDS	126				hypothetical protein
+ICONNLDH_00766	gene	297	cmk			
+ICONNLDH_00766	CDS	297	cmk	2.7.4.25		Cytidylate kinase
+ICONNLDH_00767	gene	246				
+ICONNLDH_00767	CDS	246				hypothetical protein
+ICONNLDH_00768	gene	639	galT			
+ICONNLDH_00768	CDS	639	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+ICONNLDH_00769	gene	384				
+ICONNLDH_00769	CDS	384				hypothetical protein
+ICONNLDH_00770	gene	258				
+ICONNLDH_00770	CDS	258				hypothetical protein
+ICONNLDH_00771	gene	621	ghrB			
+ICONNLDH_00771	CDS	621	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+ICONNLDH_00772	gene	303				
+ICONNLDH_00772	CDS	303				hypothetical protein
+ICONNLDH_00773	gene	243				
+ICONNLDH_00773	CDS	243				hypothetical protein
+ICONNLDH_00774	gene	153				
+ICONNLDH_00774	CDS	153				hypothetical protein
+ICONNLDH_00775	gene	207				
+ICONNLDH_00775	CDS	207				hypothetical protein
+ICONNLDH_00776	gene	267				
+ICONNLDH_00776	CDS	267				hypothetical protein
+ICONNLDH_00777	gene	396				
+ICONNLDH_00777	CDS	396				hypothetical protein
+ICONNLDH_00778	gene	777	oppD			
+ICONNLDH_00778	CDS	777	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+ICONNLDH_00779	gene	351	rcsC			
+ICONNLDH_00779	CDS	351	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+ICONNLDH_00780	gene	504				
+ICONNLDH_00780	CDS	504				hypothetical protein
+ICONNLDH_00781	gene	111				
+ICONNLDH_00781	CDS	111				hypothetical protein
+ICONNLDH_00782	gene	486				
+ICONNLDH_00782	CDS	486		1.-.-.-		putative oxidoreductase
+ICONNLDH_00783	gene	76				
+ICONNLDH_00783	tRNA	76				tRNA-Pro(ggg)
+ICONNLDH_00784	gene	465				
+ICONNLDH_00784	CDS	465				hypothetical protein
+ICONNLDH_00785	gene	462				
+ICONNLDH_00785	CDS	462		2.6.1.1		Aspartate/prephenate aminotransferase
+ICONNLDH_00786	gene	189				
+ICONNLDH_00786	CDS	189				hypothetical protein
+ICONNLDH_00787	gene	357	bnzC			
+ICONNLDH_00787	CDS	357	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+ICONNLDH_00788	gene	270				
+ICONNLDH_00788	CDS	270				hypothetical protein
+ICONNLDH_00789	gene	714				
+ICONNLDH_00789	CDS	714				hypothetical protein
+ICONNLDH_00790	gene	234				
+ICONNLDH_00790	CDS	234				hypothetical protein
+ICONNLDH_00791	gene	432				
+ICONNLDH_00791	CDS	432				hypothetical protein
+ICONNLDH_00792	gene	324	fbiA			
+ICONNLDH_00792	CDS	324	fbiA	2.7.8.28		Phosphoenolpyruvate transferase
+ICONNLDH_00793	gene	546				
+ICONNLDH_00793	CDS	546				hypothetical protein
+ICONNLDH_00794	gene	351				
+ICONNLDH_00794	CDS	351				hypothetical protein
+ICONNLDH_00795	gene	306				
+ICONNLDH_00795	CDS	306				hypothetical protein
+ICONNLDH_00796	gene	336				
+ICONNLDH_00796	CDS	336				hypothetical protein
+ICONNLDH_00797	gene	456	ilvE_2			
+ICONNLDH_00797	CDS	456	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+ICONNLDH_00798	gene	534	hicd_2			
+ICONNLDH_00798	CDS	534	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+ICONNLDH_00799	gene	546				
+ICONNLDH_00799	CDS	546				hypothetical protein
+ICONNLDH_00800	gene	360	ecdB			
+ICONNLDH_00800	CDS	360	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+ICONNLDH_00801	gene	270				
+ICONNLDH_00801	CDS	270				hypothetical protein
+ICONNLDH_00802	gene	168				
+ICONNLDH_00802	CDS	168				hypothetical protein
+ICONNLDH_00803	gene	192				
+ICONNLDH_00803	CDS	192				hypothetical protein
+ICONNLDH_00804	gene	402	ndk			
+ICONNLDH_00804	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+ICONNLDH_00805	gene	453	rpsK			
+ICONNLDH_00805	CDS	453	rpsK		COG0100	30S ribosomal protein S11
+ICONNLDH_00806	gene	387	pabB			
+ICONNLDH_00806	CDS	387	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+ICONNLDH_00807	gene	303				
+ICONNLDH_00807	CDS	303				hypothetical protein
+ICONNLDH_00808	gene	417				
+ICONNLDH_00808	CDS	417				hypothetical protein
+ICONNLDH_00809	gene	318				
+ICONNLDH_00809	CDS	318				hypothetical protein
+ICONNLDH_00810	gene	423				
+ICONNLDH_00810	CDS	423				hypothetical protein
+ICONNLDH_00811	gene	207				
+ICONNLDH_00811	CDS	207				hypothetical protein
+ICONNLDH_00812	gene	366				
+ICONNLDH_00812	CDS	366				hypothetical protein

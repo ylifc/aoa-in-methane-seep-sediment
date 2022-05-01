@@ -1,0 +1,15 @@
+pseudofinder.py annotate -g Nitrososphaera_viennensis_EN76.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrososphaera_viennensis_EN76.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotenuis_aquarius_strain_AQ6F.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotenuis_aquarius_strain_AQ6F.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosocosmicus_hydrocola_strain_G61.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosocosmicus_hydrocola_strain_G61.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosocosmicus_oleophilus_strain_MY3.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosocosmicus_oleophilus_strain_MY3.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrososphaerales_archaeon_UBA213.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrososphaerales_archaeon_UBA213.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrososphaera_evergladensis_SR1.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrososphaera_gargensis_Ga9.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrososphaera_gargensis_Ga9.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotalea_bavarica_SbT1.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotalea_bavarica_SbT1.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotalea_devanaterra_Nd1.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotalea_devanaterra_Nd1.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotalea_koreensis_CS.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotalea_koreensis_CS.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotalea_sinensis_Nd2.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotalea_sinensis_Nd2.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotenuis_chungbukensis_MY2.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotenuis_chungbukensis_MY2.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosotenuis_cloacae_strain_SAT1.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosotenuis_cloacae_strain_SAT1.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_N4.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_N4.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_SAT137.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_SAT137.fa_annotation --diamond -t 64

@@ -1,0 +1,2769 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HOKEECGH_00001	gene	879	pstA			
+HOKEECGH_00001	CDS	879	pstA		COG0581	Phosphate transport system permease protein PstA
+HOKEECGH_00002	gene	909	pstC1			
+HOKEECGH_00002	CDS	909	pstC1		COG0573	Phosphate transport system permease protein PstC 1
+HOKEECGH_00003	gene	996	sphX			
+HOKEECGH_00003	CDS	996	sphX		COG0226	Protein SphX
+HOKEECGH_00004	gene	1083				
+HOKEECGH_00004	CDS	1083				hypothetical protein
+HOKEECGH_00005	gene	837	fgd			
+HOKEECGH_00005	CDS	837	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+HOKEECGH_00006	gene	882				
+HOKEECGH_00006	CDS	882				hypothetical protein
+HOKEECGH_00007	gene	1458	ndhB			
+HOKEECGH_00007	CDS	1458	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HOKEECGH_00008	gene	1482	nuoM			
+HOKEECGH_00008	CDS	1482	nuoM	7.1.1.-	COG1008	NADH-quinone oxidoreductase subunit M
+HOKEECGH_00009	gene	2109	nuoL			
+HOKEECGH_00009	CDS	2109	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+HOKEECGH_00010	gene	459				
+HOKEECGH_00010	CDS	459				hypothetical protein
+HOKEECGH_00011	gene	558				
+HOKEECGH_00011	CDS	558				hypothetical protein
+HOKEECGH_00012	gene	363				
+HOKEECGH_00012	CDS	363				hypothetical protein
+HOKEECGH_00013	gene	1239	thrC			
+HOKEECGH_00013	CDS	1239	thrC	4.2.3.1	COG0498	Threonine synthase
+HOKEECGH_00014	gene	543				
+HOKEECGH_00014	CDS	543				hypothetical protein
+HOKEECGH_00015	gene	1026				
+HOKEECGH_00015	CDS	1026				hypothetical protein
+HOKEECGH_00016	gene	2199	ftsH_1			
+HOKEECGH_00016	CDS	2199	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOKEECGH_00017	gene	312	fixX			
+HOKEECGH_00017	CDS	312	fixX		COG2440	Ferredoxin-like protein FixX
+HOKEECGH_00018	gene	228				
+HOKEECGH_00018	CDS	228				hypothetical protein
+HOKEECGH_00019	gene	999	recA_1			
+HOKEECGH_00019	CDS	999	recA_1			Protein RecA
+HOKEECGH_00020	gene	2670				
+HOKEECGH_00020	CDS	2670				hypothetical protein
+HOKEECGH_00021	gene	1083	ino1			
+HOKEECGH_00021	CDS	1083	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+HOKEECGH_00022	gene	183				
+HOKEECGH_00022	CDS	183				hypothetical protein
+HOKEECGH_00023	gene	285				
+HOKEECGH_00023	CDS	285				hypothetical protein
+HOKEECGH_00024	gene	312				
+HOKEECGH_00024	CDS	312				hypothetical protein
+HOKEECGH_00025	gene	144				
+HOKEECGH_00025	CDS	144				hypothetical protein
+HOKEECGH_00026	gene	1734	recF			
+HOKEECGH_00026	CDS	1734	recF			DNA replication and repair protein RecF
+HOKEECGH_00027	gene	903				
+HOKEECGH_00027	CDS	903				hypothetical protein
+HOKEECGH_00028	gene	1176				
+HOKEECGH_00028	CDS	1176				hypothetical protein
+HOKEECGH_00029	gene	474				
+HOKEECGH_00029	CDS	474				hypothetical protein
+HOKEECGH_00030	gene	906	soxB			
+HOKEECGH_00030	CDS	906	soxB	1.5.3.1		Sarcosine oxidase subunit beta
+HOKEECGH_00031	gene	435				
+HOKEECGH_00031	CDS	435				hypothetical protein
+HOKEECGH_00032	gene	1206	ychF			
+HOKEECGH_00032	CDS	1206	ychF		COG0012	Ribosome-binding ATPase YchF
+HOKEECGH_00033	gene	648				
+HOKEECGH_00033	CDS	648				hypothetical protein
+HOKEECGH_00034	gene	597				
+HOKEECGH_00034	CDS	597				hypothetical protein
+HOKEECGH_00035	gene	444				
+HOKEECGH_00035	CDS	444				hypothetical protein
+HOKEECGH_00036	gene	444	nusA			
+HOKEECGH_00036	CDS	444	nusA			Transcription termination/antitermination protein NusA
+HOKEECGH_00037	gene	351				
+HOKEECGH_00037	CDS	351				hypothetical protein
+HOKEECGH_00038	gene	3426	rpoC			
+HOKEECGH_00038	CDS	3426	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+HOKEECGH_00039	gene	858				
+HOKEECGH_00039	CDS	858				hypothetical protein
+HOKEECGH_00040	gene	267				
+HOKEECGH_00040	CDS	267				hypothetical protein
+HOKEECGH_00041	gene	300				
+HOKEECGH_00041	CDS	300				hypothetical protein
+HOKEECGH_00042	gene	795				
+HOKEECGH_00042	CDS	795				hypothetical protein
+HOKEECGH_00043	gene	2277				
+HOKEECGH_00043	CDS	2277				hypothetical protein
+HOKEECGH_00044	gene	414				
+HOKEECGH_00044	CDS	414				hypothetical protein
+HOKEECGH_00045	gene	432				
+HOKEECGH_00045	CDS	432				hypothetical protein
+HOKEECGH_00046	gene	108				
+HOKEECGH_00046	CDS	108				hypothetical protein
+HOKEECGH_00047	gene	234				
+HOKEECGH_00047	CDS	234				hypothetical protein
+HOKEECGH_00048	gene	117				
+HOKEECGH_00048	CDS	117				hypothetical protein
+HOKEECGH_00049	gene	270				
+HOKEECGH_00049	CDS	270				hypothetical protein
+HOKEECGH_00050	gene	123				
+HOKEECGH_00050	CDS	123				hypothetical protein
+HOKEECGH_00051	gene	120				
+HOKEECGH_00051	CDS	120				hypothetical protein
+HOKEECGH_00052	gene	96				
+HOKEECGH_00052	tRNA	96				tRNA-Arg(tcg)
+HOKEECGH_00053	gene	1014	hom			
+HOKEECGH_00053	CDS	1014	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+HOKEECGH_00054	gene	1383	thrA			
+HOKEECGH_00054	CDS	1383	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HOKEECGH_00055	gene	195				
+HOKEECGH_00055	CDS	195				hypothetical protein
+HOKEECGH_00056	gene	165				
+HOKEECGH_00056	CDS	165				hypothetical protein
+HOKEECGH_00057	gene	2703				
+HOKEECGH_00057	CDS	2703				hypothetical protein
+HOKEECGH_00058	gene	951				
+HOKEECGH_00058	CDS	951				hypothetical protein
+HOKEECGH_00059	gene	510				
+HOKEECGH_00059	CDS	510				hypothetical protein
+HOKEECGH_00060	gene	480				
+HOKEECGH_00060	CDS	480		1.5.1.37		Flavin reductase
+HOKEECGH_00061	gene	228	yggX			
+HOKEECGH_00061	CDS	228	yggX		COG2924	putative Fe(2+)-trafficking protein
+HOKEECGH_00062	gene	492	DmdB			
+HOKEECGH_00062	CDS	492	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+HOKEECGH_00063	gene	1254	leuC			
+HOKEECGH_00063	CDS	1254	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+HOKEECGH_00064	gene	120				
+HOKEECGH_00064	CDS	120				hypothetical protein
+HOKEECGH_00065	gene	432				
+HOKEECGH_00065	CDS	432				hypothetical protein
+HOKEECGH_00066	gene	2085				
+HOKEECGH_00066	CDS	2085				hypothetical protein
+HOKEECGH_00067	gene	79				
+HOKEECGH_00067	tRNA	79				tRNA-Pro(tgg)
+HOKEECGH_00068	gene	150				
+HOKEECGH_00068	CDS	150				hypothetical protein
+HOKEECGH_00069	gene	570				
+HOKEECGH_00069	CDS	570				hypothetical protein
+HOKEECGH_00070	gene	1677	moaA			
+HOKEECGH_00070	CDS	1677	moaA			GTP 3',8-cyclase
+HOKEECGH_00071	gene	762				
+HOKEECGH_00071	CDS	762				hypothetical protein
+HOKEECGH_00072	gene	387				
+HOKEECGH_00072	CDS	387				hypothetical protein
+HOKEECGH_00073	gene	891	czcD			
+HOKEECGH_00073	CDS	891	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+HOKEECGH_00074	gene	378				
+HOKEECGH_00074	CDS	378				hypothetical protein
+HOKEECGH_00075	gene	381				
+HOKEECGH_00075	CDS	381				hypothetical protein
+HOKEECGH_00076	gene	1362				
+HOKEECGH_00076	CDS	1362				hypothetical protein
+HOKEECGH_00077	gene	1437				
+HOKEECGH_00077	CDS	1437				hypothetical protein
+HOKEECGH_00078	gene	1311				
+HOKEECGH_00078	CDS	1311				hypothetical protein
+HOKEECGH_00079	gene	1077				
+HOKEECGH_00079	CDS	1077				hypothetical protein
+HOKEECGH_00080	gene	1902	ppsA			
+HOKEECGH_00080	CDS	1902	ppsA	2.7.9.2	COG0574	Phosphoenolpyruvate synthase
+HOKEECGH_00081	gene	255	grpE			
+HOKEECGH_00081	CDS	255	grpE			Protein GrpE
+HOKEECGH_00082	gene	1878	dnaK_1			
+HOKEECGH_00082	CDS	1878	dnaK_1		COG0443	Chaperone protein DnaK
+HOKEECGH_00083	gene	1134	dnaJ			
+HOKEECGH_00083	CDS	1134	dnaJ		COG0484	Chaperone protein DnaJ
+HOKEECGH_00084	gene	396	efp			
+HOKEECGH_00084	CDS	396	efp			Elongation factor P
+HOKEECGH_00085	gene	840	nadK			
+HOKEECGH_00085	CDS	840	nadK	2.7.1.23		NAD kinase
+HOKEECGH_00086	gene	507				
+HOKEECGH_00086	CDS	507				hypothetical protein
+HOKEECGH_00087	gene	864				
+HOKEECGH_00087	CDS	864				hypothetical protein
+HOKEECGH_00088	gene	366				
+HOKEECGH_00088	CDS	366				hypothetical protein
+HOKEECGH_00089	gene	1095				
+HOKEECGH_00089	CDS	1095				hypothetical protein
+HOKEECGH_00090	gene	1200				
+HOKEECGH_00090	CDS	1200				hypothetical protein
+HOKEECGH_00091	gene	855	xni			
+HOKEECGH_00091	CDS	855	xni	3.1.-.-		Flap endonuclease Xni
+HOKEECGH_00092	gene	1938	pcrA			
+HOKEECGH_00092	CDS	1938	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+HOKEECGH_00093	gene	588				
+HOKEECGH_00093	CDS	588				hypothetical protein
+HOKEECGH_00094	gene	1104				
+HOKEECGH_00094	CDS	1104				hypothetical protein
+HOKEECGH_00095	gene	183				
+HOKEECGH_00095	CDS	183				hypothetical protein
+HOKEECGH_00096	gene	1269	mvaA			
+HOKEECGH_00096	CDS	1269	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+HOKEECGH_00097	gene	312				
+HOKEECGH_00097	CDS	312				hypothetical protein
+HOKEECGH_00098	gene	321				
+HOKEECGH_00098	CDS	321				hypothetical protein
+HOKEECGH_00099	gene	261				
+HOKEECGH_00099	CDS	261			COG4095	Sugar transporter SemiSWEET
+HOKEECGH_00100	gene	300				
+HOKEECGH_00100	CDS	300				hypothetical protein
+HOKEECGH_00101	gene	936				
+HOKEECGH_00101	CDS	936				hypothetical protein
+HOKEECGH_00102	gene	714	tpiA			
+HOKEECGH_00102	CDS	714	tpiA			Triosephosphate isomerase
+HOKEECGH_00103	gene	102				
+HOKEECGH_00103	CDS	102				hypothetical protein
+HOKEECGH_00104	gene	1410				
+HOKEECGH_00104	CDS	1410				hypothetical protein
+HOKEECGH_00105	gene	420				
+HOKEECGH_00105	CDS	420				hypothetical protein
+HOKEECGH_00106	gene	873				
+HOKEECGH_00106	CDS	873				hypothetical protein
+HOKEECGH_00107	gene	564				
+HOKEECGH_00107	CDS	564		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+HOKEECGH_00108	gene	660	rnhB			
+HOKEECGH_00108	CDS	660	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+HOKEECGH_00109	gene	711				
+HOKEECGH_00109	CDS	711				hypothetical protein
+HOKEECGH_00110	gene	1248				
+HOKEECGH_00110	CDS	1248				hypothetical protein
+HOKEECGH_00111	gene	1617				
+HOKEECGH_00111	CDS	1617		2.3.1.-		tRNA uridine(34) acetyltransferase
+HOKEECGH_00112	gene	1632	lysS			
+HOKEECGH_00112	CDS	1632	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+HOKEECGH_00113	gene	750	COQ5_1			
+HOKEECGH_00113	CDS	750	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HOKEECGH_00114	gene	714	mshB			
+HOKEECGH_00114	CDS	714	mshB	3.5.1.103		1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase
+HOKEECGH_00115	gene	993	wbgU			
+HOKEECGH_00115	CDS	993	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+HOKEECGH_00116	gene	849				
+HOKEECGH_00116	CDS	849				hypothetical protein
+HOKEECGH_00117	gene	978	thrB_1			
+HOKEECGH_00117	CDS	978	thrB_1	2.7.1.39		Homoserine kinase
+HOKEECGH_00118	gene	465	tagD			
+HOKEECGH_00118	CDS	465	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+HOKEECGH_00119	gene	1122				
+HOKEECGH_00119	CDS	1122				hypothetical protein
+HOKEECGH_00120	gene	1458				
+HOKEECGH_00120	CDS	1458				hypothetical protein
+HOKEECGH_00121	gene	711				
+HOKEECGH_00121	CDS	711				hypothetical protein
+HOKEECGH_00122	gene	579	glpG			
+HOKEECGH_00122	CDS	579	glpG	3.4.21.105		Rhomboid protease GlpG
+HOKEECGH_00123	gene	351				
+HOKEECGH_00123	CDS	351				hypothetical protein
+HOKEECGH_00124	gene	339				
+HOKEECGH_00124	CDS	339				hypothetical protein
+HOKEECGH_00125	gene	1623				
+HOKEECGH_00125	CDS	1623				hypothetical protein
+HOKEECGH_00126	gene	510				
+HOKEECGH_00126	CDS	510				hypothetical protein
+HOKEECGH_00127	gene	624				
+HOKEECGH_00127	CDS	624				hypothetical protein
+HOKEECGH_00128	gene	771	drrB			
+HOKEECGH_00128	CDS	771	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+HOKEECGH_00129	gene	948	drrA_1			
+HOKEECGH_00129	CDS	948	drrA_1	3.6.3.-	COG1131	Doxorubicin resistance ATP-binding protein DrrA
+HOKEECGH_00130	gene	2478				
+HOKEECGH_00130	CDS	2478				hypothetical protein
+HOKEECGH_00131	gene	531				
+HOKEECGH_00131	CDS	531				hypothetical protein
+HOKEECGH_00132	gene	732				
+HOKEECGH_00132	CDS	732				hypothetical protein
+HOKEECGH_00133	gene	360				
+HOKEECGH_00133	CDS	360				hypothetical protein
+HOKEECGH_00134	gene	435				
+HOKEECGH_00134	CDS	435				hypothetical protein
+HOKEECGH_00135	gene	324				
+HOKEECGH_00135	CDS	324				hypothetical protein
+HOKEECGH_00136	gene	270				
+HOKEECGH_00136	CDS	270				hypothetical protein
+HOKEECGH_00137	gene	210				
+HOKEECGH_00137	CDS	210				hypothetical protein
+HOKEECGH_00138	gene	690	rpsC			
+HOKEECGH_00138	CDS	690	rpsC		COG0092	30S ribosomal protein S3
+HOKEECGH_00139	gene	462				
+HOKEECGH_00139	CDS	462				hypothetical protein
+HOKEECGH_00140	gene	396				
+HOKEECGH_00140	CDS	396				hypothetical protein
+HOKEECGH_00141	gene	747				
+HOKEECGH_00141	CDS	747				hypothetical protein
+HOKEECGH_00142	gene	267				
+HOKEECGH_00142	CDS	267				hypothetical protein
+HOKEECGH_00143	gene	801				
+HOKEECGH_00143	CDS	801				hypothetical protein
+HOKEECGH_00144	gene	750				
+HOKEECGH_00144	CDS	750				hypothetical protein
+HOKEECGH_00145	gene	504				
+HOKEECGH_00145	CDS	504				hypothetical protein
+HOKEECGH_00146	gene	555				
+HOKEECGH_00146	CDS	555				hypothetical protein
+HOKEECGH_00147	gene	1554				
+HOKEECGH_00147	CDS	1554				hypothetical protein
+HOKEECGH_00148	gene	603	bluB			
+HOKEECGH_00148	CDS	603	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+HOKEECGH_00149	gene	738	kaiC_1			
+HOKEECGH_00149	CDS	738	kaiC_1	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00150	gene	540				
+HOKEECGH_00150	CDS	540				hypothetical protein
+HOKEECGH_00151	gene	213				
+HOKEECGH_00151	CDS	213				hypothetical protein
+HOKEECGH_00152	gene	384				
+HOKEECGH_00152	CDS	384				hypothetical protein
+HOKEECGH_00153	gene	147				
+HOKEECGH_00153	CDS	147				hypothetical protein
+HOKEECGH_00154	gene	507				
+HOKEECGH_00154	CDS	507				hypothetical protein
+HOKEECGH_00155	gene	813				
+HOKEECGH_00155	CDS	813				hypothetical protein
+HOKEECGH_00156	gene	771				
+HOKEECGH_00156	CDS	771				hypothetical protein
+HOKEECGH_00157	gene	525	wbpA_1			
+HOKEECGH_00157	CDS	525	wbpA_1	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+HOKEECGH_00158	gene	177				
+HOKEECGH_00158	CDS	177				hypothetical protein
+HOKEECGH_00159	gene	114				
+HOKEECGH_00159	CDS	114				hypothetical protein
+HOKEECGH_00160	gene	441				
+HOKEECGH_00160	CDS	441				hypothetical protein
+HOKEECGH_00161	gene	705				
+HOKEECGH_00161	CDS	705				hypothetical protein
+HOKEECGH_00162	gene	213				
+HOKEECGH_00162	CDS	213				hypothetical protein
+HOKEECGH_00163	gene	246				
+HOKEECGH_00163	CDS	246				hypothetical protein
+HOKEECGH_00164	gene	600				
+HOKEECGH_00164	CDS	600				hypothetical protein
+HOKEECGH_00165	gene	1530				
+HOKEECGH_00165	CDS	1530				hypothetical protein
+HOKEECGH_00166	gene	2430				
+HOKEECGH_00166	CDS	2430				hypothetical protein
+HOKEECGH_00167	gene	309				
+HOKEECGH_00167	CDS	309				hypothetical protein
+HOKEECGH_00168	gene	318				
+HOKEECGH_00168	CDS	318				hypothetical protein
+HOKEECGH_00169	gene	915	pkwA			
+HOKEECGH_00169	CDS	915	pkwA	2.7.11.1		putative serine/threonine-protein kinase PkwA
+HOKEECGH_00170	gene	180				
+HOKEECGH_00170	CDS	180				hypothetical protein
+HOKEECGH_00171	gene	177				
+HOKEECGH_00171	CDS	177				hypothetical protein
+HOKEECGH_00172	gene	222				
+HOKEECGH_00172	CDS	222				hypothetical protein
+HOKEECGH_00173	gene	894				
+HOKEECGH_00173	CDS	894				hypothetical protein
+HOKEECGH_00174	gene	891	Dml			
+HOKEECGH_00174	CDS	891	Dml	4.1.3.32		2,3-dimethylmalate lyase
+HOKEECGH_00175	gene	1302	asnS			
+HOKEECGH_00175	CDS	1302	asnS	6.1.1.22		Asparagine--tRNA ligase
+HOKEECGH_00176	gene	399	murG			
+HOKEECGH_00176	CDS	399	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HOKEECGH_00177	gene	414				
+HOKEECGH_00177	CDS	414				hypothetical protein
+HOKEECGH_00178	gene	687				
+HOKEECGH_00178	CDS	687				hypothetical protein
+HOKEECGH_00179	gene	738	rph_1			
+HOKEECGH_00179	CDS	738	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+HOKEECGH_00180	gene	837	rph_2			
+HOKEECGH_00180	CDS	837	rph_2	2.7.7.56		Ribonuclease PH
+HOKEECGH_00181	gene	222				
+HOKEECGH_00181	CDS	222				hypothetical protein
+HOKEECGH_00182	gene	258				
+HOKEECGH_00182	CDS	258				hypothetical protein
+HOKEECGH_00183	gene	369				
+HOKEECGH_00183	CDS	369				hypothetical protein
+HOKEECGH_00184	gene	870	ecfA2			
+HOKEECGH_00184	CDS	870	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+HOKEECGH_00185	gene	813	cbiO			
+HOKEECGH_00185	CDS	813	cbiO	3.6.3.-	COG1122	Cobalt import ATP-binding protein CbiO
+HOKEECGH_00186	gene	1065				
+HOKEECGH_00186	CDS	1065				hypothetical protein
+HOKEECGH_00187	gene	2415				
+HOKEECGH_00187	CDS	2415				hypothetical protein
+HOKEECGH_00188	gene	132				
+HOKEECGH_00188	CDS	132				hypothetical protein
+HOKEECGH_00189	gene	447				
+HOKEECGH_00189	CDS	447				hypothetical protein
+HOKEECGH_00190	gene	1890				
+HOKEECGH_00190	CDS	1890				hypothetical protein
+HOKEECGH_00191	gene	969				
+HOKEECGH_00191	CDS	969				hypothetical protein
+HOKEECGH_00192	gene	774	hpcH			
+HOKEECGH_00192	CDS	774	hpcH	4.1.2.52	COG3836	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+HOKEECGH_00193	gene	675	neuA			
+HOKEECGH_00193	CDS	675	neuA	2.7.7.43	COG1083	N-acylneuraminate cytidylyltransferase
+HOKEECGH_00194	gene	969	ghrB_1			
+HOKEECGH_00194	CDS	969	ghrB_1	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+HOKEECGH_00195	gene	843				
+HOKEECGH_00195	CDS	843				hypothetical protein
+HOKEECGH_00196	gene	903	wecC_1			
+HOKEECGH_00196	CDS	903	wecC_1	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+HOKEECGH_00197	gene	423				
+HOKEECGH_00197	CDS	423				hypothetical protein
+HOKEECGH_00198	gene	843	ttuD			
+HOKEECGH_00198	CDS	843	ttuD		COG2897	Sulfur carrier protein TtuD
+HOKEECGH_00199	gene	678	gcvH			
+HOKEECGH_00199	CDS	678	gcvH			Glycine cleavage system H protein
+HOKEECGH_00200	gene	588				
+HOKEECGH_00200	CDS	588				hypothetical protein
+HOKEECGH_00201	gene	771				
+HOKEECGH_00201	CDS	771				hypothetical protein
+HOKEECGH_00202	gene	399				
+HOKEECGH_00202	CDS	399				hypothetical protein
+HOKEECGH_00203	gene	96				
+HOKEECGH_00203	CDS	96				hypothetical protein
+HOKEECGH_00204	gene	684	pgk/tpi			
+HOKEECGH_00204	CDS	684	pgk/tpi		COG0126	Bifunctional PGK/TIM
+HOKEECGH_00205	gene	1128				
+HOKEECGH_00205	CDS	1128				hypothetical protein
+HOKEECGH_00206	gene	705				
+HOKEECGH_00206	CDS	705				hypothetical protein
+HOKEECGH_00207	gene	861				
+HOKEECGH_00207	CDS	861				hypothetical protein
+HOKEECGH_00208	gene	1194	ftsH_2			
+HOKEECGH_00208	CDS	1194	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOKEECGH_00209	gene	1290	aspS2_1			
+HOKEECGH_00209	CDS	1290	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HOKEECGH_00210	gene	507				
+HOKEECGH_00210	CDS	507				hypothetical protein
+HOKEECGH_00211	gene	885	nnr_1			
+HOKEECGH_00211	CDS	885	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HOKEECGH_00212	gene	216				
+HOKEECGH_00212	CDS	216				hypothetical protein
+HOKEECGH_00213	gene	1479	guaB			
+HOKEECGH_00213	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HOKEECGH_00214	gene	939				
+HOKEECGH_00214	CDS	939		2.5.-.-		Deoxyhypusine synthase-like protein
+HOKEECGH_00215	gene	2091	hppA1			
+HOKEECGH_00215	CDS	2091	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+HOKEECGH_00216	gene	156				
+HOKEECGH_00216	CDS	156				hypothetical protein
+HOKEECGH_00217	gene	303				
+HOKEECGH_00217	CDS	303				hypothetical protein
+HOKEECGH_00218	gene	306				
+HOKEECGH_00218	CDS	306				hypothetical protein
+HOKEECGH_00219	gene	453				
+HOKEECGH_00219	CDS	453				hypothetical protein
+HOKEECGH_00220	gene	369				
+HOKEECGH_00220	CDS	369				hypothetical protein
+HOKEECGH_00221	gene	540				
+HOKEECGH_00221	CDS	540				hypothetical protein
+HOKEECGH_00222	gene	798	nadE			
+HOKEECGH_00222	CDS	798	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+HOKEECGH_00223	gene	714				
+HOKEECGH_00223	CDS	714				hypothetical protein
+HOKEECGH_00224	gene	234				
+HOKEECGH_00224	CDS	234				hypothetical protein
+HOKEECGH_00225	gene	237				
+HOKEECGH_00225	CDS	237				hypothetical protein
+HOKEECGH_00226	gene	666	kaiC_2			
+HOKEECGH_00226	CDS	666	kaiC_2	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00227	gene	1533				
+HOKEECGH_00227	CDS	1533				hypothetical protein
+HOKEECGH_00228	gene	2094				
+HOKEECGH_00228	CDS	2094				hypothetical protein
+HOKEECGH_00229	gene	882				
+HOKEECGH_00229	CDS	882				hypothetical protein
+HOKEECGH_00230	gene	108				
+HOKEECGH_00230	CDS	108				hypothetical protein
+HOKEECGH_00231	gene	126				
+HOKEECGH_00231	CDS	126				hypothetical protein
+HOKEECGH_00232	gene	1689				
+HOKEECGH_00232	CDS	1689				hypothetical protein
+HOKEECGH_00233	gene	402				
+HOKEECGH_00233	CDS	402				hypothetical protein
+HOKEECGH_00234	gene	1593	gcvPB			
+HOKEECGH_00234	CDS	1593	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+HOKEECGH_00235	gene	1050				
+HOKEECGH_00235	CDS	1050				hypothetical protein
+HOKEECGH_00236	gene	135				
+HOKEECGH_00236	CDS	135				hypothetical protein
+HOKEECGH_00237	gene	150				
+HOKEECGH_00237	CDS	150				hypothetical protein
+HOKEECGH_00238	gene	510				
+HOKEECGH_00238	CDS	510				hypothetical protein
+HOKEECGH_00239	gene	1260				
+HOKEECGH_00239	CDS	1260				hypothetical protein
+HOKEECGH_00240	gene	330				
+HOKEECGH_00240	CDS	330				hypothetical protein
+HOKEECGH_00241	gene	342				
+HOKEECGH_00241	CDS	342				hypothetical protein
+HOKEECGH_00242	gene	549				
+HOKEECGH_00242	CDS	549				hypothetical protein
+HOKEECGH_00243	gene	1221	trpB			
+HOKEECGH_00243	CDS	1221	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+HOKEECGH_00244	gene	864	kynA			
+HOKEECGH_00244	CDS	864	kynA	1.13.11.11	COG3483	Tryptophan 2,3-dioxygenase
+HOKEECGH_00245	gene	1086	aspC_1			
+HOKEECGH_00245	CDS	1086	aspC_1	2.6.1.1	COG0436	Aspartate aminotransferase
+HOKEECGH_00246	gene	126				
+HOKEECGH_00246	CDS	126				hypothetical protein
+HOKEECGH_00247	gene	525				
+HOKEECGH_00247	CDS	525				hypothetical protein
+HOKEECGH_00248	gene	1305	pyrC			
+HOKEECGH_00248	CDS	1305	pyrC	3.5.2.3		Dihydroorotase
+HOKEECGH_00249	gene	1953				
+HOKEECGH_00249	CDS	1953				hypothetical protein
+HOKEECGH_00250	gene	588	nudL			
+HOKEECGH_00250	CDS	588	nudL	3.6.1.-		putative Nudix hydrolase NudL
+HOKEECGH_00251	gene	486	ilvH			
+HOKEECGH_00251	CDS	486	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+HOKEECGH_00252	gene	921				
+HOKEECGH_00252	CDS	921				hypothetical protein
+HOKEECGH_00253	gene	636	nth			
+HOKEECGH_00253	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+HOKEECGH_00254	gene	483	ilvD			
+HOKEECGH_00254	CDS	483	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+HOKEECGH_00255	gene	798	topA			
+HOKEECGH_00255	CDS	798	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+HOKEECGH_00256	gene	249				
+HOKEECGH_00256	CDS	249				hypothetical protein
+HOKEECGH_00257	gene	423				
+HOKEECGH_00257	CDS	423				hypothetical protein
+HOKEECGH_00258	gene	660				
+HOKEECGH_00258	CDS	660				hypothetical protein
+HOKEECGH_00259	gene	498				
+HOKEECGH_00259	CDS	498				hypothetical protein
+HOKEECGH_00260	gene	774	otsB			
+HOKEECGH_00260	CDS	774	otsB	3.1.3.12	COG0637	Trehalose-phosphate phosphatase
+HOKEECGH_00261	gene	873				
+HOKEECGH_00261	CDS	873				hypothetical protein
+HOKEECGH_00262	gene	771	kaiC_3			
+HOKEECGH_00262	CDS	771	kaiC_3	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00263	gene	1149				
+HOKEECGH_00263	CDS	1149		2.2.1.8		Fluorothreonine transaldolase
+HOKEECGH_00264	gene	231	glyA			
+HOKEECGH_00264	CDS	231	glyA	2.1.2.1		Serine hydroxymethyltransferase
+HOKEECGH_00265	gene	114				
+HOKEECGH_00265	CDS	114				hypothetical protein
+HOKEECGH_00266	gene	363				
+HOKEECGH_00266	CDS	363				hypothetical protein
+HOKEECGH_00267	gene	303				
+HOKEECGH_00267	CDS	303				hypothetical protein
+HOKEECGH_00268	gene	1293				
+HOKEECGH_00268	CDS	1293				hypothetical protein
+HOKEECGH_00269	gene	177				
+HOKEECGH_00269	CDS	177				hypothetical protein
+HOKEECGH_00270	gene	234				
+HOKEECGH_00270	CDS	234				hypothetical protein
+HOKEECGH_00271	gene	417				
+HOKEECGH_00271	CDS	417				hypothetical protein
+HOKEECGH_00272	gene	1188				
+HOKEECGH_00272	CDS	1188				hypothetical protein
+HOKEECGH_00273	gene	552				
+HOKEECGH_00273	CDS	552				hypothetical protein
+HOKEECGH_00274	gene	216				
+HOKEECGH_00274	CDS	216				hypothetical protein
+HOKEECGH_00275	gene	951	thiK			
+HOKEECGH_00275	CDS	951	thiK	2.7.1.89		Thiamine kinase
+HOKEECGH_00276	gene	987				
+HOKEECGH_00276	CDS	987				hypothetical protein
+HOKEECGH_00277	gene	387	msrB			
+HOKEECGH_00277	CDS	387	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+HOKEECGH_00278	gene	831				
+HOKEECGH_00278	CDS	831				hypothetical protein
+HOKEECGH_00279	gene	405				
+HOKEECGH_00279	CDS	405				hypothetical protein
+HOKEECGH_00280	gene	822	kaiC_4			
+HOKEECGH_00280	CDS	822	kaiC_4	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+HOKEECGH_00281	gene	216				
+HOKEECGH_00281	CDS	216				hypothetical protein
+HOKEECGH_00282	gene	726				
+HOKEECGH_00282	CDS	726				hypothetical protein
+HOKEECGH_00283	gene	1053	fbpA			
+HOKEECGH_00283	CDS	1053	fbpA			Major ferric iron-binding protein
+HOKEECGH_00284	gene	894				
+HOKEECGH_00284	CDS	894				hypothetical protein
+HOKEECGH_00285	gene	588				
+HOKEECGH_00285	CDS	588				putative protein
+HOKEECGH_00286	gene	414				
+HOKEECGH_00286	CDS	414				hypothetical protein
+HOKEECGH_00287	gene	873	ytbE			
+HOKEECGH_00287	CDS	873	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+HOKEECGH_00288	gene	765				
+HOKEECGH_00288	CDS	765				hypothetical protein
+HOKEECGH_00289	gene	273				
+HOKEECGH_00289	CDS	273				hypothetical protein
+HOKEECGH_00290	gene	243				
+HOKEECGH_00290	CDS	243				hypothetical protein
+HOKEECGH_00291	gene	411	kdsD			
+HOKEECGH_00291	CDS	411	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+HOKEECGH_00292	gene	639				
+HOKEECGH_00292	CDS	639				hypothetical protein
+HOKEECGH_00293	gene	234				
+HOKEECGH_00293	CDS	234				hypothetical protein
+HOKEECGH_00294	gene	192				
+HOKEECGH_00294	CDS	192				hypothetical protein
+HOKEECGH_00295	gene	360				
+HOKEECGH_00295	CDS	360				hypothetical protein
+HOKEECGH_00296	gene	153				
+HOKEECGH_00296	CDS	153				hypothetical protein
+HOKEECGH_00297	gene	984				
+HOKEECGH_00297	CDS	984				hypothetical protein
+HOKEECGH_00298	gene	990				
+HOKEECGH_00298	CDS	990				hypothetical protein
+HOKEECGH_00299	gene	459				
+HOKEECGH_00299	CDS	459				hypothetical protein
+HOKEECGH_00300	gene	303				
+HOKEECGH_00300	CDS	303				hypothetical protein
+HOKEECGH_00301	gene	429				
+HOKEECGH_00301	CDS	429				hypothetical protein
+HOKEECGH_00302	gene	1137	COQ5_2			
+HOKEECGH_00302	CDS	1137	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HOKEECGH_00303	gene	270				
+HOKEECGH_00303	CDS	270				hypothetical protein
+HOKEECGH_00304	gene	381				
+HOKEECGH_00304	CDS	381				hypothetical protein
+HOKEECGH_00305	gene	741				
+HOKEECGH_00305	CDS	741				hypothetical protein
+HOKEECGH_00306	gene	630	MENG			
+HOKEECGH_00306	CDS	630	MENG	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+HOKEECGH_00307	gene	207				
+HOKEECGH_00307	CDS	207				hypothetical protein
+HOKEECGH_00308	gene	225				
+HOKEECGH_00308	CDS	225				hypothetical protein
+HOKEECGH_00309	gene	639	zupT			
+HOKEECGH_00309	CDS	639	zupT			Zinc transporter ZupT
+HOKEECGH_00310	gene	2496	pepN			
+HOKEECGH_00310	CDS	2496	pepN	3.4.11.2		Aminopeptidase N
+HOKEECGH_00311	gene	852	gsiD			
+HOKEECGH_00311	CDS	852	gsiD		COG1173	Glutathione transport system permease protein GsiD
+HOKEECGH_00312	gene	990	gsiC			
+HOKEECGH_00312	CDS	990	gsiC		COG0601	Glutathione transport system permease protein GsiC
+HOKEECGH_00313	gene	1773				
+HOKEECGH_00313	CDS	1773				hypothetical protein
+HOKEECGH_00314	gene	1455	petB			
+HOKEECGH_00314	CDS	1455	petB			Cytochrome b6
+HOKEECGH_00315	gene	1020	metE_1			
+HOKEECGH_00315	CDS	1020	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+HOKEECGH_00316	gene	939	metE_2			
+HOKEECGH_00316	CDS	939	metE_2	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+HOKEECGH_00317	gene	552				
+HOKEECGH_00317	CDS	552				hypothetical protein
+HOKEECGH_00318	gene	687	hddC			
+HOKEECGH_00318	CDS	687	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+HOKEECGH_00319	gene	1347	wecC_2			
+HOKEECGH_00319	CDS	1347	wecC_2	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+HOKEECGH_00320	gene	1389				
+HOKEECGH_00320	CDS	1389				hypothetical protein
+HOKEECGH_00321	gene	1728	wecC_3			
+HOKEECGH_00321	CDS	1728	wecC_3	1.1.1.336		UDP-N-acetyl-D-mannosamine dehydrogenase
+HOKEECGH_00322	gene	1872				
+HOKEECGH_00322	CDS	1872				hypothetical protein
+HOKEECGH_00323	gene	255				
+HOKEECGH_00323	CDS	255				hypothetical protein
+HOKEECGH_00324	gene	1560				
+HOKEECGH_00324	CDS	1560				hypothetical protein
+HOKEECGH_00325	gene	456				
+HOKEECGH_00325	CDS	456				hypothetical protein
+HOKEECGH_00326	gene	924	fbiA			
+HOKEECGH_00326	CDS	924	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+HOKEECGH_00327	gene	663	fbiD			
+HOKEECGH_00327	CDS	663	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+HOKEECGH_00328	gene	267	acyP			
+HOKEECGH_00328	CDS	267	acyP	3.6.1.7	COG1254	Acylphosphatase
+HOKEECGH_00329	gene	1176	ylmB			
+HOKEECGH_00329	CDS	1176	ylmB	3.5.1.-	COG0624	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+HOKEECGH_00330	gene	225	pyrE_1			
+HOKEECGH_00330	CDS	225	pyrE_1	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HOKEECGH_00331	gene	300				
+HOKEECGH_00331	CDS	300				hypothetical protein
+HOKEECGH_00332	gene	2211	pknD			
+HOKEECGH_00332	CDS	2211	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+HOKEECGH_00333	gene	969				
+HOKEECGH_00333	CDS	969				hypothetical protein
+HOKEECGH_00334	gene	1371				
+HOKEECGH_00334	CDS	1371				hypothetical protein
+HOKEECGH_00335	gene	432				
+HOKEECGH_00335	CDS	432				Protein archease
+HOKEECGH_00336	gene	690				
+HOKEECGH_00336	CDS	690				hypothetical protein
+HOKEECGH_00337	gene	447				
+HOKEECGH_00337	CDS	447				hypothetical protein
+HOKEECGH_00338	gene	795				
+HOKEECGH_00338	CDS	795				hypothetical protein
+HOKEECGH_00339	gene	393				
+HOKEECGH_00339	CDS	393				hypothetical protein
+HOKEECGH_00340	gene	483	mntR			
+HOKEECGH_00340	CDS	483	mntR			HTH-type transcriptional regulator MntR
+HOKEECGH_00341	gene	1086	fbpC2			
+HOKEECGH_00341	CDS	1086	fbpC2	7.2.2.7	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+HOKEECGH_00342	gene	978				
+HOKEECGH_00342	CDS	978				hypothetical protein
+HOKEECGH_00343	gene	1455	proS			
+HOKEECGH_00343	CDS	1455	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+HOKEECGH_00344	gene	960	lnrL			
+HOKEECGH_00344	CDS	960	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+HOKEECGH_00345	gene	849				
+HOKEECGH_00345	CDS	849				hypothetical protein
+HOKEECGH_00346	gene	486				
+HOKEECGH_00346	CDS	486				hypothetical protein
+HOKEECGH_00347	gene	1302				
+HOKEECGH_00347	CDS	1302				hypothetical protein
+HOKEECGH_00348	gene	444				
+HOKEECGH_00348	CDS	444				hypothetical protein
+HOKEECGH_00349	gene	795	fbiB_1			
+HOKEECGH_00349	CDS	795	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+HOKEECGH_00350	gene	168				
+HOKEECGH_00350	CDS	168				hypothetical protein
+HOKEECGH_00351	gene	933	mtnA_1			
+HOKEECGH_00351	CDS	933	mtnA_1	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HOKEECGH_00352	gene	1083	resA_1			
+HOKEECGH_00352	CDS	1083	resA_1			Thiol-disulfide oxidoreductase ResA
+HOKEECGH_00353	gene	1245				
+HOKEECGH_00353	CDS	1245				hypothetical protein
+HOKEECGH_00354	gene	504				
+HOKEECGH_00354	CDS	504				hypothetical protein
+HOKEECGH_00355	gene	393				
+HOKEECGH_00355	CDS	393				hypothetical protein
+HOKEECGH_00356	gene	867				
+HOKEECGH_00356	CDS	867				hypothetical protein
+HOKEECGH_00357	gene	78				
+HOKEECGH_00357	tRNA	78				tRNA-Pro(cgg)
+HOKEECGH_00358	gene	399				
+HOKEECGH_00358	CDS	399				hypothetical protein
+HOKEECGH_00359	gene	207				
+HOKEECGH_00359	CDS	207				hypothetical protein
+HOKEECGH_00360	gene	705				
+HOKEECGH_00360	CDS	705				hypothetical protein
+HOKEECGH_00361	gene	471				
+HOKEECGH_00361	CDS	471				hypothetical protein
+HOKEECGH_00362	gene	1647	dnaK_2			
+HOKEECGH_00362	CDS	1647	dnaK_2		COG0443	Chaperone protein DnaK
+HOKEECGH_00363	gene	288				
+HOKEECGH_00363	misc_RNA	288				RNaseP_arch
+HOKEECGH_00364	gene	537				
+HOKEECGH_00364	CDS	537				hypothetical protein
+HOKEECGH_00365	gene	663				
+HOKEECGH_00365	CDS	663		3.1.3.-	COG5663	Nucleotidase
+HOKEECGH_00366	gene	786				
+HOKEECGH_00366	CDS	786				hypothetical protein
+HOKEECGH_00367	gene	492				
+HOKEECGH_00367	CDS	492				hypothetical protein
+HOKEECGH_00368	gene	345				
+HOKEECGH_00368	CDS	345		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+HOKEECGH_00369	gene	180				
+HOKEECGH_00369	CDS	180				hypothetical protein
+HOKEECGH_00370	gene	1281	thi4			
+HOKEECGH_00370	CDS	1281	thi4	2.4.2.59		Thiamine thiazole synthase
+HOKEECGH_00371	gene	996	carE			
+HOKEECGH_00371	CDS	996	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+HOKEECGH_00372	gene	621	etfB			
+HOKEECGH_00372	CDS	621	etfB			Electron transfer flavoprotein subunit beta
+HOKEECGH_00373	gene	342				
+HOKEECGH_00373	CDS	342				hypothetical protein
+HOKEECGH_00374	gene	759				
+HOKEECGH_00374	CDS	759				hypothetical protein
+HOKEECGH_00375	gene	753	kaiC_5			
+HOKEECGH_00375	CDS	753	kaiC_5	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+HOKEECGH_00376	gene	735	kaiC_6			
+HOKEECGH_00376	CDS	735	kaiC_6	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00377	gene	279				
+HOKEECGH_00377	CDS	279				hypothetical protein
+HOKEECGH_00378	gene	1749				
+HOKEECGH_00378	CDS	1749				hypothetical protein
+HOKEECGH_00379	gene	1257	apc3			
+HOKEECGH_00379	CDS	1257	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+HOKEECGH_00380	gene	1638	hcaC			
+HOKEECGH_00380	CDS	1638	hcaC			3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+HOKEECGH_00381	gene	666				
+HOKEECGH_00381	CDS	666				hypothetical protein
+HOKEECGH_00382	gene	1560				
+HOKEECGH_00382	CDS	1560		3.2.1.28	COG3387	Trehalase
+HOKEECGH_00383	gene	942				
+HOKEECGH_00383	CDS	942				hypothetical protein
+HOKEECGH_00384	gene	663				
+HOKEECGH_00384	CDS	663				hypothetical protein
+HOKEECGH_00385	gene	420				
+HOKEECGH_00385	CDS	420				hypothetical protein
+HOKEECGH_00386	gene	1236	vgb			
+HOKEECGH_00386	CDS	1236	vgb	4.2.99.-		Virginiamycin B lyase
+HOKEECGH_00387	gene	345				
+HOKEECGH_00387	CDS	345				hypothetical protein
+HOKEECGH_00388	gene	168				
+HOKEECGH_00388	CDS	168				hypothetical protein
+HOKEECGH_00389	gene	480				
+HOKEECGH_00389	CDS	480				hypothetical protein
+HOKEECGH_00390	gene	405				
+HOKEECGH_00390	CDS	405				hypothetical protein
+HOKEECGH_00391	gene	486	cysA			
+HOKEECGH_00391	CDS	486	cysA	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+HOKEECGH_00392	gene	177				
+HOKEECGH_00392	CDS	177				hypothetical protein
+HOKEECGH_00393	gene	1167	dinB			
+HOKEECGH_00393	CDS	1167	dinB	2.7.7.7		DNA polymerase IV
+HOKEECGH_00394	gene	1113	obg			
+HOKEECGH_00394	CDS	1113	obg	3.6.5.-		GTPase Obg
+HOKEECGH_00395	gene	330	trxA_1			
+HOKEECGH_00395	CDS	330	trxA_1			Thioredoxin 1
+HOKEECGH_00396	gene	501				
+HOKEECGH_00396	CDS	501				hypothetical protein
+HOKEECGH_00397	gene	1377	mshA_1			
+HOKEECGH_00397	CDS	1377	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HOKEECGH_00398	gene	1341	treT			
+HOKEECGH_00398	CDS	1341	treT	2.4.1.245		Trehalose synthase
+HOKEECGH_00399	gene	291				
+HOKEECGH_00399	CDS	291				hypothetical protein
+HOKEECGH_00400	gene	813				
+HOKEECGH_00400	CDS	813				hypothetical protein
+HOKEECGH_00401	gene	1863	pckG			
+HOKEECGH_00401	CDS	1863	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+HOKEECGH_00402	gene	375				
+HOKEECGH_00402	CDS	375				hypothetical protein
+HOKEECGH_00403	gene	738				
+HOKEECGH_00403	CDS	738				hypothetical protein
+HOKEECGH_00404	gene	351				
+HOKEECGH_00404	CDS	351				hypothetical protein
+HOKEECGH_00405	gene	681	udgB			
+HOKEECGH_00405	CDS	681	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+HOKEECGH_00406	gene	324	glnB_1			
+HOKEECGH_00406	CDS	324	glnB_1		COG0347	Nitrogen regulatory protein P-II
+HOKEECGH_00407	gene	1488	nrgA			
+HOKEECGH_00407	CDS	1488	nrgA			Ammonium transporter
+HOKEECGH_00408	gene	1296				
+HOKEECGH_00408	CDS	1296				hypothetical protein
+HOKEECGH_00409	gene	603				
+HOKEECGH_00409	CDS	603				hypothetical protein
+HOKEECGH_00410	gene	1419	lpd			
+HOKEECGH_00410	CDS	1419	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+HOKEECGH_00411	gene	1710	speE			
+HOKEECGH_00411	CDS	1710	speE	2.5.1.16		Polyamine aminopropyltransferase
+HOKEECGH_00412	gene	246				
+HOKEECGH_00412	CDS	246				hypothetical protein
+HOKEECGH_00413	gene	330				
+HOKEECGH_00413	CDS	330				hypothetical protein
+HOKEECGH_00414	gene	1683	metG			
+HOKEECGH_00414	CDS	1683	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+HOKEECGH_00415	gene	1032	qorA			
+HOKEECGH_00415	CDS	1032	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+HOKEECGH_00416	gene	1317	aspS2_2			
+HOKEECGH_00416	CDS	1317	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HOKEECGH_00417	gene	297	gatC			
+HOKEECGH_00417	CDS	297	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+HOKEECGH_00418	gene	1347	gatA			
+HOKEECGH_00418	CDS	1347	gatA	6.3.5.7		Glutamyl-tRNA(Gln) amidotransferase subunit A
+HOKEECGH_00419	gene	513				
+HOKEECGH_00419	CDS	513				hypothetical protein
+HOKEECGH_00420	gene	906	degP			
+HOKEECGH_00420	CDS	906	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+HOKEECGH_00421	gene	468				
+HOKEECGH_00421	CDS	468				hypothetical protein
+HOKEECGH_00422	gene	156				
+HOKEECGH_00422	CDS	156				hypothetical protein
+HOKEECGH_00423	gene	1764				
+HOKEECGH_00423	CDS	1764				hypothetical protein
+HOKEECGH_00424	gene	597				
+HOKEECGH_00424	CDS	597				hypothetical protein
+HOKEECGH_00425	gene	744	ssuC			
+HOKEECGH_00425	CDS	744	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+HOKEECGH_00426	gene	1041	ssuA			
+HOKEECGH_00426	CDS	1041	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+HOKEECGH_00427	gene	159				
+HOKEECGH_00427	CDS	159				hypothetical protein
+HOKEECGH_00428	gene	798				
+HOKEECGH_00428	CDS	798				hypothetical protein
+HOKEECGH_00429	gene	360				
+HOKEECGH_00429	CDS	360				hypothetical protein
+HOKEECGH_00430	gene	504	IMPDH_1			
+HOKEECGH_00430	CDS	504	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOKEECGH_00431	gene	1035				
+HOKEECGH_00431	CDS	1035				hypothetical protein
+HOKEECGH_00432	gene	372				
+HOKEECGH_00432	CDS	372				hypothetical protein
+HOKEECGH_00433	gene	414				
+HOKEECGH_00433	CDS	414				hypothetical protein
+HOKEECGH_00434	gene	708				
+HOKEECGH_00434	CDS	708				hypothetical protein
+HOKEECGH_00435	gene	189				
+HOKEECGH_00435	CDS	189				hypothetical protein
+HOKEECGH_00436	gene	309				
+HOKEECGH_00436	CDS	309				hypothetical protein
+HOKEECGH_00437	gene	1215	mshA_2			
+HOKEECGH_00437	CDS	1215	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HOKEECGH_00438	gene	2073	cga			
+HOKEECGH_00438	CDS	2073	cga	3.2.1.3		Glucoamylase
+HOKEECGH_00439	gene	183				
+HOKEECGH_00439	CDS	183				hypothetical protein
+HOKEECGH_00440	gene	276				
+HOKEECGH_00440	CDS	276				hypothetical protein
+HOKEECGH_00441	gene	378				
+HOKEECGH_00441	CDS	378				hypothetical protein
+HOKEECGH_00442	gene	1947	acsA			
+HOKEECGH_00442	CDS	1947	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HOKEECGH_00443	gene	390				
+HOKEECGH_00443	CDS	390				hypothetical protein
+HOKEECGH_00444	gene	831	lsrF			
+HOKEECGH_00444	CDS	831	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+HOKEECGH_00445	gene	1020				
+HOKEECGH_00445	CDS	1020		1.1.1.301		D-arabitol-phosphate dehydrogenase
+HOKEECGH_00446	gene	771				
+HOKEECGH_00446	CDS	771				hypothetical protein
+HOKEECGH_00447	gene	489				
+HOKEECGH_00447	CDS	489				hypothetical protein
+HOKEECGH_00448	gene	1299	coaBC			
+HOKEECGH_00448	CDS	1299	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+HOKEECGH_00449	gene	351				
+HOKEECGH_00449	CDS	351				hypothetical protein
+HOKEECGH_00450	gene	201				
+HOKEECGH_00450	CDS	201				hypothetical protein
+HOKEECGH_00451	gene	276				
+HOKEECGH_00451	CDS	276				hypothetical protein
+HOKEECGH_00452	gene	450				
+HOKEECGH_00452	CDS	450				hypothetical protein
+HOKEECGH_00453	gene	675				
+HOKEECGH_00453	CDS	675				hypothetical protein
+HOKEECGH_00454	gene	423				
+HOKEECGH_00454	CDS	423				hypothetical protein
+HOKEECGH_00455	gene	201				
+HOKEECGH_00455	CDS	201				hypothetical protein
+HOKEECGH_00456	gene	1095				
+HOKEECGH_00456	CDS	1095				hypothetical protein
+HOKEECGH_00457	gene	741	natA			
+HOKEECGH_00457	CDS	741	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+HOKEECGH_00458	gene	1203	natB			
+HOKEECGH_00458	CDS	1203	natB	7.2.2.4	COG1668	ABC transporter permease protein NatB
+HOKEECGH_00459	gene	231				
+HOKEECGH_00459	CDS	231				hypothetical protein
+HOKEECGH_00460	gene	876				
+HOKEECGH_00460	CDS	876				hypothetical protein
+HOKEECGH_00461	gene	879	cyoE_1			
+HOKEECGH_00461	CDS	879	cyoE_1	2.5.1.141		Protoheme IX farnesyltransferase
+HOKEECGH_00462	gene	1113				
+HOKEECGH_00462	CDS	1113		3.4.-.-		putative peptidase
+HOKEECGH_00463	gene	762	tdcB			
+HOKEECGH_00463	CDS	762	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+HOKEECGH_00464	gene	327				
+HOKEECGH_00464	CDS	327				hypothetical protein
+HOKEECGH_00465	gene	381				
+HOKEECGH_00465	CDS	381				hypothetical protein
+HOKEECGH_00466	gene	108				
+HOKEECGH_00466	CDS	108				hypothetical protein
+HOKEECGH_00467	gene	390				
+HOKEECGH_00467	CDS	390				hypothetical protein
+HOKEECGH_00468	gene	216				
+HOKEECGH_00468	CDS	216				hypothetical protein
+HOKEECGH_00469	gene	240				
+HOKEECGH_00469	CDS	240				hypothetical protein
+HOKEECGH_00470	gene	402	ndk			
+HOKEECGH_00470	CDS	402	ndk	2.7.4.6		Nucleoside diphosphate kinase
+HOKEECGH_00471	gene	1788	infB			
+HOKEECGH_00471	CDS	1788	infB		COG0532	Translation initiation factor IF-2
+HOKEECGH_00472	gene	426				
+HOKEECGH_00472	CDS	426				hypothetical protein
+HOKEECGH_00473	gene	1230	selB			
+HOKEECGH_00473	CDS	1230	selB		COG3276	Selenocysteine-specific elongation factor
+HOKEECGH_00474	gene	447				
+HOKEECGH_00474	CDS	447				hypothetical protein
+HOKEECGH_00475	gene	2109				
+HOKEECGH_00475	CDS	2109				hypothetical protein
+HOKEECGH_00476	gene	540				
+HOKEECGH_00476	CDS	540				hypothetical protein
+HOKEECGH_00477	gene	369				
+HOKEECGH_00477	CDS	369				hypothetical protein
+HOKEECGH_00478	gene	414				
+HOKEECGH_00478	CDS	414				hypothetical protein
+HOKEECGH_00479	gene	1332				
+HOKEECGH_00479	CDS	1332				hypothetical protein
+HOKEECGH_00480	gene	1449				
+HOKEECGH_00480	CDS	1449				hypothetical protein
+HOKEECGH_00481	gene	1821				
+HOKEECGH_00481	CDS	1821				hypothetical protein
+HOKEECGH_00482	gene	786	guaA			
+HOKEECGH_00482	CDS	786	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+HOKEECGH_00483	gene	354				
+HOKEECGH_00483	CDS	354				hypothetical protein
+HOKEECGH_00484	gene	252				
+HOKEECGH_00484	CDS	252				hypothetical protein
+HOKEECGH_00485	gene	1518	dinG			
+HOKEECGH_00485	CDS	1518	dinG	3.1.-.-		3'-5' exonuclease DinG
+HOKEECGH_00486	gene	891				
+HOKEECGH_00486	CDS	891				hypothetical protein
+HOKEECGH_00487	gene	561				
+HOKEECGH_00487	CDS	561				hypothetical protein
+HOKEECGH_00488	gene	312	tatA_1			
+HOKEECGH_00488	CDS	312	tatA_1			Sec-independent protein translocase protein TatA
+HOKEECGH_00489	gene	813	tatC			
+HOKEECGH_00489	CDS	813	tatC		COG0805	Sec-independent protein translocase protein TatC
+HOKEECGH_00490	gene	252				
+HOKEECGH_00490	CDS	252				hypothetical protein
+HOKEECGH_00491	gene	486				
+HOKEECGH_00491	CDS	486				hypothetical protein
+HOKEECGH_00492	gene	315				
+HOKEECGH_00492	CDS	315				hypothetical protein
+HOKEECGH_00493	gene	1575				
+HOKEECGH_00493	CDS	1575				hypothetical protein
+HOKEECGH_00494	gene	450				
+HOKEECGH_00494	CDS	450				hypothetical protein
+HOKEECGH_00495	gene	636	phoU			
+HOKEECGH_00495	CDS	636	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+HOKEECGH_00496	gene	609	pstB3			
+HOKEECGH_00496	CDS	609	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+HOKEECGH_00497	gene	711				
+HOKEECGH_00497	CDS	711			COG3253	putative protein/MSMEI_2713
+HOKEECGH_00498	gene	1020	iolS			
+HOKEECGH_00498	CDS	1020	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+HOKEECGH_00499	gene	450				
+HOKEECGH_00499	CDS	450				hypothetical protein
+HOKEECGH_00500	gene	258	mauC			
+HOKEECGH_00500	CDS	258	mauC			Amicyanin
+HOKEECGH_00501	gene	110				
+HOKEECGH_00501	rRNA	110				5S ribosomal RNA
+HOKEECGH_00502	gene	1044				
+HOKEECGH_00502	CDS	1044				hypothetical protein
+HOKEECGH_00503	gene	210				
+HOKEECGH_00503	CDS	210				hypothetical protein
+HOKEECGH_00504	gene	906				
+HOKEECGH_00504	CDS	906		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+HOKEECGH_00505	gene	621				
+HOKEECGH_00505	CDS	621				hypothetical protein
+HOKEECGH_00506	gene	95				
+HOKEECGH_00506	tRNA	95				tRNA-Arg(tcg)
+HOKEECGH_00507	gene	495	mtnA_2			
+HOKEECGH_00507	CDS	495	mtnA_2	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HOKEECGH_00508	gene	492	mtnA_3			
+HOKEECGH_00508	CDS	492	mtnA_3	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HOKEECGH_00509	gene	582				
+HOKEECGH_00509	CDS	582				hypothetical protein
+HOKEECGH_00510	gene	861	cyoE_2			
+HOKEECGH_00510	CDS	861	cyoE_2	2.5.1.141		Protoheme IX farnesyltransferase
+HOKEECGH_00511	gene	1278				
+HOKEECGH_00511	CDS	1278				hypothetical protein
+HOKEECGH_00512	gene	351				
+HOKEECGH_00512	CDS	351				hypothetical protein
+HOKEECGH_00513	gene	1275	serS			
+HOKEECGH_00513	CDS	1275	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+HOKEECGH_00514	gene	264				
+HOKEECGH_00514	CDS	264				hypothetical protein
+HOKEECGH_00515	gene	1401				
+HOKEECGH_00515	CDS	1401				hypothetical protein
+HOKEECGH_00516	gene	528				
+HOKEECGH_00516	CDS	528				hypothetical protein
+HOKEECGH_00517	gene	609				
+HOKEECGH_00517	CDS	609		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+HOKEECGH_00518	gene	642				
+HOKEECGH_00518	CDS	642				hypothetical protein
+HOKEECGH_00519	gene	984	tsaD			
+HOKEECGH_00519	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+HOKEECGH_00520	gene	483				
+HOKEECGH_00520	CDS	483				hypothetical protein
+HOKEECGH_00521	gene	243				
+HOKEECGH_00521	CDS	243				hypothetical protein
+HOKEECGH_00522	gene	513				
+HOKEECGH_00522	CDS	513				hypothetical protein
+HOKEECGH_00523	gene	207				
+HOKEECGH_00523	CDS	207				hypothetical protein
+HOKEECGH_00524	gene	327				
+HOKEECGH_00524	CDS	327				hypothetical protein
+HOKEECGH_00525	gene	1770	glmS			
+HOKEECGH_00525	CDS	1770	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+HOKEECGH_00526	gene	1020				
+HOKEECGH_00526	CDS	1020				hypothetical protein
+HOKEECGH_00527	gene	408	rpsK			
+HOKEECGH_00527	CDS	408	rpsK		COG0100	30S ribosomal protein S11
+HOKEECGH_00528	gene	582				
+HOKEECGH_00528	CDS	582				hypothetical protein
+HOKEECGH_00529	gene	471				
+HOKEECGH_00529	CDS	471				hypothetical protein
+HOKEECGH_00530	gene	585				
+HOKEECGH_00530	CDS	585				hypothetical protein
+HOKEECGH_00531	gene	330				
+HOKEECGH_00531	CDS	330				hypothetical protein
+HOKEECGH_00532	gene	504				
+HOKEECGH_00532	CDS	504				hypothetical protein
+HOKEECGH_00533	gene	426	rpsI			
+HOKEECGH_00533	CDS	426	rpsI		COG0103	30S ribosomal protein S9
+HOKEECGH_00534	gene	231				
+HOKEECGH_00534	CDS	231				hypothetical protein
+HOKEECGH_00535	gene	1314	eno2			
+HOKEECGH_00535	CDS	1314	eno2	4.2.1.11	COG0148	Enolase 2
+HOKEECGH_00536	gene	681				
+HOKEECGH_00536	CDS	681				hypothetical protein
+HOKEECGH_00537	gene	594				
+HOKEECGH_00537	CDS	594				hypothetical protein
+HOKEECGH_00538	gene	963	thrB_2			
+HOKEECGH_00538	CDS	963	thrB_2	2.7.1.39		Homoserine kinase
+HOKEECGH_00539	gene	765	argB			
+HOKEECGH_00539	CDS	765	argB	2.7.2.8		Acetylglutamate kinase
+HOKEECGH_00540	gene	1125	fni			
+HOKEECGH_00540	CDS	1125	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+HOKEECGH_00541	gene	1053				
+HOKEECGH_00541	CDS	1053				hypothetical protein
+HOKEECGH_00542	gene	1713	glnS			
+HOKEECGH_00542	CDS	1713	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+HOKEECGH_00543	gene	1281				
+HOKEECGH_00543	CDS	1281				hypothetical protein
+HOKEECGH_00544	gene	753	trpA			
+HOKEECGH_00544	CDS	753	trpA	4.2.1.20		Tryptophan synthase alpha chain
+HOKEECGH_00545	gene	708				
+HOKEECGH_00545	CDS	708				hypothetical protein
+HOKEECGH_00546	gene	1725				
+HOKEECGH_00546	CDS	1725		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+HOKEECGH_00547	gene	468	bcp			
+HOKEECGH_00547	CDS	468	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+HOKEECGH_00548	gene	1314	nanM			
+HOKEECGH_00548	CDS	1314	nanM	5.1.3.24		N-acetylneuraminate epimerase
+HOKEECGH_00549	gene	327				
+HOKEECGH_00549	CDS	327				hypothetical protein
+HOKEECGH_00550	gene	363				
+HOKEECGH_00550	CDS	363				hypothetical protein
+HOKEECGH_00551	gene	375				
+HOKEECGH_00551	CDS	375				hypothetical protein
+HOKEECGH_00552	gene	1032	hldD			
+HOKEECGH_00552	CDS	1032	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+HOKEECGH_00553	gene	552	pimA			
+HOKEECGH_00553	CDS	552	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+HOKEECGH_00554	gene	294				
+HOKEECGH_00554	CDS	294				hypothetical protein
+HOKEECGH_00555	gene	237				
+HOKEECGH_00555	CDS	237				hypothetical protein
+HOKEECGH_00556	gene	159				
+HOKEECGH_00556	CDS	159				hypothetical protein
+HOKEECGH_00557	gene	258				
+HOKEECGH_00557	CDS	258				hypothetical protein
+HOKEECGH_00558	gene	198				
+HOKEECGH_00558	CDS	198				hypothetical protein
+HOKEECGH_00559	gene	999	pyrB_1			
+HOKEECGH_00559	CDS	999	pyrB_1	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HOKEECGH_00560	gene	552				
+HOKEECGH_00560	CDS	552				hypothetical protein
+HOKEECGH_00561	gene	957	purC_1			
+HOKEECGH_00561	CDS	957	purC_1	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HOKEECGH_00562	gene	699	ppm1_1			
+HOKEECGH_00562	CDS	699	ppm1_1	2.4.1.-		Polyprenol monophosphomannose synthase
+HOKEECGH_00563	gene	1608				
+HOKEECGH_00563	CDS	1608				hypothetical protein
+HOKEECGH_00564	gene	189				
+HOKEECGH_00564	CDS	189				hypothetical protein
+HOKEECGH_00565	gene	174				
+HOKEECGH_00565	CDS	174				hypothetical protein
+HOKEECGH_00566	gene	1041	mmcR			
+HOKEECGH_00566	CDS	1041	mmcR	2.1.1.316		Mitomycin biosynthesis 6-O-methyltransferase
+HOKEECGH_00567	gene	744	ybhF			
+HOKEECGH_00567	CDS	744	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+HOKEECGH_00568	gene	1608				
+HOKEECGH_00568	CDS	1608				hypothetical protein
+HOKEECGH_00569	gene	609				
+HOKEECGH_00569	CDS	609				hypothetical protein
+HOKEECGH_00570	gene	195				
+HOKEECGH_00570	CDS	195				hypothetical protein
+HOKEECGH_00571	gene	1608				
+HOKEECGH_00571	CDS	1608				hypothetical protein
+HOKEECGH_00572	gene	936				
+HOKEECGH_00572	CDS	936				hypothetical protein
+HOKEECGH_00573	gene	975	galT_1			
+HOKEECGH_00573	CDS	975	galT_1	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+HOKEECGH_00574	gene	1320	apgM			
+HOKEECGH_00574	CDS	1320	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HOKEECGH_00575	gene	1386	lysA_1			
+HOKEECGH_00575	CDS	1386	lysA_1	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+HOKEECGH_00576	gene	372				
+HOKEECGH_00576	CDS	372				hypothetical protein
+HOKEECGH_00577	gene	234				
+HOKEECGH_00577	CDS	234				hypothetical protein
+HOKEECGH_00578	gene	339				
+HOKEECGH_00578	CDS	339				hypothetical protein
+HOKEECGH_00579	gene	378				
+HOKEECGH_00579	CDS	378				hypothetical protein
+HOKEECGH_00580	gene	186				
+HOKEECGH_00580	CDS	186				hypothetical protein
+HOKEECGH_00581	gene	1812				
+HOKEECGH_00581	CDS	1812		3.2.1.28	COG3387	Trehalase
+HOKEECGH_00582	gene	804	COQ5_3			
+HOKEECGH_00582	CDS	804	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HOKEECGH_00583	gene	411				
+HOKEECGH_00583	CDS	411				hypothetical protein
+HOKEECGH_00584	gene	531				
+HOKEECGH_00584	CDS	531				hypothetical protein
+HOKEECGH_00585	gene	855	folD			
+HOKEECGH_00585	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+HOKEECGH_00586	gene	519				
+HOKEECGH_00586	CDS	519				hypothetical protein
+HOKEECGH_00587	gene	147				
+HOKEECGH_00587	CDS	147				hypothetical protein
+HOKEECGH_00588	gene	1173				
+HOKEECGH_00588	CDS	1173		1.8.5.4	COG0446	Sulfide-quinone reductase
+HOKEECGH_00589	gene	273				
+HOKEECGH_00589	CDS	273				hypothetical protein
+HOKEECGH_00590	gene	786				
+HOKEECGH_00590	CDS	786				hypothetical protein
+HOKEECGH_00591	gene	1194				
+HOKEECGH_00591	CDS	1194				hypothetical protein
+HOKEECGH_00592	gene	495				
+HOKEECGH_00592	CDS	495				hypothetical protein
+HOKEECGH_00593	gene	306				
+HOKEECGH_00593	CDS	306				hypothetical protein
+HOKEECGH_00594	gene	264				
+HOKEECGH_00594	CDS	264				hypothetical protein
+HOKEECGH_00595	gene	480	pyrI			
+HOKEECGH_00595	CDS	480	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+HOKEECGH_00596	gene	498				
+HOKEECGH_00596	CDS	498				hypothetical protein
+HOKEECGH_00597	gene	930	pyrB_2			
+HOKEECGH_00597	CDS	930	pyrB_2	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HOKEECGH_00598	gene	2391				
+HOKEECGH_00598	CDS	2391				hypothetical protein
+HOKEECGH_00599	gene	507				
+HOKEECGH_00599	CDS	507				hypothetical protein
+HOKEECGH_00600	gene	1857	argS			
+HOKEECGH_00600	CDS	1857	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+HOKEECGH_00601	gene	1158				
+HOKEECGH_00601	CDS	1158		1.12.-.-		Soluble hydrogenase 42 kDa subunit
+HOKEECGH_00602	gene	345				
+HOKEECGH_00602	CDS	345				hypothetical protein
+HOKEECGH_00603	gene	243				
+HOKEECGH_00603	CDS	243				hypothetical protein
+HOKEECGH_00604	gene	669	ytrE			
+HOKEECGH_00604	CDS	669	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+HOKEECGH_00605	gene	519				
+HOKEECGH_00605	CDS	519				hypothetical protein
+HOKEECGH_00606	gene	789				
+HOKEECGH_00606	CDS	789				hypothetical protein
+HOKEECGH_00607	gene	174				
+HOKEECGH_00607	CDS	174				hypothetical protein
+HOKEECGH_00608	gene	255				
+HOKEECGH_00608	CDS	255				hypothetical protein
+HOKEECGH_00609	gene	270				
+HOKEECGH_00609	CDS	270				hypothetical protein
+HOKEECGH_00610	gene	849	ramA			
+HOKEECGH_00610	CDS	849	ramA	3.5.1.100		(R)-stereoselective amidase
+HOKEECGH_00611	gene	342				
+HOKEECGH_00611	CDS	342				hypothetical protein
+HOKEECGH_00612	gene	543				
+HOKEECGH_00612	CDS	543				hypothetical protein
+HOKEECGH_00613	gene	171				
+HOKEECGH_00613	CDS	171				hypothetical protein
+HOKEECGH_00614	gene	1545				
+HOKEECGH_00614	CDS	1545				hypothetical protein
+HOKEECGH_00615	gene	156				
+HOKEECGH_00615	CDS	156				hypothetical protein
+HOKEECGH_00616	gene	468	moaC2			
+HOKEECGH_00616	CDS	468	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+HOKEECGH_00617	gene	525	moaB			
+HOKEECGH_00617	CDS	525	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+HOKEECGH_00618	gene	435				
+HOKEECGH_00618	CDS	435				hypothetical protein
+HOKEECGH_00619	gene	312				
+HOKEECGH_00619	CDS	312				hypothetical protein
+HOKEECGH_00620	gene	945				
+HOKEECGH_00620	CDS	945				hypothetical protein
+HOKEECGH_00621	gene	414				
+HOKEECGH_00621	CDS	414				hypothetical protein
+HOKEECGH_00622	gene	159				
+HOKEECGH_00622	CDS	159				hypothetical protein
+HOKEECGH_00623	gene	444				
+HOKEECGH_00623	CDS	444				hypothetical protein
+HOKEECGH_00624	gene	780	pyrF			
+HOKEECGH_00624	CDS	780	pyrF			Orotidine 5'-phosphate decarboxylase
+HOKEECGH_00625	gene	234				
+HOKEECGH_00625	CDS	234				hypothetical protein
+HOKEECGH_00626	gene	336				
+HOKEECGH_00626	CDS	336				hypothetical protein
+HOKEECGH_00627	gene	264				
+HOKEECGH_00627	CDS	264				hypothetical protein
+HOKEECGH_00628	gene	1008	purA			
+HOKEECGH_00628	CDS	1008	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+HOKEECGH_00629	gene	783				
+HOKEECGH_00629	CDS	783		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+HOKEECGH_00630	gene	591				
+HOKEECGH_00630	CDS	591				hypothetical protein
+HOKEECGH_00631	gene	96				
+HOKEECGH_00631	CDS	96				hypothetical protein
+HOKEECGH_00632	gene	420				
+HOKEECGH_00632	CDS	420				hypothetical protein
+HOKEECGH_00633	gene	966	rnz			
+HOKEECGH_00633	CDS	966	rnz	3.1.26.11	COG1234	Ribonuclease Z
+HOKEECGH_00634	gene	1047				
+HOKEECGH_00634	CDS	1047				hypothetical protein
+HOKEECGH_00635	gene	891	prs			
+HOKEECGH_00635	CDS	891	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+HOKEECGH_00636	gene	210				
+HOKEECGH_00636	CDS	210				hypothetical protein
+HOKEECGH_00637	gene	807	cinA			
+HOKEECGH_00637	CDS	807	cinA		COG1058	Putative competence-damage inducible protein
+HOKEECGH_00638	gene	282				
+HOKEECGH_00638	CDS	282				hypothetical protein
+HOKEECGH_00639	gene	558	larE			
+HOKEECGH_00639	CDS	558	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+HOKEECGH_00640	gene	786	larB			
+HOKEECGH_00640	CDS	786	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+HOKEECGH_00641	gene	1263	larC			
+HOKEECGH_00641	CDS	1263	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+HOKEECGH_00642	gene	843				
+HOKEECGH_00642	CDS	843				hypothetical protein
+HOKEECGH_00643	gene	342				
+HOKEECGH_00643	CDS	342				hypothetical protein
+HOKEECGH_00644	gene	1032				
+HOKEECGH_00644	CDS	1032				hypothetical protein
+HOKEECGH_00645	gene	1458				
+HOKEECGH_00645	CDS	1458				hypothetical protein
+HOKEECGH_00646	gene	522				
+HOKEECGH_00646	CDS	522				hypothetical protein
+HOKEECGH_00647	gene	150				
+HOKEECGH_00647	CDS	150				hypothetical protein
+HOKEECGH_00648	gene	303				
+HOKEECGH_00648	CDS	303				hypothetical protein
+HOKEECGH_00649	gene	135				
+HOKEECGH_00649	CDS	135				hypothetical protein
+HOKEECGH_00650	gene	273				
+HOKEECGH_00650	CDS	273				hypothetical protein
+HOKEECGH_00651	gene	258				
+HOKEECGH_00651	CDS	258				hypothetical protein
+HOKEECGH_00652	gene	1047	ftsZ			
+HOKEECGH_00652	CDS	1047	ftsZ			Cell division protein FtsZ
+HOKEECGH_00653	gene	1671				
+HOKEECGH_00653	CDS	1671				hypothetical protein
+HOKEECGH_00654	gene	234				
+HOKEECGH_00654	CDS	234				hypothetical protein
+HOKEECGH_00655	gene	375				
+HOKEECGH_00655	CDS	375				hypothetical protein
+HOKEECGH_00656	gene	1005				
+HOKEECGH_00656	CDS	1005				hypothetical protein
+HOKEECGH_00657	gene	666				
+HOKEECGH_00657	CDS	666				hypothetical protein
+HOKEECGH_00658	gene	246				
+HOKEECGH_00658	CDS	246				hypothetical protein
+HOKEECGH_00659	gene	1419	aam			
+HOKEECGH_00659	CDS	1419	aam	3.5.1.13	COG0154	Acylamidase
+HOKEECGH_00660	gene	237				
+HOKEECGH_00660	CDS	237				hypothetical protein
+HOKEECGH_00661	gene	279				
+HOKEECGH_00661	CDS	279				hypothetical protein
+HOKEECGH_00662	gene	228				
+HOKEECGH_00662	CDS	228				hypothetical protein
+HOKEECGH_00663	gene	357				
+HOKEECGH_00663	CDS	357				hypothetical protein
+HOKEECGH_00664	gene	432				
+HOKEECGH_00664	CDS	432				hypothetical protein
+HOKEECGH_00665	gene	2745	alaS			
+HOKEECGH_00665	CDS	2745	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+HOKEECGH_00666	gene	195				
+HOKEECGH_00666	CDS	195				hypothetical protein
+HOKEECGH_00667	gene	189				
+HOKEECGH_00667	CDS	189				hypothetical protein
+HOKEECGH_00668	gene	987				
+HOKEECGH_00668	CDS	987		1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+HOKEECGH_00669	gene	1095	hisC			
+HOKEECGH_00669	CDS	1095	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+HOKEECGH_00670	gene	510				
+HOKEECGH_00670	CDS	510				hypothetical protein
+HOKEECGH_00671	gene	1428				
+HOKEECGH_00671	CDS	1428		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+HOKEECGH_00672	gene	1350				
+HOKEECGH_00672	CDS	1350				hypothetical protein
+HOKEECGH_00673	gene	1329	lutA			
+HOKEECGH_00673	CDS	1329	lutA			Lactate utilization protein A
+HOKEECGH_00674	gene	489				
+HOKEECGH_00674	CDS	489				hypothetical protein
+HOKEECGH_00675	gene	1584	rocA1			
+HOKEECGH_00675	CDS	1584	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+HOKEECGH_00676	gene	813	proC			
+HOKEECGH_00676	CDS	813	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+HOKEECGH_00677	gene	1308				
+HOKEECGH_00677	CDS	1308				hypothetical protein
+HOKEECGH_00678	gene	138				
+HOKEECGH_00678	CDS	138				hypothetical protein
+HOKEECGH_00679	gene	147				
+HOKEECGH_00679	CDS	147				hypothetical protein
+HOKEECGH_00680	gene	780				
+HOKEECGH_00680	CDS	780				hypothetical protein
+HOKEECGH_00681	gene	735	menG			
+HOKEECGH_00681	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+HOKEECGH_00682	gene	576	ecdB			
+HOKEECGH_00682	CDS	576	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+HOKEECGH_00683	gene	1452	ubiD			
+HOKEECGH_00683	CDS	1452	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+HOKEECGH_00684	gene	906	menA			
+HOKEECGH_00684	CDS	906	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HOKEECGH_00685	gene	1122	mqnC			
+HOKEECGH_00685	CDS	1122	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+HOKEECGH_00686	gene	816				
+HOKEECGH_00686	CDS	816				hypothetical protein
+HOKEECGH_00687	gene	342				
+HOKEECGH_00687	CDS	342				hypothetical protein
+HOKEECGH_00688	gene	228				
+HOKEECGH_00688	CDS	228				hypothetical protein
+HOKEECGH_00689	gene	873				
+HOKEECGH_00689	CDS	873				hypothetical protein
+HOKEECGH_00690	gene	462	paaZ			
+HOKEECGH_00690	CDS	462	paaZ		COG2030	Bifunctional protein PaaZ
+HOKEECGH_00691	gene	393	rpsH			
+HOKEECGH_00691	CDS	393	rpsH			30S ribosomal protein S8
+HOKEECGH_00692	gene	576				
+HOKEECGH_00692	CDS	576				hypothetical protein
+HOKEECGH_00693	gene	579				
+HOKEECGH_00693	CDS	579				hypothetical protein
+HOKEECGH_00694	gene	417				
+HOKEECGH_00694	CDS	417				hypothetical protein
+HOKEECGH_00695	gene	582				
+HOKEECGH_00695	CDS	582				hypothetical protein
+HOKEECGH_00696	gene	639				
+HOKEECGH_00696	CDS	639				hypothetical protein
+HOKEECGH_00697	gene	129				
+HOKEECGH_00697	CDS	129				hypothetical protein
+HOKEECGH_00698	gene	705				
+HOKEECGH_00698	CDS	705				hypothetical protein
+HOKEECGH_00699	gene	894				
+HOKEECGH_00699	CDS	894				hypothetical protein
+HOKEECGH_00700	gene	117				
+HOKEECGH_00700	CDS	117				hypothetical protein
+HOKEECGH_00701	gene	225				
+HOKEECGH_00701	CDS	225				hypothetical protein
+HOKEECGH_00702	gene	762	kaiC_7			
+HOKEECGH_00702	CDS	762	kaiC_7	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00703	gene	402	IMPDH_2			
+HOKEECGH_00703	CDS	402	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOKEECGH_00704	gene	744	prmB			
+HOKEECGH_00704	CDS	744	prmB	1.18.1.-		Propane 2-monooxygenase, reductase component
+HOKEECGH_00705	gene	162				
+HOKEECGH_00705	CDS	162				hypothetical protein
+HOKEECGH_00706	gene	2871	dbpA_1			
+HOKEECGH_00706	CDS	2871	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+HOKEECGH_00707	gene	711	nnr_2			
+HOKEECGH_00707	CDS	711	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HOKEECGH_00708	gene	483	asnC_1			
+HOKEECGH_00708	CDS	483	asnC_1		COG1522	Regulatory protein AsnC
+HOKEECGH_00709	gene	702				
+HOKEECGH_00709	CDS	702				hypothetical protein
+HOKEECGH_00710	gene	1668				
+HOKEECGH_00710	CDS	1668				hypothetical protein
+HOKEECGH_00711	gene	297				
+HOKEECGH_00711	CDS	297				hypothetical protein
+HOKEECGH_00712	gene	534				
+HOKEECGH_00712	CDS	534				hypothetical protein
+HOKEECGH_00713	gene	1224				
+HOKEECGH_00713	CDS	1224				hypothetical protein
+HOKEECGH_00714	gene	189				
+HOKEECGH_00714	CDS	189				hypothetical protein
+HOKEECGH_00715	gene	279				
+HOKEECGH_00715	CDS	279				hypothetical protein
+HOKEECGH_00716	gene	504				
+HOKEECGH_00716	CDS	504				hypothetical protein
+HOKEECGH_00717	gene	1716				
+HOKEECGH_00717	CDS	1716				hypothetical protein
+HOKEECGH_00718	gene	729				
+HOKEECGH_00718	CDS	729				hypothetical protein
+HOKEECGH_00719	gene	291	tatA_2			
+HOKEECGH_00719	CDS	291	tatA_2			Sec-independent protein translocase protein TatA
+HOKEECGH_00720	gene	450				
+HOKEECGH_00720	CDS	450				hypothetical protein
+HOKEECGH_00721	gene	759	fbiB_2			
+HOKEECGH_00721	CDS	759	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+HOKEECGH_00722	gene	342				
+HOKEECGH_00722	CDS	342				hypothetical protein
+HOKEECGH_00723	gene	747	kaiC_8			
+HOKEECGH_00723	CDS	747	kaiC_8	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00724	gene	327				
+HOKEECGH_00724	CDS	327				hypothetical protein
+HOKEECGH_00725	gene	228				
+HOKEECGH_00725	CDS	228				hypothetical protein
+HOKEECGH_00726	gene	729	kaiC_9			
+HOKEECGH_00726	CDS	729	kaiC_9	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00727	gene	297				
+HOKEECGH_00727	CDS	297				hypothetical protein
+HOKEECGH_00728	gene	1341				
+HOKEECGH_00728	CDS	1341				hypothetical protein
+HOKEECGH_00729	gene	1917	GATB			
+HOKEECGH_00729	CDS	1917	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+HOKEECGH_00730	gene	510				
+HOKEECGH_00730	CDS	510				hypothetical protein
+HOKEECGH_00731	gene	450				
+HOKEECGH_00731	CDS	450				hypothetical protein
+HOKEECGH_00732	gene	87				
+HOKEECGH_00732	tRNA	87				tRNA-Glu(ctc)
+HOKEECGH_00733	gene	390				
+HOKEECGH_00733	CDS	390				hypothetical protein
+HOKEECGH_00734	gene	237				
+HOKEECGH_00734	CDS	237				hypothetical protein
+HOKEECGH_00735	gene	954				
+HOKEECGH_00735	CDS	954				hypothetical protein
+HOKEECGH_00736	gene	420				
+HOKEECGH_00736	CDS	420				hypothetical protein
+HOKEECGH_00737	gene	597	rlmE			
+HOKEECGH_00737	CDS	597	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+HOKEECGH_00738	gene	1122	trm1			
+HOKEECGH_00738	CDS	1122	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+HOKEECGH_00739	gene	312				
+HOKEECGH_00739	CDS	312				hypothetical protein
+HOKEECGH_00740	gene	153				
+HOKEECGH_00740	CDS	153				hypothetical protein
+HOKEECGH_00741	gene	384				
+HOKEECGH_00741	CDS	384				hypothetical protein
+HOKEECGH_00742	gene	567	scpB			
+HOKEECGH_00742	CDS	567	scpB			Segregation and condensation protein B
+HOKEECGH_00743	gene	708				
+HOKEECGH_00743	CDS	708				hypothetical protein
+HOKEECGH_00744	gene	3534	smc_1			
+HOKEECGH_00744	CDS	3534	smc_1			Chromosome partition protein Smc
+HOKEECGH_00745	gene	1167				
+HOKEECGH_00745	CDS	1167		4.1.2.27	COG0076	putative sphingosine-1-phosphate lyase
+HOKEECGH_00746	gene	894	panB			
+HOKEECGH_00746	CDS	894	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+HOKEECGH_00747	gene	792				
+HOKEECGH_00747	CDS	792				hypothetical protein
+HOKEECGH_00748	gene	918				
+HOKEECGH_00748	CDS	918				hypothetical protein
+HOKEECGH_00749	gene	1002				
+HOKEECGH_00749	CDS	1002				hypothetical protein
+HOKEECGH_00750	gene	897				
+HOKEECGH_00750	CDS	897				hypothetical protein
+HOKEECGH_00751	gene	225				
+HOKEECGH_00751	CDS	225				hypothetical protein
+HOKEECGH_00752	gene	2058	copA			
+HOKEECGH_00752	CDS	2058	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+HOKEECGH_00753	gene	234				
+HOKEECGH_00753	CDS	234				hypothetical protein
+HOKEECGH_00754	gene	1140	pimB			
+HOKEECGH_00754	CDS	1140	pimB	2.4.1.346	COG0438	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+HOKEECGH_00755	gene	1440	wbpA_2			
+HOKEECGH_00755	CDS	1440	wbpA_2	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+HOKEECGH_00756	gene	339				
+HOKEECGH_00756	CDS	339				hypothetical protein
+HOKEECGH_00757	gene	618				
+HOKEECGH_00757	CDS	618				hypothetical protein
+HOKEECGH_00758	gene	153				
+HOKEECGH_00758	CDS	153				hypothetical protein
+HOKEECGH_00759	gene	297				
+HOKEECGH_00759	CDS	297				hypothetical protein
+HOKEECGH_00760	gene	441				
+HOKEECGH_00760	CDS	441				hypothetical protein
+HOKEECGH_00761	gene	378	phoP			
+HOKEECGH_00761	CDS	378	phoP		COG0745	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+HOKEECGH_00762	gene	264	tusA			
+HOKEECGH_00762	CDS	264	tusA		COG0425	Sulfur carrier protein TusA
+HOKEECGH_00763	gene	576				
+HOKEECGH_00763	CDS	576				hypothetical protein
+HOKEECGH_00764	gene	1299	hisS			
+HOKEECGH_00764	CDS	1299	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HOKEECGH_00765	gene	639	lipB			
+HOKEECGH_00765	CDS	639	lipB	2.3.1.181	COG0321	Octanoyltransferase
+HOKEECGH_00766	gene	1164	pdhC			
+HOKEECGH_00766	CDS	1164	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+HOKEECGH_00767	gene	975				
+HOKEECGH_00767	CDS	975		1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+HOKEECGH_00768	gene	936	lipA			
+HOKEECGH_00768	CDS	936	lipA	2.8.1.8		Lipoyl synthase
+HOKEECGH_00769	gene	561	ilvG			
+HOKEECGH_00769	CDS	561	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit
+HOKEECGH_00770	gene	552				
+HOKEECGH_00770	CDS	552				hypothetical protein
+HOKEECGH_00771	gene	1134	citZ			
+HOKEECGH_00771	CDS	1134	citZ	2.3.3.16	COG0372	Citrate synthase 2
+HOKEECGH_00772	gene	441				
+HOKEECGH_00772	CDS	441				hypothetical protein
+HOKEECGH_00773	gene	1767	qgdA			
+HOKEECGH_00773	CDS	1767	qgdA	1.1.9.1		Quinohemoprotein alcohol dehydrogenase ADH-IIG
+HOKEECGH_00774	gene	225				
+HOKEECGH_00774	CDS	225				hypothetical protein
+HOKEECGH_00775	gene	987				
+HOKEECGH_00775	CDS	987				hypothetical protein
+HOKEECGH_00776	gene	588				
+HOKEECGH_00776	CDS	588				hypothetical protein
+HOKEECGH_00777	gene	717				
+HOKEECGH_00777	CDS	717				hypothetical protein
+HOKEECGH_00778	gene	1014				
+HOKEECGH_00778	CDS	1014				hypothetical protein
+HOKEECGH_00779	gene	207				
+HOKEECGH_00779	CDS	207				hypothetical protein
+HOKEECGH_00780	gene	744				
+HOKEECGH_00780	CDS	744				hypothetical protein
+HOKEECGH_00781	gene	273				
+HOKEECGH_00781	CDS	273				hypothetical protein
+HOKEECGH_00782	gene	378				
+HOKEECGH_00782	CDS	378				hypothetical protein
+HOKEECGH_00783	gene	681	rpiA			
+HOKEECGH_00783	CDS	681	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+HOKEECGH_00784	gene	1233	iscS			
+HOKEECGH_00784	CDS	1233	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+HOKEECGH_00785	gene	297				
+HOKEECGH_00785	CDS	297				hypothetical protein
+HOKEECGH_00786	gene	351	erpA			
+HOKEECGH_00786	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+HOKEECGH_00787	gene	504				
+HOKEECGH_00787	CDS	504				hypothetical protein
+HOKEECGH_00788	gene	561	yvqK			
+HOKEECGH_00788	CDS	561	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+HOKEECGH_00789	gene	729				
+HOKEECGH_00789	CDS	729				hypothetical protein
+HOKEECGH_00790	gene	516				
+HOKEECGH_00790	CDS	516				hypothetical protein
+HOKEECGH_00791	gene	2223	ftsH_3			
+HOKEECGH_00791	CDS	2223	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOKEECGH_00792	gene	507				
+HOKEECGH_00792	CDS	507				hypothetical protein
+HOKEECGH_00793	gene	1167				
+HOKEECGH_00793	CDS	1167				hypothetical protein
+HOKEECGH_00794	gene	543	prmC			
+HOKEECGH_00794	CDS	543	prmC	2.1.1.297		Release factor glutamine methyltransferase
+HOKEECGH_00795	gene	771	rsmA			
+HOKEECGH_00795	CDS	771	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+HOKEECGH_00796	gene	408				
+HOKEECGH_00796	CDS	408				hypothetical protein
+HOKEECGH_00797	gene	564				
+HOKEECGH_00797	CDS	564				hypothetical protein
+HOKEECGH_00798	gene	333				
+HOKEECGH_00798	CDS	333				hypothetical protein
+HOKEECGH_00799	gene	282				
+HOKEECGH_00799	CDS	282				hypothetical protein
+HOKEECGH_00800	gene	1263	gerN			
+HOKEECGH_00800	CDS	1263	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+HOKEECGH_00801	gene	261				
+HOKEECGH_00801	CDS	261				hypothetical protein
+HOKEECGH_00802	gene	165				
+HOKEECGH_00802	CDS	165				hypothetical protein
+HOKEECGH_00803	gene	981				
+HOKEECGH_00803	CDS	981				hypothetical protein
+HOKEECGH_00804	gene	927	crnA			
+HOKEECGH_00804	CDS	927	crnA	3.5.2.10		Creatinine amidohydrolase
+HOKEECGH_00805	gene	348				
+HOKEECGH_00805	CDS	348				hypothetical protein
+HOKEECGH_00806	gene	678				
+HOKEECGH_00806	CDS	678			COG1926	putative protein
+HOKEECGH_00807	gene	1464				
+HOKEECGH_00807	CDS	1464				hypothetical protein
+HOKEECGH_00808	gene	495				
+HOKEECGH_00808	CDS	495				hypothetical protein
+HOKEECGH_00809	gene	669				
+HOKEECGH_00809	CDS	669				hypothetical protein
+HOKEECGH_00810	gene	453	rplI			
+HOKEECGH_00810	CDS	453	rplI		COG0359	50S ribosomal protein L9
+HOKEECGH_00811	gene	765				
+HOKEECGH_00811	CDS	765				hypothetical protein
+HOKEECGH_00812	gene	813	lysZ			
+HOKEECGH_00812	CDS	813	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+HOKEECGH_00813	gene	1047	lysY			
+HOKEECGH_00813	CDS	1047	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+HOKEECGH_00814	gene	867	lysX			
+HOKEECGH_00814	CDS	867	lysX	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HOKEECGH_00815	gene	1341				
+HOKEECGH_00815	CDS	1341				hypothetical protein
+HOKEECGH_00816	gene	837				
+HOKEECGH_00816	CDS	837				hypothetical protein
+HOKEECGH_00817	gene	1422				
+HOKEECGH_00817	CDS	1422				hypothetical protein
+HOKEECGH_00818	gene	468	DNPH1			
+HOKEECGH_00818	CDS	468	DNPH1	3.2.2.-		2'-deoxynucleoside 5'-phosphate N-hydrolase 1
+HOKEECGH_00819	gene	378				
+HOKEECGH_00819	CDS	378				hypothetical protein
+HOKEECGH_00820	gene	339				
+HOKEECGH_00820	CDS	339				hypothetical protein
+HOKEECGH_00821	gene	864	sugB			
+HOKEECGH_00821	CDS	864	sugB		COG0395	Trehalose transport system permease protein SugB
+HOKEECGH_00822	gene	891	sugA			
+HOKEECGH_00822	CDS	891	sugA		COG1175	Trehalose transport system permease protein SugA
+HOKEECGH_00823	gene	237				
+HOKEECGH_00823	CDS	237				hypothetical protein
+HOKEECGH_00824	gene	744				
+HOKEECGH_00824	CDS	744				hypothetical protein
+HOKEECGH_00825	gene	366				
+HOKEECGH_00825	CDS	366				hypothetical protein
+HOKEECGH_00826	gene	900				
+HOKEECGH_00826	CDS	900				hypothetical protein
+HOKEECGH_00827	gene	447				
+HOKEECGH_00827	CDS	447				hypothetical protein
+HOKEECGH_00828	gene	2733	valS_1			
+HOKEECGH_00828	CDS	2733	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+HOKEECGH_00829	gene	1128	pheT			
+HOKEECGH_00829	CDS	1128	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+HOKEECGH_00830	gene	693				
+HOKEECGH_00830	CDS	693				hypothetical protein
+HOKEECGH_00831	gene	432				
+HOKEECGH_00831	CDS	432				hypothetical protein
+HOKEECGH_00832	gene	405				
+HOKEECGH_00832	CDS	405				hypothetical protein
+HOKEECGH_00833	gene	258				
+HOKEECGH_00833	CDS	258				hypothetical protein
+HOKEECGH_00834	gene	969	oppF			
+HOKEECGH_00834	CDS	969	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+HOKEECGH_00835	gene	960	oppD			
+HOKEECGH_00835	CDS	960	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+HOKEECGH_00836	gene	1443				
+HOKEECGH_00836	CDS	1443				hypothetical protein
+HOKEECGH_00837	gene	1026	dppB			
+HOKEECGH_00837	CDS	1026	dppB		COG0601	Dipeptide transport system permease protein DppB
+HOKEECGH_00838	gene	1377				
+HOKEECGH_00838	CDS	1377				hypothetical protein
+HOKEECGH_00839	gene	234				
+HOKEECGH_00839	CDS	234				hypothetical protein
+HOKEECGH_00840	gene	657				
+HOKEECGH_00840	CDS	657				hypothetical protein
+HOKEECGH_00841	gene	726	hldE			
+HOKEECGH_00841	CDS	726	hldE	2.7.7.70		Bifunctional protein HldE
+HOKEECGH_00842	gene	1032				
+HOKEECGH_00842	CDS	1032				hypothetical protein
+HOKEECGH_00843	gene	1695	resA_2			
+HOKEECGH_00843	CDS	1695	resA_2			Thiol-disulfide oxidoreductase ResA
+HOKEECGH_00844	gene	735				
+HOKEECGH_00844	CDS	735				putative protein
+HOKEECGH_00845	gene	423				
+HOKEECGH_00845	CDS	423				hypothetical protein
+HOKEECGH_00846	gene	579				
+HOKEECGH_00846	CDS	579				hypothetical protein
+HOKEECGH_00847	gene	1791	ileS			
+HOKEECGH_00847	CDS	1791	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+HOKEECGH_00848	gene	312				
+HOKEECGH_00848	CDS	312				hypothetical protein
+HOKEECGH_00849	gene	957				
+HOKEECGH_00849	CDS	957				hypothetical protein
+HOKEECGH_00850	gene	438	tadA			
+HOKEECGH_00850	CDS	438	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+HOKEECGH_00851	gene	543				
+HOKEECGH_00851	CDS	543				hypothetical protein
+HOKEECGH_00852	gene	570				
+HOKEECGH_00852	CDS	570				hypothetical protein
+HOKEECGH_00853	gene	987	thiL			
+HOKEECGH_00853	CDS	987	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+HOKEECGH_00854	gene	2115	pgcA			
+HOKEECGH_00854	CDS	2115	pgcA	5.4.2.2		Phosphoglucomutase
+HOKEECGH_00855	gene	174				
+HOKEECGH_00855	CDS	174				hypothetical protein
+HOKEECGH_00856	gene	1485	argH			
+HOKEECGH_00856	CDS	1485	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+HOKEECGH_00857	gene	1185	argG			
+HOKEECGH_00857	CDS	1185	argG	6.3.4.5		Argininosuccinate synthase
+HOKEECGH_00858	gene	690				
+HOKEECGH_00858	CDS	690				hypothetical protein
+HOKEECGH_00859	gene	267				
+HOKEECGH_00859	CDS	267				hypothetical protein
+HOKEECGH_00860	gene	1326	pmbA			
+HOKEECGH_00860	CDS	1326	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+HOKEECGH_00861	gene	1032				
+HOKEECGH_00861	CDS	1032				hypothetical protein
+HOKEECGH_00862	gene	216				
+HOKEECGH_00862	CDS	216				hypothetical protein
+HOKEECGH_00863	gene	273				
+HOKEECGH_00863	CDS	273				hypothetical protein
+HOKEECGH_00864	gene	762	kaiC_10			
+HOKEECGH_00864	CDS	762	kaiC_10	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+HOKEECGH_00865	gene	849	rnhC			
+HOKEECGH_00865	CDS	849	rnhC	3.1.26.4		Ribonuclease HIII
+HOKEECGH_00866	gene	339				
+HOKEECGH_00866	CDS	339				hypothetical protein
+HOKEECGH_00867	gene	636	rutB			
+HOKEECGH_00867	CDS	636	rutB	3.5.1.110	COG1335	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+HOKEECGH_00868	gene	327	yybR			
+HOKEECGH_00868	CDS	327	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+HOKEECGH_00869	gene	1287				
+HOKEECGH_00869	CDS	1287				hypothetical protein
+HOKEECGH_00870	gene	600	tmk			
+HOKEECGH_00870	CDS	600	tmk	2.7.4.9	COG0125	Thymidylate kinase
+HOKEECGH_00871	gene	1545	srmB			
+HOKEECGH_00871	CDS	1545	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+HOKEECGH_00872	gene	747				
+HOKEECGH_00872	CDS	747				hypothetical protein
+HOKEECGH_00873	gene	1482	pepA			
+HOKEECGH_00873	CDS	1482	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+HOKEECGH_00874	gene	1650	groL_1			
+HOKEECGH_00874	CDS	1650	groL_1			60 kDa chaperonin
+HOKEECGH_00875	gene	603				
+HOKEECGH_00875	CDS	603				hypothetical protein
+HOKEECGH_00876	gene	1188				
+HOKEECGH_00876	CDS	1188				hypothetical protein
+HOKEECGH_00877	gene	732	lolD_1			
+HOKEECGH_00877	CDS	732	lolD_1	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+HOKEECGH_00878	gene	2709				
+HOKEECGH_00878	CDS	2709				hypothetical protein
+HOKEECGH_00879	gene	714	lolD_2			
+HOKEECGH_00879	CDS	714	lolD_2	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+HOKEECGH_00880	gene	1185				
+HOKEECGH_00880	CDS	1185				hypothetical protein
+HOKEECGH_00881	gene	1326	ffh			
+HOKEECGH_00881	CDS	1326	ffh		COG0541	Signal recognition particle protein
+HOKEECGH_00882	gene	618				
+HOKEECGH_00882	CDS	618				hypothetical protein
+HOKEECGH_00883	gene	255				
+HOKEECGH_00883	CDS	255				hypothetical protein
+HOKEECGH_00884	gene	279				
+HOKEECGH_00884	CDS	279				hypothetical protein
+HOKEECGH_00885	gene	567				
+HOKEECGH_00885	CDS	567				hypothetical protein
+HOKEECGH_00886	gene	411				
+HOKEECGH_00886	CDS	411				hypothetical protein
+HOKEECGH_00887	gene	321				
+HOKEECGH_00887	CDS	321				hypothetical protein
+HOKEECGH_00888	gene	240				
+HOKEECGH_00888	CDS	240				hypothetical protein
+HOKEECGH_00889	gene	480				
+HOKEECGH_00889	CDS	480				hypothetical protein
+HOKEECGH_00890	gene	651	serB			
+HOKEECGH_00890	CDS	651	serB	3.1.3.3		Phosphoserine phosphatase
+HOKEECGH_00891	gene	3270	carB			
+HOKEECGH_00891	CDS	3270	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HOKEECGH_00892	gene	1125	carA			
+HOKEECGH_00892	CDS	1125	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+HOKEECGH_00893	gene	243				
+HOKEECGH_00893	CDS	243				hypothetical protein
+HOKEECGH_00894	gene	339				
+HOKEECGH_00894	CDS	339				hypothetical protein
+HOKEECGH_00895	gene	633	pyrE_2			
+HOKEECGH_00895	CDS	633	pyrE_2	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HOKEECGH_00896	gene	600				
+HOKEECGH_00896	CDS	600				hypothetical protein
+HOKEECGH_00897	gene	240				
+HOKEECGH_00897	CDS	240				hypothetical protein
+HOKEECGH_00898	gene	630	mobA_1			
+HOKEECGH_00898	CDS	630	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+HOKEECGH_00899	gene	558				
+HOKEECGH_00899	CDS	558				hypothetical protein
+HOKEECGH_00900	gene	948	acuC			
+HOKEECGH_00900	CDS	948	acuC			Acetoin utilization protein AcuC
+HOKEECGH_00901	gene	144				
+HOKEECGH_00901	CDS	144				hypothetical protein
+HOKEECGH_00902	gene	912	mdh			
+HOKEECGH_00902	CDS	912	mdh	1.1.1.37		Malate dehydrogenase
+HOKEECGH_00903	gene	141				
+HOKEECGH_00903	CDS	141				hypothetical protein
+HOKEECGH_00904	gene	1017				
+HOKEECGH_00904	CDS	1017				hypothetical protein
+HOKEECGH_00905	gene	201				
+HOKEECGH_00905	CDS	201				hypothetical protein
+HOKEECGH_00906	gene	816	kaiC_11			
+HOKEECGH_00906	CDS	816	kaiC_11	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_00907	gene	957				
+HOKEECGH_00907	CDS	957				hypothetical protein
+HOKEECGH_00908	gene	750				
+HOKEECGH_00908	CDS	750				hypothetical protein
+HOKEECGH_00909	gene	1290				
+HOKEECGH_00909	CDS	1290				hypothetical protein
+HOKEECGH_00910	gene	246				
+HOKEECGH_00910	CDS	246			COG0425	Putative sulfur carrier protein
+HOKEECGH_00911	gene	888				
+HOKEECGH_00911	CDS	888				hypothetical protein
+HOKEECGH_00912	gene	888	pyrD			
+HOKEECGH_00912	CDS	888	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+HOKEECGH_00913	gene	210				
+HOKEECGH_00913	CDS	210				hypothetical protein
+HOKEECGH_00914	gene	414				
+HOKEECGH_00914	CDS	414				hypothetical protein
+HOKEECGH_00915	gene	351	ddn			
+HOKEECGH_00915	CDS	351	ddn	1.-.-.-		Deazaflavin-dependent nitroreductase
+HOKEECGH_00916	gene	216				
+HOKEECGH_00916	CDS	216				hypothetical protein
+HOKEECGH_00917	gene	204				
+HOKEECGH_00917	CDS	204				hypothetical protein
+HOKEECGH_00918	gene	465				
+HOKEECGH_00918	CDS	465				hypothetical protein
+HOKEECGH_00919	gene	570				
+HOKEECGH_00919	CDS	570				hypothetical protein
+HOKEECGH_00920	gene	546				
+HOKEECGH_00920	CDS	546				hypothetical protein
+HOKEECGH_00921	gene	465				
+HOKEECGH_00921	CDS	465				hypothetical protein
+HOKEECGH_00922	gene	1674	sir			
+HOKEECGH_00922	CDS	1674	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+HOKEECGH_00923	gene	168				
+HOKEECGH_00923	CDS	168				hypothetical protein
+HOKEECGH_00924	gene	2421				
+HOKEECGH_00924	CDS	2421				hypothetical protein
+HOKEECGH_00925	gene	2346	valS_2			
+HOKEECGH_00925	CDS	2346	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+HOKEECGH_00926	gene	1248				
+HOKEECGH_00926	CDS	1248				hypothetical protein
+HOKEECGH_00927	gene	315				
+HOKEECGH_00927	CDS	315				hypothetical protein
+HOKEECGH_00928	gene	1272	cugP_1			
+HOKEECGH_00928	CDS	1272	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HOKEECGH_00929	gene	354				
+HOKEECGH_00929	CDS	354				hypothetical protein
+HOKEECGH_00930	gene	654				
+HOKEECGH_00930	CDS	654				hypothetical protein
+HOKEECGH_00931	gene	1854				
+HOKEECGH_00931	CDS	1854				hypothetical protein
+HOKEECGH_00932	gene	141				
+HOKEECGH_00932	CDS	141				hypothetical protein
+HOKEECGH_00933	gene	1452				
+HOKEECGH_00933	CDS	1452				hypothetical protein
+HOKEECGH_00934	gene	459				
+HOKEECGH_00934	CDS	459				hypothetical protein
+HOKEECGH_00935	gene	1029				
+HOKEECGH_00935	CDS	1029				hypothetical protein
+HOKEECGH_00936	gene	372				
+HOKEECGH_00936	CDS	372				hypothetical protein
+HOKEECGH_00937	gene	1341				
+HOKEECGH_00937	CDS	1341		1.1.1.38		NAD-dependent malic enzyme
+HOKEECGH_00938	gene	1068				
+HOKEECGH_00938	CDS	1068				hypothetical protein
+HOKEECGH_00939	gene	1155				
+HOKEECGH_00939	CDS	1155				hypothetical protein
+HOKEECGH_00940	gene	1065				
+HOKEECGH_00940	CDS	1065				hypothetical protein
+HOKEECGH_00941	gene	375	cutA			
+HOKEECGH_00941	CDS	375	cutA			Divalent-cation tolerance protein CutA
+HOKEECGH_00942	gene	864				
+HOKEECGH_00942	CDS	864				hypothetical protein
+HOKEECGH_00943	gene	615				
+HOKEECGH_00943	CDS	615				hypothetical protein
+HOKEECGH_00944	gene	648				
+HOKEECGH_00944	CDS	648				hypothetical protein
+HOKEECGH_00945	gene	288				
+HOKEECGH_00945	CDS	288				hypothetical protein
+HOKEECGH_00946	gene	852	tyrA			
+HOKEECGH_00946	CDS	852	tyrA		COG0287	T-protein
+HOKEECGH_00947	gene	1350	aspC_2			
+HOKEECGH_00947	CDS	1350	aspC_2	2.6.1.1	COG0436	Aspartate aminotransferase
+HOKEECGH_00948	gene	1107	aroC			
+HOKEECGH_00948	CDS	1107	aroC	4.2.3.5	COG0082	Chorismate synthase
+HOKEECGH_00949	gene	459	aroA			
+HOKEECGH_00949	CDS	459	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HOKEECGH_00950	gene	978				
+HOKEECGH_00950	CDS	978				hypothetical protein
+HOKEECGH_00951	gene	345				
+HOKEECGH_00951	CDS	345				hypothetical protein
+HOKEECGH_00952	gene	1137	purF_1			
+HOKEECGH_00952	CDS	1137	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+HOKEECGH_00953	gene	1404	purF_2			
+HOKEECGH_00953	CDS	1404	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HOKEECGH_00954	gene	1614	purL			
+HOKEECGH_00954	CDS	1614	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+HOKEECGH_00955	gene	180				
+HOKEECGH_00955	CDS	180				hypothetical protein
+HOKEECGH_00956	gene	558				
+HOKEECGH_00956	CDS	558				hypothetical protein
+HOKEECGH_00957	gene	150				
+HOKEECGH_00957	CDS	150				hypothetical protein
+HOKEECGH_00958	gene	615				
+HOKEECGH_00958	CDS	615				hypothetical protein
+HOKEECGH_00959	gene	243				
+HOKEECGH_00959	CDS	243				hypothetical protein
+HOKEECGH_00960	gene	924	dppA			
+HOKEECGH_00960	CDS	924	dppA	3.4.11.-	COG2362	D-aminopeptidase
+HOKEECGH_00961	gene	900				
+HOKEECGH_00961	CDS	900		1.1.1.343	COG1023	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+HOKEECGH_00962	gene	522	yrdA			
+HOKEECGH_00962	CDS	522	yrdA		COG0663	Protein YrdA
+HOKEECGH_00963	gene	759				
+HOKEECGH_00963	CDS	759				hypothetical protein
+HOKEECGH_00964	gene	561				
+HOKEECGH_00964	CDS	561				hypothetical protein
+HOKEECGH_00965	gene	114				
+HOKEECGH_00965	CDS	114				hypothetical protein
+HOKEECGH_00966	gene	1149				
+HOKEECGH_00966	CDS	1149		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+HOKEECGH_00967	gene	291				
+HOKEECGH_00967	CDS	291				hypothetical protein
+HOKEECGH_00968	gene	360				
+HOKEECGH_00968	CDS	360				hypothetical protein
+HOKEECGH_00969	gene	630				
+HOKEECGH_00969	CDS	630		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+HOKEECGH_00970	gene	312	rpsJ			
+HOKEECGH_00970	CDS	312	rpsJ			30S ribosomal protein S10
+HOKEECGH_00971	gene	516				
+HOKEECGH_00971	CDS	516				hypothetical protein
+HOKEECGH_00972	gene	834				
+HOKEECGH_00972	CDS	834				hypothetical protein
+HOKEECGH_00973	gene	807	griI			
+HOKEECGH_00973	CDS	807	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+HOKEECGH_00974	gene	1224	lysC			
+HOKEECGH_00974	CDS	1224	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+HOKEECGH_00975	gene	1398	cysS			
+HOKEECGH_00975	CDS	1398	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+HOKEECGH_00976	gene	306				
+HOKEECGH_00976	CDS	306				hypothetical protein
+HOKEECGH_00977	gene	1215	OLA1			
+HOKEECGH_00977	CDS	1215	OLA1			Obg-like ATPase 1
+HOKEECGH_00978	gene	999				
+HOKEECGH_00978	CDS	999				hypothetical protein
+HOKEECGH_00979	gene	300				
+HOKEECGH_00979	CDS	300				hypothetical protein
+HOKEECGH_00980	gene	2631	dbpA_2			
+HOKEECGH_00980	CDS	2631	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+HOKEECGH_00981	gene	720				
+HOKEECGH_00981	CDS	720				hypothetical protein
+HOKEECGH_00982	gene	420				
+HOKEECGH_00982	CDS	420				hypothetical protein
+HOKEECGH_00983	gene	1578	QTRT1			
+HOKEECGH_00983	CDS	1578	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+HOKEECGH_00984	gene	774				
+HOKEECGH_00984	CDS	774				hypothetical protein
+HOKEECGH_00985	gene	1272				
+HOKEECGH_00985	CDS	1272		3.1.-.-	COG1236	Ribonuclease
+HOKEECGH_00986	gene	195				
+HOKEECGH_00986	CDS	195				hypothetical protein
+HOKEECGH_00987	gene	405	sufU			
+HOKEECGH_00987	CDS	405	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+HOKEECGH_00988	gene	1245	sufS			
+HOKEECGH_00988	CDS	1245	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+HOKEECGH_00989	gene	798	sufC			
+HOKEECGH_00989	CDS	798	sufC		COG0396	Vegetative protein 296
+HOKEECGH_00990	gene	1023	cysM			
+HOKEECGH_00990	CDS	1023	cysM	2.5.1.47	COG0031	Cysteine synthase B
+HOKEECGH_00991	gene	1020	ghrB_2			
+HOKEECGH_00991	CDS	1020	ghrB_2	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+HOKEECGH_00992	gene	1056	purM			
+HOKEECGH_00992	CDS	1056	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+HOKEECGH_00993	gene	852	purC_2			
+HOKEECGH_00993	CDS	852	purC_2	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HOKEECGH_00994	gene	330				
+HOKEECGH_00994	CDS	330				hypothetical protein
+HOKEECGH_00995	gene	1968				
+HOKEECGH_00995	CDS	1968				hypothetical protein
+HOKEECGH_00996	gene	1158				
+HOKEECGH_00996	CDS	1158			COG4310	Putative polysaccharide biosynthesis protein with aminopeptidase-like domain protein
+HOKEECGH_00997	gene	1761				
+HOKEECGH_00997	CDS	1761				hypothetical protein
+HOKEECGH_00998	gene	807				
+HOKEECGH_00998	CDS	807				hypothetical protein
+HOKEECGH_00999	gene	1095				
+HOKEECGH_00999	CDS	1095				hypothetical protein
+HOKEECGH_01000	gene	471				
+HOKEECGH_01000	CDS	471				hypothetical protein
+HOKEECGH_01001	gene	858				
+HOKEECGH_01001	CDS	858				hypothetical protein
+HOKEECGH_01002	gene	1137				
+HOKEECGH_01002	CDS	1137				hypothetical protein
+HOKEECGH_01003	gene	1812				
+HOKEECGH_01003	CDS	1812				hypothetical protein
+HOKEECGH_01004	gene	927	btuD			
+HOKEECGH_01004	CDS	927	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HOKEECGH_01005	gene	852	nadC			
+HOKEECGH_01005	CDS	852	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+HOKEECGH_01006	gene	987	nadA			
+HOKEECGH_01006	CDS	987	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+HOKEECGH_01007	gene	135				
+HOKEECGH_01007	CDS	135				hypothetical protein
+HOKEECGH_01008	gene	1056	galT_2			
+HOKEECGH_01008	CDS	1056	galT_2	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+HOKEECGH_01009	gene	420				
+HOKEECGH_01009	CDS	420				hypothetical protein
+HOKEECGH_01010	gene	510				
+HOKEECGH_01010	CDS	510				hypothetical protein
+HOKEECGH_01011	gene	1311	pyrG			
+HOKEECGH_01011	CDS	1311	pyrG	6.3.4.2		CTP synthase
+HOKEECGH_01012	gene	633	pdxT			
+HOKEECGH_01012	CDS	633	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+HOKEECGH_01013	gene	966	pdxS			
+HOKEECGH_01013	CDS	966	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+HOKEECGH_01014	gene	846	mat			
+HOKEECGH_01014	CDS	846	mat	2.5.1.6		S-adenosylmethionine synthase
+HOKEECGH_01015	gene	1035				
+HOKEECGH_01015	CDS	1035				hypothetical protein
+HOKEECGH_01016	gene	606	ywlC			
+HOKEECGH_01016	CDS	606	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+HOKEECGH_01017	gene	399				
+HOKEECGH_01017	CDS	399				hypothetical protein
+HOKEECGH_01018	gene	684				
+HOKEECGH_01018	CDS	684				hypothetical protein
+HOKEECGH_01019	gene	237				
+HOKEECGH_01019	CDS	237				hypothetical protein
+HOKEECGH_01020	gene	387				
+HOKEECGH_01020	CDS	387				hypothetical protein
+HOKEECGH_01021	gene	420				
+HOKEECGH_01021	CDS	420				hypothetical protein
+HOKEECGH_01022	gene	1287	rebD			
+HOKEECGH_01022	CDS	1287	rebD	1.21.98.2		Dichlorochromopyrrolate synthase
+HOKEECGH_01023	gene	819	lon			
+HOKEECGH_01023	CDS	819	lon	3.4.21.53		Lon protease
+HOKEECGH_01024	gene	1410				
+HOKEECGH_01024	CDS	1410				hypothetical protein
+HOKEECGH_01025	gene	528				
+HOKEECGH_01025	CDS	528				hypothetical protein
+HOKEECGH_01026	gene	336				
+HOKEECGH_01026	CDS	336				hypothetical protein
+HOKEECGH_01027	gene	2346				
+HOKEECGH_01027	CDS	2346				hypothetical protein
+HOKEECGH_01028	gene	867				
+HOKEECGH_01028	CDS	867				hypothetical protein
+HOKEECGH_01029	gene	660				
+HOKEECGH_01029	CDS	660				hypothetical protein
+HOKEECGH_01030	gene	486	rplK			
+HOKEECGH_01030	CDS	486	rplK		COG0080	50S ribosomal protein L11
+HOKEECGH_01031	gene	462				
+HOKEECGH_01031	CDS	462				hypothetical protein
+HOKEECGH_01032	gene	177				
+HOKEECGH_01032	CDS	177				hypothetical protein
+HOKEECGH_01033	gene	810				
+HOKEECGH_01033	CDS	810				hypothetical protein
+HOKEECGH_01034	gene	336	ogt			
+HOKEECGH_01034	CDS	336	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+HOKEECGH_01035	gene	921	argF			
+HOKEECGH_01035	CDS	921	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HOKEECGH_01036	gene	426	ftsY			
+HOKEECGH_01036	CDS	426	ftsY		COG0552	Signal recognition particle receptor FtsY
+HOKEECGH_01037	gene	669	fumC			
+HOKEECGH_01037	CDS	669	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+HOKEECGH_01038	gene	1467	purB			
+HOKEECGH_01038	CDS	1467	purB	4.3.2.2		Adenylosuccinate lyase
+HOKEECGH_01039	gene	201				
+HOKEECGH_01039	CDS	201				hypothetical protein
+HOKEECGH_01040	gene	132				
+HOKEECGH_01040	CDS	132				hypothetical protein
+HOKEECGH_01041	gene	651	ntpD			
+HOKEECGH_01041	CDS	651	ntpD			V-type sodium ATPase subunit D
+HOKEECGH_01042	gene	1392	ntpB			
+HOKEECGH_01042	CDS	1392	ntpB			V-type sodium ATPase subunit B
+HOKEECGH_01043	gene	1788	atpA			
+HOKEECGH_01043	CDS	1788	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+HOKEECGH_01044	gene	162				
+HOKEECGH_01044	CDS	162				hypothetical protein
+HOKEECGH_01045	gene	150				
+HOKEECGH_01045	CDS	150				hypothetical protein
+HOKEECGH_01046	gene	975				
+HOKEECGH_01046	CDS	975				hypothetical protein
+HOKEECGH_01047	gene	1437				
+HOKEECGH_01047	CDS	1437				hypothetical protein
+HOKEECGH_01048	gene	324				
+HOKEECGH_01048	CDS	324				hypothetical protein
+HOKEECGH_01049	gene	318				
+HOKEECGH_01049	CDS	318				hypothetical protein
+HOKEECGH_01050	gene	1017	hicd			
+HOKEECGH_01050	CDS	1017	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+HOKEECGH_01051	gene	561				
+HOKEECGH_01051	CDS	561				hypothetical protein
+HOKEECGH_01052	gene	435				
+HOKEECGH_01052	CDS	435				hypothetical protein
+HOKEECGH_01053	gene	570				
+HOKEECGH_01053	CDS	570				hypothetical protein
+HOKEECGH_01054	gene	324				
+HOKEECGH_01054	CDS	324				hypothetical protein
+HOKEECGH_01055	gene	93				
+HOKEECGH_01055	CDS	93				hypothetical protein
+HOKEECGH_01056	gene	552				
+HOKEECGH_01056	CDS	552				hypothetical protein
+HOKEECGH_01057	gene	669				
+HOKEECGH_01057	CDS	669				hypothetical protein
+HOKEECGH_01058	gene	909				
+HOKEECGH_01058	CDS	909				hypothetical protein
+HOKEECGH_01059	gene	1269	deaD			
+HOKEECGH_01059	CDS	1269	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+HOKEECGH_01060	gene	351				
+HOKEECGH_01060	CDS	351				hypothetical protein
+HOKEECGH_01061	gene	1143	IMPDH_3			
+HOKEECGH_01061	CDS	1143	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOKEECGH_01062	gene	336				
+HOKEECGH_01062	CDS	336				hypothetical protein
+HOKEECGH_01063	gene	933	trxB			
+HOKEECGH_01063	CDS	933	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+HOKEECGH_01064	gene	243				
+HOKEECGH_01064	CDS	243				hypothetical protein
+HOKEECGH_01065	gene	750	parA			
+HOKEECGH_01065	CDS	750	parA			Chromosome partitioning protein ParA
+HOKEECGH_01066	gene	198				
+HOKEECGH_01066	CDS	198				hypothetical protein
+HOKEECGH_01067	gene	381				
+HOKEECGH_01067	CDS	381				hypothetical protein
+HOKEECGH_01068	gene	267				
+HOKEECGH_01068	CDS	267				hypothetical protein
+HOKEECGH_01069	gene	1236				
+HOKEECGH_01069	CDS	1236				hypothetical protein
+HOKEECGH_01070	gene	267				
+HOKEECGH_01070	CDS	267				hypothetical protein
+HOKEECGH_01071	gene	1248	ahcY			
+HOKEECGH_01071	CDS	1248	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+HOKEECGH_01072	gene	807	mtnP			
+HOKEECGH_01072	CDS	807	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+HOKEECGH_01073	gene	513	apt			
+HOKEECGH_01073	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+HOKEECGH_01074	gene	441				
+HOKEECGH_01074	CDS	441				hypothetical protein
+HOKEECGH_01075	gene	303				
+HOKEECGH_01075	CDS	303				hypothetical protein
+HOKEECGH_01076	gene	312				
+HOKEECGH_01076	CDS	312				hypothetical protein
+HOKEECGH_01077	gene	819				
+HOKEECGH_01077	CDS	819				hypothetical protein
+HOKEECGH_01078	gene	576				
+HOKEECGH_01078	CDS	576				hypothetical protein
+HOKEECGH_01079	gene	1590	TOP6B			
+HOKEECGH_01079	CDS	1590	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+HOKEECGH_01080	gene	1104	TOP6A			
+HOKEECGH_01080	CDS	1104	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+HOKEECGH_01081	gene	876				
+HOKEECGH_01081	CDS	876				hypothetical protein
+HOKEECGH_01082	gene	1239				
+HOKEECGH_01082	CDS	1239				hypothetical protein
+HOKEECGH_01083	gene	228				
+HOKEECGH_01083	CDS	228				hypothetical protein
+HOKEECGH_01084	gene	303				
+HOKEECGH_01084	CDS	303				hypothetical protein
+HOKEECGH_01085	gene	417				
+HOKEECGH_01085	CDS	417				hypothetical protein
+HOKEECGH_01086	gene	1161	dapL			
+HOKEECGH_01086	CDS	1161	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+HOKEECGH_01087	gene	1293	lysA_2			
+HOKEECGH_01087	CDS	1293	lysA_2	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+HOKEECGH_01088	gene	807	dapB			
+HOKEECGH_01088	CDS	807	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+HOKEECGH_01089	gene	1035	dapA			
+HOKEECGH_01089	CDS	1035	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+HOKEECGH_01090	gene	180	ilvC			
+HOKEECGH_01090	CDS	180	ilvC	1.1.1.86		Ketol-acid reductoisomerase (NADP(+))
+HOKEECGH_01091	gene	534				
+HOKEECGH_01091	CDS	534				hypothetical protein
+HOKEECGH_01092	gene	308				
+HOKEECGH_01092	misc_RNA	308				Archaea_SRP
+HOKEECGH_01093	gene	87				
+HOKEECGH_01093	tRNA	87				tRNA-Ser(gct)
+HOKEECGH_01094	gene	309				
+HOKEECGH_01094	CDS	309				hypothetical protein
+HOKEECGH_01095	gene	426				
+HOKEECGH_01095	CDS	426				hypothetical protein
+HOKEECGH_01096	gene	405				
+HOKEECGH_01096	CDS	405				hypothetical protein
+HOKEECGH_01097	gene	1158	cetZ			
+HOKEECGH_01097	CDS	1158	cetZ			Tubulin-like protein CetZ
+HOKEECGH_01098	gene	309				
+HOKEECGH_01098	CDS	309				hypothetical protein
+HOKEECGH_01099	gene	768	ycsE			
+HOKEECGH_01099	CDS	768	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+HOKEECGH_01100	gene	891				
+HOKEECGH_01100	CDS	891				hypothetical protein
+HOKEECGH_01101	gene	675				
+HOKEECGH_01101	CDS	675				hypothetical protein
+HOKEECGH_01102	gene	1029	pfp			
+HOKEECGH_01102	CDS	1029	pfp	2.7.1.90		Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+HOKEECGH_01103	gene	780	aroA'			
+HOKEECGH_01103	CDS	780	aroA'	2.2.1.10		2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+HOKEECGH_01104	gene	1227	pgk			
+HOKEECGH_01104	CDS	1227	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+HOKEECGH_01105	gene	750				
+HOKEECGH_01105	CDS	750				hypothetical protein
+HOKEECGH_01106	gene	336				
+HOKEECGH_01106	CDS	336				hypothetical protein
+HOKEECGH_01107	gene	684				
+HOKEECGH_01107	CDS	684				hypothetical protein
+HOKEECGH_01108	gene	579	prcB_1			
+HOKEECGH_01108	CDS	579	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+HOKEECGH_01109	gene	684	prcA			
+HOKEECGH_01109	CDS	684	prcA			Proteasome subunit alpha
+HOKEECGH_01110	gene	291				
+HOKEECGH_01110	CDS	291			COG4274	Glutamine synthetase and cystathionine beta-lyase binding protein
+HOKEECGH_01111	gene	870	purU			
+HOKEECGH_01111	CDS	870	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+HOKEECGH_01112	gene	246				
+HOKEECGH_01112	CDS	246				hypothetical protein
+HOKEECGH_01113	gene	1080	potA			
+HOKEECGH_01113	CDS	1080	potA	7.6.2.11		Spermidine/putrescine import ATP-binding protein PotA
+HOKEECGH_01114	gene	516				
+HOKEECGH_01114	CDS	516		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+HOKEECGH_01115	gene	1143				
+HOKEECGH_01115	CDS	1143		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+HOKEECGH_01116	gene	1086				
+HOKEECGH_01116	CDS	1086				hypothetical protein
+HOKEECGH_01117	gene	972	drrA_2			
+HOKEECGH_01117	CDS	972	drrA_2	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+HOKEECGH_01118	gene	1194				
+HOKEECGH_01118	CDS	1194				hypothetical protein
+HOKEECGH_01119	gene	1308				
+HOKEECGH_01119	CDS	1308				hypothetical protein
+HOKEECGH_01120	gene	561	speG			
+HOKEECGH_01120	CDS	561	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+HOKEECGH_01121	gene	972				
+HOKEECGH_01121	CDS	972				hypothetical protein
+HOKEECGH_01122	gene	978				
+HOKEECGH_01122	CDS	978				hypothetical protein
+HOKEECGH_01123	gene	1365				
+HOKEECGH_01123	CDS	1365				hypothetical protein
+HOKEECGH_01124	gene	417				
+HOKEECGH_01124	CDS	417				hypothetical protein
+HOKEECGH_01125	gene	375				
+HOKEECGH_01125	CDS	375				hypothetical protein
+HOKEECGH_01126	gene	537	rnhA			
+HOKEECGH_01126	CDS	537	rnhA	3.1.26.4		Ribonuclease H
+HOKEECGH_01127	gene	471				
+HOKEECGH_01127	CDS	471				hypothetical protein
+HOKEECGH_01128	gene	423				
+HOKEECGH_01128	CDS	423				Single-stranded DNA-binding protein
+HOKEECGH_01129	gene	240				
+HOKEECGH_01129	CDS	240				hypothetical protein
+HOKEECGH_01130	gene	228				
+HOKEECGH_01130	CDS	228				hypothetical protein
+HOKEECGH_01131	gene	225				
+HOKEECGH_01131	CDS	225				hypothetical protein
+HOKEECGH_01132	gene	1179				
+HOKEECGH_01132	CDS	1179				hypothetical protein
+HOKEECGH_01133	gene	363				
+HOKEECGH_01133	CDS	363				hypothetical protein
+HOKEECGH_01134	gene	876	hmp			
+HOKEECGH_01134	CDS	876	hmp	1.14.12.17		Flavohemoprotein
+HOKEECGH_01135	gene	186				
+HOKEECGH_01135	CDS	186				hypothetical protein
+HOKEECGH_01136	gene	309				
+HOKEECGH_01136	CDS	309				hypothetical protein
+HOKEECGH_01137	gene	315				
+HOKEECGH_01137	CDS	315				hypothetical protein
+HOKEECGH_01138	gene	123				
+HOKEECGH_01138	CDS	123				hypothetical protein
+HOKEECGH_01139	gene	1674				
+HOKEECGH_01139	CDS	1674				hypothetical protein
+HOKEECGH_01140	gene	2046	purF_3			
+HOKEECGH_01140	CDS	2046	purF_3	2.4.2.14		Amidophosphoribosyltransferase
+HOKEECGH_01141	gene	396				
+HOKEECGH_01141	CDS	396				hypothetical protein
+HOKEECGH_01142	gene	726				
+HOKEECGH_01142	CDS	726				hypothetical protein
+HOKEECGH_01143	gene	705	cugP_2			
+HOKEECGH_01143	CDS	705	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HOKEECGH_01144	gene	963				
+HOKEECGH_01144	CDS	963				hypothetical protein
+HOKEECGH_01145	gene	279				
+HOKEECGH_01145	CDS	279				hypothetical protein
+HOKEECGH_01146	gene	204				
+HOKEECGH_01146	CDS	204				hypothetical protein
+HOKEECGH_01147	gene	363				
+HOKEECGH_01147	CDS	363				hypothetical protein
+HOKEECGH_01148	gene	207				
+HOKEECGH_01148	CDS	207				hypothetical protein
+HOKEECGH_01149	gene	1857				
+HOKEECGH_01149	CDS	1857				hypothetical protein
+HOKEECGH_01150	gene	882	speB			
+HOKEECGH_01150	CDS	882	speB	3.5.3.11	COG0010	Agmatinase
+HOKEECGH_01151	gene	987				
+HOKEECGH_01151	CDS	987		2.5.-.-		Deoxyhypusine synthase-like protein
+HOKEECGH_01152	gene	180				
+HOKEECGH_01152	CDS	180				hypothetical protein
+HOKEECGH_01153	gene	270				
+HOKEECGH_01153	CDS	270				hypothetical protein
+HOKEECGH_01154	gene	1125				
+HOKEECGH_01154	CDS	1125				hypothetical protein
+HOKEECGH_01155	gene	1041	fabH			
+HOKEECGH_01155	CDS	1041	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+HOKEECGH_01156	gene	174				
+HOKEECGH_01156	CDS	174				hypothetical protein
+HOKEECGH_01157	gene	807	ppm1_2			
+HOKEECGH_01157	CDS	807	ppm1_2	2.4.1.-		Polyprenol monophosphomannose synthase
+HOKEECGH_01158	gene	1080	per			
+HOKEECGH_01158	CDS	1080	per	2.6.1.102	COG0399	GDP-perosamine synthase
+HOKEECGH_01159	gene	567				
+HOKEECGH_01159	CDS	567				hypothetical protein
+HOKEECGH_01160	gene	450				
+HOKEECGH_01160	CDS	450				hypothetical protein
+HOKEECGH_01161	gene	363				
+HOKEECGH_01161	CDS	363				hypothetical protein
+HOKEECGH_01162	gene	249				
+HOKEECGH_01162	CDS	249				hypothetical protein
+HOKEECGH_01163	gene	966				
+HOKEECGH_01163	CDS	966				hypothetical protein
+HOKEECGH_01164	gene	1257				
+HOKEECGH_01164	CDS	1257				hypothetical protein
+HOKEECGH_01165	gene	219				
+HOKEECGH_01165	CDS	219				hypothetical protein
+HOKEECGH_01166	gene	486				
+HOKEECGH_01166	CDS	486				hypothetical protein
+HOKEECGH_01167	gene	297				
+HOKEECGH_01167	CDS	297				hypothetical protein
+HOKEECGH_01168	gene	1932	rnj			
+HOKEECGH_01168	CDS	1932	rnj	3.1.-.-		Ribonuclease J
+HOKEECGH_01169	gene	678	prcB_2			
+HOKEECGH_01169	CDS	678	prcB_2			Proteasome subunit beta
+HOKEECGH_01170	gene	792				
+HOKEECGH_01170	CDS	792				hypothetical protein
+HOKEECGH_01171	gene	399				
+HOKEECGH_01171	CDS	399				hypothetical protein
+HOKEECGH_01172	gene	987				
+HOKEECGH_01172	CDS	987				hypothetical protein
+HOKEECGH_01173	gene	969				
+HOKEECGH_01173	CDS	969				hypothetical protein
+HOKEECGH_01174	gene	984				
+HOKEECGH_01174	CDS	984				hypothetical protein
+HOKEECGH_01175	gene	1233				
+HOKEECGH_01175	CDS	1233				hypothetical protein
+HOKEECGH_01176	gene	414				
+HOKEECGH_01176	CDS	414				hypothetical protein
+HOKEECGH_01177	gene	1593	groL_2			
+HOKEECGH_01177	CDS	1593	groL_2			60 kDa chaperonin
+HOKEECGH_01178	gene	1506	ribZ			
+HOKEECGH_01178	CDS	1506	ribZ			Riboflavin transporter RibZ
+HOKEECGH_01179	gene	879				
+HOKEECGH_01179	CDS	879				hypothetical protein
+HOKEECGH_01180	gene	222				
+HOKEECGH_01180	CDS	222				hypothetical protein
+HOKEECGH_01181	gene	219				
+HOKEECGH_01181	CDS	219				hypothetical protein
+HOKEECGH_01182	gene	1014				
+HOKEECGH_01182	CDS	1014				hypothetical protein
+HOKEECGH_01183	gene	1164				
+HOKEECGH_01183	CDS	1164				hypothetical protein
+HOKEECGH_01184	gene	339	glnB_2			
+HOKEECGH_01184	CDS	339	glnB_2		COG0347	Nitrogen regulatory protein P-II
+HOKEECGH_01185	gene	945	ssuD			
+HOKEECGH_01185	CDS	945	ssuD	1.14.14.5		Alkanesulfonate monooxygenase
+HOKEECGH_01186	gene	651	ppaX			
+HOKEECGH_01186	CDS	651	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+HOKEECGH_01187	gene	696				
+HOKEECGH_01187	CDS	696				hypothetical protein
+HOKEECGH_01188	gene	1200	acdA			
+HOKEECGH_01188	CDS	1200	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+HOKEECGH_01189	gene	642	kynB			
+HOKEECGH_01189	CDS	642	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+HOKEECGH_01190	gene	684	pgi			
+HOKEECGH_01190	CDS	684	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+HOKEECGH_01191	gene	822	smc_2			
+HOKEECGH_01191	CDS	822	smc_2			Chromosome partition protein Smc
+HOKEECGH_01192	gene	552				
+HOKEECGH_01192	CDS	552				hypothetical protein
+HOKEECGH_01193	gene	693				
+HOKEECGH_01193	CDS	693				hypothetical protein
+HOKEECGH_01194	gene	402				
+HOKEECGH_01194	CDS	402				hypothetical protein
+HOKEECGH_01195	gene	99				
+HOKEECGH_01195	CDS	99				hypothetical protein
+HOKEECGH_01196	gene	1104	lysK			
+HOKEECGH_01196	CDS	1104	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+HOKEECGH_01197	gene	414	asnC_2			
+HOKEECGH_01197	CDS	414	asnC_2		COG1522	Regulatory protein AsnC
+HOKEECGH_01198	gene	597	argD			
+HOKEECGH_01198	CDS	597	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+HOKEECGH_01199	gene	249				
+HOKEECGH_01199	CDS	249				hypothetical protein
+HOKEECGH_01200	gene	945				
+HOKEECGH_01200	CDS	945				hypothetical protein
+HOKEECGH_01201	gene	336				
+HOKEECGH_01201	CDS	336				hypothetical protein
+HOKEECGH_01202	gene	333				
+HOKEECGH_01202	CDS	333				hypothetical protein
+HOKEECGH_01203	gene	501				
+HOKEECGH_01203	CDS	501				hypothetical protein
+HOKEECGH_01204	gene	240				
+HOKEECGH_01204	CDS	240				hypothetical protein
+HOKEECGH_01205	gene	654				
+HOKEECGH_01205	CDS	654				hypothetical protein
+HOKEECGH_01206	gene	867	thrB_3			
+HOKEECGH_01206	CDS	867	thrB_3	2.7.1.39		Homoserine kinase
+HOKEECGH_01207	gene	864	aroE			
+HOKEECGH_01207	CDS	864	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HOKEECGH_01208	gene	732	aroD			
+HOKEECGH_01208	CDS	732	aroD	4.2.1.10		3-dehydroquinate dehydratase
+HOKEECGH_01209	gene	699	griH			
+HOKEECGH_01209	CDS	699	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+HOKEECGH_01210	gene	294	rbn			
+HOKEECGH_01210	CDS	294	rbn	3.1.26.11		Ribonuclease BN
+HOKEECGH_01211	gene	909				
+HOKEECGH_01211	CDS	909				hypothetical protein
+HOKEECGH_01212	gene	723	queC			
+HOKEECGH_01212	CDS	723	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+HOKEECGH_01213	gene	753	folE2			
+HOKEECGH_01213	CDS	753	folE2			GTP cyclohydrolase FolE2
+HOKEECGH_01214	gene	393				
+HOKEECGH_01214	CDS	393				hypothetical protein
+HOKEECGH_01215	gene	639	gloC			
+HOKEECGH_01215	CDS	639	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+HOKEECGH_01216	gene	669	nnr_3			
+HOKEECGH_01216	CDS	669	nnr_3		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HOKEECGH_01217	gene	1077				
+HOKEECGH_01217	CDS	1077				hypothetical protein
+HOKEECGH_01218	gene	591				
+HOKEECGH_01218	CDS	591				hypothetical protein
+HOKEECGH_01219	gene	477				
+HOKEECGH_01219	CDS	477				hypothetical protein
+HOKEECGH_01220	gene	822	ssuB			
+HOKEECGH_01220	CDS	822	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+HOKEECGH_01221	gene	759				
+HOKEECGH_01221	CDS	759				hypothetical protein
+HOKEECGH_01222	gene	1308				
+HOKEECGH_01222	CDS	1308				hypothetical protein
+HOKEECGH_01223	gene	342				
+HOKEECGH_01223	CDS	342				hypothetical protein
+HOKEECGH_01224	gene	1899	qbdA			
+HOKEECGH_01224	CDS	1899	qbdA	1.1.9.1		Quinohemoprotein alcohol dehydrogenase ADH IIB
+HOKEECGH_01225	gene	513				
+HOKEECGH_01225	CDS	513				hypothetical protein
+HOKEECGH_01226	gene	240				
+HOKEECGH_01226	CDS	240				hypothetical protein
+HOKEECGH_01227	gene	324	trxA_2			
+HOKEECGH_01227	CDS	324	trxA_2			Thioredoxin 1
+HOKEECGH_01228	gene	411				
+HOKEECGH_01228	CDS	411				hypothetical protein
+HOKEECGH_01229	gene	339				
+HOKEECGH_01229	CDS	339				hypothetical protein
+HOKEECGH_01230	gene	981	recA_2			
+HOKEECGH_01230	CDS	981	recA_2			Protein RecA
+HOKEECGH_01231	gene	309				
+HOKEECGH_01231	CDS	309				hypothetical protein
+HOKEECGH_01232	gene	546	msrA2			
+HOKEECGH_01232	CDS	546	msrA2	1.8.4.11		Peptide methionine sulfoxide reductase MsrA 2
+HOKEECGH_01233	gene	552	gpt			
+HOKEECGH_01233	CDS	552	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+HOKEECGH_01234	gene	762	csd			
+HOKEECGH_01234	CDS	762	csd	2.8.1.7		putative cysteine desulfurase
+HOKEECGH_01235	gene	150				
+HOKEECGH_01235	CDS	150				hypothetical protein
+HOKEECGH_01236	gene	276				
+HOKEECGH_01236	CDS	276				hypothetical protein
+HOKEECGH_01237	gene	1299	korA			
+HOKEECGH_01237	CDS	1299	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HOKEECGH_01238	gene	861				
+HOKEECGH_01238	CDS	861				hypothetical protein
+HOKEECGH_01239	gene	369				
+HOKEECGH_01239	CDS	369				hypothetical protein
+HOKEECGH_01240	gene	309				
+HOKEECGH_01240	CDS	309				hypothetical protein
+HOKEECGH_01241	gene	1758	lig			
+HOKEECGH_01241	CDS	1758	lig	6.5.1.1		DNA ligase
+HOKEECGH_01242	gene	654				
+HOKEECGH_01242	CDS	654				hypothetical protein
+HOKEECGH_01243	gene	558				
+HOKEECGH_01243	CDS	558				hypothetical protein
+HOKEECGH_01244	gene	777	trmI			
+HOKEECGH_01244	CDS	777	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+HOKEECGH_01245	gene	627				
+HOKEECGH_01245	CDS	627				hypothetical protein
+HOKEECGH_01246	gene	873	yutF			
+HOKEECGH_01246	CDS	873	yutF	3.1.3.-	COG0647	Acid sugar phosphatase
+HOKEECGH_01247	gene	621	udg			
+HOKEECGH_01247	CDS	621	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+HOKEECGH_01248	gene	273				
+HOKEECGH_01248	CDS	273				hypothetical protein
+HOKEECGH_01249	gene	1572	thyX			
+HOKEECGH_01249	CDS	1572	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+HOKEECGH_01250	gene	831	mqnD			
+HOKEECGH_01250	CDS	831	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+HOKEECGH_01251	gene	795				
+HOKEECGH_01251	CDS	795				hypothetical protein
+HOKEECGH_01252	gene	243				
+HOKEECGH_01252	CDS	243				hypothetical protein
+HOKEECGH_01253	gene	381				
+HOKEECGH_01253	CDS	381				hypothetical protein
+HOKEECGH_01254	gene	339				
+HOKEECGH_01254	CDS	339				hypothetical protein
+HOKEECGH_01255	gene	297	tatA_3			
+HOKEECGH_01255	CDS	297	tatA_3			Sec-independent protein translocase protein TatA
+HOKEECGH_01256	gene	522	mobB			
+HOKEECGH_01256	CDS	522	mobB		COG1763	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+HOKEECGH_01257	gene	1353				
+HOKEECGH_01257	CDS	1353				hypothetical protein
+HOKEECGH_01258	gene	630	mobA_2			
+HOKEECGH_01258	CDS	630	mobA_2	2.7.7.77		putative molybdenum cofactor guanylyltransferase
+HOKEECGH_01259	gene	1152	crtQ			
+HOKEECGH_01259	CDS	1152	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+HOKEECGH_01260	gene	966	hemB			
+HOKEECGH_01260	CDS	966	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+HOKEECGH_01261	gene	1281	hemL			
+HOKEECGH_01261	CDS	1281	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HOKEECGH_01262	gene	939	hemC			
+HOKEECGH_01262	CDS	939	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+HOKEECGH_01263	gene	720	cysG			
+HOKEECGH_01263	CDS	720	cysG		COG0007	Siroheme synthase
+HOKEECGH_01264	gene	930				
+HOKEECGH_01264	CDS	930				hypothetical protein
+HOKEECGH_01265	gene	1131				
+HOKEECGH_01265	CDS	1131				hypothetical protein
+HOKEECGH_01266	gene	963				
+HOKEECGH_01266	CDS	963				hypothetical protein
+HOKEECGH_01267	gene	444				
+HOKEECGH_01267	CDS	444				hypothetical protein
+HOKEECGH_01268	gene	579				
+HOKEECGH_01268	CDS	579				hypothetical protein
+HOKEECGH_01269	gene	558	hin			
+HOKEECGH_01269	CDS	558	hin		COG1961	DNA-invertase hin
+HOKEECGH_01270	gene	1026				
+HOKEECGH_01270	CDS	1026				hypothetical protein
+HOKEECGH_01271	gene	1158				
+HOKEECGH_01271	CDS	1158				hypothetical protein
+HOKEECGH_01272	gene	366	divK			
+HOKEECGH_01272	CDS	366	divK			Polar-differentiation response regulator DivK
+HOKEECGH_01273	gene	150				
+HOKEECGH_01273	CDS	150				hypothetical protein
+HOKEECGH_01274	gene	150				
+HOKEECGH_01274	CDS	150				hypothetical protein
+HOKEECGH_01275	gene	1512				
+HOKEECGH_01275	CDS	1512				hypothetical protein
+HOKEECGH_01276	gene	816	ftsH_4			
+HOKEECGH_01276	CDS	816	ftsH_4	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+HOKEECGH_01277	gene	492				
+HOKEECGH_01277	CDS	492				hypothetical protein
+HOKEECGH_01278	gene	366				
+HOKEECGH_01278	CDS	366				hypothetical protein
+HOKEECGH_01279	gene	345				
+HOKEECGH_01279	CDS	345				hypothetical protein
+HOKEECGH_01280	gene	381				
+HOKEECGH_01280	CDS	381				hypothetical protein
+HOKEECGH_01281	gene	207				
+HOKEECGH_01281	CDS	207				hypothetical protein
+HOKEECGH_01282	gene	1494				
+HOKEECGH_01282	CDS	1494				hypothetical protein
+HOKEECGH_01283	gene	906				
+HOKEECGH_01283	CDS	906				hypothetical protein
+HOKEECGH_01284	gene	549				
+HOKEECGH_01284	CDS	549				hypothetical protein
+HOKEECGH_01285	gene	1041				
+HOKEECGH_01285	CDS	1041				hypothetical protein
+HOKEECGH_01286	gene	690				
+HOKEECGH_01286	CDS	690				hypothetical protein
+HOKEECGH_01287	gene	1482				
+HOKEECGH_01287	CDS	1482				hypothetical protein
+HOKEECGH_01288	gene	1461	glyQS			
+HOKEECGH_01288	CDS	1461	glyQS	6.1.1.14		Glycine--tRNA ligase
+HOKEECGH_01289	gene	219				
+HOKEECGH_01289	CDS	219				hypothetical protein
+HOKEECGH_01290	gene	141				
+HOKEECGH_01290	CDS	141				hypothetical protein
+HOKEECGH_01291	gene	747	mltC			
+HOKEECGH_01291	CDS	747	mltC	4.2.2.-		Membrane-bound lytic murein transglycosylase C
+HOKEECGH_01292	gene	93				
+HOKEECGH_01292	CDS	93				hypothetical protein
+HOKEECGH_01293	gene	171				
+HOKEECGH_01293	CDS	171				hypothetical protein
+HOKEECGH_01294	gene	558				
+HOKEECGH_01294	CDS	558				hypothetical protein
+HOKEECGH_01295	gene	330				
+HOKEECGH_01295	CDS	330				hypothetical protein
+HOKEECGH_01296	gene	762	COQ5_4			
+HOKEECGH_01296	CDS	762	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HOKEECGH_01297	gene	474				
+HOKEECGH_01297	CDS	474				hypothetical protein
+HOKEECGH_01298	gene	1005	smc_3			
+HOKEECGH_01298	CDS	1005	smc_3			Chromosome partition protein Smc
+HOKEECGH_01299	gene	357				
+HOKEECGH_01299	CDS	357				hypothetical protein
+HOKEECGH_01300	gene	126				
+HOKEECGH_01300	CDS	126				hypothetical protein
+HOKEECGH_01301	gene	429				
+HOKEECGH_01301	CDS	429				hypothetical protein
+HOKEECGH_01302	gene	606	xerC			
+HOKEECGH_01302	CDS	606	xerC			Tyrosine recombinase XerC
+HOKEECGH_01303	gene	270				
+HOKEECGH_01303	CDS	270				hypothetical protein
+HOKEECGH_01304	gene	522				
+HOKEECGH_01304	CDS	522				hypothetical protein
+HOKEECGH_01305	gene	270	secY			
+HOKEECGH_01305	CDS	270	secY			Protein translocase subunit SecY
+HOKEECGH_01306	gene	576				
+HOKEECGH_01306	CDS	576				hypothetical protein
+HOKEECGH_01307	gene	567	cmk			
+HOKEECGH_01307	CDS	567	cmk	2.7.4.25		Cytidylate kinase
+HOKEECGH_01308	gene	1029	truB			
+HOKEECGH_01308	CDS	1029	truB	5.4.99.25		tRNA pseudouridine synthase B
+HOKEECGH_01309	gene	2709	ppdK			
+HOKEECGH_01309	CDS	2709	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HOKEECGH_01310	gene	1056	bkdA			
+HOKEECGH_01310	CDS	1056	bkdA	1.2.4.4	COG1071	3-methyl-2-oxobutanoate dehydrogenase subunit alpha
+HOKEECGH_01311	gene	1230	nhaP2			
+HOKEECGH_01311	CDS	1230	nhaP2			K(+)/H(+) antiporter NhaP2
+HOKEECGH_01312	gene	1617				
+HOKEECGH_01312	CDS	1617				hypothetical protein
+HOKEECGH_01313	gene	1530				
+HOKEECGH_01313	CDS	1530				hypothetical protein
+HOKEECGH_01314	gene	867				
+HOKEECGH_01314	CDS	867				hypothetical protein
+HOKEECGH_01315	gene	1392				
+HOKEECGH_01315	CDS	1392				hypothetical protein
+HOKEECGH_01316	gene	138				
+HOKEECGH_01316	CDS	138				hypothetical protein
+HOKEECGH_01317	gene	957	neuB			
+HOKEECGH_01317	CDS	957	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+HOKEECGH_01318	gene	912	nfo			
+HOKEECGH_01318	CDS	912	nfo	3.1.21.2		endonuclease 4
+HOKEECGH_01319	gene	888	mshA_3			
+HOKEECGH_01319	CDS	888	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HOKEECGH_01320	gene	348				
+HOKEECGH_01320	CDS	348				hypothetical protein
+HOKEECGH_01321	gene	1380	polA			
+HOKEECGH_01321	CDS	1380	polA	2.7.7.7		DNA polymerase I, thermostable
+HOKEECGH_01322	gene	195				
+HOKEECGH_01322	CDS	195				hypothetical protein
+HOKEECGH_01323	gene	1119				
+HOKEECGH_01323	CDS	1119				hypothetical protein
+HOKEECGH_01324	gene	348				
+HOKEECGH_01324	CDS	348				hypothetical protein
+HOKEECGH_01325	gene	1551				
+HOKEECGH_01325	CDS	1551				hypothetical protein
+HOKEECGH_01326	gene	1551	noc			
+HOKEECGH_01326	CDS	1551	noc			Nucleoid occlusion protein
+HOKEECGH_01327	gene	345				
+HOKEECGH_01327	CDS	345				hypothetical protein
+HOKEECGH_01328	gene	279				
+HOKEECGH_01328	CDS	279				hypothetical protein
+HOKEECGH_01329	gene	171				
+HOKEECGH_01329	CDS	171				hypothetical protein
+HOKEECGH_01330	gene	213				
+HOKEECGH_01330	CDS	213				hypothetical protein
+HOKEECGH_01331	gene	246				
+HOKEECGH_01331	CDS	246				hypothetical protein
+HOKEECGH_01332	gene	2298				
+HOKEECGH_01332	CDS	2298				hypothetical protein
+HOKEECGH_01333	gene	240				
+HOKEECGH_01333	CDS	240				hypothetical protein
+HOKEECGH_01334	gene	1263				
+HOKEECGH_01334	CDS	1263				hypothetical protein
+HOKEECGH_01335	gene	237				
+HOKEECGH_01335	CDS	237				hypothetical protein
+HOKEECGH_01336	gene	237				
+HOKEECGH_01336	CDS	237				hypothetical protein
+HOKEECGH_01337	gene	270				
+HOKEECGH_01337	CDS	270				hypothetical protein
+HOKEECGH_01338	gene	579				
+HOKEECGH_01338	CDS	579				hypothetical protein
+HOKEECGH_01339	gene	795				
+HOKEECGH_01339	CDS	795				hypothetical protein
+HOKEECGH_01340	gene	501				
+HOKEECGH_01340	CDS	501				hypothetical protein
+HOKEECGH_01341	gene	678	ald2			
+HOKEECGH_01341	CDS	678	ald2	4.1.2.-	COG0235	5-(methylthio)ribulose-1-phosphate aldolase
+HOKEECGH_01342	gene	132				
+HOKEECGH_01342	CDS	132				hypothetical protein
+HOKEECGH_01343	gene	732				
+HOKEECGH_01343	CDS	732				hypothetical protein
+HOKEECGH_01344	gene	795				
+HOKEECGH_01344	CDS	795				hypothetical protein
+HOKEECGH_01345	gene	384				
+HOKEECGH_01345	CDS	384				hypothetical protein
+HOKEECGH_01346	gene	831				
+HOKEECGH_01346	CDS	831				hypothetical protein
+HOKEECGH_01347	gene	180				
+HOKEECGH_01347	CDS	180				hypothetical protein
+HOKEECGH_01348	gene	1551	nrdZ			
+HOKEECGH_01348	CDS	1551	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+HOKEECGH_01349	gene	459	cdd			
+HOKEECGH_01349	CDS	459	cdd	3.5.4.5	COG0295	Cytidine deaminase
+HOKEECGH_01350	gene	618				
+HOKEECGH_01350	CDS	618				hypothetical protein
+HOKEECGH_01351	gene	294				
+HOKEECGH_01351	CDS	294				hypothetical protein
+HOKEECGH_01352	gene	216				
+HOKEECGH_01352	CDS	216				hypothetical protein
+HOKEECGH_01353	gene	726				
+HOKEECGH_01353	CDS	726				hypothetical protein
+HOKEECGH_01354	gene	711				
+HOKEECGH_01354	CDS	711				hypothetical protein
+HOKEECGH_01355	gene	2169	ftsH_5			
+HOKEECGH_01355	CDS	2169	ftsH_5	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOKEECGH_01356	gene	1236				
+HOKEECGH_01356	CDS	1236				hypothetical protein
+HOKEECGH_01357	gene	321				
+HOKEECGH_01357	CDS	321				hypothetical protein
+HOKEECGH_01358	gene	120				
+HOKEECGH_01358	CDS	120				hypothetical protein
+HOKEECGH_01359	gene	1725				
+HOKEECGH_01359	CDS	1725				hypothetical protein
+HOKEECGH_01360	gene	228				
+HOKEECGH_01360	CDS	228				hypothetical protein
+HOKEECGH_01361	gene	2496	aioA			
+HOKEECGH_01361	CDS	2496	aioA	1.20.9.1	COG0243	Arsenite oxidase subunit AioA
+HOKEECGH_01362	gene	810				
+HOKEECGH_01362	CDS	810				hypothetical protein
+HOKEECGH_01363	gene	714	pyrH			
+HOKEECGH_01363	CDS	714	pyrH	2.7.4.22		Uridylate kinase
+HOKEECGH_01364	gene	327	hisI			
+HOKEECGH_01364	CDS	327	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+HOKEECGH_01365	gene	789	hisF			
+HOKEECGH_01365	CDS	789	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+HOKEECGH_01366	gene	744	hisA			
+HOKEECGH_01366	CDS	744	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+HOKEECGH_01367	gene	612	hisH			
+HOKEECGH_01367	CDS	612	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+HOKEECGH_01368	gene	576	hisB			
+HOKEECGH_01368	CDS	576	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+HOKEECGH_01369	gene	1194				
+HOKEECGH_01369	CDS	1194				hypothetical protein
+HOKEECGH_01370	gene	1338	hisD			
+HOKEECGH_01370	CDS	1338	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+HOKEECGH_01371	gene	981	hisG			
+HOKEECGH_01371	CDS	981	hisG	2.4.2.17		ATP phosphoribosyltransferase
+HOKEECGH_01372	gene	1662	xpkA			
+HOKEECGH_01372	CDS	1662	xpkA	4.1.2.9		Xylulose-5-phosphate phosphoketolase
+HOKEECGH_01373	gene	603	ackA_1			
+HOKEECGH_01373	CDS	603	ackA_1	2.7.2.1	COG0282	Acetate kinase
+HOKEECGH_01374	gene	609	ackA_2			
+HOKEECGH_01374	CDS	609	ackA_2	2.7.2.1	COG0282	Acetate kinase
+HOKEECGH_01375	gene	585				
+HOKEECGH_01375	CDS	585				hypothetical protein
+HOKEECGH_01376	gene	804	kaiC_12			
+HOKEECGH_01376	CDS	804	kaiC_12	2.7.11.1		Circadian clock protein kinase KaiC
+HOKEECGH_01377	gene	2154				
+HOKEECGH_01377	CDS	2154				hypothetical protein
+HOKEECGH_01378	gene	555	thpR			
+HOKEECGH_01378	CDS	555	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+HOKEECGH_01379	gene	1428				
+HOKEECGH_01379	CDS	1428				hypothetical protein
+HOKEECGH_01380	gene	777				
+HOKEECGH_01380	CDS	777				hypothetical protein
+HOKEECGH_01381	gene	663				
+HOKEECGH_01381	CDS	663				hypothetical protein
+HOKEECGH_01382	gene	564				
+HOKEECGH_01382	CDS	564				hypothetical protein
+HOKEECGH_01383	gene	363				
+HOKEECGH_01383	CDS	363				hypothetical protein
+HOKEECGH_01384	gene	651				
+HOKEECGH_01384	CDS	651				hypothetical protein

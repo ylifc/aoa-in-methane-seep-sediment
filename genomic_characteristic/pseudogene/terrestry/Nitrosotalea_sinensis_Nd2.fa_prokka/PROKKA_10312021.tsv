@@ -1,0 +1,3839 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IHAKNPCK_00001	gene	414				
+IHAKNPCK_00001	CDS	414				hypothetical protein
+IHAKNPCK_00002	gene	180				
+IHAKNPCK_00002	CDS	180				hypothetical protein
+IHAKNPCK_00003	gene	402				
+IHAKNPCK_00003	CDS	402				hypothetical protein
+IHAKNPCK_00004	gene	528				
+IHAKNPCK_00004	CDS	528				hypothetical protein
+IHAKNPCK_00005	gene	435				
+IHAKNPCK_00005	CDS	435				hypothetical protein
+IHAKNPCK_00006	gene	966				
+IHAKNPCK_00006	CDS	966				hypothetical protein
+IHAKNPCK_00007	gene	1914				
+IHAKNPCK_00007	CDS	1914				hypothetical protein
+IHAKNPCK_00008	gene	966	ghrB			
+IHAKNPCK_00008	CDS	966	ghrB	1.1.1.81		Glyoxylate/hydroxypyruvate reductase B
+IHAKNPCK_00009	gene	261				
+IHAKNPCK_00009	CDS	261				hypothetical protein
+IHAKNPCK_00010	gene	597				
+IHAKNPCK_00010	CDS	597				hypothetical protein
+IHAKNPCK_00011	gene	348				
+IHAKNPCK_00011	CDS	348				hypothetical protein
+IHAKNPCK_00012	gene	444				
+IHAKNPCK_00012	CDS	444				hypothetical protein
+IHAKNPCK_00013	gene	999	truB			
+IHAKNPCK_00013	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+IHAKNPCK_00014	gene	585	cmk			
+IHAKNPCK_00014	CDS	585	cmk	2.7.4.25		Cytidylate kinase
+IHAKNPCK_00015	gene	633				
+IHAKNPCK_00015	CDS	633				hypothetical protein
+IHAKNPCK_00016	gene	591				
+IHAKNPCK_00016	CDS	591				hypothetical protein
+IHAKNPCK_00017	gene	1440	secY			
+IHAKNPCK_00017	CDS	1440	secY			Protein translocase subunit SecY
+IHAKNPCK_00018	gene	423				
+IHAKNPCK_00018	CDS	423				hypothetical protein
+IHAKNPCK_00019	gene	480				
+IHAKNPCK_00019	CDS	480				hypothetical protein
+IHAKNPCK_00020	gene	636				
+IHAKNPCK_00020	CDS	636				hypothetical protein
+IHAKNPCK_00021	gene	489				
+IHAKNPCK_00021	CDS	489				hypothetical protein
+IHAKNPCK_00022	gene	927	argF			
+IHAKNPCK_00022	CDS	927	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+IHAKNPCK_00023	gene	1344	ftsY			
+IHAKNPCK_00023	CDS	1344	ftsY			Signal recognition particle receptor FtsY
+IHAKNPCK_00024	gene	423	pfdA			
+IHAKNPCK_00024	CDS	423	pfdA			Prefoldin subunit alpha
+IHAKNPCK_00025	gene	624	sodA			
+IHAKNPCK_00025	CDS	624	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+IHAKNPCK_00026	gene	2025				
+IHAKNPCK_00026	CDS	2025				hypothetical protein
+IHAKNPCK_00027	gene	1653	pckA			
+IHAKNPCK_00027	CDS	1653	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+IHAKNPCK_00028	gene	402				
+IHAKNPCK_00028	CDS	402				hypothetical protein
+IHAKNPCK_00029	gene	450				
+IHAKNPCK_00029	CDS	450				hypothetical protein
+IHAKNPCK_00030	gene	297	ogt			
+IHAKNPCK_00030	CDS	297	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+IHAKNPCK_00031	gene	777				
+IHAKNPCK_00031	CDS	777				hypothetical protein
+IHAKNPCK_00032	gene	195				
+IHAKNPCK_00032	CDS	195				hypothetical protein
+IHAKNPCK_00033	gene	297				
+IHAKNPCK_00033	CDS	297				hypothetical protein
+IHAKNPCK_00034	gene	249				
+IHAKNPCK_00034	CDS	249				hypothetical protein
+IHAKNPCK_00035	gene	186				
+IHAKNPCK_00035	CDS	186				hypothetical protein
+IHAKNPCK_00036	gene	456				
+IHAKNPCK_00036	CDS	456				hypothetical protein
+IHAKNPCK_00037	gene	474	rplK			
+IHAKNPCK_00037	CDS	474	rplK		COG0080	50S ribosomal protein L11
+IHAKNPCK_00038	gene	459	lrp_1			
+IHAKNPCK_00038	CDS	459	lrp_1		COG1522	Leucine-responsive regulatory protein
+IHAKNPCK_00039	gene	657				
+IHAKNPCK_00039	CDS	657				hypothetical protein
+IHAKNPCK_00040	gene	867				
+IHAKNPCK_00040	CDS	867				hypothetical protein
+IHAKNPCK_00041	gene	630				
+IHAKNPCK_00041	CDS	630				hypothetical protein
+IHAKNPCK_00042	gene	303				
+IHAKNPCK_00042	CDS	303				hypothetical protein
+IHAKNPCK_00043	gene	507				
+IHAKNPCK_00043	CDS	507				hypothetical protein
+IHAKNPCK_00044	gene	2709	alaS			
+IHAKNPCK_00044	CDS	2709	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+IHAKNPCK_00045	gene	2871	valS_1			
+IHAKNPCK_00045	CDS	2871	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+IHAKNPCK_00046	gene	1008				
+IHAKNPCK_00046	CDS	1008				hypothetical protein
+IHAKNPCK_00047	gene	699				
+IHAKNPCK_00047	CDS	699				hypothetical protein
+IHAKNPCK_00048	gene	321				
+IHAKNPCK_00048	CDS	321				hypothetical protein
+IHAKNPCK_00049	gene	600				
+IHAKNPCK_00049	CDS	600				hypothetical protein
+IHAKNPCK_00050	gene	438				
+IHAKNPCK_00050	CDS	438				hypothetical protein
+IHAKNPCK_00051	gene	492	nusA			
+IHAKNPCK_00051	CDS	492	nusA			Transcription termination/antitermination protein NusA
+IHAKNPCK_00052	gene	318				
+IHAKNPCK_00052	CDS	318				hypothetical protein
+IHAKNPCK_00053	gene	3795	rpoC			
+IHAKNPCK_00053	CDS	3795	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+IHAKNPCK_00054	gene	3348	rpoB			
+IHAKNPCK_00054	CDS	3348	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+IHAKNPCK_00055	gene	252				
+IHAKNPCK_00055	CDS	252				hypothetical protein
+IHAKNPCK_00056	gene	903				
+IHAKNPCK_00056	CDS	903				hypothetical protein
+IHAKNPCK_00057	gene	555				
+IHAKNPCK_00057	CDS	555				hypothetical protein
+IHAKNPCK_00058	gene	885				
+IHAKNPCK_00058	CDS	885				hypothetical protein
+IHAKNPCK_00059	gene	852				
+IHAKNPCK_00059	CDS	852				hypothetical protein
+IHAKNPCK_00060	gene	936				
+IHAKNPCK_00060	CDS	936				hypothetical protein
+IHAKNPCK_00061	gene	339				
+IHAKNPCK_00061	CDS	339				hypothetical protein
+IHAKNPCK_00062	gene	1566				
+IHAKNPCK_00062	CDS	1566				hypothetical protein
+IHAKNPCK_00063	gene	717				
+IHAKNPCK_00063	CDS	717				hypothetical protein
+IHAKNPCK_00064	gene	780	larB			
+IHAKNPCK_00064	CDS	780	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+IHAKNPCK_00065	gene	909	mdh_1			
+IHAKNPCK_00065	CDS	909	mdh_1	1.1.1.37		Malate dehydrogenase
+IHAKNPCK_00066	gene	1233	larC			
+IHAKNPCK_00066	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+IHAKNPCK_00067	gene	801	larE			
+IHAKNPCK_00067	CDS	801	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+IHAKNPCK_00068	gene	1158	iscS			
+IHAKNPCK_00068	CDS	1158	iscS	2.8.1.7		Cysteine desulfurase IscS
+IHAKNPCK_00069	gene	3036				
+IHAKNPCK_00069	CDS	3036				hypothetical protein
+IHAKNPCK_00070	gene	501				
+IHAKNPCK_00070	CDS	501				hypothetical protein
+IHAKNPCK_00071	gene	318				
+IHAKNPCK_00071	CDS	318				hypothetical protein
+IHAKNPCK_00072	gene	1353				
+IHAKNPCK_00072	CDS	1353				hypothetical protein
+IHAKNPCK_00073	gene	1638				
+IHAKNPCK_00073	CDS	1638				hypothetical protein
+IHAKNPCK_00074	gene	609				
+IHAKNPCK_00074	CDS	609				hypothetical protein
+IHAKNPCK_00075	gene	540				
+IHAKNPCK_00075	CDS	540				hypothetical protein
+IHAKNPCK_00076	gene	1761	glmS			
+IHAKNPCK_00076	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IHAKNPCK_00077	gene	1059	cobT			
+IHAKNPCK_00077	CDS	1059	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+IHAKNPCK_00078	gene	585	pksB			
+IHAKNPCK_00078	CDS	585	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+IHAKNPCK_00079	gene	672	nnr_1			
+IHAKNPCK_00079	CDS	672	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IHAKNPCK_00080	gene	87				
+IHAKNPCK_00080	tRNA	87				tRNA-Leu(gag)
+IHAKNPCK_00081	gene	243				
+IHAKNPCK_00081	CDS	243				hypothetical protein
+IHAKNPCK_00082	gene	1239	eno2			
+IHAKNPCK_00082	CDS	1239	eno2	4.2.1.11	COG0148	Enolase 2
+IHAKNPCK_00083	gene	645	rpsB			
+IHAKNPCK_00083	CDS	645	rpsB			30S ribosomal protein S2
+IHAKNPCK_00084	gene	837				
+IHAKNPCK_00084	CDS	837				hypothetical protein
+IHAKNPCK_00085	gene	960	galK			
+IHAKNPCK_00085	CDS	960	galK	2.7.1.6	COG0153	Galactokinase
+IHAKNPCK_00086	gene	741	argB			
+IHAKNPCK_00086	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+IHAKNPCK_00087	gene	681	idi			
+IHAKNPCK_00087	CDS	681	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+IHAKNPCK_00088	gene	984				
+IHAKNPCK_00088	CDS	984		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+IHAKNPCK_00089	gene	1707	glnS			
+IHAKNPCK_00089	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+IHAKNPCK_00090	gene	861	yisK			
+IHAKNPCK_00090	CDS	861	yisK		COG0179	putative protein YisK
+IHAKNPCK_00091	gene	309	bnzC			
+IHAKNPCK_00091	CDS	309	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+IHAKNPCK_00092	gene	273				
+IHAKNPCK_00092	CDS	273				hypothetical protein
+IHAKNPCK_00093	gene	762				
+IHAKNPCK_00093	CDS	762				hypothetical protein
+IHAKNPCK_00094	gene	384				
+IHAKNPCK_00094	CDS	384				hypothetical protein
+IHAKNPCK_00095	gene	74				
+IHAKNPCK_00095	tRNA	74				tRNA-His(gtg)
+IHAKNPCK_00096	gene	1053	adh			
+IHAKNPCK_00096	CDS	1053	adh	1.1.1.1		Alcohol dehydrogenase
+IHAKNPCK_00097	gene	1029				
+IHAKNPCK_00097	CDS	1029				hypothetical protein
+IHAKNPCK_00098	gene	564				
+IHAKNPCK_00098	CDS	564		3.6.1.66		dITP/XTP pyrophosphatase
+IHAKNPCK_00099	gene	621				
+IHAKNPCK_00099	CDS	621				hypothetical protein
+IHAKNPCK_00100	gene	324				
+IHAKNPCK_00100	CDS	324				hypothetical protein
+IHAKNPCK_00101	gene	984	tsaD			
+IHAKNPCK_00101	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+IHAKNPCK_00102	gene	1194	ychF			
+IHAKNPCK_00102	CDS	1194	ychF		COG0012	Ribosome-binding ATPase YchF
+IHAKNPCK_00103	gene	549				
+IHAKNPCK_00103	CDS	549				hypothetical protein
+IHAKNPCK_00104	gene	1515	QTRT1			
+IHAKNPCK_00104	CDS	1515	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+IHAKNPCK_00105	gene	318	ndhI_1			
+IHAKNPCK_00105	CDS	318	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IHAKNPCK_00106	gene	222				
+IHAKNPCK_00106	CDS	222				hypothetical protein
+IHAKNPCK_00107	gene	1257				
+IHAKNPCK_00107	CDS	1257		3.1.-.-	COG1236	Ribonuclease
+IHAKNPCK_00108	gene	846				
+IHAKNPCK_00108	CDS	846				hypothetical protein
+IHAKNPCK_00109	gene	77				
+IHAKNPCK_00109	tRNA	77				tRNA-Arg(tct)
+IHAKNPCK_00110	gene	1479				
+IHAKNPCK_00110	CDS	1479				hypothetical protein
+IHAKNPCK_00111	gene	903				
+IHAKNPCK_00111	CDS	903				hypothetical protein
+IHAKNPCK_00112	gene	351				
+IHAKNPCK_00112	CDS	351				hypothetical protein
+IHAKNPCK_00113	gene	471				
+IHAKNPCK_00113	CDS	471				hypothetical protein
+IHAKNPCK_00114	gene	1419	petB			
+IHAKNPCK_00114	CDS	1419	petB			Cytochrome b6
+IHAKNPCK_00115	gene	609	petC			
+IHAKNPCK_00115	CDS	609	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+IHAKNPCK_00116	gene	4260				
+IHAKNPCK_00116	CDS	4260				hypothetical protein
+IHAKNPCK_00117	gene	987				
+IHAKNPCK_00117	CDS	987				hypothetical protein
+IHAKNPCK_00118	gene	621	pspA			
+IHAKNPCK_00118	CDS	621	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+IHAKNPCK_00119	gene	672				
+IHAKNPCK_00119	CDS	672				hypothetical protein
+IHAKNPCK_00120	gene	225				
+IHAKNPCK_00120	CDS	225				hypothetical protein
+IHAKNPCK_00121	gene	396				
+IHAKNPCK_00121	CDS	396				hypothetical protein
+IHAKNPCK_00122	gene	1173	alaA			
+IHAKNPCK_00122	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+IHAKNPCK_00123	gene	75				
+IHAKNPCK_00123	tRNA	75				tRNA-Arg(tcg)
+IHAKNPCK_00124	gene	492				
+IHAKNPCK_00124	CDS	492				hypothetical protein
+IHAKNPCK_00125	gene	585				
+IHAKNPCK_00125	CDS	585				hypothetical protein
+IHAKNPCK_00126	gene	240				
+IHAKNPCK_00126	CDS	240				hypothetical protein
+IHAKNPCK_00127	gene	648				
+IHAKNPCK_00127	CDS	648				hypothetical protein
+IHAKNPCK_00128	gene	1053	mtnA			
+IHAKNPCK_00128	CDS	1053	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+IHAKNPCK_00129	gene	1917				
+IHAKNPCK_00129	CDS	1917				hypothetical protein
+IHAKNPCK_00130	gene	1074				
+IHAKNPCK_00130	CDS	1074				hypothetical protein
+IHAKNPCK_00131	gene	570				
+IHAKNPCK_00131	CDS	570				hypothetical protein
+IHAKNPCK_00132	gene	642				
+IHAKNPCK_00132	CDS	642				hypothetical protein
+IHAKNPCK_00133	gene	834	lpxD			
+IHAKNPCK_00133	CDS	834	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+IHAKNPCK_00134	gene	444				
+IHAKNPCK_00134	CDS	444				hypothetical protein
+IHAKNPCK_00135	gene	870	arnC_1			
+IHAKNPCK_00135	CDS	870	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IHAKNPCK_00136	gene	1104	capD			
+IHAKNPCK_00136	CDS	1104	capD	5.1.3.2	COG1086	UDP-glucose 4-epimerase
+IHAKNPCK_00137	gene	1092	wbpI			
+IHAKNPCK_00137	CDS	1092	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+IHAKNPCK_00138	gene	720	fcl_1			
+IHAKNPCK_00138	CDS	720	fcl_1	1.1.1.271		GDP-L-fucose synthase
+IHAKNPCK_00139	gene	1077				
+IHAKNPCK_00139	CDS	1077				hypothetical protein
+IHAKNPCK_00140	gene	1665	moaA_1			
+IHAKNPCK_00140	CDS	1665	moaA_1			GTP 3',8-cyclase
+IHAKNPCK_00141	gene	783				
+IHAKNPCK_00141	CDS	783				hypothetical protein
+IHAKNPCK_00142	gene	441	dtxR			
+IHAKNPCK_00142	CDS	441	dtxR			Diphtheria toxin repressor
+IHAKNPCK_00143	gene	486				
+IHAKNPCK_00143	CDS	486				hypothetical protein
+IHAKNPCK_00144	gene	426				
+IHAKNPCK_00144	CDS	426				hypothetical protein
+IHAKNPCK_00145	gene	1053				
+IHAKNPCK_00145	CDS	1053				hypothetical protein
+IHAKNPCK_00146	gene	348	cutA			
+IHAKNPCK_00146	CDS	348	cutA		COG1324	Divalent-cation tolerance protein CutA
+IHAKNPCK_00147	gene	1203				
+IHAKNPCK_00147	CDS	1203				hypothetical protein
+IHAKNPCK_00148	gene	1386	lhyD			
+IHAKNPCK_00148	CDS	1386	lhyD	3.5.2.-		L-hydantoinase
+IHAKNPCK_00149	gene	73				
+IHAKNPCK_00149	tRNA	73				tRNA-Ala(cgc)
+IHAKNPCK_00150	gene	1833	vgb_1			
+IHAKNPCK_00150	CDS	1833	vgb_1	4.2.99.-		Virginiamycin B lyase
+IHAKNPCK_00151	gene	363				
+IHAKNPCK_00151	CDS	363				hypothetical protein
+IHAKNPCK_00152	gene	510				
+IHAKNPCK_00152	CDS	510				hypothetical protein
+IHAKNPCK_00153	gene	333	trxA_1			
+IHAKNPCK_00153	CDS	333	trxA_1			Thioredoxin 1
+IHAKNPCK_00154	gene	1302	deaD			
+IHAKNPCK_00154	CDS	1302	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+IHAKNPCK_00155	gene	771				
+IHAKNPCK_00155	CDS	771				hypothetical protein
+IHAKNPCK_00156	gene	633				
+IHAKNPCK_00156	CDS	633				hypothetical protein
+IHAKNPCK_00157	gene	1500	abfD			
+IHAKNPCK_00157	CDS	1500	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+IHAKNPCK_00158	gene	2106	FCS1			
+IHAKNPCK_00158	CDS	2106	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+IHAKNPCK_00159	gene	357				
+IHAKNPCK_00159	CDS	357				hypothetical protein
+IHAKNPCK_00160	gene	453				
+IHAKNPCK_00160	CDS	453				hypothetical protein
+IHAKNPCK_00161	gene	285				
+IHAKNPCK_00161	CDS	285				hypothetical protein
+IHAKNPCK_00162	gene	303				
+IHAKNPCK_00162	CDS	303				hypothetical protein
+IHAKNPCK_00163	gene	879				
+IHAKNPCK_00163	CDS	879				hypothetical protein
+IHAKNPCK_00164	gene	76				
+IHAKNPCK_00164	tRNA	76				tRNA-Val(tac)
+IHAKNPCK_00165	gene	1068				
+IHAKNPCK_00165	CDS	1068				hypothetical protein
+IHAKNPCK_00166	gene	1437				
+IHAKNPCK_00166	CDS	1437				hypothetical protein
+IHAKNPCK_00167	gene	204				
+IHAKNPCK_00167	CDS	204				hypothetical protein
+IHAKNPCK_00168	gene	918	ilvE_1			
+IHAKNPCK_00168	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+IHAKNPCK_00169	gene	171				
+IHAKNPCK_00169	CDS	171				hypothetical protein
+IHAKNPCK_00170	gene	1359				
+IHAKNPCK_00170	CDS	1359				hypothetical protein
+IHAKNPCK_00171	gene	741				
+IHAKNPCK_00171	CDS	741				hypothetical protein
+IHAKNPCK_00172	gene	1383				
+IHAKNPCK_00172	CDS	1383				hypothetical protein
+IHAKNPCK_00173	gene	594				
+IHAKNPCK_00173	CDS	594				hypothetical protein
+IHAKNPCK_00174	gene	555				
+IHAKNPCK_00174	CDS	555				hypothetical protein
+IHAKNPCK_00175	gene	447	ctaA			
+IHAKNPCK_00175	CDS	447	ctaA	1.3.-.-		Heme A synthase
+IHAKNPCK_00176	gene	981				
+IHAKNPCK_00176	CDS	981				hypothetical protein
+IHAKNPCK_00177	gene	1542	ctaD			
+IHAKNPCK_00177	CDS	1542	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+IHAKNPCK_00178	gene	426	coxM			
+IHAKNPCK_00178	CDS	426	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+IHAKNPCK_00179	gene	300				
+IHAKNPCK_00179	CDS	300				hypothetical protein
+IHAKNPCK_00180	gene	1071				
+IHAKNPCK_00180	CDS	1071				hypothetical protein
+IHAKNPCK_00181	gene	5337				
+IHAKNPCK_00181	CDS	5337				hypothetical protein
+IHAKNPCK_00182	gene	876	arnC_2			
+IHAKNPCK_00182	CDS	876	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IHAKNPCK_00183	gene	894	wbgU			
+IHAKNPCK_00183	CDS	894	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+IHAKNPCK_00184	gene	432				
+IHAKNPCK_00184	CDS	432				Putative universal stress protein
+IHAKNPCK_00185	gene	258				
+IHAKNPCK_00185	CDS	258				hypothetical protein
+IHAKNPCK_00186	gene	273				
+IHAKNPCK_00186	CDS	273				hypothetical protein
+IHAKNPCK_00187	gene	1290	lhgD			
+IHAKNPCK_00187	CDS	1290	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+IHAKNPCK_00188	gene	660				
+IHAKNPCK_00188	CDS	660				hypothetical protein
+IHAKNPCK_00189	gene	537	cysC			
+IHAKNPCK_00189	CDS	537	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+IHAKNPCK_00190	gene	1062	cugP_1			
+IHAKNPCK_00190	CDS	1062	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IHAKNPCK_00191	gene	888	rmlD			
+IHAKNPCK_00191	CDS	888	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+IHAKNPCK_00192	gene	999	rmlB			
+IHAKNPCK_00192	CDS	999	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+IHAKNPCK_00193	gene	558	rmlC			
+IHAKNPCK_00193	CDS	558	rmlC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+IHAKNPCK_00194	gene	882	arnC_3			
+IHAKNPCK_00194	CDS	882	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IHAKNPCK_00195	gene	1275	colD			
+IHAKNPCK_00195	CDS	1275	colD	4.2.1.168		GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+IHAKNPCK_00196	gene	954	fcl_2			
+IHAKNPCK_00196	CDS	954	fcl_2	1.1.1.271	COG0451	GDP-L-fucose synthase
+IHAKNPCK_00197	gene	420				
+IHAKNPCK_00197	CDS	420				hypothetical protein
+IHAKNPCK_00198	gene	1581				
+IHAKNPCK_00198	CDS	1581				hypothetical protein
+IHAKNPCK_00199	gene	1299	mshA_1			
+IHAKNPCK_00199	CDS	1299	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IHAKNPCK_00200	gene	1794				
+IHAKNPCK_00200	CDS	1794				hypothetical protein
+IHAKNPCK_00201	gene	1041	COQ3			
+IHAKNPCK_00201	CDS	1041	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+IHAKNPCK_00202	gene	1542				
+IHAKNPCK_00202	CDS	1542				hypothetical protein
+IHAKNPCK_00203	gene	996				
+IHAKNPCK_00203	CDS	996				hypothetical protein
+IHAKNPCK_00204	gene	738				
+IHAKNPCK_00204	CDS	738				hypothetical protein
+IHAKNPCK_00205	gene	744	tagH			
+IHAKNPCK_00205	CDS	744	tagH	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+IHAKNPCK_00206	gene	849	gmd_1			
+IHAKNPCK_00206	CDS	849	gmd_1	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+IHAKNPCK_00207	gene	603				
+IHAKNPCK_00207	CDS	603				hypothetical protein
+IHAKNPCK_00208	gene	819				
+IHAKNPCK_00208	CDS	819				hypothetical protein
+IHAKNPCK_00209	gene	1209				
+IHAKNPCK_00209	CDS	1209				hypothetical protein
+IHAKNPCK_00210	gene	1047	gmd_2			
+IHAKNPCK_00210	CDS	1047	gmd_2	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+IHAKNPCK_00211	gene	960				
+IHAKNPCK_00211	CDS	960				hypothetical protein
+IHAKNPCK_00212	gene	1014				
+IHAKNPCK_00212	CDS	1014				hypothetical protein
+IHAKNPCK_00213	gene	1221				
+IHAKNPCK_00213	CDS	1221				hypothetical protein
+IHAKNPCK_00214	gene	993				
+IHAKNPCK_00214	CDS	993				hypothetical protein
+IHAKNPCK_00215	gene	660				
+IHAKNPCK_00215	CDS	660				hypothetical protein
+IHAKNPCK_00216	gene	1167	mshA_2			
+IHAKNPCK_00216	CDS	1167	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IHAKNPCK_00217	gene	1374				
+IHAKNPCK_00217	CDS	1374				hypothetical protein
+IHAKNPCK_00218	gene	1320				
+IHAKNPCK_00218	CDS	1320				hypothetical protein
+IHAKNPCK_00219	gene	432				
+IHAKNPCK_00219	CDS	432				hypothetical protein
+IHAKNPCK_00220	gene	213				
+IHAKNPCK_00220	CDS	213				hypothetical protein
+IHAKNPCK_00221	gene	174				
+IHAKNPCK_00221	CDS	174				hypothetical protein
+IHAKNPCK_00222	gene	73				
+IHAKNPCK_00222	tRNA	73				tRNA-Gln(ttg)
+IHAKNPCK_00223	gene	219				
+IHAKNPCK_00223	CDS	219				hypothetical protein
+IHAKNPCK_00224	gene	210				
+IHAKNPCK_00224	CDS	210				hypothetical protein
+IHAKNPCK_00225	gene	243				
+IHAKNPCK_00225	CDS	243				hypothetical protein
+IHAKNPCK_00226	gene	711				
+IHAKNPCK_00226	CDS	711				hypothetical protein
+IHAKNPCK_00227	gene	951	drrA_1			
+IHAKNPCK_00227	CDS	951	drrA_1	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IHAKNPCK_00228	gene	1398				
+IHAKNPCK_00228	CDS	1398				hypothetical protein
+IHAKNPCK_00229	gene	2508	dbpA_1			
+IHAKNPCK_00229	CDS	2508	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+IHAKNPCK_00230	gene	129				
+IHAKNPCK_00230	CDS	129				hypothetical protein
+IHAKNPCK_00231	gene	654	radA			
+IHAKNPCK_00231	CDS	654	radA			DNA repair protein RadA
+IHAKNPCK_00232	gene	246				
+IHAKNPCK_00232	CDS	246				hypothetical protein
+IHAKNPCK_00233	gene	1164	metK			
+IHAKNPCK_00233	CDS	1164	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+IHAKNPCK_00234	gene	849				
+IHAKNPCK_00234	CDS	849				hypothetical protein
+IHAKNPCK_00235	gene	447	dnaJ_1			
+IHAKNPCK_00235	CDS	447	dnaJ_1			Chaperone protein DnaJ
+IHAKNPCK_00236	gene	1113	cbiD			
+IHAKNPCK_00236	CDS	1113	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+IHAKNPCK_00237	gene	1065	cbiG			
+IHAKNPCK_00237	CDS	1065	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+IHAKNPCK_00238	gene	747	cbiX			
+IHAKNPCK_00238	CDS	747	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+IHAKNPCK_00239	gene	636	cbiC			
+IHAKNPCK_00239	CDS	636	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+IHAKNPCK_00240	gene	1353	cbiA			
+IHAKNPCK_00240	CDS	1353	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+IHAKNPCK_00241	gene	1227	thi4_1			
+IHAKNPCK_00241	CDS	1227	thi4_1	2.4.2.59		Thiamine thiazole synthase
+IHAKNPCK_00242	gene	531	cobO			
+IHAKNPCK_00242	CDS	531	cobO	2.5.1.17		Corrinoid adenosyltransferase
+IHAKNPCK_00243	gene	798				
+IHAKNPCK_00243	CDS	798				hypothetical protein
+IHAKNPCK_00244	gene	156				
+IHAKNPCK_00244	CDS	156				hypothetical protein
+IHAKNPCK_00245	gene	2745				
+IHAKNPCK_00245	CDS	2745				hypothetical protein
+IHAKNPCK_00246	gene	678				
+IHAKNPCK_00246	CDS	678				hypothetical protein
+IHAKNPCK_00247	gene	345				
+IHAKNPCK_00247	CDS	345				hypothetical protein
+IHAKNPCK_00248	gene	1266	tuf_1			
+IHAKNPCK_00248	CDS	1266	tuf_1			Elongation factor Tu
+IHAKNPCK_00249	gene	387				
+IHAKNPCK_00249	CDS	387				hypothetical protein
+IHAKNPCK_00250	gene	174				
+IHAKNPCK_00250	CDS	174				hypothetical protein
+IHAKNPCK_00251	gene	75				
+IHAKNPCK_00251	tRNA	75				tRNA-Gly(ccc)
+IHAKNPCK_00252	gene	414	hit_1			
+IHAKNPCK_00252	CDS	414	hit_1		COG0537	Protein hit
+IHAKNPCK_00253	gene	945				
+IHAKNPCK_00253	CDS	945				hypothetical protein
+IHAKNPCK_00254	gene	543	guaA_1			
+IHAKNPCK_00254	CDS	543	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+IHAKNPCK_00255	gene	2841				
+IHAKNPCK_00255	CDS	2841				hypothetical protein
+IHAKNPCK_00256	gene	1125				
+IHAKNPCK_00256	CDS	1125				hypothetical protein
+IHAKNPCK_00257	gene	1011				
+IHAKNPCK_00257	CDS	1011				hypothetical protein
+IHAKNPCK_00258	gene	846	nfo			
+IHAKNPCK_00258	CDS	846	nfo	3.1.21.2	COG0648	putative endonuclease 4
+IHAKNPCK_00259	gene	1458	glyQS			
+IHAKNPCK_00259	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+IHAKNPCK_00260	gene	2775				
+IHAKNPCK_00260	CDS	2775				hypothetical protein
+IHAKNPCK_00261	gene	303				
+IHAKNPCK_00261	CDS	303				hypothetical protein
+	repeat_region	1336				
+IHAKNPCK_00262	gene	165				
+IHAKNPCK_00262	CDS	165				hypothetical protein
+IHAKNPCK_00263	gene	246				
+IHAKNPCK_00263	CDS	246				hypothetical protein
+IHAKNPCK_00264	gene	780				
+IHAKNPCK_00264	CDS	780				hypothetical protein
+IHAKNPCK_00265	gene	1002	drrA_2			
+IHAKNPCK_00265	CDS	1002	drrA_2	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IHAKNPCK_00266	gene	447				
+IHAKNPCK_00266	CDS	447				hypothetical protein
+IHAKNPCK_00267	gene	321				
+IHAKNPCK_00267	CDS	321				hypothetical protein
+IHAKNPCK_00268	gene	651				
+IHAKNPCK_00268	CDS	651				hypothetical protein
+IHAKNPCK_00269	gene	504				
+IHAKNPCK_00269	CDS	504				hypothetical protein
+IHAKNPCK_00270	gene	681				
+IHAKNPCK_00270	CDS	681				hypothetical protein
+IHAKNPCK_00271	gene	1668				
+IHAKNPCK_00271	CDS	1668				hypothetical protein
+IHAKNPCK_00272	gene	171				
+IHAKNPCK_00272	CDS	171				hypothetical protein
+IHAKNPCK_00273	gene	879				
+IHAKNPCK_00273	CDS	879				hypothetical protein
+IHAKNPCK_00274	gene	76				
+IHAKNPCK_00274	tRNA	76				tRNA-Glu(ctc)
+IHAKNPCK_00275	gene	1317	sasA_1			
+IHAKNPCK_00275	CDS	1317	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+IHAKNPCK_00276	gene	603				
+IHAKNPCK_00276	CDS	603				hypothetical protein
+IHAKNPCK_00277	gene	426				
+IHAKNPCK_00277	CDS	426				hypothetical protein
+IHAKNPCK_00278	gene	570				
+IHAKNPCK_00278	CDS	570				hypothetical protein
+IHAKNPCK_00279	gene	906	lon			
+IHAKNPCK_00279	CDS	906	lon	3.4.21.53		Lon protease
+IHAKNPCK_00280	gene	507				
+IHAKNPCK_00280	CDS	507				hypothetical protein
+IHAKNPCK_00281	gene	276				
+IHAKNPCK_00281	CDS	276				hypothetical protein
+IHAKNPCK_00282	gene	74				
+IHAKNPCK_00282	tRNA	74				tRNA-Gly(gcc)
+IHAKNPCK_00283	gene	420				
+IHAKNPCK_00283	CDS	420				hypothetical protein
+IHAKNPCK_00284	gene	1596				
+IHAKNPCK_00284	CDS	1596				hypothetical protein
+IHAKNPCK_00285	gene	579				
+IHAKNPCK_00285	CDS	579				hypothetical protein
+IHAKNPCK_00286	gene	375	msrB			
+IHAKNPCK_00286	CDS	375	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+IHAKNPCK_00287	gene	1476	smc_1			
+IHAKNPCK_00287	CDS	1476	smc_1			Chromosome partition protein Smc
+IHAKNPCK_00288	gene	2022				
+IHAKNPCK_00288	CDS	2022				hypothetical protein
+IHAKNPCK_00289	gene	954				
+IHAKNPCK_00289	CDS	954				hypothetical protein
+IHAKNPCK_00290	gene	321				
+IHAKNPCK_00290	CDS	321				hypothetical protein
+IHAKNPCK_00291	gene	843	ttuD			
+IHAKNPCK_00291	CDS	843	ttuD		COG2897	Sulfur carrier protein TtuD
+IHAKNPCK_00292	gene	816	nadK_1			
+IHAKNPCK_00292	CDS	816	nadK_1	2.7.1.23		NAD kinase
+IHAKNPCK_00293	gene	519				
+IHAKNPCK_00293	CDS	519				hypothetical protein
+IHAKNPCK_00294	gene	759	cysA			
+IHAKNPCK_00294	CDS	759	cysA	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+IHAKNPCK_00295	gene	663				
+IHAKNPCK_00295	CDS	663				hypothetical protein
+IHAKNPCK_00296	gene	393				
+IHAKNPCK_00296	CDS	393				hypothetical protein
+IHAKNPCK_00297	gene	243				
+IHAKNPCK_00297	CDS	243				hypothetical protein
+IHAKNPCK_00298	gene	216				
+IHAKNPCK_00298	CDS	216				hypothetical protein
+IHAKNPCK_00299	gene	804	rph_1			
+IHAKNPCK_00299	CDS	804	rph_1	2.7.7.56		Ribonuclease PH
+IHAKNPCK_00300	gene	729	rph_2			
+IHAKNPCK_00300	CDS	729	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+IHAKNPCK_00301	gene	705				
+IHAKNPCK_00301	CDS	705				hypothetical protein
+IHAKNPCK_00302	gene	705				
+IHAKNPCK_00302	CDS	705				hypothetical protein
+IHAKNPCK_00303	gene	597				
+IHAKNPCK_00303	CDS	597				hypothetical protein
+IHAKNPCK_00304	gene	348				
+IHAKNPCK_00304	CDS	348				hypothetical protein
+IHAKNPCK_00305	gene	474				
+IHAKNPCK_00305	CDS	474				hypothetical protein
+IHAKNPCK_00306	gene	444				
+IHAKNPCK_00306	CDS	444				hypothetical protein
+IHAKNPCK_00307	gene	732	cugP_2			
+IHAKNPCK_00307	CDS	732	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IHAKNPCK_00308	gene	573	leuD1			
+IHAKNPCK_00308	CDS	573	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+IHAKNPCK_00309	gene	1413	leuC			
+IHAKNPCK_00309	CDS	1413	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+IHAKNPCK_00310	gene	483	DmdB			
+IHAKNPCK_00310	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+IHAKNPCK_00311	gene	1272	dmdA			
+IHAKNPCK_00311	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+IHAKNPCK_00312	gene	771	fbiB_1			
+IHAKNPCK_00312	CDS	771	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+IHAKNPCK_00313	gene	552				
+IHAKNPCK_00313	CDS	552				hypothetical protein
+IHAKNPCK_00314	gene	177				
+IHAKNPCK_00314	CDS	177				hypothetical protein
+IHAKNPCK_00315	gene	4074				
+IHAKNPCK_00315	CDS	4074				hypothetical protein
+IHAKNPCK_00316	gene	561				
+IHAKNPCK_00316	CDS	561				hypothetical protein
+IHAKNPCK_00317	gene	1887				
+IHAKNPCK_00317	CDS	1887				hypothetical protein
+IHAKNPCK_00318	gene	2814				
+IHAKNPCK_00318	CDS	2814				hypothetical protein
+IHAKNPCK_00319	gene	627				
+IHAKNPCK_00319	CDS	627				hypothetical protein
+IHAKNPCK_00320	gene	171				
+IHAKNPCK_00320	CDS	171				hypothetical protein
+IHAKNPCK_00321	gene	768				
+IHAKNPCK_00321	CDS	768				hypothetical protein
+IHAKNPCK_00322	gene	693	udgb			
+IHAKNPCK_00322	CDS	693	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+IHAKNPCK_00323	gene	642				
+IHAKNPCK_00323	CDS	642				hypothetical protein
+IHAKNPCK_00324	gene	756	murI			
+IHAKNPCK_00324	CDS	756	murI	5.1.1.3		Glutamate racemase
+IHAKNPCK_00325	gene	768	cbiF			
+IHAKNPCK_00325	CDS	768	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+IHAKNPCK_00326	gene	723	cbiL			
+IHAKNPCK_00326	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+IHAKNPCK_00327	gene	591	cbiT			
+IHAKNPCK_00327	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+IHAKNPCK_00328	gene	429				
+IHAKNPCK_00328	CDS	429				hypothetical protein
+IHAKNPCK_00329	gene	1932				
+IHAKNPCK_00329	CDS	1932				hypothetical protein
+IHAKNPCK_00330	gene	486				
+IHAKNPCK_00330	CDS	486				hypothetical protein
+IHAKNPCK_00331	gene	600				
+IHAKNPCK_00331	CDS	600				hypothetical protein
+IHAKNPCK_00332	gene	384				
+IHAKNPCK_00332	CDS	384				hypothetical protein
+IHAKNPCK_00333	gene	1155				
+IHAKNPCK_00333	CDS	1155				hypothetical protein
+IHAKNPCK_00334	gene	627	nth			
+IHAKNPCK_00334	CDS	627	nth	4.2.99.18	COG0177	Endonuclease III
+IHAKNPCK_00335	gene	702				
+IHAKNPCK_00335	CDS	702				hypothetical protein
+IHAKNPCK_00336	gene	1149	sat			
+IHAKNPCK_00336	CDS	1149	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+IHAKNPCK_00337	gene	717	cysH			
+IHAKNPCK_00337	CDS	717	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+IHAKNPCK_00338	gene	1125	thiI_1			
+IHAKNPCK_00338	CDS	1125	thiI_1	2.8.1.4		tRNA sulfurtransferase
+IHAKNPCK_00339	gene	1224				
+IHAKNPCK_00339	CDS	1224				hypothetical protein
+IHAKNPCK_00340	gene	222				
+IHAKNPCK_00340	CDS	222				hypothetical protein
+IHAKNPCK_00341	gene	399				
+IHAKNPCK_00341	CDS	399				hypothetical protein
+IHAKNPCK_00342	gene	795				
+IHAKNPCK_00342	CDS	795		1.-.-.-		putative oxidoreductase
+IHAKNPCK_00343	gene	1017				
+IHAKNPCK_00343	CDS	1017				hypothetical protein
+IHAKNPCK_00344	gene	759				
+IHAKNPCK_00344	CDS	759				hypothetical protein
+IHAKNPCK_00345	gene	918	thrB_1			
+IHAKNPCK_00345	CDS	918	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+IHAKNPCK_00346	gene	756	crt_1			
+IHAKNPCK_00346	CDS	756	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+IHAKNPCK_00347	gene	828	glcU			
+IHAKNPCK_00347	CDS	828	glcU		COG4975	putative glucose uptake protein GlcU
+IHAKNPCK_00348	gene	657	queC			
+IHAKNPCK_00348	CDS	657	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+IHAKNPCK_00349	gene	255				
+IHAKNPCK_00349	CDS	255				hypothetical protein
+IHAKNPCK_00350	gene	564	folE			
+IHAKNPCK_00350	CDS	564	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+IHAKNPCK_00351	gene	714	queE			
+IHAKNPCK_00351	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+IHAKNPCK_00352	gene	2391				
+IHAKNPCK_00352	CDS	2391				hypothetical protein
+IHAKNPCK_00353	gene	198				
+IHAKNPCK_00353	CDS	198				hypothetical protein
+IHAKNPCK_00354	gene	1347				
+IHAKNPCK_00354	CDS	1347				hypothetical protein
+IHAKNPCK_00355	gene	1197				
+IHAKNPCK_00355	CDS	1197				hypothetical protein
+IHAKNPCK_00356	gene	261				
+IHAKNPCK_00356	CDS	261				hypothetical protein
+IHAKNPCK_00357	gene	159				
+IHAKNPCK_00357	CDS	159				hypothetical protein
+IHAKNPCK_00358	gene	327				
+IHAKNPCK_00358	CDS	327				hypothetical protein
+IHAKNPCK_00359	gene	372				
+IHAKNPCK_00359	CDS	372				hypothetical protein
+IHAKNPCK_00360	gene	585				
+IHAKNPCK_00360	CDS	585				hypothetical protein
+IHAKNPCK_00361	gene	342				
+IHAKNPCK_00361	CDS	342				hypothetical protein
+IHAKNPCK_00362	gene	1233				
+IHAKNPCK_00362	CDS	1233				hypothetical protein
+IHAKNPCK_00363	gene	639				
+IHAKNPCK_00363	CDS	639				hypothetical protein
+IHAKNPCK_00364	gene	945				
+IHAKNPCK_00364	CDS	945				hypothetical protein
+IHAKNPCK_00365	gene	732	fabG			
+IHAKNPCK_00365	CDS	732	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IHAKNPCK_00366	gene	219				
+IHAKNPCK_00366	CDS	219				hypothetical protein
+IHAKNPCK_00367	gene	765				
+IHAKNPCK_00367	CDS	765				hypothetical protein
+IHAKNPCK_00368	gene	543				
+IHAKNPCK_00368	CDS	543				hypothetical protein
+IHAKNPCK_00369	gene	846				
+IHAKNPCK_00369	CDS	846				hypothetical protein
+IHAKNPCK_00370	gene	918	btuF			
+IHAKNPCK_00370	CDS	918	btuF			Vitamin B12-binding protein
+IHAKNPCK_00371	gene	876	prs			
+IHAKNPCK_00371	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+IHAKNPCK_00372	gene	894				
+IHAKNPCK_00372	CDS	894				hypothetical protein
+IHAKNPCK_00373	gene	900	rnz			
+IHAKNPCK_00373	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+IHAKNPCK_00374	gene	720	cobB			
+IHAKNPCK_00374	CDS	720	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+IHAKNPCK_00375	gene	903				
+IHAKNPCK_00375	CDS	903				hypothetical protein
+IHAKNPCK_00376	gene	405				
+IHAKNPCK_00376	CDS	405				hypothetical protein
+IHAKNPCK_00377	gene	618				
+IHAKNPCK_00377	CDS	618				hypothetical protein
+IHAKNPCK_00378	gene	540	thpR			
+IHAKNPCK_00378	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+IHAKNPCK_00379	gene	1335				
+IHAKNPCK_00379	CDS	1335				hypothetical protein
+IHAKNPCK_00380	gene	768				
+IHAKNPCK_00380	CDS	768				hypothetical protein
+IHAKNPCK_00381	gene	1359	fieF			
+IHAKNPCK_00381	CDS	1359	fieF			Ferrous-iron efflux pump FieF
+IHAKNPCK_00382	gene	606	alkA			
+IHAKNPCK_00382	CDS	606	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+IHAKNPCK_00383	gene	357				
+IHAKNPCK_00383	CDS	357				hypothetical protein
+IHAKNPCK_00384	gene	753				
+IHAKNPCK_00384	CDS	753				hypothetical protein
+IHAKNPCK_00385	gene	1689	yoaA			
+IHAKNPCK_00385	CDS	1689	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+IHAKNPCK_00386	gene	309				
+IHAKNPCK_00386	CDS	309				hypothetical protein
+IHAKNPCK_00387	gene	78				
+IHAKNPCK_00387	tRNA	78				tRNA-Pro(ggg)
+IHAKNPCK_00388	gene	1143				
+IHAKNPCK_00388	CDS	1143		1.8.5.4	COG0446	Sulfide-quinone reductase
+IHAKNPCK_00389	gene	741				
+IHAKNPCK_00389	CDS	741		1.-.-.-		putative oxidoreductase
+IHAKNPCK_00390	gene	261				
+IHAKNPCK_00390	CDS	261				hypothetical protein
+IHAKNPCK_00391	gene	273				
+IHAKNPCK_00391	CDS	273				hypothetical protein
+IHAKNPCK_00392	gene	558				
+IHAKNPCK_00392	CDS	558				hypothetical protein
+IHAKNPCK_00393	gene	1449	glnA_1			
+IHAKNPCK_00393	CDS	1449	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+IHAKNPCK_00394	gene	279				
+IHAKNPCK_00394	CDS	279				hypothetical protein
+IHAKNPCK_00395	gene	1701	groL_1			
+IHAKNPCK_00395	CDS	1701	groL_1		COG0459	60 kDa chaperonin
+IHAKNPCK_00396	gene	1323	glyA			
+IHAKNPCK_00396	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+IHAKNPCK_00397	gene	3375				
+IHAKNPCK_00397	CDS	3375				hypothetical protein
+IHAKNPCK_00398	gene	750				
+IHAKNPCK_00398	CDS	750		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+IHAKNPCK_00399	gene	363				
+IHAKNPCK_00399	CDS	363				hypothetical protein
+IHAKNPCK_00400	gene	558				
+IHAKNPCK_00400	CDS	558				hypothetical protein
+IHAKNPCK_00401	gene	156				
+IHAKNPCK_00401	CDS	156				hypothetical protein
+IHAKNPCK_00402	gene	438				
+IHAKNPCK_00402	CDS	438				hypothetical protein
+IHAKNPCK_00403	gene	1209				
+IHAKNPCK_00403	CDS	1209				hypothetical protein
+IHAKNPCK_00404	gene	1449				
+IHAKNPCK_00404	CDS	1449				hypothetical protein
+IHAKNPCK_00405	gene	1431				
+IHAKNPCK_00405	CDS	1431				hypothetical protein
+IHAKNPCK_00406	gene	546				
+IHAKNPCK_00406	CDS	546				hypothetical protein
+IHAKNPCK_00407	gene	1674	petE_1			
+IHAKNPCK_00407	CDS	1674	petE_1			Plastocyanin
+IHAKNPCK_00408	gene	702				
+IHAKNPCK_00408	CDS	702				hypothetical protein
+IHAKNPCK_00409	gene	1353				
+IHAKNPCK_00409	CDS	1353		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+IHAKNPCK_00410	gene	318				
+IHAKNPCK_00410	CDS	318				hypothetical protein
+IHAKNPCK_00411	gene	663				
+IHAKNPCK_00411	CDS	663				hypothetical protein
+IHAKNPCK_00412	gene	534				
+IHAKNPCK_00412	CDS	534				hypothetical protein
+IHAKNPCK_00413	gene	2145	ftsH_1			
+IHAKNPCK_00413	CDS	2145	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IHAKNPCK_00414	gene	1062				
+IHAKNPCK_00414	CDS	1062				hypothetical protein
+IHAKNPCK_00415	gene	261				
+IHAKNPCK_00415	CDS	261				hypothetical protein
+IHAKNPCK_00416	gene	1143	sufS_1			
+IHAKNPCK_00416	CDS	1143	sufS_1	2.8.1.7	COG0520	Cysteine desulfurase SufS
+IHAKNPCK_00417	gene	615				
+IHAKNPCK_00417	CDS	615				hypothetical protein
+IHAKNPCK_00418	gene	276	prsA			
+IHAKNPCK_00418	CDS	276	prsA	5.2.1.8	COG0760	Foldase protein PrsA
+IHAKNPCK_00419	gene	402	ndhI_2			
+IHAKNPCK_00419	CDS	402	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IHAKNPCK_00420	gene	495				
+IHAKNPCK_00420	CDS	495				hypothetical protein
+IHAKNPCK_00421	gene	156				
+IHAKNPCK_00421	CDS	156				hypothetical protein
+IHAKNPCK_00422	gene	210				
+IHAKNPCK_00422	CDS	210				hypothetical protein
+IHAKNPCK_00423	gene	543				
+IHAKNPCK_00423	CDS	543				hypothetical protein
+IHAKNPCK_00424	gene	282				
+IHAKNPCK_00424	CDS	282				hypothetical protein
+IHAKNPCK_00425	gene	315				
+IHAKNPCK_00425	CDS	315				hypothetical protein
+IHAKNPCK_00426	gene	747				
+IHAKNPCK_00426	CDS	747				hypothetical protein
+IHAKNPCK_00427	gene	465				
+IHAKNPCK_00427	CDS	465				hypothetical protein
+IHAKNPCK_00428	gene	447				
+IHAKNPCK_00428	CDS	447				hypothetical protein
+IHAKNPCK_00429	gene	756				
+IHAKNPCK_00429	CDS	756				hypothetical protein
+IHAKNPCK_00430	gene	465				
+IHAKNPCK_00430	CDS	465				hypothetical protein
+IHAKNPCK_00431	gene	183				
+IHAKNPCK_00431	CDS	183				hypothetical protein
+IHAKNPCK_00432	gene	612				
+IHAKNPCK_00432	CDS	612				hypothetical protein
+IHAKNPCK_00433	gene	1398	thrA			
+IHAKNPCK_00433	CDS	1398	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+IHAKNPCK_00434	gene	1452				
+IHAKNPCK_00434	CDS	1452				hypothetical protein
+IHAKNPCK_00435	gene	789				
+IHAKNPCK_00435	CDS	789		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+IHAKNPCK_00436	gene	981	sfnG			
+IHAKNPCK_00436	CDS	981	sfnG	1.14.14.35		FMNH(2)-dependent dimethylsulfone monooxygenase
+IHAKNPCK_00437	gene	1053				
+IHAKNPCK_00437	CDS	1053				hypothetical protein
+IHAKNPCK_00438	gene	564				
+IHAKNPCK_00438	CDS	564				hypothetical protein
+IHAKNPCK_00439	gene	1086	desV			
+IHAKNPCK_00439	CDS	1086	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+IHAKNPCK_00440	gene	489				
+IHAKNPCK_00440	CDS	489				hypothetical protein
+IHAKNPCK_00441	gene	333				
+IHAKNPCK_00441	CDS	333				hypothetical protein
+IHAKNPCK_00442	gene	894	RBKS_1			
+IHAKNPCK_00442	CDS	894	RBKS_1	2.7.1.15		Ribokinase
+IHAKNPCK_00443	gene	474				
+IHAKNPCK_00443	CDS	474				hypothetical protein
+IHAKNPCK_00444	gene	474				
+IHAKNPCK_00444	CDS	474				hypothetical protein
+IHAKNPCK_00445	gene	183				
+IHAKNPCK_00445	CDS	183				hypothetical protein
+IHAKNPCK_00446	gene	999				
+IHAKNPCK_00446	CDS	999				hypothetical protein
+IHAKNPCK_00447	gene	480	ppiA			
+IHAKNPCK_00447	CDS	480	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+IHAKNPCK_00448	gene	243				
+IHAKNPCK_00448	CDS	243				hypothetical protein
+IHAKNPCK_00449	gene	459				
+IHAKNPCK_00449	CDS	459				hypothetical protein
+IHAKNPCK_00450	gene	417				
+IHAKNPCK_00450	CDS	417				hypothetical protein
+IHAKNPCK_00451	gene	711	bluB			
+IHAKNPCK_00451	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+IHAKNPCK_00452	gene	75				
+IHAKNPCK_00452	tRNA	75				tRNA-Val(gac)
+IHAKNPCK_00453	gene	399				
+IHAKNPCK_00453	CDS	399				hypothetical protein
+IHAKNPCK_00454	gene	498				
+IHAKNPCK_00454	CDS	498				hypothetical protein
+IHAKNPCK_00455	gene	534				
+IHAKNPCK_00455	CDS	534				hypothetical protein
+IHAKNPCK_00456	gene	1029	rtcA			
+IHAKNPCK_00456	CDS	1029	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+IHAKNPCK_00457	gene	777	COQ5_1			
+IHAKNPCK_00457	CDS	777	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IHAKNPCK_00458	gene	1338				
+IHAKNPCK_00458	CDS	1338		1.14.13.-		Putative epoxidase LasC
+	repeat_region	202				
+IHAKNPCK_00459	gene	498				
+IHAKNPCK_00459	CDS	498		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+IHAKNPCK_00460	gene	1155				
+IHAKNPCK_00460	CDS	1155		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+IHAKNPCK_00461	gene	744				
+IHAKNPCK_00461	CDS	744				hypothetical protein
+IHAKNPCK_00462	gene	1041				
+IHAKNPCK_00462	CDS	1041				hypothetical protein
+IHAKNPCK_00463	gene	705	prcB_1			
+IHAKNPCK_00463	CDS	705	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+IHAKNPCK_00464	gene	1932	rnj			
+IHAKNPCK_00464	CDS	1932	rnj	3.1.-.-		Ribonuclease J
+IHAKNPCK_00465	gene	279				
+IHAKNPCK_00465	CDS	279				hypothetical protein
+IHAKNPCK_00466	gene	1047	thiI_2			
+IHAKNPCK_00466	CDS	1047	thiI_2	2.8.1.4		tRNA sulfurtransferase
+IHAKNPCK_00467	gene	1017				
+IHAKNPCK_00467	CDS	1017		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+IHAKNPCK_00468	gene	1230	coaBC			
+IHAKNPCK_00468	CDS	1230	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+IHAKNPCK_00469	gene	834	panB			
+IHAKNPCK_00469	CDS	834	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+IHAKNPCK_00470	gene	741				
+IHAKNPCK_00470	CDS	741				hypothetical protein
+IHAKNPCK_00471	gene	924	thrB_2			
+IHAKNPCK_00471	CDS	924	thrB_2	2.7.1.39		Homoserine kinase
+IHAKNPCK_00472	gene	984				
+IHAKNPCK_00472	CDS	984				hypothetical protein
+IHAKNPCK_00473	gene	681				
+IHAKNPCK_00473	CDS	681				hypothetical protein
+IHAKNPCK_00474	gene	507	nudF			
+IHAKNPCK_00474	CDS	507	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+IHAKNPCK_00475	gene	906				
+IHAKNPCK_00475	CDS	906				hypothetical protein
+IHAKNPCK_00476	gene	1194				
+IHAKNPCK_00476	CDS	1194				hypothetical protein
+IHAKNPCK_00477	gene	699	lolD			
+IHAKNPCK_00477	CDS	699	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+IHAKNPCK_00478	gene	1671				
+IHAKNPCK_00478	CDS	1671				hypothetical protein
+IHAKNPCK_00479	gene	393				
+IHAKNPCK_00479	CDS	393				hypothetical protein
+IHAKNPCK_00480	gene	1512	ubiB			
+IHAKNPCK_00480	CDS	1512	ubiB	2.7.-.-		protein kinase UbiB
+IHAKNPCK_00481	gene	384				
+IHAKNPCK_00481	CDS	384				hypothetical protein
+IHAKNPCK_00482	gene	579	tmk_1			
+IHAKNPCK_00482	CDS	579	tmk_1	2.7.4.9	COG0125	Thymidylate kinase
+IHAKNPCK_00483	gene	1245				
+IHAKNPCK_00483	CDS	1245				hypothetical protein
+IHAKNPCK_00484	gene	678	pyrH			
+IHAKNPCK_00484	CDS	678	pyrH	2.7.4.22	COG0528	Uridylate kinase
+IHAKNPCK_00485	gene	318				
+IHAKNPCK_00485	CDS	318				hypothetical protein
+IHAKNPCK_00486	gene	558				
+IHAKNPCK_00486	CDS	558				hypothetical protein
+IHAKNPCK_00487	gene	567				
+IHAKNPCK_00487	CDS	567				hypothetical protein
+IHAKNPCK_00488	gene	678				
+IHAKNPCK_00488	CDS	678				hypothetical protein
+IHAKNPCK_00489	gene	786	rhdA			
+IHAKNPCK_00489	CDS	786	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+IHAKNPCK_00490	gene	345				
+IHAKNPCK_00490	CDS	345				hypothetical protein
+IHAKNPCK_00491	gene	555	atpE			
+IHAKNPCK_00491	CDS	555	atpE			V-type proton ATPase subunit E
+IHAKNPCK_00492	gene	1068	atpC			
+IHAKNPCK_00492	CDS	1068	atpC			V-type ATP synthase subunit C
+IHAKNPCK_00493	gene	336	atpF			
+IHAKNPCK_00493	CDS	336	atpF			V-type ATP synthase subunit F
+IHAKNPCK_00494	gene	1764	atpA			
+IHAKNPCK_00494	CDS	1764	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+IHAKNPCK_00495	gene	1389	ntpB			
+IHAKNPCK_00495	CDS	1389	ntpB			V-type sodium ATPase subunit B
+IHAKNPCK_00496	gene	669	atpD			
+IHAKNPCK_00496	CDS	669	atpD		COG1394	V-type ATP synthase subunit D
+IHAKNPCK_00497	gene	126				
+IHAKNPCK_00497	CDS	126				hypothetical protein
+IHAKNPCK_00498	gene	351				
+IHAKNPCK_00498	CDS	351				hypothetical protein
+IHAKNPCK_00499	gene	2016				
+IHAKNPCK_00499	CDS	2016				hypothetical protein
+IHAKNPCK_00500	gene	486	pyrI			
+IHAKNPCK_00500	CDS	486	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+IHAKNPCK_00501	gene	933	pyrB			
+IHAKNPCK_00501	CDS	933	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+IHAKNPCK_00502	gene	384	nikR			
+IHAKNPCK_00502	CDS	384	nikR			Nickel-responsive regulator
+IHAKNPCK_00503	gene	912	znuA			
+IHAKNPCK_00503	CDS	912	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+IHAKNPCK_00504	gene	723	scaC			
+IHAKNPCK_00504	CDS	723	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+IHAKNPCK_00505	gene	858	mntB			
+IHAKNPCK_00505	CDS	858	mntB			Manganese transport system membrane protein MntB
+IHAKNPCK_00506	gene	891	petE_2			
+IHAKNPCK_00506	CDS	891	petE_2			Plastocyanin
+IHAKNPCK_00507	gene	600	petE_3			
+IHAKNPCK_00507	CDS	600	petE_3			Plastocyanin
+IHAKNPCK_00508	gene	1122				
+IHAKNPCK_00508	CDS	1122				hypothetical protein
+IHAKNPCK_00509	gene	1701				
+IHAKNPCK_00509	CDS	1701				hypothetical protein
+IHAKNPCK_00510	gene	747				
+IHAKNPCK_00510	CDS	747				hypothetical protein
+IHAKNPCK_00511	gene	126				
+IHAKNPCK_00511	CDS	126				hypothetical protein
+IHAKNPCK_00512	gene	177				
+IHAKNPCK_00512	CDS	177				hypothetical protein
+IHAKNPCK_00513	gene	819	ybeM			
+IHAKNPCK_00513	CDS	819	ybeM	3.5.1.128		Deaminated glutathione amidase
+IHAKNPCK_00514	gene	462				
+IHAKNPCK_00514	CDS	462				hypothetical protein
+IHAKNPCK_00515	gene	1155	fadA_1			
+IHAKNPCK_00515	CDS	1155	fadA_1	2.3.1.16		3-ketoacyl-CoA thiolase
+IHAKNPCK_00516	gene	366				
+IHAKNPCK_00516	CDS	366				hypothetical protein
+IHAKNPCK_00517	gene	162				
+IHAKNPCK_00517	CDS	162				hypothetical protein
+IHAKNPCK_00518	gene	2115				
+IHAKNPCK_00518	CDS	2115				hypothetical protein
+IHAKNPCK_00519	gene	2658				
+IHAKNPCK_00519	CDS	2658				hypothetical protein
+IHAKNPCK_00520	gene	1116				
+IHAKNPCK_00520	CDS	1116				hypothetical protein
+IHAKNPCK_00521	gene	1143				
+IHAKNPCK_00521	CDS	1143				hypothetical protein
+IHAKNPCK_00522	gene	74				
+IHAKNPCK_00522	tRNA	74				tRNA-Gly(tcc)
+IHAKNPCK_00523	gene	669				
+IHAKNPCK_00523	CDS	669				hypothetical protein
+IHAKNPCK_00524	gene	309				
+IHAKNPCK_00524	CDS	309				hypothetical protein
+IHAKNPCK_00525	gene	453				
+IHAKNPCK_00525	CDS	453				hypothetical protein
+IHAKNPCK_00526	gene	279				
+IHAKNPCK_00526	CDS	279				hypothetical protein
+IHAKNPCK_00527	gene	1050	ccr_1			
+IHAKNPCK_00527	CDS	1050	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+IHAKNPCK_00528	gene	852	citE			
+IHAKNPCK_00528	CDS	852	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+IHAKNPCK_00529	gene	633	ribE			
+IHAKNPCK_00529	CDS	633	ribE	2.5.1.9	COG0307	Riboflavin synthase
+IHAKNPCK_00530	gene	681	ribB			
+IHAKNPCK_00530	CDS	681	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+IHAKNPCK_00531	gene	417	ribH			
+IHAKNPCK_00531	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+IHAKNPCK_00532	gene	753				
+IHAKNPCK_00532	CDS	753				hypothetical protein
+IHAKNPCK_00533	gene	1191	atzA			
+IHAKNPCK_00533	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+IHAKNPCK_00534	gene	645	ribD2			
+IHAKNPCK_00534	CDS	645	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+IHAKNPCK_00535	gene	510				
+IHAKNPCK_00535	CDS	510				hypothetical protein
+IHAKNPCK_00536	gene	531				
+IHAKNPCK_00536	CDS	531				hypothetical protein
+IHAKNPCK_00537	gene	1131	hflX			
+IHAKNPCK_00537	CDS	1131	hflX		COG2262	GTPase HflX
+IHAKNPCK_00538	gene	1044				
+IHAKNPCK_00538	CDS	1044				hypothetical protein
+IHAKNPCK_00539	gene	468				
+IHAKNPCK_00539	CDS	468				hypothetical protein
+IHAKNPCK_00540	gene	342				
+IHAKNPCK_00540	CDS	342				hypothetical protein
+IHAKNPCK_00541	gene	663				
+IHAKNPCK_00541	CDS	663				hypothetical protein
+IHAKNPCK_00542	gene	375				
+IHAKNPCK_00542	CDS	375				hypothetical protein
+IHAKNPCK_00543	gene	339				
+IHAKNPCK_00543	CDS	339				hypothetical protein
+IHAKNPCK_00544	gene	1335	edcC			
+IHAKNPCK_00544	CDS	1335	edcC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+IHAKNPCK_00545	gene	906	ctaB_1			
+IHAKNPCK_00545	CDS	906	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+IHAKNPCK_00546	gene	459	lrp_2			
+IHAKNPCK_00546	CDS	459	lrp_2		COG1522	Leucine-responsive regulatory protein
+IHAKNPCK_00547	gene	1077	asd2			
+IHAKNPCK_00547	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+IHAKNPCK_00548	gene	1086	cobD_1			
+IHAKNPCK_00548	CDS	1086	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+IHAKNPCK_00549	gene	846	cobQ			
+IHAKNPCK_00549	CDS	846	cobQ		COG1492	Cobyric acid synthase
+IHAKNPCK_00550	gene	987	cobD_2			
+IHAKNPCK_00550	CDS	987	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+IHAKNPCK_00551	gene	726	cobS			
+IHAKNPCK_00551	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+IHAKNPCK_00552	gene	585	mobA			
+IHAKNPCK_00552	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+IHAKNPCK_00553	gene	198				
+IHAKNPCK_00553	CDS	198				hypothetical protein
+IHAKNPCK_00554	gene	279				
+IHAKNPCK_00554	CDS	279				hypothetical protein
+IHAKNPCK_00555	gene	1773	ade			
+IHAKNPCK_00555	CDS	1773	ade	3.5.4.2	COG1001	Adenine deaminase
+IHAKNPCK_00556	gene	1623	groL_2			
+IHAKNPCK_00556	CDS	1623	groL_2		COG0459	60 kDa chaperonin
+IHAKNPCK_00557	gene	1014	RBKS_2			
+IHAKNPCK_00557	CDS	1014	RBKS_2	2.7.1.15		Ribokinase
+IHAKNPCK_00558	gene	1401				
+IHAKNPCK_00558	CDS	1401				hypothetical protein
+IHAKNPCK_00559	gene	1524	guaA_2			
+IHAKNPCK_00559	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+IHAKNPCK_00560	gene	552				
+IHAKNPCK_00560	CDS	552				hypothetical protein
+IHAKNPCK_00561	gene	762				
+IHAKNPCK_00561	CDS	762				hypothetical protein
+IHAKNPCK_00562	gene	867	folP			
+IHAKNPCK_00562	CDS	867	folP	2.5.1.15		Dihydropteroate synthase
+IHAKNPCK_00563	gene	1440	guaB			
+IHAKNPCK_00563	CDS	1440	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+IHAKNPCK_00564	gene	465				
+IHAKNPCK_00564	CDS	465				hypothetical protein
+IHAKNPCK_00565	gene	816	pheA			
+IHAKNPCK_00565	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+IHAKNPCK_00566	gene	561				
+IHAKNPCK_00566	CDS	561				hypothetical protein
+IHAKNPCK_00567	gene	996				
+IHAKNPCK_00567	CDS	996				hypothetical protein
+IHAKNPCK_00568	gene	231				
+IHAKNPCK_00568	CDS	231				hypothetical protein
+IHAKNPCK_00569	gene	1320				
+IHAKNPCK_00569	CDS	1320				hypothetical protein
+IHAKNPCK_00570	gene	1098	yliI			
+IHAKNPCK_00570	CDS	1098	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+IHAKNPCK_00571	gene	1254	mvaA			
+IHAKNPCK_00571	CDS	1254	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IHAKNPCK_00572	gene	978	hisG			
+IHAKNPCK_00572	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+IHAKNPCK_00573	gene	1269	hisD			
+IHAKNPCK_00573	CDS	1269	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+IHAKNPCK_00574	gene	1071	hisC			
+IHAKNPCK_00574	CDS	1071	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+IHAKNPCK_00575	gene	981				
+IHAKNPCK_00575	CDS	981				hypothetical protein
+IHAKNPCK_00576	gene	588	hisB			
+IHAKNPCK_00576	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+IHAKNPCK_00577	gene	606	hisH			
+IHAKNPCK_00577	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+IHAKNPCK_00578	gene	708	priA			
+IHAKNPCK_00578	CDS	708	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+IHAKNPCK_00579	gene	804	hisF			
+IHAKNPCK_00579	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+IHAKNPCK_00580	gene	330	hisI			
+IHAKNPCK_00580	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+IHAKNPCK_00581	gene	504				
+IHAKNPCK_00581	CDS	504				hypothetical protein
+IHAKNPCK_00582	gene	1218	thrC			
+IHAKNPCK_00582	CDS	1218	thrC	4.2.3.1	COG0498	Threonine synthase
+IHAKNPCK_00583	gene	1317				
+IHAKNPCK_00583	CDS	1317				hypothetical protein
+IHAKNPCK_00584	gene	966				
+IHAKNPCK_00584	CDS	966				hypothetical protein
+IHAKNPCK_00585	gene	1137				
+IHAKNPCK_00585	CDS	1137				hypothetical protein
+IHAKNPCK_00586	gene	558	grpE			
+IHAKNPCK_00586	CDS	558	grpE			Protein GrpE
+IHAKNPCK_00587	gene	1845	dnaK			
+IHAKNPCK_00587	CDS	1845	dnaK		COG0443	Chaperone protein DnaK
+IHAKNPCK_00588	gene	1107	dnaJ_2			
+IHAKNPCK_00588	CDS	1107	dnaJ_2		COG0484	Chaperone protein DnaJ
+IHAKNPCK_00589	gene	561				
+IHAKNPCK_00589	CDS	561				hypothetical protein
+IHAKNPCK_00590	gene	88				
+IHAKNPCK_00590	tRNA	88				tRNA-Leu(cag)
+IHAKNPCK_00591	gene	1905	GATB			
+IHAKNPCK_00591	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+IHAKNPCK_00592	gene	1284				
+IHAKNPCK_00592	CDS	1284				hypothetical protein
+IHAKNPCK_00593	gene	1089	xerC			
+IHAKNPCK_00593	CDS	1089	xerC			Tyrosine recombinase XerC
+IHAKNPCK_00594	gene	1230				
+IHAKNPCK_00594	CDS	1230				hypothetical protein
+IHAKNPCK_00595	gene	984				
+IHAKNPCK_00595	CDS	984				hypothetical protein
+IHAKNPCK_00596	gene	1059				
+IHAKNPCK_00596	CDS	1059				hypothetical protein
+IHAKNPCK_00597	gene	645				
+IHAKNPCK_00597	CDS	645				hypothetical protein
+IHAKNPCK_00598	gene	381				
+IHAKNPCK_00598	CDS	381				hypothetical protein
+IHAKNPCK_00599	gene	483				
+IHAKNPCK_00599	CDS	483				hypothetical protein
+IHAKNPCK_00600	gene	366				
+IHAKNPCK_00600	CDS	366				hypothetical protein
+IHAKNPCK_00601	gene	873	ycf3			
+IHAKNPCK_00601	CDS	873	ycf3			Photosystem I assembly protein Ycf3
+IHAKNPCK_00602	gene	243				
+IHAKNPCK_00602	CDS	243				hypothetical protein
+IHAKNPCK_00603	gene	183				
+IHAKNPCK_00603	CDS	183				hypothetical protein
+IHAKNPCK_00604	gene	1029				
+IHAKNPCK_00604	CDS	1029				hypothetical protein
+IHAKNPCK_00605	gene	351				
+IHAKNPCK_00605	CDS	351				hypothetical protein
+IHAKNPCK_00606	gene	474				
+IHAKNPCK_00606	CDS	474				hypothetical protein
+IHAKNPCK_00607	gene	93				
+IHAKNPCK_00607	CDS	93				hypothetical protein
+IHAKNPCK_00608	gene	840				
+IHAKNPCK_00608	CDS	840				hypothetical protein
+IHAKNPCK_00609	gene	1269				
+IHAKNPCK_00609	CDS	1269				hypothetical protein
+IHAKNPCK_00610	gene	2202	ftsH_2			
+IHAKNPCK_00610	CDS	2202	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IHAKNPCK_00611	gene	732				
+IHAKNPCK_00611	CDS	732				hypothetical protein
+IHAKNPCK_00612	gene	279	acyP			
+IHAKNPCK_00612	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+IHAKNPCK_00613	gene	330				
+IHAKNPCK_00613	CDS	330				hypothetical protein
+IHAKNPCK_00614	gene	313				
+IHAKNPCK_00614	misc_RNA	313				Archaea_SRP
+IHAKNPCK_00615	gene	909	ttuA			
+IHAKNPCK_00615	CDS	909	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+IHAKNPCK_00616	gene	672	rpiA			
+IHAKNPCK_00616	CDS	672	rpiA	5.3.1.6		Ribose-5-phosphate isomerase A
+IHAKNPCK_00617	gene	969				
+IHAKNPCK_00617	CDS	969				hypothetical protein
+IHAKNPCK_00618	gene	219				
+IHAKNPCK_00618	CDS	219				hypothetical protein
+IHAKNPCK_00619	gene	708	mftE			
+IHAKNPCK_00619	CDS	708	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+IHAKNPCK_00620	gene	858	purU			
+IHAKNPCK_00620	CDS	858	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+IHAKNPCK_00621	gene	87				
+IHAKNPCK_00621	tRNA	87				tRNA-Leu(tag)
+IHAKNPCK_00622	gene	1347	glmM_1			
+IHAKNPCK_00622	CDS	1347	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+IHAKNPCK_00623	gene	387				
+IHAKNPCK_00623	CDS	387				hypothetical protein
+IHAKNPCK_00624	gene	207				
+IHAKNPCK_00624	CDS	207				hypothetical protein
+IHAKNPCK_00625	gene	204				
+IHAKNPCK_00625	CDS	204				hypothetical protein
+IHAKNPCK_00626	gene	402	ndk			
+IHAKNPCK_00626	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+IHAKNPCK_00627	gene	1785	infB			
+IHAKNPCK_00627	CDS	1785	infB			Translation initiation factor IF-2
+IHAKNPCK_00628	gene	381				
+IHAKNPCK_00628	CDS	381				hypothetical protein
+IHAKNPCK_00629	gene	417				
+IHAKNPCK_00629	CDS	417				Protein archease
+IHAKNPCK_00630	gene	1275	hisS			
+IHAKNPCK_00630	CDS	1275	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+IHAKNPCK_00631	gene	672				
+IHAKNPCK_00631	CDS	672				hypothetical protein
+IHAKNPCK_00632	gene	447	ndhI_3			
+IHAKNPCK_00632	CDS	447	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IHAKNPCK_00633	gene	534	napF_1			
+IHAKNPCK_00633	CDS	534	napF_1			Ferredoxin-type protein NapF
+IHAKNPCK_00634	gene	85				
+IHAKNPCK_00634	tRNA	85				tRNA-Ser(tga)
+IHAKNPCK_00635	gene	126				
+IHAKNPCK_00635	CDS	126				hypothetical protein
+IHAKNPCK_00636	gene	483				
+IHAKNPCK_00636	CDS	483				hypothetical protein
+IHAKNPCK_00637	gene	2082				
+IHAKNPCK_00637	CDS	2082				hypothetical protein
+IHAKNPCK_00638	gene	2124	dbpA_2			
+IHAKNPCK_00638	CDS	2124	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+IHAKNPCK_00639	gene	996	mraY			
+IHAKNPCK_00639	CDS	996	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IHAKNPCK_00640	gene	234				
+IHAKNPCK_00640	CDS	234				hypothetical protein
+IHAKNPCK_00641	gene	483	fdtC			
+IHAKNPCK_00641	CDS	483	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+IHAKNPCK_00642	gene	255				
+IHAKNPCK_00642	CDS	255				hypothetical protein
+IHAKNPCK_00643	gene	936	iolX			
+IHAKNPCK_00643	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+IHAKNPCK_00644	gene	918	ilvE_2			
+IHAKNPCK_00644	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+IHAKNPCK_00645	gene	597				
+IHAKNPCK_00645	CDS	597				hypothetical protein
+IHAKNPCK_00646	gene	74				
+IHAKNPCK_00646	tRNA	74				tRNA-Pro(cgg)
+IHAKNPCK_00647	gene	843	mimB			
+IHAKNPCK_00647	CDS	843	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+IHAKNPCK_00648	gene	75				
+IHAKNPCK_00648	tRNA	75				tRNA-Ala(ggc)
+IHAKNPCK_00649	gene	609	pyrE_1			
+IHAKNPCK_00649	CDS	609	pyrE_1	2.4.2.10		Orotate phosphoribosyltransferase
+IHAKNPCK_00650	gene	609				
+IHAKNPCK_00650	CDS	609				hypothetical protein
+IHAKNPCK_00651	gene	408				
+IHAKNPCK_00651	CDS	408				hypothetical protein
+IHAKNPCK_00652	gene	285				
+IHAKNPCK_00652	CDS	285				hypothetical protein
+IHAKNPCK_00653	gene	861	Dml			
+IHAKNPCK_00653	CDS	861	Dml	4.1.3.32		2,3-dimethylmalate lyase
+IHAKNPCK_00654	gene	1713	frdA			
+IHAKNPCK_00654	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+IHAKNPCK_00655	gene	435				
+IHAKNPCK_00655	CDS	435				hypothetical protein
+IHAKNPCK_00656	gene	345				
+IHAKNPCK_00656	CDS	345				hypothetical protein
+IHAKNPCK_00657	gene	768	frdB			
+IHAKNPCK_00657	CDS	768	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+IHAKNPCK_00658	gene	321				
+IHAKNPCK_00658	CDS	321				hypothetical protein
+IHAKNPCK_00659	gene	1470	argH			
+IHAKNPCK_00659	CDS	1470	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+IHAKNPCK_00660	gene	210				
+IHAKNPCK_00660	CDS	210				hypothetical protein
+IHAKNPCK_00661	gene	76				
+IHAKNPCK_00661	tRNA	76				tRNA-Lys(ttt)
+IHAKNPCK_00662	gene	813	suhB			
+IHAKNPCK_00662	CDS	813	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+IHAKNPCK_00663	gene	1119				
+IHAKNPCK_00663	CDS	1119				hypothetical protein
+IHAKNPCK_00664	gene	1158				
+IHAKNPCK_00664	CDS	1158				hypothetical protein
+IHAKNPCK_00665	gene	315				
+IHAKNPCK_00665	CDS	315				hypothetical protein
+IHAKNPCK_00666	gene	939				
+IHAKNPCK_00666	CDS	939				hypothetical protein
+IHAKNPCK_00667	gene	270				
+IHAKNPCK_00667	CDS	270				hypothetical protein
+IHAKNPCK_00668	gene	1548	pccB			
+IHAKNPCK_00668	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+IHAKNPCK_00669	gene	1494	cfiB			
+IHAKNPCK_00669	CDS	1494	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+IHAKNPCK_00670	gene	513				
+IHAKNPCK_00670	CDS	513				hypothetical protein
+IHAKNPCK_00671	gene	834				
+IHAKNPCK_00671	CDS	834				hypothetical protein
+IHAKNPCK_00672	gene	468	bcp_1			
+IHAKNPCK_00672	CDS	468	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IHAKNPCK_00673	gene	417	ndhC			
+IHAKNPCK_00673	CDS	417	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+IHAKNPCK_00674	gene	528	ndhK			
+IHAKNPCK_00674	CDS	528	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+IHAKNPCK_00675	gene	654	ndhJ			
+IHAKNPCK_00675	CDS	654	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+IHAKNPCK_00676	gene	1134	nqo4			
+IHAKNPCK_00676	CDS	1134	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+IHAKNPCK_00677	gene	1302	ndhA			
+IHAKNPCK_00677	CDS	1302	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+IHAKNPCK_00678	gene	498	nuoI			
+IHAKNPCK_00678	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+IHAKNPCK_00679	gene	513				
+IHAKNPCK_00679	CDS	513				hypothetical protein
+IHAKNPCK_00680	gene	306	nuoK			
+IHAKNPCK_00680	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+IHAKNPCK_00681	gene	1557	ndhD			
+IHAKNPCK_00681	CDS	1557	ndhD	7.1.1.-		NAD(P)H-quinone oxidoreductase chain 4
+IHAKNPCK_00682	gene	2085	ndhB_1			
+IHAKNPCK_00682	CDS	2085	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IHAKNPCK_00683	gene	1488	ndhB_2			
+IHAKNPCK_00683	CDS	1488	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IHAKNPCK_00684	gene	852	ispB			
+IHAKNPCK_00684	CDS	852	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+IHAKNPCK_00685	gene	156				
+IHAKNPCK_00685	CDS	156				hypothetical protein
+IHAKNPCK_00686	gene	639				
+IHAKNPCK_00686	CDS	639		1.-.-.-	COG5424	putative oxidoreductase CT_610
+IHAKNPCK_00687	gene	75				
+IHAKNPCK_00687	tRNA	75				tRNA-Met(cat)
+IHAKNPCK_00688	gene	564				
+IHAKNPCK_00688	CDS	564				hypothetical protein
+IHAKNPCK_00689	gene	609	pyrE_2			
+IHAKNPCK_00689	CDS	609	pyrE_2	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+IHAKNPCK_00690	gene	1089				
+IHAKNPCK_00690	CDS	1089				hypothetical protein
+IHAKNPCK_00691	gene	1050				
+IHAKNPCK_00691	CDS	1050				hypothetical protein
+IHAKNPCK_00692	gene	501				
+IHAKNPCK_00692	CDS	501				hypothetical protein
+IHAKNPCK_00693	gene	222				
+IHAKNPCK_00693	CDS	222				hypothetical protein
+IHAKNPCK_00694	gene	828				
+IHAKNPCK_00694	CDS	828				hypothetical protein
+IHAKNPCK_00695	gene	1785	btuD			
+IHAKNPCK_00695	CDS	1785	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IHAKNPCK_00696	gene	109				
+IHAKNPCK_00696	rRNA	109				5S ribosomal RNA
+IHAKNPCK_00697	gene	258				
+IHAKNPCK_00697	CDS	258				hypothetical protein
+IHAKNPCK_00698	gene	129				
+IHAKNPCK_00698	CDS	129				hypothetical protein
+IHAKNPCK_00699	gene	390				
+IHAKNPCK_00699	CDS	390				hypothetical protein
+IHAKNPCK_00700	gene	1674	dxs			
+IHAKNPCK_00700	CDS	1674	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+IHAKNPCK_00701	gene	969	aptB			
+IHAKNPCK_00701	CDS	969	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+IHAKNPCK_00702	gene	666	tal			
+IHAKNPCK_00702	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+IHAKNPCK_00703	gene	456				
+IHAKNPCK_00703	CDS	456				hypothetical protein
+IHAKNPCK_00704	gene	1566				
+IHAKNPCK_00704	CDS	1566				hypothetical protein
+IHAKNPCK_00705	gene	843	nirQ			
+IHAKNPCK_00705	CDS	843	nirQ		COG0714	Denitrification regulatory protein NirQ
+IHAKNPCK_00706	gene	804				
+IHAKNPCK_00706	CDS	804				hypothetical protein
+IHAKNPCK_00707	gene	1452				
+IHAKNPCK_00707	CDS	1452				hypothetical protein
+IHAKNPCK_00708	gene	423				
+IHAKNPCK_00708	CDS	423				hypothetical protein
+IHAKNPCK_00709	gene	615				
+IHAKNPCK_00709	CDS	615				hypothetical protein
+IHAKNPCK_00710	gene	1263	serS			
+IHAKNPCK_00710	CDS	1263	serS	6.1.1.11		Serine--tRNA ligase
+IHAKNPCK_00711	gene	249				
+IHAKNPCK_00711	CDS	249				hypothetical protein
+IHAKNPCK_00712	gene	1419				
+IHAKNPCK_00712	CDS	1419				hypothetical protein
+IHAKNPCK_00713	gene	450				
+IHAKNPCK_00713	CDS	450				hypothetical protein
+IHAKNPCK_00714	gene	309				
+IHAKNPCK_00714	CDS	309				hypothetical protein
+IHAKNPCK_00715	gene	267				
+IHAKNPCK_00715	CDS	267				hypothetical protein
+IHAKNPCK_00716	gene	516				
+IHAKNPCK_00716	CDS	516				hypothetical protein
+IHAKNPCK_00717	gene	342	glnB_1			
+IHAKNPCK_00717	CDS	342	glnB_1		COG0347	Nitrogen regulatory protein P-II
+IHAKNPCK_00718	gene	750				
+IHAKNPCK_00718	CDS	750				hypothetical protein
+IHAKNPCK_00719	gene	219				
+IHAKNPCK_00719	CDS	219				hypothetical protein
+IHAKNPCK_00720	gene	468				
+IHAKNPCK_00720	CDS	468				hypothetical protein
+IHAKNPCK_00721	gene	492				
+IHAKNPCK_00721	CDS	492				hypothetical protein
+IHAKNPCK_00722	gene	162				
+IHAKNPCK_00722	CDS	162				hypothetical protein
+IHAKNPCK_00723	gene	1542	amtB			
+IHAKNPCK_00723	CDS	1542	amtB			Ammonia channel
+IHAKNPCK_00724	gene	213				
+IHAKNPCK_00724	CDS	213				hypothetical protein
+IHAKNPCK_00725	gene	654				
+IHAKNPCK_00725	CDS	654				hypothetical protein
+IHAKNPCK_00726	gene	279				
+IHAKNPCK_00726	CDS	279				hypothetical protein
+IHAKNPCK_00727	gene	567				
+IHAKNPCK_00727	CDS	567				hypothetical protein
+IHAKNPCK_00728	gene	564				
+IHAKNPCK_00728	CDS	564				hypothetical protein
+IHAKNPCK_00729	gene	363				
+IHAKNPCK_00729	CDS	363				hypothetical protein
+IHAKNPCK_00730	gene	720				
+IHAKNPCK_00730	CDS	720				hypothetical protein
+IHAKNPCK_00731	gene	831	dpnM			
+IHAKNPCK_00731	CDS	831	dpnM	2.1.1.72		Modification methylase DpnIIA
+IHAKNPCK_00732	gene	552				
+IHAKNPCK_00732	CDS	552				hypothetical protein
+IHAKNPCK_00733	gene	74				
+IHAKNPCK_00733	tRNA	74				tRNA-Thr(ggt)
+IHAKNPCK_00734	gene	387				
+IHAKNPCK_00734	CDS	387				hypothetical protein
+IHAKNPCK_00735	gene	900				
+IHAKNPCK_00735	CDS	900				hypothetical protein
+IHAKNPCK_00736	gene	351				
+IHAKNPCK_00736	CDS	351				hypothetical protein
+IHAKNPCK_00737	gene	171				
+IHAKNPCK_00737	CDS	171				hypothetical protein
+IHAKNPCK_00738	gene	561	resA_1			
+IHAKNPCK_00738	CDS	561	resA_1			Thiol-disulfide oxidoreductase ResA
+IHAKNPCK_00739	gene	73				
+IHAKNPCK_00739	tRNA	73				tRNA-Ala(tgc)
+IHAKNPCK_00740	gene	207				
+IHAKNPCK_00740	CDS	207				hypothetical protein
+IHAKNPCK_00741	gene	453				
+IHAKNPCK_00741	CDS	453				hypothetical protein
+IHAKNPCK_00742	gene	1551				
+IHAKNPCK_00742	CDS	1551				hypothetical protein
+IHAKNPCK_00743	gene	549				
+IHAKNPCK_00743	CDS	549				hypothetical protein
+IHAKNPCK_00744	gene	276				
+IHAKNPCK_00744	CDS	276				hypothetical protein
+IHAKNPCK_00745	gene	396				
+IHAKNPCK_00745	CDS	396				hypothetical protein
+IHAKNPCK_00746	gene	117				
+IHAKNPCK_00746	CDS	117				hypothetical protein
+IHAKNPCK_00747	gene	798	COQ5_2			
+IHAKNPCK_00747	CDS	798	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IHAKNPCK_00748	gene	369				
+IHAKNPCK_00748	CDS	369				hypothetical protein
+IHAKNPCK_00749	gene	1083				
+IHAKNPCK_00749	CDS	1083				hypothetical protein
+IHAKNPCK_00750	gene	594				
+IHAKNPCK_00750	CDS	594				hypothetical protein
+IHAKNPCK_00751	gene	441	chrB1			
+IHAKNPCK_00751	CDS	441	chrB1			Protein ChrB
+IHAKNPCK_00752	gene	162				
+IHAKNPCK_00752	CDS	162				hypothetical protein
+IHAKNPCK_00753	gene	1251	pknD			
+IHAKNPCK_00753	CDS	1251	pknD	2.7.11.1	COG0515	Serine/threonine-protein kinase PknD
+IHAKNPCK_00754	gene	522	cypB			
+IHAKNPCK_00754	CDS	522	cypB	5.2.1.8		Peptidyl-prolyl cis-trans isomerase B
+IHAKNPCK_00755	gene	711				
+IHAKNPCK_00755	CDS	711				hypothetical protein
+IHAKNPCK_00756	gene	354				
+IHAKNPCK_00756	CDS	354				hypothetical protein
+IHAKNPCK_00757	gene	1089				
+IHAKNPCK_00757	CDS	1089				hypothetical protein
+IHAKNPCK_00758	gene	135				
+IHAKNPCK_00758	CDS	135				hypothetical protein
+IHAKNPCK_00759	gene	339				
+IHAKNPCK_00759	CDS	339				hypothetical protein
+IHAKNPCK_00760	gene	822				
+IHAKNPCK_00760	CDS	822				hypothetical protein
+IHAKNPCK_00761	gene	345				
+IHAKNPCK_00761	CDS	345				hypothetical protein
+IHAKNPCK_00762	gene	846	IMPDH_1			
+IHAKNPCK_00762	CDS	846	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IHAKNPCK_00763	gene	891	mdh_2			
+IHAKNPCK_00763	CDS	891	mdh_2	1.1.1.37	COG0039	Malate dehydrogenase
+IHAKNPCK_00764	gene	498				
+IHAKNPCK_00764	CDS	498				hypothetical protein
+IHAKNPCK_00765	gene	867	IMPDH_2			
+IHAKNPCK_00765	CDS	867	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IHAKNPCK_00766	gene	435	IMPDH_3			
+IHAKNPCK_00766	CDS	435	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IHAKNPCK_00767	gene	438				
+IHAKNPCK_00767	CDS	438				hypothetical protein
+IHAKNPCK_00768	gene	450	hrp1			
+IHAKNPCK_00768	CDS	450	hrp1		COG0517	Hypoxic response protein 1
+IHAKNPCK_00769	gene	447				
+IHAKNPCK_00769	CDS	447				hypothetical protein
+IHAKNPCK_00770	gene	426	teaD_1			
+IHAKNPCK_00770	CDS	426	teaD_1		COG0589	TRAP-T-associated universal stress protein TeaD
+IHAKNPCK_00771	gene	579				
+IHAKNPCK_00771	CDS	579				hypothetical protein
+IHAKNPCK_00772	gene	891				
+IHAKNPCK_00772	CDS	891				hypothetical protein
+IHAKNPCK_00773	gene	942				
+IHAKNPCK_00773	CDS	942				hypothetical protein
+IHAKNPCK_00774	gene	330				
+IHAKNPCK_00774	CDS	330				hypothetical protein
+IHAKNPCK_00775	gene	468				
+IHAKNPCK_00775	CDS	468				hypothetical protein
+IHAKNPCK_00776	gene	756				
+IHAKNPCK_00776	CDS	756				hypothetical protein
+IHAKNPCK_00777	gene	1263	mntH_1			
+IHAKNPCK_00777	CDS	1263	mntH_1		COG1914	Divalent metal cation transporter MntH
+IHAKNPCK_00778	gene	180				
+IHAKNPCK_00778	CDS	180				hypothetical protein
+IHAKNPCK_00779	gene	393				
+IHAKNPCK_00779	CDS	393				hypothetical protein
+IHAKNPCK_00780	gene	1026				
+IHAKNPCK_00780	CDS	1026				hypothetical protein
+IHAKNPCK_00781	gene	465				
+IHAKNPCK_00781	CDS	465				hypothetical protein
+IHAKNPCK_00782	gene	339				
+IHAKNPCK_00782	CDS	339				hypothetical protein
+IHAKNPCK_00783	gene	282				
+IHAKNPCK_00783	CDS	282				hypothetical protein
+IHAKNPCK_00784	gene	1116				
+IHAKNPCK_00784	CDS	1116				hypothetical protein
+IHAKNPCK_00785	gene	1455				
+IHAKNPCK_00785	CDS	1455				hypothetical protein
+IHAKNPCK_00786	gene	1638				
+IHAKNPCK_00786	CDS	1638				hypothetical protein
+IHAKNPCK_00787	gene	240				
+IHAKNPCK_00787	CDS	240				hypothetical protein
+IHAKNPCK_00788	gene	567				
+IHAKNPCK_00788	CDS	567				hypothetical protein
+IHAKNPCK_00789	gene	633				
+IHAKNPCK_00789	CDS	633				hypothetical protein
+IHAKNPCK_00790	gene	510				
+IHAKNPCK_00790	CDS	510				hypothetical protein
+IHAKNPCK_00791	gene	969	pdxS			
+IHAKNPCK_00791	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+IHAKNPCK_00792	gene	618	pdxT			
+IHAKNPCK_00792	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+IHAKNPCK_00793	gene	2283	acnA			
+IHAKNPCK_00793	CDS	2283	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+IHAKNPCK_00794	gene	999	ccr_2			
+IHAKNPCK_00794	CDS	999	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+IHAKNPCK_00795	gene	579				
+IHAKNPCK_00795	CDS	579		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+IHAKNPCK_00796	gene	369				
+IHAKNPCK_00796	CDS	369				hypothetical protein
+IHAKNPCK_00797	gene	2316	valS_2			
+IHAKNPCK_00797	CDS	2316	valS_2	6.1.1.9		Valine--tRNA ligase
+IHAKNPCK_00798	gene	822				
+IHAKNPCK_00798	CDS	822				hypothetical protein
+IHAKNPCK_00799	gene	282	phhB			
+IHAKNPCK_00799	CDS	282	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+IHAKNPCK_00800	gene	786				
+IHAKNPCK_00800	CDS	786				hypothetical protein
+IHAKNPCK_00801	gene	1362	purB			
+IHAKNPCK_00801	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+IHAKNPCK_00802	gene	117				
+IHAKNPCK_00802	CDS	117				hypothetical protein
+IHAKNPCK_00803	gene	1452	rtcB			
+IHAKNPCK_00803	CDS	1452	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+IHAKNPCK_00804	gene	438				
+IHAKNPCK_00804	CDS	438				hypothetical protein
+IHAKNPCK_00805	gene	324				
+IHAKNPCK_00805	CDS	324				hypothetical protein
+IHAKNPCK_00806	gene	405	rpsK			
+IHAKNPCK_00806	CDS	405	rpsK		COG0100	30S ribosomal protein S11
+IHAKNPCK_00807	gene	192				
+IHAKNPCK_00807	CDS	192				hypothetical protein
+IHAKNPCK_00808	gene	954				
+IHAKNPCK_00808	CDS	954				hypothetical protein
+IHAKNPCK_00809	gene	960	thiL			
+IHAKNPCK_00809	CDS	960	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+IHAKNPCK_00810	gene	1305	glmM_2			
+IHAKNPCK_00810	CDS	1305	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+IHAKNPCK_00811	gene	74				
+IHAKNPCK_00811	tRNA	74				tRNA-Thr(cgt)
+IHAKNPCK_00812	gene	471				
+IHAKNPCK_00812	CDS	471				hypothetical protein
+IHAKNPCK_00813	gene	531				
+IHAKNPCK_00813	CDS	531				hypothetical protein
+IHAKNPCK_00814	gene	303				
+IHAKNPCK_00814	CDS	303				hypothetical protein
+IHAKNPCK_00815	gene	783	yadH			
+IHAKNPCK_00815	CDS	783	yadH		COG0842	Inner membrane transport permease YadH
+IHAKNPCK_00816	gene	411	lnrL			
+IHAKNPCK_00816	CDS	411	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IHAKNPCK_00817	gene	558	drrA_3			
+IHAKNPCK_00817	CDS	558	drrA_3	3.6.3.-	COG1131	Doxorubicin resistance ATP-binding protein DrrA
+IHAKNPCK_00818	gene	432				
+IHAKNPCK_00818	CDS	432				hypothetical protein
+IHAKNPCK_00819	gene	303				
+IHAKNPCK_00819	CDS	303				hypothetical protein
+IHAKNPCK_00820	gene	558				
+IHAKNPCK_00820	CDS	558				hypothetical protein
+IHAKNPCK_00821	gene	1761				
+IHAKNPCK_00821	CDS	1761				hypothetical protein
+IHAKNPCK_00822	gene	312				
+IHAKNPCK_00822	CDS	312				hypothetical protein
+IHAKNPCK_00823	gene	73				
+IHAKNPCK_00823	tRNA	73				tRNA-Cys(gca)
+IHAKNPCK_00824	gene	222				
+IHAKNPCK_00824	CDS	222				hypothetical protein
+IHAKNPCK_00825	gene	765	dtd3			
+IHAKNPCK_00825	CDS	765	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+IHAKNPCK_00826	gene	300				
+IHAKNPCK_00826	CDS	300				hypothetical protein
+IHAKNPCK_00827	gene	777				
+IHAKNPCK_00827	CDS	777				hypothetical protein
+IHAKNPCK_00828	gene	522				
+IHAKNPCK_00828	CDS	522				hypothetical protein
+IHAKNPCK_00829	gene	591	ywlC			
+IHAKNPCK_00829	CDS	591	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+IHAKNPCK_00830	gene	111				
+IHAKNPCK_00830	CDS	111				hypothetical protein
+IHAKNPCK_00831	gene	267				
+IHAKNPCK_00831	CDS	267				hypothetical protein
+IHAKNPCK_00832	gene	639				
+IHAKNPCK_00832	CDS	639				hypothetical protein
+IHAKNPCK_00833	gene	207				
+IHAKNPCK_00833	CDS	207				hypothetical protein
+IHAKNPCK_00834	gene	1485	sasA_2			
+IHAKNPCK_00834	CDS	1485	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+IHAKNPCK_00835	gene	279				
+IHAKNPCK_00835	CDS	279				hypothetical protein
+IHAKNPCK_00836	gene	459				
+IHAKNPCK_00836	CDS	459				hypothetical protein
+IHAKNPCK_00837	gene	591				
+IHAKNPCK_00837	CDS	591				hypothetical protein
+IHAKNPCK_00838	gene	1002	purA			
+IHAKNPCK_00838	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+IHAKNPCK_00839	gene	654				
+IHAKNPCK_00839	CDS	654				hypothetical protein
+IHAKNPCK_00840	gene	747	pyrF			
+IHAKNPCK_00840	CDS	747	pyrF			Orotidine 5'-phosphate decarboxylase
+IHAKNPCK_00841	gene	405				
+IHAKNPCK_00841	CDS	405				hypothetical protein
+IHAKNPCK_00842	gene	702				
+IHAKNPCK_00842	CDS	702		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+IHAKNPCK_00843	gene	1146				
+IHAKNPCK_00843	CDS	1146				hypothetical protein
+IHAKNPCK_00844	gene	498				
+IHAKNPCK_00844	CDS	498				hypothetical protein
+IHAKNPCK_00845	gene	144				
+IHAKNPCK_00845	CDS	144				hypothetical protein
+IHAKNPCK_00846	gene	231				
+IHAKNPCK_00846	CDS	231				hypothetical protein
+IHAKNPCK_00847	gene	165				
+IHAKNPCK_00847	CDS	165				hypothetical protein
+IHAKNPCK_00848	gene	309				
+IHAKNPCK_00848	CDS	309				hypothetical protein
+IHAKNPCK_00849	gene	423				
+IHAKNPCK_00849	CDS	423				hypothetical protein
+IHAKNPCK_00850	gene	297				
+IHAKNPCK_00850	CDS	297				hypothetical protein
+IHAKNPCK_00851	gene	312				
+IHAKNPCK_00851	CDS	312				hypothetical protein
+IHAKNPCK_00852	gene	879				
+IHAKNPCK_00852	CDS	879				hypothetical protein
+IHAKNPCK_00853	gene	573				
+IHAKNPCK_00853	CDS	573				hypothetical protein
+IHAKNPCK_00854	gene	1833	TOP6B			
+IHAKNPCK_00854	CDS	1833	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+IHAKNPCK_00855	gene	1098	TOP6A			
+IHAKNPCK_00855	CDS	1098	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+IHAKNPCK_00856	gene	414				
+IHAKNPCK_00856	CDS	414				hypothetical protein
+IHAKNPCK_00857	gene	558	ecdB			
+IHAKNPCK_00857	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+IHAKNPCK_00858	gene	369				
+IHAKNPCK_00858	CDS	369				hypothetical protein
+IHAKNPCK_00859	gene	447				
+IHAKNPCK_00859	CDS	447				hypothetical protein
+IHAKNPCK_00860	gene	285				
+IHAKNPCK_00860	CDS	285				hypothetical protein
+IHAKNPCK_00861	gene	795	mtnP			
+IHAKNPCK_00861	CDS	795	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+IHAKNPCK_00862	gene	513	apt			
+IHAKNPCK_00862	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+IHAKNPCK_00863	gene	2211				
+IHAKNPCK_00863	CDS	2211				hypothetical protein
+IHAKNPCK_00864	gene	2076				
+IHAKNPCK_00864	CDS	2076				hypothetical protein
+IHAKNPCK_00865	gene	480				
+IHAKNPCK_00865	CDS	480				hypothetical protein
+IHAKNPCK_00866	gene	561				
+IHAKNPCK_00866	CDS	561				hypothetical protein
+IHAKNPCK_00867	gene	597	rlmE			
+IHAKNPCK_00867	CDS	597	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+IHAKNPCK_00868	gene	1137	trm1			
+IHAKNPCK_00868	CDS	1137	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+IHAKNPCK_00869	gene	993				
+IHAKNPCK_00869	CDS	993				hypothetical protein
+IHAKNPCK_00870	gene	264				
+IHAKNPCK_00870	CDS	264				hypothetical protein
+IHAKNPCK_00871	gene	621	rnhB			
+IHAKNPCK_00871	CDS	621	rnhB			Ribonuclease HII
+IHAKNPCK_00872	gene	675				
+IHAKNPCK_00872	CDS	675				hypothetical protein
+IHAKNPCK_00873	gene	1272				
+IHAKNPCK_00873	CDS	1272				hypothetical protein
+IHAKNPCK_00874	gene	909	pyrD			
+IHAKNPCK_00874	CDS	909	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IHAKNPCK_00875	gene	813	pyrK			
+IHAKNPCK_00875	CDS	813	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+IHAKNPCK_00876	gene	1719				
+IHAKNPCK_00876	CDS	1719				hypothetical protein
+IHAKNPCK_00877	gene	180				
+IHAKNPCK_00877	CDS	180				hypothetical protein
+IHAKNPCK_00878	gene	477	dps2			
+IHAKNPCK_00878	CDS	477	dps2	1.16.-.-	COG0783	DNA protection during starvation protein 2
+IHAKNPCK_00879	gene	174				
+IHAKNPCK_00879	CDS	174				hypothetical protein
+IHAKNPCK_00880	gene	162				
+IHAKNPCK_00880	CDS	162				hypothetical protein
+IHAKNPCK_00881	gene	372				
+IHAKNPCK_00881	CDS	372				hypothetical protein
+IHAKNPCK_00882	gene	393				
+IHAKNPCK_00882	CDS	393				hypothetical protein
+IHAKNPCK_00883	gene	339				
+IHAKNPCK_00883	CDS	339				hypothetical protein
+IHAKNPCK_00884	gene	237				
+IHAKNPCK_00884	CDS	237				hypothetical protein
+IHAKNPCK_00885	gene	669				
+IHAKNPCK_00885	CDS	669				hypothetical protein
+IHAKNPCK_00886	gene	210				
+IHAKNPCK_00886	CDS	210				hypothetical protein
+IHAKNPCK_00887	gene	249				
+IHAKNPCK_00887	CDS	249				hypothetical protein
+IHAKNPCK_00888	gene	999	recA			
+IHAKNPCK_00888	CDS	999	recA			Protein RecA
+IHAKNPCK_00889	gene	303				
+IHAKNPCK_00889	CDS	303				hypothetical protein
+IHAKNPCK_00890	gene	327				
+IHAKNPCK_00890	CDS	327				hypothetical protein
+IHAKNPCK_00891	gene	561				
+IHAKNPCK_00891	CDS	561				hypothetical protein
+IHAKNPCK_00892	gene	705	rsmA			
+IHAKNPCK_00892	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+IHAKNPCK_00893	gene	534	prmC			
+IHAKNPCK_00893	CDS	534	prmC	2.1.1.297		Release factor glutamine methyltransferase
+IHAKNPCK_00894	gene	900	petE_4			
+IHAKNPCK_00894	CDS	900	petE_4			Plastocyanin
+IHAKNPCK_00895	gene	1029	hicd_1			
+IHAKNPCK_00895	CDS	1029	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+IHAKNPCK_00896	gene	747	cpdA			
+IHAKNPCK_00896	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IHAKNPCK_00897	gene	85				
+IHAKNPCK_00897	tRNA	85				tRNA-Ser(gct)
+IHAKNPCK_00898	gene	1287	ttuB			
+IHAKNPCK_00898	CDS	1287	ttuB			Putative tartrate transporter
+IHAKNPCK_00899	gene	225				
+IHAKNPCK_00899	CDS	225				hypothetical protein
+IHAKNPCK_00900	gene	171				
+IHAKNPCK_00900	CDS	171				hypothetical protein
+IHAKNPCK_00901	gene	822				
+IHAKNPCK_00901	CDS	822				hypothetical protein
+IHAKNPCK_00902	gene	1188				
+IHAKNPCK_00902	CDS	1188				hypothetical protein
+IHAKNPCK_00903	gene	492				
+IHAKNPCK_00903	CDS	492				hypothetical protein
+IHAKNPCK_00904	gene	1287	abaF			
+IHAKNPCK_00904	CDS	1287	abaF			Fosfomycin resistance protein AbaF
+IHAKNPCK_00905	gene	528				
+IHAKNPCK_00905	CDS	528				hypothetical protein
+IHAKNPCK_00906	gene	1425	gloB			
+IHAKNPCK_00906	CDS	1425	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+IHAKNPCK_00907	gene	822				
+IHAKNPCK_00907	CDS	822			COG0730	putative membrane transporter protein
+IHAKNPCK_00908	gene	504				
+IHAKNPCK_00908	CDS	504				hypothetical protein
+IHAKNPCK_00909	gene	1257	yhdG			
+IHAKNPCK_00909	CDS	1257	yhdG		COG0531	putative amino acid permease YhdG
+IHAKNPCK_00910	gene	111				
+IHAKNPCK_00910	CDS	111				hypothetical protein
+IHAKNPCK_00911	gene	390				
+IHAKNPCK_00911	CDS	390				hypothetical protein
+IHAKNPCK_00912	gene	963				
+IHAKNPCK_00912	CDS	963				hypothetical protein
+IHAKNPCK_00913	gene	903	czcD			
+IHAKNPCK_00913	CDS	903	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+IHAKNPCK_00914	gene	1566				
+IHAKNPCK_00914	CDS	1566				hypothetical protein
+IHAKNPCK_00915	gene	825	hcaB			
+IHAKNPCK_00915	CDS	825	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+IHAKNPCK_00916	gene	2505	dbpA_3			
+IHAKNPCK_00916	CDS	2505	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+IHAKNPCK_00917	gene	714	menG			
+IHAKNPCK_00917	CDS	714	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+IHAKNPCK_00918	gene	1134	ycaD			
+IHAKNPCK_00918	CDS	1134	ycaD			putative MFS-type transporter YcaD
+IHAKNPCK_00919	gene	79				
+IHAKNPCK_00919	misc_RNA	79				Fluoride
+IHAKNPCK_00920	gene	1029				
+IHAKNPCK_00920	CDS	1029				hypothetical protein
+IHAKNPCK_00921	gene	585				
+IHAKNPCK_00921	CDS	585				hypothetical protein
+IHAKNPCK_00922	gene	387	crcB			
+IHAKNPCK_00922	CDS	387	crcB			Putative fluoride ion transporter CrcB
+IHAKNPCK_00923	gene	300				
+IHAKNPCK_00923	CDS	300				hypothetical protein
+IHAKNPCK_00924	gene	351				
+IHAKNPCK_00924	CDS	351				hypothetical protein
+IHAKNPCK_00925	gene	1248	gdhA			
+IHAKNPCK_00925	CDS	1248	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+IHAKNPCK_00926	gene	228				
+IHAKNPCK_00926	CDS	228				hypothetical protein
+IHAKNPCK_00927	gene	351	erpA			
+IHAKNPCK_00927	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+IHAKNPCK_00928	gene	762	crt_2			
+IHAKNPCK_00928	CDS	762	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+IHAKNPCK_00929	gene	2124				
+IHAKNPCK_00929	CDS	2124				hypothetical protein
+IHAKNPCK_00930	gene	690	carA_1			
+IHAKNPCK_00930	CDS	690	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+IHAKNPCK_00931	gene	381				
+IHAKNPCK_00931	CDS	381				hypothetical protein
+IHAKNPCK_00932	gene	1146				
+IHAKNPCK_00932	CDS	1146				hypothetical protein
+IHAKNPCK_00933	gene	696				
+IHAKNPCK_00933	CDS	696				hypothetical protein
+IHAKNPCK_00934	gene	618	hldE			
+IHAKNPCK_00934	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+IHAKNPCK_00935	gene	1047				
+IHAKNPCK_00935	CDS	1047				hypothetical protein
+IHAKNPCK_00936	gene	1140	lysK			
+IHAKNPCK_00936	CDS	1140	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+IHAKNPCK_00937	gene	849	lysX_1			
+IHAKNPCK_00937	CDS	849	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IHAKNPCK_00938	gene	165				
+IHAKNPCK_00938	CDS	165				hypothetical protein
+IHAKNPCK_00939	gene	1191	leuA_1			
+IHAKNPCK_00939	CDS	1191	leuA_1	2.3.3.13		2-isopropylmalate synthase
+IHAKNPCK_00940	gene	420				
+IHAKNPCK_00940	CDS	420				hypothetical protein
+IHAKNPCK_00941	gene	1176	lysJ			
+IHAKNPCK_00941	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+IHAKNPCK_00942	gene	801	lysZ			
+IHAKNPCK_00942	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+IHAKNPCK_00943	gene	1053	lysY			
+IHAKNPCK_00943	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+IHAKNPCK_00944	gene	858	lysX_2			
+IHAKNPCK_00944	CDS	858	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IHAKNPCK_00945	gene	168				
+IHAKNPCK_00945	CDS	168				hypothetical protein
+IHAKNPCK_00946	gene	1191	argG			
+IHAKNPCK_00946	CDS	1191	argG	6.3.4.5		Argininosuccinate synthase
+IHAKNPCK_00947	gene	780	nrtD			
+IHAKNPCK_00947	CDS	780	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+IHAKNPCK_00948	gene	789	ssuC			
+IHAKNPCK_00948	CDS	789	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+IHAKNPCK_00949	gene	1053				
+IHAKNPCK_00949	CDS	1053				hypothetical protein
+IHAKNPCK_00950	gene	1053				
+IHAKNPCK_00950	CDS	1053				hypothetical protein
+IHAKNPCK_00951	gene	753				
+IHAKNPCK_00951	CDS	753				hypothetical protein
+IHAKNPCK_00952	gene	1029	metH_1			
+IHAKNPCK_00952	CDS	1029	metH_1	2.1.1.13	COG0646	Methionine synthase
+IHAKNPCK_00953	gene	2505	metH_2			
+IHAKNPCK_00953	CDS	2505	metH_2	2.1.1.13	COG0646	Methionine synthase
+IHAKNPCK_00954	gene	564	nudL			
+IHAKNPCK_00954	CDS	564	nudL	3.6.1.-		putative Nudix hydrolase NudL
+IHAKNPCK_00955	gene	159				
+IHAKNPCK_00955	CDS	159				hypothetical protein
+IHAKNPCK_00956	gene	507				
+IHAKNPCK_00956	CDS	507				hypothetical protein
+IHAKNPCK_00957	gene	957	ftsZ			
+IHAKNPCK_00957	CDS	957	ftsZ			Cell division protein FtsZ
+IHAKNPCK_00958	gene	1266	miaB			
+IHAKNPCK_00958	CDS	1266	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+IHAKNPCK_00959	gene	1401	aspA			
+IHAKNPCK_00959	CDS	1401	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+IHAKNPCK_00960	gene	1338				
+IHAKNPCK_00960	CDS	1338				hypothetical protein
+IHAKNPCK_00961	gene	498				
+IHAKNPCK_00961	CDS	498				hypothetical protein
+IHAKNPCK_00962	gene	933				
+IHAKNPCK_00962	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+IHAKNPCK_00963	gene	267				
+IHAKNPCK_00963	CDS	267				hypothetical protein
+IHAKNPCK_00964	gene	627				
+IHAKNPCK_00964	CDS	627				hypothetical protein
+IHAKNPCK_00965	gene	459				
+IHAKNPCK_00965	CDS	459				hypothetical protein
+IHAKNPCK_00966	gene	501				
+IHAKNPCK_00966	CDS	501				hypothetical protein
+IHAKNPCK_00967	gene	801				
+IHAKNPCK_00967	CDS	801				hypothetical protein
+IHAKNPCK_00968	gene	231				
+IHAKNPCK_00968	CDS	231				hypothetical protein
+IHAKNPCK_00969	gene	261				
+IHAKNPCK_00969	CDS	261				hypothetical protein
+IHAKNPCK_00970	gene	1494	resA_2			
+IHAKNPCK_00970	CDS	1494	resA_2			Thiol-disulfide oxidoreductase ResA
+IHAKNPCK_00971	gene	663				
+IHAKNPCK_00971	CDS	663				hypothetical protein
+IHAKNPCK_00972	gene	258				
+IHAKNPCK_00972	CDS	258				hypothetical protein
+IHAKNPCK_00973	gene	1347	nhaP2			
+IHAKNPCK_00973	CDS	1347	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+IHAKNPCK_00974	gene	291				
+IHAKNPCK_00974	CDS	291				hypothetical protein
+IHAKNPCK_00975	gene	228				
+IHAKNPCK_00975	CDS	228				hypothetical protein
+IHAKNPCK_00976	gene	468				
+IHAKNPCK_00976	CDS	468				hypothetical protein
+IHAKNPCK_00977	gene	951				
+IHAKNPCK_00977	CDS	951				hypothetical protein
+IHAKNPCK_00978	gene	198				
+IHAKNPCK_00978	CDS	198				hypothetical protein
+IHAKNPCK_00979	gene	531				
+IHAKNPCK_00979	CDS	531				hypothetical protein
+IHAKNPCK_00980	gene	1395				
+IHAKNPCK_00980	CDS	1395				hypothetical protein
+IHAKNPCK_00981	gene	1440	glnA_2			
+IHAKNPCK_00981	CDS	1440	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+IHAKNPCK_00982	gene	702				
+IHAKNPCK_00982	CDS	702				hypothetical protein
+IHAKNPCK_00983	gene	1092				
+IHAKNPCK_00983	CDS	1092				hypothetical protein
+IHAKNPCK_00984	gene	1215	truD			
+IHAKNPCK_00984	CDS	1215	truD	5.4.99.27		tRNA pseudouridine synthase D
+IHAKNPCK_00985	gene	1548	vgb_2			
+IHAKNPCK_00985	CDS	1548	vgb_2	4.2.99.-		Virginiamycin B lyase
+IHAKNPCK_00986	gene	546				
+IHAKNPCK_00986	CDS	546				hypothetical protein
+IHAKNPCK_00987	gene	1389				
+IHAKNPCK_00987	CDS	1389				hypothetical protein
+IHAKNPCK_00988	gene	285				
+IHAKNPCK_00988	CDS	285				hypothetical protein
+IHAKNPCK_00989	gene	810	bepA			
+IHAKNPCK_00989	CDS	810	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+IHAKNPCK_00990	gene	1281	apnhaP			
+IHAKNPCK_00990	CDS	1281	apnhaP			Na(+)/H(+) antiporter ApNhaP
+IHAKNPCK_00991	gene	207				
+IHAKNPCK_00991	CDS	207				hypothetical protein
+IHAKNPCK_00992	gene	2487	pepN			
+IHAKNPCK_00992	CDS	2487	pepN	3.4.11.2	COG0308	Aminopeptidase N
+IHAKNPCK_00993	gene	498				
+IHAKNPCK_00993	CDS	498				hypothetical protein
+IHAKNPCK_00994	gene	234				
+IHAKNPCK_00994	CDS	234				hypothetical protein
+IHAKNPCK_00995	gene	219				
+IHAKNPCK_00995	CDS	219				hypothetical protein
+IHAKNPCK_00996	gene	399				
+IHAKNPCK_00996	CDS	399				hypothetical protein
+IHAKNPCK_00997	gene	336				
+IHAKNPCK_00997	CDS	336				hypothetical protein
+IHAKNPCK_00998	gene	456				
+IHAKNPCK_00998	CDS	456				hypothetical protein
+IHAKNPCK_00999	gene	213				
+IHAKNPCK_00999	CDS	213				hypothetical protein
+IHAKNPCK_01000	gene	393				
+IHAKNPCK_01000	CDS	393				hypothetical protein
+IHAKNPCK_01001	gene	477				
+IHAKNPCK_01001	CDS	477				hypothetical protein
+IHAKNPCK_01002	gene	846				
+IHAKNPCK_01002	CDS	846				hypothetical protein
+IHAKNPCK_01003	gene	639				
+IHAKNPCK_01003	CDS	639				hypothetical protein
+IHAKNPCK_01004	gene	219				
+IHAKNPCK_01004	CDS	219				hypothetical protein
+IHAKNPCK_01005	gene	93				
+IHAKNPCK_01005	CDS	93				hypothetical protein
+IHAKNPCK_01006	gene	642				
+IHAKNPCK_01006	CDS	642				hypothetical protein
+IHAKNPCK_01007	gene	1239				
+IHAKNPCK_01007	CDS	1239				hypothetical protein
+IHAKNPCK_01008	gene	732				
+IHAKNPCK_01008	CDS	732				hypothetical protein
+IHAKNPCK_01009	gene	750				
+IHAKNPCK_01009	CDS	750				hypothetical protein
+IHAKNPCK_01010	gene	297				
+IHAKNPCK_01010	CDS	297				hypothetical protein
+IHAKNPCK_01011	gene	447	slyA_1			
+IHAKNPCK_01011	CDS	447	slyA_1			Transcriptional regulator SlyA
+IHAKNPCK_01012	gene	171				
+IHAKNPCK_01012	CDS	171				hypothetical protein
+IHAKNPCK_01013	gene	645				
+IHAKNPCK_01013	CDS	645				hypothetical protein
+IHAKNPCK_01014	gene	108				
+IHAKNPCK_01014	CDS	108				hypothetical protein
+IHAKNPCK_01015	gene	306				
+IHAKNPCK_01015	CDS	306				hypothetical protein
+IHAKNPCK_01016	gene	2169	ftsH_3			
+IHAKNPCK_01016	CDS	2169	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IHAKNPCK_01017	gene	678				
+IHAKNPCK_01017	CDS	678				hypothetical protein
+IHAKNPCK_01018	gene	714				
+IHAKNPCK_01018	CDS	714				hypothetical protein
+IHAKNPCK_01019	gene	495				
+IHAKNPCK_01019	CDS	495				hypothetical protein
+IHAKNPCK_01020	gene	1257	hemL_1			
+IHAKNPCK_01020	CDS	1257	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+IHAKNPCK_01021	gene	1464				
+IHAKNPCK_01021	rRNA	1464				16S ribosomal RNA
+IHAKNPCK_01022	gene	2967				
+IHAKNPCK_01022	rRNA	2967				23S ribosomal RNA
+IHAKNPCK_01023	gene	195				
+IHAKNPCK_01023	CDS	195				hypothetical protein
+IHAKNPCK_01024	gene	804				
+IHAKNPCK_01024	CDS	804				hypothetical protein
+IHAKNPCK_01025	gene	744	yhhW			
+IHAKNPCK_01025	CDS	744	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+IHAKNPCK_01026	gene	633	azoR1			
+IHAKNPCK_01026	CDS	633	azoR1	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase 1
+IHAKNPCK_01027	gene	1725	sasA_3			
+IHAKNPCK_01027	CDS	1725	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+IHAKNPCK_01028	gene	1380				
+IHAKNPCK_01028	CDS	1380				hypothetical protein
+IHAKNPCK_01029	gene	363	saeR			
+IHAKNPCK_01029	CDS	363	saeR			Response regulator SaeR
+IHAKNPCK_01030	gene	399				
+IHAKNPCK_01030	CDS	399				hypothetical protein
+IHAKNPCK_01031	gene	471				
+IHAKNPCK_01031	CDS	471			COG2764	putative protein
+IHAKNPCK_01032	gene	234				
+IHAKNPCK_01032	CDS	234				hypothetical protein
+IHAKNPCK_01033	gene	492				
+IHAKNPCK_01033	CDS	492				hypothetical protein
+IHAKNPCK_01034	gene	600				
+IHAKNPCK_01034	CDS	600				hypothetical protein
+IHAKNPCK_01035	gene	1587				
+IHAKNPCK_01035	CDS	1587				hypothetical protein
+IHAKNPCK_01036	gene	594				
+IHAKNPCK_01036	CDS	594				hypothetical protein
+IHAKNPCK_01037	gene	174				
+IHAKNPCK_01037	CDS	174				hypothetical protein
+IHAKNPCK_01038	gene	294				
+IHAKNPCK_01038	CDS	294				hypothetical protein
+IHAKNPCK_01039	gene	354				
+IHAKNPCK_01039	CDS	354				hypothetical protein
+IHAKNPCK_01040	gene	375				
+IHAKNPCK_01040	CDS	375				hypothetical protein
+IHAKNPCK_01041	gene	204				
+IHAKNPCK_01041	CDS	204				hypothetical protein
+IHAKNPCK_01042	gene	300				
+IHAKNPCK_01042	CDS	300				hypothetical protein
+IHAKNPCK_01043	gene	279				
+IHAKNPCK_01043	CDS	279				hypothetical protein
+IHAKNPCK_01044	gene	327				
+IHAKNPCK_01044	CDS	327				hypothetical protein
+IHAKNPCK_01045	gene	354				
+IHAKNPCK_01045	CDS	354				hypothetical protein
+IHAKNPCK_01046	gene	1344				
+IHAKNPCK_01046	CDS	1344				hypothetical protein
+IHAKNPCK_01047	gene	141				
+IHAKNPCK_01047	CDS	141				hypothetical protein
+IHAKNPCK_01048	gene	267				
+IHAKNPCK_01048	CDS	267				hypothetical protein
+IHAKNPCK_01049	gene	1440	mdtD_1			
+IHAKNPCK_01049	CDS	1440	mdtD_1			Putative multidrug resistance protein MdtD
+IHAKNPCK_01050	gene	786				
+IHAKNPCK_01050	CDS	786				hypothetical protein
+IHAKNPCK_01051	gene	342				
+IHAKNPCK_01051	CDS	342				hypothetical protein
+IHAKNPCK_01052	gene	510				
+IHAKNPCK_01052	CDS	510				hypothetical protein
+IHAKNPCK_01053	gene	1104				
+IHAKNPCK_01053	CDS	1104				hypothetical protein
+IHAKNPCK_01054	gene	1221	nhaP_1			
+IHAKNPCK_01054	CDS	1221	nhaP_1			K(+)/H(+) antiporter NhaP
+IHAKNPCK_01055	gene	366				
+IHAKNPCK_01055	CDS	366				hypothetical protein
+IHAKNPCK_01056	gene	1011				
+IHAKNPCK_01056	CDS	1011				hypothetical protein
+IHAKNPCK_01057	gene	1077				
+IHAKNPCK_01057	CDS	1077				hypothetical protein
+IHAKNPCK_01058	gene	540				
+IHAKNPCK_01058	CDS	540				hypothetical protein
+IHAKNPCK_01059	gene	1887				
+IHAKNPCK_01059	CDS	1887				hypothetical protein
+IHAKNPCK_01060	gene	288				
+IHAKNPCK_01060	CDS	288				hypothetical protein
+IHAKNPCK_01061	gene	522				
+IHAKNPCK_01061	CDS	522				hypothetical protein
+IHAKNPCK_01062	gene	546				
+IHAKNPCK_01062	CDS	546				hypothetical protein
+IHAKNPCK_01063	gene	231				
+IHAKNPCK_01063	CDS	231				hypothetical protein
+IHAKNPCK_01064	gene	357				
+IHAKNPCK_01064	CDS	357				hypothetical protein
+IHAKNPCK_01065	gene	357				
+IHAKNPCK_01065	CDS	357				hypothetical protein
+IHAKNPCK_01066	gene	537				
+IHAKNPCK_01066	CDS	537				hypothetical protein
+IHAKNPCK_01067	gene	234				
+IHAKNPCK_01067	CDS	234				hypothetical protein
+IHAKNPCK_01068	gene	978				
+IHAKNPCK_01068	CDS	978				hypothetical protein
+IHAKNPCK_01069	gene	387				
+IHAKNPCK_01069	CDS	387				hypothetical protein
+IHAKNPCK_01070	gene	396				
+IHAKNPCK_01070	CDS	396				hypothetical protein
+IHAKNPCK_01071	gene	357				
+IHAKNPCK_01071	CDS	357				hypothetical protein
+IHAKNPCK_01072	gene	399				
+IHAKNPCK_01072	CDS	399				hypothetical protein
+IHAKNPCK_01073	gene	264				
+IHAKNPCK_01073	CDS	264				hypothetical protein
+IHAKNPCK_01074	gene	1527				
+IHAKNPCK_01074	CDS	1527				hypothetical protein
+IHAKNPCK_01075	gene	2007	rcsC			
+IHAKNPCK_01075	CDS	2007	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+IHAKNPCK_01076	gene	1071				
+IHAKNPCK_01076	CDS	1071		1.1.1.1		Alcohol dehydrogenase
+IHAKNPCK_01077	gene	498				
+IHAKNPCK_01077	CDS	498				hypothetical protein
+IHAKNPCK_01078	gene	156				
+IHAKNPCK_01078	CDS	156				hypothetical protein
+IHAKNPCK_01079	gene	2058				
+IHAKNPCK_01079	CDS	2058				hypothetical protein
+IHAKNPCK_01080	gene	336				
+IHAKNPCK_01080	CDS	336				hypothetical protein
+IHAKNPCK_01081	gene	1380	ndbB			
+IHAKNPCK_01081	CDS	1380	ndbB	1.6.5.12		Demethylphylloquinone reductase NdbB
+IHAKNPCK_01082	gene	198				
+IHAKNPCK_01082	CDS	198				hypothetical protein
+IHAKNPCK_01083	gene	585				
+IHAKNPCK_01083	CDS	585				hypothetical protein
+IHAKNPCK_01084	gene	300				
+IHAKNPCK_01084	CDS	300				hypothetical protein
+IHAKNPCK_01085	gene	1173				
+IHAKNPCK_01085	CDS	1173		1.1.1.38		NAD-dependent malic enzyme
+IHAKNPCK_01086	gene	123				
+IHAKNPCK_01086	CDS	123				hypothetical protein
+IHAKNPCK_01087	gene	318				
+IHAKNPCK_01087	CDS	318				hypothetical protein
+IHAKNPCK_01088	gene	300				
+IHAKNPCK_01088	CDS	300				hypothetical protein
+IHAKNPCK_01089	gene	303				
+IHAKNPCK_01089	CDS	303				hypothetical protein
+IHAKNPCK_01090	gene	549				
+IHAKNPCK_01090	CDS	549				hypothetical protein
+IHAKNPCK_01091	gene	717				
+IHAKNPCK_01091	CDS	717				hypothetical protein
+IHAKNPCK_01092	gene	375				
+IHAKNPCK_01092	CDS	375				hypothetical protein
+IHAKNPCK_01093	gene	639				
+IHAKNPCK_01093	CDS	639				hypothetical protein
+IHAKNPCK_01094	gene	279				
+IHAKNPCK_01094	CDS	279				hypothetical protein
+IHAKNPCK_01095	gene	480				
+IHAKNPCK_01095	CDS	480				hypothetical protein
+IHAKNPCK_01096	gene	1206				
+IHAKNPCK_01096	CDS	1206				hypothetical protein
+IHAKNPCK_01097	gene	570				
+IHAKNPCK_01097	CDS	570				hypothetical protein
+IHAKNPCK_01098	gene	351				
+IHAKNPCK_01098	CDS	351				hypothetical protein
+IHAKNPCK_01099	gene	1260				
+IHAKNPCK_01099	CDS	1260				hypothetical protein
+IHAKNPCK_01100	gene	1668				
+IHAKNPCK_01100	CDS	1668				hypothetical protein
+IHAKNPCK_01101	gene	630				
+IHAKNPCK_01101	CDS	630				hypothetical protein
+IHAKNPCK_01102	gene	228				
+IHAKNPCK_01102	CDS	228				hypothetical protein
+IHAKNPCK_01103	gene	783				
+IHAKNPCK_01103	CDS	783				hypothetical protein
+IHAKNPCK_01104	gene	1143				
+IHAKNPCK_01104	CDS	1143				hypothetical protein
+IHAKNPCK_01105	gene	525				
+IHAKNPCK_01105	CDS	525				hypothetical protein
+IHAKNPCK_01106	gene	1278				
+IHAKNPCK_01106	CDS	1278				hypothetical protein
+IHAKNPCK_01107	gene	903				
+IHAKNPCK_01107	CDS	903				hypothetical protein
+IHAKNPCK_01108	gene	507				
+IHAKNPCK_01108	CDS	507				hypothetical protein
+IHAKNPCK_01109	gene	246				
+IHAKNPCK_01109	CDS	246				hypothetical protein
+IHAKNPCK_01110	gene	126				
+IHAKNPCK_01110	CDS	126				hypothetical protein
+IHAKNPCK_01111	gene	1080				
+IHAKNPCK_01111	CDS	1080				hypothetical protein
+IHAKNPCK_01112	gene	1377				
+IHAKNPCK_01112	CDS	1377				hypothetical protein
+IHAKNPCK_01113	gene	195				
+IHAKNPCK_01113	CDS	195				hypothetical protein
+IHAKNPCK_01114	gene	360				
+IHAKNPCK_01114	CDS	360				hypothetical protein
+IHAKNPCK_01115	gene	795				
+IHAKNPCK_01115	CDS	795				hypothetical protein
+IHAKNPCK_01116	gene	801				
+IHAKNPCK_01116	CDS	801			COG0596	putative protein
+IHAKNPCK_01117	gene	429				
+IHAKNPCK_01117	CDS	429				hypothetical protein
+IHAKNPCK_01118	gene	576				
+IHAKNPCK_01118	CDS	576				hypothetical protein
+IHAKNPCK_01119	gene	1065	phaC			
+IHAKNPCK_01119	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+IHAKNPCK_01120	gene	414				
+IHAKNPCK_01120	CDS	414				hypothetical protein
+IHAKNPCK_01121	gene	405				
+IHAKNPCK_01121	CDS	405				hypothetical protein
+IHAKNPCK_01122	gene	1389	gabD1			
+IHAKNPCK_01122	CDS	1389	gabD1	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+IHAKNPCK_01123	gene	168				
+IHAKNPCK_01123	CDS	168				hypothetical protein
+IHAKNPCK_01124	gene	627				
+IHAKNPCK_01124	CDS	627				hypothetical protein
+IHAKNPCK_01125	gene	603	rutE			
+IHAKNPCK_01125	CDS	603	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+IHAKNPCK_01126	gene	402				
+IHAKNPCK_01126	CDS	402				hypothetical protein
+IHAKNPCK_01127	gene	1257	nrgA_1			
+IHAKNPCK_01127	CDS	1257	nrgA_1			Ammonium transporter
+IHAKNPCK_01128	gene	663				
+IHAKNPCK_01128	CDS	663				hypothetical protein
+IHAKNPCK_01129	gene	183				
+IHAKNPCK_01129	CDS	183				hypothetical protein
+IHAKNPCK_01130	gene	165				
+IHAKNPCK_01130	CDS	165				hypothetical protein
+IHAKNPCK_01131	gene	267				
+IHAKNPCK_01131	CDS	267				hypothetical protein
+IHAKNPCK_01132	gene	279				
+IHAKNPCK_01132	CDS	279				hypothetical protein
+IHAKNPCK_01133	gene	696				
+IHAKNPCK_01133	CDS	696				hypothetical protein
+IHAKNPCK_01134	gene	774				
+IHAKNPCK_01134	CDS	774			COG2968	26 kDa periplasmic immunogenic protein
+IHAKNPCK_01135	gene	174				
+IHAKNPCK_01135	CDS	174				hypothetical protein
+IHAKNPCK_01136	gene	231				
+IHAKNPCK_01136	CDS	231				hypothetical protein
+IHAKNPCK_01137	gene	951	moaA_2			
+IHAKNPCK_01137	CDS	951	moaA_2			GTP 3',8-cyclase
+IHAKNPCK_01138	gene	249				
+IHAKNPCK_01138	CDS	249				hypothetical protein
+IHAKNPCK_01139	gene	1368				
+IHAKNPCK_01139	CDS	1368				hypothetical protein
+IHAKNPCK_01140	gene	498				
+IHAKNPCK_01140	CDS	498				hypothetical protein
+IHAKNPCK_01141	gene	585				
+IHAKNPCK_01141	CDS	585				hypothetical protein
+IHAKNPCK_01142	gene	486				
+IHAKNPCK_01142	CDS	486				hypothetical protein
+IHAKNPCK_01143	gene	2916	vgb_3			
+IHAKNPCK_01143	CDS	2916	vgb_3	4.2.99.-		Virginiamycin B lyase
+IHAKNPCK_01144	gene	930				
+IHAKNPCK_01144	CDS	930				hypothetical protein
+IHAKNPCK_01145	gene	708				
+IHAKNPCK_01145	CDS	708				hypothetical protein
+IHAKNPCK_01146	gene	471	nhaX_1			
+IHAKNPCK_01146	CDS	471	nhaX_1		COG0589	Stress response protein NhaX
+IHAKNPCK_01147	gene	393				
+IHAKNPCK_01147	CDS	393				hypothetical protein
+IHAKNPCK_01148	gene	420				
+IHAKNPCK_01148	CDS	420				hypothetical protein
+IHAKNPCK_01149	gene	795				
+IHAKNPCK_01149	CDS	795				hypothetical protein
+IHAKNPCK_01150	gene	738				
+IHAKNPCK_01150	CDS	738				hypothetical protein
+IHAKNPCK_01151	gene	279				
+IHAKNPCK_01151	CDS	279				hypothetical protein
+IHAKNPCK_01152	gene	792				
+IHAKNPCK_01152	CDS	792				hypothetical protein
+IHAKNPCK_01153	gene	663	prcA_1			
+IHAKNPCK_01153	CDS	663	prcA_1			Proteasome subunit alpha
+IHAKNPCK_01154	gene	597	prcB_2			
+IHAKNPCK_01154	CDS	597	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+IHAKNPCK_01155	gene	207				
+IHAKNPCK_01155	CDS	207				hypothetical protein
+IHAKNPCK_01156	gene	837				
+IHAKNPCK_01156	CDS	837				hypothetical protein
+IHAKNPCK_01157	gene	363				
+IHAKNPCK_01157	CDS	363				hypothetical protein
+IHAKNPCK_01158	gene	192				
+IHAKNPCK_01158	CDS	192				hypothetical protein
+IHAKNPCK_01159	gene	252				
+IHAKNPCK_01159	CDS	252				hypothetical protein
+IHAKNPCK_01160	gene	204				
+IHAKNPCK_01160	CDS	204				hypothetical protein
+IHAKNPCK_01161	gene	948				
+IHAKNPCK_01161	CDS	948				hypothetical protein
+IHAKNPCK_01162	gene	624	ppaX			
+IHAKNPCK_01162	CDS	624	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+IHAKNPCK_01163	gene	507				
+IHAKNPCK_01163	CDS	507				hypothetical protein
+IHAKNPCK_01164	gene	546				
+IHAKNPCK_01164	CDS	546				hypothetical protein
+IHAKNPCK_01165	gene	732				
+IHAKNPCK_01165	CDS	732				hypothetical protein
+IHAKNPCK_01166	gene	474	slyA_2			
+IHAKNPCK_01166	CDS	474	slyA_2			Transcriptional regulator SlyA
+IHAKNPCK_01167	gene	1221				
+IHAKNPCK_01167	CDS	1221				hypothetical protein
+IHAKNPCK_01168	gene	453	msrA			
+IHAKNPCK_01168	CDS	453	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+IHAKNPCK_01169	gene	525				
+IHAKNPCK_01169	CDS	525				hypothetical protein
+IHAKNPCK_01170	gene	1428	vgb_4			
+IHAKNPCK_01170	CDS	1428	vgb_4	4.2.99.-		Virginiamycin B lyase
+IHAKNPCK_01171	gene	351				
+IHAKNPCK_01171	CDS	351				hypothetical protein
+IHAKNPCK_01172	gene	234				
+IHAKNPCK_01172	CDS	234				hypothetical protein
+IHAKNPCK_01173	gene	561				
+IHAKNPCK_01173	CDS	561				hypothetical protein
+IHAKNPCK_01174	gene	1494	mctP			
+IHAKNPCK_01174	CDS	1494	mctP			Monocarboxylate transport permease protein
+IHAKNPCK_01175	gene	447	ligD			
+IHAKNPCK_01175	CDS	447	ligD		COG1793	Multifunctional non-homologous end joining DNA repair protein LigD
+IHAKNPCK_01176	gene	1509				
+IHAKNPCK_01176	CDS	1509				hypothetical protein
+IHAKNPCK_01177	gene	393				
+IHAKNPCK_01177	CDS	393				hypothetical protein
+IHAKNPCK_01178	gene	1425				
+IHAKNPCK_01178	CDS	1425				hypothetical protein
+IHAKNPCK_01179	gene	402				
+IHAKNPCK_01179	CDS	402				hypothetical protein
+IHAKNPCK_01180	gene	1098	mqnE			
+IHAKNPCK_01180	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+IHAKNPCK_01181	gene	438				
+IHAKNPCK_01181	CDS	438				hypothetical protein
+IHAKNPCK_01182	gene	2439	copA			
+IHAKNPCK_01182	CDS	2439	copA	7.2.2.8		Copper-exporting P-type ATPase
+IHAKNPCK_01183	gene	279				
+IHAKNPCK_01183	CDS	279				hypothetical protein
+IHAKNPCK_01184	gene	822	mqnD			
+IHAKNPCK_01184	CDS	822	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+IHAKNPCK_01185	gene	2193	fusA			
+IHAKNPCK_01185	CDS	2193	fusA		COG0480	Elongation factor G
+IHAKNPCK_01186	gene	405				
+IHAKNPCK_01186	CDS	405				hypothetical protein
+IHAKNPCK_01187	gene	219				
+IHAKNPCK_01187	CDS	219				hypothetical protein
+IHAKNPCK_01188	gene	414				
+IHAKNPCK_01188	CDS	414				hypothetical protein
+IHAKNPCK_01189	gene	216				
+IHAKNPCK_01189	CDS	216				hypothetical protein
+IHAKNPCK_01190	gene	939				
+IHAKNPCK_01190	CDS	939				hypothetical protein
+IHAKNPCK_01191	gene	321				
+IHAKNPCK_01191	CDS	321				hypothetical protein
+IHAKNPCK_01192	gene	165				
+IHAKNPCK_01192	CDS	165				hypothetical protein
+IHAKNPCK_01193	gene	291				
+IHAKNPCK_01193	CDS	291				hypothetical protein
+IHAKNPCK_01194	gene	249				
+IHAKNPCK_01194	CDS	249				hypothetical protein
+IHAKNPCK_01195	gene	1077	albA			
+IHAKNPCK_01195	CDS	1077	albA	1.21.98.-	COG0535	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+IHAKNPCK_01196	gene	285				
+IHAKNPCK_01196	CDS	285				hypothetical protein
+IHAKNPCK_01197	gene	132				
+IHAKNPCK_01197	CDS	132				hypothetical protein
+IHAKNPCK_01198	gene	417				
+IHAKNPCK_01198	CDS	417				hypothetical protein
+IHAKNPCK_01199	gene	270				
+IHAKNPCK_01199	CDS	270				hypothetical protein
+IHAKNPCK_01200	gene	186				
+IHAKNPCK_01200	CDS	186				hypothetical protein
+IHAKNPCK_01201	gene	222				
+IHAKNPCK_01201	CDS	222				hypothetical protein
+IHAKNPCK_01202	gene	141				
+IHAKNPCK_01202	CDS	141				hypothetical protein
+IHAKNPCK_01203	gene	150				
+IHAKNPCK_01203	CDS	150				hypothetical protein
+IHAKNPCK_01204	gene	225				
+IHAKNPCK_01204	CDS	225				hypothetical protein
+IHAKNPCK_01205	gene	210				
+IHAKNPCK_01205	CDS	210				hypothetical protein
+IHAKNPCK_01206	gene	129				
+IHAKNPCK_01206	CDS	129				hypothetical protein
+IHAKNPCK_01207	gene	1746				
+IHAKNPCK_01207	CDS	1746				hypothetical protein
+IHAKNPCK_01208	gene	165				
+IHAKNPCK_01208	CDS	165				hypothetical protein
+IHAKNPCK_01209	gene	264				
+IHAKNPCK_01209	CDS	264				hypothetical protein
+IHAKNPCK_01210	gene	171				
+IHAKNPCK_01210	CDS	171				hypothetical protein
+IHAKNPCK_01211	gene	1719				
+IHAKNPCK_01211	CDS	1719				hypothetical protein
+IHAKNPCK_01212	gene	1044				
+IHAKNPCK_01212	CDS	1044				hypothetical protein
+IHAKNPCK_01213	gene	282				
+IHAKNPCK_01213	CDS	282				hypothetical protein
+IHAKNPCK_01214	gene	624	dedA			
+IHAKNPCK_01214	CDS	624	dedA		COG0586	Protein DedA
+IHAKNPCK_01215	gene	168				
+IHAKNPCK_01215	CDS	168				hypothetical protein
+IHAKNPCK_01216	gene	849	eryG			
+IHAKNPCK_01216	CDS	849	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+IHAKNPCK_01217	gene	267				
+IHAKNPCK_01217	CDS	267				hypothetical protein
+IHAKNPCK_01218	gene	822				
+IHAKNPCK_01218	CDS	822				hypothetical protein
+IHAKNPCK_01219	gene	453				
+IHAKNPCK_01219	CDS	453				hypothetical protein
+IHAKNPCK_01220	gene	1092				
+IHAKNPCK_01220	CDS	1092				hypothetical protein
+IHAKNPCK_01221	gene	177				
+IHAKNPCK_01221	CDS	177				hypothetical protein
+IHAKNPCK_01222	gene	798	tatC			
+IHAKNPCK_01222	CDS	798	tatC		COG0805	Sec-independent protein translocase protein TatC
+IHAKNPCK_01223	gene	459				
+IHAKNPCK_01223	CDS	459				hypothetical protein
+IHAKNPCK_01224	gene	1449				
+IHAKNPCK_01224	CDS	1449				hypothetical protein
+IHAKNPCK_01225	gene	369				
+IHAKNPCK_01225	CDS	369				hypothetical protein
+IHAKNPCK_01226	gene	924				
+IHAKNPCK_01226	CDS	924				hypothetical protein
+IHAKNPCK_01227	gene	393				
+IHAKNPCK_01227	CDS	393				hypothetical protein
+IHAKNPCK_01228	gene	138				
+IHAKNPCK_01228	CDS	138				hypothetical protein
+IHAKNPCK_01229	gene	543				
+IHAKNPCK_01229	CDS	543				hypothetical protein
+IHAKNPCK_01230	gene	489				
+IHAKNPCK_01230	CDS	489				hypothetical protein
+IHAKNPCK_01231	gene	2076	smc_2			
+IHAKNPCK_01231	CDS	2076	smc_2			Chromosome partition protein Smc
+IHAKNPCK_01232	gene	1155				
+IHAKNPCK_01232	CDS	1155				hypothetical protein
+IHAKNPCK_01233	gene	1521				
+IHAKNPCK_01233	CDS	1521				hypothetical protein
+IHAKNPCK_01234	gene	840				
+IHAKNPCK_01234	CDS	840				hypothetical protein
+IHAKNPCK_01235	gene	1572	rocA1			
+IHAKNPCK_01235	CDS	1572	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+IHAKNPCK_01236	gene	897	putB			
+IHAKNPCK_01236	CDS	897	putB	1.5.5.2	COG0506	Proline dehydrogenase 2
+IHAKNPCK_01237	gene	819	nadX			
+IHAKNPCK_01237	CDS	819	nadX	1.4.1.21		L-aspartate dehydrogenase
+IHAKNPCK_01238	gene	939	nadA			
+IHAKNPCK_01238	CDS	939	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+IHAKNPCK_01239	gene	825	nadC			
+IHAKNPCK_01239	CDS	825	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+IHAKNPCK_01240	gene	189				
+IHAKNPCK_01240	CDS	189				hypothetical protein
+IHAKNPCK_01241	gene	636	rnr			
+IHAKNPCK_01241	CDS	636	rnr	3.1.13.1		Ribonuclease R
+IHAKNPCK_01242	gene	1089	apbC			
+IHAKNPCK_01242	CDS	1089	apbC		COG0489	Iron-sulfur cluster carrier protein
+IHAKNPCK_01243	gene	501				
+IHAKNPCK_01243	CDS	501				hypothetical protein
+IHAKNPCK_01244	gene	363				
+IHAKNPCK_01244	CDS	363				hypothetical protein
+IHAKNPCK_01245	gene	183				
+IHAKNPCK_01245	CDS	183				hypothetical protein
+IHAKNPCK_01246	gene	258				
+IHAKNPCK_01246	CDS	258				hypothetical protein
+IHAKNPCK_01247	gene	384				
+IHAKNPCK_01247	CDS	384				hypothetical protein
+IHAKNPCK_01248	gene	408				
+IHAKNPCK_01248	CDS	408				hypothetical protein
+IHAKNPCK_01249	gene	1095	petE_5			
+IHAKNPCK_01249	CDS	1095	petE_5			Plastocyanin
+IHAKNPCK_01250	gene	882	ctaB_2			
+IHAKNPCK_01250	CDS	882	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+IHAKNPCK_01251	gene	315				
+IHAKNPCK_01251	CDS	315				hypothetical protein
+IHAKNPCK_01252	gene	2142	ftsH_4			
+IHAKNPCK_01252	CDS	2142	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IHAKNPCK_01253	gene	282				
+IHAKNPCK_01253	CDS	282				hypothetical protein
+IHAKNPCK_01254	gene	1137				
+IHAKNPCK_01254	CDS	1137				hypothetical protein
+IHAKNPCK_01255	gene	834	COQ5_3			
+IHAKNPCK_01255	CDS	834	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IHAKNPCK_01256	gene	543				
+IHAKNPCK_01256	CDS	543				hypothetical protein
+IHAKNPCK_01257	gene	1554				
+IHAKNPCK_01257	CDS	1554				hypothetical protein
+IHAKNPCK_01258	gene	666				
+IHAKNPCK_01258	CDS	666				hypothetical protein
+IHAKNPCK_01259	gene	792				
+IHAKNPCK_01259	CDS	792				hypothetical protein
+IHAKNPCK_01260	gene	1185				
+IHAKNPCK_01260	CDS	1185				hypothetical protein
+IHAKNPCK_01261	gene	375				
+IHAKNPCK_01261	CDS	375				hypothetical protein
+IHAKNPCK_01262	gene	258				
+IHAKNPCK_01262	CDS	258				hypothetical protein
+IHAKNPCK_01263	gene	285				
+IHAKNPCK_01263	CDS	285				hypothetical protein
+IHAKNPCK_01264	gene	369				
+IHAKNPCK_01264	CDS	369				hypothetical protein
+IHAKNPCK_01265	gene	801				
+IHAKNPCK_01265	CDS	801				hypothetical protein
+IHAKNPCK_01266	gene	858				
+IHAKNPCK_01266	CDS	858				hypothetical protein
+IHAKNPCK_01267	gene	711				
+IHAKNPCK_01267	CDS	711				hypothetical protein
+IHAKNPCK_01268	gene	921	tuf_2			
+IHAKNPCK_01268	CDS	921	tuf_2			Elongation factor Tu
+IHAKNPCK_01269	gene	588				
+IHAKNPCK_01269	CDS	588				hypothetical protein
+IHAKNPCK_01270	gene	798				
+IHAKNPCK_01270	CDS	798				hypothetical protein
+IHAKNPCK_01271	gene	666				
+IHAKNPCK_01271	CDS	666				hypothetical protein
+IHAKNPCK_01272	gene	267				
+IHAKNPCK_01272	CDS	267				hypothetical protein
+IHAKNPCK_01273	gene	126				
+IHAKNPCK_01273	CDS	126				hypothetical protein
+IHAKNPCK_01274	gene	561				
+IHAKNPCK_01274	CDS	561				hypothetical protein
+IHAKNPCK_01275	gene	384				
+IHAKNPCK_01275	CDS	384				hypothetical protein
+IHAKNPCK_01276	gene	1161				
+IHAKNPCK_01276	CDS	1161				hypothetical protein
+IHAKNPCK_01277	gene	945				
+IHAKNPCK_01277	CDS	945				hypothetical protein
+IHAKNPCK_01278	gene	483				
+IHAKNPCK_01278	CDS	483				hypothetical protein
+IHAKNPCK_01279	gene	1095	dinB1			
+IHAKNPCK_01279	CDS	1095	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+IHAKNPCK_01280	gene	330				
+IHAKNPCK_01280	CDS	330				hypothetical protein
+IHAKNPCK_01281	gene	288				
+IHAKNPCK_01281	CDS	288				hypothetical protein
+IHAKNPCK_01282	gene	237				
+IHAKNPCK_01282	CDS	237				hypothetical protein
+IHAKNPCK_01283	gene	249				
+IHAKNPCK_01283	CDS	249				hypothetical protein
+IHAKNPCK_01284	gene	717				
+IHAKNPCK_01284	CDS	717				hypothetical protein
+IHAKNPCK_01285	gene	246				
+IHAKNPCK_01285	CDS	246				hypothetical protein
+IHAKNPCK_01286	gene	1161	cysS_1			
+IHAKNPCK_01286	CDS	1161	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IHAKNPCK_01287	gene	702				
+IHAKNPCK_01287	CDS	702				hypothetical protein
+IHAKNPCK_01288	gene	939				
+IHAKNPCK_01288	CDS	939		2.5.-.-		Deoxyhypusine synthase-like protein
+IHAKNPCK_01289	gene	1068	ino1_1			
+IHAKNPCK_01289	CDS	1068	ino1_1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+IHAKNPCK_01290	gene	3525	smc_3			
+IHAKNPCK_01290	CDS	3525	smc_3		COG1196	Chromosome partition protein Smc
+IHAKNPCK_01291	gene	960	oppF			
+IHAKNPCK_01291	CDS	960	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+IHAKNPCK_01292	gene	942				
+IHAKNPCK_01292	CDS	942				hypothetical protein
+IHAKNPCK_01293	gene	927	oppD			
+IHAKNPCK_01293	CDS	927	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+IHAKNPCK_01294	gene	480				
+IHAKNPCK_01294	CDS	480				hypothetical protein
+IHAKNPCK_01295	gene	1287	aspS2_1			
+IHAKNPCK_01295	CDS	1287	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+IHAKNPCK_01296	gene	261				
+IHAKNPCK_01296	CDS	261				hypothetical protein
+IHAKNPCK_01297	gene	1017	hicd_2			
+IHAKNPCK_01297	CDS	1017	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+IHAKNPCK_01298	gene	1518	leuA_2			
+IHAKNPCK_01298	CDS	1518	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+IHAKNPCK_01299	gene	492	ilvH			
+IHAKNPCK_01299	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+IHAKNPCK_01300	gene	1689	ilvB			
+IHAKNPCK_01300	CDS	1689	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+IHAKNPCK_01301	gene	999				
+IHAKNPCK_01301	CDS	999				hypothetical protein
+IHAKNPCK_01302	gene	450				
+IHAKNPCK_01302	CDS	450				hypothetical protein
+IHAKNPCK_01303	gene	825	lsrF			
+IHAKNPCK_01303	CDS	825	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+IHAKNPCK_01304	gene	1044	gutB			
+IHAKNPCK_01304	CDS	1044	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+IHAKNPCK_01305	gene	531	ppa			
+IHAKNPCK_01305	CDS	531	ppa	3.6.1.1		Inorganic pyrophosphatase
+IHAKNPCK_01306	gene	459	bcp_2			
+IHAKNPCK_01306	CDS	459	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IHAKNPCK_01307	gene	552	pdaD			
+IHAKNPCK_01307	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+IHAKNPCK_01308	gene	1182				
+IHAKNPCK_01308	CDS	1182				hypothetical protein
+IHAKNPCK_01309	gene	1773	pepF1			
+IHAKNPCK_01309	CDS	1773	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+IHAKNPCK_01310	gene	1065				
+IHAKNPCK_01310	CDS	1065		2.5.-.-		Deoxyhypusine synthase-like protein
+IHAKNPCK_01311	gene	585				
+IHAKNPCK_01311	CDS	585				hypothetical protein
+IHAKNPCK_01312	gene	1425				
+IHAKNPCK_01312	CDS	1425				hypothetical protein
+IHAKNPCK_01313	gene	573	pgsA2			
+IHAKNPCK_01313	CDS	573	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+IHAKNPCK_01314	gene	288				
+IHAKNPCK_01314	CDS	288				hypothetical protein
+IHAKNPCK_01315	gene	930				
+IHAKNPCK_01315	CDS	930				hypothetical protein
+IHAKNPCK_01316	gene	990	nadK_2			
+IHAKNPCK_01316	CDS	990	nadK_2	2.7.1.23		NAD kinase
+IHAKNPCK_01317	gene	1611	pyrG			
+IHAKNPCK_01317	CDS	1611	pyrG	6.3.4.2		CTP synthase
+IHAKNPCK_01318	gene	807	trpA			
+IHAKNPCK_01318	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+IHAKNPCK_01319	gene	1209	trpB			
+IHAKNPCK_01319	CDS	1209	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+IHAKNPCK_01320	gene	774	trpC			
+IHAKNPCK_01320	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+IHAKNPCK_01321	gene	1041	trpD			
+IHAKNPCK_01321	CDS	1041	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+IHAKNPCK_01322	gene	588	trpG			
+IHAKNPCK_01322	CDS	588	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+IHAKNPCK_01323	gene	1356	pabB			
+IHAKNPCK_01323	CDS	1356	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+IHAKNPCK_01324	gene	1677	ilvD			
+IHAKNPCK_01324	CDS	1677	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+IHAKNPCK_01325	gene	2124				
+IHAKNPCK_01325	CDS	2124				hypothetical protein
+IHAKNPCK_01326	gene	1230				
+IHAKNPCK_01326	CDS	1230				hypothetical protein
+IHAKNPCK_01327	gene	603				
+IHAKNPCK_01327	CDS	603				hypothetical protein
+IHAKNPCK_01328	gene	414	hit_2			
+IHAKNPCK_01328	CDS	414	hit_2		COG0537	Protein hit
+IHAKNPCK_01329	gene	321	trxA_2			
+IHAKNPCK_01329	CDS	321	trxA_2		COG0526	Thioredoxin
+IHAKNPCK_01330	gene	1275				
+IHAKNPCK_01330	CDS	1275				hypothetical protein
+IHAKNPCK_01331	gene	648				
+IHAKNPCK_01331	CDS	648				hypothetical protein
+IHAKNPCK_01332	gene	330				
+IHAKNPCK_01332	CDS	330				hypothetical protein
+IHAKNPCK_01333	gene	828	zupT			
+IHAKNPCK_01333	CDS	828	zupT			Zinc transporter ZupT
+IHAKNPCK_01334	gene	1026				
+IHAKNPCK_01334	CDS	1026				hypothetical protein
+IHAKNPCK_01335	gene	216				
+IHAKNPCK_01335	CDS	216				hypothetical protein
+IHAKNPCK_01336	gene	1083	rlmN			
+IHAKNPCK_01336	CDS	1083	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+IHAKNPCK_01337	gene	828				
+IHAKNPCK_01337	CDS	828				hypothetical protein
+IHAKNPCK_01338	gene	546				
+IHAKNPCK_01338	CDS	546				hypothetical protein
+IHAKNPCK_01339	gene	1356	aspS2_2			
+IHAKNPCK_01339	CDS	1356	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+IHAKNPCK_01340	gene	267				
+IHAKNPCK_01340	CDS	267				hypothetical protein
+IHAKNPCK_01341	gene	1452	gatA			
+IHAKNPCK_01341	CDS	1452	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IHAKNPCK_01342	gene	1398	gatB			
+IHAKNPCK_01342	CDS	1398	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IHAKNPCK_01343	gene	477				
+IHAKNPCK_01343	CDS	477				hypothetical protein
+IHAKNPCK_01344	gene	1263	nrgA_2			
+IHAKNPCK_01344	CDS	1263	nrgA_2			Ammonium transporter
+IHAKNPCK_01345	gene	330				
+IHAKNPCK_01345	CDS	330				hypothetical protein
+IHAKNPCK_01346	gene	330	glnB_2			
+IHAKNPCK_01346	CDS	330	glnB_2		COG0347	Nitrogen regulatory protein P-II
+IHAKNPCK_01347	gene	207				
+IHAKNPCK_01347	CDS	207				hypothetical protein
+IHAKNPCK_01348	gene	270				
+IHAKNPCK_01348	CDS	270				hypothetical protein
+IHAKNPCK_01349	gene	444				
+IHAKNPCK_01349	CDS	444				hypothetical protein
+IHAKNPCK_01350	gene	393				
+IHAKNPCK_01350	CDS	393				hypothetical protein
+IHAKNPCK_01351	gene	720				
+IHAKNPCK_01351	CDS	720				hypothetical protein
+IHAKNPCK_01352	gene	1638	groL_3			
+IHAKNPCK_01352	CDS	1638	groL_3		COG0459	60 kDa chaperonin
+IHAKNPCK_01353	gene	909	htpX			
+IHAKNPCK_01353	CDS	909	htpX	3.4.24.-		Protease HtpX
+IHAKNPCK_01354	gene	1170				
+IHAKNPCK_01354	CDS	1170				hypothetical protein
+IHAKNPCK_01355	gene	525				
+IHAKNPCK_01355	CDS	525				hypothetical protein
+IHAKNPCK_01356	gene	357				
+IHAKNPCK_01356	CDS	357				hypothetical protein
+IHAKNPCK_01357	gene	768	gdhI			
+IHAKNPCK_01357	CDS	768	gdhI	1.1.1.47	COG1028	Glucose 1-dehydrogenase 1
+IHAKNPCK_01358	gene	894				
+IHAKNPCK_01358	CDS	894				hypothetical protein
+IHAKNPCK_01359	gene	390				
+IHAKNPCK_01359	CDS	390				hypothetical protein
+IHAKNPCK_01360	gene	645				
+IHAKNPCK_01360	CDS	645			COG1926	Putative phosphoribosyl transferase
+IHAKNPCK_01361	gene	1854	cadA			
+IHAKNPCK_01361	CDS	1854	cadA	3.6.3.3		putative cadmium-transporting ATPase
+IHAKNPCK_01362	gene	1230				
+IHAKNPCK_01362	CDS	1230				hypothetical protein
+IHAKNPCK_01363	gene	348				
+IHAKNPCK_01363	CDS	348				hypothetical protein
+IHAKNPCK_01364	gene	531				
+IHAKNPCK_01364	CDS	531				hypothetical protein
+IHAKNPCK_01365	gene	537	yvqK			
+IHAKNPCK_01365	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+IHAKNPCK_01366	gene	76				
+IHAKNPCK_01366	tRNA	76				tRNA-Phe(gaa)
+IHAKNPCK_01367	gene	333				
+IHAKNPCK_01367	CDS	333				hypothetical protein
+IHAKNPCK_01368	gene	348				
+IHAKNPCK_01368	CDS	348				hypothetical protein
+IHAKNPCK_01369	gene	249				
+IHAKNPCK_01369	CDS	249				hypothetical protein
+IHAKNPCK_01370	gene	249				
+IHAKNPCK_01370	CDS	249				hypothetical protein
+IHAKNPCK_01371	gene	219				
+IHAKNPCK_01371	CDS	219				hypothetical protein
+IHAKNPCK_01372	gene	411				
+IHAKNPCK_01372	CDS	411				hypothetical protein
+IHAKNPCK_01373	gene	399				
+IHAKNPCK_01373	CDS	399				hypothetical protein
+IHAKNPCK_01374	gene	369				
+IHAKNPCK_01374	CDS	369				hypothetical protein
+IHAKNPCK_01375	gene	150				
+IHAKNPCK_01375	CDS	150				hypothetical protein
+IHAKNPCK_01376	gene	792				
+IHAKNPCK_01376	CDS	792				hypothetical protein
+IHAKNPCK_01377	gene	837				
+IHAKNPCK_01377	CDS	837				hypothetical protein
+IHAKNPCK_01378	gene	1221	tdcB			
+IHAKNPCK_01378	CDS	1221	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+IHAKNPCK_01379	gene	1254	mntH_2			
+IHAKNPCK_01379	CDS	1254	mntH_2		COG1914	Divalent metal cation transporter MntH
+IHAKNPCK_01380	gene	438	gpt			
+IHAKNPCK_01380	CDS	438	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+IHAKNPCK_01381	gene	480				
+IHAKNPCK_01381	CDS	480				hypothetical protein
+IHAKNPCK_01382	gene	75				
+IHAKNPCK_01382	tRNA	75				tRNA-Val(cac)
+IHAKNPCK_01383	gene	528				
+IHAKNPCK_01383	CDS	528				hypothetical protein
+IHAKNPCK_01384	gene	744				
+IHAKNPCK_01384	CDS	744				hypothetical protein
+IHAKNPCK_01385	gene	459				
+IHAKNPCK_01385	CDS	459				hypothetical protein
+IHAKNPCK_01386	gene	747				
+IHAKNPCK_01386	CDS	747				hypothetical protein
+IHAKNPCK_01387	gene	420	nhaX_2			
+IHAKNPCK_01387	CDS	420	nhaX_2		COG0589	Stress response protein NhaX
+IHAKNPCK_01388	gene	201				
+IHAKNPCK_01388	CDS	201				hypothetical protein
+IHAKNPCK_01389	gene	246				
+IHAKNPCK_01389	CDS	246				hypothetical protein
+IHAKNPCK_01390	gene	132				
+IHAKNPCK_01390	CDS	132				hypothetical protein
+IHAKNPCK_01391	gene	1851				
+IHAKNPCK_01391	CDS	1851				hypothetical protein
+IHAKNPCK_01392	gene	231				
+IHAKNPCK_01392	CDS	231				hypothetical protein
+IHAKNPCK_01393	gene	873	speB			
+IHAKNPCK_01393	CDS	873	speB	3.5.3.11	COG0010	Agmatinase
+IHAKNPCK_01394	gene	2676				
+IHAKNPCK_01394	CDS	2676				hypothetical protein
+IHAKNPCK_01395	gene	705	aqpZ2			
+IHAKNPCK_01395	CDS	705	aqpZ2			Aquaporin Z 2
+IHAKNPCK_01396	gene	429	arsC2			
+IHAKNPCK_01396	CDS	429	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+IHAKNPCK_01397	gene	756	arsM			
+IHAKNPCK_01397	CDS	756	arsM	2.1.1.137		Arsenite methyltransferase
+IHAKNPCK_01398	gene	438				
+IHAKNPCK_01398	CDS	438				hypothetical protein
+IHAKNPCK_01399	gene	2553				
+IHAKNPCK_01399	CDS	2553				hypothetical protein
+IHAKNPCK_01400	gene	537				
+IHAKNPCK_01400	CDS	537				hypothetical protein
+IHAKNPCK_01401	gene	1515	srmB			
+IHAKNPCK_01401	CDS	1515	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+IHAKNPCK_01402	gene	774				
+IHAKNPCK_01402	CDS	774				hypothetical protein
+IHAKNPCK_01403	gene	222				
+IHAKNPCK_01403	CDS	222				hypothetical protein
+IHAKNPCK_01404	gene	240				
+IHAKNPCK_01404	CDS	240				hypothetical protein
+IHAKNPCK_01405	gene	252				
+IHAKNPCK_01405	CDS	252				hypothetical protein
+IHAKNPCK_01406	gene	396				
+IHAKNPCK_01406	CDS	396				hypothetical protein
+IHAKNPCK_01407	gene	294				
+IHAKNPCK_01407	CDS	294				hypothetical protein
+IHAKNPCK_01408	gene	660				
+IHAKNPCK_01408	CDS	660				hypothetical protein
+IHAKNPCK_01409	gene	198				
+IHAKNPCK_01409	CDS	198				hypothetical protein
+IHAKNPCK_01410	gene	408				
+IHAKNPCK_01410	CDS	408				hypothetical protein
+IHAKNPCK_01411	gene	168				
+IHAKNPCK_01411	CDS	168				hypothetical protein
+IHAKNPCK_01412	gene	255				
+IHAKNPCK_01412	CDS	255				hypothetical protein
+IHAKNPCK_01413	gene	1137	fadB			
+IHAKNPCK_01413	CDS	1137	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+IHAKNPCK_01414	gene	519				
+IHAKNPCK_01414	CDS	519				hypothetical protein
+IHAKNPCK_01415	gene	1689	fbp			
+IHAKNPCK_01415	CDS	1689	fbp	4.1.2.13		Fructose-1,6-bisphosphate aldolase/phosphatase
+IHAKNPCK_01416	gene	1311	tuf_3			
+IHAKNPCK_01416	CDS	1311	tuf_3		COG0050	Elongation factor Tu
+IHAKNPCK_01417	gene	309	rpsJ			
+IHAKNPCK_01417	CDS	309	rpsJ			30S ribosomal protein S10
+IHAKNPCK_01418	gene	195				
+IHAKNPCK_01418	CDS	195				hypothetical protein
+IHAKNPCK_01419	gene	411				
+IHAKNPCK_01419	CDS	411				hypothetical protein
+IHAKNPCK_01420	gene	123				
+IHAKNPCK_01420	CDS	123				hypothetical protein
+IHAKNPCK_01421	gene	1413	mvaS			
+IHAKNPCK_01421	CDS	1413	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+IHAKNPCK_01422	gene	714				
+IHAKNPCK_01422	CDS	714				hypothetical protein
+IHAKNPCK_01423	gene	1050				
+IHAKNPCK_01423	CDS	1050				hypothetical protein
+IHAKNPCK_01424	gene	1248				
+IHAKNPCK_01424	CDS	1248				hypothetical protein
+IHAKNPCK_01425	gene	1332				
+IHAKNPCK_01425	CDS	1332				hypothetical protein
+IHAKNPCK_01426	gene	360				
+IHAKNPCK_01426	CDS	360				hypothetical protein
+IHAKNPCK_01427	gene	891	rutF			
+IHAKNPCK_01427	CDS	891	rutF	1.5.1.42		FMN reductase (NADH) RutF
+IHAKNPCK_01428	gene	360				
+IHAKNPCK_01428	CDS	360				hypothetical protein
+IHAKNPCK_01429	gene	552				
+IHAKNPCK_01429	CDS	552				hypothetical protein
+IHAKNPCK_01430	gene	336				
+IHAKNPCK_01430	CDS	336				hypothetical protein
+IHAKNPCK_01431	gene	324				
+IHAKNPCK_01431	CDS	324				hypothetical protein
+IHAKNPCK_01432	gene	1110	fadA_2			
+IHAKNPCK_01432	CDS	1110	fadA_2	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+IHAKNPCK_01433	gene	972				
+IHAKNPCK_01433	CDS	972		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+IHAKNPCK_01434	gene	690	cugP_3			
+IHAKNPCK_01434	CDS	690	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IHAKNPCK_01435	gene	144				
+IHAKNPCK_01435	CDS	144				hypothetical protein
+IHAKNPCK_01436	gene	399				
+IHAKNPCK_01436	CDS	399				hypothetical protein
+IHAKNPCK_01437	gene	1149	purK			
+IHAKNPCK_01437	CDS	1149	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+IHAKNPCK_01438	gene	612				
+IHAKNPCK_01438	CDS	612				hypothetical protein
+IHAKNPCK_01439	gene	873				
+IHAKNPCK_01439	CDS	873				hypothetical protein
+IHAKNPCK_01440	gene	267				
+IHAKNPCK_01440	CDS	267				hypothetical protein
+IHAKNPCK_01441	gene	696				
+IHAKNPCK_01441	CDS	696				hypothetical protein
+IHAKNPCK_01442	gene	249				
+IHAKNPCK_01442	CDS	249				hypothetical protein
+IHAKNPCK_01443	gene	2397				
+IHAKNPCK_01443	CDS	2397				hypothetical protein
+IHAKNPCK_01444	gene	1473				
+IHAKNPCK_01444	CDS	1473				hypothetical protein
+IHAKNPCK_01445	gene	1545				
+IHAKNPCK_01445	CDS	1545				hypothetical protein
+IHAKNPCK_01446	gene	654				
+IHAKNPCK_01446	CDS	654				hypothetical protein
+IHAKNPCK_01447	gene	1557				
+IHAKNPCK_01447	CDS	1557				hypothetical protein
+IHAKNPCK_01448	gene	1029				
+IHAKNPCK_01448	CDS	1029				hypothetical protein
+IHAKNPCK_01449	gene	546				
+IHAKNPCK_01449	CDS	546				hypothetical protein
+IHAKNPCK_01450	gene	483				
+IHAKNPCK_01450	CDS	483				hypothetical protein
+IHAKNPCK_01451	gene	1332				
+IHAKNPCK_01451	CDS	1332				hypothetical protein
+IHAKNPCK_01452	gene	489				
+IHAKNPCK_01452	CDS	489				hypothetical protein
+IHAKNPCK_01453	gene	522				
+IHAKNPCK_01453	CDS	522				hypothetical protein
+IHAKNPCK_01454	gene	855				
+IHAKNPCK_01454	CDS	855				hypothetical protein
+IHAKNPCK_01455	gene	735	kaiC			
+IHAKNPCK_01455	CDS	735	kaiC	2.7.11.1		Circadian clock protein kinase KaiC
+IHAKNPCK_01456	gene	561				
+IHAKNPCK_01456	CDS	561				hypothetical protein
+IHAKNPCK_01457	gene	558	purE			
+IHAKNPCK_01457	CDS	558	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+IHAKNPCK_01458	gene	1278				
+IHAKNPCK_01458	CDS	1278				hypothetical protein
+IHAKNPCK_01459	gene	558				
+IHAKNPCK_01459	CDS	558				hypothetical protein
+IHAKNPCK_01460	gene	693	bioD1			
+IHAKNPCK_01460	CDS	693	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+IHAKNPCK_01461	gene	1311	bioK			
+IHAKNPCK_01461	CDS	1311	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+IHAKNPCK_01462	gene	981	bioB			
+IHAKNPCK_01462	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+IHAKNPCK_01463	gene	1128	bioF			
+IHAKNPCK_01463	CDS	1128	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+IHAKNPCK_01464	gene	732				
+IHAKNPCK_01464	CDS	732				hypothetical protein
+IHAKNPCK_01465	gene	1140	dipZ			
+IHAKNPCK_01465	CDS	1140	dipZ		COG0785	Protein DipZ
+IHAKNPCK_01466	gene	639				
+IHAKNPCK_01466	CDS	639				hypothetical protein
+IHAKNPCK_01467	gene	342				
+IHAKNPCK_01467	CDS	342				hypothetical protein
+IHAKNPCK_01468	gene	240				
+IHAKNPCK_01468	CDS	240				hypothetical protein
+IHAKNPCK_01469	gene	720				
+IHAKNPCK_01469	CDS	720				hypothetical protein
+IHAKNPCK_01470	gene	297				
+IHAKNPCK_01470	CDS	297				hypothetical protein
+IHAKNPCK_01471	gene	324				
+IHAKNPCK_01471	CDS	324				hypothetical protein
+IHAKNPCK_01472	gene	261				
+IHAKNPCK_01472	CDS	261				hypothetical protein
+IHAKNPCK_01473	gene	75				
+IHAKNPCK_01473	tRNA	75				tRNA-Asn(gtt)
+IHAKNPCK_01474	gene	558				
+IHAKNPCK_01474	CDS	558				hypothetical protein
+IHAKNPCK_01475	gene	393	rpsH			
+IHAKNPCK_01475	CDS	393	rpsH			30S ribosomal protein S8
+IHAKNPCK_01476	gene	525				
+IHAKNPCK_01476	CDS	525				hypothetical protein
+IHAKNPCK_01477	gene	717				
+IHAKNPCK_01477	CDS	717				hypothetical protein
+IHAKNPCK_01478	gene	507				
+IHAKNPCK_01478	CDS	507				hypothetical protein
+IHAKNPCK_01479	gene	438				
+IHAKNPCK_01479	CDS	438				hypothetical protein
+IHAKNPCK_01480	gene	324				
+IHAKNPCK_01480	CDS	324				hypothetical protein
+IHAKNPCK_01481	gene	267				
+IHAKNPCK_01481	CDS	267				hypothetical protein
+IHAKNPCK_01482	gene	204				
+IHAKNPCK_01482	CDS	204				hypothetical protein
+IHAKNPCK_01483	gene	759				
+IHAKNPCK_01483	CDS	759				hypothetical protein
+IHAKNPCK_01484	gene	456				
+IHAKNPCK_01484	CDS	456				hypothetical protein
+IHAKNPCK_01485	gene	396				
+IHAKNPCK_01485	CDS	396				hypothetical protein
+IHAKNPCK_01486	gene	267				
+IHAKNPCK_01486	CDS	267				hypothetical protein
+IHAKNPCK_01487	gene	816				
+IHAKNPCK_01487	CDS	816				hypothetical protein
+IHAKNPCK_01488	gene	993				
+IHAKNPCK_01488	CDS	993				hypothetical protein
+IHAKNPCK_01489	gene	816				
+IHAKNPCK_01489	CDS	816				hypothetical protein
+IHAKNPCK_01490	gene	738	prcA_2			
+IHAKNPCK_01490	CDS	738	prcA_2			Proteasome subunit alpha
+IHAKNPCK_01491	gene	417				
+IHAKNPCK_01491	CDS	417				hypothetical protein
+IHAKNPCK_01492	gene	534				
+IHAKNPCK_01492	CDS	534				hypothetical protein
+IHAKNPCK_01493	gene	840	purC			
+IHAKNPCK_01493	CDS	840	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IHAKNPCK_01494	gene	246				
+IHAKNPCK_01494	CDS	246				hypothetical protein
+IHAKNPCK_01495	gene	1437	purF			
+IHAKNPCK_01495	CDS	1437	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+IHAKNPCK_01496	gene	2166	purL			
+IHAKNPCK_01496	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+IHAKNPCK_01497	gene	681	purQ			
+IHAKNPCK_01497	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IHAKNPCK_01498	gene	609	glpG			
+IHAKNPCK_01498	CDS	609	glpG	3.4.21.105		Rhomboid protease GlpG
+IHAKNPCK_01499	gene	492	IMPDH_4			
+IHAKNPCK_01499	CDS	492	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IHAKNPCK_01500	gene	270	purS			
+IHAKNPCK_01500	CDS	270	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+IHAKNPCK_01501	gene	864	COQ5_4			
+IHAKNPCK_01501	CDS	864	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IHAKNPCK_01502	gene	462				
+IHAKNPCK_01502	CDS	462				hypothetical protein
+IHAKNPCK_01503	gene	75				
+IHAKNPCK_01503	tRNA	75				tRNA-Thr(tgt)
+IHAKNPCK_01504	gene	201				
+IHAKNPCK_01504	CDS	201				hypothetical protein
+IHAKNPCK_01505	gene	648				
+IHAKNPCK_01505	CDS	648			COG1926	Putative phosphoribosyl transferase
+IHAKNPCK_01506	gene	234				
+IHAKNPCK_01506	CDS	234				hypothetical protein
+IHAKNPCK_01507	gene	288				
+IHAKNPCK_01507	CDS	288				hypothetical protein
+IHAKNPCK_01508	gene	591				
+IHAKNPCK_01508	CDS	591				hypothetical protein
+IHAKNPCK_01509	gene	510				
+IHAKNPCK_01509	CDS	510				hypothetical protein
+IHAKNPCK_01510	gene	456				
+IHAKNPCK_01510	CDS	456				hypothetical protein
+IHAKNPCK_01511	gene	147				
+IHAKNPCK_01511	CDS	147				hypothetical protein
+IHAKNPCK_01512	gene	282				
+IHAKNPCK_01512	CDS	282				hypothetical protein
+IHAKNPCK_01513	gene	321				
+IHAKNPCK_01513	CDS	321				hypothetical protein
+IHAKNPCK_01514	gene	2040				
+IHAKNPCK_01514	CDS	2040				hypothetical protein
+IHAKNPCK_01515	gene	879				
+IHAKNPCK_01515	CDS	879				hypothetical protein
+IHAKNPCK_01516	gene	153				
+IHAKNPCK_01516	CDS	153				hypothetical protein
+IHAKNPCK_01517	gene	1005				
+IHAKNPCK_01517	CDS	1005				hypothetical protein
+IHAKNPCK_01518	gene	234				
+IHAKNPCK_01518	CDS	234				hypothetical protein
+IHAKNPCK_01519	gene	456				
+IHAKNPCK_01519	CDS	456				hypothetical protein
+IHAKNPCK_01520	gene	981				
+IHAKNPCK_01520	CDS	981				hypothetical protein
+IHAKNPCK_01521	gene	225				
+IHAKNPCK_01521	CDS	225				hypothetical protein
+IHAKNPCK_01522	gene	1173	gltA			
+IHAKNPCK_01522	CDS	1173	gltA	2.3.3.16	COG0372	Citrate synthase
+IHAKNPCK_01523	gene	489				
+IHAKNPCK_01523	CDS	489				hypothetical protein
+IHAKNPCK_01524	gene	1275				
+IHAKNPCK_01524	CDS	1275		2.7.1.165	COG2379	D-glycerate 2-kinase
+IHAKNPCK_01525	gene	570				
+IHAKNPCK_01525	CDS	570				hypothetical protein
+IHAKNPCK_01526	gene	945				
+IHAKNPCK_01526	CDS	945				hypothetical protein
+IHAKNPCK_01527	gene	1086				
+IHAKNPCK_01527	CDS	1086		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+IHAKNPCK_01528	gene	405				
+IHAKNPCK_01528	CDS	405				hypothetical protein
+IHAKNPCK_01529	gene	633				
+IHAKNPCK_01529	CDS	633				hypothetical protein
+IHAKNPCK_01530	gene	1941	uvrB			
+IHAKNPCK_01530	CDS	1941	uvrB			UvrABC system protein B
+IHAKNPCK_01531	gene	2820	uvrA			
+IHAKNPCK_01531	CDS	2820	uvrA			UvrABC system protein A
+IHAKNPCK_01532	gene	1587	uvrC			
+IHAKNPCK_01532	CDS	1587	uvrC		COG0322	UvrABC system protein C
+IHAKNPCK_01533	gene	963				
+IHAKNPCK_01533	CDS	963				hypothetical protein
+IHAKNPCK_01534	gene	618	purN			
+IHAKNPCK_01534	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+IHAKNPCK_01535	gene	324				
+IHAKNPCK_01535	CDS	324				hypothetical protein
+IHAKNPCK_01536	gene	870	folD			
+IHAKNPCK_01536	CDS	870	folD		COG0190	Bifunctional protein FolD protein
+IHAKNPCK_01537	gene	561	yqgN			
+IHAKNPCK_01537	CDS	561	yqgN		COG0212	putative protein YqgN
+IHAKNPCK_01538	gene	711				
+IHAKNPCK_01538	CDS	711				hypothetical protein
+IHAKNPCK_01539	gene	1785				
+IHAKNPCK_01539	CDS	1785				hypothetical protein
+IHAKNPCK_01540	gene	330				
+IHAKNPCK_01540	CDS	330				hypothetical protein
+IHAKNPCK_01541	gene	333				
+IHAKNPCK_01541	CDS	333				hypothetical protein
+IHAKNPCK_01542	gene	252				
+IHAKNPCK_01542	CDS	252				hypothetical protein
+IHAKNPCK_01543	gene	657				
+IHAKNPCK_01543	CDS	657				hypothetical protein
+IHAKNPCK_01544	gene	225				
+IHAKNPCK_01544	CDS	225				hypothetical protein
+IHAKNPCK_01545	gene	183				
+IHAKNPCK_01545	CDS	183				hypothetical protein
+IHAKNPCK_01546	gene	1071	cas1_1			
+IHAKNPCK_01546	CDS	1071	cas1_1	3.1.-.-		CRISPR-associated endonuclease Cas1
+IHAKNPCK_01547	gene	609				
+IHAKNPCK_01547	CDS	609				hypothetical protein
+IHAKNPCK_01548	gene	1269	purD			
+IHAKNPCK_01548	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+IHAKNPCK_01549	gene	309				
+IHAKNPCK_01549	CDS	309				hypothetical protein
+IHAKNPCK_01550	gene	5475				
+IHAKNPCK_01550	CDS	5475				hypothetical protein
+IHAKNPCK_01551	gene	210				
+IHAKNPCK_01551	CDS	210				hypothetical protein
+IHAKNPCK_01552	gene	306				
+IHAKNPCK_01552	CDS	306				hypothetical protein
+IHAKNPCK_01553	gene	747				
+IHAKNPCK_01553	CDS	747				hypothetical protein
+IHAKNPCK_01554	gene	3042	carB			
+IHAKNPCK_01554	CDS	3042	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+IHAKNPCK_01555	gene	162				
+IHAKNPCK_01555	CDS	162				hypothetical protein
+IHAKNPCK_01556	gene	1173	carA_2			
+IHAKNPCK_01556	CDS	1173	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+IHAKNPCK_01557	gene	1185	ftsH_5			
+IHAKNPCK_01557	CDS	1185	ftsH_5	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IHAKNPCK_01558	gene	573				
+IHAKNPCK_01558	CDS	573				hypothetical protein
+IHAKNPCK_01559	gene	564				
+IHAKNPCK_01559	CDS	564				hypothetical protein
+IHAKNPCK_01560	gene	1176				
+IHAKNPCK_01560	CDS	1176				hypothetical protein
+IHAKNPCK_01561	gene	609				
+IHAKNPCK_01561	CDS	609				hypothetical protein
+IHAKNPCK_01562	gene	3201	ileS			
+IHAKNPCK_01562	CDS	3201	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+IHAKNPCK_01563	gene	330				
+IHAKNPCK_01563	CDS	330				hypothetical protein
+IHAKNPCK_01564	gene	1113	sucC			
+IHAKNPCK_01564	CDS	1113	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+IHAKNPCK_01565	gene	921	sucD			
+IHAKNPCK_01565	CDS	921	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+IHAKNPCK_01566	gene	168				
+IHAKNPCK_01566	CDS	168				hypothetical protein
+IHAKNPCK_01567	gene	285				
+IHAKNPCK_01567	CDS	285				hypothetical protein
+IHAKNPCK_01568	gene	663	tpiA			
+IHAKNPCK_01568	CDS	663	tpiA			Triosephosphate isomerase
+IHAKNPCK_01569	gene	396	mscL			
+IHAKNPCK_01569	CDS	396	mscL			Large-conductance mechanosensitive channel
+IHAKNPCK_01570	gene	555				
+IHAKNPCK_01570	CDS	555				hypothetical protein
+IHAKNPCK_01571	gene	399	epi			
+IHAKNPCK_01571	CDS	399	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+IHAKNPCK_01572	gene	1578	mcm_1			
+IHAKNPCK_01572	CDS	1578	mcm_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+IHAKNPCK_01573	gene	915				
+IHAKNPCK_01573	CDS	915		3.6.-.-	COG1703	putative GTPase
+IHAKNPCK_01574	gene	420	mcm_2			
+IHAKNPCK_01574	CDS	420	mcm_2	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+IHAKNPCK_01575	gene	999	ilvC			
+IHAKNPCK_01575	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+IHAKNPCK_01576	gene	873	garR			
+IHAKNPCK_01576	CDS	873	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+IHAKNPCK_01577	gene	1230				
+IHAKNPCK_01577	CDS	1230				hypothetical protein
+IHAKNPCK_01578	gene	1647	metG_1			
+IHAKNPCK_01578	CDS	1647	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+IHAKNPCK_01579	gene	1242	ahcY			
+IHAKNPCK_01579	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+IHAKNPCK_01580	gene	303	bphA3_1			
+IHAKNPCK_01580	CDS	303	bphA3_1			Biphenyl dioxygenase ferredoxin subunit
+IHAKNPCK_01581	gene	795	nadE			
+IHAKNPCK_01581	CDS	795	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+IHAKNPCK_01582	gene	1428	cysS_2			
+IHAKNPCK_01582	CDS	1428	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IHAKNPCK_01583	gene	1218	OLA1			
+IHAKNPCK_01583	CDS	1218	OLA1			Obg-like ATPase 1
+IHAKNPCK_01584	gene	363				
+IHAKNPCK_01584	CDS	363				hypothetical protein
+IHAKNPCK_01585	gene	411	yccU			
+IHAKNPCK_01585	CDS	411	yccU		COG1832	putative protein YccU
+IHAKNPCK_01586	gene	564				
+IHAKNPCK_01586	CDS	564				hypothetical protein
+IHAKNPCK_01587	gene	390				
+IHAKNPCK_01587	CDS	390				hypothetical protein
+IHAKNPCK_01588	gene	369				
+IHAKNPCK_01588	CDS	369				hypothetical protein
+IHAKNPCK_01589	gene	702				
+IHAKNPCK_01589	CDS	702				hypothetical protein
+IHAKNPCK_01590	gene	993	birA			
+IHAKNPCK_01590	CDS	993	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+IHAKNPCK_01591	gene	840	pah			
+IHAKNPCK_01591	CDS	840	pah	3.5.3.22	COG0010	Proclavaminate amidinohydrolase
+IHAKNPCK_01592	gene	405				
+IHAKNPCK_01592	CDS	405				hypothetical protein
+IHAKNPCK_01593	gene	903	menA_1			
+IHAKNPCK_01593	CDS	903	menA_1	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IHAKNPCK_01594	gene	1107				
+IHAKNPCK_01594	CDS	1107				hypothetical protein
+IHAKNPCK_01595	gene	147				
+IHAKNPCK_01595	CDS	147				hypothetical protein
+IHAKNPCK_01596	gene	951	asnB			
+IHAKNPCK_01596	CDS	951	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+IHAKNPCK_01597	gene	459				
+IHAKNPCK_01597	CDS	459				hypothetical protein
+IHAKNPCK_01598	gene	357				
+IHAKNPCK_01598	CDS	357				hypothetical protein
+IHAKNPCK_01599	gene	504				
+IHAKNPCK_01599	CDS	504				hypothetical protein
+IHAKNPCK_01600	gene	384				
+IHAKNPCK_01600	CDS	384				hypothetical protein
+IHAKNPCK_01601	gene	315				
+IHAKNPCK_01601	CDS	315				hypothetical protein
+IHAKNPCK_01602	gene	288				
+IHAKNPCK_01602	CDS	288				hypothetical protein
+IHAKNPCK_01603	gene	1761	lig			
+IHAKNPCK_01603	CDS	1761	lig	6.5.1.1		DNA ligase
+IHAKNPCK_01604	gene	657				
+IHAKNPCK_01604	CDS	657				hypothetical protein
+IHAKNPCK_01605	gene	534				
+IHAKNPCK_01605	CDS	534				hypothetical protein
+IHAKNPCK_01606	gene	402				
+IHAKNPCK_01606	CDS	402				hypothetical protein
+IHAKNPCK_01607	gene	237				
+IHAKNPCK_01607	CDS	237				hypothetical protein
+IHAKNPCK_01608	gene	1788				
+IHAKNPCK_01608	CDS	1788				hypothetical protein
+IHAKNPCK_01609	gene	474				
+IHAKNPCK_01609	CDS	474				hypothetical protein
+IHAKNPCK_01610	gene	759				
+IHAKNPCK_01610	CDS	759				hypothetical protein
+IHAKNPCK_01611	gene	651				
+IHAKNPCK_01611	CDS	651				hypothetical protein
+IHAKNPCK_01612	gene	1023	hom			
+IHAKNPCK_01612	CDS	1023	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+IHAKNPCK_01613	gene	477				
+IHAKNPCK_01613	CDS	477				hypothetical protein
+IHAKNPCK_01614	gene	594	prcB2			
+IHAKNPCK_01614	CDS	594	prcB2	3.4.25.1	COG0638	Proteasome subunit beta 2
+IHAKNPCK_01615	gene	1350	dapE			
+IHAKNPCK_01615	CDS	1350	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+IHAKNPCK_01616	gene	864	nnr_2			
+IHAKNPCK_01616	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IHAKNPCK_01617	gene	879	trmI			
+IHAKNPCK_01617	CDS	879	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+IHAKNPCK_01618	gene	177				
+IHAKNPCK_01618	CDS	177				hypothetical protein
+IHAKNPCK_01619	gene	1884	argS			
+IHAKNPCK_01619	CDS	1884	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+IHAKNPCK_01620	gene	696				
+IHAKNPCK_01620	CDS	696				hypothetical protein
+IHAKNPCK_01621	gene	228				
+IHAKNPCK_01621	CDS	228				hypothetical protein
+IHAKNPCK_01622	gene	1101	obg			
+IHAKNPCK_01622	CDS	1101	obg	3.6.5.-		GTPase Obg
+IHAKNPCK_01623	gene	177				
+IHAKNPCK_01623	CDS	177				hypothetical protein
+IHAKNPCK_01624	gene	219				
+IHAKNPCK_01624	CDS	219				hypothetical protein
+IHAKNPCK_01625	gene	285				
+IHAKNPCK_01625	CDS	285				hypothetical protein
+IHAKNPCK_01626	gene	1638				
+IHAKNPCK_01626	CDS	1638				hypothetical protein
+IHAKNPCK_01627	gene	1152				
+IHAKNPCK_01627	CDS	1152				hypothetical protein
+IHAKNPCK_01628	gene	810	sseA			
+IHAKNPCK_01628	CDS	810	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+IHAKNPCK_01629	gene	1803	sir			
+IHAKNPCK_01629	CDS	1803	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+IHAKNPCK_01630	gene	1020	ino1_2			
+IHAKNPCK_01630	CDS	1020	ino1_2	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+IHAKNPCK_01631	gene	822	thi4_2			
+IHAKNPCK_01631	CDS	822	thi4_2	2.4.2.59		Thiamine thiazole synthase
+IHAKNPCK_01632	gene	786				
+IHAKNPCK_01632	CDS	786				hypothetical protein
+IHAKNPCK_01633	gene	966	trxB_1			
+IHAKNPCK_01633	CDS	966	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+IHAKNPCK_01634	gene	996	cysM			
+IHAKNPCK_01634	CDS	996	cysM	2.5.1.47	COG0031	Cysteine synthase B
+IHAKNPCK_01635	gene	198	tusA			
+IHAKNPCK_01635	CDS	198	tusA			Sulfur carrier protein TusA
+IHAKNPCK_01636	gene	921				
+IHAKNPCK_01636	CDS	921				hypothetical protein
+IHAKNPCK_01637	gene	741	fbiB_2			
+IHAKNPCK_01637	CDS	741	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+IHAKNPCK_01638	gene	651	serB2			
+IHAKNPCK_01638	CDS	651	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+IHAKNPCK_01639	gene	300				
+IHAKNPCK_01639	CDS	300				hypothetical protein
+IHAKNPCK_01640	gene	1443	proS			
+IHAKNPCK_01640	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+IHAKNPCK_01641	gene	309				
+IHAKNPCK_01641	CDS	309				hypothetical protein
+IHAKNPCK_01642	gene	399				
+IHAKNPCK_01642	CDS	399				hypothetical protein
+IHAKNPCK_01643	gene	489				
+IHAKNPCK_01643	CDS	489				hypothetical protein
+IHAKNPCK_01644	gene	1215				
+IHAKNPCK_01644	CDS	1215				hypothetical protein
+IHAKNPCK_01645	gene	582				
+IHAKNPCK_01645	CDS	582		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+IHAKNPCK_01646	gene	579	tmung			
+IHAKNPCK_01646	CDS	579	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+IHAKNPCK_01647	gene	1428	tldD			
+IHAKNPCK_01647	CDS	1428	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+IHAKNPCK_01648	gene	1926	sasA_4			
+IHAKNPCK_01648	CDS	1926	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+IHAKNPCK_01649	gene	372				
+IHAKNPCK_01649	CDS	372				hypothetical protein
+IHAKNPCK_01650	gene	366	cheY			
+IHAKNPCK_01650	CDS	366	cheY		COG0784	Chemotaxis protein CheY
+IHAKNPCK_01651	gene	918	cheB_1			
+IHAKNPCK_01651	CDS	918	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+IHAKNPCK_01652	gene	1830				
+IHAKNPCK_01652	CDS	1830				hypothetical protein
+IHAKNPCK_01653	gene	483	mntR			
+IHAKNPCK_01653	CDS	483	mntR		COG1321	Transcriptional regulator MntR
+IHAKNPCK_01654	gene	345				
+IHAKNPCK_01654	CDS	345				hypothetical protein
+IHAKNPCK_01655	gene	501				
+IHAKNPCK_01655	CDS	501				hypothetical protein
+IHAKNPCK_01656	gene	1908	acsA			
+IHAKNPCK_01656	CDS	1908	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+IHAKNPCK_01657	gene	819				
+IHAKNPCK_01657	CDS	819				hypothetical protein
+IHAKNPCK_01658	gene	285				
+IHAKNPCK_01658	CDS	285				hypothetical protein
+IHAKNPCK_01659	gene	1626	thyX			
+IHAKNPCK_01659	CDS	1626	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+IHAKNPCK_01660	gene	417				
+IHAKNPCK_01660	CDS	417				hypothetical protein
+IHAKNPCK_01661	gene	144				
+IHAKNPCK_01661	CDS	144				hypothetical protein
+IHAKNPCK_01662	gene	1047	adhC			
+IHAKNPCK_01662	CDS	1047	adhC	1.1.1.2	COG1064	NADP-dependent alcohol dehydrogenase C
+IHAKNPCK_01663	gene	1026				
+IHAKNPCK_01663	CDS	1026				hypothetical protein
+IHAKNPCK_01664	gene	186				
+IHAKNPCK_01664	CDS	186				hypothetical protein
+IHAKNPCK_01665	gene	186				
+IHAKNPCK_01665	CDS	186				hypothetical protein
+IHAKNPCK_01666	gene	1650	groL_4			
+IHAKNPCK_01666	CDS	1650	groL_4			60 kDa chaperonin
+IHAKNPCK_01667	gene	681				
+IHAKNPCK_01667	CDS	681				hypothetical protein
+IHAKNPCK_01668	gene	231				
+IHAKNPCK_01668	CDS	231				hypothetical protein
+IHAKNPCK_01669	gene	549				
+IHAKNPCK_01669	CDS	549				hypothetical protein
+IHAKNPCK_01670	gene	1050				
+IHAKNPCK_01670	CDS	1050		1.1.1.1		Alcohol dehydrogenase
+IHAKNPCK_01671	gene	339				
+IHAKNPCK_01671	CDS	339				hypothetical protein
+IHAKNPCK_01672	gene	948				
+IHAKNPCK_01672	CDS	948				hypothetical protein
+IHAKNPCK_01673	gene	744	dnaJ_3			
+IHAKNPCK_01673	CDS	744	dnaJ_3			Chaperone protein DnaJ
+IHAKNPCK_01674	gene	1422	arnC_4			
+IHAKNPCK_01674	CDS	1422	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IHAKNPCK_01675	gene	1923				
+IHAKNPCK_01675	CDS	1923				hypothetical protein
+IHAKNPCK_01676	gene	309				
+IHAKNPCK_01676	CDS	309				hypothetical protein
+IHAKNPCK_01677	gene	1281				
+IHAKNPCK_01677	CDS	1281				hypothetical protein
+IHAKNPCK_01678	gene	414				
+IHAKNPCK_01678	CDS	414				hypothetical protein
+IHAKNPCK_01679	gene	309				
+IHAKNPCK_01679	CDS	309				hypothetical protein
+IHAKNPCK_01680	gene	327				
+IHAKNPCK_01680	CDS	327				hypothetical protein
+IHAKNPCK_01681	gene	1365				
+IHAKNPCK_01681	CDS	1365				hypothetical protein
+IHAKNPCK_01682	gene	1053	dppB			
+IHAKNPCK_01682	CDS	1053	dppB		COG0601	Dipeptide transport system permease protein DppB
+IHAKNPCK_01683	gene	2454				
+IHAKNPCK_01683	CDS	2454				hypothetical protein
+IHAKNPCK_01684	gene	630				
+IHAKNPCK_01684	CDS	630				hypothetical protein
+IHAKNPCK_01685	gene	1740				
+IHAKNPCK_01685	CDS	1740				hypothetical protein
+IHAKNPCK_01686	gene	165				
+IHAKNPCK_01686	CDS	165				hypothetical protein
+IHAKNPCK_01687	gene	333				
+IHAKNPCK_01687	CDS	333				hypothetical protein
+IHAKNPCK_01688	gene	309				
+IHAKNPCK_01688	CDS	309				hypothetical protein
+IHAKNPCK_01689	gene	1008				
+IHAKNPCK_01689	CDS	1008				hypothetical protein
+IHAKNPCK_01690	gene	642	fbiD			
+IHAKNPCK_01690	CDS	642	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+IHAKNPCK_01691	gene	921	fbiA			
+IHAKNPCK_01691	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+IHAKNPCK_01692	gene	1152				
+IHAKNPCK_01692	CDS	1152				hypothetical protein
+IHAKNPCK_01693	gene	277				
+IHAKNPCK_01693	misc_RNA	277				RNaseP_arch
+IHAKNPCK_01694	gene	2331	potE			
+IHAKNPCK_01694	CDS	2331	potE			Putrescine transporter PotE
+IHAKNPCK_01695	gene	492				
+IHAKNPCK_01695	CDS	492				hypothetical protein
+IHAKNPCK_01696	gene	3495				
+IHAKNPCK_01696	CDS	3495				hypothetical protein
+IHAKNPCK_01697	gene	240				
+IHAKNPCK_01697	CDS	240				hypothetical protein
+IHAKNPCK_01698	gene	993				
+IHAKNPCK_01698	CDS	993				hypothetical protein
+IHAKNPCK_01699	gene	1287				
+IHAKNPCK_01699	CDS	1287			COG1055	putative transporter
+IHAKNPCK_01700	gene	315				
+IHAKNPCK_01700	CDS	315				hypothetical protein
+IHAKNPCK_01701	gene	294				
+IHAKNPCK_01701	CDS	294				hypothetical protein
+IHAKNPCK_01702	gene	447				
+IHAKNPCK_01702	CDS	447				hypothetical protein
+IHAKNPCK_01703	gene	963				
+IHAKNPCK_01703	CDS	963				hypothetical protein
+IHAKNPCK_01704	gene	822				
+IHAKNPCK_01704	CDS	822				hypothetical protein
+IHAKNPCK_01705	gene	660				
+IHAKNPCK_01705	CDS	660				hypothetical protein
+IHAKNPCK_01706	gene	1227	cas1_2			
+IHAKNPCK_01706	CDS	1227	cas1_2	3.1.-.-		CRISPR-associated endonuclease Cas1
+IHAKNPCK_01707	gene	639				
+IHAKNPCK_01707	CDS	639				hypothetical protein
+IHAKNPCK_01708	gene	324				
+IHAKNPCK_01708	CDS	324				hypothetical protein
+IHAKNPCK_01709	gene	2691				
+IHAKNPCK_01709	CDS	2691				hypothetical protein
+IHAKNPCK_01710	gene	1362				
+IHAKNPCK_01710	CDS	1362				hypothetical protein
+IHAKNPCK_01711	gene	816				
+IHAKNPCK_01711	CDS	816				hypothetical protein
+IHAKNPCK_01712	gene	921				
+IHAKNPCK_01712	CDS	921				hypothetical protein
+IHAKNPCK_01713	gene	576				
+IHAKNPCK_01713	CDS	576				hypothetical protein
+IHAKNPCK_01714	gene	306				
+IHAKNPCK_01714	CDS	306				hypothetical protein
+IHAKNPCK_01715	gene	74				
+IHAKNPCK_01715	tRNA	74				tRNA-Pro(tgg)
+IHAKNPCK_01716	gene	891				
+IHAKNPCK_01716	CDS	891		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+IHAKNPCK_01717	gene	234				
+IHAKNPCK_01717	CDS	234				hypothetical protein
+IHAKNPCK_01718	gene	1137				
+IHAKNPCK_01718	CDS	1137				hypothetical protein
+IHAKNPCK_01719	gene	1440				
+IHAKNPCK_01719	CDS	1440			COG0247	putative protein
+IHAKNPCK_01720	gene	336	metG_2			
+IHAKNPCK_01720	CDS	336	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+IHAKNPCK_01721	gene	417				
+IHAKNPCK_01721	CDS	417				hypothetical protein
+IHAKNPCK_01722	gene	1209	crtQ			
+IHAKNPCK_01722	CDS	1209	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+IHAKNPCK_01723	gene	1143				
+IHAKNPCK_01723	CDS	1143				hypothetical protein
+IHAKNPCK_01724	gene	726				
+IHAKNPCK_01724	CDS	726				hypothetical protein
+IHAKNPCK_01725	gene	288				
+IHAKNPCK_01725	CDS	288				hypothetical protein
+IHAKNPCK_01726	gene	1164				
+IHAKNPCK_01726	CDS	1164				hypothetical protein
+IHAKNPCK_01727	gene	726				
+IHAKNPCK_01727	CDS	726				hypothetical protein
+IHAKNPCK_01728	gene	1170	fbiC_1			
+IHAKNPCK_01728	CDS	1170	fbiC_1		COG1060	FO synthase
+IHAKNPCK_01729	gene	1266	fbiC_2			
+IHAKNPCK_01729	CDS	1266	fbiC_2		COG1060	FO synthase
+IHAKNPCK_01730	gene	1353				
+IHAKNPCK_01730	CDS	1353				hypothetical protein
+IHAKNPCK_01731	gene	1005				
+IHAKNPCK_01731	CDS	1005				hypothetical protein
+IHAKNPCK_01732	gene	234				
+IHAKNPCK_01732	CDS	234				hypothetical protein
+IHAKNPCK_01733	gene	345				
+IHAKNPCK_01733	CDS	345				hypothetical protein
+IHAKNPCK_01734	gene	1023	purM			
+IHAKNPCK_01734	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+IHAKNPCK_01735	gene	1584				
+IHAKNPCK_01735	CDS	1584		2.3.1.-		tRNA uridine(34) acetyltransferase
+IHAKNPCK_01736	gene	1590	lysS			
+IHAKNPCK_01736	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+IHAKNPCK_01737	gene	189				
+IHAKNPCK_01737	CDS	189				hypothetical protein
+IHAKNPCK_01738	gene	798	smc_4			
+IHAKNPCK_01738	CDS	798	smc_4			Chromosome partition protein Smc
+IHAKNPCK_01739	gene	231				
+IHAKNPCK_01739	CDS	231				hypothetical protein
+IHAKNPCK_01740	gene	975	trxB_2			
+IHAKNPCK_01740	CDS	975	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+IHAKNPCK_01741	gene	1464	mdtD_2			
+IHAKNPCK_01741	CDS	1464	mdtD_2			Putative multidrug resistance protein MdtD
+IHAKNPCK_01742	gene	483	slyA_3			
+IHAKNPCK_01742	CDS	483	slyA_3			Transcriptional regulator SlyA
+IHAKNPCK_01743	gene	576				
+IHAKNPCK_01743	CDS	576				hypothetical protein
+IHAKNPCK_01744	gene	489				
+IHAKNPCK_01744	CDS	489				hypothetical protein
+IHAKNPCK_01745	gene	879				
+IHAKNPCK_01745	CDS	879				hypothetical protein
+IHAKNPCK_01746	gene	351				
+IHAKNPCK_01746	CDS	351				hypothetical protein
+IHAKNPCK_01747	gene	339				
+IHAKNPCK_01747	CDS	339				hypothetical protein
+IHAKNPCK_01748	gene	456	cheB_2			
+IHAKNPCK_01748	CDS	456	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+IHAKNPCK_01749	gene	948				
+IHAKNPCK_01749	CDS	948				hypothetical protein
+IHAKNPCK_01750	gene	855	menA_2			
+IHAKNPCK_01750	CDS	855	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IHAKNPCK_01751	gene	1500				
+IHAKNPCK_01751	CDS	1500				hypothetical protein
+IHAKNPCK_01752	gene	372				
+IHAKNPCK_01752	CDS	372				hypothetical protein
+IHAKNPCK_01753	gene	1539				
+IHAKNPCK_01753	CDS	1539				hypothetical protein
+IHAKNPCK_01754	gene	543				
+IHAKNPCK_01754	CDS	543				hypothetical protein
+IHAKNPCK_01755	gene	768				
+IHAKNPCK_01755	CDS	768				hypothetical protein
+IHAKNPCK_01756	gene	1179				
+IHAKNPCK_01756	CDS	1179				hypothetical protein
+IHAKNPCK_01757	gene	366				
+IHAKNPCK_01757	CDS	366				hypothetical protein
+IHAKNPCK_01758	gene	186				
+IHAKNPCK_01758	CDS	186				hypothetical protein
+IHAKNPCK_01759	gene	1425	ribZ			
+IHAKNPCK_01759	CDS	1425	ribZ			Riboflavin transporter RibZ
+IHAKNPCK_01760	gene	186				
+IHAKNPCK_01760	CDS	186				hypothetical protein
+IHAKNPCK_01761	gene	2832				
+IHAKNPCK_01761	CDS	2832				hypothetical protein
+IHAKNPCK_01762	gene	1233	nhaP_2			
+IHAKNPCK_01762	CDS	1233	nhaP_2			K(+)/H(+) antiporter NhaP
+IHAKNPCK_01763	gene	1125				
+IHAKNPCK_01763	CDS	1125				hypothetical protein
+IHAKNPCK_01764	gene	252				
+IHAKNPCK_01764	CDS	252				hypothetical protein
+IHAKNPCK_01765	gene	624				
+IHAKNPCK_01765	CDS	624				hypothetical protein
+IHAKNPCK_01766	gene	504	napF_2			
+IHAKNPCK_01766	CDS	504	napF_2			Ferredoxin-type protein NapF
+IHAKNPCK_01767	gene	267				
+IHAKNPCK_01767	CDS	267				hypothetical protein
+IHAKNPCK_01768	gene	1395				
+IHAKNPCK_01768	CDS	1395		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+IHAKNPCK_01769	gene	1053	adhT			
+IHAKNPCK_01769	CDS	1053	adhT	1.1.1.1		Alcohol dehydrogenase
+IHAKNPCK_01770	gene	432				
+IHAKNPCK_01770	CDS	432				hypothetical protein
+IHAKNPCK_01771	gene	324				
+IHAKNPCK_01771	CDS	324				hypothetical protein
+IHAKNPCK_01772	gene	1728	poxB			
+IHAKNPCK_01772	CDS	1728	poxB	1.2.5.1	COG0028	Pyruvate dehydrogenase [ubiquinone]
+IHAKNPCK_01773	gene	450				
+IHAKNPCK_01773	CDS	450				Putative universal stress protein
+IHAKNPCK_01774	gene	549				
+IHAKNPCK_01774	CDS	549				hypothetical protein
+IHAKNPCK_01775	gene	378				
+IHAKNPCK_01775	CDS	378				hypothetical protein
+IHAKNPCK_01776	gene	432	teaD_2			
+IHAKNPCK_01776	CDS	432	teaD_2		COG0589	TRAP-T-associated universal stress protein TeaD
+IHAKNPCK_01777	gene	447				
+IHAKNPCK_01777	CDS	447				hypothetical protein
+IHAKNPCK_01778	gene	1290	thcD			
+IHAKNPCK_01778	CDS	1290	thcD	1.18.1.-		Rhodocoxin reductase
+IHAKNPCK_01779	gene	414				
+IHAKNPCK_01779	CDS	414				hypothetical protein
+IHAKNPCK_01780	gene	432	nhaX_3			
+IHAKNPCK_01780	CDS	432	nhaX_3		COG0589	Stress response protein NhaX
+IHAKNPCK_01781	gene	321	bphA3_2			
+IHAKNPCK_01781	CDS	321	bphA3_2			Biphenyl dioxygenase ferredoxin subunit
+IHAKNPCK_01782	gene	177				
+IHAKNPCK_01782	CDS	177				hypothetical protein
+IHAKNPCK_01783	gene	348				
+IHAKNPCK_01783	CDS	348				hypothetical protein
+IHAKNPCK_01784	gene	345				
+IHAKNPCK_01784	CDS	345				hypothetical protein
+IHAKNPCK_01785	gene	489	mug			
+IHAKNPCK_01785	CDS	489	mug	3.2.2.28	COG3663	G/U mismatch-specific DNA glycosylase
+IHAKNPCK_01786	gene	216				
+IHAKNPCK_01786	CDS	216				hypothetical protein
+IHAKNPCK_01787	gene	162				
+IHAKNPCK_01787	CDS	162				hypothetical protein
+IHAKNPCK_01788	gene	270				
+IHAKNPCK_01788	CDS	270				hypothetical protein
+IHAKNPCK_01789	gene	603				
+IHAKNPCK_01789	CDS	603				hypothetical protein
+IHAKNPCK_01790	gene	76				
+IHAKNPCK_01790	tRNA	76				tRNA-Arg(gcg)
+IHAKNPCK_01791	gene	708	aqpZ			
+IHAKNPCK_01791	CDS	708	aqpZ		COG0580	Aquaporin Z
+IHAKNPCK_01792	gene	459	bcp_3			
+IHAKNPCK_01792	CDS	459	bcp_3	1.11.1.15	COG1225	Peroxiredoxin Bcp
+IHAKNPCK_01793	gene	531				
+IHAKNPCK_01793	CDS	531				hypothetical protein
+IHAKNPCK_01794	gene	588				
+IHAKNPCK_01794	CDS	588				hypothetical protein
+IHAKNPCK_01795	gene	972	dhmA2			
+IHAKNPCK_01795	CDS	972	dhmA2	3.8.1.5		Haloalkane dehalogenase 2
+IHAKNPCK_01796	gene	837				
+IHAKNPCK_01796	CDS	837				hypothetical protein
+IHAKNPCK_01797	gene	498				
+IHAKNPCK_01797	CDS	498				hypothetical protein
+IHAKNPCK_01798	gene	537				
+IHAKNPCK_01798	CDS	537				hypothetical protein
+IHAKNPCK_01799	gene	630				
+IHAKNPCK_01799	CDS	630				hypothetical protein
+IHAKNPCK_01800	gene	393				
+IHAKNPCK_01800	CDS	393				hypothetical protein
+IHAKNPCK_01801	gene	378				
+IHAKNPCK_01801	CDS	378				hypothetical protein
+IHAKNPCK_01802	gene	1443	ubiD			
+IHAKNPCK_01802	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IHAKNPCK_01803	gene	1119	mqnC			
+IHAKNPCK_01803	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+IHAKNPCK_01804	gene	789	griI			
+IHAKNPCK_01804	CDS	789	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+IHAKNPCK_01805	gene	1056	aroB'			
+IHAKNPCK_01805	CDS	1056	aroB'	1.4.1.24		3-dehydroquinate synthase
+IHAKNPCK_01806	gene	162				
+IHAKNPCK_01806	CDS	162				hypothetical protein
+IHAKNPCK_01807	gene	204				
+IHAKNPCK_01807	CDS	204				hypothetical protein
+IHAKNPCK_01808	gene	840	dpnA			
+IHAKNPCK_01808	CDS	840	dpnA	2.1.1.72		Modification methylase DpnIIB
+IHAKNPCK_01809	gene	372				
+IHAKNPCK_01809	CDS	372				hypothetical protein
+IHAKNPCK_01810	gene	309				
+IHAKNPCK_01810	CDS	309				hypothetical protein
+IHAKNPCK_01811	gene	678	aroD			
+IHAKNPCK_01811	CDS	678	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+IHAKNPCK_01812	gene	237				
+IHAKNPCK_01812	CDS	237				hypothetical protein
+IHAKNPCK_01813	gene	270				
+IHAKNPCK_01813	CDS	270				hypothetical protein
+IHAKNPCK_01814	gene	822	aroE			
+IHAKNPCK_01814	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+IHAKNPCK_01815	gene	834	thrB_3			
+IHAKNPCK_01815	CDS	834	thrB_3	2.7.1.39		Homoserine kinase
+IHAKNPCK_01816	gene	1263	aroA			
+IHAKNPCK_01816	CDS	1263	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+IHAKNPCK_01817	gene	1098	aroC			
+IHAKNPCK_01817	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+IHAKNPCK_01818	gene	1368	dapL			
+IHAKNPCK_01818	CDS	1368	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+IHAKNPCK_01819	gene	843	tyrA			
+IHAKNPCK_01819	CDS	843	tyrA		COG0287	T-protein
+IHAKNPCK_01820	gene	405				
+IHAKNPCK_01820	CDS	405				hypothetical protein
+IHAKNPCK_01821	gene	1317	bzaF			
+IHAKNPCK_01821	CDS	1317	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+IHAKNPCK_01822	gene	1317	pdxK			
+IHAKNPCK_01822	CDS	1317	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+IHAKNPCK_01823	gene	702	cugP_4			
+IHAKNPCK_01823	CDS	702	cugP_4	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IHAKNPCK_01824	gene	447				
+IHAKNPCK_01824	CDS	447				hypothetical protein
+IHAKNPCK_01825	gene	429				
+IHAKNPCK_01825	CDS	429				hypothetical protein
+IHAKNPCK_01826	gene	1017				
+IHAKNPCK_01826	CDS	1017				hypothetical protein
+IHAKNPCK_01827	gene	555				
+IHAKNPCK_01827	CDS	555				hypothetical protein
+IHAKNPCK_01828	gene	429	slyD			
+IHAKNPCK_01828	CDS	429	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+IHAKNPCK_01829	gene	1281	apgM			
+IHAKNPCK_01829	CDS	1281	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+IHAKNPCK_01830	gene	549				
+IHAKNPCK_01830	CDS	549				hypothetical protein
+IHAKNPCK_01831	gene	354				
+IHAKNPCK_01831	CDS	354				hypothetical protein
+IHAKNPCK_01832	gene	174				
+IHAKNPCK_01832	CDS	174				hypothetical protein
+IHAKNPCK_01833	gene	708				
+IHAKNPCK_01833	CDS	708				hypothetical protein
+IHAKNPCK_01834	gene	1161				
+IHAKNPCK_01834	CDS	1161				hypothetical protein
+IHAKNPCK_01835	gene	663	dnaJ_4			
+IHAKNPCK_01835	CDS	663	dnaJ_4			Chaperone protein DnaJ
+IHAKNPCK_01836	gene	1326	ffh			
+IHAKNPCK_01836	CDS	1326	ffh		COG0541	Signal recognition particle protein
+IHAKNPCK_01837	gene	684				
+IHAKNPCK_01837	CDS	684				hypothetical protein
+IHAKNPCK_01838	gene	408				
+IHAKNPCK_01838	CDS	408				hypothetical protein
+IHAKNPCK_01839	gene	618				
+IHAKNPCK_01839	CDS	618				hypothetical protein
+IHAKNPCK_01840	gene	507				
+IHAKNPCK_01840	CDS	507				hypothetical protein
+IHAKNPCK_01841	gene	744				
+IHAKNPCK_01841	CDS	744				hypothetical protein
+IHAKNPCK_01842	gene	693				
+IHAKNPCK_01842	CDS	693				hypothetical protein
+IHAKNPCK_01843	gene	588	scpB			
+IHAKNPCK_01843	CDS	588	scpB			Segregation and condensation protein B
+IHAKNPCK_01844	gene	381				
+IHAKNPCK_01844	CDS	381				hypothetical protein
+IHAKNPCK_01845	gene	300				
+IHAKNPCK_01845	CDS	300				hypothetical protein
+IHAKNPCK_01846	gene	273				
+IHAKNPCK_01846	CDS	273				hypothetical protein
+IHAKNPCK_01847	gene	960				
+IHAKNPCK_01847	CDS	960				hypothetical protein
+IHAKNPCK_01848	gene	1248				
+IHAKNPCK_01848	CDS	1248				hypothetical protein
+IHAKNPCK_01849	gene	1188				
+IHAKNPCK_01849	CDS	1188				hypothetical protein
+IHAKNPCK_01850	gene	627				
+IHAKNPCK_01850	CDS	627				hypothetical protein
+IHAKNPCK_01851	gene	807	pstB3			
+IHAKNPCK_01851	CDS	807	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+IHAKNPCK_01852	gene	921	pstA			
+IHAKNPCK_01852	CDS	921	pstA		COG0581	Phosphate transport system permease protein PstA
+IHAKNPCK_01853	gene	969	pstC			
+IHAKNPCK_01853	CDS	969	pstC		COG0573	Phosphate transport system permease protein PstC
+IHAKNPCK_01854	gene	1053				
+IHAKNPCK_01854	CDS	1053				hypothetical protein
+IHAKNPCK_01855	gene	621				
+IHAKNPCK_01855	CDS	621				hypothetical protein
+IHAKNPCK_01856	gene	990				
+IHAKNPCK_01856	CDS	990				hypothetical protein
+IHAKNPCK_01857	gene	801				
+IHAKNPCK_01857	CDS	801				hypothetical protein
+IHAKNPCK_01858	gene	1356	gppA			
+IHAKNPCK_01858	CDS	1356	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+IHAKNPCK_01859	gene	492	sixA			
+IHAKNPCK_01859	CDS	492	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+IHAKNPCK_01860	gene	669	tmk_2			
+IHAKNPCK_01860	CDS	669	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+IHAKNPCK_01861	gene	732	tmk_3			
+IHAKNPCK_01861	CDS	732	tmk_3	2.7.4.9		Thymidylate kinase
+IHAKNPCK_01862	gene	360				
+IHAKNPCK_01862	CDS	360				hypothetical protein
+IHAKNPCK_01863	gene	396				
+IHAKNPCK_01863	CDS	396				hypothetical protein
+IHAKNPCK_01864	gene	513				
+IHAKNPCK_01864	CDS	513				hypothetical protein
+IHAKNPCK_01865	gene	960				
+IHAKNPCK_01865	CDS	960				hypothetical protein
+IHAKNPCK_01866	gene	1395				
+IHAKNPCK_01866	CDS	1395				hypothetical protein
+IHAKNPCK_01867	gene	1179	ftsH_6			
+IHAKNPCK_01867	CDS	1179	ftsH_6	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IHAKNPCK_01868	gene	1239				
+IHAKNPCK_01868	CDS	1239				hypothetical protein
+IHAKNPCK_01869	gene	2175				
+IHAKNPCK_01869	CDS	2175				hypothetical protein
+IHAKNPCK_01870	gene	741	yknY			
+IHAKNPCK_01870	CDS	741	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+IHAKNPCK_01871	gene	165				
+IHAKNPCK_01871	CDS	165				hypothetical protein
+IHAKNPCK_01872	gene	411				
+IHAKNPCK_01872	CDS	411				hypothetical protein
+IHAKNPCK_01873	gene	495				
+IHAKNPCK_01873	CDS	495				hypothetical protein
+IHAKNPCK_01874	gene	378				
+IHAKNPCK_01874	CDS	378				hypothetical protein
+IHAKNPCK_01875	gene	528				
+IHAKNPCK_01875	CDS	528				hypothetical protein
+IHAKNPCK_01876	gene	273				
+IHAKNPCK_01876	CDS	273				hypothetical protein
+IHAKNPCK_01877	gene	339				
+IHAKNPCK_01877	CDS	339				hypothetical protein
+IHAKNPCK_01878	gene	411				
+IHAKNPCK_01878	CDS	411				hypothetical protein
+IHAKNPCK_01879	gene	273				
+IHAKNPCK_01879	CDS	273				hypothetical protein
+IHAKNPCK_01880	gene	504				
+IHAKNPCK_01880	CDS	504				hypothetical protein
+IHAKNPCK_01881	gene	771	sufC			
+IHAKNPCK_01881	CDS	771	sufC		COG0396	Vegetative protein 296
+IHAKNPCK_01882	gene	444	bcp_4			
+IHAKNPCK_01882	CDS	444	bcp_4	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IHAKNPCK_01883	gene	159				
+IHAKNPCK_01883	CDS	159				hypothetical protein
+IHAKNPCK_01884	gene	1221	argD			
+IHAKNPCK_01884	CDS	1221	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+IHAKNPCK_01885	gene	1254	bcd			
+IHAKNPCK_01885	CDS	1254	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+IHAKNPCK_01886	gene	621	yedJ			
+IHAKNPCK_01886	CDS	621	yedJ		COG1418	putative protein YedJ
+IHAKNPCK_01887	gene	312				
+IHAKNPCK_01887	CDS	312				hypothetical protein
+IHAKNPCK_01888	gene	981	hemB			
+IHAKNPCK_01888	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+IHAKNPCK_01889	gene	1257	hemA			
+IHAKNPCK_01889	CDS	1257	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+IHAKNPCK_01890	gene	654	cysG			
+IHAKNPCK_01890	CDS	654	cysG		COG0007	Siroheme synthase
+IHAKNPCK_01891	gene	1014				
+IHAKNPCK_01891	CDS	1014				hypothetical protein
+IHAKNPCK_01892	gene	321				
+IHAKNPCK_01892	CDS	321				hypothetical protein
+IHAKNPCK_01893	gene	501				
+IHAKNPCK_01893	CDS	501				hypothetical protein
+IHAKNPCK_01894	gene	999	iolS			
+IHAKNPCK_01894	CDS	999	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+IHAKNPCK_01895	gene	549				
+IHAKNPCK_01895	CDS	549				hypothetical protein
+IHAKNPCK_01896	gene	672				
+IHAKNPCK_01896	CDS	672				hypothetical protein
+IHAKNPCK_01897	gene	93				
+IHAKNPCK_01897	CDS	93				hypothetical protein
+IHAKNPCK_01898	gene	369				
+IHAKNPCK_01898	CDS	369				hypothetical protein
+IHAKNPCK_01899	gene	300				
+IHAKNPCK_01899	CDS	300				hypothetical protein
+IHAKNPCK_01900	gene	609				
+IHAKNPCK_01900	CDS	609				hypothetical protein
+IHAKNPCK_01901	gene	780				
+IHAKNPCK_01901	CDS	780				hypothetical protein
+IHAKNPCK_01902	gene	861				
+IHAKNPCK_01902	CDS	861				hypothetical protein
+IHAKNPCK_01903	gene	312				
+IHAKNPCK_01903	CDS	312				hypothetical protein
+IHAKNPCK_01904	gene	567				
+IHAKNPCK_01904	CDS	567				hypothetical protein
+IHAKNPCK_01905	gene	1212	pgk			
+IHAKNPCK_01905	CDS	1212	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+IHAKNPCK_01906	gene	339				
+IHAKNPCK_01906	CDS	339				hypothetical protein
+IHAKNPCK_01907	gene	441				
+IHAKNPCK_01907	CDS	441				hypothetical protein
+IHAKNPCK_01908	gene	1245	sufS_2			
+IHAKNPCK_01908	CDS	1245	sufS_2	2.8.1.7	COG0520	Cysteine desulfurase SufS
+IHAKNPCK_01909	gene	342	bphA3_3			
+IHAKNPCK_01909	CDS	342	bphA3_3			Biphenyl 2,3-dioxygenase, ferredoxin component
+IHAKNPCK_01910	gene	1401				
+IHAKNPCK_01910	CDS	1401				hypothetical protein
+IHAKNPCK_01911	gene	1401				
+IHAKNPCK_01911	CDS	1401				hypothetical protein
+IHAKNPCK_01912	gene	1170	arnC_5			
+IHAKNPCK_01912	CDS	1170	arnC_5	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IHAKNPCK_01913	gene	795				
+IHAKNPCK_01913	CDS	795				hypothetical protein
+IHAKNPCK_01914	gene	741	sumT			
+IHAKNPCK_01914	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+IHAKNPCK_01915	gene	936	hemC			
+IHAKNPCK_01915	CDS	936	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+IHAKNPCK_01916	gene	1278	hemL_2			
+IHAKNPCK_01916	CDS	1278	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+IHAKNPCK_01917	gene	888				
+IHAKNPCK_01917	CDS	888				hypothetical protein
+IHAKNPCK_01918	gene	183				
+IHAKNPCK_01918	CDS	183				hypothetical protein

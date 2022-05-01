@@ -1,0 +1,1095 @@
+Discrepancy Report Results
+
+Summary
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all same)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all same)
+DISC_FEATURE_COUNT:gene: 664 present
+DISC_FEATURE_COUNT:CDS: 651 present
+DISC_FEATURE_COUNT:tRNA: 10 present
+DISC_FEATURE_COUNT:rRNA: 2 present
+DISC_FEATURE_COUNT:misc_RNA: 1 present
+DISC_COUNT_NUCLEOTIDES:18 nucleotide Bioseqs are present
+OVERLAPPING_GENES:167 genes overlap another gene on the same strand.
+OVERLAPPING_CDS:2 coding regions overlap another coding region with a similar or identical name.
+SUSPECT_PRODUCT_NAMES:8 product_names contain suspect phrase or characters
+	Organelles not appropriate in prokaryote
+		3 features contains 'Chloroplast'
+		2 features contains 'Mitochondrial'
+	May contain database identifier more appropriate in note; remove from product name
+		3 features Three or more numbers together
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+FATAL: DISC_SUSPECT_RRNA_PRODUCTS:1 rRNA product names contain suspect phrase
+FATAL: DISC_SHORT_RRNA:1 rRNA features are too short
+DISC_BAD_BACTERIAL_GENE_NAME:4 bacterial genes do not start with lowercase letters
+ONCALLER_COMMENT_PRESENT:18 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:5 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:18 bioseqs are missing GenomeAssembly structured comments
+TEST_UNUSUAL_MISC_RNA:1 unexpected misc_RNA features found.  misc_RNAs are unusual in a genome, consider using ncRNA, misc_binding, or misc_feature as appropriate.
+MOLTYPE_NOT_MRNA:18 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:18 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:18 sequences do not include structured comments.
+MISSING_PROJECT:669 sequences do not include project.
+FATAL: RRNA_NAME_CONFLICTS:1 rRNA product names are not standard. Correct the names to the standard format, eg "16S ribosomal RNA"
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+DISC_GAPS:14 sequences contain gaps
+
+
+Detailed Report
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::18 sources have 'strain' for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::18 sources have 'Genus species' for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::gene: 664 present
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 651 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 10 present
+DiscRep_ALL:DISC_FEATURE_COUNT::rRNA: 2 present
+DiscRep_ALL:DISC_FEATURE_COUNT::misc_RNA: 1 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::18 nucleotide Bioseqs are present
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+
+DiscRep_ALL:OVERLAPPING_GENES::167 genes overlap another gene on the same strand.
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00020	CPFPKEKP_3:c2830-2345	CPFPKEKP_00020
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00021	CPFPKEKP_3:c3372-2827	CPFPKEKP_00021
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	fbiD	CPFPKEKP_5:c34173-33541	CPFPKEKP_00063
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	fbiA	CPFPKEKP_5:c35090-34170	CPFPKEKP_00064
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lnrN	CPFPKEKP_5:c36194-35115	CPFPKEKP_00065
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lnrL_2	CPFPKEKP_5:c37114-36191	CPFPKEKP_00066
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00067	CPFPKEKP_5:c37494-37111	CPFPKEKP_00067
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00075	CPFPKEKP_5:43399-44190	CPFPKEKP_00075
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	pepA	CPFPKEKP_5:44187-45653	CPFPKEKP_00076
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	grpE	CPFPKEKP_5:51217-51522	CPFPKEKP_00081
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	dnaK_2	CPFPKEKP_5:51515-53398	CPFPKEKP_00082
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	dnaJ	CPFPKEKP_5:53395-54507	CPFPKEKP_00083
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	nadK	CPFPKEKP_5:54965-55789	CPFPKEKP_00085
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00086	CPFPKEKP_5:55779-56285	CPFPKEKP_00086
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00116	CPFPKEKP_6:14633-15424	CPFPKEKP_00116
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00117	CPFPKEKP_6:15424-15579	CPFPKEKP_00117
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00119	CPFPKEKP_6:c17936-17739	CPFPKEKP_00119
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00120	CPFPKEKP_6:c18211-17933	CPFPKEKP_00120
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00122	CPFPKEKP_6:c20053-18899	CPFPKEKP_00122
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00123	CPFPKEKP_6:c21116-20043	CPFPKEKP_00123
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	aroC	CPFPKEKP_7:c2992-1898	CPFPKEKP_00134
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	aroA	CPFPKEKP_7:c4269-2992	CPFPKEKP_00135
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	thrB_1	CPFPKEKP_7:c5120-4269	CPFPKEKP_00136
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	aroD	CPFPKEKP_7:c6684-5974	CPFPKEKP_00138
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	griH	CPFPKEKP_7:c7738-6662	CPFPKEKP_00139
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	griI_1	CPFPKEKP_7:c8496-7735	CPFPKEKP_00140
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	sufU	CPFPKEKP_7:c14450-14046	CPFPKEKP_00146
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	sufS	CPFPKEKP_7:c15679-14450	CPFPKEKP_00147
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	sufC	CPFPKEKP_7:c16434-15679	CPFPKEKP_00148
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	purC	CPFPKEKP_7:c19508-18663	CPFPKEKP_00151
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	purE	CPFPKEKP_7:c19948-19505	CPFPKEKP_00152
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	purD	CPFPKEKP_7:c21191-19941	CPFPKEKP_00153
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	purF	CPFPKEKP_7:c22616-21198	CPFPKEKP_00154
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	purL	CPFPKEKP_7:c24823-22613	CPFPKEKP_00155
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	purQ	CPFPKEKP_7:c25533-24820	CPFPKEKP_00156
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00159	CPFPKEKP_7:c26994-26707	CPFPKEKP_00159
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00160	CPFPKEKP_7:c27742-26981	CPFPKEKP_00160
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00182	CPFPKEKP_8:6949-7740	CPFPKEKP_00182
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00183	CPFPKEKP_8:7737-7970	CPFPKEKP_00183
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00187	CPFPKEKP_8:9410-9922	CPFPKEKP_00187
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00188	CPFPKEKP_8:9873-10406	CPFPKEKP_00188
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00192	CPFPKEKP_8:13498-14274	CPFPKEKP_00192
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00193	CPFPKEKP_8:14261-14695	CPFPKEKP_00193
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00194	CPFPKEKP_8:14692-15663	CPFPKEKP_00194
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00197	CPFPKEKP_8:17634-18866	CPFPKEKP_00197
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00198	CPFPKEKP_8:18844-19683	CPFPKEKP_00198
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00209	CPFPKEKP_9:245-1192	CPFPKEKP_00209
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00210	CPFPKEKP_9:1149-1769	CPFPKEKP_00210
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00212	CPFPKEKP_9:2606-3886	CPFPKEKP_00212
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00213	CPFPKEKP_9:3879-4955	CPFPKEKP_00213
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	gph	CPFPKEKP_9:4913-5545	CPFPKEKP_00214
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00218	CPFPKEKP_10:297-1280	CPFPKEKP_00218
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00219	CPFPKEKP_10:1252-2109	CPFPKEKP_00219
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00223	CPFPKEKP_10:4511-5536	CPFPKEKP_00223
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00224	CPFPKEKP_10:5523-5711	CPFPKEKP_00224
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00225	CPFPKEKP_10:5711-7858	CPFPKEKP_00225
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	dppB	CPFPKEKP_11:6940-7989	CPFPKEKP_00230
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00231	CPFPKEKP_11:7986-9413	CPFPKEKP_00231
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	rsmA	CPFPKEKP_11:18825-19574	CPFPKEKP_00243
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	prmC	CPFPKEKP_11:19571-20113	CPFPKEKP_00244
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00257	CPFPKEKP_11:c31244-30270	CPFPKEKP_00257
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	srmB_2	CPFPKEKP_11:c33982-31241	CPFPKEKP_00258
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	hsaB	CPFPKEKP_11:36867-37334	CPFPKEKP_00261
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00262	CPFPKEKP_11:37327-37830	CPFPKEKP_00262
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lipB	CPFPKEKP_11:c55703-55050	CPFPKEKP_00275
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	pdhC	CPFPKEKP_11:c56853-55690	CPFPKEKP_00276
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	carA	CPFPKEKP_11:66198-67328	CPFPKEKP_00284
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	carB	CPFPKEKP_11:67325-70543	CPFPKEKP_00285
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	crt	CPFPKEKP_13:c2511-1675	CPFPKEKP_00315
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	hbd	CPFPKEKP_13:c3445-2471	CPFPKEKP_00316
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ndhC	CPFPKEKP_13:9704-10117	CPFPKEKP_00326
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	nqo6	CPFPKEKP_13:10111-10623	CPFPKEKP_00327
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ndhA	CPFPKEKP_13:12244-13404	CPFPKEKP_00330
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ndhI	CPFPKEKP_13:13404-13904	CPFPKEKP_00331
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00332	CPFPKEKP_13:13897-14388	CPFPKEKP_00332
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	mrpA	CPFPKEKP_13:14711-16240	CPFPKEKP_00334
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	nuoL	CPFPKEKP_13:16240-18339	CPFPKEKP_00335
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00341	CPFPKEKP_13:c25278-23629	CPFPKEKP_00341
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00342	CPFPKEKP_13:c26777-25269	CPFPKEKP_00342
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	TOP6B	CPFPKEKP_14:c2393-852	CPFPKEKP_00351
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00352	CPFPKEKP_14:c2949-2380	CPFPKEKP_00352
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00353	CPFPKEKP_14:c3730-2939	CPFPKEKP_00353
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	dapL	CPFPKEKP_14:c11158-10004	CPFPKEKP_00364
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lysA	CPFPKEKP_14:c12438-11155	CPFPKEKP_00365
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	dapB	CPFPKEKP_14:c13243-12449	CPFPKEKP_00366
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	dapA	CPFPKEKP_14:c14276-13230	CPFPKEKP_00367
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ntpD	CPFPKEKP_14:c25621-24989	CPFPKEKP_00381
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ntpB	CPFPKEKP_14:c27018-25621	CPFPKEKP_00382
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	atpA	CPFPKEKP_14:c28792-27002	CPFPKEKP_00383
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00400	CPFPKEKP_14:c48800-47964	CPFPKEKP_00400
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lnrL_3	CPFPKEKP_14:c49723-48800	CPFPKEKP_00401
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00407	CPFPKEKP_14:56543-57025	CPFPKEKP_00407
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00408	CPFPKEKP_14:57025-57360	CPFPKEKP_00408
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00409	CPFPKEKP_14:57373-58335	CPFPKEKP_00409
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00410	CPFPKEKP_14:58332-59627	CPFPKEKP_00410
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00411	CPFPKEKP_14:59633-60586	CPFPKEKP_00411
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00412	CPFPKEKP_14:60583-62265	CPFPKEKP_00412
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00417	CPFPKEKP_14:c66605-65064	CPFPKEKP_00417
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ribZ	CPFPKEKP_14:c68083-66602	CPFPKEKP_00418
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	pfdA	CPFPKEKP_14:74894-75316	CPFPKEKP_00426
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ftsY	CPFPKEKP_14:75300-76199	CPFPKEKP_00427
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ndk	CPFPKEKP_15:c16106-15702	CPFPKEKP_00453
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00454	CPFPKEKP_15:c16288-16103	CPFPKEKP_00454
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	trpE	CPFPKEKP_15:17189-18460	CPFPKEKP_00457
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	trpG	CPFPKEKP_15:18457-19047	CPFPKEKP_00458
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	trpD	CPFPKEKP_15:19044-20105	CPFPKEKP_00459
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	trpC	CPFPKEKP_15:20065-20886	CPFPKEKP_00460
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	trpB	CPFPKEKP_15:20883-22076	CPFPKEKP_00461
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	trpA	CPFPKEKP_15:22073-22879	CPFPKEKP_00462
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	ispB_2	CPFPKEKP_15:c26925-25882	CPFPKEKP_00465
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	fni	CPFPKEKP_15:c28007-26925	CPFPKEKP_00466
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	proB	CPFPKEKP_15:c28765-28004	CPFPKEKP_00467
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	galK_1	CPFPKEKP_15:c29688-28750	CPFPKEKP_00468
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00469	CPFPKEKP_15:c30421-29756	CPFPKEKP_00469
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	eno	CPFPKEKP_15:c31676-30411	CPFPKEKP_00470
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	rpsI	CPFPKEKP_15:c32363-31959	CPFPKEKP_00472
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00473	CPFPKEKP_15:c32812-32363	CPFPKEKP_00473
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00474	CPFPKEKP_15:c33134-32802	CPFPKEKP_00474
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00478	CPFPKEKP_15:c36210-35374	CPFPKEKP_00478
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00479	CPFPKEKP_15:c36964-36185	CPFPKEKP_00479
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	thrB_2	CPFPKEKP_15:41232-42170	CPFPKEKP_00484
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	thrC_1	CPFPKEKP_15:42170-43384	CPFPKEKP_00485
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00487	CPFPKEKP_15:c44697-43918	CPFPKEKP_00487
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	gmhB	CPFPKEKP_15:c45140-44694	CPFPKEKP_00488
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	gmhA	CPFPKEKP_15:c45685-45137	CPFPKEKP_00489
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	galK_2	CPFPKEKP_15:c46439-45675	CPFPKEKP_00490
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00494	CPFPKEKP_16:2988-4013	CPFPKEKP_00494
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00495	CPFPKEKP_16:4010-4540	CPFPKEKP_00495
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lysJ	CPFPKEKP_16:c12409-11222	CPFPKEKP_00502
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lysZ	CPFPKEKP_16:c13241-12399	CPFPKEKP_00503
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	lysY	CPFPKEKP_16:c14266-13214	CPFPKEKP_00504
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00506	CPFPKEKP_16:c15314-15141	CPFPKEKP_00506
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	argH	CPFPKEKP_16:c16804-15314	CPFPKEKP_00507
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	argG	CPFPKEKP_16:c17976-16801	CPFPKEKP_00508
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00516	CPFPKEKP_16:c24140-22977	CPFPKEKP_00516
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00517	CPFPKEKP_16:c25032-24124	CPFPKEKP_00517
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00518	CPFPKEKP_16:25122-25664	CPFPKEKP_00518
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	rnhB	CPFPKEKP_16:25657-26352	CPFPKEKP_00519
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00520	CPFPKEKP_16:c27043-26360	CPFPKEKP_00520
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00521	CPFPKEKP_16:c28229-27018	CPFPKEKP_00521
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	COQ5	CPFPKEKP_16:30718-31470	CPFPKEKP_00524
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00525	CPFPKEKP_16:31467-32165	CPFPKEKP_00525
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00527	CPFPKEKP_16:33235-34137	CPFPKEKP_00527
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	mshA	CPFPKEKP_16:34134-35252	CPFPKEKP_00528
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	metE_1	CPFPKEKP_16:44970-45908	CPFPKEKP_00537
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	metE_2	CPFPKEKP_16:45905-46921	CPFPKEKP_00538
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00546	CPFPKEKP_16:53768-53959	CPFPKEKP_00546
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00547	CPFPKEKP_16:53949-54995	CPFPKEKP_00547
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00555	CPFPKEKP_16:c65284-64427	CPFPKEKP_00555
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	rplA	CPFPKEKP_16:c65937-65284	CPFPKEKP_00556
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	truB	CPFPKEKP_16:c82167-81166	CPFPKEKP_00577
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	cmk	CPFPKEKP_16:c82711-82154	CPFPKEKP_00578
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00586	CPFPKEKP_16:c87800-87270	CPFPKEKP_00586
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00587	CPFPKEKP_16:c88372-87797	CPFPKEKP_00587
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	rpsH	CPFPKEKP_16:c88730-88338	CPFPKEKP_00588
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00594	CPFPKEKP_16:c91280-90960	CPFPKEKP_00594
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00595	CPFPKEKP_16:c91543-91277	CPFPKEKP_00595
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00596	CPFPKEKP_16:c91749-91540	CPFPKEKP_00596
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00602	CPFPKEKP_16:c94612-94346	CPFPKEKP_00602
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00603	CPFPKEKP_16:c95402-94602	CPFPKEKP_00603
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00604	CPFPKEKP_16:c96403-95399	CPFPKEKP_00604
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	queF	CPFPKEKP_17:344-724	CPFPKEKP_00633
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00634	CPFPKEKP_17:708-953	CPFPKEKP_00634
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00646	CPFPKEKP_18:c10724-9840	CPFPKEKP_00646
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00647	CPFPKEKP_18:c12030-10717	CPFPKEKP_00647
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00651	CPFPKEKP_18:c15863-15708	CPFPKEKP_00651
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	CPFPKEKP_00652	CPFPKEKP_18:c16150-15863	CPFPKEKP_00652
+
+DiscRep_ALL:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name.
+DiscRep_SUB:OVERLAPPING_CDS::2 coding regions overlap another coding region with a similar or identical name that do not have the appropriate note text
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	CPFPKEKP_16:44970-45908	CPFPKEKP_00537
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	CPFPKEKP_16:45905-46921	CPFPKEKP_00538
+
+DiscRep_ALL:SUSPECT_PRODUCT_NAMES::8 product_names contain suspect phrase or characters
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Organelles not appropriate in prokaryote
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::3 features contains 'Chloroplast'
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic	CPFPKEKP_13:9704-10117	CPFPKEKP_00326
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	CPFPKEKP_13:10636-11115	CPFPKEKP_00328
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic	CPFPKEKP_13:12244-13404	CPFPKEKP_00330
+
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::2 features contains 'Mitochondrial'
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	Methionine aminopeptidase 1, mitochondrial	CPFPKEKP_13:c30421-29516	CPFPKEKP_00347
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial	CPFPKEKP_16:30718-31470	CPFPKEKP_00524
+
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
+DiscRep_SUB:SUSPECT_PRODUCT_NAMES::3 features Three or more numbers together
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	Bifunctional F420 biosynthesis protein FbiB	CPFPKEKP_1:5766-6527	CPFPKEKP_00007
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	Vegetative protein 296	CPFPKEKP_7:c16434-15679	CPFPKEKP_00148
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:CDS	Bifunctional F420 biosynthesis protein FbiB	CPFPKEKP_8:2436-3212	CPFPKEKP_00173
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+FATAL: DiscRep_ALL:DISC_SUSPECT_RRNA_PRODUCTS::1 rRNA product names contain suspect phrase
+FATAL: DiscRep_SUB:DISC_SUSPECT_RRNA_PRODUCTS::1 rRNA product names contains 'partial'
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:rRNA	16S ribosomal RNA (partial)	CPFPKEKP_7:c543-3	CPFPKEKP_00132
+
+FATAL: DiscRep_ALL:DISC_SHORT_RRNA::1 rRNA features are too short
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:rRNA	16S ribosomal RNA (partial)	CPFPKEKP_7:c543-3	CPFPKEKP_00132
+
+DiscRep_ALL:DISC_BAD_BACTERIAL_GENE_NAME::4 bacterial genes do not start with lowercase letters
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	QTRT1	CPFPKEKP_7:10471-12039	CPFPKEKP_00143
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	TOP6A	CPFPKEKP_7:c32860-32663	CPFPKEKP_00168
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	TOP6B	CPFPKEKP_14:c2393-852	CPFPKEKP_00351
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Gene	COQ5	CPFPKEKP_16:30718-31470	CPFPKEKP_00524
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::18 comment descriptors were found (all same)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18:Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::5 protein sequences are shorter than 50 aa.
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00312 (length 35)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00369 (length 38)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00374 (length 46)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00380 (length 41)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00635 (length 42)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::18 bioseqs are missing GenomeAssembly structured comments
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+
+DiscRep_ALL:TEST_UNUSUAL_MISC_RNA::1 unexpected misc_RNA features found.  misc_RNAs are unusual in a genome, consider using ncRNA, misc_binding, or misc_feature as appropriate.
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:RNA	Archaea_SRP	CPFPKEKP_14:79691-79998	CPFPKEKP_00431
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::18 molecule types are not set as mRNA.
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::18 technique are not set as TSA
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::18 sequences do not include structured comments.
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+
+DiscRep_ALL:MISSING_PROJECT::669 sequences do not include project.
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00001 (length 60)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00002 (length 162)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00003 (length 234)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00004 (length 392)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00005 (length 156)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00006 (length 156)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00007 (length 253)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00008 (length 61)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00009 (length 114)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00010 (length 117)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00011 (length 60)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00012 (length 300)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00014 (length 424)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00015 (length 170)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00016 (length 77)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00017 (length 183)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00018 (length 278)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00019 (length 273)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00020 (length 161)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00021 (length 181)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00022 (length 127)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00023 (length 236)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00024 (length 279)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00025 (length 81)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00026 (length 124)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00027 (length 244)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00028 (length 61)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00029 (length 89)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00030 (length 291)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00031 (length 329)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00032 (length 375)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00033 (length 151)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00034 (length 250)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00035 (length 407)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00036 (length 371)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00037 (length 383)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00038 (length 239)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00039 (length 364)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00040 (length 335)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00041 (length 255)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00043 (length 422)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00044 (length 124)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00045 (length 399)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00046 (length 305)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00047 (length 324)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00048 (length 216)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00049 (length 670)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00050 (length 230)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00051 (length 316)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00052 (length 463)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00053 (length 175)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00054 (length 602)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00055 (length 127)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00056 (length 461)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00057 (length 485)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00058 (length 559)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00059 (length 337)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00060 (length 113)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00061 (length 390)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00062 (length 91)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00063 (length 210)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00064 (length 306)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00065 (length 359)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00066 (length 307)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00067 (length 127)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00068 (length 126)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00069 (length 193)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00070 (length 231)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00071 (length 112)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00072 (length 423)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00073 (length 203)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00074 (length 519)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00075 (length 263)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00076 (length 488)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00077 (length 539)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00078 (length 333)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00079 (length 440)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00080 (length 222)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00081 (length 101)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00082 (length 627)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00083 (length 370)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00084 (length 132)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00085 (length 274)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00086 (length 168)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00087 (length 241)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00088 (length 123)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00089 (length 274)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00090 (length 131)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00091 (length 429)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00092 (length 362)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00093 (length 385)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00094 (length 319)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00095 (length 90)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00096 (length 169)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00097 (length 156)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00098 (length 80)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00099 (length 264)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00100 (length 111)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00102 (length 88)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00103 (length 60)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00104 (length 118)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00105 (length 351)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00106 (length 140)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00107 (length 213)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00108 (length 286)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00109 (length 242)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00110 (length 474)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00111 (length 658)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00112 (length 596)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00113 (length 125)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00114 (length 144)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00115 (length 450)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00116 (length 263)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00117 (length 51)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00118 (length 720)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00119 (length 65)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00120 (length 92)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00121 (length 187)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00122 (length 384)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00123 (length 357)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00124 (length 78)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00125 (length 502)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00126 (length 182)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00127 (length 157)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00128 (length 157)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00129 (length 89)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00130 (length 365)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00131 (length 154)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00133 (length 380)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00134 (length 364)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00135 (length 425)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00136 (length 283)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00137 (length 278)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00138 (length 236)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00139 (length 358)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00140 (length 253)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00141 (length 479)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00142 (length 103)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00143 (length 522)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00144 (length 234)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00145 (length 431)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00146 (length 134)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00147 (length 409)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00148 (length 251)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00149 (length 347)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00150 (length 348)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00151 (length 281)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00152 (length 147)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00153 (length 416)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00154 (length 472)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00155 (length 736)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00156 (length 237)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00157 (length 78)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00158 (length 279)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00159 (length 95)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00160 (length 253)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00161 (length 101)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00162 (length 69)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00163 (length 143)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00164 (length 309)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00165 (length 479)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00166 (length 266)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00167 (length 90)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00168 (length 65)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00169 (length 176)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00170 (length 244)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00171 (length 50)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00172 (length 150)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00173 (length 258)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00174 (length 53)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00175 (length 206)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00176 (length 104)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00177 (length 108)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00178 (length 289)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00179 (length 186)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00180 (length 76)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00181 (length 57)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00182 (length 263)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00183 (length 77)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00184 (length 224)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00185 (length 101)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00186 (length 112)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00187 (length 170)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00188 (length 177)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00189 (length 98)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00190 (length 637)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00191 (length 218)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00192 (length 258)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00193 (length 144)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00194 (length 323)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00195 (length 324)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00196 (length 327)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00197 (length 410)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00198 (length 279)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00199 (length 677)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00200 (length 108)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00201 (length 770)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00202 (length 551)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00203 (length 237)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00204 (length 343)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00205 (length 438)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00206 (length 91)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00207 (length 443)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00208 (length 51)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00209 (length 315)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00210 (length 206)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00212 (length 426)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00213 (length 358)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00214 (length 210)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00215 (length 335)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00216 (length 292)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00217 (length 117)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00218 (length 327)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00219 (length 285)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00220 (length 369)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00221 (length 174)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00222 (length 165)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00223 (length 341)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00224 (length 62)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00225 (length 715)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00226 (length 226)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00227 (length 266)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00228 (length 813)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00229 (length 53)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00230 (length 349)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00231 (length 475)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00232 (length 599)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00233 (length 675)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00234 (length 417)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00236 (length 271)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00237 (length 157)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00238 (length 119)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00239 (length 68)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00240 (length 93)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00241 (length 108)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00242 (length 186)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00243 (length 249)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00244 (length 180)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00245 (length 233)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00246 (length 388)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00247 (length 165)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00248 (length 227)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00249 (length 311)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00250 (length 198)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00251 (length 103)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00252 (length 355)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00253 (length 76)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00254 (length 114)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00255 (length 340)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00256 (length 444)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00257 (length 324)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00258 (length 913)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00259 (length 753)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00260 (length 71)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00261 (length 155)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00262 (length 167)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00263 (length 306)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00264 (length 897)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00265 (length 787)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00266 (length 326)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00267 (length 439)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00268 (length 990)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00269 (length 71)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00270 (length 80)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00271 (length 443)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00272 (length 83)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00273 (length 577)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00274 (length 291)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00275 (length 217)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00276 (length 387)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00277 (length 324)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00278 (length 301)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00279 (length 565)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00280 (length 141)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00281 (length 894)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00282 (length 236)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00283 (length 414)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00284 (length 376)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00285 (length 1072)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00286 (length 209)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00287 (length 151)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00288 (length 106)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00289 (length 220)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00290 (length 97)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00291 (length 304)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00292 (length 277)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00293 (length 94)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00294 (length 106)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00295 (length 252)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00296 (length 275)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00297 (length 321)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00298 (length 336)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00299 (length 139)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00300 (length 311)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00301 (length 156)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00302 (length 251)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00303 (length 127)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00304 (length 559)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00305 (length 469)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00306 (length 59)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00307 (length 598)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00308 (length 278)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00309 (length 439)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00310 (length 405)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00311 (length 319)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00312 (length 35)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00313 (length 199)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00314 (length 92)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00315 (length 278)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00316 (length 324)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00317 (length 126)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00318 (length 385)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00319 (length 198)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00320 (length 376)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00321 (length 400)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00322 (length 101)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00323 (length 119)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00324 (length 136)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00325 (length 105)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00326 (length 137)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00327 (length 170)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00328 (length 159)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00329 (length 373)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00330 (length 386)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00331 (length 166)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00332 (length 163)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00333 (length 102)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00334 (length 509)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00335 (length 699)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00336 (length 498)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00337 (length 482)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00338 (length 292)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00339 (length 203)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00340 (length 164)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00341 (length 549)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00342 (length 502)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00343 (length 372)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00345 (length 372)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00346 (length 68)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00347 (length 301)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00348 (length 177)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00349 (length 285)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00350 (length 297)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00351 (length 513)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00352 (length 189)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00353 (length 263)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00354 (length 103)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00355 (length 103)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00356 (length 140)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00357 (length 169)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00358 (length 260)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00359 (length 413)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00360 (length 403)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00361 (length 99)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00362 (length 104)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00363 (length 155)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00364 (length 384)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00365 (length 427)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00366 (length 264)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00367 (length 348)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00368 (length 259)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00369 (length 38)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00370 (length 68)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00371 (length 464)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00373 (length 693)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00374 (length 46)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00375 (length 796)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00376 (length 308)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00377 (length 153)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00378 (length 70)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00379 (length 102)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00380 (length 41)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00381 (length 210)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00382 (length 465)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00383 (length 596)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00384 (length 100)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00385 (length 201)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00386 (length 200)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00387 (length 394)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00388 (length 98)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00389 (length 752)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00390 (length 194)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00391 (length 534)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00392 (length 707)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00393 (length 664)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00394 (length 252)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00395 (length 697)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00396 (length 216)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00397 (length 99)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00398 (length 55)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00399 (length 160)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00400 (length 278)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00401 (length 307)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00402 (length 499)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00403 (length 372)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00404 (length 386)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00405 (length 604)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00406 (length 261)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00407 (length 160)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00408 (length 111)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00409 (length 320)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00410 (length 431)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00411 (length 317)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00412 (length 560)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00413 (length 373)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00414 (length 143)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00415 (length 190)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00416 (length 164)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00417 (length 513)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00418 (length 493)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00419 (length 200)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00420 (length 348)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00421 (length 169)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00422 (length 390)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00423 (length 353)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00424 (length 126)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00425 (length 221)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00426 (length 140)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00427 (length 299)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00428 (length 309)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00429 (length 239)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00430 (length 575)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00432 (length 209)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00433 (length 112)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00434 (length 114)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00435 (length 60)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00436 (length 221)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00437 (length 82)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00438 (length 163)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00439 (length 121)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00440 (length 186)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00441 (length 268)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00442 (length 254)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00443 (length 413)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00445 (length 588)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00446 (length 133)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00447 (length 175)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00448 (length 64)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00449 (length 193)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00450 (length 132)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00451 (length 311)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00452 (length 590)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00453 (length 134)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00454 (length 61)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00455 (length 72)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00456 (length 123)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00457 (length 423)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00458 (length 196)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00459 (length 353)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00460 (length 273)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00461 (length 397)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00462 (length 268)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00463 (length 421)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00464 (length 576)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00465 (length 347)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00466 (length 360)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00467 (length 253)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00468 (length 312)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00469 (length 221)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00470 (length 421)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00471 (length 78)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00472 (length 134)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00473 (length 149)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00474 (length 110)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00475 (length 211)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00476 (length 143)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00477 (length 92)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00478 (length 278)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00479 (length 259)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00480 (length 158)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00481 (length 357)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00482 (length 462)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00483 (length 336)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00484 (length 312)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00485 (length 404)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00486 (length 163)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00487 (length 259)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00488 (length 148)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00489 (length 182)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00490 (length 254)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00491 (length 56)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00492 (length 323)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00493 (length 100)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00494 (length 341)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00495 (length 176)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00496 (length 406)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00497 (length 93)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00498 (length 367)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00499 (length 153)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00500 (length 730)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00501 (length 426)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00502 (length 395)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00503 (length 280)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00504 (length 350)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00505 (length 288)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00506 (length 57)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00507 (length 496)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00508 (length 391)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00509 (length 225)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00510 (length 92)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00511 (length 267)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00512 (length 140)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00513 (length 230)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00514 (length 334)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00515 (length 260)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00516 (length 387)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00517 (length 302)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00518 (length 180)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00519 (length 231)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00520 (length 227)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00521 (length 403)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00522 (length 59)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00523 (length 527)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00524 (length 250)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00525 (length 232)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00526 (length 324)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00527 (length 300)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00528 (length 372)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00529 (length 654)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00530 (length 313)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00531 (length 295)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00532 (length 561)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00533 (length 463)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00534 (length 445)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00535 (length 228)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00536 (length 204)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00537 (length 312)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00538 (length 338)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00539 (length 274)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00540 (length 183)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00541 (length 151)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00542 (length 191)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00543 (length 476)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00544 (length 474)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00545 (length 118)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00546 (length 63)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00547 (length 348)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00548 (length 200)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00549 (length 273)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00550 (length 298)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00551 (length 232)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00552 (length 961)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00553 (length 908)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00554 (length 103)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00555 (length 285)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00556 (length 217)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00557 (length 160)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00558 (length 163)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00559 (length 58)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00560 (length 273)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00561 (length 152)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00562 (length 333)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00563 (length 266)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00564 (length 99)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00565 (length 168)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00566 (length 254)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00567 (length 150)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00568 (length 317)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00569 (length 361)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00570 (length 166)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00571 (length 428)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00572 (length 247)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00573 (length 436)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00574 (length 158)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00575 (length 356)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00576 (length 94)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00577 (length 333)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00578 (length 185)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00579 (length 193)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00580 (length 470)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00581 (length 136)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00582 (length 155)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00583 (length 240)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00584 (length 159)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00585 (length 147)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00586 (length 176)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00587 (length 191)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00588 (length 130)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00589 (length 64)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00590 (length 170)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00591 (length 242)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00592 (length 114)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00593 (length 139)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00594 (length 106)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00595 (length 88)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00596 (length 69)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00597 (length 72)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00598 (length 65)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00599 (length 151)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00600 (length 131)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00601 (length 248)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00602 (length 88)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00603 (length 266)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00604 (length 334)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00605 (length 104)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00606 (length 583)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00607 (length 217)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00608 (length 186)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00609 (length 262)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00610 (length 194)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00611 (length 267)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00612 (length 184)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00613 (length 216)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00614 (length 233)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00616 (length 283)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00617 (length 110)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00618 (length 248)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00619 (length 251)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00620 (length 339)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00621 (length 572)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00622 (length 177)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00623 (length 61)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00624 (length 89)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00625 (length 429)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00627 (length 412)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00628 (length 343)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00630 (length 73)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00631 (length 305)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00632 (length 92)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00633 (length 126)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00634 (length 81)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00635 (length 42)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00636 (length 207)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00637 (length 241)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00638 (length 510)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00639 (length 159)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00640 (length 305)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00641 (length 210)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00642 (length 557)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00643 (length 392)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00644 (length 406)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00645 (length 170)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00646 (length 294)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00647 (length 437)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00648 (length 75)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00649 (length 259)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00650 (length 332)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00651 (length 51)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00652 (length 95)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00653 (length 53)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00654 (length 410)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00655 (length 249)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00656 (length 187)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00657 (length 274)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00658 (length 133)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00659 (length 233)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00660 (length 117)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00661 (length 332)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00662 (length 113)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00663 (length 215)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_00664 (length 50)
+
+FATAL: DiscRep_ALL:RRNA_NAME_CONFLICTS::1 rRNA product names are not standard. Correct ts to the standard format,format, eg "16S ribosomal RNA"
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:rRNA	16S ribosomal RNA (partial)	CPFPKEKP_7:c543-3	CPFPKEKP_00132
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::18 Molinfos are missing field technique
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_3 (length 6657)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_4 (length 2601)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_7 (length 32953)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_10 (length 7954)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+
+DiscRep_ALL:DISC_GAPS::14 sequences contain gaps
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_1 (length 7416, 6 other, 391 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_2 (length 7558, 329 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_5 (length 65894, 216 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_6 (length 31207, 1118 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_8 (length 32573, 132 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_9 (length 8531, 32 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_11 (length 74131, 974 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_12 (length 23043, 1318 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_13 (length 33255, 66 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_14 (length 80830, 311 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_15 (length 46583, 551 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_16 (length 120562, 1099 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_17 (length 4896, 464 gap)
+Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_10312021:Prokka:CPFPKEKP_18 (length 26718, 1128 gap)
+

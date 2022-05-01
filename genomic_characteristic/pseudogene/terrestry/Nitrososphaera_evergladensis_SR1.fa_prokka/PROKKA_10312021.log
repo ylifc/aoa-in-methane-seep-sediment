@@ -1,0 +1,478 @@
+[21:20:41] This is prokka 1.14.6
+[21:20:41] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[21:20:41] Homepage is https://github.com/tseemann/prokka
+[21:20:41] Local time is Sun Oct 31 21:20:41 2021
+[21:20:41] You are ylifc
+[21:20:41] Operating system is linux
+[21:20:41] You have BioPerl 1.007002
+[21:20:41] System has 64 cores.
+[21:20:41] Will use maximum of 64 cores.
+[21:20:41] Annotating as >>> Bacteria <<<
+[21:20:41] Generating locus_tag from 'Nitrososphaera_evergladensis_SR1.fa' contents.
+[21:20:41] Setting --locustag IKJJFKCN from MD5 2433f4c7cf0e20ec192dd340532038fb
+[21:20:41] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[21:20:41] Creating new output folder: Nitrososphaera_evergladensis_SR1.fa_prokka
+[21:20:41] Running: mkdir -p Nitrososphaera_evergladensis_SR1\.fa_prokka
+[21:20:41] Using filename prefix: PROKKA_10312021.XXX
+[21:20:41] Setting HMMER_NCPU=1
+[21:20:41] Writing log to: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.log
+[21:20:41] Command: /home/ylifc/miniconda2/envs/prokka/bin/prokka --cpus 0 --compliant --rfam Nitrososphaera_evergladensis_SR1.fa --outdir Nitrososphaera_evergladensis_SR1.fa_prokka
+[21:20:41] Appending to PATH: /home/ylifc/miniconda2/envs/prokka/bin
+[21:20:41] Looking for 'aragorn' - found /home/ylifc/miniconda2/envs/prokka/bin/aragorn
+[21:20:41] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[21:20:41] Looking for 'barrnap' - found /home/ylifc/miniconda2/envs/prokka/bin/barrnap
+[21:20:41] Determined barrnap version is 000009 from 'barrnap 0.9'
+[21:20:41] Looking for 'blastp' - found /home/ylifc/miniconda2/envs/prokka/bin/blastp
+[21:20:43] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[21:20:43] Looking for 'cmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/cmpress
+[21:20:43] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[21:20:43] Looking for 'cmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/cmscan
+[21:20:43] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[21:20:43] Looking for 'egrep' - found /bin/egrep
+[21:20:43] Looking for 'find' - found /usr/bin/find
+[21:20:43] Looking for 'grep' - found /bin/grep
+[21:20:43] Looking for 'hmmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmpress
+[21:20:43] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[21:20:43] Looking for 'hmmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmscan
+[21:20:43] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[21:20:43] Looking for 'java' - found /home/ylifc/miniconda2/envs/prokka/bin/java
+[21:20:43] Looking for 'makeblastdb' - found /home/ylifc/miniconda2/envs/prokka/bin/makeblastdb
+[21:20:45] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[21:20:45] Looking for 'minced' - found /home/ylifc/miniconda2/envs/prokka/bin/minced
+[21:20:45] Determined minced version is 004002 from 'minced 0.4.2'
+[21:20:45] Looking for 'parallel' - found /home/ylifc/miniconda2/envs/prokka/bin/parallel
+[21:20:45] Determined parallel version is 20211022 from 'GNU parallel 20211022'
+[21:20:45] Looking for 'prodigal' - found /home/ylifc/miniconda2/envs/prokka/bin/prodigal
+[21:20:46] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[21:20:46] Looking for 'prokka-genbank_to_fasta_db' - found /home/ylifc/miniconda2/envs/prokka/bin/prokka-genbank_to_fasta_db
+[21:20:46] Looking for 'sed' - found /bin/sed
+[21:20:46] Looking for 'tbl2asn' - found /home/ylifc/miniconda2/envs/prokka/bin/tbl2asn
+[21:20:46] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[21:20:46] Using genetic code table 11.
+[21:20:46] Loading and checking input file: Nitrososphaera_evergladensis_SR1.fa
+[21:20:46] Wrote 1 contigs totalling 2954373 bp.
+[21:20:46] Predicting tRNAs and tmRNAs
+[21:20:46] Running: aragorn -l -gc11  -w Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.fna
+[21:20:48] 1 tRNA-Gly [394839,394915] 36 (ccc)
+[21:20:48] 2 tRNA-Ile [626427,626500] 35 (gat)
+[21:20:48] 3 tRNA-Arg c[715800,715875] 36 (cct)
+[21:20:48] 4 tRNA-Val [720241,720315] 35 (gac)
+[21:20:48] 5 tRNA-Pro [814465,814540] 36 (tgg)
+[21:20:48] 6 tRNA-Lys [846997,847093] 35 (ctt)
+[21:20:48] 7 tRNA-Val [880821,880896] 36 (tac)
+[21:20:48] 8 tRNA-Stop c[1001014,1001107] 36 (tta)
+[21:20:48] 9 tRNA-Arg c[1044163,1044239] 36 (tcg)
+[21:20:48] 10 tRNA-Ser [1058272,1058358] 35 (gct)
+[21:20:48] 11 tRNA-Gly c[1152172,1152249] 37 (gcc)
+[21:20:48] tRNA [1176144,1176234] is a pseudo/wacky gene - skipping.
+[21:20:48] 13 tRNA-Ala [1248064,1248136] 34 (cgc)
+[21:20:48] 14 tRNA-Glu c[1414590,1414683] 38 (ctc)
+[21:20:48] 15 tRNA-Met [1605080,1605176] 36 (cat)
+[21:20:48] 16 tRNA-Thr [1654953,1655026] 35 (tgt)
+[21:20:48] 17 tRNA-Arg [1700027,1700102] 36 (gcg)
+[21:20:48] 18 tRNA-Pro [1722595,1722671] 35 (cgg)
+[21:20:48] 19 tRNA-Thr c[1753044,1753118] 35 (ggt)
+[21:20:48] 20 tRNA-Ala [1870367,1870443] 35 (ggc)
+[21:20:48] 21 tRNA-Val c[2025720,2025797] 36 (cac)
+[21:20:48] 22 tRNA-Met c[2079087,2079162] 36 (cat)
+[21:20:48] 23 tRNA-Leu c[2137054,2137141] 37 (gag)
+[21:20:48] 24 tRNA-Met [2430700,2430775] 36 (cat)
+[21:20:48] 25 tRNA-Phe [2431587,2431661] 35 (gaa)
+[21:20:48] 26 tRNA-Thr [2445149,2445222] 35 (cgt)
+[21:20:48] 27 tRNA-Pro [2544015,2544090] 36 (ggg)
+[21:20:48] 28 tRNA-Asp [2774921,2774994] 37 (gtc)
+[21:20:48] Found 27 tRNAs
+[21:20:48] Predicting Ribosomal RNAs
+[21:20:48] Running Barrnap with 64 threads
+[21:20:53] 1 gnl|Prokka|IKJJFKCN_1 528919 5S ribosomal RNA
+[21:20:53] 2 gnl|Prokka|IKJJFKCN_1 1975982 23S ribosomal RNA
+[21:20:53] 3 gnl|Prokka|IKJJFKCN_1 1979202 16S ribosomal RNA
+[21:20:53] Found 3 rRNAs
+[21:20:53] Scanning for ncRNAs... please be patient.
+[21:20:53] Running: cmscan -Z 5.908746 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 64 --tblout /dev/stdout -o /dev/null --noali /home/ylifc/miniconda2/envs/prokka/db/cm/Bacteria Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.fna
+[21:28:54] 1 ncRNA 1 gnl|Prokka|IKJJFKCN_1 1..303
+[21:28:54] 2 ncRNA 2 gnl|Prokka|IKJJFKCN_1 1..318
+[21:28:54] 3 ncRNA 3 gnl|Prokka|IKJJFKCN_1 1..292
+[21:28:54] 4 ncRNA 4 gnl|Prokka|IKJJFKCN_1 1..292
+[21:28:54] 5 ncRNA 5 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 6 ncRNA 6 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 7 ncRNA 7 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 8 ncRNA 8 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 9 ncRNA 9 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 10 ncRNA 10 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 11 ncRNA 11 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 12 ncRNA 12 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 13 ncRNA 13 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 14 ncRNA 14 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 15 ncRNA 15 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 16 ncRNA 16 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 17 ncRNA 17 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 18 ncRNA 18 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 19 ncRNA 19 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 20 ncRNA 20 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 21 ncRNA 21 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 22 ncRNA 22 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 23 ncRNA 23 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 24 ncRNA 24 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 25 ncRNA 25 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 26 ncRNA 26 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 27 ncRNA 27 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 28 ncRNA 28 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 29 ncRNA 29 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 30 ncRNA 30 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 31 ncRNA 31 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 32 ncRNA 32 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 33 ncRNA 33 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 34 ncRNA 34 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 35 ncRNA 35 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 36 ncRNA 36 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 37 ncRNA 37 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 38 ncRNA 38 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 39 ncRNA 39 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 40 ncRNA 40 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 41 ncRNA 41 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 42 ncRNA 42 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 43 ncRNA 43 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 44 ncRNA 44 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 45 ncRNA 45 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 46 ncRNA 46 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:54] 47 ncRNA 47 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 48 ncRNA 48 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 49 ncRNA 49 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 50 ncRNA 50 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 51 ncRNA 51 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 52 ncRNA 52 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 53 ncRNA 53 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 54 ncRNA 54 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 55 ncRNA 55 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 56 ncRNA 56 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 57 ncRNA 57 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 58 ncRNA 58 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 59 ncRNA 59 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 60 ncRNA 60 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 61 ncRNA 61 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 62 ncRNA 62 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 63 ncRNA 63 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 64 ncRNA 64 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 65 ncRNA 65 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 66 ncRNA 66 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 67 ncRNA 67 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 68 ncRNA 68 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 69 ncRNA 69 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 70 ncRNA 70 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 71 ncRNA 71 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 72 ncRNA 72 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 73 ncRNA 73 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 74 ncRNA 74 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 75 ncRNA 75 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 76 ncRNA 76 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 77 ncRNA 77 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 78 ncRNA 78 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 79 ncRNA 79 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 80 ncRNA 80 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 81 ncRNA 81 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 82 ncRNA 82 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 83 ncRNA 83 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 84 ncRNA 84 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 85 ncRNA 85 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 86 ncRNA 86 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 87 ncRNA 87 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 88 ncRNA 88 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 89 ncRNA 89 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 90 ncRNA 90 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 91 ncRNA 91 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 92 ncRNA 92 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 93 ncRNA 93 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 94 ncRNA 94 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 95 ncRNA 95 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 96 ncRNA 96 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 97 ncRNA 97 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 98 ncRNA 98 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 99 ncRNA 99 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 100 ncRNA 100 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 101 ncRNA 101 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 102 ncRNA 102 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 103 ncRNA 103 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 104 ncRNA 104 gnl|Prokka|IKJJFKCN_1 1..37
+[21:28:55] 105 ncRNA 105 gnl|Prokka|IKJJFKCN_1 1..63
+[21:28:55] Found 105 ncRNAs.
+[21:28:55] Total of 30 tRNA + rRNA features
+[21:28:55] Searching for CRISPR repeats
+[21:28:57] CRISPR1 gnl|Prokka|IKJJFKCN_1 444815 with 15 spacers
+[21:28:57] CRISPR2 gnl|Prokka|IKJJFKCN_1 2110971 with 100 spacers
+[21:28:57] Found 2 CRISPRs
+[21:28:57] Predicting coding sequences
+[21:28:57] Contigs total 2954373 bp, so using single mode
+[21:28:57] Running: prodigal -i Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.fna -c -m -g 11 -p single -f sco -q
+[21:29:22] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:444698..445738 on + strand
+[21:29:23] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|IKJJFKCN_1:715389..715832 on + strand
+[21:29:23] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|IKJJFKCN_1:814435..814782 on - strand
+[21:29:24] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|IKJJFKCN_1:1043885..1044163 on + strand
+[21:29:25] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|IKJJFKCN_1:1722592..1722897 on - strand
+[21:29:25] Excluding CDS which overlaps existing RNA (rRNA) at gnl|Prokka|IKJJFKCN_1:1975969..1976442 on + strand
+[21:29:25] Excluding CDS which overlaps existing RNA (rRNA) at gnl|Prokka|IKJJFKCN_1:1978506..1979291 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2110864..2111469 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2111656..2111775 on - strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2111975..2112844 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2112787..2112993 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2114335..2114841 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2115369..2115887 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2116640..2117284 on + strand
+[21:29:26] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|IKJJFKCN_1:2118085..2118333 on - strand
+[21:29:26] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|IKJJFKCN_1:2431578..2431673 on - strand
+[21:29:27] Found 3513 CDS
+[21:29:27] Connecting features back to sequences
+[21:29:27] Not using genus-specific database. Try --usegenus to enable it.
+[21:29:27] Annotating CDS, please be patient.
+[21:29:27] Will use 64 CPUs for similarity searching.
+[21:29:29] There are still 3513 unannotated CDS left (started with 3513)
+[21:29:29] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS with 64 CPUs
+[21:29:29] Running: cat Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.3369\.faa | parallel --gnu --plain -j 64 --block 6587 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.3369\.blast 2> /dev/null
+[21:30:43] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.IS.tmp.3369.faa
+[21:30:43] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.IS.tmp.3369.blast
+[21:30:45] There are still 3507 unannotated CDS left (started with 3513)
+[21:30:45] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR with 64 CPUs
+[21:30:45] Running: cat Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.3369\.faa | parallel --gnu --plain -j 64 --block 6572 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.3369\.blast 2> /dev/null
+[21:31:47] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.AMR.tmp.3369.faa
+[21:31:47] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.AMR.tmp.3369.blast
+[21:31:49] There are still 3507 unannotated CDS left (started with 3513)
+[21:31:49] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot with 64 CPUs
+[21:31:49] Running: cat Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.3369\.faa | parallel --gnu --plain -j 64 --block 6572 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.3369\.blast 2> /dev/null
+[21:35:54] Modify product: Uncharacterized protein YedJ => putative protein YedJ
+[21:35:54] Modify product: Probable UbiX-like flavin prenyltransferase => putative UbiX-like flavin prenyltransferase
+[21:35:54] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[21:35:54] Modify product: Uncharacterized oxidoreductase SA2266 => putative oxidoreductase
+[21:35:54] Modify product: Probable acetyl-CoA acyltransferase => putative acetyl-CoA acyltransferase
+[21:35:54] Modify product: Protease HtpX homolog => Protease HtpX 
+[21:35:54] Modify product: Uncharacterized protein MSMEG_2782/MSMEI_2713 => putative protein/MSMEI_2713
+[21:35:55] Modify product: Uncharacterized ABC transporter ATP-binding protein YknY => putative ABC transporter ATP-binding protein YknY
+[21:35:55] Modify product: Probable GTPase Rv1496 => putative GTPase
+[21:35:55] Modify product: Uncharacterized transporter Rv2685 => putative transporter
+[21:35:55] Modify product: Probable nicotinate-nucleotide pyrophosphorylase [carboxylating] => putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+[21:35:55] Modify product: Uncharacterized protein HI_1163 => putative protein
+[21:35:55] Modify product: Uncharacterized cysteine-rich protein YhjQ => putative cysteine-rich protein YhjQ
+[21:35:55] Modify product: Uncharacterized protein YagA => putative protein YagA
+[21:35:55] Modify product: Uncharacterized HTH-type transcriptional regulator YfiR => putative HTH-type transcriptional regulator YfiR
+[21:35:55] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[21:35:55] Modify product: Probable polyketide biosynthesis zinc-dependent hydrolase BaeB => putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+[21:35:56] Modify product: Phosphate-specific transport system accessory protein PhoU homolog => Phosphate-specific transport system accessory protein PhoU 
+[21:35:56] Modify product: Uncharacterized HTH-type transcriptional regulator YfiR => putative HTH-type transcriptional regulator YfiR
+[21:35:56] Modify product: Uncharacterized protein Rv2030c => putative protein
+[21:35:56] Modify product: Uncharacterized protein M6_Spy0233 => putative protein
+[21:35:56] Modify product: Uncharacterized acyl-CoA thioester hydrolase HI_0827 => putative acyl-CoA thioester hydrolase
+[21:35:56] Modify product: Purine-binding protein BAB2_0673 => Purine-binding protein
+[21:35:56] Modify product: Putative coenzyme F420-dependent oxidoreductase Rv3520c => Putative coenzyme F420-dependent oxidoreductase
+[21:35:56] Modify product: Probable oxidoreductase CT_610 => putative oxidoreductase CT_610
+[21:35:56] Modify product: Putative 2-hydroxyacid dehydrogenase SA2098 => Putative 2-hydroxyacid dehydrogenase
+[21:35:56] Modify product: Uncharacterized protein YisK => putative protein YisK
+[21:35:56] Modify product: Probable endonuclease 4 => putative endonuclease 4
+[21:35:56] Modify product: Uncharacterized protein Rv2030c => putative protein
+[21:35:57] Modify product: Uncharacterized protein YccU => putative protein YccU
+[21:35:57] Modify product: Probable zinc-binding alcohol dehydrogenase Rv1895 => putative zinc-binding alcohol dehydrogenase
+[21:35:57] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[21:35:57] Modify product: Uncharacterized protein YqgN => putative protein YqgN
+[21:35:57] Modify product: Putative peroxiredoxin Rv2521 => Putative peroxiredoxin
+[21:35:57] Modify product: UPF0173 metal-dependent hydrolase SA1529 => hypothetical protein
+[21:35:57] Modify product: Uncharacterized protein Rv0887c => putative protein
+[21:35:57] Modify product: Uncharacterized transporter Rv2685 => putative transporter
+[21:35:57] Modify product: NAD(P)H-dependent FMN reductase PA1204 => NAD(P)H-dependent FMN reductase
+[21:35:57] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[21:35:57] Modify product: Uncharacterized ABC transporter ATP-binding protein TM_0288 => putative ABC transporter ATP-binding protein
+[21:35:57] Modify product: Probable dipeptidase PepE => putative dipeptidase PepE
+[21:35:57] Modify product: Uncharacterized protein YyaP => putative protein YyaP
+[21:35:57] Modify product: Uncharacterized methyltransferase YcgJ => putative methyltransferase YcgJ
+[21:35:58] Modify product: UPF0056 inner membrane protein YhgN => hypothetical protein
+[21:35:58] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[21:35:58] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[21:35:58] Modify product: Putative universal stress protein SA1532 => Putative universal stress protein
+[21:35:58] Modify product: Uncharacterized protein Rv2575 => putative protein
+[21:35:58] Modify product: Urea transporter DVU1160 => Urea transporter
+[21:35:58] Modify product: Putative universal stress protein SA1532 => Putative universal stress protein
+[21:35:59] Cleaned 50 /product names
+[21:35:59] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.sprot.tmp.3369.faa
+[21:35:59] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.sprot.tmp.3369.blast
+[21:36:00] There are still 2906 unannotated CDS left (started with 3513)
+[21:36:00] Will use hmmer3 to search against /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm with 64 CPUs
+[21:36:00] Running: cat Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.3369\.faa | parallel --gnu --plain -j 64 --block 4963 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm /dev/stdin > Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.3369\.hmmer3 2> /dev/null
+[21:39:50] Modify product: Uncharacterized MFS-type transporter YcaD => putative MFS-type transporter YcaD
+[21:39:51] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[21:39:51] Cleaned 2 /product names
+[21:39:51] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.3369.faa
+[21:39:51] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.3369.hmmer3
+[21:39:51] Labelling remaining 2613 proteins as 'hypothetical protein'
+[21:39:51] Possible /pseudo 'Thymidylate kinase' at gnl|Prokka|IKJJFKCN_1 position 40539
+[21:39:51] Possible /pseudo 'Potassium-transporting ATPase potassium-binding subunit' at gnl|Prokka|IKJJFKCN_1 position 808716
+[21:39:51] Possible /pseudo 'Alcohol dehydrogenase' at gnl|Prokka|IKJJFKCN_1 position 977861
+[21:39:51] Possible /pseudo 'Ribonuclease PH' at gnl|Prokka|IKJJFKCN_1 position 1121008
+[21:39:51] Possible /pseudo 'Regulator of RpoS' at gnl|Prokka|IKJJFKCN_1 position 1263882
+[21:39:51] Possible /pseudo 'FO synthase' at gnl|Prokka|IKJJFKCN_1 position 2062760
+[21:39:51] Possible /pseudo 'NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic' at gnl|Prokka|IKJJFKCN_1 position 2095712
+[21:39:51] Found 590 unique /gene codes.
+[21:39:51] Fixed 2 duplicate /gene - aqpZ_1 aqpZ_2
+[21:39:51] Fixed 2 duplicate /gene - menH_1 menH_2
+[21:39:51] Fixed 2 duplicate /gene - hisC_1 hisC_2
+[21:39:51] Fixed 2 duplicate /gene - fieF_1 fieF_2
+[21:39:51] Fixed 3 duplicate /gene - prcB_1 prcB_2 prcB_3
+[21:39:51] Fixed 3 duplicate /gene - resA_1 resA_2 resA_3
+[21:39:51] Fixed 3 duplicate /gene - napF_1 napF_2 napF_3
+[21:39:51] Fixed 2 duplicate /gene - lon_1 lon_2
+[21:39:51] Fixed 2 duplicate /gene - valS_1 valS_2
+[21:39:51] Fixed 2 duplicate /gene - mcm_1 mcm_2
+[21:39:51] Fixed 2 duplicate /gene - radA_1 radA_2
+[21:39:51] Fixed 2 duplicate /gene - asnS_1 asnS_2
+[21:39:51] Fixed 9 duplicate /gene - teaD_1 teaD_2 teaD_3 teaD_4 teaD_5 teaD_6 teaD_7 teaD_8 teaD_9
+[21:39:51] Fixed 3 duplicate /gene - fbiB_1 fbiB_2 fbiB_3
+[21:39:51] Fixed 2 duplicate /gene - gdhB_1 gdhB_2
+[21:39:51] Fixed 3 duplicate /gene - vgb_1 vgb_2 vgb_3
+[21:39:51] Fixed 2 duplicate /gene - murG_1 murG_2
+[21:39:51] Fixed 2 duplicate /gene - ctaA_1 ctaA_2
+[21:39:51] Fixed 2 duplicate /gene - cheY_1 cheY_2
+[21:39:51] Fixed 4 duplicate /gene - hcaC_1 hcaC_2 hcaC_3 hcaC_4
+[21:39:51] Fixed 2 duplicate /gene - rutE_1 rutE_2
+[21:39:51] Fixed 2 duplicate /gene - betI_1 betI_2
+[21:39:51] Fixed 4 duplicate /gene - ndhI_1 ndhI_2 ndhI_3 ndhI_4
+[21:39:51] Fixed 2 duplicate /gene - ahcY_1 ahcY_2
+[21:39:51] Fixed 3 duplicate /gene - rutB_1 rutB_2 rutB_3
+[21:39:51] Fixed 3 duplicate /gene - ureA_1 ureA_2 ureA_3
+[21:39:51] Fixed 3 duplicate /gene - cas1_1 cas1_2 cas1_3
+[21:39:51] Fixed 2 duplicate /gene - kdpA_1 kdpA_2
+[21:39:51] Fixed 6 duplicate /gene - glnB_1 glnB_2 glnB_3 glnB_4 glnB_5 glnB_6
+[21:39:51] Fixed 2 duplicate /gene - tatA_1 tatA_2
+[21:39:51] Fixed 3 duplicate /gene - ccr_1 ccr_2 ccr_3
+[21:39:51] Fixed 2 duplicate /gene - dinB_1 dinB_2
+[21:39:51] Fixed 4 duplicate /gene - asnB_1 asnB_2 asnB_3 asnB_4
+[21:39:51] Fixed 2 duplicate /gene - leuA_1 leuA_2
+[21:39:51] Fixed 2 duplicate /gene - cobD_1 cobD_2
+[21:39:51] Fixed 2 duplicate /gene - todF_1 todF_2
+[21:39:51] Fixed 2 duplicate /gene - nudF_1 nudF_2
+[21:39:51] Fixed 2 duplicate /gene - recA_1 recA_2
+[21:39:51] Fixed 2 duplicate /gene - queC_1 queC_2
+[21:39:51] Fixed 2 duplicate /gene - dbpA_1 dbpA_2
+[21:39:51] Fixed 3 duplicate /gene - mntR_1 mntR_2 mntR_3
+[21:39:51] Fixed 2 duplicate /gene - rutD_1 rutD_2
+[21:39:51] Fixed 2 duplicate /gene - msrB_1 msrB_2
+[21:39:51] Fixed 2 duplicate /gene - adh_1 adh_2
+[21:39:51] Fixed 2 duplicate /gene - lysX_1 lysX_2
+[21:39:51] Fixed 2 duplicate /gene - codB_1 codB_2
+[21:39:51] Fixed 3 duplicate /gene - sad_1 sad_2 sad_3
+[21:39:51] Fixed 2 duplicate /gene - ssuC_1 ssuC_2
+[21:39:51] Fixed 2 duplicate /gene - guaA_1 guaA_2
+[21:39:51] Fixed 4 duplicate /gene - rssB_1 rssB_2 rssB_3 rssB_4
+[21:39:51] Fixed 3 duplicate /gene - smc_1 smc_2 smc_3
+[21:39:51] Fixed 4 duplicate /gene - adhT_1 adhT_2 adhT_3 adhT_4
+[21:39:51] Fixed 2 duplicate /gene - rhdA_1 rhdA_2
+[21:39:51] Fixed 2 duplicate /gene - kaiC_1 kaiC_2
+[21:39:51] Fixed 2 duplicate /gene - yfiR_1 yfiR_2
+[21:39:51] Fixed 2 duplicate /gene - kefB_1 kefB_2
+[21:39:51] Fixed 5 duplicate /gene - wecC_1 wecC_2 wecC_3 wecC_4 wecC_5
+[21:39:51] Fixed 2 duplicate /gene - hemL_1 hemL_2
+[21:39:51] Fixed 2 duplicate /gene - pckA_1 pckA_2
+[21:39:51] Fixed 3 duplicate /gene - tmk_1 tmk_2 tmk_3
+[21:39:51] Fixed 2 duplicate /gene - hicd_1 hicd_2
+[21:39:51] Fixed 5 duplicate /gene - noc_1 noc_2 noc_3 noc_4 noc_5
+[21:39:51] Fixed 2 duplicate /gene - fbiC_1 fbiC_2
+[21:39:51] Fixed 2 duplicate /gene - tam_1 tam_2
+[21:39:51] Fixed 2 duplicate /gene - sdcS_1 sdcS_2
+[21:39:51] Fixed 2 duplicate /gene - glnA_1 glnA_2
+[21:39:51] Fixed 2 duplicate /gene - trmB_1 trmB_2
+[21:39:51] Fixed 4 duplicate /gene - xerC_1 xerC_2 xerC_3 xerC_4
+[21:39:51] Fixed 2 duplicate /gene - RBKS_1 RBKS_2
+[21:39:51] Fixed 2 duplicate /gene - ftsP_1 ftsP_2
+[21:39:51] Fixed 2 duplicate /gene - glmS_1 glmS_2
+[21:39:51] Fixed 2 duplicate /gene - cysM_1 cysM_2
+[21:39:51] Fixed 2 duplicate /gene - vapC2_1 vapC2_2
+[21:39:51] Fixed 2 duplicate /gene - hldE_1 hldE_2
+[21:39:51] Fixed 2 duplicate /gene - hemB_1 hemB_2
+[21:39:51] Fixed 5 duplicate /gene - menA_1 menA_2 menA_3 menA_4 menA_5
+[21:39:51] Fixed 2 duplicate /gene - corA_1 corA_2
+[21:39:51] Fixed 2 duplicate /gene - glmM_1 glmM_2
+[21:39:51] Fixed 5 duplicate /gene - arnC_1 arnC_2 arnC_3 arnC_4 arnC_5
+[21:39:51] Fixed 2 duplicate /gene - menG_1 menG_2
+[21:39:51] Fixed 3 duplicate /gene - cheB_1 cheB_2 cheB_3
+[21:39:51] Fixed 2 duplicate /gene - ureC_1 ureC_2
+[21:39:51] Fixed 2 duplicate /gene - purF_1 purF_2
+[21:39:51] Fixed 2 duplicate /gene - purD_1 purD_2
+[21:39:51] Fixed 2 duplicate /gene - bluB_1 bluB_2
+[21:39:51] Fixed 2 duplicate /gene - ybaL_1 ybaL_2
+[21:39:51] Fixed 2 duplicate /gene - dps_1 dps_2
+[21:39:51] Fixed 2 duplicate /gene - ndhK_1 ndhK_2
+[21:39:51] Fixed 3 duplicate /gene - dnaJ_1 dnaJ_2 dnaJ_3
+[21:39:51] Fixed 3 duplicate /gene - thrB_1 thrB_2 thrB_3
+[21:39:51] Fixed 2 duplicate /gene - tuf_1 tuf_2
+[21:39:51] Fixed 2 duplicate /gene - cmpD_1 cmpD_2
+[21:39:51] Fixed 2 duplicate /gene - cshA_1 cshA_2
+[21:39:51] Fixed 3 duplicate /gene - tolB_1 tolB_2 tolB_3
+[21:39:51] Fixed 2 duplicate /gene - ino1_1 ino1_2
+[21:39:51] Fixed 2 duplicate /gene - cugP_1 cugP_2
+[21:39:51] Fixed 2 duplicate /gene - purE_1 purE_2
+[21:39:51] Fixed 2 duplicate /gene - glvI_1 glvI_2
+[21:39:51] Fixed 2 duplicate /gene - ureB_1 ureB_2
+[21:39:51] Fixed 2 duplicate /gene - ctaD_1 ctaD_2
+[21:39:51] Fixed 8 duplicate /gene - COQ5_1 COQ5_2 COQ5_3 COQ5_4 COQ5_5 COQ5_6 COQ5_7 COQ5_8
+[21:39:51] Fixed 3 duplicate /gene - moaA_1 moaA_2 moaA_3
+[21:39:51] Fixed 3 duplicate /gene - nrgA_1 nrgA_2 nrgA_3
+[21:39:51] Fixed 15 duplicate /gene - sasA_1 sasA_2 sasA_3 sasA_4 sasA_5 sasA_6 sasA_7 sasA_8 sasA_9 sasA_10 sasA_11 sasA_12 sasA_13 sasA_14 sasA_15
+[21:39:51] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[21:39:51] Fixed 2 duplicate /gene - copA_1 copA_2
+[21:39:51] Fixed 3 duplicate /gene - rcsC_1 rcsC_2 rcsC_3
+[21:39:51] Fixed 3 duplicate /gene - lnrL_1 lnrL_2 lnrL_3
+[21:39:51] Fixed 2 duplicate /gene - dipZ_1 dipZ_2
+[21:39:51] Fixed 3 duplicate /gene - hmp_1 hmp_2 hmp_3
+[21:39:51] Fixed 3 duplicate /gene - ndhB_1 ndhB_2 ndhB_3
+[21:39:51] Fixed 2 duplicate /gene - cysS_1 cysS_2
+[21:39:51] Fixed 2 duplicate /gene - rnj_1 rnj_2
+[21:39:51] Fixed 4 duplicate /gene - fabG_1 fabG_2 fabG_3 fabG_4
+[21:39:51] Fixed 3 duplicate /gene - thi4_1 thi4_2 thi4_3
+[21:39:51] Fixed 6 duplicate /gene - ftsH_1 ftsH_2 ftsH_3 ftsH_4 ftsH_5 ftsH_6
+[21:39:51] Fixed 10 duplicate /gene - IMPDH_1 IMPDH_2 IMPDH_3 IMPDH_4 IMPDH_5 IMPDH_6 IMPDH_7 IMPDH_8 IMPDH_9 IMPDH_10
+[21:39:51] Fixed 2 duplicate /gene - btuD_1 btuD_2
+[21:39:51] Fixed 2 duplicate /gene - prcA_1 prcA_2
+[21:39:51] Fixed 2 duplicate /gene - sufS_1 sufS_2
+[21:39:51] Fixed 2 duplicate /gene - trxA_1 trxA_2
+[21:39:51] Fixed 2 duplicate /gene - ctaB_1 ctaB_2
+[21:39:51] Fixed 2 duplicate /gene - nadK_1 nadK_2
+[21:39:51] Fixed 2 duplicate /gene - msrA2_1 msrA2_2
+[21:39:51] Fixed 7 duplicate /gene - groL_1 groL_2 groL_3 groL_4 groL_5 groL_6 groL_7
+[21:39:51] Fixed 2 duplicate /gene - nnr_1 nnr_2
+[21:39:51] Fixed 2 duplicate /gene - rph_1 rph_2
+[21:39:51] Fixed 9 duplicate /gene - petE_1 petE_2 petE_3 petE_4 petE_5 petE_6 petE_7 petE_8 petE_9
+[21:39:51] Fixed 2 duplicate /gene - metH_1 metH_2
+[21:39:51] Fixed 4 duplicate /gene - yliI_1 yliI_2 yliI_3 yliI_4
+[21:39:51] Fixed 3 duplicate /gene - hflX_1 hflX_2 hflX_3
+[21:39:51] Fixed 2 duplicate /gene - cysG_1 cysG_2
+[21:39:51] Fixed 2 duplicate /gene - carAc_1 carAc_2
+[21:39:51] Fixed 3 duplicate /gene - gerN_1 gerN_2 gerN_3
+[21:39:51] Fixed 134 colliding /gene names.
+[21:39:51] Adding /locus_tag identifiers
+[21:39:52] Assigned 3648 locus_tags to CDS and RNA features.
+[21:39:52] Writing outputs to Nitrososphaera_evergladensis_SR1.fa_prokka/
+[21:39:58] Generating annotation statistics file
+[21:39:58] Generating Genbank and Sequin files
+[21:39:58] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.err -i Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.fsa 2> /dev/null
+[21:40:26] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/errorsummary.val
+[21:40:26] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.dr
+[21:40:26] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.fixedproducts
+[21:40:26] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.ecn
+[21:40:26] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.val
+[21:40:26] Repairing broken .GBK output that tbl2asn produces...
+[21:40:26] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.gbf > Nitrososphaera_evergladensis_SR1\.fa_prokka\/PROKKA_10312021\.gbk
+[21:40:26] Deleting unwanted file: Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.gbf
+[21:40:26] Output files:
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.err
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.faa
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.ffn
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.fna
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.fsa
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.gbk
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.gff
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.log
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.sqn
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.tbl
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.tsv
+[21:40:26] Nitrososphaera_evergladensis_SR1.fa_prokka/PROKKA_10312021.txt
+[21:40:26] Annotation finished successfully.
+[21:40:26] Walltime used: 19.75 minutes
+[21:40:26] If you use this result please cite the Prokka paper:
+[21:40:26] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[21:40:26] Type 'prokka --citation' for more details.
+[21:40:26] Share and enjoy!

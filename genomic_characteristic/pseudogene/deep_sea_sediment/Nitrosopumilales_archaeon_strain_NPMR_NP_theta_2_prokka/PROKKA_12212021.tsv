@@ -1,0 +1,3017 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+JNCGLAOM_00001	gene	171				
+JNCGLAOM_00001	CDS	171				hypothetical protein
+JNCGLAOM_00002	gene	222				
+JNCGLAOM_00002	CDS	222				hypothetical protein
+JNCGLAOM_00003	gene	930	pyrB			
+JNCGLAOM_00003	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+JNCGLAOM_00004	gene	495	pyrI			
+JNCGLAOM_00004	CDS	495	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+JNCGLAOM_00005	gene	1554				
+JNCGLAOM_00005	CDS	1554				hypothetical protein
+JNCGLAOM_00006	gene	507				
+JNCGLAOM_00006	CDS	507				hypothetical protein
+JNCGLAOM_00007	gene	1713	frdA			
+JNCGLAOM_00007	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+JNCGLAOM_00008	gene	816				
+JNCGLAOM_00008	CDS	816				hypothetical protein
+JNCGLAOM_00009	gene	285	phhB			
+JNCGLAOM_00009	CDS	285	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+JNCGLAOM_00010	gene	210				
+JNCGLAOM_00010	CDS	210				hypothetical protein
+JNCGLAOM_00011	gene	243				
+JNCGLAOM_00011	CDS	243				hypothetical protein
+JNCGLAOM_00012	gene	279				
+JNCGLAOM_00012	CDS	279				hypothetical protein
+JNCGLAOM_00013	gene	1026				
+JNCGLAOM_00013	CDS	1026				hypothetical protein
+JNCGLAOM_00014	gene	525				
+JNCGLAOM_00014	CDS	525				hypothetical protein
+JNCGLAOM_00015	gene	741				
+JNCGLAOM_00015	CDS	741				hypothetical protein
+JNCGLAOM_00016	gene	1050				
+JNCGLAOM_00016	CDS	1050				hypothetical protein
+JNCGLAOM_00017	gene	477				
+JNCGLAOM_00017	CDS	477				hypothetical protein
+JNCGLAOM_00018	gene	684				
+JNCGLAOM_00018	CDS	684				hypothetical protein
+JNCGLAOM_00019	gene	336	eno			
+JNCGLAOM_00019	CDS	336	eno	4.2.1.11	COG0148	Enolase
+JNCGLAOM_00020	gene	624				
+JNCGLAOM_00020	CDS	624				hypothetical protein
+JNCGLAOM_00021	gene	480				
+JNCGLAOM_00021	CDS	480				hypothetical protein
+JNCGLAOM_00022	gene	951				
+JNCGLAOM_00022	CDS	951				hypothetical protein
+JNCGLAOM_00023	gene	774				
+JNCGLAOM_00023	CDS	774				hypothetical protein
+JNCGLAOM_00024	gene	972				
+JNCGLAOM_00024	CDS	972				hypothetical protein
+JNCGLAOM_00025	gene	351				
+JNCGLAOM_00025	CDS	351				hypothetical protein
+JNCGLAOM_00026	gene	753				
+JNCGLAOM_00026	CDS	753				hypothetical protein
+JNCGLAOM_00027	gene	399	ureA			
+JNCGLAOM_00027	CDS	399	ureA	3.5.1.5		Urease subunit gamma
+JNCGLAOM_00028	gene	1119	gbuA			
+JNCGLAOM_00028	CDS	1119	gbuA	3.5.3.7	COG0010	Guanidinobutyrase
+JNCGLAOM_00029	gene	1080	asd2			
+JNCGLAOM_00029	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+JNCGLAOM_00030	gene	519	ureE			
+JNCGLAOM_00030	CDS	519	ureE			Urease accessory protein UreE
+JNCGLAOM_00031	gene	708	ureF			
+JNCGLAOM_00031	CDS	708	ureF		COG0830	Urease accessory protein UreF
+JNCGLAOM_00032	gene	669	ureG			
+JNCGLAOM_00032	CDS	669	ureG			Urease accessory protein UreG
+JNCGLAOM_00033	gene	864	ureD			
+JNCGLAOM_00033	CDS	864	ureD		COG0829	Urease accessory protein UreD
+JNCGLAOM_00034	gene	1695	groL_1			
+JNCGLAOM_00034	CDS	1695	groL_1		COG0459	60 kDa chaperonin
+JNCGLAOM_00035	gene	222				
+JNCGLAOM_00035	CDS	222				hypothetical protein
+JNCGLAOM_00036	gene	77				
+JNCGLAOM_00036	tRNA	77				tRNA-Arg(tct)
+JNCGLAOM_00037	gene	846				
+JNCGLAOM_00037	CDS	846				hypothetical protein
+JNCGLAOM_00038	gene	213				
+JNCGLAOM_00038	CDS	213				hypothetical protein
+JNCGLAOM_00039	gene	324				
+JNCGLAOM_00039	CDS	324				hypothetical protein
+JNCGLAOM_00040	gene	312				
+JNCGLAOM_00040	CDS	312				hypothetical protein
+JNCGLAOM_00041	gene	846	ttuD			
+JNCGLAOM_00041	CDS	846	ttuD		COG2897	Sulfur carrier protein TtuD
+JNCGLAOM_00042	gene	816	nadK_1			
+JNCGLAOM_00042	CDS	816	nadK_1	2.7.1.23		NAD kinase
+JNCGLAOM_00043	gene	489				
+JNCGLAOM_00043	CDS	489				hypothetical protein
+JNCGLAOM_00044	gene	687				
+JNCGLAOM_00044	CDS	687				hypothetical protein
+JNCGLAOM_00045	gene	405				
+JNCGLAOM_00045	CDS	405				hypothetical protein
+JNCGLAOM_00046	gene	858				
+JNCGLAOM_00046	CDS	858				hypothetical protein
+JNCGLAOM_00047	gene	282				
+JNCGLAOM_00047	CDS	282				hypothetical protein
+JNCGLAOM_00048	gene	429				
+JNCGLAOM_00048	CDS	429				hypothetical protein
+JNCGLAOM_00049	gene	264				
+JNCGLAOM_00049	CDS	264				hypothetical protein
+JNCGLAOM_00050	gene	624	pspB			
+JNCGLAOM_00050	CDS	624	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+JNCGLAOM_00051	gene	672				
+JNCGLAOM_00051	CDS	672				hypothetical protein
+JNCGLAOM_00052	gene	237				
+JNCGLAOM_00052	CDS	237				hypothetical protein
+JNCGLAOM_00053	gene	402				
+JNCGLAOM_00053	CDS	402				hypothetical protein
+JNCGLAOM_00054	gene	1176	alaA			
+JNCGLAOM_00054	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+JNCGLAOM_00055	gene	75				
+JNCGLAOM_00055	tRNA	75				tRNA-Arg(tcg)
+JNCGLAOM_00056	gene	492				
+JNCGLAOM_00056	CDS	492				hypothetical protein
+JNCGLAOM_00057	gene	603				
+JNCGLAOM_00057	CDS	603				hypothetical protein
+JNCGLAOM_00058	gene	255				
+JNCGLAOM_00058	CDS	255				hypothetical protein
+JNCGLAOM_00059	gene	1920				
+JNCGLAOM_00059	CDS	1920				hypothetical protein
+JNCGLAOM_00060	gene	492				
+JNCGLAOM_00060	CDS	492				hypothetical protein
+JNCGLAOM_00061	gene	612				
+JNCGLAOM_00061	CDS	612				hypothetical protein
+JNCGLAOM_00062	gene	381				
+JNCGLAOM_00062	CDS	381				hypothetical protein
+JNCGLAOM_00063	gene	1155				
+JNCGLAOM_00063	CDS	1155				hypothetical protein
+JNCGLAOM_00064	gene	594				
+JNCGLAOM_00064	CDS	594				hypothetical protein
+JNCGLAOM_00065	gene	633				
+JNCGLAOM_00065	CDS	633				hypothetical protein
+JNCGLAOM_00066	gene	987				
+JNCGLAOM_00066	CDS	987				hypothetical protein
+JNCGLAOM_00067	gene	687	aqpZ			
+JNCGLAOM_00067	CDS	687	aqpZ		COG0580	Aquaporin Z
+JNCGLAOM_00068	gene	1278	hemL_1			
+JNCGLAOM_00068	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+JNCGLAOM_00069	gene	933	hemC			
+JNCGLAOM_00069	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+JNCGLAOM_00070	gene	744	sumT			
+JNCGLAOM_00070	CDS	744	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+JNCGLAOM_00071	gene	933				
+JNCGLAOM_00071	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+JNCGLAOM_00072	gene	699				
+JNCGLAOM_00072	CDS	699				hypothetical protein
+JNCGLAOM_00073	gene	918	argK			
+JNCGLAOM_00073	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+JNCGLAOM_00074	gene	408				
+JNCGLAOM_00074	CDS	408				hypothetical protein
+JNCGLAOM_00075	gene	951	pepN			
+JNCGLAOM_00075	CDS	951	pepN	3.4.11.2	COG0308	Aminopeptidase N
+JNCGLAOM_00076	gene	75				
+JNCGLAOM_00076	tRNA	75				tRNA-Lys(ttt)
+JNCGLAOM_00077	gene	1461	argH			
+JNCGLAOM_00077	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+JNCGLAOM_00078	gene	327				
+JNCGLAOM_00078	CDS	327				hypothetical protein
+JNCGLAOM_00079	gene	765	frdB			
+JNCGLAOM_00079	CDS	765	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+JNCGLAOM_00080	gene	345				
+JNCGLAOM_00080	CDS	345				hypothetical protein
+JNCGLAOM_00081	gene	396				
+JNCGLAOM_00081	CDS	396				hypothetical protein
+JNCGLAOM_00082	gene	165				
+JNCGLAOM_00082	CDS	165				hypothetical protein
+JNCGLAOM_00083	gene	204				
+JNCGLAOM_00083	CDS	204				hypothetical protein
+JNCGLAOM_00084	gene	123				
+JNCGLAOM_00084	CDS	123				hypothetical protein
+JNCGLAOM_00085	gene	801				
+JNCGLAOM_00085	CDS	801				hypothetical protein
+JNCGLAOM_00086	gene	747	cpdA			
+JNCGLAOM_00086	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JNCGLAOM_00087	gene	1029	icd			
+JNCGLAOM_00087	CDS	1029	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+JNCGLAOM_00088	gene	123				
+JNCGLAOM_00088	CDS	123				hypothetical protein
+JNCGLAOM_00089	gene	684	COQ5_1			
+JNCGLAOM_00089	CDS	684	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JNCGLAOM_00090	gene	693				
+JNCGLAOM_00090	CDS	693				hypothetical protein
+JNCGLAOM_00091	gene	378				
+JNCGLAOM_00091	CDS	378				hypothetical protein
+JNCGLAOM_00092	gene	537	prmC			
+JNCGLAOM_00092	CDS	537	prmC	2.1.1.297		Release factor glutamine methyltransferase
+JNCGLAOM_00093	gene	705	rsmA			
+JNCGLAOM_00093	CDS	705	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+JNCGLAOM_00094	gene	579				
+JNCGLAOM_00094	CDS	579				hypothetical protein
+JNCGLAOM_00095	gene	327				
+JNCGLAOM_00095	CDS	327				hypothetical protein
+JNCGLAOM_00096	gene	300				
+JNCGLAOM_00096	CDS	300				hypothetical protein
+JNCGLAOM_00097	gene	1056	recA			
+JNCGLAOM_00097	CDS	1056	recA			Protein RecA
+JNCGLAOM_00098	gene	183				
+JNCGLAOM_00098	CDS	183				hypothetical protein
+JNCGLAOM_00099	gene	1719				
+JNCGLAOM_00099	CDS	1719				hypothetical protein
+JNCGLAOM_00100	gene	813	pyrK			
+JNCGLAOM_00100	CDS	813	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+JNCGLAOM_00101	gene	912	pyrD			
+JNCGLAOM_00101	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+JNCGLAOM_00102	gene	1257				
+JNCGLAOM_00102	CDS	1257				hypothetical protein
+JNCGLAOM_00103	gene	681				
+JNCGLAOM_00103	CDS	681				hypothetical protein
+JNCGLAOM_00104	gene	324				
+JNCGLAOM_00104	CDS	324				hypothetical protein
+JNCGLAOM_00105	gene	294				
+JNCGLAOM_00105	CDS	294				hypothetical protein
+JNCGLAOM_00106	gene	1233				
+JNCGLAOM_00106	CDS	1233				hypothetical protein
+JNCGLAOM_00107	gene	237				
+JNCGLAOM_00107	CDS	237				hypothetical protein
+JNCGLAOM_00108	gene	1290				
+JNCGLAOM_00108	CDS	1290				hypothetical protein
+JNCGLAOM_00109	gene	477	ftsH_1			
+JNCGLAOM_00109	CDS	477	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+JNCGLAOM_00110	gene	225				
+JNCGLAOM_00110	CDS	225				hypothetical protein
+JNCGLAOM_00111	gene	288				
+JNCGLAOM_00111	CDS	288				hypothetical protein
+JNCGLAOM_00112	gene	594	pgsA2			
+JNCGLAOM_00112	CDS	594	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+JNCGLAOM_00113	gene	135				
+JNCGLAOM_00113	CDS	135				hypothetical protein
+JNCGLAOM_00114	gene	162				
+JNCGLAOM_00114	CDS	162				hypothetical protein
+JNCGLAOM_00115	gene	93				
+JNCGLAOM_00115	CDS	93				hypothetical protein
+JNCGLAOM_00116	gene	408	hit_1			
+JNCGLAOM_00116	CDS	408	hit_1		COG0537	Protein hit
+JNCGLAOM_00117	gene	687	dnaJ_1			
+JNCGLAOM_00117	CDS	687	dnaJ_1			Chaperone protein DnaJ
+JNCGLAOM_00118	gene	363				
+JNCGLAOM_00118	CDS	363				hypothetical protein
+JNCGLAOM_00119	gene	459				
+JNCGLAOM_00119	CDS	459				hypothetical protein
+JNCGLAOM_00120	gene	708				
+JNCGLAOM_00120	CDS	708				hypothetical protein
+JNCGLAOM_00121	gene	420				
+JNCGLAOM_00121	CDS	420				hypothetical protein
+JNCGLAOM_00122	gene	867				
+JNCGLAOM_00122	CDS	867				hypothetical protein
+JNCGLAOM_00123	gene	663	rplA			
+JNCGLAOM_00123	CDS	663	rplA		COG0081	50S ribosomal protein L1
+JNCGLAOM_00124	gene	459	asnC_1			
+JNCGLAOM_00124	CDS	459	asnC_1		COG1522	Regulatory protein AsnC
+JNCGLAOM_00125	gene	183				
+JNCGLAOM_00125	CDS	183				hypothetical protein
+JNCGLAOM_00126	gene	294	btuD_1			
+JNCGLAOM_00126	CDS	294	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JNCGLAOM_00127	gene	813	znuB			
+JNCGLAOM_00127	CDS	813	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+JNCGLAOM_00128	gene	759				
+JNCGLAOM_00128	CDS	759				hypothetical protein
+JNCGLAOM_00129	gene	969	petE			
+JNCGLAOM_00129	CDS	969	petE			Plastocyanin
+JNCGLAOM_00130	gene	300				
+JNCGLAOM_00130	CDS	300				hypothetical protein
+JNCGLAOM_00131	gene	408				
+JNCGLAOM_00131	CDS	408				hypothetical protein
+JNCGLAOM_00132	gene	549				
+JNCGLAOM_00132	CDS	549				hypothetical protein
+JNCGLAOM_00133	gene	828				
+JNCGLAOM_00133	CDS	828				hypothetical protein
+JNCGLAOM_00134	gene	225				
+JNCGLAOM_00134	CDS	225				hypothetical protein
+JNCGLAOM_00135	gene	501				
+JNCGLAOM_00135	CDS	501				hypothetical protein
+JNCGLAOM_00136	gene	1092				
+JNCGLAOM_00136	CDS	1092				hypothetical protein
+JNCGLAOM_00137	gene	309				
+JNCGLAOM_00137	CDS	309				hypothetical protein
+JNCGLAOM_00138	gene	189				
+JNCGLAOM_00138	CDS	189				hypothetical protein
+JNCGLAOM_00139	gene	1017				
+JNCGLAOM_00139	CDS	1017				hypothetical protein
+JNCGLAOM_00140	gene	435				
+JNCGLAOM_00140	CDS	435				hypothetical protein
+JNCGLAOM_00141	gene	438				
+JNCGLAOM_00141	CDS	438				hypothetical protein
+JNCGLAOM_00142	gene	702	cugP_1			
+JNCGLAOM_00142	CDS	702	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JNCGLAOM_00143	gene	642				
+JNCGLAOM_00143	CDS	642				hypothetical protein
+JNCGLAOM_00144	gene	1146				
+JNCGLAOM_00144	CDS	1146				hypothetical protein
+JNCGLAOM_00145	gene	498				
+JNCGLAOM_00145	CDS	498				hypothetical protein
+JNCGLAOM_00146	gene	144				
+JNCGLAOM_00146	CDS	144				hypothetical protein
+JNCGLAOM_00147	gene	423				
+JNCGLAOM_00147	CDS	423				hypothetical protein
+JNCGLAOM_00148	gene	297				
+JNCGLAOM_00148	CDS	297				hypothetical protein
+JNCGLAOM_00149	gene	312				
+JNCGLAOM_00149	CDS	312				hypothetical protein
+JNCGLAOM_00150	gene	792				
+JNCGLAOM_00150	CDS	792				hypothetical protein
+JNCGLAOM_00151	gene	558				
+JNCGLAOM_00151	CDS	558				hypothetical protein
+JNCGLAOM_00152	gene	1923	TOP6B			
+JNCGLAOM_00152	CDS	1923	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+JNCGLAOM_00153	gene	1104	TOP6A			
+JNCGLAOM_00153	CDS	1104	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+JNCGLAOM_00154	gene	585				
+JNCGLAOM_00154	CDS	585				hypothetical protein
+JNCGLAOM_00155	gene	231				
+JNCGLAOM_00155	CDS	231				hypothetical protein
+JNCGLAOM_00156	gene	1038	adhT			
+JNCGLAOM_00156	CDS	1038	adhT	1.1.1.1		Alcohol dehydrogenase
+JNCGLAOM_00157	gene	234				
+JNCGLAOM_00157	CDS	234				hypothetical protein
+JNCGLAOM_00158	gene	111				
+JNCGLAOM_00158	CDS	111				hypothetical protein
+JNCGLAOM_00159	gene	267				
+JNCGLAOM_00159	CDS	267				hypothetical protein
+JNCGLAOM_00160	gene	213				
+JNCGLAOM_00160	CDS	213				hypothetical protein
+JNCGLAOM_00161	gene	963				
+JNCGLAOM_00161	CDS	963				hypothetical protein
+JNCGLAOM_00162	gene	618	purN			
+JNCGLAOM_00162	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+JNCGLAOM_00163	gene	321				
+JNCGLAOM_00163	CDS	321				hypothetical protein
+JNCGLAOM_00164	gene	867	folD			
+JNCGLAOM_00164	CDS	867	folD		COG0190	Bifunctional protein FolD protein
+JNCGLAOM_00165	gene	558	yqgN			
+JNCGLAOM_00165	CDS	558	yqgN		COG0212	putative protein YqgN
+JNCGLAOM_00166	gene	1263	purD			
+JNCGLAOM_00166	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+JNCGLAOM_00167	gene	3195	ileS			
+JNCGLAOM_00167	CDS	3195	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+JNCGLAOM_00168	gene	993				
+JNCGLAOM_00168	CDS	993				hypothetical protein
+JNCGLAOM_00169	gene	330				
+JNCGLAOM_00169	CDS	330				hypothetical protein
+JNCGLAOM_00170	gene	876				
+JNCGLAOM_00170	CDS	876				hypothetical protein
+JNCGLAOM_00171	gene	222				
+JNCGLAOM_00171	CDS	222				hypothetical protein
+JNCGLAOM_00172	gene	636				
+JNCGLAOM_00172	CDS	636				hypothetical protein
+JNCGLAOM_00173	gene	288				
+JNCGLAOM_00173	CDS	288				hypothetical protein
+JNCGLAOM_00174	gene	99				
+JNCGLAOM_00174	CDS	99				hypothetical protein
+JNCGLAOM_00175	gene	594	ywlC			
+JNCGLAOM_00175	CDS	594	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+JNCGLAOM_00176	gene	522				
+JNCGLAOM_00176	CDS	522				hypothetical protein
+JNCGLAOM_00177	gene	780				
+JNCGLAOM_00177	CDS	780				hypothetical protein
+JNCGLAOM_00178	gene	339				
+JNCGLAOM_00178	CDS	339				hypothetical protein
+JNCGLAOM_00179	gene	822	yjjV			
+JNCGLAOM_00179	CDS	822	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+JNCGLAOM_00180	gene	222				
+JNCGLAOM_00180	CDS	222				hypothetical protein
+JNCGLAOM_00181	gene	73				
+JNCGLAOM_00181	tRNA	73				tRNA-Cys(gca)
+JNCGLAOM_00182	gene	1752				
+JNCGLAOM_00182	CDS	1752				hypothetical protein
+JNCGLAOM_00183	gene	171				
+JNCGLAOM_00183	CDS	171				hypothetical protein
+JNCGLAOM_00184	gene	597				
+JNCGLAOM_00184	CDS	597				hypothetical protein
+JNCGLAOM_00185	gene	303				
+JNCGLAOM_00185	CDS	303				hypothetical protein
+JNCGLAOM_00186	gene	213				
+JNCGLAOM_00186	CDS	213				hypothetical protein
+JNCGLAOM_00187	gene	210				
+JNCGLAOM_00187	CDS	210				hypothetical protein
+JNCGLAOM_00188	gene	74				
+JNCGLAOM_00188	tRNA	74				tRNA-Thr(cgt)
+JNCGLAOM_00189	gene	1296	glmM			
+JNCGLAOM_00189	CDS	1296	glmM	5.4.2.10		Phosphoglucosamine mutase
+JNCGLAOM_00190	gene	954	thiL			
+JNCGLAOM_00190	CDS	954	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+JNCGLAOM_00191	gene	522				
+JNCGLAOM_00191	CDS	522				hypothetical protein
+JNCGLAOM_00192	gene	315				
+JNCGLAOM_00192	CDS	315				hypothetical protein
+JNCGLAOM_00193	gene	435				
+JNCGLAOM_00193	CDS	435				hypothetical protein
+JNCGLAOM_00194	gene	1449	rtcB			
+JNCGLAOM_00194	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+JNCGLAOM_00195	gene	252				
+JNCGLAOM_00195	CDS	252				hypothetical protein
+JNCGLAOM_00196	gene	306				
+JNCGLAOM_00196	CDS	306				hypothetical protein
+JNCGLAOM_00197	gene	168				
+JNCGLAOM_00197	CDS	168				hypothetical protein
+JNCGLAOM_00198	gene	309				
+JNCGLAOM_00198	CDS	309				hypothetical protein
+JNCGLAOM_00199	gene	945				
+JNCGLAOM_00199	CDS	945				hypothetical protein
+JNCGLAOM_00200	gene	984	nuoH			
+JNCGLAOM_00200	CDS	984	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+JNCGLAOM_00201	gene	846	nqrF			
+JNCGLAOM_00201	CDS	846	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+JNCGLAOM_00202	gene	75				
+JNCGLAOM_00202	tRNA	75				tRNA-Ala(ggc)
+JNCGLAOM_00203	gene	294				
+JNCGLAOM_00203	CDS	294				hypothetical protein
+JNCGLAOM_00204	gene	513	Dml			
+JNCGLAOM_00204	CDS	513	Dml	4.1.3.32		2,3-dimethylmalate lyase
+JNCGLAOM_00205	gene	1098	cbiD_1			
+JNCGLAOM_00205	CDS	1098	cbiD_1	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+JNCGLAOM_00206	gene	870				
+JNCGLAOM_00206	CDS	870				hypothetical protein
+JNCGLAOM_00207	gene	1167	metK			
+JNCGLAOM_00207	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+JNCGLAOM_00208	gene	243				
+JNCGLAOM_00208	CDS	243				hypothetical protein
+JNCGLAOM_00209	gene	651				
+JNCGLAOM_00209	CDS	651				hypothetical protein
+JNCGLAOM_00210	gene	120				
+JNCGLAOM_00210	CDS	120				hypothetical protein
+JNCGLAOM_00211	gene	171				
+JNCGLAOM_00211	CDS	171				hypothetical protein
+JNCGLAOM_00212	gene	636				
+JNCGLAOM_00212	CDS	636				hypothetical protein
+JNCGLAOM_00213	gene	561	cmk			
+JNCGLAOM_00213	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+JNCGLAOM_00214	gene	999	truB			
+JNCGLAOM_00214	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+JNCGLAOM_00215	gene	447				
+JNCGLAOM_00215	CDS	447				hypothetical protein
+JNCGLAOM_00216	gene	1299	lhgD			
+JNCGLAOM_00216	CDS	1299	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+JNCGLAOM_00217	gene	264				
+JNCGLAOM_00217	CDS	264				hypothetical protein
+JNCGLAOM_00218	gene	375				
+JNCGLAOM_00218	CDS	375				hypothetical protein
+JNCGLAOM_00219	gene	129				
+JNCGLAOM_00219	CDS	129				hypothetical protein
+JNCGLAOM_00220	gene	1170	cofG			
+JNCGLAOM_00220	CDS	1170	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+JNCGLAOM_00221	gene	615	degP			
+JNCGLAOM_00221	CDS	615	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+JNCGLAOM_00222	gene	384				
+JNCGLAOM_00222	CDS	384				hypothetical protein
+JNCGLAOM_00223	gene	357				
+JNCGLAOM_00223	CDS	357				hypothetical protein
+JNCGLAOM_00224	gene	555				
+JNCGLAOM_00224	CDS	555				hypothetical protein
+JNCGLAOM_00225	gene	261				
+JNCGLAOM_00225	CDS	261				hypothetical protein
+JNCGLAOM_00226	gene	93				
+JNCGLAOM_00226	CDS	93				hypothetical protein
+JNCGLAOM_00227	gene	168				
+JNCGLAOM_00227	CDS	168				hypothetical protein
+JNCGLAOM_00228	gene	228				
+JNCGLAOM_00228	CDS	228				hypothetical protein
+JNCGLAOM_00229	gene	960				
+JNCGLAOM_00229	CDS	960				hypothetical protein
+JNCGLAOM_00230	gene	162				
+JNCGLAOM_00230	CDS	162				hypothetical protein
+JNCGLAOM_00231	gene	345	metG			
+JNCGLAOM_00231	CDS	345	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+JNCGLAOM_00232	gene	561				
+JNCGLAOM_00232	CDS	561				hypothetical protein
+JNCGLAOM_00233	gene	1122				
+JNCGLAOM_00233	CDS	1122				hypothetical protein
+JNCGLAOM_00234	gene	177				
+JNCGLAOM_00234	CDS	177				hypothetical protein
+JNCGLAOM_00235	gene	906				
+JNCGLAOM_00235	CDS	906		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+JNCGLAOM_00236	gene	77				
+JNCGLAOM_00236	tRNA	77				tRNA-Pro(tgg)
+JNCGLAOM_00237	gene	294				
+JNCGLAOM_00237	CDS	294				hypothetical protein
+JNCGLAOM_00238	gene	3387				
+JNCGLAOM_00238	CDS	3387				hypothetical protein
+JNCGLAOM_00239	gene	480				
+JNCGLAOM_00239	CDS	480				hypothetical protein
+JNCGLAOM_00240	gene	278				
+JNCGLAOM_00240	misc_RNA	278				RNaseP_arch
+JNCGLAOM_00241	gene	1248				
+JNCGLAOM_00241	CDS	1248				hypothetical protein
+JNCGLAOM_00242	gene	960	fbiA			
+JNCGLAOM_00242	CDS	960	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+JNCGLAOM_00243	gene	633	fbiD			
+JNCGLAOM_00243	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+JNCGLAOM_00244	gene	912				
+JNCGLAOM_00244	CDS	912				hypothetical protein
+JNCGLAOM_00245	gene	990				
+JNCGLAOM_00245	CDS	990				hypothetical protein
+JNCGLAOM_00246	gene	309				
+JNCGLAOM_00246	CDS	309				hypothetical protein
+JNCGLAOM_00247	gene	333				
+JNCGLAOM_00247	CDS	333				hypothetical protein
+JNCGLAOM_00248	gene	168				
+JNCGLAOM_00248	CDS	168				hypothetical protein
+JNCGLAOM_00249	gene	966				
+JNCGLAOM_00249	CDS	966				hypothetical protein
+JNCGLAOM_00250	gene	1083				
+JNCGLAOM_00250	CDS	1083				hypothetical protein
+JNCGLAOM_00251	gene	525				
+JNCGLAOM_00251	CDS	525				hypothetical protein
+JNCGLAOM_00252	gene	1194				
+JNCGLAOM_00252	CDS	1194				hypothetical protein
+JNCGLAOM_00253	gene	282				
+JNCGLAOM_00253	CDS	282				hypothetical protein
+JNCGLAOM_00254	gene	1884				
+JNCGLAOM_00254	CDS	1884				hypothetical protein
+JNCGLAOM_00255	gene	138				
+JNCGLAOM_00255	CDS	138				hypothetical protein
+JNCGLAOM_00256	gene	105				
+JNCGLAOM_00256	CDS	105				hypothetical protein
+JNCGLAOM_00257	gene	162				
+JNCGLAOM_00257	CDS	162				hypothetical protein
+JNCGLAOM_00258	gene	144				
+JNCGLAOM_00258	CDS	144				hypothetical protein
+JNCGLAOM_00259	gene	660	pheS			
+JNCGLAOM_00259	CDS	660	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+JNCGLAOM_00260	gene	1638				
+JNCGLAOM_00260	CDS	1638				hypothetical protein
+JNCGLAOM_00261	gene	357				
+JNCGLAOM_00261	CDS	357				hypothetical protein
+JNCGLAOM_00262	gene	240				
+JNCGLAOM_00262	CDS	240				hypothetical protein
+JNCGLAOM_00263	gene	567				
+JNCGLAOM_00263	CDS	567				hypothetical protein
+JNCGLAOM_00264	gene	651				
+JNCGLAOM_00264	CDS	651				hypothetical protein
+JNCGLAOM_00265	gene	462	ndhB			
+JNCGLAOM_00265	CDS	462	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+JNCGLAOM_00266	gene	858				
+JNCGLAOM_00266	CDS	858				hypothetical protein
+JNCGLAOM_00267	gene	636				
+JNCGLAOM_00267	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+JNCGLAOM_00268	gene	75				
+JNCGLAOM_00268	tRNA	75				tRNA-Met(cat)
+JNCGLAOM_00269	gene	609	pyrE			
+JNCGLAOM_00269	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+JNCGLAOM_00270	gene	1083				
+JNCGLAOM_00270	CDS	1083				hypothetical protein
+JNCGLAOM_00271	gene	462				
+JNCGLAOM_00271	CDS	462				hypothetical protein
+JNCGLAOM_00272	gene	354				
+JNCGLAOM_00272	CDS	354				hypothetical protein
+JNCGLAOM_00273	gene	408				
+JNCGLAOM_00273	CDS	408				hypothetical protein
+JNCGLAOM_00274	gene	285				
+JNCGLAOM_00274	CDS	285				hypothetical protein
+JNCGLAOM_00275	gene	792	mtnP			
+JNCGLAOM_00275	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+JNCGLAOM_00276	gene	318	apt			
+JNCGLAOM_00276	CDS	318	apt	2.4.2.7		Adenine phosphoribosyltransferase
+JNCGLAOM_00277	gene	159				
+JNCGLAOM_00277	CDS	159				hypothetical protein
+JNCGLAOM_00278	gene	552				
+JNCGLAOM_00278	CDS	552				hypothetical protein
+JNCGLAOM_00279	gene	537				
+JNCGLAOM_00279	CDS	537				hypothetical protein
+JNCGLAOM_00280	gene	435				
+JNCGLAOM_00280	CDS	435				hypothetical protein
+JNCGLAOM_00281	gene	963				
+JNCGLAOM_00281	CDS	963				hypothetical protein
+JNCGLAOM_00282	gene	1188	korA_1			
+JNCGLAOM_00282	CDS	1188	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+JNCGLAOM_00283	gene	201				
+JNCGLAOM_00283	CDS	201				hypothetical protein
+JNCGLAOM_00284	gene	507	ftnA			
+JNCGLAOM_00284	CDS	507	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+JNCGLAOM_00285	gene	192	cspLA			
+JNCGLAOM_00285	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+JNCGLAOM_00286	gene	591				
+JNCGLAOM_00286	CDS	591				hypothetical protein
+JNCGLAOM_00287	gene	195				
+JNCGLAOM_00287	CDS	195				hypothetical protein
+JNCGLAOM_00288	gene	159				
+JNCGLAOM_00288	CDS	159				hypothetical protein
+JNCGLAOM_00289	gene	156				
+JNCGLAOM_00289	CDS	156				hypothetical protein
+JNCGLAOM_00290	gene	2118				
+JNCGLAOM_00290	CDS	2118				hypothetical protein
+JNCGLAOM_00291	gene	1785	infB			
+JNCGLAOM_00291	CDS	1785	infB			Translation initiation factor IF-2
+JNCGLAOM_00292	gene	402	ndk			
+JNCGLAOM_00292	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+JNCGLAOM_00293	gene	201				
+JNCGLAOM_00293	CDS	201				hypothetical protein
+JNCGLAOM_00294	gene	213				
+JNCGLAOM_00294	CDS	213				hypothetical protein
+JNCGLAOM_00295	gene	387				
+JNCGLAOM_00295	CDS	387				hypothetical protein
+JNCGLAOM_00296	gene	1350	algC			
+JNCGLAOM_00296	CDS	1350	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+JNCGLAOM_00297	gene	87				
+JNCGLAOM_00297	tRNA	87				tRNA-Leu(tag)
+JNCGLAOM_00298	gene	861	purU			
+JNCGLAOM_00298	CDS	861	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+JNCGLAOM_00299	gene	735	mftE			
+JNCGLAOM_00299	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+JNCGLAOM_00300	gene	234				
+JNCGLAOM_00300	CDS	234				hypothetical protein
+JNCGLAOM_00301	gene	906				
+JNCGLAOM_00301	CDS	906				hypothetical protein
+JNCGLAOM_00302	gene	348				
+JNCGLAOM_00302	CDS	348				hypothetical protein
+JNCGLAOM_00303	gene	552	pdaD			
+JNCGLAOM_00303	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+JNCGLAOM_00304	gene	306	bcp_1			
+JNCGLAOM_00304	CDS	306	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+JNCGLAOM_00305	gene	1368	glmS			
+JNCGLAOM_00305	CDS	1368	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+JNCGLAOM_00306	gene	321				
+JNCGLAOM_00306	CDS	321				hypothetical protein
+JNCGLAOM_00307	gene	168				
+JNCGLAOM_00307	CDS	168				hypothetical protein
+JNCGLAOM_00308	gene	426				
+JNCGLAOM_00308	CDS	426				hypothetical protein
+JNCGLAOM_00309	gene	261				
+JNCGLAOM_00309	CDS	261				hypothetical protein
+JNCGLAOM_00310	gene	1149				
+JNCGLAOM_00310	CDS	1149				hypothetical protein
+JNCGLAOM_00311	gene	690	menG			
+JNCGLAOM_00311	CDS	690	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+JNCGLAOM_00312	gene	729	prcA_1			
+JNCGLAOM_00312	CDS	729	prcA_1			Proteasome subunit alpha
+JNCGLAOM_00313	gene	387				
+JNCGLAOM_00313	CDS	387				hypothetical protein
+JNCGLAOM_00314	gene	1275	gdhA			
+JNCGLAOM_00314	CDS	1275	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+JNCGLAOM_00315	gene	378				
+JNCGLAOM_00315	CDS	378				hypothetical protein
+JNCGLAOM_00316	gene	2118				
+JNCGLAOM_00316	CDS	2118				hypothetical protein
+JNCGLAOM_00317	gene	762	crt			
+JNCGLAOM_00317	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+JNCGLAOM_00318	gene	351	erpA			
+JNCGLAOM_00318	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+JNCGLAOM_00319	gene	135				
+JNCGLAOM_00319	CDS	135				hypothetical protein
+JNCGLAOM_00320	gene	1161				
+JNCGLAOM_00320	CDS	1161				hypothetical protein
+JNCGLAOM_00321	gene	387				
+JNCGLAOM_00321	CDS	387				hypothetical protein
+JNCGLAOM_00322	gene	1269	fbiC			
+JNCGLAOM_00322	CDS	1269	fbiC		COG1060	FO synthase
+JNCGLAOM_00323	gene	306				
+JNCGLAOM_00323	CDS	306				hypothetical protein
+JNCGLAOM_00324	gene	954	nqo4			
+JNCGLAOM_00324	CDS	954	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+JNCGLAOM_00325	gene	696				
+JNCGLAOM_00325	CDS	696				hypothetical protein
+JNCGLAOM_00326	gene	279				
+JNCGLAOM_00326	CDS	279				hypothetical protein
+JNCGLAOM_00327	gene	561				
+JNCGLAOM_00327	CDS	561				hypothetical protein
+JNCGLAOM_00328	gene	456				
+JNCGLAOM_00328	CDS	456				hypothetical protein
+JNCGLAOM_00329	gene	291				
+JNCGLAOM_00329	CDS	291				hypothetical protein
+JNCGLAOM_00330	gene	930	ctaB_1			
+JNCGLAOM_00330	CDS	930	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+JNCGLAOM_00331	gene	468	asnC_2			
+JNCGLAOM_00331	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+JNCGLAOM_00332	gene	555				
+JNCGLAOM_00332	CDS	555				hypothetical protein
+JNCGLAOM_00333	gene	552	cobO_1			
+JNCGLAOM_00333	CDS	552	cobO_1	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+JNCGLAOM_00334	gene	75				
+JNCGLAOM_00334	tRNA	75				tRNA-Phe(gaa)
+JNCGLAOM_00335	gene	213				
+JNCGLAOM_00335	CDS	213				hypothetical protein
+JNCGLAOM_00336	gene	240				
+JNCGLAOM_00336	CDS	240				hypothetical protein
+JNCGLAOM_00337	gene	216				
+JNCGLAOM_00337	CDS	216				hypothetical protein
+JNCGLAOM_00338	gene	414				
+JNCGLAOM_00338	CDS	414				hypothetical protein
+JNCGLAOM_00339	gene	387				
+JNCGLAOM_00339	CDS	387				hypothetical protein
+JNCGLAOM_00340	gene	381				
+JNCGLAOM_00340	CDS	381				hypothetical protein
+JNCGLAOM_00341	gene	147				
+JNCGLAOM_00341	CDS	147				hypothetical protein
+JNCGLAOM_00342	gene	825				
+JNCGLAOM_00342	CDS	825				hypothetical protein
+JNCGLAOM_00343	gene	840				
+JNCGLAOM_00343	CDS	840				hypothetical protein
+JNCGLAOM_00344	gene	1209	tdcB			
+JNCGLAOM_00344	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+JNCGLAOM_00345	gene	651	purE			
+JNCGLAOM_00345	CDS	651	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+JNCGLAOM_00346	gene	1146	purK			
+JNCGLAOM_00346	CDS	1146	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+JNCGLAOM_00347	gene	528				
+JNCGLAOM_00347	CDS	528			COG0586	putative membrane protein
+JNCGLAOM_00348	gene	381				
+JNCGLAOM_00348	CDS	381				hypothetical protein
+JNCGLAOM_00349	gene	669	cugP_2			
+JNCGLAOM_00349	CDS	669	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JNCGLAOM_00350	gene	963				
+JNCGLAOM_00350	CDS	963		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+JNCGLAOM_00351	gene	1110	fadA			
+JNCGLAOM_00351	CDS	1110	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+JNCGLAOM_00352	gene	324				
+JNCGLAOM_00352	CDS	324				hypothetical protein
+JNCGLAOM_00353	gene	270				
+JNCGLAOM_00353	CDS	270				hypothetical protein
+JNCGLAOM_00354	gene	1347				
+JNCGLAOM_00354	CDS	1347				hypothetical protein
+JNCGLAOM_00355	gene	492				
+JNCGLAOM_00355	CDS	492				hypothetical protein
+JNCGLAOM_00356	gene	117				
+JNCGLAOM_00356	CDS	117				hypothetical protein
+JNCGLAOM_00357	gene	420				
+JNCGLAOM_00357	CDS	420				hypothetical protein
+JNCGLAOM_00358	gene	240				
+JNCGLAOM_00358	CDS	240				hypothetical protein
+JNCGLAOM_00359	gene	957				
+JNCGLAOM_00359	CDS	957				hypothetical protein
+JNCGLAOM_00360	gene	786	fbiB_1			
+JNCGLAOM_00360	CDS	786	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+JNCGLAOM_00361	gene	1272	dmdA			
+JNCGLAOM_00361	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+JNCGLAOM_00362	gene	483	DmdB			
+JNCGLAOM_00362	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+JNCGLAOM_00363	gene	1416	leuC			
+JNCGLAOM_00363	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+JNCGLAOM_00364	gene	585	leuD1			
+JNCGLAOM_00364	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+JNCGLAOM_00365	gene	729	cugP_3			
+JNCGLAOM_00365	CDS	729	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+JNCGLAOM_00366	gene	447	rpsI			
+JNCGLAOM_00366	CDS	447	rpsI		COG0103	30S ribosomal protein S9
+JNCGLAOM_00367	gene	462				
+JNCGLAOM_00367	CDS	462				hypothetical protein
+JNCGLAOM_00368	gene	348				
+JNCGLAOM_00368	CDS	348				hypothetical protein
+JNCGLAOM_00369	gene	642				
+JNCGLAOM_00369	CDS	642				hypothetical protein
+JNCGLAOM_00370	gene	687				
+JNCGLAOM_00370	CDS	687				hypothetical protein
+JNCGLAOM_00371	gene	681				
+JNCGLAOM_00371	CDS	681				hypothetical protein
+JNCGLAOM_00372	gene	744	rph_1			
+JNCGLAOM_00372	CDS	744	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+JNCGLAOM_00373	gene	819	rph_2			
+JNCGLAOM_00373	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+JNCGLAOM_00374	gene	210				
+JNCGLAOM_00374	CDS	210				hypothetical protein
+JNCGLAOM_00375	gene	2133				
+JNCGLAOM_00375	CDS	2133				hypothetical protein
+JNCGLAOM_00376	gene	2091				
+JNCGLAOM_00376	CDS	2091				hypothetical protein
+JNCGLAOM_00377	gene	474				
+JNCGLAOM_00377	CDS	474				hypothetical protein
+JNCGLAOM_00378	gene	396	epi_1			
+JNCGLAOM_00378	CDS	396	epi_1	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+JNCGLAOM_00379	gene	558				
+JNCGLAOM_00379	CDS	558				hypothetical protein
+JNCGLAOM_00380	gene	960	ppdK			
+JNCGLAOM_00380	CDS	960	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+JNCGLAOM_00381	gene	474				
+JNCGLAOM_00381	CDS	474				hypothetical protein
+JNCGLAOM_00382	gene	819	nadX			
+JNCGLAOM_00382	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+JNCGLAOM_00383	gene	918	nadA			
+JNCGLAOM_00383	CDS	918	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+JNCGLAOM_00384	gene	969				
+JNCGLAOM_00384	CDS	969				hypothetical protein
+JNCGLAOM_00385	gene	1890				
+JNCGLAOM_00385	CDS	1890				hypothetical protein
+JNCGLAOM_00386	gene	1191				
+JNCGLAOM_00386	CDS	1191				hypothetical protein
+JNCGLAOM_00387	gene	603				
+JNCGLAOM_00387	CDS	603				hypothetical protein
+JNCGLAOM_00388	gene	1020	murG			
+JNCGLAOM_00388	CDS	1020	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JNCGLAOM_00389	gene	99				
+JNCGLAOM_00389	CDS	99				hypothetical protein
+JNCGLAOM_00390	gene	819	nadC			
+JNCGLAOM_00390	CDS	819	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+JNCGLAOM_00391	gene	189				
+JNCGLAOM_00391	CDS	189				hypothetical protein
+JNCGLAOM_00392	gene	690	rnr			
+JNCGLAOM_00392	CDS	690	rnr	3.1.13.1		Ribonuclease R
+JNCGLAOM_00393	gene	1101	apbC			
+JNCGLAOM_00393	CDS	1101	apbC		COG0489	Iron-sulfur cluster carrier protein
+JNCGLAOM_00394	gene	498				
+JNCGLAOM_00394	CDS	498				hypothetical protein
+JNCGLAOM_00395	gene	363				
+JNCGLAOM_00395	CDS	363				hypothetical protein
+JNCGLAOM_00396	gene	2034	hppA			
+JNCGLAOM_00396	CDS	2034	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+JNCGLAOM_00397	gene	183				
+JNCGLAOM_00397	CDS	183				hypothetical protein
+JNCGLAOM_00398	gene	258				
+JNCGLAOM_00398	CDS	258				hypothetical protein
+JNCGLAOM_00399	gene	435				
+JNCGLAOM_00399	CDS	435				hypothetical protein
+JNCGLAOM_00400	gene	444				
+JNCGLAOM_00400	CDS	444				hypothetical protein
+JNCGLAOM_00401	gene	801				
+JNCGLAOM_00401	CDS	801				hypothetical protein
+JNCGLAOM_00402	gene	873	ctaB_2			
+JNCGLAOM_00402	CDS	873	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+JNCGLAOM_00403	gene	300				
+JNCGLAOM_00403	CDS	300				hypothetical protein
+JNCGLAOM_00404	gene	2142	ftsH_2			
+JNCGLAOM_00404	CDS	2142	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+JNCGLAOM_00405	gene	282				
+JNCGLAOM_00405	CDS	282				hypothetical protein
+JNCGLAOM_00406	gene	1137				
+JNCGLAOM_00406	CDS	1137				hypothetical protein
+JNCGLAOM_00407	gene	354				
+JNCGLAOM_00407	CDS	354				hypothetical protein
+JNCGLAOM_00408	gene	1590	vgb			
+JNCGLAOM_00408	CDS	1590	vgb	4.2.99.-		Virginiamycin B lyase
+JNCGLAOM_00409	gene	1194	truD			
+JNCGLAOM_00409	CDS	1194	truD	5.4.99.27		tRNA pseudouridine synthase D
+JNCGLAOM_00410	gene	231				
+JNCGLAOM_00410	CDS	231				hypothetical protein
+JNCGLAOM_00411	gene	183				
+JNCGLAOM_00411	CDS	183				hypothetical protein
+JNCGLAOM_00412	gene	453				
+JNCGLAOM_00412	CDS	453				hypothetical protein
+JNCGLAOM_00413	gene	654				
+JNCGLAOM_00413	CDS	654				hypothetical protein
+JNCGLAOM_00414	gene	1767	lig			
+JNCGLAOM_00414	CDS	1767	lig	6.5.1.1		DNA ligase
+JNCGLAOM_00415	gene	1155	fbp			
+JNCGLAOM_00415	CDS	1155	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+JNCGLAOM_00416	gene	387				
+JNCGLAOM_00416	CDS	387				hypothetical protein
+JNCGLAOM_00417	gene	135				
+JNCGLAOM_00417	CDS	135				hypothetical protein
+JNCGLAOM_00418	gene	840				
+JNCGLAOM_00418	CDS	840				hypothetical protein
+JNCGLAOM_00419	gene	843				
+JNCGLAOM_00419	CDS	843				hypothetical protein
+JNCGLAOM_00420	gene	627				
+JNCGLAOM_00420	CDS	627				hypothetical protein
+JNCGLAOM_00421	gene	111				
+JNCGLAOM_00421	CDS	111				hypothetical protein
+JNCGLAOM_00422	gene	132				
+JNCGLAOM_00422	CDS	132				hypothetical protein
+JNCGLAOM_00423	gene	225				
+JNCGLAOM_00423	CDS	225				hypothetical protein
+JNCGLAOM_00424	gene	444				
+JNCGLAOM_00424	CDS	444				hypothetical protein
+JNCGLAOM_00425	gene	129				
+JNCGLAOM_00425	CDS	129				hypothetical protein
+JNCGLAOM_00426	gene	384				
+JNCGLAOM_00426	CDS	384				hypothetical protein
+JNCGLAOM_00427	gene	312				
+JNCGLAOM_00427	CDS	312				hypothetical protein
+JNCGLAOM_00428	gene	1260				
+JNCGLAOM_00428	CDS	1260				hypothetical protein
+JNCGLAOM_00429	gene	819				
+JNCGLAOM_00429	CDS	819				hypothetical protein
+JNCGLAOM_00430	gene	189				
+JNCGLAOM_00430	CDS	189				hypothetical protein
+JNCGLAOM_00431	gene	162				
+JNCGLAOM_00431	CDS	162				hypothetical protein
+JNCGLAOM_00432	gene	156	cobO_2			
+JNCGLAOM_00432	CDS	156	cobO_2	2.5.1.17		Corrinoid adenosyltransferase
+JNCGLAOM_00433	gene	804				
+JNCGLAOM_00433	CDS	804				hypothetical protein
+JNCGLAOM_00434	gene	162				
+JNCGLAOM_00434	CDS	162				hypothetical protein
+JNCGLAOM_00435	gene	330				
+JNCGLAOM_00435	CDS	330				hypothetical protein
+JNCGLAOM_00436	gene	309				
+JNCGLAOM_00436	CDS	309				hypothetical protein
+JNCGLAOM_00437	gene	312				
+JNCGLAOM_00437	CDS	312				hypothetical protein
+JNCGLAOM_00438	gene	1347				
+JNCGLAOM_00438	CDS	1347				hypothetical protein
+JNCGLAOM_00439	gene	1320				
+JNCGLAOM_00439	CDS	1320				hypothetical protein
+JNCGLAOM_00440	gene	942	oppD			
+JNCGLAOM_00440	CDS	942	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+JNCGLAOM_00441	gene	642				
+JNCGLAOM_00441	CDS	642				hypothetical protein
+JNCGLAOM_00442	gene	1176	bioK_1			
+JNCGLAOM_00442	CDS	1176	bioK_1	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+JNCGLAOM_00443	gene	975	bioB			
+JNCGLAOM_00443	CDS	975	bioB	2.8.1.6	COG0502	Biotin synthase
+JNCGLAOM_00444	gene	1131	bioF			
+JNCGLAOM_00444	CDS	1131	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+JNCGLAOM_00445	gene	105				
+JNCGLAOM_00445	CDS	105				hypothetical protein
+JNCGLAOM_00446	gene	735				
+JNCGLAOM_00446	CDS	735				hypothetical protein
+JNCGLAOM_00447	gene	1110	resA_1			
+JNCGLAOM_00447	CDS	1110	resA_1			Thiol-disulfide oxidoreductase ResA
+JNCGLAOM_00448	gene	645				
+JNCGLAOM_00448	CDS	645				hypothetical protein
+JNCGLAOM_00449	gene	306				
+JNCGLAOM_00449	CDS	306				hypothetical protein
+JNCGLAOM_00450	gene	123				
+JNCGLAOM_00450	CDS	123				hypothetical protein
+JNCGLAOM_00451	gene	414				
+JNCGLAOM_00451	CDS	414				hypothetical protein
+JNCGLAOM_00452	gene	783	prcA_2			
+JNCGLAOM_00452	CDS	783	prcA_2			Proteasome subunit alpha
+JNCGLAOM_00453	gene	249				
+JNCGLAOM_00453	CDS	249				hypothetical protein
+JNCGLAOM_00454	gene	1047	pgk			
+JNCGLAOM_00454	CDS	1047	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+JNCGLAOM_00455	gene	348				
+JNCGLAOM_00455	CDS	348				hypothetical protein
+JNCGLAOM_00456	gene	447	sufU			
+JNCGLAOM_00456	CDS	447	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+JNCGLAOM_00457	gene	495	csd			
+JNCGLAOM_00457	CDS	495	csd	2.8.1.7		putative cysteine desulfurase
+JNCGLAOM_00458	gene	609	blh			
+JNCGLAOM_00458	CDS	609	blh	3.-.-.-	COG0491	Beta-lactamase hydrolase-like protein
+JNCGLAOM_00459	gene	648	nnr_1			
+JNCGLAOM_00459	CDS	648	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+JNCGLAOM_00460	gene	615				
+JNCGLAOM_00460	CDS	615				hypothetical protein
+JNCGLAOM_00461	gene	87				
+JNCGLAOM_00461	tRNA	87				tRNA-Leu(gag)
+JNCGLAOM_00462	gene	237				
+JNCGLAOM_00462	CDS	237				hypothetical protein
+JNCGLAOM_00463	gene	183				
+JNCGLAOM_00463	CDS	183				hypothetical protein
+JNCGLAOM_00464	gene	279				
+JNCGLAOM_00464	CDS	279				hypothetical protein
+JNCGLAOM_00465	gene	1128				
+JNCGLAOM_00465	CDS	1128				hypothetical protein
+JNCGLAOM_00466	gene	150				
+JNCGLAOM_00466	CDS	150				hypothetical protein
+JNCGLAOM_00467	gene	951	asnB			
+JNCGLAOM_00467	CDS	951	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+JNCGLAOM_00468	gene	456				
+JNCGLAOM_00468	CDS	456				hypothetical protein
+JNCGLAOM_00469	gene	336				
+JNCGLAOM_00469	CDS	336				hypothetical protein
+JNCGLAOM_00470	gene	483				
+JNCGLAOM_00470	CDS	483				hypothetical protein
+JNCGLAOM_00471	gene	387				
+JNCGLAOM_00471	CDS	387				hypothetical protein
+JNCGLAOM_00472	gene	336				
+JNCGLAOM_00472	CDS	336				hypothetical protein
+JNCGLAOM_00473	gene	129				
+JNCGLAOM_00473	CDS	129				hypothetical protein
+JNCGLAOM_00474	gene	213				
+JNCGLAOM_00474	CDS	213				hypothetical protein
+JNCGLAOM_00475	gene	1107				
+JNCGLAOM_00475	CDS	1107		2.5.-.-		Deoxyhypusine synthase-like protein
+JNCGLAOM_00476	gene	333				
+JNCGLAOM_00476	CDS	333				hypothetical protein
+JNCGLAOM_00477	gene	405				
+JNCGLAOM_00477	CDS	405				hypothetical protein
+JNCGLAOM_00478	gene	1407	btuD_2			
+JNCGLAOM_00478	CDS	1407	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+JNCGLAOM_00479	gene	135				
+JNCGLAOM_00479	CDS	135				hypothetical protein
+JNCGLAOM_00480	gene	477				
+JNCGLAOM_00480	CDS	477				hypothetical protein
+JNCGLAOM_00481	gene	663				
+JNCGLAOM_00481	CDS	663				hypothetical protein
+JNCGLAOM_00482	gene	564	scpB			
+JNCGLAOM_00482	CDS	564	scpB			Segregation and condensation protein B
+JNCGLAOM_00483	gene	381				
+JNCGLAOM_00483	CDS	381				hypothetical protein
+JNCGLAOM_00484	gene	300				
+JNCGLAOM_00484	CDS	300				hypothetical protein
+JNCGLAOM_00485	gene	474				
+JNCGLAOM_00485	CDS	474				hypothetical protein
+JNCGLAOM_00486	gene	405				
+JNCGLAOM_00486	CDS	405				hypothetical protein
+JNCGLAOM_00487	gene	783	phnE			
+JNCGLAOM_00487	CDS	783	phnE		COG3639	Phosphate-import permease protein PhnE
+JNCGLAOM_00488	gene	831	metN2			
+JNCGLAOM_00488	CDS	831	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+JNCGLAOM_00489	gene	207				
+JNCGLAOM_00489	CDS	207				hypothetical protein
+JNCGLAOM_00490	gene	144				
+JNCGLAOM_00490	CDS	144				hypothetical protein
+JNCGLAOM_00491	gene	738				
+JNCGLAOM_00491	CDS	738		3.5.2.20	COG1878	Isatin hydrolase
+JNCGLAOM_00492	gene	405	kal			
+JNCGLAOM_00492	CDS	405	kal	4.3.1.14		3-aminobutyryl-CoA ammonia lyase
+JNCGLAOM_00493	gene	174				
+JNCGLAOM_00493	CDS	174				hypothetical protein
+JNCGLAOM_00494	gene	324				
+JNCGLAOM_00494	CDS	324				hypothetical protein
+JNCGLAOM_00495	gene	312				
+JNCGLAOM_00495	CDS	312				hypothetical protein
+JNCGLAOM_00496	gene	465				
+JNCGLAOM_00496	CDS	465				hypothetical protein
+JNCGLAOM_00497	gene	77				
+JNCGLAOM_00497	tRNA	77				tRNA-Val(tac)
+JNCGLAOM_00498	gene	462				
+JNCGLAOM_00498	CDS	462				hypothetical protein
+JNCGLAOM_00499	gene	378				
+JNCGLAOM_00499	CDS	378				hypothetical protein
+JNCGLAOM_00500	gene	267				
+JNCGLAOM_00500	CDS	267				hypothetical protein
+JNCGLAOM_00501	gene	561				
+JNCGLAOM_00501	CDS	561				hypothetical protein
+JNCGLAOM_00502	gene	117				
+JNCGLAOM_00502	CDS	117				hypothetical protein
+JNCGLAOM_00503	gene	219				
+JNCGLAOM_00503	CDS	219				hypothetical protein
+JNCGLAOM_00504	gene	303	ndhI_1			
+JNCGLAOM_00504	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+JNCGLAOM_00505	gene	570				
+JNCGLAOM_00505	CDS	570				hypothetical protein
+JNCGLAOM_00506	gene	204				
+JNCGLAOM_00506	CDS	204				hypothetical protein
+JNCGLAOM_00507	gene	267				
+JNCGLAOM_00507	CDS	267				hypothetical protein
+JNCGLAOM_00508	gene	324				
+JNCGLAOM_00508	CDS	324				hypothetical protein
+JNCGLAOM_00509	gene	435				
+JNCGLAOM_00509	CDS	435				hypothetical protein
+JNCGLAOM_00510	gene	549				
+JNCGLAOM_00510	CDS	549				hypothetical protein
+JNCGLAOM_00511	gene	720				
+JNCGLAOM_00511	CDS	720				hypothetical protein
+JNCGLAOM_00512	gene	522				
+JNCGLAOM_00512	CDS	522				hypothetical protein
+JNCGLAOM_00513	gene	1224				
+JNCGLAOM_00513	rRNA	1224				23S ribosomal RNA (partial)
+JNCGLAOM_00514	gene	348				
+JNCGLAOM_00514	CDS	348				hypothetical protein
+JNCGLAOM_00515	gene	129				
+JNCGLAOM_00515	CDS	129				hypothetical protein
+JNCGLAOM_00516	gene	183				
+JNCGLAOM_00516	CDS	183				hypothetical protein
+JNCGLAOM_00517	gene	378				
+JNCGLAOM_00517	CDS	378				hypothetical protein
+JNCGLAOM_00518	gene	1221				
+JNCGLAOM_00518	CDS	1221				hypothetical protein
+JNCGLAOM_00519	gene	516	msrA			
+JNCGLAOM_00519	CDS	516	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+JNCGLAOM_00520	gene	525				
+JNCGLAOM_00520	CDS	525				hypothetical protein
+JNCGLAOM_00521	gene	657	nth			
+JNCGLAOM_00521	CDS	657	nth	4.2.99.18	COG0177	Endonuclease III
+JNCGLAOM_00522	gene	291				
+JNCGLAOM_00522	CDS	291				hypothetical protein
+JNCGLAOM_00523	gene	549	lolD			
+JNCGLAOM_00523	CDS	549	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+JNCGLAOM_00524	gene	1188				
+JNCGLAOM_00524	CDS	1188				hypothetical protein
+JNCGLAOM_00525	gene	888				
+JNCGLAOM_00525	CDS	888				hypothetical protein
+JNCGLAOM_00526	gene	516	act			
+JNCGLAOM_00526	CDS	516	act	3.-.-.-		Methanol dehydrogenase activator
+JNCGLAOM_00527	gene	981				
+JNCGLAOM_00527	CDS	981				hypothetical protein
+JNCGLAOM_00528	gene	888	thrB_1			
+JNCGLAOM_00528	CDS	888	thrB_1	2.7.1.39		Homoserine kinase
+JNCGLAOM_00529	gene	765				
+JNCGLAOM_00529	CDS	765				hypothetical protein
+JNCGLAOM_00530	gene	834	panB			
+JNCGLAOM_00530	CDS	834	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+JNCGLAOM_00531	gene	1248	coaBC			
+JNCGLAOM_00531	CDS	1248	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+JNCGLAOM_00532	gene	1062	pepE			
+JNCGLAOM_00532	CDS	1062	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+JNCGLAOM_00533	gene	1005	thiI_1			
+JNCGLAOM_00533	CDS	1005	thiI_1	2.8.1.4		tRNA sulfurtransferase
+JNCGLAOM_00534	gene	279				
+JNCGLAOM_00534	CDS	279				hypothetical protein
+JNCGLAOM_00535	gene	681				
+JNCGLAOM_00535	CDS	681		3.1.-.-	COG1236	Ribonuclease
+JNCGLAOM_00536	gene	750	birA			
+JNCGLAOM_00536	CDS	750	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+JNCGLAOM_00537	gene	345				
+JNCGLAOM_00537	CDS	345				hypothetical protein
+JNCGLAOM_00538	gene	1428				
+JNCGLAOM_00538	CDS	1428				hypothetical protein
+JNCGLAOM_00539	gene	912				
+JNCGLAOM_00539	CDS	912				hypothetical protein
+JNCGLAOM_00540	gene	558				
+JNCGLAOM_00540	CDS	558				hypothetical protein
+JNCGLAOM_00541	gene	393				
+JNCGLAOM_00541	CDS	393				hypothetical protein
+JNCGLAOM_00542	gene	576				
+JNCGLAOM_00542	CDS	576				hypothetical protein
+JNCGLAOM_00543	gene	909	phaC			
+JNCGLAOM_00543	CDS	909	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+JNCGLAOM_00544	gene	432				
+JNCGLAOM_00544	CDS	432				hypothetical protein
+JNCGLAOM_00545	gene	423				
+JNCGLAOM_00545	CDS	423				hypothetical protein
+JNCGLAOM_00546	gene	333	bphD			
+JNCGLAOM_00546	CDS	333	bphD	3.7.1.8		2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase
+JNCGLAOM_00547	gene	570				
+JNCGLAOM_00547	CDS	570				hypothetical protein
+JNCGLAOM_00548	gene	780				
+JNCGLAOM_00548	CDS	780				hypothetical protein
+JNCGLAOM_00549	gene	342				
+JNCGLAOM_00549	CDS	342				hypothetical protein
+JNCGLAOM_00550	gene	333				
+JNCGLAOM_00550	CDS	333				hypothetical protein
+JNCGLAOM_00551	gene	732				
+JNCGLAOM_00551	CDS	732				hypothetical protein
+JNCGLAOM_00552	gene	216				
+JNCGLAOM_00552	CDS	216				hypothetical protein
+JNCGLAOM_00553	gene	669				
+JNCGLAOM_00553	CDS	669				hypothetical protein
+JNCGLAOM_00554	gene	1284				
+JNCGLAOM_00554	CDS	1284				hypothetical protein
+JNCGLAOM_00555	gene	264	hit_2			
+JNCGLAOM_00555	CDS	264	hit_2		COG0537	Protein hit
+JNCGLAOM_00556	gene	627				
+JNCGLAOM_00556	CDS	627				hypothetical protein
+JNCGLAOM_00557	gene	147				
+JNCGLAOM_00557	CDS	147				hypothetical protein
+JNCGLAOM_00558	gene	1056				
+JNCGLAOM_00558	CDS	1056				hypothetical protein
+JNCGLAOM_00559	gene	1371				
+JNCGLAOM_00559	CDS	1371				hypothetical protein
+JNCGLAOM_00560	gene	318				
+JNCGLAOM_00560	CDS	318				hypothetical protein
+JNCGLAOM_00561	gene	369				
+JNCGLAOM_00561	CDS	369				hypothetical protein
+JNCGLAOM_00562	gene	399				
+JNCGLAOM_00562	CDS	399				hypothetical protein
+JNCGLAOM_00563	gene	1302				
+JNCGLAOM_00563	CDS	1302				hypothetical protein
+JNCGLAOM_00564	gene	462				
+JNCGLAOM_00564	CDS	462				hypothetical protein
+JNCGLAOM_00565	gene	900	rnz			
+JNCGLAOM_00565	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+JNCGLAOM_00566	gene	219	prs			
+JNCGLAOM_00566	CDS	219	prs			Putative ribose-phosphate pyrophosphokinase
+JNCGLAOM_00567	gene	186				
+JNCGLAOM_00567	CDS	186				hypothetical protein
+JNCGLAOM_00568	gene	225				
+JNCGLAOM_00568	CDS	225				hypothetical protein
+JNCGLAOM_00569	gene	249				
+JNCGLAOM_00569	CDS	249				hypothetical protein
+JNCGLAOM_00570	gene	3348	rpoB			
+JNCGLAOM_00570	CDS	3348	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+JNCGLAOM_00571	gene	252				
+JNCGLAOM_00571	CDS	252				hypothetical protein
+JNCGLAOM_00572	gene	705				
+JNCGLAOM_00572	CDS	705				hypothetical protein
+JNCGLAOM_00573	gene	492				
+JNCGLAOM_00573	CDS	492				hypothetical protein
+JNCGLAOM_00574	gene	2028				
+JNCGLAOM_00574	CDS	2028				hypothetical protein
+JNCGLAOM_00575	gene	621	sodA			
+JNCGLAOM_00575	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+JNCGLAOM_00576	gene	420	pfdA			
+JNCGLAOM_00576	CDS	420	pfdA			Prefoldin subunit alpha
+JNCGLAOM_00577	gene	1209	ftsY			
+JNCGLAOM_00577	CDS	1209	ftsY			Signal recognition particle receptor FtsY
+JNCGLAOM_00578	gene	912	argF			
+JNCGLAOM_00578	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+JNCGLAOM_00579	gene	399				
+JNCGLAOM_00579	CDS	399				hypothetical protein
+JNCGLAOM_00580	gene	348				
+JNCGLAOM_00580	CDS	348				hypothetical protein
+JNCGLAOM_00581	gene	1224				
+JNCGLAOM_00581	CDS	1224				hypothetical protein
+JNCGLAOM_00582	gene	870				
+JNCGLAOM_00582	CDS	870				hypothetical protein
+JNCGLAOM_00583	gene	1197				
+JNCGLAOM_00583	CDS	1197				hypothetical protein
+JNCGLAOM_00584	gene	654	cheB			
+JNCGLAOM_00584	CDS	654	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+JNCGLAOM_00585	gene	486				
+JNCGLAOM_00585	CDS	486				hypothetical protein
+JNCGLAOM_00586	gene	1533				
+JNCGLAOM_00586	CDS	1533				hypothetical protein
+JNCGLAOM_00587	gene	96				
+JNCGLAOM_00587	CDS	96				hypothetical protein
+JNCGLAOM_00588	gene	87				
+JNCGLAOM_00588	tRNA	87				tRNA-Ser(gct)
+JNCGLAOM_00589	gene	162				
+JNCGLAOM_00589	CDS	162				hypothetical protein
+JNCGLAOM_00590	gene	825	purC			
+JNCGLAOM_00590	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+JNCGLAOM_00591	gene	855	thrB_2			
+JNCGLAOM_00591	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+JNCGLAOM_00592	gene	822	aroE			
+JNCGLAOM_00592	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+JNCGLAOM_00593	gene	663	aroD			
+JNCGLAOM_00593	CDS	663	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+JNCGLAOM_00594	gene	1062	griH			
+JNCGLAOM_00594	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+JNCGLAOM_00595	gene	783	griI			
+JNCGLAOM_00595	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+JNCGLAOM_00596	gene	1464	pat			
+JNCGLAOM_00596	CDS	1464	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+JNCGLAOM_00597	gene	339				
+JNCGLAOM_00597	CDS	339				hypothetical protein
+JNCGLAOM_00598	gene	318				
+JNCGLAOM_00598	CDS	318				hypothetical protein
+JNCGLAOM_00599	gene	534				
+JNCGLAOM_00599	CDS	534				hypothetical protein
+JNCGLAOM_00600	gene	291	cysH_1			
+JNCGLAOM_00600	CDS	291	cysH_1	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase
+JNCGLAOM_00601	gene	1134	thiI_2			
+JNCGLAOM_00601	CDS	1134	thiI_2	2.8.1.4		tRNA sulfurtransferase
+JNCGLAOM_00602	gene	1236				
+JNCGLAOM_00602	CDS	1236				hypothetical protein
+JNCGLAOM_00603	gene	291				
+JNCGLAOM_00603	CDS	291				hypothetical protein
+JNCGLAOM_00604	gene	216				
+JNCGLAOM_00604	CDS	216				hypothetical protein
+JNCGLAOM_00605	gene	801				
+JNCGLAOM_00605	CDS	801		1.-.-.-		putative oxidoreductase
+JNCGLAOM_00606	gene	1083				
+JNCGLAOM_00606	CDS	1083				hypothetical protein
+JNCGLAOM_00607	gene	180				
+JNCGLAOM_00607	CDS	180				hypothetical protein
+JNCGLAOM_00608	gene	435				
+JNCGLAOM_00608	CDS	435				hypothetical protein
+JNCGLAOM_00609	gene	363				
+JNCGLAOM_00609	CDS	363				hypothetical protein
+JNCGLAOM_00610	gene	73				
+JNCGLAOM_00610	tRNA	73				tRNA-Ala(cgc)
+JNCGLAOM_00611	gene	1401				
+JNCGLAOM_00611	CDS	1401		3.5.2.-		D-hydantoinase
+JNCGLAOM_00612	gene	678	rpiA			
+JNCGLAOM_00612	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+JNCGLAOM_00613	gene	531				
+JNCGLAOM_00613	CDS	531				hypothetical protein
+JNCGLAOM_00614	gene	930	metE			
+JNCGLAOM_00614	CDS	930	metE	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+JNCGLAOM_00615	gene	759				
+JNCGLAOM_00615	CDS	759				hypothetical protein
+JNCGLAOM_00616	gene	558	nudL			
+JNCGLAOM_00616	CDS	558	nudL	3.6.1.-		putative Nudix hydrolase NudL
+JNCGLAOM_00617	gene	159				
+JNCGLAOM_00617	CDS	159				hypothetical protein
+JNCGLAOM_00618	gene	324				
+JNCGLAOM_00618	CDS	324				hypothetical protein
+JNCGLAOM_00619	gene	1353	pabB			
+JNCGLAOM_00619	CDS	1353	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+JNCGLAOM_00620	gene	591	trpG			
+JNCGLAOM_00620	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+JNCGLAOM_00621	gene	1041	trpD			
+JNCGLAOM_00621	CDS	1041	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+JNCGLAOM_00622	gene	774	trpC			
+JNCGLAOM_00622	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+JNCGLAOM_00623	gene	918				
+JNCGLAOM_00623	CDS	918				hypothetical protein
+JNCGLAOM_00624	gene	798				
+JNCGLAOM_00624	CDS	798		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+JNCGLAOM_00625	gene	297	mcl2			
+JNCGLAOM_00625	CDS	297	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+JNCGLAOM_00626	gene	399				
+JNCGLAOM_00626	CDS	399				hypothetical protein
+JNCGLAOM_00627	gene	651				
+JNCGLAOM_00627	CDS	651				hypothetical protein
+JNCGLAOM_00628	gene	873	fadM			
+JNCGLAOM_00628	CDS	873	fadM	1.5.5.2	COG0506	Proline dehydrogenase 1
+JNCGLAOM_00629	gene	1566	rocA1			
+JNCGLAOM_00629	CDS	1566	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+JNCGLAOM_00630	gene	852	speB			
+JNCGLAOM_00630	CDS	852	speB	3.5.3.11	COG0010	Agmatinase
+JNCGLAOM_00631	gene	585	ribE			
+JNCGLAOM_00631	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+JNCGLAOM_00632	gene	675	ribBA			
+JNCGLAOM_00632	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+JNCGLAOM_00633	gene	414	ribH			
+JNCGLAOM_00633	CDS	414	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+JNCGLAOM_00634	gene	750				
+JNCGLAOM_00634	CDS	750				hypothetical protein
+JNCGLAOM_00635	gene	1191	triA			
+JNCGLAOM_00635	CDS	1191	triA	3.5.4.45		Melamine deaminase
+JNCGLAOM_00636	gene	657	ribD2			
+JNCGLAOM_00636	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+JNCGLAOM_00637	gene	204				
+JNCGLAOM_00637	CDS	204				hypothetical protein
+JNCGLAOM_00638	gene	426				
+JNCGLAOM_00638	CDS	426				hypothetical protein
+JNCGLAOM_00639	gene	516				
+JNCGLAOM_00639	CDS	516				hypothetical protein
+JNCGLAOM_00640	gene	534				
+JNCGLAOM_00640	CDS	534				hypothetical protein
+JNCGLAOM_00641	gene	864	hflX			
+JNCGLAOM_00641	CDS	864	hflX		COG2262	GTPase HflX
+JNCGLAOM_00642	gene	246				
+JNCGLAOM_00642	CDS	246				hypothetical protein
+JNCGLAOM_00643	gene	957				
+JNCGLAOM_00643	CDS	957				hypothetical protein
+JNCGLAOM_00644	gene	771	sufC			
+JNCGLAOM_00644	CDS	771	sufC		COG0396	Vegetative protein 296
+JNCGLAOM_00645	gene	678				
+JNCGLAOM_00645	CDS	678			COG3253	putative protein/MSMEI_2713
+JNCGLAOM_00646	gene	546				
+JNCGLAOM_00646	CDS	546				hypothetical protein
+JNCGLAOM_00647	gene	999	iolS_1			
+JNCGLAOM_00647	CDS	999	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+JNCGLAOM_00648	gene	1014				
+JNCGLAOM_00648	CDS	1014				hypothetical protein
+JNCGLAOM_00649	gene	864	hisD			
+JNCGLAOM_00649	CDS	864	hisD	1.1.1.23		Histidinol dehydrogenase
+JNCGLAOM_00650	gene	1071	hisC_1			
+JNCGLAOM_00650	CDS	1071	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+JNCGLAOM_00651	gene	240				
+JNCGLAOM_00651	CDS	240				hypothetical protein
+JNCGLAOM_00652	gene	567				
+JNCGLAOM_00652	CDS	567				hypothetical protein
+JNCGLAOM_00653	gene	600	aroC			
+JNCGLAOM_00653	CDS	600	aroC	4.2.3.5	COG0082	Chorismate synthase
+JNCGLAOM_00654	gene	135				
+JNCGLAOM_00654	CDS	135				hypothetical protein
+JNCGLAOM_00655	gene	138				
+JNCGLAOM_00655	CDS	138				hypothetical protein
+JNCGLAOM_00656	gene	432				
+JNCGLAOM_00656	CDS	432				hypothetical protein
+JNCGLAOM_00657	gene	264				
+JNCGLAOM_00657	CDS	264				hypothetical protein
+JNCGLAOM_00658	gene	186				
+JNCGLAOM_00658	CDS	186				hypothetical protein
+JNCGLAOM_00659	gene	669				
+JNCGLAOM_00659	CDS	669				hypothetical protein
+JNCGLAOM_00660	gene	414				
+JNCGLAOM_00660	CDS	414				hypothetical protein
+JNCGLAOM_00661	gene	555				
+JNCGLAOM_00661	CDS	555				hypothetical protein
+JNCGLAOM_00662	gene	339				
+JNCGLAOM_00662	CDS	339				hypothetical protein
+JNCGLAOM_00663	gene	348				
+JNCGLAOM_00663	CDS	348				hypothetical protein
+JNCGLAOM_00664	gene	1569				
+JNCGLAOM_00664	CDS	1569				hypothetical protein
+JNCGLAOM_00665	gene	309				
+JNCGLAOM_00665	CDS	309				hypothetical protein
+JNCGLAOM_00666	gene	249				
+JNCGLAOM_00666	CDS	249				hypothetical protein
+JNCGLAOM_00667	gene	153				
+JNCGLAOM_00667	CDS	153				hypothetical protein
+JNCGLAOM_00668	gene	213				
+JNCGLAOM_00668	CDS	213				hypothetical protein
+JNCGLAOM_00669	gene	858				
+JNCGLAOM_00669	CDS	858				hypothetical protein
+JNCGLAOM_00670	gene	1173	carA			
+JNCGLAOM_00670	CDS	1173	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+JNCGLAOM_00671	gene	2985	carB			
+JNCGLAOM_00671	CDS	2985	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+JNCGLAOM_00672	gene	750				
+JNCGLAOM_00672	CDS	750				hypothetical protein
+JNCGLAOM_00673	gene	189				
+JNCGLAOM_00673	CDS	189				hypothetical protein
+JNCGLAOM_00674	gene	336				
+JNCGLAOM_00674	CDS	336		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+JNCGLAOM_00675	gene	447				
+JNCGLAOM_00675	CDS	447				hypothetical protein
+JNCGLAOM_00676	gene	240				
+JNCGLAOM_00676	CDS	240				hypothetical protein
+JNCGLAOM_00677	gene	150				
+JNCGLAOM_00677	CDS	150				hypothetical protein
+JNCGLAOM_00678	gene	111				
+JNCGLAOM_00678	CDS	111				hypothetical protein
+JNCGLAOM_00679	gene	117				
+JNCGLAOM_00679	CDS	117				hypothetical protein
+JNCGLAOM_00680	gene	240				
+JNCGLAOM_00680	CDS	240				hypothetical protein
+JNCGLAOM_00681	gene	720	cysH_2			
+JNCGLAOM_00681	CDS	720	cysH_2	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+JNCGLAOM_00682	gene	228				
+JNCGLAOM_00682	CDS	228				hypothetical protein
+JNCGLAOM_00683	gene	843				
+JNCGLAOM_00683	CDS	843				hypothetical protein
+JNCGLAOM_00684	gene	1395	nhaP2			
+JNCGLAOM_00684	CDS	1395	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+JNCGLAOM_00685	gene	915				
+JNCGLAOM_00685	CDS	915				hypothetical protein
+JNCGLAOM_00686	gene	912				
+JNCGLAOM_00686	CDS	912				hypothetical protein
+JNCGLAOM_00687	gene	1368				
+JNCGLAOM_00687	CDS	1368				hypothetical protein
+JNCGLAOM_00688	gene	249				
+JNCGLAOM_00688	CDS	249				hypothetical protein
+JNCGLAOM_00689	gene	1419				
+JNCGLAOM_00689	CDS	1419		2.3.1.-		tRNA uridine(34) acetyltransferase
+JNCGLAOM_00690	gene	558				
+JNCGLAOM_00690	CDS	558				hypothetical protein
+JNCGLAOM_00691	gene	288				
+JNCGLAOM_00691	CDS	288				hypothetical protein
+JNCGLAOM_00692	gene	75				
+JNCGLAOM_00692	tRNA	75				tRNA-Asn(gtt)
+JNCGLAOM_00693	gene	246				
+JNCGLAOM_00693	CDS	246				hypothetical protein
+JNCGLAOM_00694	gene	225				
+JNCGLAOM_00694	CDS	225				hypothetical protein
+JNCGLAOM_00695	gene	486				
+JNCGLAOM_00695	CDS	486				hypothetical protein
+JNCGLAOM_00696	gene	216				
+JNCGLAOM_00696	CDS	216				hypothetical protein
+JNCGLAOM_00697	gene	408				
+JNCGLAOM_00697	CDS	408				hypothetical protein
+JNCGLAOM_00698	gene	510				
+JNCGLAOM_00698	CDS	510				hypothetical protein
+JNCGLAOM_00699	gene	1554	nrgA			
+JNCGLAOM_00699	CDS	1554	nrgA			Ammonium transporter
+JNCGLAOM_00700	gene	672				
+JNCGLAOM_00700	CDS	672				hypothetical protein
+JNCGLAOM_00701	gene	165				
+JNCGLAOM_00701	CDS	165				hypothetical protein
+JNCGLAOM_00702	gene	642				
+JNCGLAOM_00702	CDS	642				hypothetical protein
+JNCGLAOM_00703	gene	114				
+JNCGLAOM_00703	CDS	114				hypothetical protein
+JNCGLAOM_00704	gene	546				
+JNCGLAOM_00704	CDS	546				hypothetical protein
+JNCGLAOM_00705	gene	360				
+JNCGLAOM_00705	CDS	360				hypothetical protein
+JNCGLAOM_00706	gene	675	pyrH			
+JNCGLAOM_00706	CDS	675	pyrH	2.7.4.22		Uridylate kinase
+JNCGLAOM_00707	gene	99				
+JNCGLAOM_00707	CDS	99				hypothetical protein
+JNCGLAOM_00708	gene	849				
+JNCGLAOM_00708	CDS	849				hypothetical protein
+JNCGLAOM_00709	gene	585	tmk			
+JNCGLAOM_00709	CDS	585	tmk	2.7.4.9	COG0125	Thymidylate kinase
+JNCGLAOM_00710	gene	393				
+JNCGLAOM_00710	CDS	393				hypothetical protein
+JNCGLAOM_00711	gene	147				
+JNCGLAOM_00711	CDS	147				hypothetical protein
+JNCGLAOM_00712	gene	213				
+JNCGLAOM_00712	CDS	213				hypothetical protein
+JNCGLAOM_00713	gene	438				
+JNCGLAOM_00713	CDS	438				hypothetical protein
+JNCGLAOM_00714	gene	558	ecdB			
+JNCGLAOM_00714	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+JNCGLAOM_00715	gene	156				
+JNCGLAOM_00715	CDS	156				hypothetical protein
+JNCGLAOM_00716	gene	1092				
+JNCGLAOM_00716	CDS	1092				hypothetical protein
+JNCGLAOM_00717	gene	438				
+JNCGLAOM_00717	CDS	438				hypothetical protein
+JNCGLAOM_00718	gene	1821				
+JNCGLAOM_00718	CDS	1821				hypothetical protein
+JNCGLAOM_00719	gene	834				
+JNCGLAOM_00719	CDS	834				hypothetical protein
+JNCGLAOM_00720	gene	288				
+JNCGLAOM_00720	CDS	288				hypothetical protein
+JNCGLAOM_00721	gene	381				
+JNCGLAOM_00721	CDS	381				hypothetical protein
+JNCGLAOM_00722	gene	2379				
+JNCGLAOM_00722	CDS	2379				hypothetical protein
+JNCGLAOM_00723	gene	498				
+JNCGLAOM_00723	CDS	498				hypothetical protein
+JNCGLAOM_00724	gene	618	trmR			
+JNCGLAOM_00724	CDS	618	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+JNCGLAOM_00725	gene	2193	fusA			
+JNCGLAOM_00725	CDS	2193	fusA		COG0480	Elongation factor G
+JNCGLAOM_00726	gene	114				
+JNCGLAOM_00726	CDS	114				hypothetical protein
+JNCGLAOM_00727	gene	921				
+JNCGLAOM_00727	CDS	921				hypothetical protein
+JNCGLAOM_00728	gene	1425	purL			
+JNCGLAOM_00728	CDS	1425	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+JNCGLAOM_00729	gene	1434	purF			
+JNCGLAOM_00729	CDS	1434	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+JNCGLAOM_00730	gene	240				
+JNCGLAOM_00730	CDS	240				hypothetical protein
+JNCGLAOM_00731	gene	387				
+JNCGLAOM_00731	CDS	387				hypothetical protein
+JNCGLAOM_00732	gene	207				
+JNCGLAOM_00732	CDS	207				hypothetical protein
+JNCGLAOM_00733	gene	1179	citZ			
+JNCGLAOM_00733	CDS	1179	citZ	2.3.3.16	COG0372	Citrate synthase 2
+JNCGLAOM_00734	gene	204				
+JNCGLAOM_00734	CDS	204				hypothetical protein
+JNCGLAOM_00735	gene	1020				
+JNCGLAOM_00735	CDS	1020				hypothetical protein
+JNCGLAOM_00736	gene	420				
+JNCGLAOM_00736	CDS	420				hypothetical protein
+JNCGLAOM_00737	gene	1095				
+JNCGLAOM_00737	CDS	1095				hypothetical protein
+JNCGLAOM_00738	gene	480				
+JNCGLAOM_00738	CDS	480				hypothetical protein
+JNCGLAOM_00739	gene	156				
+JNCGLAOM_00739	CDS	156				hypothetical protein
+JNCGLAOM_00740	gene	153				
+JNCGLAOM_00740	CDS	153				hypothetical protein
+JNCGLAOM_00741	gene	150				
+JNCGLAOM_00741	CDS	150				hypothetical protein
+JNCGLAOM_00742	gene	495				
+JNCGLAOM_00742	CDS	495				hypothetical protein
+JNCGLAOM_00743	gene	1098				
+JNCGLAOM_00743	CDS	1098				hypothetical protein
+JNCGLAOM_00744	gene	420	kynB			
+JNCGLAOM_00744	CDS	420	kynB	3.5.1.9		Kynurenine formamidase
+JNCGLAOM_00745	gene	261				
+JNCGLAOM_00745	CDS	261				hypothetical protein
+JNCGLAOM_00746	gene	1155	sufS			
+JNCGLAOM_00746	CDS	1155	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+JNCGLAOM_00747	gene	567				
+JNCGLAOM_00747	CDS	567				hypothetical protein
+JNCGLAOM_00748	gene	300	ndhI_2			
+JNCGLAOM_00748	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+JNCGLAOM_00749	gene	531				
+JNCGLAOM_00749	CDS	531				hypothetical protein
+JNCGLAOM_00750	gene	303	bphA3_1			
+JNCGLAOM_00750	CDS	303	bphA3_1			Biphenyl dioxygenase ferredoxin subunit
+JNCGLAOM_00751	gene	789	nadE			
+JNCGLAOM_00751	CDS	789	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+JNCGLAOM_00752	gene	369				
+JNCGLAOM_00752	CDS	369				hypothetical protein
+JNCGLAOM_00753	gene	3468	smc			
+JNCGLAOM_00753	CDS	3468	smc			Chromosome partition protein Smc
+JNCGLAOM_00754	gene	1095	ino1			
+JNCGLAOM_00754	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+JNCGLAOM_00755	gene	531				
+JNCGLAOM_00755	CDS	531				hypothetical protein
+JNCGLAOM_00756	gene	303				
+JNCGLAOM_00756	CDS	303				hypothetical protein
+JNCGLAOM_00757	gene	144				
+JNCGLAOM_00757	CDS	144				hypothetical protein
+JNCGLAOM_00758	gene	168				
+JNCGLAOM_00758	CDS	168				hypothetical protein
+JNCGLAOM_00759	gene	408				
+JNCGLAOM_00759	CDS	408				hypothetical protein
+JNCGLAOM_00760	gene	864				
+JNCGLAOM_00760	CDS	864				hypothetical protein
+JNCGLAOM_00761	gene	312				
+JNCGLAOM_00761	CDS	312				hypothetical protein
+JNCGLAOM_00762	gene	267				
+JNCGLAOM_00762	CDS	267				hypothetical protein
+JNCGLAOM_00763	gene	1242				
+JNCGLAOM_00763	CDS	1242				hypothetical protein
+JNCGLAOM_00764	gene	282				
+JNCGLAOM_00764	CDS	282				hypothetical protein
+JNCGLAOM_00765	gene	405				
+JNCGLAOM_00765	CDS	405				hypothetical protein
+JNCGLAOM_00766	gene	348				
+JNCGLAOM_00766	CDS	348				hypothetical protein
+JNCGLAOM_00767	gene	933	yrbG			
+JNCGLAOM_00767	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+JNCGLAOM_00768	gene	1206	aspC			
+JNCGLAOM_00768	CDS	1206	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+JNCGLAOM_00769	gene	858				
+JNCGLAOM_00769	CDS	858				hypothetical protein
+JNCGLAOM_00770	gene	405				
+JNCGLAOM_00770	CDS	405				hypothetical protein
+JNCGLAOM_00771	gene	1329	bzaF			
+JNCGLAOM_00771	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+JNCGLAOM_00772	gene	126				
+JNCGLAOM_00772	CDS	126				hypothetical protein
+JNCGLAOM_00773	gene	1554	GATB			
+JNCGLAOM_00773	CDS	1554	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+JNCGLAOM_00774	gene	258				
+JNCGLAOM_00774	CDS	258				hypothetical protein
+JNCGLAOM_00775	gene	88				
+JNCGLAOM_00775	tRNA	88				tRNA-Leu(cag)
+JNCGLAOM_00776	gene	171				
+JNCGLAOM_00776	CDS	171				hypothetical protein
+JNCGLAOM_00777	gene	333				
+JNCGLAOM_00777	CDS	333				hypothetical protein
+JNCGLAOM_00778	gene	74				
+JNCGLAOM_00778	tRNA	74				tRNA-Gln(ttg)
+JNCGLAOM_00779	gene	1038				
+JNCGLAOM_00779	CDS	1038				hypothetical protein
+JNCGLAOM_00780	gene	954	glnS			
+JNCGLAOM_00780	CDS	954	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+JNCGLAOM_00781	gene	867	yisK			
+JNCGLAOM_00781	CDS	867	yisK		COG0179	putative protein YisK
+JNCGLAOM_00782	gene	813				
+JNCGLAOM_00782	CDS	813				hypothetical protein
+JNCGLAOM_00783	gene	309	bnzC			
+JNCGLAOM_00783	CDS	309	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+JNCGLAOM_00784	gene	270				
+JNCGLAOM_00784	CDS	270				hypothetical protein
+JNCGLAOM_00785	gene	762				
+JNCGLAOM_00785	CDS	762				hypothetical protein
+JNCGLAOM_00786	gene	348				
+JNCGLAOM_00786	CDS	348				hypothetical protein
+JNCGLAOM_00787	gene	741	pleC			
+JNCGLAOM_00787	CDS	741	pleC	2.7.13.3		Non-motile and phage-resistance protein
+JNCGLAOM_00788	gene	1623				
+JNCGLAOM_00788	CDS	1623				hypothetical protein
+JNCGLAOM_00789	gene	72				
+JNCGLAOM_00789	tRNA	72				tRNA-His(gtg)
+JNCGLAOM_00790	gene	1938	ftsH_3			
+JNCGLAOM_00790	CDS	1938	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+JNCGLAOM_00791	gene	219				
+JNCGLAOM_00791	CDS	219				hypothetical protein
+JNCGLAOM_00792	gene	435				
+JNCGLAOM_00792	CDS	435				hypothetical protein
+JNCGLAOM_00793	gene	537				
+JNCGLAOM_00793	CDS	537				hypothetical protein
+JNCGLAOM_00794	gene	420				
+JNCGLAOM_00794	CDS	420				hypothetical protein
+JNCGLAOM_00795	gene	273				
+JNCGLAOM_00795	CDS	273				hypothetical protein
+JNCGLAOM_00796	gene	294	cutA			
+JNCGLAOM_00796	CDS	294	cutA		COG1324	Divalent-cation tolerance protein CutA
+JNCGLAOM_00797	gene	1203				
+JNCGLAOM_00797	CDS	1203				hypothetical protein
+JNCGLAOM_00798	gene	102				
+JNCGLAOM_00798	CDS	102				hypothetical protein
+JNCGLAOM_00799	gene	228				
+JNCGLAOM_00799	CDS	228				hypothetical protein
+JNCGLAOM_00800	gene	366				
+JNCGLAOM_00800	CDS	366				hypothetical protein
+JNCGLAOM_00801	gene	252				
+JNCGLAOM_00801	CDS	252				hypothetical protein
+JNCGLAOM_00802	gene	105				
+JNCGLAOM_00802	CDS	105				hypothetical protein
+JNCGLAOM_00803	gene	552				
+JNCGLAOM_00803	CDS	552				hypothetical protein
+JNCGLAOM_00804	gene	261				
+JNCGLAOM_00804	CDS	261				hypothetical protein
+JNCGLAOM_00805	gene	642				
+JNCGLAOM_00805	CDS	642				hypothetical protein
+JNCGLAOM_00806	gene	501				
+JNCGLAOM_00806	CDS	501				hypothetical protein
+JNCGLAOM_00807	gene	489				
+JNCGLAOM_00807	CDS	489				hypothetical protein
+JNCGLAOM_00808	gene	279				
+JNCGLAOM_00808	CDS	279				hypothetical protein
+JNCGLAOM_00809	gene	927	thrB_3			
+JNCGLAOM_00809	CDS	927	thrB_3	2.7.1.39	COG0083	Homoserine kinase
+JNCGLAOM_00810	gene	675	queC			
+JNCGLAOM_00810	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+JNCGLAOM_00811	gene	330				
+JNCGLAOM_00811	CDS	330				hypothetical protein
+JNCGLAOM_00812	gene	561	folE			
+JNCGLAOM_00812	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+JNCGLAOM_00813	gene	714	queE			
+JNCGLAOM_00813	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+JNCGLAOM_00814	gene	195				
+JNCGLAOM_00814	CDS	195				hypothetical protein
+JNCGLAOM_00815	gene	804				
+JNCGLAOM_00815	CDS	804				hypothetical protein
+JNCGLAOM_00816	gene	1011				
+JNCGLAOM_00816	CDS	1011				hypothetical protein
+JNCGLAOM_00817	gene	288				
+JNCGLAOM_00817	CDS	288				hypothetical protein
+JNCGLAOM_00818	gene	285				
+JNCGLAOM_00818	CDS	285				hypothetical protein
+JNCGLAOM_00819	gene	543				
+JNCGLAOM_00819	CDS	543				hypothetical protein
+JNCGLAOM_00820	gene	642				
+JNCGLAOM_00820	CDS	642				hypothetical protein
+JNCGLAOM_00821	gene	444	abfD			
+JNCGLAOM_00821	CDS	444	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+JNCGLAOM_00822	gene	714				
+JNCGLAOM_00822	CDS	714				hypothetical protein
+JNCGLAOM_00823	gene	759				
+JNCGLAOM_00823	CDS	759				hypothetical protein
+JNCGLAOM_00824	gene	74				
+JNCGLAOM_00824	tRNA	74				tRNA-Ala(tgc)
+JNCGLAOM_00825	gene	555	resA_2			
+JNCGLAOM_00825	CDS	555	resA_2			Thiol-disulfide oxidoreductase ResA
+JNCGLAOM_00826	gene	903				
+JNCGLAOM_00826	CDS	903				hypothetical protein
+JNCGLAOM_00827	gene	387				
+JNCGLAOM_00827	CDS	387				hypothetical protein
+JNCGLAOM_00828	gene	74				
+JNCGLAOM_00828	tRNA	74				tRNA-Thr(ggt)
+JNCGLAOM_00829	gene	864	dpnM			
+JNCGLAOM_00829	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+JNCGLAOM_00830	gene	651				
+JNCGLAOM_00830	CDS	651				hypothetical protein
+JNCGLAOM_00831	gene	363				
+JNCGLAOM_00831	CDS	363				hypothetical protein
+JNCGLAOM_00832	gene	564				
+JNCGLAOM_00832	CDS	564				hypothetical protein
+JNCGLAOM_00833	gene	396	epi_2			
+JNCGLAOM_00833	CDS	396	epi_2	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+JNCGLAOM_00834	gene	1029	bhbA			
+JNCGLAOM_00834	CDS	1029	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+JNCGLAOM_00835	gene	270	dyp2			
+JNCGLAOM_00835	CDS	270	dyp2	1.11.1.16		Multifunctional dye peroxidase DyP2
+JNCGLAOM_00836	gene	396				
+JNCGLAOM_00836	CDS	396				hypothetical protein
+JNCGLAOM_00837	gene	651				
+JNCGLAOM_00837	CDS	651				hypothetical protein
+JNCGLAOM_00838	gene	77				
+JNCGLAOM_00838	tRNA	77				tRNA-Val(tac)
+JNCGLAOM_00839	gene	1416	yclM			
+JNCGLAOM_00839	CDS	1416	yclM	2.7.2.4	COG0527	Aspartokinase 3
+JNCGLAOM_00840	gene	213				
+JNCGLAOM_00840	CDS	213				hypothetical protein
+JNCGLAOM_00841	gene	1284				
+JNCGLAOM_00841	CDS	1284				hypothetical protein
+JNCGLAOM_00842	gene	2649				
+JNCGLAOM_00842	CDS	2649				hypothetical protein
+JNCGLAOM_00843	gene	498				
+JNCGLAOM_00843	CDS	498				hypothetical protein
+JNCGLAOM_00844	gene	342				
+JNCGLAOM_00844	CDS	342				hypothetical protein
+JNCGLAOM_00845	gene	885				
+JNCGLAOM_00845	CDS	885				hypothetical protein
+JNCGLAOM_00846	gene	303				
+JNCGLAOM_00846	CDS	303				hypothetical protein
+JNCGLAOM_00847	gene	285				
+JNCGLAOM_00847	CDS	285				hypothetical protein
+JNCGLAOM_00848	gene	357				
+JNCGLAOM_00848	CDS	357				hypothetical protein
+JNCGLAOM_00849	gene	210				
+JNCGLAOM_00849	CDS	210				hypothetical protein
+JNCGLAOM_00850	gene	405				
+JNCGLAOM_00850	CDS	405				hypothetical protein
+JNCGLAOM_00851	gene	966	fgd			
+JNCGLAOM_00851	CDS	966	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+JNCGLAOM_00852	gene	429				
+JNCGLAOM_00852	CDS	429				hypothetical protein
+JNCGLAOM_00853	gene	372				
+JNCGLAOM_00853	CDS	372				hypothetical protein
+JNCGLAOM_00854	gene	1281				
+JNCGLAOM_00854	CDS	1281		2.7.1.165	COG2379	D-glycerate 2-kinase
+JNCGLAOM_00855	gene	945	fucO			
+JNCGLAOM_00855	CDS	945	fucO	1.1.1.77	COG1454	Lactaldehyde reductase
+JNCGLAOM_00856	gene	1119				
+JNCGLAOM_00856	CDS	1119		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+JNCGLAOM_00857	gene	633				
+JNCGLAOM_00857	CDS	633				hypothetical protein
+JNCGLAOM_00858	gene	246				
+JNCGLAOM_00858	CDS	246				hypothetical protein
+JNCGLAOM_00859	gene	696	acsA_1			
+JNCGLAOM_00859	CDS	696	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+JNCGLAOM_00860	gene	171				
+JNCGLAOM_00860	CDS	171				hypothetical protein
+JNCGLAOM_00861	gene	1116	dnaJ_2			
+JNCGLAOM_00861	CDS	1116	dnaJ_2		COG0484	Chaperone protein DnaJ
+JNCGLAOM_00862	gene	1908	dnaK			
+JNCGLAOM_00862	CDS	1908	dnaK		COG0443	Chaperone protein DnaK
+JNCGLAOM_00863	gene	585	grpE			
+JNCGLAOM_00863	CDS	585	grpE			Protein GrpE
+JNCGLAOM_00864	gene	1146				
+JNCGLAOM_00864	CDS	1146				hypothetical protein
+JNCGLAOM_00865	gene	1059				
+JNCGLAOM_00865	CDS	1059				hypothetical protein
+JNCGLAOM_00866	gene	978				
+JNCGLAOM_00866	CDS	978				hypothetical protein
+JNCGLAOM_00867	gene	159				
+JNCGLAOM_00867	CDS	159				hypothetical protein
+JNCGLAOM_00868	gene	621	rnhB			
+JNCGLAOM_00868	CDS	621	rnhB			Ribonuclease HII
+JNCGLAOM_00869	gene	1140	trm1			
+JNCGLAOM_00869	CDS	1140	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+JNCGLAOM_00870	gene	591	rlmE			
+JNCGLAOM_00870	CDS	591	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+JNCGLAOM_00871	gene	360				
+JNCGLAOM_00871	CDS	360				hypothetical protein
+JNCGLAOM_00872	gene	267				
+JNCGLAOM_00872	CDS	267				hypothetical protein
+JNCGLAOM_00873	gene	324				
+JNCGLAOM_00873	CDS	324				hypothetical protein
+JNCGLAOM_00874	gene	1569				
+JNCGLAOM_00874	CDS	1569				hypothetical protein
+JNCGLAOM_00875	gene	780	larB			
+JNCGLAOM_00875	CDS	780	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+JNCGLAOM_00876	gene	915	mdh			
+JNCGLAOM_00876	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+JNCGLAOM_00877	gene	468				
+JNCGLAOM_00877	CDS	468				hypothetical protein
+JNCGLAOM_00878	gene	396				
+JNCGLAOM_00878	CDS	396				hypothetical protein
+JNCGLAOM_00879	gene	267				
+JNCGLAOM_00879	CDS	267				hypothetical protein
+JNCGLAOM_00880	gene	813				
+JNCGLAOM_00880	CDS	813				hypothetical protein
+JNCGLAOM_00881	gene	993				
+JNCGLAOM_00881	CDS	993				hypothetical protein
+JNCGLAOM_00882	gene	111				
+JNCGLAOM_00882	CDS	111				hypothetical protein
+JNCGLAOM_00883	gene	462				
+JNCGLAOM_00883	CDS	462				hypothetical protein
+JNCGLAOM_00884	gene	465				
+JNCGLAOM_00884	CDS	465				hypothetical protein
+JNCGLAOM_00885	gene	156				
+JNCGLAOM_00885	CDS	156				hypothetical protein
+JNCGLAOM_00886	gene	225				
+JNCGLAOM_00886	CDS	225				hypothetical protein
+JNCGLAOM_00887	gene	321				
+JNCGLAOM_00887	CDS	321				hypothetical protein
+JNCGLAOM_00888	gene	231				
+JNCGLAOM_00888	CDS	231				hypothetical protein
+JNCGLAOM_00889	gene	624	yedJ			
+JNCGLAOM_00889	CDS	624	yedJ		COG1418	putative protein YedJ
+JNCGLAOM_00890	gene	186				
+JNCGLAOM_00890	CDS	186				hypothetical protein
+JNCGLAOM_00891	gene	633	prcB_1			
+JNCGLAOM_00891	CDS	633	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+JNCGLAOM_00892	gene	1065	egsA			
+JNCGLAOM_00892	CDS	1065	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+JNCGLAOM_00893	gene	759				
+JNCGLAOM_00893	CDS	759				hypothetical protein
+JNCGLAOM_00894	gene	1134				
+JNCGLAOM_00894	CDS	1134		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+JNCGLAOM_00895	gene	504				
+JNCGLAOM_00895	CDS	504				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+JNCGLAOM_00896	gene	489				
+JNCGLAOM_00896	CDS	489				hypothetical protein
+JNCGLAOM_00897	gene	495				
+JNCGLAOM_00897	CDS	495				hypothetical protein
+JNCGLAOM_00898	gene	77				
+JNCGLAOM_00898	tRNA	77				tRNA-Val(gac)
+JNCGLAOM_00899	gene	711	bluB			
+JNCGLAOM_00899	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+JNCGLAOM_00900	gene	531				
+JNCGLAOM_00900	CDS	531		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+JNCGLAOM_00901	gene	447				
+JNCGLAOM_00901	CDS	447				hypothetical protein
+JNCGLAOM_00902	gene	252				
+JNCGLAOM_00902	CDS	252				hypothetical protein
+JNCGLAOM_00903	gene	231				
+JNCGLAOM_00903	CDS	231				hypothetical protein
+JNCGLAOM_00904	gene	501	cypB			
+JNCGLAOM_00904	CDS	501	cypB	5.2.1.8		Peptidyl-prolyl cis-trans isomerase B
+JNCGLAOM_00905	gene	597				
+JNCGLAOM_00905	CDS	597				hypothetical protein
+JNCGLAOM_00906	gene	417				
+JNCGLAOM_00906	CDS	417				hypothetical protein
+JNCGLAOM_00907	gene	732				
+JNCGLAOM_00907	CDS	732				hypothetical protein
+JNCGLAOM_00908	gene	186	cobB			
+JNCGLAOM_00908	CDS	186	cobB	2.3.1.286		NAD-dependent protein deacetylase
+JNCGLAOM_00909	gene	1509	acnA			
+JNCGLAOM_00909	CDS	1509	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+JNCGLAOM_00910	gene	534				
+JNCGLAOM_00910	CDS	534				hypothetical protein
+JNCGLAOM_00911	gene	99				
+JNCGLAOM_00911	CDS	99				hypothetical protein
+JNCGLAOM_00912	gene	1299	tuf			
+JNCGLAOM_00912	CDS	1299	tuf		COG0050	Elongation factor Tu
+JNCGLAOM_00913	gene	309	rpsJ			
+JNCGLAOM_00913	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+JNCGLAOM_00914	gene	210				
+JNCGLAOM_00914	CDS	210				hypothetical protein
+JNCGLAOM_00915	gene	198				
+JNCGLAOM_00915	CDS	198				hypothetical protein
+JNCGLAOM_00916	gene	411				
+JNCGLAOM_00916	CDS	411				hypothetical protein
+JNCGLAOM_00917	gene	111				
+JNCGLAOM_00917	CDS	111				hypothetical protein
+JNCGLAOM_00918	gene	537				
+JNCGLAOM_00918	CDS	537				hypothetical protein
+JNCGLAOM_00919	gene	696	fadB			
+JNCGLAOM_00919	CDS	696	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+JNCGLAOM_00920	gene	771				
+JNCGLAOM_00920	CDS	771				hypothetical protein
+JNCGLAOM_00921	gene	1095	yliI			
+JNCGLAOM_00921	CDS	1095	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+JNCGLAOM_00922	gene	1257	mvaA			
+JNCGLAOM_00922	CDS	1257	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+JNCGLAOM_00923	gene	993	hisG			
+JNCGLAOM_00923	CDS	993	hisG	2.4.2.17		ATP phosphoribosyltransferase
+JNCGLAOM_00924	gene	2745				
+JNCGLAOM_00924	CDS	2745				hypothetical protein
+JNCGLAOM_00925	gene	219				
+JNCGLAOM_00925	CDS	219				hypothetical protein
+JNCGLAOM_00926	gene	528				
+JNCGLAOM_00926	CDS	528				hypothetical protein
+JNCGLAOM_00927	gene	414				
+JNCGLAOM_00927	CDS	414				hypothetical protein
+JNCGLAOM_00928	gene	240				
+JNCGLAOM_00928	CDS	240				hypothetical protein
+JNCGLAOM_00929	gene	201				
+JNCGLAOM_00929	CDS	201				hypothetical protein
+JNCGLAOM_00930	gene	312				
+JNCGLAOM_00930	CDS	312				hypothetical protein
+JNCGLAOM_00931	gene	792	soj			
+JNCGLAOM_00931	CDS	792	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+JNCGLAOM_00932	gene	1395				
+JNCGLAOM_00932	CDS	1395				hypothetical protein
+JNCGLAOM_00933	gene	420				
+JNCGLAOM_00933	CDS	420				hypothetical protein
+JNCGLAOM_00934	gene	1185				
+JNCGLAOM_00934	CDS	1185				hypothetical protein
+JNCGLAOM_00935	gene	483				
+JNCGLAOM_00935	CDS	483				hypothetical protein
+JNCGLAOM_00936	gene	240				
+JNCGLAOM_00936	CDS	240				hypothetical protein
+JNCGLAOM_00937	gene	294				
+JNCGLAOM_00937	CDS	294				hypothetical protein
+JNCGLAOM_00938	gene	1392				
+JNCGLAOM_00938	CDS	1392				hypothetical protein
+JNCGLAOM_00939	gene	126				
+JNCGLAOM_00939	CDS	126				hypothetical protein
+JNCGLAOM_00940	gene	570				
+JNCGLAOM_00940	CDS	570				hypothetical protein
+JNCGLAOM_00941	gene	762	xecD			
+JNCGLAOM_00941	CDS	762	xecD	1.1.1.268		2-(R)-hydroxypropyl-CoM dehydrogenase
+JNCGLAOM_00942	gene	891	glxR			
+JNCGLAOM_00942	CDS	891	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+JNCGLAOM_00943	gene	387				
+JNCGLAOM_00943	CDS	387				hypothetical protein
+JNCGLAOM_00944	gene	609	hisH_1			
+JNCGLAOM_00944	CDS	609	hisH_1	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+JNCGLAOM_00945	gene	588	hisB			
+JNCGLAOM_00945	CDS	588	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+JNCGLAOM_00946	gene	972	ppaX			
+JNCGLAOM_00946	CDS	972	ppaX	3.6.1.1		Pyrophosphatase PpaX
+JNCGLAOM_00947	gene	768				
+JNCGLAOM_00947	CDS	768				hypothetical protein
+JNCGLAOM_00948	gene	816	thi4			
+JNCGLAOM_00948	CDS	816	thi4	2.4.2.59		Thiamine thiazole synthase
+JNCGLAOM_00949	gene	252				
+JNCGLAOM_00949	CDS	252				hypothetical protein
+JNCGLAOM_00950	gene	378				
+JNCGLAOM_00950	CDS	378				hypothetical protein
+JNCGLAOM_00951	gene	231				
+JNCGLAOM_00951	CDS	231				hypothetical protein
+JNCGLAOM_00952	gene	1428	ubiD			
+JNCGLAOM_00952	CDS	1428	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+JNCGLAOM_00953	gene	1119	mqnC			
+JNCGLAOM_00953	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+JNCGLAOM_00954	gene	99				
+JNCGLAOM_00954	CDS	99				hypothetical protein
+JNCGLAOM_00955	gene	132				
+JNCGLAOM_00955	CDS	132				hypothetical protein
+JNCGLAOM_00956	gene	1335				
+JNCGLAOM_00956	CDS	1335				hypothetical protein
+JNCGLAOM_00957	gene	75				
+JNCGLAOM_00957	tRNA	75				tRNA-Lys(ctt)
+JNCGLAOM_00958	gene	621				
+JNCGLAOM_00958	CDS	621				hypothetical protein
+JNCGLAOM_00959	gene	525				
+JNCGLAOM_00959	CDS	525				hypothetical protein
+JNCGLAOM_00960	gene	393	ctaA			
+JNCGLAOM_00960	CDS	393	ctaA	1.3.-.-	COG1612	Heme A synthase
+JNCGLAOM_00961	gene	987				
+JNCGLAOM_00961	CDS	987				hypothetical protein
+JNCGLAOM_00962	gene	222				
+JNCGLAOM_00962	CDS	222				hypothetical protein
+JNCGLAOM_00963	gene	570				
+JNCGLAOM_00963	CDS	570				hypothetical protein
+JNCGLAOM_00964	gene	609	apgM			
+JNCGLAOM_00964	CDS	609	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JNCGLAOM_00965	gene	174				
+JNCGLAOM_00965	CDS	174				hypothetical protein
+JNCGLAOM_00966	gene	417	hit_3			
+JNCGLAOM_00966	CDS	417	hit_3		COG0537	Protein hit
+JNCGLAOM_00967	gene	597				
+JNCGLAOM_00967	CDS	597				hypothetical protein
+JNCGLAOM_00968	gene	123				
+JNCGLAOM_00968	CDS	123				hypothetical protein
+JNCGLAOM_00969	gene	1041				
+JNCGLAOM_00969	CDS	1041				hypothetical protein
+JNCGLAOM_00970	gene	939	livH			
+JNCGLAOM_00970	CDS	939	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+JNCGLAOM_00971	gene	756	livF_1			
+JNCGLAOM_00971	CDS	756	livF_1		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+JNCGLAOM_00972	gene	750	livF_2			
+JNCGLAOM_00972	CDS	750	livF_2		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+JNCGLAOM_00973	gene	420	lrpC			
+JNCGLAOM_00973	CDS	420	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+JNCGLAOM_00974	gene	1176	lysJ			
+JNCGLAOM_00974	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+JNCGLAOM_00975	gene	801	lysZ			
+JNCGLAOM_00975	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+JNCGLAOM_00976	gene	1047	argC			
+JNCGLAOM_00976	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+JNCGLAOM_00977	gene	858	lysX_1			
+JNCGLAOM_00977	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+JNCGLAOM_00978	gene	168				
+JNCGLAOM_00978	CDS	168				hypothetical protein
+JNCGLAOM_00979	gene	1188	argG			
+JNCGLAOM_00979	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+JNCGLAOM_00980	gene	456				
+JNCGLAOM_00980	CDS	456				hypothetical protein
+JNCGLAOM_00981	gene	558				
+JNCGLAOM_00981	CDS	558				hypothetical protein
+JNCGLAOM_00982	gene	408				
+JNCGLAOM_00982	CDS	408				hypothetical protein
+JNCGLAOM_00983	gene	558	dnaJ_3			
+JNCGLAOM_00983	CDS	558	dnaJ_3			Chaperone protein DnaJ
+JNCGLAOM_00984	gene	504	ycf3			
+JNCGLAOM_00984	CDS	504	ycf3			Photosystem I assembly protein Ycf3
+JNCGLAOM_00985	gene	216				
+JNCGLAOM_00985	CDS	216				hypothetical protein
+JNCGLAOM_00986	gene	1098	mqnE			
+JNCGLAOM_00986	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+JNCGLAOM_00987	gene	279				
+JNCGLAOM_00987	CDS	279				hypothetical protein
+JNCGLAOM_00988	gene	276	mqnD			
+JNCGLAOM_00988	CDS	276	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+JNCGLAOM_00989	gene	993	oppF			
+JNCGLAOM_00989	CDS	993	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+JNCGLAOM_00990	gene	1296				
+JNCGLAOM_00990	CDS	1296			COG0683	Leu/Ile/Val-binding protein 
+JNCGLAOM_00991	gene	315				
+JNCGLAOM_00991	CDS	315				hypothetical protein
+JNCGLAOM_00992	gene	414	hrp1_1			
+JNCGLAOM_00992	CDS	414	hrp1_1		COG0517	Hypoxic response protein 1
+JNCGLAOM_00993	gene	123				
+JNCGLAOM_00993	CDS	123				hypothetical protein
+JNCGLAOM_00994	gene	1278	larA			
+JNCGLAOM_00994	CDS	1278	larA	5.1.2.1	COG3875	Lactate racemase
+JNCGLAOM_00995	gene	1005				
+JNCGLAOM_00995	CDS	1005				hypothetical protein
+JNCGLAOM_00996	gene	915	aspS2_1			
+JNCGLAOM_00996	CDS	915	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+JNCGLAOM_00997	gene	264				
+JNCGLAOM_00997	CDS	264				hypothetical protein
+JNCGLAOM_00998	gene	276				
+JNCGLAOM_00998	CDS	276				hypothetical protein
+JNCGLAOM_00999	gene	1017	hicd			
+JNCGLAOM_00999	CDS	1017	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+JNCGLAOM_01000	gene	1518	leuA			
+JNCGLAOM_01000	CDS	1518	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+JNCGLAOM_01001	gene	483	ilvH			
+JNCGLAOM_01001	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+JNCGLAOM_01002	gene	1698	ilvB			
+JNCGLAOM_01002	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+JNCGLAOM_01003	gene	402				
+JNCGLAOM_01003	CDS	402				hypothetical protein
+JNCGLAOM_01004	gene	870	lsrF			
+JNCGLAOM_01004	CDS	870	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+JNCGLAOM_01005	gene	732	gutB_1			
+JNCGLAOM_01005	CDS	732	gutB_1	1.1.1.-	COG1063	Sorbitol dehydrogenase
+JNCGLAOM_01006	gene	112				
+JNCGLAOM_01006	rRNA	112				5S ribosomal RNA
+JNCGLAOM_01007	gene	141				
+JNCGLAOM_01007	CDS	141				hypothetical protein
+JNCGLAOM_01008	gene	396				
+JNCGLAOM_01008	CDS	396				hypothetical protein
+JNCGLAOM_01009	gene	1668	dxs			
+JNCGLAOM_01009	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+JNCGLAOM_01010	gene	1527				
+JNCGLAOM_01010	CDS	1527				hypothetical protein
+JNCGLAOM_01011	gene	732				
+JNCGLAOM_01011	CDS	732				hypothetical protein
+JNCGLAOM_01012	gene	132				
+JNCGLAOM_01012	CDS	132				hypothetical protein
+JNCGLAOM_01013	gene	354				
+JNCGLAOM_01013	CDS	354				hypothetical protein
+JNCGLAOM_01014	gene	267				
+JNCGLAOM_01014	CDS	267				hypothetical protein
+JNCGLAOM_01015	gene	1296	aspS2_2			
+JNCGLAOM_01015	CDS	1296	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+JNCGLAOM_01016	gene	102				
+JNCGLAOM_01016	CDS	102				hypothetical protein
+JNCGLAOM_01017	gene	1167				
+JNCGLAOM_01017	CDS	1167				hypothetical protein
+JNCGLAOM_01018	gene	1326	ffh			
+JNCGLAOM_01018	CDS	1326	ffh		COG0541	Signal recognition particle protein
+JNCGLAOM_01019	gene	573				
+JNCGLAOM_01019	CDS	573				hypothetical protein
+JNCGLAOM_01020	gene	582				
+JNCGLAOM_01020	CDS	582				hypothetical protein
+JNCGLAOM_01021	gene	324				
+JNCGLAOM_01021	CDS	324				hypothetical protein
+JNCGLAOM_01022	gene	453				
+JNCGLAOM_01022	CDS	453				hypothetical protein
+JNCGLAOM_01023	gene	771				
+JNCGLAOM_01023	CDS	771				hypothetical protein
+JNCGLAOM_01024	gene	609	alkA			
+JNCGLAOM_01024	CDS	609	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+JNCGLAOM_01025	gene	618				
+JNCGLAOM_01025	CDS	618				hypothetical protein
+JNCGLAOM_01026	gene	1074	ccr_1			
+JNCGLAOM_01026	CDS	1074	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+JNCGLAOM_01027	gene	78				
+JNCGLAOM_01027	tRNA	78				tRNA-Pro(ggg)
+JNCGLAOM_01028	gene	741				
+JNCGLAOM_01028	CDS	741		1.-.-.-		putative oxidoreductase
+JNCGLAOM_01029	gene	231				
+JNCGLAOM_01029	CDS	231				hypothetical protein
+JNCGLAOM_01030	gene	279				
+JNCGLAOM_01030	CDS	279				hypothetical protein
+JNCGLAOM_01031	gene	558				
+JNCGLAOM_01031	CDS	558				hypothetical protein
+JNCGLAOM_01032	gene	1461	glnA			
+JNCGLAOM_01032	CDS	1461	glnA	6.3.1.2		Glutamine synthetase
+JNCGLAOM_01033	gene	279				
+JNCGLAOM_01033	CDS	279				hypothetical protein
+JNCGLAOM_01034	gene	1686	groL_2			
+JNCGLAOM_01034	CDS	1686	groL_2			60 kDa chaperonin
+JNCGLAOM_01035	gene	1323	glyA			
+JNCGLAOM_01035	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+JNCGLAOM_01036	gene	3384				
+JNCGLAOM_01036	CDS	3384				hypothetical protein
+JNCGLAOM_01037	gene	756				
+JNCGLAOM_01037	CDS	756		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+JNCGLAOM_01038	gene	363				
+JNCGLAOM_01038	CDS	363				hypothetical protein
+JNCGLAOM_01039	gene	576				
+JNCGLAOM_01039	CDS	576				hypothetical protein
+JNCGLAOM_01040	gene	162				
+JNCGLAOM_01040	CDS	162				hypothetical protein
+JNCGLAOM_01041	gene	402				
+JNCGLAOM_01041	CDS	402				hypothetical protein
+JNCGLAOM_01042	gene	120				
+JNCGLAOM_01042	CDS	120				hypothetical protein
+JNCGLAOM_01043	gene	75				
+JNCGLAOM_01043	tRNA	75				tRNA-Lys(ttt)
+JNCGLAOM_01044	gene	76				
+JNCGLAOM_01044	tRNA	76				tRNA-Asp(gtc)
+JNCGLAOM_01045	gene	795	cysQ			
+JNCGLAOM_01045	CDS	795	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+JNCGLAOM_01046	gene	1116				
+JNCGLAOM_01046	CDS	1116				hypothetical protein
+JNCGLAOM_01047	gene	1155				
+JNCGLAOM_01047	CDS	1155				hypothetical protein
+JNCGLAOM_01048	gene	318				
+JNCGLAOM_01048	CDS	318				hypothetical protein
+JNCGLAOM_01049	gene	678				
+JNCGLAOM_01049	CDS	678				hypothetical protein
+JNCGLAOM_01050	gene	1095	hemA_1			
+JNCGLAOM_01050	CDS	1095	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+JNCGLAOM_01051	gene	840	fpr			
+JNCGLAOM_01051	CDS	840	fpr	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+JNCGLAOM_01052	gene	1548	pccB			
+JNCGLAOM_01052	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+JNCGLAOM_01053	gene	1488	cfiB			
+JNCGLAOM_01053	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+JNCGLAOM_01054	gene	441	groL_3			
+JNCGLAOM_01054	CDS	441	groL_3			60 kDa chaperonin
+JNCGLAOM_01055	gene	864	mak			
+JNCGLAOM_01055	CDS	864	mak	2.7.1.4	COG1940	Fructokinase
+JNCGLAOM_01056	gene	168	guaA			
+JNCGLAOM_01056	CDS	168	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+JNCGLAOM_01057	gene	162				
+JNCGLAOM_01057	CDS	162				hypothetical protein
+JNCGLAOM_01058	gene	405				
+JNCGLAOM_01058	CDS	405				hypothetical protein
+JNCGLAOM_01059	gene	1155				
+JNCGLAOM_01059	CDS	1155				hypothetical protein
+JNCGLAOM_01060	gene	471				
+JNCGLAOM_01060	CDS	471				hypothetical protein
+JNCGLAOM_01061	gene	804	ybeM			
+JNCGLAOM_01061	CDS	804	ybeM	3.5.1.128		Deaminated glutathione amidase
+JNCGLAOM_01062	gene	177				
+JNCGLAOM_01062	CDS	177				hypothetical protein
+JNCGLAOM_01063	gene	777				
+JNCGLAOM_01063	CDS	777				hypothetical protein
+JNCGLAOM_01064	gene	207				
+JNCGLAOM_01064	CDS	207				hypothetical protein
+JNCGLAOM_01065	gene	621	pdxT			
+JNCGLAOM_01065	CDS	621	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+JNCGLAOM_01066	gene	2127	valS			
+JNCGLAOM_01066	CDS	2127	valS	6.1.1.9		Valine--tRNA ligase
+JNCGLAOM_01067	gene	858				
+JNCGLAOM_01067	CDS	858				hypothetical protein
+JNCGLAOM_01068	gene	186				
+JNCGLAOM_01068	CDS	186				hypothetical protein
+JNCGLAOM_01069	gene	468				
+JNCGLAOM_01069	CDS	468				hypothetical protein
+JNCGLAOM_01070	gene	456				
+JNCGLAOM_01070	CDS	456				hypothetical protein
+JNCGLAOM_01071	gene	375				
+JNCGLAOM_01071	CDS	375				hypothetical protein
+JNCGLAOM_01072	gene	210				
+JNCGLAOM_01072	CDS	210				hypothetical protein
+JNCGLAOM_01073	gene	234				
+JNCGLAOM_01073	CDS	234				hypothetical protein
+JNCGLAOM_01074	gene	156				
+JNCGLAOM_01074	CDS	156				hypothetical protein
+JNCGLAOM_01075	gene	312				
+JNCGLAOM_01075	CDS	312				hypothetical protein
+JNCGLAOM_01076	gene	729				
+JNCGLAOM_01076	CDS	729				hypothetical protein
+JNCGLAOM_01077	gene	1023	purM			
+JNCGLAOM_01077	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+JNCGLAOM_01078	gene	1413				
+JNCGLAOM_01078	CDS	1413			COG1055	putative transporter
+JNCGLAOM_01079	gene	300				
+JNCGLAOM_01079	CDS	300				hypothetical protein
+JNCGLAOM_01080	gene	669				
+JNCGLAOM_01080	CDS	669				hypothetical protein
+JNCGLAOM_01081	gene	312				
+JNCGLAOM_01081	CDS	312				hypothetical protein
+JNCGLAOM_01082	gene	468				
+JNCGLAOM_01082	CDS	468				hypothetical protein
+JNCGLAOM_01083	gene	1578	petB			
+JNCGLAOM_01083	CDS	1578	petB			Cytochrome b6
+JNCGLAOM_01084	gene	606				
+JNCGLAOM_01084	CDS	606				hypothetical protein
+JNCGLAOM_01085	gene	480				
+JNCGLAOM_01085	CDS	480				hypothetical protein
+JNCGLAOM_01086	gene	423	scpA			
+JNCGLAOM_01086	CDS	423	scpA	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+JNCGLAOM_01087	gene	261	ilvC			
+JNCGLAOM_01087	CDS	261	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+JNCGLAOM_01088	gene	420				
+JNCGLAOM_01088	CDS	420				hypothetical protein
+JNCGLAOM_01089	gene	165				
+JNCGLAOM_01089	CDS	165				hypothetical protein
+JNCGLAOM_01090	gene	465	mntR_1			
+JNCGLAOM_01090	CDS	465	mntR_1			HTH-type transcriptional regulator MntR
+JNCGLAOM_01091	gene	828				
+JNCGLAOM_01091	CDS	828				hypothetical protein
+JNCGLAOM_01092	gene	831	corA			
+JNCGLAOM_01092	CDS	831	corA		COG0598	Cobalt/magnesium transport protein CorA
+JNCGLAOM_01093	gene	570				
+JNCGLAOM_01093	CDS	570		1.6.5.7		2-hydroxy-1,4-benzoquinone reductase
+JNCGLAOM_01094	gene	1026				
+JNCGLAOM_01094	CDS	1026				hypothetical protein
+JNCGLAOM_01095	gene	570				
+JNCGLAOM_01095	CDS	570		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+JNCGLAOM_01096	gene	621				
+JNCGLAOM_01096	CDS	621				hypothetical protein
+JNCGLAOM_01097	gene	99				
+JNCGLAOM_01097	CDS	99				hypothetical protein
+JNCGLAOM_01098	gene	246				
+JNCGLAOM_01098	CDS	246				hypothetical protein
+JNCGLAOM_01099	gene	555				
+JNCGLAOM_01099	CDS	555				hypothetical protein
+JNCGLAOM_01100	gene	813	pheA			
+JNCGLAOM_01100	CDS	813	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+JNCGLAOM_01101	gene	468				
+JNCGLAOM_01101	CDS	468				hypothetical protein
+JNCGLAOM_01102	gene	1293	guaB			
+JNCGLAOM_01102	CDS	1293	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+JNCGLAOM_01103	gene	342				
+JNCGLAOM_01103	CDS	342				hypothetical protein
+JNCGLAOM_01104	gene	477				
+JNCGLAOM_01104	CDS	477				hypothetical protein
+JNCGLAOM_01105	gene	387				
+JNCGLAOM_01105	CDS	387				hypothetical protein
+JNCGLAOM_01106	gene	840	nfo			
+JNCGLAOM_01106	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+JNCGLAOM_01107	gene	144				
+JNCGLAOM_01107	CDS	144				hypothetical protein
+JNCGLAOM_01108	gene	1065				
+JNCGLAOM_01108	CDS	1065				hypothetical protein
+JNCGLAOM_01109	gene	465				
+JNCGLAOM_01109	CDS	465				hypothetical protein
+JNCGLAOM_01110	gene	330				
+JNCGLAOM_01110	CDS	330				hypothetical protein
+JNCGLAOM_01111	gene	282				
+JNCGLAOM_01111	CDS	282				hypothetical protein
+JNCGLAOM_01112	gene	885	trpS			
+JNCGLAOM_01112	CDS	885	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+JNCGLAOM_01113	gene	948	galK			
+JNCGLAOM_01113	CDS	948	galK	2.7.1.6		Galactokinase
+JNCGLAOM_01114	gene	288				
+JNCGLAOM_01114	CDS	288				hypothetical protein
+JNCGLAOM_01115	gene	297				
+JNCGLAOM_01115	CDS	297				hypothetical protein
+JNCGLAOM_01116	gene	324				
+JNCGLAOM_01116	CDS	324				hypothetical protein
+JNCGLAOM_01117	gene	417				
+JNCGLAOM_01117	CDS	417				hypothetical protein
+JNCGLAOM_01118	gene	642	COQ5_2			
+JNCGLAOM_01118	CDS	642	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JNCGLAOM_01119	gene	1395	mvaS			
+JNCGLAOM_01119	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+JNCGLAOM_01120	gene	705				
+JNCGLAOM_01120	CDS	705				hypothetical protein
+JNCGLAOM_01121	gene	1053				
+JNCGLAOM_01121	CDS	1053				hypothetical protein
+JNCGLAOM_01122	gene	1254				
+JNCGLAOM_01122	CDS	1254				hypothetical protein
+JNCGLAOM_01123	gene	1350				
+JNCGLAOM_01123	CDS	1350				hypothetical protein
+JNCGLAOM_01124	gene	375				
+JNCGLAOM_01124	CDS	375				hypothetical protein
+JNCGLAOM_01125	gene	336				
+JNCGLAOM_01125	CDS	336				hypothetical protein
+JNCGLAOM_01126	gene	504				
+JNCGLAOM_01126	CDS	504				hypothetical protein
+JNCGLAOM_01127	gene	573				
+JNCGLAOM_01127	CDS	573				hypothetical protein
+JNCGLAOM_01128	gene	312				
+JNCGLAOM_01128	CDS	312				hypothetical protein
+JNCGLAOM_01129	gene	150				
+JNCGLAOM_01129	CDS	150				hypothetical protein
+JNCGLAOM_01130	gene	225				
+JNCGLAOM_01130	CDS	225				hypothetical protein
+JNCGLAOM_01131	gene	168				
+JNCGLAOM_01131	CDS	168				hypothetical protein
+JNCGLAOM_01132	gene	849	lysX_2			
+JNCGLAOM_01132	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+JNCGLAOM_01133	gene	1128	lysK			
+JNCGLAOM_01133	CDS	1128	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+JNCGLAOM_01134	gene	1038				
+JNCGLAOM_01134	CDS	1038				hypothetical protein
+JNCGLAOM_01135	gene	618	hldE			
+JNCGLAOM_01135	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+JNCGLAOM_01136	gene	687				
+JNCGLAOM_01136	CDS	687				hypothetical protein
+JNCGLAOM_01137	gene	204				
+JNCGLAOM_01137	CDS	204				hypothetical protein
+JNCGLAOM_01138	gene	1311	bioK_2			
+JNCGLAOM_01138	CDS	1311	bioK_2	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+JNCGLAOM_01139	gene	498	aptB			
+JNCGLAOM_01139	CDS	498	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+JNCGLAOM_01140	gene	666	tal			
+JNCGLAOM_01140	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+JNCGLAOM_01141	gene	336				
+JNCGLAOM_01141	CDS	336				hypothetical protein
+JNCGLAOM_01142	gene	570				
+JNCGLAOM_01142	CDS	570				hypothetical protein
+JNCGLAOM_01143	gene	447				
+JNCGLAOM_01143	CDS	447				hypothetical protein
+JNCGLAOM_01144	gene	1419				
+JNCGLAOM_01144	CDS	1419				hypothetical protein
+JNCGLAOM_01145	gene	243				
+JNCGLAOM_01145	CDS	243				hypothetical protein
+JNCGLAOM_01146	gene	1269	serS			
+JNCGLAOM_01146	CDS	1269	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+JNCGLAOM_01147	gene	612				
+JNCGLAOM_01147	CDS	612				hypothetical protein
+JNCGLAOM_01148	gene	429				
+JNCGLAOM_01148	CDS	429				hypothetical protein
+JNCGLAOM_01149	gene	1458				
+JNCGLAOM_01149	CDS	1458				hypothetical protein
+JNCGLAOM_01150	gene	216				
+JNCGLAOM_01150	CDS	216				hypothetical protein
+JNCGLAOM_01151	gene	183				
+JNCGLAOM_01151	CDS	183				hypothetical protein
+JNCGLAOM_01152	gene	135				
+JNCGLAOM_01152	CDS	135				hypothetical protein
+JNCGLAOM_01153	gene	918	ilvE			
+JNCGLAOM_01153	CDS	918	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+JNCGLAOM_01154	gene	936	iolG			
+JNCGLAOM_01154	CDS	936	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+JNCGLAOM_01155	gene	189				
+JNCGLAOM_01155	CDS	189				hypothetical protein
+JNCGLAOM_01156	gene	330				
+JNCGLAOM_01156	CDS	330				hypothetical protein
+JNCGLAOM_01157	gene	621	atpD			
+JNCGLAOM_01157	CDS	621	atpD		COG1394	V-type ATP synthase subunit D
+JNCGLAOM_01158	gene	1404	ntpB			
+JNCGLAOM_01158	CDS	1404	ntpB			V-type sodium ATPase subunit B
+JNCGLAOM_01159	gene	1773	ntpA			
+JNCGLAOM_01159	CDS	1773	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+JNCGLAOM_01160	gene	357	atpF			
+JNCGLAOM_01160	CDS	357	atpF			V-type ATP synthase subunit F
+JNCGLAOM_01161	gene	1065	atpC			
+JNCGLAOM_01161	CDS	1065	atpC			V-type ATP synthase subunit C
+JNCGLAOM_01162	gene	558	atpE			
+JNCGLAOM_01162	CDS	558	atpE			V-type proton ATPase subunit E
+JNCGLAOM_01163	gene	393				
+JNCGLAOM_01163	CDS	393				hypothetical protein
+JNCGLAOM_01164	gene	369				
+JNCGLAOM_01164	CDS	369				hypothetical protein
+JNCGLAOM_01165	gene	1263	selB			
+JNCGLAOM_01165	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+JNCGLAOM_01166	gene	414				
+JNCGLAOM_01166	CDS	414				hypothetical protein
+JNCGLAOM_01167	gene	174				
+JNCGLAOM_01167	CDS	174				hypothetical protein
+JNCGLAOM_01168	gene	74				
+JNCGLAOM_01168	tRNA	74				tRNA-Gly(ccc)
+JNCGLAOM_01169	gene	555				
+JNCGLAOM_01169	CDS	555				hypothetical protein
+JNCGLAOM_01170	gene	312				
+JNCGLAOM_01170	CDS	312				hypothetical protein
+JNCGLAOM_01171	gene	984	hemB			
+JNCGLAOM_01171	CDS	984	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+JNCGLAOM_01172	gene	1257	hemA_2			
+JNCGLAOM_01172	CDS	1257	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+JNCGLAOM_01173	gene	666	cysG			
+JNCGLAOM_01173	CDS	666	cysG	4.99.1.4		Siroheme synthase
+JNCGLAOM_01174	gene	387				
+JNCGLAOM_01174	CDS	387				hypothetical protein
+JNCGLAOM_01175	gene	1920	acsA_2			
+JNCGLAOM_01175	CDS	1920	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+JNCGLAOM_01176	gene	669				
+JNCGLAOM_01176	CDS	669				hypothetical protein
+JNCGLAOM_01177	gene	1026				
+JNCGLAOM_01177	CDS	1026				hypothetical protein
+JNCGLAOM_01178	gene	84				
+JNCGLAOM_01178	tRNA	84				tRNA-Ser(cga)
+JNCGLAOM_01179	gene	354				
+JNCGLAOM_01179	CDS	354				hypothetical protein
+JNCGLAOM_01180	gene	168				
+JNCGLAOM_01180	CDS	168				hypothetical protein
+JNCGLAOM_01181	gene	144				
+JNCGLAOM_01181	CDS	144				hypothetical protein
+JNCGLAOM_01182	gene	882				
+JNCGLAOM_01182	CDS	882				hypothetical protein
+JNCGLAOM_01183	gene	363				
+JNCGLAOM_01183	CDS	363				hypothetical protein
+JNCGLAOM_01184	gene	831				
+JNCGLAOM_01184	CDS	831				hypothetical protein
+JNCGLAOM_01185	gene	1671				
+JNCGLAOM_01185	CDS	1671				hypothetical protein
+JNCGLAOM_01186	gene	885				
+JNCGLAOM_01186	CDS	885				hypothetical protein
+JNCGLAOM_01187	gene	1404	thrA			
+JNCGLAOM_01187	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+JNCGLAOM_01188	gene	747				
+JNCGLAOM_01188	CDS	747				hypothetical protein
+JNCGLAOM_01189	gene	723	cbiL			
+JNCGLAOM_01189	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+JNCGLAOM_01190	gene	591	cbiT			
+JNCGLAOM_01190	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+JNCGLAOM_01191	gene	270				
+JNCGLAOM_01191	CDS	270				hypothetical protein
+JNCGLAOM_01192	gene	240				
+JNCGLAOM_01192	CDS	240				hypothetical protein
+JNCGLAOM_01193	gene	255				
+JNCGLAOM_01193	CDS	255				hypothetical protein
+JNCGLAOM_01194	gene	420				
+JNCGLAOM_01194	CDS	420				hypothetical protein
+JNCGLAOM_01195	gene	705				
+JNCGLAOM_01195	CDS	705				hypothetical protein
+JNCGLAOM_01196	gene	240				
+JNCGLAOM_01196	CDS	240				hypothetical protein
+JNCGLAOM_01197	gene	237				
+JNCGLAOM_01197	CDS	237				hypothetical protein
+JNCGLAOM_01198	gene	519				
+JNCGLAOM_01198	CDS	519				hypothetical protein
+JNCGLAOM_01199	gene	240				
+JNCGLAOM_01199	CDS	240				hypothetical protein
+JNCGLAOM_01200	gene	300				
+JNCGLAOM_01200	CDS	300				hypothetical protein
+JNCGLAOM_01201	gene	786				
+JNCGLAOM_01201	CDS	786				hypothetical protein
+JNCGLAOM_01202	gene	210				
+JNCGLAOM_01202	CDS	210				hypothetical protein
+JNCGLAOM_01203	gene	441				
+JNCGLAOM_01203	CDS	441				hypothetical protein
+JNCGLAOM_01204	gene	660				
+JNCGLAOM_01204	CDS	660				hypothetical protein
+JNCGLAOM_01205	gene	324				
+JNCGLAOM_01205	CDS	324				hypothetical protein
+JNCGLAOM_01206	gene	1386	hisC_2			
+JNCGLAOM_01206	CDS	1386	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+JNCGLAOM_01207	gene	963	iolS_2			
+JNCGLAOM_01207	CDS	963	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+JNCGLAOM_01208	gene	429				
+JNCGLAOM_01208	CDS	429				hypothetical protein
+JNCGLAOM_01209	gene	150				
+JNCGLAOM_01209	CDS	150				hypothetical protein
+JNCGLAOM_01210	gene	420				
+JNCGLAOM_01210	CDS	420				hypothetical protein
+JNCGLAOM_01211	gene	384	proS			
+JNCGLAOM_01211	CDS	384	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+JNCGLAOM_01212	gene	1311	egtB			
+JNCGLAOM_01212	CDS	1311	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+JNCGLAOM_01213	gene	1026	egtD			
+JNCGLAOM_01213	CDS	1026	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+JNCGLAOM_01214	gene	621				
+JNCGLAOM_01214	CDS	621			COG1926	Putative phosphoribosyl transferase
+JNCGLAOM_01215	gene	111				
+JNCGLAOM_01215	CDS	111				hypothetical protein
+JNCGLAOM_01216	gene	159				
+JNCGLAOM_01216	CDS	159				hypothetical protein
+JNCGLAOM_01217	gene	1560	mrpA			
+JNCGLAOM_01217	CDS	1560	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+JNCGLAOM_01218	gene	306	nuoK			
+JNCGLAOM_01218	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+JNCGLAOM_01219	gene	513				
+JNCGLAOM_01219	CDS	513				hypothetical protein
+JNCGLAOM_01220	gene	255	ndhI_3			
+JNCGLAOM_01220	CDS	255	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+JNCGLAOM_01221	gene	969	pdxS			
+JNCGLAOM_01221	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+JNCGLAOM_01222	gene	1230	larC			
+JNCGLAOM_01222	CDS	1230	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+JNCGLAOM_01223	gene	801	larE			
+JNCGLAOM_01223	CDS	801	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+JNCGLAOM_01224	gene	735				
+JNCGLAOM_01224	CDS	735				hypothetical protein
+JNCGLAOM_01225	gene	870				
+JNCGLAOM_01225	CDS	870				hypothetical protein
+JNCGLAOM_01226	gene	612				
+JNCGLAOM_01226	CDS	612				hypothetical protein
+JNCGLAOM_01227	gene	501				
+JNCGLAOM_01227	CDS	501				hypothetical protein
+JNCGLAOM_01228	gene	756				
+JNCGLAOM_01228	CDS	756				hypothetical protein
+JNCGLAOM_01229	gene	318	bphA3_2			
+JNCGLAOM_01229	CDS	318	bphA3_2			Biphenyl dioxygenase ferredoxin subunit
+JNCGLAOM_01230	gene	615				
+JNCGLAOM_01230	CDS	615				hypothetical protein
+JNCGLAOM_01231	gene	783				
+JNCGLAOM_01231	CDS	783				hypothetical protein
+JNCGLAOM_01232	gene	771	nrtD			
+JNCGLAOM_01232	CDS	771	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+JNCGLAOM_01233	gene	759	ssuC			
+JNCGLAOM_01233	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+JNCGLAOM_01234	gene	138				
+JNCGLAOM_01234	CDS	138				hypothetical protein
+JNCGLAOM_01235	gene	462				
+JNCGLAOM_01235	CDS	462				hypothetical protein
+JNCGLAOM_01236	gene	375				
+JNCGLAOM_01236	CDS	375				hypothetical protein
+JNCGLAOM_01237	gene	669				
+JNCGLAOM_01237	CDS	669				hypothetical protein
+JNCGLAOM_01238	gene	75				
+JNCGLAOM_01238	tRNA	75				tRNA-Gly(tcc)
+JNCGLAOM_01239	gene	303				
+JNCGLAOM_01239	CDS	303				hypothetical protein
+JNCGLAOM_01240	gene	453				
+JNCGLAOM_01240	CDS	453				hypothetical protein
+JNCGLAOM_01241	gene	291				
+JNCGLAOM_01241	CDS	291				hypothetical protein
+JNCGLAOM_01242	gene	1080	ccr_2			
+JNCGLAOM_01242	CDS	1080	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+JNCGLAOM_01243	gene	156				
+JNCGLAOM_01243	CDS	156				hypothetical protein
+JNCGLAOM_01244	gene	306				
+JNCGLAOM_01244	CDS	306				hypothetical protein
+JNCGLAOM_01245	gene	195				
+JNCGLAOM_01245	CDS	195				hypothetical protein
+JNCGLAOM_01246	gene	480				
+JNCGLAOM_01246	CDS	480				hypothetical protein
+JNCGLAOM_01247	gene	417				
+JNCGLAOM_01247	CDS	417				hypothetical protein
+JNCGLAOM_01248	gene	960	btuF			
+JNCGLAOM_01248	CDS	960	btuF		COG0614	Vitamin B12-binding protein
+JNCGLAOM_01249	gene	1155				
+JNCGLAOM_01249	CDS	1155				hypothetical protein
+JNCGLAOM_01250	gene	951				
+JNCGLAOM_01250	CDS	951				hypothetical protein
+JNCGLAOM_01251	gene	354				
+JNCGLAOM_01251	CDS	354				hypothetical protein
+JNCGLAOM_01252	gene	495				
+JNCGLAOM_01252	CDS	495				hypothetical protein
+JNCGLAOM_01253	gene	456				
+JNCGLAOM_01253	CDS	456				hypothetical protein
+JNCGLAOM_01254	gene	306				
+JNCGLAOM_01254	CDS	306				hypothetical protein
+JNCGLAOM_01255	gene	117				
+JNCGLAOM_01255	CDS	117				hypothetical protein
+JNCGLAOM_01256	gene	777				
+JNCGLAOM_01256	CDS	777				hypothetical protein
+JNCGLAOM_01257	gene	444	lnrL			
+JNCGLAOM_01257	CDS	444	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+JNCGLAOM_01258	gene	363				
+JNCGLAOM_01258	CDS	363				hypothetical protein
+JNCGLAOM_01259	gene	1050	mtnA			
+JNCGLAOM_01259	CDS	1050	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+JNCGLAOM_01260	gene	579				
+JNCGLAOM_01260	CDS	579		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+JNCGLAOM_01261	gene	561	udg			
+JNCGLAOM_01261	CDS	561	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+JNCGLAOM_01262	gene	1422				
+JNCGLAOM_01262	CDS	1422				hypothetical protein
+JNCGLAOM_01263	gene	1239	rcsC			
+JNCGLAOM_01263	CDS	1239	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+JNCGLAOM_01264	gene	1581				
+JNCGLAOM_01264	CDS	1581				hypothetical protein
+JNCGLAOM_01265	gene	633				
+JNCGLAOM_01265	CDS	633				hypothetical protein
+JNCGLAOM_01266	gene	2478				
+JNCGLAOM_01266	CDS	2478				hypothetical protein
+JNCGLAOM_01267	gene	621	COQ3			
+JNCGLAOM_01267	CDS	621	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+JNCGLAOM_01268	gene	177				
+JNCGLAOM_01268	CDS	177				hypothetical protein
+JNCGLAOM_01269	gene	558				
+JNCGLAOM_01269	CDS	558				hypothetical protein
+JNCGLAOM_01270	gene	702				
+JNCGLAOM_01270	CDS	702		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+JNCGLAOM_01271	gene	429				
+JNCGLAOM_01271	CDS	429				hypothetical protein
+JNCGLAOM_01272	gene	744	pyrF			
+JNCGLAOM_01272	CDS	744	pyrF			Orotidine 5'-phosphate decarboxylase
+JNCGLAOM_01273	gene	663				
+JNCGLAOM_01273	CDS	663				hypothetical protein
+JNCGLAOM_01274	gene	396	purA			
+JNCGLAOM_01274	CDS	396	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+JNCGLAOM_01275	gene	1536				
+JNCGLAOM_01275	CDS	1536				hypothetical protein
+JNCGLAOM_01276	gene	765				
+JNCGLAOM_01276	CDS	765				hypothetical protein
+JNCGLAOM_01277	gene	495				
+JNCGLAOM_01277	CDS	495				hypothetical protein
+JNCGLAOM_01278	gene	351				
+JNCGLAOM_01278	CDS	351				hypothetical protein
+JNCGLAOM_01279	gene	504	mntR_2			
+JNCGLAOM_01279	CDS	504	mntR_2			HTH-type transcriptional regulator MntR
+JNCGLAOM_01280	gene	1821				
+JNCGLAOM_01280	CDS	1821				hypothetical protein
+JNCGLAOM_01281	gene	363	cheY			
+JNCGLAOM_01281	CDS	363	cheY		COG0784	Chemotaxis protein CheY
+JNCGLAOM_01282	gene	363				
+JNCGLAOM_01282	CDS	363				hypothetical protein
+JNCGLAOM_01283	gene	225				
+JNCGLAOM_01283	CDS	225				hypothetical protein
+JNCGLAOM_01284	gene	1767	ade			
+JNCGLAOM_01284	CDS	1767	ade	3.5.4.2	COG1001	Adenine deaminase
+JNCGLAOM_01285	gene	282				
+JNCGLAOM_01285	CDS	282				hypothetical protein
+JNCGLAOM_01286	gene	198				
+JNCGLAOM_01286	CDS	198				hypothetical protein
+JNCGLAOM_01287	gene	570	mobA			
+JNCGLAOM_01287	CDS	570	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+JNCGLAOM_01288	gene	729	cobS			
+JNCGLAOM_01288	CDS	729	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+JNCGLAOM_01289	gene	960	cobD_1			
+JNCGLAOM_01289	CDS	960	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+JNCGLAOM_01290	gene	840	cobQ			
+JNCGLAOM_01290	CDS	840	cobQ			Cobyric acid synthase
+JNCGLAOM_01291	gene	570	cobD_2			
+JNCGLAOM_01291	CDS	570	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+JNCGLAOM_01292	gene	600				
+JNCGLAOM_01292	CDS	600				hypothetical protein
+JNCGLAOM_01293	gene	543	hisH_2			
+JNCGLAOM_01293	CDS	543	hisH_2	3.5.1.2		Imidazole glycerol phosphate synthase subunit HisH
+JNCGLAOM_01294	gene	2862				
+JNCGLAOM_01294	CDS	2862				hypothetical protein
+JNCGLAOM_01295	gene	1122				
+JNCGLAOM_01295	CDS	1122				hypothetical protein
+JNCGLAOM_01296	gene	414				
+JNCGLAOM_01296	CDS	414				hypothetical protein
+JNCGLAOM_01297	gene	576	ndhJ			
+JNCGLAOM_01297	CDS	576	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+JNCGLAOM_01298	gene	525	ndhK			
+JNCGLAOM_01298	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+JNCGLAOM_01299	gene	375	ndhC			
+JNCGLAOM_01299	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+JNCGLAOM_01300	gene	474	bcp_2			
+JNCGLAOM_01300	CDS	474	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+JNCGLAOM_01301	gene	288				
+JNCGLAOM_01301	CDS	288				hypothetical protein
+JNCGLAOM_01302	gene	801	COQ5_3			
+JNCGLAOM_01302	CDS	801	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JNCGLAOM_01303	gene	465				
+JNCGLAOM_01303	CDS	465				hypothetical protein
+JNCGLAOM_01304	gene	270				
+JNCGLAOM_01304	CDS	270				hypothetical protein
+JNCGLAOM_01305	gene	477	fdtC			
+JNCGLAOM_01305	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+JNCGLAOM_01306	gene	234				
+JNCGLAOM_01306	CDS	234				hypothetical protein
+JNCGLAOM_01307	gene	993	tagO			
+JNCGLAOM_01307	CDS	993	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+JNCGLAOM_01308	gene	2127	dbpA_1			
+JNCGLAOM_01308	CDS	2127	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+JNCGLAOM_01309	gene	2091				
+JNCGLAOM_01309	CDS	2091				hypothetical protein
+JNCGLAOM_01310	gene	516				
+JNCGLAOM_01310	CDS	516				hypothetical protein
+JNCGLAOM_01311	gene	942	ruvB			
+JNCGLAOM_01311	CDS	942	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+JNCGLAOM_01312	gene	85				
+JNCGLAOM_01312	tRNA	85				tRNA-Ser(tga)
+JNCGLAOM_01313	gene	405	napF			
+JNCGLAOM_01313	CDS	405	napF			Ferredoxin-type protein NapF
+JNCGLAOM_01314	gene	105				
+JNCGLAOM_01314	CDS	105				hypothetical protein
+JNCGLAOM_01315	gene	1446	ubiB			
+JNCGLAOM_01315	CDS	1446	ubiB	2.7.-.-		protein kinase UbiB
+JNCGLAOM_01316	gene	387				
+JNCGLAOM_01316	CDS	387				hypothetical protein
+JNCGLAOM_01317	gene	807				
+JNCGLAOM_01317	CDS	807				hypothetical protein
+JNCGLAOM_01318	gene	585				
+JNCGLAOM_01318	CDS	585				hypothetical protein
+JNCGLAOM_01319	gene	171				
+JNCGLAOM_01319	CDS	171				hypothetical protein
+JNCGLAOM_01320	gene	777				
+JNCGLAOM_01320	CDS	777				hypothetical protein
+JNCGLAOM_01321	gene	300	ogt			
+JNCGLAOM_01321	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+JNCGLAOM_01322	gene	474				
+JNCGLAOM_01322	CDS	474				hypothetical protein
+JNCGLAOM_01323	gene	76				
+JNCGLAOM_01323	tRNA	76				tRNA-Pro(cgg)
+JNCGLAOM_01324	gene	606				
+JNCGLAOM_01324	CDS	606				hypothetical protein
+JNCGLAOM_01325	gene	249				
+JNCGLAOM_01325	CDS	249				hypothetical protein
+JNCGLAOM_01326	gene	162				
+JNCGLAOM_01326	CDS	162				hypothetical protein
+JNCGLAOM_01327	gene	264				
+JNCGLAOM_01327	CDS	264				hypothetical protein
+JNCGLAOM_01328	gene	318				
+JNCGLAOM_01328	CDS	318				hypothetical protein
+JNCGLAOM_01329	gene	408				
+JNCGLAOM_01329	CDS	408				hypothetical protein
+JNCGLAOM_01330	gene	105				
+JNCGLAOM_01330	CDS	105				hypothetical protein
+JNCGLAOM_01331	gene	966	ghrB			
+JNCGLAOM_01331	CDS	966	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+JNCGLAOM_01332	gene	144				
+JNCGLAOM_01332	CDS	144				hypothetical protein
+JNCGLAOM_01333	gene	1911	korA_2			
+JNCGLAOM_01333	CDS	1911	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+JNCGLAOM_01334	gene	144				
+JNCGLAOM_01334	CDS	144				hypothetical protein
+JNCGLAOM_01335	gene	1308	hemL_2			
+JNCGLAOM_01335	CDS	1308	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+JNCGLAOM_01336	gene	126				
+JNCGLAOM_01336	CDS	126				hypothetical protein
+JNCGLAOM_01337	gene	231	fumC			
+JNCGLAOM_01337	CDS	231	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+JNCGLAOM_01338	gene	1269	miaB			
+JNCGLAOM_01338	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JNCGLAOM_01339	gene	954	ftsZ			
+JNCGLAOM_01339	CDS	954	ftsZ			Cell division protein FtsZ
+JNCGLAOM_01340	gene	333				
+JNCGLAOM_01340	CDS	333				hypothetical protein
+JNCGLAOM_01341	gene	273				
+JNCGLAOM_01341	CDS	273				hypothetical protein
+JNCGLAOM_01342	gene	183	trpB			
+JNCGLAOM_01342	CDS	183	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+JNCGLAOM_01343	gene	804	trpA			
+JNCGLAOM_01343	CDS	804	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+JNCGLAOM_01344	gene	1566	pyrG			
+JNCGLAOM_01344	CDS	1566	pyrG	6.3.4.2		CTP synthase
+JNCGLAOM_01345	gene	999	nadK_2			
+JNCGLAOM_01345	CDS	999	nadK_2	2.7.1.23		NAD kinase
+JNCGLAOM_01346	gene	624	ttuA			
+JNCGLAOM_01346	CDS	624	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+JNCGLAOM_01347	gene	312				
+JNCGLAOM_01347	misc_RNA	312				Archaea_SRP
+JNCGLAOM_01348	gene	408				
+JNCGLAOM_01348	CDS	408				hypothetical protein
+JNCGLAOM_01349	gene	279	acyP			
+JNCGLAOM_01349	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+JNCGLAOM_01350	gene	732				
+JNCGLAOM_01350	CDS	732				hypothetical protein
+JNCGLAOM_01351	gene	576				
+JNCGLAOM_01351	CDS	576				hypothetical protein
+JNCGLAOM_01352	gene	645	serB2			
+JNCGLAOM_01352	CDS	645	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+JNCGLAOM_01353	gene	735	fbiB_2			
+JNCGLAOM_01353	CDS	735	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+JNCGLAOM_01354	gene	990				
+JNCGLAOM_01354	CDS	990				hypothetical protein
+JNCGLAOM_01355	gene	339				
+JNCGLAOM_01355	CDS	339				hypothetical protein
+JNCGLAOM_01356	gene	327				
+JNCGLAOM_01356	CDS	327				hypothetical protein
+JNCGLAOM_01357	gene	984	tsaD			
+JNCGLAOM_01357	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+JNCGLAOM_01358	gene	1191	OLA1			
+JNCGLAOM_01358	CDS	1191	OLA1			Obg-like ATPase 1
+JNCGLAOM_01359	gene	552				
+JNCGLAOM_01359	CDS	552				hypothetical protein
+JNCGLAOM_01360	gene	1512	QTRT1			
+JNCGLAOM_01360	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+JNCGLAOM_01361	gene	168				
+JNCGLAOM_01361	CDS	168				hypothetical protein
+JNCGLAOM_01362	gene	267				
+JNCGLAOM_01362	CDS	267				hypothetical protein
+JNCGLAOM_01363	gene	303				
+JNCGLAOM_01363	CDS	303				hypothetical protein
+JNCGLAOM_01364	gene	378				
+JNCGLAOM_01364	CDS	378				hypothetical protein
+JNCGLAOM_01365	gene	99				
+JNCGLAOM_01365	CDS	99				hypothetical protein
+JNCGLAOM_01366	gene	297				
+JNCGLAOM_01366	CDS	297				hypothetical protein
+JNCGLAOM_01367	gene	1029	gutB_2			
+JNCGLAOM_01367	CDS	1029	gutB_2	1.1.1.-	COG1063	Sorbitol dehydrogenase
+JNCGLAOM_01368	gene	300				
+JNCGLAOM_01368	CDS	300				hypothetical protein
+JNCGLAOM_01369	gene	411	yccU			
+JNCGLAOM_01369	CDS	411	yccU		COG1832	putative protein YccU
+JNCGLAOM_01370	gene	357				
+JNCGLAOM_01370	CDS	357				hypothetical protein
+JNCGLAOM_01371	gene	1212	ychF			
+JNCGLAOM_01371	CDS	1212	ychF		COG0012	Ribosome-binding ATPase YchF
+JNCGLAOM_01372	gene	426				
+JNCGLAOM_01372	CDS	426				hypothetical protein
+JNCGLAOM_01373	gene	285				
+JNCGLAOM_01373	CDS	285				hypothetical protein
+JNCGLAOM_01374	gene	675	purQ			
+JNCGLAOM_01374	CDS	675	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+JNCGLAOM_01375	gene	423	hrp1_2			
+JNCGLAOM_01375	CDS	423	hrp1_2		COG0517	Hypoxic response protein 1
+JNCGLAOM_01376	gene	261	purS			
+JNCGLAOM_01376	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+JNCGLAOM_01377	gene	756	COQ5_4			
+JNCGLAOM_01377	CDS	756	COQ5_4	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+JNCGLAOM_01378	gene	207				
+JNCGLAOM_01378	CDS	207				hypothetical protein
+JNCGLAOM_01379	gene	255				
+JNCGLAOM_01379	CDS	255				hypothetical protein
+JNCGLAOM_01380	gene	213				
+JNCGLAOM_01380	CDS	213				hypothetical protein
+JNCGLAOM_01381	gene	264				
+JNCGLAOM_01381	CDS	264				hypothetical protein
+JNCGLAOM_01382	gene	489				
+JNCGLAOM_01382	CDS	489				hypothetical protein
+JNCGLAOM_01383	gene	798				
+JNCGLAOM_01383	CDS	798				hypothetical protein
+JNCGLAOM_01384	gene	369				
+JNCGLAOM_01384	CDS	369				hypothetical protein
+JNCGLAOM_01385	gene	1146	sat			
+JNCGLAOM_01385	CDS	1146	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+JNCGLAOM_01386	gene	258				
+JNCGLAOM_01386	CDS	258				hypothetical protein
+JNCGLAOM_01387	gene	1674	ilvD			
+JNCGLAOM_01387	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+JNCGLAOM_01388	gene	222				
+JNCGLAOM_01388	CDS	222				hypothetical protein
+JNCGLAOM_01389	gene	216				
+JNCGLAOM_01389	CDS	216				hypothetical protein
+JNCGLAOM_01390	gene	930				
+JNCGLAOM_01390	CDS	930				hypothetical protein
+JNCGLAOM_01391	gene	465				
+JNCGLAOM_01391	CDS	465				hypothetical protein
+JNCGLAOM_01392	gene	1104	nanM			
+JNCGLAOM_01392	CDS	1104	nanM	5.1.3.24		N-acetylneuraminate epimerase
+JNCGLAOM_01393	gene	267				
+JNCGLAOM_01393	CDS	267				hypothetical protein
+JNCGLAOM_01394	gene	429				
+JNCGLAOM_01394	CDS	429				hypothetical protein
+JNCGLAOM_01395	gene	699				
+JNCGLAOM_01395	CDS	699				hypothetical protein
+JNCGLAOM_01396	gene	153				
+JNCGLAOM_01396	CDS	153				hypothetical protein
+JNCGLAOM_01397	gene	1323	magA			
+JNCGLAOM_01397	CDS	1323	magA		COG0475	Iron transporter MagA
+JNCGLAOM_01398	gene	447				
+JNCGLAOM_01398	CDS	447				hypothetical protein
+JNCGLAOM_01399	gene	74				
+JNCGLAOM_01399	tRNA	74				tRNA-Gly(gcc)
+JNCGLAOM_01400	gene	282				
+JNCGLAOM_01400	CDS	282				hypothetical protein
+JNCGLAOM_01401	gene	495				
+JNCGLAOM_01401	CDS	495				hypothetical protein
+JNCGLAOM_01402	gene	570				
+JNCGLAOM_01402	CDS	570				hypothetical protein
+JNCGLAOM_01403	gene	663				
+JNCGLAOM_01403	CDS	663				hypothetical protein
+JNCGLAOM_01404	gene	780				
+JNCGLAOM_01404	CDS	780			COG2968	26 kDa periplasmic immunogenic protein
+JNCGLAOM_01405	gene	78				
+JNCGLAOM_01405	tRNA	78				tRNA-Glu(ctc)
+JNCGLAOM_01406	gene	2511	dbpA_2			
+JNCGLAOM_01406	CDS	2511	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+JNCGLAOM_01407	gene	201				
+JNCGLAOM_01407	CDS	201				hypothetical protein
+JNCGLAOM_01408	gene	771	dpnA			
+JNCGLAOM_01408	CDS	771	dpnA	2.1.1.72		Modification methylase DpnIIB
+JNCGLAOM_01409	gene	378				
+JNCGLAOM_01409	CDS	378				hypothetical protein
+JNCGLAOM_01410	gene	339	tatA			
+JNCGLAOM_01410	CDS	339	tatA			Sec-independent protein translocase protein TatA
+JNCGLAOM_01411	gene	2238				
+JNCGLAOM_01411	CDS	2238				hypothetical protein
+JNCGLAOM_01412	gene	588				
+JNCGLAOM_01412	CDS	588				hypothetical protein
+JNCGLAOM_01413	gene	1065	secY			
+JNCGLAOM_01413	CDS	1065	secY			Protein translocase subunit SecY
+JNCGLAOM_01414	gene	165				
+JNCGLAOM_01414	CDS	165				hypothetical protein
+JNCGLAOM_01415	gene	216				
+JNCGLAOM_01415	CDS	216				hypothetical protein
+JNCGLAOM_01416	gene	600				
+JNCGLAOM_01416	CDS	600				hypothetical protein
+JNCGLAOM_01417	gene	309	hcaC			
+JNCGLAOM_01417	CDS	309	hcaC		COG2146	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+JNCGLAOM_01418	gene	261				
+JNCGLAOM_01418	CDS	261				hypothetical protein
+JNCGLAOM_01419	gene	240				
+JNCGLAOM_01419	CDS	240				hypothetical protein
+JNCGLAOM_01420	gene	1356	cbiA			
+JNCGLAOM_01420	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+JNCGLAOM_01421	gene	624	cbiC			
+JNCGLAOM_01421	CDS	624	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+JNCGLAOM_01422	gene	753	cbiX			
+JNCGLAOM_01422	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+JNCGLAOM_01423	gene	1056	cbiG			
+JNCGLAOM_01423	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+JNCGLAOM_01424	gene	297	cbiD_2			
+JNCGLAOM_01424	CDS	297	cbiD_2	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+JNCGLAOM_01425	gene	570				
+JNCGLAOM_01425	CDS	570				hypothetical protein
+JNCGLAOM_01426	gene	201				
+JNCGLAOM_01426	CDS	201				hypothetical protein
+JNCGLAOM_01427	gene	477				
+JNCGLAOM_01427	CDS	477				hypothetical protein
+JNCGLAOM_01428	gene	354				
+JNCGLAOM_01428	CDS	354				hypothetical protein
+JNCGLAOM_01429	gene	537				
+JNCGLAOM_01429	CDS	537				hypothetical protein
+JNCGLAOM_01430	gene	369				
+JNCGLAOM_01430	CDS	369				hypothetical protein
+JNCGLAOM_01431	gene	237				
+JNCGLAOM_01431	CDS	237				hypothetical protein
+JNCGLAOM_01432	gene	195				
+JNCGLAOM_01432	CDS	195				hypothetical protein
+JNCGLAOM_01433	gene	678				
+JNCGLAOM_01433	CDS	678				hypothetical protein
+JNCGLAOM_01434	gene	222				
+JNCGLAOM_01434	CDS	222				hypothetical protein
+JNCGLAOM_01435	gene	1125				
+JNCGLAOM_01435	CDS	1125				hypothetical protein
+JNCGLAOM_01436	gene	1311				
+JNCGLAOM_01436	CDS	1311				hypothetical protein
+JNCGLAOM_01437	gene	285				
+JNCGLAOM_01437	CDS	285				hypothetical protein
+JNCGLAOM_01438	gene	438				
+JNCGLAOM_01438	CDS	438				hypothetical protein
+JNCGLAOM_01439	gene	279				
+JNCGLAOM_01439	CDS	279				hypothetical protein
+JNCGLAOM_01440	gene	657	tpiA			
+JNCGLAOM_01440	CDS	657	tpiA			Triosephosphate isomerase
+JNCGLAOM_01441	gene	486				
+JNCGLAOM_01441	CDS	486				hypothetical protein
+JNCGLAOM_01442	gene	1503	dbpA_3			
+JNCGLAOM_01442	CDS	1503	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+JNCGLAOM_01443	gene	279	prsA1			
+JNCGLAOM_01443	CDS	279	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+JNCGLAOM_01444	gene	348				
+JNCGLAOM_01444	CDS	348				hypothetical protein
+JNCGLAOM_01445	gene	285				
+JNCGLAOM_01445	CDS	285				hypothetical protein
+JNCGLAOM_01446	gene	402				
+JNCGLAOM_01446	CDS	402				hypothetical protein
+JNCGLAOM_01447	gene	243				
+JNCGLAOM_01447	CDS	243				hypothetical protein
+JNCGLAOM_01448	gene	141				
+JNCGLAOM_01448	CDS	141				hypothetical protein
+JNCGLAOM_01449	gene	390				
+JNCGLAOM_01449	CDS	390				hypothetical protein
+JNCGLAOM_01450	gene	324				
+JNCGLAOM_01450	CDS	324				hypothetical protein
+JNCGLAOM_01451	gene	135				
+JNCGLAOM_01451	CDS	135				hypothetical protein
+JNCGLAOM_01452	gene	159				
+JNCGLAOM_01452	CDS	159				hypothetical protein
+JNCGLAOM_01453	gene	684	cpoB			
+JNCGLAOM_01453	CDS	684	cpoB			Cell division coordinator CpoB
+JNCGLAOM_01454	gene	993				
+JNCGLAOM_01454	CDS	993				hypothetical protein
+JNCGLAOM_01455	gene	177				
+JNCGLAOM_01455	CDS	177				hypothetical protein
+JNCGLAOM_01456	gene	1107	obg			
+JNCGLAOM_01456	CDS	1107	obg	3.6.5.-		GTPase Obg
+JNCGLAOM_01457	gene	219				
+JNCGLAOM_01457	CDS	219				hypothetical protein
+JNCGLAOM_01458	gene	696				
+JNCGLAOM_01458	CDS	696				hypothetical protein
+JNCGLAOM_01459	gene	1884	argS			
+JNCGLAOM_01459	CDS	1884	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+JNCGLAOM_01460	gene	813	trmI			
+JNCGLAOM_01460	CDS	813	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+JNCGLAOM_01461	gene	864	nnr_2			
+JNCGLAOM_01461	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+JNCGLAOM_01462	gene	1356	dapE			
+JNCGLAOM_01462	CDS	1356	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+JNCGLAOM_01463	gene	600	prcB_2			
+JNCGLAOM_01463	CDS	600	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+JNCGLAOM_01464	gene	477				
+JNCGLAOM_01464	CDS	477				hypothetical protein
+JNCGLAOM_01465	gene	852	hom			
+JNCGLAOM_01465	CDS	852	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+JNCGLAOM_01466	gene	252	rpoC			
+JNCGLAOM_01466	CDS	252	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+JNCGLAOM_01467	gene	1170				
+JNCGLAOM_01467	CDS	1170				hypothetical protein
+JNCGLAOM_01468	gene	312				
+JNCGLAOM_01468	CDS	312				hypothetical protein
+JNCGLAOM_01469	gene	465	nusA			
+JNCGLAOM_01469	CDS	465	nusA			Transcription termination/antitermination protein NusA
+JNCGLAOM_01470	gene	438				
+JNCGLAOM_01470	CDS	438				hypothetical protein
+JNCGLAOM_01471	gene	600				
+JNCGLAOM_01471	CDS	600				hypothetical protein
+JNCGLAOM_01472	gene	321				
+JNCGLAOM_01472	CDS	321				hypothetical protein
+JNCGLAOM_01473	gene	702				
+JNCGLAOM_01473	CDS	702				hypothetical protein
+JNCGLAOM_01474	gene	843				
+JNCGLAOM_01474	CDS	843				hypothetical protein
+JNCGLAOM_01475	gene	165				
+JNCGLAOM_01475	CDS	165				hypothetical protein
+JNCGLAOM_01476	gene	309				
+JNCGLAOM_01476	CDS	309				hypothetical protein
+JNCGLAOM_01477	gene	201				
+JNCGLAOM_01477	CDS	201				hypothetical protein
+JNCGLAOM_01478	gene	1011				
+JNCGLAOM_01478	CDS	1011				hypothetical protein
+JNCGLAOM_01479	gene	498				
+JNCGLAOM_01479	CDS	498				hypothetical protein
+JNCGLAOM_01480	gene	426				
+JNCGLAOM_01480	CDS	426				hypothetical protein
+JNCGLAOM_01481	gene	222				
+JNCGLAOM_01481	CDS	222				hypothetical protein
+JNCGLAOM_01482	gene	108				
+JNCGLAOM_01482	CDS	108				hypothetical protein
+JNCGLAOM_01483	gene	159				
+JNCGLAOM_01483	CDS	159				hypothetical protein
+JNCGLAOM_01484	gene	300				
+JNCGLAOM_01484	CDS	300				hypothetical protein
+JNCGLAOM_01485	gene	1362	purB			
+JNCGLAOM_01485	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+JNCGLAOM_01486	gene	237				
+JNCGLAOM_01486	CDS	237				hypothetical protein
+JNCGLAOM_01487	gene	135				
+JNCGLAOM_01487	CDS	135				hypothetical protein
+JNCGLAOM_01488	gene	240				
+JNCGLAOM_01488	CDS	240				hypothetical protein
+JNCGLAOM_01489	gene	258				
+JNCGLAOM_01489	CDS	258				hypothetical protein
+JNCGLAOM_01490	gene	291				
+JNCGLAOM_01490	CDS	291				hypothetical protein
+JNCGLAOM_01491	gene	96				
+JNCGLAOM_01491	tRNA	96				tRNA-Val(cac)
+JNCGLAOM_01492	gene	918	sucD			
+JNCGLAOM_01492	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+JNCGLAOM_01493	gene	351	sucC			
+JNCGLAOM_01493	CDS	351	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+JNCGLAOM_01494	gene	192				
+JNCGLAOM_01494	CDS	192				hypothetical protein
+JNCGLAOM_01495	gene	675				
+JNCGLAOM_01495	CDS	675				hypothetical protein
+JNCGLAOM_01496	gene	741				
+JNCGLAOM_01496	CDS	741				hypothetical protein
+JNCGLAOM_01497	gene	1263				
+JNCGLAOM_01497	CDS	1263				hypothetical protein
+JNCGLAOM_01498	gene	375				
+JNCGLAOM_01498	CDS	375				hypothetical protein
+JNCGLAOM_01499	gene	201				
+JNCGLAOM_01499	CDS	201				hypothetical protein
+JNCGLAOM_01500	gene	78				
+JNCGLAOM_01500	tRNA	78				tRNA-Thr(tgt)
+JNCGLAOM_01501	gene	222				
+JNCGLAOM_01501	CDS	222				hypothetical protein
+JNCGLAOM_01502	gene	501				
+JNCGLAOM_01502	CDS	501				hypothetical protein
+JNCGLAOM_01503	gene	846	gatA			
+JNCGLAOM_01503	CDS	846	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+JNCGLAOM_01504	gene	705				
+JNCGLAOM_01504	CDS	705				hypothetical protein
+JNCGLAOM_01505	gene	348				
+JNCGLAOM_01505	CDS	348				hypothetical protein
+JNCGLAOM_01506	gene	576				
+JNCGLAOM_01506	CDS	576				hypothetical protein
+JNCGLAOM_01507	gene	303				
+JNCGLAOM_01507	CDS	303				hypothetical protein
+JNCGLAOM_01508	gene	135				
+JNCGLAOM_01508	CDS	135				hypothetical protein

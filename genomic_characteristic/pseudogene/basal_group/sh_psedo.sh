@@ -1,0 +1,10 @@
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_UBA164.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_UBA164.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_strain_BS3.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_strain_BS4.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_strain_BS4.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_UBA141.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_UBA141.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_UBA160.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_UBA160.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_UBA183.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_UBA183.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g Thaumarchaeota_archaeon_UBA57.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Thaumarchaeota_archaeon_UBA57.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g XS84_01.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op XS84_01.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g XS84_02.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op XS84_02.fa_annotation --diamond -t 64
+pseudofinder.py annotate -g XS84_03.fa_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op XS84_03.fa_annotation --diamond -t 64

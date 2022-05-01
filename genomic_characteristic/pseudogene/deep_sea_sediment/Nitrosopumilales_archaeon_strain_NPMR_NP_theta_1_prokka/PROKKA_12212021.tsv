@@ -1,0 +1,3780 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HLFEOLAN_00001	gene	2319	acnA			
+HLFEOLAN_00001	CDS	2319	acnA	4.2.1.3		Aconitate hydratase A
+HLFEOLAN_00002	gene	633				
+HLFEOLAN_00002	CDS	633				hypothetical protein
+HLFEOLAN_00003	gene	567				
+HLFEOLAN_00003	CDS	567				hypothetical protein
+HLFEOLAN_00004	gene	240				
+HLFEOLAN_00004	CDS	240				hypothetical protein
+HLFEOLAN_00005	gene	1659				
+HLFEOLAN_00005	CDS	1659				hypothetical protein
+HLFEOLAN_00006	gene	171				
+HLFEOLAN_00006	CDS	171				hypothetical protein
+HLFEOLAN_00007	gene	318				
+HLFEOLAN_00007	CDS	318				hypothetical protein
+HLFEOLAN_00008	gene	687				
+HLFEOLAN_00008	CDS	687				hypothetical protein
+HLFEOLAN_00009	gene	1095	hemA_1			
+HLFEOLAN_00009	CDS	1095	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HLFEOLAN_00010	gene	840	fpr_1			
+HLFEOLAN_00010	CDS	840	fpr_1	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+HLFEOLAN_00011	gene	1548	pccB			
+HLFEOLAN_00011	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HLFEOLAN_00012	gene	1674	ilvD			
+HLFEOLAN_00012	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+HLFEOLAN_00013	gene	597				
+HLFEOLAN_00013	CDS	597				hypothetical protein
+HLFEOLAN_00014	gene	429	hit_1			
+HLFEOLAN_00014	CDS	429	hit_1		COG0537	Protein hit
+HLFEOLAN_00015	gene	1284				
+HLFEOLAN_00015	CDS	1284				hypothetical protein
+HLFEOLAN_00016	gene	669				
+HLFEOLAN_00016	CDS	669				hypothetical protein
+HLFEOLAN_00017	gene	216				
+HLFEOLAN_00017	CDS	216				hypothetical protein
+HLFEOLAN_00018	gene	732				
+HLFEOLAN_00018	CDS	732				hypothetical protein
+HLFEOLAN_00019	gene	333				
+HLFEOLAN_00019	CDS	333				hypothetical protein
+HLFEOLAN_00020	gene	348				
+HLFEOLAN_00020	CDS	348				hypothetical protein
+HLFEOLAN_00021	gene	126				
+HLFEOLAN_00021	CDS	126				hypothetical protein
+HLFEOLAN_00022	gene	363	mqnC			
+HLFEOLAN_00022	CDS	363	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+HLFEOLAN_00023	gene	1443	ubiD_1			
+HLFEOLAN_00023	CDS	1443	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+HLFEOLAN_00024	gene	246				
+HLFEOLAN_00024	CDS	246				hypothetical protein
+HLFEOLAN_00025	gene	378				
+HLFEOLAN_00025	CDS	378				hypothetical protein
+HLFEOLAN_00026	gene	831				
+HLFEOLAN_00026	CDS	831				hypothetical protein
+HLFEOLAN_00027	gene	459	bcp_1			
+HLFEOLAN_00027	CDS	459	bcp_1	1.11.1.15	COG1225	Peroxiredoxin Bcp
+HLFEOLAN_00028	gene	702	aqpZ2			
+HLFEOLAN_00028	CDS	702	aqpZ2			Aquaporin Z 2
+HLFEOLAN_00029	gene	76				
+HLFEOLAN_00029	tRNA	76				tRNA-Arg(gcg)
+HLFEOLAN_00030	gene	108				
+HLFEOLAN_00030	CDS	108				hypothetical protein
+HLFEOLAN_00031	gene	102				
+HLFEOLAN_00031	CDS	102				hypothetical protein
+HLFEOLAN_00032	gene	447				
+HLFEOLAN_00032	CDS	447				hypothetical protein
+HLFEOLAN_00033	gene	243				
+HLFEOLAN_00033	CDS	243				hypothetical protein
+HLFEOLAN_00034	gene	216				
+HLFEOLAN_00034	CDS	216				hypothetical protein
+HLFEOLAN_00035	gene	957	lysS			
+HLFEOLAN_00035	CDS	957	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+HLFEOLAN_00036	gene	312				
+HLFEOLAN_00036	CDS	312				hypothetical protein
+HLFEOLAN_00037	gene	135				
+HLFEOLAN_00037	CDS	135				hypothetical protein
+HLFEOLAN_00038	gene	528				
+HLFEOLAN_00038	CDS	528			COG0586	putative membrane protein
+HLFEOLAN_00039	gene	672	cugP_1			
+HLFEOLAN_00039	CDS	672	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HLFEOLAN_00040	gene	963				
+HLFEOLAN_00040	CDS	963		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+HLFEOLAN_00041	gene	1110	fadA			
+HLFEOLAN_00041	CDS	1110	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+HLFEOLAN_00042	gene	324				
+HLFEOLAN_00042	CDS	324				hypothetical protein
+HLFEOLAN_00043	gene	1161	xerC_1			
+HLFEOLAN_00043	CDS	1161	xerC_1			Tyrosine recombinase XerC
+HLFEOLAN_00044	gene	348				
+HLFEOLAN_00044	CDS	348				hypothetical protein
+HLFEOLAN_00045	gene	177				
+HLFEOLAN_00045	CDS	177				hypothetical protein
+HLFEOLAN_00046	gene	309				
+HLFEOLAN_00046	CDS	309				hypothetical protein
+HLFEOLAN_00047	gene	243				
+HLFEOLAN_00047	CDS	243				hypothetical protein
+HLFEOLAN_00048	gene	1452				
+HLFEOLAN_00048	CDS	1452				hypothetical protein
+HLFEOLAN_00049	gene	144				
+HLFEOLAN_00049	CDS	144				hypothetical protein
+HLFEOLAN_00050	gene	531				
+HLFEOLAN_00050	CDS	531				hypothetical protein
+HLFEOLAN_00051	gene	213				
+HLFEOLAN_00051	CDS	213				hypothetical protein
+HLFEOLAN_00052	gene	225				
+HLFEOLAN_00052	CDS	225				hypothetical protein
+HLFEOLAN_00053	gene	261				
+HLFEOLAN_00053	CDS	261				hypothetical protein
+HLFEOLAN_00054	gene	189				
+HLFEOLAN_00054	CDS	189				hypothetical protein
+HLFEOLAN_00055	gene	330				
+HLFEOLAN_00055	CDS	330				hypothetical protein
+HLFEOLAN_00056	gene	240	atpD			
+HLFEOLAN_00056	CDS	240	atpD			V-type ATP synthase subunit D
+HLFEOLAN_00057	gene	126				
+HLFEOLAN_00057	CDS	126				hypothetical protein
+HLFEOLAN_00058	gene	1329	bzaF_1			
+HLFEOLAN_00058	CDS	1329	bzaF_1	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+HLFEOLAN_00059	gene	405				
+HLFEOLAN_00059	CDS	405				hypothetical protein
+HLFEOLAN_00060	gene	858				
+HLFEOLAN_00060	CDS	858				hypothetical protein
+HLFEOLAN_00061	gene	1371	dapL			
+HLFEOLAN_00061	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+HLFEOLAN_00062	gene	1095	aroC			
+HLFEOLAN_00062	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+HLFEOLAN_00063	gene	1278	aroA			
+HLFEOLAN_00063	CDS	1278	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HLFEOLAN_00064	gene	855	thrB_1			
+HLFEOLAN_00064	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+HLFEOLAN_00065	gene	822	aroE			
+HLFEOLAN_00065	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HLFEOLAN_00066	gene	186	aroD			
+HLFEOLAN_00066	CDS	186	aroD	4.2.1.10		3-dehydroquinate dehydratase
+HLFEOLAN_00067	gene	207				
+HLFEOLAN_00067	CDS	207				hypothetical protein
+HLFEOLAN_00068	gene	252				
+HLFEOLAN_00068	CDS	252				hypothetical protein
+HLFEOLAN_00069	gene	1365	sad			
+HLFEOLAN_00069	CDS	1365	sad	1.2.1.16	COG1012	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+HLFEOLAN_00070	gene	1410				
+HLFEOLAN_00070	CDS	1410				hypothetical protein
+HLFEOLAN_00071	gene	1266				
+HLFEOLAN_00071	CDS	1266				hypothetical protein
+HLFEOLAN_00072	gene	819				
+HLFEOLAN_00072	CDS	819				hypothetical protein
+HLFEOLAN_00073	gene	189				
+HLFEOLAN_00073	CDS	189				hypothetical protein
+HLFEOLAN_00074	gene	162				
+HLFEOLAN_00074	CDS	162				hypothetical protein
+HLFEOLAN_00075	gene	87				
+HLFEOLAN_00075	tRNA	87				tRNA-Ser(gct)
+HLFEOLAN_00076	gene	747	cpdA			
+HLFEOLAN_00076	CDS	747	cpdA	3.1.4.53	COG1409	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HLFEOLAN_00077	gene	1029	icd			
+HLFEOLAN_00077	CDS	1029	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+HLFEOLAN_00078	gene	123				
+HLFEOLAN_00078	CDS	123				hypothetical protein
+HLFEOLAN_00079	gene	678	ubiE			
+HLFEOLAN_00079	CDS	678	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+HLFEOLAN_00080	gene	693				
+HLFEOLAN_00080	CDS	693				hypothetical protein
+HLFEOLAN_00081	gene	378				
+HLFEOLAN_00081	CDS	378				hypothetical protein
+HLFEOLAN_00082	gene	537	prmC			
+HLFEOLAN_00082	CDS	537	prmC	2.1.1.297		Release factor glutamine methyltransferase
+HLFEOLAN_00083	gene	705	rsmA			
+HLFEOLAN_00083	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+HLFEOLAN_00084	gene	567				
+HLFEOLAN_00084	CDS	567				hypothetical protein
+HLFEOLAN_00085	gene	327				
+HLFEOLAN_00085	CDS	327				hypothetical protein
+HLFEOLAN_00086	gene	303				
+HLFEOLAN_00086	CDS	303				hypothetical protein
+HLFEOLAN_00087	gene	1056	recA			
+HLFEOLAN_00087	CDS	1056	recA			Protein RecA
+HLFEOLAN_00088	gene	183				
+HLFEOLAN_00088	CDS	183				hypothetical protein
+HLFEOLAN_00089	gene	234				
+HLFEOLAN_00089	CDS	234				hypothetical protein
+HLFEOLAN_00090	gene	1269	miaB			
+HLFEOLAN_00090	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+HLFEOLAN_00091	gene	1362	aspA			
+HLFEOLAN_00091	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+HLFEOLAN_00092	gene	1404				
+HLFEOLAN_00092	CDS	1404				hypothetical protein
+HLFEOLAN_00093	gene	933				
+HLFEOLAN_00093	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+HLFEOLAN_00094	gene	729				
+HLFEOLAN_00094	CDS	729				hypothetical protein
+HLFEOLAN_00095	gene	459				
+HLFEOLAN_00095	CDS	459				hypothetical protein
+HLFEOLAN_00096	gene	489				
+HLFEOLAN_00096	CDS	489				hypothetical protein
+HLFEOLAN_00097	gene	642				
+HLFEOLAN_00097	CDS	642				hypothetical protein
+HLFEOLAN_00098	gene	159				
+HLFEOLAN_00098	CDS	159				hypothetical protein
+HLFEOLAN_00099	gene	702				
+HLFEOLAN_00099	CDS	702				hypothetical protein
+HLFEOLAN_00100	gene	837				
+HLFEOLAN_00100	CDS	837				hypothetical protein
+HLFEOLAN_00101	gene	501				
+HLFEOLAN_00101	CDS	501				hypothetical protein
+HLFEOLAN_00102	gene	969				
+HLFEOLAN_00102	CDS	969				hypothetical protein
+HLFEOLAN_00103	gene	648				
+HLFEOLAN_00103	CDS	648				hypothetical protein
+HLFEOLAN_00104	gene	120				
+HLFEOLAN_00104	CDS	120				hypothetical protein
+HLFEOLAN_00105	gene	549				
+HLFEOLAN_00105	CDS	549				hypothetical protein
+HLFEOLAN_00106	gene	783				
+HLFEOLAN_00106	CDS	783				hypothetical protein
+HLFEOLAN_00107	gene	912				
+HLFEOLAN_00107	CDS	912				hypothetical protein
+HLFEOLAN_00108	gene	933				
+HLFEOLAN_00108	CDS	933				hypothetical protein
+HLFEOLAN_00109	gene	1644				
+HLFEOLAN_00109	CDS	1644				hypothetical protein
+HLFEOLAN_00110	gene	1071				
+HLFEOLAN_00110	CDS	1071				hypothetical protein
+HLFEOLAN_00111	gene	507				
+HLFEOLAN_00111	CDS	507				hypothetical protein
+HLFEOLAN_00112	gene	681				
+HLFEOLAN_00112	CDS	681				hypothetical protein
+HLFEOLAN_00113	gene	1758				
+HLFEOLAN_00113	CDS	1758				hypothetical protein
+HLFEOLAN_00114	gene	2142				
+HLFEOLAN_00114	CDS	2142				hypothetical protein
+HLFEOLAN_00115	gene	291				
+HLFEOLAN_00115	CDS	291				hypothetical protein
+HLFEOLAN_00116	gene	276				
+HLFEOLAN_00116	CDS	276				hypothetical protein
+HLFEOLAN_00117	gene	897				
+HLFEOLAN_00117	CDS	897				hypothetical protein
+HLFEOLAN_00118	gene	771	COQ3_1			
+HLFEOLAN_00118	CDS	771	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+HLFEOLAN_00119	gene	384				
+HLFEOLAN_00119	CDS	384				hypothetical protein
+HLFEOLAN_00120	gene	1353				
+HLFEOLAN_00120	CDS	1353				hypothetical protein
+HLFEOLAN_00121	gene	98				
+HLFEOLAN_00121	tRNA	98				tRNA-Val(cac)
+HLFEOLAN_00122	gene	918	sucD			
+HLFEOLAN_00122	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+HLFEOLAN_00123	gene	1107	sucC			
+HLFEOLAN_00123	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+HLFEOLAN_00124	gene	330				
+HLFEOLAN_00124	CDS	330				hypothetical protein
+HLFEOLAN_00125	gene	975				
+HLFEOLAN_00125	CDS	975				hypothetical protein
+HLFEOLAN_00126	gene	3195	ileS			
+HLFEOLAN_00126	CDS	3195	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+HLFEOLAN_00127	gene	1263	purD			
+HLFEOLAN_00127	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+HLFEOLAN_00128	gene	558	yqgN			
+HLFEOLAN_00128	CDS	558	yqgN		COG0212	putative protein YqgN
+HLFEOLAN_00129	gene	867	folD			
+HLFEOLAN_00129	CDS	867	folD		COG0190	Bifunctional protein FolD protein
+HLFEOLAN_00130	gene	321				
+HLFEOLAN_00130	CDS	321				hypothetical protein
+HLFEOLAN_00131	gene	618	purN			
+HLFEOLAN_00131	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+HLFEOLAN_00132	gene	963				
+HLFEOLAN_00132	CDS	963				hypothetical protein
+HLFEOLAN_00133	gene	240				
+HLFEOLAN_00133	CDS	240				hypothetical protein
+HLFEOLAN_00134	gene	246				
+HLFEOLAN_00134	CDS	246				hypothetical protein
+HLFEOLAN_00135	gene	633				
+HLFEOLAN_00135	CDS	633				hypothetical protein
+HLFEOLAN_00136	gene	174				
+HLFEOLAN_00136	CDS	174				hypothetical protein
+HLFEOLAN_00137	gene	1401				
+HLFEOLAN_00137	CDS	1401				hypothetical protein
+HLFEOLAN_00138	gene	1401				
+HLFEOLAN_00138	CDS	1401				hypothetical protein
+HLFEOLAN_00139	gene	309	dntAb			
+HLFEOLAN_00139	CDS	309	dntAb			2,4-dinitrotoluene dioxygenase system, ferredoxin component
+HLFEOLAN_00140	gene	1245	csd			
+HLFEOLAN_00140	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+HLFEOLAN_00141	gene	447	sufU			
+HLFEOLAN_00141	CDS	447	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+HLFEOLAN_00142	gene	348				
+HLFEOLAN_00142	CDS	348				hypothetical protein
+HLFEOLAN_00143	gene	1209	pgk			
+HLFEOLAN_00143	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+HLFEOLAN_00144	gene	669				
+HLFEOLAN_00144	CDS	669				hypothetical protein
+HLFEOLAN_00145	gene	312				
+HLFEOLAN_00145	CDS	312				hypothetical protein
+HLFEOLAN_00146	gene	828				
+HLFEOLAN_00146	CDS	828				hypothetical protein
+HLFEOLAN_00147	gene	786				
+HLFEOLAN_00147	CDS	786				hypothetical protein
+HLFEOLAN_00148	gene	306				
+HLFEOLAN_00148	CDS	306				hypothetical protein
+HLFEOLAN_00149	gene	315				
+HLFEOLAN_00149	CDS	315				hypothetical protein
+HLFEOLAN_00150	gene	171	ntpB			
+HLFEOLAN_00150	CDS	171	ntpB			V-type sodium ATPase subunit B
+HLFEOLAN_00151	gene	657	ntpD			
+HLFEOLAN_00151	CDS	657	ntpD			V-type sodium ATPase subunit D
+HLFEOLAN_00152	gene	132				
+HLFEOLAN_00152	CDS	132				hypothetical protein
+HLFEOLAN_00153	gene	303	atpH			
+HLFEOLAN_00153	CDS	303	atpH			ATP synthase subunit c
+HLFEOLAN_00154	gene	1044	atpC_1			
+HLFEOLAN_00154	CDS	1044	atpC_1			V-type ATP synthase subunit C
+HLFEOLAN_00155	gene	360				
+HLFEOLAN_00155	CDS	360				hypothetical protein
+HLFEOLAN_00156	gene	402				
+HLFEOLAN_00156	CDS	402				hypothetical protein
+HLFEOLAN_00157	gene	276				
+HLFEOLAN_00157	CDS	276				hypothetical protein
+HLFEOLAN_00158	gene	774	rhdA			
+HLFEOLAN_00158	CDS	774	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+HLFEOLAN_00159	gene	1557	nrgA			
+HLFEOLAN_00159	CDS	1557	nrgA			Ammonium transporter
+HLFEOLAN_00160	gene	642				
+HLFEOLAN_00160	CDS	642				hypothetical protein
+HLFEOLAN_00161	gene	165				
+HLFEOLAN_00161	CDS	165				hypothetical protein
+HLFEOLAN_00162	gene	645				
+HLFEOLAN_00162	CDS	645				hypothetical protein
+HLFEOLAN_00163	gene	111				
+HLFEOLAN_00163	CDS	111				hypothetical protein
+HLFEOLAN_00164	gene	546				
+HLFEOLAN_00164	CDS	546				hypothetical protein
+HLFEOLAN_00165	gene	360				
+HLFEOLAN_00165	CDS	360				hypothetical protein
+HLFEOLAN_00166	gene	675	pyrH			
+HLFEOLAN_00166	CDS	675	pyrH	2.7.4.22		Uridylate kinase
+HLFEOLAN_00167	gene	1245				
+HLFEOLAN_00167	CDS	1245				hypothetical protein
+HLFEOLAN_00168	gene	582	tmk			
+HLFEOLAN_00168	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+HLFEOLAN_00169	gene	1305				
+HLFEOLAN_00169	CDS	1305				hypothetical protein
+HLFEOLAN_00170	gene	549	lolD			
+HLFEOLAN_00170	CDS	549	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+HLFEOLAN_00171	gene	1188				
+HLFEOLAN_00171	CDS	1188				hypothetical protein
+HLFEOLAN_00172	gene	888				
+HLFEOLAN_00172	CDS	888				hypothetical protein
+HLFEOLAN_00173	gene	483	act			
+HLFEOLAN_00173	CDS	483	act	3.-.-.-		Methanol dehydrogenase activator
+HLFEOLAN_00174	gene	981				
+HLFEOLAN_00174	CDS	981				hypothetical protein
+HLFEOLAN_00175	gene	888	thrB_2			
+HLFEOLAN_00175	CDS	888	thrB_2	2.7.1.39		Homoserine kinase
+HLFEOLAN_00176	gene	765				
+HLFEOLAN_00176	CDS	765				hypothetical protein
+HLFEOLAN_00177	gene	834	panB			
+HLFEOLAN_00177	CDS	834	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+HLFEOLAN_00178	gene	1248	coaBC			
+HLFEOLAN_00178	CDS	1248	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+HLFEOLAN_00179	gene	1062	pepE			
+HLFEOLAN_00179	CDS	1062	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+HLFEOLAN_00180	gene	1005	thiI_1			
+HLFEOLAN_00180	CDS	1005	thiI_1	2.8.1.4		tRNA sulfurtransferase
+HLFEOLAN_00181	gene	279				
+HLFEOLAN_00181	CDS	279				hypothetical protein
+HLFEOLAN_00182	gene	1938	rnj_1			
+HLFEOLAN_00182	CDS	1938	rnj_1	3.1.-.-		Ribonuclease J
+HLFEOLAN_00183	gene	633	prcB_1			
+HLFEOLAN_00183	CDS	633	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+HLFEOLAN_00184	gene	1044	egsA			
+HLFEOLAN_00184	CDS	1044	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+HLFEOLAN_00185	gene	759				
+HLFEOLAN_00185	CDS	759				hypothetical protein
+HLFEOLAN_00186	gene	1131				
+HLFEOLAN_00186	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+HLFEOLAN_00187	gene	333				
+HLFEOLAN_00187	CDS	333		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+HLFEOLAN_00188	gene	321				
+HLFEOLAN_00188	CDS	321				hypothetical protein
+HLFEOLAN_00189	gene	276				
+HLFEOLAN_00189	CDS	276				hypothetical protein
+HLFEOLAN_00190	gene	1464	glnA			
+HLFEOLAN_00190	CDS	1464	glnA	6.3.1.2		Glutamine synthetase
+HLFEOLAN_00191	gene	558				
+HLFEOLAN_00191	CDS	558				hypothetical protein
+HLFEOLAN_00192	gene	279				
+HLFEOLAN_00192	CDS	279				hypothetical protein
+HLFEOLAN_00193	gene	231				
+HLFEOLAN_00193	CDS	231				hypothetical protein
+HLFEOLAN_00194	gene	909	fbiA			
+HLFEOLAN_00194	CDS	909	fbiA	2.7.8.28		Phosphoenolpyruvate transferase
+HLFEOLAN_00195	gene	1260				
+HLFEOLAN_00195	CDS	1260				hypothetical protein
+HLFEOLAN_00196	gene	411				
+HLFEOLAN_00196	CDS	411				hypothetical protein
+HLFEOLAN_00197	gene	278				
+HLFEOLAN_00197	misc_RNA	278				RNaseP_arch
+HLFEOLAN_00198	gene	480				
+HLFEOLAN_00198	CDS	480				hypothetical protein
+HLFEOLAN_00199	gene	3387				
+HLFEOLAN_00199	CDS	3387				hypothetical protein
+HLFEOLAN_00200	gene	252				
+HLFEOLAN_00200	CDS	252				hypothetical protein
+HLFEOLAN_00201	gene	77				
+HLFEOLAN_00201	tRNA	77				tRNA-Pro(tgg)
+HLFEOLAN_00202	gene	903				
+HLFEOLAN_00202	CDS	903		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+HLFEOLAN_00203	gene	180				
+HLFEOLAN_00203	CDS	180				hypothetical protein
+HLFEOLAN_00204	gene	1122				
+HLFEOLAN_00204	CDS	1122				hypothetical protein
+HLFEOLAN_00205	gene	588				
+HLFEOLAN_00205	CDS	588				hypothetical protein
+HLFEOLAN_00206	gene	327	metG_1			
+HLFEOLAN_00206	CDS	327	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+HLFEOLAN_00207	gene	417				
+HLFEOLAN_00207	CDS	417				hypothetical protein
+HLFEOLAN_00208	gene	1209	arnC_1			
+HLFEOLAN_00208	CDS	1209	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HLFEOLAN_00209	gene	1146				
+HLFEOLAN_00209	CDS	1146				hypothetical protein
+HLFEOLAN_00210	gene	1170	fbiC			
+HLFEOLAN_00210	CDS	1170	fbiC		COG1060	FO synthase
+HLFEOLAN_00211	gene	1251	ade			
+HLFEOLAN_00211	CDS	1251	ade	3.5.4.2	COG1001	Adenine deaminase
+HLFEOLAN_00212	gene	73				
+HLFEOLAN_00212	tRNA	73				tRNA-Ala(cgc)
+HLFEOLAN_00213	gene	1386				
+HLFEOLAN_00213	CDS	1386		3.5.2.-		D-hydantoinase
+HLFEOLAN_00214	gene	204				
+HLFEOLAN_00214	CDS	204				hypothetical protein
+HLFEOLAN_00215	gene	837	gchK			
+HLFEOLAN_00215	CDS	837	gchK	2.7.13.3	COG0642	Globin-coupled histidine kinase
+HLFEOLAN_00216	gene	678	rpiA			
+HLFEOLAN_00216	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+HLFEOLAN_00217	gene	909				
+HLFEOLAN_00217	CDS	909				hypothetical protein
+HLFEOLAN_00218	gene	231				
+HLFEOLAN_00218	CDS	231				hypothetical protein
+HLFEOLAN_00219	gene	735	mftE			
+HLFEOLAN_00219	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+HLFEOLAN_00220	gene	843	purU			
+HLFEOLAN_00220	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+HLFEOLAN_00221	gene	87				
+HLFEOLAN_00221	tRNA	87				tRNA-Leu(tag)
+HLFEOLAN_00222	gene	1350	algC			
+HLFEOLAN_00222	CDS	1350	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+HLFEOLAN_00223	gene	393				
+HLFEOLAN_00223	CDS	393				hypothetical protein
+HLFEOLAN_00224	gene	213				
+HLFEOLAN_00224	CDS	213				hypothetical protein
+HLFEOLAN_00225	gene	201				
+HLFEOLAN_00225	CDS	201				hypothetical protein
+HLFEOLAN_00226	gene	402	ndk			
+HLFEOLAN_00226	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+HLFEOLAN_00227	gene	1782	infB			
+HLFEOLAN_00227	CDS	1782	infB			Translation initiation factor IF-2
+HLFEOLAN_00228	gene	2091				
+HLFEOLAN_00228	CDS	2091				hypothetical protein
+HLFEOLAN_00229	gene	168				
+HLFEOLAN_00229	CDS	168				hypothetical protein
+HLFEOLAN_00230	gene	195				
+HLFEOLAN_00230	CDS	195				hypothetical protein
+HLFEOLAN_00231	gene	591				
+HLFEOLAN_00231	CDS	591				hypothetical protein
+HLFEOLAN_00232	gene	192	cspLA			
+HLFEOLAN_00232	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+HLFEOLAN_00233	gene	507	ftnA			
+HLFEOLAN_00233	CDS	507	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+HLFEOLAN_00234	gene	195				
+HLFEOLAN_00234	CDS	195				hypothetical protein
+HLFEOLAN_00235	gene	198				
+HLFEOLAN_00235	CDS	198				hypothetical protein
+HLFEOLAN_00236	gene	855	eryG			
+HLFEOLAN_00236	CDS	855	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+HLFEOLAN_00237	gene	165				
+HLFEOLAN_00237	CDS	165				hypothetical protein
+HLFEOLAN_00238	gene	417				
+HLFEOLAN_00238	CDS	417				Protein archease
+HLFEOLAN_00239	gene	1272	hisS			
+HLFEOLAN_00239	CDS	1272	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HLFEOLAN_00240	gene	666				
+HLFEOLAN_00240	CDS	666				hypothetical protein
+HLFEOLAN_00241	gene	225				
+HLFEOLAN_00241	CDS	225				hypothetical protein
+HLFEOLAN_00242	gene	105				
+HLFEOLAN_00242	CDS	105				hypothetical protein
+HLFEOLAN_00243	gene	339	tatA			
+HLFEOLAN_00243	CDS	339	tatA			Sec-independent protein translocase protein TatA
+HLFEOLAN_00244	gene	378				
+HLFEOLAN_00244	CDS	378				hypothetical protein
+HLFEOLAN_00245	gene	771	dpnA			
+HLFEOLAN_00245	CDS	771	dpnA	2.1.1.72		Modification methylase DpnIIB
+HLFEOLAN_00246	gene	78				
+HLFEOLAN_00246	tRNA	78				tRNA-Glu(ctc)
+HLFEOLAN_00247	gene	597				
+HLFEOLAN_00247	CDS	597			COG2968	26 kDa periplasmic immunogenic protein
+HLFEOLAN_00248	gene	582				
+HLFEOLAN_00248	CDS	582				hypothetical protein
+HLFEOLAN_00249	gene	153				
+HLFEOLAN_00249	CDS	153				hypothetical protein
+HLFEOLAN_00250	gene	135				
+HLFEOLAN_00250	CDS	135				hypothetical protein
+HLFEOLAN_00251	gene	1158				
+HLFEOLAN_00251	CDS	1158				hypothetical protein
+HLFEOLAN_00252	gene	366				
+HLFEOLAN_00252	CDS	366				hypothetical protein
+HLFEOLAN_00253	gene	936	groL_1			
+HLFEOLAN_00253	CDS	936	groL_1			60 kDa chaperonin
+HLFEOLAN_00254	gene	864	mak			
+HLFEOLAN_00254	CDS	864	mak	2.7.1.4	COG1940	Fructokinase
+HLFEOLAN_00255	gene	1524	guaA_1			
+HLFEOLAN_00255	CDS	1524	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+HLFEOLAN_00256	gene	231				
+HLFEOLAN_00256	CDS	231				hypothetical protein
+HLFEOLAN_00257	gene	171				
+HLFEOLAN_00257	CDS	171				hypothetical protein
+HLFEOLAN_00258	gene	198				
+HLFEOLAN_00258	CDS	198				hypothetical protein
+HLFEOLAN_00259	gene	282				
+HLFEOLAN_00259	CDS	282				hypothetical protein
+HLFEOLAN_00260	gene	141				
+HLFEOLAN_00260	CDS	141				hypothetical protein
+HLFEOLAN_00261	gene	135				
+HLFEOLAN_00261	CDS	135				hypothetical protein
+HLFEOLAN_00262	gene	372				
+HLFEOLAN_00262	CDS	372				hypothetical protein
+HLFEOLAN_00263	gene	399				
+HLFEOLAN_00263	CDS	399				hypothetical protein
+HLFEOLAN_00264	gene	204				
+HLFEOLAN_00264	CDS	204				hypothetical protein
+HLFEOLAN_00265	gene	657	ribD2			
+HLFEOLAN_00265	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+HLFEOLAN_00266	gene	882	dadD			
+HLFEOLAN_00266	CDS	882	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+HLFEOLAN_00267	gene	228				
+HLFEOLAN_00267	CDS	228				hypothetical protein
+HLFEOLAN_00268	gene	468				
+HLFEOLAN_00268	CDS	468				hypothetical protein
+HLFEOLAN_00269	gene	396				
+HLFEOLAN_00269	CDS	396				hypothetical protein
+HLFEOLAN_00270	gene	267				
+HLFEOLAN_00270	CDS	267				hypothetical protein
+HLFEOLAN_00271	gene	813				
+HLFEOLAN_00271	CDS	813				hypothetical protein
+HLFEOLAN_00272	gene	999				
+HLFEOLAN_00272	CDS	999				hypothetical protein
+HLFEOLAN_00273	gene	111				
+HLFEOLAN_00273	CDS	111				hypothetical protein
+HLFEOLAN_00274	gene	819				
+HLFEOLAN_00274	CDS	819				hypothetical protein
+HLFEOLAN_00275	gene	753	prcA_1			
+HLFEOLAN_00275	CDS	753	prcA_1			Proteasome subunit alpha
+HLFEOLAN_00276	gene	414				
+HLFEOLAN_00276	CDS	414				hypothetical protein
+HLFEOLAN_00277	gene	123				
+HLFEOLAN_00277	CDS	123				hypothetical protein
+HLFEOLAN_00278	gene	351				
+HLFEOLAN_00278	CDS	351				hypothetical protein
+HLFEOLAN_00279	gene	645				
+HLFEOLAN_00279	CDS	645				hypothetical protein
+HLFEOLAN_00280	gene	1125	resA_1			
+HLFEOLAN_00280	CDS	1125	resA_1			Thiol-disulfide oxidoreductase ResA
+HLFEOLAN_00281	gene	735				
+HLFEOLAN_00281	CDS	735				hypothetical protein
+HLFEOLAN_00282	gene	105				
+HLFEOLAN_00282	CDS	105				hypothetical protein
+HLFEOLAN_00283	gene	1137	bioF			
+HLFEOLAN_00283	CDS	1137	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+HLFEOLAN_00284	gene	975	bioB			
+HLFEOLAN_00284	CDS	975	bioB	2.8.1.6	COG0502	Biotin synthase
+HLFEOLAN_00285	gene	1311	bioK			
+HLFEOLAN_00285	CDS	1311	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+HLFEOLAN_00286	gene	693	bioD1			
+HLFEOLAN_00286	CDS	693	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+HLFEOLAN_00287	gene	1395	mvaS			
+HLFEOLAN_00287	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+HLFEOLAN_00288	gene	705				
+HLFEOLAN_00288	CDS	705				hypothetical protein
+HLFEOLAN_00289	gene	1053				
+HLFEOLAN_00289	CDS	1053				hypothetical protein
+HLFEOLAN_00290	gene	1254				
+HLFEOLAN_00290	CDS	1254				hypothetical protein
+HLFEOLAN_00291	gene	1338				
+HLFEOLAN_00291	CDS	1338				hypothetical protein
+HLFEOLAN_00292	gene	375				
+HLFEOLAN_00292	CDS	375				hypothetical protein
+HLFEOLAN_00293	gene	336				
+HLFEOLAN_00293	CDS	336				hypothetical protein
+HLFEOLAN_00294	gene	498				
+HLFEOLAN_00294	CDS	498				hypothetical protein
+HLFEOLAN_00295	gene	570				
+HLFEOLAN_00295	CDS	570				hypothetical protein
+HLFEOLAN_00296	gene	1179	ilvB			
+HLFEOLAN_00296	CDS	1179	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+HLFEOLAN_00297	gene	486	ilvH			
+HLFEOLAN_00297	CDS	486	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+HLFEOLAN_00298	gene	1518	leuA_1			
+HLFEOLAN_00298	CDS	1518	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+HLFEOLAN_00299	gene	1017	hicd			
+HLFEOLAN_00299	CDS	1017	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+HLFEOLAN_00300	gene	177				
+HLFEOLAN_00300	CDS	177				hypothetical protein
+HLFEOLAN_00301	gene	264				
+HLFEOLAN_00301	CDS	264				hypothetical protein
+HLFEOLAN_00302	gene	1308	aspS2_1			
+HLFEOLAN_00302	CDS	1308	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HLFEOLAN_00303	gene	981	oppD			
+HLFEOLAN_00303	CDS	981	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+HLFEOLAN_00304	gene	642				
+HLFEOLAN_00304	CDS	642				hypothetical protein
+HLFEOLAN_00305	gene	375				
+HLFEOLAN_00305	CDS	375				hypothetical protein
+HLFEOLAN_00306	gene	642				
+HLFEOLAN_00306	CDS	642				hypothetical protein
+HLFEOLAN_00307	gene	582				
+HLFEOLAN_00307	CDS	582		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+HLFEOLAN_00308	gene	1368	glmS			
+HLFEOLAN_00308	CDS	1368	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+HLFEOLAN_00309	gene	1062				
+HLFEOLAN_00309	CDS	1062				hypothetical protein
+HLFEOLAN_00310	gene	609	blh			
+HLFEOLAN_00310	CDS	609	blh	3.-.-.-	COG0491	Beta-lactamase hydrolase-like protein
+HLFEOLAN_00311	gene	648	nnr_1			
+HLFEOLAN_00311	CDS	648	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HLFEOLAN_00312	gene	90				
+HLFEOLAN_00312	CDS	90				hypothetical protein
+HLFEOLAN_00313	gene	663				
+HLFEOLAN_00313	CDS	663				hypothetical protein
+HLFEOLAN_00314	gene	618				
+HLFEOLAN_00314	CDS	618				hypothetical protein
+HLFEOLAN_00315	gene	510				
+HLFEOLAN_00315	CDS	510				hypothetical protein
+HLFEOLAN_00316	gene	74				
+HLFEOLAN_00316	tRNA	74				tRNA-Gly(gcc)
+HLFEOLAN_00317	gene	327				
+HLFEOLAN_00317	CDS	327				hypothetical protein
+HLFEOLAN_00318	gene	1323	magA			
+HLFEOLAN_00318	CDS	1323	magA		COG0475	Iron transporter MagA
+HLFEOLAN_00319	gene	153				
+HLFEOLAN_00319	CDS	153				hypothetical protein
+HLFEOLAN_00320	gene	300	thiDN			
+HLFEOLAN_00320	CDS	300	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+HLFEOLAN_00321	gene	702	cugP_2			
+HLFEOLAN_00321	CDS	702	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HLFEOLAN_00322	gene	438				
+HLFEOLAN_00322	CDS	438				hypothetical protein
+HLFEOLAN_00323	gene	435				
+HLFEOLAN_00323	CDS	435				hypothetical protein
+HLFEOLAN_00324	gene	1422				
+HLFEOLAN_00324	CDS	1422				hypothetical protein
+HLFEOLAN_00325	gene	1869	rcsC			
+HLFEOLAN_00325	CDS	1869	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+HLFEOLAN_00326	gene	363				
+HLFEOLAN_00326	CDS	363				hypothetical protein
+HLFEOLAN_00327	gene	363	cheY_1			
+HLFEOLAN_00327	CDS	363	cheY_1		COG0784	Chemotaxis protein CheY
+HLFEOLAN_00328	gene	1821				
+HLFEOLAN_00328	CDS	1821				hypothetical protein
+HLFEOLAN_00329	gene	504	mntR_1			
+HLFEOLAN_00329	CDS	504	mntR_1			HTH-type transcriptional regulator MntR
+HLFEOLAN_00330	gene	351				
+HLFEOLAN_00330	CDS	351				hypothetical protein
+HLFEOLAN_00331	gene	495				
+HLFEOLAN_00331	CDS	495				hypothetical protein
+HLFEOLAN_00332	gene	759	yfcA			
+HLFEOLAN_00332	CDS	759	yfcA		COG0730	putative membrane transporter protein YfcA
+HLFEOLAN_00333	gene	1773				
+HLFEOLAN_00333	CDS	1773				hypothetical protein
+HLFEOLAN_00334	gene	237				
+HLFEOLAN_00334	CDS	237				hypothetical protein
+HLFEOLAN_00335	gene	369				
+HLFEOLAN_00335	CDS	369				hypothetical protein
+HLFEOLAN_00336	gene	537				
+HLFEOLAN_00336	CDS	537				hypothetical protein
+HLFEOLAN_00337	gene	654				
+HLFEOLAN_00337	CDS	654				hypothetical protein
+HLFEOLAN_00338	gene	1767	lig			
+HLFEOLAN_00338	CDS	1767	lig	6.5.1.1		DNA ligase
+HLFEOLAN_00339	gene	417				
+HLFEOLAN_00339	CDS	417				hypothetical protein
+HLFEOLAN_00340	gene	1155	fbp			
+HLFEOLAN_00340	CDS	1155	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+HLFEOLAN_00341	gene	1299	tuf			
+HLFEOLAN_00341	CDS	1299	tuf		COG0050	Elongation factor Tu
+HLFEOLAN_00342	gene	309	rpsJ			
+HLFEOLAN_00342	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+HLFEOLAN_00343	gene	210				
+HLFEOLAN_00343	CDS	210				hypothetical protein
+HLFEOLAN_00344	gene	198				
+HLFEOLAN_00344	CDS	198				hypothetical protein
+HLFEOLAN_00345	gene	411				
+HLFEOLAN_00345	CDS	411				hypothetical protein
+HLFEOLAN_00346	gene	126				
+HLFEOLAN_00346	CDS	126				hypothetical protein
+HLFEOLAN_00347	gene	510				
+HLFEOLAN_00347	CDS	510				hypothetical protein
+HLFEOLAN_00348	gene	1140	fadB			
+HLFEOLAN_00348	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+HLFEOLAN_00349	gene	1185	xerC_2			
+HLFEOLAN_00349	CDS	1185	xerC_2			Tyrosine recombinase XerC
+HLFEOLAN_00350	gene	153				
+HLFEOLAN_00350	CDS	153				hypothetical protein
+HLFEOLAN_00351	gene	183				
+HLFEOLAN_00351	CDS	183				hypothetical protein
+HLFEOLAN_00352	gene	909				
+HLFEOLAN_00352	CDS	909				hypothetical protein
+HLFEOLAN_00353	gene	264				
+HLFEOLAN_00353	CDS	264				hypothetical protein
+HLFEOLAN_00354	gene	1212	gerN_1			
+HLFEOLAN_00354	CDS	1212	gerN_1		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+HLFEOLAN_00355	gene	372				
+HLFEOLAN_00355	CDS	372				hypothetical protein
+HLFEOLAN_00356	gene	660				
+HLFEOLAN_00356	CDS	660				hypothetical protein
+HLFEOLAN_00357	gene	765				
+HLFEOLAN_00357	CDS	765				hypothetical protein
+HLFEOLAN_00358	gene	552				
+HLFEOLAN_00358	CDS	552				hypothetical protein
+HLFEOLAN_00359	gene	183				
+HLFEOLAN_00359	CDS	183				hypothetical protein
+HLFEOLAN_00360	gene	1011				
+HLFEOLAN_00360	CDS	1011				hypothetical protein
+HLFEOLAN_00361	gene	237				
+HLFEOLAN_00361	CDS	237				hypothetical protein
+HLFEOLAN_00362	gene	384				
+HLFEOLAN_00362	CDS	384				hypothetical protein
+HLFEOLAN_00363	gene	534				
+HLFEOLAN_00363	CDS	534				hypothetical protein
+HLFEOLAN_00364	gene	246				
+HLFEOLAN_00364	CDS	246				hypothetical protein
+HLFEOLAN_00365	gene	183				
+HLFEOLAN_00365	CDS	183				hypothetical protein
+HLFEOLAN_00366	gene	156				
+HLFEOLAN_00366	CDS	156				hypothetical protein
+HLFEOLAN_00367	gene	219				
+HLFEOLAN_00367	CDS	219				hypothetical protein
+HLFEOLAN_00368	gene	1143	citZ			
+HLFEOLAN_00368	CDS	1143	citZ	2.3.3.16	COG0372	Citrate synthase 2
+HLFEOLAN_00369	gene	207				
+HLFEOLAN_00369	CDS	207				hypothetical protein
+HLFEOLAN_00370	gene	561				
+HLFEOLAN_00370	CDS	561				hypothetical protein
+HLFEOLAN_00371	gene	714	COQ5_1			
+HLFEOLAN_00371	CDS	714	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HLFEOLAN_00372	gene	306				
+HLFEOLAN_00372	CDS	306				hypothetical protein
+HLFEOLAN_00373	gene	144				
+HLFEOLAN_00373	CDS	144				hypothetical protein
+HLFEOLAN_00374	gene	381				
+HLFEOLAN_00374	CDS	381				hypothetical protein
+HLFEOLAN_00375	gene	1281				
+HLFEOLAN_00375	CDS	1281		2.7.1.165	COG2379	D-glycerate 2-kinase
+HLFEOLAN_00376	gene	993				
+HLFEOLAN_00376	CDS	993				hypothetical protein
+HLFEOLAN_00377	gene	1101				
+HLFEOLAN_00377	CDS	1101		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+HLFEOLAN_00378	gene	747				
+HLFEOLAN_00378	CDS	747				hypothetical protein
+HLFEOLAN_00379	gene	312				
+HLFEOLAN_00379	CDS	312				hypothetical protein
+HLFEOLAN_00380	gene	282				
+HLFEOLAN_00380	CDS	282				hypothetical protein
+HLFEOLAN_00381	gene	534				
+HLFEOLAN_00381	CDS	534				hypothetical protein
+HLFEOLAN_00382	gene	153				
+HLFEOLAN_00382	CDS	153				hypothetical protein
+HLFEOLAN_00383	gene	147				
+HLFEOLAN_00383	CDS	147				hypothetical protein
+HLFEOLAN_00384	gene	495				
+HLFEOLAN_00384	CDS	495				hypothetical protein
+HLFEOLAN_00385	gene	1008				
+HLFEOLAN_00385	CDS	1008				hypothetical protein
+HLFEOLAN_00386	gene	1359	apgM			
+HLFEOLAN_00386	CDS	1359	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HLFEOLAN_00387	gene	561				
+HLFEOLAN_00387	CDS	561				hypothetical protein
+HLFEOLAN_00388	gene	513				
+HLFEOLAN_00388	CDS	513				hypothetical protein
+HLFEOLAN_00389	gene	174				
+HLFEOLAN_00389	CDS	174				hypothetical protein
+HLFEOLAN_00390	gene	708				
+HLFEOLAN_00390	CDS	708				hypothetical protein
+HLFEOLAN_00391	gene	102				
+HLFEOLAN_00391	CDS	102				hypothetical protein
+HLFEOLAN_00392	gene	1167				
+HLFEOLAN_00392	CDS	1167				hypothetical protein
+HLFEOLAN_00393	gene	1326	ffh			
+HLFEOLAN_00393	CDS	1326	ffh		COG0541	Signal recognition particle protein
+HLFEOLAN_00394	gene	693				
+HLFEOLAN_00394	CDS	693				hypothetical protein
+HLFEOLAN_00395	gene	411				
+HLFEOLAN_00395	CDS	411				hypothetical protein
+HLFEOLAN_00396	gene	612				
+HLFEOLAN_00396	CDS	612				hypothetical protein
+HLFEOLAN_00397	gene	501				
+HLFEOLAN_00397	CDS	501				hypothetical protein
+HLFEOLAN_00398	gene	756				
+HLFEOLAN_00398	CDS	756				hypothetical protein
+HLFEOLAN_00399	gene	1077	adh			
+HLFEOLAN_00399	CDS	1077	adh	1.1.1.1		Alcohol dehydrogenase
+HLFEOLAN_00400	gene	669				
+HLFEOLAN_00400	CDS	669				hypothetical protein
+HLFEOLAN_00401	gene	564	scpB			
+HLFEOLAN_00401	CDS	564	scpB			Segregation and condensation protein B
+HLFEOLAN_00402	gene	381				
+HLFEOLAN_00402	CDS	381				hypothetical protein
+HLFEOLAN_00403	gene	300				
+HLFEOLAN_00403	CDS	300				hypothetical protein
+HLFEOLAN_00404	gene	246				
+HLFEOLAN_00404	CDS	246				hypothetical protein
+HLFEOLAN_00405	gene	957				
+HLFEOLAN_00405	CDS	957				hypothetical protein
+HLFEOLAN_00406	gene	771	sufC			
+HLFEOLAN_00406	CDS	771	sufC		COG0396	Vegetative protein 296
+HLFEOLAN_00407	gene	678				
+HLFEOLAN_00407	CDS	678			COG3253	putative protein/MSMEI_2713
+HLFEOLAN_00408	gene	546				
+HLFEOLAN_00408	CDS	546				hypothetical protein
+HLFEOLAN_00409	gene	999	iolS_1			
+HLFEOLAN_00409	CDS	999	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+HLFEOLAN_00410	gene	1014				
+HLFEOLAN_00410	CDS	1014				hypothetical protein
+HLFEOLAN_00411	gene	561				
+HLFEOLAN_00411	CDS	561				hypothetical protein
+HLFEOLAN_00412	gene	654	cysG			
+HLFEOLAN_00412	CDS	654	cysG		COG0007	Siroheme synthase
+HLFEOLAN_00413	gene	1263	hemA_2			
+HLFEOLAN_00413	CDS	1263	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HLFEOLAN_00414	gene	162				
+HLFEOLAN_00414	CDS	162				hypothetical protein
+HLFEOLAN_00415	gene	822	lapB_1			
+HLFEOLAN_00415	CDS	822	lapB_1			Lipopolysaccharide assembly protein B
+HLFEOLAN_00416	gene	708				
+HLFEOLAN_00416	CDS	708				hypothetical protein
+HLFEOLAN_00417	gene	459				
+HLFEOLAN_00417	CDS	459				hypothetical protein
+HLFEOLAN_00418	gene	1005	iolS_2			
+HLFEOLAN_00418	CDS	1005	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+HLFEOLAN_00419	gene	1077				
+HLFEOLAN_00419	CDS	1077				hypothetical protein
+HLFEOLAN_00420	gene	180				
+HLFEOLAN_00420	CDS	180				hypothetical protein
+HLFEOLAN_00421	gene	249				
+HLFEOLAN_00421	CDS	249				hypothetical protein
+HLFEOLAN_00422	gene	729	cobS			
+HLFEOLAN_00422	CDS	729	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+HLFEOLAN_00423	gene	960	cobD_1			
+HLFEOLAN_00423	CDS	960	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+HLFEOLAN_00424	gene	840	cobQ			
+HLFEOLAN_00424	CDS	840	cobQ			Cobyric acid synthase
+HLFEOLAN_00425	gene	1077	cobD_2			
+HLFEOLAN_00425	CDS	1077	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+HLFEOLAN_00426	gene	1080	asd2			
+HLFEOLAN_00426	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+HLFEOLAN_00427	gene	468	asnC_1			
+HLFEOLAN_00427	CDS	468	asnC_1		COG1522	Regulatory protein AsnC
+HLFEOLAN_00428	gene	930	ctaB_1			
+HLFEOLAN_00428	CDS	930	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HLFEOLAN_00429	gene	291				
+HLFEOLAN_00429	CDS	291				hypothetical protein
+HLFEOLAN_00430	gene	456				
+HLFEOLAN_00430	CDS	456				hypothetical protein
+HLFEOLAN_00431	gene	564				
+HLFEOLAN_00431	CDS	564				hypothetical protein
+HLFEOLAN_00432	gene	279				
+HLFEOLAN_00432	CDS	279				hypothetical protein
+HLFEOLAN_00433	gene	696				
+HLFEOLAN_00433	CDS	696				hypothetical protein
+HLFEOLAN_00434	gene	363				
+HLFEOLAN_00434	CDS	363				hypothetical protein
+HLFEOLAN_00435	gene	336				
+HLFEOLAN_00435	CDS	336				hypothetical protein
+HLFEOLAN_00436	gene	666	tal			
+HLFEOLAN_00436	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+HLFEOLAN_00437	gene	981	aptB			
+HLFEOLAN_00437	CDS	981	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+HLFEOLAN_00438	gene	1539	dxs			
+HLFEOLAN_00438	CDS	1539	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+HLFEOLAN_00439	gene	213				
+HLFEOLAN_00439	CDS	213				hypothetical protein
+HLFEOLAN_00440	gene	126				
+HLFEOLAN_00440	CDS	126				hypothetical protein
+HLFEOLAN_00441	gene	1329	bzaF_2			
+HLFEOLAN_00441	CDS	1329	bzaF_2	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+HLFEOLAN_00442	gene	321				
+HLFEOLAN_00442	CDS	321				hypothetical protein
+HLFEOLAN_00443	gene	720	cysH			
+HLFEOLAN_00443	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+HLFEOLAN_00444	gene	543				
+HLFEOLAN_00444	CDS	543				hypothetical protein
+HLFEOLAN_00445	gene	843				
+HLFEOLAN_00445	CDS	843				hypothetical protein
+HLFEOLAN_00446	gene	1425	nhaP2			
+HLFEOLAN_00446	CDS	1425	nhaP2			K(+)/H(+) antiporter NhaP2
+HLFEOLAN_00447	gene	915				
+HLFEOLAN_00447	CDS	915				hypothetical protein
+HLFEOLAN_00448	gene	942				
+HLFEOLAN_00448	CDS	942				hypothetical protein
+HLFEOLAN_00449	gene	1368				
+HLFEOLAN_00449	CDS	1368				hypothetical protein
+HLFEOLAN_00450	gene	1737				
+HLFEOLAN_00450	CDS	1737				hypothetical protein
+HLFEOLAN_00451	gene	879	prs			
+HLFEOLAN_00451	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+HLFEOLAN_00452	gene	900	rnz			
+HLFEOLAN_00452	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+HLFEOLAN_00453	gene	717	cobB			
+HLFEOLAN_00453	CDS	717	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+HLFEOLAN_00454	gene	705				
+HLFEOLAN_00454	CDS	705				hypothetical protein
+HLFEOLAN_00455	gene	393				
+HLFEOLAN_00455	CDS	393				hypothetical protein
+HLFEOLAN_00456	gene	519				
+HLFEOLAN_00456	CDS	519				hypothetical protein
+HLFEOLAN_00457	gene	540				
+HLFEOLAN_00457	CDS	540		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+HLFEOLAN_00458	gene	231				
+HLFEOLAN_00458	CDS	231				hypothetical protein
+HLFEOLAN_00459	gene	270				
+HLFEOLAN_00459	CDS	270				hypothetical protein
+HLFEOLAN_00460	gene	210				
+HLFEOLAN_00460	CDS	210				hypothetical protein
+HLFEOLAN_00461	gene	111				
+HLFEOLAN_00461	CDS	111				hypothetical protein
+HLFEOLAN_00462	gene	126				
+HLFEOLAN_00462	CDS	126				hypothetical protein
+HLFEOLAN_00463	gene	570				
+HLFEOLAN_00463	CDS	570				hypothetical protein
+HLFEOLAN_00464	gene	762	xecD			
+HLFEOLAN_00464	CDS	762	xecD	1.1.1.268		2-(R)-hydroxypropyl-CoM dehydrogenase
+HLFEOLAN_00465	gene	891	glxR			
+HLFEOLAN_00465	CDS	891	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+HLFEOLAN_00466	gene	387				
+HLFEOLAN_00466	CDS	387				hypothetical protein
+HLFEOLAN_00467	gene	369				
+HLFEOLAN_00467	CDS	369				hypothetical protein
+HLFEOLAN_00468	gene	201				
+HLFEOLAN_00468	CDS	201				hypothetical protein
+HLFEOLAN_00469	gene	669				
+HLFEOLAN_00469	CDS	669				hypothetical protein
+HLFEOLAN_00470	gene	486				
+HLFEOLAN_00470	CDS	486				hypothetical protein
+HLFEOLAN_00471	gene	417				
+HLFEOLAN_00471	CDS	417				hypothetical protein
+HLFEOLAN_00472	gene	960	btuF			
+HLFEOLAN_00472	CDS	960	btuF			Vitamin B12-binding protein
+HLFEOLAN_00473	gene	1155				
+HLFEOLAN_00473	CDS	1155				hypothetical protein
+HLFEOLAN_00474	gene	906				
+HLFEOLAN_00474	CDS	906				hypothetical protein
+HLFEOLAN_00475	gene	141				
+HLFEOLAN_00475	CDS	141				hypothetical protein
+HLFEOLAN_00476	gene	309				
+HLFEOLAN_00476	CDS	309				hypothetical protein
+HLFEOLAN_00477	gene	945				
+HLFEOLAN_00477	CDS	945				hypothetical protein
+HLFEOLAN_00478	gene	798				
+HLFEOLAN_00478	CDS	798				hypothetical protein
+HLFEOLAN_00479	gene	249				
+HLFEOLAN_00479	CDS	249				hypothetical protein
+HLFEOLAN_00480	gene	162				
+HLFEOLAN_00480	CDS	162				hypothetical protein
+HLFEOLAN_00481	gene	1092	dinB			
+HLFEOLAN_00481	CDS	1092	dinB	2.7.7.7		DNA polymerase IV
+HLFEOLAN_00482	gene	249				
+HLFEOLAN_00482	CDS	249				hypothetical protein
+HLFEOLAN_00483	gene	1926	GATB			
+HLFEOLAN_00483	CDS	1926	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+HLFEOLAN_00484	gene	258				
+HLFEOLAN_00484	CDS	258				hypothetical protein
+HLFEOLAN_00485	gene	88				
+HLFEOLAN_00485	tRNA	88				tRNA-Leu(cag)
+HLFEOLAN_00486	gene	162				
+HLFEOLAN_00486	CDS	162				hypothetical protein
+HLFEOLAN_00487	gene	1116	dnaJ_1			
+HLFEOLAN_00487	CDS	1116	dnaJ_1		COG0484	Chaperone protein DnaJ
+HLFEOLAN_00488	gene	1881	dnaK			
+HLFEOLAN_00488	CDS	1881	dnaK		COG0443	Chaperone protein DnaK
+HLFEOLAN_00489	gene	585	grpE			
+HLFEOLAN_00489	CDS	585	grpE			Protein GrpE
+HLFEOLAN_00490	gene	1200				
+HLFEOLAN_00490	CDS	1200				hypothetical protein
+HLFEOLAN_00491	gene	1038				
+HLFEOLAN_00491	CDS	1038				hypothetical protein
+HLFEOLAN_00492	gene	342				
+HLFEOLAN_00492	CDS	342				hypothetical protein
+HLFEOLAN_00493	gene	264				
+HLFEOLAN_00493	CDS	264				hypothetical protein
+HLFEOLAN_00494	gene	318				
+HLFEOLAN_00494	CDS	318				hypothetical protein
+HLFEOLAN_00495	gene	603				
+HLFEOLAN_00495	CDS	603				hypothetical protein
+HLFEOLAN_00496	gene	564				
+HLFEOLAN_00496	CDS	564				hypothetical protein
+HLFEOLAN_00497	gene	363				
+HLFEOLAN_00497	CDS	363				hypothetical protein
+HLFEOLAN_00498	gene	693				
+HLFEOLAN_00498	CDS	693				hypothetical protein
+HLFEOLAN_00499	gene	501				
+HLFEOLAN_00499	CDS	501				hypothetical protein
+HLFEOLAN_00500	gene	618	trmR_1			
+HLFEOLAN_00500	CDS	618	trmR_1	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+HLFEOLAN_00501	gene	162	fusA_1			
+HLFEOLAN_00501	CDS	162	fusA_1			Elongation factor G
+HLFEOLAN_00502	gene	180				
+HLFEOLAN_00502	CDS	180				hypothetical protein
+HLFEOLAN_00503	gene	522				
+HLFEOLAN_00503	CDS	522				hypothetical protein
+HLFEOLAN_00504	gene	393	rpsH			
+HLFEOLAN_00504	CDS	393	rpsH			30S ribosomal protein S8
+HLFEOLAN_00505	gene	201				
+HLFEOLAN_00505	CDS	201				hypothetical protein
+HLFEOLAN_00506	gene	864				
+HLFEOLAN_00506	CDS	864				hypothetical protein
+HLFEOLAN_00507	gene	231				
+HLFEOLAN_00507	CDS	231				hypothetical protein
+HLFEOLAN_00508	gene	2985				
+HLFEOLAN_00508	CDS	2985				hypothetical protein
+HLFEOLAN_00509	gene	405				
+HLFEOLAN_00509	CDS	405				hypothetical protein
+HLFEOLAN_00510	gene	816				
+HLFEOLAN_00510	CDS	816				hypothetical protein
+HLFEOLAN_00511	gene	270				
+HLFEOLAN_00511	CDS	270				hypothetical protein
+HLFEOLAN_00512	gene	225				
+HLFEOLAN_00512	CDS	225				hypothetical protein
+HLFEOLAN_00513	gene	936				
+HLFEOLAN_00513	CDS	936				hypothetical protein
+HLFEOLAN_00514	gene	2073				
+HLFEOLAN_00514	CDS	2073				hypothetical protein
+HLFEOLAN_00515	gene	771				
+HLFEOLAN_00515	CDS	771				hypothetical protein
+HLFEOLAN_00516	gene	213				
+HLFEOLAN_00516	CDS	213				hypothetical protein
+HLFEOLAN_00517	gene	624				
+HLFEOLAN_00517	CDS	624				hypothetical protein
+HLFEOLAN_00518	gene	1305				
+HLFEOLAN_00518	CDS	1305				hypothetical protein
+HLFEOLAN_00519	gene	783	griI			
+HLFEOLAN_00519	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+HLFEOLAN_00520	gene	1062	griH			
+HLFEOLAN_00520	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+HLFEOLAN_00521	gene	915				
+HLFEOLAN_00521	CDS	915				hypothetical protein
+HLFEOLAN_00522	gene	1263				
+HLFEOLAN_00522	CDS	1263				hypothetical protein
+HLFEOLAN_00523	gene	429				
+HLFEOLAN_00523	CDS	429				hypothetical protein
+HLFEOLAN_00524	gene	1278	larA			
+HLFEOLAN_00524	CDS	1278	larA	5.1.2.1	COG3875	Lactate racemase
+HLFEOLAN_00525	gene	1326				
+HLFEOLAN_00525	CDS	1326				hypothetical protein
+HLFEOLAN_00526	gene	408				
+HLFEOLAN_00526	CDS	408				hypothetical protein
+HLFEOLAN_00527	gene	564	dnaJ_2			
+HLFEOLAN_00527	CDS	564	dnaJ_2			Chaperone protein DnaJ
+HLFEOLAN_00528	gene	504	ycf3			
+HLFEOLAN_00528	CDS	504	ycf3			Photosystem I assembly protein Ycf3
+HLFEOLAN_00529	gene	174				
+HLFEOLAN_00529	CDS	174				hypothetical protein
+HLFEOLAN_00530	gene	1098	mqnE			
+HLFEOLAN_00530	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+HLFEOLAN_00531	gene	999				
+HLFEOLAN_00531	CDS	999				hypothetical protein
+HLFEOLAN_00532	gene	399				
+HLFEOLAN_00532	CDS	399				hypothetical protein
+HLFEOLAN_00533	gene	480	rssB_1			
+HLFEOLAN_00533	CDS	480	rssB_1			Regulator of RpoS
+HLFEOLAN_00534	gene	510				
+HLFEOLAN_00534	CDS	510				hypothetical protein
+HLFEOLAN_00535	gene	1650				
+HLFEOLAN_00535	CDS	1650				hypothetical protein
+HLFEOLAN_00536	gene	384				
+HLFEOLAN_00536	CDS	384				hypothetical protein
+HLFEOLAN_00537	gene	294				
+HLFEOLAN_00537	CDS	294				hypothetical protein
+HLFEOLAN_00538	gene	270				
+HLFEOLAN_00538	CDS	270				hypothetical protein
+HLFEOLAN_00539	gene	360				
+HLFEOLAN_00539	CDS	360				hypothetical protein
+HLFEOLAN_00540	gene	594				
+HLFEOLAN_00540	CDS	594				hypothetical protein
+HLFEOLAN_00541	gene	297				
+HLFEOLAN_00541	CDS	297				hypothetical protein
+HLFEOLAN_00542	gene	1191				
+HLFEOLAN_00542	CDS	1191				hypothetical protein
+HLFEOLAN_00543	gene	603				
+HLFEOLAN_00543	CDS	603				hypothetical protein
+HLFEOLAN_00544	gene	939				
+HLFEOLAN_00544	CDS	939				hypothetical protein
+HLFEOLAN_00545	gene	1632				
+HLFEOLAN_00545	CDS	1632				hypothetical protein
+HLFEOLAN_00546	gene	558				
+HLFEOLAN_00546	CDS	558				hypothetical protein
+HLFEOLAN_00547	gene	288				
+HLFEOLAN_00547	CDS	288				hypothetical protein
+HLFEOLAN_00548	gene	75				
+HLFEOLAN_00548	tRNA	75				tRNA-Asn(gtt)
+HLFEOLAN_00549	gene	246				
+HLFEOLAN_00549	CDS	246				hypothetical protein
+HLFEOLAN_00550	gene	225				
+HLFEOLAN_00550	CDS	225				hypothetical protein
+HLFEOLAN_00551	gene	486				
+HLFEOLAN_00551	CDS	486				hypothetical protein
+HLFEOLAN_00552	gene	234				
+HLFEOLAN_00552	CDS	234				hypothetical protein
+HLFEOLAN_00553	gene	192				
+HLFEOLAN_00553	CDS	192				hypothetical protein
+HLFEOLAN_00554	gene	1092				
+HLFEOLAN_00554	CDS	1092				hypothetical protein
+HLFEOLAN_00555	gene	1086				
+HLFEOLAN_00555	CDS	1086				hypothetical protein
+HLFEOLAN_00556	gene	609	pyrE			
+HLFEOLAN_00556	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HLFEOLAN_00557	gene	74				
+HLFEOLAN_00557	tRNA	74				tRNA-Met(cat)
+HLFEOLAN_00558	gene	636				
+HLFEOLAN_00558	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+HLFEOLAN_00559	gene	858				
+HLFEOLAN_00559	CDS	858				hypothetical protein
+HLFEOLAN_00560	gene	1485	ndhB_1			
+HLFEOLAN_00560	CDS	1485	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HLFEOLAN_00561	gene	2073	ndhB_2			
+HLFEOLAN_00561	CDS	2073	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HLFEOLAN_00562	gene	1560	mrpA			
+HLFEOLAN_00562	CDS	1560	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+HLFEOLAN_00563	gene	306	nuoK			
+HLFEOLAN_00563	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+HLFEOLAN_00564	gene	501				
+HLFEOLAN_00564	CDS	501				hypothetical protein
+HLFEOLAN_00565	gene	498	ndhI_1			
+HLFEOLAN_00565	CDS	498	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HLFEOLAN_00566	gene	1299	ndhA			
+HLFEOLAN_00566	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+HLFEOLAN_00567	gene	954	nqo4			
+HLFEOLAN_00567	CDS	954	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+HLFEOLAN_00568	gene	231				
+HLFEOLAN_00568	CDS	231				hypothetical protein
+HLFEOLAN_00569	gene	618	hldE			
+HLFEOLAN_00569	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+HLFEOLAN_00570	gene	687				
+HLFEOLAN_00570	CDS	687				hypothetical protein
+HLFEOLAN_00571	gene	1143				
+HLFEOLAN_00571	CDS	1143				hypothetical protein
+HLFEOLAN_00572	gene	351	erpA			
+HLFEOLAN_00572	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+HLFEOLAN_00573	gene	762	crt			
+HLFEOLAN_00573	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+HLFEOLAN_00574	gene	2118				
+HLFEOLAN_00574	CDS	2118				hypothetical protein
+HLFEOLAN_00575	gene	378				
+HLFEOLAN_00575	CDS	378				hypothetical protein
+HLFEOLAN_00576	gene	1320	gluD			
+HLFEOLAN_00576	CDS	1320	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+HLFEOLAN_00577	gene	387				
+HLFEOLAN_00577	CDS	387				hypothetical protein
+HLFEOLAN_00578	gene	750	prcA_2			
+HLFEOLAN_00578	CDS	750	prcA_2			Proteasome subunit alpha
+HLFEOLAN_00579	gene	690	menG			
+HLFEOLAN_00579	CDS	690	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+HLFEOLAN_00580	gene	237				
+HLFEOLAN_00580	CDS	237				hypothetical protein
+HLFEOLAN_00581	gene	453				
+HLFEOLAN_00581	CDS	453				hypothetical protein
+HLFEOLAN_00582	gene	324				
+HLFEOLAN_00582	CDS	324				hypothetical protein
+HLFEOLAN_00583	gene	390				
+HLFEOLAN_00583	CDS	390				hypothetical protein
+HLFEOLAN_00584	gene	318				
+HLFEOLAN_00584	CDS	318				hypothetical protein
+HLFEOLAN_00585	gene	144				
+HLFEOLAN_00585	CDS	144				hypothetical protein
+HLFEOLAN_00586	gene	402				
+HLFEOLAN_00586	CDS	402				hypothetical protein
+HLFEOLAN_00587	gene	336				
+HLFEOLAN_00587	CDS	336				hypothetical protein
+HLFEOLAN_00588	gene	696				
+HLFEOLAN_00588	CDS	696				hypothetical protein
+HLFEOLAN_00589	gene	96				
+HLFEOLAN_00589	tRNA	96				tRNA-Trp(cca)
+HLFEOLAN_00590	gene	1227				
+HLFEOLAN_00590	CDS	1227				hypothetical protein
+HLFEOLAN_00591	gene	159				
+HLFEOLAN_00591	CDS	159				hypothetical protein
+HLFEOLAN_00592	gene	312				
+HLFEOLAN_00592	CDS	312				hypothetical protein
+HLFEOLAN_00593	gene	102				
+HLFEOLAN_00593	CDS	102				hypothetical protein
+HLFEOLAN_00594	gene	1953				
+HLFEOLAN_00594	CDS	1953				hypothetical protein
+HLFEOLAN_00595	gene	1128				
+HLFEOLAN_00595	CDS	1128				hypothetical protein
+HLFEOLAN_00596	gene	1671				
+HLFEOLAN_00596	CDS	1671				hypothetical protein
+HLFEOLAN_00597	gene	459				
+HLFEOLAN_00597	CDS	459				hypothetical protein
+HLFEOLAN_00598	gene	285				
+HLFEOLAN_00598	CDS	285				hypothetical protein
+HLFEOLAN_00599	gene	261				
+HLFEOLAN_00599	CDS	261				hypothetical protein
+HLFEOLAN_00600	gene	1005				
+HLFEOLAN_00600	CDS	1005				hypothetical protein
+HLFEOLAN_00601	gene	351				
+HLFEOLAN_00601	CDS	351				hypothetical protein
+HLFEOLAN_00602	gene	195				
+HLFEOLAN_00602	CDS	195				hypothetical protein
+HLFEOLAN_00603	gene	714	queE			
+HLFEOLAN_00603	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+HLFEOLAN_00604	gene	561	folE			
+HLFEOLAN_00604	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+HLFEOLAN_00605	gene	324				
+HLFEOLAN_00605	CDS	324				hypothetical protein
+HLFEOLAN_00606	gene	675	queC			
+HLFEOLAN_00606	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+HLFEOLAN_00607	gene	927	thrB_3			
+HLFEOLAN_00607	CDS	927	thrB_3	2.7.1.39	COG0083	Homoserine kinase
+HLFEOLAN_00608	gene	759				
+HLFEOLAN_00608	CDS	759				hypothetical protein
+HLFEOLAN_00609	gene	1017				
+HLFEOLAN_00609	CDS	1017				hypothetical protein
+HLFEOLAN_00610	gene	801	hcaB			
+HLFEOLAN_00610	CDS	801	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+HLFEOLAN_00611	gene	396				
+HLFEOLAN_00611	CDS	396				hypothetical protein
+HLFEOLAN_00612	gene	309				
+HLFEOLAN_00612	CDS	309				hypothetical protein
+HLFEOLAN_00613	gene	1236				
+HLFEOLAN_00613	CDS	1236				hypothetical protein
+HLFEOLAN_00614	gene	1134	thiI_2			
+HLFEOLAN_00614	CDS	1134	thiI_2	2.8.1.4		tRNA sulfurtransferase
+HLFEOLAN_00615	gene	1158	sat			
+HLFEOLAN_00615	CDS	1158	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+HLFEOLAN_00616	gene	1185				
+HLFEOLAN_00616	CDS	1185				hypothetical protein
+HLFEOLAN_00617	gene	366	tcrA			
+HLFEOLAN_00617	CDS	366	tcrA		COG0745	Transcriptional regulatory protein TcrA
+HLFEOLAN_00618	gene	894	phoR			
+HLFEOLAN_00618	CDS	894	phoR	2.7.13.3		Phosphate regulon sensor protein PhoR
+HLFEOLAN_00619	gene	486				
+HLFEOLAN_00619	CDS	486				hypothetical protein
+HLFEOLAN_00620	gene	654	pdg			
+HLFEOLAN_00620	CDS	654	pdg			Ultraviolet N-glycosylase/AP lyase
+HLFEOLAN_00621	gene	669				
+HLFEOLAN_00621	CDS	669				hypothetical protein
+HLFEOLAN_00622	gene	2370				
+HLFEOLAN_00622	CDS	2370				hypothetical protein
+HLFEOLAN_00623	gene	864				
+HLFEOLAN_00623	CDS	864				hypothetical protein
+HLFEOLAN_00624	gene	183				
+HLFEOLAN_00624	CDS	183				hypothetical protein
+HLFEOLAN_00625	gene	135				
+HLFEOLAN_00625	CDS	135				hypothetical protein
+HLFEOLAN_00626	gene	918	ilvE_1			
+HLFEOLAN_00626	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HLFEOLAN_00627	gene	936	iolG_1			
+HLFEOLAN_00627	CDS	936	iolG_1	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+HLFEOLAN_00628	gene	378				
+HLFEOLAN_00628	CDS	378				hypothetical protein
+HLFEOLAN_00629	gene	129				
+HLFEOLAN_00629	CDS	129				hypothetical protein
+HLFEOLAN_00630	gene	117				
+HLFEOLAN_00630	CDS	117				hypothetical protein
+HLFEOLAN_00631	gene	1413				
+HLFEOLAN_00631	CDS	1413				hypothetical protein
+HLFEOLAN_00632	gene	1050				
+HLFEOLAN_00632	CDS	1050				hypothetical protein
+HLFEOLAN_00633	gene	408				
+HLFEOLAN_00633	CDS	408				hypothetical protein
+HLFEOLAN_00634	gene	531				
+HLFEOLAN_00634	CDS	531				hypothetical protein
+HLFEOLAN_00635	gene	315				
+HLFEOLAN_00635	CDS	315				hypothetical protein
+HLFEOLAN_00636	gene	207				
+HLFEOLAN_00636	CDS	207				hypothetical protein
+HLFEOLAN_00637	gene	117				
+HLFEOLAN_00637	CDS	117				hypothetical protein
+HLFEOLAN_00638	gene	264				
+HLFEOLAN_00638	CDS	264				hypothetical protein
+HLFEOLAN_00639	gene	600				
+HLFEOLAN_00639	CDS	600				hypothetical protein
+HLFEOLAN_00640	gene	240				
+HLFEOLAN_00640	CDS	240				hypothetical protein
+HLFEOLAN_00641	gene	1011				
+HLFEOLAN_00641	CDS	1011				hypothetical protein
+HLFEOLAN_00642	gene	102				
+HLFEOLAN_00642	CDS	102				hypothetical protein
+HLFEOLAN_00643	gene	300				
+HLFEOLAN_00643	CDS	300				hypothetical protein
+HLFEOLAN_00644	gene	228				
+HLFEOLAN_00644	CDS	228				hypothetical protein
+HLFEOLAN_00645	gene	402				
+HLFEOLAN_00645	CDS	402				hypothetical protein
+HLFEOLAN_00646	gene	561				
+HLFEOLAN_00646	CDS	561				hypothetical protein
+HLFEOLAN_00647	gene	1467	argH			
+HLFEOLAN_00647	CDS	1467	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+HLFEOLAN_00648	gene	327				
+HLFEOLAN_00648	CDS	327				hypothetical protein
+HLFEOLAN_00649	gene	231	frdB			
+HLFEOLAN_00649	CDS	231	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+HLFEOLAN_00650	gene	972				
+HLFEOLAN_00650	CDS	972				hypothetical protein
+HLFEOLAN_00651	gene	3834				
+HLFEOLAN_00651	CDS	3834				hypothetical protein
+HLFEOLAN_00652	gene	606	petC			
+HLFEOLAN_00652	CDS	606	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+HLFEOLAN_00653	gene	1578	petB			
+HLFEOLAN_00653	CDS	1578	petB			Cytochrome b6
+HLFEOLAN_00654	gene	468				
+HLFEOLAN_00654	CDS	468				hypothetical protein
+HLFEOLAN_00655	gene	336				
+HLFEOLAN_00655	CDS	336				hypothetical protein
+HLFEOLAN_00656	gene	753				
+HLFEOLAN_00656	CDS	753				hypothetical protein
+HLFEOLAN_00657	gene	399	ureA_1			
+HLFEOLAN_00657	CDS	399	ureA_1	3.5.1.5		Urease subunit gamma
+HLFEOLAN_00658	gene	1119	gbuA			
+HLFEOLAN_00658	CDS	1119	gbuA	3.5.3.7	COG0010	Guanidinobutyrase
+HLFEOLAN_00659	gene	1236	lapB_2			
+HLFEOLAN_00659	CDS	1236	lapB_2			Lipopolysaccharide assembly protein B
+HLFEOLAN_00660	gene	1590	sglT			
+HLFEOLAN_00660	CDS	1590	sglT			Sodium/glucose cotransporter
+HLFEOLAN_00661	gene	168				
+HLFEOLAN_00661	CDS	168				hypothetical protein
+HLFEOLAN_00662	gene	522				
+HLFEOLAN_00662	CDS	522				hypothetical protein
+HLFEOLAN_00663	gene	252				
+HLFEOLAN_00663	CDS	252				hypothetical protein
+HLFEOLAN_00664	gene	1713	ureC			
+HLFEOLAN_00664	CDS	1713	ureC	3.5.1.5		Urease subunit alpha
+HLFEOLAN_00665	gene	288				
+HLFEOLAN_00665	misc_RNA	288				5_ureB_sRNA
+HLFEOLAN_00666	gene	363	ureB			
+HLFEOLAN_00666	CDS	363	ureB	3.5.1.5		Urease subunit beta
+HLFEOLAN_00667	gene	306	ureA_2			
+HLFEOLAN_00667	CDS	306	ureA_2	3.5.1.5		Urease subunit gamma
+HLFEOLAN_00668	gene	519	ureE			
+HLFEOLAN_00668	CDS	519	ureE			Urease accessory protein UreE
+HLFEOLAN_00669	gene	702	ureF			
+HLFEOLAN_00669	CDS	702	ureF		COG0830	Urease accessory protein UreF
+HLFEOLAN_00670	gene	1710				
+HLFEOLAN_00670	CDS	1710				hypothetical protein
+HLFEOLAN_00671	gene	777				
+HLFEOLAN_00671	CDS	777				hypothetical protein
+HLFEOLAN_00672	gene	660				
+HLFEOLAN_00672	CDS	660				hypothetical protein
+HLFEOLAN_00673	gene	1077				
+HLFEOLAN_00673	CDS	1077				hypothetical protein
+HLFEOLAN_00674	gene	1158	sasA_1			
+HLFEOLAN_00674	CDS	1158	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+HLFEOLAN_00675	gene	1203				
+HLFEOLAN_00675	CDS	1203				hypothetical protein
+HLFEOLAN_00676	gene	141				
+HLFEOLAN_00676	CDS	141				hypothetical protein
+HLFEOLAN_00677	gene	147				
+HLFEOLAN_00677	CDS	147				hypothetical protein
+HLFEOLAN_00678	gene	267				
+HLFEOLAN_00678	CDS	267				hypothetical protein
+HLFEOLAN_00679	gene	240				
+HLFEOLAN_00679	CDS	240				hypothetical protein
+HLFEOLAN_00680	gene	225				
+HLFEOLAN_00680	CDS	225				hypothetical protein
+HLFEOLAN_00681	gene	576				
+HLFEOLAN_00681	CDS	576				hypothetical protein
+HLFEOLAN_00682	gene	378				
+HLFEOLAN_00682	CDS	378				hypothetical protein
+HLFEOLAN_00683	gene	339				
+HLFEOLAN_00683	CDS	339				hypothetical protein
+HLFEOLAN_00684	gene	261				
+HLFEOLAN_00684	CDS	261				hypothetical protein
+HLFEOLAN_00685	gene	285				
+HLFEOLAN_00685	CDS	285				hypothetical protein
+HLFEOLAN_00686	gene	447	IMPDH_1			
+HLFEOLAN_00686	CDS	447	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HLFEOLAN_00687	gene	501				
+HLFEOLAN_00687	CDS	501				hypothetical protein
+HLFEOLAN_00688	gene	165				
+HLFEOLAN_00688	CDS	165				hypothetical protein
+HLFEOLAN_00689	gene	588				
+HLFEOLAN_00689	CDS	588				hypothetical protein
+HLFEOLAN_00690	gene	666				
+HLFEOLAN_00690	CDS	666				hypothetical protein
+HLFEOLAN_00691	gene	858	IMPDH_2			
+HLFEOLAN_00691	CDS	858	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HLFEOLAN_00692	gene	417				
+HLFEOLAN_00692	CDS	417				hypothetical protein
+HLFEOLAN_00693	gene	219				
+HLFEOLAN_00693	CDS	219				hypothetical protein
+HLFEOLAN_00694	gene	465	IMPDH_3			
+HLFEOLAN_00694	CDS	465	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HLFEOLAN_00695	gene	912	ldh			
+HLFEOLAN_00695	CDS	912	ldh	1.1.1.27	COG0039	L-lactate dehydrogenase
+HLFEOLAN_00696	gene	873				
+HLFEOLAN_00696	CDS	873				hypothetical protein
+HLFEOLAN_00697	gene	237				
+HLFEOLAN_00697	CDS	237				hypothetical protein
+HLFEOLAN_00698	gene	1644	groL_2			
+HLFEOLAN_00698	CDS	1644	groL_2			60 kDa chaperonin
+HLFEOLAN_00699	gene	444				
+HLFEOLAN_00699	CDS	444				Putative universal stress protein
+HLFEOLAN_00700	gene	435	teaD_1			
+HLFEOLAN_00700	CDS	435	teaD_1		COG0589	TRAP-T-associated universal stress protein TeaD
+HLFEOLAN_00701	gene	336	glnB			
+HLFEOLAN_00701	CDS	336	glnB		COG0347	Nitrogen regulatory protein P-II
+HLFEOLAN_00702	gene	1239	gerN_2			
+HLFEOLAN_00702	CDS	1239	gerN_2		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+HLFEOLAN_00703	gene	429				
+HLFEOLAN_00703	CDS	429				Putative universal stress protein
+HLFEOLAN_00704	gene	495				
+HLFEOLAN_00704	CDS	495				hypothetical protein
+HLFEOLAN_00705	gene	288				
+HLFEOLAN_00705	CDS	288				hypothetical protein
+HLFEOLAN_00706	gene	162				
+HLFEOLAN_00706	CDS	162				hypothetical protein
+HLFEOLAN_00707	gene	348				
+HLFEOLAN_00707	CDS	348				hypothetical protein
+HLFEOLAN_00708	gene	129				
+HLFEOLAN_00708	CDS	129				hypothetical protein
+HLFEOLAN_00709	gene	183				
+HLFEOLAN_00709	CDS	183				hypothetical protein
+HLFEOLAN_00710	gene	378				
+HLFEOLAN_00710	CDS	378				hypothetical protein
+HLFEOLAN_00711	gene	1221				
+HLFEOLAN_00711	CDS	1221				hypothetical protein
+HLFEOLAN_00712	gene	516	msrA			
+HLFEOLAN_00712	CDS	516	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+HLFEOLAN_00713	gene	783				
+HLFEOLAN_00713	CDS	783			COG0596	putative protein
+HLFEOLAN_00714	gene	423				
+HLFEOLAN_00714	CDS	423				hypothetical protein
+HLFEOLAN_00715	gene	432				
+HLFEOLAN_00715	CDS	432				hypothetical protein
+HLFEOLAN_00716	gene	825	phaC			
+HLFEOLAN_00716	CDS	825	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+HLFEOLAN_00717	gene	1863	polB			
+HLFEOLAN_00717	CDS	1863	polB	2.7.7.7	COG0417	DNA polymerase II
+HLFEOLAN_00718	gene	279				
+HLFEOLAN_00718	CDS	279				hypothetical protein
+HLFEOLAN_00719	gene	672	tpiA			
+HLFEOLAN_00719	CDS	672	tpiA			Triosephosphate isomerase
+HLFEOLAN_00720	gene	2697	ppdK			
+HLFEOLAN_00720	CDS	2697	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HLFEOLAN_00721	gene	558				
+HLFEOLAN_00721	CDS	558				hypothetical protein
+HLFEOLAN_00722	gene	396	epi			
+HLFEOLAN_00722	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+HLFEOLAN_00723	gene	1593	bhbA			
+HLFEOLAN_00723	CDS	1593	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+HLFEOLAN_00724	gene	918	argK			
+HLFEOLAN_00724	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+HLFEOLAN_00725	gene	408				
+HLFEOLAN_00725	CDS	408				hypothetical protein
+HLFEOLAN_00726	gene	2526	pepN			
+HLFEOLAN_00726	CDS	2526	pepN	3.4.11.2	COG0308	Aminopeptidase N
+HLFEOLAN_00727	gene	423	mcm			
+HLFEOLAN_00727	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+HLFEOLAN_00728	gene	999	ilvC			
+HLFEOLAN_00728	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+HLFEOLAN_00729	gene	519				
+HLFEOLAN_00729	CDS	519		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+HLFEOLAN_00730	gene	747				
+HLFEOLAN_00730	CDS	747				hypothetical protein
+HLFEOLAN_00731	gene	1656	metG_2			
+HLFEOLAN_00731	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+HLFEOLAN_00732	gene	1242	ahcY			
+HLFEOLAN_00732	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+HLFEOLAN_00733	gene	684				
+HLFEOLAN_00733	CDS	684				hypothetical protein
+HLFEOLAN_00734	gene	312	todB			
+HLFEOLAN_00734	CDS	312	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+HLFEOLAN_00735	gene	789	nadE			
+HLFEOLAN_00735	CDS	789	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+HLFEOLAN_00736	gene	1389	cysS			
+HLFEOLAN_00736	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+HLFEOLAN_00737	gene	1212	ychF_1			
+HLFEOLAN_00737	CDS	1212	ychF_1		COG0012	Ribosome-binding ATPase YchF
+HLFEOLAN_00738	gene	357				
+HLFEOLAN_00738	CDS	357				hypothetical protein
+HLFEOLAN_00739	gene	411	yccU_1			
+HLFEOLAN_00739	CDS	411	yccU_1		COG1832	putative protein YccU
+HLFEOLAN_00740	gene	300				
+HLFEOLAN_00740	CDS	300				hypothetical protein
+HLFEOLAN_00741	gene	576	ndhJ			
+HLFEOLAN_00741	CDS	576	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+HLFEOLAN_00742	gene	246	nqo6			
+HLFEOLAN_00742	CDS	246	nqo6	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit 6
+HLFEOLAN_00743	gene	87				
+HLFEOLAN_00743	tRNA	87				tRNA-Leu(gag)
+HLFEOLAN_00744	gene	237				
+HLFEOLAN_00744	CDS	237				hypothetical protein
+HLFEOLAN_00745	gene	1239	eno			
+HLFEOLAN_00745	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+HLFEOLAN_00746	gene	624				
+HLFEOLAN_00746	CDS	624				hypothetical protein
+HLFEOLAN_00747	gene	837				
+HLFEOLAN_00747	CDS	837				hypothetical protein
+HLFEOLAN_00748	gene	948	galK			
+HLFEOLAN_00748	CDS	948	galK	2.7.1.6		Galactokinase
+HLFEOLAN_00749	gene	741	argB			
+HLFEOLAN_00749	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+HLFEOLAN_00750	gene	642	idi			
+HLFEOLAN_00750	CDS	642	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+HLFEOLAN_00751	gene	996				
+HLFEOLAN_00751	CDS	996		2.5.1.10		Farnesyl diphosphate synthase
+HLFEOLAN_00752	gene	1713	glnS			
+HLFEOLAN_00752	CDS	1713	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+HLFEOLAN_00753	gene	867	yisK			
+HLFEOLAN_00753	CDS	867	yisK		COG0179	putative protein YisK
+HLFEOLAN_00754	gene	813				
+HLFEOLAN_00754	CDS	813				hypothetical protein
+HLFEOLAN_00755	gene	309	bnzC			
+HLFEOLAN_00755	CDS	309	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+HLFEOLAN_00756	gene	270				
+HLFEOLAN_00756	CDS	270				hypothetical protein
+HLFEOLAN_00757	gene	771				
+HLFEOLAN_00757	CDS	771				hypothetical protein
+HLFEOLAN_00758	gene	348				
+HLFEOLAN_00758	CDS	348				hypothetical protein
+HLFEOLAN_00759	gene	741	pleC			
+HLFEOLAN_00759	CDS	741	pleC	2.7.13.3		Non-motile and phage-resistance protein
+HLFEOLAN_00760	gene	1623				
+HLFEOLAN_00760	CDS	1623				hypothetical protein
+HLFEOLAN_00761	gene	72				
+HLFEOLAN_00761	tRNA	72				tRNA-His(gtg)
+HLFEOLAN_00762	gene	1020	corA			
+HLFEOLAN_00762	CDS	1020	corA		COG0598	Cobalt/magnesium transport protein CorA
+HLFEOLAN_00763	gene	570	chrR			
+HLFEOLAN_00763	CDS	570	chrR	1.6.5.2	COG0431	Quinone reductase
+HLFEOLAN_00764	gene	1026				
+HLFEOLAN_00764	CDS	1026				hypothetical protein
+HLFEOLAN_00765	gene	588				
+HLFEOLAN_00765	CDS	588		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+HLFEOLAN_00766	gene	621				
+HLFEOLAN_00766	CDS	621				hypothetical protein
+HLFEOLAN_00767	gene	357				
+HLFEOLAN_00767	CDS	357				hypothetical protein
+HLFEOLAN_00768	gene	465	nusA			
+HLFEOLAN_00768	CDS	465	nusA			Transcription termination/antitermination protein NusA
+HLFEOLAN_00769	gene	312				
+HLFEOLAN_00769	CDS	312				hypothetical protein
+HLFEOLAN_00770	gene	1197				
+HLFEOLAN_00770	CDS	1197				hypothetical protein
+HLFEOLAN_00771	gene	3672	rpoC			
+HLFEOLAN_00771	CDS	3672	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+HLFEOLAN_00772	gene	405	msrB			
+HLFEOLAN_00772	CDS	405	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+HLFEOLAN_00773	gene	1617	thyX			
+HLFEOLAN_00773	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+HLFEOLAN_00774	gene	282				
+HLFEOLAN_00774	CDS	282				hypothetical protein
+HLFEOLAN_00775	gene	435				
+HLFEOLAN_00775	CDS	435				hypothetical protein
+HLFEOLAN_00776	gene	1581				
+HLFEOLAN_00776	CDS	1581		2.3.1.-		tRNA uridine(34) acetyltransferase
+HLFEOLAN_00777	gene	423	ctaB_2			
+HLFEOLAN_00777	CDS	423	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HLFEOLAN_00778	gene	300				
+HLFEOLAN_00778	CDS	300				hypothetical protein
+HLFEOLAN_00779	gene	2142	ftsH_1			
+HLFEOLAN_00779	CDS	2142	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HLFEOLAN_00780	gene	591				
+HLFEOLAN_00780	CDS	591				hypothetical protein
+HLFEOLAN_00781	gene	819	carA			
+HLFEOLAN_00781	CDS	819	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+HLFEOLAN_00782	gene	3048	carB			
+HLFEOLAN_00782	CDS	3048	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HLFEOLAN_00783	gene	750				
+HLFEOLAN_00783	CDS	750				hypothetical protein
+HLFEOLAN_00784	gene	303				
+HLFEOLAN_00784	CDS	303				hypothetical protein
+HLFEOLAN_00785	gene	378				
+HLFEOLAN_00785	CDS	378				hypothetical protein
+HLFEOLAN_00786	gene	297				
+HLFEOLAN_00786	CDS	297				hypothetical protein
+HLFEOLAN_00787	gene	1029	gutB			
+HLFEOLAN_00787	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+HLFEOLAN_00788	gene	870	lsrF			
+HLFEOLAN_00788	CDS	870	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+HLFEOLAN_00789	gene	402				
+HLFEOLAN_00789	CDS	402				hypothetical protein
+HLFEOLAN_00790	gene	576				
+HLFEOLAN_00790	CDS	576				hypothetical protein
+HLFEOLAN_00791	gene	390				
+HLFEOLAN_00791	CDS	390				hypothetical protein
+HLFEOLAN_00792	gene	558				
+HLFEOLAN_00792	CDS	558				hypothetical protein
+HLFEOLAN_00793	gene	912				
+HLFEOLAN_00793	CDS	912				hypothetical protein
+HLFEOLAN_00794	gene	585				
+HLFEOLAN_00794	CDS	585				hypothetical protein
+HLFEOLAN_00795	gene	1422				
+HLFEOLAN_00795	CDS	1422				hypothetical protein
+HLFEOLAN_00796	gene	345				
+HLFEOLAN_00796	CDS	345				hypothetical protein
+HLFEOLAN_00797	gene	1005	birA			
+HLFEOLAN_00797	CDS	1005	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+HLFEOLAN_00798	gene	300				
+HLFEOLAN_00798	CDS	300				hypothetical protein
+HLFEOLAN_00799	gene	411	yccU_2			
+HLFEOLAN_00799	CDS	411	yccU_2		COG1832	putative protein YccU
+HLFEOLAN_00800	gene	390				
+HLFEOLAN_00800	CDS	390				hypothetical protein
+HLFEOLAN_00801	gene	1212	ychF_2			
+HLFEOLAN_00801	CDS	1212	ychF_2		COG0012	Ribosome-binding ATPase YchF
+HLFEOLAN_00802	gene	183				
+HLFEOLAN_00802	CDS	183				hypothetical protein
+HLFEOLAN_00803	gene	2316	dbpA			
+HLFEOLAN_00803	CDS	2316	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+HLFEOLAN_00804	gene	438	hom			
+HLFEOLAN_00804	CDS	438	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+HLFEOLAN_00805	gene	477				
+HLFEOLAN_00805	CDS	477				hypothetical protein
+HLFEOLAN_00806	gene	600	prcB_2			
+HLFEOLAN_00806	CDS	600	prcB_2			Proteasome subunit beta
+HLFEOLAN_00807	gene	1356	dapE			
+HLFEOLAN_00807	CDS	1356	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+HLFEOLAN_00808	gene	864	nnr_2			
+HLFEOLAN_00808	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HLFEOLAN_00809	gene	813	trmI			
+HLFEOLAN_00809	CDS	813	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+HLFEOLAN_00810	gene	1884	argS			
+HLFEOLAN_00810	CDS	1884	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+HLFEOLAN_00811	gene	696				
+HLFEOLAN_00811	CDS	696				hypothetical protein
+HLFEOLAN_00812	gene	219				
+HLFEOLAN_00812	CDS	219				hypothetical protein
+HLFEOLAN_00813	gene	1110	obg			
+HLFEOLAN_00813	CDS	1110	obg	3.6.5.-		GTPase Obg
+HLFEOLAN_00814	gene	285				
+HLFEOLAN_00814	CDS	285				hypothetical protein
+HLFEOLAN_00815	gene	1314				
+HLFEOLAN_00815	CDS	1314				hypothetical protein
+HLFEOLAN_00816	gene	1122				
+HLFEOLAN_00816	CDS	1122				hypothetical protein
+HLFEOLAN_00817	gene	804	ttuD_1			
+HLFEOLAN_00817	CDS	804	ttuD_1		COG2897	Sulfur carrier protein TtuD
+HLFEOLAN_00818	gene	1458	sir			
+HLFEOLAN_00818	CDS	1458	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+HLFEOLAN_00819	gene	405				
+HLFEOLAN_00819	CDS	405				hypothetical protein
+HLFEOLAN_00820	gene	687				
+HLFEOLAN_00820	CDS	687				hypothetical protein
+HLFEOLAN_00821	gene	489				
+HLFEOLAN_00821	CDS	489				hypothetical protein
+HLFEOLAN_00822	gene	816	nadK_1			
+HLFEOLAN_00822	CDS	816	nadK_1	2.7.1.23		NAD kinase
+HLFEOLAN_00823	gene	846	ttuD_2			
+HLFEOLAN_00823	CDS	846	ttuD_2		COG2897	Sulfur carrier protein TtuD
+HLFEOLAN_00824	gene	312				
+HLFEOLAN_00824	CDS	312				hypothetical protein
+HLFEOLAN_00825	gene	954				
+HLFEOLAN_00825	CDS	954				hypothetical protein
+HLFEOLAN_00826	gene	390				
+HLFEOLAN_00826	CDS	390				hypothetical protein
+HLFEOLAN_00827	gene	648	fabG			
+HLFEOLAN_00827	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HLFEOLAN_00828	gene	240				
+HLFEOLAN_00828	CDS	240				hypothetical protein
+HLFEOLAN_00829	gene	75				
+HLFEOLAN_00829	tRNA	75				tRNA-Arg(tcg)
+HLFEOLAN_00830	gene	555				
+HLFEOLAN_00830	CDS	555				hypothetical protein
+HLFEOLAN_00831	gene	435	rplN			
+HLFEOLAN_00831	CDS	435	rplN			50S ribosomal protein L14
+HLFEOLAN_00832	gene	324				
+HLFEOLAN_00832	CDS	324				hypothetical protein
+HLFEOLAN_00833	gene	267				
+HLFEOLAN_00833	CDS	267				hypothetical protein
+HLFEOLAN_00834	gene	204				
+HLFEOLAN_00834	CDS	204				hypothetical protein
+HLFEOLAN_00835	gene	915	ilvE_2			
+HLFEOLAN_00835	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HLFEOLAN_00836	gene	213				
+HLFEOLAN_00836	CDS	213				hypothetical protein
+HLFEOLAN_00837	gene	1416	thrA_1			
+HLFEOLAN_00837	CDS	1416	thrA_1		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HLFEOLAN_00838	gene	77				
+HLFEOLAN_00838	tRNA	77				tRNA-Val(tac)
+HLFEOLAN_00839	gene	993				
+HLFEOLAN_00839	CDS	993				hypothetical protein
+HLFEOLAN_00840	gene	192				
+HLFEOLAN_00840	CDS	192				hypothetical protein
+HLFEOLAN_00841	gene	1143				
+HLFEOLAN_00841	CDS	1143				hypothetical protein
+HLFEOLAN_00842	gene	1527				
+HLFEOLAN_00842	CDS	1527				hypothetical protein
+HLFEOLAN_00843	gene	840				
+HLFEOLAN_00843	CDS	840				hypothetical protein
+HLFEOLAN_00844	gene	819	nadX			
+HLFEOLAN_00844	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+HLFEOLAN_00845	gene	912	nadA			
+HLFEOLAN_00845	CDS	912	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+HLFEOLAN_00846	gene	819	nadC			
+HLFEOLAN_00846	CDS	819	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+HLFEOLAN_00847	gene	189				
+HLFEOLAN_00847	CDS	189				hypothetical protein
+HLFEOLAN_00848	gene	624	rnr			
+HLFEOLAN_00848	CDS	624	rnr	3.1.13.1		Ribonuclease R
+HLFEOLAN_00849	gene	1101	apbC			
+HLFEOLAN_00849	CDS	1101	apbC		COG0489	Iron-sulfur cluster carrier protein
+HLFEOLAN_00850	gene	498				
+HLFEOLAN_00850	CDS	498				hypothetical protein
+HLFEOLAN_00851	gene	363				
+HLFEOLAN_00851	CDS	363				hypothetical protein
+HLFEOLAN_00852	gene	2034	hppA			
+HLFEOLAN_00852	CDS	2034	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+HLFEOLAN_00853	gene	183				
+HLFEOLAN_00853	CDS	183				hypothetical protein
+HLFEOLAN_00854	gene	258				
+HLFEOLAN_00854	CDS	258				hypothetical protein
+HLFEOLAN_00855	gene	435				
+HLFEOLAN_00855	CDS	435				hypothetical protein
+HLFEOLAN_00856	gene	444	mec			
+HLFEOLAN_00856	CDS	444	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+HLFEOLAN_00857	gene	801				
+HLFEOLAN_00857	CDS	801				hypothetical protein
+HLFEOLAN_00858	gene	279				
+HLFEOLAN_00858	CDS	279				hypothetical protein
+HLFEOLAN_00859	gene	76				
+HLFEOLAN_00859	tRNA	76				tRNA-Asp(gtc)
+HLFEOLAN_00860	gene	75				
+HLFEOLAN_00860	tRNA	75				tRNA-Lys(ttt)
+HLFEOLAN_00861	gene	1215				
+HLFEOLAN_00861	CDS	1215				hypothetical protein
+HLFEOLAN_00862	gene	681				
+HLFEOLAN_00862	CDS	681				hypothetical protein
+HLFEOLAN_00863	gene	135				
+HLFEOLAN_00863	CDS	135				hypothetical protein
+HLFEOLAN_00864	gene	147				
+HLFEOLAN_00864	CDS	147				hypothetical protein
+HLFEOLAN_00865	gene	393				
+HLFEOLAN_00865	CDS	393				hypothetical protein
+HLFEOLAN_00866	gene	462				
+HLFEOLAN_00866	CDS	462				hypothetical protein
+HLFEOLAN_00867	gene	1602				
+HLFEOLAN_00867	CDS	1602				hypothetical protein
+HLFEOLAN_00868	gene	285				
+HLFEOLAN_00868	CDS	285				hypothetical protein
+HLFEOLAN_00869	gene	567				
+HLFEOLAN_00869	CDS	567				hypothetical protein
+HLFEOLAN_00870	gene	1425				
+HLFEOLAN_00870	CDS	1425				hypothetical protein
+HLFEOLAN_00871	gene	207				
+HLFEOLAN_00871	CDS	207				hypothetical protein
+HLFEOLAN_00872	gene	573				
+HLFEOLAN_00872	CDS	573				hypothetical protein
+HLFEOLAN_00873	gene	1476				
+HLFEOLAN_00873	CDS	1476				hypothetical protein
+HLFEOLAN_00874	gene	663				
+HLFEOLAN_00874	CDS	663				hypothetical protein
+HLFEOLAN_00875	gene	252				
+HLFEOLAN_00875	CDS	252				hypothetical protein
+HLFEOLAN_00876	gene	378				
+HLFEOLAN_00876	CDS	378				hypothetical protein
+HLFEOLAN_00877	gene	1362				
+HLFEOLAN_00877	CDS	1362				hypothetical protein
+HLFEOLAN_00878	gene	807				
+HLFEOLAN_00878	CDS	807				hypothetical protein
+HLFEOLAN_00879	gene	1407	yfeW			
+HLFEOLAN_00879	CDS	1407	yfeW	3.4.16.4		Putative D-alanyl-D-alanine carboxypeptidase
+HLFEOLAN_00880	gene	231				
+HLFEOLAN_00880	CDS	231				hypothetical protein
+HLFEOLAN_00881	gene	120				
+HLFEOLAN_00881	CDS	120				hypothetical protein
+HLFEOLAN_00882	gene	1332				
+HLFEOLAN_00882	CDS	1332				hypothetical protein
+HLFEOLAN_00883	gene	936				
+HLFEOLAN_00883	CDS	936				hypothetical protein
+HLFEOLAN_00884	gene	909				
+HLFEOLAN_00884	CDS	909				hypothetical protein
+HLFEOLAN_00885	gene	507				
+HLFEOLAN_00885	CDS	507				hypothetical protein
+HLFEOLAN_00886	gene	828				
+HLFEOLAN_00886	CDS	828				hypothetical protein
+HLFEOLAN_00887	gene	240				
+HLFEOLAN_00887	CDS	240				hypothetical protein
+HLFEOLAN_00888	gene	543				
+HLFEOLAN_00888	CDS	543				hypothetical protein
+HLFEOLAN_00889	gene	243				
+HLFEOLAN_00889	CDS	243				hypothetical protein
+HLFEOLAN_00890	gene	1419				
+HLFEOLAN_00890	CDS	1419				hypothetical protein
+HLFEOLAN_00891	gene	447				
+HLFEOLAN_00891	CDS	447				hypothetical protein
+HLFEOLAN_00892	gene	327				
+HLFEOLAN_00892	CDS	327				hypothetical protein
+HLFEOLAN_00893	gene	270				
+HLFEOLAN_00893	CDS	270				hypothetical protein
+HLFEOLAN_00894	gene	540				
+HLFEOLAN_00894	CDS	540				hypothetical protein
+HLFEOLAN_00895	gene	318				
+HLFEOLAN_00895	CDS	318				hypothetical protein
+HLFEOLAN_00896	gene	603				
+HLFEOLAN_00896	CDS	603				hypothetical protein
+HLFEOLAN_00897	gene	486				
+HLFEOLAN_00897	CDS	486				hypothetical protein
+HLFEOLAN_00898	gene	657				
+HLFEOLAN_00898	CDS	657				hypothetical protein
+HLFEOLAN_00899	gene	369				
+HLFEOLAN_00899	CDS	369				hypothetical protein
+HLFEOLAN_00900	gene	189				
+HLFEOLAN_00900	CDS	189				hypothetical protein
+HLFEOLAN_00901	gene	165				
+HLFEOLAN_00901	CDS	165				hypothetical protein
+HLFEOLAN_00902	gene	1365				
+HLFEOLAN_00902	CDS	1365				hypothetical protein
+HLFEOLAN_00903	gene	267				
+HLFEOLAN_00903	CDS	267				hypothetical protein
+HLFEOLAN_00904	gene	567				
+HLFEOLAN_00904	CDS	567				hypothetical protein
+HLFEOLAN_00905	gene	102				
+HLFEOLAN_00905	CDS	102				hypothetical protein
+HLFEOLAN_00906	gene	252				
+HLFEOLAN_00906	CDS	252				hypothetical protein
+HLFEOLAN_00907	gene	366				
+HLFEOLAN_00907	CDS	366				hypothetical protein
+HLFEOLAN_00908	gene	228				
+HLFEOLAN_00908	CDS	228				hypothetical protein
+HLFEOLAN_00909	gene	213				
+HLFEOLAN_00909	CDS	213				hypothetical protein
+HLFEOLAN_00910	gene	216				
+HLFEOLAN_00910	CDS	216				hypothetical protein
+HLFEOLAN_00911	gene	174				
+HLFEOLAN_00911	CDS	174				hypothetical protein
+HLFEOLAN_00912	gene	1338				
+HLFEOLAN_00912	CDS	1338		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+HLFEOLAN_00913	gene	195				
+HLFEOLAN_00913	CDS	195				hypothetical protein
+HLFEOLAN_00914	gene	207				
+HLFEOLAN_00914	CDS	207				hypothetical protein
+HLFEOLAN_00915	gene	153				
+HLFEOLAN_00915	CDS	153				hypothetical protein
+HLFEOLAN_00916	gene	270				
+HLFEOLAN_00916	CDS	270				hypothetical protein
+HLFEOLAN_00917	gene	1008				
+HLFEOLAN_00917	CDS	1008				hypothetical protein
+HLFEOLAN_00918	gene	492				
+HLFEOLAN_00918	CDS	492				hypothetical protein
+HLFEOLAN_00919	gene	705				
+HLFEOLAN_00919	CDS	705				hypothetical protein
+HLFEOLAN_00920	gene	1026				
+HLFEOLAN_00920	CDS	1026				hypothetical protein
+HLFEOLAN_00921	gene	489				
+HLFEOLAN_00921	CDS	489				hypothetical protein
+HLFEOLAN_00922	gene	1422				
+HLFEOLAN_00922	CDS	1422				hypothetical protein
+HLFEOLAN_00923	gene	1215				
+HLFEOLAN_00923	CDS	1215				hypothetical protein
+HLFEOLAN_00924	gene	399				
+HLFEOLAN_00924	CDS	399				hypothetical protein
+HLFEOLAN_00925	gene	162				
+HLFEOLAN_00925	CDS	162				hypothetical protein
+HLFEOLAN_00926	gene	585				
+HLFEOLAN_00926	CDS	585				hypothetical protein
+HLFEOLAN_00927	gene	363				
+HLFEOLAN_00927	CDS	363				hypothetical protein
+HLFEOLAN_00928	gene	756				
+HLFEOLAN_00928	CDS	756		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+HLFEOLAN_00929	gene	3381				
+HLFEOLAN_00929	CDS	3381				hypothetical protein
+HLFEOLAN_00930	gene	1323	glyA			
+HLFEOLAN_00930	CDS	1323	glyA	2.1.2.1		Serine hydroxymethyltransferase
+HLFEOLAN_00931	gene	264				
+HLFEOLAN_00931	CDS	264				hypothetical protein
+HLFEOLAN_00932	gene	657	serS			
+HLFEOLAN_00932	CDS	657	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+HLFEOLAN_00933	gene	612				
+HLFEOLAN_00933	CDS	612				hypothetical protein
+HLFEOLAN_00934	gene	429				
+HLFEOLAN_00934	CDS	429				hypothetical protein
+HLFEOLAN_00935	gene	267				
+HLFEOLAN_00935	CDS	267				hypothetical protein
+HLFEOLAN_00936	gene	240				
+HLFEOLAN_00936	CDS	240				hypothetical protein
+HLFEOLAN_00937	gene	912				
+HLFEOLAN_00937	CDS	912				hypothetical protein
+HLFEOLAN_00938	gene	123				
+HLFEOLAN_00938	CDS	123				hypothetical protein
+HLFEOLAN_00939	gene	138				
+HLFEOLAN_00939	CDS	138				hypothetical protein
+HLFEOLAN_00940	gene	408				
+HLFEOLAN_00940	CDS	408				hypothetical protein
+HLFEOLAN_00941	gene	165				
+HLFEOLAN_00941	CDS	165				hypothetical protein
+HLFEOLAN_00942	gene	153				
+HLFEOLAN_00942	CDS	153				hypothetical protein
+HLFEOLAN_00943	gene	498				
+HLFEOLAN_00943	CDS	498				hypothetical protein
+HLFEOLAN_00944	gene	246				
+HLFEOLAN_00944	CDS	246				hypothetical protein
+HLFEOLAN_00945	gene	210				
+HLFEOLAN_00945	CDS	210				hypothetical protein
+HLFEOLAN_00946	gene	819	rph_1			
+HLFEOLAN_00946	CDS	819	rph_1	2.7.7.56		Ribonuclease PH
+HLFEOLAN_00947	gene	738	rph_2			
+HLFEOLAN_00947	CDS	738	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+HLFEOLAN_00948	gene	681	pnp			
+HLFEOLAN_00948	CDS	681	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+HLFEOLAN_00949	gene	687				
+HLFEOLAN_00949	CDS	687				hypothetical protein
+HLFEOLAN_00950	gene	642				
+HLFEOLAN_00950	CDS	642				hypothetical protein
+HLFEOLAN_00951	gene	348				
+HLFEOLAN_00951	CDS	348				hypothetical protein
+HLFEOLAN_00952	gene	462				
+HLFEOLAN_00952	CDS	462				hypothetical protein
+HLFEOLAN_00953	gene	447	rpsI			
+HLFEOLAN_00953	CDS	447	rpsI		COG0103	30S ribosomal protein S9
+HLFEOLAN_00954	gene	327	petE_1			
+HLFEOLAN_00954	CDS	327	petE_1			Plastocyanin
+HLFEOLAN_00955	gene	444	ctaA			
+HLFEOLAN_00955	CDS	444	ctaA	1.3.-.-		Heme A synthase
+HLFEOLAN_00956	gene	525				
+HLFEOLAN_00956	CDS	525				hypothetical protein
+HLFEOLAN_00957	gene	603				
+HLFEOLAN_00957	CDS	603				hypothetical protein
+HLFEOLAN_00958	gene	75				
+HLFEOLAN_00958	tRNA	75				tRNA-Lys(ctt)
+HLFEOLAN_00959	gene	1326				
+HLFEOLAN_00959	CDS	1326				hypothetical protein
+HLFEOLAN_00960	gene	621				
+HLFEOLAN_00960	CDS	621				hypothetical protein
+HLFEOLAN_00961	gene	219				
+HLFEOLAN_00961	CDS	219				hypothetical protein
+HLFEOLAN_00962	gene	591				
+HLFEOLAN_00962	CDS	591				hypothetical protein
+HLFEOLAN_00963	gene	255				
+HLFEOLAN_00963	CDS	255				hypothetical protein
+HLFEOLAN_00964	gene	96				
+HLFEOLAN_00964	CDS	96				hypothetical protein
+HLFEOLAN_00965	gene	495				
+HLFEOLAN_00965	CDS	495				hypothetical protein
+HLFEOLAN_00966	gene	915				
+HLFEOLAN_00966	CDS	915				hypothetical protein
+HLFEOLAN_00967	gene	480				
+HLFEOLAN_00967	CDS	480				hypothetical protein
+HLFEOLAN_00968	gene	444				
+HLFEOLAN_00968	CDS	444				hypothetical protein
+HLFEOLAN_00969	gene	1488				
+HLFEOLAN_00969	CDS	1488				hypothetical protein
+HLFEOLAN_00970	gene	402				
+HLFEOLAN_00970	CDS	402				hypothetical protein
+HLFEOLAN_00971	gene	654				
+HLFEOLAN_00971	CDS	654				hypothetical protein
+HLFEOLAN_00972	gene	423	vsr			
+HLFEOLAN_00972	CDS	423	vsr	3.1.-.-	COG3727	Very short patch repair protein
+HLFEOLAN_00973	gene	1176	haeIIIM			
+HLFEOLAN_00973	CDS	1176	haeIIIM	2.1.1.37		Modification methylase HaeIII
+HLFEOLAN_00974	gene	696				
+HLFEOLAN_00974	CDS	696				hypothetical protein
+HLFEOLAN_00975	gene	411				
+HLFEOLAN_00975	CDS	411				hypothetical protein
+HLFEOLAN_00976	gene	174				
+HLFEOLAN_00976	CDS	174				hypothetical protein
+HLFEOLAN_00977	gene	1191				
+HLFEOLAN_00977	CDS	1191				hypothetical protein
+HLFEOLAN_00978	gene	120				
+HLFEOLAN_00978	CDS	120				hypothetical protein
+HLFEOLAN_00979	gene	123				
+HLFEOLAN_00979	CDS	123				hypothetical protein
+HLFEOLAN_00980	gene	153				
+HLFEOLAN_00980	CDS	153				hypothetical protein
+HLFEOLAN_00981	gene	252				
+HLFEOLAN_00981	CDS	252				hypothetical protein
+HLFEOLAN_00982	gene	240				
+HLFEOLAN_00982	CDS	240				hypothetical protein
+HLFEOLAN_00983	gene	651				
+HLFEOLAN_00983	CDS	651				hypothetical protein
+HLFEOLAN_00984	gene	342				
+HLFEOLAN_00984	CDS	342				hypothetical protein
+HLFEOLAN_00985	gene	1566	rocA1_1			
+HLFEOLAN_00985	CDS	1566	rocA1_1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+HLFEOLAN_00986	gene	1209	lysJ_1			
+HLFEOLAN_00986	CDS	1209	lysJ_1	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+HLFEOLAN_00987	gene	441				
+HLFEOLAN_00987	CDS	441				hypothetical protein
+HLFEOLAN_00988	gene	1164	mmgC			
+HLFEOLAN_00988	CDS	1164	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+HLFEOLAN_00989	gene	243				
+HLFEOLAN_00989	CDS	243				hypothetical protein
+HLFEOLAN_00990	gene	216				
+HLFEOLAN_00990	CDS	216				hypothetical protein
+HLFEOLAN_00991	gene	318	trxA_1			
+HLFEOLAN_00991	CDS	318	trxA_1			Thioredoxin 1
+HLFEOLAN_00992	gene	231				
+HLFEOLAN_00992	CDS	231				hypothetical protein
+HLFEOLAN_00993	gene	513				
+HLFEOLAN_00993	CDS	513				hypothetical protein
+HLFEOLAN_00994	gene	411				
+HLFEOLAN_00994	CDS	411				hypothetical protein
+HLFEOLAN_00995	gene	213				
+HLFEOLAN_00995	CDS	213				hypothetical protein
+HLFEOLAN_00996	gene	474				
+HLFEOLAN_00996	CDS	474				hypothetical protein
+HLFEOLAN_00997	gene	201				
+HLFEOLAN_00997	CDS	201				hypothetical protein
+HLFEOLAN_00998	gene	468				
+HLFEOLAN_00998	CDS	468				hypothetical protein
+HLFEOLAN_00999	gene	558				
+HLFEOLAN_00999	CDS	558				hypothetical protein
+HLFEOLAN_01000	gene	810				
+HLFEOLAN_01000	CDS	810				hypothetical protein
+HLFEOLAN_01001	gene	162				
+HLFEOLAN_01001	CDS	162				hypothetical protein
+HLFEOLAN_01002	gene	348				
+HLFEOLAN_01002	CDS	348				hypothetical protein
+HLFEOLAN_01003	gene	513				
+HLFEOLAN_01003	CDS	513				hypothetical protein
+HLFEOLAN_01004	gene	207				
+HLFEOLAN_01004	CDS	207				hypothetical protein
+HLFEOLAN_01005	gene	1305	lhgD_1			
+HLFEOLAN_01005	CDS	1305	lhgD_1	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+HLFEOLAN_01006	gene	156				
+HLFEOLAN_01006	CDS	156				hypothetical protein
+HLFEOLAN_01007	gene	258				
+HLFEOLAN_01007	CDS	258				hypothetical protein
+HLFEOLAN_01008	gene	144				
+HLFEOLAN_01008	CDS	144				hypothetical protein
+HLFEOLAN_01009	gene	252				
+HLFEOLAN_01009	CDS	252				hypothetical protein
+HLFEOLAN_01010	gene	138				
+HLFEOLAN_01010	CDS	138				hypothetical protein
+HLFEOLAN_01011	gene	420				
+HLFEOLAN_01011	CDS	420				hypothetical protein
+HLFEOLAN_01012	gene	573				
+HLFEOLAN_01012	CDS	573				hypothetical protein
+HLFEOLAN_01013	gene	156				
+HLFEOLAN_01013	CDS	156				hypothetical protein
+HLFEOLAN_01014	gene	558	ecdB			
+HLFEOLAN_01014	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+HLFEOLAN_01015	gene	438				
+HLFEOLAN_01015	CDS	438				hypothetical protein
+HLFEOLAN_01016	gene	207				
+HLFEOLAN_01016	CDS	207				hypothetical protein
+HLFEOLAN_01017	gene	795	tatC			
+HLFEOLAN_01017	CDS	795	tatC		COG0805	Sec-independent protein translocase protein TatC
+HLFEOLAN_01018	gene	465				
+HLFEOLAN_01018	CDS	465				hypothetical protein
+HLFEOLAN_01019	gene	156				
+HLFEOLAN_01019	CDS	156				hypothetical protein
+HLFEOLAN_01020	gene	273	purS			
+HLFEOLAN_01020	CDS	273	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+HLFEOLAN_01021	gene	423	hrp1_1			
+HLFEOLAN_01021	CDS	423	hrp1_1		COG0517	Hypoxic response protein 1
+HLFEOLAN_01022	gene	693	purQ			
+HLFEOLAN_01022	CDS	693	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+HLFEOLAN_01023	gene	2166	purL			
+HLFEOLAN_01023	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+HLFEOLAN_01024	gene	1191				
+HLFEOLAN_01024	CDS	1191				hypothetical protein
+HLFEOLAN_01025	gene	633				
+HLFEOLAN_01025	CDS	633				hypothetical protein
+HLFEOLAN_01026	gene	987				
+HLFEOLAN_01026	CDS	987				hypothetical protein
+HLFEOLAN_01027	gene	687	aqpZ			
+HLFEOLAN_01027	CDS	687	aqpZ		COG0580	Aquaporin Z
+HLFEOLAN_01028	gene	1278	hemL_1			
+HLFEOLAN_01028	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HLFEOLAN_01029	gene	933	hemC			
+HLFEOLAN_01029	CDS	933	hemC	2.5.1.61		Porphobilinogen deaminase
+HLFEOLAN_01030	gene	744	sumT			
+HLFEOLAN_01030	CDS	744	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+HLFEOLAN_01031	gene	750				
+HLFEOLAN_01031	CDS	750				hypothetical protein
+HLFEOLAN_01032	gene	414	ribH			
+HLFEOLAN_01032	CDS	414	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+HLFEOLAN_01033	gene	675	ribBA			
+HLFEOLAN_01033	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+HLFEOLAN_01034	gene	585	ribE			
+HLFEOLAN_01034	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+HLFEOLAN_01035	gene	852	speB			
+HLFEOLAN_01035	CDS	852	speB	3.5.3.11	COG0010	Agmatinase
+HLFEOLAN_01036	gene	1572	rocA1_2			
+HLFEOLAN_01036	CDS	1572	rocA1_2	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+HLFEOLAN_01037	gene	873	fadM			
+HLFEOLAN_01037	CDS	873	fadM	1.5.5.2	COG0506	Proline dehydrogenase 1
+HLFEOLAN_01038	gene	651				
+HLFEOLAN_01038	CDS	651				hypothetical protein
+HLFEOLAN_01039	gene	405				
+HLFEOLAN_01039	CDS	405				hypothetical protein
+HLFEOLAN_01040	gene	252	mcl2			
+HLFEOLAN_01040	CDS	252	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+HLFEOLAN_01041	gene	153				
+HLFEOLAN_01041	CDS	153				hypothetical protein
+HLFEOLAN_01042	gene	363				
+HLFEOLAN_01042	CDS	363				hypothetical protein
+HLFEOLAN_01043	gene	144				
+HLFEOLAN_01043	CDS	144				hypothetical protein
+HLFEOLAN_01044	gene	1311	hemL_2			
+HLFEOLAN_01044	CDS	1311	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HLFEOLAN_01045	gene	234				
+HLFEOLAN_01045	CDS	234				hypothetical protein
+HLFEOLAN_01046	gene	240				
+HLFEOLAN_01046	CDS	240				hypothetical protein
+HLFEOLAN_01047	gene	651				
+HLFEOLAN_01047	CDS	651				hypothetical protein
+HLFEOLAN_01048	gene	153				
+HLFEOLAN_01048	CDS	153				hypothetical protein
+HLFEOLAN_01049	gene	474				
+HLFEOLAN_01049	CDS	474				hypothetical protein
+HLFEOLAN_01050	gene	960				
+HLFEOLAN_01050	CDS	960		2.5.-.-		Deoxyhypusine synthase-like protein
+HLFEOLAN_01051	gene	1095	ino1			
+HLFEOLAN_01051	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+HLFEOLAN_01052	gene	3468	smc_1			
+HLFEOLAN_01052	CDS	3468	smc_1		COG1196	Chromosome partition protein Smc
+HLFEOLAN_01053	gene	1041				
+HLFEOLAN_01053	CDS	1041				hypothetical protein
+HLFEOLAN_01054	gene	939				
+HLFEOLAN_01054	CDS	939				hypothetical protein
+HLFEOLAN_01055	gene	756	livF_1			
+HLFEOLAN_01055	CDS	756	livF_1		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+HLFEOLAN_01056	gene	747	livF_2			
+HLFEOLAN_01056	CDS	747	livF_2		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+HLFEOLAN_01057	gene	624				
+HLFEOLAN_01057	CDS	624				hypothetical protein
+HLFEOLAN_01058	gene	123				
+HLFEOLAN_01058	CDS	123				hypothetical protein
+HLFEOLAN_01059	gene	408	hrp1_2			
+HLFEOLAN_01059	CDS	408	hrp1_2		COG0517	Hypoxic response protein 1
+HLFEOLAN_01060	gene	315				
+HLFEOLAN_01060	CDS	315				hypothetical protein
+HLFEOLAN_01061	gene	1296				
+HLFEOLAN_01061	CDS	1296				hypothetical protein
+HLFEOLAN_01062	gene	966	oppF			
+HLFEOLAN_01062	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+HLFEOLAN_01063	gene	1026	egtD			
+HLFEOLAN_01063	CDS	1026	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+HLFEOLAN_01064	gene	1311	egtB			
+HLFEOLAN_01064	CDS	1311	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+HLFEOLAN_01065	gene	1038	proS			
+HLFEOLAN_01065	CDS	1038	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+HLFEOLAN_01066	gene	864	dpnM			
+HLFEOLAN_01066	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+HLFEOLAN_01067	gene	74				
+HLFEOLAN_01067	tRNA	74				tRNA-Thr(ggt)
+HLFEOLAN_01068	gene	387				
+HLFEOLAN_01068	CDS	387				hypothetical protein
+HLFEOLAN_01069	gene	903				
+HLFEOLAN_01069	CDS	903				hypothetical protein
+HLFEOLAN_01070	gene	555	resA_2			
+HLFEOLAN_01070	CDS	555	resA_2			Thiol-disulfide oxidoreductase ResA
+HLFEOLAN_01071	gene	74				
+HLFEOLAN_01071	tRNA	74				tRNA-Ala(tgc)
+HLFEOLAN_01072	gene	1071				
+HLFEOLAN_01072	CDS	1071				hypothetical protein
+HLFEOLAN_01073	gene	465	tagD			
+HLFEOLAN_01073	CDS	465	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+HLFEOLAN_01074	gene	330				
+HLFEOLAN_01074	CDS	330				hypothetical protein
+HLFEOLAN_01075	gene	282				
+HLFEOLAN_01075	CDS	282				hypothetical protein
+HLFEOLAN_01076	gene	1110				
+HLFEOLAN_01076	CDS	1110				hypothetical protein
+HLFEOLAN_01077	gene	1338				
+HLFEOLAN_01077	CDS	1338				hypothetical protein
+HLFEOLAN_01078	gene	1215	thrC			
+HLFEOLAN_01078	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+HLFEOLAN_01079	gene	528				
+HLFEOLAN_01079	CDS	528				hypothetical protein
+HLFEOLAN_01080	gene	330	hisI			
+HLFEOLAN_01080	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+HLFEOLAN_01081	gene	804	hisF_1			
+HLFEOLAN_01081	CDS	804	hisF_1	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+HLFEOLAN_01082	gene	705	priA			
+HLFEOLAN_01082	CDS	705	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+HLFEOLAN_01083	gene	609	hisH_1			
+HLFEOLAN_01083	CDS	609	hisH_1	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+HLFEOLAN_01084	gene	588	hisB			
+HLFEOLAN_01084	CDS	588	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+HLFEOLAN_01085	gene	972	ppaX			
+HLFEOLAN_01085	CDS	972	ppaX	3.6.1.1		Pyrophosphatase PpaX
+HLFEOLAN_01086	gene	1071	hisC_1			
+HLFEOLAN_01086	CDS	1071	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+HLFEOLAN_01087	gene	1272	hisD			
+HLFEOLAN_01087	CDS	1272	hisD	1.1.1.23		Histidinol dehydrogenase
+HLFEOLAN_01088	gene	993	hisG			
+HLFEOLAN_01088	CDS	993	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+HLFEOLAN_01089	gene	1257	mvaA			
+HLFEOLAN_01089	CDS	1257	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+HLFEOLAN_01090	gene	1095	yliI			
+HLFEOLAN_01090	CDS	1095	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+HLFEOLAN_01091	gene	1329				
+HLFEOLAN_01091	CDS	1329				hypothetical protein
+HLFEOLAN_01092	gene	996				
+HLFEOLAN_01092	CDS	996				hypothetical protein
+HLFEOLAN_01093	gene	555				
+HLFEOLAN_01093	CDS	555				hypothetical protein
+HLFEOLAN_01094	gene	813	pheA			
+HLFEOLAN_01094	CDS	813	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+HLFEOLAN_01095	gene	468				
+HLFEOLAN_01095	CDS	468				hypothetical protein
+HLFEOLAN_01096	gene	1434	guaB			
+HLFEOLAN_01096	CDS	1434	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HLFEOLAN_01097	gene	867	folP			
+HLFEOLAN_01097	CDS	867	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+HLFEOLAN_01098	gene	741				
+HLFEOLAN_01098	CDS	741				hypothetical protein
+HLFEOLAN_01099	gene	393				
+HLFEOLAN_01099	CDS	393				hypothetical protein
+HLFEOLAN_01100	gene	462	pyrI			
+HLFEOLAN_01100	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+HLFEOLAN_01101	gene	930	pyrB			
+HLFEOLAN_01101	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HLFEOLAN_01102	gene	909				
+HLFEOLAN_01102	CDS	909				hypothetical protein
+HLFEOLAN_01103	gene	384	nikR			
+HLFEOLAN_01103	CDS	384	nikR			Nickel-responsive regulator
+HLFEOLAN_01104	gene	900	znuA			
+HLFEOLAN_01104	CDS	900	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+HLFEOLAN_01105	gene	729	mntB			
+HLFEOLAN_01105	CDS	729	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+HLFEOLAN_01106	gene	813	znuB			
+HLFEOLAN_01106	CDS	813	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+HLFEOLAN_01107	gene	807	petE_2			
+HLFEOLAN_01107	CDS	807	petE_2			Plastocyanin
+HLFEOLAN_01108	gene	1653				
+HLFEOLAN_01108	CDS	1653				hypothetical protein
+HLFEOLAN_01109	gene	207				
+HLFEOLAN_01109	CDS	207				hypothetical protein
+HLFEOLAN_01110	gene	768				
+HLFEOLAN_01110	CDS	768				hypothetical protein
+HLFEOLAN_01111	gene	177				
+HLFEOLAN_01111	CDS	177				hypothetical protein
+HLFEOLAN_01112	gene	804	ybeM			
+HLFEOLAN_01112	CDS	804	ybeM	3.5.1.128		Deaminated glutathione amidase
+HLFEOLAN_01113	gene	474				
+HLFEOLAN_01113	CDS	474				hypothetical protein
+HLFEOLAN_01114	gene	94				
+HLFEOLAN_01114	tRNA	94				tRNA-Thr(ggt)
+HLFEOLAN_01115	gene	366				
+HLFEOLAN_01115	CDS	366				hypothetical protein
+HLFEOLAN_01116	gene	162				
+HLFEOLAN_01116	CDS	162				hypothetical protein
+HLFEOLAN_01117	gene	2097				
+HLFEOLAN_01117	CDS	2097				hypothetical protein
+HLFEOLAN_01118	gene	2649				
+HLFEOLAN_01118	CDS	2649				hypothetical protein
+HLFEOLAN_01119	gene	240				
+HLFEOLAN_01119	CDS	240				hypothetical protein
+HLFEOLAN_01120	gene	1776	atpA			
+HLFEOLAN_01120	CDS	1776	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+HLFEOLAN_01121	gene	357	atpF			
+HLFEOLAN_01121	CDS	357	atpF			V-type ATP synthase subunit F
+HLFEOLAN_01122	gene	1065	atpC_2			
+HLFEOLAN_01122	CDS	1065	atpC_2			V-type ATP synthase subunit C
+HLFEOLAN_01123	gene	558	atpE			
+HLFEOLAN_01123	CDS	558	atpE			V-type proton ATPase subunit E
+HLFEOLAN_01124	gene	339				
+HLFEOLAN_01124	CDS	339				hypothetical protein
+HLFEOLAN_01125	gene	621	phnC			
+HLFEOLAN_01125	CDS	621	phnC	7.3.2.1	COG3638	Phosphate-import ATP-binding protein PhnC
+HLFEOLAN_01126	gene	783	phnE			
+HLFEOLAN_01126	CDS	783	phnE		COG3639	Phosphate-import permease protein PhnE
+HLFEOLAN_01127	gene	456				
+HLFEOLAN_01127	CDS	456				hypothetical protein
+HLFEOLAN_01128	gene	468				
+HLFEOLAN_01128	CDS	468				hypothetical protein
+HLFEOLAN_01129	gene	1026				
+HLFEOLAN_01129	CDS	1026				hypothetical protein
+HLFEOLAN_01130	gene	210				
+HLFEOLAN_01130	CDS	210				hypothetical protein
+HLFEOLAN_01131	gene	1311	aspS2_2			
+HLFEOLAN_01131	CDS	1311	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HLFEOLAN_01132	gene	267				
+HLFEOLAN_01132	CDS	267				hypothetical protein
+HLFEOLAN_01133	gene	582	asnB_1			
+HLFEOLAN_01133	CDS	582	asnB_1	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+HLFEOLAN_01134	gene	654				
+HLFEOLAN_01134	CDS	654				hypothetical protein
+HLFEOLAN_01135	gene	1047				
+HLFEOLAN_01135	CDS	1047				hypothetical protein
+HLFEOLAN_01136	gene	477				
+HLFEOLAN_01136	CDS	477				hypothetical protein
+HLFEOLAN_01137	gene	342				
+HLFEOLAN_01137	CDS	342				hypothetical protein
+HLFEOLAN_01138	gene	546				
+HLFEOLAN_01138	CDS	546				hypothetical protein
+HLFEOLAN_01139	gene	243				
+HLFEOLAN_01139	CDS	243				hypothetical protein
+HLFEOLAN_01140	gene	279				
+HLFEOLAN_01140	CDS	279				hypothetical protein
+HLFEOLAN_01141	gene	1332	ubiD_2			
+HLFEOLAN_01141	CDS	1332	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+HLFEOLAN_01142	gene	408				
+HLFEOLAN_01142	CDS	408				hypothetical protein
+HLFEOLAN_01143	gene	318				
+HLFEOLAN_01143	CDS	318				hypothetical protein
+HLFEOLAN_01144	gene	264				
+HLFEOLAN_01144	CDS	264				hypothetical protein
+HLFEOLAN_01145	gene	120				
+HLFEOLAN_01145	CDS	120				hypothetical protein
+HLFEOLAN_01146	gene	162				
+HLFEOLAN_01146	CDS	162				hypothetical protein
+HLFEOLAN_01147	gene	753				
+HLFEOLAN_01147	CDS	753				hypothetical protein
+HLFEOLAN_01148	gene	606				
+HLFEOLAN_01148	CDS	606				hypothetical protein
+HLFEOLAN_01149	gene	177				
+HLFEOLAN_01149	CDS	177				hypothetical protein
+HLFEOLAN_01150	gene	76				
+HLFEOLAN_01150	tRNA	76				tRNA-Pro(cgg)
+HLFEOLAN_01151	gene	846	mimB			
+HLFEOLAN_01151	CDS	846	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+HLFEOLAN_01152	gene	75				
+HLFEOLAN_01152	tRNA	75				tRNA-Ala(ggc)
+HLFEOLAN_01153	gene	294				
+HLFEOLAN_01153	CDS	294				hypothetical protein
+HLFEOLAN_01154	gene	513	Dml			
+HLFEOLAN_01154	CDS	513	Dml	4.1.3.32		2,3-dimethylmalate lyase
+HLFEOLAN_01155	gene	73				
+HLFEOLAN_01155	tRNA	73				tRNA-Ala(cgc)
+HLFEOLAN_01156	gene	363				
+HLFEOLAN_01156	CDS	363				hypothetical protein
+HLFEOLAN_01157	gene	528				
+HLFEOLAN_01157	CDS	528				hypothetical protein
+HLFEOLAN_01158	gene	333	trxA_2			
+HLFEOLAN_01158	CDS	333	trxA_2			Thioredoxin 1
+HLFEOLAN_01159	gene	759				
+HLFEOLAN_01159	CDS	759				hypothetical protein
+HLFEOLAN_01160	gene	714				
+HLFEOLAN_01160	CDS	714				hypothetical protein
+HLFEOLAN_01161	gene	1512	abfD			
+HLFEOLAN_01161	CDS	1512	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+HLFEOLAN_01162	gene	1890	patZ			
+HLFEOLAN_01162	CDS	1890	patZ	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase PatZ
+HLFEOLAN_01163	gene	1062	ftsH_2			
+HLFEOLAN_01163	CDS	1062	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HLFEOLAN_01164	gene	219				
+HLFEOLAN_01164	CDS	219				hypothetical protein
+HLFEOLAN_01165	gene	435				
+HLFEOLAN_01165	CDS	435				hypothetical protein
+HLFEOLAN_01166	gene	924				
+HLFEOLAN_01166	CDS	924				hypothetical protein
+HLFEOLAN_01167	gene	621				
+HLFEOLAN_01167	CDS	621			COG1926	Putative phosphoribosyl transferase
+HLFEOLAN_01168	gene	1173	dnaJ_3			
+HLFEOLAN_01168	CDS	1173	dnaJ_3			Chaperone protein DnaJ
+HLFEOLAN_01169	gene	300	ndhI_2			
+HLFEOLAN_01169	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HLFEOLAN_01170	gene	588				
+HLFEOLAN_01170	CDS	588				hypothetical protein
+HLFEOLAN_01171	gene	1155	sufS			
+HLFEOLAN_01171	CDS	1155	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+HLFEOLAN_01172	gene	261				
+HLFEOLAN_01172	CDS	261				hypothetical protein
+HLFEOLAN_01173	gene	642	kynB			
+HLFEOLAN_01173	CDS	642	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+HLFEOLAN_01174	gene	1098				
+HLFEOLAN_01174	CDS	1098				hypothetical protein
+HLFEOLAN_01175	gene	921				
+HLFEOLAN_01175	CDS	921				hypothetical protein
+HLFEOLAN_01176	gene	834	mqnD			
+HLFEOLAN_01176	CDS	834	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+HLFEOLAN_01177	gene	279				
+HLFEOLAN_01177	CDS	279				hypothetical protein
+HLFEOLAN_01178	gene	591				
+HLFEOLAN_01178	CDS	591				hypothetical protein
+HLFEOLAN_01179	gene	300				
+HLFEOLAN_01179	CDS	300				hypothetical protein
+HLFEOLAN_01180	gene	1401				
+HLFEOLAN_01180	CDS	1401			COG1055	putative transporter
+HLFEOLAN_01181	gene	1023	purM			
+HLFEOLAN_01181	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+HLFEOLAN_01182	gene	729				
+HLFEOLAN_01182	CDS	729				hypothetical protein
+HLFEOLAN_01183	gene	348				
+HLFEOLAN_01183	CDS	348				hypothetical protein
+HLFEOLAN_01184	gene	933	yrbG			
+HLFEOLAN_01184	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+HLFEOLAN_01185	gene	1362	pmbA			
+HLFEOLAN_01185	CDS	1362	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+HLFEOLAN_01186	gene	675	cofH			
+HLFEOLAN_01186	CDS	675	cofH	2.5.1.147		5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+HLFEOLAN_01187	gene	801	lysZ_1			
+HLFEOLAN_01187	CDS	801	lysZ_1	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+HLFEOLAN_01188	gene	1047	argC			
+HLFEOLAN_01188	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+HLFEOLAN_01189	gene	858	lysX_1			
+HLFEOLAN_01189	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HLFEOLAN_01190	gene	168				
+HLFEOLAN_01190	CDS	168				hypothetical protein
+HLFEOLAN_01191	gene	1188	argG			
+HLFEOLAN_01191	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+HLFEOLAN_01192	gene	1020				
+HLFEOLAN_01192	CDS	1020				hypothetical protein
+HLFEOLAN_01193	gene	771	nrtD			
+HLFEOLAN_01193	CDS	771	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+HLFEOLAN_01194	gene	759	ssuC			
+HLFEOLAN_01194	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+HLFEOLAN_01195	gene	1137				
+HLFEOLAN_01195	CDS	1137				hypothetical protein
+HLFEOLAN_01196	gene	1011	metE_1			
+HLFEOLAN_01196	CDS	1011	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+HLFEOLAN_01197	gene	927	metE_2			
+HLFEOLAN_01197	CDS	927	metE_2	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+HLFEOLAN_01198	gene	759				
+HLFEOLAN_01198	CDS	759				hypothetical protein
+HLFEOLAN_01199	gene	558	nudL			
+HLFEOLAN_01199	CDS	558	nudL	3.6.1.-		putative Nudix hydrolase NudL
+HLFEOLAN_01200	gene	159				
+HLFEOLAN_01200	CDS	159				hypothetical protein
+HLFEOLAN_01201	gene	696				
+HLFEOLAN_01201	CDS	696				hypothetical protein
+HLFEOLAN_01202	gene	2094				
+HLFEOLAN_01202	CDS	2094				hypothetical protein
+HLFEOLAN_01203	gene	93				
+HLFEOLAN_01203	CDS	93				hypothetical protein
+HLFEOLAN_01204	gene	999	pseB			
+HLFEOLAN_01204	CDS	999	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+HLFEOLAN_01205	gene	690	hisH_2			
+HLFEOLAN_01205	CDS	690	hisH_2	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+HLFEOLAN_01206	gene	1185				
+HLFEOLAN_01206	CDS	1185				hypothetical protein
+HLFEOLAN_01207	gene	768	hisF_2			
+HLFEOLAN_01207	CDS	768	hisF_2	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+HLFEOLAN_01208	gene	570				
+HLFEOLAN_01208	CDS	570				hypothetical protein
+HLFEOLAN_01209	gene	1281	kat			
+HLFEOLAN_01209	CDS	1281	kat	2.6.1.111		3-aminobutyryl-CoA aminotransferase
+HLFEOLAN_01210	gene	1035	iolG_2			
+HLFEOLAN_01210	CDS	1035	iolG_2	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+HLFEOLAN_01211	gene	768	kdsB_1			
+HLFEOLAN_01211	CDS	768	kdsB_1	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+HLFEOLAN_01212	gene	1263	per			
+HLFEOLAN_01212	CDS	1263	per	2.6.1.102	COG0399	GDP-perosamine synthase
+HLFEOLAN_01213	gene	1053	apsD			
+HLFEOLAN_01213	CDS	1053	apsD	1.1.1.-		D-apiose dehydrogenase
+HLFEOLAN_01214	gene	552	speG			
+HLFEOLAN_01214	CDS	552	speG	2.3.1.57		Spermidine N(1)-acetyltransferase
+HLFEOLAN_01215	gene	741	kdsB_2			
+HLFEOLAN_01215	CDS	741	kdsB_2	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+HLFEOLAN_01216	gene	636	fmt			
+HLFEOLAN_01216	CDS	636	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+HLFEOLAN_01217	gene	1041	spsE			
+HLFEOLAN_01217	CDS	1041	spsE		COG2089	Spore coat polysaccharide biosynthesis protein SpsE
+HLFEOLAN_01218	gene	600				
+HLFEOLAN_01218	CDS	600		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+HLFEOLAN_01219	gene	750				
+HLFEOLAN_01219	CDS	750				hypothetical protein
+HLFEOLAN_01220	gene	768	COQ3_2			
+HLFEOLAN_01220	CDS	768	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+HLFEOLAN_01221	gene	1086	arnB			
+HLFEOLAN_01221	CDS	1086	arnB	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+HLFEOLAN_01222	gene	780				
+HLFEOLAN_01222	CDS	780				hypothetical protein
+HLFEOLAN_01223	gene	921	galE1			
+HLFEOLAN_01223	CDS	921	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+HLFEOLAN_01224	gene	1014				
+HLFEOLAN_01224	CDS	1014				hypothetical protein
+HLFEOLAN_01225	gene	1785	btuD			
+HLFEOLAN_01225	CDS	1785	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HLFEOLAN_01226	gene	112				
+HLFEOLAN_01226	rRNA	112				5S ribosomal RNA
+HLFEOLAN_01227	gene	141				
+HLFEOLAN_01227	CDS	141				hypothetical protein
+HLFEOLAN_01228	gene	396				
+HLFEOLAN_01228	CDS	396				hypothetical protein
+HLFEOLAN_01229	gene	312				
+HLFEOLAN_01229	CDS	312				hypothetical protein
+HLFEOLAN_01230	gene	1083	metE_3			
+HLFEOLAN_01230	CDS	1083	metE_3	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+HLFEOLAN_01231	gene	105				
+HLFEOLAN_01231	CDS	105				hypothetical protein
+HLFEOLAN_01232	gene	306				
+HLFEOLAN_01232	CDS	306				hypothetical protein
+HLFEOLAN_01233	gene	144				
+HLFEOLAN_01233	CDS	144				hypothetical protein
+HLFEOLAN_01234	gene	1290				
+HLFEOLAN_01234	CDS	1290				hypothetical protein
+HLFEOLAN_01235	gene	2187	ftsH_3			
+HLFEOLAN_01235	CDS	2187	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HLFEOLAN_01236	gene	732				
+HLFEOLAN_01236	CDS	732				hypothetical protein
+HLFEOLAN_01237	gene	279	yccX			
+HLFEOLAN_01237	CDS	279	yccX	3.6.1.7		Acylphosphatase
+HLFEOLAN_01238	gene	333				
+HLFEOLAN_01238	CDS	333				hypothetical protein
+HLFEOLAN_01239	gene	312				
+HLFEOLAN_01239	misc_RNA	312				Archaea_SRP
+HLFEOLAN_01240	gene	912	ttuA			
+HLFEOLAN_01240	CDS	912	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+HLFEOLAN_01241	gene	1203				
+HLFEOLAN_01241	CDS	1203				hypothetical protein
+HLFEOLAN_01242	gene	294	cutA			
+HLFEOLAN_01242	CDS	294	cutA		COG1324	Divalent-cation tolerance protein CutA
+HLFEOLAN_01243	gene	1053				
+HLFEOLAN_01243	CDS	1053				hypothetical protein
+HLFEOLAN_01244	gene	420				
+HLFEOLAN_01244	CDS	420				hypothetical protein
+HLFEOLAN_01245	gene	420				
+HLFEOLAN_01245	CDS	420				hypothetical protein
+HLFEOLAN_01246	gene	165				
+HLFEOLAN_01246	CDS	165				hypothetical protein
+HLFEOLAN_01247	gene	465	mntR_2			
+HLFEOLAN_01247	CDS	465	mntR_2			HTH-type transcriptional regulator MntR
+HLFEOLAN_01248	gene	768				
+HLFEOLAN_01248	CDS	768				hypothetical protein
+HLFEOLAN_01249	gene	1665	moaA			
+HLFEOLAN_01249	CDS	1665	moaA			GTP 3',8-cyclase
+HLFEOLAN_01250	gene	1065	pimA			
+HLFEOLAN_01250	CDS	1065	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+HLFEOLAN_01251	gene	1086	wbpI_1			
+HLFEOLAN_01251	CDS	1086	wbpI_1	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HLFEOLAN_01252	gene	1245				
+HLFEOLAN_01252	CDS	1245				hypothetical protein
+HLFEOLAN_01253	gene	1368	wecC			
+HLFEOLAN_01253	CDS	1368	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+HLFEOLAN_01254	gene	1005				
+HLFEOLAN_01254	CDS	1005		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+HLFEOLAN_01255	gene	1149	mshA_1			
+HLFEOLAN_01255	CDS	1149	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HLFEOLAN_01256	gene	741	COQ5_2			
+HLFEOLAN_01256	CDS	741	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HLFEOLAN_01257	gene	1056	wbpI_2			
+HLFEOLAN_01257	CDS	1056	wbpI_2	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HLFEOLAN_01258	gene	1131	mshA_2			
+HLFEOLAN_01258	CDS	1131	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HLFEOLAN_01259	gene	921				
+HLFEOLAN_01259	CDS	921				hypothetical protein
+HLFEOLAN_01260	gene	1494				
+HLFEOLAN_01260	CDS	1494				hypothetical protein
+HLFEOLAN_01261	gene	966				
+HLFEOLAN_01261	CDS	966				hypothetical protein
+HLFEOLAN_01262	gene	1527				
+HLFEOLAN_01262	CDS	1527				hypothetical protein
+HLFEOLAN_01263	gene	270				
+HLFEOLAN_01263	CDS	270				hypothetical protein
+HLFEOLAN_01264	gene	159				
+HLFEOLAN_01264	CDS	159				hypothetical protein
+HLFEOLAN_01265	gene	621				
+HLFEOLAN_01265	CDS	621				hypothetical protein
+HLFEOLAN_01266	gene	138				
+HLFEOLAN_01266	CDS	138				hypothetical protein
+HLFEOLAN_01267	gene	225				
+HLFEOLAN_01267	CDS	225				hypothetical protein
+HLFEOLAN_01268	gene	198				
+HLFEOLAN_01268	CDS	198				hypothetical protein
+HLFEOLAN_01269	gene	225				
+HLFEOLAN_01269	CDS	225				hypothetical protein
+HLFEOLAN_01270	gene	477				
+HLFEOLAN_01270	CDS	477				hypothetical protein
+HLFEOLAN_01271	gene	777	drrB			
+HLFEOLAN_01271	CDS	777	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+HLFEOLAN_01272	gene	864	drrA			
+HLFEOLAN_01272	CDS	864	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+HLFEOLAN_01273	gene	1041	trpD			
+HLFEOLAN_01273	CDS	1041	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+HLFEOLAN_01274	gene	774	trpC			
+HLFEOLAN_01274	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+HLFEOLAN_01275	gene	1182	trpB			
+HLFEOLAN_01275	CDS	1182	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+HLFEOLAN_01276	gene	807	trpA			
+HLFEOLAN_01276	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+HLFEOLAN_01277	gene	156				
+HLFEOLAN_01277	CDS	156				hypothetical protein
+HLFEOLAN_01278	gene	468				
+HLFEOLAN_01278	CDS	468				hypothetical protein
+HLFEOLAN_01279	gene	357				
+HLFEOLAN_01279	CDS	357				hypothetical protein
+HLFEOLAN_01280	gene	105				
+HLFEOLAN_01280	CDS	105				hypothetical protein
+HLFEOLAN_01281	gene	414				
+HLFEOLAN_01281	CDS	414				hypothetical protein
+HLFEOLAN_01282	gene	774				
+HLFEOLAN_01282	CDS	774				hypothetical protein
+HLFEOLAN_01283	gene	246				
+HLFEOLAN_01283	CDS	246				hypothetical protein
+HLFEOLAN_01284	gene	168				
+HLFEOLAN_01284	CDS	168				hypothetical protein
+HLFEOLAN_01285	gene	240				
+HLFEOLAN_01285	CDS	240				hypothetical protein
+HLFEOLAN_01286	gene	534				
+HLFEOLAN_01286	CDS	534				hypothetical protein
+HLFEOLAN_01287	gene	351	hflX			
+HLFEOLAN_01287	CDS	351	hflX			GTPase HflX
+HLFEOLAN_01288	gene	405				
+HLFEOLAN_01288	CDS	405				hypothetical protein
+HLFEOLAN_01289	gene	1611	pckA			
+HLFEOLAN_01289	CDS	1611	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+HLFEOLAN_01290	gene	2028				
+HLFEOLAN_01290	CDS	2028				hypothetical protein
+HLFEOLAN_01291	gene	621	sodA			
+HLFEOLAN_01291	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+HLFEOLAN_01292	gene	423	pfdA			
+HLFEOLAN_01292	CDS	423	pfdA			Prefoldin subunit alpha
+HLFEOLAN_01293	gene	1209	ftsY			
+HLFEOLAN_01293	CDS	1209	ftsY			Signal recognition particle receptor FtsY
+HLFEOLAN_01294	gene	912	argF			
+HLFEOLAN_01294	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HLFEOLAN_01295	gene	417				
+HLFEOLAN_01295	CDS	417				hypothetical protein
+HLFEOLAN_01296	gene	690				
+HLFEOLAN_01296	CDS	690				hypothetical protein
+HLFEOLAN_01297	gene	471				
+HLFEOLAN_01297	CDS	471				hypothetical protein
+HLFEOLAN_01298	gene	315				
+HLFEOLAN_01298	CDS	315				hypothetical protein
+HLFEOLAN_01299	gene	501				
+HLFEOLAN_01299	CDS	501				hypothetical protein
+HLFEOLAN_01300	gene	1053				
+HLFEOLAN_01300	CDS	1053				hypothetical protein
+HLFEOLAN_01301	gene	1191	zupT			
+HLFEOLAN_01301	CDS	1191	zupT			Zinc transporter ZupT
+HLFEOLAN_01302	gene	156				
+HLFEOLAN_01302	CDS	156				hypothetical protein
+HLFEOLAN_01303	gene	447				
+HLFEOLAN_01303	CDS	447				hypothetical protein
+HLFEOLAN_01304	gene	999	truB			
+HLFEOLAN_01304	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+HLFEOLAN_01305	gene	561	cmk			
+HLFEOLAN_01305	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+HLFEOLAN_01306	gene	636				
+HLFEOLAN_01306	CDS	636				hypothetical protein
+HLFEOLAN_01307	gene	579				
+HLFEOLAN_01307	CDS	579				hypothetical protein
+HLFEOLAN_01308	gene	1431	secY			
+HLFEOLAN_01308	CDS	1431	secY			Protein translocase subunit SecY
+HLFEOLAN_01309	gene	426				
+HLFEOLAN_01309	CDS	426				hypothetical protein
+HLFEOLAN_01310	gene	468				
+HLFEOLAN_01310	CDS	468				hypothetical protein
+HLFEOLAN_01311	gene	1194	mpa			
+HLFEOLAN_01311	CDS	1194	mpa			Proteasome-associated ATPase
+HLFEOLAN_01312	gene	459				
+HLFEOLAN_01312	CDS	459				hypothetical protein
+HLFEOLAN_01313	gene	309				
+HLFEOLAN_01313	CDS	309				hypothetical protein
+HLFEOLAN_01314	gene	1152				
+HLFEOLAN_01314	CDS	1152				hypothetical protein
+HLFEOLAN_01315	gene	453				
+HLFEOLAN_01315	CDS	453				hypothetical protein
+HLFEOLAN_01316	gene	480				
+HLFEOLAN_01316	CDS	480				hypothetical protein
+HLFEOLAN_01317	gene	1095				
+HLFEOLAN_01317	CDS	1095				hypothetical protein
+HLFEOLAN_01318	gene	417				
+HLFEOLAN_01318	CDS	417				hypothetical protein
+HLFEOLAN_01319	gene	624				
+HLFEOLAN_01319	CDS	624				hypothetical protein
+HLFEOLAN_01320	gene	135				
+HLFEOLAN_01320	CDS	135				hypothetical protein
+HLFEOLAN_01321	gene	594	pgsA2			
+HLFEOLAN_01321	CDS	594	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+HLFEOLAN_01322	gene	288				
+HLFEOLAN_01322	CDS	288				hypothetical protein
+HLFEOLAN_01323	gene	252				
+HLFEOLAN_01323	CDS	252				hypothetical protein
+HLFEOLAN_01324	gene	135				
+HLFEOLAN_01324	CDS	135				hypothetical protein
+HLFEOLAN_01325	gene	153				
+HLFEOLAN_01325	CDS	153				hypothetical protein
+HLFEOLAN_01326	gene	198				
+HLFEOLAN_01326	CDS	198				hypothetical protein
+HLFEOLAN_01327	gene	864				
+HLFEOLAN_01327	CDS	864				hypothetical protein
+HLFEOLAN_01328	gene	297				
+HLFEOLAN_01328	CDS	297				hypothetical protein
+HLFEOLAN_01329	gene	138				
+HLFEOLAN_01329	CDS	138				hypothetical protein
+HLFEOLAN_01330	gene	915				
+HLFEOLAN_01330	CDS	915				hypothetical protein
+HLFEOLAN_01331	gene	165				
+HLFEOLAN_01331	CDS	165				hypothetical protein
+HLFEOLAN_01332	gene	606	smc_2			
+HLFEOLAN_01332	CDS	606	smc_2			Chromosome partition protein Smc
+HLFEOLAN_01333	gene	489				
+HLFEOLAN_01333	CDS	489				hypothetical protein
+HLFEOLAN_01334	gene	2022				
+HLFEOLAN_01334	CDS	2022				hypothetical protein
+HLFEOLAN_01335	gene	282				
+HLFEOLAN_01335	CDS	282				hypothetical protein
+HLFEOLAN_01336	gene	324				
+HLFEOLAN_01336	CDS	324				hypothetical protein
+HLFEOLAN_01337	gene	426				
+HLFEOLAN_01337	CDS	426				hypothetical protein
+HLFEOLAN_01338	gene	441	teaD_2			
+HLFEOLAN_01338	CDS	441	teaD_2		COG0589	TRAP-T-associated universal stress protein TeaD
+HLFEOLAN_01339	gene	723				
+HLFEOLAN_01339	CDS	723				hypothetical protein
+HLFEOLAN_01340	gene	1350				
+HLFEOLAN_01340	CDS	1350				hypothetical protein
+HLFEOLAN_01341	gene	231				
+HLFEOLAN_01341	CDS	231				hypothetical protein
+HLFEOLAN_01342	gene	390				
+HLFEOLAN_01342	CDS	390				hypothetical protein
+HLFEOLAN_01343	gene	438				
+HLFEOLAN_01343	CDS	438				Putative universal stress protein
+HLFEOLAN_01344	gene	135				
+HLFEOLAN_01344	CDS	135				hypothetical protein
+HLFEOLAN_01345	gene	375				
+HLFEOLAN_01345	CDS	375				hypothetical protein
+HLFEOLAN_01346	gene	2244	ftsH_4			
+HLFEOLAN_01346	CDS	2244	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HLFEOLAN_01347	gene	831	fpr_2			
+HLFEOLAN_01347	CDS	831	fpr_2	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+HLFEOLAN_01348	gene	495				
+HLFEOLAN_01348	CDS	495				hypothetical protein
+HLFEOLAN_01349	gene	1011				
+HLFEOLAN_01349	CDS	1011			COG0645	putative protein
+HLFEOLAN_01350	gene	804	IMPDH_4			
+HLFEOLAN_01350	CDS	804	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HLFEOLAN_01351	gene	432				
+HLFEOLAN_01351	CDS	432				hypothetical protein
+HLFEOLAN_01352	gene	855	pcm			
+HLFEOLAN_01352	CDS	855	pcm	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+HLFEOLAN_01353	gene	438				
+HLFEOLAN_01353	CDS	438				Putative universal stress protein
+HLFEOLAN_01354	gene	261				
+HLFEOLAN_01354	CDS	261				hypothetical protein
+HLFEOLAN_01355	gene	987				
+HLFEOLAN_01355	CDS	987				hypothetical protein
+HLFEOLAN_01356	gene	174				
+HLFEOLAN_01356	CDS	174				hypothetical protein
+HLFEOLAN_01357	gene	876	IMPDH_5			
+HLFEOLAN_01357	CDS	876	IMPDH_5	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HLFEOLAN_01358	gene	459				
+HLFEOLAN_01358	CDS	459				hypothetical protein
+HLFEOLAN_01359	gene	363				
+HLFEOLAN_01359	CDS	363				hypothetical protein
+HLFEOLAN_01360	gene	687	dnaJ_4			
+HLFEOLAN_01360	CDS	687	dnaJ_4			Chaperone protein DnaJ
+HLFEOLAN_01361	gene	408	hit_2			
+HLFEOLAN_01361	CDS	408	hit_2		COG0537	Protein hit
+HLFEOLAN_01362	gene	162				
+HLFEOLAN_01362	CDS	162				hypothetical protein
+HLFEOLAN_01363	gene	552	rtcB			
+HLFEOLAN_01363	CDS	552	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+HLFEOLAN_01364	gene	435				
+HLFEOLAN_01364	CDS	435				hypothetical protein
+HLFEOLAN_01365	gene	315				
+HLFEOLAN_01365	CDS	315				hypothetical protein
+HLFEOLAN_01366	gene	561				
+HLFEOLAN_01366	CDS	561				hypothetical protein
+HLFEOLAN_01367	gene	954	thiL			
+HLFEOLAN_01367	CDS	954	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+HLFEOLAN_01368	gene	1296	glmM			
+HLFEOLAN_01368	CDS	1296	glmM	5.4.2.10		Phosphoglucosamine mutase
+HLFEOLAN_01369	gene	75				
+HLFEOLAN_01369	tRNA	75				tRNA-Thr(cgt)
+HLFEOLAN_01370	gene	174				
+HLFEOLAN_01370	CDS	174				hypothetical protein
+HLFEOLAN_01371	gene	210				
+HLFEOLAN_01371	CDS	210				hypothetical protein
+HLFEOLAN_01372	gene	213				
+HLFEOLAN_01372	CDS	213				hypothetical protein
+HLFEOLAN_01373	gene	282				
+HLFEOLAN_01373	CDS	282				hypothetical protein
+HLFEOLAN_01374	gene	597				
+HLFEOLAN_01374	CDS	597				hypothetical protein
+HLFEOLAN_01375	gene	165				
+HLFEOLAN_01375	CDS	165				hypothetical protein
+HLFEOLAN_01376	gene	1752				
+HLFEOLAN_01376	CDS	1752				hypothetical protein
+HLFEOLAN_01377	gene	73				
+HLFEOLAN_01377	tRNA	73				tRNA-Cys(gca)
+HLFEOLAN_01378	gene	222				
+HLFEOLAN_01378	CDS	222				hypothetical protein
+HLFEOLAN_01379	gene	756	yjjV			
+HLFEOLAN_01379	CDS	756	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+HLFEOLAN_01380	gene	339				
+HLFEOLAN_01380	CDS	339				hypothetical protein
+HLFEOLAN_01381	gene	780				
+HLFEOLAN_01381	CDS	780				hypothetical protein
+HLFEOLAN_01382	gene	522				
+HLFEOLAN_01382	CDS	522				hypothetical protein
+HLFEOLAN_01383	gene	594	ywlC			
+HLFEOLAN_01383	CDS	594	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+HLFEOLAN_01384	gene	288				
+HLFEOLAN_01384	CDS	288				hypothetical protein
+HLFEOLAN_01385	gene	636				
+HLFEOLAN_01385	CDS	636				hypothetical protein
+HLFEOLAN_01386	gene	222				
+HLFEOLAN_01386	CDS	222				hypothetical protein
+HLFEOLAN_01387	gene	288				
+HLFEOLAN_01387	CDS	288				hypothetical protein
+HLFEOLAN_01388	gene	537				
+HLFEOLAN_01388	CDS	537				hypothetical protein
+HLFEOLAN_01389	gene	1155				
+HLFEOLAN_01389	CDS	1155				hypothetical protein
+HLFEOLAN_01390	gene	1116				
+HLFEOLAN_01390	CDS	1116				hypothetical protein
+HLFEOLAN_01391	gene	534				
+HLFEOLAN_01391	CDS	534				hypothetical protein
+HLFEOLAN_01392	gene	969	pdxS			
+HLFEOLAN_01392	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+HLFEOLAN_01393	gene	624	pdxT			
+HLFEOLAN_01393	CDS	624	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+HLFEOLAN_01394	gene	2316	valS_1			
+HLFEOLAN_01394	CDS	2316	valS_1	6.1.1.9		Valine--tRNA ligase
+HLFEOLAN_01395	gene	450				
+HLFEOLAN_01395	CDS	450				hypothetical protein
+HLFEOLAN_01396	gene	273				
+HLFEOLAN_01396	CDS	273				hypothetical protein
+HLFEOLAN_01397	gene	405				
+HLFEOLAN_01397	CDS	405				hypothetical protein
+HLFEOLAN_01398	gene	1533				
+HLFEOLAN_01398	CDS	1533				hypothetical protein
+HLFEOLAN_01399	gene	309	hcaC			
+HLFEOLAN_01399	CDS	309	hcaC		COG2146	3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+HLFEOLAN_01400	gene	216				
+HLFEOLAN_01400	CDS	216				hypothetical protein
+HLFEOLAN_01401	gene	216				
+HLFEOLAN_01401	CDS	216				hypothetical protein
+HLFEOLAN_01402	gene	921	fgd			
+HLFEOLAN_01402	CDS	921	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+HLFEOLAN_01403	gene	426				
+HLFEOLAN_01403	CDS	426				hypothetical protein
+HLFEOLAN_01404	gene	255				
+HLFEOLAN_01404	CDS	255				hypothetical protein
+HLFEOLAN_01405	gene	1911				
+HLFEOLAN_01405	CDS	1911				hypothetical protein
+HLFEOLAN_01406	gene	1323	hisC_2			
+HLFEOLAN_01406	CDS	1323	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+HLFEOLAN_01407	gene	387				
+HLFEOLAN_01407	CDS	387				hypothetical protein
+HLFEOLAN_01408	gene	291				
+HLFEOLAN_01408	CDS	291				hypothetical protein
+HLFEOLAN_01409	gene	543				
+HLFEOLAN_01409	CDS	543				hypothetical protein
+HLFEOLAN_01410	gene	441				
+HLFEOLAN_01410	CDS	441				hypothetical protein
+HLFEOLAN_01411	gene	195				
+HLFEOLAN_01411	CDS	195				hypothetical protein
+HLFEOLAN_01412	gene	255				
+HLFEOLAN_01412	CDS	255				hypothetical protein
+HLFEOLAN_01413	gene	1773	pepF1			
+HLFEOLAN_01413	CDS	1773	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+HLFEOLAN_01414	gene	1131				
+HLFEOLAN_01414	CDS	1131				hypothetical protein
+HLFEOLAN_01415	gene	552	pdaD			
+HLFEOLAN_01415	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+HLFEOLAN_01416	gene	459	bcp_2			
+HLFEOLAN_01416	CDS	459	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+HLFEOLAN_01417	gene	549				
+HLFEOLAN_01417	CDS	549				hypothetical protein
+HLFEOLAN_01418	gene	246				
+HLFEOLAN_01418	CDS	246				hypothetical protein
+HLFEOLAN_01419	gene	76				
+HLFEOLAN_01419	tRNA	76				tRNA-Thr(tgt)
+HLFEOLAN_01420	gene	1617	deaD			
+HLFEOLAN_01420	CDS	1617	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+HLFEOLAN_01421	gene	237				
+HLFEOLAN_01421	CDS	237				hypothetical protein
+HLFEOLAN_01422	gene	288				
+HLFEOLAN_01422	CDS	288				hypothetical protein
+HLFEOLAN_01423	gene	495				
+HLFEOLAN_01423	CDS	495				hypothetical protein
+HLFEOLAN_01424	gene	756				
+HLFEOLAN_01424	CDS	756				hypothetical protein
+HLFEOLAN_01425	gene	456				
+HLFEOLAN_01425	CDS	456				hypothetical protein
+HLFEOLAN_01426	gene	276				
+HLFEOLAN_01426	CDS	276				hypothetical protein
+HLFEOLAN_01427	gene	1293				
+HLFEOLAN_01427	CDS	1293				hypothetical protein
+HLFEOLAN_01428	gene	150				
+HLFEOLAN_01428	CDS	150				hypothetical protein
+HLFEOLAN_01429	gene	561				
+HLFEOLAN_01429	CDS	561				hypothetical protein
+HLFEOLAN_01430	gene	336				
+HLFEOLAN_01430	CDS	336				hypothetical protein
+HLFEOLAN_01431	gene	1278				
+HLFEOLAN_01431	CDS	1278				hypothetical protein
+HLFEOLAN_01432	gene	1365				
+HLFEOLAN_01432	CDS	1365				hypothetical protein
+HLFEOLAN_01433	gene	642				
+HLFEOLAN_01433	CDS	642				hypothetical protein
+HLFEOLAN_01434	gene	219				
+HLFEOLAN_01434	CDS	219				hypothetical protein
+HLFEOLAN_01435	gene	270				
+HLFEOLAN_01435	CDS	270				hypothetical protein
+HLFEOLAN_01436	gene	624				
+HLFEOLAN_01436	CDS	624				hypothetical protein
+HLFEOLAN_01437	gene	426				
+HLFEOLAN_01437	CDS	426				hypothetical protein
+HLFEOLAN_01438	gene	180				
+HLFEOLAN_01438	CDS	180				hypothetical protein
+HLFEOLAN_01439	gene	645	nfi			
+HLFEOLAN_01439	CDS	645	nfi	3.1.21.7	COG1515	Endonuclease V
+HLFEOLAN_01440	gene	507				
+HLFEOLAN_01440	CDS	507				hypothetical protein
+HLFEOLAN_01441	gene	1713	frdA			
+HLFEOLAN_01441	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+HLFEOLAN_01442	gene	435				
+HLFEOLAN_01442	CDS	435				hypothetical protein
+HLFEOLAN_01443	gene	345				
+HLFEOLAN_01443	CDS	345				hypothetical protein
+HLFEOLAN_01444	gene	1176	alaA			
+HLFEOLAN_01444	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+HLFEOLAN_01445	gene	402				
+HLFEOLAN_01445	CDS	402				hypothetical protein
+HLFEOLAN_01446	gene	237				
+HLFEOLAN_01446	CDS	237				hypothetical protein
+HLFEOLAN_01447	gene	672				
+HLFEOLAN_01447	CDS	672				hypothetical protein
+HLFEOLAN_01448	gene	204				
+HLFEOLAN_01448	CDS	204				hypothetical protein
+HLFEOLAN_01449	gene	405				
+HLFEOLAN_01449	CDS	405				hypothetical protein
+HLFEOLAN_01450	gene	924	ccr_1			
+HLFEOLAN_01450	CDS	924	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HLFEOLAN_01451	gene	729	cugP_3			
+HLFEOLAN_01451	CDS	729	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HLFEOLAN_01452	gene	585	leuD1			
+HLFEOLAN_01452	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+HLFEOLAN_01453	gene	1416	leuC			
+HLFEOLAN_01453	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+HLFEOLAN_01454	gene	756				
+HLFEOLAN_01454	CDS	756				hypothetical protein
+HLFEOLAN_01455	gene	255				
+HLFEOLAN_01455	CDS	255				hypothetical protein
+HLFEOLAN_01456	gene	252				
+HLFEOLAN_01456	CDS	252				hypothetical protein
+HLFEOLAN_01457	gene	816	thi4			
+HLFEOLAN_01457	CDS	816	thi4	2.4.2.59		Thiamine thiazole synthase
+HLFEOLAN_01458	gene	768				
+HLFEOLAN_01458	CDS	768				hypothetical protein
+HLFEOLAN_01459	gene	939	trxB			
+HLFEOLAN_01459	CDS	939	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+HLFEOLAN_01460	gene	198	tusA			
+HLFEOLAN_01460	CDS	198	tusA		COG0425	Sulfur carrier protein TusA
+HLFEOLAN_01461	gene	1563				
+HLFEOLAN_01461	CDS	1563				hypothetical protein
+HLFEOLAN_01462	gene	735	fbiB_1			
+HLFEOLAN_01462	CDS	735	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+HLFEOLAN_01463	gene	645	serB2			
+HLFEOLAN_01463	CDS	645	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+HLFEOLAN_01464	gene	285				
+HLFEOLAN_01464	CDS	285				hypothetical protein
+HLFEOLAN_01465	gene	1371	cfiB			
+HLFEOLAN_01465	CDS	1371	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+HLFEOLAN_01466	gene	513				
+HLFEOLAN_01466	CDS	513				hypothetical protein
+HLFEOLAN_01467	gene	159				
+HLFEOLAN_01467	CDS	159				hypothetical protein
+HLFEOLAN_01468	gene	198				
+HLFEOLAN_01468	CDS	198				hypothetical protein
+HLFEOLAN_01469	gene	1353	pabB			
+HLFEOLAN_01469	CDS	1353	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+HLFEOLAN_01470	gene	591	trpG			
+HLFEOLAN_01470	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+HLFEOLAN_01471	gene	864				
+HLFEOLAN_01471	CDS	864				hypothetical protein
+HLFEOLAN_01472	gene	312				
+HLFEOLAN_01472	CDS	312				hypothetical protein
+HLFEOLAN_01473	gene	267				
+HLFEOLAN_01473	CDS	267				hypothetical protein
+HLFEOLAN_01474	gene	1254				
+HLFEOLAN_01474	CDS	1254				hypothetical protein
+HLFEOLAN_01475	gene	228				
+HLFEOLAN_01475	CDS	228				hypothetical protein
+HLFEOLAN_01476	gene	1128	lysK			
+HLFEOLAN_01476	CDS	1128	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+HLFEOLAN_01477	gene	849	lysX_2			
+HLFEOLAN_01477	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HLFEOLAN_01478	gene	168				
+HLFEOLAN_01478	CDS	168				hypothetical protein
+HLFEOLAN_01479	gene	1191	leuA_2			
+HLFEOLAN_01479	CDS	1191	leuA_2	2.3.3.13		2-isopropylmalate synthase
+HLFEOLAN_01480	gene	420	lrp			
+HLFEOLAN_01480	CDS	420	lrp		COG1522	Leucine-responsive regulatory protein
+HLFEOLAN_01481	gene	1176	lysJ_2			
+HLFEOLAN_01481	CDS	1176	lysJ_2	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+HLFEOLAN_01482	gene	570	lysZ_2			
+HLFEOLAN_01482	CDS	570	lysZ_2	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+HLFEOLAN_01483	gene	759				
+HLFEOLAN_01483	CDS	759				hypothetical protein
+HLFEOLAN_01484	gene	609	alkA			
+HLFEOLAN_01484	CDS	609	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+HLFEOLAN_01485	gene	243				
+HLFEOLAN_01485	CDS	243				hypothetical protein
+HLFEOLAN_01486	gene	210				
+HLFEOLAN_01486	CDS	210				hypothetical protein
+HLFEOLAN_01487	gene	549				
+HLFEOLAN_01487	CDS	549				hypothetical protein
+HLFEOLAN_01488	gene	642				
+HLFEOLAN_01488	CDS	642				hypothetical protein
+HLFEOLAN_01489	gene	453				
+HLFEOLAN_01489	CDS	453				hypothetical protein
+HLFEOLAN_01490	gene	243				
+HLFEOLAN_01490	CDS	243				hypothetical protein
+HLFEOLAN_01491	gene	381				
+HLFEOLAN_01491	CDS	381				hypothetical protein
+HLFEOLAN_01492	gene	474				
+HLFEOLAN_01492	CDS	474				hypothetical protein
+HLFEOLAN_01493	gene	447				
+HLFEOLAN_01493	CDS	447				hypothetical protein
+HLFEOLAN_01494	gene	1470				
+HLFEOLAN_01494	CDS	1470				hypothetical protein
+HLFEOLAN_01495	gene	648				
+HLFEOLAN_01495	CDS	648				hypothetical protein
+HLFEOLAN_01496	gene	945				
+HLFEOLAN_01496	CDS	945				hypothetical protein
+HLFEOLAN_01497	gene	846				
+HLFEOLAN_01497	CDS	846				hypothetical protein
+HLFEOLAN_01498	gene	153				
+HLFEOLAN_01498	CDS	153				hypothetical protein
+HLFEOLAN_01499	gene	171				
+HLFEOLAN_01499	CDS	171				hypothetical protein
+HLFEOLAN_01500	gene	183				
+HLFEOLAN_01500	CDS	183				hypothetical protein
+HLFEOLAN_01501	gene	234				
+HLFEOLAN_01501	CDS	234				hypothetical protein
+HLFEOLAN_01502	gene	270				
+HLFEOLAN_01502	CDS	270				hypothetical protein
+HLFEOLAN_01503	gene	258				
+HLFEOLAN_01503	CDS	258				hypothetical protein
+HLFEOLAN_01504	gene	204				
+HLFEOLAN_01504	CDS	204				hypothetical protein
+HLFEOLAN_01505	gene	390				
+HLFEOLAN_01505	CDS	390				hypothetical protein
+HLFEOLAN_01506	gene	1044	nanM			
+HLFEOLAN_01506	CDS	1044	nanM	5.1.3.24		N-acetylneuraminate epimerase
+HLFEOLAN_01507	gene	552				
+HLFEOLAN_01507	CDS	552				hypothetical protein
+HLFEOLAN_01508	gene	318				
+HLFEOLAN_01508	CDS	318				hypothetical protein
+HLFEOLAN_01509	gene	630				
+HLFEOLAN_01509	CDS	630				hypothetical protein
+HLFEOLAN_01510	gene	867				
+HLFEOLAN_01510	CDS	867				hypothetical protein
+HLFEOLAN_01511	gene	663	rplA			
+HLFEOLAN_01511	CDS	663	rplA		COG0081	50S ribosomal protein L1
+HLFEOLAN_01512	gene	459	asnC_2			
+HLFEOLAN_01512	CDS	459	asnC_2		COG1522	Regulatory protein AsnC
+HLFEOLAN_01513	gene	483	rplK			
+HLFEOLAN_01513	CDS	483	rplK		COG0080	50S ribosomal protein L11
+HLFEOLAN_01514	gene	645				
+HLFEOLAN_01514	CDS	645				hypothetical protein
+HLFEOLAN_01515	gene	171				
+HLFEOLAN_01515	CDS	171				hypothetical protein
+HLFEOLAN_01516	gene	777				
+HLFEOLAN_01516	CDS	777				hypothetical protein
+HLFEOLAN_01517	gene	300	ogt			
+HLFEOLAN_01517	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+HLFEOLAN_01518	gene	474				
+HLFEOLAN_01518	CDS	474				hypothetical protein
+HLFEOLAN_01519	gene	171				
+HLFEOLAN_01519	CDS	171				hypothetical protein
+HLFEOLAN_01520	gene	1536	ctaD			
+HLFEOLAN_01520	CDS	1536	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+HLFEOLAN_01521	gene	429				
+HLFEOLAN_01521	CDS	429				hypothetical protein
+HLFEOLAN_01522	gene	261				
+HLFEOLAN_01522	CDS	261				hypothetical protein
+HLFEOLAN_01523	gene	624	pspB			
+HLFEOLAN_01523	CDS	624	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+HLFEOLAN_01524	gene	156				
+HLFEOLAN_01524	CDS	156				hypothetical protein
+HLFEOLAN_01525	gene	1092				
+HLFEOLAN_01525	CDS	1092				hypothetical protein
+HLFEOLAN_01526	gene	438				
+HLFEOLAN_01526	CDS	438				hypothetical protein
+HLFEOLAN_01527	gene	1821				
+HLFEOLAN_01527	CDS	1821				hypothetical protein
+HLFEOLAN_01528	gene	834				
+HLFEOLAN_01528	CDS	834				hypothetical protein
+HLFEOLAN_01529	gene	288				
+HLFEOLAN_01529	CDS	288				hypothetical protein
+HLFEOLAN_01530	gene	381				
+HLFEOLAN_01530	CDS	381				hypothetical protein
+HLFEOLAN_01531	gene	2382				
+HLFEOLAN_01531	CDS	2382				hypothetical protein
+HLFEOLAN_01532	gene	618	trmR_2			
+HLFEOLAN_01532	CDS	618	trmR_2	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+HLFEOLAN_01533	gene	237	fusA_2			
+HLFEOLAN_01533	CDS	237	fusA_2			Elongation factor G
+HLFEOLAN_01534	gene	831	pyrK			
+HLFEOLAN_01534	CDS	831	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HLFEOLAN_01535	gene	918	pyrD			
+HLFEOLAN_01535	CDS	918	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+HLFEOLAN_01536	gene	1329				
+HLFEOLAN_01536	CDS	1329				hypothetical protein
+HLFEOLAN_01537	gene	681				
+HLFEOLAN_01537	CDS	681				hypothetical protein
+HLFEOLAN_01538	gene	621	rnhB			
+HLFEOLAN_01538	CDS	621	rnhB			Ribonuclease HII
+HLFEOLAN_01539	gene	1140	trm1			
+HLFEOLAN_01539	CDS	1140	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+HLFEOLAN_01540	gene	591	rlmE			
+HLFEOLAN_01540	CDS	591	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+HLFEOLAN_01541	gene	828				
+HLFEOLAN_01541	CDS	828				hypothetical protein
+HLFEOLAN_01542	gene	564				
+HLFEOLAN_01542	CDS	564				hypothetical protein
+HLFEOLAN_01543	gene	2091				
+HLFEOLAN_01543	CDS	2091				hypothetical protein
+HLFEOLAN_01544	gene	2127				
+HLFEOLAN_01544	CDS	2127				hypothetical protein
+HLFEOLAN_01545	gene	513	apt			
+HLFEOLAN_01545	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+HLFEOLAN_01546	gene	792	mtnP			
+HLFEOLAN_01546	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+HLFEOLAN_01547	gene	285				
+HLFEOLAN_01547	CDS	285				hypothetical protein
+HLFEOLAN_01548	gene	399				
+HLFEOLAN_01548	CDS	399				hypothetical protein
+HLFEOLAN_01549	gene	354				
+HLFEOLAN_01549	CDS	354				hypothetical protein
+HLFEOLAN_01550	gene	462				
+HLFEOLAN_01550	CDS	462				hypothetical protein
+HLFEOLAN_01551	gene	1104	TOP6A			
+HLFEOLAN_01551	CDS	1104	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+HLFEOLAN_01552	gene	1923	TOP6B			
+HLFEOLAN_01552	CDS	1923	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+HLFEOLAN_01553	gene	558				
+HLFEOLAN_01553	CDS	558				hypothetical protein
+HLFEOLAN_01554	gene	795				
+HLFEOLAN_01554	CDS	795				hypothetical protein
+HLFEOLAN_01555	gene	312				
+HLFEOLAN_01555	CDS	312				hypothetical protein
+HLFEOLAN_01556	gene	297				
+HLFEOLAN_01556	CDS	297				hypothetical protein
+HLFEOLAN_01557	gene	423				
+HLFEOLAN_01557	CDS	423				hypothetical protein
+HLFEOLAN_01558	gene	144				
+HLFEOLAN_01558	CDS	144				hypothetical protein
+HLFEOLAN_01559	gene	498				
+HLFEOLAN_01559	CDS	498				hypothetical protein
+HLFEOLAN_01560	gene	1146				
+HLFEOLAN_01560	CDS	1146				hypothetical protein
+HLFEOLAN_01561	gene	702				
+HLFEOLAN_01561	CDS	702		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+HLFEOLAN_01562	gene	429				
+HLFEOLAN_01562	CDS	429				hypothetical protein
+HLFEOLAN_01563	gene	744	pyrF			
+HLFEOLAN_01563	CDS	744	pyrF			Orotidine 5'-phosphate decarboxylase
+HLFEOLAN_01564	gene	663				
+HLFEOLAN_01564	CDS	663				hypothetical protein
+HLFEOLAN_01565	gene	165				
+HLFEOLAN_01565	CDS	165				hypothetical protein
+HLFEOLAN_01566	gene	126				
+HLFEOLAN_01566	CDS	126				hypothetical protein
+HLFEOLAN_01567	gene	1191	sub1			
+HLFEOLAN_01567	CDS	1191	sub1	3.4.21.62		Subtilisin
+HLFEOLAN_01568	gene	1365	walK			
+HLFEOLAN_01568	CDS	1365	walK	2.7.13.3		Sensor protein kinase WalK
+HLFEOLAN_01569	gene	882	cheB_1			
+HLFEOLAN_01569	CDS	882	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HLFEOLAN_01570	gene	708				
+HLFEOLAN_01570	CDS	708				hypothetical protein
+HLFEOLAN_01571	gene	1101	sasA_2			
+HLFEOLAN_01571	CDS	1101	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+HLFEOLAN_01572	gene	411	cheY_2			
+HLFEOLAN_01572	CDS	411	cheY_2		COG0784	Chemotaxis protein CheY
+HLFEOLAN_01573	gene	765	cheB_2			
+HLFEOLAN_01573	CDS	765	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HLFEOLAN_01574	gene	141				
+HLFEOLAN_01574	CDS	141				hypothetical protein
+HLFEOLAN_01575	gene	363	cheY_3			
+HLFEOLAN_01575	CDS	363	cheY_3		COG0784	Chemotaxis protein CheY
+HLFEOLAN_01576	gene	648				
+HLFEOLAN_01576	CDS	648				hypothetical protein
+HLFEOLAN_01577	gene	351				
+HLFEOLAN_01577	CDS	351				hypothetical protein
+HLFEOLAN_01578	gene	2019	arnC_2			
+HLFEOLAN_01578	CDS	2019	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HLFEOLAN_01579	gene	2772				
+HLFEOLAN_01579	CDS	2772				hypothetical protein
+HLFEOLAN_01580	gene	1683				
+HLFEOLAN_01580	CDS	1683				hypothetical protein
+HLFEOLAN_01581	gene	951	rssB_2			
+HLFEOLAN_01581	CDS	951	rssB_2			Regulator of RpoS
+HLFEOLAN_01582	gene	2052				
+HLFEOLAN_01582	CDS	2052				hypothetical protein
+HLFEOLAN_01583	gene	2460				
+HLFEOLAN_01583	CDS	2460				hypothetical protein
+HLFEOLAN_01584	gene	231				
+HLFEOLAN_01584	CDS	231				hypothetical protein
+HLFEOLAN_01585	gene	1038	adhT			
+HLFEOLAN_01585	CDS	1038	adhT	1.1.1.1		Alcohol dehydrogenase
+HLFEOLAN_01586	gene	234				
+HLFEOLAN_01586	CDS	234				hypothetical protein
+HLFEOLAN_01587	gene	111				
+HLFEOLAN_01587	CDS	111				hypothetical protein
+HLFEOLAN_01588	gene	333				
+HLFEOLAN_01588	CDS	333				hypothetical protein
+HLFEOLAN_01589	gene	375				
+HLFEOLAN_01589	CDS	375				hypothetical protein
+HLFEOLAN_01590	gene	729				
+HLFEOLAN_01590	CDS	729				hypothetical protein
+HLFEOLAN_01591	gene	651				
+HLFEOLAN_01591	CDS	651				hypothetical protein
+HLFEOLAN_01592	gene	1794				
+HLFEOLAN_01592	CDS	1794				hypothetical protein
+HLFEOLAN_01593	gene	369				
+HLFEOLAN_01593	CDS	369				hypothetical protein
+HLFEOLAN_01594	gene	210				
+HLFEOLAN_01594	CDS	210				hypothetical protein
+HLFEOLAN_01595	gene	231				
+HLFEOLAN_01595	CDS	231				hypothetical protein
+HLFEOLAN_01596	gene	1194	truD			
+HLFEOLAN_01596	CDS	1194	truD	5.4.99.27		tRNA pseudouridine synthase D
+HLFEOLAN_01597	gene	1593	vgb			
+HLFEOLAN_01597	CDS	1593	vgb	4.2.99.-		Virginiamycin B lyase
+HLFEOLAN_01598	gene	354				
+HLFEOLAN_01598	CDS	354				hypothetical protein
+HLFEOLAN_01599	gene	198				
+HLFEOLAN_01599	CDS	198				hypothetical protein
+HLFEOLAN_01600	gene	1137				
+HLFEOLAN_01600	CDS	1137				hypothetical protein
+HLFEOLAN_01601	gene	489				
+HLFEOLAN_01601	CDS	489				hypothetical protein
+HLFEOLAN_01602	gene	486				
+HLFEOLAN_01602	CDS	486				hypothetical protein
+HLFEOLAN_01603	gene	77				
+HLFEOLAN_01603	tRNA	77				tRNA-Val(gac)
+HLFEOLAN_01604	gene	711	bluB			
+HLFEOLAN_01604	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+HLFEOLAN_01605	gene	531				
+HLFEOLAN_01605	CDS	531		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+HLFEOLAN_01606	gene	447				
+HLFEOLAN_01606	CDS	447				hypothetical protein
+HLFEOLAN_01607	gene	252				
+HLFEOLAN_01607	CDS	252				hypothetical protein
+HLFEOLAN_01608	gene	231				
+HLFEOLAN_01608	CDS	231				hypothetical protein
+HLFEOLAN_01609	gene	477	ppiA			
+HLFEOLAN_01609	CDS	477	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+HLFEOLAN_01610	gene	858				
+HLFEOLAN_01610	CDS	858				hypothetical protein
+HLFEOLAN_01611	gene	162				
+HLFEOLAN_01611	CDS	162				hypothetical protein
+HLFEOLAN_01612	gene	186				
+HLFEOLAN_01612	CDS	186				hypothetical protein
+HLFEOLAN_01613	gene	468				
+HLFEOLAN_01613	CDS	468				hypothetical protein
+HLFEOLAN_01614	gene	471				
+HLFEOLAN_01614	CDS	471				hypothetical protein
+HLFEOLAN_01615	gene	894	RBKS			
+HLFEOLAN_01615	CDS	894	RBKS	2.7.1.15		Ribokinase
+HLFEOLAN_01616	gene	354				
+HLFEOLAN_01616	CDS	354				hypothetical protein
+HLFEOLAN_01617	gene	477				
+HLFEOLAN_01617	CDS	477				hypothetical protein
+HLFEOLAN_01618	gene	843	desV			
+HLFEOLAN_01618	CDS	843	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+HLFEOLAN_01619	gene	357				
+HLFEOLAN_01619	CDS	357				hypothetical protein
+HLFEOLAN_01620	gene	285				
+HLFEOLAN_01620	CDS	285				hypothetical protein
+HLFEOLAN_01621	gene	303				
+HLFEOLAN_01621	CDS	303				hypothetical protein
+HLFEOLAN_01622	gene	885				
+HLFEOLAN_01622	CDS	885				hypothetical protein
+HLFEOLAN_01623	gene	225				
+HLFEOLAN_01623	CDS	225				hypothetical protein
+HLFEOLAN_01624	gene	141				
+HLFEOLAN_01624	CDS	141				hypothetical protein
+HLFEOLAN_01625	gene	768				
+HLFEOLAN_01625	CDS	768				hypothetical protein
+HLFEOLAN_01626	gene	234				
+HLFEOLAN_01626	CDS	234				hypothetical protein
+HLFEOLAN_01627	gene	993	tagO			
+HLFEOLAN_01627	CDS	993	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+HLFEOLAN_01628	gene	2127				
+HLFEOLAN_01628	CDS	2127				hypothetical protein
+HLFEOLAN_01629	gene	2088				
+HLFEOLAN_01629	CDS	2088				hypothetical protein
+HLFEOLAN_01630	gene	516				
+HLFEOLAN_01630	CDS	516				hypothetical protein
+HLFEOLAN_01631	gene	957	ruvB			
+HLFEOLAN_01631	CDS	957	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+HLFEOLAN_01632	gene	86				
+HLFEOLAN_01632	tRNA	86				tRNA-Ser(tga)
+HLFEOLAN_01633	gene	534				
+HLFEOLAN_01633	CDS	534				hypothetical protein
+HLFEOLAN_01634	gene	684				
+HLFEOLAN_01634	CDS	684				hypothetical protein
+HLFEOLAN_01635	gene	570				
+HLFEOLAN_01635	CDS	570				hypothetical protein
+HLFEOLAN_01636	gene	1110				
+HLFEOLAN_01636	CDS	1110				hypothetical protein
+HLFEOLAN_01637	gene	798				
+HLFEOLAN_01637	CDS	798		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+HLFEOLAN_01638	gene	1464				
+HLFEOLAN_01638	CDS	1464				hypothetical protein
+HLFEOLAN_01639	gene	621	thrA_2			
+HLFEOLAN_01639	CDS	621	thrA_2		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HLFEOLAN_01640	gene	528				
+HLFEOLAN_01640	CDS	528				hypothetical protein
+HLFEOLAN_01641	gene	1503	srmB			
+HLFEOLAN_01641	CDS	1503	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+HLFEOLAN_01642	gene	279	prsA1			
+HLFEOLAN_01642	CDS	279	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+HLFEOLAN_01643	gene	399				
+HLFEOLAN_01643	CDS	399				hypothetical protein
+HLFEOLAN_01644	gene	285				
+HLFEOLAN_01644	CDS	285				hypothetical protein
+HLFEOLAN_01645	gene	402				
+HLFEOLAN_01645	CDS	402				hypothetical protein
+HLFEOLAN_01646	gene	891	menA			
+HLFEOLAN_01646	CDS	891	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HLFEOLAN_01647	gene	1128				
+HLFEOLAN_01647	CDS	1128				hypothetical protein
+HLFEOLAN_01648	gene	582	asnB_2			
+HLFEOLAN_01648	CDS	582	asnB_2	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+HLFEOLAN_01649	gene	429				
+HLFEOLAN_01649	CDS	429				hypothetical protein
+HLFEOLAN_01650	gene	225				
+HLFEOLAN_01650	CDS	225				hypothetical protein
+HLFEOLAN_01651	gene	828				
+HLFEOLAN_01651	CDS	828				hypothetical protein
+HLFEOLAN_01652	gene	1056	mtnA			
+HLFEOLAN_01652	CDS	1056	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HLFEOLAN_01653	gene	588				
+HLFEOLAN_01653	CDS	588				hypothetical protein
+HLFEOLAN_01654	gene	669				
+HLFEOLAN_01654	CDS	669				hypothetical protein
+HLFEOLAN_01655	gene	75				
+HLFEOLAN_01655	tRNA	75				tRNA-Gly(tcc)
+HLFEOLAN_01656	gene	303				
+HLFEOLAN_01656	CDS	303				hypothetical protein
+HLFEOLAN_01657	gene	453				
+HLFEOLAN_01657	CDS	453				hypothetical protein
+HLFEOLAN_01658	gene	291				
+HLFEOLAN_01658	CDS	291				hypothetical protein
+HLFEOLAN_01659	gene	1080	ccr_2			
+HLFEOLAN_01659	CDS	1080	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HLFEOLAN_01660	gene	393				
+HLFEOLAN_01660	CDS	393				hypothetical protein
+HLFEOLAN_01661	gene	882				
+HLFEOLAN_01661	CDS	882				hypothetical protein
+HLFEOLAN_01662	gene	144				
+HLFEOLAN_01662	CDS	144				hypothetical protein
+HLFEOLAN_01663	gene	168				
+HLFEOLAN_01663	CDS	168				hypothetical protein
+HLFEOLAN_01664	gene	1455				
+HLFEOLAN_01664	CDS	1455				hypothetical protein
+HLFEOLAN_01665	gene	354				
+HLFEOLAN_01665	CDS	354				hypothetical protein
+HLFEOLAN_01666	gene	477				
+HLFEOLAN_01666	CDS	477				hypothetical protein
+HLFEOLAN_01667	gene	207				
+HLFEOLAN_01667	CDS	207				hypothetical protein
+HLFEOLAN_01668	gene	246				
+HLFEOLAN_01668	CDS	246				hypothetical protein
+HLFEOLAN_01669	gene	624	COQ5_3			
+HLFEOLAN_01669	CDS	624	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HLFEOLAN_01670	gene	201				
+HLFEOLAN_01670	CDS	201				hypothetical protein
+HLFEOLAN_01671	gene	525				
+HLFEOLAN_01671	CDS	525				hypothetical protein
+HLFEOLAN_01672	gene	663	udgb			
+HLFEOLAN_01672	CDS	663	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+HLFEOLAN_01673	gene	843				
+HLFEOLAN_01673	CDS	843				hypothetical protein
+HLFEOLAN_01674	gene	465				
+HLFEOLAN_01674	CDS	465				hypothetical protein
+HLFEOLAN_01675	gene	276				
+HLFEOLAN_01675	CDS	276				hypothetical protein
+HLFEOLAN_01676	gene	390				
+HLFEOLAN_01676	CDS	390				hypothetical protein
+HLFEOLAN_01677	gene	891				
+HLFEOLAN_01677	CDS	891				hypothetical protein
+HLFEOLAN_01678	gene	567				
+HLFEOLAN_01678	CDS	567				hypothetical protein
+HLFEOLAN_01679	gene	426				
+HLFEOLAN_01679	CDS	426				hypothetical protein
+HLFEOLAN_01680	gene	423				
+HLFEOLAN_01680	CDS	423				hypothetical protein
+HLFEOLAN_01681	gene	2682				
+HLFEOLAN_01681	CDS	2682				hypothetical protein
+HLFEOLAN_01682	gene	1410	rnj_2			
+HLFEOLAN_01682	CDS	1410	rnj_2	3.1.-.-	COG0595	Ribonuclease J
+HLFEOLAN_01683	gene	1734				
+HLFEOLAN_01683	CDS	1734				hypothetical protein
+HLFEOLAN_01684	gene	1275				
+HLFEOLAN_01684	CDS	1275				hypothetical protein
+HLFEOLAN_01685	gene	1122				
+HLFEOLAN_01685	CDS	1122				hypothetical protein
+HLFEOLAN_01686	gene	243				
+HLFEOLAN_01686	CDS	243				hypothetical protein
+HLFEOLAN_01687	gene	432				
+HLFEOLAN_01687	CDS	432				hypothetical protein
+HLFEOLAN_01688	gene	234				
+HLFEOLAN_01688	CDS	234				hypothetical protein
+HLFEOLAN_01689	gene	222				
+HLFEOLAN_01689	CDS	222				hypothetical protein
+HLFEOLAN_01690	gene	108				
+HLFEOLAN_01690	CDS	108				hypothetical protein
+HLFEOLAN_01691	gene	2859	valS_2			
+HLFEOLAN_01691	CDS	2859	valS_2	6.1.1.9		Valine--tRNA ligase
+HLFEOLAN_01692	gene	2247	alaS			
+HLFEOLAN_01692	CDS	2247	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+HLFEOLAN_01693	gene	210				
+HLFEOLAN_01693	CDS	210				hypothetical protein
+HLFEOLAN_01694	gene	10197				
+HLFEOLAN_01694	CDS	10197				hypothetical protein
+HLFEOLAN_01695	gene	351				
+HLFEOLAN_01695	CDS	351				hypothetical protein
+HLFEOLAN_01696	gene	450				
+HLFEOLAN_01696	CDS	450				hypothetical protein
+HLFEOLAN_01697	gene	1302				
+HLFEOLAN_01697	CDS	1302				hypothetical protein
+HLFEOLAN_01698	gene	399				
+HLFEOLAN_01698	CDS	399				hypothetical protein
+HLFEOLAN_01699	gene	294				
+HLFEOLAN_01699	CDS	294				hypothetical protein
+HLFEOLAN_01700	gene	318				
+HLFEOLAN_01700	CDS	318				hypothetical protein
+HLFEOLAN_01701	gene	1371				
+HLFEOLAN_01701	CDS	1371				hypothetical protein
+HLFEOLAN_01702	gene	1053				
+HLFEOLAN_01702	CDS	1053				hypothetical protein
+HLFEOLAN_01703	gene	549				
+HLFEOLAN_01703	CDS	549				hypothetical protein
+HLFEOLAN_01704	gene	480				
+HLFEOLAN_01704	CDS	480				hypothetical protein
+HLFEOLAN_01705	gene	84				
+HLFEOLAN_01705	tRNA	84				tRNA-Ser(cga)
+HLFEOLAN_01706	gene	1026				
+HLFEOLAN_01706	CDS	1026				hypothetical protein
+HLFEOLAN_01707	gene	696				
+HLFEOLAN_01707	CDS	696				hypothetical protein
+HLFEOLAN_01708	gene	1920	acsA_1			
+HLFEOLAN_01708	CDS	1920	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HLFEOLAN_01709	gene	408				
+HLFEOLAN_01709	CDS	408				hypothetical protein
+HLFEOLAN_01710	gene	102				
+HLFEOLAN_01710	CDS	102				hypothetical protein
+HLFEOLAN_01711	gene	702				
+HLFEOLAN_01711	CDS	702				hypothetical protein
+HLFEOLAN_01712	gene	321				
+HLFEOLAN_01712	CDS	321				hypothetical protein
+HLFEOLAN_01713	gene	600				
+HLFEOLAN_01713	CDS	600				hypothetical protein
+HLFEOLAN_01714	gene	123				
+HLFEOLAN_01714	CDS	123				hypothetical protein
+HLFEOLAN_01715	gene	3348	rpoB			
+HLFEOLAN_01715	CDS	3348	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+HLFEOLAN_01716	gene	252				
+HLFEOLAN_01716	CDS	252				hypothetical protein
+HLFEOLAN_01717	gene	816				
+HLFEOLAN_01717	CDS	816				hypothetical protein
+HLFEOLAN_01718	gene	855				
+HLFEOLAN_01718	CDS	855				hypothetical protein
+HLFEOLAN_01719	gene	870				
+HLFEOLAN_01719	CDS	870				hypothetical protein
+HLFEOLAN_01720	gene	807				
+HLFEOLAN_01720	CDS	807				hypothetical protein
+HLFEOLAN_01721	gene	801	larE			
+HLFEOLAN_01721	CDS	801	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+HLFEOLAN_01722	gene	1227	larC			
+HLFEOLAN_01722	CDS	1227	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+HLFEOLAN_01723	gene	915	mdh			
+HLFEOLAN_01723	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+HLFEOLAN_01724	gene	780	larB			
+HLFEOLAN_01724	CDS	780	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+HLFEOLAN_01725	gene	1569				
+HLFEOLAN_01725	CDS	1569				hypothetical protein
+HLFEOLAN_01726	gene	324				
+HLFEOLAN_01726	CDS	324				hypothetical protein
+HLFEOLAN_01727	gene	993				
+HLFEOLAN_01727	CDS	993				hypothetical protein
+HLFEOLAN_01728	gene	216				
+HLFEOLAN_01728	CDS	216				hypothetical protein
+HLFEOLAN_01729	gene	768				
+HLFEOLAN_01729	CDS	768		1.-.-.-		putative oxidoreductase
+HLFEOLAN_01730	gene	78				
+HLFEOLAN_01730	tRNA	78				tRNA-Pro(ggg)
+HLFEOLAN_01731	gene	162				
+HLFEOLAN_01731	CDS	162				hypothetical protein
+HLFEOLAN_01732	gene	477				
+HLFEOLAN_01732	CDS	477				hypothetical protein
+HLFEOLAN_01733	gene	297				
+HLFEOLAN_01733	CDS	297				hypothetical protein
+HLFEOLAN_01734	gene	864	gatA			
+HLFEOLAN_01734	CDS	864	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+HLFEOLAN_01735	gene	1407	gatB			
+HLFEOLAN_01735	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+HLFEOLAN_01736	gene	1929	acsA_2			
+HLFEOLAN_01736	CDS	1929	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HLFEOLAN_01737	gene	1320	hisC_3			
+HLFEOLAN_01737	CDS	1320	hisC_3	2.6.1.9		Histidinol-phosphate aminotransferase
+HLFEOLAN_01738	gene	1017				
+HLFEOLAN_01738	CDS	1017				hypothetical protein
+HLFEOLAN_01739	gene	654	cheB_3			
+HLFEOLAN_01739	CDS	654	cheB_3	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HLFEOLAN_01740	gene	1194				
+HLFEOLAN_01740	CDS	1194				hypothetical protein
+HLFEOLAN_01741	gene	858				
+HLFEOLAN_01741	CDS	858				hypothetical protein
+HLFEOLAN_01742	gene	1224				
+HLFEOLAN_01742	CDS	1224				hypothetical protein
+HLFEOLAN_01743	gene	348				
+HLFEOLAN_01743	CDS	348				hypothetical protein
+HLFEOLAN_01744	gene	528				
+HLFEOLAN_01744	CDS	528				hypothetical protein
+HLFEOLAN_01745	gene	552	yvqK			
+HLFEOLAN_01745	CDS	552	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+HLFEOLAN_01746	gene	75				
+HLFEOLAN_01746	tRNA	75				tRNA-Phe(gaa)
+HLFEOLAN_01747	gene	213				
+HLFEOLAN_01747	CDS	213				hypothetical protein
+HLFEOLAN_01748	gene	240				
+HLFEOLAN_01748	CDS	240				hypothetical protein
+HLFEOLAN_01749	gene	219				
+HLFEOLAN_01749	CDS	219				hypothetical protein
+HLFEOLAN_01750	gene	414				
+HLFEOLAN_01750	CDS	414				hypothetical protein
+HLFEOLAN_01751	gene	387				
+HLFEOLAN_01751	CDS	387				hypothetical protein
+HLFEOLAN_01752	gene	387				
+HLFEOLAN_01752	CDS	387				hypothetical protein
+HLFEOLAN_01753	gene	825				
+HLFEOLAN_01753	CDS	825				hypothetical protein
+HLFEOLAN_01754	gene	846				
+HLFEOLAN_01754	CDS	846				hypothetical protein
+HLFEOLAN_01755	gene	1209	tdcB			
+HLFEOLAN_01755	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+HLFEOLAN_01756	gene	585	purE			
+HLFEOLAN_01756	CDS	585	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+HLFEOLAN_01757	gene	714				
+HLFEOLAN_01757	CDS	714				hypothetical protein
+HLFEOLAN_01758	gene	1152	purK			
+HLFEOLAN_01758	CDS	1152	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+HLFEOLAN_01759	gene	621	purF			
+HLFEOLAN_01759	CDS	621	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HLFEOLAN_01760	gene	240				
+HLFEOLAN_01760	CDS	240				hypothetical protein
+HLFEOLAN_01761	gene	372				
+HLFEOLAN_01761	CDS	372				hypothetical protein
+HLFEOLAN_01762	gene	1182				
+HLFEOLAN_01762	CDS	1182				hypothetical protein
+HLFEOLAN_01763	gene	825	purC			
+HLFEOLAN_01763	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HLFEOLAN_01764	gene	516				
+HLFEOLAN_01764	CDS	516				hypothetical protein
+HLFEOLAN_01765	gene	120				
+HLFEOLAN_01765	CDS	120				hypothetical protein
+HLFEOLAN_01766	gene	651				
+HLFEOLAN_01766	CDS	651				hypothetical protein
+HLFEOLAN_01767	gene	243				
+HLFEOLAN_01767	CDS	243				hypothetical protein
+HLFEOLAN_01768	gene	1167	metK			
+HLFEOLAN_01768	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+HLFEOLAN_01769	gene	870				
+HLFEOLAN_01769	CDS	870				hypothetical protein
+HLFEOLAN_01770	gene	1092	cbiD			
+HLFEOLAN_01770	CDS	1092	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+HLFEOLAN_01771	gene	1056	cbiG			
+HLFEOLAN_01771	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+HLFEOLAN_01772	gene	753	cbiX			
+HLFEOLAN_01772	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+HLFEOLAN_01773	gene	624	cbiC			
+HLFEOLAN_01773	CDS	624	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+HLFEOLAN_01774	gene	1356	cbiA			
+HLFEOLAN_01774	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+HLFEOLAN_01775	gene	534	cobO			
+HLFEOLAN_01775	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+HLFEOLAN_01776	gene	804				
+HLFEOLAN_01776	CDS	804				hypothetical protein
+HLFEOLAN_01777	gene	162				
+HLFEOLAN_01777	CDS	162				hypothetical protein
+HLFEOLAN_01778	gene	2172				
+HLFEOLAN_01778	CDS	2172				hypothetical protein
+HLFEOLAN_01779	gene	456				
+HLFEOLAN_01779	CDS	456				hypothetical protein
+HLFEOLAN_01780	gene	369				
+HLFEOLAN_01780	CDS	369				hypothetical protein
+HLFEOLAN_01781	gene	1263	selB			
+HLFEOLAN_01781	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+HLFEOLAN_01782	gene	459				
+HLFEOLAN_01782	CDS	459				hypothetical protein
+HLFEOLAN_01783	gene	174				
+HLFEOLAN_01783	CDS	174				hypothetical protein
+HLFEOLAN_01784	gene	74				
+HLFEOLAN_01784	tRNA	74				tRNA-Gly(ccc)
+HLFEOLAN_01785	gene	120				
+HLFEOLAN_01785	CDS	120				hypothetical protein
+HLFEOLAN_01786	gene	543	guaA_2			
+HLFEOLAN_01786	CDS	543	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+HLFEOLAN_01787	gene	309				
+HLFEOLAN_01787	CDS	309				hypothetical protein
+HLFEOLAN_01788	gene	2856				
+HLFEOLAN_01788	CDS	2856				hypothetical protein
+HLFEOLAN_01789	gene	1122				
+HLFEOLAN_01789	CDS	1122				hypothetical protein
+HLFEOLAN_01790	gene	1029				
+HLFEOLAN_01790	CDS	1029				hypothetical protein
+HLFEOLAN_01791	gene	387				
+HLFEOLAN_01791	CDS	387				hypothetical protein
+HLFEOLAN_01792	gene	885				
+HLFEOLAN_01792	CDS	885				hypothetical protein
+HLFEOLAN_01793	gene	840	nfo			
+HLFEOLAN_01793	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+HLFEOLAN_01794	gene	1455	glyQS			
+HLFEOLAN_01794	CDS	1455	glyQS	6.1.1.14		Glycine--tRNA ligase
+HLFEOLAN_01795	gene	120				
+HLFEOLAN_01795	CDS	120				hypothetical protein
+HLFEOLAN_01796	gene	789				
+HLFEOLAN_01796	CDS	789				hypothetical protein
+HLFEOLAN_01797	gene	189				
+HLFEOLAN_01797	CDS	189				hypothetical protein
+HLFEOLAN_01798	gene	663				
+HLFEOLAN_01798	CDS	663				hypothetical protein
+HLFEOLAN_01799	gene	1173	arnC_3			
+HLFEOLAN_01799	CDS	1173	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HLFEOLAN_01800	gene	654				
+HLFEOLAN_01800	CDS	654				hypothetical protein
+HLFEOLAN_01801	gene	771	murI			
+HLFEOLAN_01801	CDS	771	murI	5.1.1.3		Glutamate racemase
+HLFEOLAN_01802	gene	780	cbiF			
+HLFEOLAN_01802	CDS	780	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+HLFEOLAN_01803	gene	723	cbiL			
+HLFEOLAN_01803	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+HLFEOLAN_01804	gene	591	cbiT			
+HLFEOLAN_01804	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+HLFEOLAN_01805	gene	474				
+HLFEOLAN_01805	CDS	474				hypothetical protein
+HLFEOLAN_01806	gene	1923				
+HLFEOLAN_01806	CDS	1923				hypothetical protein
+HLFEOLAN_01807	gene	468				
+HLFEOLAN_01807	CDS	468				hypothetical protein
+HLFEOLAN_01808	gene	606				
+HLFEOLAN_01808	CDS	606				hypothetical protein
+HLFEOLAN_01809	gene	372				
+HLFEOLAN_01809	CDS	372				hypothetical protein
+HLFEOLAN_01810	gene	1158				
+HLFEOLAN_01810	CDS	1158				hypothetical protein
+HLFEOLAN_01811	gene	177				
+HLFEOLAN_01811	CDS	177				hypothetical protein
+HLFEOLAN_01812	gene	1449	pyrG			
+HLFEOLAN_01812	CDS	1449	pyrG	6.3.4.2		CTP synthase
+HLFEOLAN_01813	gene	999	nadK_2			
+HLFEOLAN_01813	CDS	999	nadK_2	2.7.1.23		NAD kinase
+HLFEOLAN_01814	gene	552				
+HLFEOLAN_01814	CDS	552				hypothetical protein
+	repeat_region	832				
+HLFEOLAN_01815	gene	108				
+HLFEOLAN_01815	CDS	108				hypothetical protein
+HLFEOLAN_01816	gene	174				
+HLFEOLAN_01816	CDS	174				hypothetical protein
+HLFEOLAN_01817	gene	318				
+HLFEOLAN_01817	CDS	318				hypothetical protein
+HLFEOLAN_01818	gene	963				
+HLFEOLAN_01818	CDS	963				hypothetical protein
+HLFEOLAN_01819	gene	435				
+HLFEOLAN_01819	CDS	435				hypothetical protein
+HLFEOLAN_01820	gene	537				
+HLFEOLAN_01820	CDS	537				hypothetical protein
+HLFEOLAN_01821	gene	552				
+HLFEOLAN_01821	CDS	552				hypothetical protein
+HLFEOLAN_01822	gene	780	fbiB_2			
+HLFEOLAN_01822	CDS	780	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+HLFEOLAN_01823	gene	1272	dmdA			
+HLFEOLAN_01823	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+HLFEOLAN_01824	gene	483	DmdB			
+HLFEOLAN_01824	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+HLFEOLAN_01825	gene	813	hemB			
+HLFEOLAN_01825	CDS	813	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+HLFEOLAN_01826	gene	312				
+HLFEOLAN_01826	CDS	312				hypothetical protein
+HLFEOLAN_01827	gene	621	yedJ			
+HLFEOLAN_01827	CDS	621	yedJ		COG1418	putative protein YedJ
+HLFEOLAN_01828	gene	621				
+HLFEOLAN_01828	CDS	621				hypothetical protein
+HLFEOLAN_01829	gene	315				
+HLFEOLAN_01829	CDS	315				hypothetical protein
+HLFEOLAN_01830	gene	561	atpB			
+HLFEOLAN_01830	CDS	561	atpB		COG1156	V-type ATP synthase beta chain
+HLFEOLAN_01831	gene	636				
+HLFEOLAN_01831	CDS	636				hypothetical protein
+HLFEOLAN_01832	gene	864				
+HLFEOLAN_01832	CDS	864				hypothetical protein
+HLFEOLAN_01833	gene	489				
+HLFEOLAN_01833	CDS	489				hypothetical protein
+HLFEOLAN_01834	gene	735				
+HLFEOLAN_01834	CDS	735				hypothetical protein
+HLFEOLAN_01835	gene	1362	purB			
+HLFEOLAN_01835	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+HLFEOLAN_01836	gene	747	asnB_3			
+HLFEOLAN_01836	CDS	747	asnB_3	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+HLFEOLAN_01837	gene	285	phhB			
+HLFEOLAN_01837	CDS	285	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+HLFEOLAN_01838	gene	816				
+HLFEOLAN_01838	CDS	816				hypothetical protein
+HLFEOLAN_01839	gene	183				
+HLFEOLAN_01839	CDS	183				hypothetical protein
+HLFEOLAN_01840	gene	432				
+HLFEOLAN_01840	CDS	432				hypothetical protein
+HLFEOLAN_01841	gene	300				
+HLFEOLAN_01841	CDS	300				hypothetical protein
+HLFEOLAN_01842	gene	114				
+HLFEOLAN_01842	CDS	114				hypothetical protein
+HLFEOLAN_01843	gene	285				
+HLFEOLAN_01843	CDS	285				hypothetical protein
+HLFEOLAN_01844	gene	156				
+HLFEOLAN_01844	CDS	156				hypothetical protein
+HLFEOLAN_01845	gene	153				
+HLFEOLAN_01845	CDS	153				hypothetical protein
+HLFEOLAN_01846	gene	237				
+HLFEOLAN_01846	CDS	237				hypothetical protein
+HLFEOLAN_01847	gene	228				
+HLFEOLAN_01847	CDS	228				hypothetical protein
+HLFEOLAN_01848	gene	1851				
+HLFEOLAN_01848	CDS	1851				hypothetical protein
+HLFEOLAN_01849	gene	333				
+HLFEOLAN_01849	CDS	333				hypothetical protein
+HLFEOLAN_01850	gene	1107				
+HLFEOLAN_01850	CDS	1107		2.5.-.-		Deoxyhypusine synthase-like protein
+HLFEOLAN_01851	gene	213				
+HLFEOLAN_01851	CDS	213				hypothetical protein
+HLFEOLAN_01852	gene	921				
+HLFEOLAN_01852	CDS	921				hypothetical protein
+HLFEOLAN_01853	gene	333				
+HLFEOLAN_01853	CDS	333				hypothetical protein
+HLFEOLAN_01854	gene	387				
+HLFEOLAN_01854	CDS	387				hypothetical protein
+HLFEOLAN_01855	gene	474				
+HLFEOLAN_01855	CDS	474				hypothetical protein
+HLFEOLAN_01856	gene	315				
+HLFEOLAN_01856	CDS	315				hypothetical protein
+HLFEOLAN_01857	gene	417				
+HLFEOLAN_01857	CDS	417				hypothetical protein
+HLFEOLAN_01858	gene	399				
+HLFEOLAN_01858	CDS	399				hypothetical protein
+HLFEOLAN_01859	gene	2478				
+HLFEOLAN_01859	CDS	2478				hypothetical protein
+HLFEOLAN_01860	gene	633				
+HLFEOLAN_01860	CDS	633				hypothetical protein
+HLFEOLAN_01861	gene	1743				
+HLFEOLAN_01861	CDS	1743				hypothetical protein
+HLFEOLAN_01862	gene	168				
+HLFEOLAN_01862	CDS	168				hypothetical protein
+HLFEOLAN_01863	gene	333				
+HLFEOLAN_01863	CDS	333				hypothetical protein
+HLFEOLAN_01864	gene	309				
+HLFEOLAN_01864	CDS	309				hypothetical protein
+HLFEOLAN_01865	gene	990				
+HLFEOLAN_01865	CDS	990				hypothetical protein
+HLFEOLAN_01866	gene	912				
+HLFEOLAN_01866	CDS	912				hypothetical protein
+HLFEOLAN_01867	gene	783	lhgD_2			
+HLFEOLAN_01867	CDS	783	lhgD_2	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+HLFEOLAN_01868	gene	264				
+HLFEOLAN_01868	CDS	264				hypothetical protein
+HLFEOLAN_01869	gene	375				
+HLFEOLAN_01869	CDS	375				hypothetical protein
+HLFEOLAN_01870	gene	966	ghrB			
+HLFEOLAN_01870	CDS	966	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+HLFEOLAN_01871	gene	141				
+HLFEOLAN_01871	CDS	141				hypothetical protein
+HLFEOLAN_01872	gene	1911	korA			
+HLFEOLAN_01872	CDS	1911	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HLFEOLAN_01873	gene	963				
+HLFEOLAN_01873	CDS	963				hypothetical protein
+HLFEOLAN_01874	gene	435				
+HLFEOLAN_01874	CDS	435				hypothetical protein
+HLFEOLAN_01875	gene	150				
+HLFEOLAN_01875	CDS	150				hypothetical protein
+HLFEOLAN_01876	gene	846	ureD			
+HLFEOLAN_01876	CDS	846	ureD		COG0829	Urease accessory protein UreD
+HLFEOLAN_01877	gene	1695	groL_3			
+HLFEOLAN_01877	CDS	1695	groL_3		COG0459	60 kDa chaperonin
+HLFEOLAN_01878	gene	234				
+HLFEOLAN_01878	CDS	234				hypothetical protein
+HLFEOLAN_01879	gene	76				
+HLFEOLAN_01879	tRNA	76				tRNA-Arg(tct)
+HLFEOLAN_01880	gene	867				
+HLFEOLAN_01880	CDS	867				hypothetical protein
+HLFEOLAN_01881	gene	1266				
+HLFEOLAN_01881	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+HLFEOLAN_01882	gene	213				
+HLFEOLAN_01882	CDS	213				hypothetical protein
+HLFEOLAN_01883	gene	300	ndhI_3			
+HLFEOLAN_01883	CDS	300	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HLFEOLAN_01884	gene	1539	QTRT1			
+HLFEOLAN_01884	CDS	1539	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+HLFEOLAN_01885	gene	552				
+HLFEOLAN_01885	CDS	552				hypothetical protein
+HLFEOLAN_01886	gene	1191	OLA1			
+HLFEOLAN_01886	CDS	1191	OLA1			Obg-like ATPase 1
+HLFEOLAN_01887	gene	984	tsaD			
+HLFEOLAN_01887	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+HLFEOLAN_01888	gene	327				
+HLFEOLAN_01888	CDS	327				hypothetical protein
+HLFEOLAN_01889	gene	294				
+HLFEOLAN_01889	CDS	294				hypothetical protein

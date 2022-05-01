@@ -1,0 +1,1849 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LHHPKOKH_00001	gene	1272	gdhA_1			
+LHHPKOKH_00001	CDS	1272	gdhA_1	1.4.1.3	COG0334	Glutamate dehydrogenase
+LHHPKOKH_00002	gene	1479	hutH			
+LHHPKOKH_00002	CDS	1479	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+LHHPKOKH_00003	gene	78				
+LHHPKOKH_00003	tRNA	78				tRNA-Gly(tcc)
+LHHPKOKH_00004	gene	864	folD			
+LHHPKOKH_00004	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+LHHPKOKH_00005	gene	1182	hutI			
+LHHPKOKH_00005	CDS	1182	hutI	3.5.2.7		Imidazolonepropionase
+LHHPKOKH_00006	gene	1842	hutU			
+LHHPKOKH_00006	CDS	1842	hutU	4.2.1.49		Urocanate hydratase
+LHHPKOKH_00007	gene	384				
+LHHPKOKH_00007	CDS	384				hypothetical protein
+LHHPKOKH_00008	gene	567				
+LHHPKOKH_00008	CDS	567				hypothetical protein
+LHHPKOKH_00009	gene	1071				
+LHHPKOKH_00009	CDS	1071				hypothetical protein
+LHHPKOKH_00010	gene	1029				
+LHHPKOKH_00010	CDS	1029		2.5.-.-		Deoxyhypusine synthase-like protein
+LHHPKOKH_00011	gene	258				
+LHHPKOKH_00011	CDS	258				hypothetical protein
+LHHPKOKH_00012	gene	996	thiI			
+LHHPKOKH_00012	CDS	996	thiI	2.8.1.4		tRNA sulfurtransferase
+LHHPKOKH_00013	gene	594				
+LHHPKOKH_00013	CDS	594				hypothetical protein
+LHHPKOKH_00014	gene	300				
+LHHPKOKH_00014	CDS	300				hypothetical protein
+LHHPKOKH_00015	gene	687				
+LHHPKOKH_00015	CDS	687				hypothetical protein
+LHHPKOKH_00016	gene	1164				
+LHHPKOKH_00016	CDS	1164				hypothetical protein
+LHHPKOKH_00017	gene	858				
+LHHPKOKH_00017	CDS	858				hypothetical protein
+LHHPKOKH_00018	gene	1455				
+LHHPKOKH_00018	CDS	1455				hypothetical protein
+LHHPKOKH_00019	gene	1080				
+LHHPKOKH_00019	CDS	1080				hypothetical protein
+LHHPKOKH_00020	gene	2439	smc_1			
+LHHPKOKH_00020	CDS	2439	smc_1			Chromosome partition protein Smc
+LHHPKOKH_00021	gene	723	alaS			
+LHHPKOKH_00021	CDS	723	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+LHHPKOKH_00022	gene	675				
+LHHPKOKH_00022	CDS	675				hypothetical protein
+LHHPKOKH_00023	gene	579	hldE			
+LHHPKOKH_00023	CDS	579	hldE	2.7.7.70		Bifunctional protein HldE
+LHHPKOKH_00024	gene	423				
+LHHPKOKH_00024	CDS	423				hypothetical protein
+LHHPKOKH_00025	gene	915				
+LHHPKOKH_00025	CDS	915		1.1.1.81	COG0111	Hydroxypyruvate reductase
+LHHPKOKH_00026	gene	294				
+LHHPKOKH_00026	CDS	294				hypothetical protein
+LHHPKOKH_00027	gene	1386	cysS			
+LHHPKOKH_00027	CDS	1386	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+LHHPKOKH_00028	gene	1089				
+LHHPKOKH_00028	CDS	1089				hypothetical protein
+LHHPKOKH_00029	gene	558				
+LHHPKOKH_00029	CDS	558		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+LHHPKOKH_00030	gene	90				
+LHHPKOKH_00030	CDS	90				hypothetical protein
+LHHPKOKH_00031	gene	819				
+LHHPKOKH_00031	CDS	819				hypothetical protein
+LHHPKOKH_00032	gene	744				
+LHHPKOKH_00032	CDS	744				hypothetical protein
+LHHPKOKH_00033	gene	267				
+LHHPKOKH_00033	CDS	267				hypothetical protein
+LHHPKOKH_00034	gene	717				
+LHHPKOKH_00034	CDS	717				hypothetical protein
+LHHPKOKH_00035	gene	387				
+LHHPKOKH_00035	CDS	387				hypothetical protein
+LHHPKOKH_00036	gene	489				
+LHHPKOKH_00036	CDS	489				hypothetical protein
+LHHPKOKH_00037	gene	978	ttuA_1			
+LHHPKOKH_00037	CDS	978	ttuA_1	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+LHHPKOKH_00038	gene	582	mhpC			
+LHHPKOKH_00038	CDS	582	mhpC	3.7.1.14		2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+LHHPKOKH_00039	gene	480				
+LHHPKOKH_00039	CDS	480				hypothetical protein
+LHHPKOKH_00040	gene	864	iolG			
+LHHPKOKH_00040	CDS	864	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+LHHPKOKH_00041	gene	927	thrB_1			
+LHHPKOKH_00041	CDS	927	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+LHHPKOKH_00042	gene	432				
+LHHPKOKH_00042	CDS	432				hypothetical protein
+LHHPKOKH_00043	gene	390				
+LHHPKOKH_00043	CDS	390				hypothetical protein
+LHHPKOKH_00044	gene	525				
+LHHPKOKH_00044	CDS	525		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+LHHPKOKH_00045	gene	330				
+LHHPKOKH_00045	CDS	330				hypothetical protein
+LHHPKOKH_00046	gene	561	xerC			
+LHHPKOKH_00046	CDS	561	xerC			Tyrosine recombinase XerC
+LHHPKOKH_00047	gene	1104				
+LHHPKOKH_00047	CDS	1104				hypothetical protein
+LHHPKOKH_00048	gene	1077				
+LHHPKOKH_00048	CDS	1077		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+LHHPKOKH_00049	gene	447				
+LHHPKOKH_00049	CDS	447				hypothetical protein
+LHHPKOKH_00050	gene	2661				
+LHHPKOKH_00050	CDS	2661				hypothetical protein
+LHHPKOKH_00051	gene	303				
+LHHPKOKH_00051	misc_RNA	303				Archaea_SRP
+LHHPKOKH_00052	gene	2754	valS_1			
+LHHPKOKH_00052	CDS	2754	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+LHHPKOKH_00053	gene	243				
+LHHPKOKH_00053	CDS	243				hypothetical protein
+LHHPKOKH_00054	gene	1185				
+LHHPKOKH_00054	CDS	1185				hypothetical protein
+LHHPKOKH_00055	gene	384				
+LHHPKOKH_00055	CDS	384				hypothetical protein
+LHHPKOKH_00056	gene	1440	ribZ_1			
+LHHPKOKH_00056	CDS	1440	ribZ_1			Riboflavin transporter RibZ
+LHHPKOKH_00057	gene	318				
+LHHPKOKH_00057	CDS	318				hypothetical protein
+LHHPKOKH_00058	gene	834	hisG			
+LHHPKOKH_00058	CDS	834	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+LHHPKOKH_00059	gene	558	hisB			
+LHHPKOKH_00059	CDS	558	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+LHHPKOKH_00060	gene	600	hisH			
+LHHPKOKH_00060	CDS	600	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+LHHPKOKH_00061	gene	672	hisA			
+LHHPKOKH_00061	CDS	672	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+LHHPKOKH_00062	gene	756	hisF			
+LHHPKOKH_00062	CDS	756	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+LHHPKOKH_00063	gene	975	hisI			
+LHHPKOKH_00063	CDS	975	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+LHHPKOKH_00064	gene	291				
+LHHPKOKH_00064	CDS	291				hypothetical protein
+LHHPKOKH_00065	gene	885	ndhF_1			
+LHHPKOKH_00065	CDS	885	ndhF_1	1.17.1.5		Nicotinate dehydrogenase FAD-subunit
+LHHPKOKH_00066	gene	465	ndhS_1			
+LHHPKOKH_00066	CDS	465	ndhS_1	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+LHHPKOKH_00067	gene	2328	pucD_1			
+LHHPKOKH_00067	CDS	2328	pucD_1	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+LHHPKOKH_00068	gene	924				
+LHHPKOKH_00068	CDS	924				hypothetical protein
+LHHPKOKH_00069	gene	1095				
+LHHPKOKH_00069	CDS	1095				hypothetical protein
+LHHPKOKH_00070	gene	1014				
+LHHPKOKH_00070	CDS	1014				hypothetical protein
+LHHPKOKH_00071	gene	939				
+LHHPKOKH_00071	CDS	939				hypothetical protein
+LHHPKOKH_00072	gene	1515	mglA			
+LHHPKOKH_00072	CDS	1515	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+LHHPKOKH_00073	gene	816				
+LHHPKOKH_00073	CDS	816				hypothetical protein
+LHHPKOKH_00074	gene	1236	acdA			
+LHHPKOKH_00074	CDS	1236	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+LHHPKOKH_00075	gene	774	fixA_1			
+LHHPKOKH_00075	CDS	774	fixA_1			Protein FixA
+LHHPKOKH_00076	gene	912	fixB_1			
+LHHPKOKH_00076	CDS	912	fixB_1			Protein FixB
+LHHPKOKH_00077	gene	1287				
+LHHPKOKH_00077	CDS	1287		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+LHHPKOKH_00078	gene	303	fixX			
+LHHPKOKH_00078	CDS	303	fixX		COG2440	Ferredoxin-like protein FixX
+LHHPKOKH_00079	gene	435				
+LHHPKOKH_00079	CDS	435				hypothetical protein
+LHHPKOKH_00080	gene	1740	ykoD_1			
+LHHPKOKH_00080	CDS	1740	ykoD_1	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LHHPKOKH_00081	gene	789				
+LHHPKOKH_00081	CDS	789				hypothetical protein
+LHHPKOKH_00082	gene	195				
+LHHPKOKH_00082	CDS	195				hypothetical protein
+LHHPKOKH_00083	gene	117				
+LHHPKOKH_00083	CDS	117				hypothetical protein
+LHHPKOKH_00084	gene	705	cysW			
+LHHPKOKH_00084	CDS	705	cysW		COG4208	Sulfate transport system permease protein CysW
+LHHPKOKH_00085	gene	321				
+LHHPKOKH_00085	CDS	321				hypothetical protein
+LHHPKOKH_00086	gene	384				
+LHHPKOKH_00086	CDS	384				hypothetical protein
+LHHPKOKH_00087	gene	819	tatC			
+LHHPKOKH_00087	CDS	819	tatC		COG0805	Sec-independent protein translocase protein TatC
+LHHPKOKH_00088	gene	318				
+LHHPKOKH_00088	CDS	318				hypothetical protein
+LHHPKOKH_00089	gene	276	tatA			
+LHHPKOKH_00089	CDS	276	tatA			Sec-independent protein translocase protein TatA
+LHHPKOKH_00090	gene	1143				
+LHHPKOKH_00090	CDS	1143				hypothetical protein
+LHHPKOKH_00091	gene	192				
+LHHPKOKH_00091	CDS	192				hypothetical protein
+LHHPKOKH_00092	gene	330				
+LHHPKOKH_00092	CDS	330				hypothetical protein
+LHHPKOKH_00093	gene	606	mobA_1			
+LHHPKOKH_00093	CDS	606	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+LHHPKOKH_00094	gene	288				
+LHHPKOKH_00094	CDS	288				hypothetical protein
+LHHPKOKH_00095	gene	327				
+LHHPKOKH_00095	CDS	327				hypothetical protein
+LHHPKOKH_00096	gene	390				
+LHHPKOKH_00096	CDS	390				hypothetical protein
+LHHPKOKH_00097	gene	519				
+LHHPKOKH_00097	CDS	519				hypothetical protein
+LHHPKOKH_00098	gene	2040				
+LHHPKOKH_00098	CDS	2040				hypothetical protein
+LHHPKOKH_00099	gene	144				
+LHHPKOKH_00099	CDS	144				hypothetical protein
+LHHPKOKH_00100	gene	1671	clcB			
+LHHPKOKH_00100	CDS	1671	clcB			Voltage-gated ClC-type chloride channel ClcB
+LHHPKOKH_00101	gene	1275				
+LHHPKOKH_00101	CDS	1275				hypothetical protein
+LHHPKOKH_00102	gene	1053	argF'_1			
+LHHPKOKH_00102	CDS	1053	argF'_1	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+LHHPKOKH_00103	gene	1389				
+LHHPKOKH_00103	CDS	1389				hypothetical protein
+LHHPKOKH_00104	gene	990				
+LHHPKOKH_00104	CDS	990				hypothetical protein
+LHHPKOKH_00105	gene	138				
+LHHPKOKH_00105	CDS	138				hypothetical protein
+LHHPKOKH_00106	gene	396	sufS			
+LHHPKOKH_00106	CDS	396	sufS	4.4.1.16		Cysteine desulfurase
+LHHPKOKH_00107	gene	168				
+LHHPKOKH_00107	CDS	168				hypothetical protein
+LHHPKOKH_00108	gene	195				
+LHHPKOKH_00108	CDS	195				hypothetical protein
+LHHPKOKH_00109	gene	669				
+LHHPKOKH_00109	CDS	669				hypothetical protein
+LHHPKOKH_00110	gene	282				
+LHHPKOKH_00110	CDS	282				hypothetical protein
+LHHPKOKH_00111	gene	846	folP			
+LHHPKOKH_00111	CDS	846	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+LHHPKOKH_00112	gene	2151	ftsH_1			
+LHHPKOKH_00112	CDS	2151	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+LHHPKOKH_00113	gene	477				
+LHHPKOKH_00113	CDS	477		2.7.7.53	COG0537	AP-4-A phosphorylase
+LHHPKOKH_00114	gene	810	yajO_1			
+LHHPKOKH_00114	CDS	810	yajO_1	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+LHHPKOKH_00115	gene	1323	hisD			
+LHHPKOKH_00115	CDS	1323	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+LHHPKOKH_00116	gene	1086	hisC_1			
+LHHPKOKH_00116	CDS	1086	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+LHHPKOKH_00117	gene	1656	ilvD			
+LHHPKOKH_00117	CDS	1656	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+LHHPKOKH_00118	gene	1575	cimA			
+LHHPKOKH_00118	CDS	1575	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+LHHPKOKH_00119	gene	2331				
+LHHPKOKH_00119	CDS	2331				hypothetical protein
+LHHPKOKH_00120	gene	477				
+LHHPKOKH_00120	CDS	477				hypothetical protein
+LHHPKOKH_00121	gene	474				
+LHHPKOKH_00121	CDS	474				hypothetical protein
+LHHPKOKH_00122	gene	573				
+LHHPKOKH_00122	CDS	573				hypothetical protein
+LHHPKOKH_00123	gene	1383	secY			
+LHHPKOKH_00123	CDS	1383	secY			Protein translocase subunit SecY
+LHHPKOKH_00124	gene	426				
+LHHPKOKH_00124	CDS	426				hypothetical protein
+LHHPKOKH_00125	gene	435				
+LHHPKOKH_00125	CDS	435				hypothetical protein
+LHHPKOKH_00126	gene	636				
+LHHPKOKH_00126	CDS	636				hypothetical protein
+LHHPKOKH_00127	gene	471				
+LHHPKOKH_00127	CDS	471				hypothetical protein
+LHHPKOKH_00128	gene	405				
+LHHPKOKH_00128	CDS	405				hypothetical protein
+LHHPKOKH_00129	gene	378				
+LHHPKOKH_00129	CDS	378				hypothetical protein
+LHHPKOKH_00130	gene	552	rplF			
+LHHPKOKH_00130	CDS	552	rplF		COG0097	50S ribosomal protein L6
+LHHPKOKH_00131	gene	402	rpsH			
+LHHPKOKH_00131	CDS	402	rpsH		COG0096	30S ribosomal protein S8
+LHHPKOKH_00132	gene	180				
+LHHPKOKH_00132	CDS	180				hypothetical protein
+LHHPKOKH_00133	gene	525				
+LHHPKOKH_00133	CDS	525				hypothetical protein
+LHHPKOKH_00134	gene	720				
+LHHPKOKH_00134	CDS	720				hypothetical protein
+LHHPKOKH_00135	gene	363				
+LHHPKOKH_00135	CDS	363				hypothetical protein
+LHHPKOKH_00136	gene	435				
+LHHPKOKH_00136	CDS	435				hypothetical protein
+LHHPKOKH_00137	gene	354				
+LHHPKOKH_00137	CDS	354				hypothetical protein
+LHHPKOKH_00138	gene	207				
+LHHPKOKH_00138	CDS	207				hypothetical protein
+LHHPKOKH_00139	gene	198				
+LHHPKOKH_00139	CDS	198				hypothetical protein
+LHHPKOKH_00140	gene	633	rpsC			
+LHHPKOKH_00140	CDS	633	rpsC		COG0092	30S ribosomal protein S3
+LHHPKOKH_00141	gene	459				
+LHHPKOKH_00141	CDS	459				hypothetical protein
+LHHPKOKH_00142	gene	72				
+LHHPKOKH_00142	tRNA	72				tRNA-Ala(cgc)
+LHHPKOKH_00143	gene	105				
+LHHPKOKH_00143	CDS	105				hypothetical protein
+LHHPKOKH_00144	gene	702				
+LHHPKOKH_00144	CDS	702				hypothetical protein
+LHHPKOKH_00145	gene	897				
+LHHPKOKH_00145	CDS	897		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+LHHPKOKH_00146	gene	87				
+LHHPKOKH_00146	tRNA	87				tRNA-Leu(gag)
+LHHPKOKH_00147	gene	315				
+LHHPKOKH_00147	CDS	315				hypothetical protein
+LHHPKOKH_00148	gene	792	nadK			
+LHHPKOKH_00148	CDS	792	nadK	2.7.1.23		NAD kinase
+LHHPKOKH_00149	gene	540				
+LHHPKOKH_00149	CDS	540		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+LHHPKOKH_00150	gene	690				
+LHHPKOKH_00150	CDS	690				hypothetical protein
+LHHPKOKH_00151	gene	993	oppF			
+LHHPKOKH_00151	CDS	993	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+LHHPKOKH_00152	gene	903	oppD			
+LHHPKOKH_00152	CDS	903	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+LHHPKOKH_00153	gene	603				
+LHHPKOKH_00153	CDS	603				hypothetical protein
+LHHPKOKH_00154	gene	1533				
+LHHPKOKH_00154	CDS	1533				hypothetical protein
+LHHPKOKH_00155	gene	1008	dppB			
+LHHPKOKH_00155	CDS	1008	dppB		COG0601	Dipeptide transport system permease protein DppB
+LHHPKOKH_00156	gene	2682				
+LHHPKOKH_00156	CDS	2682				hypothetical protein
+LHHPKOKH_00157	gene	918				
+LHHPKOKH_00157	CDS	918				hypothetical protein
+LHHPKOKH_00158	gene	462	lrp			
+LHHPKOKH_00158	CDS	462	lrp		COG1522	Leucine-responsive regulatory protein
+LHHPKOKH_00159	gene	939				
+LHHPKOKH_00159	CDS	939				hypothetical protein
+LHHPKOKH_00160	gene	513				
+LHHPKOKH_00160	CDS	513				hypothetical protein
+LHHPKOKH_00161	gene	327				
+LHHPKOKH_00161	CDS	327				hypothetical protein
+LHHPKOKH_00162	gene	876				
+LHHPKOKH_00162	CDS	876				hypothetical protein
+LHHPKOKH_00163	gene	1650	groL_1			
+LHHPKOKH_00163	CDS	1650	groL_1		COG0459	60 kDa chaperonin
+LHHPKOKH_00164	gene	1662				
+LHHPKOKH_00164	CDS	1662				hypothetical protein
+LHHPKOKH_00165	gene	342				
+LHHPKOKH_00165	CDS	342				hypothetical protein
+LHHPKOKH_00166	gene	96				
+LHHPKOKH_00166	CDS	96				hypothetical protein
+LHHPKOKH_00167	gene	1329				
+LHHPKOKH_00167	CDS	1329				hypothetical protein
+LHHPKOKH_00168	gene	678				
+LHHPKOKH_00168	CDS	678				hypothetical protein
+LHHPKOKH_00169	gene	861				
+LHHPKOKH_00169	CDS	861				hypothetical protein
+LHHPKOKH_00170	gene	384				
+LHHPKOKH_00170	CDS	384				hypothetical protein
+LHHPKOKH_00171	gene	1125				
+LHHPKOKH_00171	CDS	1125				hypothetical protein
+LHHPKOKH_00172	gene	882				
+LHHPKOKH_00172	CDS	882				hypothetical protein
+LHHPKOKH_00173	gene	3594	rgy			
+LHHPKOKH_00173	CDS	3594	rgy		COG1110	Reverse gyrase
+LHHPKOKH_00174	gene	912	deoD_1			
+LHHPKOKH_00174	CDS	912	deoD_1	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+LHHPKOKH_00175	gene	1005				
+LHHPKOKH_00175	CDS	1005				hypothetical protein
+LHHPKOKH_00176	gene	273	atpH			
+LHHPKOKH_00176	CDS	273	atpH			ATP synthase subunit c
+LHHPKOKH_00177	gene	132				
+LHHPKOKH_00177	CDS	132				hypothetical protein
+LHHPKOKH_00178	gene	618	atpD			
+LHHPKOKH_00178	CDS	618	atpD			V-type ATP synthase subunit D
+LHHPKOKH_00179	gene	1392	ntpB			
+LHHPKOKH_00179	CDS	1392	ntpB			V-type sodium ATPase subunit B
+LHHPKOKH_00180	gene	1725	atpA			
+LHHPKOKH_00180	CDS	1725	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+LHHPKOKH_00181	gene	564	atpE			
+LHHPKOKH_00181	CDS	564	atpE			V-type proton ATPase subunit E
+LHHPKOKH_00182	gene	294				
+LHHPKOKH_00182	CDS	294				hypothetical protein
+LHHPKOKH_00183	gene	534	btuR			
+LHHPKOKH_00183	CDS	534	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+LHHPKOKH_00184	gene	135				
+LHHPKOKH_00184	CDS	135				hypothetical protein
+LHHPKOKH_00185	gene	1626	fhs			
+LHHPKOKH_00185	CDS	1626	fhs	6.3.4.3	COG2759	Formate--tetrahydrofolate ligase
+LHHPKOKH_00186	gene	624	fchA			
+LHHPKOKH_00186	CDS	624	fchA	3.5.4.9	COG3404	Methenyltetrahydrofolate cyclohydrolase
+LHHPKOKH_00187	gene	906				
+LHHPKOKH_00187	CDS	906		2.1.2.5	COG3643	Glutamate formimidoyltransferase
+LHHPKOKH_00188	gene	765				
+LHHPKOKH_00188	CDS	765				hypothetical protein
+LHHPKOKH_00189	gene	198				
+LHHPKOKH_00189	CDS	198				hypothetical protein
+LHHPKOKH_00190	gene	294				
+LHHPKOKH_00190	CDS	294				hypothetical protein
+LHHPKOKH_00191	gene	558				
+LHHPKOKH_00191	CDS	558				hypothetical protein
+LHHPKOKH_00192	gene	348				
+LHHPKOKH_00192	CDS	348				hypothetical protein
+LHHPKOKH_00193	gene	1140	gltA			
+LHHPKOKH_00193	CDS	1140	gltA	2.3.3.16	COG0372	Citrate synthase
+LHHPKOKH_00194	gene	351				
+LHHPKOKH_00194	CDS	351				hypothetical protein
+LHHPKOKH_00195	gene	525				
+LHHPKOKH_00195	CDS	525				hypothetical protein
+LHHPKOKH_00196	gene	537				
+LHHPKOKH_00196	CDS	537				hypothetical protein
+LHHPKOKH_00197	gene	3396	smc_2			
+LHHPKOKH_00197	CDS	3396	smc_2		COG1196	Chromosome partition protein Smc
+LHHPKOKH_00198	gene	615				
+LHHPKOKH_00198	CDS	615				hypothetical protein
+LHHPKOKH_00199	gene	831	udp			
+LHHPKOKH_00199	CDS	831	udp	2.4.2.3	COG2820	Uridine phosphorylase
+LHHPKOKH_00200	gene	77				
+LHHPKOKH_00200	tRNA	77				tRNA-Arg(tct)
+LHHPKOKH_00201	gene	183				
+LHHPKOKH_00201	CDS	183				hypothetical protein
+LHHPKOKH_00202	gene	999	ino1_1			
+LHHPKOKH_00202	CDS	999	ino1_1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+LHHPKOKH_00203	gene	138				
+LHHPKOKH_00203	CDS	138				hypothetical protein
+LHHPKOKH_00204	gene	576	rnr			
+LHHPKOKH_00204	CDS	576	rnr	3.1.13.1		Ribonuclease R
+LHHPKOKH_00205	gene	189				
+LHHPKOKH_00205	CDS	189				hypothetical protein
+LHHPKOKH_00206	gene	510				
+LHHPKOKH_00206	CDS	510				hypothetical protein
+LHHPKOKH_00207	gene	1203	thrC_1			
+LHHPKOKH_00207	CDS	1203	thrC_1	4.2.3.1	COG0498	Threonine synthase
+LHHPKOKH_00208	gene	1020				
+LHHPKOKH_00208	CDS	1020				hypothetical protein
+LHHPKOKH_00209	gene	552	rutB			
+LHHPKOKH_00209	CDS	552	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+LHHPKOKH_00210	gene	1239	ahcY			
+LHHPKOKH_00210	CDS	1239	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+LHHPKOKH_00211	gene	381				
+LHHPKOKH_00211	CDS	381				hypothetical protein
+LHHPKOKH_00212	gene	963	arcC2			
+LHHPKOKH_00212	CDS	963	arcC2	2.7.2.2		Carbamate kinase 2
+LHHPKOKH_00213	gene	552				
+LHHPKOKH_00213	CDS	552				hypothetical protein
+LHHPKOKH_00214	gene	1143				
+LHHPKOKH_00214	CDS	1143				hypothetical protein
+LHHPKOKH_00215	gene	774				
+LHHPKOKH_00215	CDS	774				hypothetical protein
+LHHPKOKH_00216	gene	1014				
+LHHPKOKH_00216	CDS	1014				hypothetical protein
+LHHPKOKH_00217	gene	417				
+LHHPKOKH_00217	CDS	417				hypothetical protein
+LHHPKOKH_00218	gene	735	cugP_1			
+LHHPKOKH_00218	CDS	735	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+LHHPKOKH_00219	gene	1089				
+LHHPKOKH_00219	CDS	1089				hypothetical protein
+LHHPKOKH_00220	gene	963				
+LHHPKOKH_00220	CDS	963				hypothetical protein
+LHHPKOKH_00221	gene	396				
+LHHPKOKH_00221	CDS	396				hypothetical protein
+LHHPKOKH_00222	gene	693	cugP_2			
+LHHPKOKH_00222	CDS	693	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+LHHPKOKH_00223	gene	1005				
+LHHPKOKH_00223	CDS	1005				hypothetical protein
+LHHPKOKH_00224	gene	507				
+LHHPKOKH_00224	CDS	507				hypothetical protein
+LHHPKOKH_00225	gene	777	nadE			
+LHHPKOKH_00225	CDS	777	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+LHHPKOKH_00226	gene	2400	pucD_2			
+LHHPKOKH_00226	CDS	2400	pucD_2	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+LHHPKOKH_00227	gene	867				
+LHHPKOKH_00227	CDS	867				hypothetical protein
+LHHPKOKH_00228	gene	480	ndhS_2			
+LHHPKOKH_00228	CDS	480	ndhS_2	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+LHHPKOKH_00229	gene	1266	thrC_2			
+LHHPKOKH_00229	CDS	1266	thrC_2	4.2.3.1	COG0498	Threonine synthase
+LHHPKOKH_00230	gene	966	trxB			
+LHHPKOKH_00230	CDS	966	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+LHHPKOKH_00231	gene	1212				
+LHHPKOKH_00231	CDS	1212				hypothetical protein
+LHHPKOKH_00232	gene	837	kaiC			
+LHHPKOKH_00232	CDS	837	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+LHHPKOKH_00233	gene	246				
+LHHPKOKH_00233	CDS	246				hypothetical protein
+LHHPKOKH_00234	gene	75				
+LHHPKOKH_00234	tRNA	75				tRNA-Val(gac)
+LHHPKOKH_00235	gene	168				
+LHHPKOKH_00235	CDS	168				hypothetical protein
+LHHPKOKH_00236	gene	924				
+LHHPKOKH_00236	CDS	924		2.5.-.-		Deoxyhypusine synthase-like protein
+LHHPKOKH_00237	gene	1059	queE			
+LHHPKOKH_00237	CDS	1059	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+LHHPKOKH_00238	gene	588	ahpC			
+LHHPKOKH_00238	CDS	588	ahpC	1.11.1.15		Alkyl hydroperoxide reductase C
+LHHPKOKH_00239	gene	279				
+LHHPKOKH_00239	CDS	279				hypothetical protein
+LHHPKOKH_00240	gene	1005	fgd			
+LHHPKOKH_00240	CDS	1005	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+LHHPKOKH_00241	gene	1278				
+LHHPKOKH_00241	CDS	1278				hypothetical protein
+LHHPKOKH_00242	gene	1233				
+LHHPKOKH_00242	CDS	1233				hypothetical protein
+LHHPKOKH_00243	gene	1605				
+LHHPKOKH_00243	CDS	1605		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+LHHPKOKH_00244	gene	786	fabG			
+LHHPKOKH_00244	CDS	786	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+LHHPKOKH_00245	gene	1989	fadF			
+LHHPKOKH_00245	CDS	1989	fadF	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+LHHPKOKH_00246	gene	900	fixB_2			
+LHHPKOKH_00246	CDS	900	fixB_2			Protein FixB
+LHHPKOKH_00247	gene	735	fixA_2			
+LHHPKOKH_00247	CDS	735	fixA_2			Protein FixA
+LHHPKOKH_00248	gene	267				
+LHHPKOKH_00248	CDS	267				hypothetical protein
+LHHPKOKH_00249	gene	498				
+LHHPKOKH_00249	CDS	498				hypothetical protein
+LHHPKOKH_00250	gene	1059	dinB			
+LHHPKOKH_00250	CDS	1059	dinB	2.7.7.7		DNA polymerase IV
+LHHPKOKH_00251	gene	573				
+LHHPKOKH_00251	CDS	573				hypothetical protein
+LHHPKOKH_00252	gene	744				
+LHHPKOKH_00252	CDS	744				hypothetical protein
+LHHPKOKH_00253	gene	363				
+LHHPKOKH_00253	CDS	363				hypothetical protein
+LHHPKOKH_00254	gene	498				
+LHHPKOKH_00254	CDS	498		1.11.1.15		Peroxiredoxin
+LHHPKOKH_00255	gene	2208				
+LHHPKOKH_00255	CDS	2208				hypothetical protein
+LHHPKOKH_00256	gene	996				
+LHHPKOKH_00256	CDS	996				hypothetical protein
+LHHPKOKH_00257	gene	483				
+LHHPKOKH_00257	CDS	483				hypothetical protein
+LHHPKOKH_00258	gene	714	deoD_2			
+LHHPKOKH_00258	CDS	714	deoD_2	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+LHHPKOKH_00259	gene	165				
+LHHPKOKH_00259	CDS	165				hypothetical protein
+LHHPKOKH_00260	gene	612	yflN_1			
+LHHPKOKH_00260	CDS	612	yflN_1	3.-.-.-	COG0491	putative metallo-hydrolase YflN
+LHHPKOKH_00261	gene	495				
+LHHPKOKH_00261	CDS	495				hypothetical protein
+LHHPKOKH_00262	gene	870	ctaB1			
+LHHPKOKH_00262	CDS	870	ctaB1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase 1
+LHHPKOKH_00263	gene	76				
+LHHPKOKH_00263	tRNA	76				tRNA-Val(cac)
+LHHPKOKH_00264	gene	915				
+LHHPKOKH_00264	CDS	915				hypothetical protein
+LHHPKOKH_00265	gene	1134	fbp			
+LHHPKOKH_00265	CDS	1134	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+LHHPKOKH_00266	gene	870				
+LHHPKOKH_00266	CDS	870				hypothetical protein
+LHHPKOKH_00267	gene	771	fbiB_1			
+LHHPKOKH_00267	CDS	771	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+LHHPKOKH_00268	gene	1779	lig			
+LHHPKOKH_00268	CDS	1779	lig	6.5.1.1		DNA ligase
+LHHPKOKH_00269	gene	86				
+LHHPKOKH_00269	tRNA	86				tRNA-Ser(gct)
+LHHPKOKH_00270	gene	537				
+LHHPKOKH_00270	CDS	537				hypothetical protein
+LHHPKOKH_00271	gene	288				
+LHHPKOKH_00271	CDS	288				hypothetical protein
+LHHPKOKH_00272	gene	1617	nnr_1			
+LHHPKOKH_00272	CDS	1617	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LHHPKOKH_00273	gene	1167				
+LHHPKOKH_00273	CDS	1167				hypothetical protein
+LHHPKOKH_00274	gene	243				
+LHHPKOKH_00274	CDS	243				hypothetical protein
+LHHPKOKH_00275	gene	795	ybeM			
+LHHPKOKH_00275	CDS	795	ybeM	3.5.1.128		Deaminated glutathione amidase
+LHHPKOKH_00276	gene	675				
+LHHPKOKH_00276	CDS	675				hypothetical protein
+LHHPKOKH_00277	gene	942	htpX_1			
+LHHPKOKH_00277	CDS	942	htpX_1	3.4.24.-		Protease HtpX
+LHHPKOKH_00278	gene	369				
+LHHPKOKH_00278	CDS	369				hypothetical protein
+LHHPKOKH_00279	gene	1539	gapN			
+LHHPKOKH_00279	CDS	1539	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+LHHPKOKH_00280	gene	870	nnr_2			
+LHHPKOKH_00280	CDS	870	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LHHPKOKH_00281	gene	1083	ino1_2			
+LHHPKOKH_00281	CDS	1083	ino1_2	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+LHHPKOKH_00282	gene	813				
+LHHPKOKH_00282	CDS	813				hypothetical protein
+LHHPKOKH_00283	gene	150				
+LHHPKOKH_00283	CDS	150				hypothetical protein
+LHHPKOKH_00284	gene	507				
+LHHPKOKH_00284	CDS	507				hypothetical protein
+LHHPKOKH_00285	gene	387				
+LHHPKOKH_00285	CDS	387				hypothetical protein
+LHHPKOKH_00286	gene	561				
+LHHPKOKH_00286	CDS	561				hypothetical protein
+LHHPKOKH_00287	gene	339				
+LHHPKOKH_00287	CDS	339				hypothetical protein
+LHHPKOKH_00288	gene	414				
+LHHPKOKH_00288	CDS	414				hypothetical protein
+LHHPKOKH_00289	gene	1581				
+LHHPKOKH_00289	CDS	1581				hypothetical protein
+LHHPKOKH_00290	gene	1329	npr			
+LHHPKOKH_00290	CDS	1329	npr	1.11.1.1	COG0446	NADH peroxidase
+LHHPKOKH_00291	gene	558				
+LHHPKOKH_00291	CDS	558				hypothetical protein
+LHHPKOKH_00292	gene	1185	mat			
+LHHPKOKH_00292	CDS	1185	mat	2.5.1.6		S-adenosylmethionine synthase
+LHHPKOKH_00293	gene	714				
+LHHPKOKH_00293	CDS	714				hypothetical protein
+LHHPKOKH_00294	gene	1677	ilvB			
+LHHPKOKH_00294	CDS	1677	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+LHHPKOKH_00295	gene	495	ilvH			
+LHHPKOKH_00295	CDS	495	ilvH	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+LHHPKOKH_00296	gene	990	ilvC			
+LHHPKOKH_00296	CDS	990	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+LHHPKOKH_00297	gene	1494	leuA			
+LHHPKOKH_00297	CDS	1494	leuA	2.3.3.13		2-isopropylmalate synthase
+LHHPKOKH_00298	gene	1020	hicd_1			
+LHHPKOKH_00298	CDS	1020	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+LHHPKOKH_00299	gene	624				
+LHHPKOKH_00299	CDS	624				hypothetical protein
+LHHPKOKH_00300	gene	594	yrfG			
+LHHPKOKH_00300	CDS	594	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+LHHPKOKH_00301	gene	1023	fabH			
+LHHPKOKH_00301	CDS	1023	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+LHHPKOKH_00302	gene	1137				
+LHHPKOKH_00302	CDS	1137				hypothetical protein
+LHHPKOKH_00303	gene	390				
+LHHPKOKH_00303	CDS	390				hypothetical protein
+LHHPKOKH_00304	gene	1917				
+LHHPKOKH_00304	CDS	1917				hypothetical protein
+LHHPKOKH_00305	gene	1794				
+LHHPKOKH_00305	CDS	1794				hypothetical protein
+LHHPKOKH_00306	gene	159				
+LHHPKOKH_00306	CDS	159				hypothetical protein
+LHHPKOKH_00307	gene	120				
+LHHPKOKH_00307	CDS	120				hypothetical protein
+LHHPKOKH_00308	gene	1326	lhyD_1			
+LHHPKOKH_00308	CDS	1326	lhyD_1	3.5.2.-		L-hydantoinase
+LHHPKOKH_00309	gene	411	ideR			
+LHHPKOKH_00309	CDS	411	ideR		COG1321	Iron-dependent repressor IdeR
+LHHPKOKH_00310	gene	936				
+LHHPKOKH_00310	CDS	936				hypothetical protein
+LHHPKOKH_00311	gene	76				
+LHHPKOKH_00311	tRNA	76				tRNA-Pro(tgg)
+LHHPKOKH_00312	gene	660	bepA			
+LHHPKOKH_00312	CDS	660	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+LHHPKOKH_00313	gene	2676	ppdK			
+LHHPKOKH_00313	CDS	2676	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+LHHPKOKH_00314	gene	1320	fumC			
+LHHPKOKH_00314	CDS	1320	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+LHHPKOKH_00315	gene	282				
+LHHPKOKH_00315	CDS	282				hypothetical protein
+LHHPKOKH_00316	gene	315				
+LHHPKOKH_00316	CDS	315				hypothetical protein
+LHHPKOKH_00317	gene	615				
+LHHPKOKH_00317	CDS	615				hypothetical protein
+LHHPKOKH_00318	gene	990	truD			
+LHHPKOKH_00318	CDS	990	truD	5.4.99.27		tRNA pseudouridine synthase D
+LHHPKOKH_00319	gene	342				
+LHHPKOKH_00319	CDS	342				hypothetical protein
+LHHPKOKH_00320	gene	1407				
+LHHPKOKH_00320	CDS	1407				hypothetical protein
+LHHPKOKH_00321	gene	1524	fdrA			
+LHHPKOKH_00321	CDS	1524	fdrA		COG0074	Protein FdrA
+LHHPKOKH_00322	gene	720				
+LHHPKOKH_00322	CDS	720		4.1.2.43		3-hexulose-6-phosphate synthase
+LHHPKOKH_00323	gene	786				
+LHHPKOKH_00323	CDS	786				hypothetical protein
+LHHPKOKH_00324	gene	243				
+LHHPKOKH_00324	CDS	243				hypothetical protein
+LHHPKOKH_00325	gene	231				
+LHHPKOKH_00325	CDS	231				hypothetical protein
+LHHPKOKH_00326	gene	540	scpB			
+LHHPKOKH_00326	CDS	540	scpB			Segregation and condensation protein B
+LHHPKOKH_00327	gene	876				
+LHHPKOKH_00327	CDS	876				hypothetical protein
+LHHPKOKH_00328	gene	639				
+LHHPKOKH_00328	CDS	639				hypothetical protein
+LHHPKOKH_00329	gene	741	rnz_1			
+LHHPKOKH_00329	CDS	741	rnz_1	3.1.26.11	COG1234	Ribonuclease Z
+LHHPKOKH_00330	gene	546	udg			
+LHHPKOKH_00330	CDS	546	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+LHHPKOKH_00331	gene	594				
+LHHPKOKH_00331	CDS	594				hypothetical protein
+LHHPKOKH_00332	gene	402				
+LHHPKOKH_00332	CDS	402				hypothetical protein
+LHHPKOKH_00333	gene	1026				
+LHHPKOKH_00333	CDS	1026				hypothetical protein
+LHHPKOKH_00334	gene	1239	pgk			
+LHHPKOKH_00334	CDS	1239	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+LHHPKOKH_00335	gene	1770	btuD			
+LHHPKOKH_00335	CDS	1770	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+LHHPKOKH_00336	gene	792	surE			
+LHHPKOKH_00336	CDS	792	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+LHHPKOKH_00337	gene	201				
+LHHPKOKH_00337	CDS	201				hypothetical protein
+LHHPKOKH_00338	gene	993	thiL_1			
+LHHPKOKH_00338	CDS	993	thiL_1	2.7.4.16		Thiamine-monophosphate kinase
+LHHPKOKH_00339	gene	843				
+LHHPKOKH_00339	CDS	843				hypothetical protein
+LHHPKOKH_00340	gene	330				
+LHHPKOKH_00340	CDS	330				hypothetical protein
+LHHPKOKH_00341	gene	1596				
+LHHPKOKH_00341	CDS	1596				hypothetical protein
+LHHPKOKH_00342	gene	666				
+LHHPKOKH_00342	CDS	666				hypothetical protein
+LHHPKOKH_00343	gene	171				
+LHHPKOKH_00343	CDS	171				hypothetical protein
+LHHPKOKH_00344	gene	303				
+LHHPKOKH_00344	CDS	303				hypothetical protein
+LHHPKOKH_00345	gene	747	exoA			
+LHHPKOKH_00345	CDS	747	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+LHHPKOKH_00346	gene	948	hisC_2			
+LHHPKOKH_00346	CDS	948	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+LHHPKOKH_00347	gene	1332	lhyD_2			
+LHHPKOKH_00347	CDS	1332	lhyD_2	3.5.2.-		L-hydantoinase
+LHHPKOKH_00348	gene	582				
+LHHPKOKH_00348	CDS	582				hypothetical protein
+LHHPKOKH_00349	gene	1230	naiP_1			
+LHHPKOKH_00349	CDS	1230	naiP_1			Putative niacin/nicotinamide transporter NaiP
+LHHPKOKH_00350	gene	1008	luxA			
+LHHPKOKH_00350	CDS	1008	luxA	1.14.14.3	COG2141	Alkanal monooxygenase alpha chain
+LHHPKOKH_00351	gene	315				
+LHHPKOKH_00351	CDS	315				hypothetical protein
+LHHPKOKH_00352	gene	474				
+LHHPKOKH_00352	CDS	474				hypothetical protein
+LHHPKOKH_00353	gene	942				
+LHHPKOKH_00353	CDS	942				hypothetical protein
+LHHPKOKH_00354	gene	681				
+LHHPKOKH_00354	CDS	681				hypothetical protein
+LHHPKOKH_00355	gene	558				
+LHHPKOKH_00355	CDS	558				hypothetical protein
+LHHPKOKH_00356	gene	78				
+LHHPKOKH_00356	tRNA	78				tRNA-Ile(gat)
+LHHPKOKH_00357	gene	372				
+LHHPKOKH_00357	CDS	372				hypothetical protein
+LHHPKOKH_00358	gene	207				
+LHHPKOKH_00358	CDS	207				hypothetical protein
+LHHPKOKH_00359	gene	195				
+LHHPKOKH_00359	CDS	195				hypothetical protein
+LHHPKOKH_00360	gene	819	rph_1			
+LHHPKOKH_00360	CDS	819	rph_1	2.7.7.56		Ribonuclease PH
+LHHPKOKH_00361	gene	723	rph_2			
+LHHPKOKH_00361	CDS	723	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+LHHPKOKH_00362	gene	672				
+LHHPKOKH_00362	CDS	672				hypothetical protein
+LHHPKOKH_00363	gene	690				
+LHHPKOKH_00363	CDS	690				hypothetical protein
+LHHPKOKH_00364	gene	732	prcA			
+LHHPKOKH_00364	CDS	732	prcA			Proteasome subunit alpha
+LHHPKOKH_00365	gene	1122				
+LHHPKOKH_00365	CDS	1122				hypothetical protein
+LHHPKOKH_00366	gene	588				
+LHHPKOKH_00366	CDS	588				hypothetical protein
+LHHPKOKH_00367	gene	564	bsdB			
+LHHPKOKH_00367	CDS	564	bsdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+LHHPKOKH_00368	gene	234				
+LHHPKOKH_00368	CDS	234				hypothetical protein
+LHHPKOKH_00369	gene	678	pyrH			
+LHHPKOKH_00369	CDS	678	pyrH			Uridylate kinase
+LHHPKOKH_00370	gene	1254				
+LHHPKOKH_00370	CDS	1254				hypothetical protein
+LHHPKOKH_00371	gene	2355	valS_2			
+LHHPKOKH_00371	CDS	2355	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+LHHPKOKH_00372	gene	76				
+LHHPKOKH_00372	tRNA	76				tRNA-Thr(ggt)
+LHHPKOKH_00373	gene	102				
+LHHPKOKH_00373	CDS	102				hypothetical protein
+LHHPKOKH_00374	gene	234				
+LHHPKOKH_00374	CDS	234				hypothetical protein
+LHHPKOKH_00375	gene	483				
+LHHPKOKH_00375	CDS	483				hypothetical protein
+LHHPKOKH_00376	gene	624	sodA			
+LHHPKOKH_00376	CDS	624	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+LHHPKOKH_00377	gene	459				
+LHHPKOKH_00377	CDS	459				hypothetical protein
+LHHPKOKH_00378	gene	276				
+LHHPKOKH_00378	CDS	276				hypothetical protein
+LHHPKOKH_00379	gene	309				
+LHHPKOKH_00379	CDS	309				hypothetical protein
+LHHPKOKH_00380	gene	2007	pat			
+LHHPKOKH_00380	CDS	2007	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+LHHPKOKH_00381	gene	435				
+LHHPKOKH_00381	CDS	435				hypothetical protein
+LHHPKOKH_00382	gene	1161				
+LHHPKOKH_00382	CDS	1161		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+LHHPKOKH_00383	gene	675				
+LHHPKOKH_00383	CDS	675				hypothetical protein
+LHHPKOKH_00384	gene	1278	mtaD_1			
+LHHPKOKH_00384	CDS	1278	mtaD_1	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+LHHPKOKH_00385	gene	1017				
+LHHPKOKH_00385	CDS	1017				hypothetical protein
+LHHPKOKH_00386	gene	642	rpiA			
+LHHPKOKH_00386	CDS	642	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+LHHPKOKH_00387	gene	366				
+LHHPKOKH_00387	CDS	366				hypothetical protein
+LHHPKOKH_00388	gene	726				
+LHHPKOKH_00388	CDS	726				hypothetical protein
+LHHPKOKH_00389	gene	720				
+LHHPKOKH_00389	CDS	720				hypothetical protein
+LHHPKOKH_00390	gene	531				
+LHHPKOKH_00390	CDS	531				hypothetical protein
+LHHPKOKH_00391	gene	879	nanK			
+LHHPKOKH_00391	CDS	879	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase
+LHHPKOKH_00392	gene	726				
+LHHPKOKH_00392	CDS	726				hypothetical protein
+LHHPKOKH_00393	gene	246				
+LHHPKOKH_00393	CDS	246				hypothetical protein
+LHHPKOKH_00394	gene	402				
+LHHPKOKH_00394	CDS	402				hypothetical protein
+LHHPKOKH_00395	gene	1902				
+LHHPKOKH_00395	CDS	1902				hypothetical protein
+LHHPKOKH_00396	gene	864	rbsK			
+LHHPKOKH_00396	CDS	864	rbsK	2.7.1.15		Ribokinase
+LHHPKOKH_00397	gene	597	prcB			
+LHHPKOKH_00397	CDS	597	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+LHHPKOKH_00398	gene	243				
+LHHPKOKH_00398	CDS	243				hypothetical protein
+LHHPKOKH_00399	gene	141				
+LHHPKOKH_00399	CDS	141				hypothetical protein
+LHHPKOKH_00400	gene	1425	bchE			
+LHHPKOKH_00400	CDS	1425	bchE	1.21.98.3	COG1032	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+LHHPKOKH_00401	gene	76				
+LHHPKOKH_00401	tRNA	76				tRNA-Thr(tgt)
+LHHPKOKH_00402	gene	348				
+LHHPKOKH_00402	CDS	348				hypothetical protein
+LHHPKOKH_00403	gene	1557	miaB			
+LHHPKOKH_00403	CDS	1557	miaB	2.8.4.3		tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+LHHPKOKH_00404	gene	822				
+LHHPKOKH_00404	CDS	822				hypothetical protein
+LHHPKOKH_00405	gene	1017	thrC_3			
+LHHPKOKH_00405	CDS	1017	thrC_3	4.2.3.1	COG0498	Threonine synthase
+LHHPKOKH_00406	gene	2013	coxL			
+LHHPKOKH_00406	CDS	2013	coxL	1.2.5.3		Carbon monoxide dehydrogenase large chain
+LHHPKOKH_00407	gene	468	kdhB			
+LHHPKOKH_00407	CDS	468	kdhB	1.5.99.14		6-hydroxypseudooxynicotine dehydrogenase complex subunit beta
+LHHPKOKH_00408	gene	855				
+LHHPKOKH_00408	CDS	855				hypothetical protein
+LHHPKOKH_00409	gene	447	bcp			
+LHHPKOKH_00409	CDS	447	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+LHHPKOKH_00410	gene	297				
+LHHPKOKH_00410	CDS	297				hypothetical protein
+LHHPKOKH_00411	gene	1209	apnhaP			
+LHHPKOKH_00411	CDS	1209	apnhaP			Na(+)/H(+) antiporter ApNhaP
+LHHPKOKH_00412	gene	258				
+LHHPKOKH_00412	CDS	258				hypothetical protein
+LHHPKOKH_00413	gene	510				
+LHHPKOKH_00413	CDS	510				hypothetical protein
+LHHPKOKH_00414	gene	1482				
+LHHPKOKH_00414	CDS	1482				hypothetical protein
+LHHPKOKH_00415	gene	750	natA			
+LHHPKOKH_00415	CDS	750	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+LHHPKOKH_00416	gene	1539				
+LHHPKOKH_00416	CDS	1539				hypothetical protein
+LHHPKOKH_00417	gene	771	lnrL_1			
+LHHPKOKH_00417	CDS	771	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LHHPKOKH_00418	gene	1140	ybhR			
+LHHPKOKH_00418	CDS	1140	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+LHHPKOKH_00419	gene	405				
+LHHPKOKH_00419	CDS	405				hypothetical protein
+LHHPKOKH_00420	gene	345				
+LHHPKOKH_00420	CDS	345				hypothetical protein
+LHHPKOKH_00421	gene	411				
+LHHPKOKH_00421	CDS	411				hypothetical protein
+LHHPKOKH_00422	gene	1332				
+LHHPKOKH_00422	CDS	1332				hypothetical protein
+LHHPKOKH_00423	gene	738				
+LHHPKOKH_00423	CDS	738				hypothetical protein
+LHHPKOKH_00424	gene	534	act			
+LHHPKOKH_00424	CDS	534	act	3.-.-.-		Methanol dehydrogenase activator
+LHHPKOKH_00425	gene	729	glpQ			
+LHHPKOKH_00425	CDS	729	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+LHHPKOKH_00426	gene	351	glpK_1			
+LHHPKOKH_00426	CDS	351	glpK_1	2.7.1.30		Glycerol kinase
+LHHPKOKH_00427	gene	291	glpK_2			
+LHHPKOKH_00427	CDS	291	glpK_2	2.7.1.30	COG0554	Glycerol kinase
+LHHPKOKH_00428	gene	330	glpK_3			
+LHHPKOKH_00428	CDS	330	glpK_3	2.7.1.30	COG0554	Glycerol kinase
+LHHPKOKH_00429	gene	264	glpK_4			
+LHHPKOKH_00429	CDS	264	glpK_4	2.7.1.30		Glycerol kinase
+LHHPKOKH_00430	gene	498				
+LHHPKOKH_00430	CDS	498				hypothetical protein
+LHHPKOKH_00431	gene	1242	glpA			
+LHHPKOKH_00431	CDS	1242	glpA	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+LHHPKOKH_00432	gene	456	chrB1			
+LHHPKOKH_00432	CDS	456	chrB1			Protein ChrB
+LHHPKOKH_00433	gene	693				
+LHHPKOKH_00433	CDS	693				hypothetical protein
+LHHPKOKH_00434	gene	336	dsvC			
+LHHPKOKH_00434	CDS	336	dsvC	1.8.99.5	COG2920	Sulfite reductase, dissimilatory-type subunit gamma
+LHHPKOKH_00435	gene	1128	dsvB			
+LHHPKOKH_00435	CDS	1128	dsvB	1.8.99.5	COG2221	Sulfite reductase, dissimilatory-type subunit beta
+LHHPKOKH_00436	gene	1236	dsvA			
+LHHPKOKH_00436	CDS	1236	dsvA		COG2221	Sulfite reductase, dissimilatory-type subunit alpha
+LHHPKOKH_00437	gene	918				
+LHHPKOKH_00437	CDS	918				hypothetical protein
+LHHPKOKH_00438	gene	1602				
+LHHPKOKH_00438	CDS	1602				hypothetical protein
+LHHPKOKH_00439	gene	345				
+LHHPKOKH_00439	CDS	345				hypothetical protein
+LHHPKOKH_00440	gene	1416				
+LHHPKOKH_00440	CDS	1416				hypothetical protein
+LHHPKOKH_00441	gene	597				
+LHHPKOKH_00441	CDS	597				hypothetical protein
+LHHPKOKH_00442	gene	621	cysG			
+LHHPKOKH_00442	CDS	621	cysG		COG0007	Siroheme synthase
+LHHPKOKH_00443	gene	966				
+LHHPKOKH_00443	CDS	966				hypothetical protein
+LHHPKOKH_00444	gene	531				
+LHHPKOKH_00444	CDS	531				hypothetical protein
+LHHPKOKH_00445	gene	531				
+LHHPKOKH_00445	CDS	531				hypothetical protein
+LHHPKOKH_00446	gene	1368				
+LHHPKOKH_00446	CDS	1368				hypothetical protein
+LHHPKOKH_00447	gene	567				
+LHHPKOKH_00447	CDS	567				hypothetical protein
+LHHPKOKH_00448	gene	1398	rsxB			
+LHHPKOKH_00448	CDS	1398	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+LHHPKOKH_00449	gene	1173				
+LHHPKOKH_00449	CDS	1173				hypothetical protein
+LHHPKOKH_00450	gene	687	ttrB			
+LHHPKOKH_00450	CDS	687	ttrB		COG0437	Tetrathionate reductase subunit B
+LHHPKOKH_00451	gene	3075	napA			
+LHHPKOKH_00451	CDS	3075	napA	1.9.6.1		Periplasmic nitrate reductase
+LHHPKOKH_00452	gene	540				
+LHHPKOKH_00452	CDS	540				hypothetical protein
+LHHPKOKH_00453	gene	711				
+LHHPKOKH_00453	CDS	711				hypothetical protein
+LHHPKOKH_00454	gene	1749	smc_3			
+LHHPKOKH_00454	CDS	1749	smc_3			Chromosome partition protein Smc
+LHHPKOKH_00455	gene	570				
+LHHPKOKH_00455	CDS	570				hypothetical protein
+LHHPKOKH_00456	gene	402	menI			
+LHHPKOKH_00456	CDS	402	menI	3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+LHHPKOKH_00457	gene	1158				
+LHHPKOKH_00457	CDS	1158		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+LHHPKOKH_00458	gene	1047	mmgC			
+LHHPKOKH_00458	CDS	1047	mmgC	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+LHHPKOKH_00459	gene	1125	carC			
+LHHPKOKH_00459	CDS	1125	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+LHHPKOKH_00460	gene	1185	fadA			
+LHHPKOKH_00460	CDS	1185	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+LHHPKOKH_00461	gene	2013	fadB			
+LHHPKOKH_00461	CDS	2013	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+LHHPKOKH_00462	gene	342	ubiJ			
+LHHPKOKH_00462	CDS	342	ubiJ			Ubiquinone biosynthesis accessory factor UbiJ
+LHHPKOKH_00463	gene	153				
+LHHPKOKH_00463	CDS	153				hypothetical protein
+LHHPKOKH_00464	gene	1029				
+LHHPKOKH_00464	CDS	1029				hypothetical protein
+LHHPKOKH_00465	gene	2115	deaD			
+LHHPKOKH_00465	CDS	2115	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+LHHPKOKH_00466	gene	573				
+LHHPKOKH_00466	CDS	573				hypothetical protein
+LHHPKOKH_00467	gene	2193	fusA			
+LHHPKOKH_00467	CDS	2193	fusA		COG0480	Elongation factor G
+LHHPKOKH_00468	gene	369				
+LHHPKOKH_00468	CDS	369				hypothetical protein
+LHHPKOKH_00469	gene	1659	moaA_1			
+LHHPKOKH_00469	CDS	1659	moaA_1			GTP 3',8-cyclase
+LHHPKOKH_00470	gene	1269	gdhA_2			
+LHHPKOKH_00470	CDS	1269	gdhA_2	1.4.1.3	COG0334	Glutamate dehydrogenase
+LHHPKOKH_00471	gene	2238	pucD_3			
+LHHPKOKH_00471	CDS	2238	pucD_3	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+LHHPKOKH_00472	gene	900	ndhF_2			
+LHHPKOKH_00472	CDS	900	ndhF_2	1.17.1.5		Nicotinate dehydrogenase FAD-subunit
+LHHPKOKH_00473	gene	471	ndhS_3			
+LHHPKOKH_00473	CDS	471	ndhS_3	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+LHHPKOKH_00474	gene	945	mtnA_1			
+LHHPKOKH_00474	CDS	945	mtnA_1	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+LHHPKOKH_00475	gene	180				
+LHHPKOKH_00475	CDS	180				hypothetical protein
+LHHPKOKH_00476	gene	1746				
+LHHPKOKH_00476	CDS	1746				hypothetical protein
+LHHPKOKH_00477	gene	687				
+LHHPKOKH_00477	CDS	687				hypothetical protein
+LHHPKOKH_00478	gene	357	yabJ			
+LHHPKOKH_00478	CDS	357	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+LHHPKOKH_00479	gene	86				
+LHHPKOKH_00479	tRNA	86				tRNA-Ser(tga)
+LHHPKOKH_00480	gene	1365	mtaD_2			
+LHHPKOKH_00480	CDS	1365	mtaD_2	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+LHHPKOKH_00481	gene	711	ecfT_1			
+LHHPKOKH_00481	CDS	711	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+LHHPKOKH_00482	gene	804	ecfA2			
+LHHPKOKH_00482	CDS	804	ecfA2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA2
+LHHPKOKH_00483	gene	828	ykoD_2			
+LHHPKOKH_00483	CDS	828	ykoD_2	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LHHPKOKH_00484	gene	378				
+LHHPKOKH_00484	CDS	378				hypothetical protein
+LHHPKOKH_00485	gene	675				
+LHHPKOKH_00485	CDS	675				hypothetical protein
+LHHPKOKH_00486	gene	480				
+LHHPKOKH_00486	CDS	480				hypothetical protein
+LHHPKOKH_00487	gene	105				
+LHHPKOKH_00487	CDS	105				hypothetical protein
+LHHPKOKH_00488	gene	1119	ppaT			
+LHHPKOKH_00488	CDS	1119	ppaT	2.6.1.30	COG0075	Pyridoxamine--pyruvate transaminase
+LHHPKOKH_00489	gene	1488				
+LHHPKOKH_00489	CDS	1488				hypothetical protein
+LHHPKOKH_00490	gene	939	yhdN_1			
+LHHPKOKH_00490	CDS	939	yhdN_1	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+LHHPKOKH_00491	gene	1296				
+LHHPKOKH_00491	CDS	1296				hypothetical protein
+LHHPKOKH_00492	gene	993				
+LHHPKOKH_00492	CDS	993				hypothetical protein
+LHHPKOKH_00493	gene	279				
+LHHPKOKH_00493	CDS	279				hypothetical protein
+LHHPKOKH_00494	gene	342				
+LHHPKOKH_00494	CDS	342				hypothetical protein
+LHHPKOKH_00495	gene	255				
+LHHPKOKH_00495	CDS	255				hypothetical protein
+LHHPKOKH_00496	gene	954	ttuA_2			
+LHHPKOKH_00496	CDS	954	ttuA_2	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+LHHPKOKH_00497	gene	966	mraY			
+LHHPKOKH_00497	CDS	966	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LHHPKOKH_00498	gene	228				
+LHHPKOKH_00498	CDS	228				hypothetical protein
+LHHPKOKH_00499	gene	315	yqjI			
+LHHPKOKH_00499	CDS	315	yqjI		COG1695	Transcriptional regulator YqjI
+LHHPKOKH_00500	gene	1077	salA			
+LHHPKOKH_00500	CDS	1077	salA		COG0489	Iron-sulfur cluster carrier protein
+LHHPKOKH_00501	gene	552				
+LHHPKOKH_00501	CDS	552				hypothetical protein
+LHHPKOKH_00502	gene	1080	mftC			
+LHHPKOKH_00502	CDS	1080	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+LHHPKOKH_00503	gene	1356	hemY			
+LHHPKOKH_00503	CDS	1356	hemY	1.3.3.4	COG1232	Protoporphyrinogen oxidase
+LHHPKOKH_00504	gene	75				
+LHHPKOKH_00504	tRNA	75				tRNA-Arg(gcg)
+LHHPKOKH_00505	gene	357				
+LHHPKOKH_00505	CDS	357				hypothetical protein
+LHHPKOKH_00506	gene	777	cinA			
+LHHPKOKH_00506	CDS	777	cinA		COG1058	Putative competence-damage inducible protein
+LHHPKOKH_00507	gene	1026	argF'_2			
+LHHPKOKH_00507	CDS	1026	argF'_2	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+LHHPKOKH_00508	gene	783	proB			
+LHHPKOKH_00508	CDS	783	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+LHHPKOKH_00509	gene	666	deoC			
+LHHPKOKH_00509	CDS	666	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+LHHPKOKH_00510	gene	414				
+LHHPKOKH_00510	CDS	414				hypothetical protein
+LHHPKOKH_00511	gene	450				
+LHHPKOKH_00511	CDS	450				hypothetical protein
+LHHPKOKH_00512	gene	339				
+LHHPKOKH_00512	CDS	339				hypothetical protein
+LHHPKOKH_00513	gene	768				
+LHHPKOKH_00513	CDS	768				hypothetical protein
+LHHPKOKH_00514	gene	459				
+LHHPKOKH_00514	CDS	459				hypothetical protein
+LHHPKOKH_00515	gene	477				
+LHHPKOKH_00515	CDS	477				hypothetical protein
+LHHPKOKH_00516	gene	513				
+LHHPKOKH_00516	CDS	513				hypothetical protein
+LHHPKOKH_00517	gene	1137	sthA			
+LHHPKOKH_00517	CDS	1137	sthA	1.6.1.1		Soluble pyridine nucleotide transhydrogenase
+LHHPKOKH_00518	gene	546				
+LHHPKOKH_00518	CDS	546				hypothetical protein
+LHHPKOKH_00519	gene	336				
+LHHPKOKH_00519	CDS	336				hypothetical protein
+LHHPKOKH_00520	gene	870				
+LHHPKOKH_00520	CDS	870				hypothetical protein
+LHHPKOKH_00521	gene	411				
+LHHPKOKH_00521	CDS	411				hypothetical protein
+LHHPKOKH_00522	gene	1008				
+LHHPKOKH_00522	CDS	1008				hypothetical protein
+LHHPKOKH_00523	gene	231				
+LHHPKOKH_00523	CDS	231				hypothetical protein
+LHHPKOKH_00524	gene	531				
+LHHPKOKH_00524	CDS	531				hypothetical protein
+LHHPKOKH_00525	gene	324				
+LHHPKOKH_00525	CDS	324				hypothetical protein
+LHHPKOKH_00526	gene	567				
+LHHPKOKH_00526	CDS	567				hypothetical protein
+LHHPKOKH_00527	gene	969	thiL_2			
+LHHPKOKH_00527	CDS	969	thiL_2	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+LHHPKOKH_00528	gene	420				
+LHHPKOKH_00528	CDS	420				hypothetical protein
+LHHPKOKH_00529	gene	150				
+LHHPKOKH_00529	CDS	150				hypothetical protein
+LHHPKOKH_00530	gene	1227				
+LHHPKOKH_00530	CDS	1227				hypothetical protein
+LHHPKOKH_00531	gene	324				
+LHHPKOKH_00531	CDS	324				hypothetical protein
+LHHPKOKH_00532	gene	309				
+LHHPKOKH_00532	CDS	309				hypothetical protein
+LHHPKOKH_00533	gene	618				
+LHHPKOKH_00533	CDS	618				hypothetical protein
+LHHPKOKH_00534	gene	76				
+LHHPKOKH_00534	tRNA	76				tRNA-Met(cat)
+LHHPKOKH_00535	gene	420				
+LHHPKOKH_00535	CDS	420				hypothetical protein
+LHHPKOKH_00536	gene	1005	drrA			
+LHHPKOKH_00536	CDS	1005	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+LHHPKOKH_00537	gene	873	drrC			
+LHHPKOKH_00537	CDS	873	drrC		COG0842	putative doxorubicin resistance ABC transporter permease protein DrrC
+LHHPKOKH_00538	gene	801	fbiB_2			
+LHHPKOKH_00538	CDS	801	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+LHHPKOKH_00539	gene	408				
+LHHPKOKH_00539	CDS	408				hypothetical protein
+LHHPKOKH_00540	gene	699				
+LHHPKOKH_00540	CDS	699				hypothetical protein
+LHHPKOKH_00541	gene	591	mobA_2			
+LHHPKOKH_00541	CDS	591	mobA_2	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+LHHPKOKH_00542	gene	1032	polA			
+LHHPKOKH_00542	CDS	1032	polA	2.7.7.7		DNA polymerase I, thermostable
+LHHPKOKH_00543	gene	633	pcm			
+LHHPKOKH_00543	CDS	633	pcm	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+LHHPKOKH_00544	gene	1353	ssnA			
+LHHPKOKH_00544	CDS	1353	ssnA	3.-.-.-	COG0402	Putative aminohydrolase SsnA
+LHHPKOKH_00545	gene	1377				
+LHHPKOKH_00545	CDS	1377				hypothetical protein
+LHHPKOKH_00546	gene	282				
+LHHPKOKH_00546	CDS	282				hypothetical protein
+LHHPKOKH_00547	gene	342				
+LHHPKOKH_00547	CDS	342				hypothetical protein
+LHHPKOKH_00548	gene	1170				
+LHHPKOKH_00548	CDS	1170				hypothetical protein
+LHHPKOKH_00549	gene	540	dcd			
+LHHPKOKH_00549	CDS	540	dcd	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+LHHPKOKH_00550	gene	150				
+LHHPKOKH_00550	CDS	150				hypothetical protein
+LHHPKOKH_00551	gene	1272	yhdG			
+LHHPKOKH_00551	CDS	1272	yhdG		COG0531	putative amino acid permease YhdG
+LHHPKOKH_00552	gene	76				
+LHHPKOKH_00552	tRNA	76				tRNA-Pro(ggg)
+LHHPKOKH_00553	gene	216				
+LHHPKOKH_00553	CDS	216				hypothetical protein
+LHHPKOKH_00554	gene	1533	mctP			
+LHHPKOKH_00554	CDS	1533	mctP			Monocarboxylate transport permease protein
+LHHPKOKH_00555	gene	1446	ywrD			
+LHHPKOKH_00555	CDS	1446	ywrD	2.3.2.2	COG0405	Glutathione hydrolase-like YwrD proenzyme
+LHHPKOKH_00556	gene	753				
+LHHPKOKH_00556	CDS	753				hypothetical protein
+LHHPKOKH_00557	gene	750	trpC			
+LHHPKOKH_00557	CDS	750	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+LHHPKOKH_00558	gene	585	trpG			
+LHHPKOKH_00558	CDS	585	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+LHHPKOKH_00559	gene	1308	trpE			
+LHHPKOKH_00559	CDS	1308	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+LHHPKOKH_00560	gene	591	trpF			
+LHHPKOKH_00560	CDS	591	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+LHHPKOKH_00561	gene	1044	trpD			
+LHHPKOKH_00561	CDS	1044	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+LHHPKOKH_00562	gene	735	trpA			
+LHHPKOKH_00562	CDS	735	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+LHHPKOKH_00563	gene	1254	trpB_1			
+LHHPKOKH_00563	CDS	1254	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+LHHPKOKH_00564	gene	288				
+LHHPKOKH_00564	CDS	288				hypothetical protein
+LHHPKOKH_00565	gene	1014	adhT			
+LHHPKOKH_00565	CDS	1014	adhT	1.1.1.1		Alcohol dehydrogenase
+LHHPKOKH_00566	gene	1137	aspC			
+LHHPKOKH_00566	CDS	1137	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+LHHPKOKH_00567	gene	534				
+LHHPKOKH_00567	CDS	534				hypothetical protein
+LHHPKOKH_00568	gene	453				
+LHHPKOKH_00568	CDS	453				hypothetical protein
+LHHPKOKH_00569	gene	1557				
+LHHPKOKH_00569	CDS	1557				hypothetical protein
+LHHPKOKH_00570	gene	1569	tuf			
+LHHPKOKH_00570	CDS	1569	tuf		COG0050	Elongation factor Tu
+LHHPKOKH_00571	gene	513	yrdA			
+LHHPKOKH_00571	CDS	513	yrdA		COG0663	Protein YrdA
+LHHPKOKH_00572	gene	777				
+LHHPKOKH_00572	CDS	777				hypothetical protein
+LHHPKOKH_00573	gene	1335	lysA			
+LHHPKOKH_00573	CDS	1335	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+LHHPKOKH_00574	gene	339				
+LHHPKOKH_00574	CDS	339				hypothetical protein
+LHHPKOKH_00575	gene	1230				
+LHHPKOKH_00575	CDS	1230				hypothetical protein
+LHHPKOKH_00576	gene	1122				
+LHHPKOKH_00576	CDS	1122				hypothetical protein
+LHHPKOKH_00577	gene	831				
+LHHPKOKH_00577	CDS	831				hypothetical protein
+LHHPKOKH_00578	gene	1248	proA			
+LHHPKOKH_00578	CDS	1248	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+LHHPKOKH_00579	gene	1821	glmS			
+LHHPKOKH_00579	CDS	1821	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LHHPKOKH_00580	gene	471				
+LHHPKOKH_00580	CDS	471				hypothetical protein
+LHHPKOKH_00581	gene	396				
+LHHPKOKH_00581	CDS	396				hypothetical protein
+LHHPKOKH_00582	gene	1020				
+LHHPKOKH_00582	CDS	1020				hypothetical protein
+LHHPKOKH_00583	gene	1470				
+LHHPKOKH_00583	CDS	1470				hypothetical protein
+LHHPKOKH_00584	gene	1056				
+LHHPKOKH_00584	CDS	1056		3.4.-.-		putative peptidase
+LHHPKOKH_00585	gene	1257	serS			
+LHHPKOKH_00585	CDS	1257	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+LHHPKOKH_00586	gene	240				
+LHHPKOKH_00586	CDS	240				hypothetical protein
+LHHPKOKH_00587	gene	1290				
+LHHPKOKH_00587	CDS	1290				hypothetical protein
+LHHPKOKH_00588	gene	1437	ribZ_2			
+LHHPKOKH_00588	CDS	1437	ribZ_2			Riboflavin transporter RibZ
+LHHPKOKH_00589	gene	1005	mshA			
+LHHPKOKH_00589	CDS	1005	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+LHHPKOKH_00590	gene	1092				
+LHHPKOKH_00590	CDS	1092				hypothetical protein
+LHHPKOKH_00591	gene	741				
+LHHPKOKH_00591	CDS	741				hypothetical protein
+LHHPKOKH_00592	gene	1305	cbbL			
+LHHPKOKH_00592	CDS	1305	cbbL	4.1.1.39		Ribulose bisphosphate carboxylase large chain
+LHHPKOKH_00593	gene	735				
+LHHPKOKH_00593	CDS	735				hypothetical protein
+LHHPKOKH_00594	gene	1767	infB			
+LHHPKOKH_00594	CDS	1767	infB			Translation initiation factor IF-2
+LHHPKOKH_00595	gene	630	leuD			
+LHHPKOKH_00595	CDS	630	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+LHHPKOKH_00596	gene	1413	leuC			
+LHHPKOKH_00596	CDS	1413	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+LHHPKOKH_00597	gene	729				
+LHHPKOKH_00597	CDS	729				hypothetical protein
+LHHPKOKH_00598	gene	1245	mtaD_3			
+LHHPKOKH_00598	CDS	1245	mtaD_3	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+LHHPKOKH_00599	gene	756	trmI			
+LHHPKOKH_00599	CDS	756	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+LHHPKOKH_00600	gene	927				
+LHHPKOKH_00600	CDS	927				hypothetical protein
+LHHPKOKH_00601	gene	639				
+LHHPKOKH_00601	CDS	639				hypothetical protein
+LHHPKOKH_00602	gene	1614	metG			
+LHHPKOKH_00602	CDS	1614	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+LHHPKOKH_00603	gene	930	mdh			
+LHHPKOKH_00603	CDS	930	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+LHHPKOKH_00604	gene	234				
+LHHPKOKH_00604	CDS	234				hypothetical protein
+LHHPKOKH_00605	gene	1029	hicd_2			
+LHHPKOKH_00605	CDS	1029	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+LHHPKOKH_00606	gene	2625	citB			
+LHHPKOKH_00606	CDS	2625	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+LHHPKOKH_00607	gene	384				
+LHHPKOKH_00607	CDS	384				hypothetical protein
+LHHPKOKH_00608	gene	612				
+LHHPKOKH_00608	CDS	612				hypothetical protein
+LHHPKOKH_00609	gene	864	mmgF			
+LHHPKOKH_00609	CDS	864	mmgF	4.1.3.-	COG2513	2-methylisocitrate lyase
+LHHPKOKH_00610	gene	1293	prpD2			
+LHHPKOKH_00610	CDS	1293	prpD2	4.2.1.79	COG2079	2-methylcitrate dehydratase 2
+LHHPKOKH_00611	gene	73				
+LHHPKOKH_00611	tRNA	73				tRNA-Gln(ttg)
+LHHPKOKH_00612	gene	585				
+LHHPKOKH_00612	CDS	585		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+LHHPKOKH_00613	gene	1362	ndhB			
+LHHPKOKH_00613	CDS	1362	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+LHHPKOKH_00614	gene	2001	nuoL			
+LHHPKOKH_00614	CDS	2001	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+LHHPKOKH_00615	gene	1506	mrpA			
+LHHPKOKH_00615	CDS	1506	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+LHHPKOKH_00616	gene	324	ndhE			
+LHHPKOKH_00616	CDS	324	ndhE	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic
+LHHPKOKH_00617	gene	522				
+LHHPKOKH_00617	CDS	522				hypothetical protein
+LHHPKOKH_00618	gene	540	nuoI			
+LHHPKOKH_00618	CDS	540	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+LHHPKOKH_00619	gene	1020	ndhA			
+LHHPKOKH_00619	CDS	1020	ndhA	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+LHHPKOKH_00620	gene	1212	nqo4			
+LHHPKOKH_00620	CDS	1212	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+LHHPKOKH_00621	gene	510	ndhJ			
+LHHPKOKH_00621	CDS	510	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+LHHPKOKH_00622	gene	534	ndhK			
+LHHPKOKH_00622	CDS	534	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+LHHPKOKH_00623	gene	375				
+LHHPKOKH_00623	CDS	375				hypothetical protein
+LHHPKOKH_00624	gene	849	nfo			
+LHHPKOKH_00624	CDS	849	nfo	3.1.21.2	COG0648	putative endonuclease 4
+LHHPKOKH_00625	gene	627				
+LHHPKOKH_00625	CDS	627				hypothetical protein
+LHHPKOKH_00626	gene	564				
+LHHPKOKH_00626	CDS	564				hypothetical protein
+LHHPKOKH_00627	gene	105				
+LHHPKOKH_00627	CDS	105				hypothetical protein
+LHHPKOKH_00628	gene	76				
+LHHPKOKH_00628	tRNA	76				tRNA-Gly(gcc)
+LHHPKOKH_00629	gene	1353				
+LHHPKOKH_00629	CDS	1353				hypothetical protein
+LHHPKOKH_00630	gene	528				
+LHHPKOKH_00630	CDS	528				hypothetical protein
+LHHPKOKH_00631	gene	288				
+LHHPKOKH_00631	CDS	288				hypothetical protein
+LHHPKOKH_00632	gene	672				
+LHHPKOKH_00632	CDS	672				hypothetical protein
+LHHPKOKH_00633	gene	1263				
+LHHPKOKH_00633	CDS	1263				hypothetical protein
+LHHPKOKH_00634	gene	831				
+LHHPKOKH_00634	CDS	831				hypothetical protein
+LHHPKOKH_00635	gene	76				
+LHHPKOKH_00635	tRNA	76				tRNA-Pro(cgg)
+LHHPKOKH_00636	gene	489				
+LHHPKOKH_00636	CDS	489			COG1720	S-adenosyl-L-methionine-binding protein
+LHHPKOKH_00637	gene	681				
+LHHPKOKH_00637	CDS	681				hypothetical protein
+LHHPKOKH_00638	gene	990				
+LHHPKOKH_00638	CDS	990				hypothetical protein
+LHHPKOKH_00639	gene	1416	csbC			
+LHHPKOKH_00639	CDS	1416	csbC			putative metabolite transport protein CsbC
+LHHPKOKH_00640	gene	462				
+LHHPKOKH_00640	CDS	462				hypothetical protein
+LHHPKOKH_00641	gene	507				
+LHHPKOKH_00641	CDS	507				hypothetical protein
+LHHPKOKH_00642	gene	2484				
+LHHPKOKH_00642	CDS	2484				hypothetical protein
+LHHPKOKH_00643	gene	1605				
+LHHPKOKH_00643	CDS	1605				hypothetical protein
+LHHPKOKH_00644	gene	168				
+LHHPKOKH_00644	CDS	168				hypothetical protein
+LHHPKOKH_00645	gene	822	yhdN_2			
+LHHPKOKH_00645	CDS	822	yhdN_2	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+LHHPKOKH_00646	gene	240				
+LHHPKOKH_00646	CDS	240				hypothetical protein
+LHHPKOKH_00647	gene	714	trmL			
+LHHPKOKH_00647	CDS	714	trmL	2.1.1.207		tRNA (cytidine(34)-2'-O)-methyltransferase
+LHHPKOKH_00648	gene	552				
+LHHPKOKH_00648	CDS	552				hypothetical protein
+LHHPKOKH_00649	gene	486	fdtC			
+LHHPKOKH_00649	CDS	486	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+LHHPKOKH_00650	gene	168				
+LHHPKOKH_00650	CDS	168				hypothetical protein
+LHHPKOKH_00651	gene	687				
+LHHPKOKH_00651	CDS	687				hypothetical protein
+LHHPKOKH_00652	gene	990	hemE			
+LHHPKOKH_00652	CDS	990	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+LHHPKOKH_00653	gene	1284	hemL			
+LHHPKOKH_00653	CDS	1284	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+LHHPKOKH_00654	gene	981	hemB			
+LHHPKOKH_00654	CDS	981	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+LHHPKOKH_00655	gene	699				
+LHHPKOKH_00655	CDS	699				hypothetical protein
+LHHPKOKH_00656	gene	501	grpE			
+LHHPKOKH_00656	CDS	501	grpE		COG0576	Protein GrpE
+LHHPKOKH_00657	gene	1827	dnaK			
+LHHPKOKH_00657	CDS	1827	dnaK		COG0443	Chaperone protein DnaK
+LHHPKOKH_00658	gene	1086	dnaJ			
+LHHPKOKH_00658	CDS	1086	dnaJ		COG0484	Chaperone protein DnaJ
+LHHPKOKH_00659	gene	1191	hemA			
+LHHPKOKH_00659	CDS	1191	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+LHHPKOKH_00660	gene	864	hemC			
+LHHPKOKH_00660	CDS	864	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+LHHPKOKH_00661	gene	513				
+LHHPKOKH_00661	CDS	513				hypothetical protein
+LHHPKOKH_00662	gene	306				
+LHHPKOKH_00662	CDS	306				hypothetical protein
+LHHPKOKH_00663	gene	1362	algC			
+LHHPKOKH_00663	CDS	1362	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+LHHPKOKH_00664	gene	996	truB			
+LHHPKOKH_00664	CDS	996	truB	5.4.99.25		tRNA pseudouridine synthase B
+LHHPKOKH_00665	gene	597	cmk_1			
+LHHPKOKH_00665	CDS	597	cmk_1	2.7.4.25		Cytidylate kinase
+LHHPKOKH_00666	gene	74				
+LHHPKOKH_00666	tRNA	74				tRNA-Asn(gtt)
+LHHPKOKH_00667	gene	435	nhaX			
+LHHPKOKH_00667	CDS	435	nhaX		COG0589	Stress response protein NhaX
+LHHPKOKH_00668	gene	546				
+LHHPKOKH_00668	CDS	546				hypothetical protein
+LHHPKOKH_00669	gene	852	cyoE			
+LHHPKOKH_00669	CDS	852	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+LHHPKOKH_00670	gene	1122	ruvB			
+LHHPKOKH_00670	CDS	1122	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+LHHPKOKH_00671	gene	795				
+LHHPKOKH_00671	CDS	795				hypothetical protein
+LHHPKOKH_00672	gene	1053	cysK			
+LHHPKOKH_00672	CDS	1053	cysK	2.5.1.47	COG0031	Cysteine synthase A
+LHHPKOKH_00673	gene	333				
+LHHPKOKH_00673	CDS	333				hypothetical protein
+LHHPKOKH_00674	gene	741				
+LHHPKOKH_00674	CDS	741				hypothetical protein
+LHHPKOKH_00675	gene	912	ecfT_2			
+LHHPKOKH_00675	CDS	912	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+LHHPKOKH_00676	gene	1338	trpB_2			
+LHHPKOKH_00676	CDS	1338	trpB_2	4.2.1.20		Tryptophan synthase beta chain
+LHHPKOKH_00677	gene	966				
+LHHPKOKH_00677	CDS	966				hypothetical protein
+LHHPKOKH_00678	gene	621	pspA			
+LHHPKOKH_00678	CDS	621	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+LHHPKOKH_00679	gene	972	moaA_2			
+LHHPKOKH_00679	CDS	972	moaA_2	4.1.99.22	COG2896	GTP 3',8-cyclase
+LHHPKOKH_00680	gene	573				
+LHHPKOKH_00680	CDS	573				hypothetical protein
+LHHPKOKH_00681	gene	1011	adh			
+LHHPKOKH_00681	CDS	1011	adh	1.1.1.1		Alcohol dehydrogenase
+LHHPKOKH_00682	gene	750				
+LHHPKOKH_00682	CDS	750				hypothetical protein
+LHHPKOKH_00683	gene	900	rutA			
+LHHPKOKH_00683	CDS	900	rutA	1.14.99.46		Pyrimidine monooxygenase RutA
+LHHPKOKH_00684	gene	126				
+LHHPKOKH_00684	CDS	126				hypothetical protein
+LHHPKOKH_00685	gene	222				
+LHHPKOKH_00685	CDS	222				hypothetical protein
+LHHPKOKH_00686	gene	687	udgB			
+LHHPKOKH_00686	CDS	687	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+LHHPKOKH_00687	gene	885	ffh			
+LHHPKOKH_00687	CDS	885	ffh		COG0541	Signal recognition particle protein
+LHHPKOKH_00688	gene	435	pfdA			
+LHHPKOKH_00688	CDS	435	pfdA			Prefoldin subunit alpha
+LHHPKOKH_00689	gene	975				
+LHHPKOKH_00689	CDS	975				hypothetical protein
+LHHPKOKH_00690	gene	627	gpmA			
+LHHPKOKH_00690	CDS	627	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LHHPKOKH_00691	gene	378				
+LHHPKOKH_00691	CDS	378				hypothetical protein
+LHHPKOKH_00692	gene	1293				
+LHHPKOKH_00692	CDS	1293				hypothetical protein
+LHHPKOKH_00693	gene	1422				
+LHHPKOKH_00693	CDS	1422				hypothetical protein
+LHHPKOKH_00694	gene	153				
+LHHPKOKH_00694	CDS	153				hypothetical protein
+LHHPKOKH_00695	gene	438				
+LHHPKOKH_00695	CDS	438				hypothetical protein
+LHHPKOKH_00696	gene	912	fbiA			
+LHHPKOKH_00696	CDS	912	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+LHHPKOKH_00697	gene	483				
+LHHPKOKH_00697	CDS	483				hypothetical protein
+LHHPKOKH_00698	gene	318				
+LHHPKOKH_00698	CDS	318				hypothetical protein
+LHHPKOKH_00699	gene	693				
+LHHPKOKH_00699	CDS	693				hypothetical protein
+LHHPKOKH_00700	gene	732				
+LHHPKOKH_00700	CDS	732				hypothetical protein
+LHHPKOKH_00701	gene	1257	ykoD_3			
+LHHPKOKH_00701	CDS	1257	ykoD_3	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+LHHPKOKH_00702	gene	789				
+LHHPKOKH_00702	CDS	789				hypothetical protein
+LHHPKOKH_00703	gene	1200				
+LHHPKOKH_00703	CDS	1200				hypothetical protein
+LHHPKOKH_00704	gene	747	lnrL_2			
+LHHPKOKH_00704	CDS	747	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+LHHPKOKH_00705	gene	1410				
+LHHPKOKH_00705	CDS	1410				hypothetical protein
+LHHPKOKH_00706	gene	1782				
+LHHPKOKH_00706	CDS	1782				hypothetical protein
+LHHPKOKH_00707	gene	1065	ugpC			
+LHHPKOKH_00707	CDS	1065	ugpC	7.6.2.10	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+LHHPKOKH_00708	gene	393				
+LHHPKOKH_00708	CDS	393				hypothetical protein
+LHHPKOKH_00709	gene	585	rlmE			
+LHHPKOKH_00709	CDS	585	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+LHHPKOKH_00710	gene	1332	glyA			
+LHHPKOKH_00710	CDS	1332	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+LHHPKOKH_00711	gene	1119				
+LHHPKOKH_00711	CDS	1119				hypothetical protein
+LHHPKOKH_00712	gene	120				
+LHHPKOKH_00712	CDS	120				hypothetical protein
+LHHPKOKH_00713	gene	957				
+LHHPKOKH_00713	CDS	957				hypothetical protein
+LHHPKOKH_00714	gene	1089	aroC			
+LHHPKOKH_00714	CDS	1089	aroC	4.2.3.5		Chorismate synthase
+LHHPKOKH_00715	gene	1272	aroA			
+LHHPKOKH_00715	CDS	1272	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+LHHPKOKH_00716	gene	795	thrB_2			
+LHHPKOKH_00716	CDS	795	thrB_2	2.7.1.39		Homoserine kinase
+LHHPKOKH_00717	gene	774	aroE			
+LHHPKOKH_00717	CDS	774	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+LHHPKOKH_00718	gene	681	aroD			
+LHHPKOKH_00718	CDS	681	aroD	4.2.1.10		3-dehydroquinate dehydratase
+LHHPKOKH_00719	gene	954	griH			
+LHHPKOKH_00719	CDS	954	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+LHHPKOKH_00720	gene	798	griI			
+LHHPKOKH_00720	CDS	798	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+LHHPKOKH_00721	gene	1077	asd			
+LHHPKOKH_00721	CDS	1077	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+LHHPKOKH_00722	gene	1215				
+LHHPKOKH_00722	CDS	1215				hypothetical protein
+LHHPKOKH_00723	gene	1419	proS			
+LHHPKOKH_00723	CDS	1419	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+LHHPKOKH_00724	gene	1335				
+LHHPKOKH_00724	CDS	1335				hypothetical protein
+LHHPKOKH_00725	gene	1632				
+LHHPKOKH_00725	CDS	1632				hypothetical protein
+LHHPKOKH_00726	gene	696	nrtD			
+LHHPKOKH_00726	CDS	696	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+LHHPKOKH_00727	gene	831				
+LHHPKOKH_00727	CDS	831				hypothetical protein
+LHHPKOKH_00728	gene	195				
+LHHPKOKH_00728	CDS	195				hypothetical protein
+LHHPKOKH_00729	gene	990	yajO_2			
+LHHPKOKH_00729	CDS	990	yajO_2	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+LHHPKOKH_00730	gene	1563	lysS			
+LHHPKOKH_00730	CDS	1563	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+LHHPKOKH_00731	gene	2214	ftsH_2			
+LHHPKOKH_00731	CDS	2214	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+LHHPKOKH_00732	gene	714	deoD_3			
+LHHPKOKH_00732	CDS	714	deoD_3	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+LHHPKOKH_00733	gene	285				
+LHHPKOKH_00733	CDS	285				hypothetical protein
+LHHPKOKH_00734	gene	675	tpiA			
+LHHPKOKH_00734	CDS	675	tpiA			Triosephosphate isomerase
+LHHPKOKH_00735	gene	1638				
+LHHPKOKH_00735	CDS	1638				hypothetical protein
+LHHPKOKH_00736	gene	573				
+LHHPKOKH_00736	CDS	573				hypothetical protein
+LHHPKOKH_00737	gene	504				
+LHHPKOKH_00737	CDS	504				hypothetical protein
+LHHPKOKH_00738	gene	531	apt			
+LHHPKOKH_00738	CDS	531	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+LHHPKOKH_00739	gene	1047				
+LHHPKOKH_00739	CDS	1047				hypothetical protein
+LHHPKOKH_00740	gene	93				
+LHHPKOKH_00740	tRNA	93				tRNA-Leu(cag)
+LHHPKOKH_00741	gene	744	cobB			
+LHHPKOKH_00741	CDS	744	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+LHHPKOKH_00742	gene	86				
+LHHPKOKH_00742	tRNA	86				tRNA-Ser(gga)
+LHHPKOKH_00743	gene	450				
+LHHPKOKH_00743	CDS	450				hypothetical protein
+LHHPKOKH_00744	gene	789				
+LHHPKOKH_00744	CDS	789				hypothetical protein
+LHHPKOKH_00745	gene	1005				
+LHHPKOKH_00745	CDS	1005				hypothetical protein
+LHHPKOKH_00746	gene	822				
+LHHPKOKH_00746	CDS	822				hypothetical protein
+LHHPKOKH_00747	gene	942	rnz_2			
+LHHPKOKH_00747	CDS	942	rnz_2	3.1.26.11	COG1234	Ribonuclease Z
+LHHPKOKH_00748	gene	1101	trm1			
+LHHPKOKH_00748	CDS	1101	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+LHHPKOKH_00749	gene	393	efp			
+LHHPKOKH_00749	CDS	393	efp			Elongation factor P
+LHHPKOKH_00750	gene	72				
+LHHPKOKH_00750	tRNA	72				tRNA-Ala(tgc)
+LHHPKOKH_00751	gene	390				
+LHHPKOKH_00751	CDS	390				Protein archease
+LHHPKOKH_00752	gene	261				
+LHHPKOKH_00752	CDS	261				hypothetical protein
+LHHPKOKH_00753	gene	981	cobD			
+LHHPKOKH_00753	CDS	981	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+LHHPKOKH_00754	gene	894	cbiB			
+LHHPKOKH_00754	CDS	894	cbiB			Cobalamin biosynthesis protein CbiB
+LHHPKOKH_00755	gene	522				
+LHHPKOKH_00755	CDS	522				hypothetical protein
+LHHPKOKH_00756	gene	723	cobS			
+LHHPKOKH_00756	CDS	723	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+LHHPKOKH_00757	gene	372				
+LHHPKOKH_00757	CDS	372				hypothetical protein
+LHHPKOKH_00758	gene	498				
+LHHPKOKH_00758	CDS	498				hypothetical protein
+LHHPKOKH_00759	gene	666	rsmA			
+LHHPKOKH_00759	CDS	666	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+LHHPKOKH_00760	gene	231				
+LHHPKOKH_00760	CDS	231				hypothetical protein
+LHHPKOKH_00761	gene	735				
+LHHPKOKH_00761	CDS	735				hypothetical protein
+LHHPKOKH_00762	gene	414				
+LHHPKOKH_00762	CDS	414				hypothetical protein
+LHHPKOKH_00763	gene	789	tmk			
+LHHPKOKH_00763	CDS	789	tmk	2.7.4.9		Thymidylate kinase
+LHHPKOKH_00764	gene	405				
+LHHPKOKH_00764	CDS	405				hypothetical protein
+LHHPKOKH_00765	gene	1296				
+LHHPKOKH_00765	CDS	1296		4.1.1.-		Phenolic acid decarboxylase
+LHHPKOKH_00766	gene	375				
+LHHPKOKH_00766	CDS	375				hypothetical protein
+LHHPKOKH_00767	gene	74				
+LHHPKOKH_00767	tRNA	74				tRNA-Met(cat)
+LHHPKOKH_00768	gene	555				
+LHHPKOKH_00768	CDS	555				hypothetical protein
+LHHPKOKH_00769	gene	705				
+LHHPKOKH_00769	CDS	705				hypothetical protein
+LHHPKOKH_00770	gene	612	mobA_3			
+LHHPKOKH_00770	CDS	612	mobA_3	2.7.7.77		Molybdenum cofactor guanylyltransferase
+LHHPKOKH_00771	gene	759	proC			
+LHHPKOKH_00771	CDS	759	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+LHHPKOKH_00772	gene	107				
+LHHPKOKH_00772	rRNA	107				5S ribosomal RNA
+LHHPKOKH_00773	gene	720	mngB			
+LHHPKOKH_00773	CDS	720	mngB	3.1.3.70		Mannosyl-3-phosphoglycerate phosphatase
+LHHPKOKH_00774	gene	1845	argS			
+LHHPKOKH_00774	CDS	1845	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+LHHPKOKH_00775	gene	756				
+LHHPKOKH_00775	CDS	756		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+LHHPKOKH_00776	gene	390				
+LHHPKOKH_00776	CDS	390				hypothetical protein
+LHHPKOKH_00777	gene	450				
+LHHPKOKH_00777	CDS	450				hypothetical protein
+LHHPKOKH_00778	gene	561	kdpA			
+LHHPKOKH_00778	CDS	561	kdpA			Potassium-transporting ATPase potassium-binding subunit
+LHHPKOKH_00779	gene	159				
+LHHPKOKH_00779	CDS	159				hypothetical protein
+LHHPKOKH_00780	gene	156				
+LHHPKOKH_00780	CDS	156				hypothetical protein
+LHHPKOKH_00781	gene	2004	kdpB			
+LHHPKOKH_00781	CDS	2004	kdpB	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+LHHPKOKH_00782	gene	1056				
+LHHPKOKH_00782	CDS	1056				hypothetical protein
+LHHPKOKH_00783	gene	255				
+LHHPKOKH_00783	CDS	255			COG4095	Sugar transporter SemiSWEET
+LHHPKOKH_00784	gene	74				
+LHHPKOKH_00784	tRNA	74				tRNA-Gly(ccc)
+LHHPKOKH_00785	gene	255				
+LHHPKOKH_00785	CDS	255				hypothetical protein
+LHHPKOKH_00786	gene	336				
+LHHPKOKH_00786	CDS	336				hypothetical protein
+LHHPKOKH_00787	gene	1041				
+LHHPKOKH_00787	CDS	1041				hypothetical protein
+LHHPKOKH_00788	gene	669	nth			
+LHHPKOKH_00788	CDS	669	nth	4.2.99.18	COG0177	Endonuclease III
+LHHPKOKH_00789	gene	1347				
+LHHPKOKH_00789	CDS	1347				hypothetical protein
+LHHPKOKH_00790	gene	519				
+LHHPKOKH_00790	CDS	519				hypothetical protein
+LHHPKOKH_00791	gene	1335				
+LHHPKOKH_00791	CDS	1335				hypothetical protein
+LHHPKOKH_00792	gene	483				
+LHHPKOKH_00792	CDS	483				hypothetical protein
+LHHPKOKH_00793	gene	504				
+LHHPKOKH_00793	CDS	504				hypothetical protein
+LHHPKOKH_00794	gene	1080	hflX			
+LHHPKOKH_00794	CDS	1080	hflX		COG2262	GTPase HflX
+LHHPKOKH_00795	gene	378				
+LHHPKOKH_00795	CDS	378				hypothetical protein
+LHHPKOKH_00796	gene	174				
+LHHPKOKH_00796	CDS	174				hypothetical protein
+LHHPKOKH_00797	gene	1155				
+LHHPKOKH_00797	CDS	1155				hypothetical protein
+LHHPKOKH_00798	gene	570	cmk_2			
+LHHPKOKH_00798	CDS	570	cmk_2	2.7.4.25		Cytidylate kinase
+LHHPKOKH_00799	gene	1119	rlmL			
+LHHPKOKH_00799	CDS	1119	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+LHHPKOKH_00800	gene	1518	ppcA			
+LHHPKOKH_00800	CDS	1518	ppcA	4.1.1.31		Phosphoenolpyruvate carboxylase
+LHHPKOKH_00801	gene	573	fbiB_3			
+LHHPKOKH_00801	CDS	573	fbiB_3		COG0778	Bifunctional F420 biosynthesis protein FbiB
+LHHPKOKH_00802	gene	876	garR			
+LHHPKOKH_00802	CDS	876	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+LHHPKOKH_00803	gene	74				
+LHHPKOKH_00803	tRNA	74				tRNA-Cys(gca)
+LHHPKOKH_00804	gene	954	htpX_2			
+LHHPKOKH_00804	CDS	954	htpX_2	3.4.24.-	COG0501	Protease HtpX 
+LHHPKOKH_00805	gene	294				
+LHHPKOKH_00805	CDS	294				hypothetical protein
+LHHPKOKH_00806	gene	198				
+LHHPKOKH_00806	CDS	198				hypothetical protein
+LHHPKOKH_00807	gene	171				
+LHHPKOKH_00807	CDS	171				hypothetical protein
+LHHPKOKH_00808	gene	1131				
+LHHPKOKH_00808	CDS	1131				hypothetical protein
+LHHPKOKH_00809	gene	186				
+LHHPKOKH_00809	CDS	186				hypothetical protein
+LHHPKOKH_00810	gene	663				
+LHHPKOKH_00810	CDS	663				hypothetical protein
+LHHPKOKH_00811	gene	837				
+LHHPKOKH_00811	CDS	837				hypothetical protein
+LHHPKOKH_00812	gene	567				
+LHHPKOKH_00812	CDS	567				hypothetical protein
+LHHPKOKH_00813	gene	1245	aspS2			
+LHHPKOKH_00813	CDS	1245	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+LHHPKOKH_00814	gene	2826	rhlE			
+LHHPKOKH_00814	CDS	2826	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+LHHPKOKH_00815	gene	237				
+LHHPKOKH_00815	CDS	237				hypothetical protein
+LHHPKOKH_00816	gene	1227	OLA1			
+LHHPKOKH_00816	CDS	1227	OLA1			Obg-like ATPase 1
+LHHPKOKH_00817	gene	879	sucD			
+LHHPKOKH_00817	CDS	879	sucD	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit alpha
+LHHPKOKH_00818	gene	1104	sucC			
+LHHPKOKH_00818	CDS	1104	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+LHHPKOKH_00819	gene	354				
+LHHPKOKH_00819	CDS	354				hypothetical protein
+LHHPKOKH_00820	gene	465				
+LHHPKOKH_00820	CDS	465				hypothetical protein
+LHHPKOKH_00821	gene	807	frdB			
+LHHPKOKH_00821	CDS	807	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+LHHPKOKH_00822	gene	1749	frdA			
+LHHPKOKH_00822	CDS	1749	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+LHHPKOKH_00823	gene	465	moaC2			
+LHHPKOKH_00823	CDS	465	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+LHHPKOKH_00824	gene	522	moaB			
+LHHPKOKH_00824	CDS	522	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+LHHPKOKH_00825	gene	963	dnaX			
+LHHPKOKH_00825	CDS	963	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+LHHPKOKH_00826	gene	1242	hisS			
+LHHPKOKH_00826	CDS	1242	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+LHHPKOKH_00827	gene	1077	thrC_4			
+LHHPKOKH_00827	CDS	1077	thrC_4	4.2.3.1	COG0498	Threonine synthase
+LHHPKOKH_00828	gene	3114	ileS			
+LHHPKOKH_00828	CDS	3114	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+LHHPKOKH_00829	gene	519				
+LHHPKOKH_00829	CDS	519			COG2110	putative protein
+LHHPKOKH_00830	gene	975	mtnA_2			
+LHHPKOKH_00830	CDS	975	mtnA_2	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+LHHPKOKH_00831	gene	75				
+LHHPKOKH_00831	tRNA	75				tRNA-Arg(tcg)
+LHHPKOKH_00832	gene	495				
+LHHPKOKH_00832	CDS	495				hypothetical protein
+LHHPKOKH_00833	gene	270				
+LHHPKOKH_00833	CDS	270				hypothetical protein
+LHHPKOKH_00834	gene	705	deoD_4			
+LHHPKOKH_00834	CDS	705	deoD_4	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+LHHPKOKH_00835	gene	1872				
+LHHPKOKH_00835	CDS	1872				hypothetical protein
+LHHPKOKH_00836	gene	267				
+LHHPKOKH_00836	CDS	267				hypothetical protein
+LHHPKOKH_00837	gene	1650				
+LHHPKOKH_00837	CDS	1650				hypothetical protein
+LHHPKOKH_00838	gene	1002				
+LHHPKOKH_00838	CDS	1002				hypothetical protein
+LHHPKOKH_00839	gene	297				
+LHHPKOKH_00839	misc_RNA	297				RNaseP_arch
+LHHPKOKH_00840	gene	225				
+LHHPKOKH_00840	CDS	225				hypothetical protein
+LHHPKOKH_00841	gene	954	porB			
+LHHPKOKH_00841	CDS	954	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+LHHPKOKH_00842	gene	1206	porA			
+LHHPKOKH_00842	CDS	1206	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+LHHPKOKH_00843	gene	324	porD			
+LHHPKOKH_00843	CDS	324	porD		COG1144	Pyruvate synthase subunit PorD
+LHHPKOKH_00844	gene	561	porC			
+LHHPKOKH_00844	CDS	561	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+LHHPKOKH_00845	gene	1164				
+LHHPKOKH_00845	CDS	1164				hypothetical protein
+LHHPKOKH_00846	gene	120				
+LHHPKOKH_00846	CDS	120				hypothetical protein
+LHHPKOKH_00847	gene	1119	gmhA			
+LHHPKOKH_00847	CDS	1119	gmhA	5.3.1.28		Phosphoheptose isomerase
+LHHPKOKH_00848	gene	696				
+LHHPKOKH_00848	CDS	696				hypothetical protein
+LHHPKOKH_00849	gene	1515				
+LHHPKOKH_00849	CDS	1515		2.4.2.4		Putative thymidine phosphorylase
+LHHPKOKH_00850	gene	2127				
+LHHPKOKH_00850	CDS	2127				hypothetical protein
+LHHPKOKH_00851	gene	366				
+LHHPKOKH_00851	CDS	366				hypothetical protein
+LHHPKOKH_00852	gene	912	metE_1			
+LHHPKOKH_00852	CDS	912	metE_1	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+LHHPKOKH_00853	gene	1005	metE_2			
+LHHPKOKH_00853	CDS	1005	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+LHHPKOKH_00854	gene	681				
+LHHPKOKH_00854	CDS	681				hypothetical protein
+LHHPKOKH_00855	gene	1680	groL_2			
+LHHPKOKH_00855	CDS	1680	groL_2		COG0459	60 kDa chaperonin
+LHHPKOKH_00856	gene	687				
+LHHPKOKH_00856	CDS	687				hypothetical protein
+LHHPKOKH_00857	gene	1200	argG			
+LHHPKOKH_00857	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+LHHPKOKH_00858	gene	1440	argH			
+LHHPKOKH_00858	CDS	1440	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+LHHPKOKH_00859	gene	180				
+LHHPKOKH_00859	CDS	180				hypothetical protein
+LHHPKOKH_00860	gene	858	lysX_1			
+LHHPKOKH_00860	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+LHHPKOKH_00861	gene	1050	lysY			
+LHHPKOKH_00861	CDS	1050	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+LHHPKOKH_00862	gene	807	lysZ			
+LHHPKOKH_00862	CDS	807	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+LHHPKOKH_00863	gene	1170	lysJ			
+LHHPKOKH_00863	CDS	1170	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+LHHPKOKH_00864	gene	411	lrpC			
+LHHPKOKH_00864	CDS	411	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+LHHPKOKH_00865	gene	1197	frbC			
+LHHPKOKH_00865	CDS	1197	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+LHHPKOKH_00866	gene	849	lysX_2			
+LHHPKOKH_00866	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+LHHPKOKH_00867	gene	1059	lysK			
+LHHPKOKH_00867	CDS	1059	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+LHHPKOKH_00868	gene	630				
+LHHPKOKH_00868	CDS	630				hypothetical protein
+LHHPKOKH_00869	gene	90				
+LHHPKOKH_00869	CDS	90				hypothetical protein
+LHHPKOKH_00870	gene	963				
+LHHPKOKH_00870	CDS	963				hypothetical protein
+LHHPKOKH_00871	gene	1245				
+LHHPKOKH_00871	CDS	1245				hypothetical protein
+LHHPKOKH_00872	gene	882	glxR			
+LHHPKOKH_00872	CDS	882	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+LHHPKOKH_00873	gene	75				
+LHHPKOKH_00873	tRNA	75				tRNA-Arg(ccg)
+LHHPKOKH_00874	gene	480	mshD			
+LHHPKOKH_00874	CDS	480	mshD	2.3.1.189		Mycothiol acetyltransferase
+LHHPKOKH_00875	gene	675				
+LHHPKOKH_00875	CDS	675				hypothetical protein
+LHHPKOKH_00876	gene	1023	glgA			
+LHHPKOKH_00876	CDS	1023	glgA	2.4.1.21		Glycogen synthase
+LHHPKOKH_00877	gene	552				
+LHHPKOKH_00877	CDS	552				hypothetical protein
+LHHPKOKH_00878	gene	672				
+LHHPKOKH_00878	CDS	672				hypothetical protein
+LHHPKOKH_00879	gene	501				
+LHHPKOKH_00879	CDS	501				hypothetical protein
+LHHPKOKH_00880	gene	1398				
+LHHPKOKH_00880	CDS	1398				hypothetical protein
+LHHPKOKH_00881	gene	654	yflN_2			
+LHHPKOKH_00881	CDS	654	yflN_2	3.-.-.-	COG0491	putative metallo-hydrolase YflN
+LHHPKOKH_00882	gene	297				
+LHHPKOKH_00882	CDS	297				hypothetical protein
+LHHPKOKH_00883	gene	1992				
+LHHPKOKH_00883	CDS	1992				hypothetical protein
+LHHPKOKH_00884	gene	708	moaA_3			
+LHHPKOKH_00884	CDS	708	moaA_3			GTP 3',8-cyclase
+LHHPKOKH_00885	gene	1167				
+LHHPKOKH_00885	CDS	1167				hypothetical protein
+LHHPKOKH_00886	gene	210	menA_1			
+LHHPKOKH_00886	CDS	210	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+LHHPKOKH_00887	gene	165	menA_2			
+LHHPKOKH_00887	CDS	165	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+LHHPKOKH_00888	gene	489				
+LHHPKOKH_00888	CDS	489				hypothetical protein
+LHHPKOKH_00889	gene	423				
+LHHPKOKH_00889	CDS	423				hypothetical protein
+LHHPKOKH_00890	gene	651	gph			
+LHHPKOKH_00890	CDS	651	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+LHHPKOKH_00891	gene	747	yafJ			
+LHHPKOKH_00891	CDS	747	yafJ	2.4.2.-	COG0121	Putative glutamine amidotransferase YafJ
+LHHPKOKH_00892	gene	1191				
+LHHPKOKH_00892	CDS	1191				hypothetical protein
+LHHPKOKH_00893	gene	513				
+LHHPKOKH_00893	CDS	513				hypothetical protein
+LHHPKOKH_00894	gene	882	bmrU			
+LHHPKOKH_00894	CDS	882	bmrU	2.7.1.-	COG1597	Putative lipid kinase BmrU
+LHHPKOKH_00895	gene	1209	naiP_2			
+LHHPKOKH_00895	CDS	1209	naiP_2			Putative niacin/nicotinamide transporter NaiP
+LHHPKOKH_00896	gene	462				
+LHHPKOKH_00896	CDS	462				hypothetical protein
+LHHPKOKH_00897	gene	387				
+LHHPKOKH_00897	CDS	387				hypothetical protein
+LHHPKOKH_00898	gene	822				
+LHHPKOKH_00898	CDS	822				hypothetical protein
+LHHPKOKH_00899	gene	1224				
+LHHPKOKH_00899	CDS	1224				hypothetical protein
+LHHPKOKH_00900	gene	312				
+LHHPKOKH_00900	CDS	312				hypothetical protein
+LHHPKOKH_00901	gene	843				
+LHHPKOKH_00901	CDS	843				hypothetical protein
+LHHPKOKH_00902	gene	1248				
+LHHPKOKH_00902	CDS	1248				hypothetical protein
+LHHPKOKH_00903	gene	492	ypeA			
+LHHPKOKH_00903	CDS	492	ypeA	2.3.1.-		Acetyltransferase YpeA
+LHHPKOKH_00904	gene	1161				
+LHHPKOKH_00904	CDS	1161				hypothetical protein
+LHHPKOKH_00905	gene	633				
+LHHPKOKH_00905	CDS	633				hypothetical protein
+LHHPKOKH_00906	gene	984	tsaD			
+LHHPKOKH_00906	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+LHHPKOKH_00907	gene	438				
+LHHPKOKH_00907	CDS	438				hypothetical protein
+LHHPKOKH_00908	gene	1137	murG			
+LHHPKOKH_00908	CDS	1137	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+LHHPKOKH_00909	gene	633				
+LHHPKOKH_00909	CDS	633				hypothetical protein
+LHHPKOKH_00910	gene	861	dapA			
+LHHPKOKH_00910	CDS	861	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+LHHPKOKH_00911	gene	162				
+LHHPKOKH_00911	CDS	162				hypothetical protein
+LHHPKOKH_00912	gene	969	ecfT_3			
+LHHPKOKH_00912	CDS	969	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+LHHPKOKH_00913	gene	417				
+LHHPKOKH_00913	CDS	417				hypothetical protein
+LHHPKOKH_00914	gene	1191				
+LHHPKOKH_00914	CDS	1191				hypothetical protein
+LHHPKOKH_00915	gene	642				
+LHHPKOKH_00915	CDS	642				hypothetical protein
+LHHPKOKH_00916	gene	576				
+LHHPKOKH_00916	CDS	576				hypothetical protein
+LHHPKOKH_00917	gene	1173	ftsH_3			
+LHHPKOKH_00917	CDS	1173	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+LHHPKOKH_00918	gene	240				
+LHHPKOKH_00918	CDS	240				hypothetical protein
+LHHPKOKH_00919	gene	939				
+LHHPKOKH_00919	CDS	939				hypothetical protein
+LHHPKOKH_00920	gene	636				
+LHHPKOKH_00920	CDS	636				hypothetical protein
+LHHPKOKH_00921	gene	1344	purB			
+LHHPKOKH_00921	CDS	1344	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+LHHPKOKH_00922	gene	1239	purA			
+LHHPKOKH_00922	CDS	1239	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+LHHPKOKH_00923	gene	192				
+LHHPKOKH_00923	CDS	192				hypothetical protein
+LHHPKOKH_00924	gene	774	thyX			
+LHHPKOKH_00924	CDS	774	thyX	2.1.1.148		Flavin-dependent thymidylate synthase

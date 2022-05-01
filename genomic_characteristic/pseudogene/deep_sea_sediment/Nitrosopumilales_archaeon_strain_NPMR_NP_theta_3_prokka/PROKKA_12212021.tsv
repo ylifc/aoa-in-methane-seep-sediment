@@ -1,0 +1,2809 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NDDNCMOI_00001	gene	201				
+NDDNCMOI_00001	CDS	201				hypothetical protein
+NDDNCMOI_00002	gene	402	ndk			
+NDDNCMOI_00002	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+NDDNCMOI_00003	gene	201				
+NDDNCMOI_00003	CDS	201				hypothetical protein
+NDDNCMOI_00004	gene	213				
+NDDNCMOI_00004	CDS	213				hypothetical protein
+NDDNCMOI_00005	gene	387				
+NDDNCMOI_00005	CDS	387				hypothetical protein
+NDDNCMOI_00006	gene	123				
+NDDNCMOI_00006	CDS	123				hypothetical protein
+NDDNCMOI_00007	gene	1194	algC_1			
+NDDNCMOI_00007	CDS	1194	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NDDNCMOI_00008	gene	87				
+NDDNCMOI_00008	tRNA	87				tRNA-Leu(tag)
+NDDNCMOI_00009	gene	843	purU			
+NDDNCMOI_00009	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+NDDNCMOI_00010	gene	735	mftE			
+NDDNCMOI_00010	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+NDDNCMOI_00011	gene	234				
+NDDNCMOI_00011	CDS	234				hypothetical protein
+NDDNCMOI_00012	gene	1416	rpiA			
+NDDNCMOI_00012	CDS	1416	rpiA	5.3.1.6		Ribose-5-phosphate isomerase A
+NDDNCMOI_00013	gene	507	lhyD			
+NDDNCMOI_00013	CDS	507	lhyD	3.5.2.-		L-hydantoinase
+NDDNCMOI_00014	gene	693	allB			
+NDDNCMOI_00014	CDS	693	allB	3.5.2.5	COG0044	Allantoinase
+NDDNCMOI_00015	gene	75				
+NDDNCMOI_00015	tRNA	75				tRNA-Ala(cgc)
+NDDNCMOI_00016	gene	363				
+NDDNCMOI_00016	CDS	363				hypothetical protein
+NDDNCMOI_00017	gene	543				
+NDDNCMOI_00017	CDS	543				hypothetical protein
+NDDNCMOI_00018	gene	267				
+NDDNCMOI_00018	CDS	267				hypothetical protein
+NDDNCMOI_00019	gene	822				
+NDDNCMOI_00019	CDS	822				hypothetical protein
+NDDNCMOI_00020	gene	711				
+NDDNCMOI_00020	CDS	711				hypothetical protein
+NDDNCMOI_00021	gene	996	abfD_1			
+NDDNCMOI_00021	CDS	996	abfD_1	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+NDDNCMOI_00022	gene	453	abfD_2			
+NDDNCMOI_00022	CDS	453	abfD_2	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+NDDNCMOI_00023	gene	876	FCS1_1			
+NDDNCMOI_00023	CDS	876	FCS1_1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+NDDNCMOI_00024	gene	984	hemB			
+NDDNCMOI_00024	CDS	984	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+NDDNCMOI_00025	gene	591	hemA_1			
+NDDNCMOI_00025	CDS	591	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+NDDNCMOI_00026	gene	657	hemA_2			
+NDDNCMOI_00026	CDS	657	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+NDDNCMOI_00027	gene	654	sirC			
+NDDNCMOI_00027	CDS	654	sirC	1.3.1.76	COG1648	Precorrin-2 dehydrogenase
+NDDNCMOI_00028	gene	1014				
+NDDNCMOI_00028	CDS	1014				hypothetical protein
+NDDNCMOI_00029	gene	339				
+NDDNCMOI_00029	CDS	339				hypothetical protein
+NDDNCMOI_00030	gene	876	iolS			
+NDDNCMOI_00030	CDS	876	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+NDDNCMOI_00031	gene	546				
+NDDNCMOI_00031	CDS	546				hypothetical protein
+NDDNCMOI_00032	gene	678				
+NDDNCMOI_00032	CDS	678			COG3253	putative protein/MSMEI_2713
+NDDNCMOI_00033	gene	141				
+NDDNCMOI_00033	CDS	141				hypothetical protein
+NDDNCMOI_00034	gene	399	sufC			
+NDDNCMOI_00034	CDS	399	sufC		COG0396	Vegetative protein 296
+NDDNCMOI_00035	gene	672				
+NDDNCMOI_00035	CDS	672				hypothetical protein
+NDDNCMOI_00036	gene	402				
+NDDNCMOI_00036	CDS	402				hypothetical protein
+NDDNCMOI_00037	gene	270				
+NDDNCMOI_00037	CDS	270				hypothetical protein
+NDDNCMOI_00038	gene	303				
+NDDNCMOI_00038	CDS	303				hypothetical protein
+NDDNCMOI_00039	gene	381				
+NDDNCMOI_00039	CDS	381				hypothetical protein
+NDDNCMOI_00040	gene	567	scpB			
+NDDNCMOI_00040	CDS	567	scpB			Segregation and condensation protein B
+NDDNCMOI_00041	gene	666				
+NDDNCMOI_00041	CDS	666				hypothetical protein
+NDDNCMOI_00042	gene	1098	adh			
+NDDNCMOI_00042	CDS	1098	adh	1.1.1.1		Alcohol dehydrogenase
+NDDNCMOI_00043	gene	756	rssB			
+NDDNCMOI_00043	CDS	756	rssB			Regulator of RpoS
+NDDNCMOI_00044	gene	501				
+NDDNCMOI_00044	CDS	501				hypothetical protein
+NDDNCMOI_00045	gene	162				
+NDDNCMOI_00045	CDS	162				hypothetical protein
+NDDNCMOI_00046	gene	357				
+NDDNCMOI_00046	CDS	357				hypothetical protein
+NDDNCMOI_00047	gene	2097	FCS1_2			
+NDDNCMOI_00047	CDS	2097	FCS1_2	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+NDDNCMOI_00048	gene	1512	abfD_3			
+NDDNCMOI_00048	CDS	1512	abfD_3	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+NDDNCMOI_00049	gene	432				
+NDDNCMOI_00049	CDS	432				hypothetical protein
+NDDNCMOI_00050	gene	1023	purM_1			
+NDDNCMOI_00050	CDS	1023	purM_1	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+NDDNCMOI_00051	gene	729				
+NDDNCMOI_00051	CDS	729				hypothetical protein
+NDDNCMOI_00052	gene	348				
+NDDNCMOI_00052	CDS	348				hypothetical protein
+NDDNCMOI_00053	gene	951	yrbG			
+NDDNCMOI_00053	CDS	951	yrbG		COG0530	Inner membrane protein YrbG
+NDDNCMOI_00054	gene	1359	pmbA			
+NDDNCMOI_00054	CDS	1359	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+NDDNCMOI_00055	gene	1269	fbiC_1			
+NDDNCMOI_00055	CDS	1269	fbiC_1		COG1060	FO synthase
+NDDNCMOI_00056	gene	1170	fbiC_2			
+NDDNCMOI_00056	CDS	1170	fbiC_2		COG1060	FO synthase
+NDDNCMOI_00057	gene	789	degP			
+NDDNCMOI_00057	CDS	789	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+NDDNCMOI_00058	gene	351	bzaA			
+NDDNCMOI_00058	CDS	351	bzaA	4.1.99.23		5-hydroxybenzimidazole synthase BzaA
+NDDNCMOI_00059	gene	405				
+NDDNCMOI_00059	CDS	405				hypothetical protein
+NDDNCMOI_00060	gene	519				
+NDDNCMOI_00060	CDS	519				hypothetical protein
+NDDNCMOI_00061	gene	150				
+NDDNCMOI_00061	CDS	150				hypothetical protein
+NDDNCMOI_00062	gene	1365	dapL			
+NDDNCMOI_00062	CDS	1365	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+NDDNCMOI_00063	gene	441	aroC_1			
+NDDNCMOI_00063	CDS	441	aroC_1	4.2.3.5	COG0082	Chorismate synthase
+NDDNCMOI_00064	gene	192	aroC_2			
+NDDNCMOI_00064	CDS	192	aroC_2	4.2.3.5		Chorismate synthase
+NDDNCMOI_00065	gene	1257	aroA			
+NDDNCMOI_00065	CDS	1257	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+NDDNCMOI_00066	gene	855	thrB_1			
+NDDNCMOI_00066	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+NDDNCMOI_00067	gene	822	aroE			
+NDDNCMOI_00067	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+NDDNCMOI_00068	gene	669	aroD			
+NDDNCMOI_00068	CDS	669	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+NDDNCMOI_00069	gene	1062	griH			
+NDDNCMOI_00069	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+NDDNCMOI_00070	gene	255	aroA'			
+NDDNCMOI_00070	CDS	255	aroA'	2.2.1.10		2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+NDDNCMOI_00071	gene	1119	mqnC			
+NDDNCMOI_00071	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+NDDNCMOI_00072	gene	825	ubiD_1			
+NDDNCMOI_00072	CDS	825	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NDDNCMOI_00073	gene	723	ubiD_2			
+NDDNCMOI_00073	CDS	723	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NDDNCMOI_00074	gene	231				
+NDDNCMOI_00074	CDS	231				hypothetical protein
+NDDNCMOI_00075	gene	378				
+NDDNCMOI_00075	CDS	378				hypothetical protein
+NDDNCMOI_00076	gene	315				
+NDDNCMOI_00076	CDS	315				hypothetical protein
+NDDNCMOI_00077	gene	468				
+NDDNCMOI_00077	CDS	468				hypothetical protein
+NDDNCMOI_00078	gene	1332	ubiD_3			
+NDDNCMOI_00078	CDS	1332	ubiD_3	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NDDNCMOI_00079	gene	339				
+NDDNCMOI_00079	CDS	339				hypothetical protein
+NDDNCMOI_00080	gene	243				
+NDDNCMOI_00080	CDS	243				hypothetical protein
+NDDNCMOI_00081	gene	300				
+NDDNCMOI_00081	CDS	300				hypothetical protein
+NDDNCMOI_00082	gene	1074	ccr_1			
+NDDNCMOI_00082	CDS	1074	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+NDDNCMOI_00083	gene	342				
+NDDNCMOI_00083	CDS	342				hypothetical protein
+NDDNCMOI_00084	gene	477				
+NDDNCMOI_00084	CDS	477				hypothetical protein
+NDDNCMOI_00085	gene	1047				
+NDDNCMOI_00085	CDS	1047				hypothetical protein
+NDDNCMOI_00086	gene	1056	hflX			
+NDDNCMOI_00086	CDS	1056	hflX		COG2262	GTPase HflX
+NDDNCMOI_00087	gene	531				
+NDDNCMOI_00087	CDS	531				hypothetical protein
+NDDNCMOI_00088	gene	159				
+NDDNCMOI_00088	CDS	159				hypothetical protein
+NDDNCMOI_00089	gene	432				
+NDDNCMOI_00089	CDS	432		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+NDDNCMOI_00090	gene	411				
+NDDNCMOI_00090	CDS	411				hypothetical protein
+NDDNCMOI_00091	gene	744	pyrF			
+NDDNCMOI_00091	CDS	744	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+NDDNCMOI_00092	gene	663				
+NDDNCMOI_00092	CDS	663				hypothetical protein
+NDDNCMOI_00093	gene	1023	purA			
+NDDNCMOI_00093	CDS	1023	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+NDDNCMOI_00094	gene	465				
+NDDNCMOI_00094	CDS	465				hypothetical protein
+NDDNCMOI_00095	gene	288				
+NDDNCMOI_00095	CDS	288				hypothetical protein
+NDDNCMOI_00096	gene	222				
+NDDNCMOI_00096	CDS	222				hypothetical protein
+NDDNCMOI_00097	gene	609				
+NDDNCMOI_00097	CDS	609				hypothetical protein
+NDDNCMOI_00098	gene	288				
+NDDNCMOI_00098	CDS	288				hypothetical protein
+NDDNCMOI_00099	gene	90				
+NDDNCMOI_00099	CDS	90				hypothetical protein
+NDDNCMOI_00100	gene	609	ywlC			
+NDDNCMOI_00100	CDS	609	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+NDDNCMOI_00101	gene	516				
+NDDNCMOI_00101	CDS	516				hypothetical protein
+NDDNCMOI_00102	gene	774				
+NDDNCMOI_00102	CDS	774				hypothetical protein
+NDDNCMOI_00103	gene	345				
+NDDNCMOI_00103	CDS	345				hypothetical protein
+NDDNCMOI_00104	gene	756	yjjV			
+NDDNCMOI_00104	CDS	756	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+NDDNCMOI_00105	gene	222				
+NDDNCMOI_00105	CDS	222				hypothetical protein
+NDDNCMOI_00106	gene	153				
+NDDNCMOI_00106	CDS	153				hypothetical protein
+NDDNCMOI_00107	gene	858	lysX_1			
+NDDNCMOI_00107	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+NDDNCMOI_00108	gene	168				
+NDDNCMOI_00108	CDS	168				hypothetical protein
+NDDNCMOI_00109	gene	1167	argG			
+NDDNCMOI_00109	CDS	1167	argG	6.3.4.5		Argininosuccinate synthase
+NDDNCMOI_00110	gene	1017				
+NDDNCMOI_00110	CDS	1017				hypothetical protein
+NDDNCMOI_00111	gene	771	nrtD			
+NDDNCMOI_00111	CDS	771	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+NDDNCMOI_00112	gene	765	ssuC			
+NDDNCMOI_00112	CDS	765	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+NDDNCMOI_00113	gene	1032				
+NDDNCMOI_00113	CDS	1032				hypothetical protein
+NDDNCMOI_00114	gene	1014	metE			
+NDDNCMOI_00114	CDS	1014	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+NDDNCMOI_00115	gene	129				
+NDDNCMOI_00115	CDS	129				hypothetical protein
+NDDNCMOI_00116	gene	183				
+NDDNCMOI_00116	CDS	183				hypothetical protein
+NDDNCMOI_00117	gene	1266	apgM			
+NDDNCMOI_00117	CDS	1266	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NDDNCMOI_00118	gene	600				
+NDDNCMOI_00118	CDS	600				hypothetical protein
+NDDNCMOI_00119	gene	423				
+NDDNCMOI_00119	CDS	423				hypothetical protein
+NDDNCMOI_00120	gene	174				
+NDDNCMOI_00120	CDS	174				hypothetical protein
+NDDNCMOI_00121	gene	723				
+NDDNCMOI_00121	CDS	723				hypothetical protein
+NDDNCMOI_00122	gene	102				
+NDDNCMOI_00122	CDS	102				hypothetical protein
+NDDNCMOI_00123	gene	1008				
+NDDNCMOI_00123	CDS	1008				hypothetical protein
+NDDNCMOI_00124	gene	279	ffh_1			
+NDDNCMOI_00124	CDS	279	ffh_1		COG0541	Signal recognition particle protein
+NDDNCMOI_00125	gene	1128	ffh_2			
+NDDNCMOI_00125	CDS	1128	ffh_2		COG0541	Signal recognition particle protein
+NDDNCMOI_00126	gene	693				
+NDDNCMOI_00126	CDS	693				hypothetical protein
+NDDNCMOI_00127	gene	210				
+NDDNCMOI_00127	CDS	210				hypothetical protein
+NDDNCMOI_00128	gene	690				
+NDDNCMOI_00128	CDS	690				hypothetical protein
+NDDNCMOI_00129	gene	303	doxA			
+NDDNCMOI_00129	CDS	303	doxA			Naphthalene 1,2-dioxygenase system, ferredoxin component
+NDDNCMOI_00130	gene	801	nadE			
+NDDNCMOI_00130	CDS	801	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+NDDNCMOI_00131	gene	285	mshC			
+NDDNCMOI_00131	CDS	285	mshC	6.3.1.13		L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+NDDNCMOI_00132	gene	1077	cysS			
+NDDNCMOI_00132	CDS	1077	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+NDDNCMOI_00133	gene	921	ychF			
+NDDNCMOI_00133	CDS	921	ychF		COG0012	Ribosome-binding ATPase YchF
+NDDNCMOI_00134	gene	279				
+NDDNCMOI_00134	CDS	279				hypothetical protein
+NDDNCMOI_00135	gene	411	yccU			
+NDDNCMOI_00135	CDS	411	yccU		COG1832	putative protein YccU
+NDDNCMOI_00136	gene	300				
+NDDNCMOI_00136	CDS	300				hypothetical protein
+NDDNCMOI_00137	gene	1005	birA			
+NDDNCMOI_00137	CDS	1005	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+NDDNCMOI_00138	gene	213				
+NDDNCMOI_00138	CDS	213				hypothetical protein
+NDDNCMOI_00139	gene	1017	guaA			
+NDDNCMOI_00139	CDS	1017	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+NDDNCMOI_00140	gene	858	mak			
+NDDNCMOI_00140	CDS	858	mak	2.7.1.4	COG1940	Fructokinase
+NDDNCMOI_00141	gene	258				
+NDDNCMOI_00141	CDS	258				hypothetical protein
+NDDNCMOI_00142	gene	1620	groL_1			
+NDDNCMOI_00142	CDS	1620	groL_1		COG0459	60 kDa chaperonin
+NDDNCMOI_00143	gene	1767	ade			
+NDDNCMOI_00143	CDS	1767	ade	3.5.4.2	COG1001	Adenine deaminase
+NDDNCMOI_00144	gene	282				
+NDDNCMOI_00144	CDS	282				hypothetical protein
+NDDNCMOI_00145	gene	198				
+NDDNCMOI_00145	CDS	198				hypothetical protein
+NDDNCMOI_00146	gene	585	glmU			
+NDDNCMOI_00146	CDS	585	glmU	2.7.7.23		Bifunctional protein GlmU
+NDDNCMOI_00147	gene	729	cobS			
+NDDNCMOI_00147	CDS	729	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+NDDNCMOI_00148	gene	306	cbiB			
+NDDNCMOI_00148	CDS	306	cbiB			Cobalamin biosynthesis protein CbiB
+NDDNCMOI_00149	gene	192				
+NDDNCMOI_00149	CDS	192		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+NDDNCMOI_00150	gene	639				
+NDDNCMOI_00150	CDS	639				hypothetical protein
+NDDNCMOI_00151	gene	177				
+NDDNCMOI_00151	CDS	177				hypothetical protein
+NDDNCMOI_00152	gene	375				
+NDDNCMOI_00152	CDS	375				hypothetical protein
+NDDNCMOI_00153	gene	933	oppD			
+NDDNCMOI_00153	CDS	933	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+NDDNCMOI_00154	gene	747	aspS2_1			
+NDDNCMOI_00154	CDS	747	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+NDDNCMOI_00155	gene	660	aspS2_2			
+NDDNCMOI_00155	CDS	660	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+NDDNCMOI_00156	gene	264				
+NDDNCMOI_00156	CDS	264				hypothetical protein
+NDDNCMOI_00157	gene	357				
+NDDNCMOI_00157	CDS	357				hypothetical protein
+NDDNCMOI_00158	gene	1014	hicd			
+NDDNCMOI_00158	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+NDDNCMOI_00159	gene	1518	leuA_1			
+NDDNCMOI_00159	CDS	1518	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+NDDNCMOI_00160	gene	117				
+NDDNCMOI_00160	CDS	117				hypothetical protein
+NDDNCMOI_00161	gene	408	hit_1			
+NDDNCMOI_00161	CDS	408	hit_1		COG0537	Protein hit
+NDDNCMOI_00162	gene	171				
+NDDNCMOI_00162	CDS	171				hypothetical protein
+NDDNCMOI_00163	gene	1113	fadB			
+NDDNCMOI_00163	CDS	1113	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+NDDNCMOI_00164	gene	510				
+NDDNCMOI_00164	CDS	510				hypothetical protein
+NDDNCMOI_00165	gene	135				
+NDDNCMOI_00165	CDS	135				hypothetical protein
+NDDNCMOI_00166	gene	411				
+NDDNCMOI_00166	CDS	411				hypothetical protein
+NDDNCMOI_00167	gene	201				
+NDDNCMOI_00167	CDS	201				hypothetical protein
+NDDNCMOI_00168	gene	231				
+NDDNCMOI_00168	CDS	231				hypothetical protein
+NDDNCMOI_00169	gene	309	rpsJ			
+NDDNCMOI_00169	CDS	309	rpsJ			30S ribosomal protein S10
+NDDNCMOI_00170	gene	873	tuf			
+NDDNCMOI_00170	CDS	873	tuf		COG0050	Elongation factor Tu
+NDDNCMOI_00171	gene	822	fbp			
+NDDNCMOI_00171	CDS	822	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+NDDNCMOI_00172	gene	471				
+NDDNCMOI_00172	CDS	471				hypothetical protein
+NDDNCMOI_00173	gene	330				
+NDDNCMOI_00173	CDS	330				hypothetical protein
+NDDNCMOI_00174	gene	552				
+NDDNCMOI_00174	CDS	552				hypothetical protein
+NDDNCMOI_00175	gene	360				
+NDDNCMOI_00175	CDS	360				hypothetical protein
+NDDNCMOI_00176	gene	441				
+NDDNCMOI_00176	CDS	441				hypothetical protein
+NDDNCMOI_00177	gene	807				
+NDDNCMOI_00177	CDS	807		1.-.-.-		putative oxidoreductase
+NDDNCMOI_00178	gene	1017				
+NDDNCMOI_00178	CDS	1017				hypothetical protein
+NDDNCMOI_00179	gene	759				
+NDDNCMOI_00179	CDS	759				hypothetical protein
+NDDNCMOI_00180	gene	927	thrB_2			
+NDDNCMOI_00180	CDS	927	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+NDDNCMOI_00181	gene	375	queC_1			
+NDDNCMOI_00181	CDS	375	queC_1	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+NDDNCMOI_00182	gene	315	queC_2			
+NDDNCMOI_00182	CDS	315	queC_2	6.3.4.20		7-cyano-7-deazaguanine synthase
+NDDNCMOI_00183	gene	252				
+NDDNCMOI_00183	CDS	252				hypothetical protein
+NDDNCMOI_00184	gene	561	folE			
+NDDNCMOI_00184	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+NDDNCMOI_00185	gene	309	bphA3			
+NDDNCMOI_00185	CDS	309	bphA3			Biphenyl 2,3-dioxygenase, ferredoxin component
+NDDNCMOI_00186	gene	267				
+NDDNCMOI_00186	CDS	267				hypothetical protein
+NDDNCMOI_00187	gene	765				
+NDDNCMOI_00187	CDS	765				hypothetical protein
+NDDNCMOI_00188	gene	348				
+NDDNCMOI_00188	CDS	348				hypothetical protein
+NDDNCMOI_00189	gene	73				
+NDDNCMOI_00189	tRNA	73				tRNA-His(gtg)
+NDDNCMOI_00190	gene	618				
+NDDNCMOI_00190	CDS	618				hypothetical protein
+NDDNCMOI_00191	gene	408	corA			
+NDDNCMOI_00191	CDS	408	corA		COG0598	Cobalt/magnesium transport protein CorA
+NDDNCMOI_00192	gene	1029				
+NDDNCMOI_00192	CDS	1029				hypothetical protein
+NDDNCMOI_00193	gene	588				
+NDDNCMOI_00193	CDS	588		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+NDDNCMOI_00194	gene	621				
+NDDNCMOI_00194	CDS	621				hypothetical protein
+NDDNCMOI_00195	gene	393				
+NDDNCMOI_00195	CDS	393				hypothetical protein
+NDDNCMOI_00196	gene	252				
+NDDNCMOI_00196	CDS	252				hypothetical protein
+NDDNCMOI_00197	gene	327				
+NDDNCMOI_00197	CDS	327				hypothetical protein
+NDDNCMOI_00198	gene	363	OSGEPL1			
+NDDNCMOI_00198	CDS	363	OSGEPL1	2.3.1.234		tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial
+NDDNCMOI_00199	gene	846	hisG			
+NDDNCMOI_00199	CDS	846	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+NDDNCMOI_00200	gene	1251	mvaA			
+NDDNCMOI_00200	CDS	1251	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+NDDNCMOI_00201	gene	834	yliI			
+NDDNCMOI_00201	CDS	834	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+NDDNCMOI_00202	gene	894				
+NDDNCMOI_00202	CDS	894				hypothetical protein
+NDDNCMOI_00203	gene	996				
+NDDNCMOI_00203	CDS	996				hypothetical protein
+NDDNCMOI_00204	gene	630				
+NDDNCMOI_00204	CDS	630				hypothetical protein
+NDDNCMOI_00205	gene	807	trpA			
+NDDNCMOI_00205	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+NDDNCMOI_00206	gene	1596	pyrG			
+NDDNCMOI_00206	CDS	1596	pyrG	6.3.4.2		CTP synthase
+NDDNCMOI_00207	gene	198				
+NDDNCMOI_00207	CDS	198				hypothetical protein
+NDDNCMOI_00208	gene	1002	nadK_1			
+NDDNCMOI_00208	CDS	1002	nadK_1	2.7.1.23		NAD kinase
+NDDNCMOI_00209	gene	873				
+NDDNCMOI_00209	CDS	873				hypothetical protein
+NDDNCMOI_00210	gene	357				
+NDDNCMOI_00210	CDS	357				hypothetical protein
+NDDNCMOI_00211	gene	540				
+NDDNCMOI_00211	CDS	540				hypothetical protein
+NDDNCMOI_00212	gene	279				
+NDDNCMOI_00212	CDS	279				hypothetical protein
+NDDNCMOI_00213	gene	186				
+NDDNCMOI_00213	CDS	186				hypothetical protein
+NDDNCMOI_00214	gene	1620	thyX			
+NDDNCMOI_00214	CDS	1620	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+NDDNCMOI_00215	gene	420	msrB			
+NDDNCMOI_00215	CDS	420	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+NDDNCMOI_00216	gene	1011	hom			
+NDDNCMOI_00216	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+NDDNCMOI_00217	gene	477				
+NDDNCMOI_00217	CDS	477				hypothetical protein
+NDDNCMOI_00218	gene	600	prcB			
+NDDNCMOI_00218	CDS	600	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+NDDNCMOI_00219	gene	501				
+NDDNCMOI_00219	CDS	501				hypothetical protein
+NDDNCMOI_00220	gene	834	dapE			
+NDDNCMOI_00220	CDS	834	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+NDDNCMOI_00221	gene	768	nnr			
+NDDNCMOI_00221	CDS	768	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+NDDNCMOI_00222	gene	588				
+NDDNCMOI_00222	CDS	588				hypothetical protein
+NDDNCMOI_00223	gene	1434	secY			
+NDDNCMOI_00223	CDS	1434	secY			Protein translocase subunit SecY
+NDDNCMOI_00224	gene	426				
+NDDNCMOI_00224	CDS	426				hypothetical protein
+NDDNCMOI_00225	gene	468				
+NDDNCMOI_00225	CDS	468				hypothetical protein
+NDDNCMOI_00226	gene	663				
+NDDNCMOI_00226	CDS	663				hypothetical protein
+NDDNCMOI_00227	gene	159				
+NDDNCMOI_00227	CDS	159				hypothetical protein
+NDDNCMOI_00228	gene	450				
+NDDNCMOI_00228	CDS	450				hypothetical protein
+NDDNCMOI_00229	gene	924	argF			
+NDDNCMOI_00229	CDS	924	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+NDDNCMOI_00230	gene	1146	ffh_3			
+NDDNCMOI_00230	CDS	1146	ffh_3		COG0541	Signal recognition particle protein
+NDDNCMOI_00231	gene	93				
+NDDNCMOI_00231	CDS	93				hypothetical protein
+NDDNCMOI_00232	gene	759				
+NDDNCMOI_00232	CDS	759				hypothetical protein
+NDDNCMOI_00233	gene	327	nudL			
+NDDNCMOI_00233	CDS	327	nudL	3.6.1.-		putative Nudix hydrolase NudL
+NDDNCMOI_00234	gene	663				
+NDDNCMOI_00234	CDS	663				hypothetical protein
+NDDNCMOI_00235	gene	954	ftsZ			
+NDDNCMOI_00235	CDS	954	ftsZ			Cell division protein FtsZ
+NDDNCMOI_00236	gene	1272	miaB			
+NDDNCMOI_00236	CDS	1272	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NDDNCMOI_00237	gene	1362	aspA			
+NDDNCMOI_00237	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+NDDNCMOI_00238	gene	111				
+NDDNCMOI_00238	CDS	111				hypothetical protein
+NDDNCMOI_00239	gene	321				
+NDDNCMOI_00239	CDS	321				hypothetical protein
+NDDNCMOI_00240	gene	1005				
+NDDNCMOI_00240	CDS	1005				hypothetical protein
+NDDNCMOI_00241	gene	633				
+NDDNCMOI_00241	CDS	633				hypothetical protein
+NDDNCMOI_00242	gene	576	purE			
+NDDNCMOI_00242	CDS	576	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+NDDNCMOI_00243	gene	2031				
+NDDNCMOI_00243	CDS	2031		5.1.3.11		Cellobiose 2-epimerase
+NDDNCMOI_00244	gene	243				
+NDDNCMOI_00244	CDS	243				hypothetical protein
+NDDNCMOI_00245	gene	213				
+NDDNCMOI_00245	CDS	213				hypothetical protein
+NDDNCMOI_00246	gene	204				
+NDDNCMOI_00246	CDS	204				hypothetical protein
+NDDNCMOI_00247	gene	240				
+NDDNCMOI_00247	CDS	240				hypothetical protein
+NDDNCMOI_00248	gene	1434	purF			
+NDDNCMOI_00248	CDS	1434	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+NDDNCMOI_00249	gene	2163	purL			
+NDDNCMOI_00249	CDS	2163	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+NDDNCMOI_00250	gene	681	purQ			
+NDDNCMOI_00250	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+NDDNCMOI_00251	gene	420	hrp1_1			
+NDDNCMOI_00251	CDS	420	hrp1_1		COG0517	Hypoxic response protein 1
+NDDNCMOI_00252	gene	261	purS			
+NDDNCMOI_00252	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+NDDNCMOI_00253	gene	156				
+NDDNCMOI_00253	CDS	156				hypothetical protein
+NDDNCMOI_00254	gene	510				
+NDDNCMOI_00254	CDS	510				hypothetical protein
+NDDNCMOI_00255	gene	795				
+NDDNCMOI_00255	CDS	795				hypothetical protein
+NDDNCMOI_00256	gene	132				
+NDDNCMOI_00256	CDS	132				hypothetical protein
+NDDNCMOI_00257	gene	1254	csd			
+NDDNCMOI_00257	CDS	1254	csd	2.8.1.7		putative cysteine desulfurase
+NDDNCMOI_00258	gene	480				
+NDDNCMOI_00258	CDS	480				hypothetical protein
+NDDNCMOI_00259	gene	348				
+NDDNCMOI_00259	CDS	348				hypothetical protein
+NDDNCMOI_00260	gene	1209	pgk			
+NDDNCMOI_00260	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+NDDNCMOI_00261	gene	300				
+NDDNCMOI_00261	CDS	300				hypothetical protein
+NDDNCMOI_00262	gene	312				
+NDDNCMOI_00262	CDS	312				hypothetical protein
+NDDNCMOI_00263	gene	360				
+NDDNCMOI_00263	CDS	360				hypothetical protein
+NDDNCMOI_00264	gene	495				
+NDDNCMOI_00264	CDS	495				hypothetical protein
+NDDNCMOI_00265	gene	645				
+NDDNCMOI_00265	CDS	645				hypothetical protein
+NDDNCMOI_00266	gene	333				
+NDDNCMOI_00266	CDS	333				hypothetical protein
+NDDNCMOI_00267	gene	453				
+NDDNCMOI_00267	CDS	453				hypothetical protein
+NDDNCMOI_00268	gene	300				
+NDDNCMOI_00268	CDS	300				hypothetical protein
+NDDNCMOI_00269	gene	987	drrA			
+NDDNCMOI_00269	CDS	987	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+NDDNCMOI_00270	gene	777				
+NDDNCMOI_00270	CDS	777				hypothetical protein
+NDDNCMOI_00271	gene	111				
+NDDNCMOI_00271	CDS	111				hypothetical protein
+NDDNCMOI_00272	gene	117				
+NDDNCMOI_00272	CDS	117				hypothetical protein
+NDDNCMOI_00273	gene	99				
+NDDNCMOI_00273	CDS	99				hypothetical protein
+NDDNCMOI_00274	gene	516				
+NDDNCMOI_00274	CDS	516				hypothetical protein
+NDDNCMOI_00275	gene	606	cbiT			
+NDDNCMOI_00275	CDS	606	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+NDDNCMOI_00276	gene	723	cbiL			
+NDDNCMOI_00276	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+NDDNCMOI_00277	gene	780	cbiF			
+NDDNCMOI_00277	CDS	780	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+NDDNCMOI_00278	gene	426	murI_1			
+NDDNCMOI_00278	CDS	426	murI_1	5.1.1.3		Glutamate racemase
+NDDNCMOI_00279	gene	432	murI_2			
+NDDNCMOI_00279	CDS	432	murI_2	5.1.1.3	COG0796	Glutamate racemase
+NDDNCMOI_00280	gene	651				
+NDDNCMOI_00280	CDS	651				hypothetical protein
+NDDNCMOI_00281	gene	780				
+NDDNCMOI_00281	CDS	780				hypothetical protein
+NDDNCMOI_00282	gene	954				
+NDDNCMOI_00282	CDS	954				hypothetical protein
+NDDNCMOI_00283	gene	552	pdaD			
+NDDNCMOI_00283	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+NDDNCMOI_00284	gene	459	bcp_1			
+NDDNCMOI_00284	CDS	459	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+NDDNCMOI_00285	gene	549				
+NDDNCMOI_00285	CDS	549				hypothetical protein
+NDDNCMOI_00286	gene	222				
+NDDNCMOI_00286	CDS	222				hypothetical protein
+NDDNCMOI_00287	gene	75				
+NDDNCMOI_00287	tRNA	75				tRNA-Thr(tgt)
+NDDNCMOI_00288	gene	1353	deaD			
+NDDNCMOI_00288	CDS	1353	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+NDDNCMOI_00289	gene	237				
+NDDNCMOI_00289	CDS	237				hypothetical protein
+NDDNCMOI_00290	gene	288				
+NDDNCMOI_00290	CDS	288				hypothetical protein
+NDDNCMOI_00291	gene	495				
+NDDNCMOI_00291	CDS	495				hypothetical protein
+NDDNCMOI_00292	gene	603				
+NDDNCMOI_00292	CDS	603				hypothetical protein
+NDDNCMOI_00293	gene	348				
+NDDNCMOI_00293	CDS	348				hypothetical protein
+NDDNCMOI_00294	gene	465				
+NDDNCMOI_00294	CDS	465				hypothetical protein
+NDDNCMOI_00295	gene	447	rpsI			
+NDDNCMOI_00295	CDS	447	rpsI		COG0103	30S ribosomal protein S9
+NDDNCMOI_00296	gene	726	cugP_1			
+NDDNCMOI_00296	CDS	726	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+NDDNCMOI_00297	gene	585	leuD1			
+NDDNCMOI_00297	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+NDDNCMOI_00298	gene	1020	leuC_1			
+NDDNCMOI_00298	CDS	1020	leuC_1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+NDDNCMOI_00299	gene	525	leuC1			
+NDDNCMOI_00299	CDS	525	leuC1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit 1
+NDDNCMOI_00300	gene	483	DmdB			
+NDDNCMOI_00300	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+NDDNCMOI_00301	gene	99	leuC_2			
+NDDNCMOI_00301	CDS	99	leuC_2	4.2.1.33		3-isopropylmalate dehydratase large subunit
+NDDNCMOI_00302	gene	246				
+NDDNCMOI_00302	CDS	246				hypothetical protein
+NDDNCMOI_00303	gene	153				
+NDDNCMOI_00303	CDS	153				hypothetical protein
+NDDNCMOI_00304	gene	150				
+NDDNCMOI_00304	CDS	150				hypothetical protein
+NDDNCMOI_00305	gene	495				
+NDDNCMOI_00305	CDS	495				hypothetical protein
+NDDNCMOI_00306	gene	1059				
+NDDNCMOI_00306	CDS	1059				hypothetical protein
+NDDNCMOI_00307	gene	642	kynB			
+NDDNCMOI_00307	CDS	642	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+NDDNCMOI_00308	gene	261				
+NDDNCMOI_00308	CDS	261				hypothetical protein
+NDDNCMOI_00309	gene	831	sufS			
+NDDNCMOI_00309	CDS	831	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+NDDNCMOI_00310	gene	606				
+NDDNCMOI_00310	CDS	606				hypothetical protein
+NDDNCMOI_00311	gene	300	ndhI			
+NDDNCMOI_00311	CDS	300	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+NDDNCMOI_00312	gene	1788	atpA			
+NDDNCMOI_00312	CDS	1788	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+NDDNCMOI_00313	gene	1389	ntpB			
+NDDNCMOI_00313	CDS	1389	ntpB			V-type sodium ATPase subunit B
+NDDNCMOI_00314	gene	636	ntpD			
+NDDNCMOI_00314	CDS	636	ntpD			V-type sodium ATPase subunit D
+NDDNCMOI_00315	gene	132				
+NDDNCMOI_00315	CDS	132				hypothetical protein
+NDDNCMOI_00316	gene	303	atpH			
+NDDNCMOI_00316	CDS	303	atpH			ATP synthase subunit c
+NDDNCMOI_00317	gene	1044	atpC			
+NDDNCMOI_00317	CDS	1044	atpC			V-type ATP synthase subunit C
+NDDNCMOI_00318	gene	102				
+NDDNCMOI_00318	CDS	102				hypothetical protein
+NDDNCMOI_00319	gene	321				
+NDDNCMOI_00319	CDS	321				hypothetical protein
+NDDNCMOI_00320	gene	150				
+NDDNCMOI_00320	CDS	150				hypothetical protein
+NDDNCMOI_00321	gene	192				
+NDDNCMOI_00321	CDS	192				hypothetical protein
+NDDNCMOI_00322	gene	1122				
+NDDNCMOI_00322	CDS	1122				hypothetical protein
+NDDNCMOI_00323	gene	627				
+NDDNCMOI_00323	CDS	627				hypothetical protein
+NDDNCMOI_00324	gene	303				
+NDDNCMOI_00324	CDS	303				hypothetical protein
+NDDNCMOI_00325	gene	840	nfo			
+NDDNCMOI_00325	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+NDDNCMOI_00326	gene	1827				
+NDDNCMOI_00326	CDS	1827				hypothetical protein
+NDDNCMOI_00327	gene	627	petC			
+NDDNCMOI_00327	CDS	627	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+NDDNCMOI_00328	gene	1587	petB			
+NDDNCMOI_00328	CDS	1587	petB			Cytochrome b6
+NDDNCMOI_00329	gene	468				
+NDDNCMOI_00329	CDS	468				hypothetical protein
+NDDNCMOI_00330	gene	351				
+NDDNCMOI_00330	CDS	351				hypothetical protein
+NDDNCMOI_00331	gene	435				
+NDDNCMOI_00331	CDS	435				hypothetical protein
+NDDNCMOI_00332	gene	561	nqrF			
+NDDNCMOI_00332	CDS	561	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+NDDNCMOI_00333	gene	1530				
+NDDNCMOI_00333	CDS	1530				hypothetical protein
+NDDNCMOI_00334	gene	237				
+NDDNCMOI_00334	CDS	237				hypothetical protein
+NDDNCMOI_00335	gene	1044	nanM			
+NDDNCMOI_00335	CDS	1044	nanM	5.1.3.24		N-acetylneuraminate epimerase
+NDDNCMOI_00336	gene	420				
+NDDNCMOI_00336	CDS	420				hypothetical protein
+NDDNCMOI_00337	gene	495				
+NDDNCMOI_00337	CDS	495				hypothetical protein
+NDDNCMOI_00338	gene	489				
+NDDNCMOI_00338	CDS	489				hypothetical protein
+NDDNCMOI_00339	gene	729				
+NDDNCMOI_00339	CDS	729				hypothetical protein
+NDDNCMOI_00340	gene	1311	aspS2_3			
+NDDNCMOI_00340	CDS	1311	aspS2_3	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+NDDNCMOI_00341	gene	276				
+NDDNCMOI_00341	CDS	276				hypothetical protein
+NDDNCMOI_00342	gene	1446	gatA			
+NDDNCMOI_00342	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+NDDNCMOI_00343	gene	1407	gatB			
+NDDNCMOI_00343	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+NDDNCMOI_00344	gene	1914				
+NDDNCMOI_00344	CDS	1914				hypothetical protein
+NDDNCMOI_00345	gene	963				
+NDDNCMOI_00345	CDS	963				hypothetical protein
+NDDNCMOI_00346	gene	435				
+NDDNCMOI_00346	CDS	435				hypothetical protein
+NDDNCMOI_00347	gene	540				
+NDDNCMOI_00347	CDS	540				hypothetical protein
+NDDNCMOI_00348	gene	213				
+NDDNCMOI_00348	CDS	213				hypothetical protein
+NDDNCMOI_00349	gene	552				
+NDDNCMOI_00349	CDS	552				hypothetical protein
+NDDNCMOI_00350	gene	348	fbiB_1			
+NDDNCMOI_00350	CDS	348	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+NDDNCMOI_00351	gene	300	ghrB			
+NDDNCMOI_00351	CDS	300	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+NDDNCMOI_00352	gene	375				
+NDDNCMOI_00352	CDS	375				hypothetical protein
+NDDNCMOI_00353	gene	264				
+NDDNCMOI_00353	CDS	264				hypothetical protein
+NDDNCMOI_00354	gene	1296	lhgD			
+NDDNCMOI_00354	CDS	1296	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+NDDNCMOI_00355	gene	447				
+NDDNCMOI_00355	CDS	447				hypothetical protein
+NDDNCMOI_00356	gene	999	truB			
+NDDNCMOI_00356	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+NDDNCMOI_00357	gene	561	cmk			
+NDDNCMOI_00357	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+NDDNCMOI_00358	gene	588				
+NDDNCMOI_00358	CDS	588				hypothetical protein
+NDDNCMOI_00359	gene	156				
+NDDNCMOI_00359	CDS	156				hypothetical protein
+NDDNCMOI_00360	gene	402				
+NDDNCMOI_00360	CDS	402				hypothetical protein
+NDDNCMOI_00361	gene	279	prsA1			
+NDDNCMOI_00361	CDS	279	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+NDDNCMOI_00362	gene	1500	srmB			
+NDDNCMOI_00362	CDS	1500	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+NDDNCMOI_00363	gene	483				
+NDDNCMOI_00363	CDS	483				hypothetical protein
+NDDNCMOI_00364	gene	942	fbiA			
+NDDNCMOI_00364	CDS	942	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+NDDNCMOI_00365	gene	633	fbiD			
+NDDNCMOI_00365	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+NDDNCMOI_00366	gene	912				
+NDDNCMOI_00366	CDS	912				hypothetical protein
+NDDNCMOI_00367	gene	993				
+NDDNCMOI_00367	CDS	993				hypothetical protein
+NDDNCMOI_00368	gene	309				
+NDDNCMOI_00368	CDS	309				hypothetical protein
+NDDNCMOI_00369	gene	336				
+NDDNCMOI_00369	CDS	336				hypothetical protein
+NDDNCMOI_00370	gene	648				
+NDDNCMOI_00370	CDS	648				hypothetical protein
+NDDNCMOI_00371	gene	1119	dipZ			
+NDDNCMOI_00371	CDS	1119	dipZ		COG0785	Protein DipZ
+NDDNCMOI_00372	gene	735				
+NDDNCMOI_00372	CDS	735				hypothetical protein
+NDDNCMOI_00373	gene	111				
+NDDNCMOI_00373	CDS	111				hypothetical protein
+NDDNCMOI_00374	gene	1083	bioF			
+NDDNCMOI_00374	CDS	1083	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+NDDNCMOI_00375	gene	975	bioB			
+NDDNCMOI_00375	CDS	975	bioB	2.8.1.6	COG0502	Biotin synthase
+NDDNCMOI_00376	gene	1140	trm1			
+NDDNCMOI_00376	CDS	1140	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+NDDNCMOI_00377	gene	594	rlmE			
+NDDNCMOI_00377	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+NDDNCMOI_00378	gene	432				
+NDDNCMOI_00378	CDS	432				hypothetical protein
+NDDNCMOI_00379	gene	471				
+NDDNCMOI_00379	CDS	471				hypothetical protein
+NDDNCMOI_00380	gene	180				
+NDDNCMOI_00380	CDS	180				hypothetical protein
+NDDNCMOI_00381	gene	498				
+NDDNCMOI_00381	CDS	498				hypothetical protein
+NDDNCMOI_00382	gene	144				
+NDDNCMOI_00382	CDS	144				hypothetical protein
+NDDNCMOI_00383	gene	423				
+NDDNCMOI_00383	CDS	423				hypothetical protein
+NDDNCMOI_00384	gene	333				
+NDDNCMOI_00384	CDS	333				hypothetical protein
+NDDNCMOI_00385	gene	312				
+NDDNCMOI_00385	CDS	312				hypothetical protein
+NDDNCMOI_00386	gene	792				
+NDDNCMOI_00386	CDS	792				hypothetical protein
+NDDNCMOI_00387	gene	570				
+NDDNCMOI_00387	CDS	570				hypothetical protein
+NDDNCMOI_00388	gene	753				
+NDDNCMOI_00388	CDS	753				hypothetical protein
+NDDNCMOI_00389	gene	456				
+NDDNCMOI_00389	CDS	456				hypothetical protein
+NDDNCMOI_00390	gene	561				
+NDDNCMOI_00390	CDS	561				hypothetical protein
+NDDNCMOI_00391	gene	315				
+NDDNCMOI_00391	CDS	315				hypothetical protein
+NDDNCMOI_00392	gene	279				
+NDDNCMOI_00392	CDS	279				hypothetical protein
+NDDNCMOI_00393	gene	339	glnB			
+NDDNCMOI_00393	CDS	339	glnB			Nitrogen regulatory protein P-II
+NDDNCMOI_00394	gene	681				
+NDDNCMOI_00394	CDS	681				hypothetical protein
+NDDNCMOI_00395	gene	363				
+NDDNCMOI_00395	CDS	363				hypothetical protein
+NDDNCMOI_00396	gene	177				
+NDDNCMOI_00396	CDS	177				hypothetical protein
+NDDNCMOI_00397	gene	972				
+NDDNCMOI_00397	CDS	972		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+NDDNCMOI_00398	gene	144				
+NDDNCMOI_00398	CDS	144				hypothetical protein
+NDDNCMOI_00399	gene	360				
+NDDNCMOI_00399	CDS	360				hypothetical protein
+NDDNCMOI_00400	gene	414				
+NDDNCMOI_00400	CDS	414				hypothetical protein
+NDDNCMOI_00401	gene	381				
+NDDNCMOI_00401	CDS	381				hypothetical protein
+NDDNCMOI_00402	gene	177				
+NDDNCMOI_00402	CDS	177				hypothetical protein
+NDDNCMOI_00403	gene	1068	purK			
+NDDNCMOI_00403	CDS	1068	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+NDDNCMOI_00404	gene	615	tdcB			
+NDDNCMOI_00404	CDS	615	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+NDDNCMOI_00405	gene	720	pckA_1			
+NDDNCMOI_00405	CDS	720	pckA_1	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+NDDNCMOI_00406	gene	843	pckA_2			
+NDDNCMOI_00406	CDS	843	pckA_2	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+NDDNCMOI_00407	gene	2058				
+NDDNCMOI_00407	CDS	2058				hypothetical protein
+NDDNCMOI_00408	gene	738				
+NDDNCMOI_00408	CDS	738				hypothetical protein
+NDDNCMOI_00409	gene	207				
+NDDNCMOI_00409	CDS	207				hypothetical protein
+NDDNCMOI_00410	gene	915	ilvE_1			
+NDDNCMOI_00410	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+NDDNCMOI_00411	gene	75				
+NDDNCMOI_00411	tRNA	75				tRNA-Lys(ctt)
+NDDNCMOI_00412	gene	603				
+NDDNCMOI_00412	CDS	603				hypothetical protein
+NDDNCMOI_00413	gene	522				
+NDDNCMOI_00413	CDS	522				hypothetical protein
+NDDNCMOI_00414	gene	489	ctaA			
+NDDNCMOI_00414	CDS	489	ctaA	1.3.-.-		Heme A synthase
+NDDNCMOI_00415	gene	309	petE_1			
+NDDNCMOI_00415	CDS	309	petE_1			Plastocyanin
+NDDNCMOI_00416	gene	777				
+NDDNCMOI_00416	CDS	777				hypothetical protein
+NDDNCMOI_00417	gene	171				
+NDDNCMOI_00417	CDS	171				hypothetical protein
+NDDNCMOI_00418	gene	462				
+NDDNCMOI_00418	CDS	462				hypothetical protein
+NDDNCMOI_00419	gene	483	rplK			
+NDDNCMOI_00419	CDS	483	rplK		COG0080	50S ribosomal protein L11
+NDDNCMOI_00420	gene	459	asnC_1			
+NDDNCMOI_00420	CDS	459	asnC_1		COG1522	Regulatory protein AsnC
+NDDNCMOI_00421	gene	657				
+NDDNCMOI_00421	CDS	657				hypothetical protein
+NDDNCMOI_00422	gene	381				
+NDDNCMOI_00422	CDS	381				hypothetical protein
+NDDNCMOI_00423	gene	1164	citZ_1			
+NDDNCMOI_00423	CDS	1164	citZ_1	2.3.3.16	COG0372	Citrate synthase 2
+NDDNCMOI_00424	gene	201				
+NDDNCMOI_00424	CDS	201				hypothetical protein
+NDDNCMOI_00425	gene	1029				
+NDDNCMOI_00425	CDS	1029				hypothetical protein
+NDDNCMOI_00426	gene	1245				
+NDDNCMOI_00426	CDS	1245				hypothetical protein
+NDDNCMOI_00427	gene	300				
+NDDNCMOI_00427	CDS	300				hypothetical protein
+NDDNCMOI_00428	gene	681				
+NDDNCMOI_00428	CDS	681				hypothetical protein
+NDDNCMOI_00429	gene	1629				
+NDDNCMOI_00429	CDS	1629				hypothetical protein
+NDDNCMOI_00430	gene	1347				
+NDDNCMOI_00430	CDS	1347				hypothetical protein
+NDDNCMOI_00431	gene	312				
+NDDNCMOI_00431	CDS	312				hypothetical protein
+NDDNCMOI_00432	gene	348				
+NDDNCMOI_00432	CDS	348				hypothetical protein
+NDDNCMOI_00433	gene	255				
+NDDNCMOI_00433	CDS	255				hypothetical protein
+NDDNCMOI_00434	gene	111				
+NDDNCMOI_00434	CDS	111				hypothetical protein
+NDDNCMOI_00435	gene	993				
+NDDNCMOI_00435	CDS	993				hypothetical protein
+NDDNCMOI_00436	gene	813				
+NDDNCMOI_00436	CDS	813				hypothetical protein
+NDDNCMOI_00437	gene	267				
+NDDNCMOI_00437	CDS	267				hypothetical protein
+NDDNCMOI_00438	gene	321				
+NDDNCMOI_00438	CDS	321				hypothetical protein
+NDDNCMOI_00439	gene	468				
+NDDNCMOI_00439	CDS	468				hypothetical protein
+NDDNCMOI_00440	gene	372				
+NDDNCMOI_00440	CDS	372				hypothetical protein
+NDDNCMOI_00441	gene	234				
+NDDNCMOI_00441	CDS	234				hypothetical protein
+NDDNCMOI_00442	gene	687				
+NDDNCMOI_00442	CDS	687				hypothetical protein
+NDDNCMOI_00443	gene	681				
+NDDNCMOI_00443	CDS	681				hypothetical protein
+NDDNCMOI_00444	gene	744	rph_1			
+NDDNCMOI_00444	CDS	744	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+NDDNCMOI_00445	gene	819	rph_2			
+NDDNCMOI_00445	CDS	819	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+NDDNCMOI_00446	gene	213				
+NDDNCMOI_00446	CDS	213				hypothetical protein
+NDDNCMOI_00447	gene	249				
+NDDNCMOI_00447	CDS	249				hypothetical protein
+NDDNCMOI_00448	gene	339				
+NDDNCMOI_00448	CDS	339				hypothetical protein
+NDDNCMOI_00449	gene	735	phnE			
+NDDNCMOI_00449	CDS	735	phnE		COG3639	Phosphate-import permease protein PhnE
+NDDNCMOI_00450	gene	930				
+NDDNCMOI_00450	CDS	930				hypothetical protein
+NDDNCMOI_00451	gene	927				
+NDDNCMOI_00451	CDS	927				hypothetical protein
+NDDNCMOI_00452	gene	1137				
+NDDNCMOI_00452	CDS	1137				hypothetical protein
+NDDNCMOI_00453	gene	450				
+NDDNCMOI_00453	CDS	450				hypothetical protein
+NDDNCMOI_00454	gene	612				
+NDDNCMOI_00454	CDS	612				hypothetical protein
+NDDNCMOI_00455	gene	375				
+NDDNCMOI_00455	CDS	375				hypothetical protein
+NDDNCMOI_00456	gene	672				
+NDDNCMOI_00456	CDS	672				hypothetical protein
+NDDNCMOI_00457	gene	600				
+NDDNCMOI_00457	CDS	600				hypothetical protein
+NDDNCMOI_00458	gene	657	pdg			
+NDDNCMOI_00458	CDS	657	pdg			Ultraviolet N-glycosylase/AP lyase
+NDDNCMOI_00459	gene	684				
+NDDNCMOI_00459	CDS	684				hypothetical protein
+NDDNCMOI_00460	gene	93				
+NDDNCMOI_00460	CDS	93				hypothetical protein
+NDDNCMOI_00461	gene	180				
+NDDNCMOI_00461	CDS	180				hypothetical protein
+NDDNCMOI_00462	gene	246				
+NDDNCMOI_00462	CDS	246				hypothetical protein
+NDDNCMOI_00463	gene	252				
+NDDNCMOI_00463	CDS	252				hypothetical protein
+NDDNCMOI_00464	gene	963				
+NDDNCMOI_00464	CDS	963				hypothetical protein
+NDDNCMOI_00465	gene	618	purN			
+NDDNCMOI_00465	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+NDDNCMOI_00466	gene	321				
+NDDNCMOI_00466	CDS	321				hypothetical protein
+NDDNCMOI_00467	gene	864	folD			
+NDDNCMOI_00467	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+NDDNCMOI_00468	gene	585				
+NDDNCMOI_00468	CDS	585				hypothetical protein
+NDDNCMOI_00469	gene	1110				
+NDDNCMOI_00469	CDS	1110				hypothetical protein
+NDDNCMOI_00470	gene	312				
+NDDNCMOI_00470	CDS	312				hypothetical protein
+NDDNCMOI_00471	gene	327				
+NDDNCMOI_00471	CDS	327				hypothetical protein
+NDDNCMOI_00472	gene	225				
+NDDNCMOI_00472	CDS	225				hypothetical protein
+NDDNCMOI_00473	gene	828				
+NDDNCMOI_00473	CDS	828				hypothetical protein
+NDDNCMOI_00474	gene	375				
+NDDNCMOI_00474	CDS	375				hypothetical protein
+NDDNCMOI_00475	gene	459				
+NDDNCMOI_00475	CDS	459				hypothetical protein
+NDDNCMOI_00476	gene	1158				
+NDDNCMOI_00476	CDS	1158				hypothetical protein
+NDDNCMOI_00477	gene	423				
+NDDNCMOI_00477	CDS	423				hypothetical protein
+NDDNCMOI_00478	gene	1194	mpa			
+NDDNCMOI_00478	CDS	1194	mpa			Proteasome-associated ATPase
+NDDNCMOI_00479	gene	165				
+NDDNCMOI_00479	CDS	165				hypothetical protein
+NDDNCMOI_00480	gene	948	galK			
+NDDNCMOI_00480	CDS	948	galK	2.7.1.6		Galactokinase
+NDDNCMOI_00481	gene	675				
+NDDNCMOI_00481	CDS	675				hypothetical protein
+NDDNCMOI_00482	gene	624				
+NDDNCMOI_00482	CDS	624				hypothetical protein
+NDDNCMOI_00483	gene	912	eno			
+NDDNCMOI_00483	CDS	912	eno	4.2.1.11	COG0148	Enolase
+NDDNCMOI_00484	gene	450				
+NDDNCMOI_00484	CDS	450				hypothetical protein
+NDDNCMOI_00485	gene	438				
+NDDNCMOI_00485	CDS	438				hypothetical protein
+NDDNCMOI_00486	gene	702	cugP_2			
+NDDNCMOI_00486	CDS	702	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+NDDNCMOI_00487	gene	1302	thiDN			
+NDDNCMOI_00487	CDS	1302	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+NDDNCMOI_00488	gene	456				
+NDDNCMOI_00488	CDS	456				hypothetical protein
+NDDNCMOI_00489	gene	1257				
+NDDNCMOI_00489	CDS	1257				hypothetical protein
+NDDNCMOI_00490	gene	567				
+NDDNCMOI_00490	CDS	567				hypothetical protein
+NDDNCMOI_00491	gene	156				
+NDDNCMOI_00491	CDS	156				hypothetical protein
+NDDNCMOI_00492	gene	804				
+NDDNCMOI_00492	CDS	804				hypothetical protein
+NDDNCMOI_00493	gene	75				
+NDDNCMOI_00493	tRNA	75				tRNA-Ala(ggc)
+NDDNCMOI_00494	gene	549				
+NDDNCMOI_00494	CDS	549				hypothetical protein
+NDDNCMOI_00495	gene	357				
+NDDNCMOI_00495	CDS	357				hypothetical protein
+NDDNCMOI_00496	gene	849	Dml			
+NDDNCMOI_00496	CDS	849	Dml	4.1.3.32		2,3-dimethylmalate lyase
+NDDNCMOI_00497	gene	660	nfi			
+NDDNCMOI_00497	CDS	660	nfi	3.1.21.7	COG1515	Endonuclease V
+NDDNCMOI_00498	gene	510				
+NDDNCMOI_00498	CDS	510				hypothetical protein
+NDDNCMOI_00499	gene	234				
+NDDNCMOI_00499	CDS	234				hypothetical protein
+NDDNCMOI_00500	gene	111				
+NDDNCMOI_00500	CDS	111				hypothetical protein
+NDDNCMOI_00501	gene	330				
+NDDNCMOI_00501	CDS	330				hypothetical protein
+NDDNCMOI_00502	gene	375				
+NDDNCMOI_00502	CDS	375				hypothetical protein
+NDDNCMOI_00503	gene	825				
+NDDNCMOI_00503	CDS	825				hypothetical protein
+NDDNCMOI_00504	gene	906				
+NDDNCMOI_00504	CDS	906				hypothetical protein
+NDDNCMOI_00505	gene	159				
+NDDNCMOI_00505	CDS	159				hypothetical protein
+NDDNCMOI_00506	gene	918	ilvE_2			
+NDDNCMOI_00506	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+NDDNCMOI_00507	gene	936	iolG			
+NDDNCMOI_00507	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+NDDNCMOI_00508	gene	270				
+NDDNCMOI_00508	CDS	270				hypothetical protein
+NDDNCMOI_00509	gene	477	fdtC			
+NDDNCMOI_00509	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+NDDNCMOI_00510	gene	207				
+NDDNCMOI_00510	CDS	207				hypothetical protein
+NDDNCMOI_00511	gene	993	mraY			
+NDDNCMOI_00511	CDS	993	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NDDNCMOI_00512	gene	216				
+NDDNCMOI_00512	CDS	216				hypothetical protein
+NDDNCMOI_00513	gene	732				
+NDDNCMOI_00513	CDS	732				hypothetical protein
+NDDNCMOI_00514	gene	330				
+NDDNCMOI_00514	CDS	330				hypothetical protein
+NDDNCMOI_00515	gene	339				
+NDDNCMOI_00515	CDS	339				hypothetical protein
+NDDNCMOI_00516	gene	1029				
+NDDNCMOI_00516	CDS	1029				hypothetical protein
+NDDNCMOI_00517	gene	1026	thrC			
+NDDNCMOI_00517	CDS	1026	thrC	4.2.3.1	COG0498	Threonine synthase
+NDDNCMOI_00518	gene	417				
+NDDNCMOI_00518	CDS	417				hypothetical protein
+NDDNCMOI_00519	gene	834				
+NDDNCMOI_00519	CDS	834				hypothetical protein
+NDDNCMOI_00520	gene	1053				
+NDDNCMOI_00520	CDS	1053				hypothetical protein
+NDDNCMOI_00521	gene	342				
+NDDNCMOI_00521	CDS	342				hypothetical protein
+NDDNCMOI_00522	gene	222				
+NDDNCMOI_00522	CDS	222				hypothetical protein
+NDDNCMOI_00523	gene	76				
+NDDNCMOI_00523	tRNA	76				tRNA-Arg(tct)
+NDDNCMOI_00524	gene	846				
+NDDNCMOI_00524	CDS	846				hypothetical protein
+NDDNCMOI_00525	gene	549				
+NDDNCMOI_00525	CDS	549				hypothetical protein
+NDDNCMOI_00526	gene	849				
+NDDNCMOI_00526	CDS	849		3.1.-.-	COG1236	Ribonuclease
+NDDNCMOI_00527	gene	213				
+NDDNCMOI_00527	CDS	213				hypothetical protein
+NDDNCMOI_00528	gene	261				
+NDDNCMOI_00528	CDS	261				hypothetical protein
+NDDNCMOI_00529	gene	657	ribD2			
+NDDNCMOI_00529	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+NDDNCMOI_00530	gene	609	dadD_1			
+NDDNCMOI_00530	CDS	609	dadD_1	3.5.4.31		5'-deoxyadenosine deaminase
+NDDNCMOI_00531	gene	528	dadD_2			
+NDDNCMOI_00531	CDS	528	dadD_2	3.5.4.31		5'-deoxyadenosine deaminase
+NDDNCMOI_00532	gene	750				
+NDDNCMOI_00532	CDS	750				hypothetical protein
+NDDNCMOI_00533	gene	402	ribH			
+NDDNCMOI_00533	CDS	402	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+NDDNCMOI_00534	gene	303	ribBA			
+NDDNCMOI_00534	CDS	303	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+NDDNCMOI_00535	gene	174				
+NDDNCMOI_00535	CDS	174				hypothetical protein
+NDDNCMOI_00536	gene	1098	mqnE			
+NDDNCMOI_00536	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+NDDNCMOI_00537	gene	174				
+NDDNCMOI_00537	CDS	174				hypothetical protein
+NDDNCMOI_00538	gene	504	ycf3			
+NDDNCMOI_00538	CDS	504	ycf3			Photosystem I assembly protein Ycf3
+NDDNCMOI_00539	gene	228				
+NDDNCMOI_00539	CDS	228				hypothetical protein
+NDDNCMOI_00540	gene	438	lrp			
+NDDNCMOI_00540	CDS	438	lrp		COG1522	Leucine-responsive regulatory protein
+NDDNCMOI_00541	gene	747	cpdA_1			
+NDDNCMOI_00541	CDS	747	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NDDNCMOI_00542	gene	87				
+NDDNCMOI_00542	tRNA	87				tRNA-Ser(gct)
+NDDNCMOI_00543	gene	162				
+NDDNCMOI_00543	CDS	162				hypothetical protein
+NDDNCMOI_00544	gene	174				
+NDDNCMOI_00544	CDS	174				hypothetical protein
+NDDNCMOI_00545	gene	825				
+NDDNCMOI_00545	CDS	825				hypothetical protein
+NDDNCMOI_00546	gene	1194				
+NDDNCMOI_00546	CDS	1194				hypothetical protein
+NDDNCMOI_00547	gene	1017				
+NDDNCMOI_00547	CDS	1017				hypothetical protein
+NDDNCMOI_00548	gene	1431	ndhB			
+NDDNCMOI_00548	CDS	1431	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+NDDNCMOI_00549	gene	915				
+NDDNCMOI_00549	CDS	915				hypothetical protein
+NDDNCMOI_00550	gene	246				
+NDDNCMOI_00550	CDS	246				hypothetical protein
+NDDNCMOI_00551	gene	360				
+NDDNCMOI_00551	CDS	360				hypothetical protein
+NDDNCMOI_00552	gene	225				
+NDDNCMOI_00552	CDS	225				hypothetical protein
+NDDNCMOI_00553	gene	192				
+NDDNCMOI_00553	CDS	192				hypothetical protein
+NDDNCMOI_00554	gene	76				
+NDDNCMOI_00554	tRNA	76				tRNA-Asn(gtt)
+NDDNCMOI_00555	gene	288				
+NDDNCMOI_00555	CDS	288				hypothetical protein
+NDDNCMOI_00556	gene	576				
+NDDNCMOI_00556	CDS	576				hypothetical protein
+NDDNCMOI_00557	gene	393	rpsH			
+NDDNCMOI_00557	CDS	393	rpsH			30S ribosomal protein S8
+NDDNCMOI_00558	gene	177				
+NDDNCMOI_00558	CDS	177				hypothetical protein
+NDDNCMOI_00559	gene	318				
+NDDNCMOI_00559	CDS	318				hypothetical protein
+NDDNCMOI_00560	gene	300				
+NDDNCMOI_00560	CDS	300				hypothetical protein
+NDDNCMOI_00561	gene	288				
+NDDNCMOI_00561	CDS	288			COG4095	Sugar transporter SemiSWEET
+NDDNCMOI_00562	gene	657	tpiA			
+NDDNCMOI_00562	CDS	657	tpiA			Triosephosphate isomerase
+NDDNCMOI_00563	gene	900	rnz			
+NDDNCMOI_00563	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+NDDNCMOI_00564	gene	582	cobB_1			
+NDDNCMOI_00564	CDS	582	cobB_1	2.3.1.286	COG0846	NAD-dependent protein deacylase
+NDDNCMOI_00565	gene	267	cobB_2			
+NDDNCMOI_00565	CDS	267	cobB_2	2.3.1.286	COG0846	NAD-dependent protein deacylase
+NDDNCMOI_00566	gene	492				
+NDDNCMOI_00566	CDS	492				hypothetical protein
+NDDNCMOI_00567	gene	921				
+NDDNCMOI_00567	CDS	921				hypothetical protein
+NDDNCMOI_00568	gene	210				
+NDDNCMOI_00568	CDS	210				hypothetical protein
+NDDNCMOI_00569	gene	258				
+NDDNCMOI_00569	CDS	258				hypothetical protein
+NDDNCMOI_00570	gene	546	hisH_1			
+NDDNCMOI_00570	CDS	546	hisH_1	3.5.1.2		Imidazole glycerol phosphate synthase subunit HisH
+NDDNCMOI_00571	gene	114				
+NDDNCMOI_00571	CDS	114				hypothetical protein
+NDDNCMOI_00572	gene	174				
+NDDNCMOI_00572	CDS	174				hypothetical protein
+NDDNCMOI_00573	gene	522				
+NDDNCMOI_00573	CDS	522				hypothetical protein
+NDDNCMOI_00574	gene	1263	selB			
+NDDNCMOI_00574	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+NDDNCMOI_00575	gene	492				
+NDDNCMOI_00575	CDS	492				hypothetical protein
+NDDNCMOI_00576	gene	294				
+NDDNCMOI_00576	CDS	294				hypothetical protein
+NDDNCMOI_00577	gene	270				
+NDDNCMOI_00577	CDS	270				hypothetical protein
+NDDNCMOI_00578	gene	360				
+NDDNCMOI_00578	CDS	360				hypothetical protein
+NDDNCMOI_00579	gene	594				
+NDDNCMOI_00579	CDS	594				hypothetical protein
+NDDNCMOI_00580	gene	297				
+NDDNCMOI_00580	CDS	297				hypothetical protein
+NDDNCMOI_00581	gene	1155	hisC_1			
+NDDNCMOI_00581	CDS	1155	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+NDDNCMOI_00582	gene	1914				
+NDDNCMOI_00582	CDS	1914				hypothetical protein
+NDDNCMOI_00583	gene	357				
+NDDNCMOI_00583	CDS	357				hypothetical protein
+NDDNCMOI_00584	gene	240				
+NDDNCMOI_00584	CDS	240				hypothetical protein
+NDDNCMOI_00585	gene	1398				
+NDDNCMOI_00585	CDS	1398				hypothetical protein
+NDDNCMOI_00586	gene	1209				
+NDDNCMOI_00586	CDS	1209				hypothetical protein
+NDDNCMOI_00587	gene	279				
+NDDNCMOI_00587	CDS	279				hypothetical protein
+NDDNCMOI_00588	gene	384				
+NDDNCMOI_00588	CDS	384				hypothetical protein
+NDDNCMOI_00589	gene	399				
+NDDNCMOI_00589	CDS	399				hypothetical protein
+NDDNCMOI_00590	gene	423	mcm			
+NDDNCMOI_00590	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+NDDNCMOI_00591	gene	999	ilvC			
+NDDNCMOI_00591	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+NDDNCMOI_00592	gene	120				
+NDDNCMOI_00592	CDS	120				hypothetical protein
+NDDNCMOI_00593	gene	369				
+NDDNCMOI_00593	CDS	369		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+NDDNCMOI_00594	gene	1056	cbiG			
+NDDNCMOI_00594	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+NDDNCMOI_00595	gene	1092	cbiD			
+NDDNCMOI_00595	CDS	1092	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+NDDNCMOI_00596	gene	870				
+NDDNCMOI_00596	CDS	870				hypothetical protein
+NDDNCMOI_00597	gene	429				
+NDDNCMOI_00597	CDS	429				hypothetical protein
+NDDNCMOI_00598	gene	720	cysH			
+NDDNCMOI_00598	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+NDDNCMOI_00599	gene	1137	thiI_1			
+NDDNCMOI_00599	CDS	1137	thiI_1	2.8.1.4		tRNA sulfurtransferase
+NDDNCMOI_00600	gene	72				
+NDDNCMOI_00600	tRNA	72				tRNA-Cys(gca)
+NDDNCMOI_00601	gene	417	petE_2			
+NDDNCMOI_00601	CDS	417	petE_2			Plastocyanin
+NDDNCMOI_00602	gene	1752				
+NDDNCMOI_00602	CDS	1752				hypothetical protein
+NDDNCMOI_00603	gene	114				
+NDDNCMOI_00603	CDS	114				hypothetical protein
+NDDNCMOI_00604	gene	552				
+NDDNCMOI_00604	CDS	552				hypothetical protein
+NDDNCMOI_00605	gene	735	pleC			
+NDDNCMOI_00605	CDS	735	pleC	2.7.13.3		Non-motile and phage-resistance protein
+NDDNCMOI_00606	gene	798				
+NDDNCMOI_00606	CDS	798				hypothetical protein
+NDDNCMOI_00607	gene	714	tldD			
+NDDNCMOI_00607	CDS	714	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+NDDNCMOI_00608	gene	561	udg			
+NDDNCMOI_00608	CDS	561	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+NDDNCMOI_00609	gene	936	ctaB_1			
+NDDNCMOI_00609	CDS	936	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+NDDNCMOI_00610	gene	459	asnC_2			
+NDDNCMOI_00610	CDS	459	asnC_2		COG1522	Regulatory protein AsnC
+NDDNCMOI_00611	gene	1080	asd2			
+NDDNCMOI_00611	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+NDDNCMOI_00612	gene	156				
+NDDNCMOI_00612	CDS	156				hypothetical protein
+NDDNCMOI_00613	gene	249				
+NDDNCMOI_00613	CDS	249				hypothetical protein
+NDDNCMOI_00614	gene	1092	dinB			
+NDDNCMOI_00614	CDS	1092	dinB	2.7.7.7	COG0389	DNA polymerase IV
+NDDNCMOI_00615	gene	204				
+NDDNCMOI_00615	CDS	204				hypothetical protein
+NDDNCMOI_00616	gene	936				
+NDDNCMOI_00616	CDS	936				hypothetical protein
+NDDNCMOI_00617	gene	705				
+NDDNCMOI_00617	CDS	705				hypothetical protein
+NDDNCMOI_00618	gene	1011				
+NDDNCMOI_00618	CDS	1011				hypothetical protein
+NDDNCMOI_00619	gene	663	udgb			
+NDDNCMOI_00619	CDS	663	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+NDDNCMOI_00620	gene	1596	amt			
+NDDNCMOI_00620	CDS	1596	amt			Ammonia channel
+NDDNCMOI_00621	gene	774	rhdA_1			
+NDDNCMOI_00621	CDS	774	rhdA_1	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+NDDNCMOI_00622	gene	180				
+NDDNCMOI_00622	CDS	180				hypothetical protein
+NDDNCMOI_00623	gene	1194	nrdZ			
+NDDNCMOI_00623	CDS	1194	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+NDDNCMOI_00624	gene	1110				
+NDDNCMOI_00624	CDS	1110				hypothetical protein
+NDDNCMOI_00625	gene	669				
+NDDNCMOI_00625	CDS	669				hypothetical protein
+NDDNCMOI_00626	gene	1770				
+NDDNCMOI_00626	CDS	1770				hypothetical protein
+NDDNCMOI_00627	gene	255				
+NDDNCMOI_00627	CDS	255				hypothetical protein
+NDDNCMOI_00628	gene	309				
+NDDNCMOI_00628	CDS	309				hypothetical protein
+NDDNCMOI_00629	gene	228				
+NDDNCMOI_00629	CDS	228				hypothetical protein
+NDDNCMOI_00630	gene	471	lysY			
+NDDNCMOI_00630	CDS	471	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+NDDNCMOI_00631	gene	801	lysZ			
+NDDNCMOI_00631	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+NDDNCMOI_00632	gene	1176	lysJ			
+NDDNCMOI_00632	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+NDDNCMOI_00633	gene	420	lrpC			
+NDDNCMOI_00633	CDS	420	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+NDDNCMOI_00634	gene	150				
+NDDNCMOI_00634	CDS	150				hypothetical protein
+NDDNCMOI_00635	gene	936				
+NDDNCMOI_00635	CDS	936				hypothetical protein
+NDDNCMOI_00636	gene	591				
+NDDNCMOI_00636	CDS	591				hypothetical protein
+NDDNCMOI_00637	gene	1053				
+NDDNCMOI_00637	CDS	1053				hypothetical protein
+NDDNCMOI_00638	gene	828	eryG			
+NDDNCMOI_00638	CDS	828	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+NDDNCMOI_00639	gene	1296				
+NDDNCMOI_00639	CDS	1296				hypothetical protein
+NDDNCMOI_00640	gene	699	lolD			
+NDDNCMOI_00640	CDS	699	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NDDNCMOI_00641	gene	195				
+NDDNCMOI_00641	CDS	195				hypothetical protein
+NDDNCMOI_00642	gene	498				
+NDDNCMOI_00642	CDS	498				hypothetical protein
+NDDNCMOI_00643	gene	231				
+NDDNCMOI_00643	CDS	231				hypothetical protein
+NDDNCMOI_00644	gene	132				
+NDDNCMOI_00644	CDS	132				hypothetical protein
+NDDNCMOI_00645	gene	180				
+NDDNCMOI_00645	CDS	180				hypothetical protein
+NDDNCMOI_00646	gene	168				
+NDDNCMOI_00646	CDS	168				hypothetical protein
+NDDNCMOI_00647	gene	888				
+NDDNCMOI_00647	CDS	888				hypothetical protein
+NDDNCMOI_00648	gene	78				
+NDDNCMOI_00648	tRNA	78				tRNA-Glu(ctc)
+NDDNCMOI_00649	gene	177				
+NDDNCMOI_00649	CDS	177				hypothetical protein
+NDDNCMOI_00650	gene	477	ppiB			
+NDDNCMOI_00650	CDS	477	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+NDDNCMOI_00651	gene	234				
+NDDNCMOI_00651	CDS	234				hypothetical protein
+NDDNCMOI_00652	gene	240				
+NDDNCMOI_00652	CDS	240				hypothetical protein
+NDDNCMOI_00653	gene	474				
+NDDNCMOI_00653	CDS	474				hypothetical protein
+NDDNCMOI_00654	gene	471				
+NDDNCMOI_00654	CDS	471				hypothetical protein
+NDDNCMOI_00655	gene	1038				
+NDDNCMOI_00655	CDS	1038				hypothetical protein
+NDDNCMOI_00656	gene	1128	lysK			
+NDDNCMOI_00656	CDS	1128	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+NDDNCMOI_00657	gene	438	lysX_2			
+NDDNCMOI_00657	CDS	438	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+NDDNCMOI_00658	gene	465				
+NDDNCMOI_00658	CDS	465				hypothetical protein
+NDDNCMOI_00659	gene	924	rutA			
+NDDNCMOI_00659	CDS	924	rutA	1.14.99.46		Pyrimidine monooxygenase RutA
+NDDNCMOI_00660	gene	873				
+NDDNCMOI_00660	CDS	873				hypothetical protein
+NDDNCMOI_00661	gene	429				
+NDDNCMOI_00661	CDS	429				hypothetical protein
+NDDNCMOI_00662	gene	219				
+NDDNCMOI_00662	CDS	219				hypothetical protein
+NDDNCMOI_00663	gene	552				
+NDDNCMOI_00663	CDS	552				hypothetical protein
+NDDNCMOI_00664	gene	876	acrB			
+NDDNCMOI_00664	CDS	876	acrB			Acryloyl-CoA reductase electron transfer subunit gamma
+NDDNCMOI_00665	gene	993				
+NDDNCMOI_00665	CDS	993				hypothetical protein
+NDDNCMOI_00666	gene	702				
+NDDNCMOI_00666	CDS	702				hypothetical protein
+NDDNCMOI_00667	gene	498				
+NDDNCMOI_00667	CDS	498				hypothetical protein
+NDDNCMOI_00668	gene	417				
+NDDNCMOI_00668	CDS	417				hypothetical protein
+NDDNCMOI_00669	gene	393	metG_1			
+NDDNCMOI_00669	CDS	393	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+NDDNCMOI_00670	gene	561				
+NDDNCMOI_00670	CDS	561				hypothetical protein
+NDDNCMOI_00671	gene	981	aptB			
+NDDNCMOI_00671	CDS	981	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+NDDNCMOI_00672	gene	1668	dxs			
+NDDNCMOI_00672	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+NDDNCMOI_00673	gene	900	auaH			
+NDDNCMOI_00673	CDS	900	auaH	1.1.1.394		Aurachin B dehydrogenase
+NDDNCMOI_00674	gene	387				
+NDDNCMOI_00674	CDS	387				hypothetical protein
+NDDNCMOI_00675	gene	726	prcA_1			
+NDDNCMOI_00675	CDS	726	prcA_1			Proteasome subunit alpha
+NDDNCMOI_00676	gene	1092				
+NDDNCMOI_00676	CDS	1092		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+NDDNCMOI_00677	gene	945	gbsB			
+NDDNCMOI_00677	CDS	945	gbsB	1.1.1.-	COG1454	Choline dehydrogenase
+NDDNCMOI_00678	gene	240				
+NDDNCMOI_00678	CDS	240				hypothetical protein
+NDDNCMOI_00679	gene	567				
+NDDNCMOI_00679	CDS	567				hypothetical protein
+NDDNCMOI_00680	gene	921				
+NDDNCMOI_00680	CDS	921				hypothetical protein
+NDDNCMOI_00681	gene	126				
+NDDNCMOI_00681	CDS	126				hypothetical protein
+NDDNCMOI_00682	gene	117				
+NDDNCMOI_00682	CDS	117				hypothetical protein
+NDDNCMOI_00683	gene	816	nadK_2			
+NDDNCMOI_00683	CDS	816	nadK_2	2.7.1.23		NAD kinase
+NDDNCMOI_00684	gene	486				
+NDDNCMOI_00684	CDS	486				hypothetical protein
+NDDNCMOI_00685	gene	690				
+NDDNCMOI_00685	CDS	690				hypothetical protein
+NDDNCMOI_00686	gene	393				
+NDDNCMOI_00686	CDS	393				hypothetical protein
+NDDNCMOI_00687	gene	156				
+NDDNCMOI_00687	CDS	156				hypothetical protein
+NDDNCMOI_00688	gene	1080	ccr_2			
+NDDNCMOI_00688	CDS	1080	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+NDDNCMOI_00689	gene	858	citE			
+NDDNCMOI_00689	CDS	858	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+NDDNCMOI_00690	gene	171				
+NDDNCMOI_00690	CDS	171				hypothetical protein
+NDDNCMOI_00691	gene	240				
+NDDNCMOI_00691	CDS	240				hypothetical protein
+NDDNCMOI_00692	gene	219				
+NDDNCMOI_00692	CDS	219				hypothetical protein
+NDDNCMOI_00693	gene	495				
+NDDNCMOI_00693	CDS	495				hypothetical protein
+NDDNCMOI_00694	gene	351				
+NDDNCMOI_00694	CDS	351				hypothetical protein
+NDDNCMOI_00695	gene	465	mntR			
+NDDNCMOI_00695	CDS	465	mntR			HTH-type transcriptional regulator MntR
+NDDNCMOI_00696	gene	1065				
+NDDNCMOI_00696	CDS	1065				hypothetical protein
+NDDNCMOI_00697	gene	303				
+NDDNCMOI_00697	CDS	303				hypothetical protein
+NDDNCMOI_00698	gene	75				
+NDDNCMOI_00698	tRNA	75				tRNA-Pro(tgg)
+NDDNCMOI_00699	gene	249				
+NDDNCMOI_00699	CDS	249				hypothetical protein
+NDDNCMOI_00700	gene	921	purM_2			
+NDDNCMOI_00700	CDS	921	purM_2	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+NDDNCMOI_00701	gene	249				
+NDDNCMOI_00701	CDS	249				hypothetical protein
+NDDNCMOI_00702	gene	1302				
+NDDNCMOI_00702	CDS	1302			COG1055	putative transporter
+NDDNCMOI_00703	gene	1560				
+NDDNCMOI_00703	CDS	1560				hypothetical protein
+NDDNCMOI_00704	gene	831				
+NDDNCMOI_00704	CDS	831				hypothetical protein
+NDDNCMOI_00705	gene	288				
+NDDNCMOI_00705	CDS	288				hypothetical protein
+NDDNCMOI_00706	gene	1389				
+NDDNCMOI_00706	CDS	1389				hypothetical protein
+NDDNCMOI_00707	gene	621	COQ3			
+NDDNCMOI_00707	CDS	621	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+NDDNCMOI_00708	gene	219				
+NDDNCMOI_00708	CDS	219				hypothetical protein
+NDDNCMOI_00709	gene	174				
+NDDNCMOI_00709	CDS	174				hypothetical protein
+NDDNCMOI_00710	gene	210				
+NDDNCMOI_00710	CDS	210				hypothetical protein
+NDDNCMOI_00711	gene	1539				
+NDDNCMOI_00711	CDS	1539				hypothetical protein
+NDDNCMOI_00712	gene	1122				
+NDDNCMOI_00712	CDS	1122				hypothetical protein
+NDDNCMOI_00713	gene	459	carB			
+NDDNCMOI_00713	CDS	459	carB			Carbamoyl-phosphate synthase large chain
+NDDNCMOI_00714	gene	750				
+NDDNCMOI_00714	CDS	750				hypothetical protein
+NDDNCMOI_00715	gene	321				
+NDDNCMOI_00715	CDS	321				hypothetical protein
+NDDNCMOI_00716	gene	378				
+NDDNCMOI_00716	CDS	378				hypothetical protein
+NDDNCMOI_00717	gene	252				
+NDDNCMOI_00717	CDS	252				hypothetical protein
+NDDNCMOI_00718	gene	300				
+NDDNCMOI_00718	CDS	300				hypothetical protein
+NDDNCMOI_00719	gene	279				
+NDDNCMOI_00719	CDS	279				hypothetical protein
+NDDNCMOI_00720	gene	1020	thiI_2			
+NDDNCMOI_00720	CDS	1020	thiI_2	2.8.1.4		tRNA sulfurtransferase
+NDDNCMOI_00721	gene	1080	pepE			
+NDDNCMOI_00721	CDS	1080	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+NDDNCMOI_00722	gene	912	glnS			
+NDDNCMOI_00722	CDS	912	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+NDDNCMOI_00723	gene	513				
+NDDNCMOI_00723	CDS	513				hypothetical protein
+NDDNCMOI_00724	gene	861	yisK			
+NDDNCMOI_00724	CDS	861	yisK		COG0179	putative protein YisK
+NDDNCMOI_00725	gene	660				
+NDDNCMOI_00725	CDS	660				hypothetical protein
+NDDNCMOI_00726	gene	1713				
+NDDNCMOI_00726	CDS	1713				hypothetical protein
+NDDNCMOI_00727	gene	156				
+NDDNCMOI_00727	CDS	156				hypothetical protein
+NDDNCMOI_00728	gene	615				
+NDDNCMOI_00728	CDS	615				hypothetical protein
+NDDNCMOI_00729	gene	189				
+NDDNCMOI_00729	CDS	189				hypothetical protein
+NDDNCMOI_00730	gene	624	rnr			
+NDDNCMOI_00730	CDS	624	rnr	3.1.13.1		Ribonuclease R
+NDDNCMOI_00731	gene	390				
+NDDNCMOI_00731	CDS	390				hypothetical protein
+NDDNCMOI_00732	gene	351	sucC			
+NDDNCMOI_00732	CDS	351	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+NDDNCMOI_00733	gene	918	sucD			
+NDDNCMOI_00733	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+NDDNCMOI_00734	gene	97				
+NDDNCMOI_00734	tRNA	97				tRNA-Val(cac)
+NDDNCMOI_00735	gene	402	hrp1_2			
+NDDNCMOI_00735	CDS	402	hrp1_2		COG0517	Hypoxic response protein 1
+NDDNCMOI_00736	gene	315				
+NDDNCMOI_00736	CDS	315				hypothetical protein
+NDDNCMOI_00737	gene	165				
+NDDNCMOI_00737	CDS	165				hypothetical protein
+NDDNCMOI_00738	gene	1044				
+NDDNCMOI_00738	CDS	1044				hypothetical protein
+NDDNCMOI_00739	gene	171				
+NDDNCMOI_00739	CDS	171				hypothetical protein
+NDDNCMOI_00740	gene	813	rhdA_2			
+NDDNCMOI_00740	CDS	813	rhdA_2	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+NDDNCMOI_00741	gene	240				
+NDDNCMOI_00741	CDS	240				hypothetical protein
+NDDNCMOI_00742	gene	912	pyrD			
+NDDNCMOI_00742	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+NDDNCMOI_00743	gene	102				
+NDDNCMOI_00743	CDS	102				hypothetical protein
+NDDNCMOI_00744	gene	303				
+NDDNCMOI_00744	CDS	303				hypothetical protein
+NDDNCMOI_00745	gene	261				
+NDDNCMOI_00745	CDS	261				hypothetical protein
+NDDNCMOI_00746	gene	1161				
+NDDNCMOI_00746	CDS	1161				hypothetical protein
+NDDNCMOI_00747	gene	285				
+NDDNCMOI_00747	CDS	285				hypothetical protein
+NDDNCMOI_00748	gene	552				
+NDDNCMOI_00748	CDS	552				hypothetical protein
+NDDNCMOI_00749	gene	510				
+NDDNCMOI_00749	CDS	510				hypothetical protein
+NDDNCMOI_00750	gene	369				
+NDDNCMOI_00750	CDS	369				hypothetical protein
+NDDNCMOI_00751	gene	288				
+NDDNCMOI_00751	CDS	288				hypothetical protein
+NDDNCMOI_00752	gene	210				
+NDDNCMOI_00752	CDS	210				hypothetical protein
+NDDNCMOI_00753	gene	435	serB_2			
+NDDNCMOI_00753	CDS	435	serB_2	3.1.3.3	COG0560	Phosphoserine phosphatase
+NDDNCMOI_00754	gene	729	fbiB_2			
+NDDNCMOI_00754	CDS	729	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+NDDNCMOI_00755	gene	162				
+NDDNCMOI_00755	CDS	162				hypothetical protein
+NDDNCMOI_00756	gene	387				
+NDDNCMOI_00756	CDS	387				hypothetical protein
+NDDNCMOI_00757	gene	1209				
+NDDNCMOI_00757	CDS	1209				hypothetical protein
+NDDNCMOI_00758	gene	156				
+NDDNCMOI_00758	CDS	156				hypothetical protein
+NDDNCMOI_00759	gene	77				
+NDDNCMOI_00759	tRNA	77				tRNA-Val(tac)
+NDDNCMOI_00760	gene	882				
+NDDNCMOI_00760	CDS	882				hypothetical protein
+NDDNCMOI_00761	gene	228				
+NDDNCMOI_00761	CDS	228				hypothetical protein
+NDDNCMOI_00762	gene	999	dsbD			
+NDDNCMOI_00762	CDS	999	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+NDDNCMOI_00763	gene	1665	moaA			
+NDDNCMOI_00763	CDS	1665	moaA			GTP 3',8-cyclase
+NDDNCMOI_00764	gene	309				
+NDDNCMOI_00764	CDS	309				hypothetical protein
+NDDNCMOI_00765	gene	300				
+NDDNCMOI_00765	CDS	300				hypothetical protein
+NDDNCMOI_00766	gene	327				
+NDDNCMOI_00766	CDS	327				hypothetical protein
+NDDNCMOI_00767	gene	258				
+NDDNCMOI_00767	CDS	258				hypothetical protein
+NDDNCMOI_00768	gene	699	rsmA			
+NDDNCMOI_00768	CDS	699	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+NDDNCMOI_00769	gene	534	prmC			
+NDDNCMOI_00769	CDS	534	prmC	2.1.1.297		Release factor glutamine methyltransferase
+NDDNCMOI_00770	gene	162				
+NDDNCMOI_00770	CDS	162				hypothetical protein
+NDDNCMOI_00771	gene	474				
+NDDNCMOI_00771	CDS	474				hypothetical protein
+NDDNCMOI_00772	gene	945				
+NDDNCMOI_00772	CDS	945		2.5.-.-		Deoxyhypusine synthase-like protein
+NDDNCMOI_00773	gene	171				
+NDDNCMOI_00773	CDS	171				hypothetical protein
+NDDNCMOI_00774	gene	678	rtcB			
+NDDNCMOI_00774	CDS	678	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+NDDNCMOI_00775	gene	441				
+NDDNCMOI_00775	CDS	441				hypothetical protein
+NDDNCMOI_00776	gene	312				
+NDDNCMOI_00776	CDS	312				hypothetical protein
+NDDNCMOI_00777	gene	540				
+NDDNCMOI_00777	CDS	540				hypothetical protein
+NDDNCMOI_00778	gene	468	thiL			
+NDDNCMOI_00778	CDS	468	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+NDDNCMOI_00779	gene	1089				
+NDDNCMOI_00779	CDS	1089				hypothetical protein
+NDDNCMOI_00780	gene	1281	lapB			
+NDDNCMOI_00780	CDS	1281	lapB			Lipopolysaccharide assembly protein B
+NDDNCMOI_00781	gene	294				
+NDDNCMOI_00781	CDS	294				hypothetical protein
+NDDNCMOI_00782	gene	540				
+NDDNCMOI_00782	CDS	540		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+NDDNCMOI_00783	gene	546				
+NDDNCMOI_00783	CDS	546				hypothetical protein
+NDDNCMOI_00784	gene	1012				
+NDDNCMOI_00784	rRNA	1012				16S ribosomal RNA (partial)
+NDDNCMOI_00785	gene	165				
+NDDNCMOI_00785	CDS	165				hypothetical protein
+NDDNCMOI_00786	gene	270				
+NDDNCMOI_00786	CDS	270				hypothetical protein
+NDDNCMOI_00787	gene	429				
+NDDNCMOI_00787	CDS	429				hypothetical protein
+NDDNCMOI_00788	gene	1458				
+NDDNCMOI_00788	CDS	1458				hypothetical protein
+NDDNCMOI_00789	gene	261				
+NDDNCMOI_00789	CDS	261				hypothetical protein
+NDDNCMOI_00790	gene	957				
+NDDNCMOI_00790	CDS	957				hypothetical protein
+NDDNCMOI_00791	gene	324				
+NDDNCMOI_00791	CDS	324				hypothetical protein
+NDDNCMOI_00792	gene	633				
+NDDNCMOI_00792	CDS	633		2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+NDDNCMOI_00793	gene	660				
+NDDNCMOI_00793	CDS	660				hypothetical protein
+NDDNCMOI_00794	gene	570				
+NDDNCMOI_00794	CDS	570				hypothetical protein
+NDDNCMOI_00795	gene	543				
+NDDNCMOI_00795	CDS	543				hypothetical protein
+NDDNCMOI_00796	gene	273				
+NDDNCMOI_00796	CDS	273				hypothetical protein
+NDDNCMOI_00797	gene	73				
+NDDNCMOI_00797	tRNA	73				tRNA-Gly(gcc)
+NDDNCMOI_00798	gene	177				
+NDDNCMOI_00798	CDS	177				hypothetical protein
+NDDNCMOI_00799	gene	1527	ctaD			
+NDDNCMOI_00799	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+NDDNCMOI_00800	gene	423				
+NDDNCMOI_00800	CDS	423				hypothetical protein
+NDDNCMOI_00801	gene	432				
+NDDNCMOI_00801	CDS	432				hypothetical protein
+NDDNCMOI_00802	gene	240				
+NDDNCMOI_00802	CDS	240				hypothetical protein
+NDDNCMOI_00803	gene	447				
+NDDNCMOI_00803	CDS	447				hypothetical protein
+NDDNCMOI_00804	gene	717	pcm			
+NDDNCMOI_00804	CDS	717	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+NDDNCMOI_00805	gene	348				
+NDDNCMOI_00805	CDS	348				hypothetical protein
+NDDNCMOI_00806	gene	237				
+NDDNCMOI_00806	CDS	237				hypothetical protein
+NDDNCMOI_00807	gene	528				
+NDDNCMOI_00807	CDS	528				hypothetical protein
+NDDNCMOI_00808	gene	126				
+NDDNCMOI_00808	CDS	126				hypothetical protein
+NDDNCMOI_00809	gene	210				
+NDDNCMOI_00809	CDS	210				hypothetical protein
+NDDNCMOI_00810	gene	315				
+NDDNCMOI_00810	CDS	315				hypothetical protein
+NDDNCMOI_00811	gene	1146	dhmA			
+NDDNCMOI_00811	CDS	1146	dhmA	3.8.1.5		Haloalkane dehalogenase
+NDDNCMOI_00812	gene	417				
+NDDNCMOI_00812	CDS	417				hypothetical protein
+NDDNCMOI_00813	gene	387				
+NDDNCMOI_00813	CDS	387				hypothetical protein
+NDDNCMOI_00814	gene	342				
+NDDNCMOI_00814	CDS	342				hypothetical protein
+NDDNCMOI_00815	gene	417				
+NDDNCMOI_00815	CDS	417				hypothetical protein
+NDDNCMOI_00816	gene	783	prcA_2			
+NDDNCMOI_00816	CDS	783	prcA_2			Proteasome subunit alpha
+NDDNCMOI_00817	gene	408	nikR			
+NDDNCMOI_00817	CDS	408	nikR			Nickel-responsive regulator
+NDDNCMOI_00818	gene	930	pyrB			
+NDDNCMOI_00818	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+NDDNCMOI_00819	gene	462	pyrI			
+NDDNCMOI_00819	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+NDDNCMOI_00820	gene	336				
+NDDNCMOI_00820	CDS	336				hypothetical protein
+NDDNCMOI_00821	gene	123				
+NDDNCMOI_00821	CDS	123				hypothetical protein
+NDDNCMOI_00822	gene	1545	groL_2			
+NDDNCMOI_00822	CDS	1545	groL_2		COG0459	60 kDa chaperonin
+NDDNCMOI_00823	gene	1344				
+NDDNCMOI_00823	CDS	1344				hypothetical protein
+NDDNCMOI_00824	gene	525				
+NDDNCMOI_00824	CDS	525				hypothetical protein
+NDDNCMOI_00825	gene	261				
+NDDNCMOI_00825	CDS	261				hypothetical protein
+NDDNCMOI_00826	gene	87				
+NDDNCMOI_00826	tRNA	87				tRNA-Leu(cag)
+NDDNCMOI_00827	gene	258				
+NDDNCMOI_00827	CDS	258				hypothetical protein
+NDDNCMOI_00828	gene	1908	GATB			
+NDDNCMOI_00828	CDS	1908	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+NDDNCMOI_00829	gene	210				
+NDDNCMOI_00829	CDS	210				hypothetical protein
+NDDNCMOI_00830	gene	1440	thrA_1			
+NDDNCMOI_00830	CDS	1440	thrA_1		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+NDDNCMOI_00831	gene	70				
+NDDNCMOI_00831	tRNA	70				tRNA-Val(tac)
+NDDNCMOI_00832	gene	417				
+NDDNCMOI_00832	CDS	417				hypothetical protein
+NDDNCMOI_00833	gene	966	oppF			
+NDDNCMOI_00833	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+NDDNCMOI_00834	gene	654				
+NDDNCMOI_00834	CDS	654				hypothetical protein
+NDDNCMOI_00835	gene	423				
+NDDNCMOI_00835	CDS	423				hypothetical protein
+NDDNCMOI_00836	gene	201				
+NDDNCMOI_00836	CDS	201				hypothetical protein
+NDDNCMOI_00837	gene	513				
+NDDNCMOI_00837	CDS	513				hypothetical protein
+NDDNCMOI_00838	gene	306	nuoK			
+NDDNCMOI_00838	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+NDDNCMOI_00839	gene	135				
+NDDNCMOI_00839	CDS	135				hypothetical protein
+NDDNCMOI_00840	gene	909				
+NDDNCMOI_00840	CDS	909				hypothetical protein
+NDDNCMOI_00841	gene	141				
+NDDNCMOI_00841	CDS	141				hypothetical protein
+NDDNCMOI_00842	gene	1353	pabB			
+NDDNCMOI_00842	CDS	1353	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+NDDNCMOI_00843	gene	201				
+NDDNCMOI_00843	CDS	201				hypothetical protein
+NDDNCMOI_00844	gene	921	btuF			
+NDDNCMOI_00844	CDS	921	btuF			Vitamin B12-binding protein
+NDDNCMOI_00845	gene	1158				
+NDDNCMOI_00845	CDS	1158				hypothetical protein
+NDDNCMOI_00846	gene	1512	QTRT1			
+NDDNCMOI_00846	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+NDDNCMOI_00847	gene	552				
+NDDNCMOI_00847	CDS	552				hypothetical protein
+NDDNCMOI_00848	gene	201				
+NDDNCMOI_00848	CDS	201				hypothetical protein
+NDDNCMOI_00849	gene	1101				
+NDDNCMOI_00849	CDS	1101				hypothetical protein
+NDDNCMOI_00850	gene	189				
+NDDNCMOI_00850	CDS	189				hypothetical protein
+NDDNCMOI_00851	gene	222				
+NDDNCMOI_00851	CDS	222				hypothetical protein
+NDDNCMOI_00852	gene	288				
+NDDNCMOI_00852	CDS	288				hypothetical protein
+NDDNCMOI_00853	gene	1287				
+NDDNCMOI_00853	CDS	1287				hypothetical protein
+NDDNCMOI_00854	gene	414	hit_2			
+NDDNCMOI_00854	CDS	414	hit_2		COG0537	Protein hit
+NDDNCMOI_00855	gene	642	smc_1			
+NDDNCMOI_00855	CDS	642	smc_1			Chromosome partition protein Smc
+NDDNCMOI_00856	gene	918	smc_2			
+NDDNCMOI_00856	CDS	918	smc_2			Chromosome partition protein Smc
+NDDNCMOI_00857	gene	219				
+NDDNCMOI_00857	CDS	219				hypothetical protein
+NDDNCMOI_00858	gene	252				
+NDDNCMOI_00858	CDS	252				hypothetical protein
+NDDNCMOI_00859	gene	189				
+NDDNCMOI_00859	CDS	189				hypothetical protein
+NDDNCMOI_00860	gene	1593	bhbA			
+NDDNCMOI_00860	CDS	1593	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+NDDNCMOI_00861	gene	273				
+NDDNCMOI_00861	CDS	273				hypothetical protein
+NDDNCMOI_00862	gene	798	tatC			
+NDDNCMOI_00862	CDS	798	tatC		COG0805	Sec-independent protein translocase protein TatC
+NDDNCMOI_00863	gene	207	tatA			
+NDDNCMOI_00863	CDS	207	tatA			Sec-independent protein translocase protein TatA
+NDDNCMOI_00864	gene	429				
+NDDNCMOI_00864	CDS	429				hypothetical protein
+NDDNCMOI_00865	gene	558	ecdB			
+NDDNCMOI_00865	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+NDDNCMOI_00866	gene	525	ndhK			
+NDDNCMOI_00866	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+NDDNCMOI_00867	gene	375	ndhC			
+NDDNCMOI_00867	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+NDDNCMOI_00868	gene	471	bcp_2			
+NDDNCMOI_00868	CDS	471	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+NDDNCMOI_00869	gene	513				
+NDDNCMOI_00869	CDS	513				hypothetical protein
+NDDNCMOI_00870	gene	510				
+NDDNCMOI_00870	CDS	510				hypothetical protein
+NDDNCMOI_00871	gene	318				
+NDDNCMOI_00871	CDS	318				hypothetical protein
+NDDNCMOI_00872	gene	1281	hemL_1			
+NDDNCMOI_00872	CDS	1281	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+NDDNCMOI_00873	gene	678				
+NDDNCMOI_00873	CDS	678				hypothetical protein
+NDDNCMOI_00874	gene	774				
+NDDNCMOI_00874	CDS	774				hypothetical protein
+NDDNCMOI_00875	gene	279				
+NDDNCMOI_00875	misc_RNA	279				RNaseP_arch
+NDDNCMOI_00876	gene	477				
+NDDNCMOI_00876	CDS	477				hypothetical protein
+NDDNCMOI_00877	gene	321				
+NDDNCMOI_00877	CDS	321				hypothetical protein
+NDDNCMOI_00878	gene	495				
+NDDNCMOI_00878	CDS	495				hypothetical protein
+NDDNCMOI_00879	gene	1029	rtcA			
+NDDNCMOI_00879	CDS	1029	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+NDDNCMOI_00880	gene	495				
+NDDNCMOI_00880	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+NDDNCMOI_00881	gene	651				
+NDDNCMOI_00881	CDS	651				hypothetical protein
+NDDNCMOI_00882	gene	363				
+NDDNCMOI_00882	CDS	363				hypothetical protein
+NDDNCMOI_00883	gene	369				
+NDDNCMOI_00883	CDS	369				hypothetical protein
+NDDNCMOI_00884	gene	981				
+NDDNCMOI_00884	CDS	981				hypothetical protein
+NDDNCMOI_00885	gene	516	act			
+NDDNCMOI_00885	CDS	516	act	3.-.-.-		Methanol dehydrogenase activator
+NDDNCMOI_00886	gene	183				
+NDDNCMOI_00886	CDS	183				hypothetical protein
+NDDNCMOI_00887	gene	579	dnaK			
+NDDNCMOI_00887	CDS	579	dnaK		COG0443	Chaperone protein DnaK
+NDDNCMOI_00888	gene	1101	dnaJ			
+NDDNCMOI_00888	CDS	1101	dnaJ		COG0484	Chaperone protein DnaJ
+NDDNCMOI_00889	gene	168				
+NDDNCMOI_00889	CDS	168				hypothetical protein
+NDDNCMOI_00890	gene	207				
+NDDNCMOI_00890	CDS	207				hypothetical protein
+NDDNCMOI_00891	gene	684	pyrH			
+NDDNCMOI_00891	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+NDDNCMOI_00892	gene	348				
+NDDNCMOI_00892	CDS	348				hypothetical protein
+NDDNCMOI_00893	gene	546				
+NDDNCMOI_00893	CDS	546				hypothetical protein
+NDDNCMOI_00894	gene	834	panB_1			
+NDDNCMOI_00894	CDS	834	panB_1	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+NDDNCMOI_00895	gene	570				
+NDDNCMOI_00895	CDS	570				hypothetical protein
+NDDNCMOI_00896	gene	840				
+NDDNCMOI_00896	CDS	840				hypothetical protein
+NDDNCMOI_00897	gene	468				
+NDDNCMOI_00897	CDS	468				hypothetical protein
+NDDNCMOI_00898	gene	984				
+NDDNCMOI_00898	CDS	984				hypothetical protein
+NDDNCMOI_00899	gene	519				
+NDDNCMOI_00899	CDS	519				hypothetical protein
+NDDNCMOI_00900	gene	156				
+NDDNCMOI_00900	CDS	156				hypothetical protein
+NDDNCMOI_00901	gene	138				
+NDDNCMOI_00901	CDS	138				hypothetical protein
+NDDNCMOI_00902	gene	1026	icd			
+NDDNCMOI_00902	CDS	1026	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+NDDNCMOI_00903	gene	747	cpdA_2			
+NDDNCMOI_00903	CDS	747	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NDDNCMOI_00904	gene	87				
+NDDNCMOI_00904	tRNA	87				tRNA-Ser(gct)
+NDDNCMOI_00905	gene	195				
+NDDNCMOI_00905	CDS	195				hypothetical protein
+NDDNCMOI_00906	gene	240				
+NDDNCMOI_00906	CDS	240				hypothetical protein
+NDDNCMOI_00907	gene	138				
+NDDNCMOI_00907	CDS	138				hypothetical protein
+NDDNCMOI_00908	gene	129				
+NDDNCMOI_00908	CDS	129				hypothetical protein
+NDDNCMOI_00909	gene	498				
+NDDNCMOI_00909	CDS	498				hypothetical protein
+NDDNCMOI_00910	gene	150				
+NDDNCMOI_00910	CDS	150				hypothetical protein
+NDDNCMOI_00911	gene	231				
+NDDNCMOI_00911	CDS	231				hypothetical protein
+NDDNCMOI_00912	gene	330				
+NDDNCMOI_00912	CDS	330				hypothetical protein
+NDDNCMOI_00913	gene	189				
+NDDNCMOI_00913	CDS	189				hypothetical protein
+NDDNCMOI_00914	gene	795				
+NDDNCMOI_00914	CDS	795				hypothetical protein
+NDDNCMOI_00915	gene	174				
+NDDNCMOI_00915	CDS	174				hypothetical protein
+NDDNCMOI_00916	gene	132				
+NDDNCMOI_00916	CDS	132				hypothetical protein
+NDDNCMOI_00917	gene	636				
+NDDNCMOI_00917	CDS	636				hypothetical protein
+NDDNCMOI_00918	gene	690	bioD1			
+NDDNCMOI_00918	CDS	690	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+NDDNCMOI_00919	gene	1605				
+NDDNCMOI_00919	CDS	1605				hypothetical protein
+NDDNCMOI_00920	gene	186				
+NDDNCMOI_00920	CDS	186				hypothetical protein
+NDDNCMOI_00921	gene	1140				
+NDDNCMOI_00921	CDS	1140				hypothetical protein
+NDDNCMOI_00922	gene	216				
+NDDNCMOI_00922	CDS	216				hypothetical protein
+NDDNCMOI_00923	gene	159				
+NDDNCMOI_00923	CDS	159				hypothetical protein
+NDDNCMOI_00924	gene	489				
+NDDNCMOI_00924	CDS	489				hypothetical protein
+NDDNCMOI_00925	gene	1173	alaA			
+NDDNCMOI_00925	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+NDDNCMOI_00926	gene	75				
+NDDNCMOI_00926	tRNA	75				tRNA-Arg(tcg)
+NDDNCMOI_00927	gene	492				
+NDDNCMOI_00927	CDS	492				hypothetical protein
+NDDNCMOI_00928	gene	1014				
+NDDNCMOI_00928	CDS	1014				hypothetical protein
+NDDNCMOI_00929	gene	243				
+NDDNCMOI_00929	CDS	243				hypothetical protein
+NDDNCMOI_00930	gene	171				
+NDDNCMOI_00930	CDS	171				hypothetical protein
+NDDNCMOI_00931	gene	1026				
+NDDNCMOI_00931	CDS	1026				hypothetical protein
+NDDNCMOI_00932	gene	84				
+NDDNCMOI_00932	tRNA	84				tRNA-Ser(cga)
+NDDNCMOI_00933	gene	105				
+NDDNCMOI_00933	CDS	105				hypothetical protein
+NDDNCMOI_00934	gene	165				
+NDDNCMOI_00934	CDS	165				hypothetical protein
+NDDNCMOI_00935	gene	129				
+NDDNCMOI_00935	CDS	129				hypothetical protein
+NDDNCMOI_00936	gene	348				
+NDDNCMOI_00936	CDS	348				hypothetical protein
+NDDNCMOI_00937	gene	159				
+NDDNCMOI_00937	CDS	159				hypothetical protein
+NDDNCMOI_00938	gene	231				
+NDDNCMOI_00938	CDS	231				hypothetical protein
+NDDNCMOI_00939	gene	960	cobD_1			
+NDDNCMOI_00939	CDS	960	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+NDDNCMOI_00940	gene	627	cobQ			
+NDDNCMOI_00940	CDS	627	cobQ			Cobyric acid synthase
+NDDNCMOI_00941	gene	477				
+NDDNCMOI_00941	CDS	477				hypothetical protein
+NDDNCMOI_00942	gene	909	petE_3			
+NDDNCMOI_00942	CDS	909	petE_3			Plastocyanin
+NDDNCMOI_00943	gene	174				
+NDDNCMOI_00943	CDS	174				hypothetical protein
+NDDNCMOI_00944	gene	366				
+NDDNCMOI_00944	CDS	366				hypothetical protein
+NDDNCMOI_00945	gene	1107	fadA			
+NDDNCMOI_00945	CDS	1107	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+NDDNCMOI_00946	gene	147				
+NDDNCMOI_00946	CDS	147				hypothetical protein
+NDDNCMOI_00947	gene	243				
+NDDNCMOI_00947	CDS	243				hypothetical protein
+NDDNCMOI_00948	gene	1269	serS			
+NDDNCMOI_00948	CDS	1269	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+NDDNCMOI_00949	gene	111				
+NDDNCMOI_00949	CDS	111				hypothetical protein
+NDDNCMOI_00950	gene	534				
+NDDNCMOI_00950	CDS	534				hypothetical protein
+NDDNCMOI_00951	gene	411				
+NDDNCMOI_00951	CDS	411				hypothetical protein
+NDDNCMOI_00952	gene	228				
+NDDNCMOI_00952	CDS	228				hypothetical protein
+NDDNCMOI_00953	gene	189				
+NDDNCMOI_00953	CDS	189				hypothetical protein
+NDDNCMOI_00954	gene	1620	rpoC			
+NDDNCMOI_00954	CDS	1620	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+NDDNCMOI_00955	gene	1137				
+NDDNCMOI_00955	CDS	1137				hypothetical protein
+NDDNCMOI_00956	gene	354				
+NDDNCMOI_00956	CDS	354				hypothetical protein
+NDDNCMOI_00957	gene	372	trxB			
+NDDNCMOI_00957	CDS	372	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+NDDNCMOI_00958	gene	912	cysM			
+NDDNCMOI_00958	CDS	912	cysM	2.5.1.47	COG0031	Cysteine synthase B
+NDDNCMOI_00959	gene	198	tusA			
+NDDNCMOI_00959	CDS	198	tusA		COG0425	Sulfur carrier protein TusA
+NDDNCMOI_00960	gene	252				
+NDDNCMOI_00960	CDS	252				hypothetical protein
+NDDNCMOI_00961	gene	384				
+NDDNCMOI_00961	CDS	384				hypothetical protein
+NDDNCMOI_00962	gene	786				
+NDDNCMOI_00962	CDS	786				hypothetical protein
+NDDNCMOI_00963	gene	357				
+NDDNCMOI_00963	CDS	357				hypothetical protein
+NDDNCMOI_00964	gene	126				
+NDDNCMOI_00964	CDS	126				hypothetical protein
+NDDNCMOI_00965	gene	1290				
+NDDNCMOI_00965	CDS	1290				hypothetical protein
+NDDNCMOI_00966	gene	435	ftsH_1			
+NDDNCMOI_00966	CDS	435	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+NDDNCMOI_00967	gene	741				
+NDDNCMOI_00967	CDS	741				hypothetical protein
+NDDNCMOI_00968	gene	942				
+NDDNCMOI_00968	CDS	942				hypothetical protein
+NDDNCMOI_00969	gene	105				
+NDDNCMOI_00969	CDS	105				hypothetical protein
+NDDNCMOI_00970	gene	798				
+NDDNCMOI_00970	CDS	798				hypothetical protein
+NDDNCMOI_00971	gene	774	sumT			
+NDDNCMOI_00971	CDS	774	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+NDDNCMOI_00972	gene	138				
+NDDNCMOI_00972	CDS	138				hypothetical protein
+NDDNCMOI_00973	gene	171				
+NDDNCMOI_00973	CDS	171				hypothetical protein
+NDDNCMOI_00974	gene	576	lsrF_1			
+NDDNCMOI_00974	CDS	576	lsrF_1	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+NDDNCMOI_00975	gene	204	lsrF_2			
+NDDNCMOI_00975	CDS	204	lsrF_2	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+NDDNCMOI_00976	gene	501	tdh			
+NDDNCMOI_00976	CDS	501	tdh	1.1.1.103	COG1063	L-threonine 3-dehydrogenase
+NDDNCMOI_00977	gene	1257				
+NDDNCMOI_00977	CDS	1257				hypothetical protein
+NDDNCMOI_00978	gene	207				
+NDDNCMOI_00978	CDS	207				hypothetical protein
+NDDNCMOI_00979	gene	186				
+NDDNCMOI_00979	CDS	186				hypothetical protein
+NDDNCMOI_00980	gene	228				
+NDDNCMOI_00980	CDS	228				hypothetical protein
+NDDNCMOI_00981	gene	216				
+NDDNCMOI_00981	CDS	216				hypothetical protein
+NDDNCMOI_00982	gene	201				
+NDDNCMOI_00982	CDS	201				hypothetical protein
+NDDNCMOI_00983	gene	129				
+NDDNCMOI_00983	CDS	129				hypothetical protein
+NDDNCMOI_00984	gene	633				
+NDDNCMOI_00984	CDS	633				hypothetical protein
+NDDNCMOI_00985	gene	468				
+NDDNCMOI_00985	CDS	468				hypothetical protein
+NDDNCMOI_00986	gene	435				
+NDDNCMOI_00986	CDS	435				hypothetical protein
+NDDNCMOI_00987	gene	345				
+NDDNCMOI_00987	CDS	345				hypothetical protein
+NDDNCMOI_00988	gene	768	frdB			
+NDDNCMOI_00988	CDS	768	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+NDDNCMOI_00989	gene	198				
+NDDNCMOI_00989	CDS	198				hypothetical protein
+NDDNCMOI_00990	gene	423				
+NDDNCMOI_00990	CDS	423				hypothetical protein
+NDDNCMOI_00991	gene	159				
+NDDNCMOI_00991	CDS	159				hypothetical protein
+NDDNCMOI_00992	gene	357				
+NDDNCMOI_00992	CDS	357				hypothetical protein
+NDDNCMOI_00993	gene	168				
+NDDNCMOI_00993	CDS	168				hypothetical protein
+NDDNCMOI_00994	gene	108				
+NDDNCMOI_00994	CDS	108				hypothetical protein
+NDDNCMOI_00995	gene	759	aniA			
+NDDNCMOI_00995	CDS	759	aniA	1.7.2.1	COG2132	Copper-containing nitrite reductase
+NDDNCMOI_00996	gene	351				
+NDDNCMOI_00996	CDS	351				hypothetical protein
+NDDNCMOI_00997	gene	282				
+NDDNCMOI_00997	CDS	282				hypothetical protein
+NDDNCMOI_00998	gene	330				
+NDDNCMOI_00998	CDS	330				hypothetical protein
+NDDNCMOI_00999	gene	465				
+NDDNCMOI_00999	CDS	465				hypothetical protein
+NDDNCMOI_01000	gene	270				
+NDDNCMOI_01000	CDS	270				hypothetical protein
+NDDNCMOI_01001	gene	510				
+NDDNCMOI_01001	CDS	510				hypothetical protein
+NDDNCMOI_01002	gene	948				
+NDDNCMOI_01002	CDS	948				hypothetical protein
+NDDNCMOI_01003	gene	369				
+NDDNCMOI_01003	CDS	369				hypothetical protein
+NDDNCMOI_01004	gene	459				
+NDDNCMOI_01004	CDS	459				hypothetical protein
+NDDNCMOI_01005	gene	705				
+NDDNCMOI_01005	CDS	705				hypothetical protein
+NDDNCMOI_01006	gene	495				
+NDDNCMOI_01006	CDS	495				hypothetical protein
+NDDNCMOI_01007	gene	693	COQ5			
+NDDNCMOI_01007	CDS	693	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+NDDNCMOI_01008	gene	225				
+NDDNCMOI_01008	CDS	225				hypothetical protein
+NDDNCMOI_01009	gene	270				
+NDDNCMOI_01009	CDS	270				hypothetical protein
+NDDNCMOI_01010	gene	270				
+NDDNCMOI_01010	CDS	270				hypothetical protein
+NDDNCMOI_01011	gene	195				
+NDDNCMOI_01011	CDS	195				hypothetical protein
+NDDNCMOI_01012	gene	438				
+NDDNCMOI_01012	CDS	438				hypothetical protein
+NDDNCMOI_01013	gene	465	nusA			
+NDDNCMOI_01013	CDS	465	nusA			Transcription termination/antitermination protein NusA
+NDDNCMOI_01014	gene	312				
+NDDNCMOI_01014	CDS	312				hypothetical protein
+NDDNCMOI_01015	gene	1308				
+NDDNCMOI_01015	CDS	1308				hypothetical protein
+NDDNCMOI_01016	gene	210				
+NDDNCMOI_01016	CDS	210				hypothetical protein
+NDDNCMOI_01017	gene	504				
+NDDNCMOI_01017	CDS	504				hypothetical protein
+NDDNCMOI_01018	gene	177				
+NDDNCMOI_01018	CDS	177				hypothetical protein
+NDDNCMOI_01019	gene	120				
+NDDNCMOI_01019	CDS	120				hypothetical protein
+NDDNCMOI_01020	gene	651				
+NDDNCMOI_01020	CDS	651				hypothetical protein
+NDDNCMOI_01021	gene	264				
+NDDNCMOI_01021	CDS	264				hypothetical protein
+NDDNCMOI_01022	gene	276				
+NDDNCMOI_01022	CDS	276				hypothetical protein
+NDDNCMOI_01023	gene	165				
+NDDNCMOI_01023	CDS	165				hypothetical protein
+NDDNCMOI_01024	gene	1287	glyQS			
+NDDNCMOI_01024	CDS	1287	glyQS	6.1.1.14		Glycine--tRNA ligase
+NDDNCMOI_01025	gene	180				
+NDDNCMOI_01025	CDS	180				hypothetical protein
+NDDNCMOI_01026	gene	432				
+NDDNCMOI_01026	CDS	432				hypothetical protein
+NDDNCMOI_01027	gene	102				
+NDDNCMOI_01027	CDS	102				hypothetical protein
+NDDNCMOI_01028	gene	768				
+NDDNCMOI_01028	CDS	768				hypothetical protein
+NDDNCMOI_01029	gene	204	thi4			
+NDDNCMOI_01029	CDS	204	thi4	2.4.2.59		Thiamine thiazole synthase
+NDDNCMOI_01030	gene	330				
+NDDNCMOI_01030	CDS	330				hypothetical protein
+NDDNCMOI_01031	gene	930	ileS			
+NDDNCMOI_01031	CDS	930	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+NDDNCMOI_01032	gene	183				
+NDDNCMOI_01032	CDS	183				hypothetical protein
+NDDNCMOI_01033	gene	77				
+NDDNCMOI_01033	tRNA	77				tRNA-Arg(gcg)
+NDDNCMOI_01034	gene	351	aqpZ			
+NDDNCMOI_01034	CDS	351	aqpZ		COG0580	Aquaporin Z
+NDDNCMOI_01035	gene	459	bcp_3			
+NDDNCMOI_01035	CDS	459	bcp_3	1.11.1.15	COG1225	Peroxiredoxin Bcp
+NDDNCMOI_01036	gene	435				
+NDDNCMOI_01036	CDS	435				hypothetical protein
+NDDNCMOI_01037	gene	558				
+NDDNCMOI_01037	CDS	558				hypothetical protein
+NDDNCMOI_01038	gene	345	hisI			
+NDDNCMOI_01038	CDS	345	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+NDDNCMOI_01039	gene	129	hisF			
+NDDNCMOI_01039	CDS	129	hisF	4.3.2.10		Imidazole glycerol phosphate synthase subunit HisF
+NDDNCMOI_01040	gene	363				
+NDDNCMOI_01040	CDS	363				hypothetical protein
+NDDNCMOI_01041	gene	537				
+NDDNCMOI_01041	CDS	537				hypothetical protein
+NDDNCMOI_01042	gene	540				
+NDDNCMOI_01042	CDS	540				hypothetical protein
+NDDNCMOI_01043	gene	1206	rocA1			
+NDDNCMOI_01043	CDS	1206	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+NDDNCMOI_01044	gene	177				
+NDDNCMOI_01044	CDS	177				hypothetical protein
+NDDNCMOI_01045	gene	888	fusA			
+NDDNCMOI_01045	CDS	888	fusA		COG0480	Elongation factor G
+NDDNCMOI_01046	gene	531	trmR			
+NDDNCMOI_01046	CDS	531	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+NDDNCMOI_01047	gene	366				
+NDDNCMOI_01047	CDS	366				hypothetical protein
+NDDNCMOI_01048	gene	729	mntB			
+NDDNCMOI_01048	CDS	729	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+NDDNCMOI_01049	gene	477	znuA			
+NDDNCMOI_01049	CDS	477	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+NDDNCMOI_01050	gene	219				
+NDDNCMOI_01050	CDS	219				hypothetical protein
+NDDNCMOI_01051	gene	1068	ftsH_2			
+NDDNCMOI_01051	CDS	1068	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+NDDNCMOI_01052	gene	555	resA			
+NDDNCMOI_01052	CDS	555	resA			Thiol-disulfide oxidoreductase ResA
+NDDNCMOI_01053	gene	75				
+NDDNCMOI_01053	tRNA	75				tRNA-Ala(tgc)
+NDDNCMOI_01054	gene	102				
+NDDNCMOI_01054	CDS	102				hypothetical protein
+NDDNCMOI_01055	gene	240				
+NDDNCMOI_01055	CDS	240				hypothetical protein
+NDDNCMOI_01056	gene	570				
+NDDNCMOI_01056	CDS	570		1.6.5.7		2-hydroxy-1,4-benzoquinone reductase
+NDDNCMOI_01057	gene	294				
+NDDNCMOI_01057	CDS	294				hypothetical protein
+NDDNCMOI_01058	gene	423				
+NDDNCMOI_01058	CDS	423				hypothetical protein
+NDDNCMOI_01059	gene	195				
+NDDNCMOI_01059	CDS	195				hypothetical protein
+NDDNCMOI_01060	gene	756				
+NDDNCMOI_01060	CDS	756		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+NDDNCMOI_01061	gene	162				
+NDDNCMOI_01061	CDS	162				hypothetical protein
+NDDNCMOI_01062	gene	498	argS			
+NDDNCMOI_01062	CDS	498	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+NDDNCMOI_01063	gene	822	trmI			
+NDDNCMOI_01063	CDS	822	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+NDDNCMOI_01064	gene	177	ywhB			
+NDDNCMOI_01064	CDS	177	ywhB	5.3.2.6	COG1942	2-hydroxymuconate tautomerase
+NDDNCMOI_01065	gene	513	ftnA			
+NDDNCMOI_01065	CDS	513	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+NDDNCMOI_01066	gene	297				
+NDDNCMOI_01066	CDS	297				hypothetical protein
+NDDNCMOI_01067	gene	1131				
+NDDNCMOI_01067	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+NDDNCMOI_01068	gene	1053				
+NDDNCMOI_01068	CDS	1053				hypothetical protein
+NDDNCMOI_01069	gene	77				
+NDDNCMOI_01069	tRNA	77				tRNA-Pro(ggg)
+NDDNCMOI_01070	gene	210				
+NDDNCMOI_01070	CDS	210				hypothetical protein
+NDDNCMOI_01071	gene	741				
+NDDNCMOI_01071	CDS	741		1.-.-.-		putative oxidoreductase
+NDDNCMOI_01072	gene	315				
+NDDNCMOI_01072	CDS	315				hypothetical protein
+NDDNCMOI_01073	gene	969				
+NDDNCMOI_01073	CDS	969				hypothetical protein
+NDDNCMOI_01074	gene	441	hisB			
+NDDNCMOI_01074	CDS	441	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+NDDNCMOI_01075	gene	609	hisH_2			
+NDDNCMOI_01075	CDS	609	hisH_2	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+NDDNCMOI_01076	gene	468				
+NDDNCMOI_01076	CDS	468				hypothetical protein
+NDDNCMOI_01077	gene	615	pheA			
+NDDNCMOI_01077	CDS	615	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+NDDNCMOI_01078	gene	126				
+NDDNCMOI_01078	CDS	126				hypothetical protein
+NDDNCMOI_01079	gene	345				
+NDDNCMOI_01079	CDS	345				hypothetical protein
+NDDNCMOI_01080	gene	522				
+NDDNCMOI_01080	CDS	522				hypothetical protein
+NDDNCMOI_01081	gene	501				
+NDDNCMOI_01081	CDS	501				hypothetical protein
+NDDNCMOI_01082	gene	186				
+NDDNCMOI_01082	CDS	186				hypothetical protein
+NDDNCMOI_01083	gene	309				
+NDDNCMOI_01083	CDS	309				hypothetical protein
+NDDNCMOI_01084	gene	645				
+NDDNCMOI_01084	CDS	645				hypothetical protein
+NDDNCMOI_01085	gene	297				
+NDDNCMOI_01085	CDS	297				hypothetical protein
+NDDNCMOI_01086	gene	252	ino1			
+NDDNCMOI_01086	CDS	252	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+NDDNCMOI_01087	gene	741				
+NDDNCMOI_01087	CDS	741				hypothetical protein
+NDDNCMOI_01088	gene	120				
+NDDNCMOI_01088	CDS	120				hypothetical protein
+NDDNCMOI_01089	gene	969	pdxS			
+NDDNCMOI_01089	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+NDDNCMOI_01090	gene	672				
+NDDNCMOI_01090	CDS	672				hypothetical protein
+NDDNCMOI_01091	gene	237				
+NDDNCMOI_01091	CDS	237				hypothetical protein
+NDDNCMOI_01092	gene	426				
+NDDNCMOI_01092	CDS	426				hypothetical protein
+NDDNCMOI_01093	gene	405				
+NDDNCMOI_01093	CDS	405				hypothetical protein
+NDDNCMOI_01094	gene	222				
+NDDNCMOI_01094	CDS	222				hypothetical protein
+NDDNCMOI_01095	gene	225				
+NDDNCMOI_01095	CDS	225				hypothetical protein
+NDDNCMOI_01096	gene	1116				
+NDDNCMOI_01096	CDS	1116				hypothetical protein
+NDDNCMOI_01097	gene	876	obg			
+NDDNCMOI_01097	CDS	876	obg	3.6.5.-		GTPase Obg
+NDDNCMOI_01098	gene	177				
+NDDNCMOI_01098	CDS	177				hypothetical protein
+NDDNCMOI_01099	gene	915	phaC			
+NDDNCMOI_01099	CDS	915	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+NDDNCMOI_01100	gene	555				
+NDDNCMOI_01100	CDS	555				hypothetical protein
+NDDNCMOI_01101	gene	438	thrA_2			
+NDDNCMOI_01101	CDS	438	thrA_2		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+NDDNCMOI_01102	gene	216				
+NDDNCMOI_01102	CDS	216				hypothetical protein
+NDDNCMOI_01103	gene	1260				
+NDDNCMOI_01103	CDS	1260				hypothetical protein
+NDDNCMOI_01104	gene	162				
+NDDNCMOI_01104	CDS	162				hypothetical protein
+NDDNCMOI_01105	gene	297				
+NDDNCMOI_01105	CDS	297				hypothetical protein
+NDDNCMOI_01106	gene	189				
+NDDNCMOI_01106	CDS	189				hypothetical protein
+NDDNCMOI_01107	gene	435				
+NDDNCMOI_01107	CDS	435				hypothetical protein
+NDDNCMOI_01108	gene	192				
+NDDNCMOI_01108	CDS	192				hypothetical protein
+NDDNCMOI_01109	gene	930	algC_2			
+NDDNCMOI_01109	CDS	930	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NDDNCMOI_01110	gene	210				
+NDDNCMOI_01110	CDS	210				hypothetical protein
+NDDNCMOI_01111	gene	351				
+NDDNCMOI_01111	CDS	351				hypothetical protein
+NDDNCMOI_01112	gene	621	RBKS			
+NDDNCMOI_01112	CDS	621	RBKS	2.7.1.15		Ribokinase
+NDDNCMOI_01113	gene	258				
+NDDNCMOI_01113	CDS	258				hypothetical protein
+NDDNCMOI_01114	gene	435				
+NDDNCMOI_01114	CDS	435				hypothetical protein
+NDDNCMOI_01115	gene	408				
+NDDNCMOI_01115	CDS	408				hypothetical protein
+NDDNCMOI_01116	gene	936				
+NDDNCMOI_01116	CDS	936				hypothetical protein
+NDDNCMOI_01117	gene	810				
+NDDNCMOI_01117	CDS	810				hypothetical protein
+NDDNCMOI_01118	gene	204				
+NDDNCMOI_01118	CDS	204			COG0316	Protein
+NDDNCMOI_01119	gene	369				
+NDDNCMOI_01119	CDS	369				hypothetical protein
+NDDNCMOI_01120	gene	312	cutA			
+NDDNCMOI_01120	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+NDDNCMOI_01121	gene	231				
+NDDNCMOI_01121	CDS	231				hypothetical protein
+NDDNCMOI_01122	gene	753	metG_2			
+NDDNCMOI_01122	CDS	753	metG_2	6.1.1.10		Methionine--tRNA ligase
+NDDNCMOI_01123	gene	147				
+NDDNCMOI_01123	CDS	147				hypothetical protein
+NDDNCMOI_01124	gene	714				
+NDDNCMOI_01124	CDS	714				hypothetical protein
+NDDNCMOI_01125	gene	789				
+NDDNCMOI_01125	CDS	789			COG0596	putative protein
+NDDNCMOI_01126	gene	1086	leuA_2			
+NDDNCMOI_01126	CDS	1086	leuA_2	2.3.3.13		2-isopropylmalate synthase
+NDDNCMOI_01127	gene	168				
+NDDNCMOI_01127	CDS	168				hypothetical protein
+NDDNCMOI_01128	gene	198	TOP6A			
+NDDNCMOI_01128	CDS	198	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+NDDNCMOI_01129	gene	486				
+NDDNCMOI_01129	CDS	486				hypothetical protein
+NDDNCMOI_01130	gene	246				
+NDDNCMOI_01130	CDS	246				hypothetical protein
+NDDNCMOI_01131	gene	492				
+NDDNCMOI_01131	CDS	492				hypothetical protein
+NDDNCMOI_01132	gene	75				
+NDDNCMOI_01132	tRNA	75				tRNA-Val(gac)
+NDDNCMOI_01133	gene	339				
+NDDNCMOI_01133	CDS	339				hypothetical protein
+NDDNCMOI_01134	gene	339				
+NDDNCMOI_01134	CDS	339		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+NDDNCMOI_01135	gene	282				
+NDDNCMOI_01135	CDS	282				hypothetical protein
+NDDNCMOI_01136	gene	771	nqo4			
+NDDNCMOI_01136	CDS	771	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+NDDNCMOI_01137	gene	111				
+NDDNCMOI_01137	CDS	111				hypothetical protein
+NDDNCMOI_01138	gene	1023	hisC_2			
+NDDNCMOI_01138	CDS	1023	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+NDDNCMOI_01139	gene	516				
+NDDNCMOI_01139	CDS	516				hypothetical protein
+NDDNCMOI_01140	gene	705				
+NDDNCMOI_01140	CDS	705				hypothetical protein
+NDDNCMOI_01141	gene	141				
+NDDNCMOI_01141	CDS	141				hypothetical protein
+NDDNCMOI_01142	gene	663				
+NDDNCMOI_01142	CDS	663				hypothetical protein
+NDDNCMOI_01143	gene	123				
+NDDNCMOI_01143	CDS	123				hypothetical protein
+NDDNCMOI_01144	gene	282				
+NDDNCMOI_01144	CDS	282				hypothetical protein
+NDDNCMOI_01145	gene	207				
+NDDNCMOI_01145	CDS	207				hypothetical protein
+NDDNCMOI_01146	gene	138				
+NDDNCMOI_01146	CDS	138				hypothetical protein
+NDDNCMOI_01147	gene	99				
+NDDNCMOI_01147	CDS	99				hypothetical protein
+NDDNCMOI_01148	gene	240				
+NDDNCMOI_01148	CDS	240				hypothetical protein
+NDDNCMOI_01149	gene	723				
+NDDNCMOI_01149	CDS	723				hypothetical protein
+NDDNCMOI_01150	gene	333				
+NDDNCMOI_01150	CDS	333				hypothetical protein
+NDDNCMOI_01151	gene	264				
+NDDNCMOI_01151	CDS	264				hypothetical protein
+NDDNCMOI_01152	gene	96				
+NDDNCMOI_01152	CDS	96				hypothetical protein
+NDDNCMOI_01153	gene	729				
+NDDNCMOI_01153	CDS	729				hypothetical protein
+NDDNCMOI_01154	gene	123				
+NDDNCMOI_01154	CDS	123				hypothetical protein
+NDDNCMOI_01155	gene	165				
+NDDNCMOI_01155	CDS	165				hypothetical protein
+NDDNCMOI_01156	gene	414				
+NDDNCMOI_01156	CDS	414				hypothetical protein
+NDDNCMOI_01157	gene	318				
+NDDNCMOI_01157	CDS	318				hypothetical protein
+NDDNCMOI_01158	gene	423				
+NDDNCMOI_01158	CDS	423				hypothetical protein
+NDDNCMOI_01159	gene	420				
+NDDNCMOI_01159	CDS	420				hypothetical protein
+NDDNCMOI_01160	gene	588				
+NDDNCMOI_01160	CDS	588				hypothetical protein
+NDDNCMOI_01161	gene	513				
+NDDNCMOI_01161	CDS	513				hypothetical protein
+NDDNCMOI_01162	gene	420				
+NDDNCMOI_01162	CDS	420				hypothetical protein
+NDDNCMOI_01163	gene	414				
+NDDNCMOI_01163	CDS	414				hypothetical protein
+NDDNCMOI_01164	gene	1104				
+NDDNCMOI_01164	CDS	1104		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+NDDNCMOI_01165	gene	558				
+NDDNCMOI_01165	CDS	558				hypothetical protein
+NDDNCMOI_01166	gene	747	trpC			
+NDDNCMOI_01166	CDS	747	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+NDDNCMOI_01167	gene	453				
+NDDNCMOI_01167	CDS	453				hypothetical protein
+NDDNCMOI_01168	gene	495				
+NDDNCMOI_01168	CDS	495				hypothetical protein
+NDDNCMOI_01169	gene	996	pcaF			
+NDDNCMOI_01169	CDS	996	pcaF	2.3.1.174		Beta-ketoadipyl-CoA thiolase
+NDDNCMOI_01170	gene	285	phhB			
+NDDNCMOI_01170	CDS	285	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+NDDNCMOI_01171	gene	702				
+NDDNCMOI_01171	CDS	702				hypothetical protein
+NDDNCMOI_01172	gene	74				
+NDDNCMOI_01172	tRNA	74				tRNA-Gln(ttg)
+NDDNCMOI_01173	gene	282	cheY			
+NDDNCMOI_01173	CDS	282	cheY		COG0784	Chemotaxis protein CheY
+NDDNCMOI_01174	gene	333	TOP6B			
+NDDNCMOI_01174	CDS	333	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+NDDNCMOI_01175	gene	591				
+NDDNCMOI_01175	CDS	591				hypothetical protein
+NDDNCMOI_01176	gene	342				
+NDDNCMOI_01176	CDS	342				hypothetical protein
+NDDNCMOI_01177	gene	723	fieF			
+NDDNCMOI_01177	CDS	723	fieF			Ferrous-iron efflux pump FieF
+NDDNCMOI_01178	gene	927	ttuA			
+NDDNCMOI_01178	CDS	927	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+NDDNCMOI_01179	gene	900				
+NDDNCMOI_01179	CDS	900				hypothetical protein
+NDDNCMOI_01180	gene	597				
+NDDNCMOI_01180	CDS	597				hypothetical protein
+NDDNCMOI_01181	gene	432				
+NDDNCMOI_01181	CDS	432				hypothetical protein
+NDDNCMOI_01182	gene	378				
+NDDNCMOI_01182	CDS	378				hypothetical protein
+NDDNCMOI_01183	gene	201				
+NDDNCMOI_01183	CDS	201				hypothetical protein
+NDDNCMOI_01184	gene	780				
+NDDNCMOI_01184	CDS	780		2.3.1.-		tRNA uridine(34) acetyltransferase
+NDDNCMOI_01185	gene	270				
+NDDNCMOI_01185	CDS	270				hypothetical protein
+NDDNCMOI_01186	gene	513				
+NDDNCMOI_01186	CDS	513				hypothetical protein
+NDDNCMOI_01187	gene	282				
+NDDNCMOI_01187	CDS	282				hypothetical protein
+NDDNCMOI_01188	gene	717				
+NDDNCMOI_01188	CDS	717				hypothetical protein
+NDDNCMOI_01189	gene	144				
+NDDNCMOI_01189	CDS	144				hypothetical protein
+NDDNCMOI_01190	gene	162				
+NDDNCMOI_01190	CDS	162				hypothetical protein
+NDDNCMOI_01191	gene	489				
+NDDNCMOI_01191	CDS	489				hypothetical protein
+NDDNCMOI_01192	gene	996	petE_4			
+NDDNCMOI_01192	CDS	996	petE_4			Plastocyanin
+NDDNCMOI_01193	gene	483	ilvH			
+NDDNCMOI_01193	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+NDDNCMOI_01194	gene	438	ilvB			
+NDDNCMOI_01194	CDS	438	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+NDDNCMOI_01195	gene	216				
+NDDNCMOI_01195	CDS	216				hypothetical protein
+NDDNCMOI_01196	gene	321				
+NDDNCMOI_01196	CDS	321				hypothetical protein
+NDDNCMOI_01197	gene	213				
+NDDNCMOI_01197	CDS	213				hypothetical protein
+NDDNCMOI_01198	gene	783	cobD_2			
+NDDNCMOI_01198	CDS	783	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+NDDNCMOI_01199	gene	126				
+NDDNCMOI_01199	CDS	126				hypothetical protein
+NDDNCMOI_01200	gene	201				
+NDDNCMOI_01200	CDS	201				hypothetical protein
+NDDNCMOI_01201	gene	222				
+NDDNCMOI_01201	CDS	222				hypothetical protein
+NDDNCMOI_01202	gene	411				
+NDDNCMOI_01202	CDS	411				hypothetical protein
+NDDNCMOI_01203	gene	324				
+NDDNCMOI_01203	CDS	324				Thioredoxin C-2
+NDDNCMOI_01204	gene	159				
+NDDNCMOI_01204	CDS	159				hypothetical protein
+NDDNCMOI_01205	gene	231				
+NDDNCMOI_01205	CDS	231				hypothetical protein
+NDDNCMOI_01206	gene	543				
+NDDNCMOI_01206	CDS	543				hypothetical protein
+NDDNCMOI_01207	gene	396				
+NDDNCMOI_01207	CDS	396				hypothetical protein
+NDDNCMOI_01208	gene	183				
+NDDNCMOI_01208	CDS	183				hypothetical protein
+NDDNCMOI_01209	gene	255				
+NDDNCMOI_01209	CDS	255				hypothetical protein
+NDDNCMOI_01210	gene	318				
+NDDNCMOI_01210	CDS	318				hypothetical protein
+NDDNCMOI_01211	gene	96				
+NDDNCMOI_01211	CDS	96				hypothetical protein
+NDDNCMOI_01212	gene	573				
+NDDNCMOI_01212	CDS	573				hypothetical protein
+NDDNCMOI_01213	gene	675				
+NDDNCMOI_01213	CDS	675				hypothetical protein
+NDDNCMOI_01214	gene	162				
+NDDNCMOI_01214	CDS	162				hypothetical protein
+NDDNCMOI_01215	gene	168				
+NDDNCMOI_01215	CDS	168				hypothetical protein
+NDDNCMOI_01216	gene	345				
+NDDNCMOI_01216	CDS	345				hypothetical protein
+NDDNCMOI_01217	gene	408	dppC			
+NDDNCMOI_01217	CDS	408	dppC		COG1173	Dipeptide transport system permease protein DppC
+NDDNCMOI_01218	gene	540				
+NDDNCMOI_01218	CDS	540				hypothetical protein
+NDDNCMOI_01219	gene	156				
+NDDNCMOI_01219	CDS	156				hypothetical protein
+NDDNCMOI_01220	gene	192				
+NDDNCMOI_01220	CDS	192				hypothetical protein
+NDDNCMOI_01221	gene	555				
+NDDNCMOI_01221	CDS	555				hypothetical protein
+NDDNCMOI_01222	gene	174				
+NDDNCMOI_01222	CDS	174				hypothetical protein
+NDDNCMOI_01223	gene	516				
+NDDNCMOI_01223	CDS	516				hypothetical protein
+NDDNCMOI_01224	gene	261				
+NDDNCMOI_01224	CDS	261				hypothetical protein
+NDDNCMOI_01225	gene	624	pspB			
+NDDNCMOI_01225	CDS	624	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+NDDNCMOI_01226	gene	207				
+NDDNCMOI_01226	CDS	207				hypothetical protein
+NDDNCMOI_01227	gene	336				
+NDDNCMOI_01227	CDS	336				hypothetical protein
+NDDNCMOI_01228	gene	630	lysS			
+NDDNCMOI_01228	CDS	630	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+NDDNCMOI_01229	gene	198				
+NDDNCMOI_01229	CDS	198				hypothetical protein
+NDDNCMOI_01230	gene	153				
+NDDNCMOI_01230	CDS	153				hypothetical protein
+NDDNCMOI_01231	gene	624				
+NDDNCMOI_01231	CDS	624				hypothetical protein
+NDDNCMOI_01232	gene	210				
+NDDNCMOI_01232	CDS	210				hypothetical protein
+NDDNCMOI_01233	gene	231				
+NDDNCMOI_01233	CDS	231				hypothetical protein
+NDDNCMOI_01234	gene	363	truD			
+NDDNCMOI_01234	CDS	363	truD	5.4.99.27		tRNA pseudouridine synthase D
+NDDNCMOI_01235	gene	579				
+NDDNCMOI_01235	CDS	579				hypothetical protein
+NDDNCMOI_01236	gene	126				
+NDDNCMOI_01236	CDS	126				hypothetical protein
+NDDNCMOI_01237	gene	327	panB_2			
+NDDNCMOI_01237	CDS	327	panB_2	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+NDDNCMOI_01238	gene	108				
+NDDNCMOI_01238	CDS	108				hypothetical protein
+NDDNCMOI_01239	gene	231				
+NDDNCMOI_01239	CDS	231		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+NDDNCMOI_01240	gene	408				
+NDDNCMOI_01240	CDS	408				hypothetical protein
+NDDNCMOI_01241	gene	162				
+NDDNCMOI_01241	CDS	162				hypothetical protein
+NDDNCMOI_01242	gene	366				
+NDDNCMOI_01242	CDS	366				hypothetical protein
+NDDNCMOI_01243	gene	360				
+NDDNCMOI_01243	CDS	360				hypothetical protein
+NDDNCMOI_01244	gene	498	znuB			
+NDDNCMOI_01244	CDS	498	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+NDDNCMOI_01245	gene	177				
+NDDNCMOI_01245	CDS	177				hypothetical protein
+NDDNCMOI_01246	gene	423	ctaB_2			
+NDDNCMOI_01246	CDS	423	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+NDDNCMOI_01247	gene	306				
+NDDNCMOI_01247	CDS	306				hypothetical protein
+NDDNCMOI_01248	gene	597	hisD			
+NDDNCMOI_01248	CDS	597	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+NDDNCMOI_01249	gene	138				
+NDDNCMOI_01249	CDS	138				hypothetical protein
+NDDNCMOI_01250	gene	705				
+NDDNCMOI_01250	CDS	705				hypothetical protein
+NDDNCMOI_01251	gene	246				
+NDDNCMOI_01251	CDS	246				hypothetical protein
+NDDNCMOI_01252	gene	522	proS			
+NDDNCMOI_01252	CDS	522	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+NDDNCMOI_01253	gene	126				
+NDDNCMOI_01253	CDS	126				hypothetical protein
+NDDNCMOI_01254	gene	414				
+NDDNCMOI_01254	CDS	414				hypothetical protein
+NDDNCMOI_01255	gene	183				
+NDDNCMOI_01255	CDS	183				hypothetical protein
+NDDNCMOI_01256	gene	513				
+NDDNCMOI_01256	CDS	513				hypothetical protein
+NDDNCMOI_01257	gene	207				
+NDDNCMOI_01257	CDS	207				hypothetical protein
+NDDNCMOI_01258	gene	381				
+NDDNCMOI_01258	CDS	381				hypothetical protein
+NDDNCMOI_01259	gene	639				
+NDDNCMOI_01259	CDS	639				hypothetical protein
+NDDNCMOI_01260	gene	192				
+NDDNCMOI_01260	CDS	192		3.2.2.-		Putative 3-methyladenine DNA glycosylase
+NDDNCMOI_01261	gene	132				
+NDDNCMOI_01261	CDS	132				hypothetical protein
+NDDNCMOI_01262	gene	159				
+NDDNCMOI_01262	CDS	159				hypothetical protein
+NDDNCMOI_01263	gene	582	tmk			
+NDDNCMOI_01263	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+NDDNCMOI_01264	gene	537				
+NDDNCMOI_01264	CDS	537				hypothetical protein
+NDDNCMOI_01265	gene	165				
+NDDNCMOI_01265	CDS	165				hypothetical protein
+NDDNCMOI_01266	gene	507				
+NDDNCMOI_01266	CDS	507				hypothetical protein
+NDDNCMOI_01267	gene	303				
+NDDNCMOI_01267	CDS	303				hypothetical protein
+NDDNCMOI_01268	gene	87				
+NDDNCMOI_01268	tRNA	87				tRNA-Leu(gag)
+NDDNCMOI_01269	gene	567				
+NDDNCMOI_01269	CDS	567				hypothetical protein
+NDDNCMOI_01270	gene	501				
+NDDNCMOI_01270	CDS	501				hypothetical protein
+NDDNCMOI_01271	gene	162				
+NDDNCMOI_01271	CDS	162				hypothetical protein
+NDDNCMOI_01272	gene	99				
+NDDNCMOI_01272	CDS	99				hypothetical protein
+NDDNCMOI_01273	gene	147				
+NDDNCMOI_01273	CDS	147				hypothetical protein
+NDDNCMOI_01274	gene	150				
+NDDNCMOI_01274	CDS	150				hypothetical protein
+NDDNCMOI_01275	gene	111				
+NDDNCMOI_01275	CDS	111				hypothetical protein
+NDDNCMOI_01276	gene	186				
+NDDNCMOI_01276	CDS	186				hypothetical protein
+NDDNCMOI_01277	gene	378				
+NDDNCMOI_01277	CDS	378				hypothetical protein
+NDDNCMOI_01278	gene	609	pksB			
+NDDNCMOI_01278	CDS	609	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+NDDNCMOI_01279	gene	96				
+NDDNCMOI_01279	CDS	96				hypothetical protein
+NDDNCMOI_01280	gene	324				
+NDDNCMOI_01280	CDS	324				hypothetical protein
+NDDNCMOI_01281	gene	534	cobO			
+NDDNCMOI_01281	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+NDDNCMOI_01282	gene	753	asnB			
+NDDNCMOI_01282	CDS	753	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+NDDNCMOI_01283	gene	321				
+NDDNCMOI_01283	CDS	321				hypothetical protein
+NDDNCMOI_01284	gene	396	glmS			
+NDDNCMOI_01284	CDS	396	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NDDNCMOI_01285	gene	147				
+NDDNCMOI_01285	CDS	147				hypothetical protein
+NDDNCMOI_01286	gene	465				
+NDDNCMOI_01286	CDS	465				hypothetical protein
+NDDNCMOI_01287	gene	549	suhB			
+NDDNCMOI_01287	CDS	549	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+NDDNCMOI_01288	gene	78				
+NDDNCMOI_01288	tRNA	78				tRNA-Asp(gtc)
+NDDNCMOI_01289	gene	624				
+NDDNCMOI_01289	CDS	624				hypothetical protein
+NDDNCMOI_01290	gene	279				
+NDDNCMOI_01290	CDS	279				hypothetical protein
+NDDNCMOI_01291	gene	123				
+NDDNCMOI_01291	CDS	123				hypothetical protein
+NDDNCMOI_01292	gene	495				
+NDDNCMOI_01292	CDS	495				hypothetical protein
+NDDNCMOI_01293	gene	150				
+NDDNCMOI_01293	CDS	150				hypothetical protein
+NDDNCMOI_01294	gene	69				
+NDDNCMOI_01294	tRNA	69				tRNA-Thr(ggt)
+NDDNCMOI_01295	gene	387				
+NDDNCMOI_01295	CDS	387				hypothetical protein
+NDDNCMOI_01296	gene	642				
+NDDNCMOI_01296	CDS	642				hypothetical protein
+NDDNCMOI_01297	gene	519				
+NDDNCMOI_01297	CDS	519				hypothetical protein
+NDDNCMOI_01298	gene	77				
+NDDNCMOI_01298	tRNA	77				tRNA-Met(cat)
+NDDNCMOI_01299	gene	234				
+NDDNCMOI_01299	CDS	234				hypothetical protein
+NDDNCMOI_01300	gene	753	desV			
+NDDNCMOI_01300	CDS	753	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+NDDNCMOI_01301	gene	678				
+NDDNCMOI_01301	CDS	678				hypothetical protein
+NDDNCMOI_01302	gene	156				
+NDDNCMOI_01302	CDS	156				hypothetical protein
+NDDNCMOI_01303	gene	600	bioK			
+NDDNCMOI_01303	CDS	600	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+NDDNCMOI_01304	gene	192				
+NDDNCMOI_01304	CDS	192				hypothetical protein
+NDDNCMOI_01305	gene	471				
+NDDNCMOI_01305	CDS	471				hypothetical protein
+NDDNCMOI_01306	gene	279	acyP			
+NDDNCMOI_01306	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+NDDNCMOI_01307	gene	243				
+NDDNCMOI_01307	CDS	243				hypothetical protein
+NDDNCMOI_01308	gene	396	lig			
+NDDNCMOI_01308	CDS	396	lig	6.5.1.1		DNA ligase
+NDDNCMOI_01309	gene	126				
+NDDNCMOI_01309	CDS	126				hypothetical protein
+NDDNCMOI_01310	gene	558				
+NDDNCMOI_01310	CDS	558				hypothetical protein
+NDDNCMOI_01311	gene	360				
+NDDNCMOI_01311	CDS	360				hypothetical protein
+NDDNCMOI_01312	gene	426				
+NDDNCMOI_01312	CDS	426				hypothetical protein
+NDDNCMOI_01313	gene	747				
+NDDNCMOI_01313	CDS	747				hypothetical protein
+NDDNCMOI_01314	gene	627				
+NDDNCMOI_01314	CDS	627				hypothetical protein
+NDDNCMOI_01315	gene	345				
+NDDNCMOI_01315	CDS	345				hypothetical protein
+NDDNCMOI_01316	gene	213				
+NDDNCMOI_01316	CDS	213				hypothetical protein
+NDDNCMOI_01317	gene	76				
+NDDNCMOI_01317	tRNA	76				tRNA-Thr(cgt)
+NDDNCMOI_01318	gene	267				
+NDDNCMOI_01318	CDS	267				hypothetical protein
+NDDNCMOI_01319	gene	534				
+NDDNCMOI_01319	CDS	534				hypothetical protein
+NDDNCMOI_01320	gene	111				
+NDDNCMOI_01320	CDS	111				hypothetical protein
+NDDNCMOI_01321	gene	285				
+NDDNCMOI_01321	CDS	285				hypothetical protein
+NDDNCMOI_01322	gene	303	hisC_3			
+NDDNCMOI_01322	CDS	303	hisC_3	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+NDDNCMOI_01323	gene	195				
+NDDNCMOI_01323	CDS	195				hypothetical protein
+NDDNCMOI_01324	gene	453				
+NDDNCMOI_01324	CDS	453				hypothetical protein
+NDDNCMOI_01325	gene	405				
+NDDNCMOI_01325	CDS	405				hypothetical protein
+NDDNCMOI_01326	gene	108				
+NDDNCMOI_01326	CDS	108				hypothetical protein
+NDDNCMOI_01327	gene	240				
+NDDNCMOI_01327	CDS	240				hypothetical protein
+NDDNCMOI_01328	gene	237				
+NDDNCMOI_01328	CDS	237				hypothetical protein
+NDDNCMOI_01329	gene	99				
+NDDNCMOI_01329	CDS	99				hypothetical protein
+NDDNCMOI_01330	gene	576	ndhJ			
+NDDNCMOI_01330	CDS	576	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+NDDNCMOI_01331	gene	246				
+NDDNCMOI_01331	CDS	246				hypothetical protein
+NDDNCMOI_01332	gene	342				
+NDDNCMOI_01332	CDS	342				hypothetical protein
+NDDNCMOI_01333	gene	144				
+NDDNCMOI_01333	CDS	144				hypothetical protein
+NDDNCMOI_01334	gene	369	hemL_2			
+NDDNCMOI_01334	CDS	369	hemL_2	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase
+NDDNCMOI_01335	gene	279				
+NDDNCMOI_01335	CDS	279				hypothetical protein
+NDDNCMOI_01336	gene	369	ndhA			
+NDDNCMOI_01336	CDS	369	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+NDDNCMOI_01337	gene	630	ftsH_3			
+NDDNCMOI_01337	CDS	630	ftsH_3	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+NDDNCMOI_01338	gene	423	ybeM			
+NDDNCMOI_01338	CDS	423	ybeM	3.5.1.128		Deaminated glutathione amidase
+NDDNCMOI_01339	gene	102				
+NDDNCMOI_01339	CDS	102				hypothetical protein
+NDDNCMOI_01340	gene	558	citZ_2			
+NDDNCMOI_01340	CDS	558	citZ_2	2.3.3.16	COG0372	Citrate synthase 2
+NDDNCMOI_01341	gene	225				
+NDDNCMOI_01341	CDS	225				hypothetical protein
+NDDNCMOI_01342	gene	180				
+NDDNCMOI_01342	CDS	180				hypothetical protein
+NDDNCMOI_01343	gene	492				
+NDDNCMOI_01343	CDS	492				hypothetical protein
+NDDNCMOI_01344	gene	195				
+NDDNCMOI_01344	CDS	195				hypothetical protein
+NDDNCMOI_01345	gene	111				
+NDDNCMOI_01345	CDS	111				hypothetical protein
+NDDNCMOI_01346	gene	363				
+NDDNCMOI_01346	CDS	363				hypothetical protein
+NDDNCMOI_01347	gene	207				
+NDDNCMOI_01347	CDS	207				hypothetical protein
+NDDNCMOI_01348	gene	126				
+NDDNCMOI_01348	CDS	126				hypothetical protein
+NDDNCMOI_01349	gene	180				
+NDDNCMOI_01349	CDS	180				hypothetical protein
+NDDNCMOI_01350	gene	195				
+NDDNCMOI_01350	CDS	195				hypothetical protein
+NDDNCMOI_01351	gene	171				
+NDDNCMOI_01351	CDS	171				hypothetical protein
+NDDNCMOI_01352	gene	204				
+NDDNCMOI_01352	CDS	204				hypothetical protein
+NDDNCMOI_01353	gene	441				
+NDDNCMOI_01353	CDS	441				hypothetical protein
+NDDNCMOI_01354	gene	77				
+NDDNCMOI_01354	tRNA	77				tRNA-Gly(gcc)
+NDDNCMOI_01355	gene	147				
+NDDNCMOI_01355	CDS	147				hypothetical protein
+NDDNCMOI_01356	gene	216				
+NDDNCMOI_01356	CDS	216				hypothetical protein
+NDDNCMOI_01357	gene	249				
+NDDNCMOI_01357	CDS	249				hypothetical protein
+NDDNCMOI_01358	gene	624				
+NDDNCMOI_01358	CDS	624				hypothetical protein
+NDDNCMOI_01359	gene	225	egtB			
+NDDNCMOI_01359	CDS	225	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+NDDNCMOI_01360	gene	447	cbiX			
+NDDNCMOI_01360	CDS	447	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+NDDNCMOI_01361	gene	534	napF			
+NDDNCMOI_01361	CDS	534	napF			Ferredoxin-type protein NapF
+NDDNCMOI_01362	gene	96				
+NDDNCMOI_01362	CDS	96				hypothetical protein
+NDDNCMOI_01363	gene	231				
+NDDNCMOI_01363	CDS	231				hypothetical protein
+NDDNCMOI_01364	gene	180	ribE			
+NDDNCMOI_01364	CDS	180	ribE	2.5.1.9	COG0307	Riboflavin synthase
+NDDNCMOI_01365	gene	186				
+NDDNCMOI_01365	CDS	186				hypothetical protein
+NDDNCMOI_01366	gene	111				
+NDDNCMOI_01366	CDS	111				hypothetical protein
+NDDNCMOI_01367	gene	195				
+NDDNCMOI_01367	CDS	195				hypothetical protein
+NDDNCMOI_01368	gene	402				
+NDDNCMOI_01368	CDS	402				hypothetical protein
+NDDNCMOI_01369	gene	363	hppA			
+NDDNCMOI_01369	CDS	363	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+NDDNCMOI_01370	gene	210				
+NDDNCMOI_01370	CDS	210				hypothetical protein
+NDDNCMOI_01371	gene	468				
+NDDNCMOI_01371	CDS	468				hypothetical protein
+NDDNCMOI_01372	gene	426				
+NDDNCMOI_01372	CDS	426				hypothetical protein
+NDDNCMOI_01373	gene	153				
+NDDNCMOI_01373	CDS	153				hypothetical protein
+NDDNCMOI_01374	gene	474				
+NDDNCMOI_01374	CDS	474				hypothetical protein
+NDDNCMOI_01375	gene	438				
+NDDNCMOI_01375	CDS	438				hypothetical protein
+NDDNCMOI_01376	gene	516	dpnA			
+NDDNCMOI_01376	CDS	516	dpnA	2.1.1.72		Modification methylase DpnIIB
+NDDNCMOI_01377	gene	279				
+NDDNCMOI_01377	CDS	279				hypothetical protein
+NDDNCMOI_01378	gene	213	glnA1			
+NDDNCMOI_01378	CDS	213	glnA1	6.3.1.2	COG0174	Glutamine synthetase
+NDDNCMOI_01379	gene	90				
+NDDNCMOI_01379	CDS	90				hypothetical protein
+NDDNCMOI_01380	gene	351				
+NDDNCMOI_01380	CDS	351				hypothetical protein
+NDDNCMOI_01381	gene	74				
+NDDNCMOI_01381	tRNA	74				tRNA-Thr(ggt)
+NDDNCMOI_01382	gene	513	dpnM			
+NDDNCMOI_01382	CDS	513	dpnM	2.1.1.72		Modification methylase DpnIIA
+NDDNCMOI_01383	gene	150				
+NDDNCMOI_01383	CDS	150				hypothetical protein
+NDDNCMOI_01384	gene	192				
+NDDNCMOI_01384	CDS	192				hypothetical protein
+NDDNCMOI_01385	gene	429	alkA			
+NDDNCMOI_01385	CDS	429	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+NDDNCMOI_01386	gene	498				
+NDDNCMOI_01386	CDS	498				hypothetical protein
+NDDNCMOI_01387	gene	183				
+NDDNCMOI_01387	CDS	183				hypothetical protein
+NDDNCMOI_01388	gene	387				
+NDDNCMOI_01388	CDS	387				hypothetical protein
+NDDNCMOI_01389	gene	396	cbiC			
+NDDNCMOI_01389	CDS	396	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+NDDNCMOI_01390	gene	255				
+NDDNCMOI_01390	CDS	255				hypothetical protein
+NDDNCMOI_01391	gene	504				
+NDDNCMOI_01391	CDS	504				hypothetical protein
+NDDNCMOI_01392	gene	309				
+NDDNCMOI_01392	CDS	309				hypothetical protein
+NDDNCMOI_01393	gene	159				
+NDDNCMOI_01393	CDS	159				hypothetical protein
+NDDNCMOI_01394	gene	297				
+NDDNCMOI_01394	CDS	297				hypothetical protein
+NDDNCMOI_01395	gene	372	hisA			
+NDDNCMOI_01395	CDS	372	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+NDDNCMOI_01396	gene	348				
+NDDNCMOI_01396	CDS	348				hypothetical protein
+NDDNCMOI_01397	gene	174				
+NDDNCMOI_01397	CDS	174				hypothetical protein
+NDDNCMOI_01398	gene	219				
+NDDNCMOI_01398	CDS	219				hypothetical protein
+NDDNCMOI_01399	gene	474	purB			
+NDDNCMOI_01399	CDS	474	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+NDDNCMOI_01400	gene	513	pah			
+NDDNCMOI_01400	CDS	513	pah	3.5.3.22	COG0010	Proclavaminate amidinohydrolase
+NDDNCMOI_01401	gene	213				
+NDDNCMOI_01401	CDS	213				hypothetical protein
+NDDNCMOI_01402	gene	258				
+NDDNCMOI_01402	CDS	258				hypothetical protein
+NDDNCMOI_01403	gene	123				
+NDDNCMOI_01403	CDS	123				hypothetical protein
+NDDNCMOI_01404	gene	231				
+NDDNCMOI_01404	CDS	231				hypothetical protein

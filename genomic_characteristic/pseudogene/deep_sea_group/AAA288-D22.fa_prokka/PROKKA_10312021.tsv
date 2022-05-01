@@ -1,0 +1,1379 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HPDPPLNH_00001	gene	585				
+HPDPPLNH_00001	CDS	585				hypothetical protein
+HPDPPLNH_00002	gene	1005				
+HPDPPLNH_00002	CDS	1005				hypothetical protein
+HPDPPLNH_00003	gene	729				
+HPDPPLNH_00003	CDS	729				hypothetical protein
+HPDPPLNH_00004	gene	591				
+HPDPPLNH_00004	CDS	591				hypothetical protein
+HPDPPLNH_00005	gene	177				
+HPDPPLNH_00005	CDS	177				hypothetical protein
+HPDPPLNH_00006	gene	198				
+HPDPPLNH_00006	CDS	198				hypothetical protein
+HPDPPLNH_00007	gene	585	ybeM			
+HPDPPLNH_00007	CDS	585	ybeM	3.5.1.128		Deaminated glutathione amidase
+HPDPPLNH_00008	gene	528				
+HPDPPLNH_00008	CDS	528				hypothetical protein
+HPDPPLNH_00009	gene	582				
+HPDPPLNH_00009	CDS	582				hypothetical protein
+HPDPPLNH_00010	gene	417				
+HPDPPLNH_00010	CDS	417				hypothetical protein
+HPDPPLNH_00011	gene	213				
+HPDPPLNH_00011	CDS	213				hypothetical protein
+HPDPPLNH_00012	gene	1128				
+HPDPPLNH_00012	CDS	1128				hypothetical protein
+HPDPPLNH_00013	gene	321				
+HPDPPLNH_00013	CDS	321				hypothetical protein
+HPDPPLNH_00014	gene	717				
+HPDPPLNH_00014	CDS	717				hypothetical protein
+HPDPPLNH_00015	gene	1923				
+HPDPPLNH_00015	CDS	1923				hypothetical protein
+HPDPPLNH_00016	gene	420	nrdZ			
+HPDPPLNH_00016	CDS	420	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+HPDPPLNH_00017	gene	276				
+HPDPPLNH_00017	CDS	276				hypothetical protein
+HPDPPLNH_00018	gene	273				
+HPDPPLNH_00018	CDS	273				hypothetical protein
+HPDPPLNH_00019	gene	276				
+HPDPPLNH_00019	CDS	276				hypothetical protein
+HPDPPLNH_00020	gene	76				
+HPDPPLNH_00020	tRNA	76				tRNA-Gly(tcc)
+HPDPPLNH_00021	gene	303				
+HPDPPLNH_00021	CDS	303				hypothetical protein
+HPDPPLNH_00022	gene	453				
+HPDPPLNH_00022	CDS	453				hypothetical protein
+HPDPPLNH_00023	gene	285				
+HPDPPLNH_00023	CDS	285				hypothetical protein
+HPDPPLNH_00024	gene	1077	ccr			
+HPDPPLNH_00024	CDS	1077	ccr	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HPDPPLNH_00025	gene	873	citE			
+HPDPPLNH_00025	CDS	873	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+HPDPPLNH_00026	gene	363	ribE_1			
+HPDPPLNH_00026	CDS	363	ribE_1	2.5.1.9	COG0307	Riboflavin synthase
+HPDPPLNH_00027	gene	180	ribE_2			
+HPDPPLNH_00027	CDS	180	ribE_2	2.5.1.9	COG0307	Riboflavin synthase
+HPDPPLNH_00028	gene	675	ribBA			
+HPDPPLNH_00028	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+HPDPPLNH_00029	gene	417	ribH			
+HPDPPLNH_00029	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+HPDPPLNH_00030	gene	750				
+HPDPPLNH_00030	CDS	750				hypothetical protein
+HPDPPLNH_00031	gene	1188	triA			
+HPDPPLNH_00031	CDS	1188	triA	3.5.4.45		Melamine deaminase
+HPDPPLNH_00032	gene	654	ribD2			
+HPDPPLNH_00032	CDS	654	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+HPDPPLNH_00033	gene	510				
+HPDPPLNH_00033	CDS	510				hypothetical protein
+HPDPPLNH_00034	gene	588				
+HPDPPLNH_00034	CDS	588				hypothetical protein
+HPDPPLNH_00035	gene	1110	hflX			
+HPDPPLNH_00035	CDS	1110	hflX		COG2262	GTPase HflX
+HPDPPLNH_00036	gene	1047				
+HPDPPLNH_00036	CDS	1047				hypothetical protein
+HPDPPLNH_00037	gene	453				
+HPDPPLNH_00037	CDS	453				hypothetical protein
+HPDPPLNH_00038	gene	342				
+HPDPPLNH_00038	CDS	342				hypothetical protein
+HPDPPLNH_00039	gene	153				
+HPDPPLNH_00039	CDS	153				hypothetical protein
+HPDPPLNH_00040	gene	240				
+HPDPPLNH_00040	CDS	240				hypothetical protein
+HPDPPLNH_00041	gene	339				
+HPDPPLNH_00041	CDS	339				hypothetical protein
+HPDPPLNH_00042	gene	1062	bsdC			
+HPDPPLNH_00042	CDS	1062	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+HPDPPLNH_00043	gene	270				
+HPDPPLNH_00043	CDS	270		4.1.1.-		Phenolic acid decarboxylase
+HPDPPLNH_00044	gene	717				
+HPDPPLNH_00044	CDS	717				hypothetical protein
+HPDPPLNH_00045	gene	1104				
+HPDPPLNH_00045	CDS	1104				hypothetical protein
+HPDPPLNH_00046	gene	822	metN2			
+HPDPPLNH_00046	CDS	822	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+HPDPPLNH_00047	gene	783	phnE			
+HPDPPLNH_00047	CDS	783	phnE		COG3639	Phosphate-import permease protein PhnE
+HPDPPLNH_00048	gene	954	moaA_1			
+HPDPPLNH_00048	CDS	954	moaA_1			GTP 3',8-cyclase
+HPDPPLNH_00049	gene	930	ctaB			
+HPDPPLNH_00049	CDS	930	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HPDPPLNH_00050	gene	237				
+HPDPPLNH_00050	CDS	237				hypothetical protein
+HPDPPLNH_00051	gene	1080	asd2			
+HPDPPLNH_00051	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+HPDPPLNH_00052	gene	1080	cobD_1			
+HPDPPLNH_00052	CDS	1080	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+HPDPPLNH_00053	gene	555	cobQ_1			
+HPDPPLNH_00053	CDS	555	cobQ_1			Cobyric acid synthase
+HPDPPLNH_00054	gene	273	cobQ_2			
+HPDPPLNH_00054	CDS	273	cobQ_2			Cobyric acid synthase
+HPDPPLNH_00055	gene	918	cobD_2			
+HPDPPLNH_00055	CDS	918	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+HPDPPLNH_00056	gene	726	cobS			
+HPDPPLNH_00056	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+HPDPPLNH_00057	gene	585	mobA			
+HPDPPLNH_00057	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+HPDPPLNH_00058	gene	198				
+HPDPPLNH_00058	CDS	198				hypothetical protein
+HPDPPLNH_00059	gene	282				
+HPDPPLNH_00059	CDS	282				hypothetical protein
+HPDPPLNH_00060	gene	219	ade_1			
+HPDPPLNH_00060	CDS	219	ade_1	3.5.4.2		Adenine deaminase
+HPDPPLNH_00061	gene	1251	ade_2			
+HPDPPLNH_00061	CDS	1251	ade_2	3.5.4.2	COG1001	Adenine deaminase
+HPDPPLNH_00062	gene	594	groL_1			
+HPDPPLNH_00062	CDS	594	groL_1			60 kDa chaperonin
+HPDPPLNH_00063	gene	939	groL_2			
+HPDPPLNH_00063	CDS	939	groL_2			60 kDa chaperonin
+HPDPPLNH_00064	gene	876	mak			
+HPDPPLNH_00064	CDS	876	mak	2.7.1.4	COG1940	Fructokinase
+HPDPPLNH_00065	gene	552	guaA_1			
+HPDPPLNH_00065	CDS	552	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+HPDPPLNH_00066	gene	819	guaA_2			
+HPDPPLNH_00066	CDS	819	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+HPDPPLNH_00067	gene	201				
+HPDPPLNH_00067	CDS	201				hypothetical protein
+HPDPPLNH_00068	gene	225				
+HPDPPLNH_00068	CDS	225				hypothetical protein
+HPDPPLNH_00069	gene	162				
+HPDPPLNH_00069	CDS	162				hypothetical protein
+HPDPPLNH_00070	gene	423				
+HPDPPLNH_00070	CDS	423				hypothetical protein
+HPDPPLNH_00071	gene	195				
+HPDPPLNH_00071	CDS	195				hypothetical protein
+HPDPPLNH_00072	gene	696	ruvB			
+HPDPPLNH_00072	CDS	696	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+HPDPPLNH_00073	gene	366				
+HPDPPLNH_00073	CDS	366				hypothetical protein
+HPDPPLNH_00074	gene	306				
+HPDPPLNH_00074	CDS	306				hypothetical protein
+HPDPPLNH_00075	gene	147	pccB_1			
+HPDPPLNH_00075	CDS	147	pccB_1	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HPDPPLNH_00076	gene	1212	pccB_2			
+HPDPPLNH_00076	CDS	1212	pccB_2	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HPDPPLNH_00077	gene	174	accC_1			
+HPDPPLNH_00077	CDS	174	accC_1	6.3.4.14	COG0439	Biotin carboxylase
+HPDPPLNH_00078	gene	240	cfiB			
+HPDPPLNH_00078	CDS	240	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+HPDPPLNH_00079	gene	855	accC_2			
+HPDPPLNH_00079	CDS	855	accC_2	6.3.4.14	COG0439	Biotin carboxylase
+HPDPPLNH_00080	gene	513				
+HPDPPLNH_00080	CDS	513				hypothetical protein
+HPDPPLNH_00081	gene	510	bcp			
+HPDPPLNH_00081	CDS	510	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+HPDPPLNH_00082	gene	375	ndhC			
+HPDPPLNH_00082	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+HPDPPLNH_00083	gene	558	ndhK			
+HPDPPLNH_00083	CDS	558	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+HPDPPLNH_00084	gene	339	ndhJ_1			
+HPDPPLNH_00084	CDS	339	ndhJ_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+HPDPPLNH_00085	gene	258	ndhJ_2			
+HPDPPLNH_00085	CDS	258	ndhJ_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+HPDPPLNH_00086	gene	1155	nqo4			
+HPDPPLNH_00086	CDS	1155	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+HPDPPLNH_00087	gene	1311	ndhA			
+HPDPPLNH_00087	CDS	1311	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+HPDPPLNH_00088	gene	498	nuoI			
+HPDPPLNH_00088	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+HPDPPLNH_00089	gene	516				
+HPDPPLNH_00089	CDS	516				hypothetical protein
+HPDPPLNH_00090	gene	306	nuoK			
+HPDPPLNH_00090	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+HPDPPLNH_00091	gene	822	mrpA_1			
+HPDPPLNH_00091	CDS	822	mrpA_1		COG1009	Na(+)/H(+) antiporter subunit A
+HPDPPLNH_00092	gene	732	mrpA_2			
+HPDPPLNH_00092	CDS	732	mrpA_2		COG1009	Na(+)/H(+) antiporter subunit A
+HPDPPLNH_00093	gene	1542	nuoL			
+HPDPPLNH_00093	CDS	1542	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+HPDPPLNH_00094	gene	564				
+HPDPPLNH_00094	CDS	564				hypothetical protein
+HPDPPLNH_00095	gene	1485	ndhB			
+HPDPPLNH_00095	CDS	1485	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HPDPPLNH_00096	gene	867				
+HPDPPLNH_00096	CDS	867				hypothetical protein
+HPDPPLNH_00097	gene	76				
+HPDPPLNH_00097	tRNA	76				tRNA-Glu(ttc)
+HPDPPLNH_00098	gene	636				
+HPDPPLNH_00098	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+HPDPPLNH_00099	gene	74				
+HPDPPLNH_00099	tRNA	74				tRNA-Met(cat)
+HPDPPLNH_00100	gene	564				
+HPDPPLNH_00100	CDS	564				hypothetical protein
+HPDPPLNH_00101	gene	579	pyrE			
+HPDPPLNH_00101	CDS	579	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HPDPPLNH_00102	gene	492				
+HPDPPLNH_00102	CDS	492				hypothetical protein
+HPDPPLNH_00103	gene	522				
+HPDPPLNH_00103	CDS	522				hypothetical protein
+HPDPPLNH_00104	gene	1086				
+HPDPPLNH_00104	CDS	1086				hypothetical protein
+HPDPPLNH_00105	gene	549	ypeA			
+HPDPPLNH_00105	CDS	549	ypeA	2.3.1.-		Acetyltransferase YpeA
+HPDPPLNH_00106	gene	225				
+HPDPPLNH_00106	CDS	225				hypothetical protein
+HPDPPLNH_00107	gene	837				
+HPDPPLNH_00107	CDS	837				hypothetical protein
+HPDPPLNH_00108	gene	630	btuD			
+HPDPPLNH_00108	CDS	630	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HPDPPLNH_00109	gene	327				
+HPDPPLNH_00109	CDS	327				hypothetical protein
+HPDPPLNH_00110	gene	534				
+HPDPPLNH_00110	CDS	534				hypothetical protein
+HPDPPLNH_00111	gene	156				
+HPDPPLNH_00111	CDS	156				hypothetical protein
+HPDPPLNH_00112	gene	113				
+HPDPPLNH_00112	rRNA	113				5S ribosomal RNA
+HPDPPLNH_00113	gene	549				
+HPDPPLNH_00113	CDS	549				hypothetical protein
+HPDPPLNH_00114	gene	138				
+HPDPPLNH_00114	CDS	138				hypothetical protein
+HPDPPLNH_00115	gene	993				
+HPDPPLNH_00115	CDS	993				hypothetical protein
+HPDPPLNH_00116	gene	384				
+HPDPPLNH_00116	CDS	384				hypothetical protein
+HPDPPLNH_00117	gene	1668	dxs			
+HPDPPLNH_00117	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+HPDPPLNH_00118	gene	975	aptB			
+HPDPPLNH_00118	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+HPDPPLNH_00119	gene	666	tal			
+HPDPPLNH_00119	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+HPDPPLNH_00120	gene	1023				
+HPDPPLNH_00120	CDS	1023				hypothetical protein
+HPDPPLNH_00121	gene	654	rplA			
+HPDPPLNH_00121	CDS	654	rplA		COG0081	50S ribosomal protein L1
+HPDPPLNH_00122	gene	462	lrp			
+HPDPPLNH_00122	CDS	462	lrp		COG1522	Leucine-responsive regulatory protein
+HPDPPLNH_00123	gene	483	rplK			
+HPDPPLNH_00123	CDS	483	rplK		COG0080	50S ribosomal protein L11
+HPDPPLNH_00124	gene	627				
+HPDPPLNH_00124	CDS	627				hypothetical protein
+HPDPPLNH_00125	gene	180				
+HPDPPLNH_00125	CDS	180				hypothetical protein
+HPDPPLNH_00126	gene	777				
+HPDPPLNH_00126	CDS	777				hypothetical protein
+HPDPPLNH_00127	gene	300	ogt			
+HPDPPLNH_00127	CDS	300	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+HPDPPLNH_00128	gene	198				
+HPDPPLNH_00128	CDS	198				hypothetical protein
+HPDPPLNH_00129	gene	228				
+HPDPPLNH_00129	CDS	228				hypothetical protein
+HPDPPLNH_00130	gene	228				
+HPDPPLNH_00130	CDS	228				hypothetical protein
+HPDPPLNH_00131	gene	186				
+HPDPPLNH_00131	CDS	186				hypothetical protein
+HPDPPLNH_00132	gene	363				
+HPDPPLNH_00132	CDS	363				hypothetical protein
+HPDPPLNH_00133	gene	519				
+HPDPPLNH_00133	CDS	519				hypothetical protein
+HPDPPLNH_00134	gene	108				
+HPDPPLNH_00134	CDS	108				hypothetical protein
+HPDPPLNH_00135	gene	777	kefB			
+HPDPPLNH_00135	CDS	777	kefB			Glutathione-regulated potassium-efflux system protein KefB
+HPDPPLNH_00136	gene	597	magA			
+HPDPPLNH_00136	CDS	597	magA		COG0475	Iron transporter MagA
+HPDPPLNH_00137	gene	168	nadK			
+HPDPPLNH_00137	CDS	168	nadK	2.7.1.23		NAD kinase
+HPDPPLNH_00138	gene	456				
+HPDPPLNH_00138	CDS	456				hypothetical protein
+HPDPPLNH_00139	gene	522				
+HPDPPLNH_00139	CDS	522				hypothetical protein
+HPDPPLNH_00140	gene	294				
+HPDPPLNH_00140	CDS	294				hypothetical protein
+HPDPPLNH_00141	gene	231				
+HPDPPLNH_00141	CDS	231				hypothetical protein
+HPDPPLNH_00142	gene	198				
+HPDPPLNH_00142	CDS	198				hypothetical protein
+HPDPPLNH_00143	gene	819	rph_1			
+HPDPPLNH_00143	CDS	819	rph_1	2.7.7.56		Ribonuclease PH
+HPDPPLNH_00144	gene	399	rph_2			
+HPDPPLNH_00144	CDS	399	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+HPDPPLNH_00145	gene	264	rph_3			
+HPDPPLNH_00145	CDS	264	rph_3	2.7.7.56		Ribonuclease PH
+HPDPPLNH_00146	gene	669				
+HPDPPLNH_00146	CDS	669				hypothetical protein
+HPDPPLNH_00147	gene	669				
+HPDPPLNH_00147	CDS	669				hypothetical protein
+HPDPPLNH_00148	gene	414				
+HPDPPLNH_00148	CDS	414				hypothetical protein
+HPDPPLNH_00149	gene	255				
+HPDPPLNH_00149	CDS	255				hypothetical protein
+HPDPPLNH_00150	gene	630				
+HPDPPLNH_00150	CDS	630				hypothetical protein
+HPDPPLNH_00151	gene	321				
+HPDPPLNH_00151	CDS	321				hypothetical protein
+HPDPPLNH_00152	gene	417				
+HPDPPLNH_00152	CDS	417				hypothetical protein
+HPDPPLNH_00153	gene	465	rpsI			
+HPDPPLNH_00153	CDS	465	rpsI		COG0103	30S ribosomal protein S9
+HPDPPLNH_00154	gene	366				
+HPDPPLNH_00154	CDS	366				hypothetical protein
+HPDPPLNH_00155	gene	483	DmdB			
+HPDPPLNH_00155	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+HPDPPLNH_00156	gene	1086	dmdA			
+HPDPPLNH_00156	CDS	1086	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+HPDPPLNH_00157	gene	180	leuC			
+HPDPPLNH_00157	CDS	180	leuC	4.2.1.33		3-isopropylmalate dehydratase large subunit
+HPDPPLNH_00158	gene	498	fbiB			
+HPDPPLNH_00158	CDS	498	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+HPDPPLNH_00159	gene	420				
+HPDPPLNH_00159	CDS	420				hypothetical protein
+HPDPPLNH_00160	gene	555				
+HPDPPLNH_00160	CDS	555				hypothetical protein
+HPDPPLNH_00161	gene	435				
+HPDPPLNH_00161	CDS	435				hypothetical protein
+HPDPPLNH_00162	gene	966				
+HPDPPLNH_00162	CDS	966				hypothetical protein
+HPDPPLNH_00163	gene	1908				
+HPDPPLNH_00163	CDS	1908				hypothetical protein
+HPDPPLNH_00164	gene	159				
+HPDPPLNH_00164	CDS	159				hypothetical protein
+HPDPPLNH_00165	gene	309				
+HPDPPLNH_00165	CDS	309				hypothetical protein
+HPDPPLNH_00166	gene	1077	lhgD			
+HPDPPLNH_00166	CDS	1077	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+HPDPPLNH_00167	gene	150				
+HPDPPLNH_00167	CDS	150				hypothetical protein
+HPDPPLNH_00168	gene	453				
+HPDPPLNH_00168	CDS	453				hypothetical protein
+HPDPPLNH_00169	gene	1014	truB			
+HPDPPLNH_00169	CDS	1014	truB	5.4.99.25		tRNA pseudouridine synthase B
+HPDPPLNH_00170	gene	561	cmk			
+HPDPPLNH_00170	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+HPDPPLNH_00171	gene	642				
+HPDPPLNH_00171	CDS	642				hypothetical protein
+HPDPPLNH_00172	gene	579				
+HPDPPLNH_00172	CDS	579				hypothetical protein
+HPDPPLNH_00173	gene	1434	secY			
+HPDPPLNH_00173	CDS	1434	secY			Protein translocase subunit SecY
+HPDPPLNH_00174	gene	414				
+HPDPPLNH_00174	CDS	414				hypothetical protein
+HPDPPLNH_00175	gene	468				
+HPDPPLNH_00175	CDS	468				hypothetical protein
+HPDPPLNH_00176	gene	705				
+HPDPPLNH_00176	CDS	705				hypothetical protein
+HPDPPLNH_00177	gene	192				
+HPDPPLNH_00177	CDS	192				hypothetical protein
+HPDPPLNH_00178	gene	615	argF_1			
+HPDPPLNH_00178	CDS	615	argF_1	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HPDPPLNH_00179	gene	189	argF_2			
+HPDPPLNH_00179	CDS	189	argF_2	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HPDPPLNH_00180	gene	156				
+HPDPPLNH_00180	CDS	156				hypothetical protein
+HPDPPLNH_00181	gene	411				
+HPDPPLNH_00181	CDS	411				hypothetical protein
+HPDPPLNH_00182	gene	285	adh1			
+HPDPPLNH_00182	CDS	285	adh1	1.1.1.192	COG1454	Long-chain-alcohol dehydrogenase 1
+HPDPPLNH_00183	gene	450				
+HPDPPLNH_00183	CDS	450				hypothetical protein
+HPDPPLNH_00184	gene	483	cysC			
+HPDPPLNH_00184	CDS	483	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+HPDPPLNH_00185	gene	570				
+HPDPPLNH_00185	CDS	570				hypothetical protein
+HPDPPLNH_00186	gene	297				
+HPDPPLNH_00186	CDS	297				hypothetical protein
+HPDPPLNH_00187	gene	399				
+HPDPPLNH_00187	CDS	399				hypothetical protein
+HPDPPLNH_00188	gene	636				
+HPDPPLNH_00188	CDS	636				hypothetical protein
+HPDPPLNH_00189	gene	705	pimB			
+HPDPPLNH_00189	CDS	705	pimB	2.4.1.346	COG0438	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+HPDPPLNH_00190	gene	123				
+HPDPPLNH_00190	CDS	123				hypothetical protein
+HPDPPLNH_00191	gene	750	cmoB			
+HPDPPLNH_00191	CDS	750	cmoB	2.5.1.-		tRNA U34 carboxymethyltransferase
+HPDPPLNH_00192	gene	234				
+HPDPPLNH_00192	CDS	234				hypothetical protein
+HPDPPLNH_00193	gene	867				
+HPDPPLNH_00193	CDS	867				hypothetical protein
+HPDPPLNH_00194	gene	348				
+HPDPPLNH_00194	CDS	348				hypothetical protein
+HPDPPLNH_00195	gene	420	fcl_1			
+HPDPPLNH_00195	CDS	420	fcl_1	1.1.1.271		GDP-L-fucose synthase
+HPDPPLNH_00196	gene	375				
+HPDPPLNH_00196	CDS	375				hypothetical protein
+HPDPPLNH_00197	gene	510				
+HPDPPLNH_00197	CDS	510				hypothetical protein
+HPDPPLNH_00198	gene	507				
+HPDPPLNH_00198	CDS	507				hypothetical protein
+HPDPPLNH_00199	gene	519				
+HPDPPLNH_00199	CDS	519				hypothetical protein
+HPDPPLNH_00200	gene	954	fcl_2			
+HPDPPLNH_00200	CDS	954	fcl_2	1.1.1.271	COG0451	GDP-L-fucose synthase
+HPDPPLNH_00201	gene	672				
+HPDPPLNH_00201	CDS	672				hypothetical protein
+HPDPPLNH_00202	gene	1125	per			
+HPDPPLNH_00202	CDS	1125	per	2.6.1.102	COG0399	GDP-perosamine synthase
+HPDPPLNH_00203	gene	531	rfbC			
+HPDPPLNH_00203	CDS	531	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+HPDPPLNH_00204	gene	198				
+HPDPPLNH_00204	CDS	198				hypothetical protein
+HPDPPLNH_00205	gene	150				
+HPDPPLNH_00205	CDS	150				hypothetical protein
+HPDPPLNH_00206	gene	333				
+HPDPPLNH_00206	CDS	333				hypothetical protein
+HPDPPLNH_00207	gene	96				
+HPDPPLNH_00207	CDS	96				hypothetical protein
+HPDPPLNH_00208	gene	537				
+HPDPPLNH_00208	CDS	537				hypothetical protein
+HPDPPLNH_00209	gene	663				
+HPDPPLNH_00209	CDS	663				hypothetical protein
+HPDPPLNH_00210	gene	915				
+HPDPPLNH_00210	CDS	915				hypothetical protein
+HPDPPLNH_00211	gene	168				
+HPDPPLNH_00211	CDS	168				hypothetical protein
+HPDPPLNH_00212	gene	609	colD			
+HPDPPLNH_00212	CDS	609	colD	4.2.1.168		GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+HPDPPLNH_00213	gene	1062	gmd_1			
+HPDPPLNH_00213	CDS	1062	gmd_1	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+HPDPPLNH_00214	gene	720				
+HPDPPLNH_00214	CDS	720				hypothetical protein
+HPDPPLNH_00215	gene	234				
+HPDPPLNH_00215	CDS	234				hypothetical protein
+HPDPPLNH_00216	gene	561				
+HPDPPLNH_00216	CDS	561				hypothetical protein
+HPDPPLNH_00217	gene	654				
+HPDPPLNH_00217	CDS	654				hypothetical protein
+HPDPPLNH_00218	gene	261				
+HPDPPLNH_00218	CDS	261				hypothetical protein
+HPDPPLNH_00219	gene	699				
+HPDPPLNH_00219	CDS	699				hypothetical protein
+HPDPPLNH_00220	gene	453	arnB_1			
+HPDPPLNH_00220	CDS	453	arnB_1	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+HPDPPLNH_00221	gene	486	arnB_2			
+HPDPPLNH_00221	CDS	486	arnB_2	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+HPDPPLNH_00222	gene	270				
+HPDPPLNH_00222	CDS	270				hypothetical protein
+HPDPPLNH_00223	gene	474	pphA			
+HPDPPLNH_00223	CDS	474	pphA	3.11.1.3		Phosphonopyruvate hydrolase
+HPDPPLNH_00224	gene	123				
+HPDPPLNH_00224	CDS	123				hypothetical protein
+HPDPPLNH_00225	gene	132				
+HPDPPLNH_00225	CDS	132				hypothetical protein
+HPDPPLNH_00226	gene	198				
+HPDPPLNH_00226	CDS	198				hypothetical protein
+HPDPPLNH_00227	gene	483				
+HPDPPLNH_00227	CDS	483				hypothetical protein
+HPDPPLNH_00228	gene	531				
+HPDPPLNH_00228	CDS	531				hypothetical protein
+HPDPPLNH_00229	gene	393				
+HPDPPLNH_00229	CDS	393				hypothetical protein
+HPDPPLNH_00230	gene	231				
+HPDPPLNH_00230	CDS	231				hypothetical protein
+HPDPPLNH_00231	gene	345				
+HPDPPLNH_00231	CDS	345				hypothetical protein
+HPDPPLNH_00232	gene	120				
+HPDPPLNH_00232	CDS	120				hypothetical protein
+HPDPPLNH_00233	gene	486				
+HPDPPLNH_00233	CDS	486				hypothetical protein
+HPDPPLNH_00234	gene	1503				
+HPDPPLNH_00234	CDS	1503				hypothetical protein
+HPDPPLNH_00235	gene	2154	srmB			
+HPDPPLNH_00235	CDS	2154	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+HPDPPLNH_00236	gene	915	mraY			
+HPDPPLNH_00236	CDS	915	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+HPDPPLNH_00237	gene	225				
+HPDPPLNH_00237	CDS	225				hypothetical protein
+HPDPPLNH_00238	gene	438	fdtC			
+HPDPPLNH_00238	CDS	438	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+HPDPPLNH_00239	gene	270				
+HPDPPLNH_00239	CDS	270				hypothetical protein
+HPDPPLNH_00240	gene	663	iolG			
+HPDPPLNH_00240	CDS	663	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+HPDPPLNH_00241	gene	264				
+HPDPPLNH_00241	CDS	264				hypothetical protein
+HPDPPLNH_00242	gene	174	ilvE_1			
+HPDPPLNH_00242	CDS	174	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HPDPPLNH_00243	gene	123				
+HPDPPLNH_00243	CDS	123				hypothetical protein
+HPDPPLNH_00244	gene	615	ilvE_2			
+HPDPPLNH_00244	CDS	615	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HPDPPLNH_00245	gene	429				
+HPDPPLNH_00245	CDS	429				hypothetical protein
+HPDPPLNH_00246	gene	76				
+HPDPPLNH_00246	tRNA	76				tRNA-Pro(cgg)
+HPDPPLNH_00247	gene	753	fpr			
+HPDPPLNH_00247	CDS	753	fpr	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+HPDPPLNH_00248	gene	162				
+HPDPPLNH_00248	CDS	162				hypothetical protein
+HPDPPLNH_00249	gene	717				
+HPDPPLNH_00249	CDS	717				hypothetical protein
+HPDPPLNH_00250	gene	252				
+HPDPPLNH_00250	CDS	252				hypothetical protein
+HPDPPLNH_00251	gene	288	hemA_1			
+HPDPPLNH_00251	CDS	288	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HPDPPLNH_00252	gene	243	hemA_2			
+HPDPPLNH_00252	CDS	243	hemA_2	1.2.1.70		Glutamyl-tRNA reductase
+HPDPPLNH_00253	gene	108				
+HPDPPLNH_00253	CDS	108				hypothetical protein
+HPDPPLNH_00254	gene	77				
+HPDPPLNH_00254	tRNA	77				tRNA-Ala(ggc)
+HPDPPLNH_00255	gene	381				
+HPDPPLNH_00255	CDS	381				hypothetical protein
+HPDPPLNH_00256	gene	429				
+HPDPPLNH_00256	CDS	429				hypothetical protein
+HPDPPLNH_00257	gene	501	Dml			
+HPDPPLNH_00257	CDS	501	Dml	4.1.3.32		2,3-dimethylmalate lyase
+HPDPPLNH_00258	gene	390	bcpA			
+HPDPPLNH_00258	CDS	390	bcpA	2.7.8.23		Carboxyvinyl-carboxyphosphonate phosphorylmutase
+HPDPPLNH_00259	gene	267				
+HPDPPLNH_00259	CDS	267				hypothetical protein
+HPDPPLNH_00260	gene	645	frdA_1			
+HPDPPLNH_00260	CDS	645	frdA_1	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+HPDPPLNH_00261	gene	1092	frdA_2			
+HPDPPLNH_00261	CDS	1092	frdA_2	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+HPDPPLNH_00262	gene	429				
+HPDPPLNH_00262	CDS	429				hypothetical protein
+HPDPPLNH_00263	gene	357				
+HPDPPLNH_00263	CDS	357				hypothetical protein
+HPDPPLNH_00264	gene	483				
+HPDPPLNH_00264	CDS	483				hypothetical protein
+HPDPPLNH_00265	gene	1716	ftsH			
+HPDPPLNH_00265	CDS	1716	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HPDPPLNH_00266	gene	321				
+HPDPPLNH_00266	CDS	321				hypothetical protein
+HPDPPLNH_00267	gene	1002	ansA			
+HPDPPLNH_00267	CDS	1002	ansA	3.5.1.1	COG0252	L-asparaginase 1
+HPDPPLNH_00268	gene	1887	GATB			
+HPDPPLNH_00268	CDS	1887	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+HPDPPLNH_00269	gene	87				
+HPDPPLNH_00269	tRNA	87				tRNA-Leu(cag)
+HPDPPLNH_00270	gene	192				
+HPDPPLNH_00270	CDS	192				hypothetical protein
+HPDPPLNH_00271	gene	1062	dnaJ			
+HPDPPLNH_00271	CDS	1062	dnaJ		COG0484	Chaperone protein DnaJ
+HPDPPLNH_00272	gene	1605	dnaK			
+HPDPPLNH_00272	CDS	1605	dnaK		COG0443	Chaperone protein DnaK
+HPDPPLNH_00273	gene	297	grpE			
+HPDPPLNH_00273	CDS	297	grpE			Protein GrpE
+HPDPPLNH_00274	gene	99				
+HPDPPLNH_00274	CDS	99				hypothetical protein
+HPDPPLNH_00275	gene	426				
+HPDPPLNH_00275	CDS	426				hypothetical protein
+HPDPPLNH_00276	gene	489				
+HPDPPLNH_00276	CDS	489				hypothetical protein
+HPDPPLNH_00277	gene	1065				
+HPDPPLNH_00277	CDS	1065				hypothetical protein
+HPDPPLNH_00278	gene	73				
+HPDPPLNH_00278	tRNA	73				tRNA-Gln(ttg)
+HPDPPLNH_00279	gene	717				
+HPDPPLNH_00279	CDS	717				hypothetical protein
+HPDPPLNH_00280	gene	645	lnrL			
+HPDPPLNH_00280	CDS	645	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+HPDPPLNH_00281	gene	240	drrA			
+HPDPPLNH_00281	CDS	240	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+HPDPPLNH_00282	gene	1398				
+HPDPPLNH_00282	CDS	1398				hypothetical protein
+HPDPPLNH_00283	gene	717				
+HPDPPLNH_00283	CDS	717				hypothetical protein
+HPDPPLNH_00284	gene	1068				
+HPDPPLNH_00284	CDS	1068				hypothetical protein
+HPDPPLNH_00285	gene	690	dbpA_1			
+HPDPPLNH_00285	CDS	690	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+HPDPPLNH_00286	gene	459	dbpA_2			
+HPDPPLNH_00286	CDS	459	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+HPDPPLNH_00287	gene	120				
+HPDPPLNH_00287	CDS	120				hypothetical protein
+HPDPPLNH_00288	gene	525				
+HPDPPLNH_00288	CDS	525				hypothetical protein
+HPDPPLNH_00289	gene	129				
+HPDPPLNH_00289	CDS	129				hypothetical protein
+HPDPPLNH_00290	gene	228				
+HPDPPLNH_00290	CDS	228				hypothetical protein
+HPDPPLNH_00291	gene	372	metK_1			
+HPDPPLNH_00291	CDS	372	metK_1	2.5.1.6	COG0192	S-adenosylmethionine synthase
+HPDPPLNH_00292	gene	360	metK_2			
+HPDPPLNH_00292	CDS	360	metK_2	2.5.1.6	COG0192	S-adenosylmethionine synthase
+HPDPPLNH_00293	gene	153	metK_3			
+HPDPPLNH_00293	CDS	153	metK_3	2.5.1.6		S-adenosylmethionine synthase
+HPDPPLNH_00294	gene	873	fcl_3			
+HPDPPLNH_00294	CDS	873	fcl_3	1.1.1.271		GDP-L-fucose synthase
+HPDPPLNH_00295	gene	207				
+HPDPPLNH_00295	CDS	207				hypothetical protein
+HPDPPLNH_00296	gene	186	cbiD_1			
+HPDPPLNH_00296	CDS	186	cbiD_1	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+HPDPPLNH_00297	gene	648	cbiD_2			
+HPDPPLNH_00297	CDS	648	cbiD_2	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+HPDPPLNH_00298	gene	1056	cbiG			
+HPDPPLNH_00298	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+HPDPPLNH_00299	gene	117				
+HPDPPLNH_00299	CDS	117				hypothetical protein
+HPDPPLNH_00300	gene	636	cbiX			
+HPDPPLNH_00300	CDS	636	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+HPDPPLNH_00301	gene	156	cbiC_1			
+HPDPPLNH_00301	CDS	156	cbiC_1	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+HPDPPLNH_00302	gene	405	cbiC_2			
+HPDPPLNH_00302	CDS	405	cbiC_2	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+HPDPPLNH_00303	gene	186				
+HPDPPLNH_00303	CDS	186				hypothetical protein
+HPDPPLNH_00304	gene	1356	cbiA			
+HPDPPLNH_00304	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+HPDPPLNH_00305	gene	534	cobO			
+HPDPPLNH_00305	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+HPDPPLNH_00306	gene	291	yugI			
+HPDPPLNH_00306	CDS	291	yugI		COG1098	General stress protein 13
+HPDPPLNH_00307	gene	474				
+HPDPPLNH_00307	CDS	474				hypothetical protein
+HPDPPLNH_00308	gene	156				
+HPDPPLNH_00308	CDS	156				hypothetical protein
+HPDPPLNH_00309	gene	537				
+HPDPPLNH_00309	CDS	537				hypothetical protein
+HPDPPLNH_00310	gene	309				
+HPDPPLNH_00310	CDS	309				hypothetical protein
+HPDPPLNH_00311	gene	1266	tuf			
+HPDPPLNH_00311	CDS	1266	tuf			Elongation factor Tu
+HPDPPLNH_00312	gene	540				
+HPDPPLNH_00312	CDS	540				hypothetical protein
+HPDPPLNH_00313	gene	174				
+HPDPPLNH_00313	CDS	174				hypothetical protein
+HPDPPLNH_00314	gene	74				
+HPDPPLNH_00314	tRNA	74				tRNA-Gly(ccc)
+HPDPPLNH_00315	gene	138				
+HPDPPLNH_00315	CDS	138				hypothetical protein
+HPDPPLNH_00316	gene	543	trpG			
+HPDPPLNH_00316	CDS	543	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+HPDPPLNH_00317	gene	318				
+HPDPPLNH_00317	CDS	318				hypothetical protein
+HPDPPLNH_00318	gene	108				
+HPDPPLNH_00318	CDS	108				hypothetical protein
+HPDPPLNH_00319	gene	255				
+HPDPPLNH_00319	CDS	255				hypothetical protein
+HPDPPLNH_00320	gene	120				
+HPDPPLNH_00320	CDS	120				hypothetical protein
+HPDPPLNH_00321	gene	156				
+HPDPPLNH_00321	CDS	156				hypothetical protein
+HPDPPLNH_00322	gene	93				
+HPDPPLNH_00322	CDS	93				hypothetical protein
+HPDPPLNH_00323	gene	438	rplN			
+HPDPPLNH_00323	CDS	438	rplN		COG0093	50S ribosomal protein L14
+HPDPPLNH_00324	gene	519				
+HPDPPLNH_00324	CDS	519				hypothetical protein
+HPDPPLNH_00325	gene	168				
+HPDPPLNH_00325	CDS	168				hypothetical protein
+HPDPPLNH_00326	gene	183				
+HPDPPLNH_00326	CDS	183				hypothetical protein
+HPDPPLNH_00327	gene	192				
+HPDPPLNH_00327	CDS	192				hypothetical protein
+HPDPPLNH_00328	gene	198				
+HPDPPLNH_00328	CDS	198				hypothetical protein
+HPDPPLNH_00329	gene	393	rpsH			
+HPDPPLNH_00329	CDS	393	rpsH			30S ribosomal protein S8
+HPDPPLNH_00330	gene	558				
+HPDPPLNH_00330	CDS	558				hypothetical protein
+HPDPPLNH_00331	gene	76				
+HPDPPLNH_00331	tRNA	76				tRNA-Asn(gtt)
+HPDPPLNH_00332	gene	255				
+HPDPPLNH_00332	CDS	255				hypothetical protein
+HPDPPLNH_00333	gene	219				
+HPDPPLNH_00333	CDS	219				hypothetical protein
+HPDPPLNH_00334	gene	309				
+HPDPPLNH_00334	CDS	309				hypothetical protein
+HPDPPLNH_00335	gene	408				
+HPDPPLNH_00335	CDS	408				hypothetical protein
+HPDPPLNH_00336	gene	417				
+HPDPPLNH_00336	CDS	417				hypothetical protein
+HPDPPLNH_00337	gene	540				
+HPDPPLNH_00337	CDS	540				hypothetical protein
+HPDPPLNH_00338	gene	825	purC			
+HPDPPLNH_00338	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HPDPPLNH_00339	gene	420				
+HPDPPLNH_00339	CDS	420				hypothetical protein
+HPDPPLNH_00340	gene	378				
+HPDPPLNH_00340	CDS	378				hypothetical protein
+HPDPPLNH_00341	gene	159				
+HPDPPLNH_00341	CDS	159				hypothetical protein
+HPDPPLNH_00342	gene	246				
+HPDPPLNH_00342	CDS	246				hypothetical protein
+HPDPPLNH_00343	gene	1212	purF_1			
+HPDPPLNH_00343	CDS	1212	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HPDPPLNH_00344	gene	180	purF_2			
+HPDPPLNH_00344	CDS	180	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+HPDPPLNH_00345	gene	756	purL_1			
+HPDPPLNH_00345	CDS	756	purL_1	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+HPDPPLNH_00346	gene	987	purL_2			
+HPDPPLNH_00346	CDS	987	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+HPDPPLNH_00347	gene	195	purQ_1			
+HPDPPLNH_00347	CDS	195	purQ_1	3.5.1.2		Phosphoribosylformylglycinamidine synthase subunit PurQ
+HPDPPLNH_00348	gene	450	purQ_2			
+HPDPPLNH_00348	CDS	450	purQ_2	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+HPDPPLNH_00349	gene	459	frdB			
+HPDPPLNH_00349	CDS	459	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+HPDPPLNH_00350	gene	402				
+HPDPPLNH_00350	CDS	402				hypothetical protein
+HPDPPLNH_00351	gene	189	argH_1			
+HPDPPLNH_00351	CDS	189	argH_1	4.3.2.1		Argininosuccinate lyase
+HPDPPLNH_00352	gene	1173	argH_2			
+HPDPPLNH_00352	CDS	1173	argH_2	4.3.2.1	COG0165	Argininosuccinate lyase
+HPDPPLNH_00353	gene	669	bluB			
+HPDPPLNH_00353	CDS	669	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+HPDPPLNH_00354	gene	75				
+HPDPPLNH_00354	tRNA	75				tRNA-Lys(ctt)
+HPDPPLNH_00355	gene	648				
+HPDPPLNH_00355	CDS	648				hypothetical protein
+HPDPPLNH_00356	gene	543				
+HPDPPLNH_00356	CDS	543				hypothetical protein
+HPDPPLNH_00357	gene	444	ctaA			
+HPDPPLNH_00357	CDS	444	ctaA	1.3.-.-		Heme A synthase
+HPDPPLNH_00358	gene	564				
+HPDPPLNH_00358	CDS	564				hypothetical protein
+HPDPPLNH_00359	gene	1542	ctaD			
+HPDPPLNH_00359	CDS	1542	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+HPDPPLNH_00360	gene	423	coxM			
+HPDPPLNH_00360	CDS	423	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+HPDPPLNH_00361	gene	261				
+HPDPPLNH_00361	CDS	261				hypothetical protein
+HPDPPLNH_00362	gene	618	pspA			
+HPDPPLNH_00362	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+HPDPPLNH_00363	gene	399				
+HPDPPLNH_00363	CDS	399				hypothetical protein
+HPDPPLNH_00364	gene	237				
+HPDPPLNH_00364	CDS	237				hypothetical protein
+HPDPPLNH_00365	gene	255	alaA			
+HPDPPLNH_00365	CDS	255	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+HPDPPLNH_00366	gene	924	aspC			
+HPDPPLNH_00366	CDS	924	aspC	2.6.1.1	COG0436	putative aspartate aminotransferase
+HPDPPLNH_00367	gene	75				
+HPDPPLNH_00367	tRNA	75				tRNA-Arg(tcg)
+HPDPPLNH_00368	gene	240				
+HPDPPLNH_00368	CDS	240				hypothetical protein
+HPDPPLNH_00369	gene	642				
+HPDPPLNH_00369	CDS	642				hypothetical protein
+HPDPPLNH_00370	gene	585	mtnA			
+HPDPPLNH_00370	CDS	585	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HPDPPLNH_00371	gene	99				
+HPDPPLNH_00371	CDS	99				hypothetical protein
+HPDPPLNH_00372	gene	180				
+HPDPPLNH_00372	CDS	180				hypothetical protein
+HPDPPLNH_00373	gene	861	aroA			
+HPDPPLNH_00373	CDS	861	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HPDPPLNH_00374	gene	105				
+HPDPPLNH_00374	CDS	105				hypothetical protein
+HPDPPLNH_00375	gene	645	aroC_1			
+HPDPPLNH_00375	CDS	645	aroC_1	4.2.3.5		Chorismate synthase
+HPDPPLNH_00376	gene	474	aroC_2			
+HPDPPLNH_00376	CDS	474	aroC_2	4.2.3.5	COG0082	Chorismate synthase
+HPDPPLNH_00377	gene	1380	dapL			
+HPDPPLNH_00377	CDS	1380	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+HPDPPLNH_00378	gene	855				
+HPDPPLNH_00378	CDS	855				hypothetical protein
+HPDPPLNH_00379	gene	408				
+HPDPPLNH_00379	CDS	408				hypothetical protein
+HPDPPLNH_00380	gene	1359	bzaF			
+HPDPPLNH_00380	CDS	1359	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+HPDPPLNH_00381	gene	885	pdxK			
+HPDPPLNH_00381	CDS	885	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+HPDPPLNH_00382	gene	303				
+HPDPPLNH_00382	CDS	303				hypothetical protein
+HPDPPLNH_00383	gene	174	rfbF			
+HPDPPLNH_00383	CDS	174	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+HPDPPLNH_00384	gene	543	cugP			
+HPDPPLNH_00384	CDS	543	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HPDPPLNH_00385	gene	438				
+HPDPPLNH_00385	CDS	438				hypothetical protein
+HPDPPLNH_00386	gene	195				
+HPDPPLNH_00386	CDS	195				hypothetical protein
+HPDPPLNH_00387	gene	621	hemA_3			
+HPDPPLNH_00387	CDS	621	hemA_3	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HPDPPLNH_00388	gene	693	hemA_4			
+HPDPPLNH_00388	CDS	693	hemA_4	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HPDPPLNH_00389	gene	510	cysG			
+HPDPPLNH_00389	CDS	510	cysG	4.99.1.4		Siroheme synthase
+HPDPPLNH_00390	gene	264				
+HPDPPLNH_00390	CDS	264				hypothetical protein
+HPDPPLNH_00391	gene	783	dpnA			
+HPDPPLNH_00391	CDS	783	dpnA	2.1.1.72		Modification methylase DpnIIB
+HPDPPLNH_00392	gene	195				
+HPDPPLNH_00392	CDS	195				hypothetical protein
+HPDPPLNH_00393	gene	303	fabG			
+HPDPPLNH_00393	CDS	303	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HPDPPLNH_00394	gene	612				
+HPDPPLNH_00394	CDS	612				hypothetical protein
+HPDPPLNH_00395	gene	321				
+HPDPPLNH_00395	CDS	321				hypothetical protein
+HPDPPLNH_00396	gene	1371				
+HPDPPLNH_00396	CDS	1371				hypothetical protein
+HPDPPLNH_00397	gene	288				
+HPDPPLNH_00397	CDS	288				hypothetical protein
+HPDPPLNH_00398	gene	1191				
+HPDPPLNH_00398	CDS	1191				hypothetical protein
+HPDPPLNH_00399	gene	828				
+HPDPPLNH_00399	CDS	828				hypothetical protein
+HPDPPLNH_00400	gene	174				
+HPDPPLNH_00400	CDS	174				hypothetical protein
+HPDPPLNH_00401	gene	162				
+HPDPPLNH_00401	CDS	162				hypothetical protein
+HPDPPLNH_00402	gene	85				
+HPDPPLNH_00402	tRNA	85				tRNA-Ser(gct)
+HPDPPLNH_00403	gene	744	cpdA			
+HPDPPLNH_00403	CDS	744	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HPDPPLNH_00404	gene	1035	hicd			
+HPDPPLNH_00404	CDS	1035	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+HPDPPLNH_00405	gene	267				
+HPDPPLNH_00405	CDS	267				hypothetical protein
+HPDPPLNH_00406	gene	246				
+HPDPPLNH_00406	CDS	246				hypothetical protein
+HPDPPLNH_00407	gene	702	rsmA			
+HPDPPLNH_00407	CDS	702	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+HPDPPLNH_00408	gene	567				
+HPDPPLNH_00408	CDS	567				hypothetical protein
+HPDPPLNH_00409	gene	327				
+HPDPPLNH_00409	CDS	327				hypothetical protein
+HPDPPLNH_00410	gene	171				
+HPDPPLNH_00410	CDS	171				hypothetical protein
+HPDPPLNH_00411	gene	216				
+HPDPPLNH_00411	CDS	216				hypothetical protein
+HPDPPLNH_00412	gene	279				
+HPDPPLNH_00412	CDS	279				hypothetical protein
+HPDPPLNH_00413	gene	714				
+HPDPPLNH_00413	CDS	714				hypothetical protein
+HPDPPLNH_00414	gene	1278				
+HPDPPLNH_00414	CDS	1278				hypothetical protein
+HPDPPLNH_00415	gene	291	pyrI_1			
+HPDPPLNH_00415	CDS	291	pyrI_1		COG1781	Aspartate carbamoyltransferase regulatory chain
+HPDPPLNH_00416	gene	174	pyrI_2			
+HPDPPLNH_00416	CDS	174	pyrI_2			Aspartate carbamoyltransferase regulatory chain
+HPDPPLNH_00417	gene	930	pyrB			
+HPDPPLNH_00417	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HPDPPLNH_00418	gene	765				
+HPDPPLNH_00418	CDS	765				hypothetical protein
+HPDPPLNH_00419	gene	228				
+HPDPPLNH_00419	CDS	228				hypothetical protein
+HPDPPLNH_00420	gene	1101				
+HPDPPLNH_00420	CDS	1101				hypothetical protein
+HPDPPLNH_00421	gene	492				
+HPDPPLNH_00421	CDS	492				hypothetical protein
+HPDPPLNH_00422	gene	672				
+HPDPPLNH_00422	CDS	672				hypothetical protein
+HPDPPLNH_00423	gene	498	ppm1			
+HPDPPLNH_00423	CDS	498	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+HPDPPLNH_00424	gene	561				
+HPDPPLNH_00424	CDS	561				hypothetical protein
+HPDPPLNH_00425	gene	657				
+HPDPPLNH_00425	CDS	657				hypothetical protein
+HPDPPLNH_00426	gene	369				
+HPDPPLNH_00426	CDS	369				hypothetical protein
+HPDPPLNH_00427	gene	300				
+HPDPPLNH_00427	CDS	300				hypothetical protein
+HPDPPLNH_00428	gene	321	glmM_1			
+HPDPPLNH_00428	CDS	321	glmM_1			Phosphoglucosamine mutase
+HPDPPLNH_00429	gene	420	glmM_2			
+HPDPPLNH_00429	CDS	420	glmM_2			Phosphoglucosamine mutase
+HPDPPLNH_00430	gene	258				
+HPDPPLNH_00430	CDS	258				hypothetical protein
+HPDPPLNH_00431	gene	171				
+HPDPPLNH_00431	CDS	171				hypothetical protein
+HPDPPLNH_00432	gene	204				
+HPDPPLNH_00432	CDS	204				hypothetical protein
+HPDPPLNH_00433	gene	399	ndk			
+HPDPPLNH_00433	CDS	399	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+HPDPPLNH_00434	gene	696	infB_1			
+HPDPPLNH_00434	CDS	696	infB_1			Translation initiation factor IF-2
+HPDPPLNH_00435	gene	258	infB_2			
+HPDPPLNH_00435	CDS	258	infB_2			Translation initiation factor IF-2
+HPDPPLNH_00436	gene	450	infB_3			
+HPDPPLNH_00436	CDS	450	infB_3			Translation initiation factor IF-2
+HPDPPLNH_00437	gene	141				
+HPDPPLNH_00437	CDS	141				hypothetical protein
+HPDPPLNH_00438	gene	417				
+HPDPPLNH_00438	CDS	417				Protein archease
+HPDPPLNH_00439	gene	324	hisZ			
+HPDPPLNH_00439	CDS	324	hisZ			ATP phosphoribosyltransferase regulatory subunit
+HPDPPLNH_00440	gene	843	hisS			
+HPDPPLNH_00440	CDS	843	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HPDPPLNH_00441	gene	666				
+HPDPPLNH_00441	CDS	666				hypothetical protein
+HPDPPLNH_00442	gene	558				
+HPDPPLNH_00442	CDS	558				hypothetical protein
+HPDPPLNH_00443	gene	768				
+HPDPPLNH_00443	CDS	768				hypothetical protein
+HPDPPLNH_00444	gene	663	lpxD			
+HPDPPLNH_00444	CDS	663	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+HPDPPLNH_00445	gene	86				
+HPDPPLNH_00445	tRNA	86				tRNA-Ser(tga)
+HPDPPLNH_00446	gene	609				
+HPDPPLNH_00446	CDS	609				hypothetical protein
+HPDPPLNH_00447	gene	150				
+HPDPPLNH_00447	CDS	150				hypothetical protein
+HPDPPLNH_00448	gene	201				
+HPDPPLNH_00448	CDS	201				hypothetical protein
+HPDPPLNH_00449	gene	705				
+HPDPPLNH_00449	CDS	705				hypothetical protein
+HPDPPLNH_00450	gene	147				
+HPDPPLNH_00450	CDS	147				hypothetical protein
+HPDPPLNH_00451	gene	204				
+HPDPPLNH_00451	CDS	204				hypothetical protein
+HPDPPLNH_00452	gene	276				
+HPDPPLNH_00452	CDS	276				hypothetical protein
+HPDPPLNH_00453	gene	183				
+HPDPPLNH_00453	CDS	183				hypothetical protein
+HPDPPLNH_00454	gene	519				
+HPDPPLNH_00454	CDS	519		2.7.7.-	COG1213	CTP:phosphoglutamine cytidylyltransferase
+HPDPPLNH_00455	gene	231				
+HPDPPLNH_00455	CDS	231				hypothetical protein
+HPDPPLNH_00456	gene	234				
+HPDPPLNH_00456	CDS	234				hypothetical protein
+HPDPPLNH_00457	gene	312				
+HPDPPLNH_00457	CDS	312				hypothetical protein
+HPDPPLNH_00458	gene	456				
+HPDPPLNH_00458	CDS	456				hypothetical protein
+HPDPPLNH_00459	gene	1518				
+HPDPPLNH_00459	CDS	1518				hypothetical protein
+HPDPPLNH_00460	gene	552				
+HPDPPLNH_00460	CDS	552				hypothetical protein
+HPDPPLNH_00461	gene	465				
+HPDPPLNH_00461	CDS	465				hypothetical protein
+HPDPPLNH_00462	gene	414				
+HPDPPLNH_00462	CDS	414				hypothetical protein
+HPDPPLNH_00463	gene	702	lysK_1			
+HPDPPLNH_00463	CDS	702	lysK_1	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+HPDPPLNH_00464	gene	201	lysK_2			
+HPDPPLNH_00464	CDS	201	lysK_2	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+HPDPPLNH_00465	gene	1038				
+HPDPPLNH_00465	CDS	1038				hypothetical protein
+HPDPPLNH_00466	gene	417	hldE			
+HPDPPLNH_00466	CDS	417	hldE	2.7.7.70		Bifunctional protein HldE
+HPDPPLNH_00467	gene	678				
+HPDPPLNH_00467	CDS	678				hypothetical protein
+HPDPPLNH_00468	gene	1143				
+HPDPPLNH_00468	CDS	1143				hypothetical protein
+HPDPPLNH_00469	gene	465	erpA			
+HPDPPLNH_00469	CDS	465	erpA			Iron-sulfur cluster insertion protein ErpA
+HPDPPLNH_00470	gene	762	crt			
+HPDPPLNH_00470	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+HPDPPLNH_00471	gene	660				
+HPDPPLNH_00471	CDS	660				hypothetical protein
+HPDPPLNH_00472	gene	783	patZ			
+HPDPPLNH_00472	CDS	783	patZ	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase PatZ
+HPDPPLNH_00473	gene	648	galT			
+HPDPPLNH_00473	CDS	648	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+HPDPPLNH_00474	gene	312				
+HPDPPLNH_00474	CDS	312				hypothetical protein
+HPDPPLNH_00475	gene	696	apgM_1			
+HPDPPLNH_00475	CDS	696	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HPDPPLNH_00476	gene	540	apgM_2			
+HPDPPLNH_00476	CDS	540	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HPDPPLNH_00477	gene	468				
+HPDPPLNH_00477	CDS	468				hypothetical protein
+HPDPPLNH_00478	gene	168				
+HPDPPLNH_00478	CDS	168				hypothetical protein
+HPDPPLNH_00479	gene	231				
+HPDPPLNH_00479	CDS	231				hypothetical protein
+HPDPPLNH_00480	gene	171				
+HPDPPLNH_00480	CDS	171				hypothetical protein
+HPDPPLNH_00481	gene	234				
+HPDPPLNH_00481	CDS	234				hypothetical protein
+HPDPPLNH_00482	gene	531				
+HPDPPLNH_00482	CDS	531				hypothetical protein
+HPDPPLNH_00483	gene	672				
+HPDPPLNH_00483	CDS	672				hypothetical protein
+HPDPPLNH_00484	gene	375				
+HPDPPLNH_00484	CDS	375				hypothetical protein
+HPDPPLNH_00485	gene	771	ffh_1			
+HPDPPLNH_00485	CDS	771	ffh_1		COG0541	Signal recognition particle protein
+HPDPPLNH_00486	gene	159	srp54			
+HPDPPLNH_00486	CDS	159	srp54			Signal recognition particle 54 kDa protein
+HPDPPLNH_00487	gene	75				
+HPDPPLNH_00487	tRNA	75				tRNA-Ala(cgc)
+HPDPPLNH_00488	gene	360				
+HPDPPLNH_00488	CDS	360				hypothetical protein
+HPDPPLNH_00489	gene	531				
+HPDPPLNH_00489	CDS	531				hypothetical protein
+HPDPPLNH_00490	gene	333	trxA			
+HPDPPLNH_00490	CDS	333	trxA			Thioredoxin 1
+HPDPPLNH_00491	gene	795				
+HPDPPLNH_00491	CDS	795				hypothetical protein
+HPDPPLNH_00492	gene	741				
+HPDPPLNH_00492	CDS	741				hypothetical protein
+HPDPPLNH_00493	gene	1527	abfD			
+HPDPPLNH_00493	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+HPDPPLNH_00494	gene	936				
+HPDPPLNH_00494	CDS	936				hypothetical protein
+HPDPPLNH_00495	gene	249	egtB_1			
+HPDPPLNH_00495	CDS	249	egtB_1	1.14.99.50		Hercynine oxygenase
+HPDPPLNH_00496	gene	219	egtB_2			
+HPDPPLNH_00496	CDS	219	egtB_2	1.14.99.50		Hercynine oxygenase
+HPDPPLNH_00497	gene	396	egtD_1			
+HPDPPLNH_00497	CDS	396	egtD_1	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+HPDPPLNH_00498	gene	219	egtD_2			
+HPDPPLNH_00498	CDS	219	egtD_2	2.1.1.44		Histidine N-alpha-methyltransferase
+HPDPPLNH_00499	gene	201				
+HPDPPLNH_00499	CDS	201				hypothetical protein
+HPDPPLNH_00500	gene	159				
+HPDPPLNH_00500	CDS	159				hypothetical protein
+HPDPPLNH_00501	gene	567	dppD			
+HPDPPLNH_00501	CDS	567	dppD		COG0444	Dipeptide transport ATP-binding protein DppD
+HPDPPLNH_00502	gene	774				
+HPDPPLNH_00502	CDS	774				hypothetical protein
+HPDPPLNH_00503	gene	684				
+HPDPPLNH_00503	CDS	684				hypothetical protein
+HPDPPLNH_00504	gene	1398				
+HPDPPLNH_00504	CDS	1398				hypothetical protein
+HPDPPLNH_00505	gene	1470	pckA			
+HPDPPLNH_00505	CDS	1470	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+HPDPPLNH_00506	gene	168				
+HPDPPLNH_00506	CDS	168				hypothetical protein
+HPDPPLNH_00507	gene	630				
+HPDPPLNH_00507	CDS	630				hypothetical protein
+HPDPPLNH_00508	gene	594				
+HPDPPLNH_00508	CDS	594				hypothetical protein
+HPDPPLNH_00509	gene	165				
+HPDPPLNH_00509	CDS	165				hypothetical protein
+HPDPPLNH_00510	gene	510				
+HPDPPLNH_00510	CDS	510				hypothetical protein
+HPDPPLNH_00511	gene	114	sodA_1			
+HPDPPLNH_00511	CDS	114	sodA_1	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+HPDPPLNH_00512	gene	348	sodA_2			
+HPDPPLNH_00512	CDS	348	sodA_2	1.15.1.1		Superoxide dismutase [Mn]
+HPDPPLNH_00513	gene	225	pfdA			
+HPDPPLNH_00513	CDS	225	pfdA			Prefoldin subunit alpha
+HPDPPLNH_00514	gene	408	ffh_2			
+HPDPPLNH_00514	CDS	408	ffh_2		COG0541	Signal recognition particle protein
+HPDPPLNH_00515	gene	105				
+HPDPPLNH_00515	CDS	105				hypothetical protein
+HPDPPLNH_00516	gene	480				
+HPDPPLNH_00516	CDS	480		2.4.1.336		Beta-monoglucosyldiacylglycerol synthase
+HPDPPLNH_00517	gene	957				
+HPDPPLNH_00517	CDS	957				hypothetical protein
+HPDPPLNH_00518	gene	183				
+HPDPPLNH_00518	CDS	183				hypothetical protein
+HPDPPLNH_00519	gene	663	NADK			
+HPDPPLNH_00519	CDS	663	NADK	2.7.1.23	COG0061	NAD kinase
+HPDPPLNH_00520	gene	480				
+HPDPPLNH_00520	CDS	480				hypothetical protein
+HPDPPLNH_00521	gene	522				
+HPDPPLNH_00521	CDS	522				hypothetical protein
+HPDPPLNH_00522	gene	378				
+HPDPPLNH_00522	CDS	378				hypothetical protein
+HPDPPLNH_00523	gene	129				
+HPDPPLNH_00523	CDS	129				hypothetical protein
+HPDPPLNH_00524	gene	99				
+HPDPPLNH_00524	CDS	99				hypothetical protein
+HPDPPLNH_00525	gene	585	tatC			
+HPDPPLNH_00525	CDS	585	tatC		COG0805	Sec-independent protein translocase protein TatC
+HPDPPLNH_00526	gene	186	tatA			
+HPDPPLNH_00526	CDS	186	tatA			Sec-independent protein translocase protein TatA
+HPDPPLNH_00527	gene	570	ecdB			
+HPDPPLNH_00527	CDS	570	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+HPDPPLNH_00528	gene	168				
+HPDPPLNH_00528	CDS	168				hypothetical protein
+HPDPPLNH_00529	gene	255				
+HPDPPLNH_00529	CDS	255				hypothetical protein
+HPDPPLNH_00530	gene	222				
+HPDPPLNH_00530	CDS	222				hypothetical protein
+HPDPPLNH_00531	gene	582				
+HPDPPLNH_00531	CDS	582				hypothetical protein
+HPDPPLNH_00532	gene	468				
+HPDPPLNH_00532	CDS	468				hypothetical protein
+HPDPPLNH_00533	gene	648				
+HPDPPLNH_00533	CDS	648				hypothetical protein
+HPDPPLNH_00534	gene	258				
+HPDPPLNH_00534	CDS	258				hypothetical protein
+HPDPPLNH_00535	gene	351				
+HPDPPLNH_00535	CDS	351				hypothetical protein
+HPDPPLNH_00536	gene	612				
+HPDPPLNH_00536	CDS	612				hypothetical protein
+HPDPPLNH_00537	gene	282				
+HPDPPLNH_00537	CDS	282				hypothetical protein
+HPDPPLNH_00538	gene	216				
+HPDPPLNH_00538	CDS	216				hypothetical protein
+HPDPPLNH_00539	gene	699	moaA_2			
+HPDPPLNH_00539	CDS	699	moaA_2			GTP 3',8-cyclase
+HPDPPLNH_00540	gene	237				
+HPDPPLNH_00540	CDS	237				hypothetical protein
+HPDPPLNH_00541	gene	684	neuA			
+HPDPPLNH_00541	CDS	684	neuA	2.7.7.43	COG1083	N-acylneuraminate cytidylyltransferase
+HPDPPLNH_00542	gene	987	gmd_2			
+HPDPPLNH_00542	CDS	987	gmd_2	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+HPDPPLNH_00543	gene	822				
+HPDPPLNH_00543	CDS	822				hypothetical protein
+HPDPPLNH_00544	gene	210				
+HPDPPLNH_00544	CDS	210				hypothetical protein
+HPDPPLNH_00545	gene	126				
+HPDPPLNH_00545	CDS	126				hypothetical protein
+HPDPPLNH_00546	gene	441				
+HPDPPLNH_00546	CDS	441				hypothetical protein
+HPDPPLNH_00547	gene	252				
+HPDPPLNH_00547	CDS	252				hypothetical protein
+HPDPPLNH_00548	gene	1122				
+HPDPPLNH_00548	CDS	1122				hypothetical protein
+HPDPPLNH_00549	gene	1749				
+HPDPPLNH_00549	CDS	1749				hypothetical protein
+HPDPPLNH_00550	gene	255				
+HPDPPLNH_00550	CDS	255				hypothetical protein
+HPDPPLNH_00551	gene	195				
+HPDPPLNH_00551	CDS	195				hypothetical protein
+HPDPPLNH_00552	gene	276				
+HPDPPLNH_00552	CDS	276		3.5.2.-		D-hydantoinase
+HPDPPLNH_00553	gene	675	rpiA			
+HPDPPLNH_00553	CDS	675	rpiA	5.3.1.6		Ribose-5-phosphate isomerase A
+HPDPPLNH_00554	gene	468				
+HPDPPLNH_00554	CDS	468				hypothetical protein
+HPDPPLNH_00555	gene	405				
+HPDPPLNH_00555	CDS	405				hypothetical protein
+HPDPPLNH_00556	gene	189				
+HPDPPLNH_00556	CDS	189				hypothetical protein
+HPDPPLNH_00557	gene	231				
+HPDPPLNH_00557	CDS	231				hypothetical protein
+HPDPPLNH_00558	gene	603				
+HPDPPLNH_00558	CDS	603				hypothetical protein
+HPDPPLNH_00559	gene	369	purU			
+HPDPPLNH_00559	CDS	369	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+HPDPPLNH_00560	gene	303				
+HPDPPLNH_00560	CDS	303				hypothetical protein
+HPDPPLNH_00561	gene	88				
+HPDPPLNH_00561	tRNA	88				tRNA-Leu(tag)
+HPDPPLNH_00562	gene	273				
+HPDPPLNH_00562	CDS	273				hypothetical protein
+HPDPPLNH_00563	gene	642	cbiL			
+HPDPPLNH_00563	CDS	642	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+HPDPPLNH_00564	gene	468	cbiF_1			
+HPDPPLNH_00564	CDS	468	cbiF_1	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+HPDPPLNH_00565	gene	336	cbiF_2			
+HPDPPLNH_00565	CDS	336	cbiF_2	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+HPDPPLNH_00566	gene	438				
+HPDPPLNH_00566	CDS	438				hypothetical protein
+HPDPPLNH_00567	gene	678				
+HPDPPLNH_00567	CDS	678				hypothetical protein
+HPDPPLNH_00568	gene	438	glyQS			
+HPDPPLNH_00568	CDS	438	glyQS	6.1.1.14		Glycine--tRNA ligase
+HPDPPLNH_00569	gene	342				
+HPDPPLNH_00569	CDS	342				hypothetical protein
+HPDPPLNH_00570	gene	138				
+HPDPPLNH_00570	CDS	138				hypothetical protein
+HPDPPLNH_00571	gene	702				
+HPDPPLNH_00571	CDS	702				hypothetical protein
+HPDPPLNH_00572	gene	168				
+HPDPPLNH_00572	CDS	168				hypothetical protein
+HPDPPLNH_00573	gene	396				
+HPDPPLNH_00573	CDS	396				hypothetical protein
+HPDPPLNH_00574	gene	360	acpS			
+HPDPPLNH_00574	CDS	360	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+HPDPPLNH_00575	gene	279				
+HPDPPLNH_00575	CDS	279				hypothetical protein
+HPDPPLNH_00576	gene	186				
+HPDPPLNH_00576	CDS	186				hypothetical protein
+HPDPPLNH_00577	gene	249				
+HPDPPLNH_00577	CDS	249				hypothetical protein
+HPDPPLNH_00578	gene	90				
+HPDPPLNH_00578	CDS	90				hypothetical protein
+HPDPPLNH_00579	gene	417				
+HPDPPLNH_00579	CDS	417				hypothetical protein
+HPDPPLNH_00580	gene	645	argD			
+HPDPPLNH_00580	CDS	645	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+HPDPPLNH_00581	gene	417	lrpC			
+HPDPPLNH_00581	CDS	417	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+HPDPPLNH_00582	gene	1188	leuA			
+HPDPPLNH_00582	CDS	1188	leuA	2.3.3.13		2-isopropylmalate synthase
+HPDPPLNH_00583	gene	168				
+HPDPPLNH_00583	CDS	168				hypothetical protein
+HPDPPLNH_00584	gene	225				
+HPDPPLNH_00584	CDS	225				hypothetical protein
+HPDPPLNH_00585	gene	438	lysX			
+HPDPPLNH_00585	CDS	438	lysX	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HPDPPLNH_00586	gene	198				
+HPDPPLNH_00586	CDS	198				hypothetical protein
+HPDPPLNH_00587	gene	432				
+HPDPPLNH_00587	CDS	432				hypothetical protein
+HPDPPLNH_00588	gene	135				
+HPDPPLNH_00588	CDS	135				hypothetical protein
+HPDPPLNH_00589	gene	432				
+HPDPPLNH_00589	CDS	432				hypothetical protein
+HPDPPLNH_00590	gene	189				
+HPDPPLNH_00590	CDS	189				hypothetical protein
+HPDPPLNH_00591	gene	1728				
+HPDPPLNH_00591	CDS	1728				hypothetical protein
+HPDPPLNH_00592	gene	156				
+HPDPPLNH_00592	CDS	156				hypothetical protein
+HPDPPLNH_00593	gene	315				
+HPDPPLNH_00593	CDS	315				hypothetical protein
+HPDPPLNH_00594	gene	900				
+HPDPPLNH_00594	CDS	900				hypothetical protein
+HPDPPLNH_00595	gene	987				
+HPDPPLNH_00595	CDS	987				hypothetical protein
+HPDPPLNH_00596	gene	450				
+HPDPPLNH_00596	CDS	450				hypothetical protein
+HPDPPLNH_00597	gene	588				
+HPDPPLNH_00597	CDS	588				hypothetical protein
+HPDPPLNH_00598	gene	231				
+HPDPPLNH_00598	CDS	231				hypothetical protein
+HPDPPLNH_00599	gene	153				
+HPDPPLNH_00599	CDS	153				hypothetical protein
+HPDPPLNH_00600	gene	726				
+HPDPPLNH_00600	CDS	726				hypothetical protein
+HPDPPLNH_00601	gene	621				
+HPDPPLNH_00601	CDS	621				hypothetical protein
+HPDPPLNH_00602	gene	192				
+HPDPPLNH_00602	CDS	192				hypothetical protein
+HPDPPLNH_00603	gene	303	smc			
+HPDPPLNH_00603	CDS	303	smc			Chromosome partition protein Smc
+HPDPPLNH_00604	gene	528				
+HPDPPLNH_00604	CDS	528				hypothetical protein
+HPDPPLNH_00605	gene	207				
+HPDPPLNH_00605	CDS	207				hypothetical protein
+HPDPPLNH_00606	gene	270				
+HPDPPLNH_00606	CDS	270				hypothetical protein
+HPDPPLNH_00607	gene	279	acyP			
+HPDPPLNH_00607	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+HPDPPLNH_00608	gene	312				
+HPDPPLNH_00608	misc_RNA	312				Archaea_SRP
+HPDPPLNH_00609	gene	783	ttuA			
+HPDPPLNH_00609	CDS	783	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+HPDPPLNH_00610	gene	411				
+HPDPPLNH_00610	CDS	411				hypothetical protein
+HPDPPLNH_00611	gene	879				
+HPDPPLNH_00611	CDS	879				hypothetical protein
+HPDPPLNH_00612	gene	189				
+HPDPPLNH_00612	CDS	189				hypothetical protein
+HPDPPLNH_00613	gene	993	arnC			
+HPDPPLNH_00613	CDS	993	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HPDPPLNH_00614	gene	300				
+HPDPPLNH_00614	CDS	300				hypothetical protein
+HPDPPLNH_00615	gene	165	proS_1			
+HPDPPLNH_00615	CDS	165	proS_1	6.1.1.15	COG0442	Proline--tRNA ligase
+HPDPPLNH_00616	gene	270	proS_2			
+HPDPPLNH_00616	CDS	270	proS_2	6.1.1.15	COG0442	Proline--tRNA ligase
+HPDPPLNH_00617	gene	216				
+HPDPPLNH_00617	CDS	216				hypothetical protein
+HPDPPLNH_00618	gene	303				
+HPDPPLNH_00618	CDS	303				hypothetical protein
+HPDPPLNH_00619	gene	126				
+HPDPPLNH_00619	CDS	126				hypothetical protein
+HPDPPLNH_00620	gene	282				
+HPDPPLNH_00620	CDS	282				hypothetical protein
+HPDPPLNH_00621	gene	162				
+HPDPPLNH_00621	CDS	162				hypothetical protein
+HPDPPLNH_00622	gene	363				
+HPDPPLNH_00622	CDS	363				hypothetical protein
+HPDPPLNH_00623	gene	159				
+HPDPPLNH_00623	CDS	159				hypothetical protein
+HPDPPLNH_00624	gene	114				
+HPDPPLNH_00624	CDS	114				hypothetical protein
+HPDPPLNH_00625	gene	144				
+HPDPPLNH_00625	CDS	144				hypothetical protein
+HPDPPLNH_00626	gene	279				
+HPDPPLNH_00626	CDS	279				hypothetical protein
+HPDPPLNH_00627	gene	351				
+HPDPPLNH_00627	CDS	351				hypothetical protein
+HPDPPLNH_00628	gene	450				
+HPDPPLNH_00628	CDS	450				hypothetical protein
+HPDPPLNH_00629	gene	333				
+HPDPPLNH_00629	CDS	333				hypothetical protein
+HPDPPLNH_00630	gene	123				
+HPDPPLNH_00630	CDS	123				hypothetical protein
+HPDPPLNH_00631	gene	357				
+HPDPPLNH_00631	CDS	357				hypothetical protein
+HPDPPLNH_00632	gene	243				
+HPDPPLNH_00632	CDS	243				hypothetical protein
+HPDPPLNH_00633	gene	255				
+HPDPPLNH_00633	CDS	255				hypothetical protein
+HPDPPLNH_00634	gene	474				
+HPDPPLNH_00634	CDS	474				hypothetical protein
+HPDPPLNH_00635	gene	129				
+HPDPPLNH_00635	CDS	129				hypothetical protein
+HPDPPLNH_00636	gene	255				
+HPDPPLNH_00636	CDS	255				hypothetical protein
+HPDPPLNH_00637	gene	489				
+HPDPPLNH_00637	CDS	489				hypothetical protein
+HPDPPLNH_00638	gene	240				
+HPDPPLNH_00638	CDS	240				hypothetical protein
+HPDPPLNH_00639	gene	210				
+HPDPPLNH_00639	CDS	210				hypothetical protein
+HPDPPLNH_00640	gene	120				
+HPDPPLNH_00640	CDS	120				hypothetical protein
+HPDPPLNH_00641	gene	77				
+HPDPPLNH_00641	tRNA	77				tRNA-Arg(gcg)
+HPDPPLNH_00642	gene	423				
+HPDPPLNH_00642	CDS	423				hypothetical protein
+HPDPPLNH_00643	gene	456				
+HPDPPLNH_00643	CDS	456				hypothetical protein
+HPDPPLNH_00644	gene	111				
+HPDPPLNH_00644	CDS	111				hypothetical protein
+HPDPPLNH_00645	gene	603	FCS1			
+HPDPPLNH_00645	CDS	603	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+HPDPPLNH_00646	gene	309				
+HPDPPLNH_00646	CDS	309				hypothetical protein
+HPDPPLNH_00647	gene	447				
+HPDPPLNH_00647	CDS	447		1.4.1.2		NAD-specific glutamate dehydrogenase
+HPDPPLNH_00648	gene	828	gdhA			
+HPDPPLNH_00648	CDS	828	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+HPDPPLNH_00649	gene	228				
+HPDPPLNH_00649	CDS	228				hypothetical protein
+HPDPPLNH_00650	gene	210				
+HPDPPLNH_00650	CDS	210				hypothetical protein
+HPDPPLNH_00651	gene	96				
+HPDPPLNH_00651	CDS	96				hypothetical protein
+HPDPPLNH_00652	gene	117				
+HPDPPLNH_00652	CDS	117				hypothetical protein
+HPDPPLNH_00653	gene	141				
+HPDPPLNH_00653	CDS	141				hypothetical protein
+HPDPPLNH_00654	gene	570	trm1_1			
+HPDPPLNH_00654	CDS	570	trm1_1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+HPDPPLNH_00655	gene	483	trm1_2			
+HPDPPLNH_00655	CDS	483	trm1_2	2.1.1.215		tRNA (guanine(26)-N(2))-dimethyltransferase
+HPDPPLNH_00656	gene	420	adh			
+HPDPPLNH_00656	CDS	420	adh	1.1.1.1		Alcohol dehydrogenase
+HPDPPLNH_00657	gene	399				
+HPDPPLNH_00657	CDS	399				hypothetical protein
+HPDPPLNH_00658	gene	414				
+HPDPPLNH_00658	CDS	414				hypothetical protein
+HPDPPLNH_00659	gene	330				
+HPDPPLNH_00659	CDS	330				hypothetical protein
+HPDPPLNH_00660	gene	153				
+HPDPPLNH_00660	CDS	153				hypothetical protein
+HPDPPLNH_00661	gene	285	griH			
+HPDPPLNH_00661	CDS	285	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+HPDPPLNH_00662	gene	201				
+HPDPPLNH_00662	CDS	201				hypothetical protein
+HPDPPLNH_00663	gene	258	aroD			
+HPDPPLNH_00663	CDS	258	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+HPDPPLNH_00664	gene	345	aroE			
+HPDPPLNH_00664	CDS	345	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HPDPPLNH_00665	gene	192				
+HPDPPLNH_00665	CDS	192				hypothetical protein
+HPDPPLNH_00666	gene	138				
+HPDPPLNH_00666	CDS	138				hypothetical protein
+HPDPPLNH_00667	gene	258	folP_1			
+HPDPPLNH_00667	CDS	258	folP_1	2.5.1.15	COG0294	Dihydropteroate synthase
+HPDPPLNH_00668	gene	354	folP_2			
+HPDPPLNH_00668	CDS	354	folP_2	2.5.1.15	COG0294	Dihydropteroate synthase
+HPDPPLNH_00669	gene	723	guaB			
+HPDPPLNH_00669	CDS	723	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HPDPPLNH_00670	gene	192				
+HPDPPLNH_00670	CDS	192				hypothetical protein
+HPDPPLNH_00671	gene	216				
+HPDPPLNH_00671	CDS	216				hypothetical protein
+HPDPPLNH_00672	gene	309				
+HPDPPLNH_00672	CDS	309				hypothetical protein
+HPDPPLNH_00673	gene	564				
+HPDPPLNH_00673	CDS	564				hypothetical protein
+HPDPPLNH_00674	gene	171				
+HPDPPLNH_00674	CDS	171				hypothetical protein
+HPDPPLNH_00675	gene	195				
+HPDPPLNH_00675	CDS	195				hypothetical protein
+HPDPPLNH_00676	gene	177				
+HPDPPLNH_00676	CDS	177				hypothetical protein
+HPDPPLNH_00677	gene	165				
+HPDPPLNH_00677	CDS	165				hypothetical protein
+HPDPPLNH_00678	gene	309				
+HPDPPLNH_00678	CDS	309				hypothetical protein
+HPDPPLNH_00679	gene	276				
+HPDPPLNH_00679	CDS	276				hypothetical protein
+HPDPPLNH_00680	gene	246	lysS			
+HPDPPLNH_00680	CDS	246	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+HPDPPLNH_00681	gene	435				
+HPDPPLNH_00681	CDS	435				hypothetical protein
+HPDPPLNH_00682	gene	123				
+HPDPPLNH_00682	CDS	123				hypothetical protein
+HPDPPLNH_00683	gene	192				
+HPDPPLNH_00683	CDS	192				hypothetical protein
+HPDPPLNH_00684	gene	252				
+HPDPPLNH_00684	CDS	252				hypothetical protein
+HPDPPLNH_00685	gene	360	prcB			
+HPDPPLNH_00685	CDS	360	prcB			Proteasome subunit beta
+HPDPPLNH_00686	gene	162				
+HPDPPLNH_00686	CDS	162				hypothetical protein
+HPDPPLNH_00687	gene	456				
+HPDPPLNH_00687	CDS	456				hypothetical protein
+HPDPPLNH_00688	gene	549				
+HPDPPLNH_00688	CDS	549		1.18.1.2		Ferredoxin--NADP reductase
+HPDPPLNH_00689	gene	168	trxB			
+HPDPPLNH_00689	CDS	168	trxB	1.8.1.9	COG0492	Thioredoxin reductase

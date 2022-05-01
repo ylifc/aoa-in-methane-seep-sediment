@@ -1,0 +1,2281 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GABJGADL_00001	gene	957	ruvB_1			
+GABJGADL_00001	CDS	957	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GABJGADL_00002	gene	519				
+GABJGADL_00002	CDS	519				hypothetical protein
+GABJGADL_00003	gene	2079				
+GABJGADL_00003	CDS	2079				hypothetical protein
+GABJGADL_00004	gene	2118	cshA			
+GABJGADL_00004	CDS	2118	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+GABJGADL_00005	gene	993	mraY			
+GABJGADL_00005	CDS	993	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GABJGADL_00006	gene	234				
+GABJGADL_00006	CDS	234				hypothetical protein
+GABJGADL_00007	gene	477	fdtC			
+GABJGADL_00007	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+GABJGADL_00008	gene	270				
+GABJGADL_00008	CDS	270				hypothetical protein
+GABJGADL_00009	gene	936	iolG			
+GABJGADL_00009	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+GABJGADL_00010	gene	918	ilvE_1			
+GABJGADL_00010	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GABJGADL_00011	gene	75				
+GABJGADL_00011	tRNA	75				tRNA-Pro(cgg)
+GABJGADL_00012	gene	76				
+GABJGADL_00012	tRNA	76				tRNA-Ala(ggc)
+GABJGADL_00013	gene	846	mimB			
+GABJGADL_00013	CDS	846	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+GABJGADL_00014	gene	1086	hemA_1			
+GABJGADL_00014	CDS	1086	hemA_1	1.2.1.70		Glutamyl-tRNA reductase
+GABJGADL_00015	gene	819				
+GABJGADL_00015	CDS	819				hypothetical protein
+GABJGADL_00016	gene	846	prmB			
+GABJGADL_00016	CDS	846	prmB	1.18.1.-	COG0543	Propane 2-monooxygenase, reductase component
+GABJGADL_00017	gene	552				
+GABJGADL_00017	CDS	552				hypothetical protein
+GABJGADL_00018	gene	435				
+GABJGADL_00018	CDS	435				hypothetical protein
+GABJGADL_00019	gene	864	Dml			
+GABJGADL_00019	CDS	864	Dml	4.1.3.32		2,3-dimethylmalate lyase
+GABJGADL_00020	gene	510				
+GABJGADL_00020	CDS	510				hypothetical protein
+GABJGADL_00021	gene	1713	frdA			
+GABJGADL_00021	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+GABJGADL_00022	gene	435				
+GABJGADL_00022	CDS	435				hypothetical protein
+GABJGADL_00023	gene	345				
+GABJGADL_00023	CDS	345				hypothetical protein
+GABJGADL_00024	gene	768	frdB			
+GABJGADL_00024	CDS	768	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+GABJGADL_00025	gene	327				
+GABJGADL_00025	CDS	327				hypothetical protein
+GABJGADL_00026	gene	1461	argH			
+GABJGADL_00026	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GABJGADL_00027	gene	315				
+GABJGADL_00027	CDS	315				hypothetical protein
+GABJGADL_00028	gene	285				
+GABJGADL_00028	CDS	285				hypothetical protein
+GABJGADL_00029	gene	74				
+GABJGADL_00029	tRNA	74				tRNA-Lys(ttt)
+GABJGADL_00030	gene	76				
+GABJGADL_00030	tRNA	76				tRNA-Asp(gtc)
+GABJGADL_00031	gene	801	cysQ			
+GABJGADL_00031	CDS	801	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+GABJGADL_00032	gene	1125				
+GABJGADL_00032	CDS	1125				hypothetical protein
+GABJGADL_00033	gene	1158	ruvB_2			
+GABJGADL_00033	CDS	1158	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GABJGADL_00034	gene	312				
+GABJGADL_00034	CDS	312				hypothetical protein
+GABJGADL_00035	gene	1548	pccB			
+GABJGADL_00035	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+GABJGADL_00036	gene	1488	cfiB			
+GABJGADL_00036	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+GABJGADL_00037	gene	513				
+GABJGADL_00037	CDS	513				hypothetical protein
+GABJGADL_00038	gene	474	bcp_1			
+GABJGADL_00038	CDS	474	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GABJGADL_00039	gene	336	ndhC			
+GABJGADL_00039	CDS	336	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+GABJGADL_00040	gene	516	ndhK			
+GABJGADL_00040	CDS	516	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+GABJGADL_00041	gene	600	ndhJ			
+GABJGADL_00041	CDS	600	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+GABJGADL_00042	gene	1137	nqo4			
+GABJGADL_00042	CDS	1137	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+GABJGADL_00043	gene	1311	ndhA_1			
+GABJGADL_00043	CDS	1311	ndhA_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+GABJGADL_00044	gene	498	ndhI_1			
+GABJGADL_00044	CDS	498	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GABJGADL_00045	gene	513				
+GABJGADL_00045	CDS	513				hypothetical protein
+GABJGADL_00046	gene	306	nuoK_1			
+GABJGADL_00046	CDS	306	nuoK_1	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+GABJGADL_00047	gene	1560	mrpA			
+GABJGADL_00047	CDS	1560	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+GABJGADL_00048	gene	2073	ndhB			
+GABJGADL_00048	CDS	2073	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GABJGADL_00049	gene	1482	nuoN			
+GABJGADL_00049	CDS	1482	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+GABJGADL_00050	gene	861				
+GABJGADL_00050	CDS	861				hypothetical protein
+GABJGADL_00051	gene	633				
+GABJGADL_00051	CDS	633		1.-.-.-	COG5424	putative oxidoreductase CT_610
+GABJGADL_00052	gene	75				
+GABJGADL_00052	tRNA	75				tRNA-Met(cat)
+GABJGADL_00053	gene	603	pyrE			
+GABJGADL_00053	CDS	603	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GABJGADL_00054	gene	1080				
+GABJGADL_00054	CDS	1080				hypothetical protein
+GABJGADL_00055	gene	1101				
+GABJGADL_00055	CDS	1101				hypothetical protein
+GABJGADL_00056	gene	501				
+GABJGADL_00056	CDS	501				hypothetical protein
+GABJGADL_00057	gene	225				
+GABJGADL_00057	CDS	225				hypothetical protein
+GABJGADL_00058	gene	828				
+GABJGADL_00058	CDS	828				hypothetical protein
+GABJGADL_00059	gene	1788	btuD			
+GABJGADL_00059	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GABJGADL_00060	gene	112				
+GABJGADL_00060	rRNA	112				5S ribosomal RNA
+GABJGADL_00061	gene	129				
+GABJGADL_00061	CDS	129				hypothetical protein
+GABJGADL_00062	gene	1482	pepA			
+GABJGADL_00062	CDS	1482	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+GABJGADL_00063	gene	363				
+GABJGADL_00063	CDS	363				hypothetical protein
+GABJGADL_00064	gene	1668	dxs			
+GABJGADL_00064	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+GABJGADL_00065	gene	972	aptB			
+GABJGADL_00065	CDS	972	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+GABJGADL_00066	gene	666	tal			
+GABJGADL_00066	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+GABJGADL_00067	gene	357				
+GABJGADL_00067	CDS	357				hypothetical protein
+GABJGADL_00068	gene	255				
+GABJGADL_00068	CDS	255				hypothetical protein
+GABJGADL_00069	gene	675				
+GABJGADL_00069	CDS	675				hypothetical protein
+GABJGADL_00070	gene	453				
+GABJGADL_00070	CDS	453				hypothetical protein
+GABJGADL_00071	gene	492				
+GABJGADL_00071	CDS	492				hypothetical protein
+GABJGADL_00072	gene	1308				
+GABJGADL_00072	CDS	1308			COG0683	Leu/Ile/Val-binding protein 
+GABJGADL_00073	gene	732	livF_1			
+GABJGADL_00073	CDS	732	livF_1		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+GABJGADL_00074	gene	756	lptB			
+GABJGADL_00074	CDS	756	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+GABJGADL_00075	gene	927	livH			
+GABJGADL_00075	CDS	927	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+GABJGADL_00076	gene	1068				
+GABJGADL_00076	CDS	1068				hypothetical protein
+GABJGADL_00077	gene	321				
+GABJGADL_00077	CDS	321				hypothetical protein
+GABJGADL_00078	gene	948	fgd			
+GABJGADL_00078	CDS	948	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+GABJGADL_00079	gene	495				
+GABJGADL_00079	CDS	495				hypothetical protein
+GABJGADL_00080	gene	372				
+GABJGADL_00080	CDS	372				hypothetical protein
+GABJGADL_00081	gene	657				
+GABJGADL_00081	CDS	657				hypothetical protein
+GABJGADL_00082	gene	231				
+GABJGADL_00082	CDS	231				hypothetical protein
+GABJGADL_00083	gene	372	resA_1			
+GABJGADL_00083	CDS	372	resA_1			Thiol-disulfide oxidoreductase ResA
+GABJGADL_00084	gene	351				
+GABJGADL_00084	CDS	351				hypothetical protein
+GABJGADL_00085	gene	429				
+GABJGADL_00085	CDS	429				hypothetical protein
+GABJGADL_00086	gene	465				
+GABJGADL_00086	CDS	465				hypothetical protein
+GABJGADL_00087	gene	693				
+GABJGADL_00087	CDS	693				hypothetical protein
+GABJGADL_00088	gene	1326	ffh			
+GABJGADL_00088	CDS	1326	ffh		COG0541	Signal recognition particle protein
+GABJGADL_00089	gene	1191				
+GABJGADL_00089	CDS	1191				hypothetical protein
+GABJGADL_00090	gene	702				
+GABJGADL_00090	CDS	702				hypothetical protein
+GABJGADL_00091	gene	174				
+GABJGADL_00091	CDS	174				hypothetical protein
+GABJGADL_00092	gene	393				
+GABJGADL_00092	CDS	393				hypothetical protein
+GABJGADL_00093	gene	549				
+GABJGADL_00093	CDS	549				hypothetical protein
+GABJGADL_00094	gene	1257	apgM			
+GABJGADL_00094	CDS	1257	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GABJGADL_00095	gene	1017				
+GABJGADL_00095	CDS	1017				hypothetical protein
+GABJGADL_00096	gene	423				
+GABJGADL_00096	CDS	423				hypothetical protein
+GABJGADL_00097	gene	438				
+GABJGADL_00097	CDS	438				hypothetical protein
+GABJGADL_00098	gene	702	cugP			
+GABJGADL_00098	CDS	702	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GABJGADL_00099	gene	1305	pdxK			
+GABJGADL_00099	CDS	1305	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+GABJGADL_00100	gene	1302	bzaF			
+GABJGADL_00100	CDS	1302	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+GABJGADL_00101	gene	408				
+GABJGADL_00101	CDS	408				hypothetical protein
+GABJGADL_00102	gene	861				
+GABJGADL_00102	CDS	861				hypothetical protein
+GABJGADL_00103	gene	1371	aspC			
+GABJGADL_00103	CDS	1371	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+GABJGADL_00104	gene	1095	aroC			
+GABJGADL_00104	CDS	1095	aroC	4.2.3.5	COG0082	Chorismate synthase
+GABJGADL_00105	gene	1281	aroA			
+GABJGADL_00105	CDS	1281	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+GABJGADL_00106	gene	855	thrB_1			
+GABJGADL_00106	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+GABJGADL_00107	gene	822	aroE			
+GABJGADL_00107	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+GABJGADL_00108	gene	666	aroD			
+GABJGADL_00108	CDS	666	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+GABJGADL_00109	gene	1062	griH			
+GABJGADL_00109	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+GABJGADL_00110	gene	789	griI			
+GABJGADL_00110	CDS	789	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+GABJGADL_00111	gene	1119	mqnC			
+GABJGADL_00111	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+GABJGADL_00112	gene	1443	ubiD_1			
+GABJGADL_00112	CDS	1443	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GABJGADL_00113	gene	231				
+GABJGADL_00113	CDS	231				hypothetical protein
+GABJGADL_00114	gene	378				
+GABJGADL_00114	CDS	378				hypothetical protein
+GABJGADL_00115	gene	537				
+GABJGADL_00115	CDS	537				hypothetical protein
+GABJGADL_00116	gene	363				
+GABJGADL_00116	CDS	363				hypothetical protein
+GABJGADL_00117	gene	681				
+GABJGADL_00117	CDS	681				hypothetical protein
+GABJGADL_00118	gene	195				
+GABJGADL_00118	CDS	195				hypothetical protein
+GABJGADL_00119	gene	786				
+GABJGADL_00119	CDS	786				hypothetical protein
+GABJGADL_00120	gene	675	udgb_1			
+GABJGADL_00120	CDS	675	udgb_1	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+GABJGADL_00121	gene	663				
+GABJGADL_00121	CDS	663				hypothetical protein
+GABJGADL_00122	gene	768	murI			
+GABJGADL_00122	CDS	768	murI	5.1.1.3		Glutamate racemase
+GABJGADL_00123	gene	825	cbiF			
+GABJGADL_00123	CDS	825	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+GABJGADL_00124	gene	720	cbiL			
+GABJGADL_00124	CDS	720	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+GABJGADL_00125	gene	591	cbiT			
+GABJGADL_00125	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+GABJGADL_00126	gene	435				
+GABJGADL_00126	CDS	435				hypothetical protein
+GABJGADL_00127	gene	978				
+GABJGADL_00127	CDS	978				hypothetical protein
+GABJGADL_00128	gene	765				
+GABJGADL_00128	CDS	765				hypothetical protein
+GABJGADL_00129	gene	486				
+GABJGADL_00129	CDS	486				hypothetical protein
+GABJGADL_00130	gene	612				
+GABJGADL_00130	CDS	612				hypothetical protein
+GABJGADL_00131	gene	384				
+GABJGADL_00131	CDS	384				hypothetical protein
+GABJGADL_00132	gene	1158				
+GABJGADL_00132	CDS	1158				hypothetical protein
+GABJGADL_00133	gene	657	nth			
+GABJGADL_00133	CDS	657	nth	4.2.99.18	COG0177	Endonuclease III
+GABJGADL_00134	gene	672				
+GABJGADL_00134	CDS	672				hypothetical protein
+GABJGADL_00135	gene	1146	sat			
+GABJGADL_00135	CDS	1146	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+GABJGADL_00136	gene	720	cysH			
+GABJGADL_00136	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+GABJGADL_00137	gene	846				
+GABJGADL_00137	CDS	846				hypothetical protein
+GABJGADL_00138	gene	1236				
+GABJGADL_00138	CDS	1236				hypothetical protein
+GABJGADL_00139	gene	336				
+GABJGADL_00139	CDS	336				hypothetical protein
+GABJGADL_00140	gene	396				
+GABJGADL_00140	CDS	396				hypothetical protein
+GABJGADL_00141	gene	795	hcaB			
+GABJGADL_00141	CDS	795	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+GABJGADL_00142	gene	1017				
+GABJGADL_00142	CDS	1017				hypothetical protein
+GABJGADL_00143	gene	759				
+GABJGADL_00143	CDS	759				hypothetical protein
+GABJGADL_00144	gene	396	thrB_2			
+GABJGADL_00144	CDS	396	thrB_2	2.7.1.39		Homoserine kinase
+GABJGADL_00145	gene	291	thrB_3			
+GABJGADL_00145	CDS	291	thrB_3	2.7.1.39	COG0083	Homoserine kinase
+GABJGADL_00146	gene	678	queC			
+GABJGADL_00146	CDS	678	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+GABJGADL_00147	gene	327				
+GABJGADL_00147	CDS	327				hypothetical protein
+GABJGADL_00148	gene	561	folE			
+GABJGADL_00148	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+GABJGADL_00149	gene	723	queE			
+GABJGADL_00149	CDS	723	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+GABJGADL_00150	gene	195				
+GABJGADL_00150	CDS	195				hypothetical protein
+GABJGADL_00151	gene	1395				
+GABJGADL_00151	CDS	1395				hypothetical protein
+GABJGADL_00152	gene	261				
+GABJGADL_00152	CDS	261				hypothetical protein
+GABJGADL_00153	gene	564				
+GABJGADL_00153	CDS	564				hypothetical protein
+GABJGADL_00154	gene	648				
+GABJGADL_00154	CDS	648				hypothetical protein
+GABJGADL_00155	gene	447				
+GABJGADL_00155	CDS	447				hypothetical protein
+GABJGADL_00156	gene	573				
+GABJGADL_00156	CDS	573				hypothetical protein
+GABJGADL_00157	gene	840				
+GABJGADL_00157	CDS	840				hypothetical protein
+GABJGADL_00158	gene	1383	nhaP2			
+GABJGADL_00158	CDS	1383	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+GABJGADL_00159	gene	303				
+GABJGADL_00159	CDS	303				hypothetical protein
+GABJGADL_00160	gene	915				
+GABJGADL_00160	CDS	915				hypothetical protein
+GABJGADL_00161	gene	834				
+GABJGADL_00161	CDS	834				hypothetical protein
+GABJGADL_00162	gene	312				
+GABJGADL_00162	CDS	312				hypothetical protein
+GABJGADL_00163	gene	1740				
+GABJGADL_00163	CDS	1740				hypothetical protein
+GABJGADL_00164	gene	753	cbiX			
+GABJGADL_00164	CDS	753	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+GABJGADL_00165	gene	1059	cbiG			
+GABJGADL_00165	CDS	1059	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+GABJGADL_00166	gene	1092	cbiD			
+GABJGADL_00166	CDS	1092	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+GABJGADL_00167	gene	876				
+GABJGADL_00167	CDS	876				hypothetical protein
+GABJGADL_00168	gene	1167	metK			
+GABJGADL_00168	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+GABJGADL_00169	gene	186				
+GABJGADL_00169	CDS	186				hypothetical protein
+GABJGADL_00170	gene	657				
+GABJGADL_00170	CDS	657				hypothetical protein
+GABJGADL_00171	gene	120				
+GABJGADL_00171	CDS	120				hypothetical protein
+GABJGADL_00172	gene	2754	dbpA			
+GABJGADL_00172	CDS	2754	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+GABJGADL_00173	gene	1419				
+GABJGADL_00173	CDS	1419				hypothetical protein
+GABJGADL_00174	gene	942	lnrL			
+GABJGADL_00174	CDS	942	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GABJGADL_00175	gene	762				
+GABJGADL_00175	CDS	762				hypothetical protein
+GABJGADL_00176	gene	76				
+GABJGADL_00176	tRNA	76				tRNA-Gln(ttg)
+GABJGADL_00177	gene	1038				
+GABJGADL_00177	CDS	1038				hypothetical protein
+GABJGADL_00178	gene	1140				
+GABJGADL_00178	CDS	1140				hypothetical protein
+GABJGADL_00179	gene	645	grpE_1			
+GABJGADL_00179	CDS	645	grpE_1			Protein GrpE
+GABJGADL_00180	gene	1917	dnaK_1			
+GABJGADL_00180	CDS	1917	dnaK_1		COG0443	Chaperone protein DnaK
+GABJGADL_00181	gene	1098	dnaJ_1			
+GABJGADL_00181	CDS	1098	dnaJ_1		COG0484	Chaperone protein DnaJ
+GABJGADL_00182	gene	162				
+GABJGADL_00182	CDS	162				hypothetical protein
+GABJGADL_00183	gene	87				
+GABJGADL_00183	tRNA	87				tRNA-Leu(cag)
+GABJGADL_00184	gene	258				
+GABJGADL_00184	CDS	258				hypothetical protein
+GABJGADL_00185	gene	1905	GATB			
+GABJGADL_00185	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+GABJGADL_00186	gene	1290				
+GABJGADL_00186	CDS	1290				hypothetical protein
+GABJGADL_00187	gene	2187	ftsH_1			
+GABJGADL_00187	CDS	2187	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GABJGADL_00188	gene	732				
+GABJGADL_00188	CDS	732				hypothetical protein
+GABJGADL_00189	gene	279	acyP			
+GABJGADL_00189	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+GABJGADL_00190	gene	333				
+GABJGADL_00190	CDS	333				hypothetical protein
+GABJGADL_00191	gene	312				
+GABJGADL_00191	misc_RNA	312				Archaea_SRP
+GABJGADL_00192	gene	915	ttuA			
+GABJGADL_00192	CDS	915	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+GABJGADL_00193	gene	1203				
+GABJGADL_00193	CDS	1203				hypothetical protein
+GABJGADL_00194	gene	312	cutA			
+GABJGADL_00194	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+GABJGADL_00195	gene	1053				
+GABJGADL_00195	CDS	1053				hypothetical protein
+GABJGADL_00196	gene	423				
+GABJGADL_00196	CDS	423				hypothetical protein
+GABJGADL_00197	gene	420				
+GABJGADL_00197	CDS	420				hypothetical protein
+GABJGADL_00198	gene	165				
+GABJGADL_00198	CDS	165				hypothetical protein
+GABJGADL_00199	gene	444	mntR_1			
+GABJGADL_00199	CDS	444	mntR_1			HTH-type transcriptional regulator MntR
+GABJGADL_00200	gene	840				
+GABJGADL_00200	CDS	840				hypothetical protein
+GABJGADL_00201	gene	1668	moaA			
+GABJGADL_00201	CDS	1668	moaA			GTP 3',8-cyclase
+GABJGADL_00202	gene	804	hisF			
+GABJGADL_00202	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+GABJGADL_00203	gene	609	hisA			
+GABJGADL_00203	CDS	609	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+GABJGADL_00204	gene	609	hisH_1			
+GABJGADL_00204	CDS	609	hisH_1	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+GABJGADL_00205	gene	588	hisB_1			
+GABJGADL_00205	CDS	588	hisB_1		COG0131	Histidine biosynthesis bifunctional protein HisB
+GABJGADL_00206	gene	975				
+GABJGADL_00206	CDS	975				hypothetical protein
+GABJGADL_00207	gene	1071	hisC_1			
+GABJGADL_00207	CDS	1071	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+GABJGADL_00208	gene	1269	hisD_1			
+GABJGADL_00208	CDS	1269	hisD_1	1.1.1.23		Histidinol dehydrogenase
+GABJGADL_00209	gene	978	hisG			
+GABJGADL_00209	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+GABJGADL_00210	gene	1257	mvaA			
+GABJGADL_00210	CDS	1257	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+GABJGADL_00211	gene	1098	yliI			
+GABJGADL_00211	CDS	1098	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+GABJGADL_00212	gene	1323				
+GABJGADL_00212	CDS	1323				hypothetical protein
+GABJGADL_00213	gene	996				
+GABJGADL_00213	CDS	996				hypothetical protein
+GABJGADL_00214	gene	252				
+GABJGADL_00214	CDS	252				hypothetical protein
+GABJGADL_00215	gene	552				
+GABJGADL_00215	CDS	552				hypothetical protein
+GABJGADL_00216	gene	816	pheA			
+GABJGADL_00216	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+GABJGADL_00217	gene	468				
+GABJGADL_00217	CDS	468				hypothetical protein
+GABJGADL_00218	gene	1434	guaB			
+GABJGADL_00218	CDS	1434	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+GABJGADL_00219	gene	882	folP			
+GABJGADL_00219	CDS	882	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+GABJGADL_00220	gene	735				
+GABJGADL_00220	CDS	735				hypothetical protein
+GABJGADL_00221	gene	555				
+GABJGADL_00221	CDS	555				hypothetical protein
+GABJGADL_00222	gene	1524	guaA_1			
+GABJGADL_00222	CDS	1524	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+GABJGADL_00223	gene	870	mak			
+GABJGADL_00223	CDS	870	mak	2.7.1.4	COG1940	Fructokinase
+GABJGADL_00224	gene	1314	groL_1			
+GABJGADL_00224	CDS	1314	groL_1			60 kDa chaperonin
+GABJGADL_00225	gene	1764	ade			
+GABJGADL_00225	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+GABJGADL_00226	gene	282				
+GABJGADL_00226	CDS	282				hypothetical protein
+GABJGADL_00227	gene	198				
+GABJGADL_00227	CDS	198				hypothetical protein
+GABJGADL_00228	gene	585	mobA			
+GABJGADL_00228	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+GABJGADL_00229	gene	726	cobS			
+GABJGADL_00229	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+GABJGADL_00230	gene	975	cobD_1			
+GABJGADL_00230	CDS	975	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+GABJGADL_00231	gene	828	cobQ			
+GABJGADL_00231	CDS	828	cobQ		COG1492	Cobyric acid synthase
+GABJGADL_00232	gene	1077	cobD_2			
+GABJGADL_00232	CDS	1077	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+GABJGADL_00233	gene	1080	asd2			
+GABJGADL_00233	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+GABJGADL_00234	gene	459	asnC			
+GABJGADL_00234	CDS	459	asnC		COG1522	Regulatory protein AsnC
+GABJGADL_00235	gene	927	ctaB_1			
+GABJGADL_00235	CDS	927	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+GABJGADL_00236	gene	705				
+GABJGADL_00236	CDS	705				hypothetical protein
+GABJGADL_00237	gene	390				
+GABJGADL_00237	CDS	390				hypothetical protein
+GABJGADL_00238	gene	234				
+GABJGADL_00238	CDS	234				hypothetical protein
+GABJGADL_00239	gene	804	rnz			
+GABJGADL_00239	CDS	804	rnz	3.1.26.11	COG1234	Ribonuclease Z
+GABJGADL_00240	gene	720	cobB			
+GABJGADL_00240	CDS	720	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+GABJGADL_00241	gene	198				
+GABJGADL_00241	CDS	198				hypothetical protein
+GABJGADL_00242	gene	420				
+GABJGADL_00242	CDS	420				hypothetical protein
+GABJGADL_00243	gene	576				
+GABJGADL_00243	CDS	576				hypothetical protein
+GABJGADL_00244	gene	399				
+GABJGADL_00244	CDS	399				hypothetical protein
+GABJGADL_00245	gene	549				
+GABJGADL_00245	CDS	549				hypothetical protein
+GABJGADL_00246	gene	543				
+GABJGADL_00246	CDS	543		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+GABJGADL_00247	gene	1338				
+GABJGADL_00247	CDS	1338				hypothetical protein
+GABJGADL_00248	gene	762				
+GABJGADL_00248	CDS	762				hypothetical protein
+GABJGADL_00249	gene	612	alkA_1			
+GABJGADL_00249	CDS	612	alkA_1	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+GABJGADL_00250	gene	76				
+GABJGADL_00250	tRNA	76				tRNA-Pro(ggg)
+GABJGADL_00251	gene	207				
+GABJGADL_00251	CDS	207				hypothetical protein
+GABJGADL_00252	gene	741				
+GABJGADL_00252	CDS	741		1.-.-.-		putative oxidoreductase
+GABJGADL_00253	gene	237				
+GABJGADL_00253	CDS	237				hypothetical protein
+GABJGADL_00254	gene	276				
+GABJGADL_00254	CDS	276				hypothetical protein
+GABJGADL_00255	gene	558				
+GABJGADL_00255	CDS	558				hypothetical protein
+GABJGADL_00256	gene	1461	glnA			
+GABJGADL_00256	CDS	1461	glnA	6.3.1.2	COG0174	Glutamine synthetase
+GABJGADL_00257	gene	279				
+GABJGADL_00257	CDS	279				hypothetical protein
+GABJGADL_00258	gene	1692	groL_2			
+GABJGADL_00258	CDS	1692	groL_2			60 kDa chaperonin
+GABJGADL_00259	gene	1323	glyA			
+GABJGADL_00259	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+GABJGADL_00260	gene	3390				
+GABJGADL_00260	CDS	3390				hypothetical protein
+GABJGADL_00261	gene	756				
+GABJGADL_00261	CDS	756		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+GABJGADL_00262	gene	363				
+GABJGADL_00262	CDS	363				hypothetical protein
+GABJGADL_00263	gene	576				
+GABJGADL_00263	CDS	576				hypothetical protein
+GABJGADL_00264	gene	156				
+GABJGADL_00264	CDS	156				hypothetical protein
+GABJGADL_00265	gene	393				
+GABJGADL_00265	CDS	393				hypothetical protein
+GABJGADL_00266	gene	1215				
+GABJGADL_00266	CDS	1215				hypothetical protein
+GABJGADL_00267	gene	1428				
+GABJGADL_00267	CDS	1428				hypothetical protein
+GABJGADL_00268	gene	537				
+GABJGADL_00268	CDS	537				hypothetical protein
+GABJGADL_00269	gene	984				
+GABJGADL_00269	CDS	984				hypothetical protein
+GABJGADL_00270	gene	699				
+GABJGADL_00270	CDS	699				hypothetical protein
+GABJGADL_00271	gene	492				
+GABJGADL_00271	CDS	492				hypothetical protein
+GABJGADL_00272	gene	387				
+GABJGADL_00272	CDS	387				hypothetical protein
+GABJGADL_00273	gene	1362	aspA			
+GABJGADL_00273	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+GABJGADL_00274	gene	1269	miaB			
+GABJGADL_00274	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GABJGADL_00275	gene	954	ftsZ			
+GABJGADL_00275	CDS	954	ftsZ			Cell division protein FtsZ
+GABJGADL_00276	gene	528				
+GABJGADL_00276	CDS	528				hypothetical protein
+GABJGADL_00277	gene	159				
+GABJGADL_00277	CDS	159				hypothetical protein
+GABJGADL_00278	gene	549	nudL			
+GABJGADL_00278	CDS	549	nudL	3.6.1.-		putative Nudix hydrolase NudL
+GABJGADL_00279	gene	759				
+GABJGADL_00279	CDS	759				hypothetical protein
+GABJGADL_00280	gene	933	metE_1			
+GABJGADL_00280	CDS	933	metE_1	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+GABJGADL_00281	gene	1014	metE_2			
+GABJGADL_00281	CDS	1014	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+GABJGADL_00282	gene	1125				
+GABJGADL_00282	CDS	1125				hypothetical protein
+GABJGADL_00283	gene	327				
+GABJGADL_00283	CDS	327				hypothetical protein
+GABJGADL_00284	gene	765	ssuC_1			
+GABJGADL_00284	CDS	765	ssuC_1		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+GABJGADL_00285	gene	771	nrtD			
+GABJGADL_00285	CDS	771	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+GABJGADL_00286	gene	1008				
+GABJGADL_00286	CDS	1008				hypothetical protein
+GABJGADL_00287	gene	1188	argG			
+GABJGADL_00287	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+GABJGADL_00288	gene	168				
+GABJGADL_00288	CDS	168				hypothetical protein
+GABJGADL_00289	gene	858	lysX_1			
+GABJGADL_00289	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+GABJGADL_00290	gene	1047	argC			
+GABJGADL_00290	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+GABJGADL_00291	gene	798	lysZ			
+GABJGADL_00291	CDS	798	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+GABJGADL_00292	gene	1176	lysJ			
+GABJGADL_00292	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+GABJGADL_00293	gene	420	lrpC			
+GABJGADL_00293	CDS	420	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+GABJGADL_00294	gene	1167	leuA			
+GABJGADL_00294	CDS	1167	leuA	2.3.3.13		2-isopropylmalate synthase
+GABJGADL_00295	gene	168				
+GABJGADL_00295	CDS	168				hypothetical protein
+GABJGADL_00296	gene	849	lysX_2			
+GABJGADL_00296	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+GABJGADL_00297	gene	1125	lysK			
+GABJGADL_00297	CDS	1125	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+GABJGADL_00298	gene	1038				
+GABJGADL_00298	CDS	1038				hypothetical protein
+GABJGADL_00299	gene	618	hldE			
+GABJGADL_00299	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+GABJGADL_00300	gene	690	gchK			
+GABJGADL_00300	CDS	690	gchK	2.7.13.3	COG0642	Globin-coupled histidine kinase
+GABJGADL_00301	gene	684				
+GABJGADL_00301	CDS	684				hypothetical protein
+GABJGADL_00302	gene	921	dnaG			
+GABJGADL_00302	CDS	921	dnaG	2.7.7.-		DNA primase
+GABJGADL_00303	gene	414				
+GABJGADL_00303	CDS	414				hypothetical protein
+GABJGADL_00304	gene	612				
+GABJGADL_00304	CDS	612				hypothetical protein
+GABJGADL_00305	gene	501				
+GABJGADL_00305	CDS	501				hypothetical protein
+GABJGADL_00306	gene	753				
+GABJGADL_00306	CDS	753				hypothetical protein
+GABJGADL_00307	gene	1080	adh			
+GABJGADL_00307	CDS	1080	adh	1.1.1.1		Alcohol dehydrogenase
+GABJGADL_00308	gene	711				
+GABJGADL_00308	CDS	711				hypothetical protein
+GABJGADL_00309	gene	567	scpB			
+GABJGADL_00309	CDS	567	scpB			Segregation and condensation protein B
+GABJGADL_00310	gene	390				
+GABJGADL_00310	CDS	390				hypothetical protein
+GABJGADL_00311	gene	300				
+GABJGADL_00311	CDS	300				hypothetical protein
+GABJGADL_00312	gene	309				
+GABJGADL_00312	CDS	309				hypothetical protein
+GABJGADL_00313	gene	960				
+GABJGADL_00313	CDS	960				hypothetical protein
+GABJGADL_00314	gene	825				
+GABJGADL_00314	CDS	825				putative ABC transporter ATP-binding protein
+GABJGADL_00315	gene	684				
+GABJGADL_00315	CDS	684			COG3253	putative protein/MSMEI_2713
+GABJGADL_00316	gene	546				
+GABJGADL_00316	CDS	546				hypothetical protein
+GABJGADL_00317	gene	999	iolS			
+GABJGADL_00317	CDS	999	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+GABJGADL_00318	gene	1020				
+GABJGADL_00318	CDS	1020				hypothetical protein
+GABJGADL_00319	gene	390				
+GABJGADL_00319	CDS	390				hypothetical protein
+GABJGADL_00320	gene	678	cysG			
+GABJGADL_00320	CDS	678	cysG		COG0007	Siroheme synthase
+GABJGADL_00321	gene	1257	hemA_2			
+GABJGADL_00321	CDS	1257	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GABJGADL_00322	gene	981	hemB			
+GABJGADL_00322	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+GABJGADL_00323	gene	321				
+GABJGADL_00323	CDS	321				hypothetical protein
+GABJGADL_00324	gene	624	yedJ			
+GABJGADL_00324	CDS	624	yedJ		COG1418	putative protein YedJ
+GABJGADL_00325	gene	621				
+GABJGADL_00325	CDS	621				hypothetical protein
+GABJGADL_00326	gene	294				
+GABJGADL_00326	CDS	294				hypothetical protein
+GABJGADL_00327	gene	870				
+GABJGADL_00327	CDS	870				hypothetical protein
+GABJGADL_00328	gene	312				
+GABJGADL_00328	CDS	312				hypothetical protein
+GABJGADL_00329	gene	669				
+GABJGADL_00329	CDS	669				hypothetical protein
+GABJGADL_00330	gene	1209	pgk			
+GABJGADL_00330	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GABJGADL_00331	gene	348				
+GABJGADL_00331	CDS	348				hypothetical protein
+GABJGADL_00332	gene	441	iscU			
+GABJGADL_00332	CDS	441	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+GABJGADL_00333	gene	1245	csd			
+GABJGADL_00333	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+GABJGADL_00334	gene	309	nagAb			
+GABJGADL_00334	CDS	309	nagAb			Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin component
+GABJGADL_00335	gene	1401				
+GABJGADL_00335	CDS	1401				hypothetical protein
+GABJGADL_00336	gene	969				
+GABJGADL_00336	CDS	969				hypothetical protein
+GABJGADL_00337	gene	249				
+GABJGADL_00337	CDS	249				hypothetical protein
+GABJGADL_00338	gene	435				
+GABJGADL_00338	CDS	435				hypothetical protein
+GABJGADL_00339	gene	540	azr			
+GABJGADL_00339	CDS	540	azr	1.7.1.6		NADPH azoreductase
+GABJGADL_00340	gene	711	bluB			
+GABJGADL_00340	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+GABJGADL_00341	gene	73				
+GABJGADL_00341	tRNA	73				tRNA-Val(gac)
+GABJGADL_00342	gene	498				
+GABJGADL_00342	CDS	498				hypothetical protein
+GABJGADL_00343	gene	495				
+GABJGADL_00343	CDS	495				hypothetical protein
+GABJGADL_00344	gene	495				
+GABJGADL_00344	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+GABJGADL_00345	gene	1167				
+GABJGADL_00345	CDS	1167		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GABJGADL_00346	gene	759				
+GABJGADL_00346	CDS	759				hypothetical protein
+GABJGADL_00347	gene	1065	egsA			
+GABJGADL_00347	CDS	1065	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+GABJGADL_00348	gene	666	prcB_1			
+GABJGADL_00348	CDS	666	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+GABJGADL_00349	gene	1938	rnj			
+GABJGADL_00349	CDS	1938	rnj	3.1.-.-		Ribonuclease J
+GABJGADL_00350	gene	279				
+GABJGADL_00350	CDS	279				hypothetical protein
+GABJGADL_00351	gene	1014	thiI			
+GABJGADL_00351	CDS	1014	thiI	2.8.1.4		tRNA sulfurtransferase
+GABJGADL_00352	gene	1065	pepE			
+GABJGADL_00352	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+GABJGADL_00353	gene	1269	coaBC			
+GABJGADL_00353	CDS	1269	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+GABJGADL_00354	gene	837	panB			
+GABJGADL_00354	CDS	837	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+GABJGADL_00355	gene	753				
+GABJGADL_00355	CDS	753				hypothetical protein
+GABJGADL_00356	gene	903	thrB_4			
+GABJGADL_00356	CDS	903	thrB_4	2.7.1.39		Homoserine kinase
+GABJGADL_00357	gene	981				
+GABJGADL_00357	CDS	981				hypothetical protein
+GABJGADL_00358	gene	516	nudF			
+GABJGADL_00358	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+GABJGADL_00359	gene	888				
+GABJGADL_00359	CDS	888				hypothetical protein
+GABJGADL_00360	gene	1158				
+GABJGADL_00360	CDS	1158				hypothetical protein
+GABJGADL_00361	gene	678	lolD			
+GABJGADL_00361	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GABJGADL_00362	gene	1302				
+GABJGADL_00362	CDS	1302				hypothetical protein
+GABJGADL_00363	gene	951				
+GABJGADL_00363	CDS	951				hypothetical protein
+GABJGADL_00364	gene	153				
+GABJGADL_00364	CDS	153				hypothetical protein
+GABJGADL_00365	gene	255	hppA1			
+GABJGADL_00365	CDS	255	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+GABJGADL_00366	gene	195				
+GABJGADL_00366	CDS	195				hypothetical protein
+GABJGADL_00367	gene	258				
+GABJGADL_00367	CDS	258				hypothetical protein
+GABJGADL_00368	gene	432				
+GABJGADL_00368	CDS	432				hypothetical protein
+GABJGADL_00369	gene	399				
+GABJGADL_00369	CDS	399				hypothetical protein
+GABJGADL_00370	gene	1083	petE			
+GABJGADL_00370	CDS	1083	petE			Plastocyanin
+GABJGADL_00371	gene	873	ctaB_2			
+GABJGADL_00371	CDS	873	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+GABJGADL_00372	gene	306				
+GABJGADL_00372	CDS	306				hypothetical protein
+GABJGADL_00373	gene	2172	ftsH_2			
+GABJGADL_00373	CDS	2172	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GABJGADL_00374	gene	282				
+GABJGADL_00374	CDS	282				hypothetical protein
+GABJGADL_00375	gene	1137				
+GABJGADL_00375	CDS	1137				hypothetical protein
+GABJGADL_00376	gene	354				
+GABJGADL_00376	CDS	354				hypothetical protein
+GABJGADL_00377	gene	1599	vgb			
+GABJGADL_00377	CDS	1599	vgb	4.2.99.-		Virginiamycin B lyase
+GABJGADL_00378	gene	1197	truD			
+GABJGADL_00378	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+GABJGADL_00379	gene	234				
+GABJGADL_00379	CDS	234				hypothetical protein
+GABJGADL_00380	gene	483	msrA			
+GABJGADL_00380	CDS	483	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+GABJGADL_00381	gene	231				
+GABJGADL_00381	CDS	231				hypothetical protein
+GABJGADL_00382	gene	216				
+GABJGADL_00382	CDS	216				hypothetical protein
+GABJGADL_00383	gene	687				
+GABJGADL_00383	CDS	687				hypothetical protein
+GABJGADL_00384	gene	285				
+GABJGADL_00384	CDS	285				hypothetical protein
+GABJGADL_00385	gene	900				
+GABJGADL_00385	CDS	900				hypothetical protein
+GABJGADL_00386	gene	918				
+GABJGADL_00386	CDS	918				hypothetical protein
+GABJGADL_00387	gene	936				
+GABJGADL_00387	CDS	936				hypothetical protein
+GABJGADL_00388	gene	1656				
+GABJGADL_00388	CDS	1656				hypothetical protein
+GABJGADL_00389	gene	1353				
+GABJGADL_00389	CDS	1353				hypothetical protein
+GABJGADL_00390	gene	213				
+GABJGADL_00390	CDS	213				hypothetical protein
+GABJGADL_00391	gene	303	ndhI_2			
+GABJGADL_00391	CDS	303	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GABJGADL_00392	gene	1512	QTRT1			
+GABJGADL_00392	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+GABJGADL_00393	gene	552				
+GABJGADL_00393	CDS	552				hypothetical protein
+GABJGADL_00394	gene	1194	OLA1			
+GABJGADL_00394	CDS	1194	OLA1			Obg-like ATPase 1
+GABJGADL_00395	gene	984	tsaD			
+GABJGADL_00395	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GABJGADL_00396	gene	327				
+GABJGADL_00396	CDS	327				hypothetical protein
+GABJGADL_00397	gene	444				
+GABJGADL_00397	CDS	444				hypothetical protein
+GABJGADL_00398	gene	213				
+GABJGADL_00398	CDS	213				hypothetical protein
+GABJGADL_00399	gene	411				
+GABJGADL_00399	CDS	411				hypothetical protein
+GABJGADL_00400	gene	324				
+GABJGADL_00400	CDS	324				hypothetical protein
+GABJGADL_00401	gene	570				
+GABJGADL_00401	CDS	570		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+GABJGADL_00402	gene	1029				
+GABJGADL_00402	CDS	1029				hypothetical protein
+GABJGADL_00403	gene	1029	corA			
+GABJGADL_00403	CDS	1029	corA		COG0598	Cobalt/magnesium transport protein CorA
+GABJGADL_00404	gene	72				
+GABJGADL_00404	tRNA	72				tRNA-His(gtg)
+GABJGADL_00405	gene	849				
+GABJGADL_00405	CDS	849				hypothetical protein
+GABJGADL_00406	gene	348				
+GABJGADL_00406	CDS	348				hypothetical protein
+GABJGADL_00407	gene	1005				
+GABJGADL_00407	CDS	1005				hypothetical protein
+GABJGADL_00408	gene	309	bnzC_1			
+GABJGADL_00408	CDS	309	bnzC_1		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+GABJGADL_00409	gene	816				
+GABJGADL_00409	CDS	816				hypothetical protein
+GABJGADL_00410	gene	867				
+GABJGADL_00410	CDS	867				hypothetical protein
+GABJGADL_00411	gene	162				
+GABJGADL_00411	CDS	162				hypothetical protein
+GABJGADL_00412	gene	1575	gluQ			
+GABJGADL_00412	CDS	1575	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+GABJGADL_00413	gene	978				
+GABJGADL_00413	CDS	978				hypothetical protein
+GABJGADL_00414	gene	639	idi			
+GABJGADL_00414	CDS	639	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+GABJGADL_00415	gene	225				
+GABJGADL_00415	CDS	225				hypothetical protein
+GABJGADL_00416	gene	1071				
+GABJGADL_00416	CDS	1071				hypothetical protein
+GABJGADL_00417	gene	186				
+GABJGADL_00417	CDS	186				hypothetical protein
+GABJGADL_00418	gene	162				
+GABJGADL_00418	CDS	162				hypothetical protein
+GABJGADL_00419	gene	207				
+GABJGADL_00419	CDS	207				hypothetical protein
+GABJGADL_00420	gene	99				
+GABJGADL_00420	CDS	99				hypothetical protein
+GABJGADL_00421	gene	567				
+GABJGADL_00421	CDS	567				hypothetical protein
+GABJGADL_00422	gene	444				
+GABJGADL_00422	CDS	444				hypothetical protein
+GABJGADL_00423	gene	789				
+GABJGADL_00423	CDS	789				hypothetical protein
+GABJGADL_00424	gene	198				
+GABJGADL_00424	CDS	198				hypothetical protein
+GABJGADL_00425	gene	1587	lysS			
+GABJGADL_00425	CDS	1587	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GABJGADL_00426	gene	1581				
+GABJGADL_00426	CDS	1581		2.3.1.-		tRNA uridine(34) acetyltransferase
+GABJGADL_00427	gene	639				
+GABJGADL_00427	CDS	639				hypothetical protein
+GABJGADL_00428	gene	1272	gerN			
+GABJGADL_00428	CDS	1272	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GABJGADL_00429	gene	597				
+GABJGADL_00429	CDS	597				hypothetical protein
+GABJGADL_00430	gene	396				
+GABJGADL_00430	CDS	396				hypothetical protein
+GABJGADL_00431	gene	1020	purM			
+GABJGADL_00431	CDS	1020	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GABJGADL_00432	gene	732				
+GABJGADL_00432	CDS	732				hypothetical protein
+GABJGADL_00433	gene	345				
+GABJGADL_00433	CDS	345				hypothetical protein
+GABJGADL_00434	gene	1059				
+GABJGADL_00434	CDS	1059				hypothetical protein
+GABJGADL_00435	gene	948	yrbG			
+GABJGADL_00435	CDS	948	yrbG		COG0530	Inner membrane protein YrbG
+GABJGADL_00436	gene	432				
+GABJGADL_00436	CDS	432				hypothetical protein
+GABJGADL_00437	gene	1362	pmbA			
+GABJGADL_00437	CDS	1362	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+GABJGADL_00438	gene	1263	fbiC			
+GABJGADL_00438	CDS	1263	fbiC		COG1060	FO synthase
+GABJGADL_00439	gene	303	cofG			
+GABJGADL_00439	CDS	303	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+GABJGADL_00440	gene	300				
+GABJGADL_00440	CDS	300				hypothetical protein
+GABJGADL_00441	gene	309				
+GABJGADL_00441	CDS	309				hypothetical protein
+GABJGADL_00442	gene	408				
+GABJGADL_00442	CDS	408				hypothetical protein
+GABJGADL_00443	gene	879				
+GABJGADL_00443	CDS	879				hypothetical protein
+GABJGADL_00444	gene	699				
+GABJGADL_00444	CDS	699				hypothetical protein
+GABJGADL_00445	gene	1782	infB_1			
+GABJGADL_00445	CDS	1782	infB_1			Translation initiation factor IF-2
+GABJGADL_00446	gene	402	ndk			
+GABJGADL_00446	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GABJGADL_00447	gene	204				
+GABJGADL_00447	CDS	204				hypothetical protein
+GABJGADL_00448	gene	219				
+GABJGADL_00448	CDS	219				hypothetical protein
+GABJGADL_00449	gene	387				
+GABJGADL_00449	CDS	387				hypothetical protein
+GABJGADL_00450	gene	1347	algC			
+GABJGADL_00450	CDS	1347	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+GABJGADL_00451	gene	86				
+GABJGADL_00451	tRNA	86				tRNA-Leu(tag)
+GABJGADL_00452	gene	849	purU			
+GABJGADL_00452	CDS	849	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+GABJGADL_00453	gene	732	mftE			
+GABJGADL_00453	CDS	732	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+GABJGADL_00454	gene	228				
+GABJGADL_00454	CDS	228				hypothetical protein
+GABJGADL_00455	gene	915				
+GABJGADL_00455	CDS	915				hypothetical protein
+GABJGADL_00456	gene	684	rpiA			
+GABJGADL_00456	CDS	684	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+GABJGADL_00457	gene	858	eryG			
+GABJGADL_00457	CDS	858	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+GABJGADL_00458	gene	1395	lhyD			
+GABJGADL_00458	CDS	1395	lhyD	3.5.2.-		L-hydantoinase
+GABJGADL_00459	gene	72				
+GABJGADL_00459	tRNA	72				tRNA-Ala(cgc)
+GABJGADL_00460	gene	363				
+GABJGADL_00460	CDS	363				hypothetical protein
+GABJGADL_00461	gene	543				
+GABJGADL_00461	CDS	543				hypothetical protein
+GABJGADL_00462	gene	333				
+GABJGADL_00462	CDS	333				Thioredoxin C-2
+GABJGADL_00463	gene	786				
+GABJGADL_00463	CDS	786				hypothetical protein
+GABJGADL_00464	gene	738				
+GABJGADL_00464	CDS	738				hypothetical protein
+GABJGADL_00465	gene	1410	abfD			
+GABJGADL_00465	CDS	1410	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+GABJGADL_00466	gene	363				
+GABJGADL_00466	CDS	363				hypothetical protein
+GABJGADL_00467	gene	564				
+GABJGADL_00467	CDS	564				hypothetical protein
+GABJGADL_00468	gene	570				
+GABJGADL_00468	CDS	570				hypothetical protein
+GABJGADL_00469	gene	318				
+GABJGADL_00469	CDS	318				hypothetical protein
+GABJGADL_00470	gene	540				
+GABJGADL_00470	CDS	540				hypothetical protein
+GABJGADL_00471	gene	267				
+GABJGADL_00471	CDS	267				hypothetical protein
+GABJGADL_00472	gene	336				
+GABJGADL_00472	CDS	336				hypothetical protein
+GABJGADL_00473	gene	450				
+GABJGADL_00473	CDS	450				hypothetical protein
+GABJGADL_00474	gene	1419				
+GABJGADL_00474	CDS	1419				hypothetical protein
+GABJGADL_00475	gene	243				
+GABJGADL_00475	CDS	243				hypothetical protein
+GABJGADL_00476	gene	1263	serS			
+GABJGADL_00476	CDS	1263	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GABJGADL_00477	gene	612				
+GABJGADL_00477	CDS	612				hypothetical protein
+GABJGADL_00478	gene	432				
+GABJGADL_00478	CDS	432				hypothetical protein
+GABJGADL_00479	gene	1461				
+GABJGADL_00479	CDS	1461				hypothetical protein
+GABJGADL_00480	gene	1674				
+GABJGADL_00480	CDS	1674				hypothetical protein
+GABJGADL_00481	gene	660				
+GABJGADL_00481	CDS	660				hypothetical protein
+GABJGADL_00482	gene	798	nirQ			
+GABJGADL_00482	CDS	798	nirQ		COG0714	Denitrification regulatory protein NirQ
+GABJGADL_00483	gene	1566				
+GABJGADL_00483	CDS	1566				hypothetical protein
+GABJGADL_00484	gene	1137	nanM			
+GABJGADL_00484	CDS	1137	nanM	5.1.3.24		N-acetylneuraminate epimerase
+GABJGADL_00485	gene	648				
+GABJGADL_00485	CDS	648				hypothetical protein
+GABJGADL_00486	gene	498				
+GABJGADL_00486	CDS	498				hypothetical protein
+GABJGADL_00487	gene	501				
+GABJGADL_00487	CDS	501				hypothetical protein
+GABJGADL_00488	gene	1233				
+GABJGADL_00488	CDS	1233				hypothetical protein
+GABJGADL_00489	gene	306				
+GABJGADL_00489	CDS	306				hypothetical protein
+GABJGADL_00490	gene	381				
+GABJGADL_00490	CDS	381				hypothetical protein
+GABJGADL_00491	gene	654				
+GABJGADL_00491	CDS	654				hypothetical protein
+GABJGADL_00492	gene	849	pah			
+GABJGADL_00492	CDS	849	pah	3.5.3.22	COG0010	Proclavaminate amidinohydrolase
+GABJGADL_00493	gene	165				
+GABJGADL_00493	CDS	165				hypothetical protein
+GABJGADL_00494	gene	207				
+GABJGADL_00494	CDS	207				hypothetical protein
+GABJGADL_00495	gene	1671	rocA1			
+GABJGADL_00495	CDS	1671	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+GABJGADL_00496	gene	852	fadM			
+GABJGADL_00496	CDS	852	fadM	1.5.5.2	COG0506	Proline dehydrogenase 1
+GABJGADL_00497	gene	591	ribE			
+GABJGADL_00497	CDS	591	ribE	2.5.1.9	COG0307	Riboflavin synthase
+GABJGADL_00498	gene	732	ribBA			
+GABJGADL_00498	CDS	732	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+GABJGADL_00499	gene	414	ribH			
+GABJGADL_00499	CDS	414	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+GABJGADL_00500	gene	756				
+GABJGADL_00500	CDS	756				hypothetical protein
+GABJGADL_00501	gene	1191	atzA			
+GABJGADL_00501	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+GABJGADL_00502	gene	654	ribD2			
+GABJGADL_00502	CDS	654	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+GABJGADL_00503	gene	207				
+GABJGADL_00503	CDS	207				hypothetical protein
+GABJGADL_00504	gene	468				
+GABJGADL_00504	CDS	468				hypothetical protein
+GABJGADL_00505	gene	159				
+GABJGADL_00505	CDS	159				hypothetical protein
+GABJGADL_00506	gene	672				
+GABJGADL_00506	CDS	672				hypothetical protein
+GABJGADL_00507	gene	156				
+GABJGADL_00507	CDS	156				hypothetical protein
+GABJGADL_00508	gene	510				
+GABJGADL_00508	CDS	510				hypothetical protein
+GABJGADL_00509	gene	537				
+GABJGADL_00509	CDS	537				hypothetical protein
+GABJGADL_00510	gene	1122	hflX			
+GABJGADL_00510	CDS	1122	hflX		COG2262	GTPase HflX
+GABJGADL_00511	gene	1050				
+GABJGADL_00511	CDS	1050				hypothetical protein
+GABJGADL_00512	gene	477				
+GABJGADL_00512	CDS	477				hypothetical protein
+GABJGADL_00513	gene	342				
+GABJGADL_00513	CDS	342				hypothetical protein
+GABJGADL_00514	gene	252				
+GABJGADL_00514	CDS	252				hypothetical protein
+GABJGADL_00515	gene	1275				
+GABJGADL_00515	CDS	1275				hypothetical protein
+GABJGADL_00516	gene	1278	larA			
+GABJGADL_00516	CDS	1278	larA	5.1.2.1	COG3875	Lactate racemase
+GABJGADL_00517	gene	1329				
+GABJGADL_00517	CDS	1329				hypothetical protein
+GABJGADL_00518	gene	621				
+GABJGADL_00518	CDS	621				hypothetical protein
+GABJGADL_00519	gene	408				
+GABJGADL_00519	CDS	408				hypothetical protein
+GABJGADL_00520	gene	570	dnaJ_2			
+GABJGADL_00520	CDS	570	dnaJ_2			Chaperone protein DnaJ
+GABJGADL_00521	gene	393				
+GABJGADL_00521	CDS	393				hypothetical protein
+GABJGADL_00522	gene	228				
+GABJGADL_00522	CDS	228				hypothetical protein
+GABJGADL_00523	gene	459				
+GABJGADL_00523	CDS	459				hypothetical protein
+GABJGADL_00524	gene	174				
+GABJGADL_00524	CDS	174				hypothetical protein
+GABJGADL_00525	gene	987	mqnE_1			
+GABJGADL_00525	CDS	987	mqnE_1	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+GABJGADL_00526	gene	147				
+GABJGADL_00526	CDS	147				hypothetical protein
+GABJGADL_00527	gene	282				
+GABJGADL_00527	CDS	282				hypothetical protein
+GABJGADL_00528	gene	825	mqnD			
+GABJGADL_00528	CDS	825	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+GABJGADL_00529	gene	435				
+GABJGADL_00529	CDS	435				hypothetical protein
+GABJGADL_00530	gene	909				
+GABJGADL_00530	CDS	909				hypothetical protein
+GABJGADL_00531	gene	2193	fusA			
+GABJGADL_00531	CDS	2193	fusA		COG0480	Elongation factor G
+GABJGADL_00532	gene	132				
+GABJGADL_00532	CDS	132				hypothetical protein
+GABJGADL_00533	gene	213				
+GABJGADL_00533	CDS	213				hypothetical protein
+GABJGADL_00534	gene	693				
+GABJGADL_00534	CDS	693				hypothetical protein
+GABJGADL_00535	gene	696				
+GABJGADL_00535	CDS	696				hypothetical protein
+GABJGADL_00536	gene	540	trmR			
+GABJGADL_00536	CDS	540	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+GABJGADL_00537	gene	168				
+GABJGADL_00537	CDS	168				hypothetical protein
+GABJGADL_00538	gene	1953	uvrB_1			
+GABJGADL_00538	CDS	1953	uvrB_1			UvrABC system protein B
+GABJGADL_00539	gene	2817	uvrA_1			
+GABJGADL_00539	CDS	2817	uvrA_1			UvrABC system protein A
+GABJGADL_00540	gene	1587	uvrC_1			
+GABJGADL_00540	CDS	1587	uvrC_1		COG0322	UvrABC system protein C
+GABJGADL_00541	gene	690	nfi			
+GABJGADL_00541	CDS	690	nfi	3.1.21.7	COG1515	Endonuclease V
+GABJGADL_00542	gene	423				
+GABJGADL_00542	CDS	423				hypothetical protein
+GABJGADL_00543	gene	165				
+GABJGADL_00543	CDS	165				hypothetical protein
+GABJGADL_00544	gene	408				
+GABJGADL_00544	CDS	408				hypothetical protein
+GABJGADL_00545	gene	882				
+GABJGADL_00545	CDS	882				hypothetical protein
+GABJGADL_00546	gene	318				
+GABJGADL_00546	CDS	318				hypothetical protein
+GABJGADL_00547	gene	201				
+GABJGADL_00547	CDS	201				hypothetical protein
+GABJGADL_00548	gene	348	glnB			
+GABJGADL_00548	CDS	348	glnB		COG0347	Nitrogen regulatory protein P-II
+GABJGADL_00549	gene	483				
+GABJGADL_00549	CDS	483				hypothetical protein
+GABJGADL_00550	gene	1179				
+GABJGADL_00550	CDS	1179				hypothetical protein
+GABJGADL_00551	gene	141				
+GABJGADL_00551	CDS	141				hypothetical protein
+GABJGADL_00552	gene	267				
+GABJGADL_00552	CDS	267				hypothetical protein
+GABJGADL_00553	gene	114				
+GABJGADL_00553	CDS	114				hypothetical protein
+GABJGADL_00554	gene	387				
+GABJGADL_00554	CDS	387				hypothetical protein
+GABJGADL_00555	gene	279				
+GABJGADL_00555	CDS	279				hypothetical protein
+GABJGADL_00556	gene	981				
+GABJGADL_00556	CDS	981				hypothetical protein
+GABJGADL_00557	gene	621	purN			
+GABJGADL_00557	CDS	621	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+GABJGADL_00558	gene	801	obg			
+GABJGADL_00558	CDS	801	obg	3.6.5.-		GTPase Obg
+GABJGADL_00559	gene	285				
+GABJGADL_00559	CDS	285				hypothetical protein
+GABJGADL_00560	gene	1317				
+GABJGADL_00560	CDS	1317				hypothetical protein
+GABJGADL_00561	gene	1101				
+GABJGADL_00561	CDS	1101				hypothetical protein
+GABJGADL_00562	gene	813	ttuD			
+GABJGADL_00562	CDS	813	ttuD		COG2897	Sulfur carrier protein TtuD
+GABJGADL_00563	gene	1809	sir			
+GABJGADL_00563	CDS	1809	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+GABJGADL_00564	gene	129				
+GABJGADL_00564	CDS	129				hypothetical protein
+GABJGADL_00565	gene	843	thi4			
+GABJGADL_00565	CDS	843	thi4	2.4.2.59		Thiamine thiazole synthase
+GABJGADL_00566	gene	768				
+GABJGADL_00566	CDS	768				hypothetical protein
+GABJGADL_00567	gene	990	trxB			
+GABJGADL_00567	CDS	990	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+GABJGADL_00568	gene	1485	rcsC			
+GABJGADL_00568	CDS	1485	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+GABJGADL_00569	gene	840	cysM			
+GABJGADL_00569	CDS	840	cysM	2.5.1.47	COG0031	Cysteine synthase B
+GABJGADL_00570	gene	198	tusA			
+GABJGADL_00570	CDS	198	tusA		COG0425	Sulfur carrier protein TusA
+GABJGADL_00571	gene	918				
+GABJGADL_00571	CDS	918				hypothetical protein
+GABJGADL_00572	gene	741	fbiB			
+GABJGADL_00572	CDS	741	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+GABJGADL_00573	gene	651	serB			
+GABJGADL_00573	CDS	651	serB	3.1.3.3		Phosphoserine phosphatase
+GABJGADL_00574	gene	285				
+GABJGADL_00574	CDS	285				hypothetical protein
+GABJGADL_00575	gene	660	kynB			
+GABJGADL_00575	CDS	660	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+GABJGADL_00576	gene	261				
+GABJGADL_00576	CDS	261				hypothetical protein
+GABJGADL_00577	gene	1155	sufS_1			
+GABJGADL_00577	CDS	1155	sufS_1	2.8.1.7	COG0520	Cysteine desulfurase SufS
+GABJGADL_00578	gene	639				
+GABJGADL_00578	CDS	639				hypothetical protein
+GABJGADL_00579	gene	300	ndhI_3			
+GABJGADL_00579	CDS	300	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GABJGADL_00580	gene	495				
+GABJGADL_00580	CDS	495				hypothetical protein
+GABJGADL_00581	gene	153				
+GABJGADL_00581	CDS	153				hypothetical protein
+GABJGADL_00582	gene	543				
+GABJGADL_00582	CDS	543				hypothetical protein
+GABJGADL_00583	gene	282				
+GABJGADL_00583	CDS	282				hypothetical protein
+GABJGADL_00584	gene	318				
+GABJGADL_00584	CDS	318				hypothetical protein
+GABJGADL_00585	gene	744				
+GABJGADL_00585	CDS	744				hypothetical protein
+GABJGADL_00586	gene	1404	thrA_1			
+GABJGADL_00586	CDS	1404	thrA_1		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+GABJGADL_00587	gene	1515				
+GABJGADL_00587	CDS	1515				hypothetical protein
+GABJGADL_00588	gene	801				
+GABJGADL_00588	CDS	801		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+GABJGADL_00589	gene	1062				
+GABJGADL_00589	CDS	1062				hypothetical protein
+GABJGADL_00590	gene	258				
+GABJGADL_00590	CDS	258				hypothetical protein
+GABJGADL_00591	gene	438				
+GABJGADL_00591	CDS	438				hypothetical protein
+GABJGADL_00592	gene	1089	desV			
+GABJGADL_00592	CDS	1089	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+GABJGADL_00593	gene	483				
+GABJGADL_00593	CDS	483				hypothetical protein
+GABJGADL_00594	gene	354				
+GABJGADL_00594	CDS	354				hypothetical protein
+GABJGADL_00595	gene	894	RBKS			
+GABJGADL_00595	CDS	894	RBKS	2.7.1.15		Ribokinase
+GABJGADL_00596	gene	462				
+GABJGADL_00596	CDS	462				hypothetical protein
+GABJGADL_00597	gene	651				
+GABJGADL_00597	CDS	651				hypothetical protein
+GABJGADL_00598	gene	531	dpnM			
+GABJGADL_00598	CDS	531	dpnM	2.1.1.72		Modification methylase DpnIIA
+GABJGADL_00599	gene	147				
+GABJGADL_00599	CDS	147				hypothetical protein
+GABJGADL_00600	gene	74				
+GABJGADL_00600	tRNA	74				tRNA-Thr(ggt)
+GABJGADL_00601	gene	387				
+GABJGADL_00601	CDS	387				hypothetical protein
+GABJGADL_00602	gene	894				
+GABJGADL_00602	CDS	894				hypothetical protein
+GABJGADL_00603	gene	624	resA_2			
+GABJGADL_00603	CDS	624	resA_2			Thiol-disulfide oxidoreductase ResA
+GABJGADL_00604	gene	75				
+GABJGADL_00604	tRNA	75				tRNA-Ala(tgc)
+GABJGADL_00605	gene	132				
+GABJGADL_00605	CDS	132				hypothetical protein
+GABJGADL_00606	gene	1107				
+GABJGADL_00606	CDS	1107				hypothetical protein
+GABJGADL_00607	gene	465				
+GABJGADL_00607	CDS	465				hypothetical protein
+GABJGADL_00608	gene	312				
+GABJGADL_00608	CDS	312				hypothetical protein
+GABJGADL_00609	gene	282				
+GABJGADL_00609	CDS	282				hypothetical protein
+GABJGADL_00610	gene	1113				
+GABJGADL_00610	CDS	1113				hypothetical protein
+GABJGADL_00611	gene	1413				
+GABJGADL_00611	CDS	1413				hypothetical protein
+GABJGADL_00612	gene	1638				
+GABJGADL_00612	CDS	1638				hypothetical protein
+GABJGADL_00613	gene	240				
+GABJGADL_00613	CDS	240				hypothetical protein
+GABJGADL_00614	gene	567				
+GABJGADL_00614	CDS	567				hypothetical protein
+GABJGADL_00615	gene	633				
+GABJGADL_00615	CDS	633				hypothetical protein
+GABJGADL_00616	gene	153				
+GABJGADL_00616	CDS	153				hypothetical protein
+GABJGADL_00617	gene	303	ureA			
+GABJGADL_00617	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+GABJGADL_00618	gene	510	ureE			
+GABJGADL_00618	CDS	510	ureE			Urease accessory protein UreE
+GABJGADL_00619	gene	702	ureF			
+GABJGADL_00619	CDS	702	ureF		COG0830	Urease accessory protein UreF
+GABJGADL_00620	gene	672	ureG			
+GABJGADL_00620	CDS	672	ureG		COG0378	Urease accessory protein UreG
+GABJGADL_00621	gene	897	ureD			
+GABJGADL_00621	CDS	897	ureD		COG0829	Urease accessory protein UreD
+GABJGADL_00622	gene	1692	groL_3			
+GABJGADL_00622	CDS	1692	groL_3		COG0459	60 kDa chaperonin
+GABJGADL_00623	gene	219				
+GABJGADL_00623	CDS	219				hypothetical protein
+GABJGADL_00624	gene	285				
+GABJGADL_00624	CDS	285				hypothetical protein
+GABJGADL_00625	gene	303				
+GABJGADL_00625	CDS	303				hypothetical protein
+GABJGADL_00626	gene	882	hemW			
+GABJGADL_00626	CDS	882	hemW		COG0635	Heme chaperone HemW
+GABJGADL_00627	gene	237				
+GABJGADL_00627	CDS	237				hypothetical protein
+GABJGADL_00628	gene	138				
+GABJGADL_00628	CDS	138				hypothetical protein
+GABJGADL_00629	gene	984	dsbD			
+GABJGADL_00629	CDS	984	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+GABJGADL_00630	gene	77				
+GABJGADL_00630	tRNA	77				tRNA-Val(tac)
+GABJGADL_00631	gene	1401	thrA_2			
+GABJGADL_00631	CDS	1401	thrA_2		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+GABJGADL_00632	gene	216				
+GABJGADL_00632	CDS	216				hypothetical protein
+GABJGADL_00633	gene	915	ilvE_2			
+GABJGADL_00633	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GABJGADL_00634	gene	564				
+GABJGADL_00634	CDS	564				hypothetical protein
+GABJGADL_00635	gene	684	menG			
+GABJGADL_00635	CDS	684	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+GABJGADL_00636	gene	828				
+GABJGADL_00636	CDS	828				hypothetical protein
+GABJGADL_00637	gene	588	nifS			
+GABJGADL_00637	CDS	588	nifS	2.8.1.7	COG1104	Cysteine desulfurase NifS
+GABJGADL_00638	gene	675	iscS			
+GABJGADL_00638	CDS	675	iscS	2.8.1.7		Cysteine desulfurase IscS
+GABJGADL_00639	gene	801	larE			
+GABJGADL_00639	CDS	801	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+GABJGADL_00640	gene	1233	larC			
+GABJGADL_00640	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+GABJGADL_00641	gene	915	mdh			
+GABJGADL_00641	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+GABJGADL_00642	gene	783	larB			
+GABJGADL_00642	CDS	783	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+GABJGADL_00643	gene	723				
+GABJGADL_00643	CDS	723				hypothetical protein
+GABJGADL_00644	gene	1602				
+GABJGADL_00644	CDS	1602				hypothetical protein
+GABJGADL_00645	gene	324				
+GABJGADL_00645	CDS	324				hypothetical protein
+GABJGADL_00646	gene	930				
+GABJGADL_00646	CDS	930				hypothetical protein
+GABJGADL_00647	gene	1212				
+GABJGADL_00647	CDS	1212				hypothetical protein
+GABJGADL_00648	gene	1170				
+GABJGADL_00648	CDS	1170				hypothetical protein
+GABJGADL_00649	gene	558				
+GABJGADL_00649	CDS	558				hypothetical protein
+GABJGADL_00650	gene	396	epi			
+GABJGADL_00650	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+GABJGADL_00651	gene	1599	mcm_1			
+GABJGADL_00651	CDS	1599	mcm_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+GABJGADL_00652	gene	918				
+GABJGADL_00652	CDS	918		3.6.-.-	COG1703	putative GTPase
+GABJGADL_00653	gene	411				
+GABJGADL_00653	CDS	411				hypothetical protein
+GABJGADL_00654	gene	2499	pepN			
+GABJGADL_00654	CDS	2499	pepN	3.4.11.2	COG0308	Aminopeptidase N
+GABJGADL_00655	gene	423	mcm_2			
+GABJGADL_00655	CDS	423	mcm_2	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+GABJGADL_00656	gene	999	ilvC			
+GABJGADL_00656	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+GABJGADL_00657	gene	327				
+GABJGADL_00657	CDS	327				hypothetical protein
+GABJGADL_00658	gene	531				
+GABJGADL_00658	CDS	531		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+GABJGADL_00659	gene	636				
+GABJGADL_00659	CDS	636				hypothetical protein
+GABJGADL_00660	gene	918	tuf_1			
+GABJGADL_00660	CDS	918	tuf_1			Elongation factor Tu
+GABJGADL_00661	gene	114				
+GABJGADL_00661	CDS	114				hypothetical protein
+GABJGADL_00662	gene	765				
+GABJGADL_00662	CDS	765				hypothetical protein
+GABJGADL_00663	gene	153				
+GABJGADL_00663	CDS	153				hypothetical protein
+GABJGADL_00664	gene	3789	rpoC			
+GABJGADL_00664	CDS	3789	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GABJGADL_00665	gene	1479				
+GABJGADL_00665	CDS	1479				hypothetical protein
+GABJGADL_00666	gene	309				
+GABJGADL_00666	CDS	309				hypothetical protein
+GABJGADL_00667	gene	462	nusA			
+GABJGADL_00667	CDS	462	nusA			Transcription termination/antitermination protein NusA
+GABJGADL_00668	gene	438				
+GABJGADL_00668	CDS	438				hypothetical protein
+GABJGADL_00669	gene	600				
+GABJGADL_00669	CDS	600				hypothetical protein
+GABJGADL_00670	gene	324				
+GABJGADL_00670	CDS	324				hypothetical protein
+GABJGADL_00671	gene	705				
+GABJGADL_00671	CDS	705				hypothetical protein
+GABJGADL_00672	gene	1011				
+GABJGADL_00672	CDS	1011				hypothetical protein
+GABJGADL_00673	gene	306				
+GABJGADL_00673	CDS	306				hypothetical protein
+GABJGADL_00674	gene	264				
+GABJGADL_00674	CDS	264				hypothetical protein
+GABJGADL_00675	gene	276				
+GABJGADL_00675	CDS	276				hypothetical protein
+GABJGADL_00676	gene	189				
+GABJGADL_00676	CDS	189				hypothetical protein
+GABJGADL_00677	gene	135				
+GABJGADL_00677	CDS	135				hypothetical protein
+GABJGADL_00678	gene	1137				
+GABJGADL_00678	CDS	1137				hypothetical protein
+GABJGADL_00679	gene	2655				
+GABJGADL_00679	CDS	2655				hypothetical protein
+GABJGADL_00680	gene	2106				
+GABJGADL_00680	CDS	2106				hypothetical protein
+GABJGADL_00681	gene	162				
+GABJGADL_00681	CDS	162				hypothetical protein
+GABJGADL_00682	gene	396				
+GABJGADL_00682	CDS	396				hypothetical protein
+GABJGADL_00683	gene	1170	fadA			
+GABJGADL_00683	CDS	1170	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+GABJGADL_00684	gene	462				
+GABJGADL_00684	CDS	462				hypothetical protein
+GABJGADL_00685	gene	810	ybeM			
+GABJGADL_00685	CDS	810	ybeM	3.5.1.128		Deaminated glutathione amidase
+GABJGADL_00686	gene	177	ywhB			
+GABJGADL_00686	CDS	177	ywhB	5.3.2.6	COG1942	2-hydroxymuconate tautomerase
+GABJGADL_00687	gene	573				
+GABJGADL_00687	CDS	573				hypothetical protein
+GABJGADL_00688	gene	765				
+GABJGADL_00688	CDS	765				hypothetical protein
+GABJGADL_00689	gene	1503				
+GABJGADL_00689	CDS	1503				hypothetical protein
+GABJGADL_00690	gene	924	rssB			
+GABJGADL_00690	CDS	924	rssB			Regulator of RpoS
+GABJGADL_00691	gene	594				
+GABJGADL_00691	CDS	594				hypothetical protein
+GABJGADL_00692	gene	288				
+GABJGADL_00692	CDS	288				hypothetical protein
+GABJGADL_00693	gene	870				
+GABJGADL_00693	CDS	870				hypothetical protein
+GABJGADL_00694	gene	999	nadK			
+GABJGADL_00694	CDS	999	nadK	2.7.1.23		NAD kinase
+GABJGADL_00695	gene	1572	pyrG			
+GABJGADL_00695	CDS	1572	pyrG	6.3.4.2		CTP synthase
+GABJGADL_00696	gene	561				
+GABJGADL_00696	CDS	561				hypothetical protein
+GABJGADL_00697	gene	303				
+GABJGADL_00697	CDS	303				hypothetical protein
+GABJGADL_00698	gene	534				
+GABJGADL_00698	CDS	534				hypothetical protein
+GABJGADL_00699	gene	111				
+GABJGADL_00699	CDS	111				hypothetical protein
+GABJGADL_00700	gene	546				
+GABJGADL_00700	CDS	546				hypothetical protein
+GABJGADL_00701	gene	348				
+GABJGADL_00701	CDS	348				hypothetical protein
+GABJGADL_00702	gene	678	pyrH			
+GABJGADL_00702	CDS	678	pyrH	2.7.4.22		Uridylate kinase
+GABJGADL_00703	gene	1245				
+GABJGADL_00703	CDS	1245				hypothetical protein
+GABJGADL_00704	gene	582	tmk			
+GABJGADL_00704	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+GABJGADL_00705	gene	393				
+GABJGADL_00705	CDS	393				hypothetical protein
+GABJGADL_00706	gene	1527	ubiB_1			
+GABJGADL_00706	CDS	1527	ubiB_1	2.7.-.-	COG0661	putative protein kinase UbiB
+GABJGADL_00707	gene	393				
+GABJGADL_00707	CDS	393				hypothetical protein
+GABJGADL_00708	gene	582				
+GABJGADL_00708	CDS	582				hypothetical protein
+GABJGADL_00709	gene	1125				
+GABJGADL_00709	CDS	1125				hypothetical protein
+GABJGADL_00710	gene	999				
+GABJGADL_00710	CDS	999				hypothetical protein
+GABJGADL_00711	gene	201				
+GABJGADL_00711	CDS	201				hypothetical protein
+GABJGADL_00712	gene	963				
+GABJGADL_00712	CDS	963				hypothetical protein
+GABJGADL_00713	gene	999				
+GABJGADL_00713	CDS	999				hypothetical protein
+GABJGADL_00714	gene	942	pyrB			
+GABJGADL_00714	CDS	942	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+GABJGADL_00715	gene	462	pyrI			
+GABJGADL_00715	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+GABJGADL_00716	gene	309	atpH			
+GABJGADL_00716	CDS	309	atpH			ATP synthase subunit c
+GABJGADL_00717	gene	132				
+GABJGADL_00717	CDS	132				hypothetical protein
+GABJGADL_00718	gene	642	ntpD			
+GABJGADL_00718	CDS	642	ntpD			V-type sodium ATPase subunit D
+GABJGADL_00719	gene	1386	ntpB			
+GABJGADL_00719	CDS	1386	ntpB			V-type sodium ATPase subunit B
+GABJGADL_00720	gene	1779	atpA			
+GABJGADL_00720	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+GABJGADL_00721	gene	600	atpE			
+GABJGADL_00721	CDS	600	atpE			V-type proton ATPase subunit E
+GABJGADL_00722	gene	591	prcB_2			
+GABJGADL_00722	CDS	591	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+GABJGADL_00723	gene	1353	dapE			
+GABJGADL_00723	CDS	1353	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+GABJGADL_00724	gene	864	nnr			
+GABJGADL_00724	CDS	864	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GABJGADL_00725	gene	531				
+GABJGADL_00725	CDS	531				hypothetical protein
+GABJGADL_00726	gene	813	trmI			
+GABJGADL_00726	CDS	813	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+GABJGADL_00727	gene	522				
+GABJGADL_00727	CDS	522				hypothetical protein
+GABJGADL_00728	gene	393	spo0A			
+GABJGADL_00728	CDS	393	spo0A		COG0784	Stage 0 sporulation protein A
+GABJGADL_00729	gene	1881	argS			
+GABJGADL_00729	CDS	1881	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GABJGADL_00730	gene	696				
+GABJGADL_00730	CDS	696				hypothetical protein
+GABJGADL_00731	gene	219				
+GABJGADL_00731	CDS	219				hypothetical protein
+GABJGADL_00732	gene	264				
+GABJGADL_00732	CDS	264				hypothetical protein
+GABJGADL_00733	gene	510				
+GABJGADL_00733	CDS	510				hypothetical protein
+GABJGADL_00734	gene	111				
+GABJGADL_00734	CDS	111				hypothetical protein
+GABJGADL_00735	gene	408				
+GABJGADL_00735	CDS	408				hypothetical protein
+GABJGADL_00736	gene	216				
+GABJGADL_00736	CDS	216				hypothetical protein
+GABJGADL_00737	gene	309	rpsJ			
+GABJGADL_00737	CDS	309	rpsJ			30S ribosomal protein S10
+GABJGADL_00738	gene	1299	tuf_2			
+GABJGADL_00738	CDS	1299	tuf_2		COG0050	Elongation factor Tu
+GABJGADL_00739	gene	1137	fbp			
+GABJGADL_00739	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+GABJGADL_00740	gene	411				
+GABJGADL_00740	CDS	411				hypothetical protein
+GABJGADL_00741	gene	1782	lig			
+GABJGADL_00741	CDS	1782	lig	6.5.1.1		DNA ligase
+GABJGADL_00742	gene	654				
+GABJGADL_00742	CDS	654				hypothetical protein
+GABJGADL_00743	gene	1074	cobT			
+GABJGADL_00743	CDS	1074	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+GABJGADL_00744	gene	1761	glmS			
+GABJGADL_00744	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GABJGADL_00745	gene	702				
+GABJGADL_00745	CDS	702				hypothetical protein
+GABJGADL_00746	gene	663				
+GABJGADL_00746	CDS	663				hypothetical protein
+GABJGADL_00747	gene	1632				
+GABJGADL_00747	CDS	1632				hypothetical protein
+GABJGADL_00748	gene	1350				
+GABJGADL_00748	CDS	1350				hypothetical protein
+GABJGADL_00749	gene	312				
+GABJGADL_00749	CDS	312				hypothetical protein
+GABJGADL_00750	gene	510				
+GABJGADL_00750	CDS	510				hypothetical protein
+GABJGADL_00751	gene	561	cmk			
+GABJGADL_00751	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+GABJGADL_00752	gene	630				
+GABJGADL_00752	CDS	630				hypothetical protein
+GABJGADL_00753	gene	588				
+GABJGADL_00753	CDS	588				hypothetical protein
+GABJGADL_00754	gene	1431	secY_1			
+GABJGADL_00754	CDS	1431	secY_1			Protein translocase subunit SecY
+GABJGADL_00755	gene	426				
+GABJGADL_00755	CDS	426				hypothetical protein
+GABJGADL_00756	gene	468				
+GABJGADL_00756	CDS	468				hypothetical protein
+GABJGADL_00757	gene	675				
+GABJGADL_00757	CDS	675				hypothetical protein
+GABJGADL_00758	gene	489				
+GABJGADL_00758	CDS	489				hypothetical protein
+GABJGADL_00759	gene	915	argF			
+GABJGADL_00759	CDS	915	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+GABJGADL_00760	gene	1212	ftsY			
+GABJGADL_00760	CDS	1212	ftsY			Signal recognition particle receptor FtsY
+GABJGADL_00761	gene	237				
+GABJGADL_00761	CDS	237				hypothetical protein
+GABJGADL_00762	gene	1779				
+GABJGADL_00762	CDS	1779				hypothetical protein
+GABJGADL_00763	gene	771	yfcA			
+GABJGADL_00763	CDS	771	yfcA		COG0730	putative membrane transporter protein YfcA
+GABJGADL_00764	gene	645				
+GABJGADL_00764	CDS	645				hypothetical protein
+GABJGADL_00765	gene	495				
+GABJGADL_00765	CDS	495				hypothetical protein
+GABJGADL_00766	gene	351				
+GABJGADL_00766	CDS	351				hypothetical protein
+GABJGADL_00767	gene	465	mntR_2			
+GABJGADL_00767	CDS	465	mntR_2			HTH-type transcriptional regulator MntR
+GABJGADL_00768	gene	531				
+GABJGADL_00768	CDS	531				hypothetical protein
+GABJGADL_00769	gene	1401				
+GABJGADL_00769	CDS	1401				hypothetical protein
+GABJGADL_00770	gene	450				
+GABJGADL_00770	CDS	450				hypothetical protein
+GABJGADL_00771	gene	702				
+GABJGADL_00771	CDS	702				hypothetical protein
+GABJGADL_00772	gene	1674				
+GABJGADL_00772	CDS	1674				hypothetical protein
+GABJGADL_00773	gene	1482				
+GABJGADL_00773	CDS	1482				hypothetical protein
+GABJGADL_00774	gene	1281				
+GABJGADL_00774	CDS	1281				hypothetical protein
+GABJGADL_00775	gene	693				
+GABJGADL_00775	CDS	693				hypothetical protein
+GABJGADL_00776	gene	240				
+GABJGADL_00776	CDS	240				hypothetical protein
+GABJGADL_00777	gene	564				
+GABJGADL_00777	CDS	564				hypothetical protein
+GABJGADL_00778	gene	252				
+GABJGADL_00778	CDS	252				hypothetical protein
+GABJGADL_00779	gene	339				
+GABJGADL_00779	CDS	339				hypothetical protein
+GABJGADL_00780	gene	1329	edcC			
+GABJGADL_00780	CDS	1329	edcC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+GABJGADL_00781	gene	588				
+GABJGADL_00781	CDS	588				hypothetical protein
+GABJGADL_00782	gene	222				
+GABJGADL_00782	CDS	222				hypothetical protein
+GABJGADL_00783	gene	375	zitB			
+GABJGADL_00783	CDS	375	zitB			Zinc transporter ZitB
+GABJGADL_00784	gene	603	czcD			
+GABJGADL_00784	CDS	603	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+GABJGADL_00785	gene	408				
+GABJGADL_00785	CDS	408				hypothetical protein
+GABJGADL_00786	gene	654				
+GABJGADL_00786	CDS	654				hypothetical protein
+GABJGADL_00787	gene	636				
+GABJGADL_00787	CDS	636				hypothetical protein
+GABJGADL_00788	gene	840				
+GABJGADL_00788	CDS	840				hypothetical protein
+GABJGADL_00789	gene	861				
+GABJGADL_00789	CDS	861				hypothetical protein
+GABJGADL_00790	gene	150				
+GABJGADL_00790	CDS	150				hypothetical protein
+GABJGADL_00791	gene	384				
+GABJGADL_00791	CDS	384				hypothetical protein
+GABJGADL_00792	gene	387				
+GABJGADL_00792	CDS	387				hypothetical protein
+GABJGADL_00793	gene	414				
+GABJGADL_00793	CDS	414				hypothetical protein
+GABJGADL_00794	gene	219				
+GABJGADL_00794	CDS	219				hypothetical protein
+GABJGADL_00795	gene	240				
+GABJGADL_00795	CDS	240				hypothetical protein
+GABJGADL_00796	gene	225				
+GABJGADL_00796	CDS	225				hypothetical protein
+GABJGADL_00797	gene	77				
+GABJGADL_00797	tRNA	77				tRNA-Phe(gaa)
+GABJGADL_00798	gene	537	yvqK			
+GABJGADL_00798	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+GABJGADL_00799	gene	147				
+GABJGADL_00799	CDS	147				hypothetical protein
+GABJGADL_00800	gene	537				
+GABJGADL_00800	CDS	537				hypothetical protein
+GABJGADL_00801	gene	234				
+GABJGADL_00801	CDS	234				hypothetical protein
+GABJGADL_00802	gene	348				
+GABJGADL_00802	CDS	348				hypothetical protein
+GABJGADL_00803	gene	309	bnzC_2			
+GABJGADL_00803	CDS	309	bnzC_2		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+GABJGADL_00804	gene	1953	uvrB_2			
+GABJGADL_00804	CDS	1953	uvrB_2			UvrABC system protein B
+GABJGADL_00805	gene	2817	uvrA_2			
+GABJGADL_00805	CDS	2817	uvrA_2			UvrABC system protein A
+GABJGADL_00806	gene	1584	uvrC_2			
+GABJGADL_00806	CDS	1584	uvrC_2		COG0322	UvrABC system protein C
+GABJGADL_00807	gene	723	mntB			
+GABJGADL_00807	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+GABJGADL_00808	gene	891	znuA			
+GABJGADL_00808	CDS	891	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+GABJGADL_00809	gene	384	nikR			
+GABJGADL_00809	CDS	384	nikR			Nickel-responsive regulator
+GABJGADL_00810	gene	1839				
+GABJGADL_00810	CDS	1839				hypothetical protein
+GABJGADL_00811	gene	384	cheY_1			
+GABJGADL_00811	CDS	384	cheY_1		COG0784	Chemotaxis protein CheY
+GABJGADL_00812	gene	114				
+GABJGADL_00812	CDS	114				hypothetical protein
+GABJGADL_00813	gene	861	cheR			
+GABJGADL_00813	CDS	861	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+GABJGADL_00814	gene	735				
+GABJGADL_00814	CDS	735				hypothetical protein
+GABJGADL_00815	gene	318	cheA			
+GABJGADL_00815	CDS	318	cheA	2.7.13.3	COG0643	Chemotaxis protein CheA
+GABJGADL_00816	gene	1011	hom			
+GABJGADL_00816	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GABJGADL_00817	gene	405	msrB			
+GABJGADL_00817	CDS	405	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+GABJGADL_00818	gene	1614	thyX			
+GABJGADL_00818	CDS	1614	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+GABJGADL_00819	gene	282				
+GABJGADL_00819	CDS	282				hypothetical protein
+GABJGADL_00820	gene	879				
+GABJGADL_00820	CDS	879				hypothetical protein
+GABJGADL_00821	gene	186				
+GABJGADL_00821	CDS	186				hypothetical protein
+GABJGADL_00822	gene	177				
+GABJGADL_00822	CDS	177				hypothetical protein
+GABJGADL_00823	gene	225				
+GABJGADL_00823	CDS	225				hypothetical protein
+GABJGADL_00824	gene	780				
+GABJGADL_00824	CDS	780				hypothetical protein
+GABJGADL_00825	gene	1002	drrA			
+GABJGADL_00825	CDS	1002	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+GABJGADL_00826	gene	453				
+GABJGADL_00826	CDS	453				hypothetical protein
+GABJGADL_00827	gene	330				
+GABJGADL_00827	CDS	330				hypothetical protein
+GABJGADL_00828	gene	645				
+GABJGADL_00828	CDS	645				hypothetical protein
+GABJGADL_00829	gene	474				
+GABJGADL_00829	CDS	474				hypothetical protein
+GABJGADL_00830	gene	360				
+GABJGADL_00830	CDS	360				hypothetical protein
+GABJGADL_00831	gene	312				
+GABJGADL_00831	CDS	312				hypothetical protein
+GABJGADL_00832	gene	183	cobO_1			
+GABJGADL_00832	CDS	183	cobO_1	2.5.1.17		Corrinoid adenosyltransferase
+GABJGADL_00833	gene	804				
+GABJGADL_00833	CDS	804				hypothetical protein
+GABJGADL_00834	gene	156				
+GABJGADL_00834	CDS	156				hypothetical protein
+GABJGADL_00835	gene	2670				
+GABJGADL_00835	CDS	2670				hypothetical protein
+GABJGADL_00836	gene	456				
+GABJGADL_00836	CDS	456				hypothetical protein
+GABJGADL_00837	gene	369				
+GABJGADL_00837	CDS	369				hypothetical protein
+GABJGADL_00838	gene	1263	tuf_3			
+GABJGADL_00838	CDS	1263	tuf_3			Elongation factor Tu
+GABJGADL_00839	gene	819	nit1			
+GABJGADL_00839	CDS	819	nit1	3.5.1.128		Deaminated glutathione amidase
+GABJGADL_00840	gene	1098	ino1			
+GABJGADL_00840	CDS	1098	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+GABJGADL_00841	gene	948				
+GABJGADL_00841	CDS	948		2.5.-.-		Deoxyhypusine synthase-like protein
+GABJGADL_00842	gene	717				
+GABJGADL_00842	CDS	717				hypothetical protein
+GABJGADL_00843	gene	501				
+GABJGADL_00843	CDS	501				hypothetical protein
+GABJGADL_00844	gene	789				
+GABJGADL_00844	CDS	789		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+GABJGADL_00845	gene	417				
+GABJGADL_00845	CDS	417				hypothetical protein
+GABJGADL_00846	gene	747	pyrF			
+GABJGADL_00846	CDS	747	pyrF			Orotidine 5'-phosphate decarboxylase
+GABJGADL_00847	gene	663				
+GABJGADL_00847	CDS	663				hypothetical protein
+GABJGADL_00848	gene	1002	purA			
+GABJGADL_00848	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GABJGADL_00849	gene	462				
+GABJGADL_00849	CDS	462				hypothetical protein
+GABJGADL_00850	gene	279				
+GABJGADL_00850	CDS	279				hypothetical protein
+GABJGADL_00851	gene	222				
+GABJGADL_00851	CDS	222				hypothetical protein
+GABJGADL_00852	gene	642				
+GABJGADL_00852	CDS	642				hypothetical protein
+GABJGADL_00853	gene	1080	pabB			
+GABJGADL_00853	CDS	1080	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+GABJGADL_00854	gene	591	trpG			
+GABJGADL_00854	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+GABJGADL_00855	gene	1047	trpD			
+GABJGADL_00855	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+GABJGADL_00856	gene	681	trpC			
+GABJGADL_00856	CDS	681	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+GABJGADL_00857	gene	1191	trpB			
+GABJGADL_00857	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+GABJGADL_00858	gene	807	trpA			
+GABJGADL_00858	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+GABJGADL_00859	gene	237				
+GABJGADL_00859	CDS	237				hypothetical protein
+GABJGADL_00860	gene	75				
+GABJGADL_00860	tRNA	75				tRNA-Gly(ccc)
+GABJGADL_00861	gene	117				
+GABJGADL_00861	CDS	117				hypothetical protein
+GABJGADL_00862	gene	549	guaA_2			
+GABJGADL_00862	CDS	549	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+GABJGADL_00863	gene	2853				
+GABJGADL_00863	CDS	2853				hypothetical protein
+GABJGADL_00864	gene	1122				
+GABJGADL_00864	CDS	1122				hypothetical protein
+GABJGADL_00865	gene	1017				
+GABJGADL_00865	CDS	1017				hypothetical protein
+GABJGADL_00866	gene	75				
+GABJGADL_00866	tRNA	75				tRNA-Cys(gca)
+GABJGADL_00867	gene	222				
+GABJGADL_00867	CDS	222				hypothetical protein
+GABJGADL_00868	gene	756	ycfH			
+GABJGADL_00868	CDS	756	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+GABJGADL_00869	gene	330				
+GABJGADL_00869	CDS	330				hypothetical protein
+GABJGADL_00870	gene	777				
+GABJGADL_00870	CDS	777				hypothetical protein
+GABJGADL_00871	gene	522				
+GABJGADL_00871	CDS	522				hypothetical protein
+GABJGADL_00872	gene	600				
+GABJGADL_00872	CDS	600		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+GABJGADL_00873	gene	165				
+GABJGADL_00873	CDS	165				hypothetical protein
+GABJGADL_00874	gene	348				
+GABJGADL_00874	CDS	348				hypothetical protein
+GABJGADL_00875	gene	315				
+GABJGADL_00875	CDS	315				hypothetical protein
+GABJGADL_00876	gene	243				
+GABJGADL_00876	CDS	243				hypothetical protein
+GABJGADL_00877	gene	255				
+GABJGADL_00877	CDS	255				hypothetical protein
+GABJGADL_00878	gene	423	pfdA			
+GABJGADL_00878	CDS	423	pfdA			Prefoldin subunit alpha
+GABJGADL_00879	gene	621	sodA			
+GABJGADL_00879	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+GABJGADL_00880	gene	573	vpr			
+GABJGADL_00880	CDS	573	vpr	3.4.21.-	COG1404	Minor extracellular protease vpr
+GABJGADL_00881	gene	1347				
+GABJGADL_00881	CDS	1347				hypothetical protein
+GABJGADL_00882	gene	1608	pckA			
+GABJGADL_00882	CDS	1608	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+GABJGADL_00883	gene	405				
+GABJGADL_00883	CDS	405				hypothetical protein
+GABJGADL_00884	gene	723	prcA			
+GABJGADL_00884	CDS	723	prcA			Proteasome subunit alpha
+GABJGADL_00885	gene	387				
+GABJGADL_00885	CDS	387				hypothetical protein
+GABJGADL_00886	gene	888	auaH			
+GABJGADL_00886	CDS	888	auaH	1.1.1.394		Aurachin B dehydrogenase
+GABJGADL_00887	gene	1278	rocG			
+GABJGADL_00887	CDS	1278	rocG	1.4.1.2	COG0334	Catabolic NAD-specific glutamate dehydrogenase RocG
+GABJGADL_00888	gene	387				
+GABJGADL_00888	CDS	387				hypothetical protein
+GABJGADL_00889	gene	687				
+GABJGADL_00889	CDS	687				hypothetical protein
+GABJGADL_00890	gene	252				
+GABJGADL_00890	CDS	252				hypothetical protein
+GABJGADL_00891	gene	228				
+GABJGADL_00891	CDS	228				hypothetical protein
+GABJGADL_00892	gene	96				
+GABJGADL_00892	tRNA	96				tRNA-Val(cac)
+GABJGADL_00893	gene	168				
+GABJGADL_00893	CDS	168				hypothetical protein
+GABJGADL_00894	gene	918	sucD			
+GABJGADL_00894	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GABJGADL_00895	gene	1113	sucC			
+GABJGADL_00895	CDS	1113	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+GABJGADL_00896	gene	336				
+GABJGADL_00896	CDS	336				hypothetical protein
+GABJGADL_00897	gene	2136	ileS			
+GABJGADL_00897	CDS	2136	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GABJGADL_00898	gene	2145				
+GABJGADL_00898	CDS	2145				hypothetical protein
+GABJGADL_00899	gene	2094				
+GABJGADL_00899	CDS	2094				hypothetical protein
+GABJGADL_00900	gene	471				
+GABJGADL_00900	CDS	471				hypothetical protein
+GABJGADL_00901	gene	189				
+GABJGADL_00901	CDS	189				hypothetical protein
+GABJGADL_00902	gene	708	rnr			
+GABJGADL_00902	CDS	708	rnr	3.1.13.1		Ribonuclease R
+GABJGADL_00903	gene	1092	apbC			
+GABJGADL_00903	CDS	1092	apbC		COG0489	Iron-sulfur cluster carrier protein
+GABJGADL_00904	gene	498				
+GABJGADL_00904	CDS	498				hypothetical protein
+GABJGADL_00905	gene	363				
+GABJGADL_00905	CDS	363				hypothetical protein
+GABJGADL_00906	gene	282				
+GABJGADL_00906	CDS	282				hypothetical protein
+GABJGADL_00907	gene	150				
+GABJGADL_00907	CDS	150				hypothetical protein
+GABJGADL_00908	gene	819				
+GABJGADL_00908	CDS	819				hypothetical protein
+GABJGADL_00909	gene	285	phhB			
+GABJGADL_00909	CDS	285	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+GABJGADL_00910	gene	756				
+GABJGADL_00910	CDS	756				hypothetical protein
+GABJGADL_00911	gene	1362	purB			
+GABJGADL_00911	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+GABJGADL_00912	gene	708				
+GABJGADL_00912	CDS	708				hypothetical protein
+GABJGADL_00913	gene	300				
+GABJGADL_00913	CDS	300				hypothetical protein
+GABJGADL_00914	gene	552				
+GABJGADL_00914	CDS	552				hypothetical protein
+GABJGADL_00915	gene	537				
+GABJGADL_00915	CDS	537				hypothetical protein
+GABJGADL_00916	gene	435				
+GABJGADL_00916	CDS	435				hypothetical protein
+GABJGADL_00917	gene	966				
+GABJGADL_00917	CDS	966				hypothetical protein
+GABJGADL_00918	gene	1911				
+GABJGADL_00918	CDS	1911				hypothetical protein
+GABJGADL_00919	gene	783	nadE			
+GABJGADL_00919	CDS	783	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+GABJGADL_00920	gene	303	todB			
+GABJGADL_00920	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+GABJGADL_00921	gene	1242	ahcY			
+GABJGADL_00921	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+GABJGADL_00922	gene	1365	gabD1			
+GABJGADL_00922	CDS	1365	gabD1	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+GABJGADL_00923	gene	324				
+GABJGADL_00923	CDS	324				hypothetical protein
+GABJGADL_00924	gene	378				
+GABJGADL_00924	CDS	378				hypothetical protein
+GABJGADL_00925	gene	411	yccU			
+GABJGADL_00925	CDS	411	yccU		COG1832	putative protein YccU
+GABJGADL_00926	gene	996	birA			
+GABJGADL_00926	CDS	996	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GABJGADL_00927	gene	384				
+GABJGADL_00927	CDS	384				hypothetical protein
+GABJGADL_00928	gene	474				
+GABJGADL_00928	CDS	474				hypothetical protein
+GABJGADL_00929	gene	180				
+GABJGADL_00929	CDS	180				hypothetical protein
+GABJGADL_00930	gene	858	mcl2			
+GABJGADL_00930	CDS	858	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+GABJGADL_00931	gene	1080	ccr			
+GABJGADL_00931	CDS	1080	ccr	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+GABJGADL_00932	gene	279				
+GABJGADL_00932	CDS	279				hypothetical protein
+GABJGADL_00933	gene	453				
+GABJGADL_00933	CDS	453				hypothetical protein
+GABJGADL_00934	gene	303				
+GABJGADL_00934	CDS	303				hypothetical protein
+GABJGADL_00935	gene	76				
+GABJGADL_00935	tRNA	76				tRNA-Gly(tcc)
+GABJGADL_00936	gene	669				
+GABJGADL_00936	CDS	669				hypothetical protein
+GABJGADL_00937	gene	237				
+GABJGADL_00937	CDS	237				hypothetical protein
+GABJGADL_00938	gene	1239	eno_1			
+GABJGADL_00938	CDS	1239	eno_1	4.2.1.11	COG0148	Enolase
+GABJGADL_00939	gene	624				
+GABJGADL_00939	CDS	624				hypothetical protein
+GABJGADL_00940	gene	834				
+GABJGADL_00940	CDS	834				hypothetical protein
+GABJGADL_00941	gene	948	galK			
+GABJGADL_00941	CDS	948	galK	2.7.1.6		Galactokinase
+GABJGADL_00942	gene	213				
+GABJGADL_00942	CDS	213				hypothetical protein
+GABJGADL_00943	gene	1008				
+GABJGADL_00943	CDS	1008				hypothetical protein
+GABJGADL_00944	gene	489				
+GABJGADL_00944	CDS	489				hypothetical protein
+GABJGADL_00945	gene	456				
+GABJGADL_00945	CDS	456				hypothetical protein
+GABJGADL_00946	gene	1161				
+GABJGADL_00946	CDS	1161				hypothetical protein
+GABJGADL_00947	gene	411	ssuB			
+GABJGADL_00947	CDS	411	ssuB	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+GABJGADL_00948	gene	765	ssuC_2			
+GABJGADL_00948	CDS	765	ssuC_2		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+GABJGADL_00949	gene	1023				
+GABJGADL_00949	CDS	1023				hypothetical protein
+GABJGADL_00950	gene	1014	metE_3			
+GABJGADL_00950	CDS	1014	metE_3	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+GABJGADL_00951	gene	693	metE_4			
+GABJGADL_00951	CDS	693	metE_4	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+GABJGADL_00952	gene	417				
+GABJGADL_00952	CDS	417				Protein archease
+GABJGADL_00953	gene	297				
+GABJGADL_00953	CDS	297				hypothetical protein
+GABJGADL_00954	gene	1182				
+GABJGADL_00954	CDS	1182				hypothetical protein
+GABJGADL_00955	gene	438				
+GABJGADL_00955	CDS	438				hypothetical protein
+GABJGADL_00956	gene	561				
+GABJGADL_00956	CDS	561				hypothetical protein
+GABJGADL_00957	gene	1122				
+GABJGADL_00957	CDS	1122				hypothetical protein
+GABJGADL_00958	gene	189				
+GABJGADL_00958	CDS	189				hypothetical protein
+GABJGADL_00959	gene	927				
+GABJGADL_00959	CDS	927		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+GABJGADL_00960	gene	74				
+GABJGADL_00960	tRNA	74				tRNA-Pro(tgg)
+GABJGADL_00961	gene	300				
+GABJGADL_00961	CDS	300				hypothetical protein
+GABJGADL_00962	gene	120				
+GABJGADL_00962	CDS	120				hypothetical protein
+GABJGADL_00963	gene	1557	nrgA			
+GABJGADL_00963	CDS	1557	nrgA			Ammonium transporter
+GABJGADL_00964	gene	777	rhdA			
+GABJGADL_00964	CDS	777	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+GABJGADL_00965	gene	123				
+GABJGADL_00965	CDS	123				hypothetical protein
+GABJGADL_00966	gene	531				
+GABJGADL_00966	CDS	531				hypothetical protein
+GABJGADL_00967	gene	270				
+GABJGADL_00967	CDS	270				hypothetical protein
+GABJGADL_00968	gene	495				
+GABJGADL_00968	CDS	495				hypothetical protein
+GABJGADL_00969	gene	576				
+GABJGADL_00969	CDS	576				hypothetical protein
+GABJGADL_00970	gene	672				
+GABJGADL_00970	CDS	672				hypothetical protein
+GABJGADL_00971	gene	783				
+GABJGADL_00971	CDS	783			COG2968	26 kDa periplasmic immunogenic protein
+GABJGADL_00972	gene	76				
+GABJGADL_00972	tRNA	76				tRNA-Glu(ctc)
+GABJGADL_00973	gene	390				
+GABJGADL_00973	CDS	390				hypothetical protein
+GABJGADL_00974	gene	735	rph			
+GABJGADL_00974	CDS	735	rph	2.7.7.56	COG0689	Ribonuclease PH
+GABJGADL_00975	gene	681	pnp			
+GABJGADL_00975	CDS	681	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+GABJGADL_00976	gene	690				
+GABJGADL_00976	CDS	690				hypothetical protein
+GABJGADL_00977	gene	642				
+GABJGADL_00977	CDS	642				hypothetical protein
+GABJGADL_00978	gene	252				
+GABJGADL_00978	CDS	252				hypothetical protein
+GABJGADL_00979	gene	981				
+GABJGADL_00979	CDS	981				hypothetical protein
+GABJGADL_00980	gene	1398				
+GABJGADL_00980	CDS	1398				hypothetical protein
+GABJGADL_00981	gene	528				
+GABJGADL_00981	CDS	528				hypothetical protein
+GABJGADL_00982	gene	477				
+GABJGADL_00982	CDS	477				hypothetical protein
+GABJGADL_00983	gene	294	atpF			
+GABJGADL_00983	CDS	294	atpF			V-type ATP synthase subunit F
+GABJGADL_00984	gene	747				
+GABJGADL_00984	CDS	747				hypothetical protein
+GABJGADL_00985	gene	1029	gutB			
+GABJGADL_00985	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+GABJGADL_00986	gene	168				
+GABJGADL_00986	CDS	168				hypothetical protein
+GABJGADL_00987	gene	771	ndhA_2			
+GABJGADL_00987	CDS	771	ndhA_2	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+GABJGADL_00988	gene	498	nuoI			
+GABJGADL_00988	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+GABJGADL_00989	gene	513				
+GABJGADL_00989	CDS	513				hypothetical protein
+GABJGADL_00990	gene	306	nuoK_2			
+GABJGADL_00990	CDS	306	nuoK_2	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+GABJGADL_00991	gene	165				
+GABJGADL_00991	CDS	165				hypothetical protein
+GABJGADL_00992	gene	75				
+GABJGADL_00992	tRNA	75				tRNA-Thr(tgt)
+GABJGADL_00993	gene	210				
+GABJGADL_00993	CDS	210				hypothetical protein
+GABJGADL_00994	gene	549				
+GABJGADL_00994	CDS	549				hypothetical protein
+GABJGADL_00995	gene	480	bcp_2			
+GABJGADL_00995	CDS	480	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GABJGADL_00996	gene	357				
+GABJGADL_00996	CDS	357				hypothetical protein
+GABJGADL_00997	gene	252				
+GABJGADL_00997	CDS	252				hypothetical protein
+GABJGADL_00998	gene	828				
+GABJGADL_00998	CDS	828				hypothetical protein
+GABJGADL_00999	gene	150				
+GABJGADL_00999	CDS	150				hypothetical protein
+GABJGADL_01000	gene	534	cobO_2			
+GABJGADL_01000	CDS	534	cobO_2	2.5.1.17		Corrinoid adenosyltransferase
+GABJGADL_01001	gene	1371	cbiA			
+GABJGADL_01001	CDS	1371	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GABJGADL_01002	gene	402	cbiC			
+GABJGADL_01002	CDS	402	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+GABJGADL_01003	gene	630				
+GABJGADL_01003	CDS	630				hypothetical protein
+GABJGADL_01004	gene	705				
+GABJGADL_01004	CDS	705				hypothetical protein
+GABJGADL_01005	gene	357	cheY_2			
+GABJGADL_01005	CDS	357	cheY_2		COG0784	Chemotaxis protein CheY
+GABJGADL_01006	gene	351				
+GABJGADL_01006	CDS	351				hypothetical protein
+GABJGADL_01007	gene	345				
+GABJGADL_01007	CDS	345				hypothetical protein
+GABJGADL_01008	gene	1011				
+GABJGADL_01008	CDS	1011				hypothetical protein
+GABJGADL_01009	gene	663	udgb_2			
+GABJGADL_01009	CDS	663	udgb_2	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+GABJGADL_01010	gene	273				
+GABJGADL_01010	CDS	273				hypothetical protein
+GABJGADL_01011	gene	1311	aspS2			
+GABJGADL_01011	CDS	1311	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+GABJGADL_01012	gene	267				
+GABJGADL_01012	CDS	267				hypothetical protein
+GABJGADL_01013	gene	372				
+GABJGADL_01013	CDS	372				hypothetical protein
+GABJGADL_01014	gene	246				
+GABJGADL_01014	CDS	246				hypothetical protein
+GABJGADL_01015	gene	669				
+GABJGADL_01015	CDS	669				hypothetical protein
+GABJGADL_01016	gene	1515	sasA			
+GABJGADL_01016	CDS	1515	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+GABJGADL_01017	gene	600				
+GABJGADL_01017	CDS	600				hypothetical protein
+GABJGADL_01018	gene	699				
+GABJGADL_01018	CDS	699				hypothetical protein
+GABJGADL_01019	gene	810				
+GABJGADL_01019	CDS	810				hypothetical protein
+GABJGADL_01020	gene	237	purK			
+GABJGADL_01020	CDS	237	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+GABJGADL_01021	gene	207				
+GABJGADL_01021	CDS	207				hypothetical protein
+GABJGADL_01022	gene	609	grpE_2			
+GABJGADL_01022	CDS	609	grpE_2		COG0576	Protein GrpE
+GABJGADL_01023	gene	150	dnaK_2			
+GABJGADL_01023	CDS	150	dnaK_2			Chaperone protein DnaK
+GABJGADL_01024	gene	327				
+GABJGADL_01024	CDS	327				hypothetical protein
+GABJGADL_01025	gene	357				
+GABJGADL_01025	CDS	357				hypothetical protein
+GABJGADL_01026	gene	186				
+GABJGADL_01026	CDS	186				hypothetical protein
+GABJGADL_01027	gene	258				
+GABJGADL_01027	CDS	258				hypothetical protein
+GABJGADL_01028	gene	207				
+GABJGADL_01028	CDS	207				hypothetical protein
+GABJGADL_01029	gene	579				
+GABJGADL_01029	CDS	579				hypothetical protein
+GABJGADL_01030	gene	324				
+GABJGADL_01030	CDS	324				hypothetical protein
+GABJGADL_01031	gene	426				
+GABJGADL_01031	CDS	426				hypothetical protein
+GABJGADL_01032	gene	77				
+GABJGADL_01032	tRNA	77				tRNA-Pro(ggg)
+GABJGADL_01033	gene	381				
+GABJGADL_01033	CDS	381				hypothetical protein
+GABJGADL_01034	gene	609	alkA_2			
+GABJGADL_01034	CDS	609	alkA_2		COG0122	putative bifunctional transcriptional activator/DNA repair enzyme AlkA
+GABJGADL_01035	gene	762				
+GABJGADL_01035	CDS	762				hypothetical protein
+GABJGADL_01036	gene	177				
+GABJGADL_01036	CDS	177				hypothetical protein
+GABJGADL_01037	gene	1071	hisC_2			
+GABJGADL_01037	CDS	1071	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+GABJGADL_01038	gene	483	hisD_2			
+GABJGADL_01038	CDS	483	hisD_2	1.1.1.23		Histidinol dehydrogenase
+GABJGADL_01039	gene	345	hisD_3			
+GABJGADL_01039	CDS	345	hisD_3	1.1.1.23		Histidinol dehydrogenase
+GABJGADL_01040	gene	228	eno_2			
+GABJGADL_01040	CDS	228	eno_2	4.2.1.11	COG0148	Enolase
+GABJGADL_01041	gene	624				
+GABJGADL_01041	CDS	624				hypothetical protein
+GABJGADL_01042	gene	378				
+GABJGADL_01042	CDS	378				hypothetical protein
+GABJGADL_01043	gene	411				
+GABJGADL_01043	CDS	411				hypothetical protein
+GABJGADL_01044	gene	180				
+GABJGADL_01044	CDS	180				hypothetical protein
+GABJGADL_01045	gene	930				
+GABJGADL_01045	CDS	930				hypothetical protein
+GABJGADL_01046	gene	153				
+GABJGADL_01046	CDS	153				hypothetical protein
+GABJGADL_01047	gene	243				
+GABJGADL_01047	CDS	243				hypothetical protein
+GABJGADL_01048	gene	705				
+GABJGADL_01048	CDS	705				hypothetical protein
+GABJGADL_01049	gene	105				
+GABJGADL_01049	CDS	105				hypothetical protein
+GABJGADL_01050	gene	264				
+GABJGADL_01050	CDS	264				hypothetical protein
+GABJGADL_01051	gene	1299	glmM			
+GABJGADL_01051	CDS	1299	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+GABJGADL_01052	gene	74				
+GABJGADL_01052	tRNA	74				tRNA-Thr(cgt)
+GABJGADL_01053	gene	189				
+GABJGADL_01053	CDS	189				hypothetical protein
+GABJGADL_01054	gene	177				
+GABJGADL_01054	CDS	177				hypothetical protein
+GABJGADL_01055	gene	162				
+GABJGADL_01055	CDS	162				hypothetical protein
+GABJGADL_01056	gene	87				
+GABJGADL_01056	tRNA	87				tRNA-Ser(gct)
+GABJGADL_01057	gene	219				
+GABJGADL_01057	CDS	219				hypothetical protein
+GABJGADL_01058	gene	282				
+GABJGADL_01058	CDS	282				hypothetical protein
+GABJGADL_01059	gene	387				
+GABJGADL_01059	CDS	387				hypothetical protein
+GABJGADL_01060	gene	537				
+GABJGADL_01060	CDS	537				hypothetical protein
+GABJGADL_01061	gene	1074	egtB			
+GABJGADL_01061	CDS	1074	egtB	1.14.99.50		Hercynine oxygenase
+GABJGADL_01062	gene	564				
+GABJGADL_01062	CDS	564				hypothetical protein
+GABJGADL_01063	gene	570				
+GABJGADL_01063	CDS	570				hypothetical protein
+GABJGADL_01064	gene	150				
+GABJGADL_01064	CDS	150				hypothetical protein
+GABJGADL_01065	gene	1185	korA			
+GABJGADL_01065	CDS	1185	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+GABJGADL_01066	gene	753				
+GABJGADL_01066	CDS	753				hypothetical protein
+GABJGADL_01067	gene	219				
+GABJGADL_01067	CDS	219				hypothetical protein
+GABJGADL_01068	gene	246				
+GABJGADL_01068	CDS	246				hypothetical protein
+GABJGADL_01069	gene	261	sufU_1			
+GABJGADL_01069	CDS	261	sufU_1	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+GABJGADL_01070	gene	834	sufS_2			
+GABJGADL_01070	CDS	834	sufS_2	2.8.1.7	COG0520	Cysteine desulfurase SufS
+GABJGADL_01071	gene	159				
+GABJGADL_01071	CDS	159				hypothetical protein
+GABJGADL_01072	gene	513				
+GABJGADL_01072	CDS	513				hypothetical protein
+GABJGADL_01073	gene	852	accC			
+GABJGADL_01073	CDS	852	accC	6.3.4.14	COG0439	Biotin carboxylase
+GABJGADL_01074	gene	249	xerC			
+GABJGADL_01074	CDS	249	xerC			Tyrosine recombinase XerC
+GABJGADL_01075	gene	1077				
+GABJGADL_01075	CDS	1077				IS91 family transposase ISCARN110
+GABJGADL_01076	gene	546				
+GABJGADL_01076	CDS	546				hypothetical protein
+GABJGADL_01077	gene	606				
+GABJGADL_01077	CDS	606			COG3253	putative protein
+GABJGADL_01078	gene	306				
+GABJGADL_01078	CDS	306				hypothetical protein
+GABJGADL_01079	gene	684				
+GABJGADL_01079	CDS	684				hypothetical protein
+GABJGADL_01080	gene	417				
+GABJGADL_01080	CDS	417				hypothetical protein
+GABJGADL_01081	gene	1083				
+GABJGADL_01081	CDS	1083				hypothetical protein
+GABJGADL_01082	gene	288	livF_2			
+GABJGADL_01082	CDS	288	livF_2		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+GABJGADL_01083	gene	981	ubiD_2			
+GABJGADL_01083	CDS	981	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GABJGADL_01084	gene	492	mqnE_2			
+GABJGADL_01084	CDS	492	mqnE_2	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+GABJGADL_01085	gene	315				
+GABJGADL_01085	CDS	315				hypothetical protein
+GABJGADL_01086	gene	177				
+GABJGADL_01086	CDS	177				hypothetical protein
+GABJGADL_01087	gene	135				
+GABJGADL_01087	CDS	135				hypothetical protein
+GABJGADL_01088	gene	1116				
+GABJGADL_01088	CDS	1116				hypothetical protein
+GABJGADL_01089	gene	717				
+GABJGADL_01089	CDS	717				hypothetical protein
+GABJGADL_01090	gene	258				
+GABJGADL_01090	CDS	258				hypothetical protein
+GABJGADL_01091	gene	366				
+GABJGADL_01091	CDS	366				hypothetical protein
+GABJGADL_01092	gene	234				
+GABJGADL_01092	CDS	234				hypothetical protein
+GABJGADL_01093	gene	171				
+GABJGADL_01093	CDS	171				hypothetical protein
+GABJGADL_01094	gene	171				
+GABJGADL_01094	CDS	171				hypothetical protein
+GABJGADL_01095	gene	1149	secY_2			
+GABJGADL_01095	CDS	1149	secY_2			Protein translocase subunit SecY
+GABJGADL_01096	gene	336	hcaC			
+GABJGADL_01096	CDS	336	hcaC			3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+GABJGADL_01097	gene	165				
+GABJGADL_01097	CDS	165				hypothetical protein
+GABJGADL_01098	gene	1215	thrC			
+GABJGADL_01098	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+GABJGADL_01099	gene	276				
+GABJGADL_01099	CDS	276				hypothetical protein
+GABJGADL_01100	gene	93				
+GABJGADL_01100	CDS	93				hypothetical protein
+GABJGADL_01101	gene	90				
+GABJGADL_01101	CDS	90				hypothetical protein
+GABJGADL_01102	gene	150				
+GABJGADL_01102	CDS	150				hypothetical protein
+GABJGADL_01103	gene	138				
+GABJGADL_01103	CDS	138				hypothetical protein
+GABJGADL_01104	gene	186				
+GABJGADL_01104	CDS	186				hypothetical protein
+GABJGADL_01105	gene	402				
+GABJGADL_01105	CDS	402				hypothetical protein
+GABJGADL_01106	gene	294	hisB_2			
+GABJGADL_01106	CDS	294	hisB_2	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+GABJGADL_01107	gene	609	hisH_2			
+GABJGADL_01107	CDS	609	hisH_2	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+GABJGADL_01108	gene	945	purD			
+GABJGADL_01108	CDS	945	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GABJGADL_01109	gene	663	udgb_3			
+GABJGADL_01109	CDS	663	udgb_3	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+GABJGADL_01110	gene	366				
+GABJGADL_01110	CDS	366				hypothetical protein
+GABJGADL_01111	gene	73				
+GABJGADL_01111	tRNA	73				tRNA-Ala(cgc)
+GABJGADL_01112	gene	216	pdxT			
+GABJGADL_01112	CDS	216	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+GABJGADL_01113	gene	759	valS			
+GABJGADL_01113	CDS	759	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+GABJGADL_01114	gene	948	infB_2			
+GABJGADL_01114	CDS	948	infB_2			Translation initiation factor IF-2
+GABJGADL_01115	gene	999				
+GABJGADL_01115	CDS	999				hypothetical protein
+GABJGADL_01116	gene	112				
+GABJGADL_01116	rRNA	112				5S ribosomal RNA
+GABJGADL_01117	gene	828				
+GABJGADL_01117	CDS	828				hypothetical protein
+GABJGADL_01118	gene	243				
+GABJGADL_01118	CDS	243				hypothetical protein
+GABJGADL_01119	gene	156				
+GABJGADL_01119	CDS	156				hypothetical protein
+GABJGADL_01120	gene	273				
+GABJGADL_01120	CDS	273				hypothetical protein
+GABJGADL_01121	gene	765	ubiB_2			
+GABJGADL_01121	CDS	765	ubiB_2	2.7.-.-		protein kinase UbiB
+GABJGADL_01122	gene	282				
+GABJGADL_01122	CDS	282				hypothetical protein
+GABJGADL_01123	gene	540				
+GABJGADL_01123	CDS	540				hypothetical protein
+GABJGADL_01124	gene	465				
+GABJGADL_01124	CDS	465				hypothetical protein
+GABJGADL_01125	gene	414				
+GABJGADL_01125	CDS	414				hypothetical protein
+GABJGADL_01126	gene	198				
+GABJGADL_01126	CDS	198				hypothetical protein
+GABJGADL_01127	gene	843	hmp			
+GABJGADL_01127	CDS	843	hmp	1.14.12.17		Flavohemoprotein
+GABJGADL_01128	gene	813	ppdK			
+GABJGADL_01128	CDS	813	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+GABJGADL_01129	gene	720				
+GABJGADL_01129	CDS	720		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GABJGADL_01130	gene	984				
+GABJGADL_01130	CDS	984				hypothetical protein
+GABJGADL_01131	gene	234				
+GABJGADL_01131	CDS	234				hypothetical protein
+GABJGADL_01132	gene	294				
+GABJGADL_01132	CDS	294				hypothetical protein
+GABJGADL_01133	gene	552	sufS_3			
+GABJGADL_01133	CDS	552	sufS_3	2.8.1.7	COG0520	Cysteine desulfurase SufS
+GABJGADL_01134	gene	447	sufU_2			
+GABJGADL_01134	CDS	447	sufU_2	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+GABJGADL_01135	gene	456				
+GABJGADL_01135	CDS	456				hypothetical protein
+GABJGADL_01136	gene	126				
+GABJGADL_01136	CDS	126				hypothetical protein
+GABJGADL_01137	gene	726				
+GABJGADL_01137	CDS	726				hypothetical protein
+GABJGADL_01138	gene	144				
+GABJGADL_01138	CDS	144				hypothetical protein
+GABJGADL_01139	gene	771	hemL			
+GABJGADL_01139	CDS	771	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+GABJGADL_01140	gene	903				
+GABJGADL_01140	CDS	903				hypothetical protein

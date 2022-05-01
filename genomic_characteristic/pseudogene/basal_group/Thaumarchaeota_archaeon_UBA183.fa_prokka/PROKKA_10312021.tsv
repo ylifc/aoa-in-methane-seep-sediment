@@ -1,0 +1,2147 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IGNEIHIN_00001	gene	759				
+IGNEIHIN_00001	CDS	759				hypothetical protein
+IGNEIHIN_00002	gene	1647	nrdZ			
+IGNEIHIN_00002	CDS	1647	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+IGNEIHIN_00003	gene	528				
+IGNEIHIN_00003	CDS	528				hypothetical protein
+IGNEIHIN_00004	gene	231				
+IGNEIHIN_00004	CDS	231				hypothetical protein
+IGNEIHIN_00005	gene	138				
+IGNEIHIN_00005	CDS	138				hypothetical protein
+IGNEIHIN_00006	gene	642	ntpD_1			
+IGNEIHIN_00006	CDS	642	ntpD_1			V-type sodium ATPase subunit D
+IGNEIHIN_00007	gene	1413	ntpB_1			
+IGNEIHIN_00007	CDS	1413	ntpB_1			V-type sodium ATPase subunit B
+IGNEIHIN_00008	gene	489	atpA_1			
+IGNEIHIN_00008	CDS	489	atpA_1	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+IGNEIHIN_00009	gene	1257	atpA_2			
+IGNEIHIN_00009	CDS	1257	atpA_2	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+IGNEIHIN_00010	gene	612	atpE_1			
+IGNEIHIN_00010	CDS	612	atpE_1			V-type proton ATPase subunit E
+IGNEIHIN_00011	gene	297	atpF_1			
+IGNEIHIN_00011	CDS	297	atpF_1			V-type ATP synthase subunit F
+IGNEIHIN_00012	gene	330				
+IGNEIHIN_00012	CDS	330				hypothetical protein
+IGNEIHIN_00013	gene	528	gpt_1			
+IGNEIHIN_00013	CDS	528	gpt_1	2.4.2.22		Xanthine phosphoribosyltransferase
+IGNEIHIN_00014	gene	954	arcC2_1			
+IGNEIHIN_00014	CDS	954	arcC2_1	2.7.2.2		Carbamate kinase 2
+IGNEIHIN_00015	gene	1377	atzA_1			
+IGNEIHIN_00015	CDS	1377	atzA_1	3.8.1.8		Atrazine chlorohydrolase
+IGNEIHIN_00016	gene	1935				
+IGNEIHIN_00016	CDS	1935				hypothetical protein
+IGNEIHIN_00017	gene	750				
+IGNEIHIN_00017	CDS	750				hypothetical protein
+IGNEIHIN_00018	gene	309				
+IGNEIHIN_00018	CDS	309				hypothetical protein
+IGNEIHIN_00019	gene	561	rutD			
+IGNEIHIN_00019	CDS	561	rutD	3.5.1.-		Putative aminoacrylate hydrolase RutD
+IGNEIHIN_00020	gene	399				
+IGNEIHIN_00020	CDS	399				hypothetical protein
+IGNEIHIN_00021	gene	621				
+IGNEIHIN_00021	CDS	621				hypothetical protein
+IGNEIHIN_00022	gene	219				
+IGNEIHIN_00022	CDS	219				hypothetical protein
+IGNEIHIN_00023	gene	426				
+IGNEIHIN_00023	CDS	426				hypothetical protein
+IGNEIHIN_00024	gene	393				
+IGNEIHIN_00024	CDS	393				hypothetical protein
+IGNEIHIN_00025	gene	441	ddn			
+IGNEIHIN_00025	CDS	441	ddn	1.-.-.-		Deazaflavin-dependent nitroreductase
+IGNEIHIN_00026	gene	165				
+IGNEIHIN_00026	CDS	165				hypothetical protein
+IGNEIHIN_00027	gene	213				
+IGNEIHIN_00027	CDS	213				hypothetical protein
+IGNEIHIN_00028	gene	270				
+IGNEIHIN_00028	CDS	270				hypothetical protein
+IGNEIHIN_00029	gene	153				
+IGNEIHIN_00029	CDS	153				hypothetical protein
+IGNEIHIN_00030	gene	129				
+IGNEIHIN_00030	CDS	129				hypothetical protein
+IGNEIHIN_00031	gene	894				
+IGNEIHIN_00031	CDS	894				hypothetical protein
+IGNEIHIN_00032	gene	795	trmI			
+IGNEIHIN_00032	CDS	795	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+IGNEIHIN_00033	gene	615				
+IGNEIHIN_00033	CDS	615				hypothetical protein
+IGNEIHIN_00034	gene	603				
+IGNEIHIN_00034	CDS	603				hypothetical protein
+IGNEIHIN_00035	gene	1443	proS			
+IGNEIHIN_00035	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+IGNEIHIN_00036	gene	978	rbsK/rbiA			
+IGNEIHIN_00036	CDS	978	rbsK/rbiA			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+IGNEIHIN_00037	gene	153				
+IGNEIHIN_00037	CDS	153				hypothetical protein
+IGNEIHIN_00038	gene	666				
+IGNEIHIN_00038	CDS	666				hypothetical protein
+IGNEIHIN_00039	gene	1635	caaA			
+IGNEIHIN_00039	CDS	1635	caaA	1.9.3.1	COG0843	Cytochrome c oxidase polypeptide I+III
+IGNEIHIN_00040	gene	258				
+IGNEIHIN_00040	CDS	258				hypothetical protein
+IGNEIHIN_00041	gene	507	petE			
+IGNEIHIN_00041	CDS	507	petE			Plastocyanin
+IGNEIHIN_00042	gene	987				
+IGNEIHIN_00042	CDS	987				hypothetical protein
+IGNEIHIN_00043	gene	1173				
+IGNEIHIN_00043	CDS	1173				hypothetical protein
+IGNEIHIN_00044	gene	1398	cysS_1			
+IGNEIHIN_00044	CDS	1398	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IGNEIHIN_00045	gene	1212				
+IGNEIHIN_00045	CDS	1212				hypothetical protein
+IGNEIHIN_00046	gene	924				
+IGNEIHIN_00046	CDS	924				hypothetical protein
+IGNEIHIN_00047	gene	951	acuC			
+IGNEIHIN_00047	CDS	951	acuC			Acetoin utilization protein AcuC
+IGNEIHIN_00048	gene	675	merB			
+IGNEIHIN_00048	CDS	675	merB	4.99.1.2		Alkylmercury lyase
+IGNEIHIN_00049	gene	723	sfsA			
+IGNEIHIN_00049	CDS	723	sfsA		COG1489	Sugar fermentation stimulation protein A
+IGNEIHIN_00050	gene	420				
+IGNEIHIN_00050	CDS	420				hypothetical protein
+IGNEIHIN_00051	gene	540	COQ5_1			
+IGNEIHIN_00051	CDS	540	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IGNEIHIN_00052	gene	615				
+IGNEIHIN_00052	CDS	615				hypothetical protein
+IGNEIHIN_00053	gene	684				
+IGNEIHIN_00053	CDS	684				hypothetical protein
+IGNEIHIN_00054	gene	132				
+IGNEIHIN_00054	CDS	132				hypothetical protein
+IGNEIHIN_00055	gene	186				
+IGNEIHIN_00055	CDS	186				hypothetical protein
+IGNEIHIN_00056	gene	396				
+IGNEIHIN_00056	CDS	396				hypothetical protein
+IGNEIHIN_00057	gene	285				
+IGNEIHIN_00057	CDS	285				hypothetical protein
+IGNEIHIN_00058	gene	642				
+IGNEIHIN_00058	CDS	642				hypothetical protein
+IGNEIHIN_00059	gene	546				
+IGNEIHIN_00059	CDS	546				hypothetical protein
+IGNEIHIN_00060	gene	552	resA			
+IGNEIHIN_00060	CDS	552	resA			Thiol-disulfide oxidoreductase ResA
+IGNEIHIN_00061	gene	480				
+IGNEIHIN_00061	CDS	480				hypothetical protein
+IGNEIHIN_00062	gene	903	noc			
+IGNEIHIN_00062	CDS	903	noc			Nucleoid occlusion protein
+IGNEIHIN_00063	gene	1302	trpB_1			
+IGNEIHIN_00063	CDS	1302	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+IGNEIHIN_00064	gene	390	msrB_1			
+IGNEIHIN_00064	CDS	390	msrB_1	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+IGNEIHIN_00065	gene	423				
+IGNEIHIN_00065	CDS	423				hypothetical protein
+IGNEIHIN_00066	gene	153				
+IGNEIHIN_00066	CDS	153				hypothetical protein
+IGNEIHIN_00067	gene	471				
+IGNEIHIN_00067	CDS	471				hypothetical protein
+IGNEIHIN_00068	gene	918	degP			
+IGNEIHIN_00068	CDS	918	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+IGNEIHIN_00069	gene	582				
+IGNEIHIN_00069	CDS	582				hypothetical protein
+IGNEIHIN_00070	gene	492				
+IGNEIHIN_00070	CDS	492				hypothetical protein
+IGNEIHIN_00071	gene	255				
+IGNEIHIN_00071	CDS	255				hypothetical protein
+IGNEIHIN_00072	gene	513				
+IGNEIHIN_00072	CDS	513				hypothetical protein
+IGNEIHIN_00073	gene	369	arsC			
+IGNEIHIN_00073	CDS	369	arsC	1.20.4.4		Arsenate reductase
+IGNEIHIN_00074	gene	369				
+IGNEIHIN_00074	CDS	369				hypothetical protein
+IGNEIHIN_00075	gene	570	pyrE			
+IGNEIHIN_00075	CDS	570	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+IGNEIHIN_00076	gene	684				
+IGNEIHIN_00076	CDS	684				hypothetical protein
+IGNEIHIN_00077	gene	645				
+IGNEIHIN_00077	CDS	645			COG1926	putative protein
+IGNEIHIN_00078	gene	432				
+IGNEIHIN_00078	CDS	432				hypothetical protein
+IGNEIHIN_00079	gene	333	fkbP_1			
+IGNEIHIN_00079	CDS	333	fkbP_1	5.2.1.8		FK506-binding protein
+IGNEIHIN_00080	gene	171				
+IGNEIHIN_00080	CDS	171				hypothetical protein
+IGNEIHIN_00081	gene	627				
+IGNEIHIN_00081	CDS	627				hypothetical protein
+IGNEIHIN_00082	gene	192				
+IGNEIHIN_00082	CDS	192				hypothetical protein
+IGNEIHIN_00083	gene	366				
+IGNEIHIN_00083	CDS	366				hypothetical protein
+IGNEIHIN_00084	gene	861				
+IGNEIHIN_00084	CDS	861				hypothetical protein
+IGNEIHIN_00085	gene	234				
+IGNEIHIN_00085	CDS	234				hypothetical protein
+IGNEIHIN_00086	gene	1041				
+IGNEIHIN_00086	CDS	1041				hypothetical protein
+IGNEIHIN_00087	gene	315				
+IGNEIHIN_00087	CDS	315				hypothetical protein
+IGNEIHIN_00088	gene	1239				
+IGNEIHIN_00088	CDS	1239			COG0531	putative transporter
+IGNEIHIN_00089	gene	447				
+IGNEIHIN_00089	CDS	447				hypothetical protein
+IGNEIHIN_00090	gene	87				
+IGNEIHIN_00090	tRNA	87				tRNA-Ala(tgc)
+IGNEIHIN_00091	gene	468	IMPDH_1			
+IGNEIHIN_00091	CDS	468	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IGNEIHIN_00092	gene	510				
+IGNEIHIN_00092	CDS	510				hypothetical protein
+IGNEIHIN_00093	gene	903	htpX			
+IGNEIHIN_00093	CDS	903	htpX	3.4.24.-	COG0501	Protease HtpX 
+IGNEIHIN_00094	gene	483				
+IGNEIHIN_00094	CDS	483				hypothetical protein
+IGNEIHIN_00095	gene	1278	mvaA			
+IGNEIHIN_00095	CDS	1278	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IGNEIHIN_00096	gene	786				
+IGNEIHIN_00096	CDS	786				hypothetical protein
+IGNEIHIN_00097	gene	1653	hutU			
+IGNEIHIN_00097	CDS	1653	hutU	4.2.1.49	COG2987	Urocanate hydratase
+IGNEIHIN_00098	gene	792				
+IGNEIHIN_00098	CDS	792		6.3.1.2	COG0174	Glutamine synthetase
+IGNEIHIN_00099	gene	351				
+IGNEIHIN_00099	CDS	351		6.3.4.12		Glutamate--methylamine ligase
+IGNEIHIN_00100	gene	1038	hutI_1			
+IGNEIHIN_00100	CDS	1038	hutI_1	3.5.2.7	COG1228	Imidazolonepropionase
+IGNEIHIN_00101	gene	261	hutI_2			
+IGNEIHIN_00101	CDS	261	hutI_2	3.5.2.7		Imidazolonepropionase
+IGNEIHIN_00102	gene	1032	scmP			
+IGNEIHIN_00102	CDS	1032	scmP	3.5.1.-	COG1473	N-acetylcysteine deacetylase
+IGNEIHIN_00103	gene	1476	hutH			
+IGNEIHIN_00103	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+IGNEIHIN_00104	gene	330	csaA			
+IGNEIHIN_00104	CDS	330	csaA		COG0073	putative chaperone CsaA
+IGNEIHIN_00105	gene	771	gctB			
+IGNEIHIN_00105	CDS	771	gctB	2.8.3.12	COG2057	Glutaconate CoA-transferase subunit B
+IGNEIHIN_00106	gene	1011	gctA			
+IGNEIHIN_00106	CDS	1011	gctA	2.8.3.12	COG1788	Glutaconate CoA-transferase subunit A
+IGNEIHIN_00107	gene	384	nikR			
+IGNEIHIN_00107	CDS	384	nikR			Nickel-responsive regulator
+IGNEIHIN_00108	gene	321				
+IGNEIHIN_00108	CDS	321				hypothetical protein
+IGNEIHIN_00109	gene	822	mntB			
+IGNEIHIN_00109	CDS	822	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+IGNEIHIN_00110	gene	918	znuB			
+IGNEIHIN_00110	CDS	918	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+IGNEIHIN_00111	gene	1305				
+IGNEIHIN_00111	CDS	1305				hypothetical protein
+IGNEIHIN_00112	gene	825				
+IGNEIHIN_00112	CDS	825				hypothetical protein
+IGNEIHIN_00113	gene	954				
+IGNEIHIN_00113	CDS	954				hypothetical protein
+IGNEIHIN_00114	gene	795				
+IGNEIHIN_00114	CDS	795				hypothetical protein
+IGNEIHIN_00115	gene	267	rplW			
+IGNEIHIN_00115	CDS	267	rplW		COG0089	50S ribosomal protein L23
+IGNEIHIN_00116	gene	747	rplB			
+IGNEIHIN_00116	CDS	747	rplB			50S ribosomal protein L2
+IGNEIHIN_00117	gene	396				
+IGNEIHIN_00117	CDS	396				hypothetical protein
+IGNEIHIN_00118	gene	1602	rocA1			
+IGNEIHIN_00118	CDS	1602	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+IGNEIHIN_00119	gene	639	lipB			
+IGNEIHIN_00119	CDS	639	lipB	2.3.1.181	COG0321	Octanoyltransferase
+IGNEIHIN_00120	gene	1398	pdhD			
+IGNEIHIN_00120	CDS	1398	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+IGNEIHIN_00121	gene	1224	pdhC			
+IGNEIHIN_00121	CDS	1224	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+IGNEIHIN_00122	gene	1395	dxs			
+IGNEIHIN_00122	CDS	1395	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+IGNEIHIN_00123	gene	813	bkdA			
+IGNEIHIN_00123	CDS	813	bkdA	1.2.4.4	COG1071	3-methyl-2-oxobutanoate dehydrogenase subunit alpha
+IGNEIHIN_00124	gene	885	lipA			
+IGNEIHIN_00124	CDS	885	lipA	2.8.1.8		Lipoyl synthase
+IGNEIHIN_00125	gene	435				
+IGNEIHIN_00125	CDS	435				hypothetical protein
+IGNEIHIN_00126	gene	2886	rhlE			
+IGNEIHIN_00126	CDS	2886	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+IGNEIHIN_00127	gene	501				
+IGNEIHIN_00127	CDS	501				hypothetical protein
+IGNEIHIN_00128	gene	705				
+IGNEIHIN_00128	CDS	705				hypothetical protein
+IGNEIHIN_00129	gene	1983	smc_1			
+IGNEIHIN_00129	CDS	1983	smc_1			Chromosome partition protein Smc
+IGNEIHIN_00130	gene	2844	deaD			
+IGNEIHIN_00130	CDS	2844	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+IGNEIHIN_00131	gene	684				
+IGNEIHIN_00131	CDS	684				hypothetical protein
+IGNEIHIN_00132	gene	759				
+IGNEIHIN_00132	CDS	759				hypothetical protein
+IGNEIHIN_00133	gene	315	trxA			
+IGNEIHIN_00133	CDS	315	trxA		COG0526	Thioredoxin
+IGNEIHIN_00134	gene	564	nudL			
+IGNEIHIN_00134	CDS	564	nudL	3.6.1.-		putative Nudix hydrolase NudL
+IGNEIHIN_00135	gene	435	mntR			
+IGNEIHIN_00135	CDS	435	mntR		COG1321	HTH-type transcriptional regulator MntR
+IGNEIHIN_00136	gene	1242	mntH_1			
+IGNEIHIN_00136	CDS	1242	mntH_1		COG1914	Divalent metal cation transporter MntH
+IGNEIHIN_00137	gene	501	gpt_2			
+IGNEIHIN_00137	CDS	501	gpt_2	2.4.2.22		Xanthine phosphoribosyltransferase
+IGNEIHIN_00138	gene	93				
+IGNEIHIN_00138	tRNA	93				tRNA-Val(tac)
+IGNEIHIN_00139	gene	882	eno_1			
+IGNEIHIN_00139	CDS	882	eno_1	4.2.1.11		Enolase
+IGNEIHIN_00140	gene	291	eno_2			
+IGNEIHIN_00140	CDS	291	eno_2	4.2.1.11	COG0148	Enolase
+IGNEIHIN_00141	gene	1290	entS			
+IGNEIHIN_00141	CDS	1290	entS			Enterobactin exporter EntS
+IGNEIHIN_00142	gene	612	mcbC			
+IGNEIHIN_00142	CDS	612	mcbC			Microcin B17-processing protein McbC
+IGNEIHIN_00143	gene	504				
+IGNEIHIN_00143	CDS	504				hypothetical protein
+IGNEIHIN_00144	gene	585				
+IGNEIHIN_00144	CDS	585				hypothetical protein
+IGNEIHIN_00145	gene	684				
+IGNEIHIN_00145	CDS	684				hypothetical protein
+IGNEIHIN_00146	gene	777				
+IGNEIHIN_00146	CDS	777				hypothetical protein
+IGNEIHIN_00147	gene	450				
+IGNEIHIN_00147	CDS	450				hypothetical protein
+IGNEIHIN_00148	gene	138				
+IGNEIHIN_00148	CDS	138				hypothetical protein
+IGNEIHIN_00149	gene	927	lnrL_1			
+IGNEIHIN_00149	CDS	927	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IGNEIHIN_00150	gene	774				
+IGNEIHIN_00150	CDS	774				hypothetical protein
+IGNEIHIN_00151	gene	438				
+IGNEIHIN_00151	CDS	438				hypothetical protein
+IGNEIHIN_00152	gene	318				
+IGNEIHIN_00152	CDS	318				hypothetical protein
+IGNEIHIN_00153	gene	306				
+IGNEIHIN_00153	CDS	306				hypothetical protein
+IGNEIHIN_00154	gene	162				
+IGNEIHIN_00154	CDS	162				hypothetical protein
+IGNEIHIN_00155	gene	957	thadh			
+IGNEIHIN_00155	CDS	957	thadh	4.3.1.16		L-threo-3-hydroxyaspartate ammonia-lyase
+IGNEIHIN_00156	gene	426	entH			
+IGNEIHIN_00156	CDS	426	entH	3.1.2.-		Proofreading thioesterase EntH
+IGNEIHIN_00157	gene	426				
+IGNEIHIN_00157	CDS	426				hypothetical protein
+IGNEIHIN_00158	gene	201				
+IGNEIHIN_00158	CDS	201				hypothetical protein
+IGNEIHIN_00159	gene	999	ispB_1			
+IGNEIHIN_00159	CDS	999	ispB_1	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+IGNEIHIN_00160	gene	255				
+IGNEIHIN_00160	CDS	255				hypothetical protein
+IGNEIHIN_00161	gene	369				
+IGNEIHIN_00161	CDS	369				hypothetical protein
+IGNEIHIN_00162	gene	873	rimK			
+IGNEIHIN_00162	CDS	873	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+IGNEIHIN_00163	gene	819	lon			
+IGNEIHIN_00163	CDS	819	lon	3.4.21.53		Lon protease
+IGNEIHIN_00164	gene	1362				
+IGNEIHIN_00164	CDS	1362		1.1.1.38		NAD-dependent malic enzyme
+IGNEIHIN_00165	gene	957	porB			
+IGNEIHIN_00165	CDS	957	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+IGNEIHIN_00166	gene	552	porA			
+IGNEIHIN_00166	CDS	552	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+IGNEIHIN_00167	gene	666				
+IGNEIHIN_00167	CDS	666				hypothetical protein
+IGNEIHIN_00168	gene	267	porD			
+IGNEIHIN_00168	CDS	267	porD		COG1144	Pyruvate synthase subunit PorD
+IGNEIHIN_00169	gene	114				
+IGNEIHIN_00169	CDS	114				hypothetical protein
+IGNEIHIN_00170	gene	96				
+IGNEIHIN_00170	CDS	96				hypothetical protein
+IGNEIHIN_00171	gene	174				
+IGNEIHIN_00171	CDS	174				hypothetical protein
+IGNEIHIN_00172	gene	1023	guaB_1			
+IGNEIHIN_00172	CDS	1023	guaB_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IGNEIHIN_00173	gene	1533	guaA			
+IGNEIHIN_00173	CDS	1533	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+IGNEIHIN_00174	gene	720	dhmA			
+IGNEIHIN_00174	CDS	720	dhmA	3.8.1.5		Haloalkane dehalogenase
+IGNEIHIN_00175	gene	165				
+IGNEIHIN_00175	CDS	165				hypothetical protein
+IGNEIHIN_00176	gene	657				
+IGNEIHIN_00176	CDS	657				hypothetical protein
+IGNEIHIN_00177	gene	285	xdhA			
+IGNEIHIN_00177	CDS	285	xdhA	1.17.1.4	COG1529	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+IGNEIHIN_00178	gene	1659				
+IGNEIHIN_00178	CDS	1659				hypothetical protein
+IGNEIHIN_00179	gene	1248	thrC			
+IGNEIHIN_00179	CDS	1248	thrC	4.2.3.1	COG0498	Threonine synthase
+IGNEIHIN_00180	gene	1032	cysK			
+IGNEIHIN_00180	CDS	1032	cysK	2.5.1.47		Cysteine synthase
+IGNEIHIN_00181	gene	903	argF'_1			
+IGNEIHIN_00181	CDS	903	argF'_1	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+IGNEIHIN_00182	gene	495				
+IGNEIHIN_00182	CDS	495				hypothetical protein
+IGNEIHIN_00183	gene	156				
+IGNEIHIN_00183	CDS	156				hypothetical protein
+IGNEIHIN_00184	gene	780				
+IGNEIHIN_00184	CDS	780				hypothetical protein
+IGNEIHIN_00185	gene	183				
+IGNEIHIN_00185	CDS	183				hypothetical protein
+IGNEIHIN_00186	gene	363	dppB			
+IGNEIHIN_00186	CDS	363	dppB		COG0601	Dipeptide transport system permease protein DppB
+IGNEIHIN_00187	gene	603				
+IGNEIHIN_00187	CDS	603				hypothetical protein
+IGNEIHIN_00188	gene	117				
+IGNEIHIN_00188	CDS	117				hypothetical protein
+IGNEIHIN_00189	gene	2049	apc3			
+IGNEIHIN_00189	CDS	2049	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+IGNEIHIN_00190	gene	126				
+IGNEIHIN_00190	CDS	126				hypothetical protein
+IGNEIHIN_00191	gene	360				
+IGNEIHIN_00191	CDS	360				hypothetical protein
+IGNEIHIN_00192	gene	483				
+IGNEIHIN_00192	CDS	483				hypothetical protein
+IGNEIHIN_00193	gene	660				
+IGNEIHIN_00193	CDS	660		6.3.1.20		Lipoate--protein ligase 1
+IGNEIHIN_00194	gene	1296	patZ			
+IGNEIHIN_00194	CDS	1296	patZ	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase PatZ
+IGNEIHIN_00195	gene	786	FCS1_1			
+IGNEIHIN_00195	CDS	786	FCS1_1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+IGNEIHIN_00196	gene	594				
+IGNEIHIN_00196	CDS	594				hypothetical protein
+IGNEIHIN_00197	gene	156				
+IGNEIHIN_00197	CDS	156				hypothetical protein
+IGNEIHIN_00198	gene	510	gpmA			
+IGNEIHIN_00198	CDS	510	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+IGNEIHIN_00199	gene	1515	gppA			
+IGNEIHIN_00199	CDS	1515	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+IGNEIHIN_00200	gene	165	tmk_1			
+IGNEIHIN_00200	CDS	165	tmk_1	2.7.4.9		Thymidylate kinase
+IGNEIHIN_00201	gene	576	tmk_2			
+IGNEIHIN_00201	CDS	576	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+IGNEIHIN_00202	gene	714	tmk_3			
+IGNEIHIN_00202	CDS	714	tmk_3	2.7.4.9		Thymidylate kinase
+IGNEIHIN_00203	gene	1248				
+IGNEIHIN_00203	CDS	1248				hypothetical protein
+IGNEIHIN_00204	gene	1479	plcC			
+IGNEIHIN_00204	CDS	1479	plcC	3.1.4.3	COG3511	Phospholipase C 3
+IGNEIHIN_00205	gene	486				
+IGNEIHIN_00205	CDS	486				hypothetical protein
+IGNEIHIN_00206	gene	762				
+IGNEIHIN_00206	CDS	762				hypothetical protein
+IGNEIHIN_00207	gene	1611	ykoD			
+IGNEIHIN_00207	CDS	1611	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+IGNEIHIN_00208	gene	1041	ecfT_1			
+IGNEIHIN_00208	CDS	1041	ecfT_1			Energy-coupling factor transporter transmembrane protein EcfT
+IGNEIHIN_00209	gene	864	ecfT_2			
+IGNEIHIN_00209	CDS	864	ecfT_2			Energy-coupling factor transporter transmembrane protein EcfT
+IGNEIHIN_00210	gene	465	bcp_1			
+IGNEIHIN_00210	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IGNEIHIN_00211	gene	528				
+IGNEIHIN_00211	CDS	528				hypothetical protein
+IGNEIHIN_00212	gene	465				
+IGNEIHIN_00212	CDS	465				hypothetical protein
+IGNEIHIN_00213	gene	453				
+IGNEIHIN_00213	CDS	453				hypothetical protein
+IGNEIHIN_00214	gene	159				
+IGNEIHIN_00214	CDS	159				hypothetical protein
+IGNEIHIN_00215	gene	780				
+IGNEIHIN_00215	CDS	780				hypothetical protein
+IGNEIHIN_00216	gene	501				
+IGNEIHIN_00216	CDS	501				hypothetical protein
+IGNEIHIN_00217	gene	702				
+IGNEIHIN_00217	CDS	702				hypothetical protein
+IGNEIHIN_00218	gene	330				
+IGNEIHIN_00218	CDS	330				hypothetical protein
+IGNEIHIN_00219	gene	339				
+IGNEIHIN_00219	CDS	339				hypothetical protein
+IGNEIHIN_00220	gene	888	laaA			
+IGNEIHIN_00220	CDS	888	laaA	3.5.1.101		L-amino acid amidase
+IGNEIHIN_00221	gene	294				
+IGNEIHIN_00221	CDS	294				hypothetical protein
+IGNEIHIN_00222	gene	603	ttdB			
+IGNEIHIN_00222	CDS	603	ttdB	4.2.1.32	COG1838	L(+)-tartrate dehydratase subunit beta
+IGNEIHIN_00223	gene	912	ttdA			
+IGNEIHIN_00223	CDS	912	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+IGNEIHIN_00224	gene	219	FCS1_2			
+IGNEIHIN_00224	CDS	219	FCS1_2	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+IGNEIHIN_00225	gene	237				
+IGNEIHIN_00225	CDS	237				hypothetical protein
+IGNEIHIN_00226	gene	288				
+IGNEIHIN_00226	CDS	288				hypothetical protein
+IGNEIHIN_00227	gene	213				
+IGNEIHIN_00227	CDS	213				hypothetical protein
+IGNEIHIN_00228	gene	528				
+IGNEIHIN_00228	CDS	528				hypothetical protein
+IGNEIHIN_00229	gene	510				
+IGNEIHIN_00229	CDS	510		2.3.1.-	COG1670	Acetyltransferase
+IGNEIHIN_00230	gene	86				
+IGNEIHIN_00230	tRNA	86				tRNA-Leu(gag)
+IGNEIHIN_00231	gene	150				
+IGNEIHIN_00231	CDS	150				hypothetical protein
+IGNEIHIN_00232	gene	132				
+IGNEIHIN_00232	CDS	132				hypothetical protein
+IGNEIHIN_00233	gene	369				
+IGNEIHIN_00233	CDS	369				hypothetical protein
+IGNEIHIN_00234	gene	1218				
+IGNEIHIN_00234	CDS	1218				hypothetical protein
+IGNEIHIN_00235	gene	543				
+IGNEIHIN_00235	CDS	543				hypothetical protein
+IGNEIHIN_00236	gene	516				
+IGNEIHIN_00236	CDS	516				hypothetical protein
+IGNEIHIN_00237	gene	834				
+IGNEIHIN_00237	CDS	834		4.3.2.3		Ureidoglycolate lyase
+IGNEIHIN_00238	gene	1143	aspC			
+IGNEIHIN_00238	CDS	1143	aspC	2.6.1.1		Aspartate aminotransferase
+IGNEIHIN_00239	gene	441				
+IGNEIHIN_00239	CDS	441				hypothetical protein
+IGNEIHIN_00240	gene	504				
+IGNEIHIN_00240	CDS	504				hypothetical protein
+IGNEIHIN_00241	gene	348				
+IGNEIHIN_00241	CDS	348				hypothetical protein
+IGNEIHIN_00242	gene	546	pdaD			
+IGNEIHIN_00242	CDS	546	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+IGNEIHIN_00243	gene	303				
+IGNEIHIN_00243	CDS	303				hypothetical protein
+IGNEIHIN_00244	gene	1008	ord			
+IGNEIHIN_00244	CDS	1008	ord	1.4.1.26		2,4-diaminopentanoate dehydrogenase
+IGNEIHIN_00245	gene	450				
+IGNEIHIN_00245	CDS	450		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+IGNEIHIN_00246	gene	438				
+IGNEIHIN_00246	CDS	438				hypothetical protein
+IGNEIHIN_00247	gene	1080				
+IGNEIHIN_00247	CDS	1080				hypothetical protein
+IGNEIHIN_00248	gene	219				
+IGNEIHIN_00248	CDS	219				hypothetical protein
+IGNEIHIN_00249	gene	420				
+IGNEIHIN_00249	CDS	420				hypothetical protein
+IGNEIHIN_00250	gene	159				
+IGNEIHIN_00250	CDS	159				hypothetical protein
+IGNEIHIN_00251	gene	180				
+IGNEIHIN_00251	CDS	180				hypothetical protein
+IGNEIHIN_00252	gene	249				
+IGNEIHIN_00252	CDS	249				hypothetical protein
+IGNEIHIN_00253	gene	1290	glyA			
+IGNEIHIN_00253	CDS	1290	glyA	2.1.2.1		Serine hydroxymethyltransferase
+IGNEIHIN_00254	gene	585	nosF			
+IGNEIHIN_00254	CDS	585	nosF		COG1131	putative ABC transporter ATP-binding protein NosF
+IGNEIHIN_00255	gene	153				
+IGNEIHIN_00255	CDS	153				hypothetical protein
+IGNEIHIN_00256	gene	1353				
+IGNEIHIN_00256	CDS	1353				hypothetical protein
+IGNEIHIN_00257	gene	345				
+IGNEIHIN_00257	CDS	345			COG0640	putative HTH-type transcriptional regulator
+IGNEIHIN_00258	gene	1263				
+IGNEIHIN_00258	CDS	1263				hypothetical protein
+IGNEIHIN_00259	gene	255	tusA			
+IGNEIHIN_00259	CDS	255	tusA		COG0425	Sulfur carrier protein TusA
+IGNEIHIN_00260	gene	501	dsrE2			
+IGNEIHIN_00260	CDS	501	dsrE2		COG2210	Sulfur carrier protein DsrE2
+IGNEIHIN_00261	gene	156				
+IGNEIHIN_00261	CDS	156				hypothetical protein
+IGNEIHIN_00262	gene	1788				
+IGNEIHIN_00262	CDS	1788				hypothetical protein
+IGNEIHIN_00263	gene	615	tmk_4			
+IGNEIHIN_00263	CDS	615	tmk_4	2.7.4.9	COG0125	Thymidylate kinase
+IGNEIHIN_00264	gene	1296				
+IGNEIHIN_00264	CDS	1296				hypothetical protein
+IGNEIHIN_00265	gene	1860	dinG			
+IGNEIHIN_00265	CDS	1860	dinG	3.1.-.-		3'-5' exonuclease DinG
+IGNEIHIN_00266	gene	618				
+IGNEIHIN_00266	CDS	618				hypothetical protein
+IGNEIHIN_00267	gene	600				
+IGNEIHIN_00267	CDS	600				hypothetical protein
+IGNEIHIN_00268	gene	360				
+IGNEIHIN_00268	CDS	360				hypothetical protein
+IGNEIHIN_00269	gene	156				
+IGNEIHIN_00269	CDS	156				hypothetical protein
+IGNEIHIN_00270	gene	2064	topA			
+IGNEIHIN_00270	CDS	2064	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+IGNEIHIN_00271	gene	177				
+IGNEIHIN_00271	CDS	177				hypothetical protein
+IGNEIHIN_00272	gene	771	fbiB			
+IGNEIHIN_00272	CDS	771	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+IGNEIHIN_00273	gene	150				
+IGNEIHIN_00273	CDS	150				hypothetical protein
+IGNEIHIN_00274	gene	180				
+IGNEIHIN_00274	CDS	180				hypothetical protein
+IGNEIHIN_00275	gene	366				
+IGNEIHIN_00275	CDS	366				hypothetical protein
+IGNEIHIN_00276	gene	1107				
+IGNEIHIN_00276	CDS	1107				hypothetical protein
+IGNEIHIN_00277	gene	1194				
+IGNEIHIN_00277	CDS	1194				hypothetical protein
+IGNEIHIN_00278	gene	564				
+IGNEIHIN_00278	CDS	564				hypothetical protein
+IGNEIHIN_00279	gene	510				
+IGNEIHIN_00279	CDS	510				hypothetical protein
+IGNEIHIN_00280	gene	282				
+IGNEIHIN_00280	CDS	282				hypothetical protein
+IGNEIHIN_00281	gene	297				
+IGNEIHIN_00281	CDS	297				hypothetical protein
+IGNEIHIN_00282	gene	513				
+IGNEIHIN_00282	CDS	513				hypothetical protein
+IGNEIHIN_00283	gene	1200				
+IGNEIHIN_00283	CDS	1200				hypothetical protein
+IGNEIHIN_00284	gene	1173	mgl			
+IGNEIHIN_00284	CDS	1173	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+IGNEIHIN_00285	gene	315				
+IGNEIHIN_00285	CDS	315		2.5.-.-		Deoxyhypusine synthase-like protein
+IGNEIHIN_00286	gene	1278	purB			
+IGNEIHIN_00286	CDS	1278	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+IGNEIHIN_00287	gene	1200	purA			
+IGNEIHIN_00287	CDS	1200	purA	6.3.4.4		Adenylosuccinate synthetase
+IGNEIHIN_00288	gene	1476	guaB_2			
+IGNEIHIN_00288	CDS	1476	guaB_2	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+IGNEIHIN_00289	gene	1011	truB			
+IGNEIHIN_00289	CDS	1011	truB	5.4.99.25		tRNA pseudouridine synthase B
+IGNEIHIN_00290	gene	570	cmk			
+IGNEIHIN_00290	CDS	570	cmk	2.7.4.25		Cytidylate kinase
+IGNEIHIN_00291	gene	909				
+IGNEIHIN_00291	CDS	909				hypothetical protein
+IGNEIHIN_00292	gene	573				
+IGNEIHIN_00292	CDS	573				hypothetical protein
+IGNEIHIN_00293	gene	270				
+IGNEIHIN_00293	CDS	270				hypothetical protein
+IGNEIHIN_00294	gene	1122	secY			
+IGNEIHIN_00294	CDS	1122	secY			Protein translocase subunit SecY
+IGNEIHIN_00295	gene	402				
+IGNEIHIN_00295	CDS	402				hypothetical protein
+IGNEIHIN_00296	gene	465				
+IGNEIHIN_00296	CDS	465				hypothetical protein
+IGNEIHIN_00297	gene	591				
+IGNEIHIN_00297	CDS	591				hypothetical protein
+IGNEIHIN_00298	gene	171				
+IGNEIHIN_00298	CDS	171				hypothetical protein
+IGNEIHIN_00299	gene	102				
+IGNEIHIN_00299	CDS	102				hypothetical protein
+IGNEIHIN_00300	gene	435				
+IGNEIHIN_00300	CDS	435				hypothetical protein
+IGNEIHIN_00301	gene	174				
+IGNEIHIN_00301	CDS	174				hypothetical protein
+IGNEIHIN_00302	gene	546	rplF			
+IGNEIHIN_00302	CDS	546	rplF			50S ribosomal protein L6
+IGNEIHIN_00303	gene	171				
+IGNEIHIN_00303	CDS	171				hypothetical protein
+IGNEIHIN_00304	gene	213				
+IGNEIHIN_00304	CDS	213				hypothetical protein
+IGNEIHIN_00305	gene	528				
+IGNEIHIN_00305	CDS	528				hypothetical protein
+IGNEIHIN_00306	gene	729				
+IGNEIHIN_00306	CDS	729				hypothetical protein
+IGNEIHIN_00307	gene	291				
+IGNEIHIN_00307	CDS	291				hypothetical protein
+IGNEIHIN_00308	gene	231	rplN			
+IGNEIHIN_00308	CDS	231	rplN			50S ribosomal protein L14
+IGNEIHIN_00309	gene	210				
+IGNEIHIN_00309	CDS	210				hypothetical protein
+IGNEIHIN_00310	gene	327				
+IGNEIHIN_00310	CDS	327				hypothetical protein
+IGNEIHIN_00311	gene	237				
+IGNEIHIN_00311	CDS	237				hypothetical protein
+IGNEIHIN_00312	gene	207				
+IGNEIHIN_00312	CDS	207				hypothetical protein
+IGNEIHIN_00313	gene	675				
+IGNEIHIN_00313	CDS	675				hypothetical protein
+IGNEIHIN_00314	gene	462				
+IGNEIHIN_00314	CDS	462				hypothetical protein
+IGNEIHIN_00315	gene	378				
+IGNEIHIN_00315	CDS	378				hypothetical protein
+IGNEIHIN_00316	gene	135				
+IGNEIHIN_00316	CDS	135				hypothetical protein
+IGNEIHIN_00317	gene	807	frdB_1			
+IGNEIHIN_00317	CDS	807	frdB_1	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+IGNEIHIN_00318	gene	1749	frdA_1			
+IGNEIHIN_00318	CDS	1749	frdA_1	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+IGNEIHIN_00319	gene	159				
+IGNEIHIN_00319	CDS	159				hypothetical protein
+IGNEIHIN_00320	gene	222				
+IGNEIHIN_00320	CDS	222				hypothetical protein
+IGNEIHIN_00321	gene	453	cinA			
+IGNEIHIN_00321	CDS	453	cinA			Putative competence-damage inducible protein
+IGNEIHIN_00322	gene	759				
+IGNEIHIN_00322	CDS	759				hypothetical protein
+IGNEIHIN_00323	gene	732				
+IGNEIHIN_00323	CDS	732		3.1.1.10		Tropinesterase
+IGNEIHIN_00324	gene	495	Dml			
+IGNEIHIN_00324	CDS	495	Dml	4.1.3.32		2,3-dimethylmalate lyase
+IGNEIHIN_00325	gene	402	mmgF			
+IGNEIHIN_00325	CDS	402	mmgF	4.1.3.-	COG2513	2-methylisocitrate lyase
+IGNEIHIN_00326	gene	1128	citZ_1			
+IGNEIHIN_00326	CDS	1128	citZ_1	2.3.3.16	COG0372	Citrate synthase 2
+IGNEIHIN_00327	gene	930	argK			
+IGNEIHIN_00327	CDS	930	argK	3.6.5.-	COG1703	GTPase ArgK
+IGNEIHIN_00328	gene	867	icmF			
+IGNEIHIN_00328	CDS	867	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+IGNEIHIN_00329	gene	810	bhbA			
+IGNEIHIN_00329	CDS	810	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+IGNEIHIN_00330	gene	264	mutB			
+IGNEIHIN_00330	CDS	264	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+IGNEIHIN_00331	gene	171				
+IGNEIHIN_00331	CDS	171				hypothetical protein
+IGNEIHIN_00332	gene	414				
+IGNEIHIN_00332	CDS	414				hypothetical protein
+IGNEIHIN_00333	gene	88				
+IGNEIHIN_00333	tRNA	88				tRNA-Leu(cag)
+IGNEIHIN_00334	gene	1215				
+IGNEIHIN_00334	CDS	1215				hypothetical protein
+IGNEIHIN_00335	gene	267				
+IGNEIHIN_00335	CDS	267				hypothetical protein
+IGNEIHIN_00336	gene	2202				
+IGNEIHIN_00336	CDS	2202				hypothetical protein
+IGNEIHIN_00337	gene	636	lysX_1			
+IGNEIHIN_00337	CDS	636	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IGNEIHIN_00338	gene	174				
+IGNEIHIN_00338	CDS	174				hypothetical protein
+IGNEIHIN_00339	gene	1362	argH			
+IGNEIHIN_00339	CDS	1362	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+IGNEIHIN_00340	gene	186				
+IGNEIHIN_00340	CDS	186				hypothetical protein
+IGNEIHIN_00341	gene	456	argG			
+IGNEIHIN_00341	CDS	456	argG	6.3.4.5		Argininosuccinate synthase
+IGNEIHIN_00342	gene	714				
+IGNEIHIN_00342	CDS	714				hypothetical protein
+IGNEIHIN_00343	gene	771	nadE			
+IGNEIHIN_00343	CDS	771	nadE	6.3.5.1		Glutamine-dependent NAD(+) synthetase
+IGNEIHIN_00344	gene	912	ftsY			
+IGNEIHIN_00344	CDS	912	ftsY			Signal recognition particle receptor FtsY
+IGNEIHIN_00345	gene	429	pfdA			
+IGNEIHIN_00345	CDS	429	pfdA			Prefoldin subunit alpha
+IGNEIHIN_00346	gene	666				
+IGNEIHIN_00346	CDS	666				hypothetical protein
+IGNEIHIN_00347	gene	285				
+IGNEIHIN_00347	CDS	285				hypothetical protein
+IGNEIHIN_00348	gene	159				
+IGNEIHIN_00348	CDS	159				hypothetical protein
+IGNEIHIN_00349	gene	282				
+IGNEIHIN_00349	CDS	282				hypothetical protein
+IGNEIHIN_00350	gene	396				
+IGNEIHIN_00350	CDS	396				hypothetical protein
+IGNEIHIN_00351	gene	171				
+IGNEIHIN_00351	CDS	171				hypothetical protein
+IGNEIHIN_00352	gene	213				
+IGNEIHIN_00352	CDS	213				hypothetical protein
+IGNEIHIN_00353	gene	642				
+IGNEIHIN_00353	CDS	642				hypothetical protein
+IGNEIHIN_00354	gene	468				
+IGNEIHIN_00354	CDS	468				hypothetical protein
+IGNEIHIN_00355	gene	159				
+IGNEIHIN_00355	CDS	159				hypothetical protein
+IGNEIHIN_00356	gene	261				
+IGNEIHIN_00356	CDS	261				hypothetical protein
+IGNEIHIN_00357	gene	567	IMPDH_2			
+IGNEIHIN_00357	CDS	567	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IGNEIHIN_00358	gene	201				
+IGNEIHIN_00358	CDS	201				hypothetical protein
+IGNEIHIN_00359	gene	1152				
+IGNEIHIN_00359	CDS	1152				hypothetical protein
+IGNEIHIN_00360	gene	135				
+IGNEIHIN_00360	CDS	135				hypothetical protein
+IGNEIHIN_00361	gene	837				
+IGNEIHIN_00361	CDS	837				hypothetical protein
+IGNEIHIN_00362	gene	669	dehH2			
+IGNEIHIN_00362	CDS	669	dehH2	3.8.1.3		Haloacetate dehalogenase H-2
+IGNEIHIN_00363	gene	1434	trpB_2			
+IGNEIHIN_00363	CDS	1434	trpB_2	4.2.1.20		Tryptophan synthase beta chain
+IGNEIHIN_00364	gene	798				
+IGNEIHIN_00364	CDS	798				hypothetical protein
+IGNEIHIN_00365	gene	966	thiL_1			
+IGNEIHIN_00365	CDS	966	thiL_1	2.7.4.16		Thiamine-monophosphate kinase
+IGNEIHIN_00366	gene	294				
+IGNEIHIN_00366	CDS	294				hypothetical protein
+IGNEIHIN_00367	gene	267				
+IGNEIHIN_00367	CDS	267				hypothetical protein
+IGNEIHIN_00368	gene	1035	mraY			
+IGNEIHIN_00368	CDS	1035	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IGNEIHIN_00369	gene	252				
+IGNEIHIN_00369	CDS	252				hypothetical protein
+IGNEIHIN_00370	gene	480	fdtC			
+IGNEIHIN_00370	CDS	480	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+IGNEIHIN_00371	gene	936	iolG			
+IGNEIHIN_00371	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+IGNEIHIN_00372	gene	1131				
+IGNEIHIN_00372	CDS	1131				hypothetical protein
+IGNEIHIN_00373	gene	936				
+IGNEIHIN_00373	CDS	936				hypothetical protein
+IGNEIHIN_00374	gene	79				
+IGNEIHIN_00374	tRNA	79				tRNA-Gln(ttg)
+IGNEIHIN_00375	gene	1161	mntH_2			
+IGNEIHIN_00375	CDS	1161	mntH_2		COG1914	Divalent metal cation transporter MntH
+IGNEIHIN_00376	gene	1980	pepO			
+IGNEIHIN_00376	CDS	1980	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+IGNEIHIN_00377	gene	765				
+IGNEIHIN_00377	CDS	765				hypothetical protein
+IGNEIHIN_00378	gene	2103				
+IGNEIHIN_00378	CDS	2103				hypothetical protein
+IGNEIHIN_00379	gene	951	trxB			
+IGNEIHIN_00379	CDS	951	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+IGNEIHIN_00380	gene	1683				
+IGNEIHIN_00380	CDS	1683				hypothetical protein
+IGNEIHIN_00381	gene	210	gcvPA_1			
+IGNEIHIN_00381	CDS	210	gcvPA_1	1.4.4.2		glycine dehydrogenase (decarboxylating) subunit 1
+IGNEIHIN_00382	gene	675	gcvPA_2			
+IGNEIHIN_00382	CDS	675	gcvPA_2	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+IGNEIHIN_00383	gene	1404	gcvPB			
+IGNEIHIN_00383	CDS	1404	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+IGNEIHIN_00384	gene	315				
+IGNEIHIN_00384	CDS	315				hypothetical protein
+IGNEIHIN_00385	gene	1065	ftsZ			
+IGNEIHIN_00385	CDS	1065	ftsZ			Cell division protein FtsZ
+IGNEIHIN_00386	gene	1665	metG			
+IGNEIHIN_00386	CDS	1665	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+IGNEIHIN_00387	gene	1233	ahcY			
+IGNEIHIN_00387	CDS	1233	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+IGNEIHIN_00388	gene	747				
+IGNEIHIN_00388	CDS	747		2.4.2.44	COG0005	S-methyl-5'-thioinosine phosphorylase
+IGNEIHIN_00389	gene	210	apt			
+IGNEIHIN_00389	CDS	210	apt	2.4.2.7		Adenine phosphoribosyltransferase
+IGNEIHIN_00390	gene	129				
+IGNEIHIN_00390	CDS	129				hypothetical protein
+IGNEIHIN_00391	gene	804	mtnP			
+IGNEIHIN_00391	CDS	804	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+IGNEIHIN_00392	gene	771	nixA			
+IGNEIHIN_00392	CDS	771	nixA		COG3376	High-affinity nickel-transport protein NixA
+IGNEIHIN_00393	gene	417				
+IGNEIHIN_00393	CDS	417				hypothetical protein
+IGNEIHIN_00394	gene	321				
+IGNEIHIN_00394	CDS	321				hypothetical protein
+IGNEIHIN_00395	gene	789	dnaJ			
+IGNEIHIN_00395	CDS	789	dnaJ		COG0484	Chaperone protein DnaJ
+IGNEIHIN_00396	gene	942	dnaK_1			
+IGNEIHIN_00396	CDS	942	dnaK_1		COG0443	Chaperone protein DnaK
+IGNEIHIN_00397	gene	714	dnaK_2			
+IGNEIHIN_00397	CDS	714	dnaK_2		COG0443	Chaperone protein DnaK
+IGNEIHIN_00398	gene	591	grpE			
+IGNEIHIN_00398	CDS	591	grpE			Protein GrpE
+IGNEIHIN_00399	gene	774				
+IGNEIHIN_00399	CDS	774				hypothetical protein
+IGNEIHIN_00400	gene	600				
+IGNEIHIN_00400	CDS	600				hypothetical protein
+IGNEIHIN_00401	gene	1629	TOP6B			
+IGNEIHIN_00401	CDS	1629	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+IGNEIHIN_00402	gene	1116	TOP6A			
+IGNEIHIN_00402	CDS	1116	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+IGNEIHIN_00403	gene	210				
+IGNEIHIN_00403	CDS	210				hypothetical protein
+IGNEIHIN_00404	gene	450				
+IGNEIHIN_00404	CDS	450				hypothetical protein
+IGNEIHIN_00405	gene	930	ttuA			
+IGNEIHIN_00405	CDS	930	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+IGNEIHIN_00406	gene	1230				
+IGNEIHIN_00406	CDS	1230				hypothetical protein
+IGNEIHIN_00407	gene	267				
+IGNEIHIN_00407	CDS	267				hypothetical protein
+IGNEIHIN_00408	gene	1059				
+IGNEIHIN_00408	CDS	1059				hypothetical protein
+IGNEIHIN_00409	gene	1161				
+IGNEIHIN_00409	CDS	1161				hypothetical protein
+IGNEIHIN_00410	gene	195				
+IGNEIHIN_00410	CDS	195				hypothetical protein
+IGNEIHIN_00411	gene	666				
+IGNEIHIN_00411	CDS	666				hypothetical protein
+IGNEIHIN_00412	gene	864				
+IGNEIHIN_00412	CDS	864				hypothetical protein
+IGNEIHIN_00413	gene	1146	ftsH			
+IGNEIHIN_00413	CDS	1146	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IGNEIHIN_00414	gene	360				
+IGNEIHIN_00414	CDS	360				hypothetical protein
+IGNEIHIN_00415	gene	1182	aspS2			
+IGNEIHIN_00415	CDS	1182	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+IGNEIHIN_00416	gene	135				
+IGNEIHIN_00416	CDS	135				hypothetical protein
+IGNEIHIN_00417	gene	327				
+IGNEIHIN_00417	CDS	327				hypothetical protein
+IGNEIHIN_00418	gene	336				
+IGNEIHIN_00418	CDS	336				hypothetical protein
+IGNEIHIN_00419	gene	102				
+IGNEIHIN_00419	CDS	102				hypothetical protein
+IGNEIHIN_00420	gene	129				
+IGNEIHIN_00420	CDS	129				hypothetical protein
+IGNEIHIN_00421	gene	108				
+IGNEIHIN_00421	CDS	108				hypothetical protein
+IGNEIHIN_00422	gene	246				
+IGNEIHIN_00422	CDS	246				hypothetical protein
+IGNEIHIN_00423	gene	147				
+IGNEIHIN_00423	CDS	147				hypothetical protein
+IGNEIHIN_00424	gene	135				
+IGNEIHIN_00424	CDS	135				hypothetical protein
+IGNEIHIN_00425	gene	1485	ndhD			
+IGNEIHIN_00425	CDS	1485	ndhD	7.1.1.-		NAD(P)H-quinone oxidoreductase chain 4
+IGNEIHIN_00426	gene	228				
+IGNEIHIN_00426	CDS	228				hypothetical protein
+IGNEIHIN_00427	gene	969	nuoL_1			
+IGNEIHIN_00427	CDS	969	nuoL_1	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+IGNEIHIN_00428	gene	912	ndhB_1			
+IGNEIHIN_00428	CDS	912	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IGNEIHIN_00429	gene	243				
+IGNEIHIN_00429	CDS	243				hypothetical protein
+IGNEIHIN_00430	gene	99				
+IGNEIHIN_00430	CDS	99				hypothetical protein
+IGNEIHIN_00431	gene	741				
+IGNEIHIN_00431	CDS	741				hypothetical protein
+IGNEIHIN_00432	gene	1644	pyrG			
+IGNEIHIN_00432	CDS	1644	pyrG	6.3.4.2	COG0504	CTP synthase
+IGNEIHIN_00433	gene	936				
+IGNEIHIN_00433	CDS	936				hypothetical protein
+IGNEIHIN_00434	gene	579				
+IGNEIHIN_00434	CDS	579				hypothetical protein
+IGNEIHIN_00435	gene	1017	thiL_2			
+IGNEIHIN_00435	CDS	1017	thiL_2	2.7.4.16		Thiamine-monophosphate kinase
+IGNEIHIN_00436	gene	888				
+IGNEIHIN_00436	CDS	888				hypothetical protein
+IGNEIHIN_00437	gene	1146	mat			
+IGNEIHIN_00437	CDS	1146	mat	2.5.1.6		S-adenosylmethionine synthase
+IGNEIHIN_00438	gene	252				
+IGNEIHIN_00438	CDS	252				hypothetical protein
+IGNEIHIN_00439	gene	696				
+IGNEIHIN_00439	CDS	696				hypothetical protein
+IGNEIHIN_00440	gene	345				
+IGNEIHIN_00440	CDS	345				hypothetical protein
+IGNEIHIN_00441	gene	336				
+IGNEIHIN_00441	CDS	336				hypothetical protein
+IGNEIHIN_00442	gene	966				
+IGNEIHIN_00442	CDS	966				hypothetical protein
+IGNEIHIN_00443	gene	615				
+IGNEIHIN_00443	CDS	615				hypothetical protein
+IGNEIHIN_00444	gene	333	fkbP_2			
+IGNEIHIN_00444	CDS	333	fkbP_2	5.2.1.8		FK506-binding protein
+IGNEIHIN_00445	gene	399				
+IGNEIHIN_00445	CDS	399				hypothetical protein
+IGNEIHIN_00446	gene	663				
+IGNEIHIN_00446	CDS	663			COG1926	putative protein
+IGNEIHIN_00447	gene	744				
+IGNEIHIN_00447	CDS	744				hypothetical protein
+IGNEIHIN_00448	gene	513				
+IGNEIHIN_00448	CDS	513				hypothetical protein
+IGNEIHIN_00449	gene	294				
+IGNEIHIN_00449	CDS	294				hypothetical protein
+IGNEIHIN_00450	gene	492				
+IGNEIHIN_00450	CDS	492				hypothetical protein
+IGNEIHIN_00451	gene	618				
+IGNEIHIN_00451	CDS	618				hypothetical protein
+IGNEIHIN_00452	gene	900	htrA_1			
+IGNEIHIN_00452	CDS	900	htrA_1			Putative serine protease HtrA
+IGNEIHIN_00453	gene	1539				
+IGNEIHIN_00453	CDS	1539				hypothetical protein
+IGNEIHIN_00454	gene	789				
+IGNEIHIN_00454	CDS	789			COG1082	putative protein
+IGNEIHIN_00455	gene	468				
+IGNEIHIN_00455	CDS	468				hypothetical protein
+IGNEIHIN_00456	gene	510				
+IGNEIHIN_00456	CDS	510				hypothetical protein
+IGNEIHIN_00457	gene	405	msrB_2			
+IGNEIHIN_00457	CDS	405	msrB_2	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+IGNEIHIN_00458	gene	1302	trpB_3			
+IGNEIHIN_00458	CDS	1302	trpB_3	4.2.1.20	COG0133	Tryptophan synthase beta chain
+IGNEIHIN_00459	gene	228				
+IGNEIHIN_00459	CDS	228				hypothetical protein
+IGNEIHIN_00460	gene	468				
+IGNEIHIN_00460	CDS	468				hypothetical protein
+IGNEIHIN_00461	gene	1386				
+IGNEIHIN_00461	CDS	1386				hypothetical protein
+IGNEIHIN_00462	gene	774	fabG			
+IGNEIHIN_00462	CDS	774	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IGNEIHIN_00463	gene	447				
+IGNEIHIN_00463	CDS	447				hypothetical protein
+IGNEIHIN_00464	gene	858	nlhH			
+IGNEIHIN_00464	CDS	858	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+IGNEIHIN_00465	gene	462	paaZ			
+IGNEIHIN_00465	CDS	462	paaZ		COG2030	Bifunctional protein PaaZ
+IGNEIHIN_00466	gene	618				
+IGNEIHIN_00466	CDS	618		3.1.-.-	COG1236	Ribonuclease
+IGNEIHIN_00467	gene	1227	rnj_1			
+IGNEIHIN_00467	CDS	1227	rnj_1	3.1.-.-		Ribonuclease J
+IGNEIHIN_00468	gene	393	prcB_1			
+IGNEIHIN_00468	CDS	393	prcB_1			Proteasome subunit beta
+IGNEIHIN_00469	gene	1041	egsA			
+IGNEIHIN_00469	CDS	1041	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+IGNEIHIN_00470	gene	801				
+IGNEIHIN_00470	CDS	801				hypothetical protein
+IGNEIHIN_00471	gene	1101				
+IGNEIHIN_00471	CDS	1101		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+IGNEIHIN_00472	gene	135				
+IGNEIHIN_00472	CDS	135				hypothetical protein
+IGNEIHIN_00473	gene	1044	rtcA			
+IGNEIHIN_00473	CDS	1044	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+IGNEIHIN_00474	gene	642	prcB_2			
+IGNEIHIN_00474	CDS	642	prcB_2			Proteasome subunit beta
+IGNEIHIN_00475	gene	654				
+IGNEIHIN_00475	CDS	654				hypothetical protein
+IGNEIHIN_00476	gene	147				
+IGNEIHIN_00476	CDS	147				hypothetical protein
+IGNEIHIN_00477	gene	186				
+IGNEIHIN_00477	CDS	186				hypothetical protein
+IGNEIHIN_00478	gene	312				
+IGNEIHIN_00478	CDS	312				hypothetical protein
+IGNEIHIN_00479	gene	1194	fadA			
+IGNEIHIN_00479	CDS	1194	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+IGNEIHIN_00480	gene	1995	fadB			
+IGNEIHIN_00480	CDS	1995	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+IGNEIHIN_00481	gene	1251	acdA			
+IGNEIHIN_00481	CDS	1251	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+IGNEIHIN_00482	gene	1161				
+IGNEIHIN_00482	CDS	1161				hypothetical protein
+IGNEIHIN_00483	gene	414				
+IGNEIHIN_00483	CDS	414				hypothetical protein
+IGNEIHIN_00484	gene	378				
+IGNEIHIN_00484	CDS	378				hypothetical protein
+IGNEIHIN_00485	gene	294				
+IGNEIHIN_00485	CDS	294				hypothetical protein
+IGNEIHIN_00486	gene	429				
+IGNEIHIN_00486	CDS	429				hypothetical protein
+IGNEIHIN_00487	gene	522				
+IGNEIHIN_00487	CDS	522				hypothetical protein
+IGNEIHIN_00488	gene	993	tsaD			
+IGNEIHIN_00488	CDS	993	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+IGNEIHIN_00489	gene	669				
+IGNEIHIN_00489	CDS	669				hypothetical protein
+IGNEIHIN_00490	gene	450				
+IGNEIHIN_00490	CDS	450				hypothetical protein
+IGNEIHIN_00491	gene	1206				
+IGNEIHIN_00491	CDS	1206				hypothetical protein
+IGNEIHIN_00492	gene	270				
+IGNEIHIN_00492	CDS	270				hypothetical protein
+IGNEIHIN_00493	gene	1281	serS			
+IGNEIHIN_00493	CDS	1281	serS	6.1.1.11		Serine--tRNA ligase
+IGNEIHIN_00494	gene	408				
+IGNEIHIN_00494	CDS	408				hypothetical protein
+IGNEIHIN_00495	gene	171				
+IGNEIHIN_00495	CDS	171				hypothetical protein
+IGNEIHIN_00496	gene	588				
+IGNEIHIN_00496	CDS	588				hypothetical protein
+IGNEIHIN_00497	gene	123				
+IGNEIHIN_00497	CDS	123				hypothetical protein
+IGNEIHIN_00498	gene	861				
+IGNEIHIN_00498	CDS	861				hypothetical protein
+IGNEIHIN_00499	gene	300				
+IGNEIHIN_00499	CDS	300				hypothetical protein
+IGNEIHIN_00500	gene	207				
+IGNEIHIN_00500	CDS	207				hypothetical protein
+IGNEIHIN_00501	gene	501				
+IGNEIHIN_00501	CDS	501				hypothetical protein
+IGNEIHIN_00502	gene	207				
+IGNEIHIN_00502	CDS	207				hypothetical protein
+IGNEIHIN_00503	gene	804				
+IGNEIHIN_00503	CDS	804				hypothetical protein
+IGNEIHIN_00504	gene	1092	dinB			
+IGNEIHIN_00504	CDS	1092	dinB	2.7.7.7	COG0389	DNA polymerase IV
+IGNEIHIN_00505	gene	1254				
+IGNEIHIN_00505	CDS	1254				hypothetical protein
+IGNEIHIN_00506	gene	534				
+IGNEIHIN_00506	CDS	534				hypothetical protein
+IGNEIHIN_00507	gene	228				
+IGNEIHIN_00507	CDS	228				hypothetical protein
+IGNEIHIN_00508	gene	177				
+IGNEIHIN_00508	CDS	177				hypothetical protein
+IGNEIHIN_00509	gene	714	nnr			
+IGNEIHIN_00509	CDS	714	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IGNEIHIN_00510	gene	675				
+IGNEIHIN_00510	CDS	675				hypothetical protein
+IGNEIHIN_00511	gene	1197				
+IGNEIHIN_00511	CDS	1197				hypothetical protein
+IGNEIHIN_00512	gene	381				
+IGNEIHIN_00512	CDS	381				hypothetical protein
+IGNEIHIN_00513	gene	126				
+IGNEIHIN_00513	CDS	126				hypothetical protein
+IGNEIHIN_00514	gene	366				
+IGNEIHIN_00514	CDS	366				hypothetical protein
+IGNEIHIN_00515	gene	681				
+IGNEIHIN_00515	CDS	681				hypothetical protein
+IGNEIHIN_00516	gene	666				
+IGNEIHIN_00516	CDS	666				hypothetical protein
+IGNEIHIN_00517	gene	543				
+IGNEIHIN_00517	CDS	543				hypothetical protein
+IGNEIHIN_00518	gene	249				
+IGNEIHIN_00518	CDS	249				hypothetical protein
+IGNEIHIN_00519	gene	96				
+IGNEIHIN_00519	CDS	96				hypothetical protein
+IGNEIHIN_00520	gene	1008				
+IGNEIHIN_00520	CDS	1008			COG2141	putative protein
+IGNEIHIN_00521	gene	873				
+IGNEIHIN_00521	CDS	873				hypothetical protein
+IGNEIHIN_00522	gene	267				
+IGNEIHIN_00522	CDS	267				hypothetical protein
+IGNEIHIN_00523	gene	627	alaS_1			
+IGNEIHIN_00523	CDS	627	alaS_1	6.1.1.7	COG0013	Alanine--tRNA ligase
+IGNEIHIN_00524	gene	1263				
+IGNEIHIN_00524	CDS	1263				hypothetical protein
+IGNEIHIN_00525	gene	1251				
+IGNEIHIN_00525	CDS	1251				hypothetical protein
+IGNEIHIN_00526	gene	2037	smc_2			
+IGNEIHIN_00526	CDS	2037	smc_2			Chromosome partition protein Smc
+IGNEIHIN_00527	gene	528	FCS1_3			
+IGNEIHIN_00527	CDS	528	FCS1_3	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+IGNEIHIN_00528	gene	252				
+IGNEIHIN_00528	CDS	252				hypothetical protein
+IGNEIHIN_00529	gene	207				
+IGNEIHIN_00529	CDS	207				hypothetical protein
+IGNEIHIN_00530	gene	150				
+IGNEIHIN_00530	CDS	150				hypothetical protein
+IGNEIHIN_00531	gene	159				
+IGNEIHIN_00531	CDS	159				hypothetical protein
+IGNEIHIN_00532	gene	309				
+IGNEIHIN_00532	CDS	309				hypothetical protein
+IGNEIHIN_00533	gene	429				
+IGNEIHIN_00533	CDS	429				hypothetical protein
+IGNEIHIN_00534	gene	213				
+IGNEIHIN_00534	CDS	213				hypothetical protein
+IGNEIHIN_00535	gene	504				
+IGNEIHIN_00535	CDS	504				hypothetical protein
+IGNEIHIN_00536	gene	603				
+IGNEIHIN_00536	CDS	603				hypothetical protein
+IGNEIHIN_00537	gene	180				
+IGNEIHIN_00537	CDS	180				hypothetical protein
+IGNEIHIN_00538	gene	138				
+IGNEIHIN_00538	CDS	138				hypothetical protein
+IGNEIHIN_00539	gene	222				
+IGNEIHIN_00539	CDS	222				hypothetical protein
+IGNEIHIN_00540	gene	327				
+IGNEIHIN_00540	CDS	327				hypothetical protein
+IGNEIHIN_00541	gene	387				
+IGNEIHIN_00541	CDS	387				hypothetical protein
+IGNEIHIN_00542	gene	540	scpB			
+IGNEIHIN_00542	CDS	540	scpB			Segregation and condensation protein B
+IGNEIHIN_00543	gene	666				
+IGNEIHIN_00543	CDS	666				hypothetical protein
+IGNEIHIN_00544	gene	3588	smc_3			
+IGNEIHIN_00544	CDS	3588	smc_3		COG1196	Chromosome partition protein Smc
+IGNEIHIN_00545	gene	903				
+IGNEIHIN_00545	CDS	903		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+IGNEIHIN_00546	gene	693				
+IGNEIHIN_00546	CDS	693				hypothetical protein
+IGNEIHIN_00547	gene	858				
+IGNEIHIN_00547	CDS	858				hypothetical protein
+IGNEIHIN_00548	gene	1023				
+IGNEIHIN_00548	CDS	1023				hypothetical protein
+IGNEIHIN_00549	gene	1245	mdrP			
+IGNEIHIN_00549	CDS	1245	mdrP			Na(+), Li(+), K(+)/H(+) antiporter
+IGNEIHIN_00550	gene	150				
+IGNEIHIN_00550	CDS	150				hypothetical protein
+IGNEIHIN_00551	gene	630				
+IGNEIHIN_00551	CDS	630				hypothetical protein
+IGNEIHIN_00552	gene	540				
+IGNEIHIN_00552	CDS	540				hypothetical protein
+IGNEIHIN_00553	gene	687	udgb			
+IGNEIHIN_00553	CDS	687	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+IGNEIHIN_00554	gene	591				
+IGNEIHIN_00554	CDS	591				hypothetical protein
+IGNEIHIN_00555	gene	720				
+IGNEIHIN_00555	CDS	720				hypothetical protein
+IGNEIHIN_00556	gene	249				
+IGNEIHIN_00556	CDS	249				hypothetical protein
+IGNEIHIN_00557	gene	885	trpB_4			
+IGNEIHIN_00557	CDS	885	trpB_4	4.2.1.20		Tryptophan synthase beta chain
+IGNEIHIN_00558	gene	1407	rnj_2			
+IGNEIHIN_00558	CDS	1407	rnj_2	3.1.-.-	COG0595	Ribonuclease J
+IGNEIHIN_00559	gene	129				
+IGNEIHIN_00559	CDS	129				hypothetical protein
+IGNEIHIN_00560	gene	660	gph_1			
+IGNEIHIN_00560	CDS	660	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+IGNEIHIN_00561	gene	360				
+IGNEIHIN_00561	CDS	360				hypothetical protein
+IGNEIHIN_00562	gene	2493				
+IGNEIHIN_00562	CDS	2493				hypothetical protein
+IGNEIHIN_00563	gene	396				
+IGNEIHIN_00563	CDS	396				hypothetical protein
+IGNEIHIN_00564	gene	225				
+IGNEIHIN_00564	CDS	225				hypothetical protein
+IGNEIHIN_00565	gene	1191	purD			
+IGNEIHIN_00565	CDS	1191	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+IGNEIHIN_00566	gene	132				
+IGNEIHIN_00566	CDS	132				hypothetical protein
+IGNEIHIN_00567	gene	399	prcA			
+IGNEIHIN_00567	CDS	399	prcA			Proteasome subunit alpha
+IGNEIHIN_00568	gene	741				
+IGNEIHIN_00568	CDS	741				hypothetical protein
+IGNEIHIN_00569	gene	681				
+IGNEIHIN_00569	CDS	681				hypothetical protein
+IGNEIHIN_00570	gene	756	rph_1			
+IGNEIHIN_00570	CDS	756	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+IGNEIHIN_00571	gene	807	rph_2			
+IGNEIHIN_00571	CDS	807	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+IGNEIHIN_00572	gene	225				
+IGNEIHIN_00572	CDS	225				hypothetical protein
+IGNEIHIN_00573	gene	228				
+IGNEIHIN_00573	CDS	228				hypothetical protein
+IGNEIHIN_00574	gene	381				
+IGNEIHIN_00574	CDS	381				hypothetical protein
+IGNEIHIN_00575	gene	1005				
+IGNEIHIN_00575	CDS	1005				hypothetical protein
+IGNEIHIN_00576	gene	534	idi_1			
+IGNEIHIN_00576	CDS	534	idi_1	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+IGNEIHIN_00577	gene	714				
+IGNEIHIN_00577	CDS	714				hypothetical protein
+IGNEIHIN_00578	gene	690				
+IGNEIHIN_00578	CDS	690				hypothetical protein
+IGNEIHIN_00579	gene	219				
+IGNEIHIN_00579	CDS	219				hypothetical protein
+IGNEIHIN_00580	gene	357	ecfA2			
+IGNEIHIN_00580	CDS	357	ecfA2	3.6.3.-		Energy-coupling factor transporter ATP-binding protein EcfA2
+IGNEIHIN_00581	gene	813	cbiO			
+IGNEIHIN_00581	CDS	813	cbiO	3.6.3.-	COG1122	Cobalt import ATP-binding protein CbiO
+IGNEIHIN_00582	gene	747	ecfT_3			
+IGNEIHIN_00582	CDS	747	ecfT_3		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+IGNEIHIN_00583	gene	606				
+IGNEIHIN_00583	CDS	606				hypothetical protein
+IGNEIHIN_00584	gene	627				
+IGNEIHIN_00584	CDS	627				hypothetical protein
+IGNEIHIN_00585	gene	696				
+IGNEIHIN_00585	CDS	696			COG2141	putative protein
+IGNEIHIN_00586	gene	261				
+IGNEIHIN_00586	CDS	261				hypothetical protein
+IGNEIHIN_00587	gene	180				
+IGNEIHIN_00587	CDS	180				hypothetical protein
+IGNEIHIN_00588	gene	867				
+IGNEIHIN_00588	CDS	867				hypothetical protein
+IGNEIHIN_00589	gene	1056				
+IGNEIHIN_00589	CDS	1056				hypothetical protein
+IGNEIHIN_00590	gene	390				
+IGNEIHIN_00590	CDS	390				hypothetical protein
+IGNEIHIN_00591	gene	744	COQ5_2			
+IGNEIHIN_00591	CDS	744	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IGNEIHIN_00592	gene	558				
+IGNEIHIN_00592	CDS	558				hypothetical protein
+IGNEIHIN_00593	gene	534				
+IGNEIHIN_00593	CDS	534				hypothetical protein
+IGNEIHIN_00594	gene	303				
+IGNEIHIN_00594	CDS	303				hypothetical protein
+IGNEIHIN_00595	gene	852	bcpA			
+IGNEIHIN_00595	CDS	852	bcpA	2.7.8.23		Carboxyvinyl-carboxyphosphonate phosphorylmutase
+IGNEIHIN_00596	gene	162				
+IGNEIHIN_00596	CDS	162				hypothetical protein
+IGNEIHIN_00597	gene	975				
+IGNEIHIN_00597	CDS	975				hypothetical protein
+IGNEIHIN_00598	gene	666	pyrH			
+IGNEIHIN_00598	CDS	666	pyrH	2.7.4.22	COG0528	Uridylate kinase
+IGNEIHIN_00599	gene	114				
+IGNEIHIN_00599	CDS	114				hypothetical protein
+IGNEIHIN_00600	gene	105				
+IGNEIHIN_00600	CDS	105				hypothetical protein
+IGNEIHIN_00601	gene	975				
+IGNEIHIN_00601	CDS	975				hypothetical protein
+IGNEIHIN_00602	gene	1155	OLA1			
+IGNEIHIN_00602	CDS	1155	OLA1			Obg-like ATPase 1
+IGNEIHIN_00603	gene	984				
+IGNEIHIN_00603	CDS	984				hypothetical protein
+IGNEIHIN_00604	gene	825	yhdN			
+IGNEIHIN_00604	CDS	825	yhdN	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+IGNEIHIN_00605	gene	462				
+IGNEIHIN_00605	CDS	462				hypothetical protein
+IGNEIHIN_00606	gene	354	leuS			
+IGNEIHIN_00606	CDS	354	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+IGNEIHIN_00607	gene	213				
+IGNEIHIN_00607	CDS	213				hypothetical protein
+IGNEIHIN_00608	gene	1041				
+IGNEIHIN_00608	CDS	1041				hypothetical protein
+IGNEIHIN_00609	gene	693				
+IGNEIHIN_00609	CDS	693		1.-.-.-	COG0667	putative oxidoreductase
+IGNEIHIN_00610	gene	273				
+IGNEIHIN_00610	CDS	273				hypothetical protein
+IGNEIHIN_00611	gene	258				
+IGNEIHIN_00611	CDS	258				hypothetical protein
+IGNEIHIN_00612	gene	423				
+IGNEIHIN_00612	CDS	423				hypothetical protein
+IGNEIHIN_00613	gene	561				
+IGNEIHIN_00613	CDS	561				hypothetical protein
+IGNEIHIN_00614	gene	1524				
+IGNEIHIN_00614	CDS	1524				hypothetical protein
+IGNEIHIN_00615	gene	462				
+IGNEIHIN_00615	CDS	462				hypothetical protein
+IGNEIHIN_00616	gene	336				
+IGNEIHIN_00616	CDS	336				hypothetical protein
+IGNEIHIN_00617	gene	75				
+IGNEIHIN_00617	tRNA	75				tRNA-Gly(ccc)
+IGNEIHIN_00618	gene	864				
+IGNEIHIN_00618	CDS	864				hypothetical protein
+IGNEIHIN_00619	gene	633	queC			
+IGNEIHIN_00619	CDS	633	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+IGNEIHIN_00620	gene	750	folE2			
+IGNEIHIN_00620	CDS	750	folE2			GTP cyclohydrolase FolE2
+IGNEIHIN_00621	gene	858				
+IGNEIHIN_00621	CDS	858				hypothetical protein
+IGNEIHIN_00622	gene	777	nadK			
+IGNEIHIN_00622	CDS	777	nadK	2.7.1.23		NAD kinase
+IGNEIHIN_00623	gene	621	phoU			
+IGNEIHIN_00623	CDS	621	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+IGNEIHIN_00624	gene	828	pstB3			
+IGNEIHIN_00624	CDS	828	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+IGNEIHIN_00625	gene	528	pstA			
+IGNEIHIN_00625	CDS	528	pstA		COG0581	Phosphate transport system permease protein PstA
+IGNEIHIN_00626	gene	627	pip			
+IGNEIHIN_00626	CDS	627	pip	3.4.11.5		Proline iminopeptidase
+IGNEIHIN_00627	gene	543	yjjX			
+IGNEIHIN_00627	CDS	543	yjjX	3.6.1.-	COG1986	Inosine/xanthosine triphosphatase
+IGNEIHIN_00628	gene	615				
+IGNEIHIN_00628	CDS	615				hypothetical protein
+IGNEIHIN_00629	gene	303				
+IGNEIHIN_00629	CDS	303				hypothetical protein
+IGNEIHIN_00630	gene	828	rpoB			
+IGNEIHIN_00630	CDS	828	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+IGNEIHIN_00631	gene	297				
+IGNEIHIN_00631	CDS	297				hypothetical protein
+IGNEIHIN_00632	gene	165				
+IGNEIHIN_00632	CDS	165				hypothetical protein
+IGNEIHIN_00633	gene	909	ilvE			
+IGNEIHIN_00633	CDS	909	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+IGNEIHIN_00634	gene	444	acnA_1			
+IGNEIHIN_00634	CDS	444	acnA_1	4.2.1.3	COG1048	Aconitate hydratase A
+IGNEIHIN_00635	gene	333	acnA_2			
+IGNEIHIN_00635	CDS	333	acnA_2	4.2.1.3	COG1048	Aconitate hydratase A
+IGNEIHIN_00636	gene	330				
+IGNEIHIN_00636	CDS	330				hypothetical protein
+IGNEIHIN_00637	gene	276				
+IGNEIHIN_00637	CDS	276				hypothetical protein
+IGNEIHIN_00638	gene	114				
+IGNEIHIN_00638	CDS	114				hypothetical protein
+IGNEIHIN_00639	gene	189				
+IGNEIHIN_00639	CDS	189				hypothetical protein
+IGNEIHIN_00640	gene	126				
+IGNEIHIN_00640	CDS	126				hypothetical protein
+IGNEIHIN_00641	gene	186				
+IGNEIHIN_00641	CDS	186				hypothetical protein
+IGNEIHIN_00642	gene	234				
+IGNEIHIN_00642	CDS	234				hypothetical protein
+IGNEIHIN_00643	gene	675				
+IGNEIHIN_00643	CDS	675				hypothetical protein
+IGNEIHIN_00644	gene	696	hicd			
+IGNEIHIN_00644	CDS	696	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+IGNEIHIN_00645	gene	273	acyP			
+IGNEIHIN_00645	CDS	273	acyP	3.6.1.7	COG1254	Acylphosphatase
+IGNEIHIN_00646	gene	615				
+IGNEIHIN_00646	CDS	615				hypothetical protein
+IGNEIHIN_00647	gene	309				
+IGNEIHIN_00647	CDS	309				hypothetical protein
+IGNEIHIN_00648	gene	264				
+IGNEIHIN_00648	CDS	264				hypothetical protein
+IGNEIHIN_00649	gene	150				
+IGNEIHIN_00649	CDS	150				hypothetical protein
+IGNEIHIN_00650	gene	1578				
+IGNEIHIN_00650	CDS	1578				hypothetical protein
+IGNEIHIN_00651	gene	120				
+IGNEIHIN_00651	CDS	120				hypothetical protein
+IGNEIHIN_00652	gene	114				
+IGNEIHIN_00652	CDS	114				hypothetical protein
+IGNEIHIN_00653	gene	171				
+IGNEIHIN_00653	CDS	171				hypothetical protein
+IGNEIHIN_00654	gene	252				
+IGNEIHIN_00654	CDS	252				hypothetical protein
+IGNEIHIN_00655	gene	603	pksB			
+IGNEIHIN_00655	CDS	603	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+IGNEIHIN_00656	gene	1011	tdcB			
+IGNEIHIN_00656	CDS	1011	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+IGNEIHIN_00657	gene	1026				
+IGNEIHIN_00657	CDS	1026				hypothetical protein
+IGNEIHIN_00658	gene	249				
+IGNEIHIN_00658	CDS	249				hypothetical protein
+IGNEIHIN_00659	gene	288				
+IGNEIHIN_00659	CDS	288				hypothetical protein
+IGNEIHIN_00660	gene	120				
+IGNEIHIN_00660	CDS	120				hypothetical protein
+IGNEIHIN_00661	gene	1149				
+IGNEIHIN_00661	CDS	1149				hypothetical protein
+IGNEIHIN_00662	gene	348				
+IGNEIHIN_00662	CDS	348				hypothetical protein
+IGNEIHIN_00663	gene	396	truD			
+IGNEIHIN_00663	CDS	396	truD	5.4.99.27		tRNA pseudouridine synthase D
+IGNEIHIN_00664	gene	996				
+IGNEIHIN_00664	CDS	996		1.18.1.2	COG0492	Ferredoxin--NADP reductase
+IGNEIHIN_00665	gene	456				
+IGNEIHIN_00665	CDS	456				hypothetical protein
+IGNEIHIN_00666	gene	180				
+IGNEIHIN_00666	CDS	180				hypothetical protein
+IGNEIHIN_00667	gene	1218	thcD			
+IGNEIHIN_00667	CDS	1218	thcD	1.18.1.-		Rhodocoxin reductase
+IGNEIHIN_00668	gene	414				
+IGNEIHIN_00668	CDS	414				hypothetical protein
+IGNEIHIN_00669	gene	92				
+IGNEIHIN_00669	tRNA	92				tRNA-Ala(cgc)
+IGNEIHIN_00670	gene	813	phzF			
+IGNEIHIN_00670	CDS	813	phzF	5.3.3.17		Trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+IGNEIHIN_00671	gene	936				
+IGNEIHIN_00671	CDS	936				hypothetical protein
+IGNEIHIN_00672	gene	495				
+IGNEIHIN_00672	CDS	495				hypothetical protein
+IGNEIHIN_00673	gene	411				
+IGNEIHIN_00673	CDS	411				hypothetical protein
+IGNEIHIN_00674	gene	234				
+IGNEIHIN_00674	CDS	234				hypothetical protein
+IGNEIHIN_00675	gene	867	hhoA			
+IGNEIHIN_00675	CDS	867	hhoA			Putative serine protease HhoA
+IGNEIHIN_00676	gene	738				
+IGNEIHIN_00676	CDS	738				hypothetical protein
+IGNEIHIN_00677	gene	2445	srp54			
+IGNEIHIN_00677	CDS	2445	srp54			Signal recognition particle 54 kDa protein
+IGNEIHIN_00678	gene	285				
+IGNEIHIN_00678	CDS	285				hypothetical protein
+IGNEIHIN_00679	gene	327				
+IGNEIHIN_00679	CDS	327				hypothetical protein
+IGNEIHIN_00680	gene	558				
+IGNEIHIN_00680	CDS	558				hypothetical protein
+IGNEIHIN_00681	gene	711	rsmA			
+IGNEIHIN_00681	CDS	711	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+IGNEIHIN_00682	gene	717	trmL			
+IGNEIHIN_00682	CDS	717	trmL	2.1.1.207		tRNA (cytidine(34)-2'-O)-methyltransferase
+IGNEIHIN_00683	gene	1182				
+IGNEIHIN_00683	CDS	1182				hypothetical protein
+IGNEIHIN_00684	gene	1308	soxB			
+IGNEIHIN_00684	CDS	1308	soxB	1.5.3.1		Sarcosine oxidase subunit beta
+IGNEIHIN_00685	gene	729	desVI			
+IGNEIHIN_00685	CDS	729	desVI	2.1.1.234		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose
+IGNEIHIN_00686	gene	522				
+IGNEIHIN_00686	CDS	522				hypothetical protein
+IGNEIHIN_00687	gene	1032				
+IGNEIHIN_00687	CDS	1032				hypothetical protein
+IGNEIHIN_00688	gene	582				
+IGNEIHIN_00688	CDS	582				hypothetical protein
+IGNEIHIN_00689	gene	288				
+IGNEIHIN_00689	CDS	288				hypothetical protein
+IGNEIHIN_00690	gene	225				
+IGNEIHIN_00690	CDS	225				hypothetical protein
+IGNEIHIN_00691	gene	558				
+IGNEIHIN_00691	CDS	558				hypothetical protein
+IGNEIHIN_00692	gene	531				
+IGNEIHIN_00692	CDS	531				hypothetical protein
+IGNEIHIN_00693	gene	573				
+IGNEIHIN_00693	CDS	573				hypothetical protein
+IGNEIHIN_00694	gene	309	deoD			
+IGNEIHIN_00694	CDS	309	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+IGNEIHIN_00695	gene	753				
+IGNEIHIN_00695	CDS	753				hypothetical protein
+IGNEIHIN_00696	gene	99				
+IGNEIHIN_00696	CDS	99				hypothetical protein
+IGNEIHIN_00697	gene	117				
+IGNEIHIN_00697	CDS	117				hypothetical protein
+IGNEIHIN_00698	gene	342				
+IGNEIHIN_00698	CDS	342				hypothetical protein
+IGNEIHIN_00699	gene	108				
+IGNEIHIN_00699	CDS	108				hypothetical protein
+IGNEIHIN_00700	gene	279				
+IGNEIHIN_00700	CDS	279				hypothetical protein
+IGNEIHIN_00701	gene	198				
+IGNEIHIN_00701	CDS	198				hypothetical protein
+IGNEIHIN_00702	gene	261				
+IGNEIHIN_00702	CDS	261				hypothetical protein
+IGNEIHIN_00703	gene	342				
+IGNEIHIN_00703	CDS	342				hypothetical protein
+IGNEIHIN_00704	gene	159				
+IGNEIHIN_00704	CDS	159				hypothetical protein
+IGNEIHIN_00705	gene	168				
+IGNEIHIN_00705	CDS	168				hypothetical protein
+IGNEIHIN_00706	gene	309				
+IGNEIHIN_00706	CDS	309				hypothetical protein
+IGNEIHIN_00707	gene	210				
+IGNEIHIN_00707	CDS	210				hypothetical protein
+IGNEIHIN_00708	gene	372	ndhC			
+IGNEIHIN_00708	CDS	372	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+IGNEIHIN_00709	gene	426				
+IGNEIHIN_00709	CDS	426				hypothetical protein
+IGNEIHIN_00710	gene	1242	citZ_2			
+IGNEIHIN_00710	CDS	1242	citZ_2	2.3.3.16	COG0372	Citrate synthase 2
+IGNEIHIN_00711	gene	1011				
+IGNEIHIN_00711	CDS	1011				hypothetical protein
+IGNEIHIN_00712	gene	453				
+IGNEIHIN_00712	CDS	453				hypothetical protein
+IGNEIHIN_00713	gene	435				
+IGNEIHIN_00713	CDS	435				hypothetical protein
+IGNEIHIN_00714	gene	1482	aldA			
+IGNEIHIN_00714	CDS	1482	aldA	1.2.1.3		Putative aldehyde dehydrogenase AldA
+IGNEIHIN_00715	gene	1140	adhE			
+IGNEIHIN_00715	CDS	1140	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+IGNEIHIN_00716	gene	405				
+IGNEIHIN_00716	CDS	405				hypothetical protein
+IGNEIHIN_00717	gene	1089				
+IGNEIHIN_00717	CDS	1089				hypothetical protein
+IGNEIHIN_00718	gene	1275	yjeH			
+IGNEIHIN_00718	CDS	1275	yjeH		COG0531	L-methionine/branched-chain amino acid exporter YjeH
+IGNEIHIN_00719	gene	588				
+IGNEIHIN_00719	CDS	588				hypothetical protein
+IGNEIHIN_00720	gene	669				
+IGNEIHIN_00720	CDS	669				hypothetical protein
+IGNEIHIN_00721	gene	102				
+IGNEIHIN_00721	CDS	102				hypothetical protein
+IGNEIHIN_00722	gene	897	putB			
+IGNEIHIN_00722	CDS	897	putB	1.5.5.2	COG0506	Proline dehydrogenase 2
+IGNEIHIN_00723	gene	1101	pepE			
+IGNEIHIN_00723	CDS	1101	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+IGNEIHIN_00724	gene	270				
+IGNEIHIN_00724	CDS	270				hypothetical protein
+IGNEIHIN_00725	gene	1689	polX			
+IGNEIHIN_00725	CDS	1689	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+IGNEIHIN_00726	gene	204				
+IGNEIHIN_00726	CDS	204				hypothetical protein
+IGNEIHIN_00727	gene	669				
+IGNEIHIN_00727	CDS	669				hypothetical protein
+IGNEIHIN_00728	gene	906				
+IGNEIHIN_00728	CDS	906		1.17.1.9		Formate dehydrogenase, mitochondrial
+IGNEIHIN_00729	gene	1650	ilvI			
+IGNEIHIN_00729	CDS	1650	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+IGNEIHIN_00730	gene	1191	hipO			
+IGNEIHIN_00730	CDS	1191	hipO	3.5.1.32	COG1473	Hippurate hydrolase
+IGNEIHIN_00731	gene	903	gloB_1			
+IGNEIHIN_00731	CDS	903	gloB_1	3.1.2.6		Hydroxyacylglutathione hydrolase
+IGNEIHIN_00732	gene	831				
+IGNEIHIN_00732	CDS	831				hypothetical protein
+IGNEIHIN_00733	gene	702	gph_2			
+IGNEIHIN_00733	CDS	702	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+IGNEIHIN_00734	gene	411				
+IGNEIHIN_00734	CDS	411				hypothetical protein
+IGNEIHIN_00735	gene	843				
+IGNEIHIN_00735	CDS	843				hypothetical protein
+IGNEIHIN_00736	gene	1197				
+IGNEIHIN_00736	CDS	1197				hypothetical protein
+IGNEIHIN_00737	gene	1674				
+IGNEIHIN_00737	CDS	1674				hypothetical protein
+IGNEIHIN_00738	gene	450	mgrA			
+IGNEIHIN_00738	CDS	450	mgrA			HTH-type transcriptional regulator MgrA
+IGNEIHIN_00739	gene	1038	drrA_1			
+IGNEIHIN_00739	CDS	1038	drrA_1	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IGNEIHIN_00740	gene	774	yadH			
+IGNEIHIN_00740	CDS	774	yadH		COG0842	Inner membrane transport permease YadH
+IGNEIHIN_00741	gene	912	btuD			
+IGNEIHIN_00741	CDS	912	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IGNEIHIN_00742	gene	744				
+IGNEIHIN_00742	CDS	744				hypothetical protein
+IGNEIHIN_00743	gene	192				
+IGNEIHIN_00743	CDS	192				hypothetical protein
+IGNEIHIN_00744	gene	876				
+IGNEIHIN_00744	CDS	876				hypothetical protein
+IGNEIHIN_00745	gene	687	gloB_2			
+IGNEIHIN_00745	CDS	687	gloB_2	3.1.2.6		Hydroxyacylglutathione hydrolase
+IGNEIHIN_00746	gene	1026	yajO			
+IGNEIHIN_00746	CDS	1026	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+IGNEIHIN_00747	gene	723				
+IGNEIHIN_00747	CDS	723				hypothetical protein
+IGNEIHIN_00748	gene	426				
+IGNEIHIN_00748	CDS	426				hypothetical protein
+IGNEIHIN_00749	gene	1224				
+IGNEIHIN_00749	CDS	1224				hypothetical protein
+IGNEIHIN_00750	gene	288				
+IGNEIHIN_00750	CDS	288				hypothetical protein
+IGNEIHIN_00751	gene	540				
+IGNEIHIN_00751	CDS	540				hypothetical protein
+IGNEIHIN_00752	gene	276				
+IGNEIHIN_00752	CDS	276				hypothetical protein
+IGNEIHIN_00753	gene	177				
+IGNEIHIN_00753	CDS	177				hypothetical protein
+IGNEIHIN_00754	gene	219				
+IGNEIHIN_00754	CDS	219			COG3360	Dodecin
+IGNEIHIN_00755	gene	777				
+IGNEIHIN_00755	CDS	777				hypothetical protein
+IGNEIHIN_00756	gene	258				
+IGNEIHIN_00756	CDS	258				hypothetical protein
+IGNEIHIN_00757	gene	753				
+IGNEIHIN_00757	CDS	753				hypothetical protein
+IGNEIHIN_00758	gene	456				
+IGNEIHIN_00758	CDS	456				hypothetical protein
+IGNEIHIN_00759	gene	396				
+IGNEIHIN_00759	CDS	396				hypothetical protein
+IGNEIHIN_00760	gene	375				
+IGNEIHIN_00760	CDS	375				hypothetical protein
+IGNEIHIN_00761	gene	201				
+IGNEIHIN_00761	CDS	201				hypothetical protein
+IGNEIHIN_00762	gene	216				
+IGNEIHIN_00762	CDS	216				hypothetical protein
+IGNEIHIN_00763	gene	90				
+IGNEIHIN_00763	CDS	90				hypothetical protein
+IGNEIHIN_00764	gene	393				
+IGNEIHIN_00764	CDS	393				hypothetical protein
+IGNEIHIN_00765	gene	246				
+IGNEIHIN_00765	CDS	246				hypothetical protein
+IGNEIHIN_00766	gene	132				
+IGNEIHIN_00766	CDS	132				hypothetical protein
+IGNEIHIN_00767	gene	1203	rpoC			
+IGNEIHIN_00767	CDS	1203	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+IGNEIHIN_00768	gene	1077	rpoC2			
+IGNEIHIN_00768	CDS	1077	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+IGNEIHIN_00769	gene	303				
+IGNEIHIN_00769	CDS	303				hypothetical protein
+IGNEIHIN_00770	gene	444	nusA			
+IGNEIHIN_00770	CDS	444	nusA			Transcription termination/antitermination protein NusA
+IGNEIHIN_00771	gene	438				
+IGNEIHIN_00771	CDS	438				hypothetical protein
+IGNEIHIN_00772	gene	1017	qacA			
+IGNEIHIN_00772	CDS	1017	qacA		COG0477	Antiseptic resistance protein
+IGNEIHIN_00773	gene	132				
+IGNEIHIN_00773	CDS	132				hypothetical protein
+IGNEIHIN_00774	gene	294				
+IGNEIHIN_00774	CDS	294				hypothetical protein
+IGNEIHIN_00775	gene	1038	hisC			
+IGNEIHIN_00775	CDS	1038	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+IGNEIHIN_00776	gene	630	otnC			
+IGNEIHIN_00776	CDS	630	otnC	4.1.1.104	COG0235	3-oxo-tetronate 4-phosphate decarboxylase
+IGNEIHIN_00777	gene	660	gcvH			
+IGNEIHIN_00777	CDS	660	gcvH			Glycine cleavage system H protein
+IGNEIHIN_00778	gene	867				
+IGNEIHIN_00778	CDS	867		2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+IGNEIHIN_00779	gene	996				
+IGNEIHIN_00779	CDS	996				hypothetical protein
+IGNEIHIN_00780	gene	495				
+IGNEIHIN_00780	CDS	495				hypothetical protein
+IGNEIHIN_00781	gene	771				
+IGNEIHIN_00781	CDS	771				hypothetical protein
+IGNEIHIN_00782	gene	231				
+IGNEIHIN_00782	CDS	231				hypothetical protein
+IGNEIHIN_00783	gene	807	cysS_2			
+IGNEIHIN_00783	CDS	807	cysS_2	6.1.1.16		Cysteine--tRNA ligase
+IGNEIHIN_00784	gene	333				
+IGNEIHIN_00784	CDS	333				hypothetical protein
+IGNEIHIN_00785	gene	330				
+IGNEIHIN_00785	CDS	330				hypothetical protein
+IGNEIHIN_00786	gene	1035				
+IGNEIHIN_00786	CDS	1035				hypothetical protein
+IGNEIHIN_00787	gene	552				
+IGNEIHIN_00787	CDS	552				hypothetical protein
+IGNEIHIN_00788	gene	2844				
+IGNEIHIN_00788	CDS	2844				hypothetical protein
+IGNEIHIN_00789	gene	942	gsiD			
+IGNEIHIN_00789	CDS	942	gsiD		COG1173	Glutathione transport system permease protein GsiD
+IGNEIHIN_00790	gene	900	oppF			
+IGNEIHIN_00790	CDS	900	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+IGNEIHIN_00791	gene	1071	oppD			
+IGNEIHIN_00791	CDS	1071	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+IGNEIHIN_00792	gene	1353				
+IGNEIHIN_00792	CDS	1353				hypothetical protein
+IGNEIHIN_00793	gene	1281	glpK			
+IGNEIHIN_00793	CDS	1281	glpK	2.7.1.30	COG0554	Glycerol kinase
+IGNEIHIN_00794	gene	1092				
+IGNEIHIN_00794	CDS	1092				putative protein MG039 
+IGNEIHIN_00795	gene	1149	moaA			
+IGNEIHIN_00795	CDS	1149	moaA			GTP 3',8-cyclase
+IGNEIHIN_00796	gene	1635				
+IGNEIHIN_00796	CDS	1635				hypothetical protein
+IGNEIHIN_00797	gene	1482				
+IGNEIHIN_00797	CDS	1482				hypothetical protein
+IGNEIHIN_00798	gene	375				
+IGNEIHIN_00798	CDS	375				hypothetical protein
+IGNEIHIN_00799	gene	327				
+IGNEIHIN_00799	CDS	327				hypothetical protein
+IGNEIHIN_00800	gene	477	hldE			
+IGNEIHIN_00800	CDS	477	hldE	2.7.7.70		Bifunctional protein HldE
+IGNEIHIN_00801	gene	894				
+IGNEIHIN_00801	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+IGNEIHIN_00802	gene	1317				
+IGNEIHIN_00802	CDS	1317				hypothetical protein
+IGNEIHIN_00803	gene	378				
+IGNEIHIN_00803	CDS	378				hypothetical protein
+IGNEIHIN_00804	gene	573	rfaE			
+IGNEIHIN_00804	CDS	573	rfaE	2.7.1.167	COG2870	D-beta-D-heptose 7-phosphate kinase
+IGNEIHIN_00805	gene	174				
+IGNEIHIN_00805	CDS	174				hypothetical protein
+IGNEIHIN_00806	gene	2793				
+IGNEIHIN_00806	CDS	2793				hypothetical protein
+IGNEIHIN_00807	gene	312	bphA3_1			
+IGNEIHIN_00807	CDS	312	bphA3_1			Biphenyl dioxygenase ferredoxin subunit
+IGNEIHIN_00808	gene	357	frdA_2			
+IGNEIHIN_00808	CDS	357	frdA_2	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+IGNEIHIN_00809	gene	390				
+IGNEIHIN_00809	CDS	390				hypothetical protein
+IGNEIHIN_00810	gene	345				
+IGNEIHIN_00810	CDS	345				hypothetical protein
+IGNEIHIN_00811	gene	780	frdB_2			
+IGNEIHIN_00811	CDS	780	frdB_2	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+IGNEIHIN_00812	gene	207				
+IGNEIHIN_00812	CDS	207				hypothetical protein
+IGNEIHIN_00813	gene	423	iscU			
+IGNEIHIN_00813	CDS	423	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+IGNEIHIN_00814	gene	1239	csd			
+IGNEIHIN_00814	CDS	1239	csd	2.8.1.7		putative cysteine desulfurase
+IGNEIHIN_00815	gene	315	bphA3_2			
+IGNEIHIN_00815	CDS	315	bphA3_2			Biphenyl 2,3-dioxygenase, ferredoxin component
+IGNEIHIN_00816	gene	1413				
+IGNEIHIN_00816	CDS	1413				hypothetical protein
+IGNEIHIN_00817	gene	690				
+IGNEIHIN_00817	CDS	690				hypothetical protein
+IGNEIHIN_00818	gene	192				
+IGNEIHIN_00818	CDS	192				hypothetical protein
+IGNEIHIN_00819	gene	2724	ileS			
+IGNEIHIN_00819	CDS	2724	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+IGNEIHIN_00820	gene	450				
+IGNEIHIN_00820	CDS	450				hypothetical protein
+IGNEIHIN_00821	gene	999				
+IGNEIHIN_00821	CDS	999				hypothetical protein
+IGNEIHIN_00822	gene	984				
+IGNEIHIN_00822	CDS	984				hypothetical protein
+IGNEIHIN_00823	gene	513				
+IGNEIHIN_00823	CDS	513				hypothetical protein
+IGNEIHIN_00824	gene	759	lptB			
+IGNEIHIN_00824	CDS	759	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+IGNEIHIN_00825	gene	720	livF			
+IGNEIHIN_00825	CDS	720	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+IGNEIHIN_00826	gene	114				
+IGNEIHIN_00826	CDS	114				hypothetical protein
+IGNEIHIN_00827	gene	213				
+IGNEIHIN_00827	CDS	213				hypothetical protein
+IGNEIHIN_00828	gene	1284	hisS			
+IGNEIHIN_00828	CDS	1284	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+IGNEIHIN_00829	gene	231				
+IGNEIHIN_00829	CDS	231				hypothetical protein
+IGNEIHIN_00830	gene	996				
+IGNEIHIN_00830	CDS	996				putative epimerase/dehydratase
+IGNEIHIN_00831	gene	351	lnrL_2			
+IGNEIHIN_00831	CDS	351	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IGNEIHIN_00832	gene	1659				
+IGNEIHIN_00832	CDS	1659				hypothetical protein
+IGNEIHIN_00833	gene	657				
+IGNEIHIN_00833	CDS	657				hypothetical protein
+IGNEIHIN_00834	gene	234				
+IGNEIHIN_00834	CDS	234				hypothetical protein
+IGNEIHIN_00835	gene	669				
+IGNEIHIN_00835	CDS	669				hypothetical protein
+IGNEIHIN_00836	gene	456				
+IGNEIHIN_00836	CDS	456				hypothetical protein
+IGNEIHIN_00837	gene	92				
+IGNEIHIN_00837	tRNA	92				tRNA-Ser(cga)
+IGNEIHIN_00838	gene	708				
+IGNEIHIN_00838	CDS	708				hypothetical protein
+IGNEIHIN_00839	gene	858				
+IGNEIHIN_00839	CDS	858				hypothetical protein
+IGNEIHIN_00840	gene	315	atpH			
+IGNEIHIN_00840	CDS	315	atpH			ATP synthase subunit c
+IGNEIHIN_00841	gene	1053	atpC			
+IGNEIHIN_00841	CDS	1053	atpC			V-type ATP synthase subunit C
+IGNEIHIN_00842	gene	2052				
+IGNEIHIN_00842	CDS	2052				hypothetical protein
+IGNEIHIN_00843	gene	1455	ndhB_2			
+IGNEIHIN_00843	CDS	1455	ndhB_2	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+IGNEIHIN_00844	gene	537	ndhB_3			
+IGNEIHIN_00844	CDS	537	ndhB_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IGNEIHIN_00845	gene	90				
+IGNEIHIN_00845	CDS	90				hypothetical protein
+IGNEIHIN_00846	gene	189				
+IGNEIHIN_00846	CDS	189				hypothetical protein
+IGNEIHIN_00847	gene	123				
+IGNEIHIN_00847	CDS	123				hypothetical protein
+IGNEIHIN_00848	gene	93				
+IGNEIHIN_00848	CDS	93				hypothetical protein
+IGNEIHIN_00849	gene	786				
+IGNEIHIN_00849	CDS	786				hypothetical protein
+IGNEIHIN_00850	gene	735	nuoL_2			
+IGNEIHIN_00850	CDS	735	nuoL_2	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+IGNEIHIN_00851	gene	594	ndhB_4			
+IGNEIHIN_00851	CDS	594	ndhB_4	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IGNEIHIN_00852	gene	987	ndhB_5			
+IGNEIHIN_00852	CDS	987	ndhB_5	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IGNEIHIN_00853	gene	111				
+IGNEIHIN_00853	CDS	111				hypothetical protein
+IGNEIHIN_00854	gene	159				
+IGNEIHIN_00854	CDS	159				hypothetical protein
+IGNEIHIN_00855	gene	984				
+IGNEIHIN_00855	CDS	984				hypothetical protein
+IGNEIHIN_00856	gene	294				
+IGNEIHIN_00856	CDS	294				hypothetical protein
+IGNEIHIN_00857	gene	960				
+IGNEIHIN_00857	CDS	960				hypothetical protein
+IGNEIHIN_00858	gene	1023				
+IGNEIHIN_00858	CDS	1023				hypothetical protein
+IGNEIHIN_00859	gene	1458	mdtD			
+IGNEIHIN_00859	CDS	1458	mdtD			Putative multidrug resistance protein MdtD
+IGNEIHIN_00860	gene	936				
+IGNEIHIN_00860	CDS	936				hypothetical protein
+IGNEIHIN_00861	gene	420				
+IGNEIHIN_00861	CDS	420				hypothetical protein
+IGNEIHIN_00862	gene	582				
+IGNEIHIN_00862	CDS	582				hypothetical protein
+IGNEIHIN_00863	gene	162				
+IGNEIHIN_00863	CDS	162				hypothetical protein
+IGNEIHIN_00864	gene	264				
+IGNEIHIN_00864	CDS	264				hypothetical protein
+IGNEIHIN_00865	gene	1212	nrgA			
+IGNEIHIN_00865	CDS	1212	nrgA			Ammonium transporter
+IGNEIHIN_00866	gene	171				
+IGNEIHIN_00866	CDS	171				hypothetical protein
+IGNEIHIN_00867	gene	105				
+IGNEIHIN_00867	CDS	105				hypothetical protein
+IGNEIHIN_00868	gene	93				
+IGNEIHIN_00868	CDS	93				hypothetical protein
+IGNEIHIN_00869	gene	90				
+IGNEIHIN_00869	CDS	90				hypothetical protein
+IGNEIHIN_00870	gene	249				
+IGNEIHIN_00870	CDS	249				hypothetical protein
+IGNEIHIN_00871	gene	222				
+IGNEIHIN_00871	CDS	222				hypothetical protein
+IGNEIHIN_00872	gene	498				
+IGNEIHIN_00872	CDS	498				hypothetical protein
+IGNEIHIN_00873	gene	363	ydaF			
+IGNEIHIN_00873	CDS	363	ydaF	2.3.1.-	COG1670	Putative ribosomal N-acetyltransferase YdaF
+IGNEIHIN_00874	gene	1335	glmM_1			
+IGNEIHIN_00874	CDS	1335	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+IGNEIHIN_00875	gene	711	thiL_3			
+IGNEIHIN_00875	CDS	711	thiL_3	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+IGNEIHIN_00876	gene	1368	algC			
+IGNEIHIN_00876	CDS	1368	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+IGNEIHIN_00877	gene	2418	kdpB			
+IGNEIHIN_00877	CDS	2418	kdpB	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+IGNEIHIN_00878	gene	834				
+IGNEIHIN_00878	CDS	834		2.7.4.-	COG2326	Polyphosphate:AMP/ADP phosphotransferase
+IGNEIHIN_00879	gene	1251	nhaP2			
+IGNEIHIN_00879	CDS	1251	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+IGNEIHIN_00880	gene	1014				
+IGNEIHIN_00880	CDS	1014				hypothetical protein
+IGNEIHIN_00881	gene	1320	shdC			
+IGNEIHIN_00881	CDS	1320	shdC	4.1.1.63		Phenolic acid decarboxylase
+IGNEIHIN_00882	gene	243				
+IGNEIHIN_00882	CDS	243				hypothetical protein
+IGNEIHIN_00883	gene	942				
+IGNEIHIN_00883	CDS	942				hypothetical protein
+IGNEIHIN_00884	gene	381				
+IGNEIHIN_00884	CDS	381				hypothetical protein
+IGNEIHIN_00885	gene	594	ecdB			
+IGNEIHIN_00885	CDS	594	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+IGNEIHIN_00886	gene	882	eamA			
+IGNEIHIN_00886	CDS	882	eamA		COG0697	putative amino-acid metabolite efflux pump
+IGNEIHIN_00887	gene	804	ada			
+IGNEIHIN_00887	CDS	804	ada		COG0350	Bifunctional transcriptional activator/DNA repair enzyme Ada
+IGNEIHIN_00888	gene	927				
+IGNEIHIN_00888	CDS	927				hypothetical protein
+IGNEIHIN_00889	gene	1449				
+IGNEIHIN_00889	CDS	1449				hypothetical protein
+IGNEIHIN_00890	gene	138				
+IGNEIHIN_00890	CDS	138				hypothetical protein
+IGNEIHIN_00891	gene	234				
+IGNEIHIN_00891	CDS	234				hypothetical protein
+IGNEIHIN_00892	gene	303				
+IGNEIHIN_00892	CDS	303				hypothetical protein
+IGNEIHIN_00893	gene	2730	alaS_2			
+IGNEIHIN_00893	CDS	2730	alaS_2	6.1.1.7	COG0013	Alanine--tRNA ligase
+IGNEIHIN_00894	gene	471	mshD			
+IGNEIHIN_00894	CDS	471	mshD	2.3.1.189		Mycothiol acetyltransferase
+IGNEIHIN_00895	gene	306				
+IGNEIHIN_00895	CDS	306				hypothetical protein
+IGNEIHIN_00896	gene	393				
+IGNEIHIN_00896	CDS	393				hypothetical protein
+IGNEIHIN_00897	gene	312				
+IGNEIHIN_00897	CDS	312				hypothetical protein
+IGNEIHIN_00898	gene	90				
+IGNEIHIN_00898	CDS	90				hypothetical protein
+IGNEIHIN_00899	gene	483	rplK			
+IGNEIHIN_00899	CDS	483	rplK		COG0080	50S ribosomal protein L11
+IGNEIHIN_00900	gene	144				
+IGNEIHIN_00900	CDS	144				hypothetical protein
+IGNEIHIN_00901	gene	168				
+IGNEIHIN_00901	CDS	168				hypothetical protein
+IGNEIHIN_00902	gene	828				
+IGNEIHIN_00902	CDS	828				hypothetical protein
+IGNEIHIN_00903	gene	957	argF			
+IGNEIHIN_00903	CDS	957	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+IGNEIHIN_00904	gene	1107	lysK			
+IGNEIHIN_00904	CDS	1107	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+IGNEIHIN_00905	gene	795	lysX_2			
+IGNEIHIN_00905	CDS	795	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IGNEIHIN_00906	gene	171				
+IGNEIHIN_00906	CDS	171				hypothetical protein
+IGNEIHIN_00907	gene	453				
+IGNEIHIN_00907	CDS	453				hypothetical protein
+IGNEIHIN_00908	gene	1602	kstD			
+IGNEIHIN_00908	CDS	1602	kstD	1.3.99.4	COG1053	3-oxosteroid 1-dehydrogenase
+IGNEIHIN_00909	gene	657				
+IGNEIHIN_00909	CDS	657				hypothetical protein
+IGNEIHIN_00910	gene	369				
+IGNEIHIN_00910	CDS	369				hypothetical protein
+IGNEIHIN_00911	gene	150				
+IGNEIHIN_00911	CDS	150				hypothetical protein
+IGNEIHIN_00912	gene	90				
+IGNEIHIN_00912	CDS	90				hypothetical protein
+IGNEIHIN_00913	gene	507	lysZ			
+IGNEIHIN_00913	CDS	507	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+IGNEIHIN_00914	gene	240				
+IGNEIHIN_00914	CDS	240				hypothetical protein
+IGNEIHIN_00915	gene	534	idi_2			
+IGNEIHIN_00915	CDS	534	idi_2	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+IGNEIHIN_00916	gene	1005				
+IGNEIHIN_00916	CDS	1005				hypothetical protein
+IGNEIHIN_00917	gene	384				
+IGNEIHIN_00917	CDS	384				hypothetical protein
+IGNEIHIN_00918	gene	219				
+IGNEIHIN_00918	CDS	219				hypothetical protein
+IGNEIHIN_00919	gene	225				
+IGNEIHIN_00919	CDS	225				hypothetical protein
+IGNEIHIN_00920	gene	483				
+IGNEIHIN_00920	CDS	483				hypothetical protein
+IGNEIHIN_00921	gene	249				
+IGNEIHIN_00921	CDS	249				hypothetical protein
+IGNEIHIN_00922	gene	411				
+IGNEIHIN_00922	CDS	411				hypothetical protein
+IGNEIHIN_00923	gene	459	asnC			
+IGNEIHIN_00923	CDS	459	asnC		COG1522	Regulatory protein AsnC
+IGNEIHIN_00924	gene	360				
+IGNEIHIN_00924	CDS	360				hypothetical protein
+IGNEIHIN_00925	gene	465	infB_1			
+IGNEIHIN_00925	CDS	465	infB_1			Translation initiation factor IF-2
+IGNEIHIN_00926	gene	939	infB_2			
+IGNEIHIN_00926	CDS	939	infB_2			Translation initiation factor IF-2
+IGNEIHIN_00927	gene	423	ndk			
+IGNEIHIN_00927	CDS	423	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+IGNEIHIN_00928	gene	291				
+IGNEIHIN_00928	CDS	291				hypothetical protein
+IGNEIHIN_00929	gene	843				
+IGNEIHIN_00929	CDS	843				hypothetical protein
+IGNEIHIN_00930	gene	546				
+IGNEIHIN_00930	CDS	546				hypothetical protein
+IGNEIHIN_00931	gene	1365				
+IGNEIHIN_00931	CDS	1365				hypothetical protein
+IGNEIHIN_00932	gene	576				
+IGNEIHIN_00932	CDS	576				hypothetical protein
+IGNEIHIN_00933	gene	219				
+IGNEIHIN_00933	CDS	219				hypothetical protein
+IGNEIHIN_00934	gene	402				
+IGNEIHIN_00934	CDS	402				hypothetical protein
+IGNEIHIN_00935	gene	306				
+IGNEIHIN_00935	CDS	306				hypothetical protein
+IGNEIHIN_00936	gene	186				
+IGNEIHIN_00936	CDS	186				hypothetical protein
+IGNEIHIN_00937	gene	876	gluQ			
+IGNEIHIN_00937	CDS	876	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+IGNEIHIN_00938	gene	936	ispB_2			
+IGNEIHIN_00938	CDS	936	ispB_2	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+IGNEIHIN_00939	gene	711	argB			
+IGNEIHIN_00939	CDS	711	argB	2.7.2.8		Acetylglutamate kinase
+IGNEIHIN_00940	gene	930	galK			
+IGNEIHIN_00940	CDS	930	galK	2.7.1.6		Galactokinase
+IGNEIHIN_00941	gene	843				
+IGNEIHIN_00941	CDS	843				hypothetical protein
+IGNEIHIN_00942	gene	423				
+IGNEIHIN_00942	CDS	423				hypothetical protein
+IGNEIHIN_00943	gene	261				
+IGNEIHIN_00943	CDS	261				hypothetical protein
+IGNEIHIN_00944	gene	210				
+IGNEIHIN_00944	CDS	210				hypothetical protein
+IGNEIHIN_00945	gene	435	rpsI			
+IGNEIHIN_00945	CDS	435	rpsI		COG0103	30S ribosomal protein S9
+IGNEIHIN_00946	gene	441				
+IGNEIHIN_00946	CDS	441				hypothetical protein
+IGNEIHIN_00947	gene	354				
+IGNEIHIN_00947	CDS	354				hypothetical protein
+IGNEIHIN_00948	gene	636				
+IGNEIHIN_00948	CDS	636				hypothetical protein
+IGNEIHIN_00949	gene	804				
+IGNEIHIN_00949	CDS	804				hypothetical protein
+IGNEIHIN_00950	gene	498				
+IGNEIHIN_00950	CDS	498				hypothetical protein
+IGNEIHIN_00951	gene	570				
+IGNEIHIN_00951	CDS	570				hypothetical protein
+IGNEIHIN_00952	gene	288				
+IGNEIHIN_00952	CDS	288				hypothetical protein
+IGNEIHIN_00953	gene	951				
+IGNEIHIN_00953	CDS	951				hypothetical protein
+IGNEIHIN_00954	gene	315				
+IGNEIHIN_00954	CDS	315				hypothetical protein
+IGNEIHIN_00955	gene	177				
+IGNEIHIN_00955	CDS	177				hypothetical protein
+IGNEIHIN_00956	gene	159	glmS			
+IGNEIHIN_00956	CDS	159	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IGNEIHIN_00957	gene	360				
+IGNEIHIN_00957	CDS	360				hypothetical protein
+IGNEIHIN_00958	gene	255				
+IGNEIHIN_00958	CDS	255				hypothetical protein
+IGNEIHIN_00959	gene	1647	msrP			
+IGNEIHIN_00959	CDS	1647	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IGNEIHIN_00960	gene	1299	codA			
+IGNEIHIN_00960	CDS	1299	codA	3.5.4.1	COG0402	Cytosine deaminase
+IGNEIHIN_00961	gene	1731	pucI			
+IGNEIHIN_00961	CDS	1731	pucI		COG1953	putative allantoin permease
+IGNEIHIN_00962	gene	162				
+IGNEIHIN_00962	CDS	162				hypothetical protein
+IGNEIHIN_00963	gene	624				
+IGNEIHIN_00963	CDS	624				hypothetical protein
+IGNEIHIN_00964	gene	888				
+IGNEIHIN_00964	CDS	888				hypothetical protein
+IGNEIHIN_00965	gene	681				
+IGNEIHIN_00965	CDS	681				hypothetical protein
+IGNEIHIN_00966	gene	399				
+IGNEIHIN_00966	CDS	399				hypothetical protein
+IGNEIHIN_00967	gene	273				
+IGNEIHIN_00967	CDS	273				hypothetical protein
+IGNEIHIN_00968	gene	1206				
+IGNEIHIN_00968	CDS	1206				hypothetical protein
+IGNEIHIN_00969	gene	96				
+IGNEIHIN_00969	CDS	96				hypothetical protein
+IGNEIHIN_00970	gene	663	gph_3			
+IGNEIHIN_00970	CDS	663	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+IGNEIHIN_00971	gene	765				
+IGNEIHIN_00971	CDS	765				hypothetical protein
+IGNEIHIN_00972	gene	135				
+IGNEIHIN_00972	CDS	135				hypothetical protein
+IGNEIHIN_00973	gene	1194				
+IGNEIHIN_00973	CDS	1194				hypothetical protein
+IGNEIHIN_00974	gene	360				
+IGNEIHIN_00974	CDS	360				hypothetical protein
+IGNEIHIN_00975	gene	1149				
+IGNEIHIN_00975	CDS	1149				hypothetical protein
+IGNEIHIN_00976	gene	333	glmM_2			
+IGNEIHIN_00976	CDS	333	glmM_2			Phosphoglucosamine mutase
+IGNEIHIN_00977	gene	969	glmM_3			
+IGNEIHIN_00977	CDS	969	glmM_3	5.4.2.10	COG1109	Phosphoglucosamine mutase
+IGNEIHIN_00978	gene	531	thyX			
+IGNEIHIN_00978	CDS	531	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+IGNEIHIN_00979	gene	444				
+IGNEIHIN_00979	CDS	444				hypothetical protein
+IGNEIHIN_00980	gene	606				
+IGNEIHIN_00980	CDS	606				hypothetical protein
+IGNEIHIN_00981	gene	159				
+IGNEIHIN_00981	CDS	159				hypothetical protein
+IGNEIHIN_00982	gene	93				
+IGNEIHIN_00982	CDS	93				hypothetical protein
+IGNEIHIN_00983	gene	423				
+IGNEIHIN_00983	CDS	423				hypothetical protein
+IGNEIHIN_00984	gene	357	erpA			
+IGNEIHIN_00984	CDS	357	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+IGNEIHIN_00985	gene	489	bcp_2			
+IGNEIHIN_00985	CDS	489	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+IGNEIHIN_00986	gene	366				
+IGNEIHIN_00986	CDS	366				hypothetical protein
+IGNEIHIN_00987	gene	285				
+IGNEIHIN_00987	CDS	285				hypothetical protein
+IGNEIHIN_00988	gene	426				
+IGNEIHIN_00988	CDS	426				hypothetical protein
+IGNEIHIN_00989	gene	174				
+IGNEIHIN_00989	CDS	174				hypothetical protein
+IGNEIHIN_00990	gene	465	ndhS			
+IGNEIHIN_00990	CDS	465	ndhS	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+IGNEIHIN_00991	gene	1026	argF'_2			
+IGNEIHIN_00991	CDS	1026	argF'_2	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+IGNEIHIN_00992	gene	435				
+IGNEIHIN_00992	CDS	435				hypothetical protein
+IGNEIHIN_00993	gene	465				
+IGNEIHIN_00993	CDS	465				hypothetical protein
+IGNEIHIN_00994	gene	1617				
+IGNEIHIN_00994	CDS	1617				hypothetical protein
+IGNEIHIN_00995	gene	795				
+IGNEIHIN_00995	CDS	795				hypothetical protein
+IGNEIHIN_00996	gene	729	fgd			
+IGNEIHIN_00996	CDS	729	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+IGNEIHIN_00997	gene	1395	ssnA			
+IGNEIHIN_00997	CDS	1395	ssnA	3.-.-.-	COG0402	Putative aminohydrolase SsnA
+IGNEIHIN_00998	gene	1374				
+IGNEIHIN_00998	CDS	1374		3.5.2.-		D-hydantoinase
+IGNEIHIN_00999	gene	1377	atzA_2			
+IGNEIHIN_00999	CDS	1377	atzA_2	3.8.1.8		Atrazine chlorohydrolase
+IGNEIHIN_01000	gene	954	arcC2_2			
+IGNEIHIN_01000	CDS	954	arcC2_2	2.7.2.2		Carbamate kinase 2
+IGNEIHIN_01001	gene	501	gpt_3			
+IGNEIHIN_01001	CDS	501	gpt_3	2.4.2.22		Xanthine phosphoribosyltransferase
+IGNEIHIN_01002	gene	330				
+IGNEIHIN_01002	CDS	330				hypothetical protein
+IGNEIHIN_01003	gene	297	atpF_2			
+IGNEIHIN_01003	CDS	297	atpF_2			V-type ATP synthase subunit F
+IGNEIHIN_01004	gene	597	atpE_2			
+IGNEIHIN_01004	CDS	597	atpE_2			V-type proton ATPase subunit E
+IGNEIHIN_01005	gene	1788	atpA_3			
+IGNEIHIN_01005	CDS	1788	atpA_3	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+IGNEIHIN_01006	gene	1413	ntpB_2			
+IGNEIHIN_01006	CDS	1413	ntpB_2			V-type sodium ATPase subunit B
+IGNEIHIN_01007	gene	642	ntpD_2			
+IGNEIHIN_01007	CDS	642	ntpD_2			V-type sodium ATPase subunit D
+IGNEIHIN_01008	gene	138				
+IGNEIHIN_01008	CDS	138				hypothetical protein
+IGNEIHIN_01009	gene	240				
+IGNEIHIN_01009	CDS	240				hypothetical protein
+IGNEIHIN_01010	gene	495				
+IGNEIHIN_01010	CDS	495				hypothetical protein
+IGNEIHIN_01011	gene	174				
+IGNEIHIN_01011	CDS	174				hypothetical protein
+IGNEIHIN_01012	gene	168				
+IGNEIHIN_01012	CDS	168				hypothetical protein
+IGNEIHIN_01013	gene	195				
+IGNEIHIN_01013	CDS	195				hypothetical protein
+IGNEIHIN_01014	gene	150				
+IGNEIHIN_01014	CDS	150				hypothetical protein
+IGNEIHIN_01015	gene	1860				
+IGNEIHIN_01015	CDS	1860				hypothetical protein
+IGNEIHIN_01016	gene	606				
+IGNEIHIN_01016	CDS	606		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+IGNEIHIN_01017	gene	1209				
+IGNEIHIN_01017	CDS	1209				hypothetical protein
+IGNEIHIN_01018	gene	843				
+IGNEIHIN_01018	CDS	843				hypothetical protein
+IGNEIHIN_01019	gene	228				
+IGNEIHIN_01019	CDS	228				hypothetical protein
+IGNEIHIN_01020	gene	936				
+IGNEIHIN_01020	CDS	936				hypothetical protein
+IGNEIHIN_01021	gene	1050				
+IGNEIHIN_01021	CDS	1050				hypothetical protein
+IGNEIHIN_01022	gene	798				
+IGNEIHIN_01022	CDS	798				hypothetical protein
+IGNEIHIN_01023	gene	1620				
+IGNEIHIN_01023	CDS	1620				hypothetical protein
+IGNEIHIN_01024	gene	894				
+IGNEIHIN_01024	CDS	894				hypothetical protein
+IGNEIHIN_01025	gene	246				
+IGNEIHIN_01025	CDS	246				hypothetical protein
+IGNEIHIN_01026	gene	96				
+IGNEIHIN_01026	CDS	96				hypothetical protein
+IGNEIHIN_01027	gene	1728				
+IGNEIHIN_01027	CDS	1728				hypothetical protein
+IGNEIHIN_01028	gene	1800				
+IGNEIHIN_01028	CDS	1800				hypothetical protein
+IGNEIHIN_01029	gene	1452	ribZ			
+IGNEIHIN_01029	CDS	1452	ribZ			Riboflavin transporter RibZ
+IGNEIHIN_01030	gene	555	ybhR			
+IGNEIHIN_01030	CDS	555	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+IGNEIHIN_01031	gene	612				
+IGNEIHIN_01031	CDS	612				hypothetical protein
+IGNEIHIN_01032	gene	765	lnrL_3			
+IGNEIHIN_01032	CDS	765	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IGNEIHIN_01033	gene	909				
+IGNEIHIN_01033	CDS	909				hypothetical protein
+IGNEIHIN_01034	gene	840				
+IGNEIHIN_01034	CDS	840				hypothetical protein
+IGNEIHIN_01035	gene	186				
+IGNEIHIN_01035	CDS	186				hypothetical protein
+IGNEIHIN_01036	gene	432	yccU			
+IGNEIHIN_01036	CDS	432	yccU		COG1832	putative protein YccU
+IGNEIHIN_01037	gene	375				
+IGNEIHIN_01037	CDS	375				hypothetical protein
+IGNEIHIN_01038	gene	183				
+IGNEIHIN_01038	CDS	183				hypothetical protein
+IGNEIHIN_01039	gene	1269				
+IGNEIHIN_01039	CDS	1269				hypothetical protein
+IGNEIHIN_01040	gene	435				
+IGNEIHIN_01040	CDS	435				hypothetical protein
+IGNEIHIN_01041	gene	567				
+IGNEIHIN_01041	CDS	567				hypothetical protein
+IGNEIHIN_01042	gene	384				
+IGNEIHIN_01042	CDS	384				hypothetical protein
+IGNEIHIN_01043	gene	378	oxyR			
+IGNEIHIN_01043	CDS	378	oxyR	1.3.98.4		5a,11a-dehydrotetracycline/5a,11a-dehydrooxytetracycline reductase
+IGNEIHIN_01044	gene	960	htrA_2			
+IGNEIHIN_01044	CDS	960	htrA_2			Putative serine protease HtrA
+IGNEIHIN_01045	gene	405				
+IGNEIHIN_01045	CDS	405				hypothetical protein
+IGNEIHIN_01046	gene	333				
+IGNEIHIN_01046	CDS	333				hypothetical protein
+IGNEIHIN_01047	gene	534				
+IGNEIHIN_01047	CDS	534				hypothetical protein
+IGNEIHIN_01048	gene	357				
+IGNEIHIN_01048	CDS	357				hypothetical protein
+IGNEIHIN_01049	gene	258				
+IGNEIHIN_01049	CDS	258				hypothetical protein
+IGNEIHIN_01050	gene	1098	ybhS			
+IGNEIHIN_01050	CDS	1098	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+IGNEIHIN_01051	gene	924	drrA_2			
+IGNEIHIN_01051	CDS	924	drrA_2	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IGNEIHIN_01052	gene	1020				
+IGNEIHIN_01052	CDS	1020				hypothetical protein
+IGNEIHIN_01053	gene	240				
+IGNEIHIN_01053	CDS	240				hypothetical protein
+IGNEIHIN_01054	gene	231				
+IGNEIHIN_01054	CDS	231				hypothetical protein
+IGNEIHIN_01055	gene	861				
+IGNEIHIN_01055	CDS	861				hypothetical protein
+IGNEIHIN_01056	gene	486				
+IGNEIHIN_01056	CDS	486				hypothetical protein
+IGNEIHIN_01057	gene	117				
+IGNEIHIN_01057	CDS	117				hypothetical protein
+IGNEIHIN_01058	gene	537				
+IGNEIHIN_01058	CDS	537				hypothetical protein
+IGNEIHIN_01059	gene	645				
+IGNEIHIN_01059	CDS	645				hypothetical protein
+IGNEIHIN_01060	gene	93				
+IGNEIHIN_01060	tRNA	93				tRNA-Arg(tcg)
+IGNEIHIN_01061	gene	480	mtnA			
+IGNEIHIN_01061	CDS	480	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+IGNEIHIN_01062	gene	300				
+IGNEIHIN_01062	CDS	300				hypothetical protein
+IGNEIHIN_01063	gene	270				
+IGNEIHIN_01063	CDS	270				hypothetical protein
+IGNEIHIN_01064	gene	156				
+IGNEIHIN_01064	CDS	156				hypothetical protein
+IGNEIHIN_01065	gene	846	cyoE			
+IGNEIHIN_01065	CDS	846	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+IGNEIHIN_01066	gene	1176	ruvB			
+IGNEIHIN_01066	CDS	1176	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+IGNEIHIN_01067	gene	273				
+IGNEIHIN_01067	CDS	273				hypothetical protein
+IGNEIHIN_01068	gene	1005				
+IGNEIHIN_01068	CDS	1005				hypothetical protein
+IGNEIHIN_01069	gene	225				
+IGNEIHIN_01069	CDS	225				hypothetical protein
+IGNEIHIN_01070	gene	243				
+IGNEIHIN_01070	CDS	243				hypothetical protein
+IGNEIHIN_01071	gene	366	ccrA2			
+IGNEIHIN_01071	CDS	366	ccrA2	1.3.1.86	COG0604	Crotonyl-CoA reductase
+IGNEIHIN_01072	gene	354	yhfA			
+IGNEIHIN_01072	CDS	354	yhfA		COG1765	Protein YhfA
+IGNEIHIN_01073	gene	564				
+IGNEIHIN_01073	CDS	564				hypothetical protein

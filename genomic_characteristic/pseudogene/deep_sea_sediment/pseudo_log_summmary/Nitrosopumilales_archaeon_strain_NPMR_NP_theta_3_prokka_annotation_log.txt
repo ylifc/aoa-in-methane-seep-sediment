@@ -1,0 +1,48 @@
+####### Summary from annotate/reannotate #######
+
+Date/time:	2021-12-22 01:19:50
+
+#######    Files   #######
+Genome:	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka/PROKKA_12212021.gbk
+Database:	/media/ylifc/HD-LXU3/NR_database/nr
+Reference Genome:	None
+BlastP:	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_proteome.faa.blastP_output.tsv
+BlastX:	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_intergenic.fasta.blastX_output.tsv
+Pseudogenes (GFF):	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_pseudos.gff
+Pseudogenes (Fasta):	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_pseudos.fasta
+Intact genes (GFF):	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_intact.gff
+Intact genes (protein seq):	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_intact.faa
+Intact genes (nucleotide seq):	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_intact.ffn
+Chromosome map:	Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation_map.pdf
+
+#######  Settings  #######
+Distance:	None
+hitcap:	15
+Intergenic_length:	30
+Intergenic_threshold:	0.3
+Length_pseudo:	0.65
+Shared_hits:	0.5
+contig_ends:	False
+no_bidirectional_length:	False
+use_alignment:	False
+max_dnds:	0.3
+####### Statistics #######
+#Input:
+Initial ORFs:	1370
+Initial pseudogenes:	0
+Number of contigs:	552
+#Output:
+Inital ORFs joined:	60
+Pseudogenes (total):	337
+Pseudogenes (too short):	232
+Pseudogenes (fragmented):	26
+Pseudogenes (no predicted ORF):	69
+Pseudogenes (high dN/dS):	0
+Intact genes:	1078
+
+####### Output Key #######
+Initial ORFs joined:		The number of input open reading frames that have been merged and flagged as a fragmented pseudogene.
+Pseudogenes (too short):	ORFs smaller than the "shared_hits" cutoff.
+Pseudogenes (fragmented):	Pseudogenes composed of merging 2 or more input ORFs.
+Pseudogenes (high dN/dS):	Incipient pseudogenes that look intact, but have an elevated dN/dS value compared to a reference gene.
+Intact genes:		[Initial ORFs] - [Initial ORFs joined] - [Pseudogenes (too short)] - [Pseudogenes (high dN/dS)]

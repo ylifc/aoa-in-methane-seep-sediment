@@ -1,0 +1,1869 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BGBEHOIO_00001	gene	651				
+BGBEHOIO_00001	CDS	651				hypothetical protein
+BGBEHOIO_00002	gene	588	hisB			
+BGBEHOIO_00002	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+BGBEHOIO_00003	gene	606	hisH			
+BGBEHOIO_00003	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+BGBEHOIO_00004	gene	705	priA			
+BGBEHOIO_00004	CDS	705	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+BGBEHOIO_00005	gene	804	hisF			
+BGBEHOIO_00005	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+BGBEHOIO_00006	gene	330	hisI			
+BGBEHOIO_00006	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+BGBEHOIO_00007	gene	1224	thrC			
+BGBEHOIO_00007	CDS	1224	thrC	4.2.3.1	COG0498	Threonine synthase
+BGBEHOIO_00008	gene	1371				
+BGBEHOIO_00008	CDS	1371				hypothetical protein
+BGBEHOIO_00009	gene	4791				
+BGBEHOIO_00009	CDS	4791				hypothetical protein
+BGBEHOIO_00010	gene	984				
+BGBEHOIO_00010	CDS	984				hypothetical protein
+BGBEHOIO_00011	gene	4251				
+BGBEHOIO_00011	CDS	4251				hypothetical protein
+BGBEHOIO_00012	gene	603	petC			
+BGBEHOIO_00012	CDS	603	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+BGBEHOIO_00013	gene	1464	petB			
+BGBEHOIO_00013	CDS	1464	petB			Cytochrome b6
+BGBEHOIO_00014	gene	507				
+BGBEHOIO_00014	CDS	507				hypothetical protein
+BGBEHOIO_00015	gene	351				
+BGBEHOIO_00015	CDS	351				hypothetical protein
+BGBEHOIO_00016	gene	77				
+BGBEHOIO_00016	tRNA	77				tRNA-Arg(tct)
+BGBEHOIO_00017	gene	849				
+BGBEHOIO_00017	CDS	849				hypothetical protein
+BGBEHOIO_00018	gene	1254				
+BGBEHOIO_00018	CDS	1254		3.1.-.-	COG1236	Ribonuclease
+BGBEHOIO_00019	gene	213				
+BGBEHOIO_00019	CDS	213				hypothetical protein
+BGBEHOIO_00020	gene	303	ndhI			
+BGBEHOIO_00020	CDS	303	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BGBEHOIO_00021	gene	1509	QTRT1			
+BGBEHOIO_00021	CDS	1509	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+BGBEHOIO_00022	gene	519				
+BGBEHOIO_00022	CDS	519				hypothetical protein
+BGBEHOIO_00023	gene	216				
+BGBEHOIO_00023	CDS	216				hypothetical protein
+BGBEHOIO_00024	gene	699				
+BGBEHOIO_00024	CDS	699				hypothetical protein
+BGBEHOIO_00025	gene	369	tsaD_1			
+BGBEHOIO_00025	CDS	369	tsaD_1	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+BGBEHOIO_00026	gene	621	tsaD_2			
+BGBEHOIO_00026	CDS	621	tsaD_2	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+BGBEHOIO_00027	gene	195				
+BGBEHOIO_00027	CDS	195				hypothetical protein
+BGBEHOIO_00028	gene	237				
+BGBEHOIO_00028	CDS	237				hypothetical protein
+BGBEHOIO_00029	gene	141				
+BGBEHOIO_00029	CDS	141				hypothetical protein
+BGBEHOIO_00030	gene	465				
+BGBEHOIO_00030	CDS	465				hypothetical protein
+BGBEHOIO_00031	gene	198				
+BGBEHOIO_00031	CDS	198				hypothetical protein
+BGBEHOIO_00032	gene	276				
+BGBEHOIO_00032	CDS	276		3.6.1.66		dITP/XTP pyrophosphatase
+BGBEHOIO_00033	gene	1020	moaA			
+BGBEHOIO_00033	CDS	1020	moaA			GTP 3',8-cyclase
+BGBEHOIO_00034	gene	942				
+BGBEHOIO_00034	CDS	942				hypothetical protein
+BGBEHOIO_00035	gene	453				
+BGBEHOIO_00035	CDS	453				hypothetical protein
+BGBEHOIO_00036	gene	591				
+BGBEHOIO_00036	CDS	591				hypothetical protein
+BGBEHOIO_00037	gene	74				
+BGBEHOIO_00037	tRNA	74				tRNA-His(gtg)
+BGBEHOIO_00038	gene	309				
+BGBEHOIO_00038	CDS	309				hypothetical protein
+BGBEHOIO_00039	gene	384				
+BGBEHOIO_00039	CDS	384				hypothetical protein
+BGBEHOIO_00040	gene	270				
+BGBEHOIO_00040	CDS	270				hypothetical protein
+BGBEHOIO_00041	gene	309	bphA3			
+BGBEHOIO_00041	CDS	309	bphA3			Biphenyl dioxygenase ferredoxin subunit
+BGBEHOIO_00042	gene	864	yisK			
+BGBEHOIO_00042	CDS	864	yisK		COG0179	putative protein YisK
+BGBEHOIO_00043	gene	1647	gluQ			
+BGBEHOIO_00043	CDS	1647	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+BGBEHOIO_00044	gene	945	hepT			
+BGBEHOIO_00044	CDS	945	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+BGBEHOIO_00045	gene	687	idi			
+BGBEHOIO_00045	CDS	687	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+BGBEHOIO_00046	gene	510				
+BGBEHOIO_00046	CDS	510				hypothetical protein
+BGBEHOIO_00047	gene	261				
+BGBEHOIO_00047	CDS	261				hypothetical protein
+BGBEHOIO_00048	gene	948	galK			
+BGBEHOIO_00048	CDS	948	galK	2.7.1.6		Galactokinase
+BGBEHOIO_00049	gene	609				
+BGBEHOIO_00049	CDS	609				hypothetical protein
+BGBEHOIO_00050	gene	1239	eno			
+BGBEHOIO_00050	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+BGBEHOIO_00051	gene	237				
+BGBEHOIO_00051	CDS	237				hypothetical protein
+BGBEHOIO_00052	gene	87				
+BGBEHOIO_00052	tRNA	87				tRNA-Leu(gag)
+BGBEHOIO_00053	gene	609				
+BGBEHOIO_00053	CDS	609				hypothetical protein
+BGBEHOIO_00054	gene	657	nnr			
+BGBEHOIO_00054	CDS	657	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BGBEHOIO_00055	gene	612	pksB			
+BGBEHOIO_00055	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+BGBEHOIO_00056	gene	1020				
+BGBEHOIO_00056	CDS	1020				hypothetical protein
+BGBEHOIO_00057	gene	1755	glmS			
+BGBEHOIO_00057	CDS	1755	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BGBEHOIO_00058	gene	687				
+BGBEHOIO_00058	CDS	687				hypothetical protein
+BGBEHOIO_00059	gene	630				
+BGBEHOIO_00059	CDS	630				hypothetical protein
+BGBEHOIO_00060	gene	357				
+BGBEHOIO_00060	CDS	357				hypothetical protein
+BGBEHOIO_00061	gene	939				
+BGBEHOIO_00061	CDS	939				hypothetical protein
+BGBEHOIO_00062	gene	324				
+BGBEHOIO_00062	CDS	324				hypothetical protein
+BGBEHOIO_00063	gene	1569				
+BGBEHOIO_00063	CDS	1569				hypothetical protein
+BGBEHOIO_00064	gene	723				
+BGBEHOIO_00064	CDS	723				hypothetical protein
+BGBEHOIO_00065	gene	780	larB			
+BGBEHOIO_00065	CDS	780	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+BGBEHOIO_00066	gene	915	mdh			
+BGBEHOIO_00066	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+BGBEHOIO_00067	gene	1221	larC			
+BGBEHOIO_00067	CDS	1221	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+BGBEHOIO_00068	gene	804	larE			
+BGBEHOIO_00068	CDS	804	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+BGBEHOIO_00069	gene	399	iscS_1			
+BGBEHOIO_00069	CDS	399	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+BGBEHOIO_00070	gene	732	iscS_2			
+BGBEHOIO_00070	CDS	732	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+BGBEHOIO_00071	gene	990				
+BGBEHOIO_00071	CDS	990				hypothetical protein
+BGBEHOIO_00072	gene	1092				
+BGBEHOIO_00072	CDS	1092				hypothetical protein
+BGBEHOIO_00073	gene	1086				
+BGBEHOIO_00073	CDS	1086				hypothetical protein
+BGBEHOIO_00074	gene	501	ypeA			
+BGBEHOIO_00074	CDS	501	ypeA	2.3.1.-		Acetyltransferase YpeA
+BGBEHOIO_00075	gene	225				
+BGBEHOIO_00075	CDS	225				hypothetical protein
+BGBEHOIO_00076	gene	837				
+BGBEHOIO_00076	CDS	837				hypothetical protein
+BGBEHOIO_00077	gene	1776	btuD_1			
+BGBEHOIO_00077	CDS	1776	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BGBEHOIO_00078	gene	112				
+BGBEHOIO_00078	rRNA	112				5S ribosomal RNA
+BGBEHOIO_00079	gene	612				
+BGBEHOIO_00079	CDS	612				hypothetical protein
+BGBEHOIO_00080	gene	1230				
+BGBEHOIO_00080	CDS	1230				hypothetical protein
+BGBEHOIO_00081	gene	147				
+BGBEHOIO_00081	CDS	147				hypothetical protein
+BGBEHOIO_00082	gene	384				
+BGBEHOIO_00082	CDS	384				hypothetical protein
+BGBEHOIO_00083	gene	1668	dxs			
+BGBEHOIO_00083	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+BGBEHOIO_00084	gene	975	aptB			
+BGBEHOIO_00084	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+BGBEHOIO_00085	gene	666	tal			
+BGBEHOIO_00085	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+BGBEHOIO_00086	gene	135				
+BGBEHOIO_00086	CDS	135				hypothetical protein
+BGBEHOIO_00087	gene	816				
+BGBEHOIO_00087	CDS	816				hypothetical protein
+BGBEHOIO_00088	gene	228				
+BGBEHOIO_00088	CDS	228				hypothetical protein
+BGBEHOIO_00089	gene	654	rplA			
+BGBEHOIO_00089	CDS	654	rplA		COG0081	50S ribosomal protein L1
+BGBEHOIO_00090	gene	171				
+BGBEHOIO_00090	CDS	171				hypothetical protein
+BGBEHOIO_00091	gene	300				
+BGBEHOIO_00091	CDS	300				hypothetical protein
+BGBEHOIO_00092	gene	483	rplK			
+BGBEHOIO_00092	CDS	483	rplK		COG0080	50S ribosomal protein L11
+BGBEHOIO_00093	gene	549				
+BGBEHOIO_00093	CDS	549				hypothetical protein
+BGBEHOIO_00094	gene	180				
+BGBEHOIO_00094	CDS	180				hypothetical protein
+BGBEHOIO_00095	gene	777				
+BGBEHOIO_00095	CDS	777				hypothetical protein
+BGBEHOIO_00096	gene	300	ogt			
+BGBEHOIO_00096	CDS	300	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+BGBEHOIO_00097	gene	462				
+BGBEHOIO_00097	CDS	462				hypothetical protein
+BGBEHOIO_00098	gene	405				
+BGBEHOIO_00098	CDS	405				hypothetical protein
+BGBEHOIO_00099	gene	1596	pckA			
+BGBEHOIO_00099	CDS	1596	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+BGBEHOIO_00100	gene	2016				
+BGBEHOIO_00100	CDS	2016				hypothetical protein
+BGBEHOIO_00101	gene	621	sodA			
+BGBEHOIO_00101	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+BGBEHOIO_00102	gene	420	pfdA			
+BGBEHOIO_00102	CDS	420	pfdA			Prefoldin subunit alpha
+BGBEHOIO_00103	gene	1236	ftsY_1			
+BGBEHOIO_00103	CDS	1236	ftsY_1			Signal recognition particle receptor FtsY
+BGBEHOIO_00104	gene	912	argF			
+BGBEHOIO_00104	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+BGBEHOIO_00105	gene	423				
+BGBEHOIO_00105	CDS	423				hypothetical protein
+BGBEHOIO_00106	gene	678				
+BGBEHOIO_00106	CDS	678				hypothetical protein
+BGBEHOIO_00107	gene	468				
+BGBEHOIO_00107	CDS	468				hypothetical protein
+BGBEHOIO_00108	gene	492				
+BGBEHOIO_00108	CDS	492				hypothetical protein
+BGBEHOIO_00109	gene	1434	secY			
+BGBEHOIO_00109	CDS	1434	secY			Protein translocase subunit SecY
+BGBEHOIO_00110	gene	591				
+BGBEHOIO_00110	CDS	591				hypothetical protein
+BGBEHOIO_00111	gene	642				
+BGBEHOIO_00111	CDS	642				hypothetical protein
+BGBEHOIO_00112	gene	546	cmk			
+BGBEHOIO_00112	CDS	546	cmk	2.7.4.25		Cytidylate kinase
+BGBEHOIO_00113	gene	1014	truB			
+BGBEHOIO_00113	CDS	1014	truB	5.4.99.25		tRNA pseudouridine synthase B
+BGBEHOIO_00114	gene	453				
+BGBEHOIO_00114	CDS	453				hypothetical protein
+BGBEHOIO_00115	gene	1299	lhgD			
+BGBEHOIO_00115	CDS	1299	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+BGBEHOIO_00116	gene	264				
+BGBEHOIO_00116	CDS	264				hypothetical protein
+BGBEHOIO_00117	gene	552				
+BGBEHOIO_00117	CDS	552				hypothetical protein
+BGBEHOIO_00118	gene	630	korA			
+BGBEHOIO_00118	CDS	630	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+BGBEHOIO_00119	gene	765				
+BGBEHOIO_00119	CDS	765				hypothetical protein
+BGBEHOIO_00120	gene	459	korB			
+BGBEHOIO_00120	CDS	459	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+BGBEHOIO_00121	gene	411				
+BGBEHOIO_00121	CDS	411				hypothetical protein
+BGBEHOIO_00122	gene	1266	tuf_1			
+BGBEHOIO_00122	CDS	1266	tuf_1			Elongation factor Tu
+BGBEHOIO_00123	gene	369				
+BGBEHOIO_00123	CDS	369				hypothetical protein
+BGBEHOIO_00124	gene	450				
+BGBEHOIO_00124	CDS	450				hypothetical protein
+BGBEHOIO_00125	gene	156				
+BGBEHOIO_00125	CDS	156				hypothetical protein
+BGBEHOIO_00126	gene	828				
+BGBEHOIO_00126	CDS	828				hypothetical protein
+BGBEHOIO_00127	gene	534	cobO			
+BGBEHOIO_00127	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+BGBEHOIO_00128	gene	1356	cbiA			
+BGBEHOIO_00128	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+BGBEHOIO_00129	gene	186				
+BGBEHOIO_00129	CDS	186				hypothetical protein
+BGBEHOIO_00130	gene	192	cbiC_1			
+BGBEHOIO_00130	CDS	192	cbiC_1	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+BGBEHOIO_00131	gene	408	cbiC_2			
+BGBEHOIO_00131	CDS	408	cbiC_2	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+BGBEHOIO_00132	gene	753	cbiX			
+BGBEHOIO_00132	CDS	753	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+BGBEHOIO_00133	gene	1056	cbiG			
+BGBEHOIO_00133	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+BGBEHOIO_00134	gene	1098	cbiD			
+BGBEHOIO_00134	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+BGBEHOIO_00135	gene	873	fcl			
+BGBEHOIO_00135	CDS	873	fcl	1.1.1.271		GDP-L-fucose synthase
+BGBEHOIO_00136	gene	1161	metK			
+BGBEHOIO_00136	CDS	1161	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+BGBEHOIO_00137	gene	243				
+BGBEHOIO_00137	CDS	243				hypothetical protein
+BGBEHOIO_00138	gene	651	radA			
+BGBEHOIO_00138	CDS	651	radA			DNA repair protein RadA
+BGBEHOIO_00139	gene	120				
+BGBEHOIO_00139	CDS	120				hypothetical protein
+BGBEHOIO_00140	gene	2754	dbpA			
+BGBEHOIO_00140	CDS	2754	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+BGBEHOIO_00141	gene	1398				
+BGBEHOIO_00141	CDS	1398				hypothetical protein
+BGBEHOIO_00142	gene	954	lnrL			
+BGBEHOIO_00142	CDS	954	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+BGBEHOIO_00143	gene	771				
+BGBEHOIO_00143	CDS	771				hypothetical protein
+BGBEHOIO_00144	gene	73				
+BGBEHOIO_00144	tRNA	73				tRNA-Gln(ttg)
+BGBEHOIO_00145	gene	1038				
+BGBEHOIO_00145	CDS	1038				hypothetical protein
+BGBEHOIO_00146	gene	1128				
+BGBEHOIO_00146	CDS	1128				hypothetical protein
+BGBEHOIO_00147	gene	570	grpE			
+BGBEHOIO_00147	CDS	570	grpE			Protein GrpE
+BGBEHOIO_00148	gene	1851	dnaK			
+BGBEHOIO_00148	CDS	1851	dnaK		COG0443	Chaperone protein DnaK
+BGBEHOIO_00149	gene	1062	dnaJ_1			
+BGBEHOIO_00149	CDS	1062	dnaJ_1		COG0484	Chaperone protein DnaJ
+BGBEHOIO_00150	gene	213				
+BGBEHOIO_00150	CDS	213				hypothetical protein
+BGBEHOIO_00151	gene	87				
+BGBEHOIO_00151	tRNA	87				tRNA-Leu(cag)
+BGBEHOIO_00152	gene	1911	GATB			
+BGBEHOIO_00152	CDS	1911	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+BGBEHOIO_00153	gene	1284				
+BGBEHOIO_00153	CDS	1284				hypothetical protein
+BGBEHOIO_00154	gene	2259	ftsH			
+BGBEHOIO_00154	CDS	2259	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BGBEHOIO_00155	gene	447				
+BGBEHOIO_00155	CDS	447				hypothetical protein
+BGBEHOIO_00156	gene	849	folP			
+BGBEHOIO_00156	CDS	849	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+BGBEHOIO_00157	gene	1437	guaB			
+BGBEHOIO_00157	CDS	1437	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+BGBEHOIO_00158	gene	471				
+BGBEHOIO_00158	CDS	471				hypothetical protein
+BGBEHOIO_00159	gene	816	pheA			
+BGBEHOIO_00159	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+BGBEHOIO_00160	gene	549				
+BGBEHOIO_00160	CDS	549				hypothetical protein
+BGBEHOIO_00161	gene	996				
+BGBEHOIO_00161	CDS	996				hypothetical protein
+BGBEHOIO_00162	gene	792				
+BGBEHOIO_00162	CDS	792				hypothetical protein
+BGBEHOIO_00163	gene	480				
+BGBEHOIO_00163	CDS	480				hypothetical protein
+BGBEHOIO_00164	gene	1068	desV			
+BGBEHOIO_00164	CDS	1068	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+BGBEHOIO_00165	gene	1593				
+BGBEHOIO_00165	CDS	1593				hypothetical protein
+BGBEHOIO_00166	gene	939				
+BGBEHOIO_00166	CDS	939		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+BGBEHOIO_00167	gene	834				
+BGBEHOIO_00167	CDS	834				hypothetical protein
+BGBEHOIO_00168	gene	534	dapH			
+BGBEHOIO_00168	CDS	534	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+BGBEHOIO_00169	gene	1746				
+BGBEHOIO_00169	CDS	1746				hypothetical protein
+BGBEHOIO_00170	gene	240				
+BGBEHOIO_00170	CDS	240				hypothetical protein
+BGBEHOIO_00171	gene	432	phaJ			
+BGBEHOIO_00171	CDS	432	phaJ	4.2.1.119		(R)-specific enoyl-CoA hydratase
+BGBEHOIO_00172	gene	354	acpS			
+BGBEHOIO_00172	CDS	354	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+BGBEHOIO_00173	gene	1044				
+BGBEHOIO_00173	CDS	1044				hypothetical protein
+BGBEHOIO_00174	gene	1041	cugP			
+BGBEHOIO_00174	CDS	1041	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BGBEHOIO_00175	gene	993	strE			
+BGBEHOIO_00175	CDS	993	strE	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+BGBEHOIO_00176	gene	453				
+BGBEHOIO_00176	CDS	453				hypothetical protein
+BGBEHOIO_00177	gene	1077				
+BGBEHOIO_00177	CDS	1077				hypothetical protein
+BGBEHOIO_00178	gene	1155				
+BGBEHOIO_00178	CDS	1155				hypothetical protein
+BGBEHOIO_00179	gene	774	kdsB			
+BGBEHOIO_00179	CDS	774	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+BGBEHOIO_00180	gene	288				
+BGBEHOIO_00180	CDS	288				hypothetical protein
+BGBEHOIO_00181	gene	528				
+BGBEHOIO_00181	CDS	528				hypothetical protein
+BGBEHOIO_00182	gene	189				
+BGBEHOIO_00182	CDS	189				hypothetical protein
+BGBEHOIO_00183	gene	351				
+BGBEHOIO_00183	CDS	351				hypothetical protein
+BGBEHOIO_00184	gene	1212				
+BGBEHOIO_00184	CDS	1212				hypothetical protein
+BGBEHOIO_00185	gene	783				
+BGBEHOIO_00185	CDS	783			COG0596	putative protein
+BGBEHOIO_00186	gene	297				
+BGBEHOIO_00186	CDS	297				hypothetical protein
+BGBEHOIO_00187	gene	423				
+BGBEHOIO_00187	CDS	423				hypothetical protein
+BGBEHOIO_00188	gene	1062	phaC			
+BGBEHOIO_00188	CDS	1062	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+BGBEHOIO_00189	gene	552				
+BGBEHOIO_00189	CDS	552				hypothetical protein
+BGBEHOIO_00190	gene	354				
+BGBEHOIO_00190	CDS	354				hypothetical protein
+BGBEHOIO_00191	gene	882	acrB			
+BGBEHOIO_00191	CDS	882	acrB			Acryloyl-CoA reductase electron transfer subunit gamma
+BGBEHOIO_00192	gene	1230	carE			
+BGBEHOIO_00192	CDS	1230	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+BGBEHOIO_00193	gene	1878				
+BGBEHOIO_00193	CDS	1878				hypothetical protein
+BGBEHOIO_00194	gene	1410	gatB			
+BGBEHOIO_00194	CDS	1410	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+BGBEHOIO_00195	gene	1449	gatA			
+BGBEHOIO_00195	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+BGBEHOIO_00196	gene	267				
+BGBEHOIO_00196	CDS	267				hypothetical protein
+BGBEHOIO_00197	gene	1311	aspS2_1			
+BGBEHOIO_00197	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BGBEHOIO_00198	gene	342				
+BGBEHOIO_00198	CDS	342				hypothetical protein
+BGBEHOIO_00199	gene	207				
+BGBEHOIO_00199	CDS	207				hypothetical protein
+BGBEHOIO_00200	gene	1026				
+BGBEHOIO_00200	CDS	1026				hypothetical protein
+BGBEHOIO_00201	gene	330				
+BGBEHOIO_00201	CDS	330				hypothetical protein
+BGBEHOIO_00202	gene	345				
+BGBEHOIO_00202	CDS	345				hypothetical protein
+BGBEHOIO_00203	gene	216				
+BGBEHOIO_00203	CDS	216				hypothetical protein
+BGBEHOIO_00204	gene	1281				
+BGBEHOIO_00204	CDS	1281				hypothetical protein
+BGBEHOIO_00205	gene	387	hit_1			
+BGBEHOIO_00205	CDS	387	hit_1		COG0537	Protein hit
+BGBEHOIO_00206	gene	258				
+BGBEHOIO_00206	CDS	258				hypothetical protein
+BGBEHOIO_00207	gene	1494	srmB_1			
+BGBEHOIO_00207	CDS	1494	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+BGBEHOIO_00208	gene	108	prsA			
+BGBEHOIO_00208	CDS	108	prsA	5.2.1.8		Foldase protein PrsA
+BGBEHOIO_00209	gene	156				
+BGBEHOIO_00209	CDS	156				hypothetical protein
+BGBEHOIO_00210	gene	927				
+BGBEHOIO_00210	CDS	927				hypothetical protein
+BGBEHOIO_00211	gene	1068	hisC			
+BGBEHOIO_00211	CDS	1068	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+BGBEHOIO_00212	gene	1239	hisD			
+BGBEHOIO_00212	CDS	1239	hisD	1.1.1.23		Histidinol dehydrogenase
+BGBEHOIO_00213	gene	987	hisG			
+BGBEHOIO_00213	CDS	987	hisG	2.4.2.17		ATP phosphoribosyltransferase
+BGBEHOIO_00214	gene	1158	mvaA			
+BGBEHOIO_00214	CDS	1158	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+BGBEHOIO_00215	gene	1092	yliI			
+BGBEHOIO_00215	CDS	1092	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+BGBEHOIO_00216	gene	75				
+BGBEHOIO_00216	tRNA	75				tRNA-Met(cat)
+BGBEHOIO_00217	gene	1344				
+BGBEHOIO_00217	CDS	1344				hypothetical protein
+BGBEHOIO_00218	gene	1020	pseB			
+BGBEHOIO_00218	CDS	1020	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+BGBEHOIO_00219	gene	141				
+BGBEHOIO_00219	CDS	141				hypothetical protein
+BGBEHOIO_00220	gene	1107	per			
+BGBEHOIO_00220	CDS	1107	per	2.6.1.102	COG0399	GDP-perosamine synthase
+BGBEHOIO_00221	gene	228				
+BGBEHOIO_00221	CDS	228				hypothetical protein
+BGBEHOIO_00222	gene	1026	pimA			
+BGBEHOIO_00222	CDS	1026	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+BGBEHOIO_00223	gene	921	galE			
+BGBEHOIO_00223	CDS	921	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+BGBEHOIO_00224	gene	2475				
+BGBEHOIO_00224	CDS	2475				hypothetical protein
+BGBEHOIO_00225	gene	1197				
+BGBEHOIO_00225	CDS	1197		1.17.1.9		Formate dehydrogenase
+BGBEHOIO_00226	gene	834				
+BGBEHOIO_00226	CDS	834				hypothetical protein
+BGBEHOIO_00227	gene	792				
+BGBEHOIO_00227	CDS	792				hypothetical protein
+BGBEHOIO_00228	gene	2196	fusA			
+BGBEHOIO_00228	CDS	2196	fusA		COG0480	Elongation factor G
+BGBEHOIO_00229	gene	822	mqnD			
+BGBEHOIO_00229	CDS	822	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+BGBEHOIO_00230	gene	219				
+BGBEHOIO_00230	CDS	219				hypothetical protein
+BGBEHOIO_00231	gene	282				
+BGBEHOIO_00231	CDS	282				hypothetical protein
+BGBEHOIO_00232	gene	1098	mqnE			
+BGBEHOIO_00232	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+BGBEHOIO_00233	gene	447				
+BGBEHOIO_00233	CDS	447				hypothetical protein
+BGBEHOIO_00234	gene	525	dedA			
+BGBEHOIO_00234	CDS	525	dedA		COG0586	Protein DedA
+BGBEHOIO_00235	gene	228				
+BGBEHOIO_00235	CDS	228				hypothetical protein
+BGBEHOIO_00236	gene	249				
+BGBEHOIO_00236	CDS	249				hypothetical protein
+BGBEHOIO_00237	gene	849	dnaJ_2			
+BGBEHOIO_00237	CDS	849	dnaJ_2			Chaperone protein DnaJ
+BGBEHOIO_00238	gene	147				
+BGBEHOIO_00238	CDS	147				hypothetical protein
+BGBEHOIO_00239	gene	1710				
+BGBEHOIO_00239	CDS	1710				hypothetical protein
+BGBEHOIO_00240	gene	1092				
+BGBEHOIO_00240	CDS	1092				hypothetical protein
+BGBEHOIO_00241	gene	1362				
+BGBEHOIO_00241	CDS	1362				hypothetical protein
+BGBEHOIO_00242	gene	327				
+BGBEHOIO_00242	CDS	327				hypothetical protein
+BGBEHOIO_00243	gene	318				
+BGBEHOIO_00243	CDS	318				hypothetical protein
+BGBEHOIO_00244	gene	405				
+BGBEHOIO_00244	CDS	405				hypothetical protein
+BGBEHOIO_00245	gene	1284				
+BGBEHOIO_00245	CDS	1284				hypothetical protein
+BGBEHOIO_00246	gene	357				
+BGBEHOIO_00246	CDS	357				hypothetical protein
+BGBEHOIO_00247	gene	96				
+BGBEHOIO_00247	CDS	96				hypothetical protein
+BGBEHOIO_00248	gene	297				
+BGBEHOIO_00248	CDS	297				hypothetical protein
+BGBEHOIO_00249	gene	1026				
+BGBEHOIO_00249	CDS	1026				hypothetical protein
+BGBEHOIO_00250	gene	183				
+BGBEHOIO_00250	CDS	183				hypothetical protein
+BGBEHOIO_00251	gene	972	trxB			
+BGBEHOIO_00251	CDS	972	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+BGBEHOIO_00252	gene	279				
+BGBEHOIO_00252	CDS	279				hypothetical protein
+BGBEHOIO_00253	gene	741	trpS			
+BGBEHOIO_00253	CDS	741	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+BGBEHOIO_00254	gene	285				
+BGBEHOIO_00254	CDS	285				hypothetical protein
+BGBEHOIO_00255	gene	330				
+BGBEHOIO_00255	CDS	330				hypothetical protein
+BGBEHOIO_00256	gene	465				
+BGBEHOIO_00256	CDS	465				hypothetical protein
+BGBEHOIO_00257	gene	129				
+BGBEHOIO_00257	CDS	129				hypothetical protein
+BGBEHOIO_00258	gene	76				
+BGBEHOIO_00258	tRNA	76				tRNA-Ala(tgc)
+BGBEHOIO_00259	gene	549	resA			
+BGBEHOIO_00259	CDS	549	resA			Thiol-disulfide oxidoreductase ResA
+BGBEHOIO_00260	gene	75				
+BGBEHOIO_00260	tRNA	75				tRNA-Ile(gat)
+BGBEHOIO_00261	gene	897				
+BGBEHOIO_00261	CDS	897				hypothetical protein
+BGBEHOIO_00262	gene	387				
+BGBEHOIO_00262	CDS	387				hypothetical protein
+BGBEHOIO_00263	gene	74				
+BGBEHOIO_00263	tRNA	74				tRNA-Thr(ggt)
+BGBEHOIO_00264	gene	711	dpnM			
+BGBEHOIO_00264	CDS	711	dpnM	2.1.1.72		Modification methylase DpnIIA
+BGBEHOIO_00265	gene	357				
+BGBEHOIO_00265	CDS	357				hypothetical protein
+BGBEHOIO_00266	gene	651				
+BGBEHOIO_00266	CDS	651				hypothetical protein
+BGBEHOIO_00267	gene	603				
+BGBEHOIO_00267	CDS	603				hypothetical protein
+BGBEHOIO_00268	gene	312				
+BGBEHOIO_00268	CDS	312				hypothetical protein
+BGBEHOIO_00269	gene	549				
+BGBEHOIO_00269	CDS	549				hypothetical protein
+BGBEHOIO_00270	gene	192				
+BGBEHOIO_00270	CDS	192				hypothetical protein
+BGBEHOIO_00271	gene	270				
+BGBEHOIO_00271	CDS	270				hypothetical protein
+BGBEHOIO_00272	gene	318				
+BGBEHOIO_00272	CDS	318				hypothetical protein
+BGBEHOIO_00273	gene	441				
+BGBEHOIO_00273	CDS	441				hypothetical protein
+BGBEHOIO_00274	gene	243				
+BGBEHOIO_00274	CDS	243				hypothetical protein
+BGBEHOIO_00275	gene	1260	serS			
+BGBEHOIO_00275	CDS	1260	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+BGBEHOIO_00276	gene	612				
+BGBEHOIO_00276	CDS	612				hypothetical protein
+BGBEHOIO_00277	gene	432				
+BGBEHOIO_00277	CDS	432				hypothetical protein
+BGBEHOIO_00278	gene	1464				
+BGBEHOIO_00278	CDS	1464				hypothetical protein
+BGBEHOIO_00279	gene	828	nirQ			
+BGBEHOIO_00279	CDS	828	nirQ		COG0714	Denitrification regulatory protein NirQ
+BGBEHOIO_00280	gene	1569				
+BGBEHOIO_00280	CDS	1569				hypothetical protein
+BGBEHOIO_00281	gene	708				
+BGBEHOIO_00281	CDS	708				hypothetical protein
+BGBEHOIO_00282	gene	153				
+BGBEHOIO_00282	CDS	153				hypothetical protein
+BGBEHOIO_00283	gene	621				
+BGBEHOIO_00283	CDS	621				hypothetical protein
+BGBEHOIO_00284	gene	312				
+BGBEHOIO_00284	CDS	312				hypothetical protein
+BGBEHOIO_00285	gene	2103	FCS1_1			
+BGBEHOIO_00285	CDS	2103	FCS1_1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+BGBEHOIO_00286	gene	1527	abfD			
+BGBEHOIO_00286	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+BGBEHOIO_00287	gene	726				
+BGBEHOIO_00287	CDS	726				hypothetical protein
+BGBEHOIO_00288	gene	771				
+BGBEHOIO_00288	CDS	771				hypothetical protein
+BGBEHOIO_00289	gene	333	trxA			
+BGBEHOIO_00289	CDS	333	trxA			Thioredoxin 1
+BGBEHOIO_00290	gene	531				
+BGBEHOIO_00290	CDS	531				hypothetical protein
+BGBEHOIO_00291	gene	360				
+BGBEHOIO_00291	CDS	360				hypothetical protein
+BGBEHOIO_00292	gene	75				
+BGBEHOIO_00292	tRNA	75				tRNA-Ala(cgc)
+BGBEHOIO_00293	gene	1398	lhyD			
+BGBEHOIO_00293	CDS	1398	lhyD	3.5.2.-		L-hydantoinase
+BGBEHOIO_00294	gene	675	rpiA			
+BGBEHOIO_00294	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+BGBEHOIO_00295	gene	861				
+BGBEHOIO_00295	CDS	861				hypothetical protein
+BGBEHOIO_00296	gene	189				
+BGBEHOIO_00296	CDS	189				hypothetical protein
+BGBEHOIO_00297	gene	231				
+BGBEHOIO_00297	CDS	231				hypothetical protein
+BGBEHOIO_00298	gene	702	mftE			
+BGBEHOIO_00298	CDS	702	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+BGBEHOIO_00299	gene	843	purU			
+BGBEHOIO_00299	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+BGBEHOIO_00300	gene	88				
+BGBEHOIO_00300	tRNA	88				tRNA-Leu(tag)
+BGBEHOIO_00301	gene	1350	algC_1			
+BGBEHOIO_00301	CDS	1350	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+BGBEHOIO_00302	gene	441				
+BGBEHOIO_00302	CDS	441				hypothetical protein
+BGBEHOIO_00303	gene	219				
+BGBEHOIO_00303	CDS	219				hypothetical protein
+BGBEHOIO_00304	gene	204				
+BGBEHOIO_00304	CDS	204				hypothetical protein
+BGBEHOIO_00305	gene	399	ndk			
+BGBEHOIO_00305	CDS	399	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+BGBEHOIO_00306	gene	1782	infB			
+BGBEHOIO_00306	CDS	1782	infB			Translation initiation factor IF-2
+BGBEHOIO_00307	gene	417				
+BGBEHOIO_00307	CDS	417				Protein archease
+BGBEHOIO_00308	gene	339				
+BGBEHOIO_00308	CDS	339				hypothetical protein
+BGBEHOIO_00309	gene	666				
+BGBEHOIO_00309	CDS	666				hypothetical protein
+BGBEHOIO_00310	gene	558				
+BGBEHOIO_00310	CDS	558				hypothetical protein
+BGBEHOIO_00311	gene	86				
+BGBEHOIO_00311	tRNA	86				tRNA-Ser(tga)
+BGBEHOIO_00312	gene	957				
+BGBEHOIO_00312	CDS	957				hypothetical protein
+BGBEHOIO_00313	gene	510				
+BGBEHOIO_00313	CDS	510				hypothetical protein
+BGBEHOIO_00314	gene	2094				
+BGBEHOIO_00314	CDS	2094				hypothetical protein
+BGBEHOIO_00315	gene	2154	srmB_2			
+BGBEHOIO_00315	CDS	2154	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+BGBEHOIO_00316	gene	639				
+BGBEHOIO_00316	CDS	639				hypothetical protein
+BGBEHOIO_00317	gene	135				
+BGBEHOIO_00317	CDS	135				hypothetical protein
+BGBEHOIO_00318	gene	126				
+BGBEHOIO_00318	CDS	126				hypothetical protein
+BGBEHOIO_00319	gene	198				
+BGBEHOIO_00319	CDS	198				hypothetical protein
+BGBEHOIO_00320	gene	501	fdtC			
+BGBEHOIO_00320	CDS	501	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+BGBEHOIO_00321	gene	111				
+BGBEHOIO_00321	CDS	111				hypothetical protein
+BGBEHOIO_00322	gene	141				
+BGBEHOIO_00322	CDS	141				hypothetical protein
+BGBEHOIO_00323	gene	936	iolX			
+BGBEHOIO_00323	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+BGBEHOIO_00324	gene	183	ilvE_1			
+BGBEHOIO_00324	CDS	183	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BGBEHOIO_00325	gene	675	ilvE_2			
+BGBEHOIO_00325	CDS	675	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BGBEHOIO_00326	gene	627				
+BGBEHOIO_00326	CDS	627				hypothetical protein
+BGBEHOIO_00327	gene	76				
+BGBEHOIO_00327	tRNA	76				tRNA-Pro(cgg)
+BGBEHOIO_00328	gene	870	mimB			
+BGBEHOIO_00328	CDS	870	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+BGBEHOIO_00329	gene	717				
+BGBEHOIO_00329	CDS	717				hypothetical protein
+BGBEHOIO_00330	gene	738	hemA_1			
+BGBEHOIO_00330	CDS	738	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BGBEHOIO_00331	gene	312	hemA_2			
+BGBEHOIO_00331	CDS	312	hemA_2	1.2.1.70		Glutamyl-tRNA reductase
+BGBEHOIO_00332	gene	77				
+BGBEHOIO_00332	tRNA	77				tRNA-Ala(ggc)
+BGBEHOIO_00333	gene	537				
+BGBEHOIO_00333	CDS	537				hypothetical protein
+BGBEHOIO_00334	gene	447				
+BGBEHOIO_00334	CDS	447				hypothetical protein
+BGBEHOIO_00335	gene	858	Dml			
+BGBEHOIO_00335	CDS	858	Dml	4.1.3.32		2,3-dimethylmalate lyase
+BGBEHOIO_00336	gene	105				
+BGBEHOIO_00336	CDS	105				hypothetical protein
+BGBEHOIO_00337	gene	1206	argG			
+BGBEHOIO_00337	CDS	1206	argG	6.3.4.5		Argininosuccinate synthase
+BGBEHOIO_00338	gene	1035	ssuA			
+BGBEHOIO_00338	CDS	1035	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+BGBEHOIO_00339	gene	756	nrtD			
+BGBEHOIO_00339	CDS	756	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+BGBEHOIO_00340	gene	759	ssuC			
+BGBEHOIO_00340	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+BGBEHOIO_00341	gene	1011	metE_1			
+BGBEHOIO_00341	CDS	1011	metE_1	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+BGBEHOIO_00342	gene	927	metE_2			
+BGBEHOIO_00342	CDS	927	metE_2	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+BGBEHOIO_00343	gene	756				
+BGBEHOIO_00343	CDS	756				hypothetical protein
+BGBEHOIO_00344	gene	564	nudL			
+BGBEHOIO_00344	CDS	564	nudL	3.6.1.-		putative Nudix hydrolase NudL
+BGBEHOIO_00345	gene	159				
+BGBEHOIO_00345	CDS	159				hypothetical protein
+BGBEHOIO_00346	gene	492				
+BGBEHOIO_00346	CDS	492				hypothetical protein
+BGBEHOIO_00347	gene	942	ftsZ			
+BGBEHOIO_00347	CDS	942	ftsZ			Cell division protein FtsZ
+BGBEHOIO_00348	gene	1269	miaB			
+BGBEHOIO_00348	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+BGBEHOIO_00349	gene	1362	aspA			
+BGBEHOIO_00349	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+BGBEHOIO_00350	gene	1431				
+BGBEHOIO_00350	CDS	1431				hypothetical protein
+BGBEHOIO_00351	gene	786				
+BGBEHOIO_00351	CDS	786		1.1.1.81	COG0111	Hydroxypyruvate reductase
+BGBEHOIO_00352	gene	159				
+BGBEHOIO_00352	CDS	159				hypothetical protein
+BGBEHOIO_00353	gene	690				
+BGBEHOIO_00353	CDS	690				hypothetical protein
+BGBEHOIO_00354	gene	654				
+BGBEHOIO_00354	CDS	654				hypothetical protein
+BGBEHOIO_00355	gene	447				
+BGBEHOIO_00355	CDS	447				hypothetical protein
+BGBEHOIO_00356	gene	126				
+BGBEHOIO_00356	CDS	126				hypothetical protein
+BGBEHOIO_00357	gene	330	leuA_1			
+BGBEHOIO_00357	CDS	330	leuA_1	2.3.3.13		2-isopropylmalate synthase
+BGBEHOIO_00358	gene	1020	hicd			
+BGBEHOIO_00358	CDS	1020	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+BGBEHOIO_00359	gene	1296	aspS2_2			
+BGBEHOIO_00359	CDS	1296	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BGBEHOIO_00360	gene	936	oppD			
+BGBEHOIO_00360	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+BGBEHOIO_00361	gene	663				
+BGBEHOIO_00361	CDS	663				hypothetical protein
+BGBEHOIO_00362	gene	570				
+BGBEHOIO_00362	CDS	570		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+BGBEHOIO_00363	gene	570	tmung			
+BGBEHOIO_00363	CDS	570	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+BGBEHOIO_00364	gene	231				
+BGBEHOIO_00364	CDS	231				hypothetical protein
+BGBEHOIO_00365	gene	666				
+BGBEHOIO_00365	CDS	666				hypothetical protein
+BGBEHOIO_00366	gene	471	mntR_1			
+BGBEHOIO_00366	CDS	471	mntR_1			HTH-type transcriptional regulator MntR
+BGBEHOIO_00367	gene	405				
+BGBEHOIO_00367	CDS	405				hypothetical protein
+BGBEHOIO_00368	gene	498				
+BGBEHOIO_00368	CDS	498				hypothetical protein
+BGBEHOIO_00369	gene	759	yfcA			
+BGBEHOIO_00369	CDS	759	yfcA		COG0730	putative membrane transporter protein YfcA
+BGBEHOIO_00370	gene	1629				
+BGBEHOIO_00370	CDS	1629				hypothetical protein
+BGBEHOIO_00371	gene	237				
+BGBEHOIO_00371	CDS	237				hypothetical protein
+BGBEHOIO_00372	gene	378				
+BGBEHOIO_00372	CDS	378				hypothetical protein
+BGBEHOIO_00373	gene	540				
+BGBEHOIO_00373	CDS	540				hypothetical protein
+BGBEHOIO_00374	gene	654				
+BGBEHOIO_00374	CDS	654				hypothetical protein
+BGBEHOIO_00375	gene	1758	lig			
+BGBEHOIO_00375	CDS	1758	lig	6.5.1.1		DNA ligase
+BGBEHOIO_00376	gene	411				
+BGBEHOIO_00376	CDS	411				hypothetical protein
+BGBEHOIO_00377	gene	1137	fbp			
+BGBEHOIO_00377	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+BGBEHOIO_00378	gene	777				
+BGBEHOIO_00378	CDS	777				hypothetical protein
+BGBEHOIO_00379	gene	519				
+BGBEHOIO_00379	CDS	519				hypothetical protein
+BGBEHOIO_00380	gene	600				
+BGBEHOIO_00380	CDS	600		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+BGBEHOIO_00381	gene	288				
+BGBEHOIO_00381	CDS	288				hypothetical protein
+BGBEHOIO_00382	gene	639				
+BGBEHOIO_00382	CDS	639				hypothetical protein
+BGBEHOIO_00383	gene	210				
+BGBEHOIO_00383	CDS	210				hypothetical protein
+BGBEHOIO_00384	gene	279				
+BGBEHOIO_00384	CDS	279				hypothetical protein
+BGBEHOIO_00385	gene	483				
+BGBEHOIO_00385	CDS	483				hypothetical protein
+BGBEHOIO_00386	gene	1005	purA			
+BGBEHOIO_00386	CDS	1005	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+BGBEHOIO_00387	gene	666				
+BGBEHOIO_00387	CDS	666				hypothetical protein
+BGBEHOIO_00388	gene	741	pyrF			
+BGBEHOIO_00388	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+BGBEHOIO_00389	gene	420				
+BGBEHOIO_00389	CDS	420				hypothetical protein
+BGBEHOIO_00390	gene	762				
+BGBEHOIO_00390	CDS	762		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+BGBEHOIO_00391	gene	1140				
+BGBEHOIO_00391	CDS	1140				hypothetical protein
+BGBEHOIO_00392	gene	501				
+BGBEHOIO_00392	CDS	501				hypothetical protein
+BGBEHOIO_00393	gene	153				
+BGBEHOIO_00393	CDS	153				hypothetical protein
+BGBEHOIO_00394	gene	423				
+BGBEHOIO_00394	CDS	423				hypothetical protein
+BGBEHOIO_00395	gene	294				
+BGBEHOIO_00395	CDS	294				hypothetical protein
+BGBEHOIO_00396	gene	312				
+BGBEHOIO_00396	CDS	312				hypothetical protein
+BGBEHOIO_00397	gene	570				
+BGBEHOIO_00397	CDS	570				hypothetical protein
+BGBEHOIO_00398	gene	1404	TOP6B_1			
+BGBEHOIO_00398	CDS	1404	TOP6B_1	5.6.2.2		DNA topoisomerase 6 subunit B
+BGBEHOIO_00399	gene	462	TOP6B_2			
+BGBEHOIO_00399	CDS	462	TOP6B_2	5.6.2.2		DNA topoisomerase 6 subunit B
+BGBEHOIO_00400	gene	141				
+BGBEHOIO_00400	CDS	141				hypothetical protein
+BGBEHOIO_00401	gene	201	TOP6A			
+BGBEHOIO_00401	CDS	201	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+BGBEHOIO_00402	gene	177	rlmN_1			
+BGBEHOIO_00402	CDS	177	rlmN_1	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+BGBEHOIO_00403	gene	327	rlmN_2			
+BGBEHOIO_00403	CDS	327	rlmN_2	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+BGBEHOIO_00404	gene	174	rlmN_3			
+BGBEHOIO_00404	CDS	174	rlmN_3	2.1.1.192		Dual-specificity RNA methyltransferase RlmN
+BGBEHOIO_00405	gene	348	rlmN_4			
+BGBEHOIO_00405	CDS	348	rlmN_4	2.1.1.192		Dual-specificity RNA methyltransferase RlmN
+BGBEHOIO_00406	gene	270				
+BGBEHOIO_00406	CDS	270				hypothetical protein
+BGBEHOIO_00407	gene	1713	frdA			
+BGBEHOIO_00407	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BGBEHOIO_00408	gene	429				
+BGBEHOIO_00408	CDS	429				hypothetical protein
+BGBEHOIO_00409	gene	357				
+BGBEHOIO_00409	CDS	357				hypothetical protein
+BGBEHOIO_00410	gene	804	frdB			
+BGBEHOIO_00410	CDS	804	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+BGBEHOIO_00411	gene	324				
+BGBEHOIO_00411	CDS	324				hypothetical protein
+BGBEHOIO_00412	gene	1461	argH			
+BGBEHOIO_00412	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+BGBEHOIO_00413	gene	669	bluB			
+BGBEHOIO_00413	CDS	669	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+BGBEHOIO_00414	gene	75				
+BGBEHOIO_00414	tRNA	75				tRNA-Lys(ctt)
+BGBEHOIO_00415	gene	648				
+BGBEHOIO_00415	CDS	648				hypothetical protein
+BGBEHOIO_00416	gene	519				
+BGBEHOIO_00416	CDS	519				hypothetical protein
+BGBEHOIO_00417	gene	444	ctaA			
+BGBEHOIO_00417	CDS	444	ctaA	1.3.-.-		Heme A synthase
+BGBEHOIO_00418	gene	564				
+BGBEHOIO_00418	CDS	564				hypothetical protein
+BGBEHOIO_00419	gene	1542	ctaD			
+BGBEHOIO_00419	CDS	1542	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+BGBEHOIO_00420	gene	426	coxM			
+BGBEHOIO_00420	CDS	426	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+BGBEHOIO_00421	gene	261				
+BGBEHOIO_00421	CDS	261				hypothetical protein
+BGBEHOIO_00422	gene	618	pspA			
+BGBEHOIO_00422	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+BGBEHOIO_00423	gene	672				
+BGBEHOIO_00423	CDS	672				hypothetical protein
+BGBEHOIO_00424	gene	237				
+BGBEHOIO_00424	CDS	237				hypothetical protein
+BGBEHOIO_00425	gene	1185	aspC			
+BGBEHOIO_00425	CDS	1185	aspC	2.6.1.1	COG0436	putative aspartate aminotransferase
+BGBEHOIO_00426	gene	75				
+BGBEHOIO_00426	tRNA	75				tRNA-Arg(tcg)
+BGBEHOIO_00427	gene	240				
+BGBEHOIO_00427	CDS	240				hypothetical protein
+BGBEHOIO_00428	gene	642				
+BGBEHOIO_00428	CDS	642				hypothetical protein
+BGBEHOIO_00429	gene	525	mtnA			
+BGBEHOIO_00429	CDS	525	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+BGBEHOIO_00430	gene	276				
+BGBEHOIO_00430	CDS	276				hypothetical protein
+BGBEHOIO_00431	gene	288				
+BGBEHOIO_00431	CDS	288				hypothetical protein
+BGBEHOIO_00432	gene	507				
+BGBEHOIO_00432	CDS	507				hypothetical protein
+BGBEHOIO_00433	gene	297				
+BGBEHOIO_00433	CDS	297				hypothetical protein
+BGBEHOIO_00434	gene	144				
+BGBEHOIO_00434	CDS	144				hypothetical protein
+BGBEHOIO_00435	gene	315				
+BGBEHOIO_00435	CDS	315				hypothetical protein
+BGBEHOIO_00436	gene	213				
+BGBEHOIO_00436	CDS	213				hypothetical protein
+BGBEHOIO_00437	gene	1080				
+BGBEHOIO_00437	CDS	1080		2.5.-.-		Deoxyhypusine synthase-like protein
+BGBEHOIO_00438	gene	330				
+BGBEHOIO_00438	CDS	330				hypothetical protein
+BGBEHOIO_00439	gene	150				
+BGBEHOIO_00439	CDS	150				hypothetical protein
+BGBEHOIO_00440	gene	252				
+BGBEHOIO_00440	CDS	252				hypothetical protein
+BGBEHOIO_00441	gene	1851				
+BGBEHOIO_00441	CDS	1851				hypothetical protein
+BGBEHOIO_00442	gene	714	speB			
+BGBEHOIO_00442	CDS	714	speB	3.5.3.11	COG0010	Agmatinase
+BGBEHOIO_00443	gene	555				
+BGBEHOIO_00443	CDS	555				hypothetical protein
+BGBEHOIO_00444	gene	288				
+BGBEHOIO_00444	CDS	288				hypothetical protein
+BGBEHOIO_00445	gene	546				
+BGBEHOIO_00445	CDS	546				hypothetical protein
+BGBEHOIO_00446	gene	360				
+BGBEHOIO_00446	CDS	360				hypothetical protein
+BGBEHOIO_00447	gene	141				
+BGBEHOIO_00447	CDS	141				hypothetical protein
+BGBEHOIO_00448	gene	309	ppnK			
+BGBEHOIO_00448	CDS	309	ppnK	2.7.1.23	COG0061	NAD kinase
+BGBEHOIO_00449	gene	369				
+BGBEHOIO_00449	CDS	369				hypothetical protein
+BGBEHOIO_00450	gene	165	pyrG_1			
+BGBEHOIO_00450	CDS	165	pyrG_1	6.3.4.2	COG0504	CTP synthase
+BGBEHOIO_00451	gene	630	pyrG_2			
+BGBEHOIO_00451	CDS	630	pyrG_2	6.3.4.2		CTP synthase
+BGBEHOIO_00452	gene	132				
+BGBEHOIO_00452	CDS	132				hypothetical protein
+BGBEHOIO_00453	gene	696	pyrG_3			
+BGBEHOIO_00453	CDS	696	pyrG_3	6.3.4.2	COG0504	CTP synthase
+BGBEHOIO_00454	gene	603				
+BGBEHOIO_00454	CDS	603				hypothetical protein
+BGBEHOIO_00455	gene	228				
+BGBEHOIO_00455	CDS	228				hypothetical protein
+BGBEHOIO_00456	gene	441				
+BGBEHOIO_00456	CDS	441				hypothetical protein
+BGBEHOIO_00457	gene	264				
+BGBEHOIO_00457	CDS	264				hypothetical protein
+BGBEHOIO_00458	gene	213	drrA			
+BGBEHOIO_00458	CDS	213	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+BGBEHOIO_00459	gene	465	btuD_2			
+BGBEHOIO_00459	CDS	465	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BGBEHOIO_00460	gene	594	rlmE			
+BGBEHOIO_00460	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+BGBEHOIO_00461	gene	348				
+BGBEHOIO_00461	CDS	348				hypothetical protein
+BGBEHOIO_00462	gene	285				
+BGBEHOIO_00462	CDS	285				hypothetical protein
+BGBEHOIO_00463	gene	1017				
+BGBEHOIO_00463	CDS	1017				hypothetical protein
+BGBEHOIO_00464	gene	945				
+BGBEHOIO_00464	CDS	945				hypothetical protein
+BGBEHOIO_00465	gene	1338				
+BGBEHOIO_00465	CDS	1338				hypothetical protein
+BGBEHOIO_00466	gene	807				
+BGBEHOIO_00466	CDS	807				hypothetical protein
+BGBEHOIO_00467	gene	294	apt			
+BGBEHOIO_00467	CDS	294	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+BGBEHOIO_00468	gene	201	mtnP_1			
+BGBEHOIO_00468	CDS	201	mtnP_1	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+BGBEHOIO_00469	gene	495	mtnP_2			
+BGBEHOIO_00469	CDS	495	mtnP_2	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+BGBEHOIO_00470	gene	159				
+BGBEHOIO_00470	CDS	159				hypothetical protein
+BGBEHOIO_00471	gene	2037	metZ			
+BGBEHOIO_00471	CDS	2037	metZ	2.5.1.-		O-succinylhomoserine sulfhydrylase
+BGBEHOIO_00472	gene	291				
+BGBEHOIO_00472	CDS	291				hypothetical protein
+BGBEHOIO_00473	gene	1233	tyrS			
+BGBEHOIO_00473	CDS	1233	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+BGBEHOIO_00474	gene	606	recR			
+BGBEHOIO_00474	CDS	606	recR		COG0353	Recombination protein RecR
+BGBEHOIO_00475	gene	516				
+BGBEHOIO_00475	CDS	516				hypothetical protein
+BGBEHOIO_00476	gene	372				
+BGBEHOIO_00476	CDS	372				hypothetical protein
+BGBEHOIO_00477	gene	330				
+BGBEHOIO_00477	CDS	330				hypothetical protein
+BGBEHOIO_00478	gene	243				
+BGBEHOIO_00478	CDS	243				hypothetical protein
+BGBEHOIO_00479	gene	570	xerC_1			
+BGBEHOIO_00479	CDS	570	xerC_1			Tyrosine recombinase XerC
+BGBEHOIO_00480	gene	1803				
+BGBEHOIO_00480	CDS	1803				hypothetical protein
+BGBEHOIO_00481	gene	168				
+BGBEHOIO_00481	CDS	168				hypothetical protein
+BGBEHOIO_00482	gene	858	lysX			
+BGBEHOIO_00482	CDS	858	lysX	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+BGBEHOIO_00483	gene	1053	lysY			
+BGBEHOIO_00483	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+BGBEHOIO_00484	gene	804	lysZ			
+BGBEHOIO_00484	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+BGBEHOIO_00485	gene	1176	lysJ			
+BGBEHOIO_00485	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+BGBEHOIO_00486	gene	291				
+BGBEHOIO_00486	CDS	291				hypothetical protein
+BGBEHOIO_00487	gene	507	leuA_2			
+BGBEHOIO_00487	CDS	507	leuA_2	2.3.3.13		2-isopropylmalate synthase
+BGBEHOIO_00488	gene	651				
+BGBEHOIO_00488	CDS	651		2.3.3.14	COG0119	Homocitrate synthase
+BGBEHOIO_00489	gene	513				
+BGBEHOIO_00489	CDS	513				hypothetical protein
+BGBEHOIO_00490	gene	753				
+BGBEHOIO_00490	CDS	753				hypothetical protein
+BGBEHOIO_00491	gene	186	lysK			
+BGBEHOIO_00491	CDS	186	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+BGBEHOIO_00492	gene	426				
+BGBEHOIO_00492	CDS	426				hypothetical protein
+BGBEHOIO_00493	gene	99				
+BGBEHOIO_00493	CDS	99				hypothetical protein
+BGBEHOIO_00494	gene	156				
+BGBEHOIO_00494	CDS	156				hypothetical protein
+BGBEHOIO_00495	gene	153				
+BGBEHOIO_00495	CDS	153				hypothetical protein
+BGBEHOIO_00496	gene	195	fabG3			
+BGBEHOIO_00496	CDS	195	fabG3	1.1.1.53		3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+BGBEHOIO_00497	gene	318				
+BGBEHOIO_00497	CDS	318				hypothetical protein
+BGBEHOIO_00498	gene	195				
+BGBEHOIO_00498	CDS	195				hypothetical protein
+BGBEHOIO_00499	gene	366				
+BGBEHOIO_00499	CDS	366				hypothetical protein
+BGBEHOIO_00500	gene	162				
+BGBEHOIO_00500	CDS	162				hypothetical protein
+BGBEHOIO_00501	gene	285				
+BGBEHOIO_00501	CDS	285				hypothetical protein
+BGBEHOIO_00502	gene	309	COQ5_1			
+BGBEHOIO_00502	CDS	309	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BGBEHOIO_00503	gene	312	COQ5_2			
+BGBEHOIO_00503	CDS	312	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BGBEHOIO_00504	gene	789	prcA			
+BGBEHOIO_00504	CDS	789	prcA	3.4.25.1	COG0638	Proteasome subunit alpha
+BGBEHOIO_00505	gene	375				
+BGBEHOIO_00505	CDS	375				hypothetical protein
+BGBEHOIO_00506	gene	639	gdhA_1			
+BGBEHOIO_00506	CDS	639	gdhA_1	1.4.1.3	COG0334	Glutamate dehydrogenase
+BGBEHOIO_00507	gene	246	gdhA_2			
+BGBEHOIO_00507	CDS	246	gdhA_2	1.4.1.3	COG0334	Glutamate dehydrogenase
+BGBEHOIO_00508	gene	291	gdhA_3			
+BGBEHOIO_00508	CDS	291	gdhA_3	1.4.1.3	COG0334	Glutamate dehydrogenase
+BGBEHOIO_00509	gene	126				
+BGBEHOIO_00509	CDS	126				hypothetical protein
+BGBEHOIO_00510	gene	243				
+BGBEHOIO_00510	CDS	243				hypothetical protein
+BGBEHOIO_00511	gene	627	FCS1_2			
+BGBEHOIO_00511	CDS	627	FCS1_2	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+BGBEHOIO_00512	gene	204				
+BGBEHOIO_00512	CDS	204				hypothetical protein
+BGBEHOIO_00513	gene	639				
+BGBEHOIO_00513	CDS	639				hypothetical protein
+BGBEHOIO_00514	gene	213				
+BGBEHOIO_00514	CDS	213				hypothetical protein
+BGBEHOIO_00515	gene	513				
+BGBEHOIO_00515	CDS	513				hypothetical protein
+BGBEHOIO_00516	gene	474	bcp			
+BGBEHOIO_00516	CDS	474	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+BGBEHOIO_00517	gene	375	ndhC			
+BGBEHOIO_00517	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+BGBEHOIO_00518	gene	405				
+BGBEHOIO_00518	CDS	405				hypothetical protein
+BGBEHOIO_00519	gene	492				
+BGBEHOIO_00519	CDS	492				hypothetical protein
+BGBEHOIO_00520	gene	699				
+BGBEHOIO_00520	CDS	699		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+BGBEHOIO_00521	gene	1347				
+BGBEHOIO_00521	CDS	1347				hypothetical protein
+BGBEHOIO_00522	gene	384				
+BGBEHOIO_00522	CDS	384				hypothetical protein
+BGBEHOIO_00523	gene	573				
+BGBEHOIO_00523	CDS	573				hypothetical protein
+BGBEHOIO_00524	gene	360				
+BGBEHOIO_00524	CDS	360				hypothetical protein
+BGBEHOIO_00525	gene	792				
+BGBEHOIO_00525	CDS	792		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+BGBEHOIO_00526	gene	267				
+BGBEHOIO_00526	CDS	267				hypothetical protein
+BGBEHOIO_00527	gene	189				
+BGBEHOIO_00527	CDS	189				hypothetical protein
+BGBEHOIO_00528	gene	246	ilvD			
+BGBEHOIO_00528	CDS	246	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+BGBEHOIO_00529	gene	99				
+BGBEHOIO_00529	CDS	99				hypothetical protein
+BGBEHOIO_00530	gene	153				
+BGBEHOIO_00530	CDS	153				hypothetical protein
+BGBEHOIO_00531	gene	1356	pabB			
+BGBEHOIO_00531	CDS	1356	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+BGBEHOIO_00532	gene	591	trpG			
+BGBEHOIO_00532	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+BGBEHOIO_00533	gene	1047	trpD			
+BGBEHOIO_00533	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+BGBEHOIO_00534	gene	558	trpC			
+BGBEHOIO_00534	CDS	558	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+BGBEHOIO_00535	gene	1191	trpB			
+BGBEHOIO_00535	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+BGBEHOIO_00536	gene	810	trpA			
+BGBEHOIO_00536	CDS	810	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+BGBEHOIO_00537	gene	348				
+BGBEHOIO_00537	CDS	348				hypothetical protein
+BGBEHOIO_00538	gene	312				
+BGBEHOIO_00538	CDS	312				hypothetical protein
+BGBEHOIO_00539	gene	576				
+BGBEHOIO_00539	CDS	576				hypothetical protein
+BGBEHOIO_00540	gene	957	thiL			
+BGBEHOIO_00540	CDS	957	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+BGBEHOIO_00541	gene	1299	algC_2			
+BGBEHOIO_00541	CDS	1299	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+BGBEHOIO_00542	gene	74				
+BGBEHOIO_00542	tRNA	74				tRNA-Thr(cgt)
+BGBEHOIO_00543	gene	1785				
+BGBEHOIO_00543	CDS	1785				hypothetical protein
+BGBEHOIO_00544	gene	228				
+BGBEHOIO_00544	CDS	228				hypothetical protein
+BGBEHOIO_00545	gene	207				
+BGBEHOIO_00545	CDS	207				hypothetical protein
+BGBEHOIO_00546	gene	261				
+BGBEHOIO_00546	CDS	261				hypothetical protein
+BGBEHOIO_00547	gene	588				
+BGBEHOIO_00547	CDS	588				hypothetical protein
+BGBEHOIO_00548	gene	144				
+BGBEHOIO_00548	CDS	144				hypothetical protein
+BGBEHOIO_00549	gene	861				
+BGBEHOIO_00549	CDS	861				IS3 family transposase ISPpu29
+BGBEHOIO_00550	gene	258				
+BGBEHOIO_00550	CDS	258				hypothetical protein
+BGBEHOIO_00551	gene	624	yihX			
+BGBEHOIO_00551	CDS	624	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+BGBEHOIO_00552	gene	1659				
+BGBEHOIO_00552	CDS	1659				hypothetical protein
+BGBEHOIO_00553	gene	1095	malK			
+BGBEHOIO_00553	CDS	1095	malK	7.5.2.1	COG3839	Maltose/maltodextrin import ATP-binding protein MalK
+BGBEHOIO_00554	gene	990				
+BGBEHOIO_00554	CDS	990			COG1840	putative protein
+BGBEHOIO_00555	gene	762	fbiB			
+BGBEHOIO_00555	CDS	762	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+BGBEHOIO_00556	gene	984	dmdA_1			
+BGBEHOIO_00556	CDS	984	dmdA_1	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+BGBEHOIO_00557	gene	183	leuC			
+BGBEHOIO_00557	CDS	183	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+BGBEHOIO_00558	gene	183	dmdA_2			
+BGBEHOIO_00558	CDS	183	dmdA_2	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+BGBEHOIO_00559	gene	483	DmdB			
+BGBEHOIO_00559	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+BGBEHOIO_00560	gene	474	rpsI			
+BGBEHOIO_00560	CDS	474	rpsI		COG0103	30S ribosomal protein S9
+BGBEHOIO_00561	gene	417				
+BGBEHOIO_00561	CDS	417				hypothetical protein
+BGBEHOIO_00562	gene	171				
+BGBEHOIO_00562	CDS	171				hypothetical protein
+BGBEHOIO_00563	gene	321				
+BGBEHOIO_00563	CDS	321				hypothetical protein
+BGBEHOIO_00564	gene	630				
+BGBEHOIO_00564	CDS	630				hypothetical protein
+BGBEHOIO_00565	gene	333				
+BGBEHOIO_00565	CDS	333				hypothetical protein
+BGBEHOIO_00566	gene	312				
+BGBEHOIO_00566	CDS	312				hypothetical protein
+BGBEHOIO_00567	gene	186				
+BGBEHOIO_00567	CDS	186				hypothetical protein
+BGBEHOIO_00568	gene	231				
+BGBEHOIO_00568	CDS	231				hypothetical protein
+BGBEHOIO_00569	gene	1368	dapL			
+BGBEHOIO_00569	CDS	1368	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+BGBEHOIO_00570	gene	1095	aroC			
+BGBEHOIO_00570	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+BGBEHOIO_00571	gene	1269	aroA			
+BGBEHOIO_00571	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+BGBEHOIO_00572	gene	855	thrB			
+BGBEHOIO_00572	CDS	855	thrB	2.7.1.39		Homoserine kinase
+BGBEHOIO_00573	gene	822	aroE			
+BGBEHOIO_00573	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+BGBEHOIO_00574	gene	402	aroD			
+BGBEHOIO_00574	CDS	402	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+BGBEHOIO_00575	gene	1074	fadA			
+BGBEHOIO_00575	CDS	1074	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+BGBEHOIO_00576	gene	1209	tdcB			
+BGBEHOIO_00576	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+BGBEHOIO_00577	gene	825				
+BGBEHOIO_00577	CDS	825				hypothetical protein
+BGBEHOIO_00578	gene	837				
+BGBEHOIO_00578	CDS	837				hypothetical protein
+BGBEHOIO_00579	gene	150				
+BGBEHOIO_00579	CDS	150				hypothetical protein
+BGBEHOIO_00580	gene	366				
+BGBEHOIO_00580	CDS	366				hypothetical protein
+BGBEHOIO_00581	gene	405				
+BGBEHOIO_00581	CDS	405				hypothetical protein
+BGBEHOIO_00582	gene	219				
+BGBEHOIO_00582	CDS	219				hypothetical protein
+BGBEHOIO_00583	gene	240				
+BGBEHOIO_00583	CDS	240				hypothetical protein
+BGBEHOIO_00584	gene	201				
+BGBEHOIO_00584	CDS	201				hypothetical protein
+BGBEHOIO_00585	gene	75				
+BGBEHOIO_00585	tRNA	75				tRNA-Phe(gaa)
+BGBEHOIO_00586	gene	225				
+BGBEHOIO_00586	CDS	225				hypothetical protein
+BGBEHOIO_00587	gene	339				
+BGBEHOIO_00587	CDS	339				hypothetical protein
+BGBEHOIO_00588	gene	375				
+BGBEHOIO_00588	CDS	375				hypothetical protein
+BGBEHOIO_00589	gene	816	sat			
+BGBEHOIO_00589	CDS	816	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+BGBEHOIO_00590	gene	687				
+BGBEHOIO_00590	CDS	687				hypothetical protein
+BGBEHOIO_00591	gene	654	nth			
+BGBEHOIO_00591	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+BGBEHOIO_00592	gene	735				
+BGBEHOIO_00592	CDS	735				hypothetical protein
+BGBEHOIO_00593	gene	372	cbiF			
+BGBEHOIO_00593	CDS	372	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+BGBEHOIO_00594	gene	723	cbiL			
+BGBEHOIO_00594	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+BGBEHOIO_00595	gene	591	cbiT			
+BGBEHOIO_00595	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+BGBEHOIO_00596	gene	405	adeC			
+BGBEHOIO_00596	CDS	405	adeC	3.5.4.2		Adenine deaminase
+BGBEHOIO_00597	gene	1632	groL			
+BGBEHOIO_00597	CDS	1632	groL			60 kDa chaperonin
+BGBEHOIO_00598	gene	876	mak			
+BGBEHOIO_00598	CDS	876	mak	2.7.1.4	COG1940	Fructokinase
+BGBEHOIO_00599	gene	1521	guaA_1			
+BGBEHOIO_00599	CDS	1521	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+BGBEHOIO_00600	gene	546				
+BGBEHOIO_00600	CDS	546				hypothetical protein
+BGBEHOIO_00601	gene	750				
+BGBEHOIO_00601	CDS	750				hypothetical protein
+BGBEHOIO_00602	gene	189				
+BGBEHOIO_00602	CDS	189				hypothetical protein
+BGBEHOIO_00603	gene	450	mntR_2			
+BGBEHOIO_00603	CDS	450	mntR_2			HTH-type transcriptional regulator MntR
+BGBEHOIO_00604	gene	165				
+BGBEHOIO_00604	CDS	165				hypothetical protein
+BGBEHOIO_00605	gene	396				
+BGBEHOIO_00605	CDS	396				hypothetical protein
+BGBEHOIO_00606	gene	1056				
+BGBEHOIO_00606	CDS	1056				hypothetical protein
+BGBEHOIO_00607	gene	312	cutA			
+BGBEHOIO_00607	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+BGBEHOIO_00608	gene	1200				
+BGBEHOIO_00608	CDS	1200				hypothetical protein
+BGBEHOIO_00609	gene	909	ttuA			
+BGBEHOIO_00609	CDS	909	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+BGBEHOIO_00610	gene	312				
+BGBEHOIO_00610	misc_RNA	312				Archaea_SRP
+BGBEHOIO_00611	gene	279	acyP			
+BGBEHOIO_00611	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+BGBEHOIO_00612	gene	363				
+BGBEHOIO_00612	CDS	363				hypothetical protein
+BGBEHOIO_00613	gene	1362	purB			
+BGBEHOIO_00613	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+BGBEHOIO_00614	gene	954	gtfA			
+BGBEHOIO_00614	CDS	954	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+BGBEHOIO_00615	gene	648	fabG			
+BGBEHOIO_00615	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BGBEHOIO_00616	gene	1449	rtcB			
+BGBEHOIO_00616	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+BGBEHOIO_00617	gene	1002				
+BGBEHOIO_00617	CDS	1002				hypothetical protein
+BGBEHOIO_00618	gene	570	xerC_2			
+BGBEHOIO_00618	CDS	570	xerC_2			Tyrosine recombinase XerC
+BGBEHOIO_00619	gene	192				
+BGBEHOIO_00619	CDS	192				hypothetical protein
+BGBEHOIO_00620	gene	558				
+BGBEHOIO_00620	CDS	558				hypothetical protein
+BGBEHOIO_00621	gene	366				
+BGBEHOIO_00621	CDS	366				hypothetical protein
+BGBEHOIO_00622	gene	177				
+BGBEHOIO_00622	CDS	177				hypothetical protein
+BGBEHOIO_00623	gene	576				
+BGBEHOIO_00623	CDS	576				hypothetical protein
+BGBEHOIO_00624	gene	198				
+BGBEHOIO_00624	CDS	198				hypothetical protein
+BGBEHOIO_00625	gene	174				
+BGBEHOIO_00625	CDS	174				hypothetical protein
+BGBEHOIO_00626	gene	74				
+BGBEHOIO_00626	tRNA	74				tRNA-Gly(ccc)
+BGBEHOIO_00627	gene	138				
+BGBEHOIO_00627	CDS	138				hypothetical protein
+BGBEHOIO_00628	gene	543	guaA_2			
+BGBEHOIO_00628	CDS	543	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+BGBEHOIO_00629	gene	2859				
+BGBEHOIO_00629	CDS	2859				hypothetical protein
+BGBEHOIO_00630	gene	498				
+BGBEHOIO_00630	CDS	498				hypothetical protein
+BGBEHOIO_00631	gene	513				
+BGBEHOIO_00631	CDS	513				hypothetical protein
+BGBEHOIO_00632	gene	354				
+BGBEHOIO_00632	CDS	354				hypothetical protein
+BGBEHOIO_00633	gene	408	pitA			
+BGBEHOIO_00633	CDS	408	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+BGBEHOIO_00634	gene	681	glpF			
+BGBEHOIO_00634	CDS	681	glpF		COG0580	Glycerol uptake facilitator protein
+BGBEHOIO_00635	gene	1038	hemL_1			
+BGBEHOIO_00635	CDS	1038	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+BGBEHOIO_00636	gene	207	hemC			
+BGBEHOIO_00636	CDS	207	hemC	2.5.1.61		Porphobilinogen deaminase
+BGBEHOIO_00637	gene	297	sumT			
+BGBEHOIO_00637	CDS	297	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+BGBEHOIO_00638	gene	126				
+BGBEHOIO_00638	CDS	126				hypothetical protein
+BGBEHOIO_00639	gene	255				
+BGBEHOIO_00639	CDS	255				hypothetical protein
+BGBEHOIO_00640	gene	1524	rpoB_1			
+BGBEHOIO_00640	CDS	1524	rpoB_1	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+BGBEHOIO_00641	gene	1377	rpoB_2			
+BGBEHOIO_00641	CDS	1377	rpoB_2	2.7.7.6		DNA-directed RNA polymerase subunit beta
+BGBEHOIO_00642	gene	231	rpoB_3			
+BGBEHOIO_00642	CDS	231	rpoB_3	2.7.7.6		DNA-directed RNA polymerase subunit beta
+BGBEHOIO_00643	gene	270				
+BGBEHOIO_00643	CDS	270				hypothetical protein
+BGBEHOIO_00644	gene	258				
+BGBEHOIO_00644	CDS	258				hypothetical protein
+BGBEHOIO_00645	gene	411	hit_2			
+BGBEHOIO_00645	CDS	411	hit_2		COG0537	Protein hit
+BGBEHOIO_00646	gene	708	dnaJ_3			
+BGBEHOIO_00646	CDS	708	dnaJ_3			Chaperone protein DnaJ
+BGBEHOIO_00647	gene	453				
+BGBEHOIO_00647	CDS	453				hypothetical protein
+BGBEHOIO_00648	gene	723				
+BGBEHOIO_00648	CDS	723				hypothetical protein
+BGBEHOIO_00649	gene	819	cpoB			
+BGBEHOIO_00649	CDS	819	cpoB			Cell division coordinator CpoB
+BGBEHOIO_00650	gene	1188	hemL_2			
+BGBEHOIO_00650	CDS	1188	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+BGBEHOIO_00651	gene	126				
+BGBEHOIO_00651	CDS	126				hypothetical protein
+BGBEHOIO_00652	gene	207				
+BGBEHOIO_00652	CDS	207				hypothetical protein
+BGBEHOIO_00653	gene	183				
+BGBEHOIO_00653	CDS	183				hypothetical protein
+BGBEHOIO_00654	gene	180				
+BGBEHOIO_00654	CDS	180				hypothetical protein
+BGBEHOIO_00655	gene	1350				
+BGBEHOIO_00655	CDS	1350				hypothetical protein
+BGBEHOIO_00656	gene	630				
+BGBEHOIO_00656	CDS	630				hypothetical protein
+BGBEHOIO_00657	gene	246				
+BGBEHOIO_00657	CDS	246				hypothetical protein
+BGBEHOIO_00658	gene	858	fadB_1			
+BGBEHOIO_00658	CDS	858	fadB_1	5.3.3.8		Fatty acid oxidation complex subunit alpha
+BGBEHOIO_00659	gene	507				
+BGBEHOIO_00659	CDS	507				hypothetical protein
+BGBEHOIO_00660	gene	129				
+BGBEHOIO_00660	CDS	129				hypothetical protein
+BGBEHOIO_00661	gene	411				
+BGBEHOIO_00661	CDS	411				hypothetical protein
+BGBEHOIO_00662	gene	216				
+BGBEHOIO_00662	CDS	216				hypothetical protein
+BGBEHOIO_00663	gene	309	rpsJ			
+BGBEHOIO_00663	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+BGBEHOIO_00664	gene	996	tuf_2			
+BGBEHOIO_00664	CDS	996	tuf_2		COG0050	Elongation factor Tu
+BGBEHOIO_00665	gene	207				
+BGBEHOIO_00665	CDS	207				hypothetical protein
+BGBEHOIO_00666	gene	1317	cfiB			
+BGBEHOIO_00666	CDS	1317	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+BGBEHOIO_00667	gene	1548	pccB			
+BGBEHOIO_00667	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+BGBEHOIO_00668	gene	306				
+BGBEHOIO_00668	CDS	306				hypothetical protein
+BGBEHOIO_00669	gene	138				
+BGBEHOIO_00669	CDS	138				hypothetical protein
+BGBEHOIO_00670	gene	174				
+BGBEHOIO_00670	CDS	174				hypothetical protein
+BGBEHOIO_00671	gene	180				
+BGBEHOIO_00671	CDS	180				hypothetical protein
+BGBEHOIO_00672	gene	144				
+BGBEHOIO_00672	CDS	144				hypothetical protein
+BGBEHOIO_00673	gene	285	apgM			
+BGBEHOIO_00673	CDS	285	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BGBEHOIO_00674	gene	510				
+BGBEHOIO_00674	CDS	510				hypothetical protein
+BGBEHOIO_00675	gene	129				
+BGBEHOIO_00675	CDS	129				hypothetical protein
+BGBEHOIO_00676	gene	228				
+BGBEHOIO_00676	CDS	228				hypothetical protein
+BGBEHOIO_00677	gene	249	pyrD_1			
+BGBEHOIO_00677	CDS	249	pyrD_1	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+BGBEHOIO_00678	gene	219	pyrD_2			
+BGBEHOIO_00678	CDS	219	pyrD_2	1.3.-.-		Dihydroorotate dehydrogenase
+BGBEHOIO_00679	gene	513	pyrD_3			
+BGBEHOIO_00679	CDS	513	pyrD_3	1.3.-.-		Dihydroorotate dehydrogenase
+BGBEHOIO_00680	gene	339				
+BGBEHOIO_00680	CDS	339				hypothetical protein
+BGBEHOIO_00681	gene	150				
+BGBEHOIO_00681	CDS	150				hypothetical protein
+BGBEHOIO_00682	gene	120				
+BGBEHOIO_00682	CDS	120				hypothetical protein
+BGBEHOIO_00683	gene	366				
+BGBEHOIO_00683	CDS	366				hypothetical protein
+BGBEHOIO_00684	gene	1191	rpoC_1			
+BGBEHOIO_00684	CDS	1191	rpoC_1	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+BGBEHOIO_00685	gene	120				
+BGBEHOIO_00685	CDS	120				hypothetical protein
+BGBEHOIO_00686	gene	438	rpoC_2			
+BGBEHOIO_00686	CDS	438	rpoC_2	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+BGBEHOIO_00687	gene	357	rpoC2			
+BGBEHOIO_00687	CDS	357	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+BGBEHOIO_00688	gene	162				
+BGBEHOIO_00688	CDS	162				hypothetical protein
+BGBEHOIO_00689	gene	1899				
+BGBEHOIO_00689	CDS	1899				hypothetical protein
+BGBEHOIO_00690	gene	363				
+BGBEHOIO_00690	CDS	363				hypothetical protein
+BGBEHOIO_00691	gene	465				
+BGBEHOIO_00691	CDS	465				hypothetical protein
+BGBEHOIO_00692	gene	765	dtd3			
+BGBEHOIO_00692	CDS	765	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+BGBEHOIO_00693	gene	222				
+BGBEHOIO_00693	CDS	222				hypothetical protein
+BGBEHOIO_00694	gene	75				
+BGBEHOIO_00694	tRNA	75				tRNA-Cys(gca)
+BGBEHOIO_00695	gene	336				
+BGBEHOIO_00695	CDS	336				hypothetical protein
+BGBEHOIO_00696	gene	186				
+BGBEHOIO_00696	CDS	186				hypothetical protein
+BGBEHOIO_00697	gene	402				
+BGBEHOIO_00697	CDS	402				hypothetical protein
+BGBEHOIO_00698	gene	228	menA_1			
+BGBEHOIO_00698	CDS	228	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BGBEHOIO_00699	gene	732	menA_2			
+BGBEHOIO_00699	CDS	732	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BGBEHOIO_00700	gene	141				
+BGBEHOIO_00700	CDS	141				hypothetical protein
+BGBEHOIO_00701	gene	300				
+BGBEHOIO_00701	CDS	300				hypothetical protein
+BGBEHOIO_00702	gene	666	asnB			
+BGBEHOIO_00702	CDS	666	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+BGBEHOIO_00703	gene	165				
+BGBEHOIO_00703	CDS	165				hypothetical protein
+BGBEHOIO_00704	gene	141				
+BGBEHOIO_00704	CDS	141				hypothetical protein
+BGBEHOIO_00705	gene	321				
+BGBEHOIO_00705	CDS	321				hypothetical protein
+BGBEHOIO_00706	gene	414	thiDN			
+BGBEHOIO_00706	CDS	414	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+BGBEHOIO_00707	gene	102				
+BGBEHOIO_00707	CDS	102				hypothetical protein
+BGBEHOIO_00708	gene	186				
+BGBEHOIO_00708	CDS	186				hypothetical protein
+BGBEHOIO_00709	gene	132				
+BGBEHOIO_00709	CDS	132				hypothetical protein
+BGBEHOIO_00710	gene	540				
+BGBEHOIO_00710	CDS	540		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+BGBEHOIO_00711	gene	141				
+BGBEHOIO_00711	CDS	141				hypothetical protein
+BGBEHOIO_00712	gene	132				
+BGBEHOIO_00712	CDS	132				hypothetical protein
+BGBEHOIO_00713	gene	834				
+BGBEHOIO_00713	CDS	834				hypothetical protein
+BGBEHOIO_00714	gene	381				
+BGBEHOIO_00714	CDS	381				hypothetical protein
+BGBEHOIO_00715	gene	288				
+BGBEHOIO_00715	CDS	288				hypothetical protein
+BGBEHOIO_00716	gene	102				
+BGBEHOIO_00716	CDS	102				hypothetical protein
+BGBEHOIO_00717	gene	1809	xerC_3			
+BGBEHOIO_00717	CDS	1809	xerC_3			Tyrosine recombinase XerC
+BGBEHOIO_00718	gene	405				
+BGBEHOIO_00718	CDS	405				hypothetical protein
+BGBEHOIO_00719	gene	840	nfo			
+BGBEHOIO_00719	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+BGBEHOIO_00720	gene	1026				
+BGBEHOIO_00720	CDS	1026				hypothetical protein
+BGBEHOIO_00721	gene	258				
+BGBEHOIO_00721	CDS	258				hypothetical protein
+BGBEHOIO_00722	gene	276				
+BGBEHOIO_00722	CDS	276				hypothetical protein
+BGBEHOIO_00723	gene	240				
+BGBEHOIO_00723	CDS	240				hypothetical protein
+BGBEHOIO_00724	gene	177				
+BGBEHOIO_00724	CDS	177				hypothetical protein
+BGBEHOIO_00725	gene	375				
+BGBEHOIO_00725	CDS	375				hypothetical protein
+BGBEHOIO_00726	gene	747				
+BGBEHOIO_00726	CDS	747				hypothetical protein
+BGBEHOIO_00727	gene	1527	hcf136			
+BGBEHOIO_00727	CDS	1527	hcf136			Ycf48-like protein
+BGBEHOIO_00728	gene	150				
+BGBEHOIO_00728	CDS	150				hypothetical protein
+BGBEHOIO_00729	gene	1296				
+BGBEHOIO_00729	CDS	1296				hypothetical protein
+BGBEHOIO_00730	gene	834				
+BGBEHOIO_00730	CDS	834				hypothetical protein
+BGBEHOIO_00731	gene	789				
+BGBEHOIO_00731	CDS	789		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+BGBEHOIO_00732	gene	1002	thrA			
+BGBEHOIO_00732	CDS	1002	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+BGBEHOIO_00733	gene	255				
+BGBEHOIO_00733	CDS	255				hypothetical protein
+BGBEHOIO_00734	gene	1146				
+BGBEHOIO_00734	CDS	1146				hypothetical protein
+BGBEHOIO_00735	gene	306				
+BGBEHOIO_00735	CDS	306				hypothetical protein
+BGBEHOIO_00736	gene	342				
+BGBEHOIO_00736	CDS	342				hypothetical protein
+BGBEHOIO_00737	gene	204				
+BGBEHOIO_00737	CDS	204				hypothetical protein
+BGBEHOIO_00738	gene	714				
+BGBEHOIO_00738	CDS	714				hypothetical protein
+BGBEHOIO_00739	gene	516				
+BGBEHOIO_00739	CDS	516				hypothetical protein
+BGBEHOIO_00740	gene	327				
+BGBEHOIO_00740	CDS	327				hypothetical protein
+BGBEHOIO_00741	gene	123				
+BGBEHOIO_00741	CDS	123				hypothetical protein
+BGBEHOIO_00742	gene	177				
+BGBEHOIO_00742	CDS	177				hypothetical protein
+BGBEHOIO_00743	gene	744				
+BGBEHOIO_00743	CDS	744		1.1.1.1		Alcohol dehydrogenase
+BGBEHOIO_00744	gene	1350				
+BGBEHOIO_00744	CDS	1350			COG3039	IS5 family transposase ISAcma17
+BGBEHOIO_00745	gene	276				
+BGBEHOIO_00745	CDS	276				hypothetical protein
+BGBEHOIO_00746	gene	324				
+BGBEHOIO_00746	CDS	324				hypothetical protein
+BGBEHOIO_00747	gene	618				
+BGBEHOIO_00747	CDS	618				hypothetical protein
+BGBEHOIO_00748	gene	405				
+BGBEHOIO_00748	CDS	405				hypothetical protein
+BGBEHOIO_00749	gene	2070				
+BGBEHOIO_00749	CDS	2070				hypothetical protein
+BGBEHOIO_00750	gene	156				
+BGBEHOIO_00750	CDS	156				hypothetical protein
+BGBEHOIO_00751	gene	150				
+BGBEHOIO_00751	CDS	150				hypothetical protein
+BGBEHOIO_00752	gene	363	scpB			
+BGBEHOIO_00752	CDS	363	scpB			Segregation and condensation protein B
+BGBEHOIO_00753	gene	276				
+BGBEHOIO_00753	CDS	276				hypothetical protein
+BGBEHOIO_00754	gene	135				
+BGBEHOIO_00754	CDS	135				hypothetical protein
+BGBEHOIO_00755	gene	327				
+BGBEHOIO_00755	CDS	327				hypothetical protein
+BGBEHOIO_00756	gene	270				
+BGBEHOIO_00756	CDS	270				hypothetical protein
+BGBEHOIO_00757	gene	318				
+BGBEHOIO_00757	CDS	318				hypothetical protein
+BGBEHOIO_00758	gene	201				
+BGBEHOIO_00758	CDS	201				hypothetical protein
+BGBEHOIO_00759	gene	294				
+BGBEHOIO_00759	CDS	294				hypothetical protein
+BGBEHOIO_00760	gene	213				
+BGBEHOIO_00760	CDS	213				hypothetical protein
+BGBEHOIO_00761	gene	144				
+BGBEHOIO_00761	CDS	144				hypothetical protein
+BGBEHOIO_00762	gene	171				
+BGBEHOIO_00762	CDS	171				hypothetical protein
+BGBEHOIO_00763	gene	204				
+BGBEHOIO_00763	CDS	204				hypothetical protein
+BGBEHOIO_00764	gene	207	ftsY_2			
+BGBEHOIO_00764	CDS	207	ftsY_2		COG0552	Signal recognition particle receptor FtsY
+BGBEHOIO_00765	gene	246	srp54_1			
+BGBEHOIO_00765	CDS	246	srp54_1			Signal recognition particle 54 kDa protein
+BGBEHOIO_00766	gene	210	srp54_2			
+BGBEHOIO_00766	CDS	210	srp54_2			Signal recognition particle 54 kDa protein
+BGBEHOIO_00767	gene	198				
+BGBEHOIO_00767	CDS	198				hypothetical protein
+BGBEHOIO_00768	gene	198				
+BGBEHOIO_00768	CDS	198				hypothetical protein
+BGBEHOIO_00769	gene	1389				
+BGBEHOIO_00769	CDS	1389				hypothetical protein
+BGBEHOIO_00770	gene	165				
+BGBEHOIO_00770	CDS	165				hypothetical protein
+BGBEHOIO_00771	gene	372	ilvE_3			
+BGBEHOIO_00771	CDS	372	ilvE_3	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BGBEHOIO_00772	gene	303				
+BGBEHOIO_00772	CDS	303				hypothetical protein
+BGBEHOIO_00773	gene	210				
+BGBEHOIO_00773	CDS	210				hypothetical protein
+BGBEHOIO_00774	gene	171				
+BGBEHOIO_00774	CDS	171				hypothetical protein
+BGBEHOIO_00775	gene	780				
+BGBEHOIO_00775	CDS	780				hypothetical protein
+BGBEHOIO_00776	gene	585				
+BGBEHOIO_00776	CDS	585				hypothetical protein
+BGBEHOIO_00777	gene	996				
+BGBEHOIO_00777	CDS	996				hypothetical protein
+BGBEHOIO_00778	gene	876	prs			
+BGBEHOIO_00778	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+BGBEHOIO_00779	gene	804				
+BGBEHOIO_00779	CDS	804				hypothetical protein
+BGBEHOIO_00780	gene	315				
+BGBEHOIO_00780	CDS	315				hypothetical protein
+BGBEHOIO_00781	gene	429				
+BGBEHOIO_00781	CDS	429				hypothetical protein
+BGBEHOIO_00782	gene	738				
+BGBEHOIO_00782	CDS	738				hypothetical protein
+BGBEHOIO_00783	gene	393				
+BGBEHOIO_00783	CDS	393				hypothetical protein
+BGBEHOIO_00784	gene	492				
+BGBEHOIO_00784	CDS	492				hypothetical protein
+BGBEHOIO_00785	gene	285				
+BGBEHOIO_00785	CDS	285				hypothetical protein
+BGBEHOIO_00786	gene	207				
+BGBEHOIO_00786	CDS	207				hypothetical protein
+BGBEHOIO_00787	gene	519				
+BGBEHOIO_00787	CDS	519				hypothetical protein
+BGBEHOIO_00788	gene	450				
+BGBEHOIO_00788	CDS	450				hypothetical protein
+BGBEHOIO_00789	gene	201				
+BGBEHOIO_00789	CDS	201				hypothetical protein
+BGBEHOIO_00790	gene	270				
+BGBEHOIO_00790	CDS	270				hypothetical protein
+BGBEHOIO_00791	gene	243	erpA			
+BGBEHOIO_00791	CDS	243	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+BGBEHOIO_00792	gene	168				
+BGBEHOIO_00792	CDS	168				hypothetical protein
+BGBEHOIO_00793	gene	204	crt			
+BGBEHOIO_00793	CDS	204	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+BGBEHOIO_00794	gene	195	fadB_2			
+BGBEHOIO_00794	CDS	195	fadB_2	5.3.3.8		Fatty acid oxidation complex subunit alpha
+BGBEHOIO_00795	gene	246				
+BGBEHOIO_00795	CDS	246				hypothetical protein
+BGBEHOIO_00796	gene	465	nusA			
+BGBEHOIO_00796	CDS	465	nusA			Transcription termination/antitermination protein NusA
+BGBEHOIO_00797	gene	177				
+BGBEHOIO_00797	CDS	177				hypothetical protein
+BGBEHOIO_00798	gene	126				
+BGBEHOIO_00798	CDS	126				hypothetical protein
+BGBEHOIO_00799	gene	165				
+BGBEHOIO_00799	CDS	165				hypothetical protein
+BGBEHOIO_00800	gene	384				
+BGBEHOIO_00800	CDS	384				hypothetical protein
+BGBEHOIO_00801	gene	504	prcB			
+BGBEHOIO_00801	CDS	504	prcB			Proteasome subunit beta
+BGBEHOIO_00802	gene	210				
+BGBEHOIO_00802	CDS	210				hypothetical protein
+BGBEHOIO_00803	gene	288				
+BGBEHOIO_00803	CDS	288				hypothetical protein
+BGBEHOIO_00804	gene	156				
+BGBEHOIO_00804	CDS	156				hypothetical protein
+BGBEHOIO_00805	gene	333				
+BGBEHOIO_00805	CDS	333				hypothetical protein
+BGBEHOIO_00806	gene	213				
+BGBEHOIO_00806	CDS	213				hypothetical protein
+BGBEHOIO_00807	gene	615	melD			
+BGBEHOIO_00807	CDS	615	melD		COG1175	Melibiose/raffinose/stachyose import permease protein MelD
+BGBEHOIO_00808	gene	225				
+BGBEHOIO_00808	CDS	225				hypothetical protein
+BGBEHOIO_00809	gene	405	ilvH			
+BGBEHOIO_00809	CDS	405	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+BGBEHOIO_00810	gene	165	hldE			
+BGBEHOIO_00810	CDS	165	hldE	2.7.7.70		Bifunctional protein HldE
+BGBEHOIO_00811	gene	153				
+BGBEHOIO_00811	CDS	153				hypothetical protein
+BGBEHOIO_00812	gene	141				
+BGBEHOIO_00812	CDS	141				hypothetical protein
+BGBEHOIO_00813	gene	162				
+BGBEHOIO_00813	CDS	162				hypothetical protein
+BGBEHOIO_00814	gene	129				
+BGBEHOIO_00814	CDS	129				hypothetical protein
+BGBEHOIO_00815	gene	156				
+BGBEHOIO_00815	CDS	156				hypothetical protein
+BGBEHOIO_00816	gene	507				
+BGBEHOIO_00816	CDS	507				hypothetical protein
+BGBEHOIO_00817	gene	501				
+BGBEHOIO_00817	CDS	501				hypothetical protein
+BGBEHOIO_00818	gene	750				
+BGBEHOIO_00818	CDS	750				hypothetical protein
+BGBEHOIO_00819	gene	126				
+BGBEHOIO_00819	CDS	126				hypothetical protein
+BGBEHOIO_00820	gene	597				
+BGBEHOIO_00820	CDS	597				hypothetical protein
+BGBEHOIO_00821	gene	273				
+BGBEHOIO_00821	CDS	273				hypothetical protein
+BGBEHOIO_00822	gene	390				
+BGBEHOIO_00822	CDS	390				hypothetical protein
+BGBEHOIO_00823	gene	1011				
+BGBEHOIO_00823	CDS	1011				hypothetical protein
+BGBEHOIO_00824	gene	468	xerC_4			
+BGBEHOIO_00824	CDS	468	xerC_4			Tyrosine recombinase XerC
+BGBEHOIO_00825	gene	240				
+BGBEHOIO_00825	CDS	240				hypothetical protein
+BGBEHOIO_00826	gene	85				
+BGBEHOIO_00826	tRNA	85				tRNA-Leu(cag)
+BGBEHOIO_00827	gene	183				
+BGBEHOIO_00827	CDS	183				hypothetical protein
+BGBEHOIO_00828	gene	189				
+BGBEHOIO_00828	CDS	189				hypothetical protein
+BGBEHOIO_00829	gene	288				
+BGBEHOIO_00829	CDS	288				hypothetical protein
+BGBEHOIO_00830	gene	471				
+BGBEHOIO_00830	CDS	471				hypothetical protein
+BGBEHOIO_00831	gene	135				
+BGBEHOIO_00831	CDS	135				hypothetical protein
+BGBEHOIO_00832	gene	378				
+BGBEHOIO_00832	CDS	378				hypothetical protein
+BGBEHOIO_00833	gene	201				
+BGBEHOIO_00833	CDS	201				hypothetical protein
+BGBEHOIO_00834	gene	141				
+BGBEHOIO_00834	CDS	141				hypothetical protein
+BGBEHOIO_00835	gene	390				
+BGBEHOIO_00835	CDS	390				hypothetical protein
+BGBEHOIO_00836	gene	75				
+BGBEHOIO_00836	tRNA	75				tRNA-Phe(gaa)
+BGBEHOIO_00837	gene	636				
+BGBEHOIO_00837	CDS	636				hypothetical protein
+BGBEHOIO_00838	gene	186				
+BGBEHOIO_00838	CDS	186				hypothetical protein
+BGBEHOIO_00839	gene	222				
+BGBEHOIO_00839	CDS	222				hypothetical protein
+BGBEHOIO_00840	gene	279				
+BGBEHOIO_00840	CDS	279				hypothetical protein
+BGBEHOIO_00841	gene	123				
+BGBEHOIO_00841	CDS	123				hypothetical protein
+BGBEHOIO_00842	gene	273	pyrK			
+BGBEHOIO_00842	CDS	273	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+BGBEHOIO_00843	gene	336				
+BGBEHOIO_00843	CDS	336				hypothetical protein
+BGBEHOIO_00844	gene	321				
+BGBEHOIO_00844	CDS	321				hypothetical protein
+BGBEHOIO_00845	gene	153				
+BGBEHOIO_00845	CDS	153				hypothetical protein
+BGBEHOIO_00846	gene	231				
+BGBEHOIO_00846	CDS	231				hypothetical protein
+BGBEHOIO_00847	gene	228				
+BGBEHOIO_00847	CDS	228				hypothetical protein
+BGBEHOIO_00848	gene	198				
+BGBEHOIO_00848	CDS	198				hypothetical protein
+BGBEHOIO_00849	gene	153				
+BGBEHOIO_00849	CDS	153				hypothetical protein
+BGBEHOIO_00850	gene	882				
+BGBEHOIO_00850	CDS	882				hypothetical protein
+BGBEHOIO_00851	gene	315				
+BGBEHOIO_00851	CDS	315				hypothetical protein
+BGBEHOIO_00852	gene	225				
+BGBEHOIO_00852	CDS	225				hypothetical protein
+BGBEHOIO_00853	gene	759				
+BGBEHOIO_00853	CDS	759				hypothetical protein
+BGBEHOIO_00854	gene	654				
+BGBEHOIO_00854	CDS	654				hypothetical protein
+BGBEHOIO_00855	gene	324				
+BGBEHOIO_00855	CDS	324				hypothetical protein
+BGBEHOIO_00856	gene	240				
+BGBEHOIO_00856	CDS	240				hypothetical protein
+BGBEHOIO_00857	gene	153				
+BGBEHOIO_00857	CDS	153				hypothetical protein
+BGBEHOIO_00858	gene	108				
+BGBEHOIO_00858	CDS	108				hypothetical protein
+BGBEHOIO_00859	gene	219				
+BGBEHOIO_00859	CDS	219				hypothetical protein
+BGBEHOIO_00860	gene	294				
+BGBEHOIO_00860	CDS	294				hypothetical protein
+BGBEHOIO_00861	gene	867				
+BGBEHOIO_00861	CDS	867				hypothetical protein
+BGBEHOIO_00862	gene	507				
+BGBEHOIO_00862	CDS	507				hypothetical protein
+BGBEHOIO_00863	gene	195				
+BGBEHOIO_00863	CDS	195				hypothetical protein
+BGBEHOIO_00864	gene	99				
+BGBEHOIO_00864	CDS	99				hypothetical protein
+BGBEHOIO_00865	gene	429				
+BGBEHOIO_00865	CDS	429			COG3253	putative protein
+BGBEHOIO_00866	gene	219				
+BGBEHOIO_00866	CDS	219				hypothetical protein
+BGBEHOIO_00867	gene	894				
+BGBEHOIO_00867	CDS	894				hypothetical protein
+BGBEHOIO_00868	gene	123				
+BGBEHOIO_00868	CDS	123				hypothetical protein
+BGBEHOIO_00869	gene	300				
+BGBEHOIO_00869	CDS	300				hypothetical protein
+BGBEHOIO_00870	gene	73				
+BGBEHOIO_00870	tRNA	73				tRNA-Gly(gcc)
+BGBEHOIO_00871	gene	282				
+BGBEHOIO_00871	CDS	282				hypothetical protein
+BGBEHOIO_00872	gene	153				
+BGBEHOIO_00872	CDS	153				hypothetical protein
+BGBEHOIO_00873	gene	225				
+BGBEHOIO_00873	CDS	225				hypothetical protein
+BGBEHOIO_00874	gene	198				
+BGBEHOIO_00874	CDS	198				hypothetical protein
+BGBEHOIO_00875	gene	543				
+BGBEHOIO_00875	CDS	543				hypothetical protein
+BGBEHOIO_00876	gene	927				
+BGBEHOIO_00876	CDS	927				hypothetical protein
+BGBEHOIO_00877	gene	204	rnhB			
+BGBEHOIO_00877	CDS	204	rnhB			Ribonuclease HII
+BGBEHOIO_00878	gene	282				
+BGBEHOIO_00878	CDS	282				hypothetical protein
+BGBEHOIO_00879	gene	198				
+BGBEHOIO_00879	CDS	198				hypothetical protein
+BGBEHOIO_00880	gene	285	sufC_1			
+BGBEHOIO_00880	CDS	285	sufC_1		COG0396	Vegetative protein 296
+BGBEHOIO_00881	gene	180				
+BGBEHOIO_00881	CDS	180				hypothetical protein
+BGBEHOIO_00882	gene	120				
+BGBEHOIO_00882	CDS	120				hypothetical protein
+BGBEHOIO_00883	gene	369	rph			
+BGBEHOIO_00883	CDS	369	rph	2.7.7.56	COG0689	Ribonuclease PH
+BGBEHOIO_00884	gene	123				
+BGBEHOIO_00884	CDS	123				hypothetical protein
+BGBEHOIO_00885	gene	75				
+BGBEHOIO_00885	tRNA	75				tRNA-Glu(ctc)
+BGBEHOIO_00886	gene	240	cysG			
+BGBEHOIO_00886	CDS	240	cysG	4.99.1.4		Siroheme synthase
+BGBEHOIO_00887	gene	204				
+BGBEHOIO_00887	CDS	204				hypothetical protein
+BGBEHOIO_00888	gene	135				
+BGBEHOIO_00888	CDS	135				hypothetical protein
+BGBEHOIO_00889	gene	222				
+BGBEHOIO_00889	CDS	222				hypothetical protein
+BGBEHOIO_00890	gene	264				
+BGBEHOIO_00890	CDS	264				hypothetical protein
+BGBEHOIO_00891	gene	342				
+BGBEHOIO_00891	CDS	342				hypothetical protein
+BGBEHOIO_00892	gene	204				
+BGBEHOIO_00892	CDS	204				hypothetical protein
+BGBEHOIO_00893	gene	381				
+BGBEHOIO_00893	CDS	381				hypothetical protein
+BGBEHOIO_00894	gene	129				
+BGBEHOIO_00894	CDS	129				hypothetical protein
+BGBEHOIO_00895	gene	213				
+BGBEHOIO_00895	CDS	213				hypothetical protein
+BGBEHOIO_00896	gene	171				
+BGBEHOIO_00896	CDS	171				hypothetical protein
+BGBEHOIO_00897	gene	174				
+BGBEHOIO_00897	CDS	174				hypothetical protein
+BGBEHOIO_00898	gene	258				
+BGBEHOIO_00898	CDS	258				hypothetical protein
+BGBEHOIO_00899	gene	162				
+BGBEHOIO_00899	CDS	162				hypothetical protein
+BGBEHOIO_00900	gene	303	hemA_3			
+BGBEHOIO_00900	CDS	303	hemA_3	1.2.1.70		Glutamyl-tRNA reductase
+BGBEHOIO_00901	gene	147				
+BGBEHOIO_00901	CDS	147				hypothetical protein
+BGBEHOIO_00902	gene	192				
+BGBEHOIO_00902	CDS	192				hypothetical protein
+BGBEHOIO_00903	gene	276				
+BGBEHOIO_00903	CDS	276				hypothetical protein
+BGBEHOIO_00904	gene	90				
+BGBEHOIO_00904	CDS	90				hypothetical protein
+BGBEHOIO_00905	gene	249				
+BGBEHOIO_00905	CDS	249				hypothetical protein
+BGBEHOIO_00906	gene	156				
+BGBEHOIO_00906	CDS	156				hypothetical protein
+BGBEHOIO_00907	gene	210				
+BGBEHOIO_00907	CDS	210				hypothetical protein
+BGBEHOIO_00908	gene	249				
+BGBEHOIO_00908	CDS	249				hypothetical protein
+BGBEHOIO_00909	gene	171	hemB			
+BGBEHOIO_00909	CDS	171	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+BGBEHOIO_00910	gene	156				
+BGBEHOIO_00910	CDS	156				hypothetical protein
+BGBEHOIO_00911	gene	213	sufS			
+BGBEHOIO_00911	CDS	213	sufS	4.4.1.16		Cysteine desulfurase
+BGBEHOIO_00912	gene	168				
+BGBEHOIO_00912	CDS	168				hypothetical protein
+BGBEHOIO_00913	gene	177				
+BGBEHOIO_00913	CDS	177				hypothetical protein
+BGBEHOIO_00914	gene	73				
+BGBEHOIO_00914	tRNA	73				tRNA-Gln(ctg)
+BGBEHOIO_00915	gene	360	hemA_4			
+BGBEHOIO_00915	CDS	360	hemA_4	1.2.1.70		Glutamyl-tRNA reductase
+BGBEHOIO_00916	gene	165	nadK			
+BGBEHOIO_00916	CDS	165	nadK	2.7.1.23		NAD kinase
+BGBEHOIO_00917	gene	117				
+BGBEHOIO_00917	CDS	117				hypothetical protein
+BGBEHOIO_00918	gene	282	sufC_2			
+BGBEHOIO_00918	CDS	282	sufC_2		COG0396	putative ATP-dependent transporter SufC
+BGBEHOIO_00919	gene	198				
+BGBEHOIO_00919	CDS	198				hypothetical protein
+BGBEHOIO_00920	gene	156				
+BGBEHOIO_00920	CDS	156				hypothetical protein
+BGBEHOIO_00921	gene	102				
+BGBEHOIO_00921	CDS	102				hypothetical protein
+BGBEHOIO_00922	gene	303				
+BGBEHOIO_00922	CDS	303				hypothetical protein
+BGBEHOIO_00923	gene	171	icd			
+BGBEHOIO_00923	CDS	171	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+BGBEHOIO_00924	gene	198				
+BGBEHOIO_00924	CDS	198				hypothetical protein
+BGBEHOIO_00925	gene	153				
+BGBEHOIO_00925	CDS	153				hypothetical protein
+BGBEHOIO_00926	gene	129				
+BGBEHOIO_00926	CDS	129				hypothetical protein
+BGBEHOIO_00927	gene	255				
+BGBEHOIO_00927	CDS	255				hypothetical protein
+BGBEHOIO_00928	gene	93				
+BGBEHOIO_00928	CDS	93				hypothetical protein
+BGBEHOIO_00929	gene	165				
+BGBEHOIO_00929	CDS	165				hypothetical protein
+BGBEHOIO_00930	gene	87				
+BGBEHOIO_00930	tRNA	87				tRNA-Ser(gct)
+BGBEHOIO_00931	gene	93				
+BGBEHOIO_00931	CDS	93				hypothetical protein
+BGBEHOIO_00932	gene	90				
+BGBEHOIO_00932	CDS	90				hypothetical protein
+BGBEHOIO_00933	gene	165				
+BGBEHOIO_00933	CDS	165				hypothetical protein
+BGBEHOIO_00934	gene	159				
+BGBEHOIO_00934	CDS	159				hypothetical protein

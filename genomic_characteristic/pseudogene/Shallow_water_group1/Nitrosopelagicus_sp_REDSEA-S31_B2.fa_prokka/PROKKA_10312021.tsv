@@ -1,0 +1,2631 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GHICDGJB_00001	gene	321				
+GHICDGJB_00001	CDS	321				hypothetical protein
+GHICDGJB_00002	gene	219	mdh_1			
+GHICDGJB_00002	CDS	219	mdh_1	1.1.1.37	COG0039	Malate dehydrogenase
+GHICDGJB_00003	gene	960	larC			
+GHICDGJB_00003	CDS	960	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+GHICDGJB_00004	gene	546	queC			
+GHICDGJB_00004	CDS	546	queC	6.3.4.20		7-cyano-7-deazaguanine synthase
+GHICDGJB_00005	gene	837				
+GHICDGJB_00005	CDS	837				hypothetical protein
+GHICDGJB_00006	gene	1005				
+GHICDGJB_00006	CDS	1005				hypothetical protein
+GHICDGJB_00007	gene	252				
+GHICDGJB_00007	CDS	252				hypothetical protein
+GHICDGJB_00008	gene	180				
+GHICDGJB_00008	CDS	180				hypothetical protein
+GHICDGJB_00009	gene	225				
+GHICDGJB_00009	CDS	225				hypothetical protein
+GHICDGJB_00010	gene	477				
+GHICDGJB_00010	CDS	477				hypothetical protein
+GHICDGJB_00011	gene	147				
+GHICDGJB_00011	CDS	147				hypothetical protein
+GHICDGJB_00012	gene	324				
+GHICDGJB_00012	CDS	324				hypothetical protein
+GHICDGJB_00013	gene	507				
+GHICDGJB_00013	CDS	507				hypothetical protein
+GHICDGJB_00014	gene	441				
+GHICDGJB_00014	CDS	441				hypothetical protein
+GHICDGJB_00015	gene	333				
+GHICDGJB_00015	CDS	333				hypothetical protein
+GHICDGJB_00016	gene	1329	ubiD_1			
+GHICDGJB_00016	CDS	1329	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GHICDGJB_00017	gene	1074	ccr_1			
+GHICDGJB_00017	CDS	1074	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+GHICDGJB_00018	gene	177				
+GHICDGJB_00018	CDS	177				hypothetical protein
+GHICDGJB_00019	gene	930	ctaB_1			
+GHICDGJB_00019	CDS	930	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+GHICDGJB_00020	gene	453	asnC_1			
+GHICDGJB_00020	CDS	453	asnC_1		COG1522	Regulatory protein AsnC
+GHICDGJB_00021	gene	1074	asd2			
+GHICDGJB_00021	CDS	1074	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+GHICDGJB_00022	gene	1086	cobD_1			
+GHICDGJB_00022	CDS	1086	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+GHICDGJB_00023	gene	843	cobQ			
+GHICDGJB_00023	CDS	843	cobQ			Cobyric acid synthase
+GHICDGJB_00024	gene	972	cobD_2			
+GHICDGJB_00024	CDS	972	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+GHICDGJB_00025	gene	726	cobS			
+GHICDGJB_00025	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+GHICDGJB_00026	gene	585	mobA			
+GHICDGJB_00026	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+GHICDGJB_00027	gene	198				
+GHICDGJB_00027	CDS	198				hypothetical protein
+GHICDGJB_00028	gene	282				
+GHICDGJB_00028	CDS	282				hypothetical protein
+GHICDGJB_00029	gene	1773	ade			
+GHICDGJB_00029	CDS	1773	ade	3.5.4.2	COG1001	Adenine deaminase
+GHICDGJB_00030	gene	1632	groL			
+GHICDGJB_00030	CDS	1632	groL			60 kDa chaperonin
+GHICDGJB_00031	gene	561	mak_1			
+GHICDGJB_00031	CDS	561	mak_1	2.7.1.4	COG1940	Fructokinase
+GHICDGJB_00032	gene	234	mak_2			
+GHICDGJB_00032	CDS	234	mak_2	2.7.1.4	COG1940	Fructokinase
+GHICDGJB_00033	gene	1524	guaA			
+GHICDGJB_00033	CDS	1524	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+GHICDGJB_00034	gene	591				
+GHICDGJB_00034	CDS	591				hypothetical protein
+GHICDGJB_00035	gene	201				
+GHICDGJB_00035	CDS	201				hypothetical protein
+GHICDGJB_00036	gene	282				
+GHICDGJB_00036	CDS	282				hypothetical protein
+GHICDGJB_00037	gene	879	folP			
+GHICDGJB_00037	CDS	879	folP	2.5.1.15		Dihydropteroate synthase
+GHICDGJB_00038	gene	1179	lysS			
+GHICDGJB_00038	CDS	1179	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GHICDGJB_00039	gene	198				
+GHICDGJB_00039	CDS	198				hypothetical protein
+GHICDGJB_00040	gene	723				
+GHICDGJB_00040	CDS	723				hypothetical protein
+GHICDGJB_00041	gene	441				
+GHICDGJB_00041	CDS	441				hypothetical protein
+GHICDGJB_00042	gene	99				
+GHICDGJB_00042	CDS	99				hypothetical protein
+GHICDGJB_00043	gene	144				
+GHICDGJB_00043	CDS	144				hypothetical protein
+GHICDGJB_00044	gene	837				
+GHICDGJB_00044	CDS	837				hypothetical protein
+GHICDGJB_00045	gene	1527				
+GHICDGJB_00045	CDS	1527				hypothetical protein
+GHICDGJB_00046	gene	1137	cpdA_1			
+GHICDGJB_00046	CDS	1137	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GHICDGJB_00047	gene	2082	smc_1			
+GHICDGJB_00047	CDS	2082	smc_1			Chromosome partition protein Smc
+GHICDGJB_00048	gene	498				
+GHICDGJB_00048	CDS	498				hypothetical protein
+GHICDGJB_00049	gene	657				
+GHICDGJB_00049	CDS	657				hypothetical protein
+GHICDGJB_00050	gene	780				
+GHICDGJB_00050	CDS	780				hypothetical protein
+GHICDGJB_00051	gene	465				
+GHICDGJB_00051	CDS	465				hypothetical protein
+GHICDGJB_00052	gene	147				
+GHICDGJB_00052	CDS	147				hypothetical protein
+GHICDGJB_00053	gene	618				
+GHICDGJB_00053	CDS	618				hypothetical protein
+GHICDGJB_00054	gene	303				
+GHICDGJB_00054	CDS	303				hypothetical protein
+GHICDGJB_00055	gene	1053				
+GHICDGJB_00055	CDS	1053				hypothetical protein
+GHICDGJB_00056	gene	498				
+GHICDGJB_00056	CDS	498				hypothetical protein
+GHICDGJB_00057	gene	219				
+GHICDGJB_00057	CDS	219				hypothetical protein
+GHICDGJB_00058	gene	738				
+GHICDGJB_00058	CDS	738				hypothetical protein
+GHICDGJB_00059	gene	1785	btuD			
+GHICDGJB_00059	CDS	1785	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GHICDGJB_00060	gene	113				
+GHICDGJB_00060	rRNA	113				5S ribosomal RNA
+GHICDGJB_00061	gene	129				
+GHICDGJB_00061	CDS	129				hypothetical protein
+GHICDGJB_00062	gene	315				
+GHICDGJB_00062	CDS	315				hypothetical protein
+GHICDGJB_00063	gene	468	nusA			
+GHICDGJB_00063	CDS	468	nusA			Transcription termination/antitermination protein NusA
+GHICDGJB_00064	gene	438				
+GHICDGJB_00064	CDS	438				hypothetical protein
+GHICDGJB_00065	gene	624				
+GHICDGJB_00065	CDS	624				hypothetical protein
+GHICDGJB_00066	gene	73				
+GHICDGJB_00066	tRNA	73				tRNA-Gln(ctg)
+GHICDGJB_00067	gene	321				
+GHICDGJB_00067	CDS	321				hypothetical protein
+GHICDGJB_00068	gene	705				
+GHICDGJB_00068	CDS	705				hypothetical protein
+GHICDGJB_00069	gene	1014				
+GHICDGJB_00069	CDS	1014				hypothetical protein
+GHICDGJB_00070	gene	2871	valS_1			
+GHICDGJB_00070	CDS	2871	valS_1	6.1.1.9		Valine--tRNA ligase
+GHICDGJB_00071	gene	2694	alaS			
+GHICDGJB_00071	CDS	2694	alaS	6.1.1.7		Alanine--tRNA ligase
+GHICDGJB_00072	gene	519				
+GHICDGJB_00072	CDS	519				hypothetical protein
+GHICDGJB_00073	gene	312				
+GHICDGJB_00073	CDS	312				hypothetical protein
+GHICDGJB_00074	gene	636				
+GHICDGJB_00074	CDS	636				hypothetical protein
+GHICDGJB_00075	gene	867				
+GHICDGJB_00075	CDS	867				hypothetical protein
+GHICDGJB_00076	gene	654	rplA			
+GHICDGJB_00076	CDS	654	rplA		COG0081	50S ribosomal protein L1
+GHICDGJB_00077	gene	456	asnC_2			
+GHICDGJB_00077	CDS	456	asnC_2		COG1522	Regulatory protein AsnC
+GHICDGJB_00078	gene	489	rplK			
+GHICDGJB_00078	CDS	489	rplK		COG0080	50S ribosomal protein L11
+GHICDGJB_00079	gene	456				
+GHICDGJB_00079	CDS	456				hypothetical protein
+GHICDGJB_00080	gene	168				
+GHICDGJB_00080	CDS	168				hypothetical protein
+GHICDGJB_00081	gene	777				
+GHICDGJB_00081	CDS	777				hypothetical protein
+GHICDGJB_00082	gene	300	ogt			
+GHICDGJB_00082	CDS	300	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+GHICDGJB_00083	gene	456				
+GHICDGJB_00083	CDS	456				hypothetical protein
+GHICDGJB_00084	gene	399				
+GHICDGJB_00084	CDS	399				hypothetical protein
+GHICDGJB_00085	gene	1305	pckA			
+GHICDGJB_00085	CDS	1305	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+GHICDGJB_00086	gene	2040				
+GHICDGJB_00086	CDS	2040				hypothetical protein
+GHICDGJB_00087	gene	621	sodA			
+GHICDGJB_00087	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+GHICDGJB_00088	gene	423	pfdA			
+GHICDGJB_00088	CDS	423	pfdA			Prefoldin subunit alpha
+GHICDGJB_00089	gene	1125	ftsY			
+GHICDGJB_00089	CDS	1125	ftsY			Signal recognition particle receptor FtsY
+GHICDGJB_00090	gene	921	argF			
+GHICDGJB_00090	CDS	921	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+GHICDGJB_00091	gene	486				
+GHICDGJB_00091	CDS	486				hypothetical protein
+GHICDGJB_00092	gene	705				
+GHICDGJB_00092	CDS	705				hypothetical protein
+GHICDGJB_00093	gene	504				
+GHICDGJB_00093	CDS	504				hypothetical protein
+GHICDGJB_00094	gene	480				
+GHICDGJB_00094	CDS	480				hypothetical protein
+GHICDGJB_00095	gene	669	secY_1			
+GHICDGJB_00095	CDS	669	secY_1			Protein translocase subunit SecY
+GHICDGJB_00096	gene	711	secY_2			
+GHICDGJB_00096	CDS	711	secY_2			Protein translocase subunit SecY
+GHICDGJB_00097	gene	579				
+GHICDGJB_00097	CDS	579				hypothetical protein
+GHICDGJB_00098	gene	621				
+GHICDGJB_00098	CDS	621				hypothetical protein
+GHICDGJB_00099	gene	561	cmk			
+GHICDGJB_00099	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+GHICDGJB_00100	gene	996	truB			
+GHICDGJB_00100	CDS	996	truB	5.4.99.25		tRNA pseudouridine synthase B
+GHICDGJB_00101	gene	447				
+GHICDGJB_00101	CDS	447				hypothetical protein
+GHICDGJB_00102	gene	1296	lhgD			
+GHICDGJB_00102	CDS	1296	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+GHICDGJB_00103	gene	264				
+GHICDGJB_00103	CDS	264				hypothetical protein
+GHICDGJB_00104	gene	969				
+GHICDGJB_00104	CDS	969		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+GHICDGJB_00105	gene	1911	korA			
+GHICDGJB_00105	CDS	1911	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+GHICDGJB_00106	gene	966				
+GHICDGJB_00106	CDS	966				hypothetical protein
+GHICDGJB_00107	gene	435				
+GHICDGJB_00107	CDS	435				hypothetical protein
+GHICDGJB_00108	gene	540				
+GHICDGJB_00108	CDS	540				hypothetical protein
+GHICDGJB_00109	gene	552				
+GHICDGJB_00109	CDS	552				hypothetical protein
+GHICDGJB_00110	gene	1086				
+GHICDGJB_00110	CDS	1086				hypothetical protein
+GHICDGJB_00111	gene	705				
+GHICDGJB_00111	CDS	705				hypothetical protein
+GHICDGJB_00112	gene	183				
+GHICDGJB_00112	CDS	183				hypothetical protein
+GHICDGJB_00113	gene	486				
+GHICDGJB_00113	CDS	486				hypothetical protein
+GHICDGJB_00114	gene	1713	frdA			
+GHICDGJB_00114	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+GHICDGJB_00115	gene	441				
+GHICDGJB_00115	CDS	441				hypothetical protein
+GHICDGJB_00116	gene	354				
+GHICDGJB_00116	CDS	354				hypothetical protein
+GHICDGJB_00117	gene	777	frdB			
+GHICDGJB_00117	CDS	777	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+GHICDGJB_00118	gene	324				
+GHICDGJB_00118	CDS	324				hypothetical protein
+GHICDGJB_00119	gene	1461	argH			
+GHICDGJB_00119	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GHICDGJB_00120	gene	75				
+GHICDGJB_00120	tRNA	75				tRNA-Lys(ttt)
+GHICDGJB_00121	gene	78				
+GHICDGJB_00121	tRNA	78				tRNA-Asp(gtc)
+GHICDGJB_00122	gene	675				
+GHICDGJB_00122	CDS	675				hypothetical protein
+GHICDGJB_00123	gene	1071	hemA_1			
+GHICDGJB_00123	CDS	1071	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GHICDGJB_00124	gene	165				
+GHICDGJB_00124	CDS	165				hypothetical protein
+GHICDGJB_00125	gene	837	nqrF			
+GHICDGJB_00125	CDS	837	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+GHICDGJB_00126	gene	549	suhB			
+GHICDGJB_00126	CDS	549	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+GHICDGJB_00127	gene	321				
+GHICDGJB_00127	CDS	321				hypothetical protein
+GHICDGJB_00128	gene	441				
+GHICDGJB_00128	CDS	441				hypothetical protein
+GHICDGJB_00129	gene	1122				
+GHICDGJB_00129	CDS	1122				hypothetical protein
+GHICDGJB_00130	gene	1161				
+GHICDGJB_00130	CDS	1161				hypothetical protein
+GHICDGJB_00131	gene	318				
+GHICDGJB_00131	CDS	318				hypothetical protein
+GHICDGJB_00132	gene	1548	pccB			
+GHICDGJB_00132	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+GHICDGJB_00133	gene	963	cfiB_1			
+GHICDGJB_00133	CDS	963	cfiB_1	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+GHICDGJB_00134	gene	390				
+GHICDGJB_00134	CDS	390				hypothetical protein
+GHICDGJB_00135	gene	513				
+GHICDGJB_00135	CDS	513				hypothetical protein
+GHICDGJB_00136	gene	471	bcp_1			
+GHICDGJB_00136	CDS	471	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GHICDGJB_00137	gene	381	ndhC			
+GHICDGJB_00137	CDS	381	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+GHICDGJB_00138	gene	516	nuoB			
+GHICDGJB_00138	CDS	516	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+GHICDGJB_00139	gene	570	ndhJ			
+GHICDGJB_00139	CDS	570	ndhJ	7.1.1.-	COG0852	NAD(P)H-quinone oxidoreductase subunit J
+GHICDGJB_00140	gene	1149	ndhH			
+GHICDGJB_00140	CDS	1149	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+GHICDGJB_00141	gene	1377	ndhA			
+GHICDGJB_00141	CDS	1377	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+GHICDGJB_00142	gene	498	nuoI			
+GHICDGJB_00142	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+GHICDGJB_00143	gene	516				
+GHICDGJB_00143	CDS	516				hypothetical protein
+GHICDGJB_00144	gene	306	nuoK			
+GHICDGJB_00144	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+GHICDGJB_00145	gene	1557	mrpA			
+GHICDGJB_00145	CDS	1557	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+GHICDGJB_00146	gene	825	ndhB_1			
+GHICDGJB_00146	CDS	825	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GHICDGJB_00147	gene	1104	ndhB_2			
+GHICDGJB_00147	CDS	1104	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GHICDGJB_00148	gene	1200	ndhB_3			
+GHICDGJB_00148	CDS	1200	ndhB_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GHICDGJB_00149	gene	165				
+GHICDGJB_00149	CDS	165				hypothetical protein
+GHICDGJB_00150	gene	852				
+GHICDGJB_00150	CDS	852				hypothetical protein
+GHICDGJB_00151	gene	75				
+GHICDGJB_00151	tRNA	75				tRNA-Glu(ttc)
+GHICDGJB_00152	gene	636				
+GHICDGJB_00152	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+GHICDGJB_00153	gene	75				
+GHICDGJB_00153	tRNA	75				tRNA-Met(cat)
+GHICDGJB_00154	gene	603	pyrE			
+GHICDGJB_00154	CDS	603	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GHICDGJB_00155	gene	1149				
+GHICDGJB_00155	CDS	1149				hypothetical protein
+GHICDGJB_00156	gene	1362	aspA			
+GHICDGJB_00156	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+GHICDGJB_00157	gene	1269	miaB			
+GHICDGJB_00157	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GHICDGJB_00158	gene	945	ftsZ			
+GHICDGJB_00158	CDS	945	ftsZ			Cell division protein FtsZ
+GHICDGJB_00159	gene	507				
+GHICDGJB_00159	CDS	507				hypothetical protein
+GHICDGJB_00160	gene	159				
+GHICDGJB_00160	CDS	159				hypothetical protein
+GHICDGJB_00161	gene	2502	metH_1			
+GHICDGJB_00161	CDS	2502	metH_1	2.1.1.13	COG0646	Methionine synthase
+GHICDGJB_00162	gene	873	metH_2			
+GHICDGJB_00162	CDS	873	metH_2	2.1.1.13	COG0646	Methionine synthase
+GHICDGJB_00163	gene	762	crt			
+GHICDGJB_00163	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+GHICDGJB_00164	gene	234				
+GHICDGJB_00164	CDS	234				hypothetical protein
+GHICDGJB_00165	gene	1602				
+GHICDGJB_00165	CDS	1602				hypothetical protein
+GHICDGJB_00166	gene	1275	gdhA			
+GHICDGJB_00166	CDS	1275	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+GHICDGJB_00167	gene	879	hldD			
+GHICDGJB_00167	CDS	879	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+GHICDGJB_00168	gene	726	prcA_1			
+GHICDGJB_00168	CDS	726	prcA_1	3.4.25.1	COG0638	Proteasome subunit alpha
+GHICDGJB_00169	gene	1638	COQ5_1			
+GHICDGJB_00169	CDS	1638	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHICDGJB_00170	gene	354	tatA_1			
+GHICDGJB_00170	CDS	354	tatA_1			Sec-independent protein translocase protein TatA
+GHICDGJB_00171	gene	798	dpnA			
+GHICDGJB_00171	CDS	798	dpnA	2.1.1.72		Modification methylase DpnIIB
+GHICDGJB_00172	gene	195				
+GHICDGJB_00172	CDS	195				hypothetical protein
+GHICDGJB_00173	gene	834	cpnA			
+GHICDGJB_00173	CDS	834	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+GHICDGJB_00174	gene	1671				
+GHICDGJB_00174	CDS	1671				hypothetical protein
+GHICDGJB_00175	gene	846				
+GHICDGJB_00175	CDS	846				hypothetical protein
+GHICDGJB_00176	gene	1446	glnA_1			
+GHICDGJB_00176	CDS	1446	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+GHICDGJB_00177	gene	822				
+GHICDGJB_00177	CDS	822				hypothetical protein
+GHICDGJB_00178	gene	459				
+GHICDGJB_00178	CDS	459				hypothetical protein
+GHICDGJB_00179	gene	1035	hicd_1			
+GHICDGJB_00179	CDS	1035	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+GHICDGJB_00180	gene	561	prmC			
+GHICDGJB_00180	CDS	561	prmC	2.1.1.297		Release factor glutamine methyltransferase
+GHICDGJB_00181	gene	705	rsmA			
+GHICDGJB_00181	CDS	705	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+GHICDGJB_00182	gene	567				
+GHICDGJB_00182	CDS	567				hypothetical protein
+GHICDGJB_00183	gene	327				
+GHICDGJB_00183	CDS	327				hypothetical protein
+GHICDGJB_00184	gene	300				
+GHICDGJB_00184	CDS	300				hypothetical protein
+GHICDGJB_00185	gene	1074	recA			
+GHICDGJB_00185	CDS	1074	recA			Protein RecA
+GHICDGJB_00186	gene	204				
+GHICDGJB_00186	CDS	204				hypothetical protein
+GHICDGJB_00187	gene	1737				
+GHICDGJB_00187	CDS	1737				hypothetical protein
+GHICDGJB_00188	gene	819				
+GHICDGJB_00188	CDS	819			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+GHICDGJB_00189	gene	912	pyrD			
+GHICDGJB_00189	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GHICDGJB_00190	gene	1236				
+GHICDGJB_00190	CDS	1236				hypothetical protein
+GHICDGJB_00191	gene	672				
+GHICDGJB_00191	CDS	672				hypothetical protein
+GHICDGJB_00192	gene	624	rnhB			
+GHICDGJB_00192	CDS	624	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GHICDGJB_00193	gene	1140	trm1			
+GHICDGJB_00193	CDS	1140	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+GHICDGJB_00194	gene	435				
+GHICDGJB_00194	CDS	435				hypothetical protein
+GHICDGJB_00195	gene	1338	gerN_1			
+GHICDGJB_00195	CDS	1338	gerN_1		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GHICDGJB_00196	gene	1212				
+GHICDGJB_00196	CDS	1212				hypothetical protein
+GHICDGJB_00197	gene	1929				
+GHICDGJB_00197	CDS	1929				hypothetical protein
+GHICDGJB_00198	gene	954				
+GHICDGJB_00198	CDS	954				hypothetical protein
+GHICDGJB_00199	gene	816	nadK_1			
+GHICDGJB_00199	CDS	816	nadK_1	2.7.1.23		NAD kinase
+GHICDGJB_00200	gene	486				
+GHICDGJB_00200	CDS	486				hypothetical protein
+GHICDGJB_00201	gene	687				
+GHICDGJB_00201	CDS	687				hypothetical protein
+GHICDGJB_00202	gene	381				
+GHICDGJB_00202	CDS	381				hypothetical protein
+GHICDGJB_00203	gene	246				
+GHICDGJB_00203	CDS	246				hypothetical protein
+GHICDGJB_00204	gene	210				
+GHICDGJB_00204	CDS	210				hypothetical protein
+GHICDGJB_00205	gene	807	rph_1			
+GHICDGJB_00205	CDS	807	rph_1	2.7.7.56		Ribonuclease PH
+GHICDGJB_00206	gene	738	rph_2			
+GHICDGJB_00206	CDS	738	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+GHICDGJB_00207	gene	681				
+GHICDGJB_00207	CDS	681				hypothetical protein
+GHICDGJB_00208	gene	708				
+GHICDGJB_00208	CDS	708				hypothetical protein
+GHICDGJB_00209	gene	603				
+GHICDGJB_00209	CDS	603				hypothetical protein
+GHICDGJB_00210	gene	348				
+GHICDGJB_00210	CDS	348				hypothetical protein
+GHICDGJB_00211	gene	501				
+GHICDGJB_00211	CDS	501				hypothetical protein
+GHICDGJB_00212	gene	453	rpsI			
+GHICDGJB_00212	CDS	453	rpsI		COG0103	30S ribosomal protein S9
+GHICDGJB_00213	gene	237	leuD			
+GHICDGJB_00213	CDS	237	leuD	4.2.1.33		3-isopropylmalate dehydratase small subunit
+GHICDGJB_00214	gene	639	idi			
+GHICDGJB_00214	CDS	639	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+GHICDGJB_00215	gene	984	hexs-b			
+GHICDGJB_00215	CDS	984	hexs-b	2.5.1.83		Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+GHICDGJB_00216	gene	270				
+GHICDGJB_00216	CDS	270				hypothetical protein
+GHICDGJB_00217	gene	1053	cpoB_1			
+GHICDGJB_00217	CDS	1053	cpoB_1			Cell division coordinator CpoB
+GHICDGJB_00218	gene	855	znuB			
+GHICDGJB_00218	CDS	855	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GHICDGJB_00219	gene	816	scaC			
+GHICDGJB_00219	CDS	816	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+GHICDGJB_00220	gene	219				
+GHICDGJB_00220	CDS	219				hypothetical protein
+GHICDGJB_00221	gene	1419				
+GHICDGJB_00221	CDS	1419				hypothetical protein
+GHICDGJB_00222	gene	99				
+GHICDGJB_00222	CDS	99				hypothetical protein
+GHICDGJB_00223	gene	1098				
+GHICDGJB_00223	CDS	1098		1.-.-.-	COG0492	Putative flavoprotein monooxygenase
+GHICDGJB_00224	gene	801				
+GHICDGJB_00224	CDS	801				hypothetical protein
+GHICDGJB_00225	gene	1635	era			
+GHICDGJB_00225	CDS	1635	era			GTPase Era
+GHICDGJB_00226	gene	333				
+GHICDGJB_00226	CDS	333				hypothetical protein
+GHICDGJB_00227	gene	384	nikR			
+GHICDGJB_00227	CDS	384	nikR			Nickel-responsive regulator
+GHICDGJB_00228	gene	1719	glnS			
+GHICDGJB_00228	CDS	1719	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+GHICDGJB_00229	gene	864				
+GHICDGJB_00229	CDS	864				hypothetical protein
+GHICDGJB_00230	gene	807				
+GHICDGJB_00230	CDS	807				hypothetical protein
+GHICDGJB_00231	gene	309	bphA3_1			
+GHICDGJB_00231	CDS	309	bphA3_1			Biphenyl 2,3-dioxygenase, ferredoxin component
+GHICDGJB_00232	gene	264				
+GHICDGJB_00232	CDS	264				hypothetical protein
+GHICDGJB_00233	gene	762	cmoA_1			
+GHICDGJB_00233	CDS	762	cmoA_1	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+GHICDGJB_00234	gene	348				
+GHICDGJB_00234	CDS	348				hypothetical protein
+GHICDGJB_00235	gene	74				
+GHICDGJB_00235	tRNA	74				tRNA-His(gtg)
+GHICDGJB_00236	gene	1044				
+GHICDGJB_00236	CDS	1044				hypothetical protein
+GHICDGJB_00237	gene	948				
+GHICDGJB_00237	CDS	948				hypothetical protein
+GHICDGJB_00238	gene	795				
+GHICDGJB_00238	CDS	795				hypothetical protein
+GHICDGJB_00239	gene	831	thi4_1			
+GHICDGJB_00239	CDS	831	thi4_1	2.4.2.59		Thiamine thiazole synthase
+GHICDGJB_00240	gene	1803	sir			
+GHICDGJB_00240	CDS	1803	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+GHICDGJB_00241	gene	807	rhdA			
+GHICDGJB_00241	CDS	807	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+GHICDGJB_00242	gene	207				
+GHICDGJB_00242	CDS	207				hypothetical protein
+GHICDGJB_00243	gene	852				
+GHICDGJB_00243	CDS	852				hypothetical protein
+GHICDGJB_00244	gene	153				
+GHICDGJB_00244	CDS	153				hypothetical protein
+GHICDGJB_00245	gene	1041				
+GHICDGJB_00245	CDS	1041				hypothetical protein
+GHICDGJB_00246	gene	726				
+GHICDGJB_00246	CDS	726				hypothetical protein
+GHICDGJB_00247	gene	144				
+GHICDGJB_00247	CDS	144				hypothetical protein
+GHICDGJB_00248	gene	1473				
+GHICDGJB_00248	CDS	1473				hypothetical protein
+GHICDGJB_00249	gene	120				
+GHICDGJB_00249	CDS	120				hypothetical protein
+GHICDGJB_00250	gene	348	mntR			
+GHICDGJB_00250	CDS	348	mntR		COG1321	HTH-type transcriptional regulator MntR
+GHICDGJB_00251	gene	441				
+GHICDGJB_00251	CDS	441				hypothetical protein
+GHICDGJB_00252	gene	1047	atpC			
+GHICDGJB_00252	CDS	1047	atpC			V-type ATP synthase subunit C
+GHICDGJB_00253	gene	438				
+GHICDGJB_00253	CDS	438				hypothetical protein
+GHICDGJB_00254	gene	657				
+GHICDGJB_00254	CDS	657				hypothetical protein
+GHICDGJB_00255	gene	114				
+GHICDGJB_00255	CDS	114				hypothetical protein
+GHICDGJB_00256	gene	552				
+GHICDGJB_00256	CDS	552				hypothetical protein
+GHICDGJB_00257	gene	357				
+GHICDGJB_00257	CDS	357				hypothetical protein
+GHICDGJB_00258	gene	606				
+GHICDGJB_00258	CDS	606				hypothetical protein
+GHICDGJB_00259	gene	492				
+GHICDGJB_00259	CDS	492				hypothetical protein
+GHICDGJB_00260	gene	684	pyrH			
+GHICDGJB_00260	CDS	684	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GHICDGJB_00261	gene	1239				
+GHICDGJB_00261	CDS	1239				hypothetical protein
+GHICDGJB_00262	gene	582	tmk			
+GHICDGJB_00262	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+GHICDGJB_00263	gene	129				
+GHICDGJB_00263	CDS	129				hypothetical protein
+GHICDGJB_00264	gene	1551	ubiB			
+GHICDGJB_00264	CDS	1551	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+GHICDGJB_00265	gene	135				
+GHICDGJB_00265	CDS	135				hypothetical protein
+GHICDGJB_00266	gene	396				
+GHICDGJB_00266	CDS	396				hypothetical protein
+GHICDGJB_00267	gene	825				
+GHICDGJB_00267	CDS	825				hypothetical protein
+GHICDGJB_00268	gene	648				
+GHICDGJB_00268	CDS	648				hypothetical protein
+GHICDGJB_00269	gene	885				
+GHICDGJB_00269	CDS	885				hypothetical protein
+GHICDGJB_00270	gene	648				
+GHICDGJB_00270	CDS	648				hypothetical protein
+GHICDGJB_00271	gene	2778	vgb_1			
+GHICDGJB_00271	CDS	2778	vgb_1	4.2.99.-		Virginiamycin B lyase
+GHICDGJB_00272	gene	1239				
+GHICDGJB_00272	CDS	1239				hypothetical protein
+GHICDGJB_00273	gene	930	pyrB			
+GHICDGJB_00273	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+GHICDGJB_00274	gene	471	pyrI			
+GHICDGJB_00274	CDS	471	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+GHICDGJB_00275	gene	339	atpH			
+GHICDGJB_00275	CDS	339	atpH			ATP synthase subunit c
+GHICDGJB_00276	gene	132				
+GHICDGJB_00276	CDS	132				hypothetical protein
+GHICDGJB_00277	gene	348				
+GHICDGJB_00277	CDS	348				hypothetical protein
+GHICDGJB_00278	gene	150				
+GHICDGJB_00278	CDS	150				hypothetical protein
+GHICDGJB_00279	gene	381				
+GHICDGJB_00279	CDS	381				hypothetical protein
+GHICDGJB_00280	gene	180				
+GHICDGJB_00280	CDS	180				hypothetical protein
+GHICDGJB_00281	gene	156				
+GHICDGJB_00281	CDS	156				hypothetical protein
+GHICDGJB_00282	gene	222				
+GHICDGJB_00282	CDS	222				hypothetical protein
+GHICDGJB_00283	gene	240				
+GHICDGJB_00283	CDS	240				hypothetical protein
+GHICDGJB_00284	gene	183				
+GHICDGJB_00284	CDS	183				hypothetical protein
+GHICDGJB_00285	gene	76				
+GHICDGJB_00285	tRNA	76				tRNA-Phe(gaa)
+GHICDGJB_00286	gene	537	yvqK			
+GHICDGJB_00286	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+GHICDGJB_00287	gene	435				
+GHICDGJB_00287	CDS	435				hypothetical protein
+GHICDGJB_00288	gene	525				
+GHICDGJB_00288	CDS	525				hypothetical protein
+GHICDGJB_00289	gene	234				
+GHICDGJB_00289	CDS	234				hypothetical protein
+GHICDGJB_00290	gene	339				
+GHICDGJB_00290	CDS	339				hypothetical protein
+GHICDGJB_00291	gene	348				
+GHICDGJB_00291	CDS	348				hypothetical protein
+GHICDGJB_00292	gene	1224				
+GHICDGJB_00292	CDS	1224				hypothetical protein
+GHICDGJB_00293	gene	333	hisI			
+GHICDGJB_00293	CDS	333	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+GHICDGJB_00294	gene	1407	gatB			
+GHICDGJB_00294	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GHICDGJB_00295	gene	1449	gatA			
+GHICDGJB_00295	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GHICDGJB_00296	gene	267				
+GHICDGJB_00296	CDS	267				hypothetical protein
+GHICDGJB_00297	gene	1311	aspS2_1			
+GHICDGJB_00297	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+GHICDGJB_00298	gene	207				
+GHICDGJB_00298	CDS	207				hypothetical protein
+GHICDGJB_00299	gene	1026				
+GHICDGJB_00299	CDS	1026				hypothetical protein
+GHICDGJB_00300	gene	417	mhqP			
+GHICDGJB_00300	CDS	417	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+GHICDGJB_00301	gene	435				
+GHICDGJB_00301	CDS	435		2.3.1.-		Acetyltransferase
+GHICDGJB_00302	gene	387				
+GHICDGJB_00302	CDS	387				hypothetical protein
+GHICDGJB_00303	gene	339				
+GHICDGJB_00303	CDS	339				hypothetical protein
+GHICDGJB_00304	gene	294				
+GHICDGJB_00304	CDS	294				hypothetical protein
+GHICDGJB_00305	gene	585	bdbD			
+GHICDGJB_00305	CDS	585	bdbD		COG1651	Disulfide bond formation protein D
+GHICDGJB_00306	gene	1278				
+GHICDGJB_00306	CDS	1278				hypothetical protein
+GHICDGJB_00307	gene	405				
+GHICDGJB_00307	CDS	405				hypothetical protein
+GHICDGJB_00308	gene	600				
+GHICDGJB_00308	CDS	600				hypothetical protein
+GHICDGJB_00309	gene	1680	ilvD			
+GHICDGJB_00309	CDS	1680	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+GHICDGJB_00310	gene	213				
+GHICDGJB_00310	CDS	213				hypothetical protein
+GHICDGJB_00311	gene	1401	pabB			
+GHICDGJB_00311	CDS	1401	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+GHICDGJB_00312	gene	600	trpG_1			
+GHICDGJB_00312	CDS	600	trpG_1	4.1.3.27	COG0512	Anthranilate synthase component 2
+GHICDGJB_00313	gene	1020	trpD			
+GHICDGJB_00313	CDS	1020	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+GHICDGJB_00314	gene	774	trpC			
+GHICDGJB_00314	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+GHICDGJB_00315	gene	1176	trpB			
+GHICDGJB_00315	CDS	1176	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+GHICDGJB_00316	gene	801	trpA			
+GHICDGJB_00316	CDS	801	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+GHICDGJB_00317	gene	159				
+GHICDGJB_00317	CDS	159				hypothetical protein
+GHICDGJB_00318	gene	759				
+GHICDGJB_00318	CDS	759				hypothetical protein
+GHICDGJB_00319	gene	1650	metG_1			
+GHICDGJB_00319	CDS	1650	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+GHICDGJB_00320	gene	1239	ahcY			
+GHICDGJB_00320	CDS	1239	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+GHICDGJB_00321	gene	306	bphA3_2			
+GHICDGJB_00321	CDS	306	bphA3_2			Biphenyl dioxygenase ferredoxin subunit
+GHICDGJB_00322	gene	783	nadE			
+GHICDGJB_00322	CDS	783	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+GHICDGJB_00323	gene	1395	cysS			
+GHICDGJB_00323	CDS	1395	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+GHICDGJB_00324	gene	432				
+GHICDGJB_00324	CDS	432				hypothetical protein
+GHICDGJB_00325	gene	1023				
+GHICDGJB_00325	CDS	1023				hypothetical protein
+GHICDGJB_00326	gene	219				
+GHICDGJB_00326	CDS	219				hypothetical protein
+GHICDGJB_00327	gene	177				
+GHICDGJB_00327	CDS	177				hypothetical protein
+GHICDGJB_00328	gene	1920	acsA			
+GHICDGJB_00328	CDS	1920	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GHICDGJB_00329	gene	807				
+GHICDGJB_00329	CDS	807				hypothetical protein
+GHICDGJB_00330	gene	312				
+GHICDGJB_00330	CDS	312				hypothetical protein
+GHICDGJB_00331	gene	1611	thyX			
+GHICDGJB_00331	CDS	1611	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+GHICDGJB_00332	gene	399	msrB			
+GHICDGJB_00332	CDS	399	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+GHICDGJB_00333	gene	1011				
+GHICDGJB_00333	CDS	1011				hypothetical protein
+GHICDGJB_00334	gene	471				
+GHICDGJB_00334	CDS	471				hypothetical protein
+GHICDGJB_00335	gene	594	prcB_1			
+GHICDGJB_00335	CDS	594	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+GHICDGJB_00336	gene	393				
+GHICDGJB_00336	CDS	393				hypothetical protein
+GHICDGJB_00337	gene	1362	dapE			
+GHICDGJB_00337	CDS	1362	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+GHICDGJB_00338	gene	252				
+GHICDGJB_00338	CDS	252				hypothetical protein
+GHICDGJB_00339	gene	969				
+GHICDGJB_00339	CDS	969				hypothetical protein
+GHICDGJB_00340	gene	1164	zupT			
+GHICDGJB_00340	CDS	1164	zupT			Zinc transporter ZupT
+GHICDGJB_00341	gene	1068				
+GHICDGJB_00341	CDS	1068				hypothetical protein
+GHICDGJB_00342	gene	507				
+GHICDGJB_00342	CDS	507				hypothetical protein
+GHICDGJB_00343	gene	315				
+GHICDGJB_00343	CDS	315				hypothetical protein
+GHICDGJB_00344	gene	594				
+GHICDGJB_00344	CDS	594				hypothetical protein
+GHICDGJB_00345	gene	615				
+GHICDGJB_00345	CDS	615				hypothetical protein
+GHICDGJB_00346	gene	1758	glmS			
+GHICDGJB_00346	CDS	1758	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GHICDGJB_00347	gene	1056	cobT			
+GHICDGJB_00347	CDS	1056	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+GHICDGJB_00348	gene	582	pksB			
+GHICDGJB_00348	CDS	582	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+GHICDGJB_00349	gene	657	nnr_1			
+GHICDGJB_00349	CDS	657	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GHICDGJB_00350	gene	618				
+GHICDGJB_00350	CDS	618				hypothetical protein
+GHICDGJB_00351	gene	88				
+GHICDGJB_00351	tRNA	88				tRNA-Leu(gag)
+GHICDGJB_00352	gene	237				
+GHICDGJB_00352	CDS	237				hypothetical protein
+GHICDGJB_00353	gene	1239	eno			
+GHICDGJB_00353	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+GHICDGJB_00354	gene	618				
+GHICDGJB_00354	CDS	618				hypothetical protein
+GHICDGJB_00355	gene	948	galK			
+GHICDGJB_00355	CDS	948	galK	2.7.1.6		Galactokinase
+GHICDGJB_00356	gene	144				
+GHICDGJB_00356	CDS	144				hypothetical protein
+GHICDGJB_00357	gene	348				
+GHICDGJB_00357	CDS	348				hypothetical protein
+GHICDGJB_00358	gene	648				
+GHICDGJB_00358	CDS	648				hypothetical protein
+GHICDGJB_00359	gene	285				
+GHICDGJB_00359	CDS	285				hypothetical protein
+GHICDGJB_00360	gene	321				
+GHICDGJB_00360	CDS	321				hypothetical protein
+GHICDGJB_00361	gene	2025				
+GHICDGJB_00361	CDS	2025				hypothetical protein
+GHICDGJB_00362	gene	234				
+GHICDGJB_00362	CDS	234				hypothetical protein
+GHICDGJB_00363	gene	1071	adhT			
+GHICDGJB_00363	CDS	1071	adhT	1.1.1.1		Alcohol dehydrogenase
+GHICDGJB_00364	gene	153				
+GHICDGJB_00364	CDS	153				hypothetical protein
+GHICDGJB_00365	gene	237				
+GHICDGJB_00365	CDS	237				hypothetical protein
+GHICDGJB_00366	gene	324				
+GHICDGJB_00366	CDS	324				hypothetical protein
+GHICDGJB_00367	gene	609				
+GHICDGJB_00367	CDS	609				hypothetical protein
+GHICDGJB_00368	gene	579				
+GHICDGJB_00368	CDS	579				hypothetical protein
+GHICDGJB_00369	gene	207				
+GHICDGJB_00369	CDS	207				hypothetical protein
+GHICDGJB_00370	gene	459	msrA			
+GHICDGJB_00370	CDS	459	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+GHICDGJB_00371	gene	1197	truD			
+GHICDGJB_00371	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+GHICDGJB_00372	gene	1611	vgb_2			
+GHICDGJB_00372	CDS	1611	vgb_2	4.2.99.-		Virginiamycin B lyase
+GHICDGJB_00373	gene	354				
+GHICDGJB_00373	CDS	354				hypothetical protein
+GHICDGJB_00374	gene	1161				
+GHICDGJB_00374	CDS	1161				hypothetical protein
+GHICDGJB_00375	gene	180				
+GHICDGJB_00375	CDS	180				hypothetical protein
+GHICDGJB_00376	gene	216				
+GHICDGJB_00376	CDS	216				hypothetical protein
+GHICDGJB_00377	gene	327				
+GHICDGJB_00377	CDS	327				hypothetical protein
+GHICDGJB_00378	gene	567				
+GHICDGJB_00378	CDS	567			COG3253	putative protein
+GHICDGJB_00379	gene	771	sufC			
+GHICDGJB_00379	CDS	771	sufC		COG0396	Vegetative protein 296
+GHICDGJB_00380	gene	963				
+GHICDGJB_00380	CDS	963				hypothetical protein
+GHICDGJB_00381	gene	243				
+GHICDGJB_00381	CDS	243				hypothetical protein
+GHICDGJB_00382	gene	135				
+GHICDGJB_00382	CDS	135				hypothetical protein
+GHICDGJB_00383	gene	384				
+GHICDGJB_00383	CDS	384				hypothetical protein
+GHICDGJB_00384	gene	561	scpB			
+GHICDGJB_00384	CDS	561	scpB			Segregation and condensation protein B
+GHICDGJB_00385	gene	732				
+GHICDGJB_00385	CDS	732				hypothetical protein
+GHICDGJB_00386	gene	1050				
+GHICDGJB_00386	CDS	1050		1.1.1.1		Alcohol dehydrogenase
+GHICDGJB_00387	gene	135				
+GHICDGJB_00387	CDS	135				hypothetical protein
+GHICDGJB_00388	gene	303				
+GHICDGJB_00388	CDS	303				hypothetical protein
+GHICDGJB_00389	gene	120				
+GHICDGJB_00389	CDS	120				hypothetical protein
+GHICDGJB_00390	gene	690				
+GHICDGJB_00390	CDS	690				hypothetical protein
+GHICDGJB_00391	gene	1326	ffh			
+GHICDGJB_00391	CDS	1326	ffh		COG0541	Signal recognition particle protein
+GHICDGJB_00392	gene	765	fbiB_1			
+GHICDGJB_00392	CDS	765	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+GHICDGJB_00393	gene	1272	dmdA			
+GHICDGJB_00393	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+GHICDGJB_00394	gene	483	DmdB			
+GHICDGJB_00394	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+GHICDGJB_00395	gene	1410	leuC			
+GHICDGJB_00395	CDS	1410	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+GHICDGJB_00396	gene	288				
+GHICDGJB_00396	CDS	288				hypothetical protein
+GHICDGJB_00397	gene	534				
+GHICDGJB_00397	CDS	534				hypothetical protein
+GHICDGJB_00398	gene	77				
+GHICDGJB_00398	tRNA	77				tRNA-Ala(ggc)
+GHICDGJB_00399	gene	843	fpr			
+GHICDGJB_00399	CDS	843	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+GHICDGJB_00400	gene	519				
+GHICDGJB_00400	CDS	519				hypothetical protein
+GHICDGJB_00401	gene	915	ilvE_1			
+GHICDGJB_00401	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GHICDGJB_00402	gene	936	iolG			
+GHICDGJB_00402	CDS	936	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+GHICDGJB_00403	gene	270				
+GHICDGJB_00403	CDS	270				hypothetical protein
+GHICDGJB_00404	gene	498	fdtC			
+GHICDGJB_00404	CDS	498	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+GHICDGJB_00405	gene	519	ftnA			
+GHICDGJB_00405	CDS	519	ftnA	1.16.3.2	COG1528	Bacterial non-heme ferritin
+GHICDGJB_00406	gene	1542				
+GHICDGJB_00406	CDS	1542				hypothetical protein
+GHICDGJB_00407	gene	453				
+GHICDGJB_00407	CDS	453				hypothetical protein
+GHICDGJB_00408	gene	564				
+GHICDGJB_00408	CDS	564				hypothetical protein
+GHICDGJB_00409	gene	360				
+GHICDGJB_00409	CDS	360				hypothetical protein
+GHICDGJB_00410	gene	663	tal			
+GHICDGJB_00410	CDS	663	tal	2.2.1.2	COG0176	Transaldolase
+GHICDGJB_00411	gene	969	aptB			
+GHICDGJB_00411	CDS	969	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+GHICDGJB_00412	gene	1668	dxs			
+GHICDGJB_00412	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+GHICDGJB_00413	gene	387				
+GHICDGJB_00413	CDS	387				hypothetical protein
+GHICDGJB_00414	gene	1482	pepA			
+GHICDGJB_00414	CDS	1482	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+GHICDGJB_00415	gene	231				
+GHICDGJB_00415	CDS	231				hypothetical protein
+GHICDGJB_00416	gene	732	mraY			
+GHICDGJB_00416	CDS	732	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GHICDGJB_00417	gene	2139	srmB			
+GHICDGJB_00417	CDS	2139	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+GHICDGJB_00418	gene	2079				
+GHICDGJB_00418	CDS	2079				hypothetical protein
+GHICDGJB_00419	gene	516				
+GHICDGJB_00419	CDS	516				hypothetical protein
+GHICDGJB_00420	gene	957	ruvB			
+GHICDGJB_00420	CDS	957	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GHICDGJB_00421	gene	291				
+GHICDGJB_00421	CDS	291				hypothetical protein
+GHICDGJB_00422	gene	86				
+GHICDGJB_00422	tRNA	86				tRNA-Ser(tga)
+GHICDGJB_00423	gene	558				
+GHICDGJB_00423	CDS	558				hypothetical protein
+GHICDGJB_00424	gene	465				
+GHICDGJB_00424	CDS	465				hypothetical protein
+GHICDGJB_00425	gene	360				
+GHICDGJB_00425	CDS	360				hypothetical protein
+GHICDGJB_00426	gene	282	dnaJ_1			
+GHICDGJB_00426	CDS	282	dnaJ_1			Chaperone protein DnaJ
+GHICDGJB_00427	gene	246				
+GHICDGJB_00427	CDS	246				hypothetical protein
+GHICDGJB_00428	gene	411	hit			
+GHICDGJB_00428	CDS	411	hit		COG0537	Protein hit
+GHICDGJB_00429	gene	285				
+GHICDGJB_00429	CDS	285				hypothetical protein
+GHICDGJB_00430	gene	135				
+GHICDGJB_00430	CDS	135				hypothetical protein
+GHICDGJB_00431	gene	1017	dppB			
+GHICDGJB_00431	CDS	1017	dppB		COG0601	Dipeptide transport system permease protein DppB
+GHICDGJB_00432	gene	933				
+GHICDGJB_00432	CDS	933				hypothetical protein
+GHICDGJB_00433	gene	549	oppC			
+GHICDGJB_00433	CDS	549	oppC		COG1173	Oligopeptide transport system permease protein OppC
+GHICDGJB_00434	gene	549				
+GHICDGJB_00434	CDS	549				hypothetical protein
+GHICDGJB_00435	gene	816	pheA			
+GHICDGJB_00435	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+GHICDGJB_00436	gene	471				
+GHICDGJB_00436	CDS	471				hypothetical protein
+GHICDGJB_00437	gene	480	guaB			
+GHICDGJB_00437	CDS	480	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+GHICDGJB_00438	gene	975				
+GHICDGJB_00438	CDS	975				hypothetical protein
+GHICDGJB_00439	gene	288				
+GHICDGJB_00439	CDS	288				hypothetical protein
+GHICDGJB_00440	gene	759				
+GHICDGJB_00440	CDS	759				hypothetical protein
+GHICDGJB_00441	gene	333				
+GHICDGJB_00441	CDS	333				hypothetical protein
+GHICDGJB_00442	gene	108				
+GHICDGJB_00442	CDS	108				hypothetical protein
+GHICDGJB_00443	gene	237				
+GHICDGJB_00443	CDS	237				hypothetical protein
+GHICDGJB_00444	gene	261	pgk_1			
+GHICDGJB_00444	CDS	261	pgk_1	2.7.2.3	COG0126	Phosphoglycerate kinase
+GHICDGJB_00445	gene	828	pgk_2			
+GHICDGJB_00445	CDS	828	pgk_2	2.7.2.3	COG0126	Phosphoglycerate kinase
+GHICDGJB_00446	gene	672				
+GHICDGJB_00446	CDS	672				hypothetical protein
+GHICDGJB_00447	gene	321				
+GHICDGJB_00447	CDS	321				hypothetical protein
+GHICDGJB_00448	gene	495				
+GHICDGJB_00448	CDS	495				hypothetical protein
+GHICDGJB_00449	gene	291				
+GHICDGJB_00449	CDS	291				hypothetical protein
+GHICDGJB_00450	gene	354				
+GHICDGJB_00450	CDS	354				hypothetical protein
+GHICDGJB_00451	gene	1176				
+GHICDGJB_00451	CDS	1176				hypothetical protein
+GHICDGJB_00452	gene	399				
+GHICDGJB_00452	CDS	399				hypothetical protein
+GHICDGJB_00453	gene	315				
+GHICDGJB_00453	CDS	315				hypothetical protein
+GHICDGJB_00454	gene	336				
+GHICDGJB_00454	CDS	336				hypothetical protein
+GHICDGJB_00455	gene	333	dppC			
+GHICDGJB_00455	CDS	333	dppC		COG1173	Dipeptide transport system permease protein DppC
+GHICDGJB_00456	gene	630				
+GHICDGJB_00456	CDS	630				hypothetical protein
+GHICDGJB_00457	gene	210				
+GHICDGJB_00457	CDS	210				hypothetical protein
+GHICDGJB_00458	gene	1743				
+GHICDGJB_00458	CDS	1743				hypothetical protein
+GHICDGJB_00459	gene	171				
+GHICDGJB_00459	CDS	171				hypothetical protein
+GHICDGJB_00460	gene	321				
+GHICDGJB_00460	CDS	321				hypothetical protein
+GHICDGJB_00461	gene	309				
+GHICDGJB_00461	CDS	309				hypothetical protein
+GHICDGJB_00462	gene	777	drrB			
+GHICDGJB_00462	CDS	777	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+GHICDGJB_00463	gene	1005	lnrL			
+GHICDGJB_00463	CDS	1005	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GHICDGJB_00464	gene	324				
+GHICDGJB_00464	CDS	324				hypothetical protein
+GHICDGJB_00465	gene	651				
+GHICDGJB_00465	CDS	651				hypothetical protein
+GHICDGJB_00466	gene	486				
+GHICDGJB_00466	CDS	486				hypothetical protein
+GHICDGJB_00467	gene	426				
+GHICDGJB_00467	CDS	426				hypothetical protein
+GHICDGJB_00468	gene	375				
+GHICDGJB_00468	CDS	375				hypothetical protein
+GHICDGJB_00469	gene	342				
+GHICDGJB_00469	CDS	342				hypothetical protein
+GHICDGJB_00470	gene	159				
+GHICDGJB_00470	CDS	159				hypothetical protein
+GHICDGJB_00471	gene	738	pyrF			
+GHICDGJB_00471	CDS	738	pyrF	4.1.1.23		Orotidine 5'-phosphate decarboxylase
+GHICDGJB_00472	gene	423				
+GHICDGJB_00472	CDS	423				hypothetical protein
+GHICDGJB_00473	gene	543				
+GHICDGJB_00473	CDS	543		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+GHICDGJB_00474	gene	1101				
+GHICDGJB_00474	CDS	1101				hypothetical protein
+GHICDGJB_00475	gene	504				
+GHICDGJB_00475	CDS	504				hypothetical protein
+GHICDGJB_00476	gene	144				
+GHICDGJB_00476	CDS	144				hypothetical protein
+GHICDGJB_00477	gene	420				
+GHICDGJB_00477	CDS	420				hypothetical protein
+GHICDGJB_00478	gene	297				
+GHICDGJB_00478	CDS	297				hypothetical protein
+GHICDGJB_00479	gene	312				
+GHICDGJB_00479	CDS	312				hypothetical protein
+GHICDGJB_00480	gene	780				
+GHICDGJB_00480	CDS	780				hypothetical protein
+GHICDGJB_00481	gene	570				
+GHICDGJB_00481	CDS	570				hypothetical protein
+GHICDGJB_00482	gene	1869	TOP6B			
+GHICDGJB_00482	CDS	1869	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+GHICDGJB_00483	gene	858	nnr_2			
+GHICDGJB_00483	CDS	858	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GHICDGJB_00484	gene	801	trmI			
+GHICDGJB_00484	CDS	801	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+GHICDGJB_00485	gene	681	queE			
+GHICDGJB_00485	CDS	681	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+GHICDGJB_00486	gene	369				
+GHICDGJB_00486	CDS	369				hypothetical protein
+GHICDGJB_00487	gene	282				
+GHICDGJB_00487	CDS	282				hypothetical protein
+GHICDGJB_00488	gene	147				
+GHICDGJB_00488	CDS	147				hypothetical protein
+GHICDGJB_00489	gene	183				
+GHICDGJB_00489	CDS	183				hypothetical protein
+GHICDGJB_00490	gene	816	cpoB_2			
+GHICDGJB_00490	CDS	816	cpoB_2			Cell division coordinator CpoB
+GHICDGJB_00491	gene	528				
+GHICDGJB_00491	CDS	528				hypothetical protein
+GHICDGJB_00492	gene	111				
+GHICDGJB_00492	CDS	111				hypothetical protein
+GHICDGJB_00493	gene	804				
+GHICDGJB_00493	CDS	804				hypothetical protein
+GHICDGJB_00494	gene	423				
+GHICDGJB_00494	CDS	423				hypothetical protein
+GHICDGJB_00495	gene	1521	phrB			
+GHICDGJB_00495	CDS	1521	phrB	4.1.99.13	COG3046	(6-4) photolyase
+GHICDGJB_00496	gene	492				
+GHICDGJB_00496	CDS	492				hypothetical protein
+GHICDGJB_00497	gene	600				
+GHICDGJB_00497	CDS	600				hypothetical protein
+GHICDGJB_00498	gene	438				
+GHICDGJB_00498	CDS	438				hypothetical protein
+GHICDGJB_00499	gene	687				
+GHICDGJB_00499	CDS	687				hypothetical protein
+GHICDGJB_00500	gene	162				
+GHICDGJB_00500	CDS	162				hypothetical protein
+GHICDGJB_00501	gene	1056				
+GHICDGJB_00501	CDS	1056				hypothetical protein
+GHICDGJB_00502	gene	561				
+GHICDGJB_00502	CDS	561				hypothetical protein
+GHICDGJB_00503	gene	687	cysG			
+GHICDGJB_00503	CDS	687	cysG		COG0007	Siroheme synthase
+GHICDGJB_00504	gene	1260	hemA_2			
+GHICDGJB_00504	CDS	1260	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GHICDGJB_00505	gene	435				
+GHICDGJB_00505	CDS	435				hypothetical protein
+GHICDGJB_00506	gene	690	cugP_1			
+GHICDGJB_00506	CDS	690	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GHICDGJB_00507	gene	1278	thiDN			
+GHICDGJB_00507	CDS	1278	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+GHICDGJB_00508	gene	1329	bzaF			
+GHICDGJB_00508	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+GHICDGJB_00509	gene	405				
+GHICDGJB_00509	CDS	405				hypothetical protein
+GHICDGJB_00510	gene	852	tyrA			
+GHICDGJB_00510	CDS	852	tyrA		COG0287	T-protein
+GHICDGJB_00511	gene	1362	dapL			
+GHICDGJB_00511	CDS	1362	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+GHICDGJB_00512	gene	1095	aroC			
+GHICDGJB_00512	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+GHICDGJB_00513	gene	885	nadX			
+GHICDGJB_00513	CDS	885	nadX	1.4.1.21		L-aspartate dehydrogenase
+GHICDGJB_00514	gene	1263	aroA			
+GHICDGJB_00514	CDS	1263	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+GHICDGJB_00515	gene	855	thrB_1			
+GHICDGJB_00515	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+GHICDGJB_00516	gene	825	aroE			
+GHICDGJB_00516	CDS	825	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+GHICDGJB_00517	gene	909				
+GHICDGJB_00517	CDS	909				hypothetical protein
+GHICDGJB_00518	gene	573				
+GHICDGJB_00518	CDS	573				hypothetical protein
+GHICDGJB_00519	gene	438				
+GHICDGJB_00519	CDS	438				hypothetical protein
+GHICDGJB_00520	gene	705	lolD			
+GHICDGJB_00520	CDS	705	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GHICDGJB_00521	gene	1314				
+GHICDGJB_00521	CDS	1314				hypothetical protein
+GHICDGJB_00522	gene	297				
+GHICDGJB_00522	CDS	297				hypothetical protein
+GHICDGJB_00523	gene	663				
+GHICDGJB_00523	CDS	663				hypothetical protein
+GHICDGJB_00524	gene	240				
+GHICDGJB_00524	CDS	240				hypothetical protein
+GHICDGJB_00525	gene	252				
+GHICDGJB_00525	CDS	252				hypothetical protein
+GHICDGJB_00526	gene	468				
+GHICDGJB_00526	CDS	468				hypothetical protein
+GHICDGJB_00527	gene	228				
+GHICDGJB_00527	CDS	228				hypothetical protein
+GHICDGJB_00528	gene	1020				
+GHICDGJB_00528	CDS	1020				hypothetical protein
+GHICDGJB_00529	gene	933				
+GHICDGJB_00529	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+GHICDGJB_00530	gene	798				
+GHICDGJB_00530	CDS	798				hypothetical protein
+GHICDGJB_00531	gene	171				
+GHICDGJB_00531	CDS	171				hypothetical protein
+GHICDGJB_00532	gene	885				
+GHICDGJB_00532	CDS	885				hypothetical protein
+GHICDGJB_00533	gene	1239				
+GHICDGJB_00533	CDS	1239				hypothetical protein
+GHICDGJB_00534	gene	402				
+GHICDGJB_00534	CDS	402				hypothetical protein
+GHICDGJB_00535	gene	594				
+GHICDGJB_00535	CDS	594				hypothetical protein
+GHICDGJB_00536	gene	237				
+GHICDGJB_00536	CDS	237				hypothetical protein
+GHICDGJB_00537	gene	741				
+GHICDGJB_00537	CDS	741		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+GHICDGJB_00538	gene	3378				
+GHICDGJB_00538	CDS	3378				hypothetical protein
+GHICDGJB_00539	gene	984				
+GHICDGJB_00539	CDS	984		2.2.1.8		Fluorothreonine transaldolase
+GHICDGJB_00540	gene	162				
+GHICDGJB_00540	CDS	162				hypothetical protein
+GHICDGJB_00541	gene	189				
+GHICDGJB_00541	CDS	189				hypothetical protein
+GHICDGJB_00542	gene	1260				
+GHICDGJB_00542	CDS	1260				hypothetical protein
+GHICDGJB_00543	gene	441				
+GHICDGJB_00543	CDS	441				hypothetical protein
+GHICDGJB_00544	gene	810	ybeM			
+GHICDGJB_00544	CDS	810	ybeM	3.5.1.128		Deaminated glutathione amidase
+GHICDGJB_00545	gene	177				
+GHICDGJB_00545	CDS	177				hypothetical protein
+GHICDGJB_00546	gene	771				
+GHICDGJB_00546	CDS	771				hypothetical protein
+GHICDGJB_00547	gene	1665				
+GHICDGJB_00547	CDS	1665				hypothetical protein
+GHICDGJB_00548	gene	2001	pat			
+GHICDGJB_00548	CDS	2001	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+GHICDGJB_00549	gene	1521	abfD			
+GHICDGJB_00549	CDS	1521	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+GHICDGJB_00550	gene	714				
+GHICDGJB_00550	CDS	714				hypothetical protein
+GHICDGJB_00551	gene	627				
+GHICDGJB_00551	CDS	627				hypothetical protein
+GHICDGJB_00552	gene	333				
+GHICDGJB_00552	CDS	333				Thioredoxin C-2
+GHICDGJB_00553	gene	531				
+GHICDGJB_00553	CDS	531				hypothetical protein
+GHICDGJB_00554	gene	363				
+GHICDGJB_00554	CDS	363				hypothetical protein
+GHICDGJB_00555	gene	73				
+GHICDGJB_00555	tRNA	73				tRNA-Ala(cgc)
+GHICDGJB_00556	gene	1410				
+GHICDGJB_00556	CDS	1410		3.5.2.-		D-hydantoinase
+GHICDGJB_00557	gene	678	rpiA			
+GHICDGJB_00557	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+GHICDGJB_00558	gene	846				
+GHICDGJB_00558	CDS	846				hypothetical protein
+GHICDGJB_00559	gene	177				
+GHICDGJB_00559	CDS	177				hypothetical protein
+GHICDGJB_00560	gene	231				
+GHICDGJB_00560	CDS	231				hypothetical protein
+GHICDGJB_00561	gene	690	mftE			
+GHICDGJB_00561	CDS	690	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+GHICDGJB_00562	gene	843	purU			
+GHICDGJB_00562	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+GHICDGJB_00563	gene	88				
+GHICDGJB_00563	tRNA	88				tRNA-Leu(tag)
+GHICDGJB_00564	gene	1344	glmM_1			
+GHICDGJB_00564	CDS	1344	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+GHICDGJB_00565	gene	387				
+GHICDGJB_00565	CDS	387				hypothetical protein
+GHICDGJB_00566	gene	219				
+GHICDGJB_00566	CDS	219				hypothetical protein
+GHICDGJB_00567	gene	204				
+GHICDGJB_00567	CDS	204				hypothetical protein
+GHICDGJB_00568	gene	402	ndkA			
+GHICDGJB_00568	CDS	402	ndkA	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GHICDGJB_00569	gene	1761	infB			
+GHICDGJB_00569	CDS	1761	infB			Translation initiation factor IF-2
+GHICDGJB_00570	gene	411	resA_1			
+GHICDGJB_00570	CDS	411	resA_1			Thiol-disulfide oxidoreductase ResA
+GHICDGJB_00571	gene	417				
+GHICDGJB_00571	CDS	417				Protein archease
+GHICDGJB_00572	gene	1140	hisS			
+GHICDGJB_00572	CDS	1140	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GHICDGJB_00573	gene	168				
+GHICDGJB_00573	CDS	168				hypothetical protein
+GHICDGJB_00574	gene	486				
+GHICDGJB_00574	CDS	486				hypothetical protein
+GHICDGJB_00575	gene	477				
+GHICDGJB_00575	CDS	477				hypothetical protein
+GHICDGJB_00576	gene	174				
+GHICDGJB_00576	CDS	174				hypothetical protein
+GHICDGJB_00577	gene	1101	mqnE			
+GHICDGJB_00577	CDS	1101	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+GHICDGJB_00578	gene	282				
+GHICDGJB_00578	CDS	282				hypothetical protein
+GHICDGJB_00579	gene	966	dusB			
+GHICDGJB_00579	CDS	966	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+GHICDGJB_00580	gene	219				
+GHICDGJB_00580	CDS	219				hypothetical protein
+GHICDGJB_00581	gene	453				
+GHICDGJB_00581	CDS	453				hypothetical protein
+GHICDGJB_00582	gene	129				
+GHICDGJB_00582	CDS	129				hypothetical protein
+GHICDGJB_00583	gene	927	pstA			
+GHICDGJB_00583	CDS	927	pstA		COG0581	Phosphate transport system permease protein PstA
+GHICDGJB_00584	gene	867	pstB3			
+GHICDGJB_00584	CDS	867	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+GHICDGJB_00585	gene	636				
+GHICDGJB_00585	CDS	636				hypothetical protein
+GHICDGJB_00586	gene	1059				
+GHICDGJB_00586	CDS	1059				hypothetical protein
+GHICDGJB_00587	gene	117				
+GHICDGJB_00587	CDS	117				hypothetical protein
+GHICDGJB_00588	gene	408	arsC2			
+GHICDGJB_00588	CDS	408	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+GHICDGJB_00589	gene	303	aqpZ_1			
+GHICDGJB_00589	CDS	303	aqpZ_1			Aquaporin Z
+GHICDGJB_00590	gene	372	aqpZ_2			
+GHICDGJB_00590	CDS	372	aqpZ_2			Aquaporin Z
+GHICDGJB_00591	gene	177				
+GHICDGJB_00591	CDS	177				hypothetical protein
+GHICDGJB_00592	gene	1494				
+GHICDGJB_00592	CDS	1494				hypothetical protein
+GHICDGJB_00593	gene	951				
+GHICDGJB_00593	CDS	951				hypothetical protein
+GHICDGJB_00594	gene	873				
+GHICDGJB_00594	CDS	873				hypothetical protein
+GHICDGJB_00595	gene	1014	ravA			
+GHICDGJB_00595	CDS	1014	ravA	3.6.3.-		ATPase RavA
+GHICDGJB_00596	gene	216				
+GHICDGJB_00596	CDS	216				hypothetical protein
+GHICDGJB_00597	gene	237				
+GHICDGJB_00597	CDS	237				hypothetical protein
+GHICDGJB_00598	gene	876	garR			
+GHICDGJB_00598	CDS	876	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+GHICDGJB_00599	gene	3537	smc_2			
+GHICDGJB_00599	CDS	3537	smc_2		COG1196	Chromosome partition protein Smc
+GHICDGJB_00600	gene	1095	ino1			
+GHICDGJB_00600	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+GHICDGJB_00601	gene	711				
+GHICDGJB_00601	CDS	711				hypothetical protein
+GHICDGJB_00602	gene	615				
+GHICDGJB_00602	CDS	615				hypothetical protein
+GHICDGJB_00603	gene	405				
+GHICDGJB_00603	CDS	405				hypothetical protein
+GHICDGJB_00604	gene	249				
+GHICDGJB_00604	CDS	249				hypothetical protein
+GHICDGJB_00605	gene	1092	dinB			
+GHICDGJB_00605	CDS	1092	dinB	2.7.7.7		DNA polymerase IV
+GHICDGJB_00606	gene	939				
+GHICDGJB_00606	CDS	939				hypothetical protein
+GHICDGJB_00607	gene	1158				
+GHICDGJB_00607	CDS	1158				hypothetical protein
+GHICDGJB_00608	gene	75				
+GHICDGJB_00608	tRNA	75				tRNA-Ile(gat)
+GHICDGJB_00609	gene	891				
+GHICDGJB_00609	CDS	891				hypothetical protein
+GHICDGJB_00610	gene	420				
+GHICDGJB_00610	CDS	420				hypothetical protein
+GHICDGJB_00611	gene	74				
+GHICDGJB_00611	tRNA	74				tRNA-Thr(ggt)
+GHICDGJB_00612	gene	864	dpnM			
+GHICDGJB_00612	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+GHICDGJB_00613	gene	651				
+GHICDGJB_00613	CDS	651				hypothetical protein
+GHICDGJB_00614	gene	363				
+GHICDGJB_00614	CDS	363				hypothetical protein
+GHICDGJB_00615	gene	564				
+GHICDGJB_00615	CDS	564				hypothetical protein
+GHICDGJB_00616	gene	567				
+GHICDGJB_00616	CDS	567				hypothetical protein
+GHICDGJB_00617	gene	327				
+GHICDGJB_00617	CDS	327				hypothetical protein
+GHICDGJB_00618	gene	522				
+GHICDGJB_00618	CDS	522				hypothetical protein
+GHICDGJB_00619	gene	270				
+GHICDGJB_00619	CDS	270				hypothetical protein
+GHICDGJB_00620	gene	330				
+GHICDGJB_00620	CDS	330				hypothetical protein
+GHICDGJB_00621	gene	450				
+GHICDGJB_00621	CDS	450				hypothetical protein
+GHICDGJB_00622	gene	1422				
+GHICDGJB_00622	CDS	1422				hypothetical protein
+GHICDGJB_00623	gene	243				
+GHICDGJB_00623	CDS	243				hypothetical protein
+GHICDGJB_00624	gene	1263	serS			
+GHICDGJB_00624	CDS	1263	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GHICDGJB_00625	gene	636				
+GHICDGJB_00625	CDS	636				hypothetical protein
+GHICDGJB_00626	gene	417				
+GHICDGJB_00626	CDS	417				hypothetical protein
+GHICDGJB_00627	gene	1461				
+GHICDGJB_00627	CDS	1461				hypothetical protein
+GHICDGJB_00628	gene	738	nirQ			
+GHICDGJB_00628	CDS	738	nirQ		COG0714	Denitrification regulatory protein NirQ
+GHICDGJB_00629	gene	1524				
+GHICDGJB_00629	CDS	1524				hypothetical protein
+GHICDGJB_00630	gene	195				
+GHICDGJB_00630	CDS	195				hypothetical protein
+GHICDGJB_00631	gene	702				
+GHICDGJB_00631	CDS	702				hypothetical protein
+GHICDGJB_00632	gene	123				
+GHICDGJB_00632	CDS	123				hypothetical protein
+GHICDGJB_00633	gene	183				
+GHICDGJB_00633	CDS	183				hypothetical protein
+GHICDGJB_00634	gene	144				
+GHICDGJB_00634	CDS	144				hypothetical protein
+GHICDGJB_00635	gene	156				
+GHICDGJB_00635	CDS	156				hypothetical protein
+GHICDGJB_00636	gene	1182				
+GHICDGJB_00636	CDS	1182				hypothetical protein
+GHICDGJB_00637	gene	357	queD			
+GHICDGJB_00637	CDS	357	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+GHICDGJB_00638	gene	510				
+GHICDGJB_00638	CDS	510				hypothetical protein
+GHICDGJB_00639	gene	345				
+GHICDGJB_00639	CDS	345				hypothetical protein
+GHICDGJB_00640	gene	114				
+GHICDGJB_00640	CDS	114				hypothetical protein
+GHICDGJB_00641	gene	186				
+GHICDGJB_00641	CDS	186				hypothetical protein
+GHICDGJB_00642	gene	2139	rpoC_1			
+GHICDGJB_00642	CDS	2139	rpoC_1	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GHICDGJB_00643	gene	1050	rpoC_2			
+GHICDGJB_00643	CDS	1050	rpoC_2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GHICDGJB_00644	gene	1248	rpoB			
+GHICDGJB_00644	CDS	1248	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+GHICDGJB_00645	gene	1395				
+GHICDGJB_00645	CDS	1395				hypothetical protein
+GHICDGJB_00646	gene	2220	deaD			
+GHICDGJB_00646	CDS	2220	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+GHICDGJB_00647	gene	126				
+GHICDGJB_00647	CDS	126				hypothetical protein
+GHICDGJB_00648	gene	660				
+GHICDGJB_00648	CDS	660				hypothetical protein
+GHICDGJB_00649	gene	246				
+GHICDGJB_00649	CDS	246				hypothetical protein
+GHICDGJB_00650	gene	1158	metK			
+GHICDGJB_00650	CDS	1158	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+GHICDGJB_00651	gene	813				
+GHICDGJB_00651	CDS	813				hypothetical protein
+GHICDGJB_00652	gene	474	dnaJ_2			
+GHICDGJB_00652	CDS	474	dnaJ_2			Chaperone protein DnaJ
+GHICDGJB_00653	gene	1098	cbiD			
+GHICDGJB_00653	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+GHICDGJB_00654	gene	1059	cbiG			
+GHICDGJB_00654	CDS	1059	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+GHICDGJB_00655	gene	753	cbiX			
+GHICDGJB_00655	CDS	753	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+GHICDGJB_00656	gene	636	cbiC			
+GHICDGJB_00656	CDS	636	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+GHICDGJB_00657	gene	1347	cbiA			
+GHICDGJB_00657	CDS	1347	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GHICDGJB_00658	gene	537	cobO			
+GHICDGJB_00658	CDS	537	cobO	2.5.1.17		Corrinoid adenosyltransferase
+GHICDGJB_00659	gene	801				
+GHICDGJB_00659	CDS	801				hypothetical protein
+GHICDGJB_00660	gene	144				
+GHICDGJB_00660	CDS	144				hypothetical protein
+GHICDGJB_00661	gene	219				
+GHICDGJB_00661	CDS	219				hypothetical protein
+GHICDGJB_00662	gene	525	eryG			
+GHICDGJB_00662	CDS	525	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+GHICDGJB_00663	gene	168				
+GHICDGJB_00663	CDS	168				hypothetical protein
+GHICDGJB_00664	gene	132				
+GHICDGJB_00664	CDS	132				hypothetical protein
+GHICDGJB_00665	gene	150				
+GHICDGJB_00665	CDS	150				hypothetical protein
+GHICDGJB_00666	gene	948				
+GHICDGJB_00666	CDS	948				hypothetical protein
+GHICDGJB_00667	gene	198				
+GHICDGJB_00667	CDS	198				hypothetical protein
+GHICDGJB_00668	gene	597	fusA			
+GHICDGJB_00668	CDS	597	fusA		COG0480	Elongation factor G
+GHICDGJB_00669	gene	1194	OLA1			
+GHICDGJB_00669	CDS	1194	OLA1			Obg-like ATPase 1
+GHICDGJB_00670	gene	555				
+GHICDGJB_00670	CDS	555				hypothetical protein
+GHICDGJB_00671	gene	477				
+GHICDGJB_00671	CDS	477				hypothetical protein
+GHICDGJB_00672	gene	249				
+GHICDGJB_00672	CDS	249				hypothetical protein
+GHICDGJB_00673	gene	75				
+GHICDGJB_00673	tRNA	75				tRNA-Thr(tgt)
+GHICDGJB_00674	gene	372				
+GHICDGJB_00674	CDS	372				hypothetical protein
+GHICDGJB_00675	gene	462				
+GHICDGJB_00675	CDS	462				hypothetical protein
+GHICDGJB_00676	gene	390				
+GHICDGJB_00676	CDS	390				hypothetical protein
+GHICDGJB_00677	gene	510				
+GHICDGJB_00677	CDS	510				hypothetical protein
+GHICDGJB_00678	gene	183				
+GHICDGJB_00678	CDS	183				hypothetical protein
+GHICDGJB_00679	gene	1158	pstS			
+GHICDGJB_00679	CDS	1158	pstS		COG0226	Phosphate-binding protein PstS
+GHICDGJB_00680	gene	267				
+GHICDGJB_00680	CDS	267				hypothetical protein
+GHICDGJB_00681	gene	105				
+GHICDGJB_00681	CDS	105				hypothetical protein
+GHICDGJB_00682	gene	630	fbiD			
+GHICDGJB_00682	CDS	630	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+GHICDGJB_00683	gene	921	fbiA			
+GHICDGJB_00683	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+GHICDGJB_00684	gene	138				
+GHICDGJB_00684	CDS	138				hypothetical protein
+GHICDGJB_00685	gene	252				
+GHICDGJB_00685	CDS	252				hypothetical protein
+GHICDGJB_00686	gene	1209	thi4_2			
+GHICDGJB_00686	CDS	1209	thi4_2	2.4.2.59		Thiamine thiazole synthase
+GHICDGJB_00687	gene	126				
+GHICDGJB_00687	CDS	126				hypothetical protein
+GHICDGJB_00688	gene	615				
+GHICDGJB_00688	CDS	615				hypothetical protein
+GHICDGJB_00689	gene	825	oppF			
+GHICDGJB_00689	CDS	825	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+GHICDGJB_00690	gene	465	egtD_1			
+GHICDGJB_00690	CDS	465	egtD_1	2.1.1.44		Histidine N-alpha-methyltransferase
+GHICDGJB_00691	gene	423	egtD_2			
+GHICDGJB_00691	CDS	423	egtD_2	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+GHICDGJB_00692	gene	1302	egtB			
+GHICDGJB_00692	CDS	1302	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+GHICDGJB_00693	gene	492				
+GHICDGJB_00693	CDS	492				hypothetical protein
+GHICDGJB_00694	gene	942	proS			
+GHICDGJB_00694	CDS	942	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GHICDGJB_00695	gene	294				
+GHICDGJB_00695	CDS	294				hypothetical protein
+GHICDGJB_00696	gene	873				
+GHICDGJB_00696	CDS	873				hypothetical protein
+GHICDGJB_00697	gene	669				
+GHICDGJB_00697	CDS	669				hypothetical protein
+GHICDGJB_00698	gene	393				
+GHICDGJB_00698	CDS	393				hypothetical protein
+GHICDGJB_00699	gene	105				
+GHICDGJB_00699	CDS	105				hypothetical protein
+GHICDGJB_00700	gene	252				
+GHICDGJB_00700	CDS	252				hypothetical protein
+GHICDGJB_00701	gene	171				
+GHICDGJB_00701	CDS	171				hypothetical protein
+GHICDGJB_00702	gene	207				
+GHICDGJB_00702	CDS	207				hypothetical protein
+GHICDGJB_00703	gene	873	ctaB_2			
+GHICDGJB_00703	CDS	873	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+GHICDGJB_00704	gene	792				
+GHICDGJB_00704	CDS	792				hypothetical protein
+GHICDGJB_00705	gene	459				
+GHICDGJB_00705	CDS	459				hypothetical protein
+GHICDGJB_00706	gene	255				
+GHICDGJB_00706	CDS	255				hypothetical protein
+GHICDGJB_00707	gene	750	cmoA_2			
+GHICDGJB_00707	CDS	750	cmoA_2	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+GHICDGJB_00708	gene	2061	hppA1			
+GHICDGJB_00708	CDS	2061	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+GHICDGJB_00709	gene	381				
+GHICDGJB_00709	CDS	381				hypothetical protein
+GHICDGJB_00710	gene	432				
+GHICDGJB_00710	CDS	432				hypothetical protein
+GHICDGJB_00711	gene	1020	apbC			
+GHICDGJB_00711	CDS	1020	apbC		COG0489	Iron-sulfur cluster carrier protein
+GHICDGJB_00712	gene	594				
+GHICDGJB_00712	CDS	594				hypothetical protein
+GHICDGJB_00713	gene	189				
+GHICDGJB_00713	CDS	189				hypothetical protein
+GHICDGJB_00714	gene	828	nadC			
+GHICDGJB_00714	CDS	828	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GHICDGJB_00715	gene	498	nadA			
+GHICDGJB_00715	CDS	498	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GHICDGJB_00716	gene	77				
+GHICDGJB_00716	tRNA	77				tRNA-Arg(gcg)
+GHICDGJB_00717	gene	714	aqpZ2			
+GHICDGJB_00717	CDS	714	aqpZ2			Aquaporin Z 2
+GHICDGJB_00718	gene	351	rtcB_1			
+GHICDGJB_00718	CDS	351	rtcB_1	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+GHICDGJB_00719	gene	411				
+GHICDGJB_00719	CDS	411				hypothetical protein
+GHICDGJB_00720	gene	318				
+GHICDGJB_00720	CDS	318				hypothetical protein
+GHICDGJB_00721	gene	501				
+GHICDGJB_00721	CDS	501				hypothetical protein
+GHICDGJB_00722	gene	945	thiL			
+GHICDGJB_00722	CDS	945	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+GHICDGJB_00723	gene	252	glmM_2			
+GHICDGJB_00723	CDS	252	glmM_2			Phosphoglucosamine mutase
+GHICDGJB_00724	gene	162				
+GHICDGJB_00724	CDS	162				hypothetical protein
+GHICDGJB_00725	gene	1461	glnA_2			
+GHICDGJB_00725	CDS	1461	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+GHICDGJB_00726	gene	453				
+GHICDGJB_00726	CDS	453				hypothetical protein
+GHICDGJB_00727	gene	315				
+GHICDGJB_00727	CDS	315				hypothetical protein
+GHICDGJB_00728	gene	222				
+GHICDGJB_00728	CDS	222				hypothetical protein
+GHICDGJB_00729	gene	411				
+GHICDGJB_00729	CDS	411				hypothetical protein
+GHICDGJB_00730	gene	537				
+GHICDGJB_00730	CDS	537				hypothetical protein
+GHICDGJB_00731	gene	972				
+GHICDGJB_00731	CDS	972				hypothetical protein
+GHICDGJB_00732	gene	906				
+GHICDGJB_00732	CDS	906				hypothetical protein
+GHICDGJB_00733	gene	1278	hemL			
+GHICDGJB_00733	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+GHICDGJB_00734	gene	936	hemC			
+GHICDGJB_00734	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+GHICDGJB_00735	gene	291				
+GHICDGJB_00735	CDS	291				hypothetical protein
+GHICDGJB_00736	gene	378				
+GHICDGJB_00736	CDS	378				hypothetical protein
+GHICDGJB_00737	gene	237				
+GHICDGJB_00737	CDS	237				hypothetical protein
+GHICDGJB_00738	gene	1437	ubiD_2			
+GHICDGJB_00738	CDS	1437	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GHICDGJB_00739	gene	1119	mqnC			
+GHICDGJB_00739	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+GHICDGJB_00740	gene	786	griI			
+GHICDGJB_00740	CDS	786	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+GHICDGJB_00741	gene	408	aroB'			
+GHICDGJB_00741	CDS	408	aroB'	1.4.1.24		3-dehydroquinate synthase
+GHICDGJB_00742	gene	648	griH			
+GHICDGJB_00742	CDS	648	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+GHICDGJB_00743	gene	504	aroD			
+GHICDGJB_00743	CDS	504	aroD	4.2.1.10		3-dehydroquinate dehydratase
+GHICDGJB_00744	gene	1284	ureC			
+GHICDGJB_00744	CDS	1284	ureC	3.5.1.5		Urease subunit alpha
+GHICDGJB_00745	gene	291				
+GHICDGJB_00745	misc_RNA	291				5_ureB_sRNA
+GHICDGJB_00746	gene	303	ureA			
+GHICDGJB_00746	CDS	303	ureA	3.5.1.5	COG0831	Urease subunit gamma
+GHICDGJB_00747	gene	507	ureE			
+GHICDGJB_00747	CDS	507	ureE			Urease accessory protein UreE
+GHICDGJB_00748	gene	699	ureF			
+GHICDGJB_00748	CDS	699	ureF		COG0830	Urease accessory protein UreF
+GHICDGJB_00749	gene	600	ureG			
+GHICDGJB_00749	CDS	600	ureG		COG0378	Urease accessory protein UreG
+GHICDGJB_00750	gene	144				
+GHICDGJB_00750	CDS	144				hypothetical protein
+GHICDGJB_00751	gene	534				
+GHICDGJB_00751	CDS	534				hypothetical protein
+GHICDGJB_00752	gene	861	noc			
+GHICDGJB_00752	CDS	861	noc			Nucleoid occlusion protein
+GHICDGJB_00753	gene	141				
+GHICDGJB_00753	CDS	141				hypothetical protein
+GHICDGJB_00754	gene	561				
+GHICDGJB_00754	CDS	561				hypothetical protein
+GHICDGJB_00755	gene	273				
+GHICDGJB_00755	CDS	273				hypothetical protein
+GHICDGJB_00756	gene	606	drgA			
+GHICDGJB_00756	CDS	606	drgA			Protein DrgA
+GHICDGJB_00757	gene	396	epi			
+GHICDGJB_00757	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+GHICDGJB_00758	gene	1599	mcm_1			
+GHICDGJB_00758	CDS	1599	mcm_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+GHICDGJB_00759	gene	918	argK			
+GHICDGJB_00759	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+GHICDGJB_00760	gene	423	mcm_2			
+GHICDGJB_00760	CDS	423	mcm_2	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+GHICDGJB_00761	gene	999	ilvC			
+GHICDGJB_00761	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+GHICDGJB_00762	gene	96				
+GHICDGJB_00762	CDS	96				hypothetical protein
+GHICDGJB_00763	gene	120				
+GHICDGJB_00763	CDS	120				hypothetical protein
+GHICDGJB_00764	gene	456	tuf_1			
+GHICDGJB_00764	CDS	456	tuf_1			Elongation factor Tu
+GHICDGJB_00765	gene	201				
+GHICDGJB_00765	CDS	201				hypothetical protein
+GHICDGJB_00766	gene	1466				
+GHICDGJB_00766	rRNA	1466				16S ribosomal RNA
+GHICDGJB_00767	gene	2976				
+GHICDGJB_00767	rRNA	2976				23S ribosomal RNA
+GHICDGJB_00768	gene	195	cspA			
+GHICDGJB_00768	CDS	195	cspA		COG1278	putative cold shock protein A
+GHICDGJB_00769	gene	1404				
+GHICDGJB_00769	CDS	1404			COG0247	putative protein
+GHICDGJB_00770	gene	306				
+GHICDGJB_00770	CDS	306				hypothetical protein
+GHICDGJB_00771	gene	558				
+GHICDGJB_00771	CDS	558				hypothetical protein
+GHICDGJB_00772	gene	903				
+GHICDGJB_00772	CDS	903				hypothetical protein
+GHICDGJB_00773	gene	579				
+GHICDGJB_00773	CDS	579				hypothetical protein
+GHICDGJB_00774	gene	1353				
+GHICDGJB_00774	CDS	1353				hypothetical protein
+GHICDGJB_00775	gene	1002	birA			
+GHICDGJB_00775	CDS	1002	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GHICDGJB_00776	gene	516				
+GHICDGJB_00776	CDS	516				hypothetical protein
+GHICDGJB_00777	gene	723				
+GHICDGJB_00777	CDS	723				hypothetical protein
+GHICDGJB_00778	gene	1713				
+GHICDGJB_00778	CDS	1713				hypothetical protein
+GHICDGJB_00779	gene	255				
+GHICDGJB_00779	CDS	255				hypothetical protein
+GHICDGJB_00780	gene	144				
+GHICDGJB_00780	CDS	144				hypothetical protein
+GHICDGJB_00781	gene	216				
+GHICDGJB_00781	CDS	216				hypothetical protein
+GHICDGJB_00782	gene	288				
+GHICDGJB_00782	CDS	288				hypothetical protein
+GHICDGJB_00783	gene	600				
+GHICDGJB_00783	CDS	600		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+GHICDGJB_00784	gene	522				
+GHICDGJB_00784	CDS	522				hypothetical protein
+GHICDGJB_00785	gene	771				
+GHICDGJB_00785	CDS	771				hypothetical protein
+GHICDGJB_00786	gene	390				
+GHICDGJB_00786	CDS	390				hypothetical protein
+GHICDGJB_00787	gene	222				
+GHICDGJB_00787	CDS	222				hypothetical protein
+GHICDGJB_00788	gene	72				
+GHICDGJB_00788	tRNA	72				tRNA-Cys(gca)
+GHICDGJB_00789	gene	1761				
+GHICDGJB_00789	CDS	1761				hypothetical protein
+GHICDGJB_00790	gene	168				
+GHICDGJB_00790	CDS	168				hypothetical protein
+GHICDGJB_00791	gene	585				
+GHICDGJB_00791	CDS	585				hypothetical protein
+GHICDGJB_00792	gene	279				
+GHICDGJB_00792	CDS	279				hypothetical protein
+GHICDGJB_00793	gene	222				
+GHICDGJB_00793	CDS	222				hypothetical protein
+GHICDGJB_00794	gene	192				
+GHICDGJB_00794	CDS	192				hypothetical protein
+GHICDGJB_00795	gene	921	thrB_2			
+GHICDGJB_00795	CDS	921	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+GHICDGJB_00796	gene	759				
+GHICDGJB_00796	CDS	759				hypothetical protein
+GHICDGJB_00797	gene	1017				
+GHICDGJB_00797	CDS	1017				hypothetical protein
+GHICDGJB_00798	gene	801	hcaB			
+GHICDGJB_00798	CDS	801	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+GHICDGJB_00799	gene	366				
+GHICDGJB_00799	CDS	366				hypothetical protein
+GHICDGJB_00800	gene	339				
+GHICDGJB_00800	CDS	339				hypothetical protein
+GHICDGJB_00801	gene	123				
+GHICDGJB_00801	CDS	123				hypothetical protein
+GHICDGJB_00802	gene	1230				
+GHICDGJB_00802	CDS	1230				hypothetical protein
+GHICDGJB_00803	gene	507				
+GHICDGJB_00803	CDS	507				hypothetical protein
+GHICDGJB_00804	gene	519	tauB			
+GHICDGJB_00804	CDS	519	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+GHICDGJB_00805	gene	759	ssuC			
+GHICDGJB_00805	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+GHICDGJB_00806	gene	1128				
+GHICDGJB_00806	CDS	1128				hypothetical protein
+GHICDGJB_00807	gene	552	nudL			
+GHICDGJB_00807	CDS	552	nudL	3.6.1.-		putative Nudix hydrolase NudL
+GHICDGJB_00808	gene	540				
+GHICDGJB_00808	CDS	540				hypothetical protein
+GHICDGJB_00809	gene	2085				
+GHICDGJB_00809	CDS	2085				hypothetical protein
+GHICDGJB_00810	gene	2427				
+GHICDGJB_00810	CDS	2427				hypothetical protein
+GHICDGJB_00811	gene	1095				
+GHICDGJB_00811	CDS	1095				hypothetical protein
+GHICDGJB_00812	gene	705				
+GHICDGJB_00812	CDS	705				hypothetical protein
+GHICDGJB_00813	gene	77				
+GHICDGJB_00813	tRNA	77				tRNA-Gly(tcc)
+GHICDGJB_00814	gene	300				
+GHICDGJB_00814	CDS	300				hypothetical protein
+GHICDGJB_00815	gene	456				
+GHICDGJB_00815	CDS	456				hypothetical protein
+GHICDGJB_00816	gene	279				
+GHICDGJB_00816	CDS	279				hypothetical protein
+GHICDGJB_00817	gene	1077	ccr_2			
+GHICDGJB_00817	CDS	1077	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+GHICDGJB_00818	gene	855	citE			
+GHICDGJB_00818	CDS	855	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+GHICDGJB_00819	gene	585	ribE			
+GHICDGJB_00819	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+GHICDGJB_00820	gene	675	ribBA			
+GHICDGJB_00820	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+GHICDGJB_00821	gene	417	ribH			
+GHICDGJB_00821	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+GHICDGJB_00822	gene	753				
+GHICDGJB_00822	CDS	753				hypothetical protein
+GHICDGJB_00823	gene	1185	dadD			
+GHICDGJB_00823	CDS	1185	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+GHICDGJB_00824	gene	483				
+GHICDGJB_00824	CDS	483				hypothetical protein
+GHICDGJB_00825	gene	510				
+GHICDGJB_00825	CDS	510				hypothetical protein
+GHICDGJB_00826	gene	519				
+GHICDGJB_00826	CDS	519				hypothetical protein
+GHICDGJB_00827	gene	1071	hflX			
+GHICDGJB_00827	CDS	1071	hflX		COG2262	GTPase HflX
+GHICDGJB_00828	gene	1002	purA			
+GHICDGJB_00828	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GHICDGJB_00829	gene	462				
+GHICDGJB_00829	CDS	462				hypothetical protein
+GHICDGJB_00830	gene	279				
+GHICDGJB_00830	CDS	279				hypothetical protein
+GHICDGJB_00831	gene	213				
+GHICDGJB_00831	CDS	213				hypothetical protein
+GHICDGJB_00832	gene	666				
+GHICDGJB_00832	CDS	666				hypothetical protein
+GHICDGJB_00833	gene	1515	amt			
+GHICDGJB_00833	CDS	1515	amt			Ammonia channel
+GHICDGJB_00834	gene	777	ttuD			
+GHICDGJB_00834	CDS	777	ttuD		COG2897	Sulfur carrier protein TtuD
+GHICDGJB_00835	gene	219				
+GHICDGJB_00835	CDS	219				hypothetical protein
+GHICDGJB_00836	gene	1896				
+GHICDGJB_00836	CDS	1896				hypothetical protein
+GHICDGJB_00837	gene	600	atpE			
+GHICDGJB_00837	CDS	600	atpE			V-type proton ATPase subunit E
+GHICDGJB_00838	gene	1773	atpA			
+GHICDGJB_00838	CDS	1773	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+GHICDGJB_00839	gene	315				
+GHICDGJB_00839	CDS	315				hypothetical protein
+GHICDGJB_00840	gene	252				
+GHICDGJB_00840	CDS	252				hypothetical protein
+GHICDGJB_00841	gene	762	dnaJ_3			
+GHICDGJB_00841	CDS	762	dnaJ_3			Chaperone protein DnaJ
+GHICDGJB_00842	gene	384				
+GHICDGJB_00842	CDS	384				hypothetical protein
+GHICDGJB_00843	gene	294	glpE			
+GHICDGJB_00843	CDS	294	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+GHICDGJB_00844	gene	267				
+GHICDGJB_00844	CDS	267				hypothetical protein
+GHICDGJB_00845	gene	483				
+GHICDGJB_00845	CDS	483				hypothetical protein
+GHICDGJB_00846	gene	660				
+GHICDGJB_00846	CDS	660				hypothetical protein
+GHICDGJB_00847	gene	1008				
+GHICDGJB_00847	CDS	1008				hypothetical protein
+GHICDGJB_00848	gene	762	metN			
+GHICDGJB_00848	CDS	762	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+GHICDGJB_00849	gene	792	phnE			
+GHICDGJB_00849	CDS	792	phnE		COG3639	Phosphate-import permease protein PhnE
+GHICDGJB_00850	gene	225				
+GHICDGJB_00850	CDS	225				hypothetical protein
+GHICDGJB_00851	gene	375				
+GHICDGJB_00851	CDS	375				hypothetical protein
+GHICDGJB_00852	gene	117				
+GHICDGJB_00852	CDS	117				hypothetical protein
+GHICDGJB_00853	gene	402				
+GHICDGJB_00853	CDS	402				hypothetical protein
+GHICDGJB_00854	gene	654	rutE			
+GHICDGJB_00854	CDS	654	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+GHICDGJB_00855	gene	933	hemL1			
+GHICDGJB_00855	CDS	933	hemL1	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase 1
+GHICDGJB_00856	gene	279				
+GHICDGJB_00856	CDS	279				hypothetical protein
+GHICDGJB_00857	gene	1230	gerN_2			
+GHICDGJB_00857	CDS	1230	gerN_2		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GHICDGJB_00858	gene	1023	purM			
+GHICDGJB_00858	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GHICDGJB_00859	gene	726				
+GHICDGJB_00859	CDS	726				hypothetical protein
+GHICDGJB_00860	gene	348				
+GHICDGJB_00860	CDS	348				hypothetical protein
+GHICDGJB_00861	gene	969	yrbG			
+GHICDGJB_00861	CDS	969	yrbG		COG0530	Inner membrane protein YrbG
+GHICDGJB_00862	gene	903	cofH			
+GHICDGJB_00862	CDS	903	cofH	2.5.1.147		5-amino-6-(D-ribitylamino)uracil--L-tyrosine 4-hydroxyphenyl transferase
+GHICDGJB_00863	gene	1164	fbiC			
+GHICDGJB_00863	CDS	1164	fbiC		COG1060	FO synthase
+GHICDGJB_00864	gene	1131				
+GHICDGJB_00864	CDS	1131				hypothetical protein
+GHICDGJB_00865	gene	1212	crtQ			
+GHICDGJB_00865	CDS	1212	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+GHICDGJB_00866	gene	417				
+GHICDGJB_00866	CDS	417				hypothetical protein
+GHICDGJB_00867	gene	162				
+GHICDGJB_00867	CDS	162				hypothetical protein
+GHICDGJB_00868	gene	327	metG_2			
+GHICDGJB_00868	CDS	327	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+GHICDGJB_00869	gene	561				
+GHICDGJB_00869	CDS	561				hypothetical protein
+GHICDGJB_00870	gene	1116				
+GHICDGJB_00870	CDS	1116				hypothetical protein
+GHICDGJB_00871	gene	180				
+GHICDGJB_00871	CDS	180				hypothetical protein
+GHICDGJB_00872	gene	894				
+GHICDGJB_00872	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+GHICDGJB_00873	gene	76				
+GHICDGJB_00873	tRNA	76				tRNA-Pro(tgg)
+GHICDGJB_00874	gene	249				
+GHICDGJB_00874	CDS	249				hypothetical protein
+GHICDGJB_00875	gene	288				
+GHICDGJB_00875	CDS	288				hypothetical protein
+GHICDGJB_00876	gene	396				
+GHICDGJB_00876	CDS	396				hypothetical protein
+GHICDGJB_00877	gene	465	dtxR			
+GHICDGJB_00877	CDS	465	dtxR			Diphtheria toxin repressor
+GHICDGJB_00878	gene	165				
+GHICDGJB_00878	CDS	165				hypothetical protein
+GHICDGJB_00879	gene	420				
+GHICDGJB_00879	CDS	420				hypothetical protein
+GHICDGJB_00880	gene	399				
+GHICDGJB_00880	CDS	399				hypothetical protein
+GHICDGJB_00881	gene	1053				
+GHICDGJB_00881	CDS	1053				hypothetical protein
+GHICDGJB_00882	gene	144				
+GHICDGJB_00882	CDS	144				hypothetical protein
+GHICDGJB_00883	gene	1239				
+GHICDGJB_00883	CDS	1239				hypothetical protein
+GHICDGJB_00884	gene	795	ttuA			
+GHICDGJB_00884	CDS	795	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+GHICDGJB_00885	gene	333				
+GHICDGJB_00885	CDS	333				hypothetical protein
+GHICDGJB_00886	gene	279	yccX			
+GHICDGJB_00886	CDS	279	yccX	3.6.1.7	COG1254	Acylphosphatase
+GHICDGJB_00887	gene	744				
+GHICDGJB_00887	CDS	744				hypothetical protein
+GHICDGJB_00888	gene	2229	ftsH			
+GHICDGJB_00888	CDS	2229	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GHICDGJB_00889	gene	1284				
+GHICDGJB_00889	CDS	1284				hypothetical protein
+GHICDGJB_00890	gene	1899	GATB			
+GHICDGJB_00890	CDS	1899	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+GHICDGJB_00891	gene	261				
+GHICDGJB_00891	CDS	261				hypothetical protein
+GHICDGJB_00892	gene	87				
+GHICDGJB_00892	tRNA	87				tRNA-Leu(cag)
+GHICDGJB_00893	gene	186				
+GHICDGJB_00893	CDS	186				hypothetical protein
+GHICDGJB_00894	gene	1095	dnaJ_4			
+GHICDGJB_00894	CDS	1095	dnaJ_4		COG0484	Chaperone protein DnaJ
+GHICDGJB_00895	gene	1404	dnaK			
+GHICDGJB_00895	CDS	1404	dnaK		COG0443	Chaperone protein DnaK
+GHICDGJB_00896	gene	522	grpE			
+GHICDGJB_00896	CDS	522	grpE		COG0576	Protein GrpE
+GHICDGJB_00897	gene	1137				
+GHICDGJB_00897	CDS	1137				hypothetical protein
+GHICDGJB_00898	gene	1029				
+GHICDGJB_00898	CDS	1029				hypothetical protein
+GHICDGJB_00899	gene	72				
+GHICDGJB_00899	tRNA	72				tRNA-Gln(ttg)
+GHICDGJB_00900	gene	390				
+GHICDGJB_00900	CDS	390				hypothetical protein
+GHICDGJB_00901	gene	1323	rtcB_2			
+GHICDGJB_00901	CDS	1323	rtcB_2	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+GHICDGJB_00902	gene	648	bacG			
+GHICDGJB_00902	CDS	648	bacG	1.3.1.-	COG1028	NADPH-dependent reductase BacG
+GHICDGJB_00903	gene	1362	purB			
+GHICDGJB_00903	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+GHICDGJB_00904	gene	744				
+GHICDGJB_00904	CDS	744				hypothetical protein
+GHICDGJB_00905	gene	300	phhB			
+GHICDGJB_00905	CDS	300	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+GHICDGJB_00906	gene	2322	valS_2			
+GHICDGJB_00906	CDS	2322	valS_2	6.1.1.9		Valine--tRNA ligase
+GHICDGJB_00907	gene	618	pdxT			
+GHICDGJB_00907	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+GHICDGJB_00908	gene	969	pdxS			
+GHICDGJB_00908	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GHICDGJB_00909	gene	534				
+GHICDGJB_00909	CDS	534				hypothetical protein
+GHICDGJB_00910	gene	75				
+GHICDGJB_00910	tRNA	75				tRNA-Trp(cca)
+GHICDGJB_00911	gene	381	acnA			
+GHICDGJB_00911	CDS	381	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+GHICDGJB_00912	gene	1647	citB			
+GHICDGJB_00912	CDS	1647	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+GHICDGJB_00913	gene	633				
+GHICDGJB_00913	CDS	633				hypothetical protein
+GHICDGJB_00914	gene	567				
+GHICDGJB_00914	CDS	567				hypothetical protein
+GHICDGJB_00915	gene	240				
+GHICDGJB_00915	CDS	240				hypothetical protein
+GHICDGJB_00916	gene	315				
+GHICDGJB_00916	CDS	315				hypothetical protein
+GHICDGJB_00917	gene	1644				
+GHICDGJB_00917	CDS	1644				hypothetical protein
+GHICDGJB_00918	gene	1398				
+GHICDGJB_00918	CDS	1398				hypothetical protein
+GHICDGJB_00919	gene	1113				
+GHICDGJB_00919	CDS	1113				hypothetical protein
+GHICDGJB_00920	gene	630				
+GHICDGJB_00920	CDS	630		3.1.-.-	COG1236	Ribonuclease
+GHICDGJB_00921	gene	813				
+GHICDGJB_00921	CDS	813				hypothetical protein
+GHICDGJB_00922	gene	76				
+GHICDGJB_00922	tRNA	76				tRNA-Arg(tct)
+GHICDGJB_00923	gene	351				
+GHICDGJB_00923	CDS	351				hypothetical protein
+GHICDGJB_00924	gene	498				
+GHICDGJB_00924	CDS	498				hypothetical protein
+GHICDGJB_00925	gene	327				
+GHICDGJB_00925	CDS	327				hypothetical protein
+GHICDGJB_00926	gene	744				
+GHICDGJB_00926	CDS	744				hypothetical protein
+GHICDGJB_00927	gene	429	petB			
+GHICDGJB_00927	CDS	429	petB			Cytochrome b6
+GHICDGJB_00928	gene	264				
+GHICDGJB_00928	CDS	264				hypothetical protein
+GHICDGJB_00929	gene	210				
+GHICDGJB_00929	CDS	210				hypothetical protein
+GHICDGJB_00930	gene	1176	argG			
+GHICDGJB_00930	CDS	1176	argG	6.3.4.5		Argininosuccinate synthase
+GHICDGJB_00931	gene	168				
+GHICDGJB_00931	CDS	168				hypothetical protein
+GHICDGJB_00932	gene	858	lysX_1			
+GHICDGJB_00932	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+GHICDGJB_00933	gene	1047	lysY			
+GHICDGJB_00933	CDS	1047	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+GHICDGJB_00934	gene	801	lysZ			
+GHICDGJB_00934	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+GHICDGJB_00935	gene	1182	lysJ			
+GHICDGJB_00935	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+GHICDGJB_00936	gene	420	lrp			
+GHICDGJB_00936	CDS	420	lrp		COG1522	Leucine-responsive regulatory protein
+GHICDGJB_00937	gene	1182	leuA_1			
+GHICDGJB_00937	CDS	1182	leuA_1	2.3.3.13		2-isopropylmalate synthase
+GHICDGJB_00938	gene	168				
+GHICDGJB_00938	CDS	168				hypothetical protein
+GHICDGJB_00939	gene	846	lysX_2			
+GHICDGJB_00939	CDS	846	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+GHICDGJB_00940	gene	1122	lysK			
+GHICDGJB_00940	CDS	1122	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+GHICDGJB_00941	gene	1038				
+GHICDGJB_00941	CDS	1038				hypothetical protein
+GHICDGJB_00942	gene	459	tarD			
+GHICDGJB_00942	CDS	459	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+GHICDGJB_00943	gene	693				
+GHICDGJB_00943	CDS	693				hypothetical protein
+GHICDGJB_00944	gene	1149				
+GHICDGJB_00944	CDS	1149				hypothetical protein
+GHICDGJB_00945	gene	342				
+GHICDGJB_00945	CDS	342				hypothetical protein
+GHICDGJB_00946	gene	162				
+GHICDGJB_00946	CDS	162				hypothetical protein
+GHICDGJB_00947	gene	1476				
+GHICDGJB_00947	CDS	1476				hypothetical protein
+GHICDGJB_00948	gene	537				
+GHICDGJB_00948	CDS	537				hypothetical protein
+GHICDGJB_00949	gene	141				
+GHICDGJB_00949	CDS	141				hypothetical protein
+GHICDGJB_00950	gene	741				
+GHICDGJB_00950	CDS	741		1.-.-.-		putative oxidoreductase
+GHICDGJB_00951	gene	213				
+GHICDGJB_00951	CDS	213				hypothetical protein
+GHICDGJB_00952	gene	75				
+GHICDGJB_00952	tRNA	75				tRNA-Pro(ggg)
+GHICDGJB_00953	gene	1368				
+GHICDGJB_00953	CDS	1368				hypothetical protein
+GHICDGJB_00954	gene	1341				
+GHICDGJB_00954	CDS	1341				hypothetical protein
+GHICDGJB_00955	gene	540	thpR			
+GHICDGJB_00955	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+GHICDGJB_00956	gene	549				
+GHICDGJB_00956	CDS	549				hypothetical protein
+GHICDGJB_00957	gene	384				
+GHICDGJB_00957	CDS	384				hypothetical protein
+GHICDGJB_00958	gene	288				
+GHICDGJB_00958	CDS	288				hypothetical protein
+GHICDGJB_00959	gene	897	rnz			
+GHICDGJB_00959	CDS	897	rnz	3.1.26.11	COG1234	Ribonuclease Z
+GHICDGJB_00960	gene	843	prs			
+GHICDGJB_00960	CDS	843	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GHICDGJB_00961	gene	480				
+GHICDGJB_00961	CDS	480				hypothetical protein
+GHICDGJB_00962	gene	1665				
+GHICDGJB_00962	CDS	1665				hypothetical protein
+GHICDGJB_00963	gene	1374				
+GHICDGJB_00963	CDS	1374				hypothetical protein
+GHICDGJB_00964	gene	330				
+GHICDGJB_00964	CDS	330				hypothetical protein
+GHICDGJB_00965	gene	99				
+GHICDGJB_00965	CDS	99				hypothetical protein
+GHICDGJB_00966	gene	540				
+GHICDGJB_00966	CDS	540				hypothetical protein
+GHICDGJB_00967	gene	513	cysC			
+GHICDGJB_00967	CDS	513	cysC	2.7.1.25		putative adenylyl-sulfate kinase
+GHICDGJB_00968	gene	795				
+GHICDGJB_00968	CDS	795				hypothetical protein
+GHICDGJB_00969	gene	1767				
+GHICDGJB_00969	CDS	1767				hypothetical protein
+GHICDGJB_00970	gene	1401	resA_2			
+GHICDGJB_00970	CDS	1401	resA_2			Thiol-disulfide oxidoreductase ResA
+GHICDGJB_00971	gene	465				
+GHICDGJB_00971	CDS	465				hypothetical protein
+GHICDGJB_00972	gene	258				
+GHICDGJB_00972	CDS	258				hypothetical protein
+GHICDGJB_00973	gene	831	mqnD			
+GHICDGJB_00973	CDS	831	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+GHICDGJB_00974	gene	411	yccU			
+GHICDGJB_00974	CDS	411	yccU		COG1832	putative protein YccU
+GHICDGJB_00975	gene	366				
+GHICDGJB_00975	CDS	366				hypothetical protein
+GHICDGJB_00976	gene	561	ychF			
+GHICDGJB_00976	CDS	561	ychF		COG0012	Ribosome-binding ATPase YchF
+GHICDGJB_00977	gene	591				
+GHICDGJB_00977	CDS	591				hypothetical protein
+GHICDGJB_00978	gene	858	tuf_2			
+GHICDGJB_00978	CDS	858	tuf_2			Elongation factor Tu
+GHICDGJB_00979	gene	1557				
+GHICDGJB_00979	CDS	1557				hypothetical protein
+GHICDGJB_00980	gene	144				
+GHICDGJB_00980	CDS	144				hypothetical protein
+GHICDGJB_00981	gene	891				
+GHICDGJB_00981	CDS	891				hypothetical protein
+GHICDGJB_00982	gene	75				
+GHICDGJB_00982	tRNA	75				tRNA-Glu(ctc)
+GHICDGJB_00983	gene	663				
+GHICDGJB_00983	CDS	663				hypothetical protein
+GHICDGJB_00984	gene	576				
+GHICDGJB_00984	CDS	576				hypothetical protein
+GHICDGJB_00985	gene	501				
+GHICDGJB_00985	CDS	501				hypothetical protein
+GHICDGJB_00986	gene	243				
+GHICDGJB_00986	CDS	243				hypothetical protein
+GHICDGJB_00987	gene	74				
+GHICDGJB_00987	tRNA	74				tRNA-Gly(gcc)
+GHICDGJB_00988	gene	687				
+GHICDGJB_00988	CDS	687				hypothetical protein
+GHICDGJB_00989	gene	1215				
+GHICDGJB_00989	CDS	1215				hypothetical protein
+GHICDGJB_00990	gene	273				
+GHICDGJB_00990	CDS	273				hypothetical protein
+GHICDGJB_00991	gene	324				
+GHICDGJB_00991	CDS	324				hypothetical protein
+GHICDGJB_00992	gene	747				
+GHICDGJB_00992	CDS	747				hypothetical protein
+GHICDGJB_00993	gene	1401	thrA			
+GHICDGJB_00993	CDS	1401	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+GHICDGJB_00994	gene	786				
+GHICDGJB_00994	CDS	786		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+GHICDGJB_00995	gene	1047				
+GHICDGJB_00995	CDS	1047				hypothetical protein
+GHICDGJB_00996	gene	495				
+GHICDGJB_00996	CDS	495				hypothetical protein
+GHICDGJB_00997	gene	378				
+GHICDGJB_00997	CDS	378				hypothetical protein
+GHICDGJB_00998	gene	579				
+GHICDGJB_00998	CDS	579				hypothetical protein
+GHICDGJB_00999	gene	333				
+GHICDGJB_00999	CDS	333				hypothetical protein
+GHICDGJB_01000	gene	894	RBKS			
+GHICDGJB_01000	CDS	894	RBKS	2.7.1.15		Ribokinase
+GHICDGJB_01001	gene	429				
+GHICDGJB_01001	CDS	429				hypothetical protein
+GHICDGJB_01002	gene	156				
+GHICDGJB_01002	CDS	156				hypothetical protein
+GHICDGJB_01003	gene	552				
+GHICDGJB_01003	CDS	552				hypothetical protein
+GHICDGJB_01004	gene	1287	apgM			
+GHICDGJB_01004	CDS	1287	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GHICDGJB_01005	gene	1017				
+GHICDGJB_01005	CDS	1017				hypothetical protein
+GHICDGJB_01006	gene	453				
+GHICDGJB_01006	CDS	453				hypothetical protein
+GHICDGJB_01007	gene	2085				
+GHICDGJB_01007	CDS	2085				hypothetical protein
+GHICDGJB_01008	gene	117				
+GHICDGJB_01008	CDS	117				hypothetical protein
+GHICDGJB_01009	gene	702				
+GHICDGJB_01009	CDS	702				hypothetical protein
+GHICDGJB_01010	gene	606	rlmE			
+GHICDGJB_01010	CDS	606	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+GHICDGJB_01011	gene	747	cpdA_2			
+GHICDGJB_01011	CDS	747	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GHICDGJB_01012	gene	87				
+GHICDGJB_01012	tRNA	87				tRNA-Ser(gct)
+GHICDGJB_01013	gene	162				
+GHICDGJB_01013	CDS	162				hypothetical protein
+GHICDGJB_01014	gene	174				
+GHICDGJB_01014	CDS	174				hypothetical protein
+GHICDGJB_01015	gene	369				
+GHICDGJB_01015	CDS	369				hypothetical protein
+GHICDGJB_01016	gene	1449	pyrG			
+GHICDGJB_01016	CDS	1449	pyrG	6.3.4.2		CTP synthase
+GHICDGJB_01017	gene	1020	nadK_2			
+GHICDGJB_01017	CDS	1020	nadK_2	2.7.1.23		NAD kinase
+GHICDGJB_01018	gene	873				
+GHICDGJB_01018	CDS	873				hypothetical protein
+GHICDGJB_01019	gene	291				
+GHICDGJB_01019	CDS	291				hypothetical protein
+GHICDGJB_01020	gene	567				
+GHICDGJB_01020	CDS	567		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+GHICDGJB_01021	gene	867	speB			
+GHICDGJB_01021	CDS	867	speB	3.5.3.11	COG0010	Agmatinase
+GHICDGJB_01022	gene	1851				
+GHICDGJB_01022	CDS	1851				hypothetical protein
+GHICDGJB_01023	gene	165				
+GHICDGJB_01023	CDS	165				hypothetical protein
+GHICDGJB_01024	gene	249				
+GHICDGJB_01024	CDS	249				hypothetical protein
+GHICDGJB_01025	gene	153				
+GHICDGJB_01025	CDS	153				hypothetical protein
+GHICDGJB_01026	gene	342				
+GHICDGJB_01026	CDS	342				hypothetical protein
+GHICDGJB_01027	gene	402				
+GHICDGJB_01027	CDS	402				hypothetical protein
+GHICDGJB_01028	gene	1107				
+GHICDGJB_01028	CDS	1107		2.5.-.-		Deoxyhypusine synthase-like protein
+GHICDGJB_01029	gene	147				
+GHICDGJB_01029	CDS	147				hypothetical protein
+GHICDGJB_01030	gene	333				
+GHICDGJB_01030	CDS	333				hypothetical protein
+GHICDGJB_01031	gene	213				
+GHICDGJB_01031	CDS	213				hypothetical protein
+GHICDGJB_01032	gene	300				
+GHICDGJB_01032	CDS	300				hypothetical protein
+GHICDGJB_01033	gene	390				
+GHICDGJB_01033	CDS	390				hypothetical protein
+GHICDGJB_01034	gene	585				
+GHICDGJB_01034	CDS	585				hypothetical protein
+GHICDGJB_01035	gene	291				
+GHICDGJB_01035	CDS	291				hypothetical protein
+GHICDGJB_01036	gene	417				
+GHICDGJB_01036	CDS	417				hypothetical protein
+GHICDGJB_01037	gene	942				
+GHICDGJB_01037	CDS	942				hypothetical protein
+GHICDGJB_01038	gene	168				
+GHICDGJB_01038	CDS	168				hypothetical protein
+GHICDGJB_01039	gene	1095				
+GHICDGJB_01039	CDS	1095				hypothetical protein
+GHICDGJB_01040	gene	885	menA			
+GHICDGJB_01040	CDS	885	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+GHICDGJB_01041	gene	405				
+GHICDGJB_01041	CDS	405				hypothetical protein
+GHICDGJB_01042	gene	288				
+GHICDGJB_01042	CDS	288				hypothetical protein
+GHICDGJB_01043	gene	858	alaA			
+GHICDGJB_01043	CDS	858	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+GHICDGJB_01044	gene	402				
+GHICDGJB_01044	CDS	402				hypothetical protein
+GHICDGJB_01045	gene	237				
+GHICDGJB_01045	CDS	237				hypothetical protein
+GHICDGJB_01046	gene	672				
+GHICDGJB_01046	CDS	672				hypothetical protein
+GHICDGJB_01047	gene	618	pspA			
+GHICDGJB_01047	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GHICDGJB_01048	gene	264				
+GHICDGJB_01048	CDS	264				hypothetical protein
+GHICDGJB_01049	gene	432	coxM			
+GHICDGJB_01049	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+GHICDGJB_01050	gene	1527	ctaD			
+GHICDGJB_01050	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+GHICDGJB_01051	gene	984	petE			
+GHICDGJB_01051	CDS	984	petE			Plastocyanin
+GHICDGJB_01052	gene	444	ctaA			
+GHICDGJB_01052	CDS	444	ctaA	1.3.-.-	COG1612	Heme A synthase
+GHICDGJB_01053	gene	525				
+GHICDGJB_01053	CDS	525				hypothetical protein
+GHICDGJB_01054	gene	600				
+GHICDGJB_01054	CDS	600				hypothetical protein
+GHICDGJB_01055	gene	75				
+GHICDGJB_01055	tRNA	75				tRNA-Lys(ctt)
+GHICDGJB_01056	gene	915	ilvE_2			
+GHICDGJB_01056	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GHICDGJB_01057	gene	1362				
+GHICDGJB_01057	CDS	1362				hypothetical protein
+GHICDGJB_01058	gene	1035	murG			
+GHICDGJB_01058	CDS	1035	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GHICDGJB_01059	gene	76				
+GHICDGJB_01059	tRNA	76				tRNA-Val(tac)
+GHICDGJB_01060	gene	273				
+GHICDGJB_01060	CDS	273				hypothetical protein
+GHICDGJB_01061	gene	894				
+GHICDGJB_01061	CDS	894				hypothetical protein
+GHICDGJB_01062	gene	735				
+GHICDGJB_01062	CDS	735				hypothetical protein
+GHICDGJB_01063	gene	816	panB			
+GHICDGJB_01063	CDS	816	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+GHICDGJB_01064	gene	1236	coaBC			
+GHICDGJB_01064	CDS	1236	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+GHICDGJB_01065	gene	846	COQ5_2			
+GHICDGJB_01065	CDS	846	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GHICDGJB_01066	gene	1068				
+GHICDGJB_01066	CDS	1068		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+GHICDGJB_01067	gene	279				
+GHICDGJB_01067	CDS	279				hypothetical protein
+GHICDGJB_01068	gene	1890	rnj			
+GHICDGJB_01068	CDS	1890	rnj	3.1.-.-		Ribonuclease J
+GHICDGJB_01069	gene	633	prcB_2			
+GHICDGJB_01069	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+GHICDGJB_01070	gene	1029	egsA			
+GHICDGJB_01070	CDS	1029	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+GHICDGJB_01071	gene	738				
+GHICDGJB_01071	CDS	738				hypothetical protein
+GHICDGJB_01072	gene	1140				
+GHICDGJB_01072	CDS	1140		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GHICDGJB_01073	gene	495				
+GHICDGJB_01073	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+GHICDGJB_01074	gene	501				
+GHICDGJB_01074	CDS	501				hypothetical protein
+GHICDGJB_01075	gene	495				
+GHICDGJB_01075	CDS	495				hypothetical protein
+GHICDGJB_01076	gene	76				
+GHICDGJB_01076	tRNA	76				tRNA-Val(gac)
+GHICDGJB_01077	gene	711	bluB			
+GHICDGJB_01077	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+GHICDGJB_01078	gene	76				
+GHICDGJB_01078	tRNA	76				tRNA-Arg(cct)
+GHICDGJB_01079	gene	522				
+GHICDGJB_01079	CDS	522		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+GHICDGJB_01080	gene	408				
+GHICDGJB_01080	CDS	408				hypothetical protein
+GHICDGJB_01081	gene	411				
+GHICDGJB_01081	CDS	411				hypothetical protein
+GHICDGJB_01082	gene	237				
+GHICDGJB_01082	CDS	237				hypothetical protein
+GHICDGJB_01083	gene	465	yliI			
+GHICDGJB_01083	CDS	465	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+GHICDGJB_01084	gene	1161	mvaA			
+GHICDGJB_01084	CDS	1161	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+GHICDGJB_01085	gene	978	hisG			
+GHICDGJB_01085	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+GHICDGJB_01086	gene	1236	hisD			
+GHICDGJB_01086	CDS	1236	hisD	1.1.1.23		Histidinol dehydrogenase
+GHICDGJB_01087	gene	828	hisC			
+GHICDGJB_01087	CDS	828	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+GHICDGJB_01088	gene	363				
+GHICDGJB_01088	CDS	363				hypothetical protein
+GHICDGJB_01089	gene	447				
+GHICDGJB_01089	CDS	447				hypothetical protein
+GHICDGJB_01090	gene	588	hisB			
+GHICDGJB_01090	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+GHICDGJB_01091	gene	720	cysH			
+GHICDGJB_01091	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+GHICDGJB_01092	gene	1128	sat			
+GHICDGJB_01092	CDS	1128	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+GHICDGJB_01093	gene	672				
+GHICDGJB_01093	CDS	672				hypothetical protein
+GHICDGJB_01094	gene	654	nth			
+GHICDGJB_01094	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+GHICDGJB_01095	gene	1164				
+GHICDGJB_01095	CDS	1164				hypothetical protein
+GHICDGJB_01096	gene	384				
+GHICDGJB_01096	CDS	384				hypothetical protein
+GHICDGJB_01097	gene	1905				
+GHICDGJB_01097	CDS	1905				hypothetical protein
+GHICDGJB_01098	gene	504				
+GHICDGJB_01098	CDS	504				hypothetical protein
+GHICDGJB_01099	gene	591	cbiT			
+GHICDGJB_01099	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+GHICDGJB_01100	gene	723	cbiL			
+GHICDGJB_01100	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+GHICDGJB_01101	gene	777	cbiF			
+GHICDGJB_01101	CDS	777	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+GHICDGJB_01102	gene	744	murI			
+GHICDGJB_01102	CDS	744	murI	5.1.1.3		Glutamate racemase
+GHICDGJB_01103	gene	663				
+GHICDGJB_01103	CDS	663				hypothetical protein
+GHICDGJB_01104	gene	714				
+GHICDGJB_01104	CDS	714		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+GHICDGJB_01105	gene	1458	glyQS			
+GHICDGJB_01105	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+GHICDGJB_01106	gene	840	nfo			
+GHICDGJB_01106	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+GHICDGJB_01107	gene	1011				
+GHICDGJB_01107	CDS	1011				hypothetical protein
+GHICDGJB_01108	gene	1122				
+GHICDGJB_01108	CDS	1122				hypothetical protein
+GHICDGJB_01109	gene	2853				
+GHICDGJB_01109	CDS	2853				hypothetical protein
+GHICDGJB_01110	gene	537	trpG_2			
+GHICDGJB_01110	CDS	537	trpG_2	4.1.3.27	COG0512	Anthranilate synthase component 2
+GHICDGJB_01111	gene	852				
+GHICDGJB_01111	CDS	852				hypothetical protein
+GHICDGJB_01112	gene	207				
+GHICDGJB_01112	CDS	207				hypothetical protein
+GHICDGJB_01113	gene	177				
+GHICDGJB_01113	CDS	177				hypothetical protein
+GHICDGJB_01114	gene	612				
+GHICDGJB_01114	CDS	612				hypothetical protein
+GHICDGJB_01115	gene	933				
+GHICDGJB_01115	CDS	933				hypothetical protein
+GHICDGJB_01116	gene	405				
+GHICDGJB_01116	CDS	405				hypothetical protein
+GHICDGJB_01117	gene	1398				
+GHICDGJB_01117	CDS	1398				hypothetical protein
+GHICDGJB_01118	gene	426				
+GHICDGJB_01118	CDS	426				hypothetical protein
+GHICDGJB_01119	gene	939				
+GHICDGJB_01119	CDS	939				hypothetical protein
+GHICDGJB_01120	gene	390				
+GHICDGJB_01120	CDS	390				hypothetical protein
+GHICDGJB_01121	gene	2496	pepN			
+GHICDGJB_01121	CDS	2496	pepN	3.4.11.2	COG0308	Aminopeptidase N
+GHICDGJB_01122	gene	312				
+GHICDGJB_01122	CDS	312				hypothetical protein
+GHICDGJB_01123	gene	2037				
+GHICDGJB_01123	CDS	2037				hypothetical protein
+GHICDGJB_01124	gene	345				
+GHICDGJB_01124	CDS	345				hypothetical protein
+GHICDGJB_01125	gene	1503	dbpA			
+GHICDGJB_01125	CDS	1503	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+GHICDGJB_01126	gene	519				
+GHICDGJB_01126	CDS	519				hypothetical protein
+GHICDGJB_01127	gene	2562				
+GHICDGJB_01127	CDS	2562				hypothetical protein
+GHICDGJB_01128	gene	288				
+GHICDGJB_01128	CDS	288			COG4095	Sugar transporter SemiSWEET
+GHICDGJB_01129	gene	663	tpiA			
+GHICDGJB_01129	CDS	663	tpiA			Triosephosphate isomerase
+GHICDGJB_01130	gene	2661	ppdK			
+GHICDGJB_01130	CDS	2661	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+GHICDGJB_01131	gene	309	bcp_2			
+GHICDGJB_01131	CDS	309	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GHICDGJB_01132	gene	552	pdaD			
+GHICDGJB_01132	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+GHICDGJB_01133	gene	1209				
+GHICDGJB_01133	CDS	1209				hypothetical protein
+GHICDGJB_01134	gene	1674	pepF1			
+GHICDGJB_01134	CDS	1674	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+GHICDGJB_01135	gene	77				
+GHICDGJB_01135	tRNA	77				tRNA-Val(cac)
+GHICDGJB_01136	gene	720				
+GHICDGJB_01136	CDS	720				hypothetical protein
+GHICDGJB_01137	gene	318				
+GHICDGJB_01137	CDS	318				hypothetical protein
+GHICDGJB_01138	gene	279				
+GHICDGJB_01138	CDS	279				hypothetical protein
+GHICDGJB_01139	gene	174				
+GHICDGJB_01139	CDS	174				hypothetical protein
+GHICDGJB_01140	gene	465				
+GHICDGJB_01140	CDS	465		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+GHICDGJB_01141	gene	1251				
+GHICDGJB_01141	CDS	1251				hypothetical protein
+GHICDGJB_01142	gene	456	dnaJ_5			
+GHICDGJB_01142	CDS	456	dnaJ_5			Chaperone protein DnaJ
+GHICDGJB_01143	gene	462				
+GHICDGJB_01143	CDS	462				hypothetical protein
+GHICDGJB_01144	gene	168				
+GHICDGJB_01144	CDS	168				hypothetical protein
+GHICDGJB_01145	gene	918	sucD			
+GHICDGJB_01145	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GHICDGJB_01146	gene	1107	sucC			
+GHICDGJB_01146	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+GHICDGJB_01147	gene	333				
+GHICDGJB_01147	CDS	333				hypothetical protein
+GHICDGJB_01148	gene	3201	ileS			
+GHICDGJB_01148	CDS	3201	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GHICDGJB_01149	gene	1263	purD			
+GHICDGJB_01149	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GHICDGJB_01150	gene	561				
+GHICDGJB_01150	CDS	561		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+GHICDGJB_01151	gene	870	folD			
+GHICDGJB_01151	CDS	870	folD		COG0190	Bifunctional protein FolD protein
+GHICDGJB_01152	gene	285				
+GHICDGJB_01152	CDS	285				hypothetical protein
+GHICDGJB_01153	gene	321				
+GHICDGJB_01153	CDS	321				hypothetical protein
+GHICDGJB_01154	gene	579	purN			
+GHICDGJB_01154	CDS	579	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+GHICDGJB_01155	gene	927				
+GHICDGJB_01155	CDS	927				hypothetical protein
+GHICDGJB_01156	gene	1581	uvrC			
+GHICDGJB_01156	CDS	1581	uvrC		COG0322	UvrABC system protein C
+GHICDGJB_01157	gene	2820	uvrA			
+GHICDGJB_01157	CDS	2820	uvrA			UvrABC system protein A
+GHICDGJB_01158	gene	1941	uvrB			
+GHICDGJB_01158	CDS	1941	uvrB			UvrABC system protein B
+GHICDGJB_01159	gene	711				
+GHICDGJB_01159	CDS	711				hypothetical protein
+GHICDGJB_01160	gene	633				
+GHICDGJB_01160	CDS	633				hypothetical protein
+GHICDGJB_01161	gene	1083				
+GHICDGJB_01161	CDS	1083		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+GHICDGJB_01162	gene	945	gbsB			
+GHICDGJB_01162	CDS	945	gbsB	1.1.1.-	COG1454	Choline dehydrogenase
+GHICDGJB_01163	gene	1281				
+GHICDGJB_01163	CDS	1281		2.7.1.165	COG2379	D-glycerate 2-kinase
+GHICDGJB_01164	gene	444				
+GHICDGJB_01164	CDS	444				hypothetical protein
+GHICDGJB_01165	gene	177				
+GHICDGJB_01165	CDS	177				hypothetical protein
+GHICDGJB_01166	gene	1164	citZ			
+GHICDGJB_01166	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+GHICDGJB_01167	gene	192				
+GHICDGJB_01167	CDS	192				hypothetical protein
+GHICDGJB_01168	gene	996				
+GHICDGJB_01168	CDS	996				hypothetical protein
+GHICDGJB_01169	gene	555				
+GHICDGJB_01169	CDS	555				hypothetical protein
+GHICDGJB_01170	gene	459				
+GHICDGJB_01170	CDS	459				hypothetical protein
+GHICDGJB_01171	gene	945	mpa			
+GHICDGJB_01171	CDS	945	mpa			Proteasome-associated ATPase
+GHICDGJB_01172	gene	189				
+GHICDGJB_01172	CDS	189				hypothetical protein
+GHICDGJB_01173	gene	1065	carA			
+GHICDGJB_01173	CDS	1065	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+GHICDGJB_01174	gene	915	mdh_2			
+GHICDGJB_01174	CDS	915	mdh_2	1.1.1.37	COG0039	Malate dehydrogenase
+GHICDGJB_01175	gene	771	larB			
+GHICDGJB_01175	CDS	771	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+GHICDGJB_01176	gene	372				
+GHICDGJB_01176	CDS	372				hypothetical protein
+GHICDGJB_01177	gene	294				
+GHICDGJB_01177	CDS	294				hypothetical protein
+GHICDGJB_01178	gene	684				
+GHICDGJB_01178	CDS	684		3.1.3.3	COG0560	Phosphoserine phosphatase
+GHICDGJB_01179	gene	738	fbiB_2			
+GHICDGJB_01179	CDS	738	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+GHICDGJB_01180	gene	912				
+GHICDGJB_01180	CDS	912				hypothetical protein
+GHICDGJB_01181	gene	234	tusA			
+GHICDGJB_01181	CDS	234	tusA		COG0425	Sulfur carrier protein TusA
+GHICDGJB_01182	gene	876	carB			
+GHICDGJB_01182	CDS	876	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+GHICDGJB_01183	gene	660				
+GHICDGJB_01183	CDS	660				hypothetical protein
+GHICDGJB_01184	gene	303				
+GHICDGJB_01184	CDS	303				hypothetical protein
+GHICDGJB_01185	gene	303				
+GHICDGJB_01185	CDS	303				hypothetical protein
+GHICDGJB_01186	gene	204				
+GHICDGJB_01186	CDS	204				hypothetical protein
+GHICDGJB_01187	gene	405				
+GHICDGJB_01187	CDS	405				hypothetical protein
+GHICDGJB_01188	gene	1638	ilvB			
+GHICDGJB_01188	CDS	1638	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+GHICDGJB_01189	gene	492	ilvH			
+GHICDGJB_01189	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+GHICDGJB_01190	gene	1524	leuA_2			
+GHICDGJB_01190	CDS	1524	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+GHICDGJB_01191	gene	1014	hicd_2			
+GHICDGJB_01191	CDS	1014	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+GHICDGJB_01192	gene	117				
+GHICDGJB_01192	CDS	117				hypothetical protein
+GHICDGJB_01193	gene	1287	aspS2_2			
+GHICDGJB_01193	CDS	1287	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+GHICDGJB_01194	gene	936	oppD			
+GHICDGJB_01194	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+GHICDGJB_01195	gene	375				
+GHICDGJB_01195	CDS	375				hypothetical protein
+GHICDGJB_01196	gene	666				
+GHICDGJB_01196	CDS	666				hypothetical protein
+GHICDGJB_01197	gene	567				
+GHICDGJB_01197	CDS	567		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+GHICDGJB_01198	gene	1104	obg			
+GHICDGJB_01198	CDS	1104	obg	3.6.5.-		GTPase Obg
+GHICDGJB_01199	gene	711				
+GHICDGJB_01199	CDS	711		3.1.3.-		Putative phosphatase
+GHICDGJB_01200	gene	1884	argS			
+GHICDGJB_01200	CDS	1884	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GHICDGJB_01201	gene	714				
+GHICDGJB_01201	CDS	714				hypothetical protein
+GHICDGJB_01202	gene	822				
+GHICDGJB_01202	CDS	822				hypothetical protein
+GHICDGJB_01203	gene	243				
+GHICDGJB_01203	CDS	243				hypothetical protein
+GHICDGJB_01204	gene	759	yfcA			
+GHICDGJB_01204	CDS	759	yfcA		COG0730	putative membrane transporter protein YfcA
+GHICDGJB_01205	gene	462				
+GHICDGJB_01205	CDS	462				hypothetical protein
+GHICDGJB_01206	gene	1749				
+GHICDGJB_01206	CDS	1749				hypothetical protein
+GHICDGJB_01207	gene	237				
+GHICDGJB_01207	CDS	237				hypothetical protein
+GHICDGJB_01208	gene	372				
+GHICDGJB_01208	CDS	372				hypothetical protein
+GHICDGJB_01209	gene	537				
+GHICDGJB_01209	CDS	537				hypothetical protein
+GHICDGJB_01210	gene	651				
+GHICDGJB_01210	CDS	651				hypothetical protein
+GHICDGJB_01211	gene	1758	lig			
+GHICDGJB_01211	CDS	1758	lig	6.5.1.1		DNA ligase
+GHICDGJB_01212	gene	429				
+GHICDGJB_01212	CDS	429				hypothetical protein
+GHICDGJB_01213	gene	1137	fbp			
+GHICDGJB_01213	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+GHICDGJB_01214	gene	1299	tuf_3			
+GHICDGJB_01214	CDS	1299	tuf_3		COG0050	Elongation factor Tu
+GHICDGJB_01215	gene	309	rpsJ			
+GHICDGJB_01215	CDS	309	rpsJ			30S ribosomal protein S10
+GHICDGJB_01216	gene	189				
+GHICDGJB_01216	CDS	189				hypothetical protein
+GHICDGJB_01217	gene	411				
+GHICDGJB_01217	CDS	411				hypothetical protein
+GHICDGJB_01218	gene	111				
+GHICDGJB_01218	CDS	111				hypothetical protein
+GHICDGJB_01219	gene	510				
+GHICDGJB_01219	CDS	510				hypothetical protein
+GHICDGJB_01220	gene	1101	fadB			
+GHICDGJB_01220	CDS	1101	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+GHICDGJB_01221	gene	183				
+GHICDGJB_01221	CDS	183				hypothetical protein
+GHICDGJB_01222	gene	513				
+GHICDGJB_01222	CDS	513				hypothetical protein
+GHICDGJB_01223	gene	1491	cfiB_2			
+GHICDGJB_01223	CDS	1491	cfiB_2	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+GHICDGJB_01224	gene	696	accD5			
+GHICDGJB_01224	CDS	696	accD5	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+GHICDGJB_01225	gene	1251				
+GHICDGJB_01225	CDS	1251				hypothetical protein
+GHICDGJB_01226	gene	228				
+GHICDGJB_01226	CDS	228				hypothetical protein
+GHICDGJB_01227	gene	234				
+GHICDGJB_01227	CDS	234				hypothetical protein
+GHICDGJB_01228	gene	600				
+GHICDGJB_01228	CDS	600				hypothetical protein
+GHICDGJB_01229	gene	852				
+GHICDGJB_01229	CDS	852				hypothetical protein
+GHICDGJB_01230	gene	150				
+GHICDGJB_01230	CDS	150				hypothetical protein
+GHICDGJB_01231	gene	549				
+GHICDGJB_01231	CDS	549				hypothetical protein
+GHICDGJB_01232	gene	1470				
+GHICDGJB_01232	CDS	1470				hypothetical protein
+GHICDGJB_01233	gene	366				
+GHICDGJB_01233	CDS	366				hypothetical protein
+GHICDGJB_01234	gene	189				
+GHICDGJB_01234	CDS	189				hypothetical protein
+GHICDGJB_01235	gene	582				
+GHICDGJB_01235	CDS	582				hypothetical protein
+GHICDGJB_01236	gene	372				
+GHICDGJB_01236	CDS	372				hypothetical protein
+GHICDGJB_01237	gene	378				
+GHICDGJB_01237	CDS	378				hypothetical protein
+GHICDGJB_01238	gene	273				
+GHICDGJB_01238	CDS	273				hypothetical protein
+GHICDGJB_01239	gene	255				
+GHICDGJB_01239	CDS	255				hypothetical protein
+GHICDGJB_01240	gene	813				
+GHICDGJB_01240	CDS	813				hypothetical protein
+GHICDGJB_01241	gene	432				
+GHICDGJB_01241	CDS	432				hypothetical protein
+GHICDGJB_01242	gene	1092				
+GHICDGJB_01242	CDS	1092				hypothetical protein
+GHICDGJB_01243	gene	120				
+GHICDGJB_01243	CDS	120				hypothetical protein
+GHICDGJB_01244	gene	558	vdcB			
+GHICDGJB_01244	CDS	558	vdcB	2.5.1.129		putative UbiX-like flavin prenyltransferase
+GHICDGJB_01245	gene	420				
+GHICDGJB_01245	CDS	420				hypothetical protein
+GHICDGJB_01246	gene	198	tatA_2			
+GHICDGJB_01246	CDS	198	tatA_2			Sec-independent protein translocase protein TatA
+GHICDGJB_01247	gene	792	tatC			
+GHICDGJB_01247	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+GHICDGJB_01248	gene	462				
+GHICDGJB_01248	CDS	462				hypothetical protein
+GHICDGJB_01249	gene	261	purS			
+GHICDGJB_01249	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+GHICDGJB_01250	gene	417	hrp1			
+GHICDGJB_01250	CDS	417	hrp1		COG0517	Hypoxic response protein 1
+GHICDGJB_01251	gene	681	purQ			
+GHICDGJB_01251	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+GHICDGJB_01252	gene	2160	purL			
+GHICDGJB_01252	CDS	2160	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+GHICDGJB_01253	gene	1434	purF			
+GHICDGJB_01253	CDS	1434	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+GHICDGJB_01254	gene	249				
+GHICDGJB_01254	CDS	249				hypothetical protein
+GHICDGJB_01255	gene	141				
+GHICDGJB_01255	CDS	141				hypothetical protein
+GHICDGJB_01256	gene	381				
+GHICDGJB_01256	CDS	381				hypothetical protein
+GHICDGJB_01257	gene	825	purC			
+GHICDGJB_01257	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GHICDGJB_01258	gene	501				
+GHICDGJB_01258	CDS	501				hypothetical protein
+GHICDGJB_01259	gene	459				
+GHICDGJB_01259	CDS	459				hypothetical protein
+GHICDGJB_01260	gene	408				
+GHICDGJB_01260	CDS	408				hypothetical protein
+GHICDGJB_01261	gene	444				
+GHICDGJB_01261	CDS	444				hypothetical protein
+GHICDGJB_01262	gene	222				
+GHICDGJB_01262	CDS	222				hypothetical protein
+GHICDGJB_01263	gene	249				
+GHICDGJB_01263	CDS	249				hypothetical protein
+GHICDGJB_01264	gene	75				
+GHICDGJB_01264	tRNA	75				tRNA-Asn(gtt)
+GHICDGJB_01265	gene	294				
+GHICDGJB_01265	CDS	294				hypothetical protein
+GHICDGJB_01266	gene	558				
+GHICDGJB_01266	CDS	558				hypothetical protein
+GHICDGJB_01267	gene	393	rpsH			
+GHICDGJB_01267	CDS	393	rpsH			30S ribosomal protein S8
+GHICDGJB_01268	gene	216				
+GHICDGJB_01268	CDS	216				hypothetical protein
+GHICDGJB_01269	gene	522				
+GHICDGJB_01269	CDS	522				hypothetical protein
+GHICDGJB_01270	gene	717				
+GHICDGJB_01270	CDS	717				hypothetical protein
+GHICDGJB_01271	gene	474				
+GHICDGJB_01271	CDS	474				hypothetical protein
+GHICDGJB_01272	gene	432	rplN			
+GHICDGJB_01272	CDS	432	rplN		COG0093	50S ribosomal protein L14
+GHICDGJB_01273	gene	330				
+GHICDGJB_01273	CDS	330				hypothetical protein
+GHICDGJB_01274	gene	258				
+GHICDGJB_01274	CDS	258				hypothetical protein
+GHICDGJB_01275	gene	204				
+GHICDGJB_01275	CDS	204				hypothetical protein
+GHICDGJB_01276	gene	738				
+GHICDGJB_01276	CDS	738				hypothetical protein
+GHICDGJB_01277	gene	459				
+GHICDGJB_01277	CDS	459				hypothetical protein
+GHICDGJB_01278	gene	396				
+GHICDGJB_01278	CDS	396				hypothetical protein
+GHICDGJB_01279	gene	267				
+GHICDGJB_01279	CDS	267				hypothetical protein
+GHICDGJB_01280	gene	813				
+GHICDGJB_01280	CDS	813				hypothetical protein
+GHICDGJB_01281	gene	993				
+GHICDGJB_01281	CDS	993				hypothetical protein
+GHICDGJB_01282	gene	111				
+GHICDGJB_01282	CDS	111				hypothetical protein
+GHICDGJB_01283	gene	819				
+GHICDGJB_01283	CDS	819				hypothetical protein
+GHICDGJB_01284	gene	735	prcA_2			
+GHICDGJB_01284	CDS	735	prcA_2			Proteasome subunit alpha
+GHICDGJB_01285	gene	333				
+GHICDGJB_01285	CDS	333				hypothetical protein
+GHICDGJB_01286	gene	657				
+GHICDGJB_01286	CDS	657				hypothetical protein
+GHICDGJB_01287	gene	1089	resA_3			
+GHICDGJB_01287	CDS	1089	resA_3			Thiol-disulfide oxidoreductase ResA
+GHICDGJB_01288	gene	660				
+GHICDGJB_01288	CDS	660				hypothetical protein
+GHICDGJB_01289	gene	105				
+GHICDGJB_01289	CDS	105				hypothetical protein
+GHICDGJB_01290	gene	1131	bioF			
+GHICDGJB_01290	CDS	1131	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+GHICDGJB_01291	gene	981	bioB			
+GHICDGJB_01291	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+GHICDGJB_01292	gene	1362	bioK			
+GHICDGJB_01292	CDS	1362	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+GHICDGJB_01293	gene	696	bioD1			
+GHICDGJB_01293	CDS	696	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+GHICDGJB_01294	gene	552				
+GHICDGJB_01294	CDS	552				hypothetical protein
+GHICDGJB_01295	gene	1398	mvaS			
+GHICDGJB_01295	CDS	1398	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+GHICDGJB_01296	gene	636				
+GHICDGJB_01296	CDS	636				hypothetical protein
+GHICDGJB_01297	gene	1050				
+GHICDGJB_01297	CDS	1050				hypothetical protein
+GHICDGJB_01298	gene	1245				
+GHICDGJB_01298	CDS	1245				hypothetical protein
+GHICDGJB_01299	gene	1344				
+GHICDGJB_01299	CDS	1344				hypothetical protein
+GHICDGJB_01300	gene	378				
+GHICDGJB_01300	CDS	378				hypothetical protein
+GHICDGJB_01301	gene	312				
+GHICDGJB_01301	CDS	312				hypothetical protein
+GHICDGJB_01302	gene	360				
+GHICDGJB_01302	CDS	360				hypothetical protein
+GHICDGJB_01303	gene	546				
+GHICDGJB_01303	CDS	546				hypothetical protein
+GHICDGJB_01304	gene	1107	fadA			
+GHICDGJB_01304	CDS	1107	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+GHICDGJB_01305	gene	978				
+GHICDGJB_01305	CDS	978		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+GHICDGJB_01306	gene	585	cugP_2			
+GHICDGJB_01306	CDS	585	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GHICDGJB_01307	gene	576	dedA			
+GHICDGJB_01307	CDS	576	dedA		COG0586	Protein DedA
+GHICDGJB_01308	gene	135				
+GHICDGJB_01308	CDS	135				hypothetical protein
+GHICDGJB_01309	gene	396				
+GHICDGJB_01309	CDS	396				hypothetical protein
+GHICDGJB_01310	gene	1143	purK			
+GHICDGJB_01310	CDS	1143	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+GHICDGJB_01311	gene	588	purE			
+GHICDGJB_01311	CDS	588	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GHICDGJB_01312	gene	1209	tdcB			
+GHICDGJB_01312	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+GHICDGJB_01313	gene	834				
+GHICDGJB_01313	CDS	834				hypothetical protein
+GHICDGJB_01314	gene	621				
+GHICDGJB_01314	CDS	621				hypothetical protein
+GHICDGJB_01315	gene	861				
+GHICDGJB_01315	CDS	861				hypothetical protein

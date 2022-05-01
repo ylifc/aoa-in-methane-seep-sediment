@@ -1,0 +1,4129 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OIADNFMB_00001	gene	435				
+OIADNFMB_00001	CDS	435				hypothetical protein
+OIADNFMB_00002	gene	426				
+OIADNFMB_00002	CDS	426				hypothetical protein
+OIADNFMB_00003	gene	1092				
+OIADNFMB_00003	CDS	1092				hypothetical protein
+OIADNFMB_00004	gene	573				
+OIADNFMB_00004	CDS	573				hypothetical protein
+OIADNFMB_00005	gene	762	soj			
+OIADNFMB_00005	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+OIADNFMB_00006	gene	648	cysG			
+OIADNFMB_00006	CDS	648	cysG		COG0007	Siroheme synthase
+OIADNFMB_00007	gene	126				
+OIADNFMB_00007	CDS	126				hypothetical protein
+OIADNFMB_00008	gene	249				
+OIADNFMB_00008	CDS	249				hypothetical protein
+OIADNFMB_00009	gene	1374				
+OIADNFMB_00009	CDS	1374				hypothetical protein
+OIADNFMB_00010	gene	525				
+OIADNFMB_00010	CDS	525				hypothetical protein
+OIADNFMB_00011	gene	648	nnr_1			
+OIADNFMB_00011	CDS	648	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OIADNFMB_00012	gene	615				
+OIADNFMB_00012	CDS	615				hypothetical protein
+OIADNFMB_00013	gene	87				
+OIADNFMB_00013	tRNA	87				tRNA-Leu(gag)
+OIADNFMB_00014	gene	237				
+OIADNFMB_00014	CDS	237				hypothetical protein
+OIADNFMB_00015	gene	258				
+OIADNFMB_00015	CDS	258				hypothetical protein
+OIADNFMB_00016	gene	2511	dbpA_1			
+OIADNFMB_00016	CDS	2511	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+OIADNFMB_00017	gene	1041				
+OIADNFMB_00017	CDS	1041				hypothetical protein
+OIADNFMB_00018	gene	76				
+OIADNFMB_00018	tRNA	76				tRNA-Gln(ttg)
+OIADNFMB_00019	gene	99				
+OIADNFMB_00019	CDS	99				hypothetical protein
+OIADNFMB_00020	gene	588				
+OIADNFMB_00020	CDS	588				hypothetical protein
+OIADNFMB_00021	gene	174				
+OIADNFMB_00021	CDS	174				hypothetical protein
+OIADNFMB_00022	gene	312				
+OIADNFMB_00022	CDS	312				hypothetical protein
+OIADNFMB_00023	gene	1098	mqnE_1			
+OIADNFMB_00023	CDS	1098	mqnE_1	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+OIADNFMB_00024	gene	171				
+OIADNFMB_00024	CDS	171				hypothetical protein
+OIADNFMB_00025	gene	492	ycf3_1			
+OIADNFMB_00025	CDS	492	ycf3_1			Photosystem I assembly protein Ycf3
+OIADNFMB_00026	gene	228				
+OIADNFMB_00026	CDS	228				hypothetical protein
+OIADNFMB_00027	gene	1329	wecC			
+OIADNFMB_00027	CDS	1329	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+OIADNFMB_00028	gene	1062				
+OIADNFMB_00028	CDS	1062				hypothetical protein
+OIADNFMB_00029	gene	801				
+OIADNFMB_00029	CDS	801				hypothetical protein
+OIADNFMB_00030	gene	141				
+OIADNFMB_00030	CDS	141				hypothetical protein
+OIADNFMB_00031	gene	132				
+OIADNFMB_00031	CDS	132				hypothetical protein
+OIADNFMB_00032	gene	651	ntpD			
+OIADNFMB_00032	CDS	651	ntpD			V-type sodium ATPase subunit D
+OIADNFMB_00033	gene	1386	ntpB			
+OIADNFMB_00033	CDS	1386	ntpB			V-type sodium ATPase subunit B
+OIADNFMB_00034	gene	1779	atpA			
+OIADNFMB_00034	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+OIADNFMB_00035	gene	600	atpE			
+OIADNFMB_00035	CDS	600	atpE			V-type proton ATPase subunit E
+OIADNFMB_00036	gene	2094				
+OIADNFMB_00036	CDS	2094				hypothetical protein
+OIADNFMB_00037	gene	546	rhdA_1			
+OIADNFMB_00037	CDS	546	rhdA_1	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+OIADNFMB_00038	gene	954	ftsZ_1			
+OIADNFMB_00038	CDS	954	ftsZ_1			Cell division protein FtsZ
+OIADNFMB_00039	gene	1269	miaB			
+OIADNFMB_00039	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OIADNFMB_00040	gene	366	aspA			
+OIADNFMB_00040	CDS	366	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+OIADNFMB_00041	gene	1119	gbuA_1			
+OIADNFMB_00041	CDS	1119	gbuA_1	3.5.3.7	COG0010	Guanidinobutyrase
+OIADNFMB_00042	gene	390	ureA_1			
+OIADNFMB_00042	CDS	390	ureA_1	3.5.1.5		Urease subunit gamma
+OIADNFMB_00043	gene	753				
+OIADNFMB_00043	CDS	753				hypothetical protein
+OIADNFMB_00044	gene	153				
+OIADNFMB_00044	CDS	153				hypothetical protein
+OIADNFMB_00045	gene	414	ribH_1			
+OIADNFMB_00045	CDS	414	ribH_1	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+OIADNFMB_00046	gene	675	ribBA			
+OIADNFMB_00046	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+OIADNFMB_00047	gene	585	ribE_1			
+OIADNFMB_00047	CDS	585	ribE_1	2.5.1.9	COG0307	Riboflavin synthase
+OIADNFMB_00048	gene	252	mcl2_1			
+OIADNFMB_00048	CDS	252	mcl2_1	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+OIADNFMB_00049	gene	1476				
+OIADNFMB_00049	CDS	1476				hypothetical protein
+OIADNFMB_00050	gene	915	ilvE_1			
+OIADNFMB_00050	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OIADNFMB_00051	gene	222				
+OIADNFMB_00051	CDS	222				hypothetical protein
+OIADNFMB_00052	gene	1440	thrA			
+OIADNFMB_00052	CDS	1440	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+OIADNFMB_00053	gene	77				
+OIADNFMB_00053	tRNA	77				tRNA-Val(tac)
+OIADNFMB_00054	gene	240				
+OIADNFMB_00054	CDS	240				hypothetical protein
+OIADNFMB_00055	gene	1104				
+OIADNFMB_00055	CDS	1104				hypothetical protein
+OIADNFMB_00056	gene	600				
+OIADNFMB_00056	CDS	600				hypothetical protein
+OIADNFMB_00057	gene	480				
+OIADNFMB_00057	CDS	480				hypothetical protein
+OIADNFMB_00058	gene	75				
+OIADNFMB_00058	tRNA	75				tRNA-Arg(tcg)
+OIADNFMB_00059	gene	165				
+OIADNFMB_00059	CDS	165				hypothetical protein
+OIADNFMB_00060	gene	606				
+OIADNFMB_00060	CDS	606				hypothetical protein
+OIADNFMB_00061	gene	2397				
+OIADNFMB_00061	CDS	2397				hypothetical protein
+OIADNFMB_00062	gene	693	dnaJ_1			
+OIADNFMB_00062	CDS	693	dnaJ_1			Chaperone protein DnaJ
+OIADNFMB_00063	gene	408	hit_1			
+OIADNFMB_00063	CDS	408	hit_1		COG0537	Protein hit
+OIADNFMB_00064	gene	303				
+OIADNFMB_00064	CDS	303				hypothetical protein
+OIADNFMB_00065	gene	171				
+OIADNFMB_00065	CDS	171				hypothetical protein
+OIADNFMB_00066	gene	858				
+OIADNFMB_00066	CDS	858				hypothetical protein
+OIADNFMB_00067	gene	669	ypdF			
+OIADNFMB_00067	CDS	669	ypdF	3.4.11.-	COG0006	Aminopeptidase YpdF
+OIADNFMB_00068	gene	852	fadM			
+OIADNFMB_00068	CDS	852	fadM	1.5.5.2	COG0506	Proline dehydrogenase 1
+OIADNFMB_00069	gene	1566	putC_1			
+OIADNFMB_00069	CDS	1566	putC_1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 2
+OIADNFMB_00070	gene	852	gbuA_2			
+OIADNFMB_00070	CDS	852	gbuA_2	3.5.3.7	COG0010	Guanidinobutyrase
+OIADNFMB_00071	gene	798	sasA_1			
+OIADNFMB_00071	CDS	798	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+OIADNFMB_00072	gene	456				
+OIADNFMB_00072	CDS	456				hypothetical protein
+OIADNFMB_00073	gene	1140				
+OIADNFMB_00073	CDS	1140				hypothetical protein
+OIADNFMB_00074	gene	1533				
+OIADNFMB_00074	CDS	1533				hypothetical protein
+OIADNFMB_00075	gene	837				
+OIADNFMB_00075	CDS	837				hypothetical protein
+OIADNFMB_00076	gene	819	nadX			
+OIADNFMB_00076	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+OIADNFMB_00077	gene	939	nadA			
+OIADNFMB_00077	CDS	939	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+OIADNFMB_00078	gene	969				
+OIADNFMB_00078	CDS	969				hypothetical protein
+OIADNFMB_00079	gene	426				
+OIADNFMB_00079	CDS	426				hypothetical protein
+OIADNFMB_00080	gene	426				
+OIADNFMB_00080	CDS	426				hypothetical protein
+OIADNFMB_00081	gene	423				
+OIADNFMB_00081	CDS	423				hypothetical protein
+OIADNFMB_00082	gene	708				
+OIADNFMB_00082	CDS	708				hypothetical protein
+OIADNFMB_00083	gene	1158				
+OIADNFMB_00083	CDS	1158				hypothetical protein
+OIADNFMB_00084	gene	522	ffh_1			
+OIADNFMB_00084	CDS	522	ffh_1		COG0541	Signal recognition particle protein
+OIADNFMB_00085	gene	723	carA_1			
+OIADNFMB_00085	CDS	723	carA_1	6.3.5.5		Carbamoyl-phosphate synthase small chain
+OIADNFMB_00086	gene	1884				
+OIADNFMB_00086	CDS	1884				hypothetical protein
+OIADNFMB_00087	gene	870	speB_1			
+OIADNFMB_00087	CDS	870	speB_1	3.5.3.11	COG0010	Agmatinase
+OIADNFMB_00088	gene	573	pgsA2			
+OIADNFMB_00088	CDS	573	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+OIADNFMB_00089	gene	288				
+OIADNFMB_00089	CDS	288				hypothetical protein
+OIADNFMB_00090	gene	486	degP			
+OIADNFMB_00090	CDS	486	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+OIADNFMB_00091	gene	1170	fbiC_1			
+OIADNFMB_00091	CDS	1170	fbiC_1		COG1060	FO synthase
+OIADNFMB_00092	gene	1269	fbiC_2			
+OIADNFMB_00092	CDS	1269	fbiC_2		COG1060	FO synthase
+OIADNFMB_00093	gene	1362	pmbA_1			
+OIADNFMB_00093	CDS	1362	pmbA_1	3.4.-.-	COG0312	Metalloprotease PmbA
+OIADNFMB_00094	gene	945	yrbG_1			
+OIADNFMB_00094	CDS	945	yrbG_1		COG0530	Inner membrane protein YrbG
+OIADNFMB_00095	gene	342				
+OIADNFMB_00095	CDS	342				hypothetical protein
+OIADNFMB_00096	gene	99				
+OIADNFMB_00096	CDS	99				hypothetical protein
+OIADNFMB_00097	gene	606	ywlC_1			
+OIADNFMB_00097	CDS	606	ywlC_1	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+OIADNFMB_00098	gene	90				
+OIADNFMB_00098	CDS	90				hypothetical protein
+OIADNFMB_00099	gene	267				
+OIADNFMB_00099	CDS	267				hypothetical protein
+OIADNFMB_00100	gene	639				
+OIADNFMB_00100	CDS	639				hypothetical protein
+OIADNFMB_00101	gene	222				
+OIADNFMB_00101	CDS	222				hypothetical protein
+OIADNFMB_00102	gene	276				
+OIADNFMB_00102	CDS	276				hypothetical protein
+OIADNFMB_00103	gene	462				
+OIADNFMB_00103	CDS	462				hypothetical protein
+OIADNFMB_00104	gene	1002	purA			
+OIADNFMB_00104	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OIADNFMB_00105	gene	1755				
+OIADNFMB_00105	CDS	1755				hypothetical protein
+OIADNFMB_00106	gene	399				
+OIADNFMB_00106	CDS	399				hypothetical protein
+OIADNFMB_00107	gene	492				
+OIADNFMB_00107	CDS	492				hypothetical protein
+OIADNFMB_00108	gene	75				
+OIADNFMB_00108	tRNA	75				tRNA-Arg(tcg)
+OIADNFMB_00109	gene	1176	alaA			
+OIADNFMB_00109	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+OIADNFMB_00110	gene	177				
+OIADNFMB_00110	CDS	177				hypothetical protein
+OIADNFMB_00111	gene	258				
+OIADNFMB_00111	CDS	258				hypothetical protein
+OIADNFMB_00112	gene	1020				
+OIADNFMB_00112	CDS	1020				hypothetical protein
+OIADNFMB_00113	gene	141				
+OIADNFMB_00113	CDS	141				hypothetical protein
+OIADNFMB_00114	gene	504				
+OIADNFMB_00114	CDS	504				hypothetical protein
+OIADNFMB_00115	gene	600	ndhJ			
+OIADNFMB_00115	CDS	600	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+OIADNFMB_00116	gene	516	ndhK_1			
+OIADNFMB_00116	CDS	516	ndhK_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+OIADNFMB_00117	gene	417	ndhC_1			
+OIADNFMB_00117	CDS	417	ndhC_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+OIADNFMB_00118	gene	498	bcp_1			
+OIADNFMB_00118	CDS	498	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+OIADNFMB_00119	gene	513				
+OIADNFMB_00119	CDS	513				hypothetical protein
+OIADNFMB_00120	gene	1488	cfiB_1			
+OIADNFMB_00120	CDS	1488	cfiB_1	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+OIADNFMB_00121	gene	321				
+OIADNFMB_00121	CDS	321		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+OIADNFMB_00122	gene	255				
+OIADNFMB_00122	CDS	255				hypothetical protein
+OIADNFMB_00123	gene	543				
+OIADNFMB_00123	CDS	543				hypothetical protein
+OIADNFMB_00124	gene	396				
+OIADNFMB_00124	CDS	396				hypothetical protein
+OIADNFMB_00125	gene	690	COQ5_1			
+OIADNFMB_00125	CDS	690	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OIADNFMB_00126	gene	729	prcA_1			
+OIADNFMB_00126	CDS	729	prcA_1			Proteasome subunit alpha
+OIADNFMB_00127	gene	414				
+OIADNFMB_00127	CDS	414				hypothetical protein
+OIADNFMB_00128	gene	885	auaH			
+OIADNFMB_00128	CDS	885	auaH	1.1.1.394		Aurachin B dehydrogenase
+OIADNFMB_00129	gene	315				
+OIADNFMB_00129	CDS	315				hypothetical protein
+OIADNFMB_00130	gene	1125				
+OIADNFMB_00130	CDS	1125				hypothetical protein
+OIADNFMB_00131	gene	813	rhdA_2			
+OIADNFMB_00131	CDS	813	rhdA_2	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+OIADNFMB_00132	gene	1794	sir_1			
+OIADNFMB_00132	CDS	1794	sir_1	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+OIADNFMB_00133	gene	816	thi4			
+OIADNFMB_00133	CDS	816	thi4	2.4.2.59		Thiamine thiazole synthase
+OIADNFMB_00134	gene	252				
+OIADNFMB_00134	CDS	252				hypothetical protein
+OIADNFMB_00135	gene	120				
+OIADNFMB_00135	CDS	120				hypothetical protein
+OIADNFMB_00136	gene	1155				
+OIADNFMB_00136	CDS	1155				hypothetical protein
+OIADNFMB_00137	gene	366				
+OIADNFMB_00137	CDS	366				hypothetical protein
+OIADNFMB_00138	gene	162				
+OIADNFMB_00138	CDS	162				hypothetical protein
+OIADNFMB_00139	gene	1407	pabB_1			
+OIADNFMB_00139	CDS	1407	pabB_1	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+OIADNFMB_00140	gene	201				
+OIADNFMB_00140	CDS	201				hypothetical protein
+OIADNFMB_00141	gene	768	ilvD_1			
+OIADNFMB_00141	CDS	768	ilvD_1	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OIADNFMB_00142	gene	123	ilvD_2			
+OIADNFMB_00142	CDS	123	ilvD_2	4.2.1.9		Dihydroxy-acid dehydratase
+OIADNFMB_00143	gene	945	purD			
+OIADNFMB_00143	CDS	945	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OIADNFMB_00144	gene	1119	pntAA			
+OIADNFMB_00144	CDS	1119	pntAA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+OIADNFMB_00145	gene	291	pntA			
+OIADNFMB_00145	CDS	291	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OIADNFMB_00146	gene	1392	pntB			
+OIADNFMB_00146	CDS	1392	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+OIADNFMB_00147	gene	564	yqgN			
+OIADNFMB_00147	CDS	564	yqgN		COG0212	putative protein YqgN
+OIADNFMB_00148	gene	378	folD			
+OIADNFMB_00148	CDS	378	folD		COG0190	Bifunctional protein FolD protein
+OIADNFMB_00149	gene	186				
+OIADNFMB_00149	CDS	186				hypothetical protein
+OIADNFMB_00150	gene	411				
+OIADNFMB_00150	CDS	411				hypothetical protein
+OIADNFMB_00151	gene	303				
+OIADNFMB_00151	CDS	303				hypothetical protein
+OIADNFMB_00152	gene	471				
+OIADNFMB_00152	CDS	471				hypothetical protein
+OIADNFMB_00153	gene	993				
+OIADNFMB_00153	CDS	993				hypothetical protein
+OIADNFMB_00154	gene	300	tsaC1			
+OIADNFMB_00154	CDS	300	tsaC1	1.2.1.62		4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+OIADNFMB_00155	gene	1302	pdxK			
+OIADNFMB_00155	CDS	1302	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+OIADNFMB_00156	gene	702	cugP_1			
+OIADNFMB_00156	CDS	702	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OIADNFMB_00157	gene	1119	mqnC			
+OIADNFMB_00157	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+OIADNFMB_00158	gene	1443	ubiD_1			
+OIADNFMB_00158	CDS	1443	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+OIADNFMB_00159	gene	378				
+OIADNFMB_00159	CDS	378				hypothetical protein
+OIADNFMB_00160	gene	687				
+OIADNFMB_00160	CDS	687				hypothetical protein
+OIADNFMB_00161	gene	666				
+OIADNFMB_00161	CDS	666				hypothetical protein
+OIADNFMB_00162	gene	456				
+OIADNFMB_00162	CDS	456				hypothetical protein
+OIADNFMB_00163	gene	492				
+OIADNFMB_00163	CDS	492				hypothetical protein
+OIADNFMB_00164	gene	900				
+OIADNFMB_00164	CDS	900				hypothetical protein
+OIADNFMB_00165	gene	2286				
+OIADNFMB_00165	CDS	2286				hypothetical protein
+OIADNFMB_00166	gene	669				
+OIADNFMB_00166	CDS	669				hypothetical protein
+OIADNFMB_00167	gene	1557	nrgA			
+OIADNFMB_00167	CDS	1557	nrgA			Ammonium transporter
+OIADNFMB_00168	gene	777	rhdA_3			
+OIADNFMB_00168	CDS	777	rhdA_3	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+OIADNFMB_00169	gene	93				
+OIADNFMB_00169	CDS	93				hypothetical protein
+OIADNFMB_00170	gene	213				
+OIADNFMB_00170	CDS	213				hypothetical protein
+OIADNFMB_00171	gene	261				
+OIADNFMB_00171	CDS	261				hypothetical protein
+OIADNFMB_00172	gene	483				
+OIADNFMB_00172	CDS	483				hypothetical protein
+OIADNFMB_00173	gene	204				
+OIADNFMB_00173	CDS	204				hypothetical protein
+OIADNFMB_00174	gene	339				
+OIADNFMB_00174	CDS	339				hypothetical protein
+OIADNFMB_00175	gene	441				
+OIADNFMB_00175	CDS	441				hypothetical protein
+OIADNFMB_00176	gene	207				
+OIADNFMB_00176	CDS	207				hypothetical protein
+OIADNFMB_00177	gene	1116				
+OIADNFMB_00177	CDS	1116				hypothetical protein
+OIADNFMB_00178	gene	456				
+OIADNFMB_00178	CDS	456				hypothetical protein
+OIADNFMB_00179	gene	1626				
+OIADNFMB_00179	CDS	1626				hypothetical protein
+OIADNFMB_00180	gene	192				
+OIADNFMB_00180	CDS	192				hypothetical protein
+OIADNFMB_00181	gene	1761				
+OIADNFMB_00181	CDS	1761				hypothetical protein
+OIADNFMB_00182	gene	207				
+OIADNFMB_00182	CDS	207				hypothetical protein
+OIADNFMB_00183	gene	147				
+OIADNFMB_00183	CDS	147				hypothetical protein
+OIADNFMB_00184	gene	1824				
+OIADNFMB_00184	CDS	1824				hypothetical protein
+OIADNFMB_00185	gene	414				
+OIADNFMB_00185	CDS	414				hypothetical protein
+OIADNFMB_00186	gene	1161				
+OIADNFMB_00186	CDS	1161				hypothetical protein
+OIADNFMB_00187	gene	1446	proS_1			
+OIADNFMB_00187	CDS	1446	proS_1	6.1.1.15	COG0442	Proline--tRNA ligase
+OIADNFMB_00188	gene	303				
+OIADNFMB_00188	CDS	303				hypothetical protein
+OIADNFMB_00189	gene	651	SERB			
+OIADNFMB_00189	CDS	651	SERB	3.1.3.3	COG0560	Phosphoserine phosphatase
+OIADNFMB_00190	gene	294				
+OIADNFMB_00190	CDS	294				hypothetical protein
+OIADNFMB_00191	gene	198				
+OIADNFMB_00191	CDS	198				hypothetical protein
+OIADNFMB_00192	gene	111				
+OIADNFMB_00192	CDS	111				hypothetical protein
+OIADNFMB_00193	gene	588				
+OIADNFMB_00193	CDS	588				hypothetical protein
+OIADNFMB_00194	gene	564				
+OIADNFMB_00194	CDS	564				hypothetical protein
+OIADNFMB_00195	gene	348				
+OIADNFMB_00195	CDS	348				hypothetical protein
+OIADNFMB_00196	gene	678	pyrH_1			
+OIADNFMB_00196	CDS	678	pyrH_1	2.7.4.22	COG0528	Uridylate kinase
+OIADNFMB_00197	gene	1242				
+OIADNFMB_00197	CDS	1242				hypothetical protein
+OIADNFMB_00198	gene	582	tmk_1			
+OIADNFMB_00198	CDS	582	tmk_1	2.7.4.9	COG0125	Thymidylate kinase
+OIADNFMB_00199	gene	216				
+OIADNFMB_00199	CDS	216				hypothetical protein
+OIADNFMB_00200	gene	2274	vgb_1			
+OIADNFMB_00200	CDS	2274	vgb_1	4.2.99.-		Virginiamycin B lyase
+OIADNFMB_00201	gene	282				
+OIADNFMB_00201	CDS	282				hypothetical protein
+OIADNFMB_00202	gene	708				
+OIADNFMB_00202	CDS	708				hypothetical protein
+OIADNFMB_00203	gene	306				
+OIADNFMB_00203	CDS	306				hypothetical protein
+OIADNFMB_00204	gene	363				
+OIADNFMB_00204	CDS	363				hypothetical protein
+OIADNFMB_00205	gene	474	ppiB			
+OIADNFMB_00205	CDS	474	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+OIADNFMB_00206	gene	237				
+OIADNFMB_00206	CDS	237				hypothetical protein
+OIADNFMB_00207	gene	450				
+OIADNFMB_00207	CDS	450				hypothetical protein
+OIADNFMB_00208	gene	522				
+OIADNFMB_00208	CDS	522		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+OIADNFMB_00209	gene	711	bluB			
+OIADNFMB_00209	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+OIADNFMB_00210	gene	76				
+OIADNFMB_00210	tRNA	76				tRNA-Val(gac)
+OIADNFMB_00211	gene	477				
+OIADNFMB_00211	CDS	477				hypothetical protein
+OIADNFMB_00212	gene	495				
+OIADNFMB_00212	CDS	495				hypothetical protein
+OIADNFMB_00213	gene	1539	rpoB			
+OIADNFMB_00213	CDS	1539	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+OIADNFMB_00214	gene	429				
+OIADNFMB_00214	CDS	429				hypothetical protein
+OIADNFMB_00215	gene	687	pyrK			
+OIADNFMB_00215	CDS	687	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OIADNFMB_00216	gene	912	pyrD			
+OIADNFMB_00216	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+OIADNFMB_00217	gene	1221				
+OIADNFMB_00217	CDS	1221				hypothetical protein
+OIADNFMB_00218	gene	177				
+OIADNFMB_00218	CDS	177				hypothetical protein
+OIADNFMB_00219	gene	1101	petE_1			
+OIADNFMB_00219	CDS	1101	petE_1			Plastocyanin
+OIADNFMB_00220	gene	405	mec			
+OIADNFMB_00220	CDS	405	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+OIADNFMB_00221	gene	1497	argH			
+OIADNFMB_00221	CDS	1497	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+OIADNFMB_00222	gene	327				
+OIADNFMB_00222	CDS	327				hypothetical protein
+OIADNFMB_00223	gene	768	frdB			
+OIADNFMB_00223	CDS	768	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+OIADNFMB_00224	gene	345				
+OIADNFMB_00224	CDS	345				hypothetical protein
+OIADNFMB_00225	gene	435				
+OIADNFMB_00225	CDS	435				hypothetical protein
+OIADNFMB_00226	gene	1713	frdA_1			
+OIADNFMB_00226	CDS	1713	frdA_1	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+OIADNFMB_00227	gene	510				
+OIADNFMB_00227	CDS	510				hypothetical protein
+OIADNFMB_00228	gene	669	nfi			
+OIADNFMB_00228	CDS	669	nfi	3.1.21.7	COG1515	Endonuclease V
+OIADNFMB_00229	gene	849	Dml_1			
+OIADNFMB_00229	CDS	849	Dml_1	4.1.3.32		2,3-dimethylmalate lyase
+OIADNFMB_00230	gene	363				
+OIADNFMB_00230	CDS	363				hypothetical protein
+OIADNFMB_00231	gene	492				
+OIADNFMB_00231	CDS	492				hypothetical protein
+OIADNFMB_00232	gene	825	frlC			
+OIADNFMB_00232	CDS	825	frlC	5.1.3.41	COG1082	Fructoselysine 3-epimerase
+OIADNFMB_00233	gene	855	cyoE_1			
+OIADNFMB_00233	CDS	855	cyoE_1	2.5.1.141		Protoheme IX farnesyltransferase
+OIADNFMB_00234	gene	309				
+OIADNFMB_00234	CDS	309				hypothetical protein
+OIADNFMB_00235	gene	1194	mpa_1			
+OIADNFMB_00235	CDS	1194	mpa_1			Proteasome-associated ATPase
+OIADNFMB_00236	gene	165				
+OIADNFMB_00236	CDS	165				hypothetical protein
+OIADNFMB_00237	gene	1083	carA_2			
+OIADNFMB_00237	CDS	1083	carA_2	6.3.5.5		Carbamoyl-phosphate synthase small chain
+OIADNFMB_00238	gene	114				
+OIADNFMB_00238	CDS	114				hypothetical protein
+OIADNFMB_00239	gene	285				
+OIADNFMB_00239	CDS	285				hypothetical protein
+OIADNFMB_00240	gene	1533				
+OIADNFMB_00240	CDS	1533				hypothetical protein
+OIADNFMB_00241	gene	1143				
+OIADNFMB_00241	CDS	1143				hypothetical protein
+OIADNFMB_00242	gene	2070	smc_1			
+OIADNFMB_00242	CDS	2070	smc_1			Chromosome partition protein Smc
+OIADNFMB_00243	gene	153				
+OIADNFMB_00243	CDS	153				hypothetical protein
+OIADNFMB_00244	gene	954	ftsZ_2			
+OIADNFMB_00244	CDS	954	ftsZ_2			Cell division protein FtsZ
+OIADNFMB_00245	gene	564				
+OIADNFMB_00245	CDS	564				hypothetical protein
+OIADNFMB_00246	gene	159				
+OIADNFMB_00246	CDS	159				hypothetical protein
+OIADNFMB_00247	gene	549	nudL			
+OIADNFMB_00247	CDS	549	nudL	3.6.1.-		putative Nudix hydrolase NudL
+OIADNFMB_00248	gene	363				
+OIADNFMB_00248	CDS	363				hypothetical protein
+OIADNFMB_00249	gene	756				
+OIADNFMB_00249	CDS	756				hypothetical protein
+OIADNFMB_00250	gene	531				
+OIADNFMB_00250	CDS	531		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+OIADNFMB_00251	gene	1179	gerN			
+OIADNFMB_00251	CDS	1179	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+OIADNFMB_00252	gene	642				
+OIADNFMB_00252	CDS	642				hypothetical protein
+OIADNFMB_00253	gene	315				
+OIADNFMB_00253	CDS	315				hypothetical protein
+OIADNFMB_00254	gene	522				
+OIADNFMB_00254	CDS	522				hypothetical protein
+OIADNFMB_00255	gene	1047				
+OIADNFMB_00255	CDS	1047				hypothetical protein
+OIADNFMB_00256	gene	174				
+OIADNFMB_00256	CDS	174				hypothetical protein
+OIADNFMB_00257	gene	804	tetA			
+OIADNFMB_00257	CDS	804	tetA			Tetracycline resistance protein, class C
+OIADNFMB_00258	gene	321				
+OIADNFMB_00258	CDS	321				hypothetical protein
+OIADNFMB_00259	gene	273				
+OIADNFMB_00259	CDS	273				hypothetical protein
+OIADNFMB_00260	gene	249				
+OIADNFMB_00260	CDS	249				hypothetical protein
+OIADNFMB_00261	gene	231				
+OIADNFMB_00261	CDS	231				hypothetical protein
+OIADNFMB_00262	gene	840				
+OIADNFMB_00262	CDS	840				hypothetical protein
+OIADNFMB_00263	gene	468				
+OIADNFMB_00263	CDS	468				hypothetical protein
+OIADNFMB_00264	gene	207				
+OIADNFMB_00264	CDS	207				hypothetical protein
+OIADNFMB_00265	gene	228				
+OIADNFMB_00265	CDS	228				hypothetical protein
+OIADNFMB_00266	gene	144				
+OIADNFMB_00266	CDS	144				hypothetical protein
+OIADNFMB_00267	gene	420				
+OIADNFMB_00267	CDS	420				hypothetical protein
+OIADNFMB_00268	gene	234				
+OIADNFMB_00268	CDS	234				hypothetical protein
+OIADNFMB_00269	gene	348				
+OIADNFMB_00269	CDS	348				hypothetical protein
+OIADNFMB_00270	gene	429				
+OIADNFMB_00270	CDS	429				hypothetical protein
+OIADNFMB_00271	gene	1380	rtcB			
+OIADNFMB_00271	CDS	1380	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+OIADNFMB_00272	gene	171				
+OIADNFMB_00272	CDS	171				hypothetical protein
+OIADNFMB_00273	gene	369				
+OIADNFMB_00273	CDS	369				hypothetical protein
+OIADNFMB_00274	gene	894				
+OIADNFMB_00274	CDS	894				hypothetical protein
+OIADNFMB_00275	gene	342				
+OIADNFMB_00275	CDS	342				hypothetical protein
+OIADNFMB_00276	gene	609	sufS			
+OIADNFMB_00276	CDS	609	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+OIADNFMB_00277	gene	447	sufU			
+OIADNFMB_00277	CDS	447	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+OIADNFMB_00278	gene	348				
+OIADNFMB_00278	CDS	348				hypothetical protein
+OIADNFMB_00279	gene	1209	pgk			
+OIADNFMB_00279	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OIADNFMB_00280	gene	669				
+OIADNFMB_00280	CDS	669				hypothetical protein
+OIADNFMB_00281	gene	312				
+OIADNFMB_00281	CDS	312				hypothetical protein
+OIADNFMB_00282	gene	276				
+OIADNFMB_00282	CDS	276				hypothetical protein
+OIADNFMB_00283	gene	129				
+OIADNFMB_00283	CDS	129				hypothetical protein
+OIADNFMB_00284	gene	522	purB_1			
+OIADNFMB_00284	CDS	522	purB_1	4.3.2.2		Adenylosuccinate lyase
+OIADNFMB_00285	gene	852	purB_2			
+OIADNFMB_00285	CDS	852	purB_2	4.3.2.2		Adenylosuccinate lyase
+OIADNFMB_00286	gene	174				
+OIADNFMB_00286	CDS	174				hypothetical protein
+OIADNFMB_00287	gene	135				
+OIADNFMB_00287	CDS	135				hypothetical protein
+OIADNFMB_00288	gene	1485	ndhB			
+OIADNFMB_00288	CDS	1485	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+OIADNFMB_00289	gene	858				
+OIADNFMB_00289	CDS	858				hypothetical protein
+OIADNFMB_00290	gene	519				
+OIADNFMB_00290	CDS	519				hypothetical protein
+OIADNFMB_00291	gene	393	ctaA_1			
+OIADNFMB_00291	CDS	393	ctaA_1	1.3.-.-	COG1612	Heme A synthase
+OIADNFMB_00292	gene	990	petE_2			
+OIADNFMB_00292	CDS	990	petE_2			Plastocyanin
+OIADNFMB_00293	gene	450	ctaD			
+OIADNFMB_00293	CDS	450	ctaD	1.9.3.1	COG0843	putative cytochrome c oxidase subunit 1
+OIADNFMB_00294	gene	234				
+OIADNFMB_00294	CDS	234				hypothetical protein
+OIADNFMB_00295	gene	465	mntR_1			
+OIADNFMB_00295	CDS	465	mntR_1			HTH-type transcriptional regulator MntR
+OIADNFMB_00296	gene	165				
+OIADNFMB_00296	CDS	165				hypothetical protein
+OIADNFMB_00297	gene	420				
+OIADNFMB_00297	CDS	420				hypothetical protein
+OIADNFMB_00298	gene	423				
+OIADNFMB_00298	CDS	423				hypothetical protein
+OIADNFMB_00299	gene	132				
+OIADNFMB_00299	CDS	132				hypothetical protein
+OIADNFMB_00300	gene	657				
+OIADNFMB_00300	CDS	657				hypothetical protein
+OIADNFMB_00301	gene	312	cutA			
+OIADNFMB_00301	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+OIADNFMB_00302	gene	150				
+OIADNFMB_00302	CDS	150				hypothetical protein
+OIADNFMB_00303	gene	672	cugP_2			
+OIADNFMB_00303	CDS	672	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OIADNFMB_00304	gene	126				
+OIADNFMB_00304	CDS	126				hypothetical protein
+OIADNFMB_00305	gene	393				
+OIADNFMB_00305	CDS	393				hypothetical protein
+OIADNFMB_00306	gene	1146	purK_1			
+OIADNFMB_00306	CDS	1146	purK_1	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+OIADNFMB_00307	gene	576	purE_1			
+OIADNFMB_00307	CDS	576	purE_1	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OIADNFMB_00308	gene	219				
+OIADNFMB_00308	CDS	219				hypothetical protein
+OIADNFMB_00309	gene	927	rpoC2			
+OIADNFMB_00309	CDS	927	rpoC2	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+OIADNFMB_00310	gene	231				
+OIADNFMB_00310	CDS	231				hypothetical protein
+OIADNFMB_00311	gene	1173				
+OIADNFMB_00311	CDS	1173				hypothetical protein
+OIADNFMB_00312	gene	210				
+OIADNFMB_00312	CDS	210				hypothetical protein
+OIADNFMB_00313	gene	1266	apgM_1			
+OIADNFMB_00313	CDS	1266	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OIADNFMB_00314	gene	270				
+OIADNFMB_00314	CDS	270				hypothetical protein
+OIADNFMB_00315	gene	279	prsA1_1			
+OIADNFMB_00315	CDS	279	prsA1_1	5.2.1.8	COG0760	Foldase protein PrsA 1
+OIADNFMB_00316	gene	1506	srmB_1			
+OIADNFMB_00316	CDS	1506	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+OIADNFMB_00317	gene	1464				
+OIADNFMB_00317	CDS	1464				hypothetical protein
+OIADNFMB_00318	gene	219				
+OIADNFMB_00318	CDS	219				hypothetical protein
+OIADNFMB_00319	gene	912				
+OIADNFMB_00319	CDS	912				hypothetical protein
+OIADNFMB_00320	gene	1497	mshA_1			
+OIADNFMB_00320	CDS	1497	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OIADNFMB_00321	gene	984				
+OIADNFMB_00321	CDS	984		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+OIADNFMB_00322	gene	519				
+OIADNFMB_00322	CDS	519				hypothetical protein
+OIADNFMB_00323	gene	99				
+OIADNFMB_00323	CDS	99				hypothetical protein
+OIADNFMB_00324	gene	453				
+OIADNFMB_00324	CDS	453				hypothetical protein
+OIADNFMB_00325	gene	1158				
+OIADNFMB_00325	CDS	1158				hypothetical protein
+OIADNFMB_00326	gene	501				
+OIADNFMB_00326	CDS	501				hypothetical protein
+OIADNFMB_00327	gene	1194	mpa_2			
+OIADNFMB_00327	CDS	1194	mpa_2			Proteasome-associated ATPase
+OIADNFMB_00328	gene	1047				
+OIADNFMB_00328	CDS	1047				hypothetical protein
+OIADNFMB_00329	gene	1125	hflX			
+OIADNFMB_00329	CDS	1125	hflX		COG2262	GTPase HflX
+OIADNFMB_00330	gene	534				
+OIADNFMB_00330	CDS	534				hypothetical protein
+OIADNFMB_00331	gene	516				
+OIADNFMB_00331	CDS	516				hypothetical protein
+OIADNFMB_00332	gene	384				
+OIADNFMB_00332	CDS	384				hypothetical protein
+OIADNFMB_00333	gene	681				
+OIADNFMB_00333	CDS	681				hypothetical protein
+OIADNFMB_00334	gene	474				
+OIADNFMB_00334	CDS	474				hypothetical protein
+OIADNFMB_00335	gene	2094				
+OIADNFMB_00335	CDS	2094				hypothetical protein
+OIADNFMB_00336	gene	2097	copA			
+OIADNFMB_00336	CDS	2097	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+OIADNFMB_00337	gene	618				
+OIADNFMB_00337	CDS	618				hypothetical protein
+OIADNFMB_00338	gene	1641				
+OIADNFMB_00338	CDS	1641				hypothetical protein
+OIADNFMB_00339	gene	195				
+OIADNFMB_00339	CDS	195				hypothetical protein
+OIADNFMB_00340	gene	1305				
+OIADNFMB_00340	CDS	1305				hypothetical protein
+OIADNFMB_00341	gene	552				
+OIADNFMB_00341	CDS	552				hypothetical protein
+OIADNFMB_00342	gene	867	speB_2			
+OIADNFMB_00342	CDS	867	speB_2	3.5.3.11	COG0010	Agmatinase
+OIADNFMB_00343	gene	1851				
+OIADNFMB_00343	CDS	1851				hypothetical protein
+OIADNFMB_00344	gene	648				
+OIADNFMB_00344	CDS	648				hypothetical protein
+OIADNFMB_00345	gene	231				
+OIADNFMB_00345	CDS	231				hypothetical protein
+OIADNFMB_00346	gene	852	IMPDH_1			
+OIADNFMB_00346	CDS	852	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+OIADNFMB_00347	gene	249				
+OIADNFMB_00347	CDS	249				hypothetical protein
+OIADNFMB_00348	gene	267				
+OIADNFMB_00348	CDS	267				hypothetical protein
+OIADNFMB_00349	gene	171				
+OIADNFMB_00349	CDS	171				hypothetical protein
+OIADNFMB_00350	gene	138				
+OIADNFMB_00350	CDS	138				hypothetical protein
+OIADNFMB_00351	gene	195				
+OIADNFMB_00351	CDS	195				hypothetical protein
+OIADNFMB_00352	gene	399				
+OIADNFMB_00352	CDS	399				hypothetical protein
+OIADNFMB_00353	gene	1326				
+OIADNFMB_00353	CDS	1326				hypothetical protein
+OIADNFMB_00354	gene	840				
+OIADNFMB_00354	CDS	840				hypothetical protein
+OIADNFMB_00355	gene	768				
+OIADNFMB_00355	CDS	768				hypothetical protein
+OIADNFMB_00356	gene	1344				
+OIADNFMB_00356	CDS	1344				hypothetical protein
+OIADNFMB_00357	gene	591				
+OIADNFMB_00357	CDS	591				hypothetical protein
+OIADNFMB_00358	gene	876				
+OIADNFMB_00358	CDS	876				hypothetical protein
+OIADNFMB_00359	gene	1167	metK_1			
+OIADNFMB_00359	CDS	1167	metK_1	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OIADNFMB_00360	gene	330	nagK			
+OIADNFMB_00360	CDS	330	nagK	2.7.1.59		N-acetyl-D-glucosamine kinase
+OIADNFMB_00361	gene	675				
+OIADNFMB_00361	CDS	675				hypothetical protein
+OIADNFMB_00362	gene	1524	guaA_1			
+OIADNFMB_00362	CDS	1524	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+OIADNFMB_00363	gene	552				
+OIADNFMB_00363	CDS	552				hypothetical protein
+OIADNFMB_00364	gene	765				
+OIADNFMB_00364	CDS	765				hypothetical protein
+OIADNFMB_00365	gene	867	folP			
+OIADNFMB_00365	CDS	867	folP	2.5.1.15		Dihydropteroate synthase
+OIADNFMB_00366	gene	306				
+OIADNFMB_00366	CDS	306				hypothetical protein
+OIADNFMB_00367	gene	432				
+OIADNFMB_00367	CDS	432				hypothetical protein
+OIADNFMB_00368	gene	243				
+OIADNFMB_00368	CDS	243				hypothetical protein
+OIADNFMB_00369	gene	435				
+OIADNFMB_00369	CDS	435				hypothetical protein
+OIADNFMB_00370	gene	1923				
+OIADNFMB_00370	CDS	1923				hypothetical protein
+OIADNFMB_00371	gene	387				
+OIADNFMB_00371	CDS	387				hypothetical protein
+OIADNFMB_00372	gene	903				
+OIADNFMB_00372	CDS	903				hypothetical protein
+OIADNFMB_00373	gene	555	resA			
+OIADNFMB_00373	CDS	555	resA			Thiol-disulfide oxidoreductase ResA
+OIADNFMB_00374	gene	76				
+OIADNFMB_00374	tRNA	76				tRNA-Ala(tgc)
+OIADNFMB_00375	gene	144				
+OIADNFMB_00375	CDS	144				hypothetical protein
+OIADNFMB_00376	gene	1266	apgM_2			
+OIADNFMB_00376	CDS	1266	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OIADNFMB_00377	gene	417				
+OIADNFMB_00377	CDS	417				hypothetical protein
+OIADNFMB_00378	gene	174				
+OIADNFMB_00378	CDS	174				hypothetical protein
+OIADNFMB_00379	gene	702				
+OIADNFMB_00379	CDS	702				hypothetical protein
+OIADNFMB_00380	gene	237				
+OIADNFMB_00380	CDS	237				hypothetical protein
+OIADNFMB_00381	gene	633				
+OIADNFMB_00381	CDS	633				hypothetical protein
+OIADNFMB_00382	gene	2031				
+OIADNFMB_00382	CDS	2031				hypothetical protein
+OIADNFMB_00383	gene	222				
+OIADNFMB_00383	CDS	222				hypothetical protein
+OIADNFMB_00384	gene	1026	adhT			
+OIADNFMB_00384	CDS	1026	adhT	1.1.1.1		Alcohol dehydrogenase
+OIADNFMB_00385	gene	231				
+OIADNFMB_00385	CDS	231				hypothetical protein
+OIADNFMB_00386	gene	327				
+OIADNFMB_00386	CDS	327				hypothetical protein
+OIADNFMB_00387	gene	375				
+OIADNFMB_00387	CDS	375				hypothetical protein
+OIADNFMB_00388	gene	690				
+OIADNFMB_00388	CDS	690				hypothetical protein
+OIADNFMB_00389	gene	519				
+OIADNFMB_00389	CDS	519				hypothetical protein
+OIADNFMB_00390	gene	2610				
+OIADNFMB_00390	CDS	2610				hypothetical protein
+OIADNFMB_00391	gene	810	lysX_1			
+OIADNFMB_00391	CDS	810	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+OIADNFMB_00392	gene	168				
+OIADNFMB_00392	CDS	168				hypothetical protein
+OIADNFMB_00393	gene	1188	argG_1			
+OIADNFMB_00393	CDS	1188	argG_1	6.3.4.5		Argininosuccinate synthase
+OIADNFMB_00394	gene	582				
+OIADNFMB_00394	CDS	582				hypothetical protein
+OIADNFMB_00395	gene	300	prsA1_2			
+OIADNFMB_00395	CDS	300	prsA1_2	5.2.1.8	COG0760	Foldase protein PrsA 1
+OIADNFMB_00396	gene	1509	srmB_2			
+OIADNFMB_00396	CDS	1509	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+OIADNFMB_00397	gene	228				
+OIADNFMB_00397	CDS	228				hypothetical protein
+OIADNFMB_00398	gene	828				
+OIADNFMB_00398	CDS	828				hypothetical protein
+OIADNFMB_00399	gene	396				
+OIADNFMB_00399	CDS	396				hypothetical protein
+OIADNFMB_00400	gene	690				
+OIADNFMB_00400	CDS	690				hypothetical protein
+OIADNFMB_00401	gene	687	COQ5_2			
+OIADNFMB_00401	CDS	687	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OIADNFMB_00402	gene	1782	btuD_1			
+OIADNFMB_00402	CDS	1782	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OIADNFMB_00403	gene	112				
+OIADNFMB_00403	rRNA	112				5S ribosomal RNA
+OIADNFMB_00404	gene	135				
+OIADNFMB_00404	CDS	135				hypothetical protein
+OIADNFMB_00405	gene	237				
+OIADNFMB_00405	CDS	237				hypothetical protein
+OIADNFMB_00406	gene	975	ord			
+OIADNFMB_00406	CDS	975	ord	1.4.1.26		2,4-diaminopentanoate dehydrogenase
+OIADNFMB_00407	gene	633				
+OIADNFMB_00407	CDS	633				hypothetical protein
+OIADNFMB_00408	gene	297				
+OIADNFMB_00408	CDS	297				hypothetical protein
+OIADNFMB_00409	gene	1482				
+OIADNFMB_00409	CDS	1482				hypothetical protein
+OIADNFMB_00410	gene	189				
+OIADNFMB_00410	CDS	189				hypothetical protein
+OIADNFMB_00411	gene	591				
+OIADNFMB_00411	CDS	591				hypothetical protein
+OIADNFMB_00412	gene	282				
+OIADNFMB_00412	CDS	282				hypothetical protein
+OIADNFMB_00413	gene	195				
+OIADNFMB_00413	CDS	195				hypothetical protein
+OIADNFMB_00414	gene	180				
+OIADNFMB_00414	CDS	180				hypothetical protein
+OIADNFMB_00415	gene	74				
+OIADNFMB_00415	tRNA	74				tRNA-Thr(cgt)
+OIADNFMB_00416	gene	354				
+OIADNFMB_00416	CDS	354				hypothetical protein
+OIADNFMB_00417	gene	414				
+OIADNFMB_00417	CDS	414				hypothetical protein
+OIADNFMB_00418	gene	666				
+OIADNFMB_00418	CDS	666				hypothetical protein
+OIADNFMB_00419	gene	684				
+OIADNFMB_00419	CDS	684				hypothetical protein
+OIADNFMB_00420	gene	381				
+OIADNFMB_00420	CDS	381				hypothetical protein
+OIADNFMB_00421	gene	327	metK_2			
+OIADNFMB_00421	CDS	327	metK_2	2.5.1.6		S-adenosylmethionine synthase
+OIADNFMB_00422	gene	876				
+OIADNFMB_00422	CDS	876				hypothetical protein
+OIADNFMB_00423	gene	1092	cbiD			
+OIADNFMB_00423	CDS	1092	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+OIADNFMB_00424	gene	1056	cbiG			
+OIADNFMB_00424	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+OIADNFMB_00425	gene	753	cbiX			
+OIADNFMB_00425	CDS	753	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+OIADNFMB_00426	gene	636	cbiC			
+OIADNFMB_00426	CDS	636	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+OIADNFMB_00427	gene	1356	cbiA			
+OIADNFMB_00427	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+OIADNFMB_00428	gene	588	btuR			
+OIADNFMB_00428	CDS	588	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+OIADNFMB_00429	gene	891	ilvE_2			
+OIADNFMB_00429	CDS	891	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OIADNFMB_00430	gene	162				
+OIADNFMB_00430	CDS	162				hypothetical protein
+OIADNFMB_00431	gene	555				
+OIADNFMB_00431	CDS	555				hypothetical protein
+OIADNFMB_00432	gene	1506	sasA_2			
+OIADNFMB_00432	CDS	1506	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+OIADNFMB_00433	gene	1683				
+OIADNFMB_00433	CDS	1683				hypothetical protein
+OIADNFMB_00434	gene	540	guaA_2			
+OIADNFMB_00434	CDS	540	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+OIADNFMB_00435	gene	126				
+OIADNFMB_00435	CDS	126				hypothetical protein
+OIADNFMB_00436	gene	75				
+OIADNFMB_00436	tRNA	75				tRNA-Gly(ccc)
+OIADNFMB_00437	gene	666				
+OIADNFMB_00437	CDS	666				hypothetical protein
+OIADNFMB_00438	gene	1029	atpC			
+OIADNFMB_00438	CDS	1029	atpC			V-type ATP synthase subunit C
+OIADNFMB_00439	gene	645				
+OIADNFMB_00439	CDS	645				hypothetical protein
+OIADNFMB_00440	gene	111				
+OIADNFMB_00440	CDS	111				hypothetical protein
+OIADNFMB_00441	gene	153				
+OIADNFMB_00441	CDS	153				hypothetical protein
+OIADNFMB_00442	gene	783	phnE_1			
+OIADNFMB_00442	CDS	783	phnE_1		COG3639	Phosphate-import permease protein PhnE
+OIADNFMB_00443	gene	840	metN2_1			
+OIADNFMB_00443	CDS	840	metN2_1	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+OIADNFMB_00444	gene	783				
+OIADNFMB_00444	CDS	783				hypothetical protein
+OIADNFMB_00445	gene	576	purE_2			
+OIADNFMB_00445	CDS	576	purE_2	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OIADNFMB_00446	gene	1251	tdcB_1			
+OIADNFMB_00446	CDS	1251	tdcB_1	4.3.1.19	COG1171	L-threonine ammonia-lyase
+OIADNFMB_00447	gene	396				
+OIADNFMB_00447	CDS	396				hypothetical protein
+OIADNFMB_00448	gene	165				
+OIADNFMB_00448	CDS	165				hypothetical protein
+OIADNFMB_00449	gene	624	gph			
+OIADNFMB_00449	CDS	624	gph	3.1.3.18		Phosphoglycolate phosphatase
+OIADNFMB_00450	gene	951	mshA_2			
+OIADNFMB_00450	CDS	951	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OIADNFMB_00451	gene	909				
+OIADNFMB_00451	CDS	909		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+OIADNFMB_00452	gene	393				
+OIADNFMB_00452	CDS	393				hypothetical protein
+OIADNFMB_00453	gene	399				
+OIADNFMB_00453	CDS	399				hypothetical protein
+OIADNFMB_00454	gene	240				
+OIADNFMB_00454	CDS	240				hypothetical protein
+OIADNFMB_00455	gene	1134				
+OIADNFMB_00455	CDS	1134		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+OIADNFMB_00456	gene	495				
+OIADNFMB_00456	CDS	495				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+OIADNFMB_00457	gene	495				
+OIADNFMB_00457	CDS	495				hypothetical protein
+OIADNFMB_00458	gene	483				
+OIADNFMB_00458	CDS	483				hypothetical protein
+OIADNFMB_00459	gene	447	IMPDH_2			
+OIADNFMB_00459	CDS	447	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+OIADNFMB_00460	gene	390				
+OIADNFMB_00460	CDS	390				hypothetical protein
+OIADNFMB_00461	gene	528	dedA			
+OIADNFMB_00461	CDS	528	dedA		COG0586	Protein DedA
+OIADNFMB_00462	gene	219				
+OIADNFMB_00462	CDS	219				hypothetical protein
+OIADNFMB_00463	gene	147				
+OIADNFMB_00463	CDS	147				hypothetical protein
+OIADNFMB_00464	gene	1149	purK_2			
+OIADNFMB_00464	CDS	1149	purK_2	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+OIADNFMB_00465	gene	1347				
+OIADNFMB_00465	CDS	1347				hypothetical protein
+OIADNFMB_00466	gene	1152	dnaJ_2			
+OIADNFMB_00466	CDS	1152	dnaJ_2			Chaperone protein DnaJ
+OIADNFMB_00467	gene	828	IMPDH_3			
+OIADNFMB_00467	CDS	828	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+OIADNFMB_00468	gene	390				
+OIADNFMB_00468	CDS	390				hypothetical protein
+OIADNFMB_00469	gene	222				
+OIADNFMB_00469	CDS	222				hypothetical protein
+OIADNFMB_00470	gene	360				
+OIADNFMB_00470	CDS	360				hypothetical protein
+OIADNFMB_00471	gene	525				
+OIADNFMB_00471	CDS	525				hypothetical protein
+OIADNFMB_00472	gene	147				
+OIADNFMB_00472	CDS	147				hypothetical protein
+OIADNFMB_00473	gene	567				
+OIADNFMB_00473	CDS	567				hypothetical protein
+OIADNFMB_00474	gene	168				
+OIADNFMB_00474	CDS	168				hypothetical protein
+OIADNFMB_00475	gene	1173	argG_2			
+OIADNFMB_00475	CDS	1173	argG_2	6.3.4.5		Argininosuccinate synthase
+OIADNFMB_00476	gene	408				
+OIADNFMB_00476	CDS	408				hypothetical protein
+OIADNFMB_00477	gene	126				
+OIADNFMB_00477	CDS	126				hypothetical protein
+OIADNFMB_00478	gene	252				
+OIADNFMB_00478	CDS	252				hypothetical protein
+OIADNFMB_00479	gene	453				
+OIADNFMB_00479	CDS	453				hypothetical protein
+OIADNFMB_00480	gene	402				
+OIADNFMB_00480	CDS	402				hypothetical protein
+OIADNFMB_00481	gene	192				
+OIADNFMB_00481	CDS	192				hypothetical protein
+OIADNFMB_00482	gene	225	prsA1_3			
+OIADNFMB_00482	CDS	225	prsA1_3	5.2.1.8	COG0760	Foldase protein PrsA 1
+OIADNFMB_00483	gene	273				
+OIADNFMB_00483	CDS	273				hypothetical protein
+OIADNFMB_00484	gene	852	dbpA_2			
+OIADNFMB_00484	CDS	852	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+OIADNFMB_00485	gene	1131	bioF			
+OIADNFMB_00485	CDS	1131	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+OIADNFMB_00486	gene	735				
+OIADNFMB_00486	CDS	735				hypothetical protein
+OIADNFMB_00487	gene	876				
+OIADNFMB_00487	CDS	876				hypothetical protein
+OIADNFMB_00488	gene	357				
+OIADNFMB_00488	CDS	357				hypothetical protein
+OIADNFMB_00489	gene	309				
+OIADNFMB_00489	CDS	309				hypothetical protein
+OIADNFMB_00490	gene	423				
+OIADNFMB_00490	CDS	423				hypothetical protein
+OIADNFMB_00491	gene	1080	cobD_1			
+OIADNFMB_00491	CDS	1080	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+OIADNFMB_00492	gene	840	cobQ			
+OIADNFMB_00492	CDS	840	cobQ			Cobyric acid synthase
+OIADNFMB_00493	gene	156				
+OIADNFMB_00493	CDS	156				hypothetical protein
+OIADNFMB_00494	gene	768				
+OIADNFMB_00494	CDS	768				hypothetical protein
+OIADNFMB_00495	gene	270				
+OIADNFMB_00495	CDS	270				hypothetical protein
+OIADNFMB_00496	gene	1020	hicd_1			
+OIADNFMB_00496	CDS	1020	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+OIADNFMB_00497	gene	120				
+OIADNFMB_00497	CDS	120				hypothetical protein
+OIADNFMB_00498	gene	483	ilvH			
+OIADNFMB_00498	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+OIADNFMB_00499	gene	1698	ilvB			
+OIADNFMB_00499	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+OIADNFMB_00500	gene	402				
+OIADNFMB_00500	CDS	402				hypothetical protein
+OIADNFMB_00501	gene	153				
+OIADNFMB_00501	CDS	153				hypothetical protein
+OIADNFMB_00502	gene	357				
+OIADNFMB_00502	CDS	357				hypothetical protein
+OIADNFMB_00503	gene	168				
+OIADNFMB_00503	CDS	168				hypothetical protein
+OIADNFMB_00504	gene	567				
+OIADNFMB_00504	CDS	567				hypothetical protein
+OIADNFMB_00505	gene	279				
+OIADNFMB_00505	CDS	279				hypothetical protein
+OIADNFMB_00506	gene	183				
+OIADNFMB_00506	CDS	183				hypothetical protein
+OIADNFMB_00507	gene	126				
+OIADNFMB_00507	CDS	126				hypothetical protein
+OIADNFMB_00508	gene	225				
+OIADNFMB_00508	CDS	225				hypothetical protein
+OIADNFMB_00509	gene	543				
+OIADNFMB_00509	CDS	543				hypothetical protein
+OIADNFMB_00510	gene	393				
+OIADNFMB_00510	CDS	393				hypothetical protein
+OIADNFMB_00511	gene	198				
+OIADNFMB_00511	CDS	198				hypothetical protein
+OIADNFMB_00512	gene	159				
+OIADNFMB_00512	CDS	159				hypothetical protein
+OIADNFMB_00513	gene	162				
+OIADNFMB_00513	CDS	162				hypothetical protein
+OIADNFMB_00514	gene	324				
+OIADNFMB_00514	CDS	324				hypothetical protein
+OIADNFMB_00515	gene	180				
+OIADNFMB_00515	CDS	180				hypothetical protein
+OIADNFMB_00516	gene	309				
+OIADNFMB_00516	CDS	309				hypothetical protein
+OIADNFMB_00517	gene	1737				
+OIADNFMB_00517	CDS	1737				hypothetical protein
+OIADNFMB_00518	gene	609				
+OIADNFMB_00518	CDS	609				hypothetical protein
+OIADNFMB_00519	gene	480				
+OIADNFMB_00519	CDS	480				hypothetical protein
+OIADNFMB_00520	gene	2217				
+OIADNFMB_00520	CDS	2217				hypothetical protein
+OIADNFMB_00521	gene	74				
+OIADNFMB_00521	tRNA	74				tRNA-Phe(gaa)
+OIADNFMB_00522	gene	231				
+OIADNFMB_00522	CDS	231				hypothetical protein
+OIADNFMB_00523	gene	609				
+OIADNFMB_00523	CDS	609				hypothetical protein
+OIADNFMB_00524	gene	666				
+OIADNFMB_00524	CDS	666				hypothetical protein
+OIADNFMB_00525	gene	1008				
+OIADNFMB_00525	CDS	1008				hypothetical protein
+OIADNFMB_00526	gene	339				
+OIADNFMB_00526	CDS	339				hypothetical protein
+OIADNFMB_00527	gene	153				
+OIADNFMB_00527	CDS	153				hypothetical protein
+OIADNFMB_00528	gene	234				
+OIADNFMB_00528	CDS	234				hypothetical protein
+OIADNFMB_00529	gene	318				
+OIADNFMB_00529	CDS	318				hypothetical protein
+OIADNFMB_00530	gene	639				
+OIADNFMB_00530	CDS	639				hypothetical protein
+OIADNFMB_00531	gene	132				
+OIADNFMB_00531	CDS	132				hypothetical protein
+OIADNFMB_00532	gene	90				
+OIADNFMB_00532	CDS	90				hypothetical protein
+OIADNFMB_00533	gene	93				
+OIADNFMB_00533	CDS	93				hypothetical protein
+OIADNFMB_00534	gene	339				
+OIADNFMB_00534	CDS	339				hypothetical protein
+OIADNFMB_00535	gene	222				
+OIADNFMB_00535	CDS	222				hypothetical protein
+OIADNFMB_00536	gene	1257				
+OIADNFMB_00536	CDS	1257				hypothetical protein
+OIADNFMB_00537	gene	477				
+OIADNFMB_00537	CDS	477				hypothetical protein
+OIADNFMB_00538	gene	1782				
+OIADNFMB_00538	CDS	1782				hypothetical protein
+OIADNFMB_00539	gene	111				
+OIADNFMB_00539	CDS	111				hypothetical protein
+OIADNFMB_00540	gene	378				
+OIADNFMB_00540	CDS	378				hypothetical protein
+OIADNFMB_00541	gene	162				
+OIADNFMB_00541	CDS	162				hypothetical protein
+OIADNFMB_00542	gene	366				
+OIADNFMB_00542	CDS	366				hypothetical protein
+OIADNFMB_00543	gene	1155	fadA			
+OIADNFMB_00543	CDS	1155	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+OIADNFMB_00544	gene	474				
+OIADNFMB_00544	CDS	474				hypothetical protein
+OIADNFMB_00545	gene	810	ybeM			
+OIADNFMB_00545	CDS	810	ybeM	3.5.1.128		Deaminated glutathione amidase
+OIADNFMB_00546	gene	177				
+OIADNFMB_00546	CDS	177				hypothetical protein
+OIADNFMB_00547	gene	762				
+OIADNFMB_00547	CDS	762				hypothetical protein
+OIADNFMB_00548	gene	108				
+OIADNFMB_00548	CDS	108				hypothetical protein
+OIADNFMB_00549	gene	1326	magA			
+OIADNFMB_00549	CDS	1326	magA		COG0475	Iron transporter MagA
+OIADNFMB_00550	gene	432				
+OIADNFMB_00550	CDS	432				hypothetical protein
+OIADNFMB_00551	gene	77				
+OIADNFMB_00551	tRNA	77				tRNA-Gly(gcc)
+OIADNFMB_00552	gene	897	gcvPA_1			
+OIADNFMB_00552	CDS	897	gcvPA_1	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+OIADNFMB_00553	gene	1416	gcvPB_1			
+OIADNFMB_00553	CDS	1416	gcvPB_1	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+OIADNFMB_00554	gene	300				
+OIADNFMB_00554	CDS	300				hypothetical protein
+OIADNFMB_00555	gene	375				
+OIADNFMB_00555	CDS	375				hypothetical protein
+OIADNFMB_00556	gene	1293	gdhA			
+OIADNFMB_00556	CDS	1293	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+OIADNFMB_00557	gene	324				
+OIADNFMB_00557	CDS	324				hypothetical protein
+OIADNFMB_00558	gene	1290				
+OIADNFMB_00558	CDS	1290				hypothetical protein
+OIADNFMB_00559	gene	444	ftsH_1			
+OIADNFMB_00559	CDS	444	ftsH_1	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+OIADNFMB_00560	gene	450				
+OIADNFMB_00560	CDS	450				hypothetical protein
+OIADNFMB_00561	gene	894	RBKS			
+OIADNFMB_00561	CDS	894	RBKS	2.7.1.15		Ribokinase
+OIADNFMB_00562	gene	357				
+OIADNFMB_00562	CDS	357				hypothetical protein
+OIADNFMB_00563	gene	477				
+OIADNFMB_00563	CDS	477				hypothetical protein
+OIADNFMB_00564	gene	1083	wbpE			
+OIADNFMB_00564	CDS	1083	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+OIADNFMB_00565	gene	549				
+OIADNFMB_00565	CDS	549				hypothetical protein
+OIADNFMB_00566	gene	1389				
+OIADNFMB_00566	CDS	1389				hypothetical protein
+OIADNFMB_00567	gene	708				
+OIADNFMB_00567	CDS	708				hypothetical protein
+OIADNFMB_00568	gene	165				
+OIADNFMB_00568	CDS	165				hypothetical protein
+OIADNFMB_00569	gene	144				
+OIADNFMB_00569	CDS	144				hypothetical protein
+OIADNFMB_00570	gene	879				
+OIADNFMB_00570	CDS	879				hypothetical protein
+OIADNFMB_00571	gene	76				
+OIADNFMB_00571	tRNA	76				tRNA-Glu(ctc)
+OIADNFMB_00572	gene	396				
+OIADNFMB_00572	CDS	396				hypothetical protein
+OIADNFMB_00573	gene	2781				
+OIADNFMB_00573	CDS	2781				hypothetical protein
+OIADNFMB_00574	gene	528				
+OIADNFMB_00574	CDS	528				hypothetical protein
+OIADNFMB_00575	gene	456				
+OIADNFMB_00575	CDS	456				hypothetical protein
+OIADNFMB_00576	gene	489				
+OIADNFMB_00576	CDS	489				hypothetical protein
+OIADNFMB_00577	gene	165				
+OIADNFMB_00577	CDS	165				hypothetical protein
+OIADNFMB_00578	gene	1038				
+OIADNFMB_00578	CDS	1038				hypothetical protein
+OIADNFMB_00579	gene	210				
+OIADNFMB_00579	CDS	210				hypothetical protein
+OIADNFMB_00580	gene	408				
+OIADNFMB_00580	CDS	408				hypothetical protein
+OIADNFMB_00581	gene	156				
+OIADNFMB_00581	CDS	156				hypothetical protein
+OIADNFMB_00582	gene	918	ilvE_3			
+OIADNFMB_00582	CDS	918	ilvE_3	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OIADNFMB_00583	gene	936	iolG			
+OIADNFMB_00583	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+OIADNFMB_00584	gene	270				
+OIADNFMB_00584	CDS	270				hypothetical protein
+OIADNFMB_00585	gene	477	fdtC			
+OIADNFMB_00585	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+OIADNFMB_00586	gene	231				
+OIADNFMB_00586	CDS	231				hypothetical protein
+OIADNFMB_00587	gene	993	tagO			
+OIADNFMB_00587	CDS	993	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+OIADNFMB_00588	gene	456				
+OIADNFMB_00588	CDS	456				hypothetical protein
+OIADNFMB_00589	gene	1098	ino1_1			
+OIADNFMB_00589	CDS	1098	ino1_1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+OIADNFMB_00590	gene	939				
+OIADNFMB_00590	CDS	939		2.5.-.-		Deoxyhypusine synthase-like protein
+OIADNFMB_00591	gene	714				
+OIADNFMB_00591	CDS	714				hypothetical protein
+OIADNFMB_00592	gene	621				
+OIADNFMB_00592	CDS	621				hypothetical protein
+OIADNFMB_00593	gene	264				
+OIADNFMB_00593	CDS	264				hypothetical protein
+OIADNFMB_00594	gene	513				
+OIADNFMB_00594	CDS	513				hypothetical protein
+OIADNFMB_00595	gene	246				
+OIADNFMB_00595	CDS	246				hypothetical protein
+OIADNFMB_00596	gene	930				
+OIADNFMB_00596	CDS	930		2.3.1.-		tRNA uridine(34) acetyltransferase
+OIADNFMB_00597	gene	1587	lysS_1			
+OIADNFMB_00597	CDS	1587	lysS_1	6.1.1.6	COG1384	Lysine--tRNA ligase
+OIADNFMB_00598	gene	696	lhgD			
+OIADNFMB_00598	CDS	696	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+OIADNFMB_00599	gene	261				
+OIADNFMB_00599	CDS	261				hypothetical protein
+OIADNFMB_00600	gene	333				
+OIADNFMB_00600	CDS	333				hypothetical protein
+OIADNFMB_00601	gene	414				
+OIADNFMB_00601	CDS	414				hypothetical protein
+OIADNFMB_00602	gene	564	ghrB			
+OIADNFMB_00602	CDS	564	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+OIADNFMB_00603	gene	120				
+OIADNFMB_00603	CDS	120				hypothetical protein
+OIADNFMB_00604	gene	840	nfo			
+OIADNFMB_00604	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+OIADNFMB_00605	gene	1479	glyQS			
+OIADNFMB_00605	CDS	1479	glyQS	6.1.1.14		Glycine--tRNA ligase
+OIADNFMB_00606	gene	951				
+OIADNFMB_00606	CDS	951				hypothetical protein
+OIADNFMB_00607	gene	942				
+OIADNFMB_00607	CDS	942				hypothetical protein
+OIADNFMB_00608	gene	729				
+OIADNFMB_00608	CDS	729				hypothetical protein
+OIADNFMB_00609	gene	1233	gatA_1			
+OIADNFMB_00609	CDS	1233	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+OIADNFMB_00610	gene	1410	gatB			
+OIADNFMB_00610	CDS	1410	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+OIADNFMB_00611	gene	285				
+OIADNFMB_00611	CDS	285				hypothetical protein
+OIADNFMB_00612	gene	231				
+OIADNFMB_00612	CDS	231				hypothetical protein
+OIADNFMB_00613	gene	915	mdh_1			
+OIADNFMB_00613	CDS	915	mdh_1	1.1.1.37		Malate dehydrogenase
+OIADNFMB_00614	gene	783	larB_1			
+OIADNFMB_00614	CDS	783	larB_1	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+OIADNFMB_00615	gene	744				
+OIADNFMB_00615	CDS	744				hypothetical protein
+OIADNFMB_00616	gene	345				
+OIADNFMB_00616	CDS	345				hypothetical protein
+OIADNFMB_00617	gene	435				
+OIADNFMB_00617	CDS	435				hypothetical protein
+OIADNFMB_00618	gene	1689	frdA_2			
+OIADNFMB_00618	CDS	1689	frdA_2	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+OIADNFMB_00619	gene	993				
+OIADNFMB_00619	CDS	993				hypothetical protein
+OIADNFMB_00620	gene	477				
+OIADNFMB_00620	CDS	477				hypothetical protein
+OIADNFMB_00621	gene	303				
+OIADNFMB_00621	CDS	303				hypothetical protein
+OIADNFMB_00622	gene	435				
+OIADNFMB_00622	CDS	435				hypothetical protein
+OIADNFMB_00623	gene	165				
+OIADNFMB_00623	CDS	165				hypothetical protein
+OIADNFMB_00624	gene	669				
+OIADNFMB_00624	CDS	669				hypothetical protein
+OIADNFMB_00625	gene	480				
+OIADNFMB_00625	CDS	480				hypothetical protein
+OIADNFMB_00626	gene	690				
+OIADNFMB_00626	CDS	690				hypothetical protein
+OIADNFMB_00627	gene	1044				
+OIADNFMB_00627	CDS	1044				hypothetical protein
+OIADNFMB_00628	gene	1359	hisC_1			
+OIADNFMB_00628	CDS	1359	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+OIADNFMB_00629	gene	2052				
+OIADNFMB_00629	CDS	2052				hypothetical protein
+OIADNFMB_00630	gene	513	pckA			
+OIADNFMB_00630	CDS	513	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+OIADNFMB_00631	gene	1167	metK_3			
+OIADNFMB_00631	CDS	1167	metK_3	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OIADNFMB_00632	gene	243				
+OIADNFMB_00632	CDS	243				hypothetical protein
+OIADNFMB_00633	gene	999				
+OIADNFMB_00633	CDS	999				hypothetical protein
+OIADNFMB_00634	gene	159				
+OIADNFMB_00634	CDS	159				hypothetical protein
+OIADNFMB_00635	gene	1287				
+OIADNFMB_00635	CDS	1287				hypothetical protein
+OIADNFMB_00636	gene	1188				
+OIADNFMB_00636	CDS	1188				hypothetical protein
+OIADNFMB_00637	gene	378				
+OIADNFMB_00637	CDS	378				hypothetical protein
+OIADNFMB_00638	gene	273				
+OIADNFMB_00638	CDS	273				hypothetical protein
+OIADNFMB_00639	gene	1230				
+OIADNFMB_00639	CDS	1230				hypothetical protein
+OIADNFMB_00640	gene	828				
+OIADNFMB_00640	CDS	828				hypothetical protein
+OIADNFMB_00641	gene	171				
+OIADNFMB_00641	CDS	171				hypothetical protein
+OIADNFMB_00642	gene	123				
+OIADNFMB_00642	CDS	123				hypothetical protein
+OIADNFMB_00643	gene	513				
+OIADNFMB_00643	CDS	513		3.5.2.-		D-hydantoinase
+OIADNFMB_00644	gene	678	rpiA			
+OIADNFMB_00644	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+OIADNFMB_00645	gene	915				
+OIADNFMB_00645	CDS	915				hypothetical protein
+OIADNFMB_00646	gene	93				
+OIADNFMB_00646	CDS	93				hypothetical protein
+OIADNFMB_00647	gene	315				
+OIADNFMB_00647	CDS	315				hypothetical protein
+OIADNFMB_00648	gene	255				
+OIADNFMB_00648	CDS	255				hypothetical protein
+OIADNFMB_00649	gene	123				
+OIADNFMB_00649	CDS	123				hypothetical protein
+OIADNFMB_00650	gene	537				
+OIADNFMB_00650	CDS	537				hypothetical protein
+OIADNFMB_00651	gene	93				
+OIADNFMB_00651	CDS	93				hypothetical protein
+OIADNFMB_00652	gene	408				
+OIADNFMB_00652	CDS	408		1.5.5.2	COG0506	Proline dehydrogenase
+OIADNFMB_00653	gene	1566	rocA1			
+OIADNFMB_00653	CDS	1566	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+OIADNFMB_00654	gene	1332	aldh			
+OIADNFMB_00654	CDS	1332	aldh	1.2.1.3		Aldehyde dehydrogenase
+OIADNFMB_00655	gene	1362	purB_3			
+OIADNFMB_00655	CDS	1362	purB_3	4.3.2.2		Adenylosuccinate lyase
+OIADNFMB_00656	gene	756				
+OIADNFMB_00656	CDS	756				hypothetical protein
+OIADNFMB_00657	gene	285	phhB			
+OIADNFMB_00657	CDS	285	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+OIADNFMB_00658	gene	819				
+OIADNFMB_00658	CDS	819				hypothetical protein
+OIADNFMB_00659	gene	2319	valS			
+OIADNFMB_00659	CDS	2319	valS	6.1.1.9		Valine--tRNA ligase
+OIADNFMB_00660	gene	666				
+OIADNFMB_00660	CDS	666				hypothetical protein
+OIADNFMB_00661	gene	1275	hisS			
+OIADNFMB_00661	CDS	1275	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+OIADNFMB_00662	gene	426				
+OIADNFMB_00662	CDS	426				hypothetical protein
+OIADNFMB_00663	gene	417				
+OIADNFMB_00663	CDS	417				hypothetical protein
+OIADNFMB_00664	gene	330				
+OIADNFMB_00664	CDS	330				hypothetical protein
+OIADNFMB_00665	gene	402				
+OIADNFMB_00665	CDS	402				hypothetical protein
+OIADNFMB_00666	gene	990				
+OIADNFMB_00666	CDS	990				hypothetical protein
+OIADNFMB_00667	gene	537				
+OIADNFMB_00667	CDS	537				hypothetical protein
+OIADNFMB_00668	gene	963				
+OIADNFMB_00668	CDS	963				hypothetical protein
+OIADNFMB_00669	gene	657				
+OIADNFMB_00669	CDS	657				hypothetical protein
+OIADNFMB_00670	gene	207				
+OIADNFMB_00670	CDS	207				hypothetical protein
+OIADNFMB_00671	gene	591				
+OIADNFMB_00671	CDS	591				hypothetical protein
+OIADNFMB_00672	gene	327				
+OIADNFMB_00672	CDS	327				hypothetical protein
+OIADNFMB_00673	gene	93				
+OIADNFMB_00673	CDS	93				hypothetical protein
+OIADNFMB_00674	gene	150				
+OIADNFMB_00674	CDS	150				hypothetical protein
+OIADNFMB_00675	gene	468				
+OIADNFMB_00675	CDS	468				hypothetical protein
+OIADNFMB_00676	gene	597	sodA			
+OIADNFMB_00676	CDS	597	sodA	1.15.1.1		Superoxide dismutase [Mn]
+OIADNFMB_00677	gene	423	pfdA			
+OIADNFMB_00677	CDS	423	pfdA			Prefoldin subunit alpha
+OIADNFMB_00678	gene	1230	ftsY			
+OIADNFMB_00678	CDS	1230	ftsY			Signal recognition particle receptor FtsY
+OIADNFMB_00679	gene	918	argF			
+OIADNFMB_00679	CDS	918	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+OIADNFMB_00680	gene	255				
+OIADNFMB_00680	CDS	255				hypothetical protein
+OIADNFMB_00681	gene	489				
+OIADNFMB_00681	CDS	489				hypothetical protein
+OIADNFMB_00682	gene	1302				
+OIADNFMB_00682	CDS	1302				hypothetical protein
+OIADNFMB_00683	gene	813				
+OIADNFMB_00683	CDS	813				hypothetical protein
+OIADNFMB_00684	gene	240				
+OIADNFMB_00684	CDS	240				hypothetical protein
+OIADNFMB_00685	gene	1074				
+OIADNFMB_00685	CDS	1074				hypothetical protein
+OIADNFMB_00686	gene	1053				
+OIADNFMB_00686	CDS	1053				hypothetical protein
+OIADNFMB_00687	gene	147				
+OIADNFMB_00687	CDS	147				hypothetical protein
+OIADNFMB_00688	gene	1245	csd			
+OIADNFMB_00688	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+OIADNFMB_00689	gene	318	nagAb			
+OIADNFMB_00689	CDS	318	nagAb			Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin component
+OIADNFMB_00690	gene	1401				
+OIADNFMB_00690	CDS	1401				hypothetical protein
+OIADNFMB_00691	gene	144				
+OIADNFMB_00691	CDS	144				hypothetical protein
+OIADNFMB_00692	gene	153				
+OIADNFMB_00692	CDS	153				hypothetical protein
+OIADNFMB_00693	gene	303				
+OIADNFMB_00693	CDS	303				hypothetical protein
+OIADNFMB_00694	gene	1056				
+OIADNFMB_00694	CDS	1056				hypothetical protein
+OIADNFMB_00695	gene	120				
+OIADNFMB_00695	CDS	120				hypothetical protein
+OIADNFMB_00696	gene	663				
+OIADNFMB_00696	CDS	663				hypothetical protein
+OIADNFMB_00697	gene	573				
+OIADNFMB_00697	CDS	573				hypothetical protein
+OIADNFMB_00698	gene	564				
+OIADNFMB_00698	CDS	564				hypothetical protein
+OIADNFMB_00699	gene	270				
+OIADNFMB_00699	CDS	270				hypothetical protein
+OIADNFMB_00700	gene	252				
+OIADNFMB_00700	CDS	252				hypothetical protein
+OIADNFMB_00701	gene	366				
+OIADNFMB_00701	CDS	366				hypothetical protein
+OIADNFMB_00702	gene	74				
+OIADNFMB_00702	tRNA	74				tRNA-Gly(gcc)
+OIADNFMB_00703	gene	159				
+OIADNFMB_00703	CDS	159				hypothetical protein
+OIADNFMB_00704	gene	417	petE_3			
+OIADNFMB_00704	CDS	417	petE_3			Plastocyanin
+OIADNFMB_00705	gene	1587	uvrC			
+OIADNFMB_00705	CDS	1587	uvrC		COG0322	UvrABC system protein C
+OIADNFMB_00706	gene	2823	uvrA			
+OIADNFMB_00706	CDS	2823	uvrA			UvrABC system protein A
+OIADNFMB_00707	gene	105				
+OIADNFMB_00707	CDS	105				hypothetical protein
+OIADNFMB_00708	gene	165				
+OIADNFMB_00708	CDS	165				hypothetical protein
+OIADNFMB_00709	gene	306				
+OIADNFMB_00709	CDS	306		7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit 11
+OIADNFMB_00710	gene	513				
+OIADNFMB_00710	CDS	513				hypothetical protein
+OIADNFMB_00711	gene	498	ndhI_1			
+OIADNFMB_00711	CDS	498	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OIADNFMB_00712	gene	1296	ndhA_1			
+OIADNFMB_00712	CDS	1296	ndhA_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+OIADNFMB_00713	gene	1140	ndhH			
+OIADNFMB_00713	CDS	1140	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+OIADNFMB_00714	gene	561	nuoC			
+OIADNFMB_00714	CDS	561	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+OIADNFMB_00715	gene	516	ndhK_2			
+OIADNFMB_00715	CDS	516	ndhK_2	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+OIADNFMB_00716	gene	375	ndhC_2			
+OIADNFMB_00716	CDS	375	ndhC_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+OIADNFMB_00717	gene	474	bcp_2			
+OIADNFMB_00717	CDS	474	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+OIADNFMB_00718	gene	513				
+OIADNFMB_00718	CDS	513				hypothetical protein
+OIADNFMB_00719	gene	1488	cfiB_2			
+OIADNFMB_00719	CDS	1488	cfiB_2	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+OIADNFMB_00720	gene	1548	pccB			
+OIADNFMB_00720	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+OIADNFMB_00721	gene	198				
+OIADNFMB_00721	CDS	198				hypothetical protein
+OIADNFMB_00722	gene	1269	hisD			
+OIADNFMB_00722	CDS	1269	hisD	1.1.1.23		Histidinol dehydrogenase
+OIADNFMB_00723	gene	993	hisG			
+OIADNFMB_00723	CDS	993	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+OIADNFMB_00724	gene	750	mvaA			
+OIADNFMB_00724	CDS	750	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+OIADNFMB_00725	gene	366	bcp_3			
+OIADNFMB_00725	CDS	366	bcp_3	1.11.1.15	COG1225	Peroxiredoxin Bcp
+OIADNFMB_00726	gene	759				
+OIADNFMB_00726	CDS	759				hypothetical protein
+OIADNFMB_00727	gene	378				
+OIADNFMB_00727	CDS	378				hypothetical protein
+OIADNFMB_00728	gene	1443	ubiD_2			
+OIADNFMB_00728	CDS	1443	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+OIADNFMB_00729	gene	801				
+OIADNFMB_00729	CDS	801				hypothetical protein
+OIADNFMB_00730	gene	177				
+OIADNFMB_00730	CDS	177				hypothetical protein
+OIADNFMB_00731	gene	222				
+OIADNFMB_00731	CDS	222				hypothetical protein
+OIADNFMB_00732	gene	444				
+OIADNFMB_00732	CDS	444				hypothetical protein
+OIADNFMB_00733	gene	441				
+OIADNFMB_00733	CDS	441				hypothetical protein
+OIADNFMB_00734	gene	1254				
+OIADNFMB_00734	CDS	1254				hypothetical protein
+OIADNFMB_00735	gene	267				
+OIADNFMB_00735	CDS	267				hypothetical protein
+OIADNFMB_00736	gene	825	mqnD			
+OIADNFMB_00736	CDS	825	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+OIADNFMB_00737	gene	279				
+OIADNFMB_00737	CDS	279				hypothetical protein
+OIADNFMB_00738	gene	1107	mqnE_2			
+OIADNFMB_00738	CDS	1107	mqnE_2	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+OIADNFMB_00739	gene	174				
+OIADNFMB_00739	CDS	174				hypothetical protein
+OIADNFMB_00740	gene	174				
+OIADNFMB_00740	CDS	174				hypothetical protein
+OIADNFMB_00741	gene	192				
+OIADNFMB_00741	CDS	192				hypothetical protein
+OIADNFMB_00742	gene	450				
+OIADNFMB_00742	CDS	450				hypothetical protein
+OIADNFMB_00743	gene	291				
+OIADNFMB_00743	CDS	291				hypothetical protein
+OIADNFMB_00744	gene	1080	ccr			
+OIADNFMB_00744	CDS	1080	ccr	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+OIADNFMB_00745	gene	315				
+OIADNFMB_00745	CDS	315				hypothetical protein
+OIADNFMB_00746	gene	1161	ruvB			
+OIADNFMB_00746	CDS	1161	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+OIADNFMB_00747	gene	1116				
+OIADNFMB_00747	CDS	1116				hypothetical protein
+OIADNFMB_00748	gene	1314	ndhA_2			
+OIADNFMB_00748	CDS	1314	ndhA_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+OIADNFMB_00749	gene	975	nqo4			
+OIADNFMB_00749	CDS	975	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+OIADNFMB_00750	gene	729				
+OIADNFMB_00750	CDS	729				hypothetical protein
+OIADNFMB_00751	gene	426				
+OIADNFMB_00751	CDS	426				hypothetical protein
+OIADNFMB_00752	gene	273				
+OIADNFMB_00752	CDS	273				hypothetical protein
+OIADNFMB_00753	gene	162				
+OIADNFMB_00753	CDS	162				hypothetical protein
+OIADNFMB_00754	gene	243				
+OIADNFMB_00754	CDS	243				hypothetical protein
+OIADNFMB_00755	gene	405				
+OIADNFMB_00755	CDS	405				hypothetical protein
+OIADNFMB_00756	gene	1002				
+OIADNFMB_00756	CDS	1002				hypothetical protein
+OIADNFMB_00757	gene	1167	metK_4			
+OIADNFMB_00757	CDS	1167	metK_4	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OIADNFMB_00758	gene	261				
+OIADNFMB_00758	CDS	261				hypothetical protein
+OIADNFMB_00759	gene	657	recA			
+OIADNFMB_00759	CDS	657	recA			Protein RecA
+OIADNFMB_00760	gene	120				
+OIADNFMB_00760	CDS	120				hypothetical protein
+OIADNFMB_00761	gene	342				
+OIADNFMB_00761	CDS	342				hypothetical protein
+OIADNFMB_00762	gene	465				
+OIADNFMB_00762	CDS	465				hypothetical protein
+OIADNFMB_00763	gene	1047				
+OIADNFMB_00763	CDS	1047				hypothetical protein
+OIADNFMB_00764	gene	1857	rcsC			
+OIADNFMB_00764	CDS	1857	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+OIADNFMB_00765	gene	363				
+OIADNFMB_00765	CDS	363				hypothetical protein
+OIADNFMB_00766	gene	369	cheY_1			
+OIADNFMB_00766	CDS	369	cheY_1		COG0784	Chemotaxis protein CheY
+OIADNFMB_00767	gene	414				
+OIADNFMB_00767	CDS	414				hypothetical protein
+OIADNFMB_00768	gene	387				
+OIADNFMB_00768	CDS	387				hypothetical protein
+OIADNFMB_00769	gene	219				
+OIADNFMB_00769	CDS	219				hypothetical protein
+OIADNFMB_00770	gene	384				
+OIADNFMB_00770	CDS	384				hypothetical protein
+OIADNFMB_00771	gene	150				
+OIADNFMB_00771	CDS	150				hypothetical protein
+OIADNFMB_00772	gene	861				
+OIADNFMB_00772	CDS	861				hypothetical protein
+OIADNFMB_00773	gene	180				
+OIADNFMB_00773	CDS	180				hypothetical protein
+OIADNFMB_00774	gene	1338				
+OIADNFMB_00774	CDS	1338				hypothetical protein
+OIADNFMB_00775	gene	375				
+OIADNFMB_00775	CDS	375				hypothetical protein
+OIADNFMB_00776	gene	432				
+OIADNFMB_00776	CDS	432				hypothetical protein
+OIADNFMB_00777	gene	249				
+OIADNFMB_00777	CDS	249				hypothetical protein
+OIADNFMB_00778	gene	342	glnB_1			
+OIADNFMB_00778	CDS	342	glnB_1		COG0347	Nitrogen regulatory protein P-II
+OIADNFMB_00779	gene	426				
+OIADNFMB_00779	CDS	426				hypothetical protein
+OIADNFMB_00780	gene	465				
+OIADNFMB_00780	CDS	465		2.7.7.-		A-adding tRNA nucleotidyltransferase
+OIADNFMB_00781	gene	351				
+OIADNFMB_00781	CDS	351				hypothetical protein
+OIADNFMB_00782	gene	357				
+OIADNFMB_00782	CDS	357				hypothetical protein
+OIADNFMB_00783	gene	144				
+OIADNFMB_00783	CDS	144				hypothetical protein
+OIADNFMB_00784	gene	921	fbiA_1			
+OIADNFMB_00784	CDS	921	fbiA_1	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+OIADNFMB_00785	gene	633	fbiD_1			
+OIADNFMB_00785	CDS	633	fbiD_1	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+OIADNFMB_00786	gene	393	ctaA_2			
+OIADNFMB_00786	CDS	393	ctaA_2	1.3.-.-	COG1612	Heme A synthase
+OIADNFMB_00787	gene	552				
+OIADNFMB_00787	CDS	552				hypothetical protein
+OIADNFMB_00788	gene	603				
+OIADNFMB_00788	CDS	603				hypothetical protein
+OIADNFMB_00789	gene	77				
+OIADNFMB_00789	tRNA	77				tRNA-Lys(ctt)
+OIADNFMB_00790	gene	243				
+OIADNFMB_00790	CDS	243				hypothetical protein
+OIADNFMB_00791	gene	222				
+OIADNFMB_00791	CDS	222				hypothetical protein
+OIADNFMB_00792	gene	237				
+OIADNFMB_00792	CDS	237				hypothetical protein
+OIADNFMB_00793	gene	1533				
+OIADNFMB_00793	CDS	1533				hypothetical protein
+OIADNFMB_00794	gene	177				
+OIADNFMB_00794	CDS	177				hypothetical protein
+OIADNFMB_00795	gene	360	ribE_2			
+OIADNFMB_00795	CDS	360	ribE_2	2.5.1.9	COG0307	Riboflavin synthase
+OIADNFMB_00796	gene	2106				
+OIADNFMB_00796	CDS	2106				hypothetical protein
+OIADNFMB_00797	gene	300				
+OIADNFMB_00797	CDS	300				hypothetical protein
+OIADNFMB_00798	gene	561	carB_1			
+OIADNFMB_00798	CDS	561	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+OIADNFMB_00799	gene	753				
+OIADNFMB_00799	CDS	753				hypothetical protein
+OIADNFMB_00800	gene	303				
+OIADNFMB_00800	CDS	303				hypothetical protein
+OIADNFMB_00801	gene	375				
+OIADNFMB_00801	CDS	375				hypothetical protein
+OIADNFMB_00802	gene	186				
+OIADNFMB_00802	CDS	186				hypothetical protein
+OIADNFMB_00803	gene	246				
+OIADNFMB_00803	CDS	246				hypothetical protein
+OIADNFMB_00804	gene	654				
+OIADNFMB_00804	CDS	654				hypothetical protein
+OIADNFMB_00805	gene	267				
+OIADNFMB_00805	CDS	267				hypothetical protein
+OIADNFMB_00806	gene	396				
+OIADNFMB_00806	CDS	396				hypothetical protein
+OIADNFMB_00807	gene	468				
+OIADNFMB_00807	CDS	468				hypothetical protein
+OIADNFMB_00808	gene	762				
+OIADNFMB_00808	CDS	762				hypothetical protein
+OIADNFMB_00809	gene	417				
+OIADNFMB_00809	CDS	417				hypothetical protein
+OIADNFMB_00810	gene	1332	ubiD_3			
+OIADNFMB_00810	CDS	1332	ubiD_3	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+OIADNFMB_00811	gene	342				
+OIADNFMB_00811	CDS	342				hypothetical protein
+OIADNFMB_00812	gene	240				
+OIADNFMB_00812	CDS	240				hypothetical protein
+OIADNFMB_00813	gene	996				
+OIADNFMB_00813	CDS	996				hypothetical protein
+OIADNFMB_00814	gene	195				
+OIADNFMB_00814	CDS	195				hypothetical protein
+OIADNFMB_00815	gene	552				
+OIADNFMB_00815	CDS	552				hypothetical protein
+OIADNFMB_00816	gene	276				
+OIADNFMB_00816	CDS	276				hypothetical protein
+OIADNFMB_00817	gene	921	fbiA_2			
+OIADNFMB_00817	CDS	921	fbiA_2	2.7.8.28		Phosphoenolpyruvate transferase
+OIADNFMB_00818	gene	642	fbiD_2			
+OIADNFMB_00818	CDS	642	fbiD_2	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+OIADNFMB_00819	gene	915				
+OIADNFMB_00819	CDS	915				hypothetical protein
+OIADNFMB_00820	gene	846				
+OIADNFMB_00820	CDS	846				hypothetical protein
+OIADNFMB_00821	gene	1038				
+OIADNFMB_00821	CDS	1038				hypothetical protein
+OIADNFMB_00822	gene	309				
+OIADNFMB_00822	CDS	309				hypothetical protein
+OIADNFMB_00823	gene	276				
+OIADNFMB_00823	CDS	276				hypothetical protein
+OIADNFMB_00824	gene	660				
+OIADNFMB_00824	CDS	660				hypothetical protein
+OIADNFMB_00825	gene	954				
+OIADNFMB_00825	CDS	954				hypothetical protein
+OIADNFMB_00826	gene	219				
+OIADNFMB_00826	CDS	219				hypothetical protein
+OIADNFMB_00827	gene	162				
+OIADNFMB_00827	CDS	162				hypothetical protein
+OIADNFMB_00828	gene	498				
+OIADNFMB_00828	CDS	498				hypothetical protein
+OIADNFMB_00829	gene	1191	apbC			
+OIADNFMB_00829	CDS	1191	apbC		COG0489	Iron-sulfur cluster carrier protein
+OIADNFMB_00830	gene	633	rnr			
+OIADNFMB_00830	CDS	633	rnr	3.1.13.1		Ribonuclease R
+OIADNFMB_00831	gene	177				
+OIADNFMB_00831	CDS	177				hypothetical protein
+OIADNFMB_00832	gene	927	ctaB_1			
+OIADNFMB_00832	CDS	927	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+OIADNFMB_00833	gene	459	asnC			
+OIADNFMB_00833	CDS	459	asnC		COG1522	Regulatory protein AsnC
+OIADNFMB_00834	gene	600	asd2			
+OIADNFMB_00834	CDS	600	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+OIADNFMB_00835	gene	156				
+OIADNFMB_00835	CDS	156				hypothetical protein
+OIADNFMB_00836	gene	435	nhaX			
+OIADNFMB_00836	CDS	435	nhaX		COG0589	Stress response protein NhaX
+OIADNFMB_00837	gene	429				
+OIADNFMB_00837	CDS	429				hypothetical protein
+OIADNFMB_00838	gene	444				
+OIADNFMB_00838	CDS	444				Putative universal stress protein
+OIADNFMB_00839	gene	432				
+OIADNFMB_00839	CDS	432				Putative universal stress protein
+OIADNFMB_00840	gene	450	hrp1			
+OIADNFMB_00840	CDS	450	hrp1		COG0517	Hypoxic response protein 1
+OIADNFMB_00841	gene	114				
+OIADNFMB_00841	CDS	114				hypothetical protein
+OIADNFMB_00842	gene	1215	ychF_1			
+OIADNFMB_00842	CDS	1215	ychF_1		COG0012	Ribosome-binding ATPase YchF
+OIADNFMB_00843	gene	366				
+OIADNFMB_00843	CDS	366				hypothetical protein
+OIADNFMB_00844	gene	411	yccU_1			
+OIADNFMB_00844	CDS	411	yccU_1		COG1832	putative protein YccU
+OIADNFMB_00845	gene	300				
+OIADNFMB_00845	CDS	300				hypothetical protein
+OIADNFMB_00846	gene	1002	birA_1			
+OIADNFMB_00846	CDS	1002	birA_1	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OIADNFMB_00847	gene	816				
+OIADNFMB_00847	CDS	816				hypothetical protein
+OIADNFMB_00848	gene	231	nasF			
+OIADNFMB_00848	CDS	231	nasF	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+OIADNFMB_00849	gene	321				
+OIADNFMB_00849	CDS	321				hypothetical protein
+OIADNFMB_00850	gene	930				
+OIADNFMB_00850	CDS	930				hypothetical protein
+OIADNFMB_00851	gene	174				
+OIADNFMB_00851	CDS	174				hypothetical protein
+OIADNFMB_00852	gene	162				
+OIADNFMB_00852	CDS	162				hypothetical protein
+OIADNFMB_00853	gene	369				
+OIADNFMB_00853	CDS	369				hypothetical protein
+OIADNFMB_00854	gene	444	mntR_2			
+OIADNFMB_00854	CDS	444	mntR_2			HTH-type transcriptional regulator MntR
+OIADNFMB_00855	gene	165				
+OIADNFMB_00855	CDS	165				hypothetical protein
+OIADNFMB_00856	gene	420				
+OIADNFMB_00856	CDS	420				hypothetical protein
+OIADNFMB_00857	gene	423				
+OIADNFMB_00857	CDS	423				hypothetical protein
+OIADNFMB_00858	gene	309				
+OIADNFMB_00858	CDS	309				hypothetical protein
+OIADNFMB_00859	gene	153				
+OIADNFMB_00859	CDS	153				hypothetical protein
+OIADNFMB_00860	gene	819	ureD			
+OIADNFMB_00860	CDS	819	ureD			Urease accessory protein UreD
+OIADNFMB_00861	gene	690	ureG			
+OIADNFMB_00861	CDS	690	ureG		COG0378	Urease accessory protein UreG
+OIADNFMB_00862	gene	402				
+OIADNFMB_00862	CDS	402				hypothetical protein
+OIADNFMB_00863	gene	597				
+OIADNFMB_00863	CDS	597				hypothetical protein
+OIADNFMB_00864	gene	540	thpR			
+OIADNFMB_00864	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+OIADNFMB_00865	gene	1335				
+OIADNFMB_00865	CDS	1335				hypothetical protein
+OIADNFMB_00866	gene	759				
+OIADNFMB_00866	CDS	759				hypothetical protein
+OIADNFMB_00867	gene	612	alkA			
+OIADNFMB_00867	CDS	612	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+OIADNFMB_00868	gene	285				
+OIADNFMB_00868	CDS	285				hypothetical protein
+OIADNFMB_00869	gene	651	serB2			
+OIADNFMB_00869	CDS	651	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+OIADNFMB_00870	gene	738	fbiB_1			
+OIADNFMB_00870	CDS	738	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+OIADNFMB_00871	gene	918				
+OIADNFMB_00871	CDS	918				hypothetical protein
+OIADNFMB_00872	gene	198	tusA			
+OIADNFMB_00872	CDS	198	tusA		COG0425	Sulfur carrier protein TusA
+OIADNFMB_00873	gene	264				
+OIADNFMB_00873	CDS	264				hypothetical protein
+OIADNFMB_00874	gene	144				
+OIADNFMB_00874	CDS	144				hypothetical protein
+OIADNFMB_00875	gene	1437				
+OIADNFMB_00875	CDS	1437				hypothetical protein
+OIADNFMB_00876	gene	1269				
+OIADNFMB_00876	CDS	1269				hypothetical protein
+OIADNFMB_00877	gene	555	tag			
+OIADNFMB_00877	CDS	555	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+OIADNFMB_00878	gene	447				
+OIADNFMB_00878	CDS	447				hypothetical protein
+OIADNFMB_00879	gene	321				
+OIADNFMB_00879	CDS	321				hypothetical protein
+OIADNFMB_00880	gene	618	purN_1			
+OIADNFMB_00880	CDS	618	purN_1	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+OIADNFMB_00881	gene	963				
+OIADNFMB_00881	CDS	963				hypothetical protein
+OIADNFMB_00882	gene	252				
+OIADNFMB_00882	CDS	252				hypothetical protein
+OIADNFMB_00883	gene	246				
+OIADNFMB_00883	CDS	246				hypothetical protein
+OIADNFMB_00884	gene	123				
+OIADNFMB_00884	CDS	123				hypothetical protein
+OIADNFMB_00885	gene	252				
+OIADNFMB_00885	CDS	252				hypothetical protein
+OIADNFMB_00886	gene	465				
+OIADNFMB_00886	CDS	465				hypothetical protein
+OIADNFMB_00887	gene	1281				
+OIADNFMB_00887	CDS	1281				hypothetical protein
+OIADNFMB_00888	gene	399				
+OIADNFMB_00888	CDS	399				hypothetical protein
+OIADNFMB_00889	gene	114				
+OIADNFMB_00889	CDS	114				hypothetical protein
+OIADNFMB_00890	gene	783	larB_2			
+OIADNFMB_00890	CDS	783	larB_2	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+OIADNFMB_00891	gene	915	mdh_2			
+OIADNFMB_00891	CDS	915	mdh_2	1.1.1.37	COG0039	Malate dehydrogenase
+OIADNFMB_00892	gene	1224	larC			
+OIADNFMB_00892	CDS	1224	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+OIADNFMB_00893	gene	795				
+OIADNFMB_00893	CDS	795				hypothetical protein
+OIADNFMB_00894	gene	474				
+OIADNFMB_00894	CDS	474				hypothetical protein
+OIADNFMB_00895	gene	258				
+OIADNFMB_00895	CDS	258				hypothetical protein
+OIADNFMB_00896	gene	993				
+OIADNFMB_00896	CDS	993				hypothetical protein
+OIADNFMB_00897	gene	213				
+OIADNFMB_00897	CDS	213				hypothetical protein
+OIADNFMB_00898	gene	159				
+OIADNFMB_00898	CDS	159				hypothetical protein
+OIADNFMB_00899	gene	249				
+OIADNFMB_00899	CDS	249				hypothetical protein
+OIADNFMB_00900	gene	255				
+OIADNFMB_00900	CDS	255				hypothetical protein
+OIADNFMB_00901	gene	1761	glmS			
+OIADNFMB_00901	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OIADNFMB_00902	gene	1065	cobT			
+OIADNFMB_00902	CDS	1065	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+OIADNFMB_00903	gene	612	pksB			
+OIADNFMB_00903	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+OIADNFMB_00904	gene	648	nnr_2			
+OIADNFMB_00904	CDS	648	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OIADNFMB_00905	gene	717	ppm1			
+OIADNFMB_00905	CDS	717	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+OIADNFMB_00906	gene	435	fcl_1			
+OIADNFMB_00906	CDS	435	fcl_1	1.1.1.271		GDP-L-fucose synthase
+OIADNFMB_00907	gene	399	fcl_2			
+OIADNFMB_00907	CDS	399	fcl_2	1.1.1.271		GDP-L-fucose synthase
+OIADNFMB_00908	gene	765				
+OIADNFMB_00908	CDS	765				hypothetical protein
+OIADNFMB_00909	gene	1221	serS			
+OIADNFMB_00909	CDS	1221	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+OIADNFMB_00910	gene	612				
+OIADNFMB_00910	CDS	612				hypothetical protein
+OIADNFMB_00911	gene	429				
+OIADNFMB_00911	CDS	429				hypothetical protein
+OIADNFMB_00912	gene	276				
+OIADNFMB_00912	CDS	276				hypothetical protein
+OIADNFMB_00913	gene	1311	aspS2_1			
+OIADNFMB_00913	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+OIADNFMB_00914	gene	885				
+OIADNFMB_00914	CDS	885				hypothetical protein
+OIADNFMB_00915	gene	924	legI			
+OIADNFMB_00915	CDS	924	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+OIADNFMB_00916	gene	1143	siaA			
+OIADNFMB_00916	CDS	1143	siaA	3.2.1.183	COG0381	UDP-N-acetylglucosamine 2-epimerase
+OIADNFMB_00917	gene	861	wbiB			
+OIADNFMB_00917	CDS	861	wbiB	5.1.3.25		dTDP-L-rhamnose 4-epimerase
+OIADNFMB_00918	gene	933				
+OIADNFMB_00918	CDS	933				hypothetical protein
+OIADNFMB_00919	gene	444				
+OIADNFMB_00919	CDS	444				hypothetical protein
+OIADNFMB_00920	gene	741				
+OIADNFMB_00920	CDS	741				hypothetical protein
+OIADNFMB_00921	gene	357				
+OIADNFMB_00921	CDS	357				hypothetical protein
+OIADNFMB_00922	gene	147				
+OIADNFMB_00922	CDS	147				hypothetical protein
+OIADNFMB_00923	gene	414				
+OIADNFMB_00923	CDS	414				hypothetical protein
+OIADNFMB_00924	gene	255				
+OIADNFMB_00924	CDS	255				hypothetical protein
+OIADNFMB_00925	gene	219				
+OIADNFMB_00925	CDS	219				hypothetical protein
+OIADNFMB_00926	gene	351				
+OIADNFMB_00926	CDS	351				hypothetical protein
+OIADNFMB_00927	gene	309				
+OIADNFMB_00927	CDS	309				hypothetical protein
+OIADNFMB_00928	gene	1239				
+OIADNFMB_00928	CDS	1239				hypothetical protein
+OIADNFMB_00929	gene	1266				
+OIADNFMB_00929	CDS	1266				hypothetical protein
+OIADNFMB_00930	gene	198				
+OIADNFMB_00930	CDS	198				hypothetical protein
+OIADNFMB_00931	gene	2094				
+OIADNFMB_00931	CDS	2094				hypothetical protein
+OIADNFMB_00932	gene	252				
+OIADNFMB_00932	CDS	252				hypothetical protein
+OIADNFMB_00933	gene	477				
+OIADNFMB_00933	CDS	477				hypothetical protein
+OIADNFMB_00934	gene	213				
+OIADNFMB_00934	CDS	213				hypothetical protein
+OIADNFMB_00935	gene	771	sufC			
+OIADNFMB_00935	CDS	771	sufC		COG0396	Vegetative protein 296
+OIADNFMB_00936	gene	957				
+OIADNFMB_00936	CDS	957				hypothetical protein
+OIADNFMB_00937	gene	264				
+OIADNFMB_00937	CDS	264				hypothetical protein
+OIADNFMB_00938	gene	210				
+OIADNFMB_00938	CDS	210				hypothetical protein
+OIADNFMB_00939	gene	828	rph_1			
+OIADNFMB_00939	CDS	828	rph_1	2.7.7.56		Ribonuclease PH
+OIADNFMB_00940	gene	744	rph_2			
+OIADNFMB_00940	CDS	744	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+OIADNFMB_00941	gene	681				
+OIADNFMB_00941	CDS	681				hypothetical protein
+OIADNFMB_00942	gene	687				
+OIADNFMB_00942	CDS	687				hypothetical protein
+OIADNFMB_00943	gene	189				
+OIADNFMB_00943	CDS	189				hypothetical protein
+OIADNFMB_00944	gene	786				
+OIADNFMB_00944	CDS	786				hypothetical protein
+OIADNFMB_00945	gene	195				
+OIADNFMB_00945	CDS	195				hypothetical protein
+OIADNFMB_00946	gene	714	queE_1			
+OIADNFMB_00946	CDS	714	queE_1	4.3.99.3		7-carboxy-7-deazaguanine synthase
+OIADNFMB_00947	gene	561	folE_1			
+OIADNFMB_00947	CDS	561	folE_1	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OIADNFMB_00948	gene	252				
+OIADNFMB_00948	CDS	252				hypothetical protein
+OIADNFMB_00949	gene	225	queC_1			
+OIADNFMB_00949	CDS	225	queC_1	6.3.4.20		7-cyano-7-deazaguanine synthase
+OIADNFMB_00950	gene	1419				
+OIADNFMB_00950	CDS	1419				hypothetical protein
+OIADNFMB_00951	gene	309				
+OIADNFMB_00951	CDS	309				hypothetical protein
+OIADNFMB_00952	gene	828				
+OIADNFMB_00952	CDS	828				hypothetical protein
+OIADNFMB_00953	gene	84				
+OIADNFMB_00953	tRNA	84				tRNA-Ser(cga)
+OIADNFMB_00954	gene	105				
+OIADNFMB_00954	CDS	105				hypothetical protein
+OIADNFMB_00955	gene	354				
+OIADNFMB_00955	CDS	354				hypothetical protein
+OIADNFMB_00956	gene	462				
+OIADNFMB_00956	CDS	462				hypothetical protein
+OIADNFMB_00957	gene	1281				
+OIADNFMB_00957	CDS	1281				hypothetical protein
+OIADNFMB_00958	gene	399				
+OIADNFMB_00958	CDS	399				hypothetical protein
+OIADNFMB_00959	gene	306				
+OIADNFMB_00959	CDS	306				hypothetical protein
+OIADNFMB_00960	gene	318				
+OIADNFMB_00960	CDS	318				hypothetical protein
+OIADNFMB_00961	gene	630	oppC			
+OIADNFMB_00961	CDS	630	oppC		COG1173	Oligopeptide transport system permease protein OppC
+OIADNFMB_00962	gene	972	birA_2			
+OIADNFMB_00962	CDS	972	birA_2	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OIADNFMB_00963	gene	411	yccU_2			
+OIADNFMB_00963	CDS	411	yccU_2		COG1832	putative protein YccU
+OIADNFMB_00964	gene	366				
+OIADNFMB_00964	CDS	366				hypothetical protein
+OIADNFMB_00965	gene	1212	ychF_2			
+OIADNFMB_00965	CDS	1212	ychF_2		COG0012	Ribosome-binding ATPase YchF
+OIADNFMB_00966	gene	1404	cysS			
+OIADNFMB_00966	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+OIADNFMB_00967	gene	813	nadE			
+OIADNFMB_00967	CDS	813	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+OIADNFMB_00968	gene	303	bnzC_1			
+OIADNFMB_00968	CDS	303	bnzC_1		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+OIADNFMB_00969	gene	1182	apgM_3			
+OIADNFMB_00969	CDS	1182	apgM_3			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OIADNFMB_00970	gene	561				
+OIADNFMB_00970	CDS	561				hypothetical protein
+OIADNFMB_00971	gene	366	cqsS			
+OIADNFMB_00971	CDS	366	cqsS	2.7.13.3		CAI-1 autoinducer sensor kinase/phosphatase CqsS
+OIADNFMB_00972	gene	729				
+OIADNFMB_00972	CDS	729				hypothetical protein
+OIADNFMB_00973	gene	1062	purM_1			
+OIADNFMB_00973	CDS	1062	purM_1	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+OIADNFMB_00974	gene	1362				
+OIADNFMB_00974	CDS	1362			COG1055	putative transporter
+OIADNFMB_00975	gene	303				
+OIADNFMB_00975	CDS	303				hypothetical protein
+OIADNFMB_00976	gene	228				
+OIADNFMB_00976	CDS	228				hypothetical protein
+OIADNFMB_00977	gene	378				
+OIADNFMB_00977	CDS	378				hypothetical protein
+OIADNFMB_00978	gene	558				
+OIADNFMB_00978	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+OIADNFMB_00979	gene	552	tmung			
+OIADNFMB_00979	CDS	552	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+OIADNFMB_00980	gene	1434				
+OIADNFMB_00980	CDS	1434				hypothetical protein
+OIADNFMB_00981	gene	156				
+OIADNFMB_00981	CDS	156				hypothetical protein
+OIADNFMB_00982	gene	843				
+OIADNFMB_00982	CDS	843				hypothetical protein
+OIADNFMB_00983	gene	207				
+OIADNFMB_00983	CDS	207				hypothetical protein
+OIADNFMB_00984	gene	618	purN_2			
+OIADNFMB_00984	CDS	618	purN_2	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+OIADNFMB_00985	gene	456				
+OIADNFMB_00985	CDS	456				hypothetical protein
+OIADNFMB_00986	gene	354				
+OIADNFMB_00986	CDS	354				hypothetical protein
+OIADNFMB_00987	gene	426				
+OIADNFMB_00987	CDS	426				hypothetical protein
+OIADNFMB_00988	gene	243				
+OIADNFMB_00988	CDS	243				hypothetical protein
+OIADNFMB_00989	gene	171				
+OIADNFMB_00989	CDS	171				hypothetical protein
+OIADNFMB_00990	gene	441				
+OIADNFMB_00990	CDS	441				hypothetical protein
+OIADNFMB_00991	gene	243	GATB			
+OIADNFMB_00991	CDS	243	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+OIADNFMB_00992	gene	1008				
+OIADNFMB_00992	CDS	1008				hypothetical protein
+OIADNFMB_00993	gene	831				
+OIADNFMB_00993	CDS	831				hypothetical protein
+OIADNFMB_00994	gene	237				
+OIADNFMB_00994	CDS	237				hypothetical protein
+OIADNFMB_00995	gene	342	glnB_2			
+OIADNFMB_00995	CDS	342	glnB_2		COG0347	Nitrogen regulatory protein P-II
+OIADNFMB_00996	gene	177				
+OIADNFMB_00996	CDS	177				hypothetical protein
+OIADNFMB_00997	gene	714				
+OIADNFMB_00997	CDS	714				hypothetical protein
+OIADNFMB_00998	gene	576				
+OIADNFMB_00998	CDS	576				hypothetical protein
+OIADNFMB_00999	gene	159				
+OIADNFMB_00999	CDS	159				hypothetical protein
+OIADNFMB_01000	gene	414	lrp_1			
+OIADNFMB_01000	CDS	414	lrp_1		COG1522	Leucine-responsive regulatory protein
+OIADNFMB_01001	gene	561	dnaJ_3			
+OIADNFMB_01001	CDS	561	dnaJ_3			Chaperone protein DnaJ
+OIADNFMB_01002	gene	429				
+OIADNFMB_01002	CDS	429				hypothetical protein
+OIADNFMB_01003	gene	1326				
+OIADNFMB_01003	CDS	1326				hypothetical protein
+OIADNFMB_01004	gene	1296	larA_1			
+OIADNFMB_01004	CDS	1296	larA_1	5.1.2.1	COG3875	Lactate racemase
+OIADNFMB_01005	gene	429				
+OIADNFMB_01005	CDS	429				hypothetical protein
+OIADNFMB_01006	gene	1263				
+OIADNFMB_01006	CDS	1263				hypothetical protein
+OIADNFMB_01007	gene	285				
+OIADNFMB_01007	CDS	285				hypothetical protein
+OIADNFMB_01008	gene	1053				
+OIADNFMB_01008	CDS	1053				hypothetical protein
+OIADNFMB_01009	gene	111				
+OIADNFMB_01009	CDS	111				hypothetical protein
+OIADNFMB_01010	gene	174				
+OIADNFMB_01010	CDS	174				hypothetical protein
+OIADNFMB_01011	gene	99				
+OIADNFMB_01011	CDS	99				hypothetical protein
+OIADNFMB_01012	gene	444				
+OIADNFMB_01012	CDS	444				hypothetical protein
+OIADNFMB_01013	gene	810				
+OIADNFMB_01013	CDS	810				hypothetical protein
+OIADNFMB_01014	gene	201				
+OIADNFMB_01014	CDS	201				hypothetical protein
+OIADNFMB_01015	gene	1590	lysS_2			
+OIADNFMB_01015	CDS	1590	lysS_2	6.1.1.6	COG1384	Lysine--tRNA ligase
+OIADNFMB_01016	gene	1422				
+OIADNFMB_01016	CDS	1422		2.3.1.-		tRNA uridine(34) acetyltransferase
+OIADNFMB_01017	gene	117				
+OIADNFMB_01017	CDS	117				hypothetical protein
+OIADNFMB_01018	gene	456	lrp_2			
+OIADNFMB_01018	CDS	456	lrp_2		COG1522	Leucine-responsive regulatory protein
+OIADNFMB_01019	gene	657	rplA			
+OIADNFMB_01019	CDS	657	rplA		COG0081	50S ribosomal protein L1
+OIADNFMB_01020	gene	867				
+OIADNFMB_01020	CDS	867				hypothetical protein
+OIADNFMB_01021	gene	654				
+OIADNFMB_01021	CDS	654				hypothetical protein
+OIADNFMB_01022	gene	180				
+OIADNFMB_01022	CDS	180				hypothetical protein
+OIADNFMB_01023	gene	921	fgd			
+OIADNFMB_01023	CDS	921	fgd	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+OIADNFMB_01024	gene	411				
+OIADNFMB_01024	CDS	411				hypothetical protein
+OIADNFMB_01025	gene	618				
+OIADNFMB_01025	CDS	618				hypothetical protein
+OIADNFMB_01026	gene	381	fosB			
+OIADNFMB_01026	CDS	381	fosB	2.5.1.-		Metallothiol transferase FosB
+OIADNFMB_01027	gene	765	murI_1			
+OIADNFMB_01027	CDS	765	murI_1	5.1.1.3	COG0796	Glutamate racemase
+OIADNFMB_01028	gene	771	cbiF_1			
+OIADNFMB_01028	CDS	771	cbiF_1	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+OIADNFMB_01029	gene	723	cbiL_1			
+OIADNFMB_01029	CDS	723	cbiL_1	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+OIADNFMB_01030	gene	363	cbiET_1			
+OIADNFMB_01030	CDS	363	cbiET_1		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+OIADNFMB_01031	gene	600				
+OIADNFMB_01031	CDS	600				hypothetical protein
+OIADNFMB_01032	gene	438				
+OIADNFMB_01032	CDS	438				hypothetical protein
+OIADNFMB_01033	gene	465	nusA			
+OIADNFMB_01033	CDS	465	nusA			Transcription termination/antitermination protein NusA
+OIADNFMB_01034	gene	423				
+OIADNFMB_01034	CDS	423				hypothetical protein
+OIADNFMB_01035	gene	555				
+OIADNFMB_01035	CDS	555				hypothetical protein
+OIADNFMB_01036	gene	180				
+OIADNFMB_01036	CDS	180				hypothetical protein
+OIADNFMB_01037	gene	624				
+OIADNFMB_01037	CDS	624			COG1926	putative protein
+OIADNFMB_01038	gene	921				
+OIADNFMB_01038	CDS	921				hypothetical protein
+OIADNFMB_01039	gene	444				
+OIADNFMB_01039	CDS	444				hypothetical protein
+OIADNFMB_01040	gene	384				
+OIADNFMB_01040	CDS	384				hypothetical protein
+OIADNFMB_01041	gene	387				
+OIADNFMB_01041	CDS	387				hypothetical protein
+OIADNFMB_01042	gene	840				
+OIADNFMB_01042	CDS	840				hypothetical protein
+OIADNFMB_01043	gene	1209	tdcB_2			
+OIADNFMB_01043	CDS	1209	tdcB_2	4.3.1.19	COG1171	L-threonine ammonia-lyase
+OIADNFMB_01044	gene	576	purE_3			
+OIADNFMB_01044	CDS	576	purE_3	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OIADNFMB_01045	gene	264				
+OIADNFMB_01045	CDS	264				hypothetical protein
+OIADNFMB_01046	gene	1059				
+OIADNFMB_01046	CDS	1059				hypothetical protein
+OIADNFMB_01047	gene	1206	mat			
+OIADNFMB_01047	CDS	1206	mat	2.5.1.6		S-adenosylmethionine synthase
+OIADNFMB_01048	gene	114				
+OIADNFMB_01048	CDS	114				hypothetical protein
+OIADNFMB_01049	gene	780	fbiB_2			
+OIADNFMB_01049	CDS	780	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+OIADNFMB_01050	gene	1272	dmdA			
+OIADNFMB_01050	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+OIADNFMB_01051	gene	474	DmdB			
+OIADNFMB_01051	CDS	474	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+OIADNFMB_01052	gene	306				
+OIADNFMB_01052	CDS	306				hypothetical protein
+OIADNFMB_01053	gene	1851				
+OIADNFMB_01053	CDS	1851				hypothetical protein
+OIADNFMB_01054	gene	555				
+OIADNFMB_01054	CDS	555				hypothetical protein
+OIADNFMB_01055	gene	867	speB_3			
+OIADNFMB_01055	CDS	867	speB_3	3.5.3.11	COG0010	Agmatinase
+OIADNFMB_01056	gene	324				
+OIADNFMB_01056	CDS	324				hypothetical protein
+OIADNFMB_01057	gene	126				
+OIADNFMB_01057	CDS	126				hypothetical protein
+OIADNFMB_01058	gene	1275				
+OIADNFMB_01058	CDS	1275				hypothetical protein
+OIADNFMB_01059	gene	378				
+OIADNFMB_01059	CDS	378				hypothetical protein
+OIADNFMB_01060	gene	1137	sasA_3			
+OIADNFMB_01060	CDS	1137	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+OIADNFMB_01061	gene	225				
+OIADNFMB_01061	CDS	225				hypothetical protein
+OIADNFMB_01062	gene	297				
+OIADNFMB_01062	CDS	297				hypothetical protein
+OIADNFMB_01063	gene	135				
+OIADNFMB_01063	CDS	135				hypothetical protein
+OIADNFMB_01064	gene	402				
+OIADNFMB_01064	CDS	402				hypothetical protein
+OIADNFMB_01065	gene	540				
+OIADNFMB_01065	CDS	540				hypothetical protein
+OIADNFMB_01066	gene	129				
+OIADNFMB_01066	CDS	129				hypothetical protein
+OIADNFMB_01067	gene	393				
+OIADNFMB_01067	CDS	393				hypothetical protein
+OIADNFMB_01068	gene	192				
+OIADNFMB_01068	CDS	192				hypothetical protein
+OIADNFMB_01069	gene	984	oppF			
+OIADNFMB_01069	CDS	984	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+OIADNFMB_01070	gene	1029	egtD			
+OIADNFMB_01070	CDS	1029	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+OIADNFMB_01071	gene	1308	egtB			
+OIADNFMB_01071	CDS	1308	egtB	1.14.99.50		Hercynine oxygenase
+OIADNFMB_01072	gene	348	proS_2			
+OIADNFMB_01072	CDS	348	proS_2	6.1.1.15	COG0442	Proline--tRNA ligase
+OIADNFMB_01073	gene	804	znuB			
+OIADNFMB_01073	CDS	804	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+OIADNFMB_01074	gene	735	znuC			
+OIADNFMB_01074	CDS	735	znuC	7.2.2.-	COG1121	High-affinity zinc uptake system ATP-binding protein ZnuC
+OIADNFMB_01075	gene	936	znuA			
+OIADNFMB_01075	CDS	936	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+OIADNFMB_01076	gene	384	nikR			
+OIADNFMB_01076	CDS	384	nikR			Nickel-responsive regulator
+OIADNFMB_01077	gene	126				
+OIADNFMB_01077	CDS	126				hypothetical protein
+OIADNFMB_01078	gene	1191	atzA			
+OIADNFMB_01078	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+OIADNFMB_01079	gene	753				
+OIADNFMB_01079	CDS	753				hypothetical protein
+OIADNFMB_01080	gene	402	ribH_2			
+OIADNFMB_01080	CDS	402	ribH_2	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+OIADNFMB_01081	gene	255				
+OIADNFMB_01081	CDS	255				hypothetical protein
+OIADNFMB_01082	gene	411				
+OIADNFMB_01082	CDS	411				hypothetical protein
+OIADNFMB_01083	gene	543	dnaJ_4			
+OIADNFMB_01083	CDS	543	dnaJ_4			Chaperone protein DnaJ
+OIADNFMB_01084	gene	438	lrp_3			
+OIADNFMB_01084	CDS	438	lrp_3		COG1522	Leucine-responsive regulatory protein
+OIADNFMB_01085	gene	228				
+OIADNFMB_01085	CDS	228				hypothetical protein
+OIADNFMB_01086	gene	504	ycf3_2			
+OIADNFMB_01086	CDS	504	ycf3_2			Photosystem I assembly protein Ycf3
+OIADNFMB_01087	gene	600	ywlC_2			
+OIADNFMB_01087	CDS	600	ywlC_2	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+OIADNFMB_01088	gene	90				
+OIADNFMB_01088	CDS	90				hypothetical protein
+OIADNFMB_01089	gene	285				
+OIADNFMB_01089	CDS	285				hypothetical protein
+OIADNFMB_01090	gene	609				
+OIADNFMB_01090	CDS	609				hypothetical protein
+OIADNFMB_01091	gene	222				
+OIADNFMB_01091	CDS	222				hypothetical protein
+OIADNFMB_01092	gene	288				
+OIADNFMB_01092	CDS	288				hypothetical protein
+OIADNFMB_01093	gene	510				
+OIADNFMB_01093	CDS	510				hypothetical protein
+OIADNFMB_01094	gene	618				
+OIADNFMB_01094	CDS	618				hypothetical protein
+OIADNFMB_01095	gene	873	Dml_2			
+OIADNFMB_01095	CDS	873	Dml_2	4.1.3.32		2,3-dimethylmalate lyase
+OIADNFMB_01096	gene	366				
+OIADNFMB_01096	CDS	366				hypothetical protein
+OIADNFMB_01097	gene	201				
+OIADNFMB_01097	CDS	201				hypothetical protein
+OIADNFMB_01098	gene	153				
+OIADNFMB_01098	CDS	153				hypothetical protein
+OIADNFMB_01099	gene	633				
+OIADNFMB_01099	CDS	633				hypothetical protein
+OIADNFMB_01100	gene	633				
+OIADNFMB_01100	CDS	633		2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+OIADNFMB_01101	gene	312				
+OIADNFMB_01101	CDS	312				hypothetical protein
+OIADNFMB_01102	gene	1017				
+OIADNFMB_01102	CDS	1017				hypothetical protein
+OIADNFMB_01103	gene	1314	mvaS_1			
+OIADNFMB_01103	CDS	1314	mvaS_1	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+OIADNFMB_01104	gene	690	bioD1_1			
+OIADNFMB_01104	CDS	690	bioD1_1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+OIADNFMB_01105	gene	1314	bioK_1			
+OIADNFMB_01105	CDS	1314	bioK_1	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+OIADNFMB_01106	gene	975	bioB_1			
+OIADNFMB_01106	CDS	975	bioB_1	2.8.1.6	COG0502	Biotin synthase
+OIADNFMB_01107	gene	249				
+OIADNFMB_01107	CDS	249				hypothetical protein
+OIADNFMB_01108	gene	156				
+OIADNFMB_01108	CDS	156				hypothetical protein
+OIADNFMB_01109	gene	2079	smc_2			
+OIADNFMB_01109	CDS	2079	smc_2			Chromosome partition protein Smc
+OIADNFMB_01110	gene	903	petE_4			
+OIADNFMB_01110	CDS	903	petE_4			Plastocyanin
+OIADNFMB_01111	gene	120				
+OIADNFMB_01111	CDS	120				hypothetical protein
+OIADNFMB_01112	gene	123				
+OIADNFMB_01112	CDS	123				hypothetical protein
+OIADNFMB_01113	gene	162				
+OIADNFMB_01113	CDS	162				hypothetical protein
+OIADNFMB_01114	gene	207				
+OIADNFMB_01114	CDS	207				hypothetical protein
+OIADNFMB_01115	gene	102				
+OIADNFMB_01115	CDS	102				hypothetical protein
+OIADNFMB_01116	gene	582				
+OIADNFMB_01116	CDS	582				hypothetical protein
+OIADNFMB_01117	gene	330				
+OIADNFMB_01117	CDS	330				hypothetical protein
+OIADNFMB_01118	gene	327				
+OIADNFMB_01118	CDS	327				hypothetical protein
+OIADNFMB_01119	gene	294				
+OIADNFMB_01119	CDS	294				hypothetical protein
+OIADNFMB_01120	gene	375				
+OIADNFMB_01120	CDS	375				hypothetical protein
+OIADNFMB_01121	gene	420				
+OIADNFMB_01121	CDS	420				hypothetical protein
+OIADNFMB_01122	gene	492				
+OIADNFMB_01122	CDS	492				hypothetical protein
+OIADNFMB_01123	gene	354				
+OIADNFMB_01123	CDS	354				hypothetical protein
+OIADNFMB_01124	gene	465				
+OIADNFMB_01124	CDS	465				hypothetical protein
+OIADNFMB_01125	gene	147				
+OIADNFMB_01125	CDS	147				hypothetical protein
+OIADNFMB_01126	gene	756	ku			
+OIADNFMB_01126	CDS	756	ku			Non-homologous end joining protein Ku
+OIADNFMB_01127	gene	153				
+OIADNFMB_01127	CDS	153				hypothetical protein
+OIADNFMB_01128	gene	222				
+OIADNFMB_01128	CDS	222				hypothetical protein
+OIADNFMB_01129	gene	195				
+OIADNFMB_01129	CDS	195				hypothetical protein
+OIADNFMB_01130	gene	276				
+OIADNFMB_01130	CDS	276				hypothetical protein
+OIADNFMB_01131	gene	153				
+OIADNFMB_01131	CDS	153				hypothetical protein
+OIADNFMB_01132	gene	312				
+OIADNFMB_01132	CDS	312				hypothetical protein
+OIADNFMB_01133	gene	183				
+OIADNFMB_01133	CDS	183				hypothetical protein
+OIADNFMB_01134	gene	282				
+OIADNFMB_01134	CDS	282				hypothetical protein
+OIADNFMB_01135	gene	126				
+OIADNFMB_01135	CDS	126				hypothetical protein
+OIADNFMB_01136	gene	186				
+OIADNFMB_01136	CDS	186				hypothetical protein
+OIADNFMB_01137	gene	216				
+OIADNFMB_01137	CDS	216				hypothetical protein
+OIADNFMB_01138	gene	597				
+OIADNFMB_01138	CDS	597				hypothetical protein
+OIADNFMB_01139	gene	393				
+OIADNFMB_01139	CDS	393				hypothetical protein
+OIADNFMB_01140	gene	138				
+OIADNFMB_01140	CDS	138				hypothetical protein
+OIADNFMB_01141	gene	555				
+OIADNFMB_01141	CDS	555				hypothetical protein
+OIADNFMB_01142	gene	936				
+OIADNFMB_01142	CDS	936				hypothetical protein
+OIADNFMB_01143	gene	873				
+OIADNFMB_01143	CDS	873				hypothetical protein
+OIADNFMB_01144	gene	387				
+OIADNFMB_01144	CDS	387				hypothetical protein
+OIADNFMB_01145	gene	603				
+OIADNFMB_01145	CDS	603				hypothetical protein
+OIADNFMB_01146	gene	183				
+OIADNFMB_01146	CDS	183				hypothetical protein
+OIADNFMB_01147	gene	1107	arnC_1			
+OIADNFMB_01147	CDS	1107	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OIADNFMB_01148	gene	1197				
+OIADNFMB_01148	CDS	1197				hypothetical protein
+OIADNFMB_01149	gene	165				
+OIADNFMB_01149	CDS	165				hypothetical protein
+OIADNFMB_01150	gene	417				
+OIADNFMB_01150	CDS	417				hypothetical protein
+OIADNFMB_01151	gene	1767	lig_1			
+OIADNFMB_01151	CDS	1767	lig_1	6.5.1.1		DNA ligase
+OIADNFMB_01152	gene	1005	aspS2_2			
+OIADNFMB_01152	CDS	1005	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+OIADNFMB_01153	gene	516				
+OIADNFMB_01153	CDS	516				hypothetical protein
+OIADNFMB_01154	gene	219				
+OIADNFMB_01154	CDS	219				hypothetical protein
+OIADNFMB_01155	gene	441	hacB			
+OIADNFMB_01155	CDS	441	hacB	4.2.1.33		Methanogen homoaconitase small subunit
+OIADNFMB_01156	gene	534				
+OIADNFMB_01156	CDS	534				hypothetical protein
+OIADNFMB_01157	gene	228				
+OIADNFMB_01157	CDS	228				hypothetical protein
+OIADNFMB_01158	gene	969	pdxS			
+OIADNFMB_01158	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OIADNFMB_01159	gene	219				
+OIADNFMB_01159	CDS	219				hypothetical protein
+OIADNFMB_01160	gene	1287	aspS2_3			
+OIADNFMB_01160	CDS	1287	aspS2_3	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+OIADNFMB_01161	gene	264				
+OIADNFMB_01161	CDS	264				hypothetical protein
+OIADNFMB_01162	gene	291	hicd_2			
+OIADNFMB_01162	CDS	291	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+OIADNFMB_01163	gene	75				
+OIADNFMB_01163	tRNA	75				tRNA-Cys(gca)
+OIADNFMB_01164	gene	222				
+OIADNFMB_01164	CDS	222				hypothetical protein
+OIADNFMB_01165	gene	756	ycfH			
+OIADNFMB_01165	CDS	756	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+OIADNFMB_01166	gene	336				
+OIADNFMB_01166	CDS	336				hypothetical protein
+OIADNFMB_01167	gene	777				
+OIADNFMB_01167	CDS	777				hypothetical protein
+OIADNFMB_01168	gene	270				
+OIADNFMB_01168	CDS	270				hypothetical protein
+OIADNFMB_01169	gene	1080				
+OIADNFMB_01169	CDS	1080				hypothetical protein
+OIADNFMB_01170	gene	1215				
+OIADNFMB_01170	CDS	1215				hypothetical protein
+OIADNFMB_01171	gene	195				
+OIADNFMB_01171	CDS	195				hypothetical protein
+OIADNFMB_01172	gene	738	yafV			
+OIADNFMB_01172	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+OIADNFMB_01173	gene	393	ino1_2			
+OIADNFMB_01173	CDS	393	ino1_2	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+OIADNFMB_01174	gene	855				
+OIADNFMB_01174	CDS	855				hypothetical protein
+OIADNFMB_01175	gene	156				
+OIADNFMB_01175	CDS	156				hypothetical protein
+OIADNFMB_01176	gene	804				
+OIADNFMB_01176	CDS	804				hypothetical protein
+OIADNFMB_01177	gene	531	cobO			
+OIADNFMB_01177	CDS	531	cobO	2.5.1.17		Corrinoid adenosyltransferase
+OIADNFMB_01178	gene	561				
+OIADNFMB_01178	CDS	561				hypothetical protein
+OIADNFMB_01179	gene	1119				
+OIADNFMB_01179	CDS	1119				hypothetical protein
+OIADNFMB_01180	gene	186				
+OIADNFMB_01180	CDS	186				hypothetical protein
+OIADNFMB_01181	gene	198				
+OIADNFMB_01181	CDS	198				hypothetical protein
+OIADNFMB_01182	gene	153				
+OIADNFMB_01182	CDS	153				hypothetical protein
+OIADNFMB_01183	gene	474				
+OIADNFMB_01183	CDS	474				hypothetical protein
+OIADNFMB_01184	gene	942				
+OIADNFMB_01184	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+OIADNFMB_01185	gene	1599				
+OIADNFMB_01185	CDS	1599				hypothetical protein
+OIADNFMB_01186	gene	831				
+OIADNFMB_01186	CDS	831				hypothetical protein
+OIADNFMB_01187	gene	288				
+OIADNFMB_01187	CDS	288				hypothetical protein
+OIADNFMB_01188	gene	381				
+OIADNFMB_01188	CDS	381				hypothetical protein
+OIADNFMB_01189	gene	1254	gcvPA_2			
+OIADNFMB_01189	CDS	1254	gcvPA_2	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+OIADNFMB_01190	gene	612				
+OIADNFMB_01190	CDS	612				hypothetical protein
+OIADNFMB_01191	gene	213				
+OIADNFMB_01191	CDS	213				hypothetical protein
+OIADNFMB_01192	gene	237				
+OIADNFMB_01192	CDS	237				hypothetical protein
+OIADNFMB_01193	gene	249				
+OIADNFMB_01193	CDS	249				hypothetical protein
+OIADNFMB_01194	gene	339				
+OIADNFMB_01194	CDS	339				hypothetical protein
+OIADNFMB_01195	gene	435				
+OIADNFMB_01195	CDS	435				hypothetical protein
+OIADNFMB_01196	gene	459				
+OIADNFMB_01196	CDS	459				hypothetical protein
+OIADNFMB_01197	gene	1281	lapB			
+OIADNFMB_01197	CDS	1281	lapB			Lipopolysaccharide assembly protein B
+OIADNFMB_01198	gene	1119	gbuA_3			
+OIADNFMB_01198	CDS	1119	gbuA_3	3.5.3.7	COG0010	Guanidinobutyrase
+OIADNFMB_01199	gene	399	ureA_2			
+OIADNFMB_01199	CDS	399	ureA_2	3.5.1.5		Urease subunit alpha
+OIADNFMB_01200	gene	90				
+OIADNFMB_01200	CDS	90				hypothetical protein
+OIADNFMB_01201	gene	276				
+OIADNFMB_01201	CDS	276				hypothetical protein
+OIADNFMB_01202	gene	405				
+OIADNFMB_01202	CDS	405				hypothetical protein
+OIADNFMB_01203	gene	690				
+OIADNFMB_01203	CDS	690				hypothetical protein
+OIADNFMB_01204	gene	483				
+OIADNFMB_01204	CDS	483				hypothetical protein
+OIADNFMB_01205	gene	480	nadK_1			
+OIADNFMB_01205	CDS	480	nadK_1	2.7.1.23		NAD kinase
+OIADNFMB_01206	gene	906				
+OIADNFMB_01206	CDS	906				hypothetical protein
+OIADNFMB_01207	gene	282				
+OIADNFMB_01207	CDS	282				hypothetical protein
+OIADNFMB_01208	gene	144				
+OIADNFMB_01208	CDS	144				hypothetical protein
+OIADNFMB_01209	gene	555				
+OIADNFMB_01209	CDS	555				hypothetical protein
+OIADNFMB_01210	gene	264				
+OIADNFMB_01210	CDS	264				hypothetical protein
+OIADNFMB_01211	gene	1734	hutI			
+OIADNFMB_01211	CDS	1734	hutI	3.5.2.7		Imidazolonepropionase
+OIADNFMB_01212	gene	393				
+OIADNFMB_01212	CDS	393				hypothetical protein
+OIADNFMB_01213	gene	588	cbiET_2			
+OIADNFMB_01213	CDS	588	cbiET_2		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+OIADNFMB_01214	gene	495				
+OIADNFMB_01214	CDS	495				hypothetical protein
+OIADNFMB_01215	gene	162				
+OIADNFMB_01215	CDS	162				hypothetical protein
+OIADNFMB_01216	gene	147				
+OIADNFMB_01216	CDS	147				hypothetical protein
+OIADNFMB_01217	gene	921	trpD			
+OIADNFMB_01217	CDS	921	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+OIADNFMB_01218	gene	774	trpC			
+OIADNFMB_01218	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+OIADNFMB_01219	gene	609				
+OIADNFMB_01219	CDS	609				hypothetical protein
+OIADNFMB_01220	gene	117				
+OIADNFMB_01220	CDS	117				hypothetical protein
+OIADNFMB_01221	gene	270				
+OIADNFMB_01221	CDS	270				hypothetical protein
+OIADNFMB_01222	gene	285				
+OIADNFMB_01222	CDS	285				hypothetical protein
+OIADNFMB_01223	gene	558				
+OIADNFMB_01223	CDS	558				hypothetical protein
+OIADNFMB_01224	gene	276				
+OIADNFMB_01224	CDS	276				hypothetical protein
+OIADNFMB_01225	gene	228				
+OIADNFMB_01225	CDS	228				hypothetical protein
+OIADNFMB_01226	gene	759				
+OIADNFMB_01226	CDS	759		1.-.-.-		putative oxidoreductase
+OIADNFMB_01227	gene	210				
+OIADNFMB_01227	CDS	210				hypothetical protein
+OIADNFMB_01228	gene	77				
+OIADNFMB_01228	tRNA	77				tRNA-Pro(ggg)
+OIADNFMB_01229	gene	411				
+OIADNFMB_01229	CDS	411				hypothetical protein
+OIADNFMB_01230	gene	792	COQ5_3			
+OIADNFMB_01230	CDS	792	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OIADNFMB_01231	gene	129				
+OIADNFMB_01231	CDS	129				hypothetical protein
+OIADNFMB_01232	gene	147				
+OIADNFMB_01232	CDS	147				hypothetical protein
+OIADNFMB_01233	gene	252				
+OIADNFMB_01233	CDS	252				hypothetical protein
+OIADNFMB_01234	gene	135				
+OIADNFMB_01234	CDS	135				hypothetical protein
+OIADNFMB_01235	gene	234				
+OIADNFMB_01235	CDS	234				hypothetical protein
+OIADNFMB_01236	gene	552				
+OIADNFMB_01236	CDS	552				hypothetical protein
+OIADNFMB_01237	gene	162				
+OIADNFMB_01237	CDS	162				hypothetical protein
+OIADNFMB_01238	gene	537				
+OIADNFMB_01238	CDS	537				hypothetical protein
+OIADNFMB_01239	gene	435				
+OIADNFMB_01239	CDS	435				hypothetical protein
+OIADNFMB_01240	gene	963				
+OIADNFMB_01240	CDS	963				hypothetical protein
+OIADNFMB_01241	gene	1512	korA			
+OIADNFMB_01241	CDS	1512	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+OIADNFMB_01242	gene	639				
+OIADNFMB_01242	CDS	639				hypothetical protein
+OIADNFMB_01243	gene	561				
+OIADNFMB_01243	CDS	561		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+OIADNFMB_01244	gene	561	udg			
+OIADNFMB_01244	CDS	561	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+OIADNFMB_01245	gene	1416	tldD			
+OIADNFMB_01245	CDS	1416	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+OIADNFMB_01246	gene	150				
+OIADNFMB_01246	CDS	150				hypothetical protein
+OIADNFMB_01247	gene	762	barA			
+OIADNFMB_01247	CDS	762	barA	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+OIADNFMB_01248	gene	558	crt			
+OIADNFMB_01248	CDS	558	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+OIADNFMB_01249	gene	351	erpA			
+OIADNFMB_01249	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+OIADNFMB_01250	gene	1140	dnaG			
+OIADNFMB_01250	CDS	1140	dnaG	2.7.7.-		DNA primase
+OIADNFMB_01251	gene	138				
+OIADNFMB_01251	CDS	138				hypothetical protein
+OIADNFMB_01252	gene	384				
+OIADNFMB_01252	CDS	384				hypothetical protein
+OIADNFMB_01253	gene	360				
+OIADNFMB_01253	CDS	360				hypothetical protein
+OIADNFMB_01254	gene	108				
+OIADNFMB_01254	CDS	108				hypothetical protein
+OIADNFMB_01255	gene	183				
+OIADNFMB_01255	CDS	183				hypothetical protein
+OIADNFMB_01256	gene	357	divK			
+OIADNFMB_01256	CDS	357	divK			Polar-differentiation response regulator DivK
+OIADNFMB_01257	gene	483				
+OIADNFMB_01257	CDS	483				hypothetical protein
+OIADNFMB_01258	gene	270				
+OIADNFMB_01258	CDS	270				hypothetical protein
+OIADNFMB_01259	gene	540				
+OIADNFMB_01259	CDS	540				hypothetical protein
+OIADNFMB_01260	gene	159				
+OIADNFMB_01260	CDS	159				hypothetical protein
+OIADNFMB_01261	gene	570				
+OIADNFMB_01261	CDS	570				hypothetical protein
+OIADNFMB_01262	gene	564				
+OIADNFMB_01262	CDS	564				hypothetical protein
+OIADNFMB_01263	gene	735	kefB			
+OIADNFMB_01263	CDS	735	kefB			Glutathione-regulated potassium-efflux system protein KefB
+OIADNFMB_01264	gene	1023	purM_2			
+OIADNFMB_01264	CDS	1023	purM_2	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+OIADNFMB_01265	gene	588				
+OIADNFMB_01265	CDS	588				hypothetical protein
+OIADNFMB_01266	gene	330				
+OIADNFMB_01266	CDS	330				hypothetical protein
+OIADNFMB_01267	gene	219				
+OIADNFMB_01267	CDS	219				hypothetical protein
+OIADNFMB_01268	gene	336				
+OIADNFMB_01268	CDS	336				hypothetical protein
+OIADNFMB_01269	gene	1005	nadK_2			
+OIADNFMB_01269	CDS	1005	nadK_2	2.7.1.23		NAD kinase
+OIADNFMB_01270	gene	318	pyrG			
+OIADNFMB_01270	CDS	318	pyrG	6.3.4.2		CTP synthase
+OIADNFMB_01271	gene	150				
+OIADNFMB_01271	CDS	150				hypothetical protein
+OIADNFMB_01272	gene	705	rsmA			
+OIADNFMB_01272	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+OIADNFMB_01273	gene	555				
+OIADNFMB_01273	CDS	555				hypothetical protein
+OIADNFMB_01274	gene	879				
+OIADNFMB_01274	CDS	879				hypothetical protein
+OIADNFMB_01275	gene	1446				
+OIADNFMB_01275	CDS	1446				hypothetical protein
+OIADNFMB_01276	gene	525				
+OIADNFMB_01276	CDS	525				hypothetical protein
+OIADNFMB_01277	gene	864	nnr_3			
+OIADNFMB_01277	CDS	864	nnr_3		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OIADNFMB_01278	gene	636				
+OIADNFMB_01278	CDS	636				hypothetical protein
+OIADNFMB_01279	gene	3207	smc_3			
+OIADNFMB_01279	CDS	3207	smc_3		COG1196	Chromosome partition protein Smc
+OIADNFMB_01280	gene	177				
+OIADNFMB_01280	CDS	177				hypothetical protein
+OIADNFMB_01281	gene	723	cbiL_2			
+OIADNFMB_01281	CDS	723	cbiL_2	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+OIADNFMB_01282	gene	780	cbiF_2			
+OIADNFMB_01282	CDS	780	cbiF_2	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+OIADNFMB_01283	gene	777	murI_2			
+OIADNFMB_01283	CDS	777	murI_2	5.1.1.3		Glutamate racemase
+OIADNFMB_01284	gene	651				
+OIADNFMB_01284	CDS	651				hypothetical protein
+OIADNFMB_01285	gene	1176	arnC_2			
+OIADNFMB_01285	CDS	1176	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OIADNFMB_01286	gene	243				
+OIADNFMB_01286	CDS	243				hypothetical protein
+OIADNFMB_01287	gene	558				
+OIADNFMB_01287	CDS	558				hypothetical protein
+OIADNFMB_01288	gene	396	epi			
+OIADNFMB_01288	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+OIADNFMB_01289	gene	1599	bhbA_1			
+OIADNFMB_01289	CDS	1599	bhbA_1	5.4.99.2		Methylmalonyl-CoA mutase
+OIADNFMB_01290	gene	918	argK			
+OIADNFMB_01290	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+OIADNFMB_01291	gene	120				
+OIADNFMB_01291	CDS	120				hypothetical protein
+OIADNFMB_01292	gene	138				
+OIADNFMB_01292	CDS	138				hypothetical protein
+OIADNFMB_01293	gene	1368	hisC_2			
+OIADNFMB_01293	CDS	1368	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+OIADNFMB_01294	gene	1059	ampC			
+OIADNFMB_01294	CDS	1059	ampC	3.5.2.6		Beta-lactamase
+OIADNFMB_01295	gene	132				
+OIADNFMB_01295	CDS	132				hypothetical protein
+OIADNFMB_01296	gene	741	sumT_1			
+OIADNFMB_01296	CDS	741	sumT_1	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+OIADNFMB_01297	gene	936	hemC_1			
+OIADNFMB_01297	CDS	936	hemC_1	2.5.1.61	COG0181	Porphobilinogen deaminase
+OIADNFMB_01298	gene	1281	hemL_1			
+OIADNFMB_01298	CDS	1281	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+OIADNFMB_01299	gene	645				
+OIADNFMB_01299	CDS	645				hypothetical protein
+OIADNFMB_01300	gene	77				
+OIADNFMB_01300	tRNA	77				tRNA-Asn(gtt)
+OIADNFMB_01301	gene	288				
+OIADNFMB_01301	CDS	288				hypothetical protein
+OIADNFMB_01302	gene	576				
+OIADNFMB_01302	CDS	576				hypothetical protein
+OIADNFMB_01303	gene	393	rpsH			
+OIADNFMB_01303	CDS	393	rpsH			30S ribosomal protein S8
+OIADNFMB_01304	gene	177				
+OIADNFMB_01304	CDS	177				hypothetical protein
+OIADNFMB_01305	gene	522				
+OIADNFMB_01305	CDS	522				hypothetical protein
+OIADNFMB_01306	gene	717				
+OIADNFMB_01306	CDS	717				hypothetical protein
+OIADNFMB_01307	gene	549				
+OIADNFMB_01307	CDS	549				hypothetical protein
+OIADNFMB_01308	gene	435	rplN			
+OIADNFMB_01308	CDS	435	rplN		COG0093	50S ribosomal protein L14
+OIADNFMB_01309	gene	324				
+OIADNFMB_01309	CDS	324				hypothetical protein
+OIADNFMB_01310	gene	267				
+OIADNFMB_01310	CDS	267				hypothetical protein
+OIADNFMB_01311	gene	204				
+OIADNFMB_01311	CDS	204				hypothetical protein
+OIADNFMB_01312	gene	993				
+OIADNFMB_01312	CDS	993				hypothetical protein
+OIADNFMB_01313	gene	117				
+OIADNFMB_01313	CDS	117				hypothetical protein
+OIADNFMB_01314	gene	1119				
+OIADNFMB_01314	CDS	1119				hypothetical protein
+OIADNFMB_01315	gene	135				
+OIADNFMB_01315	CDS	135				hypothetical protein
+OIADNFMB_01316	gene	660	glnA			
+OIADNFMB_01316	CDS	660	glnA	6.3.1.2	COG0174	Glutamine synthetase
+OIADNFMB_01317	gene	279				
+OIADNFMB_01317	CDS	279				hypothetical protein
+OIADNFMB_01318	gene	1704	groL			
+OIADNFMB_01318	CDS	1704	groL		COG0459	60 kDa chaperonin
+OIADNFMB_01319	gene	1323	glyA			
+OIADNFMB_01319	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+OIADNFMB_01320	gene	219				
+OIADNFMB_01320	CDS	219				hypothetical protein
+OIADNFMB_01321	gene	555				
+OIADNFMB_01321	CDS	555				hypothetical protein
+OIADNFMB_01322	gene	405				
+OIADNFMB_01322	CDS	405				hypothetical protein
+OIADNFMB_01323	gene	1329	bzaF			
+OIADNFMB_01323	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+OIADNFMB_01324	gene	1362	pmbA_2			
+OIADNFMB_01324	CDS	1362	pmbA_2	3.4.-.-	COG0312	Metalloprotease PmbA
+OIADNFMB_01325	gene	942	yrbG_2			
+OIADNFMB_01325	CDS	942	yrbG_2		COG0530	Inner membrane protein YrbG
+OIADNFMB_01326	gene	2157				
+OIADNFMB_01326	CDS	2157				hypothetical protein
+OIADNFMB_01327	gene	234				
+OIADNFMB_01327	CDS	234				hypothetical protein
+OIADNFMB_01328	gene	840				
+OIADNFMB_01328	CDS	840				hypothetical protein
+OIADNFMB_01329	gene	768	dppB			
+OIADNFMB_01329	CDS	768	dppB		COG0601	Dipeptide transport system permease protein DppB
+OIADNFMB_01330	gene	1371				
+OIADNFMB_01330	CDS	1371				hypothetical protein
+OIADNFMB_01331	gene	318				
+OIADNFMB_01331	CDS	318				hypothetical protein
+OIADNFMB_01332	gene	294				
+OIADNFMB_01332	CDS	294				hypothetical protein
+OIADNFMB_01333	gene	318				
+OIADNFMB_01333	CDS	318				hypothetical protein
+OIADNFMB_01334	gene	1743				
+OIADNFMB_01334	CDS	1743				hypothetical protein
+OIADNFMB_01335	gene	342				
+OIADNFMB_01335	CDS	342				hypothetical protein
+OIADNFMB_01336	gene	309				
+OIADNFMB_01336	CDS	309				hypothetical protein
+OIADNFMB_01337	gene	1011				
+OIADNFMB_01337	CDS	1011				hypothetical protein
+OIADNFMB_01338	gene	174				
+OIADNFMB_01338	CDS	174				hypothetical protein
+OIADNFMB_01339	gene	702				
+OIADNFMB_01339	CDS	702				hypothetical protein
+OIADNFMB_01340	gene	1197				
+OIADNFMB_01340	CDS	1197				hypothetical protein
+OIADNFMB_01341	gene	261	ffh_2			
+OIADNFMB_01341	CDS	261	ffh_2		COG0541	Signal recognition particle protein
+OIADNFMB_01342	gene	1176				
+OIADNFMB_01342	CDS	1176				hypothetical protein
+OIADNFMB_01343	gene	831				
+OIADNFMB_01343	CDS	831				hypothetical protein
+OIADNFMB_01344	gene	228	cyoE_2			
+OIADNFMB_01344	CDS	228	cyoE_2	2.5.1.141		Protoheme IX farnesyltransferase
+OIADNFMB_01345	gene	3465	smc_4			
+OIADNFMB_01345	CDS	3465	smc_4			Chromosome partition protein Smc
+OIADNFMB_01346	gene	960				
+OIADNFMB_01346	CDS	960				hypothetical protein
+OIADNFMB_01347	gene	771				
+OIADNFMB_01347	CDS	771				putative ABC transporter ATP-binding protein
+OIADNFMB_01348	gene	684				
+OIADNFMB_01348	CDS	684			COG3253	putative protein/MSMEI_2713
+OIADNFMB_01349	gene	654	cheB_1			
+OIADNFMB_01349	CDS	654	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+OIADNFMB_01350	gene	1227				
+OIADNFMB_01350	CDS	1227				hypothetical protein
+OIADNFMB_01351	gene	348				
+OIADNFMB_01351	CDS	348				hypothetical protein
+OIADNFMB_01352	gene	234				
+OIADNFMB_01352	CDS	234				hypothetical protein
+OIADNFMB_01353	gene	213				
+OIADNFMB_01353	CDS	213				hypothetical protein
+OIADNFMB_01354	gene	1197	truD			
+OIADNFMB_01354	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+OIADNFMB_01355	gene	1572	vgb_2			
+OIADNFMB_01355	CDS	1572	vgb_2	4.2.99.-		Virginiamycin B lyase
+OIADNFMB_01356	gene	354				
+OIADNFMB_01356	CDS	354				hypothetical protein
+OIADNFMB_01357	gene	402				
+OIADNFMB_01357	CDS	402				hypothetical protein
+OIADNFMB_01358	gene	1302				
+OIADNFMB_01358	CDS	1302				hypothetical protein
+OIADNFMB_01359	gene	678	lolD			
+OIADNFMB_01359	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+OIADNFMB_01360	gene	1188				
+OIADNFMB_01360	CDS	1188				hypothetical protein
+OIADNFMB_01361	gene	912				
+OIADNFMB_01361	CDS	912				hypothetical protein
+OIADNFMB_01362	gene	516	nudF			
+OIADNFMB_01362	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+OIADNFMB_01363	gene	165				
+OIADNFMB_01363	CDS	165				hypothetical protein
+OIADNFMB_01364	gene	1041				
+OIADNFMB_01364	CDS	1041			COG0645	putative protein
+OIADNFMB_01365	gene	495	cysC			
+OIADNFMB_01365	CDS	495	cysC	2.7.1.25		Adenylyl-sulfate kinase
+OIADNFMB_01366	gene	123				
+OIADNFMB_01366	CDS	123				hypothetical protein
+OIADNFMB_01367	gene	1347				
+OIADNFMB_01367	CDS	1347				hypothetical protein
+OIADNFMB_01368	gene	2751				
+OIADNFMB_01368	CDS	2751		7.2.2.10		Calcium-transporting ATPase 1
+OIADNFMB_01369	gene	405				
+OIADNFMB_01369	CDS	405				hypothetical protein
+OIADNFMB_01370	gene	144				
+OIADNFMB_01370	CDS	144				hypothetical protein
+OIADNFMB_01371	gene	1236				
+OIADNFMB_01371	CDS	1236				hypothetical protein
+OIADNFMB_01372	gene	294				
+OIADNFMB_01372	CDS	294				hypothetical protein
+OIADNFMB_01373	gene	396				
+OIADNFMB_01373	CDS	396				hypothetical protein
+OIADNFMB_01374	gene	804				
+OIADNFMB_01374	CDS	804		1.-.-.-		putative oxidoreductase
+OIADNFMB_01375	gene	1542				
+OIADNFMB_01375	CDS	1542				hypothetical protein
+OIADNFMB_01376	gene	456				
+OIADNFMB_01376	CDS	456				hypothetical protein
+OIADNFMB_01377	gene	759				
+OIADNFMB_01377	CDS	759				hypothetical protein
+OIADNFMB_01378	gene	264				
+OIADNFMB_01378	CDS	264				hypothetical protein
+OIADNFMB_01379	gene	300				
+OIADNFMB_01379	CDS	300				hypothetical protein
+OIADNFMB_01380	gene	381				
+OIADNFMB_01380	CDS	381				hypothetical protein
+OIADNFMB_01381	gene	576	scpB			
+OIADNFMB_01381	CDS	576	scpB			Segregation and condensation protein B
+OIADNFMB_01382	gene	729				
+OIADNFMB_01382	CDS	729				hypothetical protein
+OIADNFMB_01383	gene	198				
+OIADNFMB_01383	CDS	198				hypothetical protein
+OIADNFMB_01384	gene	423				
+OIADNFMB_01384	CDS	423				hypothetical protein
+OIADNFMB_01385	gene	1194	mpa_3			
+OIADNFMB_01385	CDS	1194	mpa_3			Proteasome-associated ATPase
+OIADNFMB_01386	gene	165				
+OIADNFMB_01386	CDS	165				hypothetical protein
+OIADNFMB_01387	gene	1083	carA_3			
+OIADNFMB_01387	CDS	1083	carA_3	6.3.5.5		Carbamoyl-phosphate synthase small chain
+OIADNFMB_01388	gene	90				
+OIADNFMB_01388	CDS	90				hypothetical protein
+OIADNFMB_01389	gene	183				
+OIADNFMB_01389	CDS	183				hypothetical protein
+OIADNFMB_01390	gene	873	lipA			
+OIADNFMB_01390	CDS	873	lipA	2.8.1.8		Lipoyl synthase
+OIADNFMB_01391	gene	1059	gcvT			
+OIADNFMB_01391	CDS	1059	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+OIADNFMB_01392	gene	375	gcvH			
+OIADNFMB_01392	CDS	375	gcvH		COG0509	Glycine cleavage system H protein
+OIADNFMB_01393	gene	558	egsA			
+OIADNFMB_01393	CDS	558	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+OIADNFMB_01394	gene	762				
+OIADNFMB_01394	CDS	762				hypothetical protein
+OIADNFMB_01395	gene	1131				
+OIADNFMB_01395	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+OIADNFMB_01396	gene	495				
+OIADNFMB_01396	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+OIADNFMB_01397	gene	378				
+OIADNFMB_01397	CDS	378				hypothetical protein
+OIADNFMB_01398	gene	162				
+OIADNFMB_01398	CDS	162				hypothetical protein
+OIADNFMB_01399	gene	165				
+OIADNFMB_01399	CDS	165				hypothetical protein
+OIADNFMB_01400	gene	267				
+OIADNFMB_01400	CDS	267				hypothetical protein
+OIADNFMB_01401	gene	105				
+OIADNFMB_01401	CDS	105				hypothetical protein
+OIADNFMB_01402	gene	1725				
+OIADNFMB_01402	CDS	1725				hypothetical protein
+OIADNFMB_01403	gene	1146				
+OIADNFMB_01403	CDS	1146				hypothetical protein
+OIADNFMB_01404	gene	111				
+OIADNFMB_01404	CDS	111				hypothetical protein
+OIADNFMB_01405	gene	327				
+OIADNFMB_01405	CDS	327				hypothetical protein
+OIADNFMB_01406	gene	189				
+OIADNFMB_01406	CDS	189				hypothetical protein
+OIADNFMB_01407	gene	621				
+OIADNFMB_01407	CDS	621				hypothetical protein
+OIADNFMB_01408	gene	672				
+OIADNFMB_01408	CDS	672				hypothetical protein
+OIADNFMB_01409	gene	324				
+OIADNFMB_01409	CDS	324				hypothetical protein
+OIADNFMB_01410	gene	1071				
+OIADNFMB_01410	CDS	1071				hypothetical protein
+OIADNFMB_01411	gene	1059	wbpI_1			
+OIADNFMB_01411	CDS	1059	wbpI_1	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+OIADNFMB_01412	gene	297				
+OIADNFMB_01412	CDS	297				hypothetical protein
+OIADNFMB_01413	gene	255				
+OIADNFMB_01413	CDS	255				hypothetical protein
+OIADNFMB_01414	gene	1674	ilvD_3			
+OIADNFMB_01414	CDS	1674	ilvD_3	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OIADNFMB_01415	gene	309				
+OIADNFMB_01415	CDS	309				hypothetical protein
+OIADNFMB_01416	gene	1353	pabB_2			
+OIADNFMB_01416	CDS	1353	pabB_2	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+OIADNFMB_01417	gene	837				
+OIADNFMB_01417	CDS	837				hypothetical protein
+OIADNFMB_01418	gene	915				
+OIADNFMB_01418	CDS	915				hypothetical protein
+OIADNFMB_01419	gene	516				
+OIADNFMB_01419	CDS	516				hypothetical protein
+OIADNFMB_01420	gene	735	putB			
+OIADNFMB_01420	CDS	735	putB	1.5.5.2	COG0506	Proline dehydrogenase 2
+OIADNFMB_01421	gene	1566	putC_2			
+OIADNFMB_01421	CDS	1566	putC_2	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 2
+OIADNFMB_01422	gene	852	gbuA_4			
+OIADNFMB_01422	CDS	852	gbuA_4	3.5.3.7	COG0010	Guanidinobutyrase
+OIADNFMB_01423	gene	1242	coaBC			
+OIADNFMB_01423	CDS	1242	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+OIADNFMB_01424	gene	834	panB			
+OIADNFMB_01424	CDS	834	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+OIADNFMB_01425	gene	765				
+OIADNFMB_01425	CDS	765				hypothetical protein
+OIADNFMB_01426	gene	900	thrB_1			
+OIADNFMB_01426	CDS	900	thrB_1	2.7.1.39		Homoserine kinase
+OIADNFMB_01427	gene	978				
+OIADNFMB_01427	CDS	978				hypothetical protein
+OIADNFMB_01428	gene	237				
+OIADNFMB_01428	CDS	237				hypothetical protein
+OIADNFMB_01429	gene	567				
+OIADNFMB_01429	CDS	567				hypothetical protein
+OIADNFMB_01430	gene	240				
+OIADNFMB_01430	CDS	240				hypothetical protein
+OIADNFMB_01431	gene	411				
+OIADNFMB_01431	CDS	411				hypothetical protein
+OIADNFMB_01432	gene	1638	pheT			
+OIADNFMB_01432	CDS	1638	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+OIADNFMB_01433	gene	1260				
+OIADNFMB_01433	CDS	1260				hypothetical protein
+OIADNFMB_01434	gene	807	trpA			
+OIADNFMB_01434	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+OIADNFMB_01435	gene	1203	trpB			
+OIADNFMB_01435	CDS	1203	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+OIADNFMB_01436	gene	615				
+OIADNFMB_01436	CDS	615				hypothetical protein
+OIADNFMB_01437	gene	414	hit_2			
+OIADNFMB_01437	CDS	414	hit_2		COG0537	Protein hit
+OIADNFMB_01438	gene	1287				
+OIADNFMB_01438	CDS	1287				hypothetical protein
+OIADNFMB_01439	gene	666				
+OIADNFMB_01439	CDS	666				hypothetical protein
+OIADNFMB_01440	gene	192				
+OIADNFMB_01440	CDS	192				hypothetical protein
+OIADNFMB_01441	gene	945				
+OIADNFMB_01441	CDS	945				hypothetical protein
+OIADNFMB_01442	gene	1098				
+OIADNFMB_01442	CDS	1098		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+OIADNFMB_01443	gene	633				
+OIADNFMB_01443	CDS	633				hypothetical protein
+OIADNFMB_01444	gene	411				
+OIADNFMB_01444	CDS	411				hypothetical protein
+OIADNFMB_01445	gene	1137	fbp			
+OIADNFMB_01445	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+OIADNFMB_01446	gene	1038	sasA_4			
+OIADNFMB_01446	CDS	1038	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+OIADNFMB_01447	gene	882				
+OIADNFMB_01447	CDS	882				hypothetical protein
+OIADNFMB_01448	gene	102				
+OIADNFMB_01448	CDS	102				hypothetical protein
+OIADNFMB_01449	gene	891	menA			
+OIADNFMB_01449	CDS	891	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+OIADNFMB_01450	gene	402				
+OIADNFMB_01450	CDS	402				hypothetical protein
+OIADNFMB_01451	gene	285				
+OIADNFMB_01451	CDS	285				hypothetical protein
+OIADNFMB_01452	gene	399				
+OIADNFMB_01452	CDS	399				hypothetical protein
+OIADNFMB_01453	gene	573				
+OIADNFMB_01453	CDS	573				hypothetical protein
+OIADNFMB_01454	gene	1038				
+OIADNFMB_01454	CDS	1038				hypothetical protein
+OIADNFMB_01455	gene	1086	lysK			
+OIADNFMB_01455	CDS	1086	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+OIADNFMB_01456	gene	849	lysX_2			
+OIADNFMB_01456	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+OIADNFMB_01457	gene	168				
+OIADNFMB_01457	CDS	168				hypothetical protein
+OIADNFMB_01458	gene	1167	leuA_1			
+OIADNFMB_01458	CDS	1167	leuA_1	2.3.3.13		2-isopropylmalate synthase
+OIADNFMB_01459	gene	420				
+OIADNFMB_01459	CDS	420				hypothetical protein
+OIADNFMB_01460	gene	783	lysJ			
+OIADNFMB_01460	CDS	783	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+OIADNFMB_01461	gene	135				
+OIADNFMB_01461	CDS	135				hypothetical protein
+OIADNFMB_01462	gene	411	hit_3			
+OIADNFMB_01462	CDS	411	hit_3		COG0537	Protein hit
+OIADNFMB_01463	gene	162				
+OIADNFMB_01463	CDS	162				hypothetical protein
+OIADNFMB_01464	gene	1143	fadB			
+OIADNFMB_01464	CDS	1143	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+OIADNFMB_01465	gene	510				
+OIADNFMB_01465	CDS	510				hypothetical protein
+OIADNFMB_01466	gene	111				
+OIADNFMB_01466	CDS	111				hypothetical protein
+OIADNFMB_01467	gene	411				
+OIADNFMB_01467	CDS	411				hypothetical protein
+OIADNFMB_01468	gene	213				
+OIADNFMB_01468	CDS	213				hypothetical protein
+OIADNFMB_01469	gene	201				
+OIADNFMB_01469	CDS	201				hypothetical protein
+OIADNFMB_01470	gene	402	ndk			
+OIADNFMB_01470	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+OIADNFMB_01471	gene	1761	infB			
+OIADNFMB_01471	CDS	1761	infB			Translation initiation factor IF-2
+OIADNFMB_01472	gene	318				
+OIADNFMB_01472	CDS	318				hypothetical protein
+OIADNFMB_01473	gene	1017	hicd_3			
+OIADNFMB_01473	CDS	1017	hicd_3	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+OIADNFMB_01474	gene	1518	leuA_2			
+OIADNFMB_01474	CDS	1518	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+OIADNFMB_01475	gene	99				
+OIADNFMB_01475	CDS	99				hypothetical protein
+OIADNFMB_01476	gene	1743				
+OIADNFMB_01476	CDS	1743				hypothetical protein
+OIADNFMB_01477	gene	375				
+OIADNFMB_01477	CDS	375				hypothetical protein
+OIADNFMB_01478	gene	201				
+OIADNFMB_01478	CDS	201				hypothetical protein
+OIADNFMB_01479	gene	2511	dbpA_3			
+OIADNFMB_01479	CDS	2511	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+OIADNFMB_01480	gene	2193	fusA			
+OIADNFMB_01480	CDS	2193	fusA		COG0480	Elongation factor G
+OIADNFMB_01481	gene	909				
+OIADNFMB_01481	CDS	909				hypothetical protein
+OIADNFMB_01482	gene	189				
+OIADNFMB_01482	CDS	189				hypothetical protein
+OIADNFMB_01483	gene	213				
+OIADNFMB_01483	CDS	213				hypothetical protein
+OIADNFMB_01484	gene	1026				
+OIADNFMB_01484	CDS	1026				hypothetical protein
+OIADNFMB_01485	gene	120				
+OIADNFMB_01485	CDS	120				hypothetical protein
+OIADNFMB_01486	gene	294				
+OIADNFMB_01486	CDS	294				hypothetical protein
+OIADNFMB_01487	gene	477				
+OIADNFMB_01487	CDS	477				hypothetical protein
+OIADNFMB_01488	gene	126				
+OIADNFMB_01488	CDS	126				hypothetical protein
+OIADNFMB_01489	gene	567				
+OIADNFMB_01489	CDS	567				hypothetical protein
+OIADNFMB_01490	gene	762	fabG2			
+OIADNFMB_01490	CDS	762	fabG2	1.-.-.-		putative oxidoreductase
+OIADNFMB_01491	gene	354				
+OIADNFMB_01491	CDS	354				hypothetical protein
+OIADNFMB_01492	gene	1047	mtnA			
+OIADNFMB_01492	CDS	1047	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+OIADNFMB_01493	gene	810				
+OIADNFMB_01493	CDS	810				hypothetical protein
+OIADNFMB_01494	gene	402				
+OIADNFMB_01494	CDS	402		2.3.1.-	COG0110	Putative acetyltransferase
+OIADNFMB_01495	gene	297				
+OIADNFMB_01495	CDS	297		3.2.1.184	COG0381	UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolyzing)
+OIADNFMB_01496	gene	207				
+OIADNFMB_01496	CDS	207				hypothetical protein
+OIADNFMB_01497	gene	1152				
+OIADNFMB_01497	CDS	1152				hypothetical protein
+OIADNFMB_01498	gene	690	menG_1			
+OIADNFMB_01498	CDS	690	menG_1	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+OIADNFMB_01499	gene	186				
+OIADNFMB_01499	CDS	186				hypothetical protein
+OIADNFMB_01500	gene	120				
+OIADNFMB_01500	CDS	120				hypothetical protein
+OIADNFMB_01501	gene	378				
+OIADNFMB_01501	CDS	378				hypothetical protein
+OIADNFMB_01502	gene	972				
+OIADNFMB_01502	CDS	972				hypothetical protein
+OIADNFMB_01503	gene	222				
+OIADNFMB_01503	CDS	222				hypothetical protein
+OIADNFMB_01504	gene	306	aroA			
+OIADNFMB_01504	CDS	306	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OIADNFMB_01505	gene	1095	aroC			
+OIADNFMB_01505	CDS	1095	aroC	4.2.3.5	COG0082	Chorismate synthase
+OIADNFMB_01506	gene	1371	dapL			
+OIADNFMB_01506	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+OIADNFMB_01507	gene	855	tyrA			
+OIADNFMB_01507	CDS	855	tyrA		COG0287	T-protein
+OIADNFMB_01508	gene	321				
+OIADNFMB_01508	CDS	321				hypothetical protein
+OIADNFMB_01509	gene	213	thiC			
+OIADNFMB_01509	CDS	213	thiC	4.1.99.17		Phosphomethylpyrimidine synthase
+OIADNFMB_01510	gene	1323				
+OIADNFMB_01510	CDS	1323				hypothetical protein
+OIADNFMB_01511	gene	594				
+OIADNFMB_01511	CDS	594				hypothetical protein
+OIADNFMB_01512	gene	195				
+OIADNFMB_01512	CDS	195				hypothetical protein
+OIADNFMB_01513	gene	1956	TOP6B			
+OIADNFMB_01513	CDS	1956	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+OIADNFMB_01514	gene	570				
+OIADNFMB_01514	CDS	570				hypothetical protein
+OIADNFMB_01515	gene	594				
+OIADNFMB_01515	CDS	594				hypothetical protein
+OIADNFMB_01516	gene	153				
+OIADNFMB_01516	CDS	153				hypothetical protein
+OIADNFMB_01517	gene	150				
+OIADNFMB_01517	CDS	150				hypothetical protein
+OIADNFMB_01518	gene	495				
+OIADNFMB_01518	CDS	495				hypothetical protein
+OIADNFMB_01519	gene	1059				
+OIADNFMB_01519	CDS	1059				hypothetical protein
+OIADNFMB_01520	gene	204	kynB			
+OIADNFMB_01520	CDS	204	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+OIADNFMB_01521	gene	219				
+OIADNFMB_01521	CDS	219				hypothetical protein
+OIADNFMB_01522	gene	378				
+OIADNFMB_01522	CDS	378				hypothetical protein
+OIADNFMB_01523	gene	615				
+OIADNFMB_01523	CDS	615				hypothetical protein
+OIADNFMB_01524	gene	1107				
+OIADNFMB_01524	CDS	1107				hypothetical protein
+OIADNFMB_01525	gene	369				
+OIADNFMB_01525	CDS	369				hypothetical protein
+OIADNFMB_01526	gene	639				
+OIADNFMB_01526	CDS	639				hypothetical protein
+OIADNFMB_01527	gene	1221				
+OIADNFMB_01527	CDS	1221				hypothetical protein
+OIADNFMB_01528	gene	285				
+OIADNFMB_01528	CDS	285				hypothetical protein
+OIADNFMB_01529	gene	585				
+OIADNFMB_01529	CDS	585				hypothetical protein
+OIADNFMB_01530	gene	2112				
+OIADNFMB_01530	CDS	2112				hypothetical protein
+OIADNFMB_01531	gene	240				
+OIADNFMB_01531	CDS	240				hypothetical protein
+OIADNFMB_01532	gene	108				
+OIADNFMB_01532	CDS	108				hypothetical protein
+OIADNFMB_01533	gene	144				
+OIADNFMB_01533	CDS	144				hypothetical protein
+OIADNFMB_01534	gene	126				
+OIADNFMB_01534	CDS	126				hypothetical protein
+OIADNFMB_01535	gene	210				
+OIADNFMB_01535	CDS	210				hypothetical protein
+OIADNFMB_01536	gene	1659				
+OIADNFMB_01536	CDS	1659				hypothetical protein
+OIADNFMB_01537	gene	1200				
+OIADNFMB_01537	CDS	1200				hypothetical protein
+OIADNFMB_01538	gene	222				
+OIADNFMB_01538	CDS	222				hypothetical protein
+OIADNFMB_01539	gene	291				
+OIADNFMB_01539	CDS	291				hypothetical protein
+OIADNFMB_01540	gene	1803				
+OIADNFMB_01540	CDS	1803				hypothetical protein
+OIADNFMB_01541	gene	213				
+OIADNFMB_01541	CDS	213				hypothetical protein
+OIADNFMB_01542	gene	165				
+OIADNFMB_01542	CDS	165				hypothetical protein
+OIADNFMB_01543	gene	306				
+OIADNFMB_01543	CDS	306				hypothetical protein
+OIADNFMB_01544	gene	444				
+OIADNFMB_01544	CDS	444				hypothetical protein
+OIADNFMB_01545	gene	882				
+OIADNFMB_01545	CDS	882				hypothetical protein
+OIADNFMB_01546	gene	1170	arnC_3			
+OIADNFMB_01546	CDS	1170	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OIADNFMB_01547	gene	153				
+OIADNFMB_01547	CDS	153				hypothetical protein
+OIADNFMB_01548	gene	77				
+OIADNFMB_01548	tRNA	77				tRNA-Val(tac)
+OIADNFMB_01549	gene	1020	murG			
+OIADNFMB_01549	CDS	1020	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OIADNFMB_01550	gene	1398				
+OIADNFMB_01550	CDS	1398				hypothetical protein
+OIADNFMB_01551	gene	99				
+OIADNFMB_01551	CDS	99				hypothetical protein
+OIADNFMB_01552	gene	462	IMPDH_4			
+OIADNFMB_01552	CDS	462	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+OIADNFMB_01553	gene	261				
+OIADNFMB_01553	CDS	261				hypothetical protein
+OIADNFMB_01554	gene	330				
+OIADNFMB_01554	CDS	330				hypothetical protein
+OIADNFMB_01555	gene	588				
+OIADNFMB_01555	CDS	588				hypothetical protein
+OIADNFMB_01556	gene	162				
+OIADNFMB_01556	CDS	162				hypothetical protein
+OIADNFMB_01557	gene	156				
+OIADNFMB_01557	CDS	156				hypothetical protein
+OIADNFMB_01558	gene	120				
+OIADNFMB_01558	CDS	120				hypothetical protein
+OIADNFMB_01559	gene	507				
+OIADNFMB_01559	CDS	507				hypothetical protein
+OIADNFMB_01560	gene	231				
+OIADNFMB_01560	CDS	231				hypothetical protein
+OIADNFMB_01561	gene	963	larA_2			
+OIADNFMB_01561	CDS	963	larA_2	5.1.2.1	COG3875	Lactate racemase
+OIADNFMB_01562	gene	1335				
+OIADNFMB_01562	CDS	1335				hypothetical protein
+OIADNFMB_01563	gene	477	idi_1			
+OIADNFMB_01563	CDS	477	idi_1	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+OIADNFMB_01564	gene	999				
+OIADNFMB_01564	CDS	999				hypothetical protein
+OIADNFMB_01565	gene	831				
+OIADNFMB_01565	CDS	831				hypothetical protein
+OIADNFMB_01566	gene	345				
+OIADNFMB_01566	CDS	345				hypothetical protein
+OIADNFMB_01567	gene	1590	bhbA_2			
+OIADNFMB_01567	CDS	1590	bhbA_2	5.4.99.2		Methylmalonyl-CoA mutase
+OIADNFMB_01568	gene	1341				
+OIADNFMB_01568	CDS	1341				hypothetical protein
+OIADNFMB_01569	gene	1215	thrC			
+OIADNFMB_01569	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+OIADNFMB_01570	gene	174				
+OIADNFMB_01570	CDS	174				hypothetical protein
+OIADNFMB_01571	gene	213				
+OIADNFMB_01571	CDS	213				hypothetical protein
+OIADNFMB_01572	gene	711				
+OIADNFMB_01572	CDS	711				hypothetical protein
+OIADNFMB_01573	gene	708				
+OIADNFMB_01573	CDS	708				hypothetical protein
+OIADNFMB_01574	gene	1062	cheB_2			
+OIADNFMB_01574	CDS	1062	cheB_2	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+OIADNFMB_01575	gene	231				
+OIADNFMB_01575	CDS	231				hypothetical protein
+OIADNFMB_01576	gene	735	mftE			
+OIADNFMB_01576	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+OIADNFMB_01577	gene	621	purU			
+OIADNFMB_01577	CDS	621	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+OIADNFMB_01578	gene	867				
+OIADNFMB_01578	CDS	867				hypothetical protein
+OIADNFMB_01579	gene	864	lnrL			
+OIADNFMB_01579	CDS	864	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+OIADNFMB_01580	gene	777	drrB			
+OIADNFMB_01580	CDS	777	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+OIADNFMB_01581	gene	210				
+OIADNFMB_01581	CDS	210				hypothetical protein
+OIADNFMB_01582	gene	138				
+OIADNFMB_01582	CDS	138				hypothetical protein
+OIADNFMB_01583	gene	126				
+OIADNFMB_01583	CDS	126				hypothetical protein
+OIADNFMB_01584	gene	546				
+OIADNFMB_01584	CDS	546				hypothetical protein
+OIADNFMB_01585	gene	333				
+OIADNFMB_01585	CDS	333				hypothetical protein
+OIADNFMB_01586	gene	132				
+OIADNFMB_01586	CDS	132				hypothetical protein
+OIADNFMB_01587	gene	162				
+OIADNFMB_01587	CDS	162				hypothetical protein
+OIADNFMB_01588	gene	2412				
+OIADNFMB_01588	CDS	2412				hypothetical protein
+OIADNFMB_01589	gene	456				
+OIADNFMB_01589	CDS	456				hypothetical protein
+OIADNFMB_01590	gene	336				
+OIADNFMB_01590	CDS	336				hypothetical protein
+OIADNFMB_01591	gene	1263	selB			
+OIADNFMB_01591	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+OIADNFMB_01592	gene	477				
+OIADNFMB_01592	CDS	477				hypothetical protein
+OIADNFMB_01593	gene	174				
+OIADNFMB_01593	CDS	174				hypothetical protein
+OIADNFMB_01594	gene	74				
+OIADNFMB_01594	tRNA	74				tRNA-Gly(ccc)
+OIADNFMB_01595	gene	114				
+OIADNFMB_01595	CDS	114				hypothetical protein
+OIADNFMB_01596	gene	552	guaA_3			
+OIADNFMB_01596	CDS	552	guaA_3	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+OIADNFMB_01597	gene	168				
+OIADNFMB_01597	CDS	168				hypothetical protein
+OIADNFMB_01598	gene	585				
+OIADNFMB_01598	CDS	585				hypothetical protein
+OIADNFMB_01599	gene	2856				
+OIADNFMB_01599	CDS	2856				hypothetical protein
+OIADNFMB_01600	gene	639				
+OIADNFMB_01600	CDS	639				hypothetical protein
+OIADNFMB_01601	gene	621				
+OIADNFMB_01601	CDS	621				hypothetical protein
+OIADNFMB_01602	gene	318				
+OIADNFMB_01602	CDS	318				hypothetical protein
+OIADNFMB_01603	gene	615	petC			
+OIADNFMB_01603	CDS	615	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+OIADNFMB_01604	gene	132				
+OIADNFMB_01604	CDS	132				hypothetical protein
+OIADNFMB_01605	gene	510				
+OIADNFMB_01605	CDS	510				hypothetical protein
+OIADNFMB_01606	gene	840				
+OIADNFMB_01606	CDS	840				hypothetical protein
+OIADNFMB_01607	gene	519				
+OIADNFMB_01607	CDS	519				hypothetical protein
+OIADNFMB_01608	gene	312				
+OIADNFMB_01608	CDS	312				hypothetical protein
+OIADNFMB_01609	gene	111				
+OIADNFMB_01609	CDS	111				hypothetical protein
+OIADNFMB_01610	gene	549				
+OIADNFMB_01610	CDS	549				hypothetical protein
+OIADNFMB_01611	gene	360				
+OIADNFMB_01611	CDS	360				hypothetical protein
+OIADNFMB_01612	gene	684	pyrH_2			
+OIADNFMB_01612	CDS	684	pyrH_2	2.7.4.22		Uridylate kinase
+OIADNFMB_01613	gene	1245				
+OIADNFMB_01613	CDS	1245				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+OIADNFMB_01614	gene	582	tmk_2			
+OIADNFMB_01614	CDS	582	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+OIADNFMB_01615	gene	393				
+OIADNFMB_01615	CDS	393				hypothetical protein
+OIADNFMB_01616	gene	609				
+OIADNFMB_01616	CDS	609				hypothetical protein
+OIADNFMB_01617	gene	951				
+OIADNFMB_01617	CDS	951			COG0330	putative protein
+OIADNFMB_01618	gene	306				
+OIADNFMB_01618	CDS	306				hypothetical protein
+OIADNFMB_01619	gene	813				
+OIADNFMB_01619	CDS	813				hypothetical protein
+OIADNFMB_01620	gene	174				
+OIADNFMB_01620	CDS	174				hypothetical protein
+OIADNFMB_01621	gene	1749				
+OIADNFMB_01621	CDS	1749				hypothetical protein
+OIADNFMB_01622	gene	273				
+OIADNFMB_01622	CDS	273				hypothetical protein
+OIADNFMB_01623	gene	93				
+OIADNFMB_01623	CDS	93				hypothetical protein
+OIADNFMB_01624	gene	516				
+OIADNFMB_01624	CDS	516				hypothetical protein
+OIADNFMB_01625	gene	84				
+OIADNFMB_01625	tRNA	84				tRNA-Arg(tct)
+OIADNFMB_01626	gene	438				
+OIADNFMB_01626	CDS	438				hypothetical protein
+OIADNFMB_01627	gene	309				
+OIADNFMB_01627	CDS	309				hypothetical protein
+OIADNFMB_01628	gene	663				
+OIADNFMB_01628	CDS	663				hypothetical protein
+OIADNFMB_01629	gene	162				
+OIADNFMB_01629	CDS	162				hypothetical protein
+OIADNFMB_01630	gene	681				
+OIADNFMB_01630	CDS	681				hypothetical protein
+OIADNFMB_01631	gene	393				
+OIADNFMB_01631	CDS	393				hypothetical protein
+OIADNFMB_01632	gene	1725				
+OIADNFMB_01632	CDS	1725				hypothetical protein
+OIADNFMB_01633	gene	555				
+OIADNFMB_01633	CDS	555				hypothetical protein
+OIADNFMB_01634	gene	189				
+OIADNFMB_01634	CDS	189				hypothetical protein
+OIADNFMB_01635	gene	150				
+OIADNFMB_01635	CDS	150				hypothetical protein
+OIADNFMB_01636	gene	297				
+OIADNFMB_01636	CDS	297				hypothetical protein
+OIADNFMB_01637	gene	768	murI_3			
+OIADNFMB_01637	CDS	768	murI_3	5.1.1.3		Glutamate racemase
+OIADNFMB_01638	gene	216				
+OIADNFMB_01638	CDS	216				hypothetical protein
+OIADNFMB_01639	gene	147				
+OIADNFMB_01639	CDS	147				hypothetical protein
+OIADNFMB_01640	gene	558	ecdB			
+OIADNFMB_01640	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+OIADNFMB_01641	gene	429				
+OIADNFMB_01641	CDS	429				hypothetical protein
+OIADNFMB_01642	gene	207	tatA_1			
+OIADNFMB_01642	CDS	207	tatA_1			Sec-independent protein translocase protein TatA
+OIADNFMB_01643	gene	378	tatC			
+OIADNFMB_01643	CDS	378	tatC		COG0805	Sec-independent protein translocase protein TatC
+OIADNFMB_01644	gene	222				
+OIADNFMB_01644	CDS	222				hypothetical protein
+OIADNFMB_01645	gene	303	ndhI_2			
+OIADNFMB_01645	CDS	303	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OIADNFMB_01646	gene	1083	QTRT1			
+OIADNFMB_01646	CDS	1083	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+OIADNFMB_01647	gene	270				
+OIADNFMB_01647	CDS	270				hypothetical protein
+OIADNFMB_01648	gene	327				
+OIADNFMB_01648	CDS	327				hypothetical protein
+OIADNFMB_01649	gene	447				
+OIADNFMB_01649	CDS	447				hypothetical protein
+OIADNFMB_01650	gene	1419				
+OIADNFMB_01650	CDS	1419				hypothetical protein
+OIADNFMB_01651	gene	171				
+OIADNFMB_01651	CDS	171				hypothetical protein
+OIADNFMB_01652	gene	657	tpiA			
+OIADNFMB_01652	CDS	657	tpiA			Triosephosphate isomerase
+OIADNFMB_01653	gene	630				
+OIADNFMB_01653	CDS	630				hypothetical protein
+OIADNFMB_01654	gene	1281				
+OIADNFMB_01654	CDS	1281				hypothetical protein
+OIADNFMB_01655	gene	237				
+OIADNFMB_01655	CDS	237				hypothetical protein
+OIADNFMB_01656	gene	309	bnzC_2			
+OIADNFMB_01656	CDS	309	bnzC_2		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+OIADNFMB_01657	gene	816				
+OIADNFMB_01657	CDS	816				hypothetical protein
+OIADNFMB_01658	gene	870				
+OIADNFMB_01658	CDS	870				hypothetical protein
+OIADNFMB_01659	gene	309				
+OIADNFMB_01659	CDS	309				hypothetical protein
+OIADNFMB_01660	gene	138				
+OIADNFMB_01660	CDS	138				hypothetical protein
+OIADNFMB_01661	gene	1053				
+OIADNFMB_01661	CDS	1053				hypothetical protein
+OIADNFMB_01662	gene	285				
+OIADNFMB_01662	CDS	285				hypothetical protein
+OIADNFMB_01663	gene	1104	obg			
+OIADNFMB_01663	CDS	1104	obg	3.6.5.-		GTPase Obg
+OIADNFMB_01664	gene	219				
+OIADNFMB_01664	CDS	219				hypothetical protein
+OIADNFMB_01665	gene	696				
+OIADNFMB_01665	CDS	696				hypothetical protein
+OIADNFMB_01666	gene	669	lipM			
+OIADNFMB_01666	CDS	669	lipM	2.3.1.181	COG0095	Octanoyltransferase LipM
+OIADNFMB_01667	gene	306				
+OIADNFMB_01667	CDS	306				hypothetical protein
+OIADNFMB_01668	gene	1428	gcvPB_2			
+OIADNFMB_01668	CDS	1428	gcvPB_2	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+OIADNFMB_01669	gene	762	gcvPA_3			
+OIADNFMB_01669	CDS	762	gcvPA_3	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+OIADNFMB_01670	gene	471				
+OIADNFMB_01670	CDS	471				hypothetical protein
+OIADNFMB_01671	gene	948	galK			
+OIADNFMB_01671	CDS	948	galK	2.7.1.6		Galactokinase
+OIADNFMB_01672	gene	741	argB			
+OIADNFMB_01672	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+OIADNFMB_01673	gene	669	idi_2			
+OIADNFMB_01673	CDS	669	idi_2	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+OIADNFMB_01674	gene	276	cobB			
+OIADNFMB_01674	CDS	276	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+OIADNFMB_01675	gene	219				
+OIADNFMB_01675	CDS	219				hypothetical protein
+OIADNFMB_01676	gene	864				
+OIADNFMB_01676	CDS	864				hypothetical protein
+OIADNFMB_01677	gene	402				
+OIADNFMB_01677	CDS	402				hypothetical protein
+OIADNFMB_01678	gene	549				
+OIADNFMB_01678	CDS	549				hypothetical protein
+OIADNFMB_01679	gene	594	rlmE			
+OIADNFMB_01679	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+OIADNFMB_01680	gene	1146	trm1			
+OIADNFMB_01680	CDS	1146	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+OIADNFMB_01681	gene	615	rnhB			
+OIADNFMB_01681	CDS	615	rnhB			Ribonuclease HII
+OIADNFMB_01682	gene	168				
+OIADNFMB_01682	CDS	168				hypothetical protein
+OIADNFMB_01683	gene	261				
+OIADNFMB_01683	CDS	261				hypothetical protein
+OIADNFMB_01684	gene	651				
+OIADNFMB_01684	CDS	651				hypothetical protein
+OIADNFMB_01685	gene	1062	hemA_1			
+OIADNFMB_01685	CDS	1062	hemA_1	1.2.1.70		Glutamyl-tRNA reductase
+OIADNFMB_01686	gene	195				
+OIADNFMB_01686	CDS	195				hypothetical protein
+OIADNFMB_01687	gene	1212				
+OIADNFMB_01687	CDS	1212				hypothetical protein
+OIADNFMB_01688	gene	114				
+OIADNFMB_01688	CDS	114				hypothetical protein
+OIADNFMB_01689	gene	222				
+OIADNFMB_01689	CDS	222			COG3360	Dodecin
+OIADNFMB_01690	gene	1527				
+OIADNFMB_01690	CDS	1527				hypothetical protein
+OIADNFMB_01691	gene	519				
+OIADNFMB_01691	CDS	519				hypothetical protein
+OIADNFMB_01692	gene	387				
+OIADNFMB_01692	CDS	387				hypothetical protein
+OIADNFMB_01693	gene	207				
+OIADNFMB_01693	CDS	207				hypothetical protein
+OIADNFMB_01694	gene	201				
+OIADNFMB_01694	CDS	201				hypothetical protein
+OIADNFMB_01695	gene	231				
+OIADNFMB_01695	CDS	231				hypothetical protein
+OIADNFMB_01696	gene	711				
+OIADNFMB_01696	CDS	711				hypothetical protein
+OIADNFMB_01697	gene	384				
+OIADNFMB_01697	CDS	384				hypothetical protein
+OIADNFMB_01698	gene	612				
+OIADNFMB_01698	CDS	612				hypothetical protein
+OIADNFMB_01699	gene	486				
+OIADNFMB_01699	CDS	486				hypothetical protein
+OIADNFMB_01700	gene	255				
+OIADNFMB_01700	CDS	255				hypothetical protein
+OIADNFMB_01701	gene	285				
+OIADNFMB_01701	CDS	285				hypothetical protein
+OIADNFMB_01702	gene	303				
+OIADNFMB_01702	CDS	303				hypothetical protein
+OIADNFMB_01703	gene	882				
+OIADNFMB_01703	CDS	882				hypothetical protein
+OIADNFMB_01704	gene	465				
+OIADNFMB_01704	CDS	465				hypothetical protein
+OIADNFMB_01705	gene	300				
+OIADNFMB_01705	CDS	300				hypothetical protein
+OIADNFMB_01706	gene	264				
+OIADNFMB_01706	CDS	264				hypothetical protein
+OIADNFMB_01707	gene	306				
+OIADNFMB_01707	CDS	306				hypothetical protein
+OIADNFMB_01708	gene	102				
+OIADNFMB_01708	CDS	102				hypothetical protein
+OIADNFMB_01709	gene	402				
+OIADNFMB_01709	CDS	402				hypothetical protein
+OIADNFMB_01710	gene	237				
+OIADNFMB_01710	CDS	237				hypothetical protein
+OIADNFMB_01711	gene	315				
+OIADNFMB_01711	CDS	315				hypothetical protein
+OIADNFMB_01712	gene	1308				
+OIADNFMB_01712	CDS	1308				hypothetical protein
+OIADNFMB_01713	gene	669				
+OIADNFMB_01713	CDS	669				hypothetical protein
+OIADNFMB_01714	gene	195				
+OIADNFMB_01714	CDS	195				hypothetical protein
+OIADNFMB_01715	gene	369				
+OIADNFMB_01715	CDS	369				hypothetical protein
+OIADNFMB_01716	gene	384				
+OIADNFMB_01716	CDS	384				hypothetical protein
+OIADNFMB_01717	gene	363				
+OIADNFMB_01717	CDS	363				hypothetical protein
+OIADNFMB_01718	gene	117				
+OIADNFMB_01718	CDS	117				hypothetical protein
+OIADNFMB_01719	gene	2505				
+OIADNFMB_01719	CDS	2505				hypothetical protein
+OIADNFMB_01720	gene	1239	sir_2			
+OIADNFMB_01720	CDS	1239	sir_2	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+OIADNFMB_01721	gene	813	rhdA_4			
+OIADNFMB_01721	CDS	813	rhdA_4	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+OIADNFMB_01722	gene	909				
+OIADNFMB_01722	CDS	909				hypothetical protein
+OIADNFMB_01723	gene	132				
+OIADNFMB_01723	CDS	132				hypothetical protein
+OIADNFMB_01724	gene	486				
+OIADNFMB_01724	CDS	486				hypothetical protein
+OIADNFMB_01725	gene	1185				
+OIADNFMB_01725	CDS	1185				hypothetical protein
+OIADNFMB_01726	gene	420	mhqP			
+OIADNFMB_01726	CDS	420	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+OIADNFMB_01727	gene	309				
+OIADNFMB_01727	CDS	309				hypothetical protein
+OIADNFMB_01728	gene	2136				
+OIADNFMB_01728	CDS	2136				hypothetical protein
+OIADNFMB_01729	gene	195				
+OIADNFMB_01729	CDS	195				hypothetical protein
+OIADNFMB_01730	gene	1275				
+OIADNFMB_01730	CDS	1275				hypothetical protein
+OIADNFMB_01731	gene	630				
+OIADNFMB_01731	CDS	630				hypothetical protein
+OIADNFMB_01732	gene	570				
+OIADNFMB_01732	CDS	570		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+OIADNFMB_01733	gene	720				
+OIADNFMB_01733	CDS	720				hypothetical protein
+OIADNFMB_01734	gene	195				
+OIADNFMB_01734	CDS	195				hypothetical protein
+OIADNFMB_01735	gene	714	queE_2			
+OIADNFMB_01735	CDS	714	queE_2	4.3.99.3		7-carboxy-7-deazaguanine synthase
+OIADNFMB_01736	gene	579	folE_2			
+OIADNFMB_01736	CDS	579	folE_2	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OIADNFMB_01737	gene	342				
+OIADNFMB_01737	CDS	342				hypothetical protein
+OIADNFMB_01738	gene	684	queC_2			
+OIADNFMB_01738	CDS	684	queC_2	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+OIADNFMB_01739	gene	927	thrB_2			
+OIADNFMB_01739	CDS	927	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+OIADNFMB_01740	gene	375				
+OIADNFMB_01740	CDS	375				hypothetical protein
+OIADNFMB_01741	gene	147				
+OIADNFMB_01741	CDS	147				hypothetical protein
+OIADNFMB_01742	gene	513				
+OIADNFMB_01742	CDS	513				hypothetical protein
+OIADNFMB_01743	gene	264				
+OIADNFMB_01743	CDS	264				hypothetical protein
+OIADNFMB_01744	gene	375				
+OIADNFMB_01744	CDS	375				hypothetical protein
+OIADNFMB_01745	gene	2178				
+OIADNFMB_01745	CDS	2178				hypothetical protein
+OIADNFMB_01746	gene	165				
+OIADNFMB_01746	CDS	165				hypothetical protein
+OIADNFMB_01747	gene	201				
+OIADNFMB_01747	CDS	201				hypothetical protein
+OIADNFMB_01748	gene	2871				
+OIADNFMB_01748	CDS	2871				hypothetical protein
+OIADNFMB_01749	gene	429				
+OIADNFMB_01749	CDS	429				hypothetical protein
+OIADNFMB_01750	gene	789				
+OIADNFMB_01750	CDS	789			COG0596	putative protein
+OIADNFMB_01751	gene	426				
+OIADNFMB_01751	CDS	426				hypothetical protein
+OIADNFMB_01752	gene	429				
+OIADNFMB_01752	CDS	429				hypothetical protein
+OIADNFMB_01753	gene	762	phaC			
+OIADNFMB_01753	CDS	762	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+OIADNFMB_01754	gene	2883				
+OIADNFMB_01754	CDS	2883				hypothetical protein
+OIADNFMB_01755	gene	477				
+OIADNFMB_01755	CDS	477				hypothetical protein
+OIADNFMB_01756	gene	765				
+OIADNFMB_01756	CDS	765				hypothetical protein
+OIADNFMB_01757	gene	543				
+OIADNFMB_01757	CDS	543				hypothetical protein
+OIADNFMB_01758	gene	492				
+OIADNFMB_01758	CDS	492				hypothetical protein
+OIADNFMB_01759	gene	831				
+OIADNFMB_01759	CDS	831				hypothetical protein
+OIADNFMB_01760	gene	369				
+OIADNFMB_01760	CDS	369				hypothetical protein
+OIADNFMB_01761	gene	339				
+OIADNFMB_01761	CDS	339				hypothetical protein
+OIADNFMB_01762	gene	165				
+OIADNFMB_01762	CDS	165				hypothetical protein
+OIADNFMB_01763	gene	1038				
+OIADNFMB_01763	CDS	1038				hypothetical protein
+OIADNFMB_01764	gene	360				
+OIADNFMB_01764	CDS	360				hypothetical protein
+OIADNFMB_01765	gene	297				
+OIADNFMB_01765	CDS	297				hypothetical protein
+OIADNFMB_01766	gene	2079	ftsH_2			
+OIADNFMB_01766	CDS	2079	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OIADNFMB_01767	gene	243				
+OIADNFMB_01767	CDS	243				hypothetical protein
+OIADNFMB_01768	gene	2031				
+OIADNFMB_01768	CDS	2031		5.1.3.11		Cellobiose 2-epimerase
+OIADNFMB_01769	gene	576	purE_4			
+OIADNFMB_01769	CDS	576	purE_4	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OIADNFMB_01770	gene	258				
+OIADNFMB_01770	CDS	258				hypothetical protein
+OIADNFMB_01771	gene	873	ctaB_2			
+OIADNFMB_01771	CDS	873	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+OIADNFMB_01772	gene	306				
+OIADNFMB_01772	CDS	306				hypothetical protein
+OIADNFMB_01773	gene	2172	ftsH_3			
+OIADNFMB_01773	CDS	2172	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OIADNFMB_01774	gene	315				
+OIADNFMB_01774	CDS	315				hypothetical protein
+OIADNFMB_01775	gene	549				
+OIADNFMB_01775	CDS	549				hypothetical protein
+OIADNFMB_01776	gene	207				
+OIADNFMB_01776	CDS	207				hypothetical protein
+OIADNFMB_01777	gene	159				
+OIADNFMB_01777	CDS	159				hypothetical protein
+OIADNFMB_01778	gene	354	spo0A			
+OIADNFMB_01778	CDS	354	spo0A		COG0784	Stage 0 sporulation protein A
+OIADNFMB_01779	gene	618				
+OIADNFMB_01779	CDS	618				hypothetical protein
+OIADNFMB_01780	gene	741	atoS			
+OIADNFMB_01780	CDS	741	atoS	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+OIADNFMB_01781	gene	114				
+OIADNFMB_01781	CDS	114				hypothetical protein
+OIADNFMB_01782	gene	1926	acsA			
+OIADNFMB_01782	CDS	1926	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+OIADNFMB_01783	gene	564				
+OIADNFMB_01783	CDS	564				hypothetical protein
+OIADNFMB_01784	gene	1572				
+OIADNFMB_01784	CDS	1572				hypothetical protein
+OIADNFMB_01785	gene	1371				
+OIADNFMB_01785	CDS	1371				hypothetical protein
+OIADNFMB_01786	gene	201				
+OIADNFMB_01786	CDS	201				hypothetical protein
+OIADNFMB_01787	gene	222				
+OIADNFMB_01787	CDS	222				hypothetical protein
+OIADNFMB_01788	gene	210				
+OIADNFMB_01788	CDS	210				hypothetical protein
+OIADNFMB_01789	gene	873	czcD			
+OIADNFMB_01789	CDS	873	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+OIADNFMB_01790	gene	363				
+OIADNFMB_01790	CDS	363				hypothetical protein
+OIADNFMB_01791	gene	444				
+OIADNFMB_01791	CDS	444				hypothetical protein
+OIADNFMB_01792	gene	1446	gatA_2			
+OIADNFMB_01792	CDS	1446	gatA_2	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+OIADNFMB_01793	gene	369				
+OIADNFMB_01793	CDS	369				hypothetical protein
+OIADNFMB_01794	gene	186				
+OIADNFMB_01794	CDS	186				hypothetical protein
+OIADNFMB_01795	gene	669				
+OIADNFMB_01795	CDS	669				hypothetical protein
+OIADNFMB_01796	gene	483				
+OIADNFMB_01796	CDS	483				hypothetical protein
+OIADNFMB_01797	gene	159				
+OIADNFMB_01797	CDS	159				hypothetical protein
+OIADNFMB_01798	gene	330				
+OIADNFMB_01798	CDS	330				hypothetical protein
+OIADNFMB_01799	gene	1107	sucC			
+OIADNFMB_01799	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+OIADNFMB_01800	gene	918	sucD			
+OIADNFMB_01800	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+OIADNFMB_01801	gene	195				
+OIADNFMB_01801	CDS	195				hypothetical protein
+OIADNFMB_01802	gene	783	dpnA			
+OIADNFMB_01802	CDS	783	dpnA	2.1.1.72		Modification methylase DpnIIB
+OIADNFMB_01803	gene	357	tatA_2			
+OIADNFMB_01803	CDS	357	tatA_2			Sec-independent protein translocase protein TatA
+OIADNFMB_01804	gene	348	secY			
+OIADNFMB_01804	CDS	348	secY			Protein translocase subunit SecY
+OIADNFMB_01805	gene	588				
+OIADNFMB_01805	CDS	588				hypothetical protein
+OIADNFMB_01806	gene	633				
+OIADNFMB_01806	CDS	633				hypothetical protein
+OIADNFMB_01807	gene	561	cmk			
+OIADNFMB_01807	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+OIADNFMB_01808	gene	1011	truB			
+OIADNFMB_01808	CDS	1011	truB	5.4.99.25		tRNA pseudouridine synthase B
+OIADNFMB_01809	gene	711	lig_2			
+OIADNFMB_01809	CDS	711	lig_2	6.5.1.1		DNA ligase
+OIADNFMB_01810	gene	186				
+OIADNFMB_01810	CDS	186				hypothetical protein
+OIADNFMB_01811	gene	426				
+OIADNFMB_01811	CDS	426				hypothetical protein
+OIADNFMB_01812	gene	255				
+OIADNFMB_01812	CDS	255				hypothetical protein
+OIADNFMB_01813	gene	312				
+OIADNFMB_01813	CDS	312				hypothetical protein
+OIADNFMB_01814	gene	270				
+OIADNFMB_01814	CDS	270				hypothetical protein
+OIADNFMB_01815	gene	180				
+OIADNFMB_01815	CDS	180				hypothetical protein
+OIADNFMB_01816	gene	498	petE_5			
+OIADNFMB_01816	CDS	498	petE_5			Plastocyanin
+OIADNFMB_01817	gene	393	ctaA_3			
+OIADNFMB_01817	CDS	393	ctaA_3	1.3.-.-	COG1612	Heme A synthase
+OIADNFMB_01818	gene	471				
+OIADNFMB_01818	CDS	471				hypothetical protein
+OIADNFMB_01819	gene	642				
+OIADNFMB_01819	CDS	642				hypothetical protein
+OIADNFMB_01820	gene	75				
+OIADNFMB_01820	tRNA	75				tRNA-Lys(ctt)
+OIADNFMB_01821	gene	108				
+OIADNFMB_01821	CDS	108				hypothetical protein
+OIADNFMB_01822	gene	666				
+OIADNFMB_01822	CDS	666				hypothetical protein
+OIADNFMB_01823	gene	1095	wbpI_2			
+OIADNFMB_01823	CDS	1095	wbpI_2	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+OIADNFMB_01824	gene	1614	thyX			
+OIADNFMB_01824	CDS	1614	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+OIADNFMB_01825	gene	408	msrB			
+OIADNFMB_01825	CDS	408	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+OIADNFMB_01826	gene	222				
+OIADNFMB_01826	CDS	222				hypothetical protein
+OIADNFMB_01827	gene	1299	glmM			
+OIADNFMB_01827	CDS	1299	glmM	5.4.2.10		Phosphoglucosamine mutase
+OIADNFMB_01828	gene	76				
+OIADNFMB_01828	tRNA	76				tRNA-Thr(cgt)
+OIADNFMB_01829	gene	180				
+OIADNFMB_01829	CDS	180				hypothetical protein
+OIADNFMB_01830	gene	195				
+OIADNFMB_01830	CDS	195				hypothetical protein
+OIADNFMB_01831	gene	822				
+OIADNFMB_01831	CDS	822				hypothetical protein
+OIADNFMB_01832	gene	414	petE_6			
+OIADNFMB_01832	CDS	414	petE_6			Plastocyanin
+OIADNFMB_01833	gene	261				
+OIADNFMB_01833	CDS	261				hypothetical protein
+OIADNFMB_01834	gene	636	leuC			
+OIADNFMB_01834	CDS	636	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+OIADNFMB_01835	gene	585	leuD1			
+OIADNFMB_01835	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+OIADNFMB_01836	gene	729	cugP_3			
+OIADNFMB_01836	CDS	729	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OIADNFMB_01837	gene	447	rpsI			
+OIADNFMB_01837	CDS	447	rpsI		COG0103	30S ribosomal protein S9
+OIADNFMB_01838	gene	468				
+OIADNFMB_01838	CDS	468				hypothetical protein
+OIADNFMB_01839	gene	348				
+OIADNFMB_01839	CDS	348				hypothetical protein
+OIADNFMB_01840	gene	642				
+OIADNFMB_01840	CDS	642				hypothetical protein
+OIADNFMB_01841	gene	408	cobD_2			
+OIADNFMB_01841	CDS	408	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+OIADNFMB_01842	gene	729	cobS			
+OIADNFMB_01842	CDS	729	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+OIADNFMB_01843	gene	585	mobA			
+OIADNFMB_01843	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+OIADNFMB_01844	gene	198				
+OIADNFMB_01844	CDS	198				hypothetical protein
+OIADNFMB_01845	gene	480				
+OIADNFMB_01845	CDS	480				hypothetical protein
+OIADNFMB_01846	gene	156				
+OIADNFMB_01846	CDS	156				hypothetical protein
+OIADNFMB_01847	gene	282				
+OIADNFMB_01847	CDS	282				hypothetical protein
+OIADNFMB_01848	gene	636				
+OIADNFMB_01848	CDS	636				hypothetical protein
+OIADNFMB_01849	gene	432				
+OIADNFMB_01849	CDS	432				hypothetical protein
+OIADNFMB_01850	gene	747				
+OIADNFMB_01850	CDS	747				hypothetical protein
+OIADNFMB_01851	gene	501				
+OIADNFMB_01851	CDS	501				hypothetical protein
+OIADNFMB_01852	gene	738				
+OIADNFMB_01852	CDS	738				hypothetical protein
+OIADNFMB_01853	gene	543				
+OIADNFMB_01853	CDS	543				hypothetical protein
+OIADNFMB_01854	gene	768				
+OIADNFMB_01854	CDS	768				hypothetical protein
+OIADNFMB_01855	gene	303				
+OIADNFMB_01855	CDS	303				hypothetical protein
+OIADNFMB_01856	gene	1104				
+OIADNFMB_01856	CDS	1104				hypothetical protein
+OIADNFMB_01857	gene	660				
+OIADNFMB_01857	CDS	660				hypothetical protein
+OIADNFMB_01858	gene	258				
+OIADNFMB_01858	CDS	258				hypothetical protein
+OIADNFMB_01859	gene	110				
+OIADNFMB_01859	rRNA	110				5S ribosomal RNA
+OIADNFMB_01860	gene	1785	btuD_2			
+OIADNFMB_01860	CDS	1785	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OIADNFMB_01861	gene	228				
+OIADNFMB_01861	CDS	228				hypothetical protein
+OIADNFMB_01862	gene	1203				
+OIADNFMB_01862	CDS	1203				hypothetical protein
+OIADNFMB_01863	gene	267				
+OIADNFMB_01863	CDS	267				hypothetical protein
+OIADNFMB_01864	gene	225				
+OIADNFMB_01864	CDS	225				hypothetical protein
+OIADNFMB_01865	gene	150				
+OIADNFMB_01865	CDS	150				hypothetical protein
+OIADNFMB_01866	gene	372				
+OIADNFMB_01866	CDS	372				hypothetical protein
+OIADNFMB_01867	gene	1272	gltP			
+OIADNFMB_01867	CDS	1272	gltP		COG1301	Proton/glutamate-aspartate symporter
+OIADNFMB_01868	gene	1446	sdcS			
+OIADNFMB_01868	CDS	1446	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+OIADNFMB_01869	gene	195				
+OIADNFMB_01869	CDS	195				hypothetical protein
+OIADNFMB_01870	gene	657	pdg			
+OIADNFMB_01870	CDS	657	pdg			Ultraviolet N-glycosylase/AP lyase
+OIADNFMB_01871	gene	702				
+OIADNFMB_01871	CDS	702				hypothetical protein
+OIADNFMB_01872	gene	1146	sat			
+OIADNFMB_01872	CDS	1146	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+OIADNFMB_01873	gene	876				
+OIADNFMB_01873	CDS	876				hypothetical protein
+OIADNFMB_01874	gene	195				
+OIADNFMB_01874	CDS	195				hypothetical protein
+OIADNFMB_01875	gene	258				
+OIADNFMB_01875	CDS	258				hypothetical protein
+OIADNFMB_01876	gene	126				
+OIADNFMB_01876	CDS	126				hypothetical protein
+OIADNFMB_01877	gene	123				
+OIADNFMB_01877	CDS	123				hypothetical protein
+OIADNFMB_01878	gene	168				
+OIADNFMB_01878	CDS	168				hypothetical protein
+OIADNFMB_01879	gene	153				
+OIADNFMB_01879	CDS	153				hypothetical protein
+OIADNFMB_01880	gene	174				
+OIADNFMB_01880	CDS	174				hypothetical protein
+OIADNFMB_01881	gene	231				
+OIADNFMB_01881	CDS	231				hypothetical protein
+OIADNFMB_01882	gene	183				
+OIADNFMB_01882	CDS	183				hypothetical protein
+OIADNFMB_01883	gene	447				
+OIADNFMB_01883	CDS	447				hypothetical protein
+OIADNFMB_01884	gene	618				
+OIADNFMB_01884	CDS	618				hypothetical protein
+OIADNFMB_01885	gene	594				
+OIADNFMB_01885	CDS	594				hypothetical protein
+OIADNFMB_01886	gene	171				
+OIADNFMB_01886	CDS	171				hypothetical protein
+OIADNFMB_01887	gene	189				
+OIADNFMB_01887	CDS	189				hypothetical protein
+OIADNFMB_01888	gene	1578				
+OIADNFMB_01888	CDS	1578				hypothetical protein
+OIADNFMB_01889	gene	273				
+OIADNFMB_01889	CDS	273				hypothetical protein
+OIADNFMB_01890	gene	258				
+OIADNFMB_01890	CDS	258				hypothetical protein
+OIADNFMB_01891	gene	108				
+OIADNFMB_01891	CDS	108				hypothetical protein
+OIADNFMB_01892	gene	186				
+OIADNFMB_01892	CDS	186				hypothetical protein
+OIADNFMB_01893	gene	189				
+OIADNFMB_01893	CDS	189				hypothetical protein
+OIADNFMB_01894	gene	408				
+OIADNFMB_01894	CDS	408				hypothetical protein
+OIADNFMB_01895	gene	123				
+OIADNFMB_01895	CDS	123				hypothetical protein
+OIADNFMB_01896	gene	207				
+OIADNFMB_01896	CDS	207				hypothetical protein
+OIADNFMB_01897	gene	513				
+OIADNFMB_01897	CDS	513				hypothetical protein
+OIADNFMB_01898	gene	162				
+OIADNFMB_01898	CDS	162				hypothetical protein
+OIADNFMB_01899	gene	135				
+OIADNFMB_01899	CDS	135				hypothetical protein
+OIADNFMB_01900	gene	1269	hemA_2			
+OIADNFMB_01900	CDS	1269	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+OIADNFMB_01901	gene	594				
+OIADNFMB_01901	CDS	594				hypothetical protein
+OIADNFMB_01902	gene	315				
+OIADNFMB_01902	CDS	315				hypothetical protein
+OIADNFMB_01903	gene	972				
+OIADNFMB_01903	CDS	972				hypothetical protein
+OIADNFMB_01904	gene	582				
+OIADNFMB_01904	CDS	582				hypothetical protein
+OIADNFMB_01905	gene	345				
+OIADNFMB_01905	CDS	345				hypothetical protein
+OIADNFMB_01906	gene	1107				
+OIADNFMB_01906	CDS	1107		2.5.-.-		Deoxyhypusine synthase-like protein
+OIADNFMB_01907	gene	213				
+OIADNFMB_01907	CDS	213				hypothetical protein
+OIADNFMB_01908	gene	336				
+OIADNFMB_01908	CDS	336				hypothetical protein
+OIADNFMB_01909	gene	387				
+OIADNFMB_01909	CDS	387				hypothetical protein
+OIADNFMB_01910	gene	492				
+OIADNFMB_01910	CDS	492				hypothetical protein
+OIADNFMB_01911	gene	318				
+OIADNFMB_01911	CDS	318				hypothetical protein
+OIADNFMB_01912	gene	417				
+OIADNFMB_01912	CDS	417				hypothetical protein
+OIADNFMB_01913	gene	1272	mvaS_2			
+OIADNFMB_01913	CDS	1272	mvaS_2	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+OIADNFMB_01914	gene	690	bioD1_2			
+OIADNFMB_01914	CDS	690	bioD1_2	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+OIADNFMB_01915	gene	1314	bioK_2			
+OIADNFMB_01915	CDS	1314	bioK_2	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+OIADNFMB_01916	gene	1032	bioB_2			
+OIADNFMB_01916	CDS	1032	bioB_2	2.8.1.6	COG0502	Biotin synthase
+OIADNFMB_01917	gene	822				
+OIADNFMB_01917	CDS	822				hypothetical protein
+OIADNFMB_01918	gene	726	tagH			
+OIADNFMB_01918	CDS	726	tagH	7.5.2.4		Teichoic acids export ATP-binding protein TagH
+OIADNFMB_01919	gene	681				
+OIADNFMB_01919	CDS	681				hypothetical protein
+OIADNFMB_01920	gene	201				
+OIADNFMB_01920	CDS	201				hypothetical protein
+OIADNFMB_01921	gene	303				
+OIADNFMB_01921	CDS	303				hypothetical protein
+OIADNFMB_01922	gene	894				
+OIADNFMB_01922	CDS	894				hypothetical protein
+OIADNFMB_01923	gene	123				
+OIADNFMB_01923	CDS	123				hypothetical protein
+OIADNFMB_01924	gene	936	noc			
+OIADNFMB_01924	CDS	936	noc			Nucleoid occlusion protein
+OIADNFMB_01925	gene	276				
+OIADNFMB_01925	CDS	276				hypothetical protein
+OIADNFMB_01926	gene	279				
+OIADNFMB_01926	CDS	279				hypothetical protein
+OIADNFMB_01927	gene	387				
+OIADNFMB_01927	CDS	387				hypothetical protein
+OIADNFMB_01928	gene	825	purC			
+OIADNFMB_01928	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OIADNFMB_01929	gene	513				
+OIADNFMB_01929	CDS	513				hypothetical protein
+OIADNFMB_01930	gene	276				
+OIADNFMB_01930	CDS	276				hypothetical protein
+OIADNFMB_01931	gene	162				
+OIADNFMB_01931	CDS	162				hypothetical protein
+OIADNFMB_01932	gene	270				
+OIADNFMB_01932	CDS	270				hypothetical protein
+OIADNFMB_01933	gene	597	grpE			
+OIADNFMB_01933	CDS	597	grpE			Protein GrpE
+OIADNFMB_01934	gene	168				
+OIADNFMB_01934	CDS	168				hypothetical protein
+OIADNFMB_01935	gene	420				
+OIADNFMB_01935	CDS	420				hypothetical protein
+OIADNFMB_01936	gene	153				
+OIADNFMB_01936	CDS	153				hypothetical protein
+OIADNFMB_01937	gene	150				
+OIADNFMB_01937	CDS	150				hypothetical protein
+OIADNFMB_01938	gene	288				
+OIADNFMB_01938	CDS	288				hypothetical protein
+OIADNFMB_01939	gene	336				
+OIADNFMB_01939	CDS	336				hypothetical protein
+OIADNFMB_01940	gene	510				
+OIADNFMB_01940	CDS	510				hypothetical protein
+OIADNFMB_01941	gene	237				
+OIADNFMB_01941	CDS	237				hypothetical protein
+OIADNFMB_01942	gene	342				
+OIADNFMB_01942	CDS	342				hypothetical protein
+OIADNFMB_01943	gene	417				
+OIADNFMB_01943	CDS	417				hypothetical protein
+OIADNFMB_01944	gene	741	prcA_2			
+OIADNFMB_01944	CDS	741	prcA_2			Proteasome subunit alpha
+OIADNFMB_01945	gene	828				
+OIADNFMB_01945	CDS	828				hypothetical protein
+OIADNFMB_01946	gene	111				
+OIADNFMB_01946	CDS	111				hypothetical protein
+OIADNFMB_01947	gene	585				
+OIADNFMB_01947	CDS	585				hypothetical protein
+OIADNFMB_01948	gene	387	cheY_2			
+OIADNFMB_01948	CDS	387	cheY_2		COG0784	Chemotaxis protein CheY
+OIADNFMB_01949	gene	168				
+OIADNFMB_01949	CDS	168				hypothetical protein
+OIADNFMB_01950	gene	264				
+OIADNFMB_01950	CDS	264				hypothetical protein
+OIADNFMB_01951	gene	201				
+OIADNFMB_01951	CDS	201				hypothetical protein
+OIADNFMB_01952	gene	309				
+OIADNFMB_01952	CDS	309				hypothetical protein
+OIADNFMB_01953	gene	963				
+OIADNFMB_01953	CDS	963				hypothetical protein
+OIADNFMB_01954	gene	141				
+OIADNFMB_01954	CDS	141				hypothetical protein
+OIADNFMB_01955	gene	129				
+OIADNFMB_01955	CDS	129				hypothetical protein
+OIADNFMB_01956	gene	729				
+OIADNFMB_01956	CDS	729				hypothetical protein
+OIADNFMB_01957	gene	213				
+OIADNFMB_01957	CDS	213				hypothetical protein
+OIADNFMB_01958	gene	588	hisB			
+OIADNFMB_01958	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+OIADNFMB_01959	gene	609	hisH			
+OIADNFMB_01959	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+OIADNFMB_01960	gene	711	priA			
+OIADNFMB_01960	CDS	711	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+OIADNFMB_01961	gene	588				
+OIADNFMB_01961	CDS	588				hypothetical protein
+OIADNFMB_01962	gene	1560				
+OIADNFMB_01962	CDS	1560				hypothetical protein
+OIADNFMB_01963	gene	378	mcl2_2			
+OIADNFMB_01963	CDS	378	mcl2_2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+OIADNFMB_01964	gene	708				
+OIADNFMB_01964	CDS	708				hypothetical protein
+OIADNFMB_01965	gene	474				
+OIADNFMB_01965	CDS	474				hypothetical protein
+OIADNFMB_01966	gene	210				
+OIADNFMB_01966	CDS	210				hypothetical protein
+OIADNFMB_01967	gene	933	ctaB_3			
+OIADNFMB_01967	CDS	933	ctaB_3	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+OIADNFMB_01968	gene	147				
+OIADNFMB_01968	CDS	147				hypothetical protein
+OIADNFMB_01969	gene	486				
+OIADNFMB_01969	CDS	486				hypothetical protein
+OIADNFMB_01970	gene	1101				
+OIADNFMB_01970	CDS	1101				hypothetical protein
+OIADNFMB_01971	gene	609	pyrE			
+OIADNFMB_01971	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OIADNFMB_01972	gene	75				
+OIADNFMB_01972	tRNA	75				tRNA-Met(cat)
+OIADNFMB_01973	gene	636				
+OIADNFMB_01973	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+OIADNFMB_01974	gene	327				
+OIADNFMB_01974	CDS	327				hypothetical protein
+OIADNFMB_01975	gene	321				
+OIADNFMB_01975	CDS	321				hypothetical protein
+OIADNFMB_01976	gene	219				
+OIADNFMB_01976	CDS	219				hypothetical protein
+OIADNFMB_01977	gene	327				
+OIADNFMB_01977	CDS	327				hypothetical protein
+OIADNFMB_01978	gene	423				
+OIADNFMB_01978	CDS	423				hypothetical protein
+OIADNFMB_01979	gene	174				
+OIADNFMB_01979	CDS	174				hypothetical protein
+OIADNFMB_01980	gene	1347				
+OIADNFMB_01980	CDS	1347				hypothetical protein
+OIADNFMB_01981	gene	507				
+OIADNFMB_01981	CDS	507				hypothetical protein
+OIADNFMB_01982	gene	1458				
+OIADNFMB_01982	CDS	1458				hypothetical protein
+OIADNFMB_01983	gene	318				
+OIADNFMB_01983	CDS	318				hypothetical protein
+OIADNFMB_01984	gene	2970				
+OIADNFMB_01984	CDS	2970				hypothetical protein
+OIADNFMB_01985	gene	276				
+OIADNFMB_01985	CDS	276				hypothetical protein
+OIADNFMB_01986	gene	144				
+OIADNFMB_01986	CDS	144				hypothetical protein
+OIADNFMB_01987	gene	87				
+OIADNFMB_01987	tRNA	87				tRNA-Ile(tat)
+OIADNFMB_01988	gene	378				
+OIADNFMB_01988	CDS	378				hypothetical protein
+OIADNFMB_01989	gene	303				
+OIADNFMB_01989	CDS	303				hypothetical protein
+OIADNFMB_01990	gene	750				
+OIADNFMB_01990	CDS	750				hypothetical protein
+OIADNFMB_01991	gene	1503	carB_2			
+OIADNFMB_01991	CDS	1503	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+OIADNFMB_01992	gene	1182				
+OIADNFMB_01992	CDS	1182				hypothetical protein
+OIADNFMB_01993	gene	609				
+OIADNFMB_01993	CDS	609				hypothetical protein
+OIADNFMB_01994	gene	225				
+OIADNFMB_01994	CDS	225				hypothetical protein
+OIADNFMB_01995	gene	1260				
+OIADNFMB_01995	CDS	1260				hypothetical protein
+OIADNFMB_01996	gene	771				
+OIADNFMB_01996	CDS	771				hypothetical protein
+OIADNFMB_01997	gene	249				
+OIADNFMB_01997	CDS	249				hypothetical protein
+OIADNFMB_01998	gene	123				
+OIADNFMB_01998	CDS	123				hypothetical protein
+OIADNFMB_01999	gene	213				
+OIADNFMB_01999	CDS	213				hypothetical protein
+OIADNFMB_02000	gene	558				
+OIADNFMB_02000	CDS	558				hypothetical protein
+OIADNFMB_02001	gene	465				
+OIADNFMB_02001	CDS	465				hypothetical protein
+OIADNFMB_02002	gene	225				
+OIADNFMB_02002	CDS	225				hypothetical protein
+OIADNFMB_02003	gene	297				
+OIADNFMB_02003	CDS	297				hypothetical protein
+OIADNFMB_02004	gene	144				
+OIADNFMB_02004	CDS	144				hypothetical protein
+OIADNFMB_02005	gene	333				
+OIADNFMB_02005	CDS	333				hypothetical protein
+OIADNFMB_02006	gene	912				
+OIADNFMB_02006	CDS	912				hypothetical protein
+OIADNFMB_02007	gene	783	phnE_2			
+OIADNFMB_02007	CDS	783	phnE_2		COG3639	Phosphate-import permease protein PhnE
+OIADNFMB_02008	gene	846	metN2_2			
+OIADNFMB_02008	CDS	846	metN2_2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+OIADNFMB_02009	gene	744				
+OIADNFMB_02009	CDS	744				hypothetical protein
+OIADNFMB_02010	gene	192				
+OIADNFMB_02010	CDS	192				hypothetical protein
+OIADNFMB_02011	gene	171				
+OIADNFMB_02011	CDS	171				hypothetical protein
+OIADNFMB_02012	gene	885				
+OIADNFMB_02012	CDS	885				hypothetical protein
+OIADNFMB_02013	gene	78				
+OIADNFMB_02013	tRNA	78				tRNA-Glu(ctc)
+OIADNFMB_02014	gene	243				
+OIADNFMB_02014	CDS	243				hypothetical protein
+OIADNFMB_02015	gene	1119				
+OIADNFMB_02015	CDS	1119				hypothetical protein
+OIADNFMB_02016	gene	1164				
+OIADNFMB_02016	CDS	1164				hypothetical protein
+OIADNFMB_02017	gene	690				
+OIADNFMB_02017	CDS	690				hypothetical protein
+OIADNFMB_02018	gene	792				
+OIADNFMB_02018	CDS	792				hypothetical protein
+OIADNFMB_02019	gene	492				
+OIADNFMB_02019	CDS	492				hypothetical protein
+OIADNFMB_02020	gene	582				
+OIADNFMB_02020	CDS	582				hypothetical protein
+OIADNFMB_02021	gene	405				
+OIADNFMB_02021	CDS	405				hypothetical protein
+OIADNFMB_02022	gene	342				
+OIADNFMB_02022	CDS	342				hypothetical protein
+OIADNFMB_02023	gene	144				
+OIADNFMB_02023	CDS	144				hypothetical protein
+OIADNFMB_02024	gene	387				
+OIADNFMB_02024	CDS	387				hypothetical protein
+OIADNFMB_02025	gene	204				
+OIADNFMB_02025	CDS	204				hypothetical protein
+OIADNFMB_02026	gene	240				
+OIADNFMB_02026	CDS	240				hypothetical protein
+OIADNFMB_02027	gene	294	purF			
+OIADNFMB_02027	CDS	294	purF	2.4.2.14		Amidophosphoribosyltransferase
+OIADNFMB_02028	gene	600				
+OIADNFMB_02028	CDS	600				hypothetical protein
+OIADNFMB_02029	gene	162				
+OIADNFMB_02029	CDS	162				hypothetical protein
+OIADNFMB_02030	gene	387				
+OIADNFMB_02030	CDS	387				hypothetical protein
+OIADNFMB_02031	gene	1203				
+OIADNFMB_02031	CDS	1203				hypothetical protein
+OIADNFMB_02032	gene	900				
+OIADNFMB_02032	CDS	900				hypothetical protein
+OIADNFMB_02033	gene	1359	wbpA_1			
+OIADNFMB_02033	CDS	1359	wbpA_1	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+OIADNFMB_02034	gene	354				
+OIADNFMB_02034	CDS	354				hypothetical protein
+OIADNFMB_02035	gene	459				
+OIADNFMB_02035	CDS	459				hypothetical protein
+OIADNFMB_02036	gene	909				
+OIADNFMB_02036	CDS	909				hypothetical protein
+OIADNFMB_02037	gene	144				
+OIADNFMB_02037	CDS	144				hypothetical protein
+OIADNFMB_02038	gene	1632				
+OIADNFMB_02038	CDS	1632				hypothetical protein
+OIADNFMB_02039	gene	165				
+OIADNFMB_02039	CDS	165				hypothetical protein
+OIADNFMB_02040	gene	411	cheY_3			
+OIADNFMB_02040	CDS	411	cheY_3		COG0784	Chemotaxis protein CheY
+OIADNFMB_02041	gene	1116				
+OIADNFMB_02041	CDS	1116				hypothetical protein
+OIADNFMB_02042	gene	687				
+OIADNFMB_02042	CDS	687				hypothetical protein
+OIADNFMB_02043	gene	288				
+OIADNFMB_02043	CDS	288				hypothetical protein
+OIADNFMB_02044	gene	1032				
+OIADNFMB_02044	CDS	1032				hypothetical protein
+OIADNFMB_02045	gene	450				
+OIADNFMB_02045	CDS	450				hypothetical protein
+OIADNFMB_02046	gene	438				
+OIADNFMB_02046	CDS	438				hypothetical protein
+OIADNFMB_02047	gene	702	cugP_4			
+OIADNFMB_02047	CDS	702	cugP_4	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OIADNFMB_02048	gene	267	thiDN			
+OIADNFMB_02048	CDS	267	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+OIADNFMB_02049	gene	1182				
+OIADNFMB_02049	CDS	1182				hypothetical protein
+OIADNFMB_02050	gene	1119	arnC_4			
+OIADNFMB_02050	CDS	1119	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OIADNFMB_02051	gene	741	sumT_2			
+OIADNFMB_02051	CDS	741	sumT_2	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+OIADNFMB_02052	gene	936	hemC_2			
+OIADNFMB_02052	CDS	936	hemC_2	2.5.1.61		Porphobilinogen deaminase
+OIADNFMB_02053	gene	1278	hemL_2			
+OIADNFMB_02053	CDS	1278	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+OIADNFMB_02054	gene	1398				
+OIADNFMB_02054	CDS	1398				hypothetical protein
+OIADNFMB_02055	gene	900				
+OIADNFMB_02055	CDS	900				hypothetical protein
+OIADNFMB_02056	gene	255				
+OIADNFMB_02056	CDS	255				hypothetical protein
+OIADNFMB_02057	gene	882				
+OIADNFMB_02057	CDS	882				hypothetical protein
+OIADNFMB_02058	gene	681	menG_2			
+OIADNFMB_02058	CDS	681	menG_2	2.1.1.163		Demethylmenaquinone methyltransferase
+OIADNFMB_02059	gene	438				
+OIADNFMB_02059	CDS	438				hypothetical protein
+OIADNFMB_02060	gene	294				
+OIADNFMB_02060	CDS	294				hypothetical protein
+OIADNFMB_02061	gene	1356	wbpA_2			
+OIADNFMB_02061	CDS	1356	wbpA_2	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+OIADNFMB_02062	gene	651				
+OIADNFMB_02062	CDS	651				hypothetical protein
+OIADNFMB_02063	gene	300				
+OIADNFMB_02063	CDS	300				hypothetical protein
+OIADNFMB_02064	gene	708				
+OIADNFMB_02064	CDS	708				hypothetical protein

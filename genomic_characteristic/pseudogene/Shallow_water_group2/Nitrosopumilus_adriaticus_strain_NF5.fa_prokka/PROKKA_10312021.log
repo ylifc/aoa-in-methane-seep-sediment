@@ -1,0 +1,329 @@
+[22:08:23] This is prokka 1.14.6
+[22:08:23] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[22:08:23] Homepage is https://github.com/tseemann/prokka
+[22:08:23] Local time is Sun Oct 31 22:08:23 2021
+[22:08:23] You are ylifc
+[22:08:23] Operating system is linux
+[22:08:23] You have BioPerl 1.007002
+[22:08:23] System has 64 cores.
+[22:08:23] Will use maximum of 64 cores.
+[22:08:23] Annotating as >>> Bacteria <<<
+[22:08:23] Generating locus_tag from 'Nitrosopumilus_adriaticus_strain_NF5.fa' contents.
+[22:08:23] Setting --locustag GGBPDCEL from MD5 00b9dce55accf83366b446da081c7bde
+[22:08:23] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[22:08:23] Creating new output folder: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka
+[22:08:23] Running: mkdir -p Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka
+[22:08:23] Using filename prefix: PROKKA_10312021.XXX
+[22:08:23] Setting HMMER_NCPU=1
+[22:08:23] Writing log to: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.log
+[22:08:23] Command: /home/ylifc/miniconda2/envs/prokka/bin/prokka --cpus 0 --compliant --rfam Nitrosopumilus_adriaticus_strain_NF5.fa --outdir Nitrosopumilus_adriaticus_strain_NF5.fa_prokka
+[22:08:23] Appending to PATH: /home/ylifc/miniconda2/envs/prokka/bin
+[22:08:23] Looking for 'aragorn' - found /home/ylifc/miniconda2/envs/prokka/bin/aragorn
+[22:08:23] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[22:08:23] Looking for 'barrnap' - found /home/ylifc/miniconda2/envs/prokka/bin/barrnap
+[22:08:23] Determined barrnap version is 000009 from 'barrnap 0.9'
+[22:08:23] Looking for 'blastp' - found /home/ylifc/miniconda2/envs/prokka/bin/blastp
+[22:08:24] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[22:08:24] Looking for 'cmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/cmpress
+[22:08:24] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[22:08:24] Looking for 'cmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/cmscan
+[22:08:24] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[22:08:24] Looking for 'egrep' - found /bin/egrep
+[22:08:24] Looking for 'find' - found /usr/bin/find
+[22:08:24] Looking for 'grep' - found /bin/grep
+[22:08:24] Looking for 'hmmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmpress
+[22:08:24] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[22:08:24] Looking for 'hmmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmscan
+[22:08:24] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[22:08:24] Looking for 'java' - found /home/ylifc/miniconda2/envs/prokka/bin/java
+[22:08:24] Looking for 'makeblastdb' - found /home/ylifc/miniconda2/envs/prokka/bin/makeblastdb
+[22:08:26] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[22:08:26] Looking for 'minced' - found /home/ylifc/miniconda2/envs/prokka/bin/minced
+[22:08:27] Determined minced version is 004002 from 'minced 0.4.2'
+[22:08:27] Looking for 'parallel' - found /home/ylifc/miniconda2/envs/prokka/bin/parallel
+[22:08:27] Determined parallel version is 20211022 from 'GNU parallel 20211022'
+[22:08:27] Looking for 'prodigal' - found /home/ylifc/miniconda2/envs/prokka/bin/prodigal
+[22:08:27] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[22:08:27] Looking for 'prokka-genbank_to_fasta_db' - found /home/ylifc/miniconda2/envs/prokka/bin/prokka-genbank_to_fasta_db
+[22:08:27] Looking for 'sed' - found /bin/sed
+[22:08:27] Looking for 'tbl2asn' - found /home/ylifc/miniconda2/envs/prokka/bin/tbl2asn
+[22:08:27] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[22:08:27] Using genetic code table 11.
+[22:08:27] Loading and checking input file: Nitrosopumilus_adriaticus_strain_NF5.fa
+[22:08:27] Wrote 1 contigs totalling 1803090 bp.
+[22:08:27] Predicting tRNAs and tmRNAs
+[22:08:27] Running: aragorn -l -gc11  -w Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.fna
+[22:08:28] 1 tRNA-Pro [78647,78720] 35 (ggg)
+[22:08:28] 2 tRNA-Arg c[90223,90309] 36 (cct)
+[22:08:28] 3 tRNA-Val [118101,118175] 35 (gac)
+[22:08:28] 4 tRNA-Gly [223139,223214] 37 (tcc)
+[22:08:28] 5 tRNA-Arg c[303487,303563] 37 (tct)
+[22:08:28] 6 tRNA-Thr c[341191,341264] 35 (ggt)
+[22:08:28] 7 tRNA-Ile c[343483,343559] 37 (gat)
+[22:08:28] 8 tRNA-Ala [344227,344301] 35 (tgc)
+[22:08:28] 9 tRNA-Trp c[357629,357703] 35 (cca)
+[22:08:28] 10 tRNA-Thr [374930,375003] 35 (cgt)
+[22:08:28] 11 tRNA-Cys c[379195,379266] 33 (gca)
+[22:08:28] 12 tRNA-Ser [420588,420674] 35 (gct)
+[22:08:28] 13 tRNA-Thr c[609532,609606] 36 (tgt)
+[22:08:28] 14 tRNA-Val c[618863,618959] 36 (cac)
+[22:08:28] 15 tRNA-Phe [983607,983682] 36 (gaa)
+[22:08:28] 16 tRNA-Asn [1039262,1039336] 35 (gtt)
+[22:08:28] 17 tRNA-Ser c[1144680,1144762] 33 (cga)
+[22:08:28] 18 tRNA-Pro c[1247624,1247700] 35 (tgg)
+[22:08:28] 19 tRNA-Arg c[1298394,1298470] 37 (gcg)
+[22:08:28] 20 tRNA-Glu [1382309,1382384] 37 (ctc)
+[22:08:28] 21 tRNA-Gly [1384580,1384656] 36 (gcc)
+[22:08:28] 22 tRNA-Gln [1510205,1510293] 28 (ctg)
+[22:08:28] 23 tRNA-Leu c[1551170,1551255] 37 (gag)
+[22:08:28] 24 tRNA-His c[1561996,1562068] 34 (gtg)
+[22:08:28] 25 tRNA-Met c[1575865,1575938] 35 (cat)
+[22:08:28] 26 tRNA-Asp c[1599056,1599133] 37 (gtc)
+[22:08:28] 27 tRNA-Lys [1599230,1599304] 35 (ttt)
+[22:08:28] 28 tRNA-Ala c[1608118,1608192] 35 (ggc)
+[22:08:28] 29 tRNA-Ser c[1619606,1619691] 36 (tga)
+[22:08:28] 30 tRNA-Leu [1645649,1645736] 37 (tag)
+[22:08:28] 31 tRNA-Ala [1652602,1652676] 33 (cgc)
+[22:08:28] 32 tRNA-Val [1672074,1672150] 37 (tac)
+[22:08:28] 33 tRNA-Lys c[1685707,1685781] 35 (ctt)
+[22:08:28] 34 tRNA-Arg [1693992,1694066] 36 (tcg)
+[22:08:28] 35 tRNA-Leu c[1761899,1761985] 38 (cag)
+[22:08:28] 36 tRNA-Gln [1768782,1768855] 35 (ttg)
+[22:08:28] 37 tRNA-Gly [1790634,1790707] 35 (ccc)
+[22:08:28] Found 37 tRNAs
+[22:08:28] Predicting Ribosomal RNAs
+[22:08:28] Running Barrnap with 64 threads
+[22:08:33] 1 gnl|Prokka|GGBPDCEL_1 762950 16S ribosomal RNA
+[22:08:33] 2 gnl|Prokka|GGBPDCEL_1 764578 23S ribosomal RNA
+[22:08:33] 3 gnl|Prokka|GGBPDCEL_1 1569259 5S ribosomal RNA
+[22:08:33] Found 3 rRNAs
+[22:08:33] Scanning for ncRNAs... please be patient.
+[22:08:33] Running: cmscan -Z 3.60618 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 64 --tblout /dev/stdout -o /dev/null --noali /home/ylifc/miniconda2/envs/prokka/db/cm/Bacteria Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.fna
+[22:15:03] 1 ncRNA 1 gnl|Prokka|GGBPDCEL_1 1..303
+[22:15:03] 2 ncRNA 2 gnl|Prokka|GGBPDCEL_1 1..318
+[22:15:03] Found 2 ncRNAs.
+[22:15:03] Total of 40 tRNA + rRNA features
+[22:15:03] Searching for CRISPR repeats
+[22:15:05] CRISPR1 gnl|Prokka|GGBPDCEL_1 1456123 with 4 spacers
+[22:15:05] Found 1 CRISPRs
+[22:15:05] Predicting coding sequences
+[22:15:05] Contigs total 1803090 bp, so using single mode
+[22:15:05] Running: prodigal -i Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.fna -c -m -g 11 -p single -f sco -q
+[22:15:10] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|GGBPDCEL_1:89922..90608 on + strand
+[22:15:11] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|GGBPDCEL_1:378785..379195 on + strand
+[22:15:12] Excluding CDS which overlaps existing RNA (rRNA) at gnl|Prokka|GGBPDCEL_1:766596..767027 on + strand
+[22:15:14] Excluding CDS which overlaps existing RNA (repeat_region) at gnl|Prokka|GGBPDCEL_1:1455725..1456480 on + strand
+[22:15:14] Excluding CDS which overlaps existing RNA (rRNA) at gnl|Prokka|GGBPDCEL_1:1569363..1571255 on + strand
+[22:15:14] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|GGBPDCEL_1:1607585..1608118 on + strand
+[22:15:15] Found 2204 CDS
+[22:15:15] Connecting features back to sequences
+[22:15:15] Not using genus-specific database. Try --usegenus to enable it.
+[22:15:15] Annotating CDS, please be patient.
+[22:15:15] Will use 64 CPUs for similarity searching.
+[22:15:16] There are still 2204 unannotated CDS left (started with 2204)
+[22:15:16] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS with 64 CPUs
+[22:15:16] Running: cat Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.42444\.faa | parallel --gnu --plain -j 64 --block 4324 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.42444\.blast 2> /dev/null
+[22:16:08] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.IS.tmp.42444.faa
+[22:16:08] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.IS.tmp.42444.blast
+[22:16:09] There are still 2203 unannotated CDS left (started with 2204)
+[22:16:09] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR with 64 CPUs
+[22:16:09] Running: cat Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.42444\.faa | parallel --gnu --plain -j 64 --block 4323 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.42444\.blast 2> /dev/null
+[22:16:57] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.AMR.tmp.42444.faa
+[22:16:57] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.AMR.tmp.42444.blast
+[22:16:58] There are still 2203 unannotated CDS left (started with 2204)
+[22:16:58] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot with 64 CPUs
+[22:16:58] Running: cat Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.42444\.faa | parallel --gnu --plain -j 64 --block 4323 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.42444\.blast 2> /dev/null
+[22:19:47] Modify product: NADH dehydrogenase-like protein SAOUHSC_00878 => NADH dehydrogenase-like protein
+[22:19:47] Modify product: Probable dipeptidase PepE => putative dipeptidase PepE
+[22:19:47] Modify product: Uncharacterized protein YccU => putative protein YccU
+[22:19:47] Modify product: Probable membrane transporter protein YfcA => putative membrane transporter protein YfcA
+[22:19:47] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[22:19:47] Modify product: Uncharacterized acyl-CoA thioester hydrolase HI_0827 => putative acyl-CoA thioester hydrolase
+[22:19:47] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[22:19:47] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[22:19:47] Modify product: NAD(P)H-dependent FAD/FMN reductase GTNG_3158 => NAD(P)H-dependent FAD/FMN reductase
+[22:19:47] Modify product: Protein aq_1857 => Protein
+[22:19:47] Modify product: Uncharacterized metal-dependent hydrolase YjjV => putative metal-dependent hydrolase YjjV
+[22:19:47] Modify product: Probable dual-specificity RNA methyltransferase RlmN => putative dual-specificity RNA methyltransferase RlmN
+[22:19:47] Modify product: Probable nicotinate-nucleotide pyrophosphorylase [carboxylating] => putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+[22:19:47] Modify product: Probable adenylyl-sulfate kinase => putative adenylyl-sulfate kinase
+[22:19:48] Modify product: Uncharacterized protein YqgN => putative protein YqgN
+[22:19:48] Modify product: Uncharacterized oxidoreductase SA2266 => putative oxidoreductase
+[22:19:48] Modify product: UPF0060 membrane protein YnfA => hypothetical protein
+[22:19:48] Modify product: UPF0060 membrane protein YnfA => hypothetical protein
+[22:19:48] Modify product: NADH dehydrogenase-like protein SAOUHSC_00878 => NADH dehydrogenase-like protein
+[22:19:48] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[22:19:48] Modify product: Uncharacterized protein Rv2715 => putative protein
+[22:19:48] Modify product: Putative coenzyme F420-dependent oxidoreductase Rv3520c => Putative coenzyme F420-dependent oxidoreductase
+[22:19:48] Modify product: UPF0053 inner membrane protein YfjD => hypothetical protein
+[22:19:48] Modify product: Putative universal stress protein SA1532 => Putative universal stress protein
+[22:19:48] Modify product: UPF0053 inner membrane protein YfjD => hypothetical protein
+[22:19:48] Modify product: Probable UbiX-like flavin prenyltransferase => putative UbiX-like flavin prenyltransferase
+[22:19:49] Modify product: Uncharacterized protein YfgD => putative protein YfgD
+[22:19:49] Modify product: Uncharacterized protein HI_1163 => putative protein
+[22:19:49] Modify product: Probable oxidoreductase CT_610 => putative oxidoreductase CT_610
+[22:19:49] Modify product: Uncharacterized protein YisK => putative protein YisK
+[22:19:49] Modify product: Probable bacterial non-heme ferritin => putative bacterial non-heme ferritin
+[22:19:49] Modify product: Response regulator receiver protein Anae109_2439 => Response regulator receiver protein
+[22:19:49] Modify product: Uncharacterized protein MSMEG_2782/MSMEI_2713 => putative protein/MSMEI_2713
+[22:19:49] Modify product: Uncharacterized protein YedJ => putative protein YedJ
+[22:19:49] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[22:19:49] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[22:19:49] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[22:19:49] Modify product: Probable polyketide biosynthesis zinc-dependent hydrolase PksB => putative polyketide biosynthesis zinc-dependent hydrolase PksB
+[22:19:50] Modify product: Putative peroxiredoxin Rv2521 => Putative peroxiredoxin
+[22:19:50] Modify product: Uncharacterized membrane protein Rv0364 => putative membrane protein
+[22:19:50] Modify product: Uncharacterized protein Rv2067c => putative protein
+[22:19:50] Modify product: UPF0098 protein CT_736 => hypothetical protein
+[22:19:50] Modify product: Probable endonuclease 4 => putative endonuclease 4
+[22:19:50] Cleaned 43 /product names
+[22:19:50] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.sprot.tmp.42444.faa
+[22:19:50] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.sprot.tmp.42444.blast
+[22:19:51] There are still 1680 unannotated CDS left (started with 2204)
+[22:19:51] Will use hmmer3 to search against /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm with 64 CPUs
+[22:19:51] Running: cat Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.42444\.faa | parallel --gnu --plain -j 64 --block 3026 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm /dev/stdin > Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.42444\.hmmer3 2> /dev/null
+[22:22:12] Modify product: Uncharacterized MFS-type transporter YcaD => putative MFS-type transporter YcaD
+[22:22:12] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[22:22:13] Cleaned 2 /product names
+[22:22:13] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.42444.faa
+[22:22:13] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.42444.hmmer3
+[22:22:13] Labelling remaining 1486 proteins as 'hypothetical protein'
+[22:22:13] Possible /pseudo 'Fructokinase' at gnl|Prokka|GGBPDCEL_1 position 264299
+[22:22:13] Possible /pseudo 'Methionine synthase' at gnl|Prokka|GGBPDCEL_1 position 552451
+[22:22:13] Possible /pseudo 'tRNA pseudouridine synthase D' at gnl|Prokka|GGBPDCEL_1 position 595607
+[22:22:13] Possible /pseudo 'Glutathione hydrolase proenzyme' at gnl|Prokka|GGBPDCEL_1 position 923249
+[22:22:13] Possible /pseudo 'UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase' at gnl|Prokka|GGBPDCEL_1 position 940688
+[22:22:13] Possible /pseudo 'UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase' at gnl|Prokka|GGBPDCEL_1 position 941170
+[22:22:13] Possible /pseudo '8-amino-7-oxononanoate synthase' at gnl|Prokka|GGBPDCEL_1 position 1022899
+[22:22:13] Possible /pseudo '8-amino-7-oxononanoate synthase' at gnl|Prokka|GGBPDCEL_1 position 1023344
+[22:22:13] Possible /pseudo 'Phosphoribosylaminoimidazole-succinocarboxamide synthase' at gnl|Prokka|GGBPDCEL_1 position 1045444
+[22:22:13] Possible /pseudo 'Sensor histidine kinase RcsC' at gnl|Prokka|GGBPDCEL_1 position 1046630
+[22:22:13] Possible /pseudo '1,4-dihydroxy-6-naphtoate synthase' at gnl|Prokka|GGBPDCEL_1 position 1111691
+[22:22:13] Possible /pseudo 'TRAP-T-associated universal stress protein TeaD' at gnl|Prokka|GGBPDCEL_1 position 1185429
+[22:22:13] Possible /pseudo 'Histidine N-alpha-methyltransferase' at gnl|Prokka|GGBPDCEL_1 position 1195557
+[22:22:13] Possible /pseudo 'Chromosome partition protein Smc' at gnl|Prokka|GGBPDCEL_1 position 1198009
+[22:22:13] Possible /pseudo 'FO synthase' at gnl|Prokka|GGBPDCEL_1 position 1264432
+[22:22:13] Possible /pseudo 'Ribonuclease PH' at gnl|Prokka|GGBPDCEL_1 position 1397193
+[22:22:13] Possible /pseudo 'NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic' at gnl|Prokka|GGBPDCEL_1 position 1579166
+[22:22:13] Possible /pseudo 'Ferredoxin-type protein NapF' at gnl|Prokka|GGBPDCEL_1 position 1620411
+[22:22:14] Found 525 unique /gene codes.
+[22:22:14] Fixed 2 duplicate /gene - groL_1 groL_2
+[22:22:14] Fixed 2 duplicate /gene - mqnD_1 mqnD_2
+[22:22:14] Fixed 5 duplicate /gene - rcsC_1 rcsC_2 rcsC_3 rcsC_4 rcsC_5
+[22:22:14] Fixed 4 duplicate /gene - dbpA_1 dbpA_2 dbpA_3 dbpA_4
+[22:22:14] Fixed 2 duplicate /gene - cpoB_1 cpoB_2
+[22:22:14] Fixed 2 duplicate /gene - mak_1 mak_2
+[22:22:14] Fixed 2 duplicate /gene - nadE_1 nadE_2
+[22:22:14] Fixed 2 duplicate /gene - gltP_1 gltP_2
+[22:22:14] Fixed 2 duplicate /gene - prcA_1 prcA_2
+[22:22:14] Fixed 2 duplicate /gene - ttuD_1 ttuD_2
+[22:22:14] Fixed 2 duplicate /gene - catD_1 catD_2
+[22:22:14] Fixed 2 duplicate /gene - prcB_1 prcB_2
+[22:22:14] Fixed 2 duplicate /gene - lnrL_1 lnrL_2
+[22:22:14] Fixed 3 duplicate /gene - sodA_1 sodA_2 sodA_3
+[22:22:14] Fixed 2 duplicate /gene - hemL_1 hemL_2
+[22:22:14] Fixed 2 duplicate /gene - speB_1 speB_2
+[22:22:14] Fixed 2 duplicate /gene - thrA_1 thrA_2
+[22:22:14] Fixed 2 duplicate /gene - metG_1 metG_2
+[22:22:14] Fixed 2 duplicate /gene - rutE_1 rutE_2
+[22:22:14] Fixed 2 duplicate /gene - napF_1 napF_2
+[22:22:14] Fixed 2 duplicate /gene - hit_1 hit_2
+[22:22:14] Fixed 2 duplicate /gene - ccr_1 ccr_2
+[22:22:14] Fixed 2 duplicate /gene - thi4_1 thi4_2
+[22:22:14] Fixed 2 duplicate /gene - rph_1 rph_2
+[22:22:14] Fixed 2 duplicate /gene - cas1_1 cas1_2
+[22:22:14] Fixed 5 duplicate /gene - cheB_1 cheB_2 cheB_3 cheB_4 cheB_5
+[22:22:14] Fixed 2 duplicate /gene - truD_1 truD_2
+[22:22:14] Fixed 2 duplicate /gene - mntR_1 mntR_2
+[22:22:14] Fixed 3 duplicate /gene - IMPDH_1 IMPDH_2 IMPDH_3
+[22:22:14] Fixed 2 duplicate /gene - recA_1 recA_2
+[22:22:14] Fixed 2 duplicate /gene - todB_1 todB_2
+[22:22:14] Fixed 2 duplicate /gene - czcD_1 czcD_2
+[22:22:14] Fixed 2 duplicate /gene - cysQ_1 cysQ_2
+[22:22:14] Fixed 2 duplicate /gene - mscS_1 mscS_2
+[22:22:14] Fixed 2 duplicate /gene - nnr_1 nnr_2
+[22:22:14] Fixed 2 duplicate /gene - fadA_1 fadA_2
+[22:22:14] Fixed 3 duplicate /gene - ftsH_1 ftsH_2 ftsH_3
+[22:22:14] Fixed 2 duplicate /gene - fbiB_1 fbiB_2
+[22:22:14] Fixed 5 duplicate /gene - dnaJ_1 dnaJ_2 dnaJ_3 dnaJ_4 dnaJ_5
+[22:22:14] Fixed 2 duplicate /gene - rhdA_1 rhdA_2
+[22:22:14] Fixed 4 duplicate /gene - lpxD_1 lpxD_2 lpxD_3 lpxD_4
+[22:22:14] Fixed 2 duplicate /gene - ndhB_1 ndhB_2
+[22:22:14] Fixed 6 duplicate /gene - teaD_1 teaD_2 teaD_3 teaD_4 teaD_5 teaD_6
+[22:22:14] Fixed 2 duplicate /gene - patA_1 patA_2
+[22:22:14] Fixed 2 duplicate /gene - glmU_1 glmU_2
+[22:22:14] Fixed 2 duplicate /gene - kefB_1 kefB_2
+[22:22:14] Fixed 2 duplicate /gene - egtD_1 egtD_2
+[22:22:14] Fixed 3 duplicate /gene - vgb_1 vgb_2 vgb_3
+[22:22:14] Fixed 2 duplicate /gene - glnA_1 glnA_2
+[22:22:14] Fixed 3 duplicate /gene - arnC_1 arnC_2 arnC_3
+[22:22:14] Fixed 2 duplicate /gene - aspS2_1 aspS2_2
+[22:22:14] Fixed 2 duplicate /gene - lrpC_1 lrpC_2
+[22:22:14] Fixed 2 duplicate /gene - guaA_1 guaA_2
+[22:22:14] Fixed 4 duplicate /gene - smc_1 smc_2 smc_3 smc_4
+[22:22:14] Fixed 3 duplicate /gene - bioF_1 bioF_2 bioF_3
+[22:22:14] Fixed 3 duplicate /gene - ggt_1 ggt_2 ggt_3
+[22:22:14] Fixed 2 duplicate /gene - ubiD_1 ubiD_2
+[22:22:14] Fixed 16 duplicate /gene - sasA_1 sasA_2 sasA_3 sasA_4 sasA_5 sasA_6 sasA_7 sasA_8 sasA_9 sasA_10 sasA_11 sasA_12 sasA_13 sasA_14 sasA_15 sasA_16
+[22:22:14] Fixed 3 duplicate /gene - hisC_1 hisC_2 hisC_3
+[22:22:14] Fixed 2 duplicate /gene - iolG_1 iolG_2
+[22:22:14] Fixed 3 duplicate /gene - glnB_1 glnB_2 glnB_3
+[22:22:14] Fixed 2 duplicate /gene - valS_1 valS_2
+[22:22:14] Fixed 2 duplicate /gene - cobD_1 cobD_2
+[22:22:14] Fixed 4 duplicate /gene - petE_1 petE_2 petE_3 petE_4
+[22:22:14] Fixed 2 duplicate /gene - trmR_1 trmR_2
+[22:22:14] Fixed 3 duplicate /gene - zraS_1 zraS_2 zraS_3
+[22:22:14] Fixed 3 duplicate /gene - thrB_1 thrB_2 thrB_3
+[22:22:14] Fixed 2 duplicate /gene - mcm_1 mcm_2
+[22:22:14] Fixed 2 duplicate /gene - pseB_1 pseB_2
+[22:22:14] Fixed 2 duplicate /gene - ctaB_1 ctaB_2
+[22:22:14] Fixed 2 duplicate /gene - bcp_1 bcp_2
+[22:22:14] Fixed 2 duplicate /gene - thiI_1 thiI_2
+[22:22:14] Fixed 16 duplicate /gene - cheY_1 cheY_2 cheY_3 cheY_4 cheY_5 cheY_6 cheY_7 cheY_8 cheY_9 cheY_10 cheY_11 cheY_12 cheY_13 cheY_14 cheY_15 cheY_16
+[22:22:14] Fixed 2 duplicate /gene - fbiC_1 fbiC_2
+[22:22:14] Fixed 2 duplicate /gene - hemA_1 hemA_2
+[22:22:14] Fixed 2 duplicate /gene - metH_1 metH_2
+[22:22:14] Fixed 2 duplicate /gene - mimB_1 mimB_2
+[22:22:14] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[22:22:14] Fixed 2 duplicate /gene - purC_1 purC_2
+[22:22:14] Fixed 2 duplicate /gene - aqpZ_1 aqpZ_2
+[22:22:14] Fixed 2 duplicate /gene - nadK_1 nadK_2
+[22:22:14] Fixed 2 duplicate /gene - ndhI_1 ndhI_2
+[22:22:14] Fixed 2 duplicate /gene - yrbG_1 yrbG_2
+[22:22:14] Fixed 2 duplicate /gene - lysX_1 lysX_2
+[22:22:14] Fixed 3 duplicate /gene - cugP_1 cugP_2 cugP_3
+[22:22:14] Fixed 2 duplicate /gene - acsA_1 acsA_2
+[22:22:14] Fixed 86 colliding /gene names.
+[22:22:14] Adding /locus_tag identifiers
+[22:22:14] Assigned 2246 locus_tags to CDS and RNA features.
+[22:22:14] Writing outputs to Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/
+[22:22:18] Generating annotation statistics file
+[22:22:18] Generating Genbank and Sequin files
+[22:22:18] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.err -i Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.fsa 2> /dev/null
+[22:22:34] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/errorsummary.val
+[22:22:34] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.dr
+[22:22:34] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.fixedproducts
+[22:22:34] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.ecn
+[22:22:34] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.val
+[22:22:34] Repairing broken .GBK output that tbl2asn produces...
+[22:22:34] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.gbf > Nitrosopumilus_adriaticus_strain_NF5\.fa_prokka\/PROKKA_10312021\.gbk
+[22:22:34] Deleting unwanted file: Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.gbf
+[22:22:34] Output files:
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.err
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.faa
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.ffn
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.fna
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.fsa
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.gbk
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.gff
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.log
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.sqn
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.tbl
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.tsv
+[22:22:34] Nitrosopumilus_adriaticus_strain_NF5.fa_prokka/PROKKA_10312021.txt
+[22:22:34] Annotation finished successfully.
+[22:22:34] Walltime used: 14.18 minutes
+[22:22:34] If you use this result please cite the Prokka paper:
+[22:22:34] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[22:22:34] Type 'prokka --citation' for more details.
+[22:22:34] Share and enjoy!

@@ -1,0 +1,570 @@
+[20:02:52] This is prokka 1.14.6
+[20:02:52] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[20:02:52] Homepage is https://github.com/tseemann/prokka
+[20:02:52] Local time is Sun Oct 31 20:02:52 2021
+[20:02:52] You are ylifc
+[20:02:52] Operating system is linux
+[20:02:52] You have BioPerl 1.007002
+[20:02:52] System has 64 cores.
+[20:02:52] Will use maximum of 64 cores.
+[20:02:52] Annotating as >>> Bacteria <<<
+[20:02:52] Generating locus_tag from 'Thaumarchaeota_archaeon_strain_BS3.fa' contents.
+[20:02:52] Setting --locustag CDCMDIPF from MD5 cdc6d29f1ae353ad82e353a8d4020bd0
+[20:02:52] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[20:02:52] Creating new output folder: Thaumarchaeota_archaeon_strain_BS3.fa_prokka
+[20:02:52] Running: mkdir -p Thaumarchaeota_archaeon_strain_BS3\.fa_prokka
+[20:02:52] Using filename prefix: PROKKA_10312021.XXX
+[20:02:52] Setting HMMER_NCPU=1
+[20:02:52] Writing log to: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.log
+[20:02:52] Command: /home/ylifc/miniconda2/envs/prokka/bin/prokka --cpus 0 --compliant --rfam Thaumarchaeota_archaeon_strain_BS3.fa --outdir Thaumarchaeota_archaeon_strain_BS3.fa_prokka
+[20:02:52] Appending to PATH: /home/ylifc/miniconda2/envs/prokka/bin
+[20:02:52] Looking for 'aragorn' - found /home/ylifc/miniconda2/envs/prokka/bin/aragorn
+[20:02:52] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[20:02:52] Looking for 'barrnap' - found /home/ylifc/miniconda2/envs/prokka/bin/barrnap
+[20:02:52] Determined barrnap version is 000009 from 'barrnap 0.9'
+[20:02:52] Looking for 'blastp' - found /home/ylifc/miniconda2/envs/prokka/bin/blastp
+[20:02:54] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[20:02:54] Looking for 'cmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/cmpress
+[20:02:54] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[20:02:54] Looking for 'cmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/cmscan
+[20:02:54] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[20:02:54] Looking for 'egrep' - found /bin/egrep
+[20:02:54] Looking for 'find' - found /usr/bin/find
+[20:02:54] Looking for 'grep' - found /bin/grep
+[20:02:54] Looking for 'hmmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmpress
+[20:02:54] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[20:02:54] Looking for 'hmmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmscan
+[20:02:54] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[20:02:54] Looking for 'java' - found /home/ylifc/miniconda2/envs/prokka/bin/java
+[20:02:54] Looking for 'makeblastdb' - found /home/ylifc/miniconda2/envs/prokka/bin/makeblastdb
+[20:02:55] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[20:02:55] Looking for 'minced' - found /home/ylifc/miniconda2/envs/prokka/bin/minced
+[20:02:56] Determined minced version is 004002 from 'minced 0.4.2'
+[20:02:56] Looking for 'parallel' - found /home/ylifc/miniconda2/envs/prokka/bin/parallel
+[20:02:56] Determined parallel version is 20211022 from 'GNU parallel 20211022'
+[20:02:56] Looking for 'prodigal' - found /home/ylifc/miniconda2/envs/prokka/bin/prodigal
+[20:02:56] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[20:02:56] Looking for 'prokka-genbank_to_fasta_db' - found /home/ylifc/miniconda2/envs/prokka/bin/prokka-genbank_to_fasta_db
+[20:02:56] Looking for 'sed' - found /bin/sed
+[20:02:56] Looking for 'tbl2asn' - found /home/ylifc/miniconda2/envs/prokka/bin/tbl2asn
+[20:02:56] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[20:02:56] Using genetic code table 11.
+[20:02:56] Loading and checking input file: Thaumarchaeota_archaeon_strain_BS3.fa
+[20:02:56] Skipping short (<200 bp) contig: 2263083749
+[20:02:56] Skipping short (<200 bp) contig: 2263083757
+[20:02:56] Skipping short (<200 bp) contig: 2263083762
+[20:02:56] Skipping short (<200 bp) contig: 2263083773
+[20:02:56] Skipping short (<200 bp) contig: 2263083819
+[20:02:56] Skipping short (<200 bp) contig: 2263083832
+[20:02:56] Skipping short (<200 bp) contig: 2263083836
+[20:02:56] Skipping short (<200 bp) contig: 2263083851
+[20:02:56] Skipping short (<200 bp) contig: 2263083854
+[20:02:56] Skipping short (<200 bp) contig: 2263083860
+[20:02:56] Skipping short (<200 bp) contig: 2263083863
+[20:02:56] Skipping short (<200 bp) contig: 2263083878
+[20:02:56] Skipping short (<200 bp) contig: 2263083882
+[20:02:56] Skipping short (<200 bp) contig: 2263083883
+[20:02:56] Skipping short (<200 bp) contig: 2263083895
+[20:02:56] Skipping short (<200 bp) contig: 2263083898
+[20:02:56] Skipping short (<200 bp) contig: 2263083899
+[20:02:56] Skipping short (<200 bp) contig: 2263083901
+[20:02:56] Skipping short (<200 bp) contig: 2263083939
+[20:02:56] Skipping short (<200 bp) contig: 2263083952
+[20:02:56] Skipping short (<200 bp) contig: 2263083965
+[20:02:56] Skipping short (<200 bp) contig: 2263083966
+[20:02:56] Skipping short (<200 bp) contig: 2263083993
+[20:02:56] Skipping short (<200 bp) contig: 2263084013
+[20:02:56] Skipping short (<200 bp) contig: 2263084016
+[20:02:56] Skipping short (<200 bp) contig: 2263084025
+[20:02:56] Skipping short (<200 bp) contig: 2263084026
+[20:02:56] Skipping short (<200 bp) contig: 2263084037
+[20:02:56] Skipping short (<200 bp) contig: 2263084047
+[20:02:56] Skipping short (<200 bp) contig: 2263084072
+[20:02:56] Skipping short (<200 bp) contig: 2263084074
+[20:02:56] Skipping short (<200 bp) contig: 2263084081
+[20:02:56] Skipping short (<200 bp) contig: 2263084084
+[20:02:56] Skipping short (<200 bp) contig: 2263084095
+[20:02:56] Skipping short (<200 bp) contig: 2263084096
+[20:02:56] Skipping short (<200 bp) contig: 2263084100
+[20:02:56] Skipping short (<200 bp) contig: 2263084102
+[20:02:56] Skipping short (<200 bp) contig: 2263084103
+[20:02:56] Skipping short (<200 bp) contig: 2263084132
+[20:02:56] Skipping short (<200 bp) contig: 2263084134
+[20:02:56] Skipping short (<200 bp) contig: 2263084138
+[20:02:56] Skipping short (<200 bp) contig: 2263084180
+[20:02:56] Skipping short (<200 bp) contig: 2263084181
+[20:02:56] Skipping short (<200 bp) contig: 2263084184
+[20:02:56] Skipping short (<200 bp) contig: 2263084192
+[20:02:56] Skipping short (<200 bp) contig: 2263084199
+[20:02:56] Skipping short (<200 bp) contig: 2263084207
+[20:02:56] Skipping short (<200 bp) contig: 2263084237
+[20:02:56] Skipping short (<200 bp) contig: 2263084238
+[20:02:56] Skipping short (<200 bp) contig: 2263084242
+[20:02:56] Skipping short (<200 bp) contig: 2263084246
+[20:02:56] Skipping short (<200 bp) contig: 2263084255
+[20:02:56] Skipping short (<200 bp) contig: 2263084264
+[20:02:56] Skipping short (<200 bp) contig: 2263084266
+[20:02:56] Skipping short (<200 bp) contig: 2263084270
+[20:02:56] Skipping short (<200 bp) contig: 2263084279
+[20:02:56] Skipping short (<200 bp) contig: 2263084288
+[20:02:56] Skipping short (<200 bp) contig: 2263084290
+[20:02:56] Skipping short (<200 bp) contig: 2263084297
+[20:02:56] Skipping short (<200 bp) contig: 2263084300
+[20:02:56] Skipping short (<200 bp) contig: 2263084320
+[20:02:56] Skipping short (<200 bp) contig: 2263084326
+[20:02:56] Skipping short (<200 bp) contig: 2263084338
+[20:02:57] Skipping short (<200 bp) contig: 2263084347
+[20:02:57] Skipping short (<200 bp) contig: 2263084348
+[20:02:57] Skipping short (<200 bp) contig: 2263084349
+[20:02:57] Skipping short (<200 bp) contig: 2263084361
+[20:02:57] Skipping short (<200 bp) contig: 2263084366
+[20:02:57] Skipping short (<200 bp) contig: 2263084369
+[20:02:57] Skipping short (<200 bp) contig: 2263084373
+[20:02:57] Skipping short (<200 bp) contig: 2263084381
+[20:02:57] Skipping short (<200 bp) contig: 2263084385
+[20:02:57] Skipping short (<200 bp) contig: 2263084399
+[20:02:57] Skipping short (<200 bp) contig: 2263084441
+[20:02:57] Skipping short (<200 bp) contig: 2263084442
+[20:02:57] Skipping short (<200 bp) contig: 2263084444
+[20:02:57] Skipping short (<200 bp) contig: 2263084445
+[20:02:57] Skipping short (<200 bp) contig: 2263084448
+[20:02:57] Skipping short (<200 bp) contig: 2263084449
+[20:02:57] Skipping short (<200 bp) contig: 2263084450
+[20:02:57] Skipping short (<200 bp) contig: 2263084457
+[20:02:57] Skipping short (<200 bp) contig: 2263084458
+[20:02:57] Skipping short (<200 bp) contig: 2263084461
+[20:02:57] Skipping short (<200 bp) contig: 2263084479
+[20:02:57] Skipping short (<200 bp) contig: 2263084487
+[20:02:57] Skipping short (<200 bp) contig: 2263084500
+[20:02:57] Skipping short (<200 bp) contig: 2263084509
+[20:02:57] Skipping short (<200 bp) contig: 2263084521
+[20:02:57] Skipping short (<200 bp) contig: 2263084522
+[20:02:57] Skipping short (<200 bp) contig: 2263084554
+[20:02:57] Skipping short (<200 bp) contig: 2263084555
+[20:02:57] Skipping short (<200 bp) contig: 2263084557
+[20:02:57] Skipping short (<200 bp) contig: 2263084592
+[20:02:57] Skipping short (<200 bp) contig: 2263084594
+[20:02:57] Skipping short (<200 bp) contig: 2263084595
+[20:02:57] Skipping short (<200 bp) contig: 2263084596
+[20:02:57] Skipping short (<200 bp) contig: 2263084597
+[20:02:57] Skipping short (<200 bp) contig: 2263084601
+[20:02:57] Skipping short (<200 bp) contig: 2263084605
+[20:02:57] Skipping short (<200 bp) contig: 2263084618
+[20:02:57] Skipping short (<200 bp) contig: 2263084625
+[20:02:57] Skipping short (<200 bp) contig: 2263084636
+[20:02:57] Skipping short (<200 bp) contig: 2263084645
+[20:02:57] Skipping short (<200 bp) contig: 2263084651
+[20:02:57] Skipping short (<200 bp) contig: 2263084652
+[20:02:57] Skipping short (<200 bp) contig: 2263084653
+[20:02:57] Skipping short (<200 bp) contig: 2263084690
+[20:02:57] Skipping short (<200 bp) contig: 2263084691
+[20:02:57] Skipping short (<200 bp) contig: 2263084696
+[20:02:57] Skipping short (<200 bp) contig: 2263084698
+[20:02:57] Skipping short (<200 bp) contig: 2263084708
+[20:02:57] Skipping short (<200 bp) contig: 2263084716
+[20:02:57] Skipping short (<200 bp) contig: 2263084734
+[20:02:57] Skipping short (<200 bp) contig: 2263084762
+[20:02:57] Skipping short (<200 bp) contig: 2263084768
+[20:02:57] Skipping short (<200 bp) contig: 2263084793
+[20:02:57] Skipping short (<200 bp) contig: 2263084842
+[20:02:57] Skipping short (<200 bp) contig: 2263084859
+[20:02:57] Skipping short (<200 bp) contig: 2263084875
+[20:02:57] Skipping short (<200 bp) contig: 2263084883
+[20:02:57] Skipping short (<200 bp) contig: 2263084893
+[20:02:57] Skipping short (<200 bp) contig: 2263084915
+[20:02:57] Skipping short (<200 bp) contig: 2263084916
+[20:02:57] Skipping short (<200 bp) contig: 2263084917
+[20:02:57] Skipping short (<200 bp) contig: 2263084918
+[20:02:57] Skipping short (<200 bp) contig: 2263084919
+[20:02:57] Skipping short (<200 bp) contig: 2263084939
+[20:02:57] Skipping short (<200 bp) contig: 2263084941
+[20:02:57] Skipping short (<200 bp) contig: 2263084951
+[20:02:57] Skipping short (<200 bp) contig: 2263084962
+[20:02:57] Skipping short (<200 bp) contig: 2263084970
+[20:02:57] Skipping short (<200 bp) contig: 2263084971
+[20:02:57] Skipping short (<200 bp) contig: 2263084972
+[20:02:57] Skipping short (<200 bp) contig: 2263084973
+[20:02:57] Skipping short (<200 bp) contig: 2263084976
+[20:02:57] Skipping short (<200 bp) contig: 2263084992
+[20:02:57] Skipping short (<200 bp) contig: 2263085003
+[20:02:57] Skipping short (<200 bp) contig: 2263085014
+[20:02:57] Skipping short (<200 bp) contig: 2263085030
+[20:02:57] Skipping short (<200 bp) contig: 2263085035
+[20:02:57] Skipping short (<200 bp) contig: 2263085055
+[20:02:57] Skipping short (<200 bp) contig: 2263085057
+[20:02:57] Skipping short (<200 bp) contig: 2263085061
+[20:02:57] Skipping short (<200 bp) contig: 2263085070
+[20:02:57] Skipping short (<200 bp) contig: 2263085077
+[20:02:57] Skipping short (<200 bp) contig: 2263085087
+[20:02:57] Skipping short (<200 bp) contig: 2263085091
+[20:02:57] Skipping short (<200 bp) contig: 2263085118
+[20:02:57] Skipping short (<200 bp) contig: 2263085122
+[20:02:57] Skipping short (<200 bp) contig: 2263085132
+[20:02:57] Skipping short (<200 bp) contig: 2263085138
+[20:02:57] Skipping short (<200 bp) contig: 2263085139
+[20:02:57] Skipping short (<200 bp) contig: 2263085152
+[20:02:57] Skipping short (<200 bp) contig: 2263085159
+[20:02:57] Skipping short (<200 bp) contig: 2263085161
+[20:02:57] Skipping short (<200 bp) contig: 2263085162
+[20:02:57] Skipping short (<200 bp) contig: 2263085163
+[20:02:57] Skipping short (<200 bp) contig: 2263085165
+[20:02:57] Skipping short (<200 bp) contig: 2263085170
+[20:02:57] Skipping short (<200 bp) contig: 2263085181
+[20:02:57] Skipping short (<200 bp) contig: 2263085191
+[20:02:57] Skipping short (<200 bp) contig: 2263085226
+[20:02:57] Skipping short (<200 bp) contig: 2263085229
+[20:02:57] Skipping short (<200 bp) contig: 2263085232
+[20:02:57] Skipping short (<200 bp) contig: 2263085273
+[20:02:57] Skipping short (<200 bp) contig: 2263085274
+[20:02:57] Skipping short (<200 bp) contig: 2263085276
+[20:02:57] Skipping short (<200 bp) contig: 2263085278
+[20:02:57] Skipping short (<200 bp) contig: 2263085283
+[20:02:57] Skipping short (<200 bp) contig: 2263085302
+[20:02:57] Skipping short (<200 bp) contig: 2263085303
+[20:02:57] Skipping short (<200 bp) contig: 2263085307
+[20:02:57] Skipping short (<200 bp) contig: 2263085320
+[20:02:57] Skipping short (<200 bp) contig: 2263085335
+[20:02:57] Skipping short (<200 bp) contig: 2263085336
+[20:02:57] Skipping short (<200 bp) contig: 2263085345
+[20:02:57] Skipping short (<200 bp) contig: 2263085354
+[20:02:57] Skipping short (<200 bp) contig: 2263085358
+[20:02:57] Skipping short (<200 bp) contig: 2263085361
+[20:02:57] Skipping short (<200 bp) contig: 2263085372
+[20:02:57] Skipping short (<200 bp) contig: 2263085373
+[20:02:57] Skipping short (<200 bp) contig: 2263085388
+[20:02:57] Skipping short (<200 bp) contig: 2263085389
+[20:02:57] Skipping short (<200 bp) contig: 2263085397
+[20:02:57] Skipping short (<200 bp) contig: 2263085399
+[20:02:57] Skipping short (<200 bp) contig: 2263085400
+[20:02:57] Skipping short (<200 bp) contig: 2263085407
+[20:02:57] Skipping short (<200 bp) contig: 2263085418
+[20:02:57] Skipping short (<200 bp) contig: 2263085420
+[20:02:57] Skipping short (<200 bp) contig: 2263085435
+[20:02:57] Skipping short (<200 bp) contig: 2263085440
+[20:02:57] Skipping short (<200 bp) contig: 2263085451
+[20:02:57] Skipping short (<200 bp) contig: 2263085456
+[20:02:57] Skipping short (<200 bp) contig: 2263085474
+[20:02:57] Skipping short (<200 bp) contig: 2263085477
+[20:02:57] Skipping short (<200 bp) contig: 2263085481
+[20:02:57] Skipping short (<200 bp) contig: 2263085488
+[20:02:57] Skipping short (<200 bp) contig: 2263085489
+[20:02:57] Skipping short (<200 bp) contig: 2263085500
+[20:02:57] Skipping short (<200 bp) contig: 2263085515
+[20:02:57] Skipping short (<200 bp) contig: 2263085526
+[20:02:57] Skipping short (<200 bp) contig: 2263085541
+[20:02:57] Skipping short (<200 bp) contig: 2263085548
+[20:02:57] Skipping short (<200 bp) contig: 2263085550
+[20:02:57] Skipping short (<200 bp) contig: 2263085562
+[20:02:57] Skipping short (<200 bp) contig: 2263085567
+[20:02:57] Skipping short (<200 bp) contig: 2263085575
+[20:02:57] Skipping short (<200 bp) contig: 2263085584
+[20:02:57] Skipping short (<200 bp) contig: 2263085587
+[20:02:57] Skipping short (<200 bp) contig: 2263085607
+[20:02:57] Skipping short (<200 bp) contig: 2263085620
+[20:02:57] Skipping short (<200 bp) contig: 2263085624
+[20:02:57] Skipping short (<200 bp) contig: 2263085631
+[20:02:57] Skipping short (<200 bp) contig: 2263085641
+[20:02:57] Skipping short (<200 bp) contig: 2263085643
+[20:02:57] Skipping short (<200 bp) contig: 2263085644
+[20:02:57] Skipping short (<200 bp) contig: 2263085645
+[20:02:57] Skipping short (<200 bp) contig: 2263085646
+[20:02:57] Skipping short (<200 bp) contig: 2263085654
+[20:02:57] Skipping short (<200 bp) contig: 2263085657
+[20:02:57] Skipping short (<200 bp) contig: 2263085660
+[20:02:57] Skipping short (<200 bp) contig: 2263085670
+[20:02:57] Skipping short (<200 bp) contig: 2263085672
+[20:02:57] Skipping short (<200 bp) contig: 2263085673
+[20:02:57] Skipping short (<200 bp) contig: 2263085676
+[20:02:57] Skipping short (<200 bp) contig: 2263085677
+[20:02:57] Skipping short (<200 bp) contig: 2263085690
+[20:02:57] Skipping short (<200 bp) contig: 2263085692
+[20:02:57] Skipping short (<200 bp) contig: 2263085696
+[20:02:57] Skipping short (<200 bp) contig: 2263085698
+[20:02:57] Skipping short (<200 bp) contig: 2263085699
+[20:02:57] Skipping short (<200 bp) contig: 2263085711
+[20:02:57] Skipping short (<200 bp) contig: 2263085716
+[20:02:57] Skipping short (<200 bp) contig: 2263085720
+[20:02:57] Skipping short (<200 bp) contig: 2263085721
+[20:02:57] Skipping short (<200 bp) contig: 2263085727
+[20:02:57] Skipping short (<200 bp) contig: 2263085732
+[20:02:57] Skipping short (<200 bp) contig: 2263085733
+[20:02:57] Skipping short (<200 bp) contig: 2263085736
+[20:02:57] Skipping short (<200 bp) contig: 2263085743
+[20:02:57] Skipping short (<200 bp) contig: 2263085750
+[20:02:57] Skipping short (<200 bp) contig: 2263085761
+[20:02:57] Skipping short (<200 bp) contig: 2263085764
+[20:02:57] Skipping short (<200 bp) contig: 2263085766
+[20:02:57] Skipping short (<200 bp) contig: 2263085767
+[20:02:57] Skipping short (<200 bp) contig: 2263085778
+[20:02:57] Skipping short (<200 bp) contig: 2263085783
+[20:02:57] Skipping short (<200 bp) contig: 2263085784
+[20:02:57] Skipping short (<200 bp) contig: 2263085785
+[20:02:57] Skipping short (<200 bp) contig: 2263085787
+[20:02:57] Skipping short (<200 bp) contig: 2263085788
+[20:02:57] Skipping short (<200 bp) contig: 2263085789
+[20:02:57] Skipping short (<200 bp) contig: 2263085792
+[20:02:57] Skipping short (<200 bp) contig: 2263085793
+[20:02:57] Skipping short (<200 bp) contig: 2263085794
+[20:02:57] Skipping short (<200 bp) contig: 2263085795
+[20:02:57] Skipping short (<200 bp) contig: 2263085797
+[20:02:57] Skipping short (<200 bp) contig: 2263085798
+[20:02:57] Skipping short (<200 bp) contig: 2263085801
+[20:02:57] Skipping short (<200 bp) contig: 2263085808
+[20:02:57] Skipping short (<200 bp) contig: 2263085809
+[20:02:57] Skipping short (<200 bp) contig: 2263085811
+[20:02:57] Skipping short (<200 bp) contig: 2263085819
+[20:02:57] Skipping short (<200 bp) contig: 2263085828
+[20:02:57] Skipping short (<200 bp) contig: 2263085830
+[20:02:57] Skipping short (<200 bp) contig: 2263085835
+[20:02:57] Skipping short (<200 bp) contig: 2263085838
+[20:02:57] Skipping short (<200 bp) contig: 2263085842
+[20:02:57] Skipping short (<200 bp) contig: 2263085847
+[20:02:57] Skipping short (<200 bp) contig: 2263085848
+[20:02:57] Skipping short (<200 bp) contig: 2263085856
+[20:02:57] Skipping short (<200 bp) contig: 2263085857
+[20:02:57] Skipping short (<200 bp) contig: 2263085858
+[20:02:57] Skipping short (<200 bp) contig: 2263085862
+[20:02:57] Skipping short (<200 bp) contig: 2263085869
+[20:02:57] Skipping short (<200 bp) contig: 2263085876
+[20:02:57] Skipping short (<200 bp) contig: 2263085877
+[20:02:57] Skipping short (<200 bp) contig: 2263085880
+[20:02:57] Skipping short (<200 bp) contig: 2263085884
+[20:02:57] Skipping short (<200 bp) contig: 2263085885
+[20:02:57] Skipping short (<200 bp) contig: 2263085886
+[20:02:57] Skipping short (<200 bp) contig: 2263085894
+[20:02:57] Skipping short (<200 bp) contig: 2263085898
+[20:02:57] Skipping short (<200 bp) contig: 2263085900
+[20:02:57] Skipping short (<200 bp) contig: 2263085902
+[20:02:57] Skipping short (<200 bp) contig: 2263085903
+[20:02:57] Skipping short (<200 bp) contig: 2263085904
+[20:02:57] Skipping short (<200 bp) contig: 2263085909
+[20:02:57] Skipping short (<200 bp) contig: 2263085910
+[20:02:57] Skipping short (<200 bp) contig: 2263085912
+[20:02:57] Skipping short (<200 bp) contig: 2263085917
+[20:02:57] Skipping short (<200 bp) contig: 2263085922
+[20:02:57] Skipping short (<200 bp) contig: 2263085925
+[20:02:57] Skipping short (<200 bp) contig: 2263085928
+[20:02:57] Skipping short (<200 bp) contig: 2263085931
+[20:02:57] Skipping short (<200 bp) contig: 2263085937
+[20:02:57] Skipping short (<200 bp) contig: 2263085938
+[20:02:57] Skipping short (<200 bp) contig: 2263085943
+[20:02:57] Skipping short (<200 bp) contig: 2263085945
+[20:02:57] Skipping short (<200 bp) contig: 2263085948
+[20:02:57] Skipping short (<200 bp) contig: 2263085951
+[20:02:57] Skipping short (<200 bp) contig: 2263085954
+[20:02:57] Skipping short (<200 bp) contig: 2263085958
+[20:02:57] Skipping short (<200 bp) contig: 2263085965
+[20:02:57] Skipping short (<200 bp) contig: 2263085967
+[20:02:57] Skipping short (<200 bp) contig: 2263085968
+[20:02:57] Skipping short (<200 bp) contig: 2263085973
+[20:02:57] Wrote 1919 contigs totalling 1443744 bp.
+[20:02:57] Predicting tRNAs and tmRNAs
+[20:02:57] Running: aragorn -l -gc11  -w Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.fna
+[20:02:58] 1 tRNA-Leu [526,628] 40 (aag)
+[20:02:58] Found 1 tRNAs
+[20:02:58] Predicting Ribosomal RNAs
+[20:02:58] Running Barrnap with 64 threads
+[20:03:04] 1 gnl|Prokka|CDCMDIPF_139 10 16S ribosomal RNA
+[20:03:04] 2 gnl|Prokka|CDCMDIPF_140 11 23S ribosomal RNA
+[20:03:04] 3 gnl|Prokka|CDCMDIPF_1539 33 23S ribosomal RNA (partial)
+[20:03:04] 4 gnl|Prokka|CDCMDIPF_1610 24 16S ribosomal RNA
+[20:03:04] 5 gnl|Prokka|CDCMDIPF_1613 2 23S ribosomal RNA (partial)
+[20:03:04] 6 gnl|Prokka|CDCMDIPF_1648 37 16S ribosomal RNA
+[20:03:04] 7 gnl|Prokka|CDCMDIPF_1753 52 23S ribosomal RNA (partial)
+[20:03:04] 8 gnl|Prokka|CDCMDIPF_1802 17 23S ribosomal RNA (partial)
+[20:03:04] 9 gnl|Prokka|CDCMDIPF_1847 3 16S ribosomal RNA (partial)
+[20:03:04] 10 gnl|Prokka|CDCMDIPF_1852 15 23S ribosomal RNA (partial)
+[20:03:04] 11 gnl|Prokka|CDCMDIPF_1883 4 23S ribosomal RNA (partial)
+[20:03:04] Found 11 rRNAs
+[20:03:04] Scanning for ncRNAs... please be patient.
+[20:03:04] Running: cmscan -Z 2.887488 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 64 --tblout /dev/stdout -o /dev/null --noali /home/ylifc/miniconda2/envs/prokka/db/cm/Bacteria Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.fna
+[20:15:26] 1 ncRNA 1 gnl|Prokka|CDCMDIPF_102 1..303
+[20:15:26] 2 ncRNA 1 gnl|Prokka|CDCMDIPF_173 12..309
+[20:15:27] Found 2 ncRNAs.
+[20:15:27] Total of 12 tRNA + rRNA features
+[20:15:27] Searching for CRISPR repeats
+[20:15:28] Found 0 CRISPRs
+[20:15:28] Predicting coding sequences
+[20:15:28] Contigs total 1443744 bp, so using single mode
+[20:15:28] Running: prodigal -i Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.fna -c -m -g 11 -p single -f sco -q
+[20:15:36] Found 1519 CDS
+[20:15:36] Connecting features back to sequences
+[20:15:36] Not using genus-specific database. Try --usegenus to enable it.
+[20:15:36] Annotating CDS, please be patient.
+[20:15:36] Will use 64 CPUs for similarity searching.
+[20:15:37] There are still 1519 unannotated CDS left (started with 1519)
+[20:15:37] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS with 64 CPUs
+[20:15:37] Running: cat Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.59614\.faa | parallel --gnu --plain -j 64 --block 3200 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.IS\.tmp\.59614\.blast 2> /dev/null
+[20:16:28] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.IS.tmp.59614.faa
+[20:16:28] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.IS.tmp.59614.blast
+[20:16:30] There are still 1504 unannotated CDS left (started with 1519)
+[20:16:30] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR with 64 CPUs
+[20:16:30] Running: cat Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.59614\.faa | parallel --gnu --plain -j 64 --block 3170 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.AMR\.tmp\.59614\.blast 2> /dev/null
+[20:17:13] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.AMR.tmp.59614.faa
+[20:17:13] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.AMR.tmp.59614.blast
+[20:17:14] There are still 1504 unannotated CDS left (started with 1519)
+[20:17:14] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot with 64 CPUs
+[20:17:14] Running: cat Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.59614\.faa | parallel --gnu --plain -j 64 --block 3170 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.sprot\.tmp\.59614\.blast 2> /dev/null
+[20:19:43] Modify product: Uncharacterized protein YisK => putative protein YisK
+[20:19:43] Modify product: Uncharacterized FAD-linked oxidoreductase Rv2280 => putative FAD-linked oxidoreductase
+[20:19:43] Modify product: Putative esterase aq_1494 => Putative esterase
+[20:19:43] Modify product: Probable UbiX-like flavin prenyltransferase => putative UbiX-like flavin prenyltransferase
+[20:19:43] Modify product: Uncharacterized protein MSMEG_2782/MSMEI_2713 => putative protein/MSMEI_2713
+[20:19:43] Modify product: Putative coenzyme F420-dependent oxidoreductase Rv3520c => Putative coenzyme F420-dependent oxidoreductase
+[20:19:43] Modify product: Protein aq_1857 => Protein
+[20:19:43] Modify product: Probable allantoin permease => putative allantoin permease
+[20:19:43] Modify product: UPF0056 inner membrane protein YhgN => hypothetical protein
+[20:19:43] Modify product: Putative peroxiredoxin Rv2521 => Putative peroxiredoxin
+[20:19:43] Modify product: Probable bifunctional transcriptional activator/DNA repair enzyme AlkA => putative bifunctional transcriptional activator/DNA repair enzyme AlkA
+[20:19:44] Modify product: Putative universal stress protein SA1532 => Putative universal stress protein
+[20:19:44] Modify product: Uncharacterized acyl-CoA thioester hydrolase HI_0827 => putative acyl-CoA thioester hydrolase
+[20:19:44] Modify product: Uncharacterized FAD-linked oxidoreductase Rv2280 => putative FAD-linked oxidoreductase
+[20:19:44] Modify product: Uncharacterized protein MG039 homolog => putative protein MG039 
+[20:19:44] Modify product: Probable glycine dehydrogenase (decarboxylating) subunit 2 => putative glycine dehydrogenase (decarboxylating) subunit 2
+[20:19:44] Modify product: Probable protein kinase UbiB => putative protein kinase UbiB
+[20:19:44] Modify product: Probable D,D-dipeptide transport system permease protein DdpB => putative D,D-dipeptide transport system permease protein DdpB
+[20:19:44] Modify product: Probable D,D-dipeptide transport system permease protein DdpC => putative D,D-dipeptide transport system permease protein DdpC
+[20:19:44] Modify product: Probable D,D-dipeptide transport ATP-binding protein DdpF => putative D,D-dipeptide transport ATP-binding protein DdpF
+[20:19:44] Modify product: Uncharacterized peptidase SA1530 => putative peptidase
+[20:19:44] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[20:19:44] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[20:19:44] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[20:19:44] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[20:19:44] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[20:19:44] Modify product: Probable endonuclease 4 => putative endonuclease 4
+[20:19:44] Modify product: Probable molybdenum cofactor guanylyltransferase => putative molybdenum cofactor guanylyltransferase
+[20:19:44] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[20:19:44] Modify product: Putative 2-hydroxyacid dehydrogenase HI_1556 => Putative 2-hydroxyacid dehydrogenase
+[20:19:44] Modify product: Uncharacterized ABC transporter ATP-binding protein YadG => putative ABC transporter ATP-binding protein YadG
+[20:19:45] Modify product: Probable allantoin permease => putative allantoin permease
+[20:19:45] Modify product: Uncharacterized FAD-linked oxidoreductase Rv2280 => putative FAD-linked oxidoreductase
+[20:19:45] Modify product: Probable molybdenum cofactor guanylyltransferase => putative molybdenum cofactor guanylyltransferase
+[20:19:45] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[20:19:45] Modify product: Probable enoyl-CoA hydratase echA8 => putative enoyl-CoA hydratase echA8
+[20:19:45] Modify product: Probable sphingosine-1-phosphate lyase => putative sphingosine-1-phosphate lyase
+[20:19:45] Modify product: Probable glycine dehydrogenase (decarboxylating) subunit 1 => putative glycine dehydrogenase (decarboxylating) subunit 1
+[20:19:45] Modify product: Uncharacterized zinc-type alcohol dehydrogenase-like protein YjmD => putative zinc-type alcohol dehydrogenase-like protein YjmD
+[20:19:45] Modify product: Protease HtpX homolog => Protease HtpX 
+[20:19:45] Modify product: Uncharacterized transporter Rv2685 => putative transporter
+[20:19:45] Modify product: Bifunctional protein Rv2228c => Bifunctional protein
+[20:19:45] Cleaned 42 /product names
+[20:19:45] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.sprot.tmp.59614.faa
+[20:19:45] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.sprot.tmp.59614.blast
+[20:19:46] There are still 1047 unannotated CDS left (started with 1519)
+[20:19:46] Will use hmmer3 to search against /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm with 64 CPUs
+[20:19:46] Running: cat Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.59614\.faa | parallel --gnu --plain -j 64 --block 2013 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm /dev/stdin > Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.HAMAP\.hmm\.tmp\.59614\.hmmer3 2> /dev/null
+[20:21:27] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[20:21:27] Cleaned 1 /product names
+[20:21:27] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.59614.faa
+[20:21:27] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.HAMAP.hmm.tmp.59614.hmmer3
+[20:21:27] Labelling remaining 880 proteins as 'hypothetical protein'
+[20:21:27] Found 460 unique /gene codes.
+[20:21:27] Fixed 2 duplicate /gene - cysA_1 cysA_2
+[20:21:27] Fixed 2 duplicate /gene - surE_1 surE_2
+[20:21:27] Fixed 2 duplicate /gene - valS_1 valS_2
+[20:21:27] Fixed 2 duplicate /gene - kynB_1 kynB_2
+[20:21:27] Fixed 5 duplicate /gene - ndhB_1 ndhB_2 ndhB_3 ndhB_4 ndhB_5
+[20:21:27] Fixed 2 duplicate /gene - metG_1 metG_2
+[20:21:27] Fixed 2 duplicate /gene - groL_1 groL_2
+[20:21:27] Fixed 3 duplicate /gene - hutU_1 hutU_2 hutU_3
+[20:21:27] Fixed 3 duplicate /gene - vgb_1 vgb_2 vgb_3
+[20:21:27] Fixed 3 duplicate /gene - gcvH_1 gcvH_2 gcvH_3
+[20:21:27] Fixed 2 duplicate /gene - ndhK_1 ndhK_2
+[20:21:27] Fixed 2 duplicate /gene - rlmE_1 rlmE_2
+[20:21:27] Fixed 4 duplicate /gene - lnrL_1 lnrL_2 lnrL_3 lnrL_4
+[20:21:27] Fixed 2 duplicate /gene - rph_1 rph_2
+[20:21:27] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[20:21:27] Fixed 2 duplicate /gene - lrp_1 lrp_2
+[20:21:27] Fixed 2 duplicate /gene - yvqK_1 yvqK_2
+[20:21:27] Fixed 2 duplicate /gene - OLA1_1 OLA1_2
+[20:21:27] Fixed 2 duplicate /gene - atpC_1 atpC_2
+[20:21:27] Fixed 2 duplicate /gene - thiI_1 thiI_2
+[20:21:27] Fixed 2 duplicate /gene - mdtD_1 mdtD_2
+[20:21:27] Fixed 2 duplicate /gene - yhdG_1 yhdG_2
+[20:21:27] Fixed 2 duplicate /gene - argH_1 argH_2
+[20:21:27] Fixed 2 duplicate /gene - pdhC_1 pdhC_2
+[20:21:27] Fixed 3 duplicate /gene - dbpA_1 dbpA_2 dbpA_3
+[20:21:27] Fixed 2 duplicate /gene - thrB_1 thrB_2
+[20:21:27] Fixed 2 duplicate /gene - apt_1 apt_2
+[20:21:27] Fixed 2 duplicate /gene - nnr_1 nnr_2
+[20:21:27] Fixed 3 duplicate /gene - bcp_1 bcp_2 bcp_3
+[20:21:27] Fixed 2 duplicate /gene - queC_1 queC_2
+[20:21:27] Fixed 4 duplicate /gene - btuD_1 btuD_2 btuD_3 btuD_4
+[20:21:27] Fixed 2 duplicate /gene - frdB_1 frdB_2
+[20:21:27] Fixed 2 duplicate /gene - hrp1_1 hrp1_2
+[20:21:27] Fixed 2 duplicate /gene - mtnA_1 mtnA_2
+[20:21:27] Fixed 2 duplicate /gene - ndhJ_1 ndhJ_2
+[20:21:27] Fixed 4 duplicate /gene - fgd_1 fgd_2 fgd_3 fgd_4
+[20:21:27] Fixed 3 duplicate /gene - cugP_1 cugP_2 cugP_3
+[20:21:27] Fixed 2 duplicate /gene - fadJ_1 fadJ_2
+[20:21:27] Fixed 4 duplicate /gene - trpB_1 trpB_2 trpB_3 trpB_4
+[20:21:27] Fixed 2 duplicate /gene - pyrG_1 pyrG_2
+[20:21:27] Fixed 3 duplicate /gene - ftsH_1 ftsH_2 ftsH_3
+[20:21:27] Fixed 2 duplicate /gene - upp_1 upp_2
+[20:21:27] Fixed 2 duplicate /gene - dapL_1 dapL_2
+[20:21:27] Fixed 2 duplicate /gene - tdh_1 tdh_2
+[20:21:27] Fixed 2 duplicate /gene - oppD_1 oppD_2
+[20:21:27] Fixed 2 duplicate /gene - tpiA_1 tpiA_2
+[20:21:27] Fixed 2 duplicate /gene - aroA_1 aroA_2
+[20:21:27] Fixed 4 duplicate /gene - ubiD_1 ubiD_2 ubiD_3 ubiD_4
+[20:21:27] Fixed 3 duplicate /gene - sufC_1 sufC_2 sufC_3
+[20:21:27] Fixed 2 duplicate /gene - prs_1 prs_2
+[20:21:27] Fixed 2 duplicate /gene - htpX_1 htpX_2
+[20:21:27] Fixed 2 duplicate /gene - glmS_1 glmS_2
+[20:21:27] Fixed 3 duplicate /gene - smc_1 smc_2 smc_3
+[20:21:27] Fixed 2 duplicate /gene - ndhC_1 ndhC_2
+[20:21:27] Fixed 2 duplicate /gene - mctP_1 mctP_2
+[20:21:27] Fixed 5 duplicate /gene - mshA_1 mshA_2 mshA_3 mshA_4 mshA_5
+[20:21:27] Fixed 2 duplicate /gene - pucI_1 pucI_2
+[20:21:27] Fixed 2 duplicate /gene - mobA_1 mobA_2
+[20:21:27] Fixed 3 duplicate /gene - COQ5_1 COQ5_2 COQ5_3
+[20:21:27] Fixed 2 duplicate /gene - clcB_1 clcB_2
+[20:21:27] Fixed 2 duplicate /gene - alaS_1 alaS_2
+[20:21:27] Fixed 2 duplicate /gene - topA_1 topA_2
+[20:21:27] Fixed 2 duplicate /gene - wbpA_1 wbpA_2
+[20:21:27] Fixed 2 duplicate /gene - vapC_1 vapC_2
+[20:21:27] Fixed 2 duplicate /gene - narX_1 narX_2
+[20:21:27] Fixed 2 duplicate /gene - guaA_1 guaA_2
+[20:21:27] Fixed 3 duplicate /gene - glmM_1 glmM_2 glmM_3
+[20:21:27] Fixed 2 duplicate /gene - frdA_1 frdA_2
+[20:21:27] Fixed 2 duplicate /gene - rnz_1 rnz_2
+[20:21:27] Fixed 2 duplicate /gene - fabG_1 fabG_2
+[20:21:27] Fixed 2 duplicate /gene - narG_1 narG_2
+[20:21:27] Fixed 2 duplicate /gene - moaA_1 moaA_2
+[20:21:27] Fixed 3 duplicate /gene - asnS_1 asnS_2 asnS_3
+[20:21:27] Fixed 2 duplicate /gene - arnC_1 arnC_2
+[20:21:27] Fixed 2 duplicate /gene - thrC_1 thrC_2
+[20:21:27] Fixed 75 colliding /gene names.
+[20:21:27] Adding /locus_tag identifiers
+[20:21:28] Assigned 1533 locus_tags to CDS and RNA features.
+[20:21:28] Writing outputs to Thaumarchaeota_archaeon_strain_BS3.fa_prokka/
+[20:21:31] Generating annotation statistics file
+[20:21:31] Generating Genbank and Sequin files
+[20:21:31] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.err -i Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.fsa 2> /dev/null
+[20:21:51] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/errorsummary.val
+[20:21:51] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.dr
+[20:21:51] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.fixedproducts
+[20:21:51] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.ecn
+[20:21:51] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.val
+[20:21:51] Repairing broken .GBK output that tbl2asn produces...
+[20:21:51] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.gbf > Thaumarchaeota_archaeon_strain_BS3\.fa_prokka\/PROKKA_10312021\.gbk
+[20:21:51] Deleting unwanted file: Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.gbf
+[20:21:51] Output files:
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.err
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.faa
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.ffn
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.fna
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.fsa
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.gbk
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.gff
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.log
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.sqn
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.tbl
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.tsv
+[20:21:51] Thaumarchaeota_archaeon_strain_BS3.fa_prokka/PROKKA_10312021.txt
+[20:21:51] Annotation finished successfully.
+[20:21:51] Walltime used: 18.98 minutes
+[20:21:51] If you use this result please cite the Prokka paper:
+[20:21:51] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[20:21:51] Type 'prokka --citation' for more details.
+[20:21:51] Share and enjoy!

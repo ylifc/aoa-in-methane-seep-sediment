@@ -1,0 +1,3063 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OPCNCHOK_00001	gene	384				
+OPCNCHOK_00001	CDS	384				hypothetical protein
+OPCNCHOK_00002	gene	915				
+OPCNCHOK_00002	CDS	915				hypothetical protein
+OPCNCHOK_00003	gene	1278	hemL_1			
+OPCNCHOK_00003	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+OPCNCHOK_00004	gene	936	hemC			
+OPCNCHOK_00004	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+OPCNCHOK_00005	gene	744	sumT			
+OPCNCHOK_00005	CDS	744	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+OPCNCHOK_00006	gene	801				
+OPCNCHOK_00006	CDS	801				hypothetical protein
+OPCNCHOK_00007	gene	1401				
+OPCNCHOK_00007	CDS	1401				hypothetical protein
+OPCNCHOK_00008	gene	1398				
+OPCNCHOK_00008	CDS	1398				hypothetical protein
+OPCNCHOK_00009	gene	309	bphA3_1			
+OPCNCHOK_00009	CDS	309	bphA3_1			Biphenyl 2,3-dioxygenase, ferredoxin component
+OPCNCHOK_00010	gene	1245	csd			
+OPCNCHOK_00010	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+OPCNCHOK_00011	gene	450	sufU			
+OPCNCHOK_00011	CDS	450	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+OPCNCHOK_00012	gene	333				
+OPCNCHOK_00012	CDS	333				hypothetical protein
+OPCNCHOK_00013	gene	1209	pgk			
+OPCNCHOK_00013	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OPCNCHOK_00014	gene	591				
+OPCNCHOK_00014	CDS	591				hypothetical protein
+OPCNCHOK_00015	gene	321				
+OPCNCHOK_00015	CDS	321				hypothetical protein
+OPCNCHOK_00016	gene	861				
+OPCNCHOK_00016	CDS	861				hypothetical protein
+OPCNCHOK_00017	gene	291				
+OPCNCHOK_00017	CDS	291				hypothetical protein
+OPCNCHOK_00018	gene	621				
+OPCNCHOK_00018	CDS	621				hypothetical protein
+OPCNCHOK_00019	gene	621	yedJ			
+OPCNCHOK_00019	CDS	621	yedJ		COG1418	putative protein YedJ
+OPCNCHOK_00020	gene	312				
+OPCNCHOK_00020	CDS	312				hypothetical protein
+OPCNCHOK_00021	gene	975	hemB			
+OPCNCHOK_00021	CDS	975	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+OPCNCHOK_00022	gene	1023				
+OPCNCHOK_00022	CDS	1023				hypothetical protein
+OPCNCHOK_00023	gene	654	cysG			
+OPCNCHOK_00023	CDS	654	cysG		COG0007	Siroheme synthase
+OPCNCHOK_00024	gene	1260	hemA_1			
+OPCNCHOK_00024	CDS	1260	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+OPCNCHOK_00025	gene	435				
+OPCNCHOK_00025	CDS	435				hypothetical protein
+OPCNCHOK_00026	gene	690	cugP_1			
+OPCNCHOK_00026	CDS	690	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OPCNCHOK_00027	gene	1278	pdxK			
+OPCNCHOK_00027	CDS	1278	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+OPCNCHOK_00028	gene	1329	bzaF			
+OPCNCHOK_00028	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+OPCNCHOK_00029	gene	405				
+OPCNCHOK_00029	CDS	405				hypothetical protein
+OPCNCHOK_00030	gene	852	tyrA			
+OPCNCHOK_00030	CDS	852	tyrA		COG0287	T-protein
+OPCNCHOK_00031	gene	1356	dapL			
+OPCNCHOK_00031	CDS	1356	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+OPCNCHOK_00032	gene	1095	aroC			
+OPCNCHOK_00032	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+OPCNCHOK_00033	gene	885	nadX			
+OPCNCHOK_00033	CDS	885	nadX	1.4.1.21		L-aspartate dehydrogenase
+OPCNCHOK_00034	gene	1263	aroA			
+OPCNCHOK_00034	CDS	1263	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OPCNCHOK_00035	gene	855	thrB_1			
+OPCNCHOK_00035	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+OPCNCHOK_00036	gene	822	aroE			
+OPCNCHOK_00036	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+OPCNCHOK_00037	gene	786				
+OPCNCHOK_00037	CDS	786				hypothetical protein
+OPCNCHOK_00038	gene	663	aroD			
+OPCNCHOK_00038	CDS	663	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+OPCNCHOK_00039	gene	1059	aroB'			
+OPCNCHOK_00039	CDS	1059	aroB'	1.4.1.24		3-dehydroquinate synthase
+OPCNCHOK_00040	gene	786	griI			
+OPCNCHOK_00040	CDS	786	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+OPCNCHOK_00041	gene	1119	mqnC			
+OPCNCHOK_00041	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+OPCNCHOK_00042	gene	1437	ubiD			
+OPCNCHOK_00042	CDS	1437	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+OPCNCHOK_00043	gene	237				
+OPCNCHOK_00043	CDS	237				hypothetical protein
+OPCNCHOK_00044	gene	378				
+OPCNCHOK_00044	CDS	378				hypothetical protein
+OPCNCHOK_00045	gene	750				
+OPCNCHOK_00045	CDS	750				hypothetical protein
+OPCNCHOK_00046	gene	231				
+OPCNCHOK_00046	CDS	231				hypothetical protein
+OPCNCHOK_00047	gene	159				
+OPCNCHOK_00047	CDS	159				hypothetical protein
+OPCNCHOK_00048	gene	555	isiB_1			
+OPCNCHOK_00048	CDS	555	isiB_1			Flavodoxin
+OPCNCHOK_00049	gene	804				
+OPCNCHOK_00049	CDS	804				hypothetical protein
+OPCNCHOK_00050	gene	231				
+OPCNCHOK_00050	CDS	231				hypothetical protein
+OPCNCHOK_00051	gene	159				
+OPCNCHOK_00051	CDS	159				hypothetical protein
+OPCNCHOK_00052	gene	555	isiB_2			
+OPCNCHOK_00052	CDS	555	isiB_2			Flavodoxin
+OPCNCHOK_00053	gene	879				
+OPCNCHOK_00053	CDS	879				hypothetical protein
+OPCNCHOK_00054	gene	459	bcp_1			
+OPCNCHOK_00054	CDS	459	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+OPCNCHOK_00055	gene	714	aqpZ_1			
+OPCNCHOK_00055	CDS	714	aqpZ_1		COG0580	Aquaporin Z
+OPCNCHOK_00056	gene	77				
+OPCNCHOK_00056	tRNA	77				tRNA-Arg(gcg)
+OPCNCHOK_00057	gene	936	nadA			
+OPCNCHOK_00057	CDS	936	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+OPCNCHOK_00058	gene	828	nadC			
+OPCNCHOK_00058	CDS	828	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OPCNCHOK_00059	gene	189				
+OPCNCHOK_00059	CDS	189				hypothetical protein
+OPCNCHOK_00060	gene	678				
+OPCNCHOK_00060	CDS	678				hypothetical protein
+OPCNCHOK_00061	gene	1086	apbC			
+OPCNCHOK_00061	CDS	1086	apbC		COG0489	Iron-sulfur cluster carrier protein
+OPCNCHOK_00062	gene	498				
+OPCNCHOK_00062	CDS	498				hypothetical protein
+OPCNCHOK_00063	gene	381				
+OPCNCHOK_00063	CDS	381				hypothetical protein
+OPCNCHOK_00064	gene	2061	hppA			
+OPCNCHOK_00064	CDS	2061	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+OPCNCHOK_00065	gene	186				
+OPCNCHOK_00065	CDS	186				hypothetical protein
+OPCNCHOK_00066	gene	1434	petE_1			
+OPCNCHOK_00066	CDS	1434	petE_1			Plastocyanin
+OPCNCHOK_00067	gene	261				
+OPCNCHOK_00067	CDS	261				hypothetical protein
+OPCNCHOK_00068	gene	453				
+OPCNCHOK_00068	CDS	453				hypothetical protein
+OPCNCHOK_00069	gene	786				
+OPCNCHOK_00069	CDS	786				hypothetical protein
+OPCNCHOK_00070	gene	882	ctaB_1			
+OPCNCHOK_00070	CDS	882	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+OPCNCHOK_00071	gene	291				
+OPCNCHOK_00071	CDS	291				hypothetical protein
+OPCNCHOK_00072	gene	2175	ftsH_1			
+OPCNCHOK_00072	CDS	2175	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OPCNCHOK_00073	gene	282				
+OPCNCHOK_00073	CDS	282				hypothetical protein
+OPCNCHOK_00074	gene	213				
+OPCNCHOK_00074	CDS	213				hypothetical protein
+OPCNCHOK_00075	gene	1143				
+OPCNCHOK_00075	CDS	1143				hypothetical protein
+OPCNCHOK_00076	gene	354				
+OPCNCHOK_00076	CDS	354				hypothetical protein
+OPCNCHOK_00077	gene	1602	vgb_1			
+OPCNCHOK_00077	CDS	1602	vgb_1	4.2.99.-		Virginiamycin B lyase
+OPCNCHOK_00078	gene	1197	truD			
+OPCNCHOK_00078	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+OPCNCHOK_00079	gene	459	msrA			
+OPCNCHOK_00079	CDS	459	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+OPCNCHOK_00080	gene	207				
+OPCNCHOK_00080	CDS	207				hypothetical protein
+OPCNCHOK_00081	gene	756				
+OPCNCHOK_00081	CDS	756				hypothetical protein
+OPCNCHOK_00082	gene	609				
+OPCNCHOK_00082	CDS	609				hypothetical protein
+OPCNCHOK_00083	gene	324				
+OPCNCHOK_00083	CDS	324				hypothetical protein
+OPCNCHOK_00084	gene	237				
+OPCNCHOK_00084	CDS	237				hypothetical protein
+OPCNCHOK_00085	gene	1038	adhT_1			
+OPCNCHOK_00085	CDS	1038	adhT_1	1.1.1.1		Alcohol dehydrogenase
+OPCNCHOK_00086	gene	234				
+OPCNCHOK_00086	CDS	234				hypothetical protein
+OPCNCHOK_00087	gene	2025				
+OPCNCHOK_00087	CDS	2025				hypothetical protein
+OPCNCHOK_00088	gene	321				
+OPCNCHOK_00088	CDS	321				hypothetical protein
+OPCNCHOK_00089	gene	285				
+OPCNCHOK_00089	CDS	285				hypothetical protein
+OPCNCHOK_00090	gene	765				
+OPCNCHOK_00090	CDS	765				hypothetical protein
+OPCNCHOK_00091	gene	507				
+OPCNCHOK_00091	CDS	507				hypothetical protein
+OPCNCHOK_00092	gene	291				
+OPCNCHOK_00092	CDS	291				hypothetical protein
+OPCNCHOK_00093	gene	237				
+OPCNCHOK_00093	CDS	237				hypothetical protein
+OPCNCHOK_00094	gene	1356	rhpA			
+OPCNCHOK_00094	CDS	1356	rhpA	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase RhpA
+OPCNCHOK_00095	gene	678				
+OPCNCHOK_00095	CDS	678				hypothetical protein
+OPCNCHOK_00096	gene	477				
+OPCNCHOK_00096	CDS	477				hypothetical protein
+OPCNCHOK_00097	gene	921	btuF			
+OPCNCHOK_00097	CDS	921	btuF			Vitamin B12-binding protein
+OPCNCHOK_00098	gene	1158				
+OPCNCHOK_00098	CDS	1158				hypothetical protein
+OPCNCHOK_00099	gene	939				
+OPCNCHOK_00099	CDS	939				hypothetical protein
+OPCNCHOK_00100	gene	1092	dinB			
+OPCNCHOK_00100	CDS	1092	dinB	2.7.7.7		DNA polymerase IV
+OPCNCHOK_00101	gene	249				
+OPCNCHOK_00101	CDS	249				hypothetical protein
+OPCNCHOK_00102	gene	519				
+OPCNCHOK_00102	CDS	519				hypothetical protein
+OPCNCHOK_00103	gene	615				
+OPCNCHOK_00103	CDS	615				hypothetical protein
+OPCNCHOK_00104	gene	711				
+OPCNCHOK_00104	CDS	711				hypothetical protein
+OPCNCHOK_00105	gene	1095	ino1			
+OPCNCHOK_00105	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+OPCNCHOK_00106	gene	3531	smc			
+OPCNCHOK_00106	CDS	3531	smc		COG1196	Chromosome partition protein Smc
+OPCNCHOK_00107	gene	876	garR			
+OPCNCHOK_00107	CDS	876	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+OPCNCHOK_00108	gene	387				
+OPCNCHOK_00108	CDS	387				hypothetical protein
+OPCNCHOK_00109	gene	213				
+OPCNCHOK_00109	CDS	213				hypothetical protein
+OPCNCHOK_00110	gene	1443	proS			
+OPCNCHOK_00110	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+OPCNCHOK_00111	gene	372				
+OPCNCHOK_00111	CDS	372				hypothetical protein
+OPCNCHOK_00112	gene	294				
+OPCNCHOK_00112	CDS	294				hypothetical protein
+OPCNCHOK_00113	gene	651	serB2			
+OPCNCHOK_00113	CDS	651	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+OPCNCHOK_00114	gene	738	fbiB_1			
+OPCNCHOK_00114	CDS	738	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+OPCNCHOK_00115	gene	921				
+OPCNCHOK_00115	CDS	921				hypothetical protein
+OPCNCHOK_00116	gene	234	tusA			
+OPCNCHOK_00116	CDS	234	tusA		COG0425	Sulfur carrier protein TusA
+OPCNCHOK_00117	gene	1008	trxB			
+OPCNCHOK_00117	CDS	1008	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+OPCNCHOK_00118	gene	795				
+OPCNCHOK_00118	CDS	795				hypothetical protein
+OPCNCHOK_00119	gene	843	thi4_1			
+OPCNCHOK_00119	CDS	843	thi4_1	2.4.2.59		Thiamine thiazole synthase
+OPCNCHOK_00120	gene	1803	sir			
+OPCNCHOK_00120	CDS	1803	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+OPCNCHOK_00121	gene	798	ttuD_1			
+OPCNCHOK_00121	CDS	798	ttuD_1		COG2897	Sulfur carrier protein TtuD
+OPCNCHOK_00122	gene	207				
+OPCNCHOK_00122	CDS	207				hypothetical protein
+OPCNCHOK_00123	gene	1107				
+OPCNCHOK_00123	CDS	1107				hypothetical protein
+OPCNCHOK_00124	gene	1272				
+OPCNCHOK_00124	CDS	1272				hypothetical protein
+OPCNCHOK_00125	gene	726				
+OPCNCHOK_00125	CDS	726				hypothetical protein
+OPCNCHOK_00126	gene	297				
+OPCNCHOK_00126	CDS	297				hypothetical protein
+OPCNCHOK_00127	gene	150				
+OPCNCHOK_00127	CDS	150				hypothetical protein
+OPCNCHOK_00128	gene	1473				
+OPCNCHOK_00128	CDS	1473				hypothetical protein
+OPCNCHOK_00129	gene	105				
+OPCNCHOK_00129	CDS	105				hypothetical protein
+OPCNCHOK_00130	gene	468	mntR			
+OPCNCHOK_00130	CDS	468	mntR			HTH-type transcriptional regulator MntR
+OPCNCHOK_00131	gene	348				
+OPCNCHOK_00131	CDS	348				hypothetical protein
+OPCNCHOK_00132	gene	504				
+OPCNCHOK_00132	CDS	504				hypothetical protein
+OPCNCHOK_00133	gene	207				
+OPCNCHOK_00133	CDS	207				hypothetical protein
+OPCNCHOK_00134	gene	168				
+OPCNCHOK_00134	CDS	168				hypothetical protein
+OPCNCHOK_00135	gene	1626				
+OPCNCHOK_00135	CDS	1626				hypothetical protein
+OPCNCHOK_00136	gene	309				
+OPCNCHOK_00136	CDS	309				hypothetical protein
+OPCNCHOK_00137	gene	2235				
+OPCNCHOK_00137	CDS	2235				hypothetical protein
+OPCNCHOK_00138	gene	2121				
+OPCNCHOK_00138	CDS	2121				hypothetical protein
+OPCNCHOK_00139	gene	3363				
+OPCNCHOK_00139	CDS	3363				hypothetical protein
+OPCNCHOK_00140	gene	225				
+OPCNCHOK_00140	CDS	225				hypothetical protein
+OPCNCHOK_00141	gene	372				
+OPCNCHOK_00141	CDS	372				hypothetical protein
+OPCNCHOK_00142	gene	117				
+OPCNCHOK_00142	CDS	117				hypothetical protein
+OPCNCHOK_00143	gene	402				
+OPCNCHOK_00143	CDS	402				hypothetical protein
+OPCNCHOK_00144	gene	654	rutE			
+OPCNCHOK_00144	CDS	654	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+OPCNCHOK_00145	gene	1314	hemL_2			
+OPCNCHOK_00145	CDS	1314	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+OPCNCHOK_00146	gene	1404				
+OPCNCHOK_00146	rRNA	1404				16S ribosomal RNA
+OPCNCHOK_00147	gene	2977				
+OPCNCHOK_00147	rRNA	2977				23S ribosomal RNA
+OPCNCHOK_00148	gene	195	cspA			
+OPCNCHOK_00148	CDS	195	cspA		COG1278	putative cold shock protein A
+OPCNCHOK_00149	gene	315				
+OPCNCHOK_00149	CDS	315				hypothetical protein
+OPCNCHOK_00150	gene	558				
+OPCNCHOK_00150	CDS	558				hypothetical protein
+OPCNCHOK_00151	gene	903				
+OPCNCHOK_00151	CDS	903				hypothetical protein
+OPCNCHOK_00152	gene	600				
+OPCNCHOK_00152	CDS	600				hypothetical protein
+OPCNCHOK_00153	gene	1518				
+OPCNCHOK_00153	CDS	1518				hypothetical protein
+OPCNCHOK_00154	gene	1002	birA			
+OPCNCHOK_00154	CDS	1002	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OPCNCHOK_00155	gene	516				
+OPCNCHOK_00155	CDS	516				hypothetical protein
+OPCNCHOK_00156	gene	723				
+OPCNCHOK_00156	CDS	723				hypothetical protein
+OPCNCHOK_00157	gene	1713				
+OPCNCHOK_00157	CDS	1713				hypothetical protein
+OPCNCHOK_00158	gene	255				
+OPCNCHOK_00158	CDS	255				hypothetical protein
+OPCNCHOK_00159	gene	174				
+OPCNCHOK_00159	CDS	174				hypothetical protein
+OPCNCHOK_00160	gene	834	dnaJ_1			
+OPCNCHOK_00160	CDS	834	dnaJ_1			Chaperone protein DnaJ
+OPCNCHOK_00161	gene	387				
+OPCNCHOK_00161	CDS	387				hypothetical protein
+OPCNCHOK_00162	gene	294				
+OPCNCHOK_00162	CDS	294		2.8.1.-	COG0607	Sulfurtransferase
+OPCNCHOK_00163	gene	270				
+OPCNCHOK_00163	CDS	270				hypothetical protein
+OPCNCHOK_00164	gene	483				
+OPCNCHOK_00164	CDS	483				hypothetical protein
+OPCNCHOK_00165	gene	660				
+OPCNCHOK_00165	CDS	660				hypothetical protein
+OPCNCHOK_00166	gene	2196	fusA			
+OPCNCHOK_00166	CDS	2196	fusA		COG0480	Elongation factor G
+OPCNCHOK_00167	gene	198				
+OPCNCHOK_00167	CDS	198				hypothetical protein
+OPCNCHOK_00168	gene	999				
+OPCNCHOK_00168	CDS	999				hypothetical protein
+OPCNCHOK_00169	gene	144				
+OPCNCHOK_00169	CDS	144				hypothetical protein
+OPCNCHOK_00170	gene	240				
+OPCNCHOK_00170	CDS	240				hypothetical protein
+OPCNCHOK_00171	gene	846	eryG			
+OPCNCHOK_00171	CDS	846	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+OPCNCHOK_00172	gene	228				
+OPCNCHOK_00172	CDS	228				hypothetical protein
+OPCNCHOK_00173	gene	1377				
+OPCNCHOK_00173	CDS	1377				hypothetical protein
+OPCNCHOK_00174	gene	438				
+OPCNCHOK_00174	CDS	438				hypothetical protein
+OPCNCHOK_00175	gene	969				
+OPCNCHOK_00175	CDS	969				hypothetical protein
+OPCNCHOK_00176	gene	288				
+OPCNCHOK_00176	CDS	288				hypothetical protein
+OPCNCHOK_00177	gene	747				
+OPCNCHOK_00177	CDS	747				hypothetical protein
+OPCNCHOK_00178	gene	333				
+OPCNCHOK_00178	CDS	333				hypothetical protein
+OPCNCHOK_00179	gene	714				
+OPCNCHOK_00179	CDS	714				hypothetical protein
+OPCNCHOK_00180	gene	465				
+OPCNCHOK_00180	CDS	465				hypothetical protein
+OPCNCHOK_00181	gene	168				
+OPCNCHOK_00181	CDS	168				hypothetical protein
+OPCNCHOK_00182	gene	1101	mqnE			
+OPCNCHOK_00182	CDS	1101	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+OPCNCHOK_00183	gene	282				
+OPCNCHOK_00183	CDS	282				hypothetical protein
+OPCNCHOK_00184	gene	966	dusB			
+OPCNCHOK_00184	CDS	966	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+OPCNCHOK_00185	gene	219				
+OPCNCHOK_00185	CDS	219				hypothetical protein
+OPCNCHOK_00186	gene	294				
+OPCNCHOK_00186	CDS	294				hypothetical protein
+OPCNCHOK_00187	gene	831	mqnD			
+OPCNCHOK_00187	CDS	831	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+OPCNCHOK_00188	gene	411	yccU			
+OPCNCHOK_00188	CDS	411	yccU		COG1832	putative protein YccU
+OPCNCHOK_00189	gene	366				
+OPCNCHOK_00189	CDS	366				hypothetical protein
+OPCNCHOK_00190	gene	1221	ychF			
+OPCNCHOK_00190	CDS	1221	ychF		COG0012	Ribosome-binding ATPase YchF
+OPCNCHOK_00191	gene	918	tuf_1			
+OPCNCHOK_00191	CDS	918	tuf_1			Elongation factor Tu
+OPCNCHOK_00192	gene	120				
+OPCNCHOK_00192	CDS	120				hypothetical protein
+OPCNCHOK_00193	gene	240				
+OPCNCHOK_00193	CDS	240				hypothetical protein
+OPCNCHOK_00194	gene	999	ilvC			
+OPCNCHOK_00194	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+OPCNCHOK_00195	gene	423	mcm			
+OPCNCHOK_00195	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+OPCNCHOK_00196	gene	918	argK			
+OPCNCHOK_00196	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+OPCNCHOK_00197	gene	1599	bhbA			
+OPCNCHOK_00197	CDS	1599	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+OPCNCHOK_00198	gene	396	epi_1			
+OPCNCHOK_00198	CDS	396	epi_1	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+OPCNCHOK_00199	gene	606	drgA			
+OPCNCHOK_00199	CDS	606	drgA			Protein DrgA
+OPCNCHOK_00200	gene	255				
+OPCNCHOK_00200	CDS	255				hypothetical protein
+OPCNCHOK_00201	gene	561				
+OPCNCHOK_00201	CDS	561				hypothetical protein
+OPCNCHOK_00202	gene	141				
+OPCNCHOK_00202	CDS	141				hypothetical protein
+OPCNCHOK_00203	gene	861	noc			
+OPCNCHOK_00203	CDS	861	noc			Nucleoid occlusion protein
+OPCNCHOK_00204	gene	267				
+OPCNCHOK_00204	CDS	267				hypothetical protein
+OPCNCHOK_00205	gene	270				
+OPCNCHOK_00205	CDS	270				hypothetical protein
+OPCNCHOK_00206	gene	2304				
+OPCNCHOK_00206	CDS	2304				hypothetical protein
+OPCNCHOK_00207	gene	2046				
+OPCNCHOK_00207	CDS	2046				hypothetical protein
+OPCNCHOK_00208	gene	495				
+OPCNCHOK_00208	CDS	495				hypothetical protein
+OPCNCHOK_00209	gene	2100	ureC			
+OPCNCHOK_00209	CDS	2100	ureC	3.5.1.5		Urease subunit alpha
+OPCNCHOK_00210	gene	293				
+OPCNCHOK_00210	misc_RNA	293				5_ureB_sRNA
+OPCNCHOK_00211	gene	303	ureA			
+OPCNCHOK_00211	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+OPCNCHOK_00212	gene	507	ureE			
+OPCNCHOK_00212	CDS	507	ureE			Urease accessory protein UreE
+OPCNCHOK_00213	gene	693	ureF			
+OPCNCHOK_00213	CDS	693	ureF		COG0830	Urease accessory protein UreF
+OPCNCHOK_00214	gene	660	ureG			
+OPCNCHOK_00214	CDS	660	ureG		COG0378	Urease accessory protein UreG
+OPCNCHOK_00215	gene	903	ureD			
+OPCNCHOK_00215	CDS	903	ureD			Urease accessory protein UreD
+OPCNCHOK_00216	gene	549				
+OPCNCHOK_00216	CDS	549				hypothetical protein
+OPCNCHOK_00217	gene	942				
+OPCNCHOK_00217	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+OPCNCHOK_00218	gene	1377				
+OPCNCHOK_00218	CDS	1377		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+OPCNCHOK_00219	gene	207				
+OPCNCHOK_00219	CDS	207				hypothetical protein
+OPCNCHOK_00220	gene	1134				
+OPCNCHOK_00220	CDS	1134				hypothetical protein
+OPCNCHOK_00221	gene	2661	ppdK			
+OPCNCHOK_00221	CDS	2661	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+OPCNCHOK_00222	gene	696	tpiA			
+OPCNCHOK_00222	CDS	696	tpiA			Triosephosphate isomerase
+OPCNCHOK_00223	gene	288				
+OPCNCHOK_00223	CDS	288			COG4095	Sugar transporter SemiSWEET
+OPCNCHOK_00224	gene	2562				
+OPCNCHOK_00224	CDS	2562				hypothetical protein
+OPCNCHOK_00225	gene	519				
+OPCNCHOK_00225	CDS	519				hypothetical protein
+OPCNCHOK_00226	gene	1503	dbpA_1			
+OPCNCHOK_00226	CDS	1503	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+OPCNCHOK_00227	gene	348				
+OPCNCHOK_00227	CDS	348				hypothetical protein
+OPCNCHOK_00228	gene	2382				
+OPCNCHOK_00228	CDS	2382				hypothetical protein
+OPCNCHOK_00229	gene	312				
+OPCNCHOK_00229	CDS	312				hypothetical protein
+OPCNCHOK_00230	gene	2496	pepN			
+OPCNCHOK_00230	CDS	2496	pepN	3.4.11.2	COG0308	Aminopeptidase N
+OPCNCHOK_00231	gene	411				
+OPCNCHOK_00231	CDS	411				hypothetical protein
+OPCNCHOK_00232	gene	942				
+OPCNCHOK_00232	CDS	942				hypothetical protein
+OPCNCHOK_00233	gene	426				
+OPCNCHOK_00233	CDS	426				hypothetical protein
+OPCNCHOK_00234	gene	1299				
+OPCNCHOK_00234	CDS	1299				hypothetical protein
+OPCNCHOK_00235	gene	399				
+OPCNCHOK_00235	CDS	399				hypothetical protein
+OPCNCHOK_00236	gene	333				
+OPCNCHOK_00236	CDS	333				hypothetical protein
+OPCNCHOK_00237	gene	336				
+OPCNCHOK_00237	CDS	336				hypothetical protein
+OPCNCHOK_00238	gene	1362				
+OPCNCHOK_00238	CDS	1362				hypothetical protein
+OPCNCHOK_00239	gene	1056	dppB			
+OPCNCHOK_00239	CDS	1056	dppB		COG0601	Dipeptide transport system permease protein DppB
+OPCNCHOK_00240	gene	1317				
+OPCNCHOK_00240	CDS	1317				hypothetical protein
+OPCNCHOK_00241	gene	228				
+OPCNCHOK_00241	CDS	228				hypothetical protein
+OPCNCHOK_00242	gene	234				
+OPCNCHOK_00242	CDS	234				hypothetical protein
+OPCNCHOK_00243	gene	600				
+OPCNCHOK_00243	CDS	600				hypothetical protein
+OPCNCHOK_00244	gene	852				
+OPCNCHOK_00244	CDS	852				hypothetical protein
+OPCNCHOK_00245	gene	273				
+OPCNCHOK_00245	CDS	273				hypothetical protein
+OPCNCHOK_00246	gene	549				
+OPCNCHOK_00246	CDS	549				hypothetical protein
+OPCNCHOK_00247	gene	1470				
+OPCNCHOK_00247	CDS	1470				hypothetical protein
+OPCNCHOK_00248	gene	360				
+OPCNCHOK_00248	CDS	360				hypothetical protein
+OPCNCHOK_00249	gene	189				
+OPCNCHOK_00249	CDS	189				hypothetical protein
+OPCNCHOK_00250	gene	582				
+OPCNCHOK_00250	CDS	582				hypothetical protein
+OPCNCHOK_00251	gene	372				
+OPCNCHOK_00251	CDS	372				hypothetical protein
+OPCNCHOK_00252	gene	378				
+OPCNCHOK_00252	CDS	378				hypothetical protein
+OPCNCHOK_00253	gene	273				
+OPCNCHOK_00253	CDS	273				hypothetical protein
+OPCNCHOK_00254	gene	813				
+OPCNCHOK_00254	CDS	813				hypothetical protein
+OPCNCHOK_00255	gene	432				
+OPCNCHOK_00255	CDS	432				hypothetical protein
+OPCNCHOK_00256	gene	1092				
+OPCNCHOK_00256	CDS	1092				hypothetical protein
+OPCNCHOK_00257	gene	108				
+OPCNCHOK_00257	CDS	108				hypothetical protein
+OPCNCHOK_00258	gene	558	vdcB			
+OPCNCHOK_00258	CDS	558	vdcB	2.5.1.129		putative UbiX-like flavin prenyltransferase
+OPCNCHOK_00259	gene	420				
+OPCNCHOK_00259	CDS	420				hypothetical protein
+OPCNCHOK_00260	gene	198	tatA_1			
+OPCNCHOK_00260	CDS	198	tatA_1			Sec-independent protein translocase protein TatA
+OPCNCHOK_00261	gene	792	tatC			
+OPCNCHOK_00261	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+OPCNCHOK_00262	gene	483				
+OPCNCHOK_00262	CDS	483				hypothetical protein
+OPCNCHOK_00263	gene	471				
+OPCNCHOK_00263	CDS	471				hypothetical protein
+OPCNCHOK_00264	gene	2160				
+OPCNCHOK_00264	CDS	2160				hypothetical protein
+OPCNCHOK_00265	gene	1416				
+OPCNCHOK_00265	CDS	1416				hypothetical protein
+OPCNCHOK_00266	gene	2460				
+OPCNCHOK_00266	CDS	2460				hypothetical protein
+OPCNCHOK_00267	gene	1767				
+OPCNCHOK_00267	CDS	1767				hypothetical protein
+OPCNCHOK_00268	gene	1404	resA_1			
+OPCNCHOK_00268	CDS	1404	resA_1			Thiol-disulfide oxidoreductase ResA
+OPCNCHOK_00269	gene	627				
+OPCNCHOK_00269	CDS	627				hypothetical protein
+OPCNCHOK_00270	gene	261	purS			
+OPCNCHOK_00270	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+OPCNCHOK_00271	gene	417	hrp1			
+OPCNCHOK_00271	CDS	417	hrp1		COG0517	Hypoxic response protein 1
+OPCNCHOK_00272	gene	681	purQ			
+OPCNCHOK_00272	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+OPCNCHOK_00273	gene	2154	purL			
+OPCNCHOK_00273	CDS	2154	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+OPCNCHOK_00274	gene	1437	purF			
+OPCNCHOK_00274	CDS	1437	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OPCNCHOK_00275	gene	249				
+OPCNCHOK_00275	CDS	249				hypothetical protein
+OPCNCHOK_00276	gene	141				
+OPCNCHOK_00276	CDS	141				hypothetical protein
+OPCNCHOK_00277	gene	381				
+OPCNCHOK_00277	CDS	381				hypothetical protein
+OPCNCHOK_00278	gene	825	purC			
+OPCNCHOK_00278	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OPCNCHOK_00279	gene	501				
+OPCNCHOK_00279	CDS	501				hypothetical protein
+OPCNCHOK_00280	gene	417				
+OPCNCHOK_00280	CDS	417				hypothetical protein
+OPCNCHOK_00281	gene	408				
+OPCNCHOK_00281	CDS	408				hypothetical protein
+OPCNCHOK_00282	gene	444				
+OPCNCHOK_00282	CDS	444				hypothetical protein
+OPCNCHOK_00283	gene	222				
+OPCNCHOK_00283	CDS	222				hypothetical protein
+OPCNCHOK_00284	gene	249				
+OPCNCHOK_00284	CDS	249				hypothetical protein
+OPCNCHOK_00285	gene	76				
+OPCNCHOK_00285	tRNA	76				tRNA-Asn(gtt)
+OPCNCHOK_00286	gene	294				
+OPCNCHOK_00286	CDS	294				hypothetical protein
+OPCNCHOK_00287	gene	558				
+OPCNCHOK_00287	CDS	558				hypothetical protein
+OPCNCHOK_00288	gene	393	rpsH			
+OPCNCHOK_00288	CDS	393	rpsH			30S ribosomal protein S8
+OPCNCHOK_00289	gene	216				
+OPCNCHOK_00289	CDS	216				hypothetical protein
+OPCNCHOK_00290	gene	522				
+OPCNCHOK_00290	CDS	522				hypothetical protein
+OPCNCHOK_00291	gene	717				
+OPCNCHOK_00291	CDS	717				hypothetical protein
+OPCNCHOK_00292	gene	486				
+OPCNCHOK_00292	CDS	486				hypothetical protein
+OPCNCHOK_00293	gene	432				
+OPCNCHOK_00293	CDS	432				hypothetical protein
+OPCNCHOK_00294	gene	330				
+OPCNCHOK_00294	CDS	330				hypothetical protein
+OPCNCHOK_00295	gene	258				
+OPCNCHOK_00295	CDS	258				hypothetical protein
+OPCNCHOK_00296	gene	204				
+OPCNCHOK_00296	CDS	204				hypothetical protein
+OPCNCHOK_00297	gene	747				
+OPCNCHOK_00297	CDS	747				hypothetical protein
+OPCNCHOK_00298	gene	459				
+OPCNCHOK_00298	CDS	459				hypothetical protein
+OPCNCHOK_00299	gene	399				
+OPCNCHOK_00299	CDS	399				hypothetical protein
+OPCNCHOK_00300	gene	267				
+OPCNCHOK_00300	CDS	267				hypothetical protein
+OPCNCHOK_00301	gene	813				
+OPCNCHOK_00301	CDS	813				hypothetical protein
+OPCNCHOK_00302	gene	996				
+OPCNCHOK_00302	CDS	996				hypothetical protein
+OPCNCHOK_00303	gene	111				
+OPCNCHOK_00303	CDS	111				hypothetical protein
+OPCNCHOK_00304	gene	819				
+OPCNCHOK_00304	CDS	819				hypothetical protein
+OPCNCHOK_00305	gene	867	prcA_1			
+OPCNCHOK_00305	CDS	867	prcA_1			Proteasome subunit alpha
+OPCNCHOK_00306	gene	333				
+OPCNCHOK_00306	CDS	333				hypothetical protein
+OPCNCHOK_00307	gene	684				
+OPCNCHOK_00307	CDS	684				hypothetical protein
+OPCNCHOK_00308	gene	1089	dipZ			
+OPCNCHOK_00308	CDS	1089	dipZ		COG0785	Protein DipZ
+OPCNCHOK_00309	gene	729	dsbD			
+OPCNCHOK_00309	CDS	729	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+OPCNCHOK_00310	gene	105				
+OPCNCHOK_00310	CDS	105				hypothetical protein
+OPCNCHOK_00311	gene	1131	bioF			
+OPCNCHOK_00311	CDS	1131	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+OPCNCHOK_00312	gene	981	bioB			
+OPCNCHOK_00312	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+OPCNCHOK_00313	gene	1326	bioK			
+OPCNCHOK_00313	CDS	1326	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+OPCNCHOK_00314	gene	699	bioD1			
+OPCNCHOK_00314	CDS	699	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+OPCNCHOK_00315	gene	543				
+OPCNCHOK_00315	CDS	543				hypothetical protein
+OPCNCHOK_00316	gene	1398	mvaS			
+OPCNCHOK_00316	CDS	1398	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+OPCNCHOK_00317	gene	810				
+OPCNCHOK_00317	CDS	810				hypothetical protein
+OPCNCHOK_00318	gene	1050				
+OPCNCHOK_00318	CDS	1050				hypothetical protein
+OPCNCHOK_00319	gene	1245				
+OPCNCHOK_00319	CDS	1245				hypothetical protein
+OPCNCHOK_00320	gene	1356				
+OPCNCHOK_00320	CDS	1356				hypothetical protein
+OPCNCHOK_00321	gene	378				
+OPCNCHOK_00321	CDS	378				hypothetical protein
+OPCNCHOK_00322	gene	312				
+OPCNCHOK_00322	CDS	312				hypothetical protein
+OPCNCHOK_00323	gene	360				
+OPCNCHOK_00323	CDS	360				hypothetical protein
+OPCNCHOK_00324	gene	552				
+OPCNCHOK_00324	CDS	552				hypothetical protein
+OPCNCHOK_00325	gene	324				
+OPCNCHOK_00325	CDS	324				hypothetical protein
+OPCNCHOK_00326	gene	1107	fadA			
+OPCNCHOK_00326	CDS	1107	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+OPCNCHOK_00327	gene	978				
+OPCNCHOK_00327	CDS	978		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+OPCNCHOK_00328	gene	687	cugP_2			
+OPCNCHOK_00328	CDS	687	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OPCNCHOK_00329	gene	531	dedA			
+OPCNCHOK_00329	CDS	531	dedA		COG0586	Protein DedA
+OPCNCHOK_00330	gene	135				
+OPCNCHOK_00330	CDS	135				hypothetical protein
+OPCNCHOK_00331	gene	396				
+OPCNCHOK_00331	CDS	396				hypothetical protein
+OPCNCHOK_00332	gene	1146	purK			
+OPCNCHOK_00332	CDS	1146	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+OPCNCHOK_00333	gene	573	purE			
+OPCNCHOK_00333	CDS	573	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OPCNCHOK_00334	gene	1209	tdcB			
+OPCNCHOK_00334	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+OPCNCHOK_00335	gene	837				
+OPCNCHOK_00335	CDS	837				hypothetical protein
+OPCNCHOK_00336	gene	819				
+OPCNCHOK_00336	CDS	819				hypothetical protein
+OPCNCHOK_00337	gene	810				
+OPCNCHOK_00337	CDS	810				hypothetical protein
+OPCNCHOK_00338	gene	150				
+OPCNCHOK_00338	CDS	150				hypothetical protein
+OPCNCHOK_00339	gene	384				
+OPCNCHOK_00339	CDS	384				hypothetical protein
+OPCNCHOK_00340	gene	180				
+OPCNCHOK_00340	CDS	180				hypothetical protein
+OPCNCHOK_00341	gene	387				
+OPCNCHOK_00341	CDS	387				hypothetical protein
+OPCNCHOK_00342	gene	420				
+OPCNCHOK_00342	CDS	420				hypothetical protein
+OPCNCHOK_00343	gene	222				
+OPCNCHOK_00343	CDS	222				hypothetical protein
+OPCNCHOK_00344	gene	240				
+OPCNCHOK_00344	CDS	240				hypothetical protein
+OPCNCHOK_00345	gene	237				
+OPCNCHOK_00345	CDS	237				hypothetical protein
+OPCNCHOK_00346	gene	75				
+OPCNCHOK_00346	tRNA	75				tRNA-Phe(gaa)
+OPCNCHOK_00347	gene	537	yvqK			
+OPCNCHOK_00347	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+OPCNCHOK_00348	gene	606				
+OPCNCHOK_00348	CDS	606				hypothetical protein
+OPCNCHOK_00349	gene	525				
+OPCNCHOK_00349	CDS	525				hypothetical protein
+OPCNCHOK_00350	gene	234				
+OPCNCHOK_00350	CDS	234				hypothetical protein
+OPCNCHOK_00351	gene	315				
+OPCNCHOK_00351	CDS	315				hypothetical protein
+OPCNCHOK_00352	gene	348				
+OPCNCHOK_00352	CDS	348				hypothetical protein
+OPCNCHOK_00353	gene	1224				
+OPCNCHOK_00353	CDS	1224				hypothetical protein
+OPCNCHOK_00354	gene	333	hisI			
+OPCNCHOK_00354	CDS	333	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+OPCNCHOK_00355	gene	888				
+OPCNCHOK_00355	CDS	888				hypothetical protein
+OPCNCHOK_00356	gene	1407	gatB			
+OPCNCHOK_00356	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+OPCNCHOK_00357	gene	1449	gatA			
+OPCNCHOK_00357	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+OPCNCHOK_00358	gene	267				
+OPCNCHOK_00358	CDS	267				hypothetical protein
+OPCNCHOK_00359	gene	1560				
+OPCNCHOK_00359	CDS	1560				hypothetical protein
+OPCNCHOK_00360	gene	2634				
+OPCNCHOK_00360	CDS	2634				hypothetical protein
+OPCNCHOK_00361	gene	1311	aspS2_1			
+OPCNCHOK_00361	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+OPCNCHOK_00362	gene	207				
+OPCNCHOK_00362	CDS	207				hypothetical protein
+OPCNCHOK_00363	gene	981				
+OPCNCHOK_00363	CDS	981				hypothetical protein
+OPCNCHOK_00364	gene	417	mhqP			
+OPCNCHOK_00364	CDS	417	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+OPCNCHOK_00365	gene	435				
+OPCNCHOK_00365	CDS	435		2.3.1.-		Acetyltransferase
+OPCNCHOK_00366	gene	381				
+OPCNCHOK_00366	CDS	381				hypothetical protein
+OPCNCHOK_00367	gene	339				
+OPCNCHOK_00367	CDS	339				hypothetical protein
+OPCNCHOK_00368	gene	213				
+OPCNCHOK_00368	CDS	213				hypothetical protein
+OPCNCHOK_00369	gene	651				
+OPCNCHOK_00369	CDS	651				hypothetical protein
+OPCNCHOK_00370	gene	1278				
+OPCNCHOK_00370	CDS	1278				hypothetical protein
+OPCNCHOK_00371	gene	402				
+OPCNCHOK_00371	CDS	402				hypothetical protein
+OPCNCHOK_00372	gene	600				
+OPCNCHOK_00372	CDS	600				hypothetical protein
+OPCNCHOK_00373	gene	1680	ilvD			
+OPCNCHOK_00373	CDS	1680	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+OPCNCHOK_00374	gene	198				
+OPCNCHOK_00374	CDS	198				hypothetical protein
+OPCNCHOK_00375	gene	1458	pabB			
+OPCNCHOK_00375	CDS	1458	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+OPCNCHOK_00376	gene	600	trpG			
+OPCNCHOK_00376	CDS	600	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+OPCNCHOK_00377	gene	1020	trpD			
+OPCNCHOK_00377	CDS	1020	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+OPCNCHOK_00378	gene	774	trpC			
+OPCNCHOK_00378	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+OPCNCHOK_00379	gene	1197	trpB			
+OPCNCHOK_00379	CDS	1197	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+OPCNCHOK_00380	gene	801	trpA			
+OPCNCHOK_00380	CDS	801	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+OPCNCHOK_00381	gene	1602	pyrG			
+OPCNCHOK_00381	CDS	1602	pyrG	6.3.4.2		CTP synthase
+OPCNCHOK_00382	gene	1020	nadK_1			
+OPCNCHOK_00382	CDS	1020	nadK_1	2.7.1.23		NAD kinase
+OPCNCHOK_00383	gene	873				
+OPCNCHOK_00383	CDS	873				hypothetical protein
+OPCNCHOK_00384	gene	120				
+OPCNCHOK_00384	CDS	120				hypothetical protein
+OPCNCHOK_00385	gene	291				
+OPCNCHOK_00385	CDS	291				hypothetical protein
+OPCNCHOK_00386	gene	567				
+OPCNCHOK_00386	CDS	567		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+OPCNCHOK_00387	gene	867	speB			
+OPCNCHOK_00387	CDS	867	speB	3.5.3.11	COG0010	Agmatinase
+OPCNCHOK_00388	gene	1851				
+OPCNCHOK_00388	CDS	1851				hypothetical protein
+OPCNCHOK_00389	gene	189				
+OPCNCHOK_00389	CDS	189				hypothetical protein
+OPCNCHOK_00390	gene	249				
+OPCNCHOK_00390	CDS	249				hypothetical protein
+OPCNCHOK_00391	gene	348				
+OPCNCHOK_00391	CDS	348				hypothetical protein
+OPCNCHOK_00392	gene	402				
+OPCNCHOK_00392	CDS	402				hypothetical protein
+OPCNCHOK_00393	gene	1107				
+OPCNCHOK_00393	CDS	1107		2.5.-.-		Deoxyhypusine synthase-like protein
+OPCNCHOK_00394	gene	315				
+OPCNCHOK_00394	CDS	315				hypothetical protein
+OPCNCHOK_00395	gene	213				
+OPCNCHOK_00395	CDS	213				hypothetical protein
+OPCNCHOK_00396	gene	300				
+OPCNCHOK_00396	CDS	300				hypothetical protein
+OPCNCHOK_00397	gene	387				
+OPCNCHOK_00397	CDS	387				hypothetical protein
+OPCNCHOK_00398	gene	546				
+OPCNCHOK_00398	CDS	546				hypothetical protein
+OPCNCHOK_00399	gene	300				
+OPCNCHOK_00399	CDS	300				hypothetical protein
+OPCNCHOK_00400	gene	417				
+OPCNCHOK_00400	CDS	417				hypothetical protein
+OPCNCHOK_00401	gene	948				
+OPCNCHOK_00401	CDS	948				hypothetical protein
+OPCNCHOK_00402	gene	168				
+OPCNCHOK_00402	CDS	168				hypothetical protein
+OPCNCHOK_00403	gene	1095				
+OPCNCHOK_00403	CDS	1095				hypothetical protein
+OPCNCHOK_00404	gene	885	menA			
+OPCNCHOK_00404	CDS	885	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+OPCNCHOK_00405	gene	402				
+OPCNCHOK_00405	CDS	402				hypothetical protein
+OPCNCHOK_00406	gene	285				
+OPCNCHOK_00406	CDS	285				hypothetical protein
+OPCNCHOK_00407	gene	276	ppiC			
+OPCNCHOK_00407	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+OPCNCHOK_00408	gene	159				
+OPCNCHOK_00408	CDS	159				hypothetical protein
+OPCNCHOK_00409	gene	759				
+OPCNCHOK_00409	CDS	759				hypothetical protein
+OPCNCHOK_00410	gene	1650	metG_1			
+OPCNCHOK_00410	CDS	1650	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+OPCNCHOK_00411	gene	1239	ahcY			
+OPCNCHOK_00411	CDS	1239	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+OPCNCHOK_00412	gene	306	bphF			
+OPCNCHOK_00412	CDS	306	bphF		COG2146	Biphenyl dioxygenase system ferredoxin subunit
+OPCNCHOK_00413	gene	783	nadE			
+OPCNCHOK_00413	CDS	783	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+OPCNCHOK_00414	gene	1395	cysS			
+OPCNCHOK_00414	CDS	1395	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+OPCNCHOK_00415	gene	432				
+OPCNCHOK_00415	CDS	432				hypothetical protein
+OPCNCHOK_00416	gene	282				
+OPCNCHOK_00416	CDS	282				hypothetical protein
+OPCNCHOK_00417	gene	1023				
+OPCNCHOK_00417	CDS	1023				hypothetical protein
+OPCNCHOK_00418	gene	240				
+OPCNCHOK_00418	CDS	240				hypothetical protein
+OPCNCHOK_00419	gene	177				
+OPCNCHOK_00419	CDS	177				hypothetical protein
+OPCNCHOK_00420	gene	1923	acsA			
+OPCNCHOK_00420	CDS	1923	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+OPCNCHOK_00421	gene	807				
+OPCNCHOK_00421	CDS	807				hypothetical protein
+OPCNCHOK_00422	gene	312				
+OPCNCHOK_00422	CDS	312				hypothetical protein
+OPCNCHOK_00423	gene	1611	thyX			
+OPCNCHOK_00423	CDS	1611	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+OPCNCHOK_00424	gene	399	msrB			
+OPCNCHOK_00424	CDS	399	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+OPCNCHOK_00425	gene	1011				
+OPCNCHOK_00425	CDS	1011				hypothetical protein
+OPCNCHOK_00426	gene	471				
+OPCNCHOK_00426	CDS	471				hypothetical protein
+OPCNCHOK_00427	gene	594	prcB_1			
+OPCNCHOK_00427	CDS	594	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+OPCNCHOK_00428	gene	432				
+OPCNCHOK_00428	CDS	432				hypothetical protein
+OPCNCHOK_00429	gene	1362	dapE			
+OPCNCHOK_00429	CDS	1362	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+OPCNCHOK_00430	gene	858	nnr_1			
+OPCNCHOK_00430	CDS	858	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OPCNCHOK_00431	gene	801	trmI			
+OPCNCHOK_00431	CDS	801	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+OPCNCHOK_00432	gene	681	queE			
+OPCNCHOK_00432	CDS	681	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+OPCNCHOK_00433	gene	369				
+OPCNCHOK_00433	CDS	369				hypothetical protein
+OPCNCHOK_00434	gene	282				
+OPCNCHOK_00434	CDS	282				hypothetical protein
+OPCNCHOK_00435	gene	183				
+OPCNCHOK_00435	CDS	183				hypothetical protein
+OPCNCHOK_00436	gene	816	cpoB			
+OPCNCHOK_00436	CDS	816	cpoB			Cell division coordinator CpoB
+OPCNCHOK_00437	gene	705				
+OPCNCHOK_00437	CDS	705				hypothetical protein
+OPCNCHOK_00438	gene	465				
+OPCNCHOK_00438	CDS	465				hypothetical protein
+OPCNCHOK_00439	gene	360				
+OPCNCHOK_00439	CDS	360				hypothetical protein
+OPCNCHOK_00440	gene	687	dnaJ_2			
+OPCNCHOK_00440	CDS	687	dnaJ_2			Chaperone protein DnaJ
+OPCNCHOK_00441	gene	411	hit			
+OPCNCHOK_00441	CDS	411	hit		COG0537	Protein hit
+OPCNCHOK_00442	gene	285				
+OPCNCHOK_00442	CDS	285				hypothetical protein
+OPCNCHOK_00443	gene	186				
+OPCNCHOK_00443	CDS	186				hypothetical protein
+OPCNCHOK_00444	gene	1140	fadB			
+OPCNCHOK_00444	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+OPCNCHOK_00445	gene	510				
+OPCNCHOK_00445	CDS	510				hypothetical protein
+OPCNCHOK_00446	gene	132				
+OPCNCHOK_00446	CDS	132				hypothetical protein
+OPCNCHOK_00447	gene	294				
+OPCNCHOK_00447	CDS	294				hypothetical protein
+OPCNCHOK_00448	gene	189				
+OPCNCHOK_00448	CDS	189				hypothetical protein
+OPCNCHOK_00449	gene	309	rpsJ			
+OPCNCHOK_00449	CDS	309	rpsJ			30S ribosomal protein S10
+OPCNCHOK_00450	gene	1299	tuf_2			
+OPCNCHOK_00450	CDS	1299	tuf_2		COG0050	Elongation factor Tu
+OPCNCHOK_00451	gene	1137	fbp			
+OPCNCHOK_00451	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+OPCNCHOK_00452	gene	429				
+OPCNCHOK_00452	CDS	429				hypothetical protein
+OPCNCHOK_00453	gene	1758	lig			
+OPCNCHOK_00453	CDS	1758	lig	6.5.1.1		DNA ligase
+OPCNCHOK_00454	gene	651				
+OPCNCHOK_00454	CDS	651				hypothetical protein
+OPCNCHOK_00455	gene	588				
+OPCNCHOK_00455	CDS	588				hypothetical protein
+OPCNCHOK_00456	gene	372				
+OPCNCHOK_00456	CDS	372				hypothetical protein
+OPCNCHOK_00457	gene	237				
+OPCNCHOK_00457	CDS	237				hypothetical protein
+OPCNCHOK_00458	gene	1749				
+OPCNCHOK_00458	CDS	1749				hypothetical protein
+OPCNCHOK_00459	gene	462				
+OPCNCHOK_00459	CDS	462				hypothetical protein
+OPCNCHOK_00460	gene	759	yfcA			
+OPCNCHOK_00460	CDS	759	yfcA		COG0730	putative membrane transporter protein YfcA
+OPCNCHOK_00461	gene	243				
+OPCNCHOK_00461	CDS	243				hypothetical protein
+OPCNCHOK_00462	gene	813				
+OPCNCHOK_00462	CDS	813			COG2968	26 kDa periplasmic immunogenic protein
+OPCNCHOK_00463	gene	714				
+OPCNCHOK_00463	CDS	714				hypothetical protein
+OPCNCHOK_00464	gene	1887	argS			
+OPCNCHOK_00464	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+OPCNCHOK_00465	gene	696				
+OPCNCHOK_00465	CDS	696				hypothetical protein
+OPCNCHOK_00466	gene	1104	obg			
+OPCNCHOK_00466	CDS	1104	obg	3.6.5.-		GTPase Obg
+OPCNCHOK_00467	gene	567				
+OPCNCHOK_00467	CDS	567		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+OPCNCHOK_00468	gene	666				
+OPCNCHOK_00468	CDS	666				hypothetical protein
+OPCNCHOK_00469	gene	375				
+OPCNCHOK_00469	CDS	375				hypothetical protein
+OPCNCHOK_00470	gene	153				
+OPCNCHOK_00470	CDS	153				hypothetical protein
+OPCNCHOK_00471	gene	750	cmoA_1			
+OPCNCHOK_00471	CDS	750	cmoA_1	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+OPCNCHOK_00472	gene	189				
+OPCNCHOK_00472	CDS	189				hypothetical protein
+OPCNCHOK_00473	gene	936	oppD			
+OPCNCHOK_00473	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+OPCNCHOK_00474	gene	1287	aspS2_2			
+OPCNCHOK_00474	CDS	1287	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+OPCNCHOK_00475	gene	120				
+OPCNCHOK_00475	CDS	120				hypothetical protein
+OPCNCHOK_00476	gene	1014	hicd_1			
+OPCNCHOK_00476	CDS	1014	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+OPCNCHOK_00477	gene	1515	leuA_1			
+OPCNCHOK_00477	CDS	1515	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+OPCNCHOK_00478	gene	492	ilvH			
+OPCNCHOK_00478	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+OPCNCHOK_00479	gene	1692	ilvB			
+OPCNCHOK_00479	CDS	1692	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+OPCNCHOK_00480	gene	405				
+OPCNCHOK_00480	CDS	405				hypothetical protein
+OPCNCHOK_00481	gene	924	lsrF			
+OPCNCHOK_00481	CDS	924	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+OPCNCHOK_00482	gene	1029	gutB			
+OPCNCHOK_00482	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+OPCNCHOK_00483	gene	297	atpF			
+OPCNCHOK_00483	CDS	297	atpF			V-type ATP synthase subunit F
+OPCNCHOK_00484	gene	195				
+OPCNCHOK_00484	CDS	195				hypothetical protein
+OPCNCHOK_00485	gene	561				
+OPCNCHOK_00485	CDS	561				hypothetical protein
+OPCNCHOK_00486	gene	1134				
+OPCNCHOK_00486	CDS	1134				hypothetical protein
+OPCNCHOK_00487	gene	303				
+OPCNCHOK_00487	CDS	303				hypothetical protein
+OPCNCHOK_00488	gene	303				
+OPCNCHOK_00488	CDS	303				hypothetical protein
+OPCNCHOK_00489	gene	750				
+OPCNCHOK_00489	CDS	750				hypothetical protein
+OPCNCHOK_00490	gene	3243	carB			
+OPCNCHOK_00490	CDS	3243	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+OPCNCHOK_00491	gene	1065	carA			
+OPCNCHOK_00491	CDS	1065	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+OPCNCHOK_00492	gene	1206	ftsH_2			
+OPCNCHOK_00492	CDS	1206	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OPCNCHOK_00493	gene	459				
+OPCNCHOK_00493	CDS	459				hypothetical protein
+OPCNCHOK_00494	gene	555				
+OPCNCHOK_00494	CDS	555				hypothetical protein
+OPCNCHOK_00495	gene	996				
+OPCNCHOK_00495	CDS	996				hypothetical protein
+OPCNCHOK_00496	gene	291				
+OPCNCHOK_00496	CDS	291				hypothetical protein
+OPCNCHOK_00497	gene	1164	citZ			
+OPCNCHOK_00497	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+OPCNCHOK_00498	gene	177				
+OPCNCHOK_00498	CDS	177				hypothetical protein
+OPCNCHOK_00499	gene	441				
+OPCNCHOK_00499	CDS	441				hypothetical protein
+OPCNCHOK_00500	gene	1284				
+OPCNCHOK_00500	CDS	1284		2.7.1.165	COG2379	D-glycerate 2-kinase
+OPCNCHOK_00501	gene	945				
+OPCNCHOK_00501	CDS	945				hypothetical protein
+OPCNCHOK_00502	gene	1086				
+OPCNCHOK_00502	CDS	1086		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+OPCNCHOK_00503	gene	633				
+OPCNCHOK_00503	CDS	633				hypothetical protein
+OPCNCHOK_00504	gene	894				
+OPCNCHOK_00504	CDS	894				hypothetical protein
+OPCNCHOK_00505	gene	1941	uvrB			
+OPCNCHOK_00505	CDS	1941	uvrB			UvrABC system protein B
+OPCNCHOK_00506	gene	2817	uvrA			
+OPCNCHOK_00506	CDS	2817	uvrA			UvrABC system protein A
+OPCNCHOK_00507	gene	1581	uvrC			
+OPCNCHOK_00507	CDS	1581	uvrC		COG0322	UvrABC system protein C
+OPCNCHOK_00508	gene	978				
+OPCNCHOK_00508	CDS	978				hypothetical protein
+OPCNCHOK_00509	gene	579	purN			
+OPCNCHOK_00509	CDS	579	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+OPCNCHOK_00510	gene	321				
+OPCNCHOK_00510	CDS	321				hypothetical protein
+OPCNCHOK_00511	gene	285				
+OPCNCHOK_00511	CDS	285				hypothetical protein
+OPCNCHOK_00512	gene	864	folD			
+OPCNCHOK_00512	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+OPCNCHOK_00513	gene	561				
+OPCNCHOK_00513	CDS	561				hypothetical protein
+OPCNCHOK_00514	gene	1263	purD			
+OPCNCHOK_00514	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OPCNCHOK_00515	gene	3201	ileS			
+OPCNCHOK_00515	CDS	3201	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+OPCNCHOK_00516	gene	330				
+OPCNCHOK_00516	CDS	330				hypothetical protein
+OPCNCHOK_00517	gene	1107	sucC			
+OPCNCHOK_00517	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+OPCNCHOK_00518	gene	915	sucD			
+OPCNCHOK_00518	CDS	915	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+OPCNCHOK_00519	gene	168				
+OPCNCHOK_00519	CDS	168				hypothetical protein
+OPCNCHOK_00520	gene	1107				
+OPCNCHOK_00520	CDS	1107				hypothetical protein
+OPCNCHOK_00521	gene	1251				
+OPCNCHOK_00521	CDS	1251				hypothetical protein
+OPCNCHOK_00522	gene	465				
+OPCNCHOK_00522	CDS	465		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+OPCNCHOK_00523	gene	174				
+OPCNCHOK_00523	CDS	174				hypothetical protein
+OPCNCHOK_00524	gene	279				
+OPCNCHOK_00524	CDS	279				hypothetical protein
+OPCNCHOK_00525	gene	318				
+OPCNCHOK_00525	CDS	318				hypothetical protein
+OPCNCHOK_00526	gene	762				
+OPCNCHOK_00526	CDS	762				hypothetical protein
+OPCNCHOK_00527	gene	77				
+OPCNCHOK_00527	tRNA	77				tRNA-Val(cac)
+OPCNCHOK_00528	gene	1770	pepF1			
+OPCNCHOK_00528	CDS	1770	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+OPCNCHOK_00529	gene	1308				
+OPCNCHOK_00529	CDS	1308				hypothetical protein
+OPCNCHOK_00530	gene	552	pdaD			
+OPCNCHOK_00530	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+OPCNCHOK_00531	gene	468	bcp_2			
+OPCNCHOK_00531	CDS	468	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+OPCNCHOK_00532	gene	549				
+OPCNCHOK_00532	CDS	549				hypothetical protein
+OPCNCHOK_00533	gene	249				
+OPCNCHOK_00533	CDS	249				hypothetical protein
+OPCNCHOK_00534	gene	375				
+OPCNCHOK_00534	CDS	375				hypothetical protein
+OPCNCHOK_00535	gene	75				
+OPCNCHOK_00535	tRNA	75				tRNA-Thr(tgt)
+OPCNCHOK_00536	gene	372				
+OPCNCHOK_00536	CDS	372				hypothetical protein
+OPCNCHOK_00537	gene	1062	rlmN			
+OPCNCHOK_00537	CDS	1062	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+OPCNCHOK_00538	gene	462				
+OPCNCHOK_00538	CDS	462				hypothetical protein
+OPCNCHOK_00539	gene	390				
+OPCNCHOK_00539	CDS	390				hypothetical protein
+OPCNCHOK_00540	gene	510				
+OPCNCHOK_00540	CDS	510				hypothetical protein
+OPCNCHOK_00541	gene	1038				
+OPCNCHOK_00541	CDS	1038				hypothetical protein
+OPCNCHOK_00542	gene	987				
+OPCNCHOK_00542	CDS	987				hypothetical protein
+OPCNCHOK_00543	gene	630				
+OPCNCHOK_00543	CDS	630				hypothetical protein
+OPCNCHOK_00544	gene	165				
+OPCNCHOK_00544	CDS	165				hypothetical protein
+OPCNCHOK_00545	gene	246				
+OPCNCHOK_00545	CDS	246				hypothetical protein
+OPCNCHOK_00546	gene	483				
+OPCNCHOK_00546	CDS	483				hypothetical protein
+OPCNCHOK_00547	gene	213				
+OPCNCHOK_00547	CDS	213				hypothetical protein
+OPCNCHOK_00548	gene	1077				
+OPCNCHOK_00548	CDS	1077				hypothetical protein
+OPCNCHOK_00549	gene	303				
+OPCNCHOK_00549	CDS	303				hypothetical protein
+OPCNCHOK_00550	gene	408	arsC2			
+OPCNCHOK_00550	CDS	408	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+OPCNCHOK_00551	gene	687	aqpZ_2			
+OPCNCHOK_00551	CDS	687	aqpZ_2		COG0580	Aquaporin Z
+OPCNCHOK_00552	gene	180				
+OPCNCHOK_00552	CDS	180				hypothetical protein
+OPCNCHOK_00553	gene	1092				
+OPCNCHOK_00553	CDS	1092		1.-.-.-	COG0492	Putative flavoprotein monooxygenase
+OPCNCHOK_00554	gene	804				
+OPCNCHOK_00554	CDS	804				hypothetical protein
+OPCNCHOK_00555	gene	1635	der			
+OPCNCHOK_00555	CDS	1635	der			GTPase Der
+OPCNCHOK_00556	gene	243				
+OPCNCHOK_00556	CDS	243				hypothetical protein
+OPCNCHOK_00557	gene	177				
+OPCNCHOK_00557	CDS	177				hypothetical protein
+OPCNCHOK_00558	gene	1485				
+OPCNCHOK_00558	CDS	1485				hypothetical protein
+OPCNCHOK_00559	gene	951				
+OPCNCHOK_00559	CDS	951				hypothetical protein
+OPCNCHOK_00560	gene	873				
+OPCNCHOK_00560	CDS	873				hypothetical protein
+OPCNCHOK_00561	gene	1014				
+OPCNCHOK_00561	CDS	1014				hypothetical protein
+OPCNCHOK_00562	gene	489				
+OPCNCHOK_00562	CDS	489				hypothetical protein
+OPCNCHOK_00563	gene	1302	egtB			
+OPCNCHOK_00563	CDS	1302	egtB	1.14.99.50		Hercynine oxygenase
+OPCNCHOK_00564	gene	1026	egtD			
+OPCNCHOK_00564	CDS	1026	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+OPCNCHOK_00565	gene	831	oppF			
+OPCNCHOK_00565	CDS	831	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+OPCNCHOK_00566	gene	144				
+OPCNCHOK_00566	CDS	144				hypothetical protein
+OPCNCHOK_00567	gene	1209	thi4_2			
+OPCNCHOK_00567	CDS	1209	thi4_2	2.4.2.59		Thiamine thiazole synthase
+OPCNCHOK_00568	gene	2346	potE			
+OPCNCHOK_00568	CDS	2346	potE			Putrescine transporter PotE
+OPCNCHOK_00569	gene	280				
+OPCNCHOK_00569	misc_RNA	280				RNaseP_arch
+OPCNCHOK_00570	gene	1374				
+OPCNCHOK_00570	CDS	1374				hypothetical protein
+OPCNCHOK_00571	gene	921	fbiA			
+OPCNCHOK_00571	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+OPCNCHOK_00572	gene	633	fbiD			
+OPCNCHOK_00572	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+OPCNCHOK_00573	gene	993				
+OPCNCHOK_00573	CDS	993				hypothetical protein
+OPCNCHOK_00574	gene	309				
+OPCNCHOK_00574	CDS	309				hypothetical protein
+OPCNCHOK_00575	gene	321				
+OPCNCHOK_00575	CDS	321				hypothetical protein
+OPCNCHOK_00576	gene	168				
+OPCNCHOK_00576	CDS	168				hypothetical protein
+OPCNCHOK_00577	gene	1743				
+OPCNCHOK_00577	CDS	1743				hypothetical protein
+OPCNCHOK_00578	gene	630				
+OPCNCHOK_00578	CDS	630				hypothetical protein
+OPCNCHOK_00579	gene	2460				
+OPCNCHOK_00579	CDS	2460				hypothetical protein
+OPCNCHOK_00580	gene	624	tam			
+OPCNCHOK_00580	CDS	624	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+OPCNCHOK_00581	gene	495				
+OPCNCHOK_00581	CDS	495				hypothetical protein
+OPCNCHOK_00582	gene	3489				
+OPCNCHOK_00582	CDS	3489				hypothetical protein
+OPCNCHOK_00583	gene	300				
+OPCNCHOK_00583	CDS	300				hypothetical protein
+OPCNCHOK_00584	gene	76				
+OPCNCHOK_00584	tRNA	76				tRNA-Pro(tgg)
+OPCNCHOK_00585	gene	894				
+OPCNCHOK_00585	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+OPCNCHOK_00586	gene	180				
+OPCNCHOK_00586	CDS	180				hypothetical protein
+OPCNCHOK_00587	gene	1125				
+OPCNCHOK_00587	CDS	1125				hypothetical protein
+OPCNCHOK_00588	gene	561				
+OPCNCHOK_00588	CDS	561				hypothetical protein
+OPCNCHOK_00589	gene	327	metG_2			
+OPCNCHOK_00589	CDS	327	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+OPCNCHOK_00590	gene	417				
+OPCNCHOK_00590	CDS	417				hypothetical protein
+OPCNCHOK_00591	gene	1212	arnC_1			
+OPCNCHOK_00591	CDS	1212	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OPCNCHOK_00592	gene	1131				
+OPCNCHOK_00592	CDS	1131				hypothetical protein
+OPCNCHOK_00593	gene	1164	fbiC_1			
+OPCNCHOK_00593	CDS	1164	fbiC_1		COG1060	FO synthase
+OPCNCHOK_00594	gene	1269	fbiC_2			
+OPCNCHOK_00594	CDS	1269	fbiC_2		COG1060	FO synthase
+OPCNCHOK_00595	gene	963	yrbG			
+OPCNCHOK_00595	CDS	963	yrbG		COG0530	Inner membrane protein YrbG
+OPCNCHOK_00596	gene	348				
+OPCNCHOK_00596	CDS	348				hypothetical protein
+OPCNCHOK_00597	gene	729				
+OPCNCHOK_00597	CDS	729				hypothetical protein
+OPCNCHOK_00598	gene	1023	purM			
+OPCNCHOK_00598	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+OPCNCHOK_00599	gene	1218	gerN_1			
+OPCNCHOK_00599	CDS	1218	gerN_1		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+OPCNCHOK_00600	gene	450				
+OPCNCHOK_00600	CDS	450				hypothetical protein
+OPCNCHOK_00601	gene	1581				
+OPCNCHOK_00601	CDS	1581		2.3.1.-		tRNA uridine(34) acetyltransferase
+OPCNCHOK_00602	gene	1590	lysS			
+OPCNCHOK_00602	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+OPCNCHOK_00603	gene	198				
+OPCNCHOK_00603	CDS	198				hypothetical protein
+OPCNCHOK_00604	gene	684				
+OPCNCHOK_00604	CDS	684				hypothetical protein
+OPCNCHOK_00605	gene	441				
+OPCNCHOK_00605	CDS	441				hypothetical protein
+OPCNCHOK_00606	gene	99				
+OPCNCHOK_00606	CDS	99				hypothetical protein
+OPCNCHOK_00607	gene	144				
+OPCNCHOK_00607	CDS	144				hypothetical protein
+OPCNCHOK_00608	gene	837				
+OPCNCHOK_00608	CDS	837				hypothetical protein
+OPCNCHOK_00609	gene	1527				
+OPCNCHOK_00609	CDS	1527				hypothetical protein
+OPCNCHOK_00610	gene	1137	cpdA_1			
+OPCNCHOK_00610	CDS	1137	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+OPCNCHOK_00611	gene	2082	recF			
+OPCNCHOK_00611	CDS	2082	recF			DNA replication and repair protein RecF
+OPCNCHOK_00612	gene	489				
+OPCNCHOK_00612	CDS	489				hypothetical protein
+OPCNCHOK_00613	gene	657				
+OPCNCHOK_00613	CDS	657				hypothetical protein
+OPCNCHOK_00614	gene	780				
+OPCNCHOK_00614	CDS	780				hypothetical protein
+OPCNCHOK_00615	gene	468				
+OPCNCHOK_00615	CDS	468				hypothetical protein
+OPCNCHOK_00616	gene	666				
+OPCNCHOK_00616	CDS	666				hypothetical protein
+OPCNCHOK_00617	gene	798				
+OPCNCHOK_00617	CDS	798				hypothetical protein
+OPCNCHOK_00618	gene	933				
+OPCNCHOK_00618	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+OPCNCHOK_00619	gene	1422				
+OPCNCHOK_00619	CDS	1422				hypothetical protein
+OPCNCHOK_00620	gene	1407	aspA			
+OPCNCHOK_00620	CDS	1407	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+OPCNCHOK_00621	gene	1269	miaB			
+OPCNCHOK_00621	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OPCNCHOK_00622	gene	945	ftsZ			
+OPCNCHOK_00622	CDS	945	ftsZ			Cell division protein FtsZ
+OPCNCHOK_00623	gene	588				
+OPCNCHOK_00623	CDS	588				hypothetical protein
+OPCNCHOK_00624	gene	159				
+OPCNCHOK_00624	CDS	159				hypothetical protein
+OPCNCHOK_00625	gene	2502	metH_1			
+OPCNCHOK_00625	CDS	2502	metH_1	2.1.1.13	COG0646	Methionine synthase
+OPCNCHOK_00626	gene	951	metH_2			
+OPCNCHOK_00626	CDS	951	metH_2	2.1.1.13	COG0646	Methionine synthase
+OPCNCHOK_00627	gene	735				
+OPCNCHOK_00627	CDS	735				hypothetical protein
+OPCNCHOK_00628	gene	1461				
+OPCNCHOK_00628	CDS	1461				hypothetical protein
+OPCNCHOK_00629	gene	546	nudL			
+OPCNCHOK_00629	CDS	546	nudL	3.6.1.-		putative Nudix hydrolase NudL
+OPCNCHOK_00630	gene	1128				
+OPCNCHOK_00630	CDS	1128				hypothetical protein
+OPCNCHOK_00631	gene	759	ssuC			
+OPCNCHOK_00631	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+OPCNCHOK_00632	gene	756	cmpD			
+OPCNCHOK_00632	CDS	756	cmpD	3.6.3.-	COG1116	Bicarbonate transport ATP-binding protein CmpD
+OPCNCHOK_00633	gene	1032				
+OPCNCHOK_00633	CDS	1032				hypothetical protein
+OPCNCHOK_00634	gene	1176	argG			
+OPCNCHOK_00634	CDS	1176	argG	6.3.4.5		Argininosuccinate synthase
+OPCNCHOK_00635	gene	168				
+OPCNCHOK_00635	CDS	168				hypothetical protein
+OPCNCHOK_00636	gene	855	lysX_1			
+OPCNCHOK_00636	CDS	855	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+OPCNCHOK_00637	gene	1047	lysY			
+OPCNCHOK_00637	CDS	1047	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+OPCNCHOK_00638	gene	801	lysZ			
+OPCNCHOK_00638	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+OPCNCHOK_00639	gene	1182	lysJ			
+OPCNCHOK_00639	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+OPCNCHOK_00640	gene	420				
+OPCNCHOK_00640	CDS	420				hypothetical protein
+OPCNCHOK_00641	gene	1182	leuA_2			
+OPCNCHOK_00641	CDS	1182	leuA_2	2.3.3.13		2-isopropylmalate synthase
+OPCNCHOK_00642	gene	168				
+OPCNCHOK_00642	CDS	168				hypothetical protein
+OPCNCHOK_00643	gene	846	lysX_2			
+OPCNCHOK_00643	CDS	846	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+OPCNCHOK_00644	gene	1122	lysK			
+OPCNCHOK_00644	CDS	1122	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+OPCNCHOK_00645	gene	1038				
+OPCNCHOK_00645	CDS	1038				hypothetical protein
+OPCNCHOK_00646	gene	474	tarD			
+OPCNCHOK_00646	CDS	474	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+OPCNCHOK_00647	gene	693				
+OPCNCHOK_00647	CDS	693				hypothetical protein
+OPCNCHOK_00648	gene	1149				
+OPCNCHOK_00648	CDS	1149				hypothetical protein
+OPCNCHOK_00649	gene	510	erpA			
+OPCNCHOK_00649	CDS	510	erpA			Iron-sulfur cluster insertion protein ErpA
+OPCNCHOK_00650	gene	762	crt			
+OPCNCHOK_00650	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+OPCNCHOK_00651	gene	2121				
+OPCNCHOK_00651	CDS	2121				hypothetical protein
+OPCNCHOK_00652	gene	1275	gdhA			
+OPCNCHOK_00652	CDS	1275	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+OPCNCHOK_00653	gene	879	hldD			
+OPCNCHOK_00653	CDS	879	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+OPCNCHOK_00654	gene	726	prcA_2			
+OPCNCHOK_00654	CDS	726	prcA_2			Proteasome subunit alpha
+OPCNCHOK_00655	gene	690	COQ5_1			
+OPCNCHOK_00655	CDS	690	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OPCNCHOK_00656	gene	1158				
+OPCNCHOK_00656	CDS	1158				hypothetical protein
+OPCNCHOK_00657	gene	357	tatA_2			
+OPCNCHOK_00657	CDS	357	tatA_2			Sec-independent protein translocase protein TatA
+OPCNCHOK_00658	gene	783	dpnA			
+OPCNCHOK_00658	CDS	783	dpnA	2.1.1.72		Modification methylase DpnIIB
+OPCNCHOK_00659	gene	195				
+OPCNCHOK_00659	CDS	195				hypothetical protein
+OPCNCHOK_00660	gene	834	cpnA			
+OPCNCHOK_00660	CDS	834	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+OPCNCHOK_00661	gene	1671				
+OPCNCHOK_00661	CDS	1671				hypothetical protein
+OPCNCHOK_00662	gene	822				
+OPCNCHOK_00662	CDS	822				hypothetical protein
+OPCNCHOK_00663	gene	444				
+OPCNCHOK_00663	CDS	444				hypothetical protein
+OPCNCHOK_00664	gene	1035	hicd_2			
+OPCNCHOK_00664	CDS	1035	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+OPCNCHOK_00665	gene	558	prmC			
+OPCNCHOK_00665	CDS	558	prmC	2.1.1.297		Release factor glutamine methyltransferase
+OPCNCHOK_00666	gene	705	rsmA			
+OPCNCHOK_00666	CDS	705	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+OPCNCHOK_00667	gene	567				
+OPCNCHOK_00667	CDS	567				hypothetical protein
+OPCNCHOK_00668	gene	327				
+OPCNCHOK_00668	CDS	327				hypothetical protein
+OPCNCHOK_00669	gene	300				
+OPCNCHOK_00669	CDS	300				hypothetical protein
+OPCNCHOK_00670	gene	1125	recA			
+OPCNCHOK_00670	CDS	1125	recA			Protein RecA
+OPCNCHOK_00671	gene	204				
+OPCNCHOK_00671	CDS	204				hypothetical protein
+OPCNCHOK_00672	gene	1737				
+OPCNCHOK_00672	CDS	1737				hypothetical protein
+OPCNCHOK_00673	gene	819	pyrK			
+OPCNCHOK_00673	CDS	819	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OPCNCHOK_00674	gene	912	pyrD			
+OPCNCHOK_00674	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+OPCNCHOK_00675	gene	1236				
+OPCNCHOK_00675	CDS	1236				hypothetical protein
+OPCNCHOK_00676	gene	672				
+OPCNCHOK_00676	CDS	672				hypothetical protein
+OPCNCHOK_00677	gene	621	rnhB			
+OPCNCHOK_00677	CDS	621	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OPCNCHOK_00678	gene	1137	trm1			
+OPCNCHOK_00678	CDS	1137	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+OPCNCHOK_00679	gene	609	rlmE			
+OPCNCHOK_00679	CDS	609	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+OPCNCHOK_00680	gene	828				
+OPCNCHOK_00680	CDS	828				hypothetical protein
+OPCNCHOK_00681	gene	474				
+OPCNCHOK_00681	CDS	474				hypothetical protein
+OPCNCHOK_00682	gene	117				
+OPCNCHOK_00682	CDS	117				hypothetical protein
+OPCNCHOK_00683	gene	2085				
+OPCNCHOK_00683	CDS	2085				hypothetical protein
+OPCNCHOK_00684	gene	453				
+OPCNCHOK_00684	CDS	453				hypothetical protein
+OPCNCHOK_00685	gene	1017				
+OPCNCHOK_00685	CDS	1017				hypothetical protein
+OPCNCHOK_00686	gene	1311	apgM			
+OPCNCHOK_00686	CDS	1311	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OPCNCHOK_00687	gene	552				
+OPCNCHOK_00687	CDS	552				hypothetical protein
+OPCNCHOK_00688	gene	519				
+OPCNCHOK_00688	CDS	519				hypothetical protein
+OPCNCHOK_00689	gene	186				
+OPCNCHOK_00689	CDS	186				hypothetical protein
+OPCNCHOK_00690	gene	705				
+OPCNCHOK_00690	CDS	705				hypothetical protein
+OPCNCHOK_00691	gene	1143				
+OPCNCHOK_00691	CDS	1143				hypothetical protein
+OPCNCHOK_00692	gene	576				
+OPCNCHOK_00692	CDS	576				hypothetical protein
+OPCNCHOK_00693	gene	540				
+OPCNCHOK_00693	CDS	540				hypothetical protein
+OPCNCHOK_00694	gene	435				
+OPCNCHOK_00694	CDS	435				hypothetical protein
+OPCNCHOK_00695	gene	966				
+OPCNCHOK_00695	CDS	966				hypothetical protein
+OPCNCHOK_00696	gene	1911	korA			
+OPCNCHOK_00696	CDS	1911	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+OPCNCHOK_00697	gene	1005				
+OPCNCHOK_00697	CDS	1005		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+OPCNCHOK_00698	gene	267				
+OPCNCHOK_00698	CDS	267				hypothetical protein
+OPCNCHOK_00699	gene	1299	lhgD			
+OPCNCHOK_00699	CDS	1299	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+OPCNCHOK_00700	gene	447				
+OPCNCHOK_00700	CDS	447				hypothetical protein
+OPCNCHOK_00701	gene	996	truB			
+OPCNCHOK_00701	CDS	996	truB	5.4.99.25		tRNA pseudouridine synthase B
+OPCNCHOK_00702	gene	543	cmk			
+OPCNCHOK_00702	CDS	543	cmk	2.7.4.25		Cytidylate kinase
+OPCNCHOK_00703	gene	621				
+OPCNCHOK_00703	CDS	621				hypothetical protein
+OPCNCHOK_00704	gene	585				
+OPCNCHOK_00704	CDS	585				hypothetical protein
+OPCNCHOK_00705	gene	1431	secY			
+OPCNCHOK_00705	CDS	1431	secY			Protein translocase subunit SecY
+OPCNCHOK_00706	gene	480				
+OPCNCHOK_00706	CDS	480				hypothetical protein
+OPCNCHOK_00707	gene	468				
+OPCNCHOK_00707	CDS	468				hypothetical protein
+OPCNCHOK_00708	gene	756				
+OPCNCHOK_00708	CDS	756				hypothetical protein
+OPCNCHOK_00709	gene	486				
+OPCNCHOK_00709	CDS	486				hypothetical protein
+OPCNCHOK_00710	gene	921	argF			
+OPCNCHOK_00710	CDS	921	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+OPCNCHOK_00711	gene	1377	ftsY			
+OPCNCHOK_00711	CDS	1377	ftsY			Signal recognition particle receptor FtsY
+OPCNCHOK_00712	gene	420	pfdA			
+OPCNCHOK_00712	CDS	420	pfdA			Prefoldin subunit alpha
+OPCNCHOK_00713	gene	621	sodA			
+OPCNCHOK_00713	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+OPCNCHOK_00714	gene	2037				
+OPCNCHOK_00714	CDS	2037				hypothetical protein
+OPCNCHOK_00715	gene	1593	pckA			
+OPCNCHOK_00715	CDS	1593	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+OPCNCHOK_00716	gene	399				
+OPCNCHOK_00716	CDS	399				hypothetical protein
+OPCNCHOK_00717	gene	456				
+OPCNCHOK_00717	CDS	456				hypothetical protein
+OPCNCHOK_00718	gene	300	ogt			
+OPCNCHOK_00718	CDS	300	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+OPCNCHOK_00719	gene	777				
+OPCNCHOK_00719	CDS	777				hypothetical protein
+OPCNCHOK_00720	gene	456				
+OPCNCHOK_00720	CDS	456				hypothetical protein
+OPCNCHOK_00721	gene	486	rplK			
+OPCNCHOK_00721	CDS	486	rplK		COG0080	50S ribosomal protein L11
+OPCNCHOK_00722	gene	456	asnC_1			
+OPCNCHOK_00722	CDS	456	asnC_1		COG1522	Regulatory protein AsnC
+OPCNCHOK_00723	gene	657	rplA			
+OPCNCHOK_00723	CDS	657	rplA		COG0081	50S ribosomal protein L1
+OPCNCHOK_00724	gene	867				
+OPCNCHOK_00724	CDS	867				hypothetical protein
+OPCNCHOK_00725	gene	636				
+OPCNCHOK_00725	CDS	636				hypothetical protein
+OPCNCHOK_00726	gene	312				
+OPCNCHOK_00726	CDS	312				hypothetical protein
+OPCNCHOK_00727	gene	516				
+OPCNCHOK_00727	CDS	516				hypothetical protein
+OPCNCHOK_00728	gene	2694	alaS			
+OPCNCHOK_00728	CDS	2694	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+OPCNCHOK_00729	gene	2871	valS_1			
+OPCNCHOK_00729	CDS	2871	valS_1	6.1.1.9		Valine--tRNA ligase
+OPCNCHOK_00730	gene	1014				
+OPCNCHOK_00730	CDS	1014				hypothetical protein
+OPCNCHOK_00731	gene	705				
+OPCNCHOK_00731	CDS	705				hypothetical protein
+OPCNCHOK_00732	gene	321				
+OPCNCHOK_00732	CDS	321				hypothetical protein
+OPCNCHOK_00733	gene	73				
+OPCNCHOK_00733	tRNA	73				tRNA-Gln(ctg)
+OPCNCHOK_00734	gene	624				
+OPCNCHOK_00734	CDS	624				hypothetical protein
+OPCNCHOK_00735	gene	438				
+OPCNCHOK_00735	CDS	438				hypothetical protein
+OPCNCHOK_00736	gene	468	nusA			
+OPCNCHOK_00736	CDS	468	nusA			Transcription termination/antitermination protein NusA
+OPCNCHOK_00737	gene	315				
+OPCNCHOK_00737	CDS	315				hypothetical protein
+OPCNCHOK_00738	gene	113				
+OPCNCHOK_00738	rRNA	113				5S ribosomal RNA
+OPCNCHOK_00739	gene	1785	btuD			
+OPCNCHOK_00739	CDS	1785	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OPCNCHOK_00740	gene	840				
+OPCNCHOK_00740	CDS	840				hypothetical protein
+OPCNCHOK_00741	gene	219				
+OPCNCHOK_00741	CDS	219				hypothetical protein
+OPCNCHOK_00742	gene	498				
+OPCNCHOK_00742	CDS	498				hypothetical protein
+OPCNCHOK_00743	gene	1098				
+OPCNCHOK_00743	CDS	1098				hypothetical protein
+OPCNCHOK_00744	gene	1089				
+OPCNCHOK_00744	CDS	1089				hypothetical protein
+OPCNCHOK_00745	gene	2223				
+OPCNCHOK_00745	CDS	2223				hypothetical protein
+OPCNCHOK_00746	gene	603	pyrE			
+OPCNCHOK_00746	CDS	603	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OPCNCHOK_00747	gene	75				
+OPCNCHOK_00747	tRNA	75				tRNA-Met(cat)
+OPCNCHOK_00748	gene	636				
+OPCNCHOK_00748	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+OPCNCHOK_00749	gene	75				
+OPCNCHOK_00749	tRNA	75				tRNA-Glu(ttc)
+OPCNCHOK_00750	gene	852				
+OPCNCHOK_00750	CDS	852				hypothetical protein
+OPCNCHOK_00751	gene	1485	ndhB_1			
+OPCNCHOK_00751	CDS	1485	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+OPCNCHOK_00752	gene	2073	ndhB_2			
+OPCNCHOK_00752	CDS	2073	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+OPCNCHOK_00753	gene	1557	mrpA			
+OPCNCHOK_00753	CDS	1557	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+OPCNCHOK_00754	gene	306	nuoK			
+OPCNCHOK_00754	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+OPCNCHOK_00755	gene	507				
+OPCNCHOK_00755	CDS	507				hypothetical protein
+OPCNCHOK_00756	gene	498	nuoI			
+OPCNCHOK_00756	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+OPCNCHOK_00757	gene	1377	nuoH			
+OPCNCHOK_00757	CDS	1377	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+OPCNCHOK_00758	gene	1149	ndhH			
+OPCNCHOK_00758	CDS	1149	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+OPCNCHOK_00759	gene	570	ndhJ			
+OPCNCHOK_00759	CDS	570	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+OPCNCHOK_00760	gene	516	nuoB			
+OPCNCHOK_00760	CDS	516	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+OPCNCHOK_00761	gene	381	ndhC			
+OPCNCHOK_00761	CDS	381	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+OPCNCHOK_00762	gene	465	bcp_3			
+OPCNCHOK_00762	CDS	465	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+OPCNCHOK_00763	gene	540				
+OPCNCHOK_00763	CDS	540				hypothetical protein
+OPCNCHOK_00764	gene	1503	cfiB			
+OPCNCHOK_00764	CDS	1503	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+OPCNCHOK_00765	gene	1575	pccB			
+OPCNCHOK_00765	CDS	1575	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+OPCNCHOK_00766	gene	297				
+OPCNCHOK_00766	CDS	297				hypothetical protein
+OPCNCHOK_00767	gene	1161	ruvB_1			
+OPCNCHOK_00767	CDS	1161	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+OPCNCHOK_00768	gene	1122				
+OPCNCHOK_00768	CDS	1122				hypothetical protein
+OPCNCHOK_00769	gene	456				
+OPCNCHOK_00769	CDS	456				hypothetical protein
+OPCNCHOK_00770	gene	321				
+OPCNCHOK_00770	CDS	321				hypothetical protein
+OPCNCHOK_00771	gene	798	cysQ_1			
+OPCNCHOK_00771	CDS	798	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+OPCNCHOK_00772	gene	837	mimB_1			
+OPCNCHOK_00772	CDS	837	mimB_1	1.18.1.-		Propane 2-monooxygenase, reductase component
+OPCNCHOK_00773	gene	165				
+OPCNCHOK_00773	CDS	165				hypothetical protein
+OPCNCHOK_00774	gene	1071	hemA_2			
+OPCNCHOK_00774	CDS	1071	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+OPCNCHOK_00775	gene	663				
+OPCNCHOK_00775	CDS	663				hypothetical protein
+OPCNCHOK_00776	gene	78				
+OPCNCHOK_00776	tRNA	78				tRNA-Asp(gtc)
+OPCNCHOK_00777	gene	75				
+OPCNCHOK_00777	tRNA	75				tRNA-Lys(ttt)
+OPCNCHOK_00778	gene	1461	argH			
+OPCNCHOK_00778	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+OPCNCHOK_00779	gene	387				
+OPCNCHOK_00779	CDS	387				hypothetical protein
+OPCNCHOK_00780	gene	777	frdB			
+OPCNCHOK_00780	CDS	777	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+OPCNCHOK_00781	gene	354				
+OPCNCHOK_00781	CDS	354				hypothetical protein
+OPCNCHOK_00782	gene	441				
+OPCNCHOK_00782	CDS	441				hypothetical protein
+OPCNCHOK_00783	gene	1713	frdA			
+OPCNCHOK_00783	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+OPCNCHOK_00784	gene	486				
+OPCNCHOK_00784	CDS	486				hypothetical protein
+OPCNCHOK_00785	gene	858	Dml			
+OPCNCHOK_00785	CDS	858	Dml	4.1.3.32		2,3-dimethylmalate lyase
+OPCNCHOK_00786	gene	828				
+OPCNCHOK_00786	CDS	828				hypothetical protein
+OPCNCHOK_00787	gene	77				
+OPCNCHOK_00787	tRNA	77				tRNA-Ala(ggc)
+OPCNCHOK_00788	gene	843	fpr			
+OPCNCHOK_00788	CDS	843	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+OPCNCHOK_00789	gene	597				
+OPCNCHOK_00789	CDS	597				hypothetical protein
+OPCNCHOK_00790	gene	915	ilvE_1			
+OPCNCHOK_00790	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OPCNCHOK_00791	gene	960	iolG			
+OPCNCHOK_00791	CDS	960	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+OPCNCHOK_00792	gene	270				
+OPCNCHOK_00792	CDS	270				hypothetical protein
+OPCNCHOK_00793	gene	480	fdtC			
+OPCNCHOK_00793	CDS	480	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+OPCNCHOK_00794	gene	519	ftnA			
+OPCNCHOK_00794	CDS	519	ftnA	1.16.3.2	COG1528	Bacterial non-heme ferritin
+OPCNCHOK_00795	gene	1542				
+OPCNCHOK_00795	CDS	1542				hypothetical protein
+OPCNCHOK_00796	gene	453				
+OPCNCHOK_00796	CDS	453				hypothetical protein
+OPCNCHOK_00797	gene	564				
+OPCNCHOK_00797	CDS	564				hypothetical protein
+OPCNCHOK_00798	gene	360				
+OPCNCHOK_00798	CDS	360				hypothetical protein
+OPCNCHOK_00799	gene	663	tal			
+OPCNCHOK_00799	CDS	663	tal	2.2.1.2	COG0176	Transaldolase
+OPCNCHOK_00800	gene	969	aptB			
+OPCNCHOK_00800	CDS	969	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+OPCNCHOK_00801	gene	1668	dxs			
+OPCNCHOK_00801	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+OPCNCHOK_00802	gene	387				
+OPCNCHOK_00802	CDS	387				hypothetical protein
+OPCNCHOK_00803	gene	1482	pepA			
+OPCNCHOK_00803	CDS	1482	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+OPCNCHOK_00804	gene	231				
+OPCNCHOK_00804	CDS	231				hypothetical protein
+OPCNCHOK_00805	gene	990	tagO			
+OPCNCHOK_00805	CDS	990	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+OPCNCHOK_00806	gene	2220				
+OPCNCHOK_00806	CDS	2220				hypothetical protein
+OPCNCHOK_00807	gene	2079				
+OPCNCHOK_00807	CDS	2079				hypothetical protein
+OPCNCHOK_00808	gene	516				
+OPCNCHOK_00808	CDS	516				hypothetical protein
+OPCNCHOK_00809	gene	957	ruvB_2			
+OPCNCHOK_00809	CDS	957	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+OPCNCHOK_00810	gene	291				
+OPCNCHOK_00810	CDS	291				hypothetical protein
+OPCNCHOK_00811	gene	86				
+OPCNCHOK_00811	tRNA	86				tRNA-Ser(tga)
+OPCNCHOK_00812	gene	558				
+OPCNCHOK_00812	CDS	558				hypothetical protein
+OPCNCHOK_00813	gene	666				
+OPCNCHOK_00813	CDS	666				hypothetical protein
+OPCNCHOK_00814	gene	1272	hisS			
+OPCNCHOK_00814	CDS	1272	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+OPCNCHOK_00815	gene	417				
+OPCNCHOK_00815	CDS	417				Protein archease
+OPCNCHOK_00816	gene	411	resA_2			
+OPCNCHOK_00816	CDS	411	resA_2			Thiol-disulfide oxidoreductase ResA
+OPCNCHOK_00817	gene	1761	infB			
+OPCNCHOK_00817	CDS	1761	infB			Translation initiation factor IF-2
+OPCNCHOK_00818	gene	402	ndkA			
+OPCNCHOK_00818	CDS	402	ndkA	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+OPCNCHOK_00819	gene	204				
+OPCNCHOK_00819	CDS	204				hypothetical protein
+OPCNCHOK_00820	gene	225				
+OPCNCHOK_00820	CDS	225				hypothetical protein
+OPCNCHOK_00821	gene	387				
+OPCNCHOK_00821	CDS	387				hypothetical protein
+OPCNCHOK_00822	gene	1344	glmM_1			
+OPCNCHOK_00822	CDS	1344	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OPCNCHOK_00823	gene	87				
+OPCNCHOK_00823	tRNA	87				tRNA-Leu(tag)
+OPCNCHOK_00824	gene	843	purU			
+OPCNCHOK_00824	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+OPCNCHOK_00825	gene	693	mftE			
+OPCNCHOK_00825	CDS	693	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+OPCNCHOK_00826	gene	231				
+OPCNCHOK_00826	CDS	231				hypothetical protein
+OPCNCHOK_00827	gene	849				
+OPCNCHOK_00827	CDS	849				hypothetical protein
+OPCNCHOK_00828	gene	678	rpiA			
+OPCNCHOK_00828	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+OPCNCHOK_00829	gene	1389				
+OPCNCHOK_00829	CDS	1389		3.5.2.-		D-hydantoinase
+OPCNCHOK_00830	gene	72				
+OPCNCHOK_00830	tRNA	72				tRNA-Ala(cgc)
+OPCNCHOK_00831	gene	363				
+OPCNCHOK_00831	CDS	363				hypothetical protein
+OPCNCHOK_00832	gene	549				
+OPCNCHOK_00832	CDS	549				hypothetical protein
+OPCNCHOK_00833	gene	333				
+OPCNCHOK_00833	CDS	333				Thioredoxin C-2
+OPCNCHOK_00834	gene	768				
+OPCNCHOK_00834	CDS	768				hypothetical protein
+OPCNCHOK_00835	gene	714				
+OPCNCHOK_00835	CDS	714				hypothetical protein
+OPCNCHOK_00836	gene	1521	abfD			
+OPCNCHOK_00836	CDS	1521	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+OPCNCHOK_00837	gene	2097	pat			
+OPCNCHOK_00837	CDS	2097	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+OPCNCHOK_00838	gene	357				
+OPCNCHOK_00838	CDS	357				hypothetical protein
+OPCNCHOK_00839	gene	453				
+OPCNCHOK_00839	CDS	453				hypothetical protein
+OPCNCHOK_00840	gene	324				
+OPCNCHOK_00840	CDS	324				hypothetical protein
+OPCNCHOK_00841	gene	984	tsaD			
+OPCNCHOK_00841	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OPCNCHOK_00842	gene	1194	OLA1			
+OPCNCHOK_00842	CDS	1194	OLA1			Obg-like ATPase 1
+OPCNCHOK_00843	gene	564				
+OPCNCHOK_00843	CDS	564				hypothetical protein
+OPCNCHOK_00844	gene	1515	QTRT1			
+OPCNCHOK_00844	CDS	1515	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+OPCNCHOK_00845	gene	807				
+OPCNCHOK_00845	CDS	807				hypothetical protein
+OPCNCHOK_00846	gene	1203				
+OPCNCHOK_00846	CDS	1203				hypothetical protein
+OPCNCHOK_00847	gene	303	ndhI_1			
+OPCNCHOK_00847	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OPCNCHOK_00848	gene	213				
+OPCNCHOK_00848	CDS	213				hypothetical protein
+OPCNCHOK_00849	gene	1278				
+OPCNCHOK_00849	CDS	1278		3.1.-.-	COG1236	Ribonuclease
+OPCNCHOK_00850	gene	840				
+OPCNCHOK_00850	CDS	840				hypothetical protein
+OPCNCHOK_00851	gene	76				
+OPCNCHOK_00851	tRNA	76				tRNA-Arg(tct)
+OPCNCHOK_00852	gene	351				
+OPCNCHOK_00852	CDS	351				hypothetical protein
+OPCNCHOK_00853	gene	498				
+OPCNCHOK_00853	CDS	498				hypothetical protein
+OPCNCHOK_00854	gene	1635	petB			
+OPCNCHOK_00854	CDS	1635	petB			Cytochrome b6
+OPCNCHOK_00855	gene	549				
+OPCNCHOK_00855	CDS	549				hypothetical protein
+OPCNCHOK_00856	gene	4245				
+OPCNCHOK_00856	CDS	4245				hypothetical protein
+OPCNCHOK_00857	gene	945				
+OPCNCHOK_00857	CDS	945				hypothetical protein
+OPCNCHOK_00858	gene	1632	groL_1			
+OPCNCHOK_00858	CDS	1632	groL_1			60 kDa chaperonin
+OPCNCHOK_00859	gene	1773	ade			
+OPCNCHOK_00859	CDS	1773	ade	3.5.4.2	COG1001	Adenine deaminase
+OPCNCHOK_00860	gene	282				
+OPCNCHOK_00860	CDS	282				hypothetical protein
+OPCNCHOK_00861	gene	198				
+OPCNCHOK_00861	CDS	198				hypothetical protein
+OPCNCHOK_00862	gene	585	mobA			
+OPCNCHOK_00862	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+OPCNCHOK_00863	gene	726	cobS			
+OPCNCHOK_00863	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+OPCNCHOK_00864	gene	972	cobD_1			
+OPCNCHOK_00864	CDS	972	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+OPCNCHOK_00865	gene	843	cobQ			
+OPCNCHOK_00865	CDS	843	cobQ		COG1492	Cobyric acid synthase
+OPCNCHOK_00866	gene	1098	cobD_2			
+OPCNCHOK_00866	CDS	1098	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+OPCNCHOK_00867	gene	1074	asd2			
+OPCNCHOK_00867	CDS	1074	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+OPCNCHOK_00868	gene	456	asnC_2			
+OPCNCHOK_00868	CDS	456	asnC_2		COG1522	Regulatory protein AsnC
+OPCNCHOK_00869	gene	930	ctaB_2			
+OPCNCHOK_00869	CDS	930	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+OPCNCHOK_00870	gene	177				
+OPCNCHOK_00870	CDS	177				hypothetical protein
+OPCNCHOK_00871	gene	1074	ccr_1			
+OPCNCHOK_00871	CDS	1074	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+OPCNCHOK_00872	gene	1329	bsdC			
+OPCNCHOK_00872	CDS	1329	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+OPCNCHOK_00873	gene	333				
+OPCNCHOK_00873	CDS	333				hypothetical protein
+OPCNCHOK_00874	gene	639				
+OPCNCHOK_00874	CDS	639				hypothetical protein
+OPCNCHOK_00875	gene	546				
+OPCNCHOK_00875	CDS	546				hypothetical protein
+OPCNCHOK_00876	gene	324				
+OPCNCHOK_00876	CDS	324				hypothetical protein
+OPCNCHOK_00877	gene	354				
+OPCNCHOK_00877	CDS	354				hypothetical protein
+OPCNCHOK_00878	gene	477				
+OPCNCHOK_00878	CDS	477				hypothetical protein
+OPCNCHOK_00879	gene	1044				
+OPCNCHOK_00879	CDS	1044				hypothetical protein
+OPCNCHOK_00880	gene	1044	hflX			
+OPCNCHOK_00880	CDS	1044	hflX		COG2262	GTPase HflX
+OPCNCHOK_00881	gene	537				
+OPCNCHOK_00881	CDS	537				hypothetical protein
+OPCNCHOK_00882	gene	525				
+OPCNCHOK_00882	CDS	525				hypothetical protein
+OPCNCHOK_00883	gene	654	ribD2			
+OPCNCHOK_00883	CDS	654	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+OPCNCHOK_00884	gene	1185	dadD			
+OPCNCHOK_00884	CDS	1185	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+OPCNCHOK_00885	gene	753				
+OPCNCHOK_00885	CDS	753				hypothetical protein
+OPCNCHOK_00886	gene	417	ribH			
+OPCNCHOK_00886	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+OPCNCHOK_00887	gene	675	ribBA			
+OPCNCHOK_00887	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+OPCNCHOK_00888	gene	585	ribE			
+OPCNCHOK_00888	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+OPCNCHOK_00889	gene	855	citE			
+OPCNCHOK_00889	CDS	855	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+OPCNCHOK_00890	gene	1077	ccr_2			
+OPCNCHOK_00890	CDS	1077	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+OPCNCHOK_00891	gene	279				
+OPCNCHOK_00891	CDS	279				hypothetical protein
+OPCNCHOK_00892	gene	456				
+OPCNCHOK_00892	CDS	456				hypothetical protein
+OPCNCHOK_00893	gene	1053				
+OPCNCHOK_00893	CDS	1053				hypothetical protein
+OPCNCHOK_00894	gene	303				
+OPCNCHOK_00894	CDS	303				hypothetical protein
+OPCNCHOK_00895	gene	77				
+OPCNCHOK_00895	tRNA	77				tRNA-Gly(tcc)
+OPCNCHOK_00896	gene	669				
+OPCNCHOK_00896	CDS	669				hypothetical protein
+OPCNCHOK_00897	gene	1125				
+OPCNCHOK_00897	CDS	1125				hypothetical protein
+OPCNCHOK_00898	gene	2655				
+OPCNCHOK_00898	CDS	2655				hypothetical protein
+OPCNCHOK_00899	gene	2079				
+OPCNCHOK_00899	CDS	2079				hypothetical protein
+OPCNCHOK_00900	gene	162				
+OPCNCHOK_00900	CDS	162				hypothetical protein
+OPCNCHOK_00901	gene	396				
+OPCNCHOK_00901	CDS	396				hypothetical protein
+OPCNCHOK_00902	gene	1161				
+OPCNCHOK_00902	CDS	1161				hypothetical protein
+OPCNCHOK_00903	gene	441				
+OPCNCHOK_00903	CDS	441				hypothetical protein
+OPCNCHOK_00904	gene	810	ybeM			
+OPCNCHOK_00904	CDS	810	ybeM	3.5.1.128		Deaminated glutathione amidase
+OPCNCHOK_00905	gene	831	mimB_2			
+OPCNCHOK_00905	CDS	831	mimB_2	1.18.1.-		Propane 2-monooxygenase, reductase component
+OPCNCHOK_00906	gene	441				
+OPCNCHOK_00906	CDS	441				hypothetical protein
+OPCNCHOK_00907	gene	1275	nrgA			
+OPCNCHOK_00907	CDS	1275	nrgA			Ammonium transporter
+OPCNCHOK_00908	gene	330				
+OPCNCHOK_00908	CDS	330				hypothetical protein
+OPCNCHOK_00909	gene	132				
+OPCNCHOK_00909	CDS	132				hypothetical protein
+OPCNCHOK_00910	gene	264				
+OPCNCHOK_00910	CDS	264				hypothetical protein
+OPCNCHOK_00911	gene	120				
+OPCNCHOK_00911	CDS	120				hypothetical protein
+OPCNCHOK_00912	gene	570				
+OPCNCHOK_00912	CDS	570				hypothetical protein
+OPCNCHOK_00913	gene	108				
+OPCNCHOK_00913	CDS	108				hypothetical protein
+OPCNCHOK_00914	gene	177				
+OPCNCHOK_00914	CDS	177				hypothetical protein
+OPCNCHOK_00915	gene	771				
+OPCNCHOK_00915	CDS	771				hypothetical protein
+OPCNCHOK_00916	gene	1656				
+OPCNCHOK_00916	CDS	1656				hypothetical protein
+OPCNCHOK_00917	gene	804				
+OPCNCHOK_00917	CDS	804				hypothetical protein
+OPCNCHOK_00918	gene	654				
+OPCNCHOK_00918	CDS	654				hypothetical protein
+OPCNCHOK_00919	gene	879				
+OPCNCHOK_00919	CDS	879				hypothetical protein
+OPCNCHOK_00920	gene	648				
+OPCNCHOK_00920	CDS	648				hypothetical protein
+OPCNCHOK_00921	gene	2748	vgb_2			
+OPCNCHOK_00921	CDS	2748	vgb_2	4.2.99.-		Virginiamycin B lyase
+OPCNCHOK_00922	gene	1557				
+OPCNCHOK_00922	CDS	1557				hypothetical protein
+OPCNCHOK_00923	gene	930	pyrB			
+OPCNCHOK_00923	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+OPCNCHOK_00924	gene	471	pyrI			
+OPCNCHOK_00924	CDS	471	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+OPCNCHOK_00925	gene	339	atpH			
+OPCNCHOK_00925	CDS	339	atpH			ATP synthase subunit c
+OPCNCHOK_00926	gene	132				
+OPCNCHOK_00926	CDS	132				hypothetical protein
+OPCNCHOK_00927	gene	633	ntpD			
+OPCNCHOK_00927	CDS	633	ntpD			V-type sodium ATPase subunit D
+OPCNCHOK_00928	gene	1383	ntpB			
+OPCNCHOK_00928	CDS	1383	ntpB			V-type sodium ATPase subunit B
+OPCNCHOK_00929	gene	1779	atpA			
+OPCNCHOK_00929	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+OPCNCHOK_00930	gene	600	atpE			
+OPCNCHOK_00930	CDS	600	atpE			V-type proton ATPase subunit E
+OPCNCHOK_00931	gene	2094				
+OPCNCHOK_00931	CDS	2094				hypothetical protein
+OPCNCHOK_00932	gene	282				
+OPCNCHOK_00932	CDS	282				hypothetical protein
+OPCNCHOK_00933	gene	210				
+OPCNCHOK_00933	CDS	210				hypothetical protein
+OPCNCHOK_00934	gene	777	ttuD_2			
+OPCNCHOK_00934	CDS	777	ttuD_2		COG2897	Sulfur carrier protein TtuD
+OPCNCHOK_00935	gene	1581	amt			
+OPCNCHOK_00935	CDS	1581	amt			Ammonia channel
+OPCNCHOK_00936	gene	693				
+OPCNCHOK_00936	CDS	693				hypothetical protein
+OPCNCHOK_00937	gene	1050	atpC			
+OPCNCHOK_00937	CDS	1050	atpC			V-type ATP synthase subunit C
+OPCNCHOK_00938	gene	504				
+OPCNCHOK_00938	CDS	504				hypothetical protein
+OPCNCHOK_00939	gene	657				
+OPCNCHOK_00939	CDS	657				hypothetical protein
+OPCNCHOK_00940	gene	114				
+OPCNCHOK_00940	CDS	114				hypothetical protein
+OPCNCHOK_00941	gene	549				
+OPCNCHOK_00941	CDS	549				hypothetical protein
+OPCNCHOK_00942	gene	354				
+OPCNCHOK_00942	CDS	354				hypothetical protein
+OPCNCHOK_00943	gene	492				
+OPCNCHOK_00943	CDS	492				hypothetical protein
+OPCNCHOK_00944	gene	684	pyrH			
+OPCNCHOK_00944	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+OPCNCHOK_00945	gene	1239				
+OPCNCHOK_00945	CDS	1239				hypothetical protein
+OPCNCHOK_00946	gene	582	tmk			
+OPCNCHOK_00946	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+OPCNCHOK_00947	gene	129				
+OPCNCHOK_00947	CDS	129				hypothetical protein
+OPCNCHOK_00948	gene	1551	ubiB			
+OPCNCHOK_00948	CDS	1551	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+OPCNCHOK_00949	gene	135				
+OPCNCHOK_00949	CDS	135				hypothetical protein
+OPCNCHOK_00950	gene	396				
+OPCNCHOK_00950	CDS	396				hypothetical protein
+OPCNCHOK_00951	gene	201				
+OPCNCHOK_00951	CDS	201				hypothetical protein
+OPCNCHOK_00952	gene	378				
+OPCNCHOK_00952	CDS	378				hypothetical protein
+OPCNCHOK_00953	gene	789				
+OPCNCHOK_00953	CDS	789				hypothetical protein
+OPCNCHOK_00954	gene	750				
+OPCNCHOK_00954	CDS	750				hypothetical protein
+OPCNCHOK_00955	gene	1575				
+OPCNCHOK_00955	CDS	1575				hypothetical protein
+OPCNCHOK_00956	gene	3129				
+OPCNCHOK_00956	CDS	3129				hypothetical protein
+OPCNCHOK_00957	gene	1398				
+OPCNCHOK_00957	CDS	1398				hypothetical protein
+OPCNCHOK_00958	gene	579				
+OPCNCHOK_00958	CDS	579				hypothetical protein
+OPCNCHOK_00959	gene	282				
+OPCNCHOK_00959	CDS	282				hypothetical protein
+OPCNCHOK_00960	gene	396				
+OPCNCHOK_00960	CDS	396				hypothetical protein
+OPCNCHOK_00961	gene	141				
+OPCNCHOK_00961	CDS	141				hypothetical protein
+OPCNCHOK_00962	gene	702				
+OPCNCHOK_00962	CDS	702				hypothetical protein
+OPCNCHOK_00963	gene	423				
+OPCNCHOK_00963	CDS	423				hypothetical protein
+OPCNCHOK_00964	gene	1317				
+OPCNCHOK_00964	CDS	1317				hypothetical protein
+OPCNCHOK_00965	gene	957				
+OPCNCHOK_00965	CDS	957				hypothetical protein
+OPCNCHOK_00966	gene	1083	bspRIM			
+OPCNCHOK_00966	CDS	1083	bspRIM	2.1.1.37		Modification methylase BspRI
+OPCNCHOK_00967	gene	207				
+OPCNCHOK_00967	CDS	207				hypothetical protein
+OPCNCHOK_00968	gene	171				
+OPCNCHOK_00968	CDS	171				hypothetical protein
+OPCNCHOK_00969	gene	393				
+OPCNCHOK_00969	CDS	393				hypothetical protein
+OPCNCHOK_00970	gene	105				
+OPCNCHOK_00970	CDS	105				hypothetical protein
+OPCNCHOK_00971	gene	540				
+OPCNCHOK_00971	CDS	540				hypothetical protein
+OPCNCHOK_00972	gene	873				
+OPCNCHOK_00972	CDS	873				hypothetical protein
+OPCNCHOK_00973	gene	294				
+OPCNCHOK_00973	CDS	294				hypothetical protein
+OPCNCHOK_00974	gene	1173	yliI_1			
+OPCNCHOK_00974	CDS	1173	yliI_1	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+OPCNCHOK_00975	gene	426	ycf3			
+OPCNCHOK_00975	CDS	426	ycf3			Photosystem I assembly protein Ycf3
+OPCNCHOK_00976	gene	255				
+OPCNCHOK_00976	CDS	255				hypothetical protein
+OPCNCHOK_00977	gene	2274				
+OPCNCHOK_00977	CDS	2274				hypothetical protein
+OPCNCHOK_00978	gene	426				
+OPCNCHOK_00978	CDS	426				hypothetical protein
+OPCNCHOK_00979	gene	369				
+OPCNCHOK_00979	CDS	369				hypothetical protein
+OPCNCHOK_00980	gene	1263	tuf_3			
+OPCNCHOK_00980	CDS	1263	tuf_3			Elongation factor Tu
+OPCNCHOK_00981	gene	1314				
+OPCNCHOK_00981	CDS	1314				hypothetical protein
+OPCNCHOK_00982	gene	705	lolD			
+OPCNCHOK_00982	CDS	705	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+OPCNCHOK_00983	gene	1197				
+OPCNCHOK_00983	CDS	1197				hypothetical protein
+OPCNCHOK_00984	gene	972				
+OPCNCHOK_00984	CDS	972				hypothetical protein
+OPCNCHOK_00985	gene	516	nudF			
+OPCNCHOK_00985	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+OPCNCHOK_00986	gene	933				
+OPCNCHOK_00986	CDS	933				hypothetical protein
+OPCNCHOK_00987	gene	891				
+OPCNCHOK_00987	CDS	891				hypothetical protein
+OPCNCHOK_00988	gene	735				
+OPCNCHOK_00988	CDS	735				hypothetical protein
+OPCNCHOK_00989	gene	816	panB			
+OPCNCHOK_00989	CDS	816	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+OPCNCHOK_00990	gene	1233	coaBC			
+OPCNCHOK_00990	CDS	1233	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+OPCNCHOK_00991	gene	843	COQ5_2			
+OPCNCHOK_00991	CDS	843	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+OPCNCHOK_00992	gene	1068				
+OPCNCHOK_00992	CDS	1068		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+OPCNCHOK_00993	gene	279				
+OPCNCHOK_00993	CDS	279				hypothetical protein
+OPCNCHOK_00994	gene	1890	rnj			
+OPCNCHOK_00994	CDS	1890	rnj	3.1.-.-		Ribonuclease J
+OPCNCHOK_00995	gene	633	prcB_2			
+OPCNCHOK_00995	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+OPCNCHOK_00996	gene	1029	egsA			
+OPCNCHOK_00996	CDS	1029	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+OPCNCHOK_00997	gene	735				
+OPCNCHOK_00997	CDS	735				hypothetical protein
+OPCNCHOK_00998	gene	1140				
+OPCNCHOK_00998	CDS	1140		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+OPCNCHOK_00999	gene	495				
+OPCNCHOK_00999	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+OPCNCHOK_01000	gene	501				
+OPCNCHOK_01000	CDS	501				hypothetical protein
+OPCNCHOK_01001	gene	495				
+OPCNCHOK_01001	CDS	495				hypothetical protein
+OPCNCHOK_01002	gene	76				
+OPCNCHOK_01002	tRNA	76				tRNA-Val(gac)
+OPCNCHOK_01003	gene	705	bluB			
+OPCNCHOK_01003	CDS	705	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+OPCNCHOK_01004	gene	76				
+OPCNCHOK_01004	tRNA	76				tRNA-Arg(cct)
+OPCNCHOK_01005	gene	528	msuE			
+OPCNCHOK_01005	CDS	528	msuE	1.5.1.38	COG0431	FMN reductase (NADPH)
+OPCNCHOK_01006	gene	408				
+OPCNCHOK_01006	CDS	408				hypothetical protein
+OPCNCHOK_01007	gene	414				
+OPCNCHOK_01007	CDS	414				hypothetical protein
+OPCNCHOK_01008	gene	237				
+OPCNCHOK_01008	CDS	237				hypothetical protein
+OPCNCHOK_01009	gene	483	ppiB			
+OPCNCHOK_01009	CDS	483	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+OPCNCHOK_01010	gene	1197				
+OPCNCHOK_01010	CDS	1197				hypothetical protein
+OPCNCHOK_01011	gene	156				
+OPCNCHOK_01011	CDS	156				hypothetical protein
+OPCNCHOK_01012	gene	429				
+OPCNCHOK_01012	CDS	429				hypothetical protein
+OPCNCHOK_01013	gene	894	RBKS			
+OPCNCHOK_01013	CDS	894	RBKS	2.7.1.15		Ribokinase
+OPCNCHOK_01014	gene	333				
+OPCNCHOK_01014	CDS	333				hypothetical protein
+OPCNCHOK_01015	gene	576				
+OPCNCHOK_01015	CDS	576				hypothetical protein
+OPCNCHOK_01016	gene	387				
+OPCNCHOK_01016	CDS	387				hypothetical protein
+OPCNCHOK_01017	gene	495				
+OPCNCHOK_01017	CDS	495				hypothetical protein
+OPCNCHOK_01018	gene	1047				
+OPCNCHOK_01018	CDS	1047				hypothetical protein
+OPCNCHOK_01019	gene	786				
+OPCNCHOK_01019	CDS	786		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+OPCNCHOK_01020	gene	1401	thrA			
+OPCNCHOK_01020	CDS	1401	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+OPCNCHOK_01021	gene	747				
+OPCNCHOK_01021	CDS	747				hypothetical protein
+OPCNCHOK_01022	gene	324				
+OPCNCHOK_01022	CDS	324				hypothetical protein
+OPCNCHOK_01023	gene	273				
+OPCNCHOK_01023	CDS	273				hypothetical protein
+OPCNCHOK_01024	gene	546				
+OPCNCHOK_01024	CDS	546				hypothetical protein
+OPCNCHOK_01025	gene	153				
+OPCNCHOK_01025	CDS	153				hypothetical protein
+OPCNCHOK_01026	gene	153				
+OPCNCHOK_01026	CDS	153				hypothetical protein
+OPCNCHOK_01027	gene	495				
+OPCNCHOK_01027	CDS	495				hypothetical protein
+OPCNCHOK_01028	gene	306	ndhI_2			
+OPCNCHOK_01028	CDS	306	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OPCNCHOK_01029	gene	549				
+OPCNCHOK_01029	CDS	549				hypothetical protein
+OPCNCHOK_01030	gene	1146	sufS			
+OPCNCHOK_01030	CDS	1146	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+OPCNCHOK_01031	gene	261				
+OPCNCHOK_01031	CDS	261				hypothetical protein
+OPCNCHOK_01032	gene	648	kynB			
+OPCNCHOK_01032	CDS	648	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+OPCNCHOK_01033	gene	276				
+OPCNCHOK_01033	CDS	276				hypothetical protein
+OPCNCHOK_01034	gene	162				
+OPCNCHOK_01034	CDS	162				hypothetical protein
+OPCNCHOK_01035	gene	294				
+OPCNCHOK_01035	CDS	294				hypothetical protein
+OPCNCHOK_01036	gene	450				
+OPCNCHOK_01036	CDS	450				hypothetical protein
+OPCNCHOK_01037	gene	534				
+OPCNCHOK_01037	CDS	534				hypothetical protein
+OPCNCHOK_01038	gene	657				
+OPCNCHOK_01038	CDS	657				hypothetical protein
+OPCNCHOK_01039	gene	1464	nhaP2			
+OPCNCHOK_01039	CDS	1464	nhaP2			K(+)/H(+) antiporter NhaP2
+OPCNCHOK_01040	gene	912				
+OPCNCHOK_01040	CDS	912				hypothetical protein
+OPCNCHOK_01041	gene	1596				
+OPCNCHOK_01041	CDS	1596				hypothetical protein
+OPCNCHOK_01042	gene	1614				
+OPCNCHOK_01042	CDS	1614				hypothetical protein
+OPCNCHOK_01043	gene	504				
+OPCNCHOK_01043	CDS	504				hypothetical protein
+OPCNCHOK_01044	gene	699				
+OPCNCHOK_01044	CDS	699				hypothetical protein
+OPCNCHOK_01045	gene	429				
+OPCNCHOK_01045	CDS	429				hypothetical protein
+OPCNCHOK_01046	gene	222				
+OPCNCHOK_01046	CDS	222				hypothetical protein
+OPCNCHOK_01047	gene	315				
+OPCNCHOK_01047	CDS	315				hypothetical protein
+OPCNCHOK_01048	gene	558				
+OPCNCHOK_01048	CDS	558				hypothetical protein
+OPCNCHOK_01049	gene	1461	glnA			
+OPCNCHOK_01049	CDS	1461	glnA	6.3.1.2	COG0174	Glutamine synthetase
+OPCNCHOK_01050	gene	381				
+OPCNCHOK_01050	CDS	381				hypothetical protein
+OPCNCHOK_01051	gene	1695	groL_2			
+OPCNCHOK_01051	CDS	1695	groL_2		COG0459	60 kDa chaperonin
+OPCNCHOK_01052	gene	1320	glyA			
+OPCNCHOK_01052	CDS	1320	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+OPCNCHOK_01053	gene	3378				
+OPCNCHOK_01053	CDS	3378				hypothetical protein
+OPCNCHOK_01054	gene	741				
+OPCNCHOK_01054	CDS	741		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+OPCNCHOK_01055	gene	363				
+OPCNCHOK_01055	CDS	363				hypothetical protein
+OPCNCHOK_01056	gene	594				
+OPCNCHOK_01056	CDS	594				hypothetical protein
+OPCNCHOK_01057	gene	402				
+OPCNCHOK_01057	CDS	402				hypothetical protein
+OPCNCHOK_01058	gene	378				
+OPCNCHOK_01058	CDS	378				hypothetical protein
+OPCNCHOK_01059	gene	1356				
+OPCNCHOK_01059	CDS	1356				hypothetical protein
+OPCNCHOK_01060	gene	1476				
+OPCNCHOK_01060	CDS	1476				hypothetical protein
+OPCNCHOK_01061	gene	528				
+OPCNCHOK_01061	CDS	528				hypothetical protein
+OPCNCHOK_01062	gene	741				
+OPCNCHOK_01062	CDS	741		1.-.-.-		putative oxidoreductase
+OPCNCHOK_01063	gene	231				
+OPCNCHOK_01063	CDS	231				hypothetical protein
+OPCNCHOK_01064	gene	1368				
+OPCNCHOK_01064	CDS	1368				hypothetical protein
+OPCNCHOK_01065	gene	1341				
+OPCNCHOK_01065	CDS	1341				hypothetical protein
+OPCNCHOK_01066	gene	540				
+OPCNCHOK_01066	CDS	540		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+OPCNCHOK_01067	gene	549				
+OPCNCHOK_01067	CDS	549				hypothetical protein
+OPCNCHOK_01068	gene	384				
+OPCNCHOK_01068	CDS	384				hypothetical protein
+OPCNCHOK_01069	gene	288				
+OPCNCHOK_01069	CDS	288				hypothetical protein
+OPCNCHOK_01070	gene	897	rnz			
+OPCNCHOK_01070	CDS	897	rnz	3.1.26.11	COG1234	Ribonuclease Z
+OPCNCHOK_01071	gene	876	prs			
+OPCNCHOK_01071	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+OPCNCHOK_01072	gene	615				
+OPCNCHOK_01072	CDS	615				hypothetical protein
+OPCNCHOK_01073	gene	1812				
+OPCNCHOK_01073	CDS	1812				hypothetical protein
+OPCNCHOK_01074	gene	1377				
+OPCNCHOK_01074	CDS	1377				hypothetical protein
+OPCNCHOK_01075	gene	327				
+OPCNCHOK_01075	CDS	327				hypothetical protein
+OPCNCHOK_01076	gene	540				
+OPCNCHOK_01076	CDS	540				hypothetical protein
+OPCNCHOK_01077	gene	513	cysC			
+OPCNCHOK_01077	CDS	513	cysC	2.7.1.25		putative adenylyl-sulfate kinase
+OPCNCHOK_01078	gene	819	cysQ_2			
+OPCNCHOK_01078	CDS	819	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+OPCNCHOK_01079	gene	228				
+OPCNCHOK_01079	CDS	228				hypothetical protein
+OPCNCHOK_01080	gene	435				
+OPCNCHOK_01080	CDS	435				hypothetical protein
+OPCNCHOK_01081	gene	522				
+OPCNCHOK_01081	CDS	522				hypothetical protein
+OPCNCHOK_01082	gene	660				
+OPCNCHOK_01082	CDS	660				hypothetical protein
+OPCNCHOK_01083	gene	174				
+OPCNCHOK_01083	CDS	174				hypothetical protein
+OPCNCHOK_01084	gene	1152				
+OPCNCHOK_01084	CDS	1152				hypothetical protein
+OPCNCHOK_01085	gene	1524				
+OPCNCHOK_01085	CDS	1524				hypothetical protein
+OPCNCHOK_01086	gene	480				
+OPCNCHOK_01086	CDS	480				hypothetical protein
+OPCNCHOK_01087	gene	288				
+OPCNCHOK_01087	CDS	288				hypothetical protein
+OPCNCHOK_01088	gene	1029				
+OPCNCHOK_01088	CDS	1029				hypothetical protein
+OPCNCHOK_01089	gene	1083				
+OPCNCHOK_01089	CDS	1083				hypothetical protein
+OPCNCHOK_01090	gene	198				
+OPCNCHOK_01090	CDS	198				hypothetical protein
+OPCNCHOK_01091	gene	540	folE			
+OPCNCHOK_01091	CDS	540	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OPCNCHOK_01092	gene	315				
+OPCNCHOK_01092	CDS	315				hypothetical protein
+OPCNCHOK_01093	gene	675	queC			
+OPCNCHOK_01093	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+OPCNCHOK_01094	gene	921	thrB_2			
+OPCNCHOK_01094	CDS	921	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+OPCNCHOK_01095	gene	759				
+OPCNCHOK_01095	CDS	759				hypothetical protein
+OPCNCHOK_01096	gene	1017				
+OPCNCHOK_01096	CDS	1017				hypothetical protein
+OPCNCHOK_01097	gene	801	hcaB			
+OPCNCHOK_01097	CDS	801	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+OPCNCHOK_01098	gene	366				
+OPCNCHOK_01098	CDS	366				hypothetical protein
+OPCNCHOK_01099	gene	342				
+OPCNCHOK_01099	CDS	342				hypothetical protein
+OPCNCHOK_01100	gene	1230				
+OPCNCHOK_01100	CDS	1230				hypothetical protein
+OPCNCHOK_01101	gene	1119				
+OPCNCHOK_01101	CDS	1119				hypothetical protein
+OPCNCHOK_01102	gene	720	cysH			
+OPCNCHOK_01102	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+OPCNCHOK_01103	gene	1128	sat			
+OPCNCHOK_01103	CDS	1128	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+OPCNCHOK_01104	gene	672				
+OPCNCHOK_01104	CDS	672				hypothetical protein
+OPCNCHOK_01105	gene	699	nth			
+OPCNCHOK_01105	CDS	699	nth	4.2.99.18		Endonuclease III
+OPCNCHOK_01106	gene	1164				
+OPCNCHOK_01106	CDS	1164				hypothetical protein
+OPCNCHOK_01107	gene	384				
+OPCNCHOK_01107	CDS	384				hypothetical protein
+OPCNCHOK_01108	gene	1905				
+OPCNCHOK_01108	CDS	1905				hypothetical protein
+OPCNCHOK_01109	gene	540				
+OPCNCHOK_01109	CDS	540				hypothetical protein
+OPCNCHOK_01110	gene	591	cbiT			
+OPCNCHOK_01110	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+OPCNCHOK_01111	gene	723	cbiL			
+OPCNCHOK_01111	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+OPCNCHOK_01112	gene	777	cbiF			
+OPCNCHOK_01112	CDS	777	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+OPCNCHOK_01113	gene	744	murI			
+OPCNCHOK_01113	CDS	744	murI	5.1.1.3		Glutamate racemase
+OPCNCHOK_01114	gene	666				
+OPCNCHOK_01114	CDS	666				hypothetical protein
+OPCNCHOK_01115	gene	714				
+OPCNCHOK_01115	CDS	714		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+OPCNCHOK_01116	gene	1458	glyQS			
+OPCNCHOK_01116	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+OPCNCHOK_01117	gene	840	nfo			
+OPCNCHOK_01117	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+OPCNCHOK_01118	gene	1011				
+OPCNCHOK_01118	CDS	1011				hypothetical protein
+OPCNCHOK_01119	gene	1122				
+OPCNCHOK_01119	CDS	1122				hypothetical protein
+OPCNCHOK_01120	gene	2853				
+OPCNCHOK_01120	CDS	2853				hypothetical protein
+OPCNCHOK_01121	gene	537	guaA_1			
+OPCNCHOK_01121	CDS	537	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+OPCNCHOK_01122	gene	969				
+OPCNCHOK_01122	CDS	969				hypothetical protein
+OPCNCHOK_01123	gene	174				
+OPCNCHOK_01123	CDS	174				hypothetical protein
+OPCNCHOK_01124	gene	186				
+OPCNCHOK_01124	CDS	186				hypothetical protein
+OPCNCHOK_01125	gene	435				
+OPCNCHOK_01125	CDS	435				hypothetical protein
+OPCNCHOK_01126	gene	1365	phr			
+OPCNCHOK_01126	CDS	1365	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+OPCNCHOK_01127	gene	561				
+OPCNCHOK_01127	CDS	561				hypothetical protein
+OPCNCHOK_01128	gene	1056				
+OPCNCHOK_01128	CDS	1056				hypothetical protein
+OPCNCHOK_01129	gene	162				
+OPCNCHOK_01129	CDS	162				hypothetical protein
+OPCNCHOK_01130	gene	687				
+OPCNCHOK_01130	CDS	687				hypothetical protein
+OPCNCHOK_01131	gene	420				
+OPCNCHOK_01131	CDS	420				hypothetical protein
+OPCNCHOK_01132	gene	600				
+OPCNCHOK_01132	CDS	600				hypothetical protein
+OPCNCHOK_01133	gene	492				
+OPCNCHOK_01133	CDS	492				hypothetical protein
+OPCNCHOK_01134	gene	279				
+OPCNCHOK_01134	CDS	279				hypothetical protein
+OPCNCHOK_01135	gene	1524	phrB			
+OPCNCHOK_01135	CDS	1524	phrB	4.1.99.13	COG3046	(6-4) photolyase
+OPCNCHOK_01136	gene	423				
+OPCNCHOK_01136	CDS	423				hypothetical protein
+OPCNCHOK_01137	gene	840				
+OPCNCHOK_01137	CDS	840				hypothetical protein
+OPCNCHOK_01138	gene	111				
+OPCNCHOK_01138	CDS	111				hypothetical protein
+OPCNCHOK_01139	gene	528	relA			
+OPCNCHOK_01139	CDS	528	relA			Bifunctional (p)ppGpp synthase/hydrolase RelA
+OPCNCHOK_01140	gene	480				
+OPCNCHOK_01140	CDS	480				hypothetical protein
+OPCNCHOK_01141	gene	1695	yoaA			
+OPCNCHOK_01141	CDS	1695	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+OPCNCHOK_01142	gene	300				
+OPCNCHOK_01142	CDS	300				hypothetical protein
+OPCNCHOK_01143	gene	1011	iolS_1			
+OPCNCHOK_01143	CDS	1011	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+OPCNCHOK_01144	gene	153				
+OPCNCHOK_01144	CDS	153				hypothetical protein
+OPCNCHOK_01145	gene	801				
+OPCNCHOK_01145	CDS	801				hypothetical protein
+OPCNCHOK_01146	gene	534	cobO			
+OPCNCHOK_01146	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+OPCNCHOK_01147	gene	1344	cbiA			
+OPCNCHOK_01147	CDS	1344	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+OPCNCHOK_01148	gene	636	cbiC			
+OPCNCHOK_01148	CDS	636	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+OPCNCHOK_01149	gene	753	cbiX			
+OPCNCHOK_01149	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+OPCNCHOK_01150	gene	1059	cbiG			
+OPCNCHOK_01150	CDS	1059	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+OPCNCHOK_01151	gene	1110	cbiD			
+OPCNCHOK_01151	CDS	1110	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+OPCNCHOK_01152	gene	474	dnaJ_3			
+OPCNCHOK_01152	CDS	474	dnaJ_3			Chaperone protein DnaJ
+OPCNCHOK_01153	gene	816				
+OPCNCHOK_01153	CDS	816				hypothetical protein
+OPCNCHOK_01154	gene	1158	metK			
+OPCNCHOK_01154	CDS	1158	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+OPCNCHOK_01155	gene	246				
+OPCNCHOK_01155	CDS	246				hypothetical protein
+OPCNCHOK_01156	gene	660	radA			
+OPCNCHOK_01156	CDS	660	radA			DNA repair protein RadA
+OPCNCHOK_01157	gene	120				
+OPCNCHOK_01157	CDS	120				hypothetical protein
+OPCNCHOK_01158	gene	2769	dbpA_2			
+OPCNCHOK_01158	CDS	2769	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+OPCNCHOK_01159	gene	1395				
+OPCNCHOK_01159	CDS	1395				hypothetical protein
+OPCNCHOK_01160	gene	945	lnrL			
+OPCNCHOK_01160	CDS	945	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+OPCNCHOK_01161	gene	762				
+OPCNCHOK_01161	CDS	762				hypothetical protein
+OPCNCHOK_01162	gene	72				
+OPCNCHOK_01162	tRNA	72				tRNA-Gln(ttg)
+OPCNCHOK_01163	gene	1029				
+OPCNCHOK_01163	CDS	1029				hypothetical protein
+OPCNCHOK_01164	gene	1137				
+OPCNCHOK_01164	CDS	1137				hypothetical protein
+OPCNCHOK_01165	gene	510	grpE			
+OPCNCHOK_01165	CDS	510	grpE		COG0576	Protein GrpE
+OPCNCHOK_01166	gene	1896	dnaK			
+OPCNCHOK_01166	CDS	1896	dnaK		COG0443	Chaperone protein DnaK
+OPCNCHOK_01167	gene	1095	dnaJ_4			
+OPCNCHOK_01167	CDS	1095	dnaJ_4		COG0484	Chaperone protein DnaJ
+OPCNCHOK_01168	gene	165				
+OPCNCHOK_01168	CDS	165				hypothetical protein
+OPCNCHOK_01169	gene	87				
+OPCNCHOK_01169	tRNA	87				tRNA-Leu(cag)
+OPCNCHOK_01170	gene	261				
+OPCNCHOK_01170	CDS	261				hypothetical protein
+OPCNCHOK_01171	gene	1899	GATB			
+OPCNCHOK_01171	CDS	1899	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+OPCNCHOK_01172	gene	1293				
+OPCNCHOK_01172	CDS	1293				hypothetical protein
+OPCNCHOK_01173	gene	2235	ftsH_3			
+OPCNCHOK_01173	CDS	2235	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OPCNCHOK_01174	gene	744				
+OPCNCHOK_01174	CDS	744				hypothetical protein
+OPCNCHOK_01175	gene	279	acyP			
+OPCNCHOK_01175	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+OPCNCHOK_01176	gene	327				
+OPCNCHOK_01176	CDS	327				hypothetical protein
+OPCNCHOK_01177	gene	312				
+OPCNCHOK_01177	misc_RNA	312				Archaea_SRP
+OPCNCHOK_01178	gene	981	ttuA			
+OPCNCHOK_01178	CDS	981	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+OPCNCHOK_01179	gene	1239				
+OPCNCHOK_01179	CDS	1239				hypothetical protein
+OPCNCHOK_01180	gene	312	cutA			
+OPCNCHOK_01180	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+OPCNCHOK_01181	gene	1053				
+OPCNCHOK_01181	CDS	1053				hypothetical protein
+OPCNCHOK_01182	gene	399				
+OPCNCHOK_01182	CDS	399				hypothetical protein
+OPCNCHOK_01183	gene	420				
+OPCNCHOK_01183	CDS	420				hypothetical protein
+OPCNCHOK_01184	gene	165				
+OPCNCHOK_01184	CDS	165				hypothetical protein
+OPCNCHOK_01185	gene	462	dtxR			
+OPCNCHOK_01185	CDS	462	dtxR			Diphtheria toxin repressor
+OPCNCHOK_01186	gene	768				
+OPCNCHOK_01186	CDS	768				hypothetical protein
+OPCNCHOK_01187	gene	1674	moaA			
+OPCNCHOK_01187	CDS	1674	moaA			GTP 3',8-cyclase
+OPCNCHOK_01188	gene	1350				
+OPCNCHOK_01188	CDS	1350				hypothetical protein
+OPCNCHOK_01189	gene	951	mshA_1			
+OPCNCHOK_01189	CDS	951	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPCNCHOK_01190	gene	1059	desV			
+OPCNCHOK_01190	CDS	1059	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+OPCNCHOK_01191	gene	1065	mshA_2			
+OPCNCHOK_01191	CDS	1065	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPCNCHOK_01192	gene	897	wbgU			
+OPCNCHOK_01192	CDS	897	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+OPCNCHOK_01193	gene	1308	tuaD			
+OPCNCHOK_01193	CDS	1308	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+OPCNCHOK_01194	gene	840	gtaB			
+OPCNCHOK_01194	CDS	840	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OPCNCHOK_01195	gene	1368	wbpA			
+OPCNCHOK_01195	CDS	1368	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+OPCNCHOK_01196	gene	1221	asnB_1			
+OPCNCHOK_01196	CDS	1221	asnB_1	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+OPCNCHOK_01197	gene	798				
+OPCNCHOK_01197	CDS	798				hypothetical protein
+OPCNCHOK_01198	gene	1083	mshA_3			
+OPCNCHOK_01198	CDS	1083	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPCNCHOK_01199	gene	1110				
+OPCNCHOK_01199	CDS	1110				hypothetical protein
+OPCNCHOK_01200	gene	852				
+OPCNCHOK_01200	CDS	852				hypothetical protein
+OPCNCHOK_01201	gene	573				
+OPCNCHOK_01201	CDS	573				hypothetical protein
+OPCNCHOK_01202	gene	534				
+OPCNCHOK_01202	CDS	534				hypothetical protein
+OPCNCHOK_01203	gene	546				
+OPCNCHOK_01203	CDS	546				hypothetical protein
+OPCNCHOK_01204	gene	513				
+OPCNCHOK_01204	CDS	513				hypothetical protein
+OPCNCHOK_01205	gene	1350				
+OPCNCHOK_01205	CDS	1350				hypothetical protein
+OPCNCHOK_01206	gene	1035				
+OPCNCHOK_01206	CDS	1035		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+OPCNCHOK_01207	gene	837				
+OPCNCHOK_01207	CDS	837				hypothetical protein
+OPCNCHOK_01208	gene	942	rfbB_1			
+OPCNCHOK_01208	CDS	942	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OPCNCHOK_01209	gene	1017	per			
+OPCNCHOK_01209	CDS	1017	per	2.6.1.102	COG0399	GDP-perosamine synthase
+OPCNCHOK_01210	gene	1185				
+OPCNCHOK_01210	CDS	1185				hypothetical protein
+OPCNCHOK_01211	gene	876				
+OPCNCHOK_01211	CDS	876				hypothetical protein
+OPCNCHOK_01212	gene	984				
+OPCNCHOK_01212	CDS	984				hypothetical protein
+OPCNCHOK_01213	gene	1608				
+OPCNCHOK_01213	CDS	1608				hypothetical protein
+OPCNCHOK_01214	gene	1149				
+OPCNCHOK_01214	CDS	1149				hypothetical protein
+OPCNCHOK_01215	gene	456				
+OPCNCHOK_01215	CDS	456				hypothetical protein
+OPCNCHOK_01216	gene	993	rfbB_2			
+OPCNCHOK_01216	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OPCNCHOK_01217	gene	1068	cugP_3			
+OPCNCHOK_01217	CDS	1068	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+OPCNCHOK_01218	gene	702				
+OPCNCHOK_01218	CDS	702				hypothetical protein
+OPCNCHOK_01219	gene	1047				
+OPCNCHOK_01219	CDS	1047				hypothetical protein
+OPCNCHOK_01220	gene	375				
+OPCNCHOK_01220	CDS	375				hypothetical protein
+OPCNCHOK_01221	gene	399	epi_2			
+OPCNCHOK_01221	CDS	399	epi_2	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+OPCNCHOK_01222	gene	237				
+OPCNCHOK_01222	CDS	237				hypothetical protein
+OPCNCHOK_01223	gene	1755				
+OPCNCHOK_01223	CDS	1755				hypothetical protein
+OPCNCHOK_01224	gene	546	dapH			
+OPCNCHOK_01224	CDS	546	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OPCNCHOK_01225	gene	828				
+OPCNCHOK_01225	CDS	828				hypothetical protein
+OPCNCHOK_01226	gene	1194	mshA_4			
+OPCNCHOK_01226	CDS	1194	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPCNCHOK_01227	gene	1158	arnB_1			
+OPCNCHOK_01227	CDS	1158	arnB_1	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+OPCNCHOK_01228	gene	1032				
+OPCNCHOK_01228	CDS	1032		1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+OPCNCHOK_01229	gene	750	evaA			
+OPCNCHOK_01229	CDS	750	evaA	4.2.1.159		dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+OPCNCHOK_01230	gene	885	arnC_2			
+OPCNCHOK_01230	CDS	885	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OPCNCHOK_01231	gene	1812				
+OPCNCHOK_01231	CDS	1812				hypothetical protein
+OPCNCHOK_01232	gene	153				
+OPCNCHOK_01232	CDS	153				hypothetical protein
+OPCNCHOK_01233	gene	351				
+OPCNCHOK_01233	CDS	351				hypothetical protein
+OPCNCHOK_01234	gene	1704	novN			
+OPCNCHOK_01234	CDS	1704	novN	2.1.3.12		Decarbamoylnovobiocin carbamoyltransferase
+OPCNCHOK_01235	gene	1080				
+OPCNCHOK_01235	CDS	1080				hypothetical protein
+OPCNCHOK_01236	gene	981	rfbB_3			
+OPCNCHOK_01236	CDS	981	rfbB_3	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OPCNCHOK_01237	gene	1011	hddA			
+OPCNCHOK_01237	CDS	1011	hddA	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+OPCNCHOK_01238	gene	591	gmhA1_1			
+OPCNCHOK_01238	CDS	591	gmhA1_1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+OPCNCHOK_01239	gene	504	gmhB			
+OPCNCHOK_01239	CDS	504	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+OPCNCHOK_01240	gene	1002				
+OPCNCHOK_01240	CDS	1002				hypothetical protein
+OPCNCHOK_01241	gene	939	rfbB_4			
+OPCNCHOK_01241	CDS	939	rfbB_4	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OPCNCHOK_01242	gene	1983				
+OPCNCHOK_01242	CDS	1983				hypothetical protein
+OPCNCHOK_01243	gene	711	arnC_3			
+OPCNCHOK_01243	CDS	711	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OPCNCHOK_01244	gene	1761				
+OPCNCHOK_01244	CDS	1761				hypothetical protein
+OPCNCHOK_01245	gene	963				
+OPCNCHOK_01245	CDS	963				hypothetical protein
+OPCNCHOK_01246	gene	1005	pseB			
+OPCNCHOK_01246	CDS	1005	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+OPCNCHOK_01247	gene	714	bshB1			
+OPCNCHOK_01247	CDS	714	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+OPCNCHOK_01248	gene	660	fmt			
+OPCNCHOK_01248	CDS	660	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+OPCNCHOK_01249	gene	522	speG_1			
+OPCNCHOK_01249	CDS	522	speG_1	2.3.1.57		Spermidine N(1)-acetyltransferase
+OPCNCHOK_01250	gene	510	speG_2			
+OPCNCHOK_01250	CDS	510	speG_2	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+OPCNCHOK_01251	gene	1059	spsE			
+OPCNCHOK_01251	CDS	1059	spsE		COG2089	Spore coat polysaccharide biosynthesis protein SpsE
+OPCNCHOK_01252	gene	1086	arnB_2			
+OPCNCHOK_01252	CDS	1086	arnB_2	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+OPCNCHOK_01253	gene	780	kdsB			
+OPCNCHOK_01253	CDS	780	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+OPCNCHOK_01254	gene	1512				
+OPCNCHOK_01254	CDS	1512				hypothetical protein
+OPCNCHOK_01255	gene	768	COQ3			
+OPCNCHOK_01255	CDS	768	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+OPCNCHOK_01256	gene	2130				
+OPCNCHOK_01256	CDS	2130				hypothetical protein
+OPCNCHOK_01257	gene	516				
+OPCNCHOK_01257	CDS	516		3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+OPCNCHOK_01258	gene	834	legI			
+OPCNCHOK_01258	CDS	834	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+OPCNCHOK_01259	gene	561	gmhA1_2			
+OPCNCHOK_01259	CDS	561	gmhA1_2	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+OPCNCHOK_01260	gene	1008				
+OPCNCHOK_01260	CDS	1008				hypothetical protein
+OPCNCHOK_01261	gene	1035	mtnA			
+OPCNCHOK_01261	CDS	1035	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+OPCNCHOK_01262	gene	642				
+OPCNCHOK_01262	CDS	642				hypothetical protein
+OPCNCHOK_01263	gene	240				
+OPCNCHOK_01263	CDS	240				hypothetical protein
+OPCNCHOK_01264	gene	75				
+OPCNCHOK_01264	tRNA	75				tRNA-Arg(tcg)
+OPCNCHOK_01265	gene	1173	alaA			
+OPCNCHOK_01265	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+OPCNCHOK_01266	gene	402				
+OPCNCHOK_01266	CDS	402				hypothetical protein
+OPCNCHOK_01267	gene	237				
+OPCNCHOK_01267	CDS	237				hypothetical protein
+OPCNCHOK_01268	gene	672				
+OPCNCHOK_01268	CDS	672				hypothetical protein
+OPCNCHOK_01269	gene	618	pspA			
+OPCNCHOK_01269	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+OPCNCHOK_01270	gene	264				
+OPCNCHOK_01270	CDS	264				hypothetical protein
+OPCNCHOK_01271	gene	432	coxM			
+OPCNCHOK_01271	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+OPCNCHOK_01272	gene	1527	ctaD			
+OPCNCHOK_01272	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+OPCNCHOK_01273	gene	984	petE_2			
+OPCNCHOK_01273	CDS	984	petE_2			Plastocyanin
+OPCNCHOK_01274	gene	444	ctaA			
+OPCNCHOK_01274	CDS	444	ctaA	1.3.-.-	COG1612	Heme A synthase
+OPCNCHOK_01275	gene	525				
+OPCNCHOK_01275	CDS	525				hypothetical protein
+OPCNCHOK_01276	gene	603				
+OPCNCHOK_01276	CDS	603				hypothetical protein
+OPCNCHOK_01277	gene	75				
+OPCNCHOK_01277	tRNA	75				tRNA-Lys(ctt)
+OPCNCHOK_01278	gene	171				
+OPCNCHOK_01278	CDS	171				hypothetical protein
+OPCNCHOK_01279	gene	915	ilvE_2			
+OPCNCHOK_01279	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OPCNCHOK_01280	gene	1416				
+OPCNCHOK_01280	CDS	1416				hypothetical protein
+OPCNCHOK_01281	gene	1035	murG			
+OPCNCHOK_01281	CDS	1035	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OPCNCHOK_01282	gene	76				
+OPCNCHOK_01282	tRNA	76				tRNA-Val(tac)
+OPCNCHOK_01283	gene	252				
+OPCNCHOK_01283	CDS	252				hypothetical protein
+OPCNCHOK_01284	gene	882				
+OPCNCHOK_01284	CDS	882				hypothetical protein
+OPCNCHOK_01285	gene	621				
+OPCNCHOK_01285	CDS	621				hypothetical protein
+OPCNCHOK_01286	gene	561				
+OPCNCHOK_01286	CDS	561		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+OPCNCHOK_01287	gene	1020				
+OPCNCHOK_01287	CDS	1020				hypothetical protein
+OPCNCHOK_01288	gene	942				
+OPCNCHOK_01288	CDS	942				hypothetical protein
+OPCNCHOK_01289	gene	1044				
+OPCNCHOK_01289	CDS	1044				hypothetical protein
+OPCNCHOK_01290	gene	75				
+OPCNCHOK_01290	tRNA	75				tRNA-His(gtg)
+OPCNCHOK_01291	gene	348				
+OPCNCHOK_01291	CDS	348				hypothetical protein
+OPCNCHOK_01292	gene	762	cmoA_2			
+OPCNCHOK_01292	CDS	762	cmoA_2	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+OPCNCHOK_01293	gene	264				
+OPCNCHOK_01293	CDS	264				hypothetical protein
+OPCNCHOK_01294	gene	309	bphA3_2			
+OPCNCHOK_01294	CDS	309	bphA3_2			Biphenyl 2,3-dioxygenase, ferredoxin component
+OPCNCHOK_01295	gene	810				
+OPCNCHOK_01295	CDS	810				hypothetical protein
+OPCNCHOK_01296	gene	864				
+OPCNCHOK_01296	CDS	864				hypothetical protein
+OPCNCHOK_01297	gene	1719	glnS			
+OPCNCHOK_01297	CDS	1719	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+OPCNCHOK_01298	gene	408	nikR			
+OPCNCHOK_01298	CDS	408	nikR			Nickel-responsive regulator
+OPCNCHOK_01299	gene	1086	znuA			
+OPCNCHOK_01299	CDS	1086	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+OPCNCHOK_01300	gene	219				
+OPCNCHOK_01300	CDS	219				hypothetical protein
+OPCNCHOK_01301	gene	816	scaC			
+OPCNCHOK_01301	CDS	816	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+OPCNCHOK_01302	gene	855	mntB			
+OPCNCHOK_01302	CDS	855	mntB			Manganese transport system membrane protein MntB
+OPCNCHOK_01303	gene	1062	bepA			
+OPCNCHOK_01303	CDS	1062	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+OPCNCHOK_01304	gene	234				
+OPCNCHOK_01304	CDS	234				hypothetical protein
+OPCNCHOK_01305	gene	984	hexs-b			
+OPCNCHOK_01305	CDS	984	hexs-b	2.5.1.83		Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+OPCNCHOK_01306	gene	639	idi			
+OPCNCHOK_01306	CDS	639	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+OPCNCHOK_01307	gene	741	argB			
+OPCNCHOK_01307	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+OPCNCHOK_01308	gene	948	galK			
+OPCNCHOK_01308	CDS	948	galK	2.7.1.6		Galactokinase
+OPCNCHOK_01309	gene	618				
+OPCNCHOK_01309	CDS	618				hypothetical protein
+OPCNCHOK_01310	gene	1239	eno			
+OPCNCHOK_01310	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+OPCNCHOK_01311	gene	237				
+OPCNCHOK_01311	CDS	237				hypothetical protein
+OPCNCHOK_01312	gene	87				
+OPCNCHOK_01312	tRNA	87				tRNA-Leu(gag)
+OPCNCHOK_01313	gene	618				
+OPCNCHOK_01313	CDS	618				hypothetical protein
+OPCNCHOK_01314	gene	648	nnr_2			
+OPCNCHOK_01314	CDS	648	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OPCNCHOK_01315	gene	612	pksB			
+OPCNCHOK_01315	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+OPCNCHOK_01316	gene	1056	cobT			
+OPCNCHOK_01316	CDS	1056	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+OPCNCHOK_01317	gene	1758	glmS			
+OPCNCHOK_01317	CDS	1758	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+OPCNCHOK_01318	gene	624				
+OPCNCHOK_01318	CDS	624				hypothetical protein
+OPCNCHOK_01319	gene	606				
+OPCNCHOK_01319	CDS	606				hypothetical protein
+OPCNCHOK_01320	gene	315				
+OPCNCHOK_01320	CDS	315				hypothetical protein
+OPCNCHOK_01321	gene	507				
+OPCNCHOK_01321	CDS	507				hypothetical protein
+OPCNCHOK_01322	gene	1068				
+OPCNCHOK_01322	CDS	1068				hypothetical protein
+OPCNCHOK_01323	gene	1167	zupT			
+OPCNCHOK_01323	CDS	1167	zupT			Zinc transporter ZupT
+OPCNCHOK_01324	gene	972				
+OPCNCHOK_01324	CDS	972				hypothetical protein
+OPCNCHOK_01325	gene	324				
+OPCNCHOK_01325	CDS	324				hypothetical protein
+OPCNCHOK_01326	gene	198				
+OPCNCHOK_01326	CDS	198				hypothetical protein
+OPCNCHOK_01327	gene	1587				
+OPCNCHOK_01327	CDS	1587				hypothetical protein
+OPCNCHOK_01328	gene	771	larB			
+OPCNCHOK_01328	CDS	771	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+OPCNCHOK_01329	gene	915	mdh			
+OPCNCHOK_01329	CDS	915	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+OPCNCHOK_01330	gene	1215	larC			
+OPCNCHOK_01330	CDS	1215	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+OPCNCHOK_01331	gene	804	larE			
+OPCNCHOK_01331	CDS	804	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+OPCNCHOK_01332	gene	837				
+OPCNCHOK_01332	CDS	837				hypothetical protein
+OPCNCHOK_01333	gene	819				
+OPCNCHOK_01333	CDS	819				hypothetical protein
+OPCNCHOK_01334	gene	837				
+OPCNCHOK_01334	CDS	837				hypothetical protein
+OPCNCHOK_01335	gene	252				
+OPCNCHOK_01335	CDS	252				hypothetical protein
+OPCNCHOK_01336	gene	3348	rpoB			
+OPCNCHOK_01336	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OPCNCHOK_01337	gene	3807	rpoC			
+OPCNCHOK_01337	CDS	3807	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+OPCNCHOK_01338	gene	345				
+OPCNCHOK_01338	CDS	345				hypothetical protein
+OPCNCHOK_01339	gene	510				
+OPCNCHOK_01339	CDS	510				hypothetical protein
+OPCNCHOK_01340	gene	357	queD			
+OPCNCHOK_01340	CDS	357	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+OPCNCHOK_01341	gene	1182				
+OPCNCHOK_01341	CDS	1182				hypothetical protein
+OPCNCHOK_01342	gene	144				
+OPCNCHOK_01342	CDS	144				hypothetical protein
+OPCNCHOK_01343	gene	183				
+OPCNCHOK_01343	CDS	183				hypothetical protein
+OPCNCHOK_01344	gene	123				
+OPCNCHOK_01344	CDS	123				hypothetical protein
+OPCNCHOK_01345	gene	702				
+OPCNCHOK_01345	CDS	702				hypothetical protein
+OPCNCHOK_01346	gene	168				
+OPCNCHOK_01346	CDS	168				hypothetical protein
+OPCNCHOK_01347	gene	1569				
+OPCNCHOK_01347	CDS	1569				hypothetical protein
+OPCNCHOK_01348	gene	801	nirQ			
+OPCNCHOK_01348	CDS	801	nirQ		COG0714	Denitrification regulatory protein NirQ
+OPCNCHOK_01349	gene	1464				
+OPCNCHOK_01349	CDS	1464				hypothetical protein
+OPCNCHOK_01350	gene	417				
+OPCNCHOK_01350	CDS	417				hypothetical protein
+OPCNCHOK_01351	gene	636				
+OPCNCHOK_01351	CDS	636				hypothetical protein
+OPCNCHOK_01352	gene	1263	serS			
+OPCNCHOK_01352	CDS	1263	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+OPCNCHOK_01353	gene	243				
+OPCNCHOK_01353	CDS	243				hypothetical protein
+OPCNCHOK_01354	gene	1422				
+OPCNCHOK_01354	CDS	1422				hypothetical protein
+OPCNCHOK_01355	gene	450				
+OPCNCHOK_01355	CDS	450				hypothetical protein
+OPCNCHOK_01356	gene	339				
+OPCNCHOK_01356	CDS	339				hypothetical protein
+OPCNCHOK_01357	gene	270				
+OPCNCHOK_01357	CDS	270				hypothetical protein
+OPCNCHOK_01358	gene	522				
+OPCNCHOK_01358	CDS	522				hypothetical protein
+OPCNCHOK_01359	gene	327				
+OPCNCHOK_01359	CDS	327				hypothetical protein
+OPCNCHOK_01360	gene	567				
+OPCNCHOK_01360	CDS	567				hypothetical protein
+OPCNCHOK_01361	gene	564				
+OPCNCHOK_01361	CDS	564				hypothetical protein
+OPCNCHOK_01362	gene	363				
+OPCNCHOK_01362	CDS	363				hypothetical protein
+OPCNCHOK_01363	gene	651				
+OPCNCHOK_01363	CDS	651				hypothetical protein
+OPCNCHOK_01364	gene	864	dpnM			
+OPCNCHOK_01364	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+OPCNCHOK_01365	gene	74				
+OPCNCHOK_01365	tRNA	74				tRNA-Thr(ggt)
+OPCNCHOK_01366	gene	420				
+OPCNCHOK_01366	CDS	420				hypothetical protein
+OPCNCHOK_01367	gene	891				
+OPCNCHOK_01367	CDS	891				hypothetical protein
+OPCNCHOK_01368	gene	75				
+OPCNCHOK_01368	tRNA	75				tRNA-Ile(gat)
+OPCNCHOK_01369	gene	558	resA_3			
+OPCNCHOK_01369	CDS	558	resA_3			Thiol-disulfide oxidoreductase ResA
+OPCNCHOK_01370	gene	77				
+OPCNCHOK_01370	tRNA	77				tRNA-Ala(tgc)
+OPCNCHOK_01371	gene	108				
+OPCNCHOK_01371	CDS	108				hypothetical protein
+OPCNCHOK_01372	gene	465	tagD			
+OPCNCHOK_01372	CDS	465	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+OPCNCHOK_01373	gene	330				
+OPCNCHOK_01373	CDS	330				hypothetical protein
+OPCNCHOK_01374	gene	294				
+OPCNCHOK_01374	CDS	294				hypothetical protein
+OPCNCHOK_01375	gene	1113				
+OPCNCHOK_01375	CDS	1113				hypothetical protein
+OPCNCHOK_01376	gene	1398				
+OPCNCHOK_01376	CDS	1398				hypothetical protein
+OPCNCHOK_01377	gene	1644				
+OPCNCHOK_01377	CDS	1644				hypothetical protein
+OPCNCHOK_01378	gene	420				
+OPCNCHOK_01378	CDS	420				hypothetical protein
+OPCNCHOK_01379	gene	240				
+OPCNCHOK_01379	CDS	240				hypothetical protein
+OPCNCHOK_01380	gene	567				
+OPCNCHOK_01380	CDS	567				hypothetical protein
+OPCNCHOK_01381	gene	633				
+OPCNCHOK_01381	CDS	633				hypothetical protein
+OPCNCHOK_01382	gene	2283	acnA			
+OPCNCHOK_01382	CDS	2283	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+OPCNCHOK_01383	gene	75				
+OPCNCHOK_01383	tRNA	75				tRNA-Trp(cca)
+OPCNCHOK_01384	gene	534				
+OPCNCHOK_01384	CDS	534				hypothetical protein
+OPCNCHOK_01385	gene	969	pdxS			
+OPCNCHOK_01385	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OPCNCHOK_01386	gene	618	pdxT			
+OPCNCHOK_01386	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+OPCNCHOK_01387	gene	2322	valS_2			
+OPCNCHOK_01387	CDS	2322	valS_2	6.1.1.9		Valine--tRNA ligase
+OPCNCHOK_01388	gene	300	phhB			
+OPCNCHOK_01388	CDS	300	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+OPCNCHOK_01389	gene	744	asnB_2			
+OPCNCHOK_01389	CDS	744	asnB_2	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+OPCNCHOK_01390	gene	1362	purB			
+OPCNCHOK_01390	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+OPCNCHOK_01391	gene	648	bacG			
+OPCNCHOK_01391	CDS	648	bacG	1.3.1.-	COG1028	NADPH-dependent reductase BacG
+OPCNCHOK_01392	gene	1449	rtcB			
+OPCNCHOK_01392	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+OPCNCHOK_01393	gene	414				
+OPCNCHOK_01393	CDS	414				hypothetical protein
+OPCNCHOK_01394	gene	318				
+OPCNCHOK_01394	CDS	318				hypothetical protein
+OPCNCHOK_01395	gene	501				
+OPCNCHOK_01395	CDS	501				hypothetical protein
+OPCNCHOK_01396	gene	939	thiL			
+OPCNCHOK_01396	CDS	939	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+OPCNCHOK_01397	gene	1290	glmM_2			
+OPCNCHOK_01397	CDS	1290	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+OPCNCHOK_01398	gene	74				
+OPCNCHOK_01398	tRNA	74				tRNA-Thr(cgt)
+OPCNCHOK_01399	gene	1806				
+OPCNCHOK_01399	CDS	1806				hypothetical protein
+OPCNCHOK_01400	gene	192				
+OPCNCHOK_01400	CDS	192				hypothetical protein
+OPCNCHOK_01401	gene	219				
+OPCNCHOK_01401	CDS	219				hypothetical protein
+OPCNCHOK_01402	gene	279				
+OPCNCHOK_01402	CDS	279				hypothetical protein
+OPCNCHOK_01403	gene	591				
+OPCNCHOK_01403	CDS	591				hypothetical protein
+OPCNCHOK_01404	gene	186				
+OPCNCHOK_01404	CDS	186				hypothetical protein
+OPCNCHOK_01405	gene	1827				
+OPCNCHOK_01405	CDS	1827				hypothetical protein
+OPCNCHOK_01406	gene	72				
+OPCNCHOK_01406	tRNA	72				tRNA-Cys(gca)
+OPCNCHOK_01407	gene	222				
+OPCNCHOK_01407	CDS	222				hypothetical protein
+OPCNCHOK_01408	gene	756	dtd3			
+OPCNCHOK_01408	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+OPCNCHOK_01409	gene	423				
+OPCNCHOK_01409	CDS	423				hypothetical protein
+OPCNCHOK_01410	gene	777				
+OPCNCHOK_01410	CDS	777				hypothetical protein
+OPCNCHOK_01411	gene	522				
+OPCNCHOK_01411	CDS	522				hypothetical protein
+OPCNCHOK_01412	gene	600				
+OPCNCHOK_01412	CDS	600		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+OPCNCHOK_01413	gene	288				
+OPCNCHOK_01413	CDS	288				hypothetical protein
+OPCNCHOK_01414	gene	693				
+OPCNCHOK_01414	CDS	693				hypothetical protein
+OPCNCHOK_01415	gene	213				
+OPCNCHOK_01415	CDS	213				hypothetical protein
+OPCNCHOK_01416	gene	279				
+OPCNCHOK_01416	CDS	279				hypothetical protein
+OPCNCHOK_01417	gene	462				
+OPCNCHOK_01417	CDS	462				hypothetical protein
+OPCNCHOK_01418	gene	1002	purA			
+OPCNCHOK_01418	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OPCNCHOK_01419	gene	663				
+OPCNCHOK_01419	CDS	663				hypothetical protein
+OPCNCHOK_01420	gene	738	pyrF			
+OPCNCHOK_01420	CDS	738	pyrF			Orotidine 5'-phosphate decarboxylase
+OPCNCHOK_01421	gene	411				
+OPCNCHOK_01421	CDS	411				hypothetical protein
+OPCNCHOK_01422	gene	702				
+OPCNCHOK_01422	CDS	702		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+OPCNCHOK_01423	gene	1140				
+OPCNCHOK_01423	CDS	1140				hypothetical protein
+OPCNCHOK_01424	gene	501				
+OPCNCHOK_01424	CDS	501				hypothetical protein
+OPCNCHOK_01425	gene	144				
+OPCNCHOK_01425	CDS	144				hypothetical protein
+OPCNCHOK_01426	gene	420				
+OPCNCHOK_01426	CDS	420				hypothetical protein
+OPCNCHOK_01427	gene	297				
+OPCNCHOK_01427	CDS	297				hypothetical protein
+OPCNCHOK_01428	gene	312				
+OPCNCHOK_01428	CDS	312				hypothetical protein
+OPCNCHOK_01429	gene	780				
+OPCNCHOK_01429	CDS	780				hypothetical protein
+OPCNCHOK_01430	gene	570				
+OPCNCHOK_01430	CDS	570				hypothetical protein
+OPCNCHOK_01431	gene	1869	TOP6B			
+OPCNCHOK_01431	CDS	1869	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+OPCNCHOK_01432	gene	1122	TOP6A			
+OPCNCHOK_01432	CDS	1122	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+OPCNCHOK_01433	gene	474				
+OPCNCHOK_01433	CDS	474				hypothetical protein
+OPCNCHOK_01434	gene	240				
+OPCNCHOK_01434	CDS	240				hypothetical protein
+OPCNCHOK_01435	gene	363				
+OPCNCHOK_01435	CDS	363				hypothetical protein
+OPCNCHOK_01436	gene	483				
+OPCNCHOK_01436	CDS	483				hypothetical protein
+OPCNCHOK_01437	gene	243				
+OPCNCHOK_01437	CDS	243				hypothetical protein
+OPCNCHOK_01438	gene	792	mtnP			
+OPCNCHOK_01438	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+OPCNCHOK_01439	gene	513	apt			
+OPCNCHOK_01439	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+OPCNCHOK_01440	gene	2121				
+OPCNCHOK_01440	CDS	2121				hypothetical protein
+OPCNCHOK_01441	gene	1005	iolS_2			
+OPCNCHOK_01441	CDS	1005	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+OPCNCHOK_01442	gene	573				
+OPCNCHOK_01442	CDS	573				hypothetical protein
+OPCNCHOK_01443	gene	675				
+OPCNCHOK_01443	CDS	675			COG3253	putative protein/MSMEI_2713
+OPCNCHOK_01444	gene	774				
+OPCNCHOK_01444	CDS	774				putative ABC transporter ATP-binding protein
+OPCNCHOK_01445	gene	963				
+OPCNCHOK_01445	CDS	963				hypothetical protein
+OPCNCHOK_01446	gene	243				
+OPCNCHOK_01446	CDS	243				hypothetical protein
+OPCNCHOK_01447	gene	303				
+OPCNCHOK_01447	CDS	303				hypothetical protein
+OPCNCHOK_01448	gene	384				
+OPCNCHOK_01448	CDS	384				hypothetical protein
+OPCNCHOK_01449	gene	561	scpB			
+OPCNCHOK_01449	CDS	561	scpB			Segregation and condensation protein B
+OPCNCHOK_01450	gene	732				
+OPCNCHOK_01450	CDS	732				hypothetical protein
+OPCNCHOK_01451	gene	1065	adhT_2			
+OPCNCHOK_01451	CDS	1065	adhT_2	1.1.1.1		Alcohol dehydrogenase
+OPCNCHOK_01452	gene	612				
+OPCNCHOK_01452	CDS	612				hypothetical protein
+OPCNCHOK_01453	gene	414				
+OPCNCHOK_01453	CDS	414				hypothetical protein
+OPCNCHOK_01454	gene	690				
+OPCNCHOK_01454	CDS	690				hypothetical protein
+OPCNCHOK_01455	gene	1326	ffh			
+OPCNCHOK_01455	CDS	1326	ffh		COG0541	Signal recognition particle protein
+OPCNCHOK_01456	gene	765	fbiB_2			
+OPCNCHOK_01456	CDS	765	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+OPCNCHOK_01457	gene	1272	dmdA			
+OPCNCHOK_01457	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+OPCNCHOK_01458	gene	483	DmdB			
+OPCNCHOK_01458	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+OPCNCHOK_01459	gene	1410	leuC			
+OPCNCHOK_01459	CDS	1410	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+OPCNCHOK_01460	gene	588	leuD1			
+OPCNCHOK_01460	CDS	588	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+OPCNCHOK_01461	gene	450	rpsI			
+OPCNCHOK_01461	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+OPCNCHOK_01462	gene	495				
+OPCNCHOK_01462	CDS	495				hypothetical protein
+OPCNCHOK_01463	gene	348				
+OPCNCHOK_01463	CDS	348				hypothetical protein
+OPCNCHOK_01464	gene	603				
+OPCNCHOK_01464	CDS	603				hypothetical protein
+OPCNCHOK_01465	gene	687				
+OPCNCHOK_01465	CDS	687				hypothetical protein
+OPCNCHOK_01466	gene	681				
+OPCNCHOK_01466	CDS	681				hypothetical protein
+OPCNCHOK_01467	gene	738	rph_1			
+OPCNCHOK_01467	CDS	738	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+OPCNCHOK_01468	gene	807	rph_2			
+OPCNCHOK_01468	CDS	807	rph_2	2.7.7.56		Ribonuclease PH
+OPCNCHOK_01469	gene	210				
+OPCNCHOK_01469	CDS	210				hypothetical protein
+OPCNCHOK_01470	gene	246				
+OPCNCHOK_01470	CDS	246				hypothetical protein
+OPCNCHOK_01471	gene	384				
+OPCNCHOK_01471	CDS	384				hypothetical protein
+OPCNCHOK_01472	gene	687				
+OPCNCHOK_01472	CDS	687				hypothetical protein
+OPCNCHOK_01473	gene	486				
+OPCNCHOK_01473	CDS	486				hypothetical protein
+OPCNCHOK_01474	gene	816	nadK_2			
+OPCNCHOK_01474	CDS	816	nadK_2	2.7.1.23		NAD kinase
+OPCNCHOK_01475	gene	954				
+OPCNCHOK_01475	CDS	954				hypothetical protein
+OPCNCHOK_01476	gene	1881				
+OPCNCHOK_01476	CDS	1881				hypothetical protein
+OPCNCHOK_01477	gene	1212				
+OPCNCHOK_01477	CDS	1212				hypothetical protein
+OPCNCHOK_01478	gene	47				
+OPCNCHOK_01478	misc_RNA	47				Histone3
+OPCNCHOK_01479	gene	1323	gerN_2			
+OPCNCHOK_01479	CDS	1323	gerN_2		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+OPCNCHOK_01480	gene	444				
+OPCNCHOK_01480	CDS	444				hypothetical protein
+OPCNCHOK_01481	gene	747	cpdA_2			
+OPCNCHOK_01481	CDS	747	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+OPCNCHOK_01482	gene	87				
+OPCNCHOK_01482	tRNA	87				tRNA-Ser(gct)
+OPCNCHOK_01483	gene	162				
+OPCNCHOK_01483	CDS	162				hypothetical protein
+OPCNCHOK_01484	gene	174				
+OPCNCHOK_01484	CDS	174				hypothetical protein
+OPCNCHOK_01485	gene	825				
+OPCNCHOK_01485	CDS	825				hypothetical protein
+OPCNCHOK_01486	gene	1215				
+OPCNCHOK_01486	CDS	1215				hypothetical protein
+OPCNCHOK_01487	gene	74				
+OPCNCHOK_01487	tRNA	74				tRNA-Gly(gcc)
+OPCNCHOK_01488	gene	243				
+OPCNCHOK_01488	CDS	243				hypothetical protein
+OPCNCHOK_01489	gene	495				
+OPCNCHOK_01489	CDS	495				hypothetical protein
+OPCNCHOK_01490	gene	576				
+OPCNCHOK_01490	CDS	576				hypothetical protein
+OPCNCHOK_01491	gene	663				
+OPCNCHOK_01491	CDS	663				hypothetical protein
+OPCNCHOK_01492	gene	78				
+OPCNCHOK_01492	tRNA	78				tRNA-Glu(ctc)
+OPCNCHOK_01493	gene	906				
+OPCNCHOK_01493	CDS	906				hypothetical protein
+OPCNCHOK_01494	gene	150				
+OPCNCHOK_01494	CDS	150				hypothetical protein
+OPCNCHOK_01495	gene	1506				
+OPCNCHOK_01495	CDS	1506				hypothetical protein
+OPCNCHOK_01496	gene	396				
+OPCNCHOK_01496	CDS	396				hypothetical protein
+OPCNCHOK_01497	gene	489				
+OPCNCHOK_01497	CDS	489				hypothetical protein
+OPCNCHOK_01498	gene	660				
+OPCNCHOK_01498	CDS	660				hypothetical protein
+OPCNCHOK_01499	gene	330				
+OPCNCHOK_01499	CDS	330				hypothetical protein
+OPCNCHOK_01500	gene	1005	drrA			
+OPCNCHOK_01500	CDS	1005	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+OPCNCHOK_01501	gene	777	drrB			
+OPCNCHOK_01501	CDS	777	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+OPCNCHOK_01502	gene	366				
+OPCNCHOK_01502	CDS	366				hypothetical protein
+OPCNCHOK_01503	gene	201				
+OPCNCHOK_01503	CDS	201				hypothetical protein
+OPCNCHOK_01504	gene	198				
+OPCNCHOK_01504	CDS	198				hypothetical protein
+OPCNCHOK_01505	gene	1332				
+OPCNCHOK_01505	CDS	1332				hypothetical protein
+OPCNCHOK_01506	gene	1215	thrC			
+OPCNCHOK_01506	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+OPCNCHOK_01507	gene	591				
+OPCNCHOK_01507	CDS	591				hypothetical protein
+OPCNCHOK_01508	gene	804	hisF			
+OPCNCHOK_01508	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+OPCNCHOK_01509	gene	729	hisA			
+OPCNCHOK_01509	CDS	729	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+OPCNCHOK_01510	gene	609	hisH			
+OPCNCHOK_01510	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+OPCNCHOK_01511	gene	588	hisB			
+OPCNCHOK_01511	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+OPCNCHOK_01512	gene	963				
+OPCNCHOK_01512	CDS	963				hypothetical protein
+OPCNCHOK_01513	gene	1068	hisC			
+OPCNCHOK_01513	CDS	1068	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+OPCNCHOK_01514	gene	1254	hisD			
+OPCNCHOK_01514	CDS	1254	hisD	1.1.1.23		Histidinol dehydrogenase
+OPCNCHOK_01515	gene	978	hisG			
+OPCNCHOK_01515	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+OPCNCHOK_01516	gene	1161	mvaA			
+OPCNCHOK_01516	CDS	1161	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+OPCNCHOK_01517	gene	1113	yliI_2			
+OPCNCHOK_01517	CDS	1113	yliI_2	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+OPCNCHOK_01518	gene	75				
+OPCNCHOK_01518	tRNA	75				tRNA-Met(cat)
+OPCNCHOK_01519	gene	1320				
+OPCNCHOK_01519	CDS	1320				hypothetical protein
+OPCNCHOK_01520	gene	1005				
+OPCNCHOK_01520	CDS	1005				hypothetical protein
+OPCNCHOK_01521	gene	516				
+OPCNCHOK_01521	CDS	516				hypothetical protein
+OPCNCHOK_01522	gene	1221				
+OPCNCHOK_01522	CDS	1221				hypothetical protein
+OPCNCHOK_01523	gene	543				
+OPCNCHOK_01523	CDS	543				hypothetical protein
+OPCNCHOK_01524	gene	825	pheA			
+OPCNCHOK_01524	CDS	825	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+OPCNCHOK_01525	gene	471				
+OPCNCHOK_01525	CDS	471				hypothetical protein
+OPCNCHOK_01526	gene	1437	guaB			
+OPCNCHOK_01526	CDS	1437	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OPCNCHOK_01527	gene	912	folP			
+OPCNCHOK_01527	CDS	912	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+OPCNCHOK_01528	gene	738				
+OPCNCHOK_01528	CDS	738				hypothetical protein
+OPCNCHOK_01529	gene	585				
+OPCNCHOK_01529	CDS	585				hypothetical protein
+OPCNCHOK_01530	gene	1524	guaA_2			
+OPCNCHOK_01530	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+OPCNCHOK_01531	gene	870	mak			
+OPCNCHOK_01531	CDS	870	mak	2.7.1.4	COG1940	Fructokinase

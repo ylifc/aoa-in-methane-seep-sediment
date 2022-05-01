@@ -1,0 +1,253 @@
+[17:01:33] This is prokka 1.14.6
+[17:01:33] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:01:33] Homepage is https://github.com/tseemann/prokka
+[17:01:33] Local time is Tue Dec 21 17:01:33 2021
+[17:01:33] You are ylifc
+[17:01:33] Operating system is linux
+[17:01:33] You have BioPerl 1.007002
+[17:01:33] System has 64 cores.
+[17:01:33] Will use maximum of 64 cores.
+[17:01:33] Annotating as >>> Bacteria <<<
+[17:01:33] Generating locus_tag from 'Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1.fa' contents.
+[17:01:33] Setting --locustag NHCBOPOI from MD5 71cb8982070f8cd949167919ea2338d9
+[17:01:33] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[17:01:33] Creating new output folder: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka
+[17:01:33] Running: mkdir -p Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka
+[17:01:33] Using filename prefix: PROKKA_12212021.XXX
+[17:01:33] Setting HMMER_NCPU=1
+[17:01:33] Writing log to: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.log
+[17:01:33] Command: /home/ylifc/miniconda2/envs/prokka/bin/prokka --cpus 0 --compliant --rfam Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1.fa --outdir Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka
+[17:01:33] Appending to PATH: /home/ylifc/miniconda2/envs/prokka/bin
+[17:01:33] Looking for 'aragorn' - found /home/ylifc/miniconda2/envs/prokka/bin/aragorn
+[17:01:33] Determined aragorn version is 001002 from 'ARAGORN v1.2.38 Dean Laslett'
+[17:01:33] Looking for 'barrnap' - found /home/ylifc/miniconda2/envs/prokka/bin/barrnap
+[17:01:33] Determined barrnap version is 000009 from 'barrnap 0.9'
+[17:01:33] Looking for 'blastp' - found /home/ylifc/miniconda2/envs/prokka/bin/blastp
+[17:01:34] Determined blastp version is 002012 from 'blastp: 2.12.0+'
+[17:01:34] Looking for 'cmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/cmpress
+[17:01:34] Determined cmpress version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[17:01:34] Looking for 'cmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/cmscan
+[17:01:34] Determined cmscan version is 001001 from '# INFERNAL 1.1.4 (Dec 2020)'
+[17:01:34] Looking for 'egrep' - found /bin/egrep
+[17:01:34] Looking for 'find' - found /usr/bin/find
+[17:01:34] Looking for 'grep' - found /bin/grep
+[17:01:34] Looking for 'hmmpress' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmpress
+[17:01:34] Determined hmmpress version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[17:01:34] Looking for 'hmmscan' - found /home/ylifc/miniconda2/envs/prokka/bin/hmmscan
+[17:01:34] Determined hmmscan version is 003003 from '# HMMER 3.3.2 (Nov 2020); http://hmmer.org/'
+[17:01:34] Looking for 'java' - found /home/ylifc/miniconda2/envs/prokka/bin/java
+[17:01:34] Looking for 'makeblastdb' - found /home/ylifc/miniconda2/envs/prokka/bin/makeblastdb
+[17:01:36] Determined makeblastdb version is 002012 from 'makeblastdb: 2.12.0+'
+[17:01:36] Looking for 'minced' - found /home/ylifc/miniconda2/envs/prokka/bin/minced
+[17:01:36] Determined minced version is 004002 from 'minced 0.4.2'
+[17:01:36] Looking for 'parallel' - found /home/ylifc/miniconda2/envs/prokka/bin/parallel
+[17:01:36] Determined parallel version is 20211022 from 'GNU parallel 20211022'
+[17:01:36] Looking for 'prodigal' - found /home/ylifc/miniconda2/envs/prokka/bin/prodigal
+[17:01:36] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[17:01:36] Looking for 'prokka-genbank_to_fasta_db' - found /home/ylifc/miniconda2/envs/prokka/bin/prokka-genbank_to_fasta_db
+[17:01:36] Looking for 'sed' - found /bin/sed
+[17:01:36] Looking for 'tbl2asn' - found /home/ylifc/miniconda2/envs/prokka/bin/tbl2asn
+[17:01:37] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[17:01:37] Using genetic code table 11.
+[17:01:37] Loading and checking input file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1.fa
+[17:01:37] Wrote 83 contigs totalling 1173997 bp.
+[17:01:37] Predicting tRNAs and tmRNAs
+[17:01:37] Running: aragorn -l -gc11  -w Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.fna
+[17:01:37] 1 tRNA-Gly [12534,12608] 36 (tcc)
+[17:01:37] 1 tRNA-Gly c[12511,12584] 35 (ccc)
+[17:01:37] 2 tRNA-Leu [40554,40639] 37 (cag)
+[17:01:37] 1 tRNA-Val c[32078,32151] 35 (gac)
+[17:01:37] 1 tRNA-Thr [7792,7865] 35 (cgt)
+[17:01:37] 2 tRNA-Cys c[11677,11751] 33 (gca)
+[17:01:37] 1 tRNA-Ala [13578,13653] 36 (ggc)
+[17:01:37] 2 tRNA-Pro [13702,13776] 35 (cgg)
+[17:01:37] 3 tRNA-Ser c[24095,24180] 36 (tga)
+[17:01:37] 4 tRNA-Leu [41274,41359] 37 (tag)
+[17:01:37] 5 tRNA-Ala [46470,46542] 33 (cgc)
+[17:01:37] 1 tRNA-Lys c[4016,4089] 35 (ttt)
+[17:01:37] 2 tRNA-Asp [4183,4260] 37 (gtc)
+[17:01:37] 3 tRNA-Met [24185,24258] 35 (cat)
+[17:01:37] 1 tRNA-Phe c[12526,12601] 35 (gaa)
+[17:01:37] 1 tRNA-Pro c[7111,7185] 36 (ggg)
+[17:01:37] 1 tRNA-Pro [22259,22332] 35 (tgg)
+[17:01:37] 1 tRNA-Asn c[1058,1132] 35 (gtt)
+[17:01:37] 1 tRNA-Glu [20098,20173] 37 (ctc)
+[17:01:37] 1 tRNA-Lys c[5386,5460] 35 (ctt)
+[17:01:37] 2 tRNA-Arg [13769,13843] 36 (tcg)
+[17:01:37] 1 tRNA-Thr c[7032,7106] 36 (tgt)
+[17:01:37] 2 tRNA-Val c[12772,12867] 35 (cac)
+[17:01:37] 1 tRNA-Val c[444,520] 37 (tac)
+[17:01:37] 1 tRNA-Gly [4405,4478] 36 (gcc)
+[17:01:37] 1 tRNA-Tyr [2814,2907] 37 (ata)
+[17:01:37] 1 tRNA-Arg [3227,3302] 36 (gcg)
+[17:01:37] 1 tRNA-Ala c[2,76] 35 (tgc)
+[17:01:37] 2 tRNA-Thr [2481,2554] 35 (ggt)
+[17:01:37] Found 29 tRNAs
+[17:01:37] Predicting Ribosomal RNAs
+[17:01:37] Running Barrnap with 64 threads
+[17:01:39] 1 gnl|Prokka|NHCBOPOI_7 30899 5S ribosomal RNA
+[17:01:39] Found 1 rRNAs
+[17:01:39] Scanning for ncRNAs... please be patient.
+[17:01:39] Running: cmscan -Z 2.347994 --cut_ga --rfam --nohmmonly --fmt 2 --cpu 64 --tblout /dev/stdout -o /dev/null --noali /home/ylifc/miniconda2/envs/prokka/db/cm/Bacteria Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.fna
+[17:03:56] 1 ncRNA 1 gnl|Prokka|NHCBOPOI_2 1..303
+[17:03:56] 2 ncRNA 1 gnl|Prokka|NHCBOPOI_3 1..318
+[17:03:56] Found 2 ncRNAs.
+[17:03:56] Total of 30 tRNA + rRNA features
+[17:03:56] Searching for CRISPR repeats
+[17:03:57] Found 0 CRISPRs
+[17:03:57] Predicting coding sequences
+[17:03:57] Contigs total 1173997 bp, so using single mode
+[17:03:57] Running: prodigal -i Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.fna -c -m -g 11 -p single -f sco -q
+[17:04:00] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|NHCBOPOI_6:23139..24095 on + strand
+[17:04:00] Excluding CDS which overlaps existing RNA (tRNA) at gnl|Prokka|NHCBOPOI_6:41281..42246 on + strand
+[17:04:00] Found 1393 CDS
+[17:04:00] Connecting features back to sequences
+[17:04:00] Not using genus-specific database. Try --usegenus to enable it.
+[17:04:00] Annotating CDS, please be patient.
+[17:04:00] Will use 64 CPUs for similarity searching.
+[17:04:01] There are still 1393 unannotated CDS left (started with 1393)
+[17:04:01] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS with 64 CPUs
+[17:04:01] Running: cat Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.IS\.tmp\.63094\.faa | parallel --gnu --plain -j 64 --block 2717 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.IS\.tmp\.63094\.blast 2> /dev/null
+[17:04:13] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.IS.tmp.63094.faa
+[17:04:13] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.IS.tmp.63094.blast
+[17:04:14] There are still 1393 unannotated CDS left (started with 1393)
+[17:04:14] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR with 64 CPUs
+[17:04:14] Running: cat Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.AMR\.tmp\.63094\.faa | parallel --gnu --plain -j 64 --block 2717 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/AMR -evalue 9.99999999999999e-301 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.AMR\.tmp\.63094\.blast 2> /dev/null
+[17:04:26] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.AMR.tmp.63094.faa
+[17:04:26] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.AMR.tmp.63094.blast
+[17:04:26] There are still 1393 unannotated CDS left (started with 1393)
+[17:04:26] Will use blast to search against /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot with 64 CPUs
+[17:04:26] Running: cat Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.sprot\.tmp\.63094\.faa | parallel --gnu --plain -j 64 --block 2717 --recstart '>' --pipe blastp -query - -db /home/ylifc/miniconda2/envs/prokka/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.sprot\.tmp\.63094\.blast 2> /dev/null
+[17:04:56] Modify product: Uncharacterized oxidoreductase Rv1350 => putative oxidoreductase
+[17:04:56] Modify product: Probable endonuclease 4 => putative endonuclease 4
+[17:04:56] Modify product: Probable oxidoreductase CT_610 => putative oxidoreductase CT_610
+[17:04:56] Modify product: Uncharacterized ABC transporter ATP-binding protein YheS => putative ABC transporter ATP-binding protein YheS
+[17:04:56] Modify product: UPF0098 protein CT_736 => hypothetical protein
+[17:04:56] Modify product: Uncharacterized metal-dependent hydrolase YcfH => putative metal-dependent hydrolase YcfH
+[17:04:56] Modify product: Probable dipeptidase PepE => putative dipeptidase PepE
+[17:04:56] Modify product: UPF0126 inner membrane protein YicG => hypothetical protein
+[17:04:56] Modify product: Putative 2-hydroxyacid dehydrogenase SA2098 => Putative 2-hydroxyacid dehydrogenase
+[17:04:56] Modify product: Uncharacterized protein YccU => putative protein YccU
+[17:04:56] Modify product: NADH dehydrogenase-like protein SAOUHSC_00878 => NADH dehydrogenase-like protein
+[17:04:56] Modify product: NAD(P)H-dependent FAD/FMN reductase GTNG_3158 => NAD(P)H-dependent FAD/FMN reductase
+[17:04:56] Modify product: Probable nicotinate-nucleotide pyrophosphorylase [carboxylating] => putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+[17:04:57] Modify product: Uncharacterized protein YedJ => putative protein YedJ
+[17:04:57] Modify product: Probable cysteine desulfurase => putative cysteine desulfurase
+[17:04:57] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[17:04:57] Modify product: UPF0051 protein Rv1461 => hypothetical protein
+[17:04:57] Modify product: Probable ABC transporter ATP-binding protein M6_Spy0273 => putative ABC transporter ATP-binding protein
+[17:04:57] Modify product: Uncharacterized protein MSMEG_2782/MSMEI_2713 => putative protein/MSMEI_2713
+[17:04:57] Modify product: UPF0053 protein HI_0107 => hypothetical protein
+[17:04:57] Modify product: Putative coenzyme F420-dependent oxidoreductase Rv3520c => Putative coenzyme F420-dependent oxidoreductase
+[17:04:57] Modify product: Uncharacterized oxidoreductase SA2266 => putative oxidoreductase
+[17:04:57] Modify product: UPF0047 protein Rv2556c => hypothetical protein
+[17:04:57] Modify product: Uncharacterized protein Rv2030c => putative protein
+[17:04:57] Modify product: Uncharacterized protein Rv2715 => putative protein
+[17:04:58] Modify product: Ribonuclease TTHA0252 => Ribonuclease
+[17:04:58] Cleaned 26 /product names
+[17:04:58] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.sprot.tmp.63094.faa
+[17:04:58] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.sprot.tmp.63094.blast
+[17:04:58] There are still 992 unannotated CDS left (started with 1393)
+[17:04:58] Will use hmmer3 to search against /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm with 64 CPUs
+[17:04:58] Running: cat Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.HAMAP\.hmm\.tmp\.63094\.faa | parallel --gnu --plain -j 64 --block 1688 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/ylifc/miniconda2/envs/prokka/db/hmm/HAMAP.hmm /dev/stdin > Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.HAMAP\.hmm\.tmp\.63094\.hmmer3 2> /dev/null
+[17:05:26] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[17:05:27] Cleaned 1 /product names
+[17:05:27] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.HAMAP.hmm.tmp.63094.faa
+[17:05:27] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.HAMAP.hmm.tmp.63094.hmmer3
+[17:05:27] Labelling remaining 874 proteins as 'hypothetical protein'
+[17:05:27] Possible /pseudo 'NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic' at gnl|Prokka|NHCBOPOI_7 position 20964
+[17:05:27] Possible /pseudo '5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase' at gnl|Prokka|NHCBOPOI_14 position 7533
+[17:05:27] Possible /pseudo 'FO synthase' at gnl|Prokka|NHCBOPOI_18 position 14034
+[17:05:27] Possible /pseudo 'Ribonuclease PH' at gnl|Prokka|NHCBOPOI_34 position 7076
+[17:05:27] Found 409 unique /gene codes.
+[17:05:27] Fixed 2 duplicate /gene - metE_1 metE_2
+[17:05:27] Fixed 2 duplicate /gene - menG_1 menG_2
+[17:05:27] Fixed 3 duplicate /gene - thrB_1 thrB_2 thrB_3
+[17:05:27] Fixed 2 duplicate /gene - metG_1 metG_2
+[17:05:27] Fixed 2 duplicate /gene - rplN_1 rplN_2
+[17:05:27] Fixed 2 duplicate /gene - leuA_1 leuA_2
+[17:05:27] Fixed 2 duplicate /gene - grpE_1 grpE_2
+[17:05:27] Fixed 5 duplicate /gene - sasA_1 sasA_2 sasA_3 sasA_4 sasA_5
+[17:05:27] Fixed 3 duplicate /gene - groL_1 groL_2 groL_3
+[17:05:27] Fixed 2 duplicate /gene - rph_1 rph_2
+[17:05:27] Fixed 2 duplicate /gene - ureB_1 ureB_2
+[17:05:27] Fixed 2 duplicate /gene - ctaB_1 ctaB_2
+[17:05:27] Fixed 3 duplicate /gene - dnaJ_1 dnaJ_2 dnaJ_3
+[17:05:27] Fixed 2 duplicate /gene - citZ_1 citZ_2
+[17:05:27] Fixed 2 duplicate /gene - nadK_1 nadK_2
+[17:05:27] Fixed 2 duplicate /gene - petE_1 petE_2
+[17:05:27] Fixed 2 duplicate /gene - glnA_1 glnA_2
+[17:05:27] Fixed 2 duplicate /gene - gerN_1 gerN_2
+[17:05:27] Fixed 2 duplicate /gene - gluD_1 gluD_2
+[17:05:27] Fixed 2 duplicate /gene - carB_1 carB_2
+[17:05:27] Fixed 2 duplicate /gene - valS_1 valS_2
+[17:05:27] Fixed 2 duplicate /gene - algC_1 algC_2
+[17:05:27] Fixed 2 duplicate /gene - thi4_1 thi4_2
+[17:05:27] Fixed 3 duplicate /gene - ccr_1 ccr_2 ccr_3
+[17:05:27] Fixed 2 duplicate /gene - asnC_1 asnC_2
+[17:05:27] Fixed 2 duplicate /gene - rnz_1 rnz_2
+[17:05:27] Fixed 2 duplicate /gene - cysH_1 cysH_2
+[17:05:27] Fixed 2 duplicate /gene - tpiA_1 tpiA_2
+[17:05:27] Fixed 3 duplicate /gene - tuf_1 tuf_2 tuf_3
+[17:05:27] Fixed 2 duplicate /gene - apt_1 apt_2
+[17:05:27] Fixed 2 duplicate /gene - lysX_1 lysX_2
+[17:05:27] Fixed 2 duplicate /gene - fbiC_1 fbiC_2
+[17:05:27] Fixed 2 duplicate /gene - ndhI_1 ndhI_2
+[17:05:27] Fixed 2 duplicate /gene - cobD_1 cobD_2
+[17:05:27] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[17:05:27] Fixed 2 duplicate /gene - alkA_1 alkA_2
+[17:05:27] Fixed 3 duplicate /gene - dbpA_1 dbpA_2 dbpA_3
+[17:05:27] Fixed 2 duplicate /gene - miaB_1 miaB_2
+[17:05:27] Fixed 4 duplicate /gene - cheB_1 cheB_2 cheB_3 cheB_4
+[17:05:27] Fixed 2 duplicate /gene - recA_1 recA_2
+[17:05:27] Fixed 2 duplicate /gene - fbiB_1 fbiB_2
+[17:05:27] Fixed 4 duplicate /gene - ftsH_1 ftsH_2 ftsH_3 ftsH_4
+[17:05:27] Fixed 2 duplicate /gene - oppD_1 oppD_2
+[17:05:27] Fixed 2 duplicate /gene - mtnP_1 mtnP_2
+[17:05:27] Fixed 2 duplicate /gene - ahcY_1 ahcY_2
+[17:05:27] Fixed 2 duplicate /gene - IMPDH_1 IMPDH_2
+[17:05:27] Fixed 3 duplicate /gene - bcp_1 bcp_2 bcp_3
+[17:05:27] Fixed 2 duplicate /gene - smc_1 smc_2
+[17:05:27] Fixed 3 duplicate /gene - cugP_1 cugP_2 cugP_3
+[17:05:27] Fixed 2 duplicate /gene - prcA_1 prcA_2
+[17:05:27] Fixed 2 duplicate /gene - prcB_1 prcB_2
+[17:05:27] Fixed 3 duplicate /gene - aspS2_1 aspS2_2 aspS2_3
+[17:05:27] Fixed 2 duplicate /gene - cheY_1 cheY_2
+[17:05:27] Fixed 2 duplicate /gene - hemA_1 hemA_2
+[17:05:27] Fixed 2 duplicate /gene - guaA_1 guaA_2
+[17:05:27] Fixed 2 duplicate /gene - ndhB_1 ndhB_2
+[17:05:27] Fixed 2 duplicate /gene - carA_1 carA_2
+[17:05:27] Fixed 57 colliding /gene names.
+[17:05:27] Adding /locus_tag identifiers
+[17:05:27] Assigned 1425 locus_tags to CDS and RNA features.
+[17:05:27] Writing outputs to Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/
+[17:05:29] Generating annotation statistics file
+[17:05:29] Generating Genbank and Sequin files
+[17:05:29] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.err -i Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.fsa 2> /dev/null
+[17:05:39] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/errorsummary.val
+[17:05:39] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.dr
+[17:05:39] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.fixedproducts
+[17:05:39] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.ecn
+[17:05:39] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.val
+[17:05:39] Repairing broken .GBK output that tbl2asn produces...
+[17:05:39] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.gbf > Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka\/PROKKA_12212021\.gbk
+[17:05:39] Deleting unwanted file: Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.gbf
+[17:05:39] Output files:
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.err
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.faa
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.ffn
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.fna
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.fsa
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.gbk
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.gff
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.log
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.sqn
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.tbl
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.tsv
+[17:05:39] Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_12212021.txt
+[17:05:39] Annotation finished successfully.
+[17:05:39] Walltime used: 4.10 minutes
+[17:05:39] If you use this result please cite the Prokka paper:
+[17:05:39] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[17:05:39] Type 'prokka --citation' for more details.
+[17:05:39] Thank you, come again.

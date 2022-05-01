@@ -1,0 +1,1329 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CPFPKEKP_00001	gene	183				
+CPFPKEKP_00001	CDS	183				hypothetical protein
+CPFPKEKP_00002	gene	489	lptB			
+CPFPKEKP_00002	CDS	489	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+CPFPKEKP_00003	gene	705	livF			
+CPFPKEKP_00003	CDS	705	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+CPFPKEKP_00004	gene	1179	braC			
+CPFPKEKP_00004	CDS	1179	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+CPFPKEKP_00005	gene	471				
+CPFPKEKP_00005	CDS	471				hypothetical protein
+CPFPKEKP_00006	gene	471				
+CPFPKEKP_00006	CDS	471				hypothetical protein
+CPFPKEKP_00007	gene	762	fbiB_1			
+CPFPKEKP_00007	CDS	762	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+CPFPKEKP_00008	gene	186				
+CPFPKEKP_00008	CDS	186				hypothetical protein
+CPFPKEKP_00009	gene	345	mupP_1			
+CPFPKEKP_00009	CDS	345	mupP_1	3.1.3.105	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+CPFPKEKP_00010	gene	354				
+CPFPKEKP_00010	CDS	354				hypothetical protein
+CPFPKEKP_00011	gene	183				
+CPFPKEKP_00011	CDS	183				hypothetical protein
+CPFPKEKP_00012	gene	903	gtaB_1			
+CPFPKEKP_00012	CDS	903	gtaB_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+CPFPKEKP_00013	gene	78				
+CPFPKEKP_00013	tRNA	78				tRNA-Arg(gcg)
+CPFPKEKP_00014	gene	1275				
+CPFPKEKP_00014	CDS	1275				hypothetical protein
+CPFPKEKP_00015	gene	513				
+CPFPKEKP_00015	CDS	513				hypothetical protein
+CPFPKEKP_00016	gene	234				
+CPFPKEKP_00016	CDS	234				hypothetical protein
+CPFPKEKP_00017	gene	552				
+CPFPKEKP_00017	CDS	552				hypothetical protein
+CPFPKEKP_00018	gene	837	folD			
+CPFPKEKP_00018	CDS	837	folD		COG0190	Bifunctional protein FolD protein
+CPFPKEKP_00019	gene	822				
+CPFPKEKP_00019	CDS	822				hypothetical protein
+CPFPKEKP_00020	gene	486				
+CPFPKEKP_00020	CDS	486				hypothetical protein
+CPFPKEKP_00021	gene	546				
+CPFPKEKP_00021	CDS	546				hypothetical protein
+CPFPKEKP_00022	gene	384	nikR			
+CPFPKEKP_00022	CDS	384	nikR			Nickel-responsive regulator
+CPFPKEKP_00023	gene	711	znuC			
+CPFPKEKP_00023	CDS	711	znuC	7.2.2.-	COG1121	Zinc import ATP-binding protein ZnuC
+CPFPKEKP_00024	gene	840	znuB			
+CPFPKEKP_00024	CDS	840	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+CPFPKEKP_00025	gene	246				
+CPFPKEKP_00025	CDS	246				hypothetical protein
+CPFPKEKP_00026	gene	375				
+CPFPKEKP_00026	CDS	375				hypothetical protein
+CPFPKEKP_00027	gene	735	bcrA			
+CPFPKEKP_00027	CDS	735	bcrA			Bacitracin transport ATP-binding protein BcrA
+CPFPKEKP_00028	gene	186				
+CPFPKEKP_00028	CDS	186				hypothetical protein
+CPFPKEKP_00029	gene	270				
+CPFPKEKP_00029	CDS	270				hypothetical protein
+CPFPKEKP_00030	gene	876				
+CPFPKEKP_00030	CDS	876				hypothetical protein
+CPFPKEKP_00031	gene	990	lnrL_1			
+CPFPKEKP_00031	CDS	990	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CPFPKEKP_00032	gene	1128	soxA			
+CPFPKEKP_00032	CDS	1128	soxA	1.5.3.1		Monomeric sarcosine oxidase
+CPFPKEKP_00033	gene	456				
+CPFPKEKP_00033	CDS	456				hypothetical protein
+CPFPKEKP_00034	gene	753				
+CPFPKEKP_00034	CDS	753				hypothetical protein
+CPFPKEKP_00035	gene	1224	tdcB			
+CPFPKEKP_00035	CDS	1224	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+CPFPKEKP_00036	gene	1116				
+CPFPKEKP_00036	CDS	1116		3.4.-.-		putative peptidase
+CPFPKEKP_00037	gene	1152	natB			
+CPFPKEKP_00037	CDS	1152	natB	7.2.2.4	COG1668	ABC transporter permease protein NatB
+CPFPKEKP_00038	gene	720	natA			
+CPFPKEKP_00038	CDS	720	natA	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+CPFPKEKP_00039	gene	1095				
+CPFPKEKP_00039	CDS	1095				hypothetical protein
+CPFPKEKP_00040	gene	1008				
+CPFPKEKP_00040	CDS	1008				hypothetical protein
+CPFPKEKP_00041	gene	768				
+CPFPKEKP_00041	CDS	768				hypothetical protein
+CPFPKEKP_00042	gene	75				
+CPFPKEKP_00042	tRNA	75				tRNA-Gly(gcc)
+CPFPKEKP_00043	gene	1269	mvaA			
+CPFPKEKP_00043	CDS	1269	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+CPFPKEKP_00044	gene	375				
+CPFPKEKP_00044	CDS	375				hypothetical protein
+CPFPKEKP_00045	gene	1200	pgk			
+CPFPKEKP_00045	CDS	1200	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+CPFPKEKP_00046	gene	918	prs			
+CPFPKEKP_00046	CDS	918	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CPFPKEKP_00047	gene	975	drdI			
+CPFPKEKP_00047	CDS	975	drdI	5.3.1.-		5-deoxyribose 1-phosphate isomerase
+CPFPKEKP_00048	gene	651	rpe			
+CPFPKEKP_00048	CDS	651	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+CPFPKEKP_00049	gene	2013	tkt			
+CPFPKEKP_00049	CDS	2013	tkt	2.2.1.1		Transketolase
+CPFPKEKP_00050	gene	693	tal			
+CPFPKEKP_00050	CDS	693	tal	2.2.1.2	COG0176	Transaldolase
+CPFPKEKP_00051	gene	951	fcl			
+CPFPKEKP_00051	CDS	951	fcl	1.1.1.271		GDP-L-fucose synthase
+CPFPKEKP_00052	gene	1392	cbbL			
+CPFPKEKP_00052	CDS	1392	cbbL	4.1.1.39		Ribulose bisphosphate carboxylase large chain
+CPFPKEKP_00053	gene	528				
+CPFPKEKP_00053	CDS	528				hypothetical protein
+CPFPKEKP_00054	gene	1809	dnaK_1			
+CPFPKEKP_00054	CDS	1809	dnaK_1		COG0443	Chaperone protein DnaK
+CPFPKEKP_00055	gene	384				
+CPFPKEKP_00055	CDS	384				hypothetical protein
+CPFPKEKP_00056	gene	1386				
+CPFPKEKP_00056	CDS	1386				hypothetical protein
+CPFPKEKP_00057	gene	1458				
+CPFPKEKP_00057	CDS	1458				hypothetical protein
+CPFPKEKP_00058	gene	1680	fadD			
+CPFPKEKP_00058	CDS	1680	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+CPFPKEKP_00059	gene	1014				
+CPFPKEKP_00059	CDS	1014				hypothetical protein
+CPFPKEKP_00060	gene	342				
+CPFPKEKP_00060	CDS	342				hypothetical protein
+CPFPKEKP_00061	gene	1173	ylmB			
+CPFPKEKP_00061	CDS	1173	ylmB	3.5.1.-	COG0624	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+CPFPKEKP_00062	gene	276	acyP			
+CPFPKEKP_00062	CDS	276	acyP	3.6.1.7	COG1254	Acylphosphatase
+CPFPKEKP_00063	gene	633	fbiD			
+CPFPKEKP_00063	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+CPFPKEKP_00064	gene	921	fbiA			
+CPFPKEKP_00064	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+CPFPKEKP_00065	gene	1080	lnrN			
+CPFPKEKP_00065	CDS	1080	lnrN		COG0842	Linearmycin resistance permease protein LnrN
+CPFPKEKP_00066	gene	924	lnrL_2			
+CPFPKEKP_00066	CDS	924	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CPFPKEKP_00067	gene	384				
+CPFPKEKP_00067	CDS	384				hypothetical protein
+CPFPKEKP_00068	gene	381				
+CPFPKEKP_00068	CDS	381				hypothetical protein
+CPFPKEKP_00069	gene	582				
+CPFPKEKP_00069	CDS	582				hypothetical protein
+CPFPKEKP_00070	gene	696	ribB			
+CPFPKEKP_00070	CDS	696	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase
+CPFPKEKP_00071	gene	339				
+CPFPKEKP_00071	CDS	339				hypothetical protein
+CPFPKEKP_00072	gene	1272				
+CPFPKEKP_00072	CDS	1272				hypothetical protein
+CPFPKEKP_00073	gene	612	tmk			
+CPFPKEKP_00073	CDS	612	tmk	2.7.4.9	COG0125	Thymidylate kinase
+CPFPKEKP_00074	gene	1560	srmB_1			
+CPFPKEKP_00074	CDS	1560	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+CPFPKEKP_00075	gene	792				
+CPFPKEKP_00075	CDS	792				hypothetical protein
+CPFPKEKP_00076	gene	1467	pepA			
+CPFPKEKP_00076	CDS	1467	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+CPFPKEKP_00077	gene	1620	groL			
+CPFPKEKP_00077	CDS	1620	groL			60 kDa chaperonin
+CPFPKEKP_00078	gene	1002				
+CPFPKEKP_00078	CDS	1002				hypothetical protein
+CPFPKEKP_00079	gene	1323	ffh			
+CPFPKEKP_00079	CDS	1323	ffh		COG0541	Signal recognition particle protein
+CPFPKEKP_00080	gene	669				
+CPFPKEKP_00080	CDS	669				hypothetical protein
+CPFPKEKP_00081	gene	306	grpE			
+CPFPKEKP_00081	CDS	306	grpE		COG0576	Protein GrpE
+CPFPKEKP_00082	gene	1884	dnaK_2			
+CPFPKEKP_00082	CDS	1884	dnaK_2		COG0443	Chaperone protein DnaK
+CPFPKEKP_00083	gene	1113	dnaJ			
+CPFPKEKP_00083	CDS	1113	dnaJ		COG0484	Chaperone protein DnaJ
+CPFPKEKP_00084	gene	399				
+CPFPKEKP_00084	CDS	399				hypothetical protein
+CPFPKEKP_00085	gene	825	nadK			
+CPFPKEKP_00085	CDS	825	nadK	2.7.1.23		NAD kinase
+CPFPKEKP_00086	gene	507				
+CPFPKEKP_00086	CDS	507				hypothetical protein
+CPFPKEKP_00087	gene	726				
+CPFPKEKP_00087	CDS	726				hypothetical protein
+CPFPKEKP_00088	gene	372	nosZ			
+CPFPKEKP_00088	CDS	372	nosZ	1.7.2.4		Nitrous-oxide reductase
+CPFPKEKP_00089	gene	825				
+CPFPKEKP_00089	CDS	825				hypothetical protein
+CPFPKEKP_00090	gene	396				
+CPFPKEKP_00090	CDS	396				hypothetical protein
+CPFPKEKP_00091	gene	1290	miaB			
+CPFPKEKP_00091	CDS	1290	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+CPFPKEKP_00092	gene	1089				
+CPFPKEKP_00092	CDS	1089				hypothetical protein
+CPFPKEKP_00093	gene	1158				
+CPFPKEKP_00093	CDS	1158				hypothetical protein
+CPFPKEKP_00094	gene	960	iolG			
+CPFPKEKP_00094	CDS	960	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+CPFPKEKP_00095	gene	273				
+CPFPKEKP_00095	CDS	273				hypothetical protein
+CPFPKEKP_00096	gene	510	fdtC			
+CPFPKEKP_00096	CDS	510	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+CPFPKEKP_00097	gene	471	bcp			
+CPFPKEKP_00097	CDS	471	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+CPFPKEKP_00098	gene	243				
+CPFPKEKP_00098	CDS	243				hypothetical protein
+CPFPKEKP_00099	gene	795	mraY			
+CPFPKEKP_00099	CDS	795	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CPFPKEKP_00100	gene	336				
+CPFPKEKP_00100	CDS	336				hypothetical protein
+CPFPKEKP_00101	gene	73				
+CPFPKEKP_00101	tRNA	73				tRNA-Glu(ttc)
+CPFPKEKP_00102	gene	267				
+CPFPKEKP_00102	CDS	267				hypothetical protein
+CPFPKEKP_00103	gene	183				
+CPFPKEKP_00103	CDS	183				hypothetical protein
+CPFPKEKP_00104	gene	357				
+CPFPKEKP_00104	CDS	357				hypothetical protein
+CPFPKEKP_00105	gene	1056				
+CPFPKEKP_00105	CDS	1056				hypothetical protein
+CPFPKEKP_00106	gene	423	arsC			
+CPFPKEKP_00106	CDS	423	arsC	1.20.4.4		Arsenate reductase
+CPFPKEKP_00107	gene	642				
+CPFPKEKP_00107	CDS	642				hypothetical protein
+CPFPKEKP_00108	gene	861	efeU			
+CPFPKEKP_00108	CDS	861	efeU		COG0672	Ferrous iron permease EfeU
+CPFPKEKP_00109	gene	729				
+CPFPKEKP_00109	CDS	729				hypothetical protein
+CPFPKEKP_00110	gene	1425	vgb_1			
+CPFPKEKP_00110	CDS	1425	vgb_1	4.2.99.-		Virginiamycin B lyase
+CPFPKEKP_00111	gene	1977	bamB_1			
+CPFPKEKP_00111	CDS	1977	bamB_1			Outer membrane protein assembly factor BamB
+CPFPKEKP_00112	gene	1791	qheDH_1			
+CPFPKEKP_00112	CDS	1791	qheDH_1	1.1.9.1	COG4993	Quinohemoprotein alcohol dehydrogenase
+CPFPKEKP_00113	gene	378				
+CPFPKEKP_00113	CDS	378				hypothetical protein
+CPFPKEKP_00114	gene	435				
+CPFPKEKP_00114	CDS	435				hypothetical protein
+CPFPKEKP_00115	gene	1353				
+CPFPKEKP_00115	CDS	1353				hypothetical protein
+CPFPKEKP_00116	gene	792				
+CPFPKEKP_00116	CDS	792				hypothetical protein
+CPFPKEKP_00117	gene	156				
+CPFPKEKP_00117	CDS	156				hypothetical protein
+CPFPKEKP_00118	gene	2163				
+CPFPKEKP_00118	CDS	2163				hypothetical protein
+CPFPKEKP_00119	gene	198				
+CPFPKEKP_00119	CDS	198				hypothetical protein
+CPFPKEKP_00120	gene	279				
+CPFPKEKP_00120	CDS	279				hypothetical protein
+CPFPKEKP_00121	gene	564				
+CPFPKEKP_00121	CDS	564				hypothetical protein
+CPFPKEKP_00122	gene	1155				
+CPFPKEKP_00122	CDS	1155				hypothetical protein
+CPFPKEKP_00123	gene	1074				
+CPFPKEKP_00123	CDS	1074				hypothetical protein
+CPFPKEKP_00124	gene	237				
+CPFPKEKP_00124	CDS	237				hypothetical protein
+CPFPKEKP_00125	gene	1509	glnA1			
+CPFPKEKP_00125	CDS	1509	glnA1	6.3.1.2	COG0174	Glutamine synthetase
+CPFPKEKP_00126	gene	549	thiT			
+CPFPKEKP_00126	CDS	549	thiT		COG3859	Thiamine transporter ThiT
+CPFPKEKP_00127	gene	474				
+CPFPKEKP_00127	CDS	474				hypothetical protein
+CPFPKEKP_00128	gene	474				
+CPFPKEKP_00128	CDS	474				hypothetical protein
+CPFPKEKP_00129	gene	270				
+CPFPKEKP_00129	CDS	270				hypothetical protein
+CPFPKEKP_00130	gene	1098	obg			
+CPFPKEKP_00130	CDS	1098	obg	3.6.5.-		GTPase Obg
+CPFPKEKP_00131	gene	465				
+CPFPKEKP_00131	CDS	465				hypothetical protein
+CPFPKEKP_00132	gene	541				
+CPFPKEKP_00132	rRNA	541				16S ribosomal RNA (partial)
+CPFPKEKP_00133	gene	1143	tyrA			
+CPFPKEKP_00133	CDS	1143	tyrA		COG0287	T-protein
+CPFPKEKP_00134	gene	1095	aroC			
+CPFPKEKP_00134	CDS	1095	aroC	4.2.3.5	COG0082	Chorismate synthase
+CPFPKEKP_00135	gene	1278	aroA			
+CPFPKEKP_00135	CDS	1278	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+CPFPKEKP_00136	gene	852	thrB_1			
+CPFPKEKP_00136	CDS	852	thrB_1	2.7.1.39		Homoserine kinase
+CPFPKEKP_00137	gene	837	aroE			
+CPFPKEKP_00137	CDS	837	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+CPFPKEKP_00138	gene	711	aroD			
+CPFPKEKP_00138	CDS	711	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+CPFPKEKP_00139	gene	1077	griH			
+CPFPKEKP_00139	CDS	1077	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+CPFPKEKP_00140	gene	762	griI_1			
+CPFPKEKP_00140	CDS	762	griI_1	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+CPFPKEKP_00141	gene	1440	cysS			
+CPFPKEKP_00141	CDS	1440	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CPFPKEKP_00142	gene	312				
+CPFPKEKP_00142	CDS	312				hypothetical protein
+CPFPKEKP_00143	gene	1569	QTRT1			
+CPFPKEKP_00143	CDS	1569	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+CPFPKEKP_00144	gene	705				
+CPFPKEKP_00144	CDS	705				hypothetical protein
+CPFPKEKP_00145	gene	1296				
+CPFPKEKP_00145	CDS	1296		3.1.-.-	COG1236	Ribonuclease
+CPFPKEKP_00146	gene	405	sufU			
+CPFPKEKP_00146	CDS	405	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+CPFPKEKP_00147	gene	1230	sufS			
+CPFPKEKP_00147	CDS	1230	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+CPFPKEKP_00148	gene	756	sufC			
+CPFPKEKP_00148	CDS	756	sufC		COG0396	Vegetative protein 296
+CPFPKEKP_00149	gene	1044	cysM			
+CPFPKEKP_00149	CDS	1044	cysM	2.5.1.47	COG0031	Cysteine synthase B
+CPFPKEKP_00150	gene	1047	purM			
+CPFPKEKP_00150	CDS	1047	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+CPFPKEKP_00151	gene	846	purC			
+CPFPKEKP_00151	CDS	846	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CPFPKEKP_00152	gene	444	purE			
+CPFPKEKP_00152	CDS	444	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+CPFPKEKP_00153	gene	1251	purD			
+CPFPKEKP_00153	CDS	1251	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+CPFPKEKP_00154	gene	1419	purF			
+CPFPKEKP_00154	CDS	1419	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+CPFPKEKP_00155	gene	2211	purL			
+CPFPKEKP_00155	CDS	2211	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+CPFPKEKP_00156	gene	714	purQ			
+CPFPKEKP_00156	CDS	714	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+CPFPKEKP_00157	gene	237	purS			
+CPFPKEKP_00157	CDS	237	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+CPFPKEKP_00158	gene	840	nfo_1			
+CPFPKEKP_00158	CDS	840	nfo_1	3.1.21.2	COG0648	putative endonuclease 4
+CPFPKEKP_00159	gene	288				
+CPFPKEKP_00159	CDS	288				hypothetical protein
+CPFPKEKP_00160	gene	762				
+CPFPKEKP_00160	CDS	762				hypothetical protein
+CPFPKEKP_00161	gene	306				
+CPFPKEKP_00161	CDS	306				hypothetical protein
+CPFPKEKP_00162	gene	210				
+CPFPKEKP_00162	CDS	210				hypothetical protein
+CPFPKEKP_00163	gene	432	tadA			
+CPFPKEKP_00163	CDS	432	tadA	3.5.4.33		tRNA-specific adenosine deaminase
+CPFPKEKP_00164	gene	930				
+CPFPKEKP_00164	CDS	930				hypothetical protein
+CPFPKEKP_00165	gene	1440	proS			
+CPFPKEKP_00165	CDS	1440	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+CPFPKEKP_00166	gene	801	uppP			
+CPFPKEKP_00166	CDS	801	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+CPFPKEKP_00167	gene	273				
+CPFPKEKP_00167	CDS	273				hypothetical protein
+CPFPKEKP_00168	gene	198	TOP6A			
+CPFPKEKP_00168	CDS	198	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+CPFPKEKP_00169	gene	531				
+CPFPKEKP_00169	CDS	531				hypothetical protein
+CPFPKEKP_00170	gene	735				
+CPFPKEKP_00170	CDS	735				hypothetical protein
+CPFPKEKP_00171	gene	153				
+CPFPKEKP_00171	CDS	153				hypothetical protein
+CPFPKEKP_00172	gene	453				
+CPFPKEKP_00172	CDS	453				hypothetical protein
+CPFPKEKP_00173	gene	777	fbiB_2			
+CPFPKEKP_00173	CDS	777	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+CPFPKEKP_00174	gene	162				
+CPFPKEKP_00174	CDS	162				hypothetical protein
+CPFPKEKP_00175	gene	621	mupP_2			
+CPFPKEKP_00175	CDS	621	mupP_2	3.1.3.105	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+CPFPKEKP_00176	gene	315	rpsJ			
+CPFPKEKP_00176	CDS	315	rpsJ		COG0051	30S ribosomal protein S10
+CPFPKEKP_00177	gene	327	trxA			
+CPFPKEKP_00177	CDS	327	trxA			Thioredoxin
+CPFPKEKP_00178	gene	870				
+CPFPKEKP_00178	CDS	870				hypothetical protein
+CPFPKEKP_00179	gene	561	yvqK			
+CPFPKEKP_00179	CDS	561	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+CPFPKEKP_00180	gene	231				
+CPFPKEKP_00180	CDS	231				hypothetical protein
+CPFPKEKP_00181	gene	174				
+CPFPKEKP_00181	CDS	174				hypothetical protein
+CPFPKEKP_00182	gene	792				
+CPFPKEKP_00182	CDS	792				hypothetical protein
+CPFPKEKP_00183	gene	234				
+CPFPKEKP_00183	CDS	234				hypothetical protein
+CPFPKEKP_00184	gene	675	rpiA			
+CPFPKEKP_00184	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+CPFPKEKP_00185	gene	306				
+CPFPKEKP_00185	CDS	306				hypothetical protein
+CPFPKEKP_00186	gene	339	erpA			
+CPFPKEKP_00186	CDS	339	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+CPFPKEKP_00187	gene	513				
+CPFPKEKP_00187	CDS	513				hypothetical protein
+CPFPKEKP_00188	gene	534				
+CPFPKEKP_00188	CDS	534				hypothetical protein
+CPFPKEKP_00189	gene	297				
+CPFPKEKP_00189	CDS	297				hypothetical protein
+CPFPKEKP_00190	gene	1914	rnj			
+CPFPKEKP_00190	CDS	1914	rnj	3.1.-.-		Ribonuclease J
+CPFPKEKP_00191	gene	657	prcB_1			
+CPFPKEKP_00191	CDS	657	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+CPFPKEKP_00192	gene	777				
+CPFPKEKP_00192	CDS	777				hypothetical protein
+CPFPKEKP_00193	gene	435				
+CPFPKEKP_00193	CDS	435				hypothetical protein
+CPFPKEKP_00194	gene	972				
+CPFPKEKP_00194	CDS	972				hypothetical protein
+CPFPKEKP_00195	gene	975				
+CPFPKEKP_00195	CDS	975				hypothetical protein
+CPFPKEKP_00196	gene	984				
+CPFPKEKP_00196	CDS	984				hypothetical protein
+CPFPKEKP_00197	gene	1233				
+CPFPKEKP_00197	CDS	1233				hypothetical protein
+CPFPKEKP_00198	gene	840				
+CPFPKEKP_00198	CDS	840				hypothetical protein
+CPFPKEKP_00199	gene	2034				
+CPFPKEKP_00199	CDS	2034				hypothetical protein
+CPFPKEKP_00200	gene	327	metG_1			
+CPFPKEKP_00200	CDS	327	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+CPFPKEKP_00201	gene	2313	bamB_2			
+CPFPKEKP_00201	CDS	2313	bamB_2			Outer membrane protein assembly factor BamB
+CPFPKEKP_00202	gene	1656	metG_2			
+CPFPKEKP_00202	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+CPFPKEKP_00203	gene	714				
+CPFPKEKP_00203	CDS	714				hypothetical protein
+CPFPKEKP_00204	gene	1032	adhT			
+CPFPKEKP_00204	CDS	1032	adhT	1.1.1.1		Alcohol dehydrogenase
+CPFPKEKP_00205	gene	1317	aspS2			
+CPFPKEKP_00205	CDS	1317	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+CPFPKEKP_00206	gene	276				
+CPFPKEKP_00206	CDS	276				hypothetical protein
+CPFPKEKP_00207	gene	1332	gatA			
+CPFPKEKP_00207	CDS	1332	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+CPFPKEKP_00208	gene	156				
+CPFPKEKP_00208	CDS	156				hypothetical protein
+CPFPKEKP_00209	gene	948				
+CPFPKEKP_00209	CDS	948				hypothetical protein
+CPFPKEKP_00210	gene	621				
+CPFPKEKP_00210	CDS	621				hypothetical protein
+CPFPKEKP_00211	gene	78				
+CPFPKEKP_00211	tRNA	78				tRNA-Arg(gcg)
+CPFPKEKP_00212	gene	1281				
+CPFPKEKP_00212	CDS	1281				hypothetical protein
+CPFPKEKP_00213	gene	1077				
+CPFPKEKP_00213	CDS	1077				hypothetical protein
+CPFPKEKP_00214	gene	633	gph			
+CPFPKEKP_00214	CDS	633	gph	3.1.3.18		Phosphoglycolate phosphatase
+CPFPKEKP_00215	gene	1008				
+CPFPKEKP_00215	CDS	1008		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+CPFPKEKP_00216	gene	879	gtaB_2			
+CPFPKEKP_00216	CDS	879	gtaB_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+CPFPKEKP_00217	gene	354				
+CPFPKEKP_00217	CDS	354				hypothetical protein
+CPFPKEKP_00218	gene	984				
+CPFPKEKP_00218	CDS	984		2.2.1.8		Fluorothreonine transaldolase
+CPFPKEKP_00219	gene	858				
+CPFPKEKP_00219	CDS	858				hypothetical protein
+CPFPKEKP_00220	gene	1110				
+CPFPKEKP_00220	CDS	1110				hypothetical protein
+CPFPKEKP_00221	gene	525				
+CPFPKEKP_00221	CDS	525				hypothetical protein
+CPFPKEKP_00222	gene	498				
+CPFPKEKP_00222	CDS	498				hypothetical protein
+CPFPKEKP_00223	gene	1026				
+CPFPKEKP_00223	CDS	1026				hypothetical protein
+CPFPKEKP_00224	gene	189				
+CPFPKEKP_00224	CDS	189				hypothetical protein
+CPFPKEKP_00225	gene	2148				
+CPFPKEKP_00225	CDS	2148				hypothetical protein
+CPFPKEKP_00226	gene	681				
+CPFPKEKP_00226	CDS	681				hypothetical protein
+CPFPKEKP_00227	gene	801				
+CPFPKEKP_00227	CDS	801				hypothetical protein
+CPFPKEKP_00228	gene	2442				
+CPFPKEKP_00228	CDS	2442				hypothetical protein
+CPFPKEKP_00229	gene	162				
+CPFPKEKP_00229	CDS	162				hypothetical protein
+CPFPKEKP_00230	gene	1050	dppB			
+CPFPKEKP_00230	CDS	1050	dppB		COG0601	Dipeptide transport system permease protein DppB
+CPFPKEKP_00231	gene	1428				
+CPFPKEKP_00231	CDS	1428				hypothetical protein
+CPFPKEKP_00232	gene	1800	gsiA			
+CPFPKEKP_00232	CDS	1800	gsiA	7.4.2.10	COG1123	Glutathione import ATP-binding protein GsiA
+CPFPKEKP_00233	gene	2028				
+CPFPKEKP_00233	CDS	2028				hypothetical protein
+CPFPKEKP_00234	gene	1254				
+CPFPKEKP_00234	CDS	1254				hypothetical protein
+CPFPKEKP_00235	gene	87				
+CPFPKEKP_00235	tRNA	87				tRNA-Leu(gag)
+CPFPKEKP_00236	gene	816	ytbE			
+CPFPKEKP_00236	CDS	816	ytbE	1.-.-.-	COG0656	putative oxidoreductase YtbE
+CPFPKEKP_00237	gene	474				
+CPFPKEKP_00237	CDS	474				hypothetical protein
+CPFPKEKP_00238	gene	360				
+CPFPKEKP_00238	CDS	360				hypothetical protein
+CPFPKEKP_00239	gene	207	aqpZ			
+CPFPKEKP_00239	CDS	207	aqpZ			Aquaporin Z
+CPFPKEKP_00240	gene	282				
+CPFPKEKP_00240	CDS	282				hypothetical protein
+CPFPKEKP_00241	gene	327				
+CPFPKEKP_00241	CDS	327				hypothetical protein
+CPFPKEKP_00242	gene	561				
+CPFPKEKP_00242	CDS	561				hypothetical protein
+CPFPKEKP_00243	gene	750	rsmA			
+CPFPKEKP_00243	CDS	750	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+CPFPKEKP_00244	gene	543	prmC			
+CPFPKEKP_00244	CDS	543	prmC	2.1.1.297		Release factor glutamine methyltransferase
+CPFPKEKP_00245	gene	702	trmL			
+CPFPKEKP_00245	CDS	702	trmL	2.1.1.207		tRNA (cytidine(34)-2'-O)-methyltransferase
+CPFPKEKP_00246	gene	1167				
+CPFPKEKP_00246	CDS	1167				hypothetical protein
+CPFPKEKP_00247	gene	498				
+CPFPKEKP_00247	CDS	498				hypothetical protein
+CPFPKEKP_00248	gene	684				
+CPFPKEKP_00248	CDS	684				hypothetical protein
+CPFPKEKP_00249	gene	936	ttuA			
+CPFPKEKP_00249	CDS	936	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+CPFPKEKP_00250	gene	597				
+CPFPKEKP_00250	CDS	597				hypothetical protein
+CPFPKEKP_00251	gene	312	cutA			
+CPFPKEKP_00251	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+CPFPKEKP_00252	gene	1068				
+CPFPKEKP_00252	CDS	1068				hypothetical protein
+CPFPKEKP_00253	gene	231				
+CPFPKEKP_00253	CDS	231				hypothetical protein
+CPFPKEKP_00254	gene	345				
+CPFPKEKP_00254	CDS	345				hypothetical protein
+CPFPKEKP_00255	gene	1023				
+CPFPKEKP_00255	CDS	1023				hypothetical protein
+CPFPKEKP_00256	gene	1335				
+CPFPKEKP_00256	CDS	1335		1.1.1.38		NAD-dependent malic enzyme
+CPFPKEKP_00257	gene	975				
+CPFPKEKP_00257	CDS	975				hypothetical protein
+CPFPKEKP_00258	gene	2742	srmB_2			
+CPFPKEKP_00258	CDS	2742	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+CPFPKEKP_00259	gene	2262	acnA			
+CPFPKEKP_00259	CDS	2262	acnA	4.2.1.3		Aconitate hydratase A
+CPFPKEKP_00260	gene	216	yggX			
+CPFPKEKP_00260	CDS	216	yggX			Fe(2+)-trafficking protein
+CPFPKEKP_00261	gene	468	hsaB			
+CPFPKEKP_00261	CDS	468	hsaB	1.5.1.36	COG1853	Flavin-dependent monooxygenase, reductase subunit HsaB
+CPFPKEKP_00262	gene	504				
+CPFPKEKP_00262	CDS	504				hypothetical protein
+CPFPKEKP_00263	gene	921				
+CPFPKEKP_00263	CDS	921				hypothetical protein
+CPFPKEKP_00264	gene	2694				
+CPFPKEKP_00264	CDS	2694				hypothetical protein
+CPFPKEKP_00265	gene	2364				
+CPFPKEKP_00265	CDS	2364				hypothetical protein
+CPFPKEKP_00266	gene	981				
+CPFPKEKP_00266	CDS	981				hypothetical protein
+CPFPKEKP_00267	gene	1320				
+CPFPKEKP_00267	CDS	1320				hypothetical protein
+CPFPKEKP_00268	gene	2973				
+CPFPKEKP_00268	CDS	2973				hypothetical protein
+CPFPKEKP_00269	gene	216				
+CPFPKEKP_00269	CDS	216				hypothetical protein
+CPFPKEKP_00270	gene	243				
+CPFPKEKP_00270	CDS	243				hypothetical protein
+CPFPKEKP_00271	gene	1332	hisS			
+CPFPKEKP_00271	CDS	1332	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+CPFPKEKP_00272	gene	252	tusA_1			
+CPFPKEKP_00272	CDS	252	tusA_1		COG0425	Sulfur carrier protein TusA
+CPFPKEKP_00273	gene	1734	korA			
+CPFPKEKP_00273	CDS	1734	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+CPFPKEKP_00274	gene	876				
+CPFPKEKP_00274	CDS	876				hypothetical protein
+CPFPKEKP_00275	gene	654	lipB			
+CPFPKEKP_00275	CDS	654	lipB	2.3.1.181	COG0321	Octanoyltransferase
+CPFPKEKP_00276	gene	1164	pdhC			
+CPFPKEKP_00276	CDS	1164	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+CPFPKEKP_00277	gene	975				
+CPFPKEKP_00277	CDS	975		1.2.4.4	COG0022	2-oxoisovalerate dehydrogenase subunit beta
+CPFPKEKP_00278	gene	906	lipA			
+CPFPKEKP_00278	CDS	906	lipA	2.8.1.8	COG0320	Lipoyl synthase
+CPFPKEKP_00279	gene	1698	ilvB			
+CPFPKEKP_00279	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+CPFPKEKP_00280	gene	426	hit			
+CPFPKEKP_00280	CDS	426	hit		COG0537	Protein hit
+CPFPKEKP_00281	gene	2685				
+CPFPKEKP_00281	CDS	2685				hypothetical protein
+CPFPKEKP_00282	gene	711	lolD			
+CPFPKEKP_00282	CDS	711	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+CPFPKEKP_00283	gene	1245	gerN			
+CPFPKEKP_00283	CDS	1245	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+CPFPKEKP_00284	gene	1131	carA			
+CPFPKEKP_00284	CDS	1131	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+CPFPKEKP_00285	gene	3219	carB			
+CPFPKEKP_00285	CDS	3219	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+CPFPKEKP_00286	gene	630	serB			
+CPFPKEKP_00286	CDS	630	serB	3.1.3.3		Phosphoserine phosphatase
+CPFPKEKP_00287	gene	456				
+CPFPKEKP_00287	CDS	456				hypothetical protein
+CPFPKEKP_00288	gene	321				
+CPFPKEKP_00288	CDS	321				hypothetical protein
+CPFPKEKP_00289	gene	663				
+CPFPKEKP_00289	CDS	663				hypothetical protein
+CPFPKEKP_00290	gene	294				
+CPFPKEKP_00290	CDS	294				hypothetical protein
+CPFPKEKP_00291	gene	915	ilvE			
+CPFPKEKP_00291	CDS	915	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+CPFPKEKP_00292	gene	834	pheA			
+CPFPKEKP_00292	CDS	834	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+CPFPKEKP_00293	gene	285				
+CPFPKEKP_00293	CDS	285				hypothetical protein
+CPFPKEKP_00294	gene	321				
+CPFPKEKP_00294	CDS	321				hypothetical protein
+CPFPKEKP_00295	gene	759				
+CPFPKEKP_00295	CDS	759				hypothetical protein
+CPFPKEKP_00296	gene	828	nadC			
+CPFPKEKP_00296	CDS	828	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+CPFPKEKP_00297	gene	966	nadA			
+CPFPKEKP_00297	CDS	966	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+CPFPKEKP_00298	gene	1011	galT			
+CPFPKEKP_00298	CDS	1011	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+CPFPKEKP_00299	gene	420				
+CPFPKEKP_00299	CDS	420				hypothetical protein
+CPFPKEKP_00300	gene	936				
+CPFPKEKP_00300	CDS	936				hypothetical protein
+CPFPKEKP_00301	gene	471	msrA3			
+CPFPKEKP_00301	CDS	471	msrA3	1.8.4.11		Peptide methionine sulfoxide reductase MsrA 3
+CPFPKEKP_00302	gene	756	ssuD			
+CPFPKEKP_00302	CDS	756	ssuD	1.14.14.5		Alkanesulfonate monooxygenase
+CPFPKEKP_00303	gene	384				
+CPFPKEKP_00303	CDS	384				hypothetical protein
+CPFPKEKP_00304	gene	1680	speE			
+CPFPKEKP_00304	CDS	1680	speE	2.5.1.16		Polyamine aminopropyltransferase
+CPFPKEKP_00305	gene	1410	pdhD			
+CPFPKEKP_00305	CDS	1410	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+CPFPKEKP_00306	gene	180				
+CPFPKEKP_00306	CDS	180				hypothetical protein
+CPFPKEKP_00307	gene	1797				
+CPFPKEKP_00307	CDS	1797				hypothetical protein
+CPFPKEKP_00308	gene	837				
+CPFPKEKP_00308	CDS	837				hypothetical protein
+CPFPKEKP_00309	gene	1320	algC			
+CPFPKEKP_00309	CDS	1320	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CPFPKEKP_00310	gene	1218				
+CPFPKEKP_00310	CDS	1218				hypothetical protein
+CPFPKEKP_00311	gene	960				
+CPFPKEKP_00311	CDS	960				hypothetical protein
+CPFPKEKP_00312	gene	108				
+CPFPKEKP_00312	CDS	108				hypothetical protein
+CPFPKEKP_00313	gene	600				
+CPFPKEKP_00313	CDS	600				hypothetical protein
+CPFPKEKP_00314	gene	279				
+CPFPKEKP_00314	CDS	279				hypothetical protein
+CPFPKEKP_00315	gene	837	crt			
+CPFPKEKP_00315	CDS	837	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+CPFPKEKP_00316	gene	975	hbd			
+CPFPKEKP_00316	CDS	975	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+CPFPKEKP_00317	gene	381				
+CPFPKEKP_00317	CDS	381				hypothetical protein
+CPFPKEKP_00318	gene	1158				
+CPFPKEKP_00318	CDS	1158		2.3.1.9		putative acetyl-CoA acyltransferase
+CPFPKEKP_00319	gene	597				
+CPFPKEKP_00319	CDS	597				hypothetical protein
+CPFPKEKP_00320	gene	1131	acdA_1			
+CPFPKEKP_00320	CDS	1131	acdA_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CPFPKEKP_00321	gene	1203	acdA_2			
+CPFPKEKP_00321	CDS	1203	acdA_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+CPFPKEKP_00322	gene	306				
+CPFPKEKP_00322	CDS	306				hypothetical protein
+CPFPKEKP_00323	gene	360				
+CPFPKEKP_00323	CDS	360				hypothetical protein
+CPFPKEKP_00324	gene	411				
+CPFPKEKP_00324	CDS	411				hypothetical protein
+CPFPKEKP_00325	gene	318				
+CPFPKEKP_00325	CDS	318				hypothetical protein
+CPFPKEKP_00326	gene	414	ndhC			
+CPFPKEKP_00326	CDS	414	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+CPFPKEKP_00327	gene	513	nqo6			
+CPFPKEKP_00327	CDS	513	nqo6	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit 6
+CPFPKEKP_00328	gene	480	ndhJ			
+CPFPKEKP_00328	CDS	480	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+CPFPKEKP_00329	gene	1122	nqo4			
+CPFPKEKP_00329	CDS	1122	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+CPFPKEKP_00330	gene	1161	ndhA			
+CPFPKEKP_00330	CDS	1161	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+CPFPKEKP_00331	gene	501	ndhI			
+CPFPKEKP_00331	CDS	501	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I
+CPFPKEKP_00332	gene	492				
+CPFPKEKP_00332	CDS	492				hypothetical protein
+CPFPKEKP_00333	gene	309	nuoK			
+CPFPKEKP_00333	CDS	309	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+CPFPKEKP_00334	gene	1530	mrpA			
+CPFPKEKP_00334	CDS	1530	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+CPFPKEKP_00335	gene	2100	nuoL			
+CPFPKEKP_00335	CDS	2100	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+CPFPKEKP_00336	gene	1497	ndhD1			
+CPFPKEKP_00336	CDS	1497	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+CPFPKEKP_00337	gene	1449	ndhB			
+CPFPKEKP_00337	CDS	1449	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+CPFPKEKP_00338	gene	879	ispB_1			
+CPFPKEKP_00338	CDS	879	ispB_1	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+CPFPKEKP_00339	gene	612				
+CPFPKEKP_00339	CDS	612				hypothetical protein
+CPFPKEKP_00340	gene	495	ppiA			
+CPFPKEKP_00340	CDS	495	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+CPFPKEKP_00341	gene	1650				
+CPFPKEKP_00341	CDS	1650				hypothetical protein
+CPFPKEKP_00342	gene	1509				
+CPFPKEKP_00342	CDS	1509				hypothetical protein
+CPFPKEKP_00343	gene	1119				
+CPFPKEKP_00343	CDS	1119				hypothetical protein
+CPFPKEKP_00344	gene	110				
+CPFPKEKP_00344	rRNA	110				5S ribosomal RNA
+CPFPKEKP_00345	gene	1119				
+CPFPKEKP_00345	CDS	1119				hypothetical protein
+CPFPKEKP_00346	gene	207				
+CPFPKEKP_00346	CDS	207				hypothetical protein
+CPFPKEKP_00347	gene	906				
+CPFPKEKP_00347	CDS	906		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+CPFPKEKP_00348	gene	534				
+CPFPKEKP_00348	CDS	534				hypothetical protein
+CPFPKEKP_00349	gene	858				
+CPFPKEKP_00349	CDS	858				hypothetical protein
+CPFPKEKP_00350	gene	894				
+CPFPKEKP_00350	CDS	894			COG1090	Epimerase family protein
+CPFPKEKP_00351	gene	1542	TOP6B			
+CPFPKEKP_00351	CDS	1542	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+CPFPKEKP_00352	gene	570				
+CPFPKEKP_00352	CDS	570				hypothetical protein
+CPFPKEKP_00353	gene	792				
+CPFPKEKP_00353	CDS	792				hypothetical protein
+CPFPKEKP_00354	gene	312				
+CPFPKEKP_00354	CDS	312				hypothetical protein
+CPFPKEKP_00355	gene	312				
+CPFPKEKP_00355	CDS	312				hypothetical protein
+CPFPKEKP_00356	gene	423				
+CPFPKEKP_00356	CDS	423				hypothetical protein
+CPFPKEKP_00357	gene	510	apt			
+CPFPKEKP_00357	CDS	510	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+CPFPKEKP_00358	gene	783	mtnP			
+CPFPKEKP_00358	CDS	783	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+CPFPKEKP_00359	gene	1242	ahcY			
+CPFPKEKP_00359	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+CPFPKEKP_00360	gene	1212				
+CPFPKEKP_00360	CDS	1212				hypothetical protein
+CPFPKEKP_00361	gene	300				
+CPFPKEKP_00361	CDS	300				hypothetical protein
+CPFPKEKP_00362	gene	315				
+CPFPKEKP_00362	CDS	315				hypothetical protein
+CPFPKEKP_00363	gene	468				
+CPFPKEKP_00363	CDS	468				hypothetical protein
+CPFPKEKP_00364	gene	1155	dapL			
+CPFPKEKP_00364	CDS	1155	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+CPFPKEKP_00365	gene	1284	lysA			
+CPFPKEKP_00365	CDS	1284	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+CPFPKEKP_00366	gene	795	dapB			
+CPFPKEKP_00366	CDS	795	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+CPFPKEKP_00367	gene	1047	dapA			
+CPFPKEKP_00367	CDS	1047	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+CPFPKEKP_00368	gene	780	ino1_1			
+CPFPKEKP_00368	CDS	780	ino1_1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+CPFPKEKP_00369	gene	117				
+CPFPKEKP_00369	CDS	117				hypothetical protein
+CPFPKEKP_00370	gene	207				
+CPFPKEKP_00370	CDS	207				hypothetical protein
+CPFPKEKP_00371	gene	1395	vgb_2			
+CPFPKEKP_00371	CDS	1395	vgb_2	4.2.99.-		Virginiamycin B lyase
+CPFPKEKP_00372	gene	78				
+CPFPKEKP_00372	tRNA	78				tRNA-Pro(tgg)
+CPFPKEKP_00373	gene	2082				
+CPFPKEKP_00373	CDS	2082				hypothetical protein
+CPFPKEKP_00374	gene	141				
+CPFPKEKP_00374	CDS	141				hypothetical protein
+CPFPKEKP_00375	gene	2391				
+CPFPKEKP_00375	CDS	2391				hypothetical protein
+CPFPKEKP_00376	gene	927	pyrB			
+CPFPKEKP_00376	CDS	927	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CPFPKEKP_00377	gene	462	pyrI			
+CPFPKEKP_00377	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+CPFPKEKP_00378	gene	213				
+CPFPKEKP_00378	CDS	213				hypothetical protein
+CPFPKEKP_00379	gene	309	atpH			
+CPFPKEKP_00379	CDS	309	atpH			ATP synthase subunit c
+CPFPKEKP_00380	gene	126				
+CPFPKEKP_00380	CDS	126				hypothetical protein
+CPFPKEKP_00381	gene	633	ntpD			
+CPFPKEKP_00381	CDS	633	ntpD			V-type sodium ATPase subunit D
+CPFPKEKP_00382	gene	1398	ntpB			
+CPFPKEKP_00382	CDS	1398	ntpB			V-type sodium ATPase subunit B
+CPFPKEKP_00383	gene	1791	atpA			
+CPFPKEKP_00383	CDS	1791	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+CPFPKEKP_00384	gene	303	mauC			
+CPFPKEKP_00384	CDS	303	mauC			Amicyanin
+CPFPKEKP_00385	gene	606				
+CPFPKEKP_00385	CDS	606				hypothetical protein
+CPFPKEKP_00386	gene	603	atpE			
+CPFPKEKP_00386	CDS	603	atpE			V-type proton ATPase subunit E
+CPFPKEKP_00387	gene	1185	salA			
+CPFPKEKP_00387	CDS	1185	salA		COG0489	Iron-sulfur cluster carrier protein
+CPFPKEKP_00388	gene	297	atpF			
+CPFPKEKP_00388	CDS	297	atpF			V-type ATP synthase subunit F
+CPFPKEKP_00389	gene	2259	bamB_3			
+CPFPKEKP_00389	CDS	2259	bamB_3			Outer membrane protein assembly factor BamB
+CPFPKEKP_00390	gene	585				
+CPFPKEKP_00390	CDS	585				hypothetical protein
+CPFPKEKP_00391	gene	1605				
+CPFPKEKP_00391	CDS	1605		2.3.1.-		tRNA uridine(34) acetyltransferase
+CPFPKEKP_00392	gene	2124	bamB_4			
+CPFPKEKP_00392	CDS	2124	bamB_4			Outer membrane protein assembly factor BamB
+CPFPKEKP_00393	gene	1995	adhA			
+CPFPKEKP_00393	CDS	1995	adhA	1.1.5.5		Alcohol dehydrogenase (quinone), dehydrogenase subunit
+CPFPKEKP_00394	gene	759				
+CPFPKEKP_00394	CDS	759				hypothetical protein
+CPFPKEKP_00395	gene	2094	bamB_5			
+CPFPKEKP_00395	CDS	2094	bamB_5			Outer membrane protein assembly factor BamB
+CPFPKEKP_00396	gene	651				
+CPFPKEKP_00396	CDS	651				hypothetical protein
+CPFPKEKP_00397	gene	300				
+CPFPKEKP_00397	CDS	300				hypothetical protein
+CPFPKEKP_00398	gene	168				
+CPFPKEKP_00398	CDS	168				hypothetical protein
+CPFPKEKP_00399	gene	483				
+CPFPKEKP_00399	CDS	483				hypothetical protein
+CPFPKEKP_00400	gene	837				
+CPFPKEKP_00400	CDS	837				hypothetical protein
+CPFPKEKP_00401	gene	924	lnrL_3			
+CPFPKEKP_00401	CDS	924	lnrL_3	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+CPFPKEKP_00402	gene	1500				
+CPFPKEKP_00402	CDS	1500				hypothetical protein
+CPFPKEKP_00403	gene	1119	btuD			
+CPFPKEKP_00403	CDS	1119	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CPFPKEKP_00404	gene	1161				
+CPFPKEKP_00404	CDS	1161				hypothetical protein
+CPFPKEKP_00405	gene	1815	qheDH_2			
+CPFPKEKP_00405	CDS	1815	qheDH_2	1.1.9.1	COG4993	Quinohemoprotein alcohol dehydrogenase
+CPFPKEKP_00406	gene	786				
+CPFPKEKP_00406	CDS	786				hypothetical protein
+CPFPKEKP_00407	gene	483				
+CPFPKEKP_00407	CDS	483				hypothetical protein
+CPFPKEKP_00408	gene	336				
+CPFPKEKP_00408	CDS	336				hypothetical protein
+CPFPKEKP_00409	gene	963				
+CPFPKEKP_00409	CDS	963				hypothetical protein
+CPFPKEKP_00410	gene	1296				
+CPFPKEKP_00410	CDS	1296				hypothetical protein
+CPFPKEKP_00411	gene	954				
+CPFPKEKP_00411	CDS	954				hypothetical protein
+CPFPKEKP_00412	gene	1683				
+CPFPKEKP_00412	CDS	1683				hypothetical protein
+CPFPKEKP_00413	gene	1122	citZ			
+CPFPKEKP_00413	CDS	1122	citZ	2.3.3.16	COG0372	Citrate synthase 2
+CPFPKEKP_00414	gene	432				
+CPFPKEKP_00414	CDS	432				hypothetical protein
+CPFPKEKP_00415	gene	573				
+CPFPKEKP_00415	CDS	573				hypothetical protein
+CPFPKEKP_00416	gene	495				
+CPFPKEKP_00416	CDS	495				hypothetical protein
+CPFPKEKP_00417	gene	1542				
+CPFPKEKP_00417	CDS	1542				hypothetical protein
+CPFPKEKP_00418	gene	1482	ribZ			
+CPFPKEKP_00418	CDS	1482	ribZ			Riboflavin transporter RibZ
+CPFPKEKP_00419	gene	603	prcB_2			
+CPFPKEKP_00419	CDS	603	prcB_2			Proteasome subunit beta
+CPFPKEKP_00420	gene	1047	rtcA			
+CPFPKEKP_00420	CDS	1047	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+CPFPKEKP_00421	gene	510				
+CPFPKEKP_00421	CDS	510		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+CPFPKEKP_00422	gene	1173				
+CPFPKEKP_00422	CDS	1173		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+CPFPKEKP_00423	gene	1062				
+CPFPKEKP_00423	CDS	1062				hypothetical protein
+CPFPKEKP_00424	gene	381				
+CPFPKEKP_00424	CDS	381				hypothetical protein
+CPFPKEKP_00425	gene	666				
+CPFPKEKP_00425	CDS	666				hypothetical protein
+CPFPKEKP_00426	gene	423	pfdA			
+CPFPKEKP_00426	CDS	423	pfdA			Prefoldin subunit alpha
+CPFPKEKP_00427	gene	900	ftsY			
+CPFPKEKP_00427	CDS	900	ftsY		COG0552	Signal recognition particle receptor FtsY
+CPFPKEKP_00428	gene	930	argF			
+CPFPKEKP_00428	CDS	930	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+CPFPKEKP_00429	gene	720				
+CPFPKEKP_00429	CDS	720				hypothetical protein
+CPFPKEKP_00430	gene	1728				
+CPFPKEKP_00430	CDS	1728				hypothetical protein
+CPFPKEKP_00431	gene	308				
+CPFPKEKP_00431	misc_RNA	308				Archaea_SRP
+CPFPKEKP_00432	gene	630				
+CPFPKEKP_00432	CDS	630				hypothetical protein
+CPFPKEKP_00433	gene	339				
+CPFPKEKP_00433	CDS	339				hypothetical protein
+CPFPKEKP_00434	gene	345				
+CPFPKEKP_00434	CDS	345				hypothetical protein
+CPFPKEKP_00435	gene	183				
+CPFPKEKP_00435	CDS	183				hypothetical protein
+CPFPKEKP_00436	gene	666				
+CPFPKEKP_00436	CDS	666		1.11.1.15	COG0450	Peroxiredoxin
+CPFPKEKP_00437	gene	249	tusA_2			
+CPFPKEKP_00437	CDS	249	tusA_2		COG0425	Sulfur carrier protein TusA
+CPFPKEKP_00438	gene	492	dsrE2			
+CPFPKEKP_00438	CDS	492	dsrE2		COG2210	Sulfur carrier protein DsrE2
+CPFPKEKP_00439	gene	366				
+CPFPKEKP_00439	CDS	366				hypothetical protein
+CPFPKEKP_00440	gene	561	yqgN			
+CPFPKEKP_00440	CDS	561	yqgN		COG0212	putative protein YqgN
+CPFPKEKP_00441	gene	807	larE			
+CPFPKEKP_00441	CDS	807	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+CPFPKEKP_00442	gene	765	larB			
+CPFPKEKP_00442	CDS	765	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+CPFPKEKP_00443	gene	1242	larC			
+CPFPKEKP_00443	CDS	1242	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+CPFPKEKP_00444	gene	98				
+CPFPKEKP_00444	tRNA	98				tRNA-Ser(aga)
+CPFPKEKP_00445	gene	1767	glmS			
+CPFPKEKP_00445	CDS	1767	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CPFPKEKP_00446	gene	402	rpsK			
+CPFPKEKP_00446	CDS	402	rpsK		COG0100	30S ribosomal protein S11
+CPFPKEKP_00447	gene	528				
+CPFPKEKP_00447	CDS	528				hypothetical protein
+CPFPKEKP_00448	gene	195				
+CPFPKEKP_00448	CDS	195				hypothetical protein
+CPFPKEKP_00449	gene	582				
+CPFPKEKP_00449	CDS	582				hypothetical protein
+CPFPKEKP_00450	gene	399				
+CPFPKEKP_00450	CDS	399				hypothetical protein
+CPFPKEKP_00451	gene	936	tuf			
+CPFPKEKP_00451	CDS	936	tuf			Elongation factor Tu
+CPFPKEKP_00452	gene	1773	infB			
+CPFPKEKP_00452	CDS	1773	infB			Translation initiation factor IF-2
+CPFPKEKP_00453	gene	405	ndk			
+CPFPKEKP_00453	CDS	405	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+CPFPKEKP_00454	gene	186				
+CPFPKEKP_00454	CDS	186				hypothetical protein
+CPFPKEKP_00455	gene	219				
+CPFPKEKP_00455	CDS	219				hypothetical protein
+CPFPKEKP_00456	gene	372				
+CPFPKEKP_00456	CDS	372				hypothetical protein
+CPFPKEKP_00457	gene	1272	trpE			
+CPFPKEKP_00457	CDS	1272	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+CPFPKEKP_00458	gene	591	trpG			
+CPFPKEKP_00458	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+CPFPKEKP_00459	gene	1062	trpD			
+CPFPKEKP_00459	CDS	1062	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+CPFPKEKP_00460	gene	822	trpC			
+CPFPKEKP_00460	CDS	822	trpC			Indole-3-glycerol phosphate synthase
+CPFPKEKP_00461	gene	1194	trpB			
+CPFPKEKP_00461	CDS	1194	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+CPFPKEKP_00462	gene	807	trpA			
+CPFPKEKP_00462	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+CPFPKEKP_00463	gene	1266				
+CPFPKEKP_00463	CDS	1266				hypothetical protein
+CPFPKEKP_00464	gene	1731	glnS			
+CPFPKEKP_00464	CDS	1731	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+CPFPKEKP_00465	gene	1044	ispB_2			
+CPFPKEKP_00465	CDS	1044	ispB_2	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+CPFPKEKP_00466	gene	1083	fni			
+CPFPKEKP_00466	CDS	1083	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+CPFPKEKP_00467	gene	762	proB			
+CPFPKEKP_00467	CDS	762	proB	2.7.2.11		Glutamate 5-kinase
+CPFPKEKP_00468	gene	939	galK_1			
+CPFPKEKP_00468	CDS	939	galK_1	2.7.1.6		Galactokinase
+CPFPKEKP_00469	gene	666				
+CPFPKEKP_00469	CDS	666				hypothetical protein
+CPFPKEKP_00470	gene	1266	eno			
+CPFPKEKP_00470	CDS	1266	eno	4.2.1.11	COG0148	Enolase
+CPFPKEKP_00471	gene	237				
+CPFPKEKP_00471	CDS	237				hypothetical protein
+CPFPKEKP_00472	gene	405	rpsI			
+CPFPKEKP_00472	CDS	405	rpsI		COG0103	30S ribosomal protein S9
+CPFPKEKP_00473	gene	450				
+CPFPKEKP_00473	CDS	450				hypothetical protein
+CPFPKEKP_00474	gene	333				
+CPFPKEKP_00474	CDS	333				hypothetical protein
+CPFPKEKP_00475	gene	636				
+CPFPKEKP_00475	CDS	636				hypothetical protein
+CPFPKEKP_00476	gene	432				
+CPFPKEKP_00476	CDS	432				hypothetical protein
+CPFPKEKP_00477	gene	279				
+CPFPKEKP_00477	CDS	279				hypothetical protein
+CPFPKEKP_00478	gene	837				
+CPFPKEKP_00478	CDS	837				hypothetical protein
+CPFPKEKP_00479	gene	780				
+CPFPKEKP_00479	CDS	780				hypothetical protein
+CPFPKEKP_00480	gene	477	lrpC			
+CPFPKEKP_00480	CDS	477	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+CPFPKEKP_00481	gene	1074	asd2			
+CPFPKEKP_00481	CDS	1074	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+CPFPKEKP_00482	gene	1389	thrA			
+CPFPKEKP_00482	CDS	1389	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+CPFPKEKP_00483	gene	1011				
+CPFPKEKP_00483	CDS	1011				hypothetical protein
+CPFPKEKP_00484	gene	939	thrB_2			
+CPFPKEKP_00484	CDS	939	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+CPFPKEKP_00485	gene	1215	thrC_1			
+CPFPKEKP_00485	CDS	1215	thrC_1	4.2.3.1	COG0498	Threonine synthase
+CPFPKEKP_00486	gene	492				
+CPFPKEKP_00486	CDS	492				hypothetical protein
+CPFPKEKP_00487	gene	780				
+CPFPKEKP_00487	CDS	780				hypothetical protein
+CPFPKEKP_00488	gene	447	gmhB			
+CPFPKEKP_00488	CDS	447	gmhB	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+CPFPKEKP_00489	gene	549	gmhA			
+CPFPKEKP_00489	CDS	549	gmhA	5.3.1.28		Phosphoheptose isomerase
+CPFPKEKP_00490	gene	765	galK_2			
+CPFPKEKP_00490	CDS	765	galK_2	2.7.1.6		Galactokinase
+CPFPKEKP_00491	gene	171				
+CPFPKEKP_00491	CDS	171				hypothetical protein
+CPFPKEKP_00492	gene	972	recA			
+CPFPKEKP_00492	CDS	972	recA			Protein RecA
+CPFPKEKP_00493	gene	303				
+CPFPKEKP_00493	CDS	303				hypothetical protein
+CPFPKEKP_00494	gene	1026				
+CPFPKEKP_00494	CDS	1026				hypothetical protein
+CPFPKEKP_00495	gene	531				
+CPFPKEKP_00495	CDS	531				hypothetical protein
+CPFPKEKP_00496	gene	1221	thrC_2			
+CPFPKEKP_00496	CDS	1221	thrC_2	4.2.3.1	COG0498	Threonine synthase
+CPFPKEKP_00497	gene	282	cysO			
+CPFPKEKP_00497	CDS	282	cysO		COG1977	Sulfur carrier protein CysO
+CPFPKEKP_00498	gene	1104				
+CPFPKEKP_00498	CDS	1104				hypothetical protein
+CPFPKEKP_00499	gene	462				
+CPFPKEKP_00499	CDS	462				hypothetical protein
+CPFPKEKP_00500	gene	2193	fusA			
+CPFPKEKP_00500	CDS	2193	fusA		COG0480	Elongation factor G
+CPFPKEKP_00501	gene	1281	lysK			
+CPFPKEKP_00501	CDS	1281	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+CPFPKEKP_00502	gene	1188	lysJ			
+CPFPKEKP_00502	CDS	1188	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+CPFPKEKP_00503	gene	843	lysZ			
+CPFPKEKP_00503	CDS	843	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+CPFPKEKP_00504	gene	1053	lysY			
+CPFPKEKP_00504	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+CPFPKEKP_00505	gene	867	lysX			
+CPFPKEKP_00505	CDS	867	lysX	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+CPFPKEKP_00506	gene	174				
+CPFPKEKP_00506	CDS	174				hypothetical protein
+CPFPKEKP_00507	gene	1491	argH			
+CPFPKEKP_00507	CDS	1491	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+CPFPKEKP_00508	gene	1176	argG			
+CPFPKEKP_00508	CDS	1176	argG	6.3.4.5		Argininosuccinate synthase
+CPFPKEKP_00509	gene	678				
+CPFPKEKP_00509	CDS	678				hypothetical protein
+CPFPKEKP_00510	gene	279	ino1_2			
+CPFPKEKP_00510	CDS	279	ino1_2	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+CPFPKEKP_00511	gene	804	suhB			
+CPFPKEKP_00511	CDS	804	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+CPFPKEKP_00512	gene	423	rppH			
+CPFPKEKP_00512	CDS	423	rppH	3.6.1.-		RNA pyrophosphohydrolase
+CPFPKEKP_00513	gene	693	pyrF			
+CPFPKEKP_00513	CDS	693	pyrF			Orotidine 5'-phosphate decarboxylase
+CPFPKEKP_00514	gene	1005	purA			
+CPFPKEKP_00514	CDS	1005	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+CPFPKEKP_00515	gene	783				
+CPFPKEKP_00515	CDS	783		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+CPFPKEKP_00516	gene	1164				
+CPFPKEKP_00516	CDS	1164				hypothetical protein
+CPFPKEKP_00517	gene	909				
+CPFPKEKP_00517	CDS	909				hypothetical protein
+CPFPKEKP_00518	gene	543				
+CPFPKEKP_00518	CDS	543		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+CPFPKEKP_00519	gene	696	rnhB			
+CPFPKEKP_00519	CDS	696	rnhB			Ribonuclease HII
+CPFPKEKP_00520	gene	684				
+CPFPKEKP_00520	CDS	684				hypothetical protein
+CPFPKEKP_00521	gene	1212				
+CPFPKEKP_00521	CDS	1212				hypothetical protein
+CPFPKEKP_00522	gene	180				
+CPFPKEKP_00522	CDS	180				hypothetical protein
+CPFPKEKP_00523	gene	1584	lysS			
+CPFPKEKP_00523	CDS	1584	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+CPFPKEKP_00524	gene	753	COQ5			
+CPFPKEKP_00524	CDS	753	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+CPFPKEKP_00525	gene	699				
+CPFPKEKP_00525	CDS	699				hypothetical protein
+CPFPKEKP_00526	gene	975	wbgU			
+CPFPKEKP_00526	CDS	975	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+CPFPKEKP_00527	gene	903				
+CPFPKEKP_00527	CDS	903				hypothetical protein
+CPFPKEKP_00528	gene	1119	mshA			
+CPFPKEKP_00528	CDS	1119	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CPFPKEKP_00529	gene	1965	kdsB			
+CPFPKEKP_00529	CDS	1965	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+CPFPKEKP_00530	gene	942				
+CPFPKEKP_00530	CDS	942				hypothetical protein
+CPFPKEKP_00531	gene	888	nfo_2			
+CPFPKEKP_00531	CDS	888	nfo_2	3.1.21.2		endonuclease 4
+CPFPKEKP_00532	gene	1686	wecC			
+CPFPKEKP_00532	CDS	1686	wecC	1.1.1.336		UDP-N-acetyl-D-mannosamine dehydrogenase
+CPFPKEKP_00533	gene	1392				
+CPFPKEKP_00533	CDS	1392				hypothetical protein
+CPFPKEKP_00534	gene	1338	wbpA			
+CPFPKEKP_00534	CDS	1338	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+CPFPKEKP_00535	gene	687	cugP			
+CPFPKEKP_00535	CDS	687	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+CPFPKEKP_00536	gene	615				
+CPFPKEKP_00536	CDS	615				hypothetical protein
+CPFPKEKP_00537	gene	939	metE_1			
+CPFPKEKP_00537	CDS	939	metE_1	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+CPFPKEKP_00538	gene	1017	metE_2			
+CPFPKEKP_00538	CDS	1017	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+CPFPKEKP_00539	gene	825				
+CPFPKEKP_00539	CDS	825				hypothetical protein
+CPFPKEKP_00540	gene	552				
+CPFPKEKP_00540	CDS	552				hypothetical protein
+CPFPKEKP_00541	gene	456				
+CPFPKEKP_00541	CDS	456				hypothetical protein
+CPFPKEKP_00542	gene	576				
+CPFPKEKP_00542	CDS	576				hypothetical protein
+CPFPKEKP_00543	gene	1431	purB			
+CPFPKEKP_00543	CDS	1431	purB	4.3.2.2		Adenylosuccinate lyase
+CPFPKEKP_00544	gene	1425	aspA			
+CPFPKEKP_00544	CDS	1425	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+CPFPKEKP_00545	gene	357				
+CPFPKEKP_00545	CDS	357				hypothetical protein
+CPFPKEKP_00546	gene	192				
+CPFPKEKP_00546	CDS	192				hypothetical protein
+CPFPKEKP_00547	gene	1047				
+CPFPKEKP_00547	CDS	1047				hypothetical protein
+CPFPKEKP_00548	gene	603	ywlC			
+CPFPKEKP_00548	CDS	603	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+CPFPKEKP_00549	gene	822				
+CPFPKEKP_00549	CDS	822				hypothetical protein
+CPFPKEKP_00550	gene	897				
+CPFPKEKP_00550	CDS	897				hypothetical protein
+CPFPKEKP_00551	gene	699				
+CPFPKEKP_00551	CDS	699				hypothetical protein
+CPFPKEKP_00552	gene	2886	valS			
+CPFPKEKP_00552	CDS	2886	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+CPFPKEKP_00553	gene	2727	alaS			
+CPFPKEKP_00553	CDS	2727	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+CPFPKEKP_00554	gene	312				
+CPFPKEKP_00554	CDS	312				hypothetical protein
+CPFPKEKP_00555	gene	858				
+CPFPKEKP_00555	CDS	858				hypothetical protein
+CPFPKEKP_00556	gene	654	rplA			
+CPFPKEKP_00556	CDS	654	rplA			50S ribosomal protein L1
+CPFPKEKP_00557	gene	483	rplK			
+CPFPKEKP_00557	CDS	483	rplK			50S ribosomal protein L11
+CPFPKEKP_00558	gene	492				
+CPFPKEKP_00558	CDS	492				hypothetical protein
+CPFPKEKP_00559	gene	177				
+CPFPKEKP_00559	CDS	177				hypothetical protein
+CPFPKEKP_00560	gene	822				
+CPFPKEKP_00560	CDS	822				hypothetical protein
+CPFPKEKP_00561	gene	459				
+CPFPKEKP_00561	CDS	459				hypothetical protein
+CPFPKEKP_00562	gene	1002	ilvC			
+CPFPKEKP_00562	CDS	1002	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+CPFPKEKP_00563	gene	801	tatC			
+CPFPKEKP_00563	CDS	801	tatC		COG0805	Sec-independent protein translocase protein TatC
+CPFPKEKP_00564	gene	300	tatA			
+CPFPKEKP_00564	CDS	300	tatA			Sec-independent protein translocase protein TatA
+CPFPKEKP_00565	gene	507				
+CPFPKEKP_00565	CDS	507				hypothetical protein
+CPFPKEKP_00566	gene	765	fabG			
+CPFPKEKP_00566	CDS	765	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CPFPKEKP_00567	gene	453	nudC			
+CPFPKEKP_00567	CDS	453	nudC	3.6.1.22	COG2816	NADH pyrophosphatase
+CPFPKEKP_00568	gene	954				
+CPFPKEKP_00568	CDS	954		1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+CPFPKEKP_00569	gene	1086	hisC			
+CPFPKEKP_00569	CDS	1086	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+CPFPKEKP_00570	gene	501				
+CPFPKEKP_00570	CDS	501				hypothetical protein
+CPFPKEKP_00571	gene	1287				
+CPFPKEKP_00571	CDS	1287				hypothetical protein
+CPFPKEKP_00572	gene	744				
+CPFPKEKP_00572	CDS	744				hypothetical protein
+CPFPKEKP_00573	gene	1311	nhaP2			
+CPFPKEKP_00573	CDS	1311	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+CPFPKEKP_00574	gene	477				
+CPFPKEKP_00574	CDS	477				hypothetical protein
+CPFPKEKP_00575	gene	1071	bkdA			
+CPFPKEKP_00575	CDS	1071	bkdA	1.2.4.4	COG1071	3-methyl-2-oxobutanoate dehydrogenase subunit alpha
+CPFPKEKP_00576	gene	285				
+CPFPKEKP_00576	CDS	285				hypothetical protein
+CPFPKEKP_00577	gene	1002	truB			
+CPFPKEKP_00577	CDS	1002	truB	5.4.99.25		tRNA pseudouridine synthase B
+CPFPKEKP_00578	gene	558	cmk			
+CPFPKEKP_00578	CDS	558	cmk	2.7.4.25		Cytidylate kinase
+CPFPKEKP_00579	gene	582				
+CPFPKEKP_00579	CDS	582				hypothetical protein
+CPFPKEKP_00580	gene	1413	secY			
+CPFPKEKP_00580	CDS	1413	secY			Protein translocase subunit SecY
+CPFPKEKP_00581	gene	411				
+CPFPKEKP_00581	CDS	411				hypothetical protein
+CPFPKEKP_00582	gene	468				
+CPFPKEKP_00582	CDS	468				hypothetical protein
+CPFPKEKP_00583	gene	723				
+CPFPKEKP_00583	CDS	723				hypothetical protein
+CPFPKEKP_00584	gene	480				
+CPFPKEKP_00584	CDS	480				hypothetical protein
+CPFPKEKP_00585	gene	444				
+CPFPKEKP_00585	CDS	444				hypothetical protein
+CPFPKEKP_00586	gene	531				
+CPFPKEKP_00586	CDS	531				hypothetical protein
+CPFPKEKP_00587	gene	576				
+CPFPKEKP_00587	CDS	576				hypothetical protein
+CPFPKEKP_00588	gene	393	rpsH			
+CPFPKEKP_00588	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+CPFPKEKP_00589	gene	195				
+CPFPKEKP_00589	CDS	195				hypothetical protein
+CPFPKEKP_00590	gene	513				
+CPFPKEKP_00590	CDS	513				hypothetical protein
+CPFPKEKP_00591	gene	729				
+CPFPKEKP_00591	CDS	729				hypothetical protein
+CPFPKEKP_00592	gene	345				
+CPFPKEKP_00592	CDS	345				hypothetical protein
+CPFPKEKP_00593	gene	420				
+CPFPKEKP_00593	CDS	420				hypothetical protein
+CPFPKEKP_00594	gene	321				
+CPFPKEKP_00594	CDS	321				hypothetical protein
+CPFPKEKP_00595	gene	267				
+CPFPKEKP_00595	CDS	267				hypothetical protein
+CPFPKEKP_00596	gene	210				
+CPFPKEKP_00596	CDS	210				hypothetical protein
+CPFPKEKP_00597	gene	219				
+CPFPKEKP_00597	CDS	219				hypothetical protein
+CPFPKEKP_00598	gene	198				
+CPFPKEKP_00598	CDS	198				hypothetical protein
+CPFPKEKP_00599	gene	456				
+CPFPKEKP_00599	CDS	456				hypothetical protein
+CPFPKEKP_00600	gene	396				
+CPFPKEKP_00600	CDS	396				hypothetical protein
+CPFPKEKP_00601	gene	747				
+CPFPKEKP_00601	CDS	747				hypothetical protein
+CPFPKEKP_00602	gene	267				
+CPFPKEKP_00602	CDS	267				hypothetical protein
+CPFPKEKP_00603	gene	801				
+CPFPKEKP_00603	CDS	801				hypothetical protein
+CPFPKEKP_00604	gene	1005				
+CPFPKEKP_00604	CDS	1005				hypothetical protein
+CPFPKEKP_00605	gene	315				
+CPFPKEKP_00605	CDS	315				hypothetical protein
+CPFPKEKP_00606	gene	1752	lig			
+CPFPKEKP_00606	CDS	1752	lig	6.5.1.1		DNA ligase
+CPFPKEKP_00607	gene	654				
+CPFPKEKP_00607	CDS	654				hypothetical protein
+CPFPKEKP_00608	gene	561				
+CPFPKEKP_00608	CDS	561				hypothetical protein
+CPFPKEKP_00609	gene	789	trmI			
+CPFPKEKP_00609	CDS	789	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+CPFPKEKP_00610	gene	585				
+CPFPKEKP_00610	CDS	585				hypothetical protein
+CPFPKEKP_00611	gene	804	hdpA			
+CPFPKEKP_00611	CDS	804	hdpA	3.1.3.-		Dihydroxyacetone phosphatase
+CPFPKEKP_00612	gene	555	tmung			
+CPFPKEKP_00612	CDS	555	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+CPFPKEKP_00613	gene	651	nth_1			
+CPFPKEKP_00613	CDS	651	nth_1	4.2.99.18	COG0177	Endonuclease III
+CPFPKEKP_00614	gene	702	thyX			
+CPFPKEKP_00614	CDS	702	thyX	2.1.1.148	COG1351	Flavin-dependent thymidylate synthase
+CPFPKEKP_00615	gene	75				
+CPFPKEKP_00615	tRNA	75				tRNA-Thr(tgt)
+CPFPKEKP_00616	gene	852	purU			
+CPFPKEKP_00616	CDS	852	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+CPFPKEKP_00617	gene	333				
+CPFPKEKP_00617	CDS	333				hypothetical protein
+CPFPKEKP_00618	gene	747	cpdA			
+CPFPKEKP_00618	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CPFPKEKP_00619	gene	756	griI_2			
+CPFPKEKP_00619	CDS	756	griI_2	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+CPFPKEKP_00620	gene	1020	pfp			
+CPFPKEKP_00620	CDS	1020	pfp	2.7.1.90		Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+CPFPKEKP_00621	gene	1719				
+CPFPKEKP_00621	CDS	1719				hypothetical protein
+CPFPKEKP_00622	gene	534				
+CPFPKEKP_00622	CDS	534				hypothetical protein
+CPFPKEKP_00623	gene	186				
+CPFPKEKP_00623	CDS	186				hypothetical protein
+CPFPKEKP_00624	gene	270				
+CPFPKEKP_00624	CDS	270				hypothetical protein
+CPFPKEKP_00625	gene	1290				
+CPFPKEKP_00625	CDS	1290				hypothetical protein
+CPFPKEKP_00626	gene	88				
+CPFPKEKP_00626	tRNA	88				tRNA-Leu(tag)
+CPFPKEKP_00627	gene	1239	nanM			
+CPFPKEKP_00627	CDS	1239	nanM	5.1.3.24		N-acetylneuraminate epimerase
+CPFPKEKP_00628	gene	1032				
+CPFPKEKP_00628	CDS	1032				hypothetical protein
+CPFPKEKP_00629	gene	87				
+CPFPKEKP_00629	tRNA	87				tRNA-Arg(tct)
+CPFPKEKP_00630	gene	222				
+CPFPKEKP_00630	CDS	222				hypothetical protein
+CPFPKEKP_00631	gene	918				
+CPFPKEKP_00631	CDS	918				hypothetical protein
+CPFPKEKP_00632	gene	279	tuaD			
+CPFPKEKP_00632	CDS	279	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+CPFPKEKP_00633	gene	381	queF			
+CPFPKEKP_00633	CDS	381	queF	1.7.1.13		NADPH-dependent 7-cyano-7-deazaguanine reductase
+CPFPKEKP_00634	gene	246				
+CPFPKEKP_00634	CDS	246				hypothetical protein
+CPFPKEKP_00635	gene	129				
+CPFPKEKP_00635	CDS	129				hypothetical protein
+CPFPKEKP_00636	gene	624	rfbB			
+CPFPKEKP_00636	CDS	624	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+CPFPKEKP_00637	gene	726	hcaB			
+CPFPKEKP_00637	CDS	726	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+CPFPKEKP_00638	gene	1533	leuA			
+CPFPKEKP_00638	CDS	1533	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+CPFPKEKP_00639	gene	480	ilvH			
+CPFPKEKP_00639	CDS	480	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+CPFPKEKP_00640	gene	918				
+CPFPKEKP_00640	CDS	918				hypothetical protein
+CPFPKEKP_00641	gene	633	nth_2			
+CPFPKEKP_00641	CDS	633	nth_2	4.2.99.18	COG0177	Endonuclease III
+CPFPKEKP_00642	gene	1674	ilvD			
+CPFPKEKP_00642	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+CPFPKEKP_00643	gene	1179				
+CPFPKEKP_00643	CDS	1179				hypothetical protein
+CPFPKEKP_00644	gene	1221	mdtG			
+CPFPKEKP_00644	CDS	1221	mdtG			Multidrug resistance protein MdtG
+CPFPKEKP_00645	gene	513				
+CPFPKEKP_00645	CDS	513				hypothetical protein
+CPFPKEKP_00646	gene	885				
+CPFPKEKP_00646	CDS	885				hypothetical protein
+CPFPKEKP_00647	gene	1314				
+CPFPKEKP_00647	CDS	1314				hypothetical protein
+CPFPKEKP_00648	gene	228				
+CPFPKEKP_00648	CDS	228				hypothetical protein
+CPFPKEKP_00649	gene	780				
+CPFPKEKP_00649	CDS	780				hypothetical protein
+CPFPKEKP_00650	gene	999	ftsZ			
+CPFPKEKP_00650	CDS	999	ftsZ			Cell division protein FtsZ
+CPFPKEKP_00651	gene	156				
+CPFPKEKP_00651	CDS	156				hypothetical protein
+CPFPKEKP_00652	gene	288				
+CPFPKEKP_00652	CDS	288				hypothetical protein
+CPFPKEKP_00653	gene	162				
+CPFPKEKP_00653	CDS	162				hypothetical protein
+CPFPKEKP_00654	gene	1233	coaBC			
+CPFPKEKP_00654	CDS	1233	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+CPFPKEKP_00655	gene	750				
+CPFPKEKP_00655	CDS	750				hypothetical protein
+CPFPKEKP_00656	gene	564				
+CPFPKEKP_00656	CDS	564				hypothetical protein
+CPFPKEKP_00657	gene	825	lsrF			
+CPFPKEKP_00657	CDS	825	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+CPFPKEKP_00658	gene	402				
+CPFPKEKP_00658	CDS	402				hypothetical protein
+CPFPKEKP_00659	gene	702	acs			
+CPFPKEKP_00659	CDS	702	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+CPFPKEKP_00660	gene	354				
+CPFPKEKP_00660	CDS	354				hypothetical protein
+CPFPKEKP_00661	gene	999				
+CPFPKEKP_00661	CDS	999				hypothetical protein
+CPFPKEKP_00662	gene	342				
+CPFPKEKP_00662	CDS	342				hypothetical protein
+CPFPKEKP_00663	gene	648				
+CPFPKEKP_00663	CDS	648				hypothetical protein
+CPFPKEKP_00664	gene	153				
+CPFPKEKP_00664	CDS	153				hypothetical protein

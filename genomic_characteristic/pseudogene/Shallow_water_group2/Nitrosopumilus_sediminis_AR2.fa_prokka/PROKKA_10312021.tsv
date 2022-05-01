@@ -1,0 +1,4309 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HOBOLHBA_00001	gene	2841				
+HOBOLHBA_00001	CDS	2841				hypothetical protein
+HOBOLHBA_00002	gene	1458	glyQS			
+HOBOLHBA_00002	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+HOBOLHBA_00003	gene	840	nfo			
+HOBOLHBA_00003	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+HOBOLHBA_00004	gene	1026				
+HOBOLHBA_00004	CDS	1026				hypothetical protein
+HOBOLHBA_00005	gene	1122				
+HOBOLHBA_00005	CDS	1122				hypothetical protein
+HOBOLHBA_00006	gene	2856				
+HOBOLHBA_00006	CDS	2856				hypothetical protein
+HOBOLHBA_00007	gene	543	guaA_1			
+HOBOLHBA_00007	CDS	543	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+HOBOLHBA_00008	gene	963				
+HOBOLHBA_00008	CDS	963				hypothetical protein
+HOBOLHBA_00009	gene	74				
+HOBOLHBA_00009	tRNA	74				tRNA-Gly(ccc)
+HOBOLHBA_00010	gene	174				
+HOBOLHBA_00010	CDS	174				hypothetical protein
+HOBOLHBA_00011	gene	402				
+HOBOLHBA_00011	CDS	402				hypothetical protein
+HOBOLHBA_00012	gene	1263	selB			
+HOBOLHBA_00012	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+HOBOLHBA_00013	gene	369				
+HOBOLHBA_00013	CDS	369				hypothetical protein
+HOBOLHBA_00014	gene	453				
+HOBOLHBA_00014	CDS	453				hypothetical protein
+HOBOLHBA_00015	gene	2139				
+HOBOLHBA_00015	CDS	2139				hypothetical protein
+HOBOLHBA_00016	gene	156				
+HOBOLHBA_00016	CDS	156				hypothetical protein
+HOBOLHBA_00017	gene	798				
+HOBOLHBA_00017	CDS	798				hypothetical protein
+HOBOLHBA_00018	gene	552	btuR			
+HOBOLHBA_00018	CDS	552	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+HOBOLHBA_00019	gene	1356	cbiA			
+HOBOLHBA_00019	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+HOBOLHBA_00020	gene	642	cbiC			
+HOBOLHBA_00020	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+HOBOLHBA_00021	gene	753	cbiX			
+HOBOLHBA_00021	CDS	753	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+HOBOLHBA_00022	gene	1053	cbiG			
+HOBOLHBA_00022	CDS	1053	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+HOBOLHBA_00023	gene	1104	cbiD			
+HOBOLHBA_00023	CDS	1104	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+HOBOLHBA_00024	gene	870				
+HOBOLHBA_00024	CDS	870				hypothetical protein
+HOBOLHBA_00025	gene	1167	metK			
+HOBOLHBA_00025	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+HOBOLHBA_00026	gene	246				
+HOBOLHBA_00026	CDS	246				hypothetical protein
+HOBOLHBA_00027	gene	660	recA_1			
+HOBOLHBA_00027	CDS	660	recA_1			Protein RecA
+HOBOLHBA_00028	gene	120				
+HOBOLHBA_00028	CDS	120				hypothetical protein
+HOBOLHBA_00029	gene	2013	dbpA_1			
+HOBOLHBA_00029	CDS	2013	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+HOBOLHBA_00030	gene	600				
+HOBOLHBA_00030	CDS	600				hypothetical protein
+HOBOLHBA_00031	gene	1398				
+HOBOLHBA_00031	CDS	1398				hypothetical protein
+HOBOLHBA_00032	gene	939	lnrL_1			
+HOBOLHBA_00032	CDS	939	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+HOBOLHBA_00033	gene	762				
+HOBOLHBA_00033	CDS	762				hypothetical protein
+HOBOLHBA_00034	gene	738				
+HOBOLHBA_00034	CDS	738				hypothetical protein
+HOBOLHBA_00035	gene	74				
+HOBOLHBA_00035	tRNA	74				tRNA-Gln(ttg)
+HOBOLHBA_00036	gene	1029				
+HOBOLHBA_00036	CDS	1029				hypothetical protein
+HOBOLHBA_00037	gene	1152				
+HOBOLHBA_00037	CDS	1152				hypothetical protein
+HOBOLHBA_00038	gene	567	grpE			
+HOBOLHBA_00038	CDS	567	grpE			Protein GrpE
+HOBOLHBA_00039	gene	1890	dnaK			
+HOBOLHBA_00039	CDS	1890	dnaK		COG0443	Chaperone protein DnaK
+HOBOLHBA_00040	gene	1059	dnaJ_1			
+HOBOLHBA_00040	CDS	1059	dnaJ_1		COG0484	Chaperone protein DnaJ
+HOBOLHBA_00041	gene	549				
+HOBOLHBA_00041	CDS	549				hypothetical protein
+HOBOLHBA_00042	gene	165				
+HOBOLHBA_00042	CDS	165				hypothetical protein
+HOBOLHBA_00043	gene	86				
+HOBOLHBA_00043	tRNA	86				tRNA-Leu(cag)
+HOBOLHBA_00044	gene	1236	GATB_1			
+HOBOLHBA_00044	CDS	1236	GATB_1	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+HOBOLHBA_00045	gene	720	GATB_2			
+HOBOLHBA_00045	CDS	720	GATB_2	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+HOBOLHBA_00046	gene	1290				
+HOBOLHBA_00046	CDS	1290				hypothetical protein
+HOBOLHBA_00047	gene	2187	ftsH_1			
+HOBOLHBA_00047	CDS	2187	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOBOLHBA_00048	gene	735				
+HOBOLHBA_00048	CDS	735				hypothetical protein
+HOBOLHBA_00049	gene	279	yccX			
+HOBOLHBA_00049	CDS	279	yccX	3.6.1.7	COG1254	Acylphosphatase
+HOBOLHBA_00050	gene	333				
+HOBOLHBA_00050	CDS	333				hypothetical protein
+HOBOLHBA_00051	gene	312				
+HOBOLHBA_00051	misc_RNA	312				Archaea_SRP
+HOBOLHBA_00052	gene	915	ttuA			
+HOBOLHBA_00052	CDS	915	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+HOBOLHBA_00053	gene	1152				
+HOBOLHBA_00053	CDS	1152				hypothetical protein
+HOBOLHBA_00054	gene	435				
+HOBOLHBA_00054	CDS	435				hypothetical protein
+HOBOLHBA_00055	gene	417				
+HOBOLHBA_00055	CDS	417				hypothetical protein
+HOBOLHBA_00056	gene	420				
+HOBOLHBA_00056	CDS	420				hypothetical protein
+HOBOLHBA_00057	gene	165				
+HOBOLHBA_00057	CDS	165				hypothetical protein
+HOBOLHBA_00058	gene	447	mntR_1			
+HOBOLHBA_00058	CDS	447	mntR_1			HTH-type transcriptional regulator MntR
+HOBOLHBA_00059	gene	768				
+HOBOLHBA_00059	CDS	768				hypothetical protein
+HOBOLHBA_00060	gene	1665	moaA			
+HOBOLHBA_00060	CDS	1665	moaA			GTP 3',8-cyclase
+HOBOLHBA_00061	gene	402				
+HOBOLHBA_00061	CDS	402				hypothetical protein
+HOBOLHBA_00062	gene	300				
+HOBOLHBA_00062	CDS	300				hypothetical protein
+HOBOLHBA_00063	gene	732	rmlD_1			
+HOBOLHBA_00063	CDS	732	rmlD_1	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+HOBOLHBA_00064	gene	1083	wbpI_1			
+HOBOLHBA_00064	CDS	1083	wbpI_1	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HOBOLHBA_00065	gene	1005	capD			
+HOBOLHBA_00065	CDS	1005	capD	5.1.3.2	COG1086	UDP-glucose 4-epimerase
+HOBOLHBA_00066	gene	873	arnC_1			
+HOBOLHBA_00066	CDS	873	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HOBOLHBA_00067	gene	474				
+HOBOLHBA_00067	CDS	474				hypothetical protein
+HOBOLHBA_00068	gene	567				
+HOBOLHBA_00068	CDS	567				hypothetical protein
+HOBOLHBA_00069	gene	1077				
+HOBOLHBA_00069	CDS	1077				hypothetical protein
+HOBOLHBA_00070	gene	1062	mtnA			
+HOBOLHBA_00070	CDS	1062	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+HOBOLHBA_00071	gene	639				
+HOBOLHBA_00071	CDS	639				hypothetical protein
+HOBOLHBA_00072	gene	648	bacG			
+HOBOLHBA_00072	CDS	648	bacG	1.3.1.-	COG1028	NADPH-dependent reductase BacG
+HOBOLHBA_00073	gene	837				
+HOBOLHBA_00073	CDS	837				hypothetical protein
+HOBOLHBA_00074	gene	240				
+HOBOLHBA_00074	CDS	240				hypothetical protein
+HOBOLHBA_00075	gene	594				
+HOBOLHBA_00075	CDS	594				hypothetical protein
+HOBOLHBA_00076	gene	492				
+HOBOLHBA_00076	CDS	492				hypothetical protein
+HOBOLHBA_00077	gene	75				
+HOBOLHBA_00077	tRNA	75				tRNA-Arg(tcg)
+HOBOLHBA_00078	gene	1173	alaA			
+HOBOLHBA_00078	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+HOBOLHBA_00079	gene	402				
+HOBOLHBA_00079	CDS	402				hypothetical protein
+HOBOLHBA_00080	gene	234				
+HOBOLHBA_00080	CDS	234				hypothetical protein
+HOBOLHBA_00081	gene	672				
+HOBOLHBA_00081	CDS	672				hypothetical protein
+HOBOLHBA_00082	gene	624	pspA			
+HOBOLHBA_00082	CDS	624	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+HOBOLHBA_00083	gene	261				
+HOBOLHBA_00083	CDS	261				hypothetical protein
+HOBOLHBA_00084	gene	432	coxM			
+HOBOLHBA_00084	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+HOBOLHBA_00085	gene	1527	ctaD			
+HOBOLHBA_00085	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+HOBOLHBA_00086	gene	960	petE_1			
+HOBOLHBA_00086	CDS	960	petE_1			Plastocyanin
+HOBOLHBA_00087	gene	444	ctaA			
+HOBOLHBA_00087	CDS	444	ctaA	1.3.-.-		Heme A synthase
+HOBOLHBA_00088	gene	486				
+HOBOLHBA_00088	CDS	486				hypothetical protein
+HOBOLHBA_00089	gene	603				
+HOBOLHBA_00089	CDS	603				hypothetical protein
+HOBOLHBA_00090	gene	75				
+HOBOLHBA_00090	tRNA	75				tRNA-Lys(ctt)
+HOBOLHBA_00091	gene	378	cheY_1			
+HOBOLHBA_00091	CDS	378	cheY_1		COG0784	Chemotaxis protein CheY
+HOBOLHBA_00092	gene	1779	sasA_1			
+HOBOLHBA_00092	CDS	1779	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+HOBOLHBA_00093	gene	555				
+HOBOLHBA_00093	CDS	555				hypothetical protein
+HOBOLHBA_00094	gene	915	ilvE_1			
+HOBOLHBA_00094	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HOBOLHBA_00095	gene	207				
+HOBOLHBA_00095	CDS	207				hypothetical protein
+HOBOLHBA_00096	gene	1416	thrA_1			
+HOBOLHBA_00096	CDS	1416	thrA_1		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HOBOLHBA_00097	gene	1014	murG			
+HOBOLHBA_00097	CDS	1014	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HOBOLHBA_00098	gene	77				
+HOBOLHBA_00098	tRNA	77				tRNA-Val(tac)
+HOBOLHBA_00099	gene	684	menG_1			
+HOBOLHBA_00099	CDS	684	menG_1	2.1.1.163		Demethylmenaquinone methyltransferase
+HOBOLHBA_00100	gene	438				
+HOBOLHBA_00100	CDS	438				hypothetical protein
+HOBOLHBA_00101	gene	681				
+HOBOLHBA_00101	CDS	681				hypothetical protein
+HOBOLHBA_00102	gene	219				
+HOBOLHBA_00102	CDS	219				hypothetical protein
+HOBOLHBA_00103	gene	423				
+HOBOLHBA_00103	CDS	423				hypothetical protein
+HOBOLHBA_00104	gene	1239				
+HOBOLHBA_00104	CDS	1239				hypothetical protein
+HOBOLHBA_00105	gene	201				
+HOBOLHBA_00105	CDS	201				hypothetical protein
+HOBOLHBA_00106	gene	1011				
+HOBOLHBA_00106	CDS	1011				hypothetical protein
+HOBOLHBA_00107	gene	201				
+HOBOLHBA_00107	CDS	201				hypothetical protein
+HOBOLHBA_00108	gene	135				
+HOBOLHBA_00108	CDS	135				hypothetical protein
+HOBOLHBA_00109	gene	1164				
+HOBOLHBA_00109	CDS	1164		2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+HOBOLHBA_00110	gene	639				
+HOBOLHBA_00110	CDS	639				hypothetical protein
+HOBOLHBA_00111	gene	1386				
+HOBOLHBA_00111	CDS	1386				hypothetical protein
+HOBOLHBA_00112	gene	180				
+HOBOLHBA_00112	CDS	180				hypothetical protein
+HOBOLHBA_00113	gene	1236				
+HOBOLHBA_00113	CDS	1236				hypothetical protein
+HOBOLHBA_00114	gene	801				
+HOBOLHBA_00114	CDS	801				hypothetical protein
+HOBOLHBA_00115	gene	1755				
+HOBOLHBA_00115	CDS	1755				hypothetical protein
+HOBOLHBA_00116	gene	1473				
+HOBOLHBA_00116	CDS	1473				hypothetical protein
+HOBOLHBA_00117	gene	480				
+HOBOLHBA_00117	CDS	480				hypothetical protein
+HOBOLHBA_00118	gene	156				
+HOBOLHBA_00118	CDS	156				hypothetical protein
+HOBOLHBA_00119	gene	210				
+HOBOLHBA_00119	CDS	210				hypothetical protein
+HOBOLHBA_00120	gene	930	ctaB_1			
+HOBOLHBA_00120	CDS	930	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HOBOLHBA_00121	gene	303				
+HOBOLHBA_00121	CDS	303				hypothetical protein
+HOBOLHBA_00122	gene	1077	asd2			
+HOBOLHBA_00122	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+HOBOLHBA_00123	gene	834	cobD_1			
+HOBOLHBA_00123	CDS	834	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+HOBOLHBA_00124	gene	840	cobQ			
+HOBOLHBA_00124	CDS	840	cobQ		COG1492	Cobyric acid synthase
+HOBOLHBA_00125	gene	972	cobD_2			
+HOBOLHBA_00125	CDS	972	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+HOBOLHBA_00126	gene	726	cobS			
+HOBOLHBA_00126	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+HOBOLHBA_00127	gene	585	mobA			
+HOBOLHBA_00127	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+HOBOLHBA_00128	gene	198				
+HOBOLHBA_00128	CDS	198				hypothetical protein
+HOBOLHBA_00129	gene	282				
+HOBOLHBA_00129	CDS	282				hypothetical protein
+HOBOLHBA_00130	gene	1764	ade			
+HOBOLHBA_00130	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+HOBOLHBA_00131	gene	1626	groL_1			
+HOBOLHBA_00131	CDS	1626	groL_1		COG0459	60 kDa chaperonin
+HOBOLHBA_00132	gene	864	mak			
+HOBOLHBA_00132	CDS	864	mak	2.7.1.4	COG1940	Fructokinase
+HOBOLHBA_00133	gene	261				
+HOBOLHBA_00133	CDS	261				hypothetical protein
+HOBOLHBA_00134	gene	366				
+HOBOLHBA_00134	CDS	366				hypothetical protein
+HOBOLHBA_00135	gene	1524	guaA_2			
+HOBOLHBA_00135	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+HOBOLHBA_00136	gene	570				
+HOBOLHBA_00136	CDS	570				hypothetical protein
+HOBOLHBA_00137	gene	735				
+HOBOLHBA_00137	CDS	735				hypothetical protein
+HOBOLHBA_00138	gene	867	folP			
+HOBOLHBA_00138	CDS	867	folP	2.5.1.15		Dihydropteroate synthase
+HOBOLHBA_00139	gene	1431	guaB			
+HOBOLHBA_00139	CDS	1431	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_00140	gene	468				
+HOBOLHBA_00140	CDS	468				hypothetical protein
+HOBOLHBA_00141	gene	816	pheA			
+HOBOLHBA_00141	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+HOBOLHBA_00142	gene	552				
+HOBOLHBA_00142	CDS	552				hypothetical protein
+HOBOLHBA_00143	gene	1077	ccr_1			
+HOBOLHBA_00143	CDS	1077	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HOBOLHBA_00144	gene	609				
+HOBOLHBA_00144	CDS	609				hypothetical protein
+HOBOLHBA_00145	gene	1014				
+HOBOLHBA_00145	CDS	1014				hypothetical protein
+HOBOLHBA_00146	gene	76				
+HOBOLHBA_00146	tRNA	76				tRNA-Met(cat)
+HOBOLHBA_00147	gene	1092	yliI_1			
+HOBOLHBA_00147	CDS	1092	yliI_1	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+HOBOLHBA_00148	gene	1257	mvaA			
+HOBOLHBA_00148	CDS	1257	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+HOBOLHBA_00149	gene	978	hisG			
+HOBOLHBA_00149	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+HOBOLHBA_00150	gene	1272	hisD			
+HOBOLHBA_00150	CDS	1272	hisD	1.1.1.23		Histidinol dehydrogenase
+HOBOLHBA_00151	gene	1071	hisC_1			
+HOBOLHBA_00151	CDS	1071	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+HOBOLHBA_00152	gene	975	ppaX			
+HOBOLHBA_00152	CDS	975	ppaX	3.6.1.1		Pyrophosphatase PpaX
+HOBOLHBA_00153	gene	588	hisB			
+HOBOLHBA_00153	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+HOBOLHBA_00154	gene	606	hisH			
+HOBOLHBA_00154	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+HOBOLHBA_00155	gene	708	priA			
+HOBOLHBA_00155	CDS	708	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+HOBOLHBA_00156	gene	804	hisF			
+HOBOLHBA_00156	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+HOBOLHBA_00157	gene	327	hisI			
+HOBOLHBA_00157	CDS	327	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+HOBOLHBA_00158	gene	576				
+HOBOLHBA_00158	CDS	576				hypothetical protein
+HOBOLHBA_00159	gene	1221	thrC			
+HOBOLHBA_00159	CDS	1221	thrC	4.2.3.1	COG0498	Threonine synthase
+HOBOLHBA_00160	gene	1338				
+HOBOLHBA_00160	CDS	1338				hypothetical protein
+HOBOLHBA_00161	gene	285				
+HOBOLHBA_00161	CDS	285				hypothetical protein
+HOBOLHBA_00162	gene	171				
+HOBOLHBA_00162	CDS	171				hypothetical protein
+HOBOLHBA_00163	gene	183				
+HOBOLHBA_00163	CDS	183				hypothetical protein
+HOBOLHBA_00164	gene	228				
+HOBOLHBA_00164	CDS	228				hypothetical protein
+HOBOLHBA_00165	gene	141				
+HOBOLHBA_00165	CDS	141				hypothetical protein
+HOBOLHBA_00166	gene	1017	dsbD			
+HOBOLHBA_00166	CDS	1017	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+HOBOLHBA_00167	gene	252				
+HOBOLHBA_00167	CDS	252				hypothetical protein
+HOBOLHBA_00168	gene	453				
+HOBOLHBA_00168	CDS	453				hypothetical protein
+HOBOLHBA_00169	gene	882				
+HOBOLHBA_00169	CDS	882				hypothetical protein
+HOBOLHBA_00170	gene	303				
+HOBOLHBA_00170	CDS	303				hypothetical protein
+HOBOLHBA_00171	gene	285				
+HOBOLHBA_00171	CDS	285				hypothetical protein
+HOBOLHBA_00172	gene	444				
+HOBOLHBA_00172	CDS	444				hypothetical protein
+HOBOLHBA_00173	gene	357				
+HOBOLHBA_00173	CDS	357				hypothetical protein
+HOBOLHBA_00174	gene	2097	FCS1			
+HOBOLHBA_00174	CDS	2097	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+HOBOLHBA_00175	gene	1527	abfD			
+HOBOLHBA_00175	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+HOBOLHBA_00176	gene	855				
+HOBOLHBA_00176	CDS	855				hypothetical protein
+HOBOLHBA_00177	gene	774				
+HOBOLHBA_00177	CDS	774				hypothetical protein
+HOBOLHBA_00178	gene	741				
+HOBOLHBA_00178	CDS	741				hypothetical protein
+HOBOLHBA_00179	gene	327	trxA			
+HOBOLHBA_00179	CDS	327	trxA			Thioredoxin 1
+HOBOLHBA_00180	gene	534				
+HOBOLHBA_00180	CDS	534				hypothetical protein
+HOBOLHBA_00181	gene	360				
+HOBOLHBA_00181	CDS	360				hypothetical protein
+HOBOLHBA_00182	gene	73				
+HOBOLHBA_00182	tRNA	73				tRNA-Ala(cgc)
+HOBOLHBA_00183	gene	1404				
+HOBOLHBA_00183	CDS	1404		3.5.2.-		D-hydantoinase
+HOBOLHBA_00184	gene	807				
+HOBOLHBA_00184	CDS	807				hypothetical protein
+HOBOLHBA_00185	gene	771	pcm_1			
+HOBOLHBA_00185	CDS	771	pcm_1	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+HOBOLHBA_00186	gene	831				
+HOBOLHBA_00186	CDS	831				hypothetical protein
+HOBOLHBA_00187	gene	621				
+HOBOLHBA_00187	CDS	621				hypothetical protein
+HOBOLHBA_00188	gene	1071				
+HOBOLHBA_00188	CDS	1071				hypothetical protein
+HOBOLHBA_00189	gene	474				
+HOBOLHBA_00189	CDS	474				hypothetical protein
+HOBOLHBA_00190	gene	684				
+HOBOLHBA_00190	CDS	684				hypothetical protein
+HOBOLHBA_00191	gene	579				
+HOBOLHBA_00191	CDS	579				hypothetical protein
+HOBOLHBA_00192	gene	675	rpiA			
+HOBOLHBA_00192	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+HOBOLHBA_00193	gene	954				
+HOBOLHBA_00193	CDS	954				hypothetical protein
+HOBOLHBA_00194	gene	237				
+HOBOLHBA_00194	CDS	237				hypothetical protein
+HOBOLHBA_00195	gene	723	mftE			
+HOBOLHBA_00195	CDS	723	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+HOBOLHBA_00196	gene	864	purU			
+HOBOLHBA_00196	CDS	864	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+HOBOLHBA_00197	gene	88				
+HOBOLHBA_00197	tRNA	88				tRNA-Leu(tag)
+HOBOLHBA_00198	gene	1350	algC			
+HOBOLHBA_00198	CDS	1350	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+HOBOLHBA_00199	gene	387				
+HOBOLHBA_00199	CDS	387				hypothetical protein
+HOBOLHBA_00200	gene	213				
+HOBOLHBA_00200	CDS	213				hypothetical protein
+HOBOLHBA_00201	gene	201				
+HOBOLHBA_00201	CDS	201				hypothetical protein
+HOBOLHBA_00202	gene	402	ndk			
+HOBOLHBA_00202	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+HOBOLHBA_00203	gene	1782	infB			
+HOBOLHBA_00203	CDS	1782	infB			Translation initiation factor IF-2
+HOBOLHBA_00204	gene	402				
+HOBOLHBA_00204	CDS	402				hypothetical protein
+HOBOLHBA_00205	gene	171				
+HOBOLHBA_00205	CDS	171				hypothetical protein
+HOBOLHBA_00206	gene	1377				
+HOBOLHBA_00206	CDS	1377				hypothetical protein
+HOBOLHBA_00207	gene	417				
+HOBOLHBA_00207	CDS	417				Protein archease
+HOBOLHBA_00208	gene	366				
+HOBOLHBA_00208	CDS	366				hypothetical protein
+HOBOLHBA_00209	gene	951	neoA			
+HOBOLHBA_00209	CDS	951	neoA	1.1.1.329		2-deoxy-scyllo-inosamine dehydrogenase
+HOBOLHBA_00210	gene	549				
+HOBOLHBA_00210	CDS	549			COG0586	putative membrane protein
+HOBOLHBA_00211	gene	792				
+HOBOLHBA_00211	CDS	792				hypothetical protein
+HOBOLHBA_00212	gene	666	udgB			
+HOBOLHBA_00212	CDS	666	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+HOBOLHBA_00213	gene	201	drgA_1			
+HOBOLHBA_00213	CDS	201	drgA_1			Protein DrgA
+HOBOLHBA_00214	gene	1503				
+HOBOLHBA_00214	CDS	1503				hypothetical protein
+HOBOLHBA_00215	gene	1545				
+HOBOLHBA_00215	CDS	1545				hypothetical protein
+HOBOLHBA_00216	gene	177				
+HOBOLHBA_00216	CDS	177				hypothetical protein
+HOBOLHBA_00217	gene	270				
+HOBOLHBA_00217	CDS	270				hypothetical protein
+HOBOLHBA_00218	gene	372				
+HOBOLHBA_00218	CDS	372				hypothetical protein
+HOBOLHBA_00219	gene	360				
+HOBOLHBA_00219	CDS	360				hypothetical protein
+HOBOLHBA_00220	gene	477				
+HOBOLHBA_00220	CDS	477				hypothetical protein
+HOBOLHBA_00221	gene	186				
+HOBOLHBA_00221	CDS	186				hypothetical protein
+HOBOLHBA_00222	gene	219				
+HOBOLHBA_00222	CDS	219				hypothetical protein
+HOBOLHBA_00223	gene	720				
+HOBOLHBA_00223	CDS	720				hypothetical protein
+HOBOLHBA_00224	gene	990	iolS_1			
+HOBOLHBA_00224	CDS	990	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+HOBOLHBA_00225	gene	558				
+HOBOLHBA_00225	CDS	558				hypothetical protein
+HOBOLHBA_00226	gene	399				
+HOBOLHBA_00226	CDS	399				hypothetical protein
+HOBOLHBA_00227	gene	105				
+HOBOLHBA_00227	CDS	105				hypothetical protein
+HOBOLHBA_00228	gene	1284	hisS			
+HOBOLHBA_00228	CDS	1284	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HOBOLHBA_00229	gene	666				
+HOBOLHBA_00229	CDS	666				hypothetical protein
+HOBOLHBA_00230	gene	510	napF_1			
+HOBOLHBA_00230	CDS	510	napF_1			Ferredoxin-type protein NapF
+HOBOLHBA_00231	gene	549	napF_2			
+HOBOLHBA_00231	CDS	549	napF_2			Ferredoxin-type protein NapF
+HOBOLHBA_00232	gene	86				
+HOBOLHBA_00232	tRNA	86				tRNA-Ser(tga)
+HOBOLHBA_00233	gene	951				
+HOBOLHBA_00233	CDS	951				hypothetical protein
+HOBOLHBA_00234	gene	531				
+HOBOLHBA_00234	CDS	531				hypothetical protein
+HOBOLHBA_00235	gene	2088				
+HOBOLHBA_00235	CDS	2088				hypothetical protein
+HOBOLHBA_00236	gene	2127	cshA			
+HOBOLHBA_00236	CDS	2127	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+HOBOLHBA_00237	gene	993	mraY			
+HOBOLHBA_00237	CDS	993	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+HOBOLHBA_00238	gene	231				
+HOBOLHBA_00238	CDS	231				hypothetical protein
+HOBOLHBA_00239	gene	477	fdtC			
+HOBOLHBA_00239	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+HOBOLHBA_00240	gene	270				
+HOBOLHBA_00240	CDS	270				hypothetical protein
+HOBOLHBA_00241	gene	936	iolX			
+HOBOLHBA_00241	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+HOBOLHBA_00242	gene	918	ilvE_2			
+HOBOLHBA_00242	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HOBOLHBA_00243	gene	609				
+HOBOLHBA_00243	CDS	609				hypothetical protein
+HOBOLHBA_00244	gene	846	mimB			
+HOBOLHBA_00244	CDS	846	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+HOBOLHBA_00245	gene	75				
+HOBOLHBA_00245	tRNA	75				tRNA-Ala(ggc)
+HOBOLHBA_00246	gene	537				
+HOBOLHBA_00246	CDS	537				hypothetical protein
+HOBOLHBA_00247	gene	288				
+HOBOLHBA_00247	CDS	288				hypothetical protein
+HOBOLHBA_00248	gene	867	Dml			
+HOBOLHBA_00248	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+HOBOLHBA_00249	gene	510				
+HOBOLHBA_00249	CDS	510				hypothetical protein
+HOBOLHBA_00250	gene	1713	frdA			
+HOBOLHBA_00250	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+HOBOLHBA_00251	gene	432				
+HOBOLHBA_00251	CDS	432				hypothetical protein
+HOBOLHBA_00252	gene	345				
+HOBOLHBA_00252	CDS	345				hypothetical protein
+HOBOLHBA_00253	gene	759	frdB			
+HOBOLHBA_00253	CDS	759	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+HOBOLHBA_00254	gene	357				
+HOBOLHBA_00254	CDS	357				hypothetical protein
+HOBOLHBA_00255	gene	1461	argH			
+HOBOLHBA_00255	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+HOBOLHBA_00256	gene	75				
+HOBOLHBA_00256	tRNA	75				tRNA-Lys(ttt)
+HOBOLHBA_00257	gene	78				
+HOBOLHBA_00257	tRNA	78				tRNA-Asp(gtc)
+HOBOLHBA_00258	gene	816				
+HOBOLHBA_00258	CDS	816				hypothetical protein
+HOBOLHBA_00259	gene	1077	hemA_1			
+HOBOLHBA_00259	CDS	1077	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HOBOLHBA_00260	gene	168				
+HOBOLHBA_00260	CDS	168				hypothetical protein
+HOBOLHBA_00261	gene	843	fpr			
+HOBOLHBA_00261	CDS	843	fpr	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+HOBOLHBA_00262	gene	801	cysQ_1			
+HOBOLHBA_00262	CDS	801	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+HOBOLHBA_00263	gene	1116				
+HOBOLHBA_00263	CDS	1116				hypothetical protein
+HOBOLHBA_00264	gene	1158				
+HOBOLHBA_00264	CDS	1158				hypothetical protein
+HOBOLHBA_00265	gene	291				
+HOBOLHBA_00265	CDS	291				hypothetical protein
+HOBOLHBA_00266	gene	1548	pccB			
+HOBOLHBA_00266	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HOBOLHBA_00267	gene	1491	cfiB			
+HOBOLHBA_00267	CDS	1491	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+HOBOLHBA_00268	gene	513				
+HOBOLHBA_00268	CDS	513				hypothetical protein
+HOBOLHBA_00269	gene	465	bcp_1			
+HOBOLHBA_00269	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+HOBOLHBA_00270	gene	375	ndhC			
+HOBOLHBA_00270	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+HOBOLHBA_00271	gene	525	ndhK			
+HOBOLHBA_00271	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+HOBOLHBA_00272	gene	597	nuoC			
+HOBOLHBA_00272	CDS	597	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+HOBOLHBA_00273	gene	1134	nqo4			
+HOBOLHBA_00273	CDS	1134	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+HOBOLHBA_00274	gene	1299	ndhA			
+HOBOLHBA_00274	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+HOBOLHBA_00275	gene	498	nuoI			
+HOBOLHBA_00275	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+HOBOLHBA_00276	gene	513				
+HOBOLHBA_00276	CDS	513				hypothetical protein
+HOBOLHBA_00277	gene	306	nuoK			
+HOBOLHBA_00277	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+HOBOLHBA_00278	gene	1554	mrpA			
+HOBOLHBA_00278	CDS	1554	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+HOBOLHBA_00279	gene	2079	ndhB_1			
+HOBOLHBA_00279	CDS	2079	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HOBOLHBA_00280	gene	1485	ndhB_2			
+HOBOLHBA_00280	CDS	1485	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+HOBOLHBA_00281	gene	852				
+HOBOLHBA_00281	CDS	852				hypothetical protein
+HOBOLHBA_00282	gene	79				
+HOBOLHBA_00282	tRNA	79				tRNA-Glu(ttc)
+HOBOLHBA_00283	gene	633				
+HOBOLHBA_00283	CDS	633		1.-.-.-	COG5424	putative oxidoreductase CT_610
+HOBOLHBA_00284	gene	74				
+HOBOLHBA_00284	tRNA	74				tRNA-Met(cat)
+HOBOLHBA_00285	gene	177				
+HOBOLHBA_00285	CDS	177				hypothetical protein
+HOBOLHBA_00286	gene	417				
+HOBOLHBA_00286	CDS	417				hypothetical protein
+HOBOLHBA_00287	gene	222				
+HOBOLHBA_00287	CDS	222				hypothetical protein
+HOBOLHBA_00288	gene	342				
+HOBOLHBA_00288	CDS	342				hypothetical protein
+HOBOLHBA_00289	gene	177				
+HOBOLHBA_00289	CDS	177				hypothetical protein
+HOBOLHBA_00290	gene	216				
+HOBOLHBA_00290	CDS	216				hypothetical protein
+HOBOLHBA_00291	gene	471				
+HOBOLHBA_00291	CDS	471				hypothetical protein
+HOBOLHBA_00292	gene	258				
+HOBOLHBA_00292	CDS	258				hypothetical protein
+HOBOLHBA_00293	gene	252				
+HOBOLHBA_00293	CDS	252				hypothetical protein
+HOBOLHBA_00294	gene	252				
+HOBOLHBA_00294	CDS	252				hypothetical protein
+HOBOLHBA_00295	gene	471				
+HOBOLHBA_00295	CDS	471				hypothetical protein
+HOBOLHBA_00296	gene	606	pyrE			
+HOBOLHBA_00296	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HOBOLHBA_00297	gene	1083				
+HOBOLHBA_00297	CDS	1083				hypothetical protein
+HOBOLHBA_00298	gene	1131				
+HOBOLHBA_00298	CDS	1131				hypothetical protein
+HOBOLHBA_00299	gene	498				
+HOBOLHBA_00299	CDS	498				hypothetical protein
+HOBOLHBA_00300	gene	219				
+HOBOLHBA_00300	CDS	219				hypothetical protein
+HOBOLHBA_00301	gene	828				
+HOBOLHBA_00301	CDS	828				hypothetical protein
+HOBOLHBA_00302	gene	1788	btuD			
+HOBOLHBA_00302	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HOBOLHBA_00303	gene	112				
+HOBOLHBA_00303	rRNA	112				5S ribosomal RNA
+HOBOLHBA_00304	gene	138				
+HOBOLHBA_00304	CDS	138				hypothetical protein
+HOBOLHBA_00305	gene	1470	pepA			
+HOBOLHBA_00305	CDS	1470	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+HOBOLHBA_00306	gene	375				
+HOBOLHBA_00306	CDS	375				hypothetical protein
+HOBOLHBA_00307	gene	567				
+HOBOLHBA_00307	CDS	567				hypothetical protein
+HOBOLHBA_00308	gene	1560	dxs			
+HOBOLHBA_00308	CDS	1560	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+HOBOLHBA_00309	gene	975	aptB			
+HOBOLHBA_00309	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+HOBOLHBA_00310	gene	672	tal			
+HOBOLHBA_00310	CDS	672	tal	2.2.1.2	COG0176	Transaldolase
+HOBOLHBA_00311	gene	273				
+HOBOLHBA_00311	CDS	273				hypothetical protein
+HOBOLHBA_00312	gene	1023	corA			
+HOBOLHBA_00312	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+HOBOLHBA_00313	gene	73				
+HOBOLHBA_00313	tRNA	73				tRNA-His(gtg)
+HOBOLHBA_00314	gene	348				
+HOBOLHBA_00314	CDS	348				hypothetical protein
+HOBOLHBA_00315	gene	762				
+HOBOLHBA_00315	CDS	762				hypothetical protein
+HOBOLHBA_00316	gene	270				
+HOBOLHBA_00316	CDS	270				hypothetical protein
+HOBOLHBA_00317	gene	309	cmtAd			
+HOBOLHBA_00317	CDS	309	cmtAd		COG2146	p-cumate 2,3-dioxygenase system, ferredoxin component
+HOBOLHBA_00318	gene	786				
+HOBOLHBA_00318	CDS	786				hypothetical protein
+HOBOLHBA_00319	gene	870	yisK			
+HOBOLHBA_00319	CDS	870	yisK		COG0179	putative protein YisK
+HOBOLHBA_00320	gene	1710	glnS			
+HOBOLHBA_00320	CDS	1710	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+HOBOLHBA_00321	gene	981				
+HOBOLHBA_00321	CDS	981				hypothetical protein
+HOBOLHBA_00322	gene	651	idi			
+HOBOLHBA_00322	CDS	651	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+HOBOLHBA_00323	gene	753	argB			
+HOBOLHBA_00323	CDS	753	argB	2.7.2.8		Acetylglutamate kinase
+HOBOLHBA_00324	gene	942	thrB_1			
+HOBOLHBA_00324	CDS	942	thrB_1	2.7.1.39		Homoserine kinase
+HOBOLHBA_00325	gene	624				
+HOBOLHBA_00325	CDS	624				hypothetical protein
+HOBOLHBA_00326	gene	1239	eno			
+HOBOLHBA_00326	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+HOBOLHBA_00327	gene	237				
+HOBOLHBA_00327	CDS	237				hypothetical protein
+HOBOLHBA_00328	gene	88				
+HOBOLHBA_00328	tRNA	88				tRNA-Leu(gag)
+HOBOLHBA_00329	gene	615				
+HOBOLHBA_00329	CDS	615				hypothetical protein
+HOBOLHBA_00330	gene	657	nnr_1			
+HOBOLHBA_00330	CDS	657	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HOBOLHBA_00331	gene	609	pksB			
+HOBOLHBA_00331	CDS	609	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+HOBOLHBA_00332	gene	1065	cobT			
+HOBOLHBA_00332	CDS	1065	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+HOBOLHBA_00333	gene	1758	glmS			
+HOBOLHBA_00333	CDS	1758	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+HOBOLHBA_00334	gene	633				
+HOBOLHBA_00334	CDS	633				hypothetical protein
+HOBOLHBA_00335	gene	570				
+HOBOLHBA_00335	CDS	570				hypothetical protein
+HOBOLHBA_00336	gene	312				
+HOBOLHBA_00336	CDS	312				hypothetical protein
+HOBOLHBA_00337	gene	507				
+HOBOLHBA_00337	CDS	507				hypothetical protein
+HOBOLHBA_00338	gene	1053				
+HOBOLHBA_00338	CDS	1053				hypothetical protein
+HOBOLHBA_00339	gene	1179	zupT			
+HOBOLHBA_00339	CDS	1179	zupT			Zinc transporter ZupT
+HOBOLHBA_00340	gene	1359	fieF			
+HOBOLHBA_00340	CDS	1359	fieF			Ferrous-iron efflux pump FieF
+HOBOLHBA_00341	gene	3183				
+HOBOLHBA_00341	CDS	3183				hypothetical protein
+HOBOLHBA_00342	gene	969				
+HOBOLHBA_00342	CDS	969				hypothetical protein
+HOBOLHBA_00343	gene	324				
+HOBOLHBA_00343	CDS	324				hypothetical protein
+HOBOLHBA_00344	gene	1581				
+HOBOLHBA_00344	CDS	1581				hypothetical protein
+HOBOLHBA_00345	gene	783	larB			
+HOBOLHBA_00345	CDS	783	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+HOBOLHBA_00346	gene	915	mdh			
+HOBOLHBA_00346	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+HOBOLHBA_00347	gene	1236	larC			
+HOBOLHBA_00347	CDS	1236	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+HOBOLHBA_00348	gene	798	larE			
+HOBOLHBA_00348	CDS	798	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+HOBOLHBA_00349	gene	1170	iscS			
+HOBOLHBA_00349	CDS	1170	iscS	2.8.1.7		Cysteine desulfurase IscS
+HOBOLHBA_00350	gene	801				
+HOBOLHBA_00350	CDS	801				hypothetical protein
+HOBOLHBA_00351	gene	873				
+HOBOLHBA_00351	CDS	873				hypothetical protein
+HOBOLHBA_00352	gene	882				
+HOBOLHBA_00352	CDS	882				hypothetical protein
+HOBOLHBA_00353	gene	819				
+HOBOLHBA_00353	CDS	819				hypothetical protein
+HOBOLHBA_00354	gene	252				
+HOBOLHBA_00354	CDS	252				hypothetical protein
+HOBOLHBA_00355	gene	3348	rpoB			
+HOBOLHBA_00355	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+HOBOLHBA_00356	gene	3792	rpoC			
+HOBOLHBA_00356	CDS	3792	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+HOBOLHBA_00357	gene	231				
+HOBOLHBA_00357	CDS	231				hypothetical protein
+HOBOLHBA_00358	gene	1173				
+HOBOLHBA_00358	CDS	1173				hypothetical protein
+HOBOLHBA_00359	gene	1755				
+HOBOLHBA_00359	CDS	1755				hypothetical protein
+HOBOLHBA_00360	gene	324				
+HOBOLHBA_00360	CDS	324				hypothetical protein
+HOBOLHBA_00361	gene	465	nusA			
+HOBOLHBA_00361	CDS	465	nusA			Transcription termination/antitermination protein NusA
+HOBOLHBA_00362	gene	438				
+HOBOLHBA_00362	CDS	438				hypothetical protein
+HOBOLHBA_00363	gene	600				
+HOBOLHBA_00363	CDS	600				hypothetical protein
+HOBOLHBA_00364	gene	89				
+HOBOLHBA_00364	tRNA	89				tRNA-Gln(ctg)
+HOBOLHBA_00365	gene	321				
+HOBOLHBA_00365	CDS	321				hypothetical protein
+HOBOLHBA_00366	gene	705				
+HOBOLHBA_00366	CDS	705				hypothetical protein
+HOBOLHBA_00367	gene	1416				
+HOBOLHBA_00367	CDS	1416				hypothetical protein
+HOBOLHBA_00368	gene	999				
+HOBOLHBA_00368	CDS	999				hypothetical protein
+HOBOLHBA_00369	gene	603	drgA_2			
+HOBOLHBA_00369	CDS	603	drgA_2			Protein DrgA
+HOBOLHBA_00370	gene	213				
+HOBOLHBA_00370	CDS	213				hypothetical protein
+HOBOLHBA_00371	gene	120				
+HOBOLHBA_00371	CDS	120				hypothetical protein
+HOBOLHBA_00372	gene	201				
+HOBOLHBA_00372	CDS	201				hypothetical protein
+HOBOLHBA_00373	gene	240				
+HOBOLHBA_00373	CDS	240				hypothetical protein
+HOBOLHBA_00374	gene	672				
+HOBOLHBA_00374	CDS	672				putative protein
+HOBOLHBA_00375	gene	183				
+HOBOLHBA_00375	CDS	183				hypothetical protein
+HOBOLHBA_00376	gene	315				
+HOBOLHBA_00376	CDS	315				hypothetical protein
+HOBOLHBA_00377	gene	417				
+HOBOLHBA_00377	CDS	417				hypothetical protein
+HOBOLHBA_00378	gene	783				
+HOBOLHBA_00378	CDS	783				hypothetical protein
+HOBOLHBA_00379	gene	387				
+HOBOLHBA_00379	CDS	387				hypothetical protein
+HOBOLHBA_00380	gene	1230				
+HOBOLHBA_00380	CDS	1230				hypothetical protein
+HOBOLHBA_00381	gene	2601				
+HOBOLHBA_00381	CDS	2601				hypothetical protein
+HOBOLHBA_00382	gene	2865	valS_1			
+HOBOLHBA_00382	CDS	2865	valS_1	6.1.1.9		Valine--tRNA ligase
+HOBOLHBA_00383	gene	2670	alaS			
+HOBOLHBA_00383	CDS	2670	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+HOBOLHBA_00384	gene	912				
+HOBOLHBA_00384	CDS	912				hypothetical protein
+HOBOLHBA_00385	gene	510				
+HOBOLHBA_00385	CDS	510				hypothetical protein
+HOBOLHBA_00386	gene	300				
+HOBOLHBA_00386	CDS	300				hypothetical protein
+HOBOLHBA_00387	gene	636				
+HOBOLHBA_00387	CDS	636				hypothetical protein
+HOBOLHBA_00388	gene	219				
+HOBOLHBA_00388	CDS	219				hypothetical protein
+HOBOLHBA_00389	gene	222				
+HOBOLHBA_00389	CDS	222				hypothetical protein
+HOBOLHBA_00390	gene	867				
+HOBOLHBA_00390	CDS	867				hypothetical protein
+HOBOLHBA_00391	gene	663	rplA			
+HOBOLHBA_00391	CDS	663	rplA		COG0081	50S ribosomal protein L1
+HOBOLHBA_00392	gene	456	asnC			
+HOBOLHBA_00392	CDS	456	asnC		COG1522	Regulatory protein AsnC
+HOBOLHBA_00393	gene	480	rplK			
+HOBOLHBA_00393	CDS	480	rplK		COG0080	50S ribosomal protein L11
+HOBOLHBA_00394	gene	459				
+HOBOLHBA_00394	CDS	459				hypothetical protein
+HOBOLHBA_00395	gene	174				
+HOBOLHBA_00395	CDS	174				hypothetical protein
+HOBOLHBA_00396	gene	777				
+HOBOLHBA_00396	CDS	777				hypothetical protein
+HOBOLHBA_00397	gene	300	ogt			
+HOBOLHBA_00397	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+HOBOLHBA_00398	gene	456				
+HOBOLHBA_00398	CDS	456				hypothetical protein
+HOBOLHBA_00399	gene	405				
+HOBOLHBA_00399	CDS	405				hypothetical protein
+HOBOLHBA_00400	gene	1500	pckA			
+HOBOLHBA_00400	CDS	1500	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+HOBOLHBA_00401	gene	2040				
+HOBOLHBA_00401	CDS	2040				hypothetical protein
+HOBOLHBA_00402	gene	621	sodA_1			
+HOBOLHBA_00402	CDS	621	sodA_1	1.15.1.1		Superoxide dismutase [Mn]
+HOBOLHBA_00403	gene	429	pfdA			
+HOBOLHBA_00403	CDS	429	pfdA			Prefoldin subunit alpha
+HOBOLHBA_00404	gene	1422	ftsY			
+HOBOLHBA_00404	CDS	1422	ftsY			Signal recognition particle receptor FtsY
+HOBOLHBA_00405	gene	462	argF_1			
+HOBOLHBA_00405	CDS	462	argF_1	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HOBOLHBA_00406	gene	513	argF_2			
+HOBOLHBA_00406	CDS	513	argF_2	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+HOBOLHBA_00407	gene	483				
+HOBOLHBA_00407	CDS	483				hypothetical protein
+HOBOLHBA_00408	gene	723				
+HOBOLHBA_00408	CDS	723				hypothetical protein
+HOBOLHBA_00409	gene	468				
+HOBOLHBA_00409	CDS	468				hypothetical protein
+HOBOLHBA_00410	gene	426				
+HOBOLHBA_00410	CDS	426				hypothetical protein
+HOBOLHBA_00411	gene	1434	secY			
+HOBOLHBA_00411	CDS	1434	secY			Protein translocase subunit SecY
+HOBOLHBA_00412	gene	579				
+HOBOLHBA_00412	CDS	579				hypothetical protein
+HOBOLHBA_00413	gene	630				
+HOBOLHBA_00413	CDS	630				hypothetical protein
+HOBOLHBA_00414	gene	561	cmk			
+HOBOLHBA_00414	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+HOBOLHBA_00415	gene	1002	truB			
+HOBOLHBA_00415	CDS	1002	truB	5.4.99.25		tRNA pseudouridine synthase B
+HOBOLHBA_00416	gene	447				
+HOBOLHBA_00416	CDS	447				hypothetical protein
+HOBOLHBA_00417	gene	813	noc_1			
+HOBOLHBA_00417	CDS	813	noc_1			Nucleoid occlusion protein
+HOBOLHBA_00418	gene	666				
+HOBOLHBA_00418	CDS	666				hypothetical protein
+HOBOLHBA_00419	gene	126				
+HOBOLHBA_00419	CDS	126				hypothetical protein
+HOBOLHBA_00420	gene	186				
+HOBOLHBA_00420	CDS	186				hypothetical protein
+HOBOLHBA_00421	gene	477				
+HOBOLHBA_00421	CDS	477				hypothetical protein
+HOBOLHBA_00422	gene	378				
+HOBOLHBA_00422	CDS	378				hypothetical protein
+HOBOLHBA_00423	gene	504	ectA			
+HOBOLHBA_00423	CDS	504	ectA	2.3.1.178		L-2,4-diaminobutyric acid acetyltransferase
+HOBOLHBA_00424	gene	1296	ectB			
+HOBOLHBA_00424	CDS	1296	ectB	2.6.1.76		Diaminobutyrate--2-oxoglutarate transaminase
+HOBOLHBA_00425	gene	390	ectC			
+HOBOLHBA_00425	CDS	390	ectC	4.2.1.108		L-ectoine synthase
+HOBOLHBA_00426	gene	921	ectD			
+HOBOLHBA_00426	CDS	921	ectD	1.14.11.55		Ectoine dioxygenase
+HOBOLHBA_00427	gene	255				
+HOBOLHBA_00427	CDS	255				hypothetical protein
+HOBOLHBA_00428	gene	165				
+HOBOLHBA_00428	CDS	165				hypothetical protein
+HOBOLHBA_00429	gene	192				
+HOBOLHBA_00429	CDS	192				hypothetical protein
+HOBOLHBA_00430	gene	798				
+HOBOLHBA_00430	CDS	798				hypothetical protein
+HOBOLHBA_00431	gene	234				
+HOBOLHBA_00431	CDS	234				hypothetical protein
+HOBOLHBA_00432	gene	183				
+HOBOLHBA_00432	CDS	183				hypothetical protein
+HOBOLHBA_00433	gene	156				
+HOBOLHBA_00433	CDS	156				hypothetical protein
+HOBOLHBA_00434	gene	801				
+HOBOLHBA_00434	CDS	801				hypothetical protein
+HOBOLHBA_00435	gene	111				
+HOBOLHBA_00435	CDS	111				hypothetical protein
+HOBOLHBA_00436	gene	297				
+HOBOLHBA_00436	CDS	297				hypothetical protein
+HOBOLHBA_00437	gene	435				
+HOBOLHBA_00437	CDS	435				hypothetical protein
+HOBOLHBA_00438	gene	360				
+HOBOLHBA_00438	CDS	360				hypothetical protein
+HOBOLHBA_00439	gene	564				
+HOBOLHBA_00439	CDS	564				hypothetical protein
+HOBOLHBA_00440	gene	111				
+HOBOLHBA_00440	CDS	111				hypothetical protein
+HOBOLHBA_00441	gene	564				
+HOBOLHBA_00441	CDS	564				hypothetical protein
+HOBOLHBA_00442	gene	138				
+HOBOLHBA_00442	CDS	138				hypothetical protein
+HOBOLHBA_00443	gene	285				
+HOBOLHBA_00443	CDS	285				hypothetical protein
+HOBOLHBA_00444	gene	492				
+HOBOLHBA_00444	CDS	492				hypothetical protein
+HOBOLHBA_00445	gene	195				
+HOBOLHBA_00445	CDS	195				hypothetical protein
+HOBOLHBA_00446	gene	495				
+HOBOLHBA_00446	CDS	495				hypothetical protein
+HOBOLHBA_00447	gene	123				
+HOBOLHBA_00447	CDS	123				hypothetical protein
+HOBOLHBA_00448	gene	639				
+HOBOLHBA_00448	CDS	639				hypothetical protein
+HOBOLHBA_00449	gene	387				
+HOBOLHBA_00449	CDS	387				hypothetical protein
+HOBOLHBA_00450	gene	318				
+HOBOLHBA_00450	CDS	318				hypothetical protein
+HOBOLHBA_00451	gene	429	perR			
+HOBOLHBA_00451	CDS	429	perR		COG0735	Transcriptional regulator PerR
+HOBOLHBA_00452	gene	168				
+HOBOLHBA_00452	CDS	168				hypothetical protein
+HOBOLHBA_00453	gene	141				
+HOBOLHBA_00453	CDS	141				hypothetical protein
+HOBOLHBA_00454	gene	1059				
+HOBOLHBA_00454	CDS	1059				hypothetical protein
+HOBOLHBA_00455	gene	1296	lhgD			
+HOBOLHBA_00455	CDS	1296	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+HOBOLHBA_00456	gene	825				
+HOBOLHBA_00456	CDS	825				hypothetical protein
+HOBOLHBA_00457	gene	282				
+HOBOLHBA_00457	CDS	282				hypothetical protein
+HOBOLHBA_00458	gene	372				
+HOBOLHBA_00458	CDS	372				hypothetical protein
+HOBOLHBA_00459	gene	981	ghrB			
+HOBOLHBA_00459	CDS	981	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+HOBOLHBA_00460	gene	156				
+HOBOLHBA_00460	CDS	156				hypothetical protein
+HOBOLHBA_00461	gene	1911				
+HOBOLHBA_00461	CDS	1911				hypothetical protein
+HOBOLHBA_00462	gene	963				
+HOBOLHBA_00462	CDS	963				hypothetical protein
+HOBOLHBA_00463	gene	453				
+HOBOLHBA_00463	CDS	453				hypothetical protein
+HOBOLHBA_00464	gene	534				
+HOBOLHBA_00464	CDS	534				hypothetical protein
+HOBOLHBA_00465	gene	327				
+HOBOLHBA_00465	CDS	327				hypothetical protein
+HOBOLHBA_00466	gene	555				
+HOBOLHBA_00466	CDS	555				hypothetical protein
+HOBOLHBA_00467	gene	777	fbiB_1			
+HOBOLHBA_00467	CDS	777	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+HOBOLHBA_00468	gene	1272	dmdA			
+HOBOLHBA_00468	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+HOBOLHBA_00469	gene	492	DmdB			
+HOBOLHBA_00469	CDS	492	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+HOBOLHBA_00470	gene	1416	leuC			
+HOBOLHBA_00470	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+HOBOLHBA_00471	gene	585	leuD			
+HOBOLHBA_00471	CDS	585	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+HOBOLHBA_00472	gene	720	cugP_1			
+HOBOLHBA_00472	CDS	720	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HOBOLHBA_00473	gene	450	rpsI			
+HOBOLHBA_00473	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+HOBOLHBA_00474	gene	498				
+HOBOLHBA_00474	CDS	498				hypothetical protein
+HOBOLHBA_00475	gene	348				
+HOBOLHBA_00475	CDS	348				hypothetical protein
+HOBOLHBA_00476	gene	639				
+HOBOLHBA_00476	CDS	639				hypothetical protein
+HOBOLHBA_00477	gene	363				
+HOBOLHBA_00477	CDS	363				hypothetical protein
+HOBOLHBA_00478	gene	687				
+HOBOLHBA_00478	CDS	687				hypothetical protein
+HOBOLHBA_00479	gene	684				
+HOBOLHBA_00479	CDS	684				hypothetical protein
+HOBOLHBA_00480	gene	735	rph_1			
+HOBOLHBA_00480	CDS	735	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+HOBOLHBA_00481	gene	819	rph_2			
+HOBOLHBA_00481	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+HOBOLHBA_00482	gene	213				
+HOBOLHBA_00482	CDS	213				hypothetical protein
+HOBOLHBA_00483	gene	246				
+HOBOLHBA_00483	CDS	246				hypothetical protein
+HOBOLHBA_00484	gene	402				
+HOBOLHBA_00484	CDS	402				hypothetical protein
+HOBOLHBA_00485	gene	702				
+HOBOLHBA_00485	CDS	702				hypothetical protein
+HOBOLHBA_00486	gene	480				
+HOBOLHBA_00486	CDS	480				hypothetical protein
+HOBOLHBA_00487	gene	801	nadK_1			
+HOBOLHBA_00487	CDS	801	nadK_1	2.7.1.23		NAD kinase
+HOBOLHBA_00488	gene	906	ttuD			
+HOBOLHBA_00488	CDS	906	ttuD		COG2897	Sulfur carrier protein TtuD
+HOBOLHBA_00489	gene	312				
+HOBOLHBA_00489	CDS	312				hypothetical protein
+HOBOLHBA_00490	gene	948				
+HOBOLHBA_00490	CDS	948				hypothetical protein
+HOBOLHBA_00491	gene	2085				
+HOBOLHBA_00491	CDS	2085				hypothetical protein
+HOBOLHBA_00492	gene	714				
+HOBOLHBA_00492	CDS	714				hypothetical protein
+HOBOLHBA_00493	gene	1452				
+HOBOLHBA_00493	CDS	1452				hypothetical protein
+HOBOLHBA_00494	gene	108				
+HOBOLHBA_00494	CDS	108				hypothetical protein
+HOBOLHBA_00495	gene	1326	magA			
+HOBOLHBA_00495	CDS	1326	magA		COG0475	Iron transporter MagA
+HOBOLHBA_00496	gene	429				
+HOBOLHBA_00496	CDS	429				hypothetical protein
+HOBOLHBA_00497	gene	77				
+HOBOLHBA_00497	tRNA	77				tRNA-Gly(gcc)
+HOBOLHBA_00498	gene	264				
+HOBOLHBA_00498	CDS	264				hypothetical protein
+HOBOLHBA_00499	gene	510				
+HOBOLHBA_00499	CDS	510				hypothetical protein
+HOBOLHBA_00500	gene	564				
+HOBOLHBA_00500	CDS	564				hypothetical protein
+HOBOLHBA_00501	gene	657				
+HOBOLHBA_00501	CDS	657				hypothetical protein
+HOBOLHBA_00502	gene	468	phnO			
+HOBOLHBA_00502	CDS	468	phnO	2.3.1.280		Aminoalkylphosphonate N-acetyltransferase
+HOBOLHBA_00503	gene	75				
+HOBOLHBA_00503	tRNA	75				tRNA-Glu(ctc)
+HOBOLHBA_00504	gene	885				
+HOBOLHBA_00504	CDS	885				hypothetical protein
+HOBOLHBA_00505	gene	144				
+HOBOLHBA_00505	CDS	144				hypothetical protein
+HOBOLHBA_00506	gene	168				
+HOBOLHBA_00506	CDS	168				hypothetical protein
+HOBOLHBA_00507	gene	1479				
+HOBOLHBA_00507	CDS	1479				hypothetical protein
+HOBOLHBA_00508	gene	360				
+HOBOLHBA_00508	CDS	360				hypothetical protein
+HOBOLHBA_00509	gene	513				
+HOBOLHBA_00509	CDS	513				hypothetical protein
+HOBOLHBA_00510	gene	645				
+HOBOLHBA_00510	CDS	645				hypothetical protein
+HOBOLHBA_00511	gene	2217				
+HOBOLHBA_00511	CDS	2217				hypothetical protein
+HOBOLHBA_00512	gene	729				
+HOBOLHBA_00512	CDS	729				hypothetical protein
+HOBOLHBA_00513	gene	324				
+HOBOLHBA_00513	CDS	324				hypothetical protein
+HOBOLHBA_00514	gene	453				
+HOBOLHBA_00514	CDS	453				hypothetical protein
+HOBOLHBA_00515	gene	999	lnrL_2			
+HOBOLHBA_00515	CDS	999	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+HOBOLHBA_00516	gene	786				
+HOBOLHBA_00516	CDS	786				hypothetical protein
+HOBOLHBA_00517	gene	1566	vgb_1			
+HOBOLHBA_00517	CDS	1566	vgb_1	4.2.99.-		Virginiamycin B lyase
+HOBOLHBA_00518	gene	1611				
+HOBOLHBA_00518	CDS	1611				hypothetical protein
+HOBOLHBA_00519	gene	630				
+HOBOLHBA_00519	CDS	630				hypothetical protein
+HOBOLHBA_00520	gene	987				
+HOBOLHBA_00520	CDS	987				hypothetical protein
+HOBOLHBA_00521	gene	1080				
+HOBOLHBA_00521	CDS	1080				hypothetical protein
+HOBOLHBA_00522	gene	303				
+HOBOLHBA_00522	CDS	303				hypothetical protein
+HOBOLHBA_00523	gene	300	cadC			
+HOBOLHBA_00523	CDS	300	cadC			Cadmium resistance transcriptional regulatory protein CadC
+HOBOLHBA_00524	gene	408	arsC2			
+HOBOLHBA_00524	CDS	408	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+HOBOLHBA_00525	gene	684	aqpZ			
+HOBOLHBA_00525	CDS	684	aqpZ		COG0580	Aquaporin Z
+HOBOLHBA_00526	gene	399	hemL_1			
+HOBOLHBA_00526	CDS	399	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HOBOLHBA_00527	gene	840	hemL_2			
+HOBOLHBA_00527	CDS	840	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HOBOLHBA_00528	gene	936	hemC			
+HOBOLHBA_00528	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+HOBOLHBA_00529	gene	741	sumT			
+HOBOLHBA_00529	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+HOBOLHBA_00530	gene	798				
+HOBOLHBA_00530	CDS	798				hypothetical protein
+HOBOLHBA_00531	gene	420				
+HOBOLHBA_00531	CDS	420				hypothetical protein
+HOBOLHBA_00532	gene	1401				
+HOBOLHBA_00532	CDS	1401				hypothetical protein
+HOBOLHBA_00533	gene	1398				
+HOBOLHBA_00533	CDS	1398				hypothetical protein
+HOBOLHBA_00534	gene	282	bphA3			
+HOBOLHBA_00534	CDS	282	bphA3			Biphenyl 2,3-dioxygenase, ferredoxin component
+HOBOLHBA_00535	gene	1245	csd			
+HOBOLHBA_00535	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+HOBOLHBA_00536	gene	444	sufU			
+HOBOLHBA_00536	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+HOBOLHBA_00537	gene	348				
+HOBOLHBA_00537	CDS	348				hypothetical protein
+HOBOLHBA_00538	gene	1227	pgk			
+HOBOLHBA_00538	CDS	1227	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+HOBOLHBA_00539	gene	669				
+HOBOLHBA_00539	CDS	669				hypothetical protein
+HOBOLHBA_00540	gene	312				
+HOBOLHBA_00540	CDS	312				hypothetical protein
+HOBOLHBA_00541	gene	687				
+HOBOLHBA_00541	CDS	687				hypothetical protein
+HOBOLHBA_00542	gene	618				
+HOBOLHBA_00542	CDS	618				hypothetical protein
+HOBOLHBA_00543	gene	315				
+HOBOLHBA_00543	CDS	315				hypothetical protein
+HOBOLHBA_00544	gene	138				
+HOBOLHBA_00544	CDS	138				hypothetical protein
+HOBOLHBA_00545	gene	621				
+HOBOLHBA_00545	CDS	621				hypothetical protein
+HOBOLHBA_00546	gene	621	yedJ			
+HOBOLHBA_00546	CDS	621	yedJ		COG1418	putative protein YedJ
+HOBOLHBA_00547	gene	312				
+HOBOLHBA_00547	CDS	312				hypothetical protein
+HOBOLHBA_00548	gene	981	hemB			
+HOBOLHBA_00548	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+HOBOLHBA_00549	gene	1266	hemA_2			
+HOBOLHBA_00549	CDS	1266	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+HOBOLHBA_00550	gene	654	cysG			
+HOBOLHBA_00550	CDS	654	cysG		COG0007	Siroheme synthase
+HOBOLHBA_00551	gene	1017				
+HOBOLHBA_00551	CDS	1017				hypothetical protein
+HOBOLHBA_00552	gene	339				
+HOBOLHBA_00552	CDS	339				hypothetical protein
+HOBOLHBA_00553	gene	999	iolS_2			
+HOBOLHBA_00553	CDS	999	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+HOBOLHBA_00554	gene	675				
+HOBOLHBA_00554	CDS	675			COG3253	putative protein/MSMEI_2713
+HOBOLHBA_00555	gene	213				
+HOBOLHBA_00555	CDS	213				hypothetical protein
+HOBOLHBA_00556	gene	771	sufC			
+HOBOLHBA_00556	CDS	771	sufC		COG0396	Vegetative protein 296
+HOBOLHBA_00557	gene	954				
+HOBOLHBA_00557	CDS	954				hypothetical protein
+HOBOLHBA_00558	gene	246				
+HOBOLHBA_00558	CDS	246				hypothetical protein
+HOBOLHBA_00559	gene	300				
+HOBOLHBA_00559	CDS	300				hypothetical protein
+HOBOLHBA_00560	gene	384				
+HOBOLHBA_00560	CDS	384				hypothetical protein
+HOBOLHBA_00561	gene	573	scpB			
+HOBOLHBA_00561	CDS	573	scpB			Segregation and condensation protein B
+HOBOLHBA_00562	gene	678				
+HOBOLHBA_00562	CDS	678				hypothetical protein
+HOBOLHBA_00563	gene	1053	adh			
+HOBOLHBA_00563	CDS	1053	adh	1.1.1.1		Alcohol dehydrogenase
+HOBOLHBA_00564	gene	750	rssB			
+HOBOLHBA_00564	CDS	750	rssB			Regulator of RpoS
+HOBOLHBA_00565	gene	501				
+HOBOLHBA_00565	CDS	501				hypothetical protein
+HOBOLHBA_00566	gene	564				
+HOBOLHBA_00566	CDS	564				hypothetical protein
+HOBOLHBA_00567	gene	357				
+HOBOLHBA_00567	CDS	357				hypothetical protein
+HOBOLHBA_00568	gene	192	cspLA			
+HOBOLHBA_00568	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+HOBOLHBA_00569	gene	612				
+HOBOLHBA_00569	CDS	612				hypothetical protein
+HOBOLHBA_00570	gene	411				
+HOBOLHBA_00570	CDS	411				hypothetical protein
+HOBOLHBA_00571	gene	690				
+HOBOLHBA_00571	CDS	690				hypothetical protein
+HOBOLHBA_00572	gene	1326	ffh			
+HOBOLHBA_00572	CDS	1326	ffh		COG0541	Signal recognition particle protein
+HOBOLHBA_00573	gene	1143				
+HOBOLHBA_00573	CDS	1143				hypothetical protein
+HOBOLHBA_00574	gene	132				
+HOBOLHBA_00574	CDS	132				hypothetical protein
+HOBOLHBA_00575	gene	708				
+HOBOLHBA_00575	CDS	708				hypothetical protein
+HOBOLHBA_00576	gene	186				
+HOBOLHBA_00576	CDS	186				hypothetical protein
+HOBOLHBA_00577	gene	411				
+HOBOLHBA_00577	CDS	411				hypothetical protein
+HOBOLHBA_00578	gene	585				
+HOBOLHBA_00578	CDS	585				hypothetical protein
+HOBOLHBA_00579	gene	1266	apgM			
+HOBOLHBA_00579	CDS	1266	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HOBOLHBA_00580	gene	1020	galT			
+HOBOLHBA_00580	CDS	1020	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+HOBOLHBA_00581	gene	438				
+HOBOLHBA_00581	CDS	438				hypothetical protein
+HOBOLHBA_00582	gene	447				
+HOBOLHBA_00582	CDS	447				hypothetical protein
+HOBOLHBA_00583	gene	702	cugP_2			
+HOBOLHBA_00583	CDS	702	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HOBOLHBA_00584	gene	966	thiDN			
+HOBOLHBA_00584	CDS	966	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+HOBOLHBA_00585	gene	282	thiD			
+HOBOLHBA_00585	CDS	282	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+HOBOLHBA_00586	gene	198				
+HOBOLHBA_00586	CDS	198				hypothetical protein
+HOBOLHBA_00587	gene	225				
+HOBOLHBA_00587	CDS	225				hypothetical protein
+HOBOLHBA_00588	gene	1329	bzaF			
+HOBOLHBA_00588	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+HOBOLHBA_00589	gene	405				
+HOBOLHBA_00589	CDS	405				hypothetical protein
+HOBOLHBA_00590	gene	852	tyrA			
+HOBOLHBA_00590	CDS	852	tyrA		COG0287	T-protein
+HOBOLHBA_00591	gene	1371	dapL			
+HOBOLHBA_00591	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+HOBOLHBA_00592	gene	1098	aroC			
+HOBOLHBA_00592	CDS	1098	aroC	4.2.3.5		Chorismate synthase
+HOBOLHBA_00593	gene	1269	aroA			
+HOBOLHBA_00593	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HOBOLHBA_00594	gene	234				
+HOBOLHBA_00594	CDS	234				hypothetical protein
+HOBOLHBA_00595	gene	555	thrB_2			
+HOBOLHBA_00595	CDS	555	thrB_2	2.7.1.39		Homoserine kinase
+HOBOLHBA_00596	gene	822	aroE			
+HOBOLHBA_00596	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HOBOLHBA_00597	gene	675	aroD			
+HOBOLHBA_00597	CDS	675	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+HOBOLHBA_00598	gene	1059	aroB'			
+HOBOLHBA_00598	CDS	1059	aroB'	1.4.1.24		3-dehydroquinate synthase
+HOBOLHBA_00599	gene	783	griI			
+HOBOLHBA_00599	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+HOBOLHBA_00600	gene	1119	mqnC			
+HOBOLHBA_00600	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+HOBOLHBA_00601	gene	1443	ubiD			
+HOBOLHBA_00601	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+HOBOLHBA_00602	gene	375				
+HOBOLHBA_00602	CDS	375				hypothetical protein
+HOBOLHBA_00603	gene	420				
+HOBOLHBA_00603	CDS	420				hypothetical protein
+HOBOLHBA_00604	gene	465	bcp_2			
+HOBOLHBA_00604	CDS	465	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin
+HOBOLHBA_00605	gene	705	aqpZ2			
+HOBOLHBA_00605	CDS	705	aqpZ2			Aquaporin Z 2
+HOBOLHBA_00606	gene	435				
+HOBOLHBA_00606	CDS	435				hypothetical protein
+HOBOLHBA_00607	gene	822				
+HOBOLHBA_00607	CDS	822				hypothetical protein
+HOBOLHBA_00608	gene	77				
+HOBOLHBA_00608	tRNA	77				tRNA-Arg(gcg)
+HOBOLHBA_00609	gene	531				
+HOBOLHBA_00609	CDS	531				hypothetical protein
+HOBOLHBA_00610	gene	528	napF_3			
+HOBOLHBA_00610	CDS	528	napF_3			Ferredoxin-type protein NapF
+HOBOLHBA_00611	gene	813				
+HOBOLHBA_00611	CDS	813				hypothetical protein
+HOBOLHBA_00612	gene	159				
+HOBOLHBA_00612	CDS	159				hypothetical protein
+HOBOLHBA_00613	gene	240				
+HOBOLHBA_00613	CDS	240				hypothetical protein
+HOBOLHBA_00614	gene	204				
+HOBOLHBA_00614	CDS	204				hypothetical protein
+HOBOLHBA_00615	gene	189				
+HOBOLHBA_00615	CDS	189				hypothetical protein
+HOBOLHBA_00616	gene	156				
+HOBOLHBA_00616	CDS	156				hypothetical protein
+HOBOLHBA_00617	gene	864				
+HOBOLHBA_00617	CDS	864				hypothetical protein
+HOBOLHBA_00618	gene	897				
+HOBOLHBA_00618	CDS	897				hypothetical protein
+HOBOLHBA_00619	gene	126				
+HOBOLHBA_00619	CDS	126				hypothetical protein
+HOBOLHBA_00620	gene	795	IMPDH_1			
+HOBOLHBA_00620	CDS	795	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_00621	gene	423				
+HOBOLHBA_00621	CDS	423				hypothetical protein
+HOBOLHBA_00622	gene	429				
+HOBOLHBA_00622	CDS	429				hypothetical protein
+HOBOLHBA_00623	gene	210				
+HOBOLHBA_00623	CDS	210				hypothetical protein
+HOBOLHBA_00624	gene	486				
+HOBOLHBA_00624	CDS	486				hypothetical protein
+HOBOLHBA_00625	gene	696	rutB			
+HOBOLHBA_00625	CDS	696	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+HOBOLHBA_00626	gene	189				
+HOBOLHBA_00626	CDS	189				hypothetical protein
+HOBOLHBA_00627	gene	453				
+HOBOLHBA_00627	CDS	453				hypothetical protein
+HOBOLHBA_00628	gene	849	IMPDH_2			
+HOBOLHBA_00628	CDS	849	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_00629	gene	363				
+HOBOLHBA_00629	CDS	363				hypothetical protein
+HOBOLHBA_00630	gene	384				
+HOBOLHBA_00630	CDS	384				hypothetical protein
+HOBOLHBA_00631	gene	786				
+HOBOLHBA_00631	CDS	786				hypothetical protein
+HOBOLHBA_00632	gene	420				
+HOBOLHBA_00632	CDS	420				hypothetical protein
+HOBOLHBA_00633	gene	606				
+HOBOLHBA_00633	CDS	606				hypothetical protein
+HOBOLHBA_00634	gene	261				
+HOBOLHBA_00634	CDS	261				hypothetical protein
+HOBOLHBA_00635	gene	1071				
+HOBOLHBA_00635	CDS	1071				hypothetical protein
+HOBOLHBA_00636	gene	408	IMPDH_3			
+HOBOLHBA_00636	CDS	408	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_00637	gene	426				
+HOBOLHBA_00637	CDS	426				hypothetical protein
+HOBOLHBA_00638	gene	555	tag			
+HOBOLHBA_00638	CDS	555	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+HOBOLHBA_00639	gene	309				
+HOBOLHBA_00639	CDS	309				hypothetical protein
+HOBOLHBA_00640	gene	1281				
+HOBOLHBA_00640	CDS	1281				hypothetical protein
+HOBOLHBA_00641	gene	516	ftnA			
+HOBOLHBA_00641	CDS	516	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+HOBOLHBA_00642	gene	333				
+HOBOLHBA_00642	CDS	333				hypothetical protein
+HOBOLHBA_00643	gene	174				
+HOBOLHBA_00643	CDS	174				hypothetical protein
+HOBOLHBA_00644	gene	300				
+HOBOLHBA_00644	CDS	300				hypothetical protein
+HOBOLHBA_00645	gene	144				
+HOBOLHBA_00645	CDS	144				hypothetical protein
+HOBOLHBA_00646	gene	441				
+HOBOLHBA_00646	CDS	441				hypothetical protein
+HOBOLHBA_00647	gene	774				
+HOBOLHBA_00647	CDS	774				hypothetical protein
+HOBOLHBA_00648	gene	201				
+HOBOLHBA_00648	CDS	201				hypothetical protein
+HOBOLHBA_00649	gene	1590	lysS			
+HOBOLHBA_00649	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+HOBOLHBA_00650	gene	1587				
+HOBOLHBA_00650	CDS	1587		2.3.1.-		tRNA uridine(34) acetyltransferase
+HOBOLHBA_00651	gene	696				
+HOBOLHBA_00651	CDS	696				hypothetical protein
+HOBOLHBA_00652	gene	1230	gerN_1			
+HOBOLHBA_00652	CDS	1230	gerN_1		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+HOBOLHBA_00653	gene	1113	purM			
+HOBOLHBA_00653	CDS	1113	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+HOBOLHBA_00654	gene	726				
+HOBOLHBA_00654	CDS	726				hypothetical protein
+HOBOLHBA_00655	gene	1011				
+HOBOLHBA_00655	CDS	1011				hypothetical protein
+HOBOLHBA_00656	gene	438				
+HOBOLHBA_00656	CDS	438				hypothetical protein
+HOBOLHBA_00657	gene	354				
+HOBOLHBA_00657	CDS	354				hypothetical protein
+HOBOLHBA_00658	gene	936	yrbG			
+HOBOLHBA_00658	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+HOBOLHBA_00659	gene	1305				
+HOBOLHBA_00659	CDS	1305				hypothetical protein
+HOBOLHBA_00660	gene	1257	fbiC_1			
+HOBOLHBA_00660	CDS	1257	fbiC_1		COG1060	FO synthase
+HOBOLHBA_00661	gene	1170	fbiC_2			
+HOBOLHBA_00661	CDS	1170	fbiC_2		COG1060	FO synthase
+HOBOLHBA_00662	gene	1131	hhoA			
+HOBOLHBA_00662	CDS	1131	hhoA			Putative serine protease HhoA
+HOBOLHBA_00663	gene	1209	crtQ			
+HOBOLHBA_00663	CDS	1209	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+HOBOLHBA_00664	gene	417				
+HOBOLHBA_00664	CDS	417				hypothetical protein
+HOBOLHBA_00665	gene	216				
+HOBOLHBA_00665	CDS	216				hypothetical protein
+HOBOLHBA_00666	gene	330	metG_1			
+HOBOLHBA_00666	CDS	330	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+HOBOLHBA_00667	gene	606				
+HOBOLHBA_00667	CDS	606				hypothetical protein
+HOBOLHBA_00668	gene	1083				
+HOBOLHBA_00668	CDS	1083				hypothetical protein
+HOBOLHBA_00669	gene	183				
+HOBOLHBA_00669	CDS	183				hypothetical protein
+HOBOLHBA_00670	gene	897				
+HOBOLHBA_00670	CDS	897		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+HOBOLHBA_00671	gene	77				
+HOBOLHBA_00671	tRNA	77				tRNA-Pro(tgg)
+HOBOLHBA_00672	gene	246				
+HOBOLHBA_00672	CDS	246				hypothetical protein
+HOBOLHBA_00673	gene	402				
+HOBOLHBA_00673	CDS	402				hypothetical protein
+HOBOLHBA_00674	gene	597				
+HOBOLHBA_00674	CDS	597				hypothetical protein
+HOBOLHBA_00675	gene	3270				
+HOBOLHBA_00675	CDS	3270				hypothetical protein
+HOBOLHBA_00676	gene	492				
+HOBOLHBA_00676	CDS	492				hypothetical protein
+HOBOLHBA_00677	gene	2454				
+HOBOLHBA_00677	CDS	2454				hypothetical protein
+HOBOLHBA_00678	gene	687				
+HOBOLHBA_00678	CDS	687				hypothetical protein
+HOBOLHBA_00679	gene	1749				
+HOBOLHBA_00679	CDS	1749				hypothetical protein
+HOBOLHBA_00680	gene	165				
+HOBOLHBA_00680	CDS	165				hypothetical protein
+HOBOLHBA_00681	gene	333				
+HOBOLHBA_00681	CDS	333				hypothetical protein
+HOBOLHBA_00682	gene	309				
+HOBOLHBA_00682	CDS	309				hypothetical protein
+HOBOLHBA_00683	gene	990				
+HOBOLHBA_00683	CDS	990				hypothetical protein
+HOBOLHBA_00684	gene	909				
+HOBOLHBA_00684	CDS	909				hypothetical protein
+HOBOLHBA_00685	gene	639	fbiD			
+HOBOLHBA_00685	CDS	639	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+HOBOLHBA_00686	gene	921	fbiA			
+HOBOLHBA_00686	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+HOBOLHBA_00687	gene	1368				
+HOBOLHBA_00687	CDS	1368				hypothetical protein
+HOBOLHBA_00688	gene	279				
+HOBOLHBA_00688	misc_RNA	279				RNaseP_arch
+HOBOLHBA_00689	gene	165				
+HOBOLHBA_00689	CDS	165				hypothetical protein
+HOBOLHBA_00690	gene	630	cmoB			
+HOBOLHBA_00690	CDS	630	cmoB	2.5.1.-		tRNA U34 carboxymethyltransferase
+HOBOLHBA_00691	gene	2913				
+HOBOLHBA_00691	CDS	2913				hypothetical protein
+HOBOLHBA_00692	gene	1215	thi4_1			
+HOBOLHBA_00692	CDS	1215	thi4_1	2.4.2.59		Thiamine thiazole synthase
+HOBOLHBA_00693	gene	225				
+HOBOLHBA_00693	CDS	225				hypothetical protein
+HOBOLHBA_00694	gene	129				
+HOBOLHBA_00694	CDS	129				hypothetical protein
+HOBOLHBA_00695	gene	198				
+HOBOLHBA_00695	CDS	198				hypothetical protein
+HOBOLHBA_00696	gene	762	gdhI			
+HOBOLHBA_00696	CDS	762	gdhI	1.1.1.47	COG1028	Glucose 1-dehydrogenase 1
+HOBOLHBA_00697	gene	873	garR			
+HOBOLHBA_00697	CDS	873	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+HOBOLHBA_00698	gene	387				
+HOBOLHBA_00698	CDS	387				hypothetical protein
+HOBOLHBA_00699	gene	369				
+HOBOLHBA_00699	CDS	369				hypothetical protein
+HOBOLHBA_00700	gene	270				
+HOBOLHBA_00700	CDS	270				hypothetical protein
+HOBOLHBA_00701	gene	249				
+HOBOLHBA_00701	CDS	249				hypothetical protein
+HOBOLHBA_00702	gene	660				
+HOBOLHBA_00702	CDS	660				hypothetical protein
+HOBOLHBA_00703	gene	483				
+HOBOLHBA_00703	CDS	483				hypothetical protein
+HOBOLHBA_00704	gene	108				
+HOBOLHBA_00704	CDS	108				hypothetical protein
+HOBOLHBA_00705	gene	918				
+HOBOLHBA_00705	CDS	918				hypothetical protein
+HOBOLHBA_00706	gene	1095	dinB1			
+HOBOLHBA_00706	CDS	1095	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+HOBOLHBA_00707	gene	249				
+HOBOLHBA_00707	CDS	249				hypothetical protein
+HOBOLHBA_00708	gene	645				
+HOBOLHBA_00708	CDS	645				hypothetical protein
+HOBOLHBA_00709	gene	258				
+HOBOLHBA_00709	CDS	258				hypothetical protein
+HOBOLHBA_00710	gene	618				
+HOBOLHBA_00710	CDS	618				hypothetical protein
+HOBOLHBA_00711	gene	714				
+HOBOLHBA_00711	CDS	714				hypothetical protein
+HOBOLHBA_00712	gene	942				
+HOBOLHBA_00712	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+HOBOLHBA_00713	gene	1095	ino1			
+HOBOLHBA_00713	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+HOBOLHBA_00714	gene	738				
+HOBOLHBA_00714	CDS	738				hypothetical protein
+HOBOLHBA_00715	gene	3531	smc_1			
+HOBOLHBA_00715	CDS	3531	smc_1		COG1196	Chromosome partition protein Smc
+HOBOLHBA_00716	gene	966	oppF			
+HOBOLHBA_00716	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+HOBOLHBA_00717	gene	1023	egtD			
+HOBOLHBA_00717	CDS	1023	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+HOBOLHBA_00718	gene	1311	egtB			
+HOBOLHBA_00718	CDS	1311	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+HOBOLHBA_00719	gene	1443	proS			
+HOBOLHBA_00719	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+HOBOLHBA_00720	gene	288				
+HOBOLHBA_00720	CDS	288				hypothetical protein
+HOBOLHBA_00721	gene	651	serB			
+HOBOLHBA_00721	CDS	651	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+HOBOLHBA_00722	gene	726	fbiB_2			
+HOBOLHBA_00722	CDS	726	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+HOBOLHBA_00723	gene	1887	argS			
+HOBOLHBA_00723	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+HOBOLHBA_00724	gene	696				
+HOBOLHBA_00724	CDS	696				hypothetical protein
+HOBOLHBA_00725	gene	1110	obg			
+HOBOLHBA_00725	CDS	1110	obg	3.6.5.-		GTPase Obg
+HOBOLHBA_00726	gene	342				
+HOBOLHBA_00726	CDS	342				hypothetical protein
+HOBOLHBA_00727	gene	1632				
+HOBOLHBA_00727	CDS	1632				hypothetical protein
+HOBOLHBA_00728	gene	1122				
+HOBOLHBA_00728	CDS	1122				hypothetical protein
+HOBOLHBA_00729	gene	807	rhdA_1			
+HOBOLHBA_00729	CDS	807	rhdA_1	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+HOBOLHBA_00730	gene	1812	sir			
+HOBOLHBA_00730	CDS	1812	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+HOBOLHBA_00731	gene	819	thi4_2			
+HOBOLHBA_00731	CDS	819	thi4_2	2.4.2.59		Thiamine thiazole synthase
+HOBOLHBA_00732	gene	678				
+HOBOLHBA_00732	CDS	678				hypothetical protein
+HOBOLHBA_00733	gene	759				
+HOBOLHBA_00733	CDS	759				hypothetical protein
+HOBOLHBA_00734	gene	903	ldh			
+HOBOLHBA_00734	CDS	903	ldh	1.1.1.27		L-lactate dehydrogenase
+HOBOLHBA_00735	gene	432	uspA2			
+HOBOLHBA_00735	CDS	432	uspA2		COG0589	Universal stress protein A 
+HOBOLHBA_00736	gene	342				
+HOBOLHBA_00736	CDS	342				hypothetical protein
+HOBOLHBA_00737	gene	855	IMPDH_4			
+HOBOLHBA_00737	CDS	855	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_00738	gene	429				
+HOBOLHBA_00738	CDS	429				Putative universal stress protein
+HOBOLHBA_00739	gene	432				
+HOBOLHBA_00739	CDS	432				hypothetical protein
+HOBOLHBA_00740	gene	438	hrp1_1			
+HOBOLHBA_00740	CDS	438	hrp1_1		COG0517	Hypoxic response protein 1
+HOBOLHBA_00741	gene	999	trxB			
+HOBOLHBA_00741	CDS	999	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+HOBOLHBA_00742	gene	243				
+HOBOLHBA_00742	CDS	243				hypothetical protein
+HOBOLHBA_00743	gene	474				
+HOBOLHBA_00743	CDS	474				hypothetical protein
+HOBOLHBA_00744	gene	993	cysM			
+HOBOLHBA_00744	CDS	993	cysM	2.5.1.47	COG0031	Cysteine synthase B
+HOBOLHBA_00745	gene	237	tusA			
+HOBOLHBA_00745	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+HOBOLHBA_00746	gene	297				
+HOBOLHBA_00746	CDS	297				hypothetical protein
+HOBOLHBA_00747	gene	129				
+HOBOLHBA_00747	CDS	129				hypothetical protein
+HOBOLHBA_00748	gene	108				
+HOBOLHBA_00748	CDS	108				hypothetical protein
+HOBOLHBA_00749	gene	123				
+HOBOLHBA_00749	CDS	123				hypothetical protein
+HOBOLHBA_00750	gene	129				
+HOBOLHBA_00750	CDS	129				hypothetical protein
+HOBOLHBA_00751	gene	318				
+HOBOLHBA_00751	CDS	318				hypothetical protein
+HOBOLHBA_00752	gene	1419	sdcS			
+HOBOLHBA_00752	CDS	1419	sdcS			Sodium-dependent dicarboxylate transporter SdcS
+HOBOLHBA_00753	gene	378				
+HOBOLHBA_00753	CDS	378				hypothetical protein
+HOBOLHBA_00754	gene	324				
+HOBOLHBA_00754	CDS	324				hypothetical protein
+HOBOLHBA_00755	gene	135				
+HOBOLHBA_00755	CDS	135				hypothetical protein
+HOBOLHBA_00756	gene	411				
+HOBOLHBA_00756	CDS	411				hypothetical protein
+HOBOLHBA_00757	gene	597	cheB_1			
+HOBOLHBA_00757	CDS	597	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HOBOLHBA_00758	gene	378				
+HOBOLHBA_00758	CDS	378				hypothetical protein
+HOBOLHBA_00759	gene	513				
+HOBOLHBA_00759	CDS	513				hypothetical protein
+HOBOLHBA_00760	gene	321				
+HOBOLHBA_00760	CDS	321				hypothetical protein
+HOBOLHBA_00761	gene	429				
+HOBOLHBA_00761	CDS	429				hypothetical protein
+HOBOLHBA_00762	gene	129				
+HOBOLHBA_00762	CDS	129				hypothetical protein
+HOBOLHBA_00763	gene	126				
+HOBOLHBA_00763	CDS	126				hypothetical protein
+HOBOLHBA_00764	gene	939	pcm_2			
+HOBOLHBA_00764	CDS	939	pcm_2	2.1.1.77		Protein-L-isoaspartate O-methyltransferase
+HOBOLHBA_00765	gene	864	nnr_2			
+HOBOLHBA_00765	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HOBOLHBA_00766	gene	1353	dapE			
+HOBOLHBA_00766	CDS	1353	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+HOBOLHBA_00767	gene	417				
+HOBOLHBA_00767	CDS	417				hypothetical protein
+HOBOLHBA_00768	gene	597	prcB_1			
+HOBOLHBA_00768	CDS	597	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+HOBOLHBA_00769	gene	477				
+HOBOLHBA_00769	CDS	477				hypothetical protein
+HOBOLHBA_00770	gene	1011	hom			
+HOBOLHBA_00770	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+HOBOLHBA_00771	gene	408	msrB			
+HOBOLHBA_00771	CDS	408	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+HOBOLHBA_00772	gene	1620	thyX			
+HOBOLHBA_00772	CDS	1620	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+HOBOLHBA_00773	gene	294				
+HOBOLHBA_00773	CDS	294				hypothetical protein
+HOBOLHBA_00774	gene	882				
+HOBOLHBA_00774	CDS	882				hypothetical protein
+HOBOLHBA_00775	gene	1920	acsA_1			
+HOBOLHBA_00775	CDS	1920	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HOBOLHBA_00776	gene	108				
+HOBOLHBA_00776	CDS	108				hypothetical protein
+HOBOLHBA_00777	gene	186				
+HOBOLHBA_00777	CDS	186				hypothetical protein
+HOBOLHBA_00778	gene	177				
+HOBOLHBA_00778	CDS	177				hypothetical protein
+HOBOLHBA_00779	gene	531				
+HOBOLHBA_00779	CDS	531				hypothetical protein
+HOBOLHBA_00780	gene	1023				
+HOBOLHBA_00780	CDS	1023				hypothetical protein
+HOBOLHBA_00781	gene	276				
+HOBOLHBA_00781	CDS	276				hypothetical protein
+HOBOLHBA_00782	gene	84				
+HOBOLHBA_00782	tRNA	84				tRNA-Ser(cga)
+HOBOLHBA_00783	gene	360				
+HOBOLHBA_00783	CDS	360				hypothetical protein
+HOBOLHBA_00784	gene	198				
+HOBOLHBA_00784	CDS	198				hypothetical protein
+HOBOLHBA_00785	gene	648	rutE			
+HOBOLHBA_00785	CDS	648	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+HOBOLHBA_00786	gene	234				
+HOBOLHBA_00786	CDS	234				hypothetical protein
+HOBOLHBA_00787	gene	177				
+HOBOLHBA_00787	CDS	177				hypothetical protein
+HOBOLHBA_00788	gene	381				
+HOBOLHBA_00788	CDS	381				hypothetical protein
+HOBOLHBA_00789	gene	339				
+HOBOLHBA_00789	CDS	339				hypothetical protein
+HOBOLHBA_00790	gene	501				
+HOBOLHBA_00790	CDS	501				hypothetical protein
+HOBOLHBA_00791	gene	1281				
+HOBOLHBA_00791	CDS	1281				hypothetical protein
+HOBOLHBA_00792	gene	399				
+HOBOLHBA_00792	CDS	399				hypothetical protein
+HOBOLHBA_00793	gene	342				
+HOBOLHBA_00793	CDS	342				hypothetical protein
+HOBOLHBA_00794	gene	312				
+HOBOLHBA_00794	CDS	312				hypothetical protein
+HOBOLHBA_00795	gene	1368				
+HOBOLHBA_00795	CDS	1368				hypothetical protein
+HOBOLHBA_00796	gene	1050				
+HOBOLHBA_00796	CDS	1050				hypothetical protein
+HOBOLHBA_00797	gene	342				
+HOBOLHBA_00797	CDS	342				hypothetical protein
+HOBOLHBA_00798	gene	201				
+HOBOLHBA_00798	CDS	201				hypothetical protein
+HOBOLHBA_00799	gene	243				
+HOBOLHBA_00799	CDS	243				hypothetical protein
+HOBOLHBA_00800	gene	336	spxA			
+HOBOLHBA_00800	CDS	336	spxA		COG1393	Regulatory protein Spx
+HOBOLHBA_00801	gene	894				
+HOBOLHBA_00801	CDS	894				hypothetical protein
+HOBOLHBA_00802	gene	660				
+HOBOLHBA_00802	CDS	660				hypothetical protein
+HOBOLHBA_00803	gene	681				
+HOBOLHBA_00803	CDS	681				hypothetical protein
+HOBOLHBA_00804	gene	1713				
+HOBOLHBA_00804	CDS	1713				hypothetical protein
+HOBOLHBA_00805	gene	615				
+HOBOLHBA_00805	CDS	615				hypothetical protein
+HOBOLHBA_00806	gene	624	sodA_2			
+HOBOLHBA_00806	CDS	624	sodA_2	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+HOBOLHBA_00807	gene	1275				
+HOBOLHBA_00807	CDS	1275				hypothetical protein
+HOBOLHBA_00808	gene	360				
+HOBOLHBA_00808	CDS	360				hypothetical protein
+HOBOLHBA_00809	gene	252				
+HOBOLHBA_00809	CDS	252				hypothetical protein
+HOBOLHBA_00810	gene	144				
+HOBOLHBA_00810	CDS	144				hypothetical protein
+HOBOLHBA_00811	gene	429				
+HOBOLHBA_00811	CDS	429				hypothetical protein
+HOBOLHBA_00812	gene	1452				
+HOBOLHBA_00812	CDS	1452			COG0247	putative protein
+HOBOLHBA_00813	gene	1290				
+HOBOLHBA_00813	CDS	1290				hypothetical protein
+HOBOLHBA_00814	gene	1128				
+HOBOLHBA_00814	CDS	1128				hypothetical protein
+HOBOLHBA_00815	gene	105				
+HOBOLHBA_00815	CDS	105				hypothetical protein
+HOBOLHBA_00816	gene	603				
+HOBOLHBA_00816	CDS	603				hypothetical protein
+HOBOLHBA_00817	gene	708				
+HOBOLHBA_00817	CDS	708				hypothetical protein
+HOBOLHBA_00818	gene	912				
+HOBOLHBA_00818	CDS	912				hypothetical protein
+HOBOLHBA_00819	gene	255				
+HOBOLHBA_00819	CDS	255				hypothetical protein
+HOBOLHBA_00820	gene	681				
+HOBOLHBA_00820	CDS	681				hypothetical protein
+HOBOLHBA_00821	gene	267				
+HOBOLHBA_00821	CDS	267				hypothetical protein
+HOBOLHBA_00822	gene	789				
+HOBOLHBA_00822	CDS	789				hypothetical protein
+HOBOLHBA_00823	gene	1077				
+HOBOLHBA_00823	CDS	1077				hypothetical protein
+HOBOLHBA_00824	gene	1128				
+HOBOLHBA_00824	CDS	1128				hypothetical protein
+HOBOLHBA_00825	gene	354				
+HOBOLHBA_00825	CDS	354				hypothetical protein
+HOBOLHBA_00826	gene	984				
+HOBOLHBA_00826	CDS	984				hypothetical protein
+HOBOLHBA_00827	gene	456				
+HOBOLHBA_00827	CDS	456				hypothetical protein
+HOBOLHBA_00828	gene	1428				
+HOBOLHBA_00828	CDS	1428				hypothetical protein
+HOBOLHBA_00829	gene	543				
+HOBOLHBA_00829	CDS	543				hypothetical protein
+HOBOLHBA_00830	gene	228				
+HOBOLHBA_00830	CDS	228				hypothetical protein
+HOBOLHBA_00831	gene	756				
+HOBOLHBA_00831	CDS	756				hypothetical protein
+HOBOLHBA_00832	gene	315				
+HOBOLHBA_00832	CDS	315				hypothetical protein
+HOBOLHBA_00833	gene	645				
+HOBOLHBA_00833	CDS	645				hypothetical protein
+HOBOLHBA_00834	gene	231				
+HOBOLHBA_00834	CDS	231				hypothetical protein
+HOBOLHBA_00835	gene	261				
+HOBOLHBA_00835	CDS	261				hypothetical protein
+HOBOLHBA_00836	gene	669				
+HOBOLHBA_00836	CDS	669				hypothetical protein
+HOBOLHBA_00837	gene	564				
+HOBOLHBA_00837	CDS	564				hypothetical protein
+HOBOLHBA_00838	gene	1233				
+HOBOLHBA_00838	CDS	1233				hypothetical protein
+HOBOLHBA_00839	gene	1146	arnC_2			
+HOBOLHBA_00839	CDS	1146	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HOBOLHBA_00840	gene	1446				
+HOBOLHBA_00840	CDS	1446				hypothetical protein
+HOBOLHBA_00841	gene	174				
+HOBOLHBA_00841	CDS	174				hypothetical protein
+HOBOLHBA_00842	gene	495				
+HOBOLHBA_00842	CDS	495				hypothetical protein
+HOBOLHBA_00843	gene	603				
+HOBOLHBA_00843	CDS	603				hypothetical protein
+HOBOLHBA_00844	gene	1806				
+HOBOLHBA_00844	CDS	1806				hypothetical protein
+HOBOLHBA_00845	gene	1056				
+HOBOLHBA_00845	CDS	1056				hypothetical protein
+HOBOLHBA_00846	gene	864				
+HOBOLHBA_00846	CDS	864				hypothetical protein
+HOBOLHBA_00847	gene	567				
+HOBOLHBA_00847	CDS	567				hypothetical protein
+HOBOLHBA_00848	gene	1206				
+HOBOLHBA_00848	CDS	1206				hypothetical protein
+HOBOLHBA_00849	gene	687				
+HOBOLHBA_00849	CDS	687				hypothetical protein
+HOBOLHBA_00850	gene	1284				
+HOBOLHBA_00850	CDS	1284				hypothetical protein
+HOBOLHBA_00851	gene	963				
+HOBOLHBA_00851	CDS	963				hypothetical protein
+HOBOLHBA_00852	gene	717				
+HOBOLHBA_00852	CDS	717				hypothetical protein
+HOBOLHBA_00853	gene	1620				
+HOBOLHBA_00853	CDS	1620				hypothetical protein
+HOBOLHBA_00854	gene	810				
+HOBOLHBA_00854	CDS	810				hypothetical protein
+HOBOLHBA_00855	gene	1584				
+HOBOLHBA_00855	CDS	1584				hypothetical protein
+HOBOLHBA_00856	gene	618				
+HOBOLHBA_00856	CDS	618				hypothetical protein
+HOBOLHBA_00857	gene	318				
+HOBOLHBA_00857	CDS	318				hypothetical protein
+HOBOLHBA_00858	gene	393				
+HOBOLHBA_00858	CDS	393				hypothetical protein
+HOBOLHBA_00859	gene	555	dnaJ_2			
+HOBOLHBA_00859	CDS	555	dnaJ_2			Chaperone protein DnaJ
+HOBOLHBA_00860	gene	438	lrpC_1			
+HOBOLHBA_00860	CDS	438	lrpC_1		COG1522	HTH-type transcriptional regulator LrpC
+HOBOLHBA_00861	gene	228				
+HOBOLHBA_00861	CDS	228				hypothetical protein
+HOBOLHBA_00862	gene	498				
+HOBOLHBA_00862	CDS	498				hypothetical protein
+HOBOLHBA_00863	gene	174				
+HOBOLHBA_00863	CDS	174				hypothetical protein
+HOBOLHBA_00864	gene	1119	mqnE			
+HOBOLHBA_00864	CDS	1119	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+HOBOLHBA_00865	gene	306				
+HOBOLHBA_00865	CDS	306				hypothetical protein
+HOBOLHBA_00866	gene	276				
+HOBOLHBA_00866	CDS	276				hypothetical protein
+HOBOLHBA_00867	gene	591				
+HOBOLHBA_00867	CDS	591				hypothetical protein
+HOBOLHBA_00868	gene	231				
+HOBOLHBA_00868	CDS	231				hypothetical protein
+HOBOLHBA_00869	gene	291				
+HOBOLHBA_00869	CDS	291				hypothetical protein
+HOBOLHBA_00870	gene	861	mqnD			
+HOBOLHBA_00870	CDS	861	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+HOBOLHBA_00871	gene	903				
+HOBOLHBA_00871	CDS	903				hypothetical protein
+HOBOLHBA_00872	gene	2220	fusA			
+HOBOLHBA_00872	CDS	2220	fusA		COG0480	Elongation factor G
+HOBOLHBA_00873	gene	639				
+HOBOLHBA_00873	CDS	639				hypothetical protein
+HOBOLHBA_00874	gene	1785				
+HOBOLHBA_00874	CDS	1785				hypothetical protein
+HOBOLHBA_00875	gene	318				
+HOBOLHBA_00875	CDS	318				hypothetical protein
+HOBOLHBA_00876	gene	309				
+HOBOLHBA_00876	CDS	309				hypothetical protein
+HOBOLHBA_00877	gene	231				
+HOBOLHBA_00877	CDS	231				hypothetical protein
+HOBOLHBA_00878	gene	561				
+HOBOLHBA_00878	CDS	561				hypothetical protein
+HOBOLHBA_00879	gene	267				
+HOBOLHBA_00879	CDS	267				hypothetical protein
+HOBOLHBA_00880	gene	594				
+HOBOLHBA_00880	CDS	594				hypothetical protein
+HOBOLHBA_00881	gene	378				
+HOBOLHBA_00881	CDS	378				hypothetical protein
+HOBOLHBA_00882	gene	585				
+HOBOLHBA_00882	CDS	585				hypothetical protein
+HOBOLHBA_00883	gene	1014	cas1			
+HOBOLHBA_00883	CDS	1014	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+HOBOLHBA_00884	gene	495				
+HOBOLHBA_00884	CDS	495				hypothetical protein
+HOBOLHBA_00885	gene	414				
+HOBOLHBA_00885	CDS	414				hypothetical protein
+HOBOLHBA_00886	gene	126				
+HOBOLHBA_00886	CDS	126				hypothetical protein
+HOBOLHBA_00887	gene	582				
+HOBOLHBA_00887	CDS	582				hypothetical protein
+HOBOLHBA_00888	gene	228				
+HOBOLHBA_00888	CDS	228				hypothetical protein
+HOBOLHBA_00889	gene	231				
+HOBOLHBA_00889	CDS	231				hypothetical protein
+HOBOLHBA_00890	gene	426				
+HOBOLHBA_00890	CDS	426				hypothetical protein
+HOBOLHBA_00891	gene	225				
+HOBOLHBA_00891	CDS	225				hypothetical protein
+HOBOLHBA_00892	gene	831				
+HOBOLHBA_00892	CDS	831				hypothetical protein
+HOBOLHBA_00893	gene	1443				
+HOBOLHBA_00893	CDS	1443				hypothetical protein
+HOBOLHBA_00894	gene	618	trmR			
+HOBOLHBA_00894	CDS	618	trmR	2.1.1.-	COG4122	tRNA 5-hydroxyuridine methyltransferase
+HOBOLHBA_00895	gene	378				
+HOBOLHBA_00895	CDS	378				hypothetical protein
+HOBOLHBA_00896	gene	390				
+HOBOLHBA_00896	CDS	390				hypothetical protein
+HOBOLHBA_00897	gene	207				
+HOBOLHBA_00897	CDS	207				hypothetical protein
+HOBOLHBA_00898	gene	237				
+HOBOLHBA_00898	CDS	237				hypothetical protein
+HOBOLHBA_00899	gene	240				
+HOBOLHBA_00899	CDS	240				hypothetical protein
+HOBOLHBA_00900	gene	396				
+HOBOLHBA_00900	CDS	396				hypothetical protein
+HOBOLHBA_00901	gene	273				
+HOBOLHBA_00901	CDS	273				hypothetical protein
+HOBOLHBA_00902	gene	567				
+HOBOLHBA_00902	CDS	567				hypothetical protein
+HOBOLHBA_00903	gene	240				
+HOBOLHBA_00903	CDS	240				hypothetical protein
+HOBOLHBA_00904	gene	252				
+HOBOLHBA_00904	CDS	252				hypothetical protein
+HOBOLHBA_00905	gene	828				
+HOBOLHBA_00905	CDS	828				hypothetical protein
+HOBOLHBA_00906	gene	1815	IMPDH_5			
+HOBOLHBA_00906	CDS	1815	IMPDH_5	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_00907	gene	441				
+HOBOLHBA_00907	CDS	441				hypothetical protein
+HOBOLHBA_00908	gene	219				
+HOBOLHBA_00908	CDS	219				hypothetical protein
+HOBOLHBA_00909	gene	204				
+HOBOLHBA_00909	CDS	204				hypothetical protein
+HOBOLHBA_00910	gene	393				
+HOBOLHBA_00910	CDS	393				hypothetical protein
+HOBOLHBA_00911	gene	249				
+HOBOLHBA_00911	CDS	249				hypothetical protein
+HOBOLHBA_00912	gene	264				
+HOBOLHBA_00912	CDS	264				hypothetical protein
+HOBOLHBA_00913	gene	120				
+HOBOLHBA_00913	CDS	120				hypothetical protein
+HOBOLHBA_00914	gene	1092				
+HOBOLHBA_00914	CDS	1092				hypothetical protein
+HOBOLHBA_00915	gene	120				
+HOBOLHBA_00915	CDS	120				hypothetical protein
+HOBOLHBA_00916	gene	558	ecdB			
+HOBOLHBA_00916	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+HOBOLHBA_00917	gene	429				
+HOBOLHBA_00917	CDS	429				hypothetical protein
+HOBOLHBA_00918	gene	183	tatA_1			
+HOBOLHBA_00918	CDS	183	tatA_1			Sec-independent protein translocase protein TatA
+HOBOLHBA_00919	gene	792	tatC			
+HOBOLHBA_00919	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+HOBOLHBA_00920	gene	468				
+HOBOLHBA_00920	CDS	468				hypothetical protein
+HOBOLHBA_00921	gene	156				
+HOBOLHBA_00921	CDS	156				hypothetical protein
+HOBOLHBA_00922	gene	159				
+HOBOLHBA_00922	CDS	159				hypothetical protein
+HOBOLHBA_00923	gene	261	purS			
+HOBOLHBA_00923	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+HOBOLHBA_00924	gene	681	purQ			
+HOBOLHBA_00924	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+HOBOLHBA_00925	gene	2175	purL			
+HOBOLHBA_00925	CDS	2175	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+HOBOLHBA_00926	gene	198				
+HOBOLHBA_00926	CDS	198				hypothetical protein
+HOBOLHBA_00927	gene	1461	purF			
+HOBOLHBA_00927	CDS	1461	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HOBOLHBA_00928	gene	279				
+HOBOLHBA_00928	CDS	279				hypothetical protein
+HOBOLHBA_00929	gene	201				
+HOBOLHBA_00929	CDS	201				hypothetical protein
+HOBOLHBA_00930	gene	1254	sasA_2			
+HOBOLHBA_00930	CDS	1254	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+HOBOLHBA_00931	gene	825	purC			
+HOBOLHBA_00931	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HOBOLHBA_00932	gene	201				
+HOBOLHBA_00932	CDS	201				hypothetical protein
+HOBOLHBA_00933	gene	504				
+HOBOLHBA_00933	CDS	504				hypothetical protein
+HOBOLHBA_00934	gene	405				
+HOBOLHBA_00934	CDS	405				hypothetical protein
+HOBOLHBA_00935	gene	399				
+HOBOLHBA_00935	CDS	399				hypothetical protein
+HOBOLHBA_00936	gene	489				
+HOBOLHBA_00936	CDS	489				hypothetical protein
+HOBOLHBA_00937	gene	753				
+HOBOLHBA_00937	CDS	753				hypothetical protein
+HOBOLHBA_00938	gene	252				
+HOBOLHBA_00938	CDS	252				hypothetical protein
+HOBOLHBA_00939	gene	450				
+HOBOLHBA_00939	CDS	450				hypothetical protein
+HOBOLHBA_00940	gene	228				
+HOBOLHBA_00940	CDS	228				hypothetical protein
+HOBOLHBA_00941	gene	249				
+HOBOLHBA_00941	CDS	249				hypothetical protein
+HOBOLHBA_00942	gene	75				
+HOBOLHBA_00942	tRNA	75				tRNA-Asn(gtt)
+HOBOLHBA_00943	gene	288				
+HOBOLHBA_00943	CDS	288				hypothetical protein
+HOBOLHBA_00944	gene	558				
+HOBOLHBA_00944	CDS	558				hypothetical protein
+HOBOLHBA_00945	gene	393	rpsH			
+HOBOLHBA_00945	CDS	393	rpsH			30S ribosomal protein S8
+HOBOLHBA_00946	gene	180				
+HOBOLHBA_00946	CDS	180				hypothetical protein
+HOBOLHBA_00947	gene	522				
+HOBOLHBA_00947	CDS	522				hypothetical protein
+HOBOLHBA_00948	gene	717				
+HOBOLHBA_00948	CDS	717				hypothetical protein
+HOBOLHBA_00949	gene	462				
+HOBOLHBA_00949	CDS	462				hypothetical protein
+HOBOLHBA_00950	gene	423	rplN			
+HOBOLHBA_00950	CDS	423	rplN		COG0093	50S ribosomal protein L14
+HOBOLHBA_00951	gene	324				
+HOBOLHBA_00951	CDS	324				hypothetical protein
+HOBOLHBA_00952	gene	267				
+HOBOLHBA_00952	CDS	267				hypothetical protein
+HOBOLHBA_00953	gene	207				
+HOBOLHBA_00953	CDS	207				hypothetical protein
+HOBOLHBA_00954	gene	789				
+HOBOLHBA_00954	CDS	789				hypothetical protein
+HOBOLHBA_00955	gene	459				
+HOBOLHBA_00955	CDS	459				hypothetical protein
+HOBOLHBA_00956	gene	396				
+HOBOLHBA_00956	CDS	396				hypothetical protein
+HOBOLHBA_00957	gene	267				
+HOBOLHBA_00957	CDS	267				hypothetical protein
+HOBOLHBA_00958	gene	813				
+HOBOLHBA_00958	CDS	813				hypothetical protein
+HOBOLHBA_00959	gene	996				
+HOBOLHBA_00959	CDS	996				hypothetical protein
+HOBOLHBA_00960	gene	132				
+HOBOLHBA_00960	CDS	132				hypothetical protein
+HOBOLHBA_00961	gene	807				
+HOBOLHBA_00961	CDS	807				hypothetical protein
+HOBOLHBA_00962	gene	738	prcA_1			
+HOBOLHBA_00962	CDS	738	prcA_1			Proteasome subunit alpha
+HOBOLHBA_00963	gene	417				
+HOBOLHBA_00963	CDS	417				hypothetical protein
+HOBOLHBA_00964	gene	1257	yliI_2			
+HOBOLHBA_00964	CDS	1257	yliI_2	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+HOBOLHBA_00965	gene	342				
+HOBOLHBA_00965	CDS	342				hypothetical protein
+HOBOLHBA_00966	gene	651				
+HOBOLHBA_00966	CDS	651				hypothetical protein
+HOBOLHBA_00967	gene	1110	dipZ			
+HOBOLHBA_00967	CDS	1110	dipZ		COG0785	Protein DipZ
+HOBOLHBA_00968	gene	732				
+HOBOLHBA_00968	CDS	732				hypothetical protein
+HOBOLHBA_00969	gene	105				
+HOBOLHBA_00969	CDS	105				hypothetical protein
+HOBOLHBA_00970	gene	1143	bioF			
+HOBOLHBA_00970	CDS	1143	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+HOBOLHBA_00971	gene	978	bioB			
+HOBOLHBA_00971	CDS	978	bioB	2.8.1.6	COG0502	Biotin synthase
+HOBOLHBA_00972	gene	1284	bioK			
+HOBOLHBA_00972	CDS	1284	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+HOBOLHBA_00973	gene	684	bioD			
+HOBOLHBA_00973	CDS	684	bioD	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD
+HOBOLHBA_00974	gene	549				
+HOBOLHBA_00974	CDS	549				hypothetical protein
+HOBOLHBA_00975	gene	1395	mvaS			
+HOBOLHBA_00975	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+HOBOLHBA_00976	gene	705				
+HOBOLHBA_00976	CDS	705				hypothetical protein
+HOBOLHBA_00977	gene	147				
+HOBOLHBA_00977	CDS	147				hypothetical protein
+HOBOLHBA_00978	gene	1107				
+HOBOLHBA_00978	CDS	1107				hypothetical protein
+HOBOLHBA_00979	gene	126				
+HOBOLHBA_00979	CDS	126				hypothetical protein
+HOBOLHBA_00980	gene	312				
+HOBOLHBA_00980	CDS	312				hypothetical protein
+HOBOLHBA_00981	gene	189				
+HOBOLHBA_00981	CDS	189				hypothetical protein
+HOBOLHBA_00982	gene	549				
+HOBOLHBA_00982	CDS	549				hypothetical protein
+HOBOLHBA_00983	gene	483				
+HOBOLHBA_00983	CDS	483				hypothetical protein
+HOBOLHBA_00984	gene	1254				
+HOBOLHBA_00984	CDS	1254				hypothetical protein
+HOBOLHBA_00985	gene	1338				
+HOBOLHBA_00985	CDS	1338				hypothetical protein
+HOBOLHBA_00986	gene	375				
+HOBOLHBA_00986	CDS	375				hypothetical protein
+HOBOLHBA_00987	gene	312				
+HOBOLHBA_00987	CDS	312				hypothetical protein
+HOBOLHBA_00988	gene	465				
+HOBOLHBA_00988	CDS	465				hypothetical protein
+HOBOLHBA_00989	gene	570				
+HOBOLHBA_00989	CDS	570				hypothetical protein
+HOBOLHBA_00990	gene	1071				
+HOBOLHBA_00990	CDS	1071				hypothetical protein
+HOBOLHBA_00991	gene	309				
+HOBOLHBA_00991	CDS	309				hypothetical protein
+HOBOLHBA_00992	gene	1110				
+HOBOLHBA_00992	CDS	1110				hypothetical protein
+HOBOLHBA_00993	gene	966				
+HOBOLHBA_00993	CDS	966		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+HOBOLHBA_00994	gene	159				
+HOBOLHBA_00994	CDS	159				hypothetical protein
+HOBOLHBA_00995	gene	219				
+HOBOLHBA_00995	CDS	219				hypothetical protein
+HOBOLHBA_00996	gene	168				
+HOBOLHBA_00996	CDS	168				hypothetical protein
+HOBOLHBA_00997	gene	669	cugP_3			
+HOBOLHBA_00997	CDS	669	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+HOBOLHBA_00998	gene	249				
+HOBOLHBA_00998	CDS	249				hypothetical protein
+HOBOLHBA_00999	gene	126				
+HOBOLHBA_00999	CDS	126				hypothetical protein
+HOBOLHBA_01000	gene	390				
+HOBOLHBA_01000	CDS	390				hypothetical protein
+HOBOLHBA_01001	gene	1146	purK			
+HOBOLHBA_01001	CDS	1146	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+HOBOLHBA_01002	gene	573	purE			
+HOBOLHBA_01002	CDS	573	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+HOBOLHBA_01003	gene	1371	tdcB			
+HOBOLHBA_01003	CDS	1371	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+HOBOLHBA_01004	gene	840				
+HOBOLHBA_01004	CDS	840				hypothetical protein
+HOBOLHBA_01005	gene	798				
+HOBOLHBA_01005	CDS	798				hypothetical protein
+HOBOLHBA_01006	gene	147				
+HOBOLHBA_01006	CDS	147				hypothetical protein
+HOBOLHBA_01007	gene	372				
+HOBOLHBA_01007	CDS	372				hypothetical protein
+HOBOLHBA_01008	gene	387				
+HOBOLHBA_01008	CDS	387				hypothetical protein
+HOBOLHBA_01009	gene	414				
+HOBOLHBA_01009	CDS	414				hypothetical protein
+HOBOLHBA_01010	gene	219				
+HOBOLHBA_01010	CDS	219				hypothetical protein
+HOBOLHBA_01011	gene	240				
+HOBOLHBA_01011	CDS	240				hypothetical protein
+HOBOLHBA_01012	gene	270				
+HOBOLHBA_01012	CDS	270				hypothetical protein
+HOBOLHBA_01013	gene	291				
+HOBOLHBA_01013	CDS	291				hypothetical protein
+HOBOLHBA_01014	gene	75				
+HOBOLHBA_01014	tRNA	75				tRNA-Phe(gaa)
+HOBOLHBA_01015	gene	537	cobO			
+HOBOLHBA_01015	CDS	537	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+HOBOLHBA_01016	gene	534				
+HOBOLHBA_01016	CDS	534				hypothetical protein
+HOBOLHBA_01017	gene	231				
+HOBOLHBA_01017	CDS	231				hypothetical protein
+HOBOLHBA_01018	gene	366				
+HOBOLHBA_01018	CDS	366				hypothetical protein
+HOBOLHBA_01019	gene	348				
+HOBOLHBA_01019	CDS	348				hypothetical protein
+HOBOLHBA_01020	gene	1224				
+HOBOLHBA_01020	CDS	1224				hypothetical protein
+HOBOLHBA_01021	gene	738	kaiC			
+HOBOLHBA_01021	CDS	738	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+HOBOLHBA_01022	gene	852				
+HOBOLHBA_01022	CDS	852				hypothetical protein
+HOBOLHBA_01023	gene	108				
+HOBOLHBA_01023	CDS	108				hypothetical protein
+HOBOLHBA_01024	gene	651				
+HOBOLHBA_01024	CDS	651				hypothetical protein
+HOBOLHBA_01025	gene	546				
+HOBOLHBA_01025	CDS	546				hypothetical protein
+HOBOLHBA_01026	gene	456				
+HOBOLHBA_01026	CDS	456				hypothetical protein
+HOBOLHBA_01027	gene	1656				
+HOBOLHBA_01027	CDS	1656				hypothetical protein
+HOBOLHBA_01028	gene	447				
+HOBOLHBA_01028	CDS	447				hypothetical protein
+HOBOLHBA_01029	gene	483				
+HOBOLHBA_01029	CDS	483				hypothetical protein
+HOBOLHBA_01030	gene	1023				
+HOBOLHBA_01030	CDS	1023				hypothetical protein
+HOBOLHBA_01031	gene	1551				
+HOBOLHBA_01031	CDS	1551				hypothetical protein
+HOBOLHBA_01032	gene	678				
+HOBOLHBA_01032	CDS	678				hypothetical protein
+HOBOLHBA_01033	gene	1536				
+HOBOLHBA_01033	CDS	1536				hypothetical protein
+HOBOLHBA_01034	gene	357	divK			
+HOBOLHBA_01034	CDS	357	divK			Polar-differentiation response regulator DivK
+HOBOLHBA_01035	gene	1113	sasA_3			
+HOBOLHBA_01035	CDS	1113	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+HOBOLHBA_01036	gene	1017				
+HOBOLHBA_01036	CDS	1017				hypothetical protein
+HOBOLHBA_01037	gene	1353	hisC_2			
+HOBOLHBA_01037	CDS	1353	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+HOBOLHBA_01038	gene	324	acs			
+HOBOLHBA_01038	CDS	324	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HOBOLHBA_01039	gene	1620	acsA_2			
+HOBOLHBA_01039	CDS	1620	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+HOBOLHBA_01040	gene	267				
+HOBOLHBA_01040	CDS	267				hypothetical protein
+HOBOLHBA_01041	gene	1221	gatB			
+HOBOLHBA_01041	CDS	1221	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+HOBOLHBA_01042	gene	1446	gatA			
+HOBOLHBA_01042	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+HOBOLHBA_01043	gene	270				
+HOBOLHBA_01043	CDS	270				hypothetical protein
+HOBOLHBA_01044	gene	1293				
+HOBOLHBA_01044	CDS	1293				hypothetical protein
+HOBOLHBA_01045	gene	462				
+HOBOLHBA_01045	CDS	462				hypothetical protein
+HOBOLHBA_01046	gene	1311	aspS2_1			
+HOBOLHBA_01046	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HOBOLHBA_01047	gene	189				
+HOBOLHBA_01047	CDS	189				hypothetical protein
+HOBOLHBA_01048	gene	213				
+HOBOLHBA_01048	CDS	213				hypothetical protein
+HOBOLHBA_01049	gene	1026				
+HOBOLHBA_01049	CDS	1026				hypothetical protein
+HOBOLHBA_01050	gene	786	phnE			
+HOBOLHBA_01050	CDS	786	phnE		COG3639	Phosphate-import permease protein PhnE
+HOBOLHBA_01051	gene	831	metN			
+HOBOLHBA_01051	CDS	831	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+HOBOLHBA_01052	gene	1095				
+HOBOLHBA_01052	CDS	1095				hypothetical protein
+HOBOLHBA_01053	gene	324				
+HOBOLHBA_01053	CDS	324				hypothetical protein
+HOBOLHBA_01054	gene	354				
+HOBOLHBA_01054	CDS	354				hypothetical protein
+HOBOLHBA_01055	gene	729				
+HOBOLHBA_01055	CDS	729				hypothetical protein
+HOBOLHBA_01056	gene	216				
+HOBOLHBA_01056	CDS	216				hypothetical protein
+HOBOLHBA_01057	gene	681				
+HOBOLHBA_01057	CDS	681				hypothetical protein
+HOBOLHBA_01058	gene	225				
+HOBOLHBA_01058	CDS	225				hypothetical protein
+HOBOLHBA_01059	gene	774	cheB_2			
+HOBOLHBA_01059	CDS	774	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HOBOLHBA_01060	gene	645				
+HOBOLHBA_01060	CDS	645				hypothetical protein
+HOBOLHBA_01061	gene	1281				
+HOBOLHBA_01061	CDS	1281				hypothetical protein
+HOBOLHBA_01062	gene	405	hit_1			
+HOBOLHBA_01062	CDS	405	hit_1		COG0537	Protein hit
+HOBOLHBA_01063	gene	597				
+HOBOLHBA_01063	CDS	597				hypothetical protein
+HOBOLHBA_01064	gene	201				
+HOBOLHBA_01064	CDS	201				hypothetical protein
+HOBOLHBA_01065	gene	1674	ilvD			
+HOBOLHBA_01065	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+HOBOLHBA_01066	gene	111				
+HOBOLHBA_01066	CDS	111				hypothetical protein
+HOBOLHBA_01067	gene	963				
+HOBOLHBA_01067	CDS	963				hypothetical protein
+HOBOLHBA_01068	gene	7920				
+HOBOLHBA_01068	CDS	7920				hypothetical protein
+HOBOLHBA_01069	gene	213				
+HOBOLHBA_01069	CDS	213				hypothetical protein
+HOBOLHBA_01070	gene	198				
+HOBOLHBA_01070	CDS	198				hypothetical protein
+HOBOLHBA_01071	gene	1401	dinG			
+HOBOLHBA_01071	CDS	1401	dinG	3.1.-.-		3'-5' exonuclease DinG
+HOBOLHBA_01072	gene	318				
+HOBOLHBA_01072	CDS	318				hypothetical protein
+HOBOLHBA_01073	gene	240				
+HOBOLHBA_01073	CDS	240				hypothetical protein
+HOBOLHBA_01074	gene	132				
+HOBOLHBA_01074	CDS	132				hypothetical protein
+HOBOLHBA_01075	gene	267				
+HOBOLHBA_01075	CDS	267				hypothetical protein
+HOBOLHBA_01076	gene	141				
+HOBOLHBA_01076	CDS	141				hypothetical protein
+HOBOLHBA_01077	gene	537				
+HOBOLHBA_01077	CDS	537				hypothetical protein
+HOBOLHBA_01078	gene	903				
+HOBOLHBA_01078	CDS	903				hypothetical protein
+HOBOLHBA_01079	gene	267				
+HOBOLHBA_01079	CDS	267				hypothetical protein
+HOBOLHBA_01080	gene	207				
+HOBOLHBA_01080	CDS	207				hypothetical protein
+HOBOLHBA_01081	gene	588				
+HOBOLHBA_01081	CDS	588				hypothetical protein
+HOBOLHBA_01082	gene	411				
+HOBOLHBA_01082	CDS	411				hypothetical protein
+HOBOLHBA_01083	gene	90				
+HOBOLHBA_01083	CDS	90				hypothetical protein
+HOBOLHBA_01084	gene	147				
+HOBOLHBA_01084	CDS	147				hypothetical protein
+HOBOLHBA_01085	gene	234				
+HOBOLHBA_01085	CDS	234				hypothetical protein
+HOBOLHBA_01086	gene	468				
+HOBOLHBA_01086	CDS	468				hypothetical protein
+HOBOLHBA_01087	gene	1047				
+HOBOLHBA_01087	CDS	1047				hypothetical protein
+HOBOLHBA_01088	gene	363				
+HOBOLHBA_01088	CDS	363				hypothetical protein
+HOBOLHBA_01089	gene	222				
+HOBOLHBA_01089	CDS	222				hypothetical protein
+HOBOLHBA_01090	gene	351				
+HOBOLHBA_01090	CDS	351				hypothetical protein
+HOBOLHBA_01091	gene	291				
+HOBOLHBA_01091	CDS	291				hypothetical protein
+HOBOLHBA_01092	gene	102				
+HOBOLHBA_01092	CDS	102				hypothetical protein
+HOBOLHBA_01093	gene	234				
+HOBOLHBA_01093	CDS	234				hypothetical protein
+HOBOLHBA_01094	gene	189				
+HOBOLHBA_01094	CDS	189				hypothetical protein
+HOBOLHBA_01095	gene	681				
+HOBOLHBA_01095	CDS	681				hypothetical protein
+HOBOLHBA_01096	gene	678				
+HOBOLHBA_01096	CDS	678				hypothetical protein
+HOBOLHBA_01097	gene	417				
+HOBOLHBA_01097	CDS	417				hypothetical protein
+HOBOLHBA_01098	gene	93				
+HOBOLHBA_01098	CDS	93				hypothetical protein
+HOBOLHBA_01099	gene	2604	dbpA_2			
+HOBOLHBA_01099	CDS	2604	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+HOBOLHBA_01100	gene	357				
+HOBOLHBA_01100	CDS	357				hypothetical protein
+HOBOLHBA_01101	gene	1350	pabB			
+HOBOLHBA_01101	CDS	1350	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+HOBOLHBA_01102	gene	597	trpG			
+HOBOLHBA_01102	CDS	597	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+HOBOLHBA_01103	gene	1047	trpD			
+HOBOLHBA_01103	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+HOBOLHBA_01104	gene	777	trpC			
+HOBOLHBA_01104	CDS	777	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+HOBOLHBA_01105	gene	1191	trpB			
+HOBOLHBA_01105	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+HOBOLHBA_01106	gene	801	trpA			
+HOBOLHBA_01106	CDS	801	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+HOBOLHBA_01107	gene	1668	pyrG			
+HOBOLHBA_01107	CDS	1668	pyrG	6.3.4.2		CTP synthase
+HOBOLHBA_01108	gene	612				
+HOBOLHBA_01108	CDS	612				hypothetical protein
+HOBOLHBA_01109	gene	999	nadK_2			
+HOBOLHBA_01109	CDS	999	nadK_2	2.7.1.23		NAD kinase
+HOBOLHBA_01110	gene	930				
+HOBOLHBA_01110	CDS	930				hypothetical protein
+HOBOLHBA_01111	gene	294				
+HOBOLHBA_01111	CDS	294				hypothetical protein
+HOBOLHBA_01112	gene	177				
+HOBOLHBA_01112	CDS	177				hypothetical protein
+HOBOLHBA_01113	gene	594	pgsA2			
+HOBOLHBA_01113	CDS	594	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+HOBOLHBA_01114	gene	873	speB_1			
+HOBOLHBA_01114	CDS	873	speB_1	3.5.3.11	COG0010	Agmatinase
+HOBOLHBA_01115	gene	1869				
+HOBOLHBA_01115	CDS	1869				hypothetical protein
+HOBOLHBA_01116	gene	498				
+HOBOLHBA_01116	CDS	498				hypothetical protein
+HOBOLHBA_01117	gene	336				
+HOBOLHBA_01117	CDS	336				hypothetical protein
+HOBOLHBA_01118	gene	1095				
+HOBOLHBA_01118	CDS	1095		2.5.-.-		Deoxyhypusine synthase-like protein
+HOBOLHBA_01119	gene	213				
+HOBOLHBA_01119	CDS	213				hypothetical protein
+HOBOLHBA_01120	gene	309				
+HOBOLHBA_01120	CDS	309				hypothetical protein
+HOBOLHBA_01121	gene	387				
+HOBOLHBA_01121	CDS	387				hypothetical protein
+HOBOLHBA_01122	gene	534				
+HOBOLHBA_01122	CDS	534				hypothetical protein
+HOBOLHBA_01123	gene	306				
+HOBOLHBA_01123	CDS	306				hypothetical protein
+HOBOLHBA_01124	gene	417				
+HOBOLHBA_01124	CDS	417				hypothetical protein
+HOBOLHBA_01125	gene	948	asnB			
+HOBOLHBA_01125	CDS	948	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+HOBOLHBA_01126	gene	195				
+HOBOLHBA_01126	CDS	195				hypothetical protein
+HOBOLHBA_01127	gene	366				
+HOBOLHBA_01127	CDS	366				hypothetical protein
+HOBOLHBA_01128	gene	1101				
+HOBOLHBA_01128	CDS	1101				hypothetical protein
+HOBOLHBA_01129	gene	885	menA			
+HOBOLHBA_01129	CDS	885	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HOBOLHBA_01130	gene	207				
+HOBOLHBA_01130	CDS	207				hypothetical protein
+HOBOLHBA_01131	gene	2721				
+HOBOLHBA_01131	CDS	2721				hypothetical protein
+HOBOLHBA_01132	gene	612				
+HOBOLHBA_01132	CDS	612				hypothetical protein
+HOBOLHBA_01133	gene	1836				
+HOBOLHBA_01133	CDS	1836				hypothetical protein
+HOBOLHBA_01134	gene	741				
+HOBOLHBA_01134	CDS	741				hypothetical protein
+HOBOLHBA_01135	gene	528				
+HOBOLHBA_01135	CDS	528				hypothetical protein
+HOBOLHBA_01136	gene	1227				
+HOBOLHBA_01136	CDS	1227				hypothetical protein
+HOBOLHBA_01137	gene	1614				
+HOBOLHBA_01137	CDS	1614				hypothetical protein
+HOBOLHBA_01138	gene	924				
+HOBOLHBA_01138	CDS	924				hypothetical protein
+HOBOLHBA_01139	gene	918				
+HOBOLHBA_01139	CDS	918				hypothetical protein
+HOBOLHBA_01140	gene	885				
+HOBOLHBA_01140	CDS	885				hypothetical protein
+HOBOLHBA_01141	gene	504				
+HOBOLHBA_01141	CDS	504				hypothetical protein
+HOBOLHBA_01142	gene	798				
+HOBOLHBA_01142	CDS	798				hypothetical protein
+HOBOLHBA_01143	gene	621				
+HOBOLHBA_01143	CDS	621				hypothetical protein
+HOBOLHBA_01144	gene	558				
+HOBOLHBA_01144	CDS	558				hypothetical protein
+HOBOLHBA_01145	gene	1068				
+HOBOLHBA_01145	CDS	1068				hypothetical protein
+HOBOLHBA_01146	gene	849				
+HOBOLHBA_01146	CDS	849				hypothetical protein
+HOBOLHBA_01147	gene	402				
+HOBOLHBA_01147	CDS	402				hypothetical protein
+HOBOLHBA_01148	gene	168				
+HOBOLHBA_01148	CDS	168				hypothetical protein
+HOBOLHBA_01149	gene	279				
+HOBOLHBA_01149	CDS	279				hypothetical protein
+HOBOLHBA_01150	gene	399				
+HOBOLHBA_01150	CDS	399				hypothetical protein
+HOBOLHBA_01151	gene	366	hprR			
+HOBOLHBA_01151	CDS	366	hprR		COG0745	Transcriptional regulatory protein HprR
+HOBOLHBA_01152	gene	624	cheB_3			
+HOBOLHBA_01152	CDS	624	cheB_3	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HOBOLHBA_01153	gene	612				
+HOBOLHBA_01153	CDS	612				hypothetical protein
+HOBOLHBA_01154	gene	177				
+HOBOLHBA_01154	CDS	177				hypothetical protein
+HOBOLHBA_01155	gene	639	MENG			
+HOBOLHBA_01155	CDS	639	MENG	2.1.1.329		2-phytyl-1,4-beta-naphthoquinone methyltransferase, chloroplastic
+HOBOLHBA_01156	gene	279	prsA			
+HOBOLHBA_01156	CDS	279	prsA	5.2.1.8	COG0760	Foldase protein PrsA
+HOBOLHBA_01157	gene	156				
+HOBOLHBA_01157	CDS	156				hypothetical protein
+HOBOLHBA_01158	gene	273				
+HOBOLHBA_01158	CDS	273				hypothetical protein
+HOBOLHBA_01159	gene	330	dbpA_3			
+HOBOLHBA_01159	CDS	330	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+HOBOLHBA_01160	gene	1230				
+HOBOLHBA_01160	CDS	1230				hypothetical protein
+HOBOLHBA_01161	gene	147				
+HOBOLHBA_01161	CDS	147				hypothetical protein
+HOBOLHBA_01162	gene	525				
+HOBOLHBA_01162	CDS	525				hypothetical protein
+HOBOLHBA_01163	gene	2559				
+HOBOLHBA_01163	CDS	2559				hypothetical protein
+HOBOLHBA_01164	gene	285				
+HOBOLHBA_01164	CDS	285				hypothetical protein
+HOBOLHBA_01165	gene	657	tpiA			
+HOBOLHBA_01165	CDS	657	tpiA			Triosephosphate isomerase
+HOBOLHBA_01166	gene	2667	ppdK			
+HOBOLHBA_01166	CDS	2667	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HOBOLHBA_01167	gene	558				
+HOBOLHBA_01167	CDS	558				hypothetical protein
+HOBOLHBA_01168	gene	303				
+HOBOLHBA_01168	CDS	303				hypothetical protein
+HOBOLHBA_01169	gene	399	epi			
+HOBOLHBA_01169	CDS	399	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+HOBOLHBA_01170	gene	438				
+HOBOLHBA_01170	CDS	438				hypothetical protein
+HOBOLHBA_01171	gene	465				
+HOBOLHBA_01171	CDS	465				hypothetical protein
+HOBOLHBA_01172	gene	381				
+HOBOLHBA_01172	CDS	381				hypothetical protein
+HOBOLHBA_01173	gene	147				
+HOBOLHBA_01173	CDS	147				hypothetical protein
+HOBOLHBA_01174	gene	819				
+HOBOLHBA_01174	CDS	819				hypothetical protein
+HOBOLHBA_01175	gene	1602	bhbA			
+HOBOLHBA_01175	CDS	1602	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+HOBOLHBA_01176	gene	918				
+HOBOLHBA_01176	CDS	918		3.6.-.-	COG1703	putative GTPase
+HOBOLHBA_01177	gene	405				
+HOBOLHBA_01177	CDS	405				hypothetical protein
+HOBOLHBA_01178	gene	264				
+HOBOLHBA_01178	CDS	264				hypothetical protein
+HOBOLHBA_01179	gene	498				
+HOBOLHBA_01179	CDS	498				hypothetical protein
+HOBOLHBA_01180	gene	117				
+HOBOLHBA_01180	CDS	117				hypothetical protein
+HOBOLHBA_01181	gene	231				
+HOBOLHBA_01181	CDS	231				hypothetical protein
+HOBOLHBA_01182	gene	408				
+HOBOLHBA_01182	CDS	408				hypothetical protein
+HOBOLHBA_01183	gene	2502	pepN			
+HOBOLHBA_01183	CDS	2502	pepN	3.4.11.2	COG0308	Aminopeptidase N
+HOBOLHBA_01184	gene	129				
+HOBOLHBA_01184	CDS	129				hypothetical protein
+HOBOLHBA_01185	gene	585				
+HOBOLHBA_01185	CDS	585				hypothetical protein
+HOBOLHBA_01186	gene	375				
+HOBOLHBA_01186	CDS	375				hypothetical protein
+HOBOLHBA_01187	gene	903				
+HOBOLHBA_01187	CDS	903				hypothetical protein
+HOBOLHBA_01188	gene	264				
+HOBOLHBA_01188	CDS	264				hypothetical protein
+HOBOLHBA_01189	gene	474	mcm			
+HOBOLHBA_01189	CDS	474	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+HOBOLHBA_01190	gene	999	ilvC			
+HOBOLHBA_01190	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+HOBOLHBA_01191	gene	882				
+HOBOLHBA_01191	CDS	882				hypothetical protein
+HOBOLHBA_01192	gene	1215				
+HOBOLHBA_01192	CDS	1215				hypothetical protein
+HOBOLHBA_01193	gene	120				
+HOBOLHBA_01193	CDS	120				hypothetical protein
+HOBOLHBA_01194	gene	921	tuf			
+HOBOLHBA_01194	CDS	921	tuf			Elongation factor Tu
+HOBOLHBA_01195	gene	753				
+HOBOLHBA_01195	CDS	753				hypothetical protein
+HOBOLHBA_01196	gene	1656	metG_2			
+HOBOLHBA_01196	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+HOBOLHBA_01197	gene	1242	ahcY			
+HOBOLHBA_01197	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+HOBOLHBA_01198	gene	303	todB			
+HOBOLHBA_01198	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+HOBOLHBA_01199	gene	387				
+HOBOLHBA_01199	CDS	387				hypothetical protein
+HOBOLHBA_01200	gene	792	nadE			
+HOBOLHBA_01200	CDS	792	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+HOBOLHBA_01201	gene	1389	cysS			
+HOBOLHBA_01201	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+HOBOLHBA_01202	gene	315				
+HOBOLHBA_01202	CDS	315				hypothetical protein
+HOBOLHBA_01203	gene	330				
+HOBOLHBA_01203	CDS	330				hypothetical protein
+HOBOLHBA_01204	gene	435				
+HOBOLHBA_01204	CDS	435				hypothetical protein
+HOBOLHBA_01205	gene	684				
+HOBOLHBA_01205	CDS	684				hypothetical protein
+HOBOLHBA_01206	gene	270				
+HOBOLHBA_01206	CDS	270				hypothetical protein
+HOBOLHBA_01207	gene	825	mscS			
+HOBOLHBA_01207	CDS	825	mscS		COG0668	Small-conductance mechanosensitive channel
+HOBOLHBA_01208	gene	756				
+HOBOLHBA_01208	CDS	756				hypothetical protein
+HOBOLHBA_01209	gene	897				
+HOBOLHBA_01209	CDS	897				hypothetical protein
+HOBOLHBA_01210	gene	561				
+HOBOLHBA_01210	CDS	561				hypothetical protein
+HOBOLHBA_01211	gene	1158				
+HOBOLHBA_01211	CDS	1158				hypothetical protein
+HOBOLHBA_01212	gene	930	btuF			
+HOBOLHBA_01212	CDS	930	btuF			Vitamin B12-binding protein
+HOBOLHBA_01213	gene	90				
+HOBOLHBA_01213	CDS	90				hypothetical protein
+HOBOLHBA_01214	gene	1380				
+HOBOLHBA_01214	CDS	1380				hypothetical protein
+HOBOLHBA_01215	gene	843				
+HOBOLHBA_01215	CDS	843				hypothetical protein
+HOBOLHBA_01216	gene	360				
+HOBOLHBA_01216	CDS	360				hypothetical protein
+HOBOLHBA_01217	gene	921				
+HOBOLHBA_01217	CDS	921				hypothetical protein
+HOBOLHBA_01218	gene	186				
+HOBOLHBA_01218	CDS	186				hypothetical protein
+HOBOLHBA_01219	gene	1212	OLA1			
+HOBOLHBA_01219	CDS	1212	OLA1			Obg-like ATPase 1
+HOBOLHBA_01220	gene	366				
+HOBOLHBA_01220	CDS	366				hypothetical protein
+HOBOLHBA_01221	gene	423	yccU			
+HOBOLHBA_01221	CDS	423	yccU		COG1832	putative protein YccU
+HOBOLHBA_01222	gene	507				
+HOBOLHBA_01222	CDS	507				hypothetical protein
+HOBOLHBA_01223	gene	1008	birA			
+HOBOLHBA_01223	CDS	1008	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+HOBOLHBA_01224	gene	342				
+HOBOLHBA_01224	CDS	342				hypothetical protein
+HOBOLHBA_01225	gene	1416				
+HOBOLHBA_01225	CDS	1416				hypothetical protein
+HOBOLHBA_01226	gene	912				
+HOBOLHBA_01226	CDS	912				hypothetical protein
+HOBOLHBA_01227	gene	408	gpt			
+HOBOLHBA_01227	CDS	408	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+HOBOLHBA_01228	gene	393				
+HOBOLHBA_01228	CDS	393				hypothetical protein
+HOBOLHBA_01229	gene	498				
+HOBOLHBA_01229	CDS	498				hypothetical protein
+HOBOLHBA_01230	gene	1065	phaC			
+HOBOLHBA_01230	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+HOBOLHBA_01231	gene	429				
+HOBOLHBA_01231	CDS	429				hypothetical protein
+HOBOLHBA_01232	gene	417				
+HOBOLHBA_01232	CDS	417				hypothetical protein
+HOBOLHBA_01233	gene	831	carC			
+HOBOLHBA_01233	CDS	831	carC	3.7.1.13		2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoic acid hydrolase
+HOBOLHBA_01234	gene	432	nhaX_1			
+HOBOLHBA_01234	CDS	432	nhaX_1		COG0589	Stress response protein NhaX
+HOBOLHBA_01235	gene	456	msrA			
+HOBOLHBA_01235	CDS	456	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+HOBOLHBA_01236	gene	1047				
+HOBOLHBA_01236	CDS	1047				hypothetical protein
+HOBOLHBA_01237	gene	378				
+HOBOLHBA_01237	CDS	378				hypothetical protein
+HOBOLHBA_01238	gene	1173				
+HOBOLHBA_01238	CDS	1173				hypothetical protein
+HOBOLHBA_01239	gene	834	eryG			
+HOBOLHBA_01239	CDS	834	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+HOBOLHBA_01240	gene	132				
+HOBOLHBA_01240	CDS	132				hypothetical protein
+HOBOLHBA_01241	gene	486				
+HOBOLHBA_01241	CDS	486				hypothetical protein
+HOBOLHBA_01242	gene	714	gchK			
+HOBOLHBA_01242	CDS	714	gchK	2.7.13.3	COG0642	Globin-coupled histidine kinase
+HOBOLHBA_01243	gene	393	aer			
+HOBOLHBA_01243	CDS	393	aer		COG0840	Aerotaxis receptor
+HOBOLHBA_01244	gene	2970				
+HOBOLHBA_01244	rRNA	2970				23S ribosomal RNA
+HOBOLHBA_01245	gene	1465				
+HOBOLHBA_01245	rRNA	1465				16S ribosomal RNA
+HOBOLHBA_01246	gene	1305	hemL_3			
+HOBOLHBA_01246	CDS	1305	hemL_3	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+HOBOLHBA_01247	gene	306				
+HOBOLHBA_01247	CDS	306				hypothetical protein
+HOBOLHBA_01248	gene	120				
+HOBOLHBA_01248	CDS	120				hypothetical protein
+HOBOLHBA_01249	gene	225				
+HOBOLHBA_01249	CDS	225				hypothetical protein
+HOBOLHBA_01250	gene	432				
+HOBOLHBA_01250	CDS	432				hypothetical protein
+HOBOLHBA_01251	gene	855				
+HOBOLHBA_01251	CDS	855				hypothetical protein
+HOBOLHBA_01252	gene	1815				
+HOBOLHBA_01252	CDS	1815				hypothetical protein
+HOBOLHBA_01253	gene	612				
+HOBOLHBA_01253	CDS	612				hypothetical protein
+HOBOLHBA_01254	gene	606	cheB_4			
+HOBOLHBA_01254	CDS	606	cheB_4	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HOBOLHBA_01255	gene	156				
+HOBOLHBA_01255	CDS	156				hypothetical protein
+HOBOLHBA_01256	gene	105				
+HOBOLHBA_01256	CDS	105				hypothetical protein
+HOBOLHBA_01257	gene	1356				
+HOBOLHBA_01257	CDS	1356				hypothetical protein
+HOBOLHBA_01258	gene	594				
+HOBOLHBA_01258	CDS	594				hypothetical protein
+HOBOLHBA_01259	gene	1734				
+HOBOLHBA_01259	CDS	1734				hypothetical protein
+HOBOLHBA_01260	gene	2118				
+HOBOLHBA_01260	CDS	2118				hypothetical protein
+HOBOLHBA_01261	gene	2301				
+HOBOLHBA_01261	CDS	2301				hypothetical protein
+HOBOLHBA_01262	gene	342				
+HOBOLHBA_01262	CDS	342				hypothetical protein
+HOBOLHBA_01263	gene	222				
+HOBOLHBA_01263	CDS	222				hypothetical protein
+HOBOLHBA_01264	gene	300				
+HOBOLHBA_01264	CDS	300				hypothetical protein
+HOBOLHBA_01265	gene	483				
+HOBOLHBA_01265	CDS	483				hypothetical protein
+HOBOLHBA_01266	gene	150				
+HOBOLHBA_01266	CDS	150				hypothetical protein
+HOBOLHBA_01267	gene	459				
+HOBOLHBA_01267	CDS	459				hypothetical protein
+HOBOLHBA_01268	gene	2268				
+HOBOLHBA_01268	CDS	2268				hypothetical protein
+HOBOLHBA_01269	gene	450				
+HOBOLHBA_01269	CDS	450				hypothetical protein
+HOBOLHBA_01270	gene	1734				
+HOBOLHBA_01270	CDS	1734				hypothetical protein
+HOBOLHBA_01271	gene	1002				
+HOBOLHBA_01271	CDS	1002				hypothetical protein
+HOBOLHBA_01272	gene	1125				
+HOBOLHBA_01272	CDS	1125				hypothetical protein
+HOBOLHBA_01273	gene	1680				
+HOBOLHBA_01273	CDS	1680				hypothetical protein
+HOBOLHBA_01274	gene	465				
+HOBOLHBA_01274	CDS	465				hypothetical protein
+HOBOLHBA_01275	gene	477				
+HOBOLHBA_01275	CDS	477				hypothetical protein
+HOBOLHBA_01276	gene	603				
+HOBOLHBA_01276	CDS	603				hypothetical protein
+HOBOLHBA_01277	gene	963				
+HOBOLHBA_01277	CDS	963				hypothetical protein
+HOBOLHBA_01278	gene	663				
+HOBOLHBA_01278	CDS	663				hypothetical protein
+HOBOLHBA_01279	gene	330				
+HOBOLHBA_01279	CDS	330				hypothetical protein
+HOBOLHBA_01280	gene	168				
+HOBOLHBA_01280	CDS	168				hypothetical protein
+HOBOLHBA_01281	gene	267				
+HOBOLHBA_01281	CDS	267				hypothetical protein
+HOBOLHBA_01282	gene	681				
+HOBOLHBA_01282	CDS	681				hypothetical protein
+HOBOLHBA_01283	gene	228				
+HOBOLHBA_01283	CDS	228				hypothetical protein
+HOBOLHBA_01284	gene	495				
+HOBOLHBA_01284	CDS	495				hypothetical protein
+HOBOLHBA_01285	gene	1323				
+HOBOLHBA_01285	CDS	1323				hypothetical protein
+HOBOLHBA_01286	gene	621				
+HOBOLHBA_01286	CDS	621				hypothetical protein
+HOBOLHBA_01287	gene	642				
+HOBOLHBA_01287	CDS	642				hypothetical protein
+HOBOLHBA_01288	gene	1809				
+HOBOLHBA_01288	CDS	1809				hypothetical protein
+HOBOLHBA_01289	gene	789				
+HOBOLHBA_01289	CDS	789				hypothetical protein
+HOBOLHBA_01290	gene	216				
+HOBOLHBA_01290	CDS	216				hypothetical protein
+HOBOLHBA_01291	gene	987				
+HOBOLHBA_01291	CDS	987				hypothetical protein
+HOBOLHBA_01292	gene	852				
+HOBOLHBA_01292	CDS	852				hypothetical protein
+HOBOLHBA_01293	gene	270				
+HOBOLHBA_01293	CDS	270				hypothetical protein
+HOBOLHBA_01294	gene	1188	xerC			
+HOBOLHBA_01294	CDS	1188	xerC			Tyrosine recombinase XerC
+HOBOLHBA_01295	gene	822	cpoB			
+HOBOLHBA_01295	CDS	822	cpoB			Cell division coordinator CpoB
+HOBOLHBA_01296	gene	708				
+HOBOLHBA_01296	CDS	708				hypothetical protein
+HOBOLHBA_01297	gene	366				
+HOBOLHBA_01297	CDS	366				hypothetical protein
+HOBOLHBA_01298	gene	456				
+HOBOLHBA_01298	CDS	456				hypothetical protein
+HOBOLHBA_01299	gene	363				
+HOBOLHBA_01299	CDS	363				hypothetical protein
+HOBOLHBA_01300	gene	717	dnaJ_3			
+HOBOLHBA_01300	CDS	717	dnaJ_3			Chaperone protein DnaJ
+HOBOLHBA_01301	gene	408	hit_2			
+HOBOLHBA_01301	CDS	408	hit_2		COG0537	Protein hit
+HOBOLHBA_01302	gene	279				
+HOBOLHBA_01302	CDS	279				hypothetical protein
+HOBOLHBA_01303	gene	168				
+HOBOLHBA_01303	CDS	168				hypothetical protein
+HOBOLHBA_01304	gene	576				
+HOBOLHBA_01304	CDS	576		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+HOBOLHBA_01305	gene	1002				
+HOBOLHBA_01305	CDS	1002				hypothetical protein
+HOBOLHBA_01306	gene	1140	fadB			
+HOBOLHBA_01306	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+HOBOLHBA_01307	gene	510				
+HOBOLHBA_01307	CDS	510				hypothetical protein
+HOBOLHBA_01308	gene	411				
+HOBOLHBA_01308	CDS	411				hypothetical protein
+HOBOLHBA_01309	gene	198				
+HOBOLHBA_01309	CDS	198				hypothetical protein
+HOBOLHBA_01310	gene	204				
+HOBOLHBA_01310	CDS	204				hypothetical protein
+HOBOLHBA_01311	gene	309	rpsJ			
+HOBOLHBA_01311	CDS	309	rpsJ			30S ribosomal protein S10
+HOBOLHBA_01312	gene	1299	cysN			
+HOBOLHBA_01312	CDS	1299	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1
+HOBOLHBA_01313	gene	1143	fbp			
+HOBOLHBA_01313	CDS	1143	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+HOBOLHBA_01314	gene	411				
+HOBOLHBA_01314	CDS	411				hypothetical protein
+HOBOLHBA_01315	gene	1767	lig			
+HOBOLHBA_01315	CDS	1767	lig	6.5.1.1		DNA ligase
+HOBOLHBA_01316	gene	654				
+HOBOLHBA_01316	CDS	654				hypothetical protein
+HOBOLHBA_01317	gene	546				
+HOBOLHBA_01317	CDS	546				hypothetical protein
+HOBOLHBA_01318	gene	378				
+HOBOLHBA_01318	CDS	378				hypothetical protein
+HOBOLHBA_01319	gene	237				
+HOBOLHBA_01319	CDS	237				hypothetical protein
+HOBOLHBA_01320	gene	1773				
+HOBOLHBA_01320	CDS	1773				hypothetical protein
+HOBOLHBA_01321	gene	453				
+HOBOLHBA_01321	CDS	453				hypothetical protein
+HOBOLHBA_01322	gene	768	yfcA			
+HOBOLHBA_01322	CDS	768	yfcA		COG0730	putative membrane transporter protein YfcA
+HOBOLHBA_01323	gene	624				
+HOBOLHBA_01323	CDS	624				hypothetical protein
+HOBOLHBA_01324	gene	492				
+HOBOLHBA_01324	CDS	492				hypothetical protein
+HOBOLHBA_01325	gene	351				
+HOBOLHBA_01325	CDS	351				hypothetical protein
+HOBOLHBA_01326	gene	465	mntR_2			
+HOBOLHBA_01326	CDS	465	mntR_2		COG1321	HTH-type transcriptional regulator MntR
+HOBOLHBA_01327	gene	1833				
+HOBOLHBA_01327	CDS	1833				hypothetical protein
+HOBOLHBA_01328	gene	363	cheY_2			
+HOBOLHBA_01328	CDS	363	cheY_2		COG0784	Chemotaxis protein CheY
+HOBOLHBA_01329	gene	357				
+HOBOLHBA_01329	CDS	357				hypothetical protein
+HOBOLHBA_01330	gene	1878	rcsC			
+HOBOLHBA_01330	CDS	1878	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+HOBOLHBA_01331	gene	141				
+HOBOLHBA_01331	CDS	141				hypothetical protein
+HOBOLHBA_01332	gene	1422				
+HOBOLHBA_01332	CDS	1422				hypothetical protein
+HOBOLHBA_01333	gene	594	tmung			
+HOBOLHBA_01333	CDS	594	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+HOBOLHBA_01334	gene	558				
+HOBOLHBA_01334	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+HOBOLHBA_01335	gene	633				
+HOBOLHBA_01335	CDS	633				hypothetical protein
+HOBOLHBA_01336	gene	375				
+HOBOLHBA_01336	CDS	375				hypothetical protein
+HOBOLHBA_01337	gene	288				
+HOBOLHBA_01337	CDS	288				hypothetical protein
+HOBOLHBA_01338	gene	939	oppD			
+HOBOLHBA_01338	CDS	939	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+HOBOLHBA_01339	gene	513				
+HOBOLHBA_01339	CDS	513				hypothetical protein
+HOBOLHBA_01340	gene	1287	aspS2_2			
+HOBOLHBA_01340	CDS	1287	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+HOBOLHBA_01341	gene	156				
+HOBOLHBA_01341	CDS	156				hypothetical protein
+HOBOLHBA_01342	gene	249				
+HOBOLHBA_01342	CDS	249				hypothetical protein
+HOBOLHBA_01343	gene	276				
+HOBOLHBA_01343	CDS	276				hypothetical protein
+HOBOLHBA_01344	gene	759				
+HOBOLHBA_01344	CDS	759				hypothetical protein
+HOBOLHBA_01345	gene	384				
+HOBOLHBA_01345	CDS	384				hypothetical protein
+HOBOLHBA_01346	gene	144				
+HOBOLHBA_01346	CDS	144				hypothetical protein
+HOBOLHBA_01347	gene	1014	hicd			
+HOBOLHBA_01347	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+HOBOLHBA_01348	gene	1515	leuA			
+HOBOLHBA_01348	CDS	1515	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+HOBOLHBA_01349	gene	483	ilvH			
+HOBOLHBA_01349	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+HOBOLHBA_01350	gene	1698	ilvB			
+HOBOLHBA_01350	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+HOBOLHBA_01351	gene	399				
+HOBOLHBA_01351	CDS	399				hypothetical protein
+HOBOLHBA_01352	gene	972	lsrF			
+HOBOLHBA_01352	CDS	972	lsrF	2.3.1.245		3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+HOBOLHBA_01353	gene	1029	gutB			
+HOBOLHBA_01353	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+HOBOLHBA_01354	gene	294	atpF			
+HOBOLHBA_01354	CDS	294	atpF			V-type ATP synthase subunit F
+HOBOLHBA_01355	gene	300				
+HOBOLHBA_01355	CDS	300				hypothetical protein
+HOBOLHBA_01356	gene	252				
+HOBOLHBA_01356	CDS	252				hypothetical protein
+HOBOLHBA_01357	gene	303				
+HOBOLHBA_01357	CDS	303				hypothetical protein
+HOBOLHBA_01358	gene	750				
+HOBOLHBA_01358	CDS	750				hypothetical protein
+HOBOLHBA_01359	gene	453				
+HOBOLHBA_01359	CDS	453				hypothetical protein
+HOBOLHBA_01360	gene	1869	carB_1			
+HOBOLHBA_01360	CDS	1869	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HOBOLHBA_01361	gene	1392	carB_2			
+HOBOLHBA_01361	CDS	1392	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HOBOLHBA_01362	gene	1011	carA			
+HOBOLHBA_01362	CDS	1011	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+HOBOLHBA_01363	gene	1194	ftsH_2			
+HOBOLHBA_01363	CDS	1194	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOBOLHBA_01364	gene	486				
+HOBOLHBA_01364	CDS	486				hypothetical protein
+HOBOLHBA_01365	gene	576				
+HOBOLHBA_01365	CDS	576				hypothetical protein
+HOBOLHBA_01366	gene	1161				
+HOBOLHBA_01366	CDS	1161				hypothetical protein
+HOBOLHBA_01367	gene	150				
+HOBOLHBA_01367	CDS	150				hypothetical protein
+HOBOLHBA_01368	gene	108				
+HOBOLHBA_01368	CDS	108				hypothetical protein
+HOBOLHBA_01369	gene	600				
+HOBOLHBA_01369	CDS	600				hypothetical protein
+HOBOLHBA_01370	gene	456				
+HOBOLHBA_01370	CDS	456				hypothetical protein
+HOBOLHBA_01371	gene	825				
+HOBOLHBA_01371	CDS	825				hypothetical protein
+HOBOLHBA_01372	gene	369				
+HOBOLHBA_01372	CDS	369				hypothetical protein
+HOBOLHBA_01373	gene	1170				
+HOBOLHBA_01373	CDS	1170				hypothetical protein
+HOBOLHBA_01374	gene	192				
+HOBOLHBA_01374	CDS	192				hypothetical protein
+HOBOLHBA_01375	gene	1164	citZ			
+HOBOLHBA_01375	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+HOBOLHBA_01376	gene	261				
+HOBOLHBA_01376	CDS	261				hypothetical protein
+HOBOLHBA_01377	gene	225				
+HOBOLHBA_01377	CDS	225				hypothetical protein
+HOBOLHBA_01378	gene	1281	petE_2			
+HOBOLHBA_01378	CDS	1281	petE_2			Plastocyanin
+HOBOLHBA_01379	gene	1587	uvrC			
+HOBOLHBA_01379	CDS	1587	uvrC		COG0322	UvrABC system protein C
+HOBOLHBA_01380	gene	2820	uvrA			
+HOBOLHBA_01380	CDS	2820	uvrA			UvrABC system protein A
+HOBOLHBA_01381	gene	1953	uvrB			
+HOBOLHBA_01381	CDS	1953	uvrB			UvrABC system protein B
+HOBOLHBA_01382	gene	711				
+HOBOLHBA_01382	CDS	711				hypothetical protein
+HOBOLHBA_01383	gene	93				
+HOBOLHBA_01383	CDS	93				hypothetical protein
+HOBOLHBA_01384	gene	414				
+HOBOLHBA_01384	CDS	414				hypothetical protein
+HOBOLHBA_01385	gene	231				
+HOBOLHBA_01385	CDS	231				hypothetical protein
+HOBOLHBA_01386	gene	1107				
+HOBOLHBA_01386	CDS	1107		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+HOBOLHBA_01387	gene	945				
+HOBOLHBA_01387	CDS	945				hypothetical protein
+HOBOLHBA_01388	gene	1278				
+HOBOLHBA_01388	CDS	1278		2.7.1.165	COG2379	D-glycerate 2-kinase
+HOBOLHBA_01389	gene	132				
+HOBOLHBA_01389	CDS	132				hypothetical protein
+HOBOLHBA_01390	gene	237				
+HOBOLHBA_01390	CDS	237				hypothetical protein
+HOBOLHBA_01391	gene	963				
+HOBOLHBA_01391	CDS	963				hypothetical protein
+HOBOLHBA_01392	gene	576	purN			
+HOBOLHBA_01392	CDS	576	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+HOBOLHBA_01393	gene	321				
+HOBOLHBA_01393	CDS	321				hypothetical protein
+HOBOLHBA_01394	gene	285				
+HOBOLHBA_01394	CDS	285				hypothetical protein
+HOBOLHBA_01395	gene	864	folD			
+HOBOLHBA_01395	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+HOBOLHBA_01396	gene	564	yqgN			
+HOBOLHBA_01396	CDS	564	yqgN		COG0212	putative protein YqgN
+HOBOLHBA_01397	gene	1248	purD			
+HOBOLHBA_01397	CDS	1248	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+HOBOLHBA_01398	gene	3198	ileS			
+HOBOLHBA_01398	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+HOBOLHBA_01399	gene	585				
+HOBOLHBA_01399	CDS	585				hypothetical protein
+HOBOLHBA_01400	gene	330				
+HOBOLHBA_01400	CDS	330				hypothetical protein
+HOBOLHBA_01401	gene	1107	sucC			
+HOBOLHBA_01401	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+HOBOLHBA_01402	gene	918	sucD			
+HOBOLHBA_01402	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+HOBOLHBA_01403	gene	168				
+HOBOLHBA_01403	CDS	168				hypothetical protein
+HOBOLHBA_01404	gene	249				
+HOBOLHBA_01404	CDS	249				hypothetical protein
+HOBOLHBA_01405	gene	99				
+HOBOLHBA_01405	tRNA	99				tRNA-Val(cac)
+HOBOLHBA_01406	gene	900	sasA_4			
+HOBOLHBA_01406	CDS	900	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+HOBOLHBA_01407	gene	1044				
+HOBOLHBA_01407	CDS	1044				hypothetical protein
+HOBOLHBA_01408	gene	5121				
+HOBOLHBA_01408	CDS	5121				hypothetical protein
+HOBOLHBA_01409	gene	1134	bepA			
+HOBOLHBA_01409	CDS	1134	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+HOBOLHBA_01410	gene	849				
+HOBOLHBA_01410	CDS	849				hypothetical protein
+HOBOLHBA_01411	gene	132				
+HOBOLHBA_01411	CDS	132				hypothetical protein
+HOBOLHBA_01412	gene	423				
+HOBOLHBA_01412	CDS	423				hypothetical protein
+HOBOLHBA_01413	gene	540	ppa			
+HOBOLHBA_01413	CDS	540	ppa	3.6.1.1		Inorganic pyrophosphatase
+HOBOLHBA_01414	gene	255				
+HOBOLHBA_01414	CDS	255				hypothetical protein
+HOBOLHBA_01415	gene	561				
+HOBOLHBA_01415	CDS	561				hypothetical protein
+HOBOLHBA_01416	gene	948				
+HOBOLHBA_01416	CDS	948				hypothetical protein
+HOBOLHBA_01417	gene	951				
+HOBOLHBA_01417	CDS	951				hypothetical protein
+HOBOLHBA_01418	gene	825	pepF1			
+HOBOLHBA_01418	CDS	825	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+HOBOLHBA_01419	gene	573				
+HOBOLHBA_01419	CDS	573				hypothetical protein
+HOBOLHBA_01420	gene	1149				
+HOBOLHBA_01420	CDS	1149				hypothetical protein
+HOBOLHBA_01421	gene	552	pdaD			
+HOBOLHBA_01421	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+HOBOLHBA_01422	gene	231				
+HOBOLHBA_01422	CDS	231				hypothetical protein
+HOBOLHBA_01423	gene	74				
+HOBOLHBA_01423	tRNA	74				tRNA-Thr(tgt)
+HOBOLHBA_01424	gene	795				
+HOBOLHBA_01424	CDS	795				hypothetical protein
+HOBOLHBA_01425	gene	1314	deaD			
+HOBOLHBA_01425	CDS	1314	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+HOBOLHBA_01426	gene	234				
+HOBOLHBA_01426	CDS	234				hypothetical protein
+HOBOLHBA_01427	gene	147				
+HOBOLHBA_01427	CDS	147				hypothetical protein
+HOBOLHBA_01428	gene	792				
+HOBOLHBA_01428	CDS	792				hypothetical protein
+HOBOLHBA_01429	gene	435				
+HOBOLHBA_01429	CDS	435				Putative universal stress protein
+HOBOLHBA_01430	gene	432				
+HOBOLHBA_01430	CDS	432				Putative universal stress protein
+HOBOLHBA_01431	gene	1338	gltP_1			
+HOBOLHBA_01431	CDS	1338	gltP_1		COG1301	Proton/glutamate-aspartate symporter
+HOBOLHBA_01432	gene	801				
+HOBOLHBA_01432	CDS	801				hypothetical protein
+HOBOLHBA_01433	gene	150				
+HOBOLHBA_01433	CDS	150				hypothetical protein
+HOBOLHBA_01434	gene	183				
+HOBOLHBA_01434	CDS	183				hypothetical protein
+HOBOLHBA_01435	gene	546				
+HOBOLHBA_01435	CDS	546				hypothetical protein
+HOBOLHBA_01436	gene	219				
+HOBOLHBA_01436	CDS	219				hypothetical protein
+HOBOLHBA_01437	gene	1713				
+HOBOLHBA_01437	CDS	1713				hypothetical protein
+HOBOLHBA_01438	gene	1335				
+HOBOLHBA_01438	CDS	1335				hypothetical protein
+HOBOLHBA_01439	gene	375				
+HOBOLHBA_01439	CDS	375				hypothetical protein
+HOBOLHBA_01440	gene	108				
+HOBOLHBA_01440	CDS	108				hypothetical protein
+HOBOLHBA_01441	gene	534				
+HOBOLHBA_01441	CDS	534				hypothetical protein
+HOBOLHBA_01442	gene	1350	petE_3			
+HOBOLHBA_01442	CDS	1350	petE_3			Plastocyanin
+HOBOLHBA_01443	gene	1704				
+HOBOLHBA_01443	CDS	1704				hypothetical protein
+HOBOLHBA_01444	gene	339				
+HOBOLHBA_01444	CDS	339				hypothetical protein
+HOBOLHBA_01445	gene	405				
+HOBOLHBA_01445	CDS	405				hypothetical protein
+HOBOLHBA_01446	gene	1890				
+HOBOLHBA_01446	CDS	1890				hypothetical protein
+HOBOLHBA_01447	gene	144				
+HOBOLHBA_01447	CDS	144				hypothetical protein
+HOBOLHBA_01448	gene	201				
+HOBOLHBA_01448	CDS	201				hypothetical protein
+HOBOLHBA_01449	gene	237				
+HOBOLHBA_01449	CDS	237				hypothetical protein
+HOBOLHBA_01450	gene	144				
+HOBOLHBA_01450	CDS	144				hypothetical protein
+HOBOLHBA_01451	gene	363				
+HOBOLHBA_01451	CDS	363				hypothetical protein
+HOBOLHBA_01452	gene	1800				
+HOBOLHBA_01452	CDS	1800				hypothetical protein
+HOBOLHBA_01453	gene	237				
+HOBOLHBA_01453	CDS	237				hypothetical protein
+HOBOLHBA_01454	gene	510				
+HOBOLHBA_01454	CDS	510				hypothetical protein
+HOBOLHBA_01455	gene	357				
+HOBOLHBA_01455	CDS	357				hypothetical protein
+HOBOLHBA_01456	gene	765				
+HOBOLHBA_01456	CDS	765				hypothetical protein
+HOBOLHBA_01457	gene	882				
+HOBOLHBA_01457	CDS	882				hypothetical protein
+HOBOLHBA_01458	gene	1518				
+HOBOLHBA_01458	CDS	1518				hypothetical protein
+HOBOLHBA_01459	gene	291				
+HOBOLHBA_01459	CDS	291				hypothetical protein
+HOBOLHBA_01460	gene	690				
+HOBOLHBA_01460	CDS	690				hypothetical protein
+HOBOLHBA_01461	gene	462				
+HOBOLHBA_01461	CDS	462				hypothetical protein
+HOBOLHBA_01462	gene	351				
+HOBOLHBA_01462	CDS	351				hypothetical protein
+HOBOLHBA_01463	gene	93				
+HOBOLHBA_01463	CDS	93				hypothetical protein
+HOBOLHBA_01464	gene	321				
+HOBOLHBA_01464	CDS	321				hypothetical protein
+HOBOLHBA_01465	gene	2028				
+HOBOLHBA_01465	CDS	2028				hypothetical protein
+HOBOLHBA_01466	gene	234				
+HOBOLHBA_01466	CDS	234				hypothetical protein
+HOBOLHBA_01467	gene	1035	adhT			
+HOBOLHBA_01467	CDS	1035	adhT	1.1.1.1		Alcohol dehydrogenase
+HOBOLHBA_01468	gene	237				
+HOBOLHBA_01468	CDS	237				hypothetical protein
+HOBOLHBA_01469	gene	498				
+HOBOLHBA_01469	CDS	498				hypothetical protein
+HOBOLHBA_01470	gene	249				
+HOBOLHBA_01470	CDS	249				hypothetical protein
+HOBOLHBA_01471	gene	687				
+HOBOLHBA_01471	CDS	687				hypothetical protein
+HOBOLHBA_01472	gene	204				
+HOBOLHBA_01472	CDS	204				hypothetical protein
+HOBOLHBA_01473	gene	216				
+HOBOLHBA_01473	CDS	216				hypothetical protein
+HOBOLHBA_01474	gene	1197	truD			
+HOBOLHBA_01474	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+HOBOLHBA_01475	gene	1605	vgb_2			
+HOBOLHBA_01475	CDS	1605	vgb_2	4.2.99.-		Virginiamycin B lyase
+HOBOLHBA_01476	gene	354				
+HOBOLHBA_01476	CDS	354				hypothetical protein
+HOBOLHBA_01477	gene	804				
+HOBOLHBA_01477	CDS	804				hypothetical protein
+HOBOLHBA_01478	gene	1122				
+HOBOLHBA_01478	CDS	1122				hypothetical protein
+HOBOLHBA_01479	gene	282				
+HOBOLHBA_01479	CDS	282				hypothetical protein
+HOBOLHBA_01480	gene	2142	ftsH_3			
+HOBOLHBA_01480	CDS	2142	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOBOLHBA_01481	gene	297				
+HOBOLHBA_01481	CDS	297				hypothetical protein
+HOBOLHBA_01482	gene	888	ctaB_2			
+HOBOLHBA_01482	CDS	888	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+HOBOLHBA_01483	gene	1092	petE_4			
+HOBOLHBA_01483	CDS	1092	petE_4			Plastocyanin
+HOBOLHBA_01484	gene	390				
+HOBOLHBA_01484	CDS	390				hypothetical protein
+HOBOLHBA_01485	gene	396				
+HOBOLHBA_01485	CDS	396				hypothetical protein
+HOBOLHBA_01486	gene	141				
+HOBOLHBA_01486	CDS	141				hypothetical protein
+HOBOLHBA_01487	gene	402				
+HOBOLHBA_01487	CDS	402				hypothetical protein
+HOBOLHBA_01488	gene	258				
+HOBOLHBA_01488	CDS	258				hypothetical protein
+HOBOLHBA_01489	gene	183				
+HOBOLHBA_01489	CDS	183				hypothetical protein
+HOBOLHBA_01490	gene	2040	hppA			
+HOBOLHBA_01490	CDS	2040	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+HOBOLHBA_01491	gene	378				
+HOBOLHBA_01491	CDS	378				hypothetical protein
+HOBOLHBA_01492	gene	465				
+HOBOLHBA_01492	CDS	465				hypothetical protein
+HOBOLHBA_01493	gene	1119	apbC			
+HOBOLHBA_01493	CDS	1119	apbC		COG0489	Iron-sulfur cluster carrier protein
+HOBOLHBA_01494	gene	597	rnr			
+HOBOLHBA_01494	CDS	597	rnr	3.1.13.1		Ribonuclease R
+HOBOLHBA_01495	gene	189				
+HOBOLHBA_01495	CDS	189				hypothetical protein
+HOBOLHBA_01496	gene	816	nadC			
+HOBOLHBA_01496	CDS	816	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+HOBOLHBA_01497	gene	402				
+HOBOLHBA_01497	CDS	402				hypothetical protein
+HOBOLHBA_01498	gene	957	nadA			
+HOBOLHBA_01498	CDS	957	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+HOBOLHBA_01499	gene	819	nadX			
+HOBOLHBA_01499	CDS	819	nadX	1.4.1.21		L-aspartate dehydrogenase
+HOBOLHBA_01500	gene	135				
+HOBOLHBA_01500	CDS	135				hypothetical protein
+HOBOLHBA_01501	gene	264				
+HOBOLHBA_01501	CDS	264				hypothetical protein
+HOBOLHBA_01502	gene	570				
+HOBOLHBA_01502	CDS	570				hypothetical protein
+HOBOLHBA_01503	gene	987				
+HOBOLHBA_01503	CDS	987				hypothetical protein
+HOBOLHBA_01504	gene	837				
+HOBOLHBA_01504	CDS	837				hypothetical protein
+HOBOLHBA_01505	gene	1533				
+HOBOLHBA_01505	CDS	1533				hypothetical protein
+HOBOLHBA_01506	gene	1143				
+HOBOLHBA_01506	CDS	1143				hypothetical protein
+HOBOLHBA_01507	gene	1284	smc_2			
+HOBOLHBA_01507	CDS	1284	smc_2			Chromosome partition protein Smc
+HOBOLHBA_01508	gene	786				
+HOBOLHBA_01508	CDS	786				hypothetical protein
+HOBOLHBA_01509	gene	588				
+HOBOLHBA_01509	CDS	588				hypothetical protein
+HOBOLHBA_01510	gene	405				
+HOBOLHBA_01510	CDS	405				hypothetical protein
+HOBOLHBA_01511	gene	405				
+HOBOLHBA_01511	CDS	405				hypothetical protein
+HOBOLHBA_01512	gene	1284	petE_5			
+HOBOLHBA_01512	CDS	1284	petE_5			Plastocyanin
+HOBOLHBA_01513	gene	489				
+HOBOLHBA_01513	CDS	489				hypothetical protein
+HOBOLHBA_01514	gene	666				
+HOBOLHBA_01514	CDS	666				hypothetical protein
+HOBOLHBA_01515	gene	552				
+HOBOLHBA_01515	CDS	552				hypothetical protein
+HOBOLHBA_01516	gene	456				
+HOBOLHBA_01516	CDS	456				hypothetical protein
+HOBOLHBA_01517	gene	222				
+HOBOLHBA_01517	CDS	222				hypothetical protein
+HOBOLHBA_01518	gene	660				
+HOBOLHBA_01518	CDS	660				hypothetical protein
+HOBOLHBA_01519	gene	516				
+HOBOLHBA_01519	CDS	516				hypothetical protein
+HOBOLHBA_01520	gene	843				
+HOBOLHBA_01520	CDS	843				hypothetical protein
+HOBOLHBA_01521	gene	933				
+HOBOLHBA_01521	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+HOBOLHBA_01522	gene	1413				
+HOBOLHBA_01522	CDS	1413				hypothetical protein
+HOBOLHBA_01523	gene	1362	aspA			
+HOBOLHBA_01523	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+HOBOLHBA_01524	gene	1269	miaB			
+HOBOLHBA_01524	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+HOBOLHBA_01525	gene	951	ftsZ			
+HOBOLHBA_01525	CDS	951	ftsZ			Cell division protein FtsZ
+HOBOLHBA_01526	gene	342				
+HOBOLHBA_01526	CDS	342				hypothetical protein
+HOBOLHBA_01527	gene	159				
+HOBOLHBA_01527	CDS	159				hypothetical protein
+HOBOLHBA_01528	gene	549	nudL			
+HOBOLHBA_01528	CDS	549	nudL	3.6.1.-		putative Nudix hydrolase NudL
+HOBOLHBA_01529	gene	738				
+HOBOLHBA_01529	CDS	738				hypothetical protein
+HOBOLHBA_01530	gene	2499	metH_1			
+HOBOLHBA_01530	CDS	2499	metH_1	2.1.1.13	COG0646	Methionine synthase
+HOBOLHBA_01531	gene	963	metH_2			
+HOBOLHBA_01531	CDS	963	metH_2	2.1.1.13	COG0646	Methionine synthase
+HOBOLHBA_01532	gene	1101				
+HOBOLHBA_01532	CDS	1101				hypothetical protein
+HOBOLHBA_01533	gene	3207				
+HOBOLHBA_01533	CDS	3207				hypothetical protein
+HOBOLHBA_01534	gene	759	ssuC			
+HOBOLHBA_01534	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+HOBOLHBA_01535	gene	765	tauB			
+HOBOLHBA_01535	CDS	765	tauB	7.6.2.7	COG4525	Taurine import ATP-binding protein TauB
+HOBOLHBA_01536	gene	288				
+HOBOLHBA_01536	CDS	288				hypothetical protein
+HOBOLHBA_01537	gene	729				
+HOBOLHBA_01537	CDS	729				hypothetical protein
+HOBOLHBA_01538	gene	1200	argG			
+HOBOLHBA_01538	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+HOBOLHBA_01539	gene	168				
+HOBOLHBA_01539	CDS	168				hypothetical protein
+HOBOLHBA_01540	gene	858	lysX_1			
+HOBOLHBA_01540	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HOBOLHBA_01541	gene	1047	argC			
+HOBOLHBA_01541	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+HOBOLHBA_01542	gene	804	lysZ			
+HOBOLHBA_01542	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+HOBOLHBA_01543	gene	1182	lysJ			
+HOBOLHBA_01543	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+HOBOLHBA_01544	gene	420	lrpC_2			
+HOBOLHBA_01544	CDS	420	lrpC_2		COG1522	HTH-type transcriptional regulator LrpC
+HOBOLHBA_01545	gene	1167	frbC			
+HOBOLHBA_01545	CDS	1167	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+HOBOLHBA_01546	gene	168				
+HOBOLHBA_01546	CDS	168				hypothetical protein
+HOBOLHBA_01547	gene	843	lysX_2			
+HOBOLHBA_01547	CDS	843	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+HOBOLHBA_01548	gene	1125	lysK			
+HOBOLHBA_01548	CDS	1125	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+HOBOLHBA_01549	gene	810				
+HOBOLHBA_01549	CDS	810				hypothetical protein
+HOBOLHBA_01550	gene	231				
+HOBOLHBA_01550	CDS	231				hypothetical protein
+HOBOLHBA_01551	gene	585	hldE			
+HOBOLHBA_01551	CDS	585	hldE	2.7.7.70		Bifunctional protein HldE
+HOBOLHBA_01552	gene	684				
+HOBOLHBA_01552	CDS	684				hypothetical protein
+HOBOLHBA_01553	gene	1143				
+HOBOLHBA_01553	CDS	1143				hypothetical protein
+HOBOLHBA_01554	gene	351	erpA			
+HOBOLHBA_01554	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+HOBOLHBA_01555	gene	402	hrp1_2			
+HOBOLHBA_01555	CDS	402	hrp1_2		COG0517	Hypoxic response protein 1
+HOBOLHBA_01556	gene	600				
+HOBOLHBA_01556	CDS	600				hypothetical protein
+HOBOLHBA_01557	gene	342				
+HOBOLHBA_01557	CDS	342				hypothetical protein
+HOBOLHBA_01558	gene	525	petE_6			
+HOBOLHBA_01558	CDS	525	petE_6			Plastocyanin
+HOBOLHBA_01559	gene	762	crt			
+HOBOLHBA_01559	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+HOBOLHBA_01560	gene	2118				
+HOBOLHBA_01560	CDS	2118				hypothetical protein
+HOBOLHBA_01561	gene	684				
+HOBOLHBA_01561	CDS	684				hypothetical protein
+HOBOLHBA_01562	gene	141				
+HOBOLHBA_01562	CDS	141				hypothetical protein
+HOBOLHBA_01563	gene	378				
+HOBOLHBA_01563	CDS	378				hypothetical protein
+HOBOLHBA_01564	gene	1275	gdhA			
+HOBOLHBA_01564	CDS	1275	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+HOBOLHBA_01565	gene	384				
+HOBOLHBA_01565	CDS	384				hypothetical protein
+HOBOLHBA_01566	gene	723	prcA_2			
+HOBOLHBA_01566	CDS	723	prcA_2			Proteasome subunit alpha
+HOBOLHBA_01567	gene	690	menG_2			
+HOBOLHBA_01567	CDS	690	menG_2	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+HOBOLHBA_01568	gene	1155	ycaD			
+HOBOLHBA_01568	CDS	1155	ycaD			putative MFS-type transporter YcaD
+HOBOLHBA_01569	gene	315	glnB_1			
+HOBOLHBA_01569	CDS	315	glnB_1		COG0347	Nitrogen regulatory protein P-II
+HOBOLHBA_01570	gene	348	tatA_2			
+HOBOLHBA_01570	CDS	348	tatA_2			Sec-independent protein translocase protein TatA
+HOBOLHBA_01571	gene	816	yhdJ			
+HOBOLHBA_01571	CDS	816	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+HOBOLHBA_01572	gene	2448	dbpA_4			
+HOBOLHBA_01572	CDS	2448	dbpA_4	3.6.4.13		ATP-dependent RNA helicase DbpA
+HOBOLHBA_01573	gene	831				
+HOBOLHBA_01573	CDS	831				hypothetical protein
+HOBOLHBA_01574	gene	1668				
+HOBOLHBA_01574	CDS	1668				hypothetical protein
+HOBOLHBA_01575	gene	1023				
+HOBOLHBA_01575	CDS	1023				hypothetical protein
+HOBOLHBA_01576	gene	303				
+HOBOLHBA_01576	CDS	303				hypothetical protein
+HOBOLHBA_01577	gene	930				
+HOBOLHBA_01577	CDS	930				hypothetical protein
+HOBOLHBA_01578	gene	123				
+HOBOLHBA_01578	CDS	123				hypothetical protein
+HOBOLHBA_01579	gene	132				
+HOBOLHBA_01579	CDS	132				hypothetical protein
+HOBOLHBA_01580	gene	111				
+HOBOLHBA_01580	CDS	111				hypothetical protein
+HOBOLHBA_01581	gene	93				
+HOBOLHBA_01581	CDS	93				hypothetical protein
+HOBOLHBA_01582	gene	249				
+HOBOLHBA_01582	CDS	249				hypothetical protein
+HOBOLHBA_01583	gene	129				
+HOBOLHBA_01583	CDS	129				hypothetical protein
+HOBOLHBA_01584	gene	264				
+HOBOLHBA_01584	CDS	264				hypothetical protein
+HOBOLHBA_01585	gene	750				
+HOBOLHBA_01585	CDS	750				hypothetical protein
+HOBOLHBA_01586	gene	393				
+HOBOLHBA_01586	CDS	393				hypothetical protein
+HOBOLHBA_01587	gene	1323	gltP_2			
+HOBOLHBA_01587	CDS	1323	gltP_2		COG1301	Proton/glutamate-aspartate symporter
+HOBOLHBA_01588	gene	255				
+HOBOLHBA_01588	CDS	255				hypothetical protein
+HOBOLHBA_01589	gene	747				
+HOBOLHBA_01589	CDS	747				hypothetical protein
+HOBOLHBA_01590	gene	465				
+HOBOLHBA_01590	CDS	465				hypothetical protein
+HOBOLHBA_01591	gene	420				
+HOBOLHBA_01591	CDS	420				hypothetical protein
+HOBOLHBA_01592	gene	771				
+HOBOLHBA_01592	CDS	771				hypothetical protein
+HOBOLHBA_01593	gene	1632	ggt			
+HOBOLHBA_01593	CDS	1632	ggt	3.4.19.13		Glutathione hydrolase proenzyme
+HOBOLHBA_01594	gene	804				
+HOBOLHBA_01594	CDS	804				hypothetical protein
+HOBOLHBA_01595	gene	1647	zntB			
+HOBOLHBA_01595	CDS	1647	zntB			Zinc transport protein ZntB
+HOBOLHBA_01596	gene	165				
+HOBOLHBA_01596	CDS	165				hypothetical protein
+HOBOLHBA_01597	gene	2169	ddl			
+HOBOLHBA_01597	CDS	2169	ddl	6.3.2.4		D-alanine--D-alanine ligase
+HOBOLHBA_01598	gene	801				
+HOBOLHBA_01598	CDS	801				hypothetical protein
+HOBOLHBA_01599	gene	609				
+HOBOLHBA_01599	CDS	609				hypothetical protein
+HOBOLHBA_01600	gene	459				
+HOBOLHBA_01600	CDS	459				hypothetical protein
+HOBOLHBA_01601	gene	1029				
+HOBOLHBA_01601	CDS	1029				hypothetical protein
+HOBOLHBA_01602	gene	1332				
+HOBOLHBA_01602	CDS	1332				hypothetical protein
+HOBOLHBA_01603	gene	1326				
+HOBOLHBA_01603	CDS	1326				hypothetical protein
+HOBOLHBA_01604	gene	1323				
+HOBOLHBA_01604	CDS	1323				hypothetical protein
+HOBOLHBA_01605	gene	180				
+HOBOLHBA_01605	CDS	180				hypothetical protein
+HOBOLHBA_01606	gene	1605	kefB			
+HOBOLHBA_01606	CDS	1605	kefB			Glutathione-regulated potassium-efflux system protein KefB
+HOBOLHBA_01607	gene	420				
+HOBOLHBA_01607	CDS	420				hypothetical protein
+HOBOLHBA_01608	gene	828				
+HOBOLHBA_01608	CDS	828				hypothetical protein
+HOBOLHBA_01609	gene	300				
+HOBOLHBA_01609	CDS	300				hypothetical protein
+HOBOLHBA_01610	gene	477				
+HOBOLHBA_01610	CDS	477				hypothetical protein
+HOBOLHBA_01611	gene	870				
+HOBOLHBA_01611	CDS	870				hypothetical protein
+HOBOLHBA_01612	gene	816				
+HOBOLHBA_01612	CDS	816				hypothetical protein
+HOBOLHBA_01613	gene	366				
+HOBOLHBA_01613	CDS	366				hypothetical protein
+HOBOLHBA_01614	gene	819				
+HOBOLHBA_01614	CDS	819				hypothetical protein
+HOBOLHBA_01615	gene	171				
+HOBOLHBA_01615	CDS	171				hypothetical protein
+HOBOLHBA_01616	gene	162				
+HOBOLHBA_01616	CDS	162				hypothetical protein
+HOBOLHBA_01617	gene	87				
+HOBOLHBA_01617	tRNA	87				tRNA-Ser(gct)
+HOBOLHBA_01618	gene	747	cpdA			
+HOBOLHBA_01618	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+HOBOLHBA_01619	gene	1032	icd			
+HOBOLHBA_01619	CDS	1032	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+HOBOLHBA_01620	gene	552				
+HOBOLHBA_01620	CDS	552				hypothetical protein
+HOBOLHBA_01621	gene	708	rsmA			
+HOBOLHBA_01621	CDS	708	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+HOBOLHBA_01622	gene	567				
+HOBOLHBA_01622	CDS	567				hypothetical protein
+HOBOLHBA_01623	gene	327				
+HOBOLHBA_01623	CDS	327				hypothetical protein
+HOBOLHBA_01624	gene	300				
+HOBOLHBA_01624	CDS	300				hypothetical protein
+HOBOLHBA_01625	gene	1062	rlmN			
+HOBOLHBA_01625	CDS	1062	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+HOBOLHBA_01626	gene	1188	recA_2			
+HOBOLHBA_01626	CDS	1188	recA_2			Protein RecA
+HOBOLHBA_01627	gene	183				
+HOBOLHBA_01627	CDS	183				hypothetical protein
+HOBOLHBA_01628	gene	1734				
+HOBOLHBA_01628	CDS	1734				hypothetical protein
+HOBOLHBA_01629	gene	813	pyrK			
+HOBOLHBA_01629	CDS	813	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HOBOLHBA_01630	gene	912	pyrD			
+HOBOLHBA_01630	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+HOBOLHBA_01631	gene	1299				
+HOBOLHBA_01631	CDS	1299				hypothetical protein
+HOBOLHBA_01632	gene	465				
+HOBOLHBA_01632	CDS	465				hypothetical protein
+HOBOLHBA_01633	gene	2094				
+HOBOLHBA_01633	CDS	2094				hypothetical protein
+HOBOLHBA_01634	gene	2136				
+HOBOLHBA_01634	CDS	2136				hypothetical protein
+HOBOLHBA_01635	gene	513	apt			
+HOBOLHBA_01635	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+HOBOLHBA_01636	gene	792	mtnP			
+HOBOLHBA_01636	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+HOBOLHBA_01637	gene	285				
+HOBOLHBA_01637	CDS	285				hypothetical protein
+HOBOLHBA_01638	gene	399				
+HOBOLHBA_01638	CDS	399				hypothetical protein
+HOBOLHBA_01639	gene	354				
+HOBOLHBA_01639	CDS	354				hypothetical protein
+HOBOLHBA_01640	gene	219				
+HOBOLHBA_01640	CDS	219				hypothetical protein
+HOBOLHBA_01641	gene	141				
+HOBOLHBA_01641	CDS	141				hypothetical protein
+HOBOLHBA_01642	gene	336	glnB_2			
+HOBOLHBA_01642	CDS	336	glnB_2		COG0347	Nitrogen regulatory protein P-II
+HOBOLHBA_01643	gene	432	nhaX_2			
+HOBOLHBA_01643	CDS	432	nhaX_2		COG0589	Stress response protein NhaX
+HOBOLHBA_01644	gene	525				
+HOBOLHBA_01644	CDS	525				hypothetical protein
+HOBOLHBA_01645	gene	2004				
+HOBOLHBA_01645	CDS	2004				hypothetical protein
+HOBOLHBA_01646	gene	1713	ureC			
+HOBOLHBA_01646	CDS	1713	ureC	3.5.1.5		Urease subunit alpha
+HOBOLHBA_01647	gene	289				
+HOBOLHBA_01647	misc_RNA	289				5_ureB_sRNA
+HOBOLHBA_01648	gene	369	ureB			
+HOBOLHBA_01648	CDS	369	ureB	3.5.1.5		Urease subunit beta
+HOBOLHBA_01649	gene	303	ureA			
+HOBOLHBA_01649	CDS	303	ureA	3.5.1.5		Urease subunit gamma
+HOBOLHBA_01650	gene	486	ureE			
+HOBOLHBA_01650	CDS	486	ureE			Urease accessory protein UreE
+HOBOLHBA_01651	gene	708	ureF			
+HOBOLHBA_01651	CDS	708	ureF		COG0830	Urease accessory protein UreF
+HOBOLHBA_01652	gene	657	ureG			
+HOBOLHBA_01652	CDS	657	ureG		COG0378	Urease accessory protein UreG
+HOBOLHBA_01653	gene	927	ureD			
+HOBOLHBA_01653	CDS	927	ureD		COG0829	Urease accessory protein UreD
+HOBOLHBA_01654	gene	741				
+HOBOLHBA_01654	CDS	741				hypothetical protein
+HOBOLHBA_01655	gene	180				
+HOBOLHBA_01655	CDS	180				hypothetical protein
+HOBOLHBA_01656	gene	1074				
+HOBOLHBA_01656	CDS	1074				hypothetical protein
+HOBOLHBA_01657	gene	393				
+HOBOLHBA_01657	CDS	393				hypothetical protein
+HOBOLHBA_01658	gene	2310				
+HOBOLHBA_01658	CDS	2310				hypothetical protein
+HOBOLHBA_01659	gene	540				
+HOBOLHBA_01659	CDS	540				hypothetical protein
+HOBOLHBA_01660	gene	852	noc_2			
+HOBOLHBA_01660	CDS	852	noc_2			Nucleoid occlusion protein
+HOBOLHBA_01661	gene	105				
+HOBOLHBA_01661	CDS	105				hypothetical protein
+HOBOLHBA_01662	gene	384				
+HOBOLHBA_01662	CDS	384				hypothetical protein
+HOBOLHBA_01663	gene	1335				
+HOBOLHBA_01663	CDS	1335				hypothetical protein
+HOBOLHBA_01664	gene	150				
+HOBOLHBA_01664	CDS	150				hypothetical protein
+HOBOLHBA_01665	gene	459				
+HOBOLHBA_01665	CDS	459				hypothetical protein
+HOBOLHBA_01666	gene	1122	TOP6A			
+HOBOLHBA_01666	CDS	1122	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+HOBOLHBA_01667	gene	1869	TOP6B			
+HOBOLHBA_01667	CDS	1869	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+HOBOLHBA_01668	gene	573				
+HOBOLHBA_01668	CDS	573				hypothetical protein
+HOBOLHBA_01669	gene	780				
+HOBOLHBA_01669	CDS	780				hypothetical protein
+HOBOLHBA_01670	gene	297				
+HOBOLHBA_01670	CDS	297				hypothetical protein
+HOBOLHBA_01671	gene	438				
+HOBOLHBA_01671	CDS	438				hypothetical protein
+HOBOLHBA_01672	gene	147				
+HOBOLHBA_01672	CDS	147				hypothetical protein
+HOBOLHBA_01673	gene	501				
+HOBOLHBA_01673	CDS	501				hypothetical protein
+HOBOLHBA_01674	gene	1146				
+HOBOLHBA_01674	CDS	1146				hypothetical protein
+HOBOLHBA_01675	gene	729				
+HOBOLHBA_01675	CDS	729		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+HOBOLHBA_01676	gene	420	rppH			
+HOBOLHBA_01676	CDS	420	rppH	3.6.1.-		RNA pyrophosphohydrolase
+HOBOLHBA_01677	gene	741	pyrF			
+HOBOLHBA_01677	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+HOBOLHBA_01678	gene	681				
+HOBOLHBA_01678	CDS	681				hypothetical protein
+HOBOLHBA_01679	gene	1002	purA			
+HOBOLHBA_01679	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+HOBOLHBA_01680	gene	462				
+HOBOLHBA_01680	CDS	462				hypothetical protein
+HOBOLHBA_01681	gene	282				
+HOBOLHBA_01681	CDS	282				hypothetical protein
+HOBOLHBA_01682	gene	225				
+HOBOLHBA_01682	CDS	225				hypothetical protein
+HOBOLHBA_01683	gene	645				
+HOBOLHBA_01683	CDS	645				hypothetical protein
+HOBOLHBA_01684	gene	288				
+HOBOLHBA_01684	CDS	288				hypothetical protein
+HOBOLHBA_01685	gene	126				
+HOBOLHBA_01685	CDS	126				hypothetical protein
+HOBOLHBA_01686	gene	597	ywlC			
+HOBOLHBA_01686	CDS	597	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+HOBOLHBA_01687	gene	522				
+HOBOLHBA_01687	CDS	522				hypothetical protein
+HOBOLHBA_01688	gene	774				
+HOBOLHBA_01688	CDS	774				hypothetical protein
+HOBOLHBA_01689	gene	363				
+HOBOLHBA_01689	CDS	363				hypothetical protein
+HOBOLHBA_01690	gene	819	yjjV			
+HOBOLHBA_01690	CDS	819	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+HOBOLHBA_01691	gene	222				
+HOBOLHBA_01691	CDS	222				hypothetical protein
+HOBOLHBA_01692	gene	72				
+HOBOLHBA_01692	tRNA	72				tRNA-Cys(gca)
+HOBOLHBA_01693	gene	1752				
+HOBOLHBA_01693	CDS	1752				hypothetical protein
+HOBOLHBA_01694	gene	168				
+HOBOLHBA_01694	CDS	168				hypothetical protein
+HOBOLHBA_01695	gene	591				
+HOBOLHBA_01695	CDS	591				hypothetical protein
+HOBOLHBA_01696	gene	282				
+HOBOLHBA_01696	CDS	282				hypothetical protein
+HOBOLHBA_01697	gene	213				
+HOBOLHBA_01697	CDS	213				hypothetical protein
+HOBOLHBA_01698	gene	186				
+HOBOLHBA_01698	CDS	186				hypothetical protein
+HOBOLHBA_01699	gene	783				
+HOBOLHBA_01699	CDS	783				hypothetical protein
+HOBOLHBA_01700	gene	1764				
+HOBOLHBA_01700	CDS	1764				hypothetical protein
+HOBOLHBA_01701	gene	1242				
+HOBOLHBA_01701	CDS	1242				hypothetical protein
+HOBOLHBA_01702	gene	465				
+HOBOLHBA_01702	CDS	465				hypothetical protein
+HOBOLHBA_01703	gene	576				
+HOBOLHBA_01703	CDS	576				hypothetical protein
+HOBOLHBA_01704	gene	159				
+HOBOLHBA_01704	CDS	159				hypothetical protein
+HOBOLHBA_01705	gene	534				
+HOBOLHBA_01705	CDS	534				hypothetical protein
+HOBOLHBA_01706	gene	267				
+HOBOLHBA_01706	CDS	267				hypothetical protein
+HOBOLHBA_01707	gene	2031				
+HOBOLHBA_01707	CDS	2031				hypothetical protein
+HOBOLHBA_01708	gene	672				
+HOBOLHBA_01708	CDS	672				hypothetical protein
+HOBOLHBA_01709	gene	294				
+HOBOLHBA_01709	CDS	294				hypothetical protein
+HOBOLHBA_01710	gene	990				
+HOBOLHBA_01710	CDS	990				IS1595 family transposase ISCco3
+HOBOLHBA_01711	gene	426				
+HOBOLHBA_01711	CDS	426				hypothetical protein
+HOBOLHBA_01712	gene	585				
+HOBOLHBA_01712	CDS	585				hypothetical protein
+HOBOLHBA_01713	gene	74				
+HOBOLHBA_01713	tRNA	74				tRNA-Thr(cgt)
+HOBOLHBA_01714	gene	1299	glmM			
+HOBOLHBA_01714	CDS	1299	glmM	5.4.2.10		Phosphoglucosamine mutase
+HOBOLHBA_01715	gene	948	thiL			
+HOBOLHBA_01715	CDS	948	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+HOBOLHBA_01716	gene	321				
+HOBOLHBA_01716	CDS	321				hypothetical protein
+HOBOLHBA_01717	gene	504				
+HOBOLHBA_01717	CDS	504				hypothetical protein
+HOBOLHBA_01718	gene	312				
+HOBOLHBA_01718	CDS	312				hypothetical protein
+HOBOLHBA_01719	gene	201				
+HOBOLHBA_01719	CDS	201				hypothetical protein
+HOBOLHBA_01720	gene	141				
+HOBOLHBA_01720	CDS	141				hypothetical protein
+HOBOLHBA_01721	gene	1437	rtcB			
+HOBOLHBA_01721	CDS	1437	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+HOBOLHBA_01722	gene	156				
+HOBOLHBA_01722	CDS	156				hypothetical protein
+HOBOLHBA_01723	gene	201				
+HOBOLHBA_01723	CDS	201				hypothetical protein
+HOBOLHBA_01724	gene	372				
+HOBOLHBA_01724	CDS	372				hypothetical protein
+HOBOLHBA_01725	gene	153				
+HOBOLHBA_01725	CDS	153				hypothetical protein
+HOBOLHBA_01726	gene	309				
+HOBOLHBA_01726	CDS	309				hypothetical protein
+HOBOLHBA_01727	gene	426				
+HOBOLHBA_01727	CDS	426				hypothetical protein
+HOBOLHBA_01728	gene	462	IMPDH_6			
+HOBOLHBA_01728	CDS	462	IMPDH_6	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_01729	gene	222				
+HOBOLHBA_01729	CDS	222				hypothetical protein
+HOBOLHBA_01730	gene	1362	purB			
+HOBOLHBA_01730	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+HOBOLHBA_01731	gene	756				
+HOBOLHBA_01731	CDS	756				hypothetical protein
+HOBOLHBA_01732	gene	279	phhB			
+HOBOLHBA_01732	CDS	279	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+HOBOLHBA_01733	gene	816				
+HOBOLHBA_01733	CDS	816				hypothetical protein
+HOBOLHBA_01734	gene	2316	valS_2			
+HOBOLHBA_01734	CDS	2316	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+HOBOLHBA_01735	gene	423				
+HOBOLHBA_01735	CDS	423				hypothetical protein
+HOBOLHBA_01736	gene	735				
+HOBOLHBA_01736	CDS	735				hypothetical protein
+HOBOLHBA_01737	gene	303				
+HOBOLHBA_01737	CDS	303				hypothetical protein
+HOBOLHBA_01738	gene	387				
+HOBOLHBA_01738	CDS	387				hypothetical protein
+HOBOLHBA_01739	gene	321				
+HOBOLHBA_01739	CDS	321				hypothetical protein
+HOBOLHBA_01740	gene	177				
+HOBOLHBA_01740	CDS	177				hypothetical protein
+HOBOLHBA_01741	gene	360				
+HOBOLHBA_01741	CDS	360				hypothetical protein
+HOBOLHBA_01742	gene	213				
+HOBOLHBA_01742	CDS	213				hypothetical protein
+HOBOLHBA_01743	gene	240				
+HOBOLHBA_01743	CDS	240				hypothetical protein
+HOBOLHBA_01744	gene	546				
+HOBOLHBA_01744	CDS	546				hypothetical protein
+HOBOLHBA_01745	gene	714				
+HOBOLHBA_01745	CDS	714				hypothetical protein
+HOBOLHBA_01746	gene	444	lrpC_3			
+HOBOLHBA_01746	CDS	444	lrpC_3		COG1522	HTH-type transcriptional regulator LrpC
+HOBOLHBA_01747	gene	300				
+HOBOLHBA_01747	CDS	300				hypothetical protein
+HOBOLHBA_01748	gene	153				
+HOBOLHBA_01748	CDS	153				hypothetical protein
+HOBOLHBA_01749	gene	222				
+HOBOLHBA_01749	CDS	222				hypothetical protein
+HOBOLHBA_01750	gene	369				
+HOBOLHBA_01750	CDS	369				hypothetical protein
+HOBOLHBA_01751	gene	372				
+HOBOLHBA_01751	CDS	372				hypothetical protein
+HOBOLHBA_01752	gene	873	fadM			
+HOBOLHBA_01752	CDS	873	fadM	1.5.5.2		Proline dehydrogenase 1
+HOBOLHBA_01753	gene	1572	putC			
+HOBOLHBA_01753	CDS	1572	putC	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 2
+HOBOLHBA_01754	gene	849	speB_2			
+HOBOLHBA_01754	CDS	849	speB_2	3.5.3.11	COG0010	Agmatinase
+HOBOLHBA_01755	gene	240				
+HOBOLHBA_01755	CDS	240				hypothetical protein
+HOBOLHBA_01756	gene	291				
+HOBOLHBA_01756	CDS	291				hypothetical protein
+HOBOLHBA_01757	gene	618	pdxT			
+HOBOLHBA_01757	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+HOBOLHBA_01758	gene	969	pdxS			
+HOBOLHBA_01758	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+HOBOLHBA_01759	gene	534				
+HOBOLHBA_01759	CDS	534				hypothetical protein
+HOBOLHBA_01760	gene	77				
+HOBOLHBA_01760	tRNA	77				tRNA-Trp(cca)
+HOBOLHBA_01761	gene	2265	acnA			
+HOBOLHBA_01761	CDS	2265	acnA	4.2.1.3		Aconitate hydratase A
+HOBOLHBA_01762	gene	633				
+HOBOLHBA_01762	CDS	633				hypothetical protein
+HOBOLHBA_01763	gene	567				
+HOBOLHBA_01763	CDS	567				hypothetical protein
+HOBOLHBA_01764	gene	240				
+HOBOLHBA_01764	CDS	240				hypothetical protein
+HOBOLHBA_01765	gene	420				
+HOBOLHBA_01765	CDS	420				hypothetical protein
+HOBOLHBA_01766	gene	1647				
+HOBOLHBA_01766	CDS	1647				hypothetical protein
+HOBOLHBA_01767	gene	1389				
+HOBOLHBA_01767	CDS	1389				hypothetical protein
+HOBOLHBA_01768	gene	1113				
+HOBOLHBA_01768	CDS	1113				hypothetical protein
+HOBOLHBA_01769	gene	282				
+HOBOLHBA_01769	CDS	282				hypothetical protein
+HOBOLHBA_01770	gene	345				
+HOBOLHBA_01770	CDS	345				hypothetical protein
+HOBOLHBA_01771	gene	162				
+HOBOLHBA_01771	CDS	162				hypothetical protein
+HOBOLHBA_01772	gene	330				
+HOBOLHBA_01772	CDS	330				hypothetical protein
+HOBOLHBA_01773	gene	477				
+HOBOLHBA_01773	CDS	477				hypothetical protein
+HOBOLHBA_01774	gene	687				
+HOBOLHBA_01774	CDS	687				hypothetical protein
+HOBOLHBA_01775	gene	1068				
+HOBOLHBA_01775	CDS	1068				hypothetical protein
+HOBOLHBA_01776	gene	102				
+HOBOLHBA_01776	CDS	102				hypothetical protein
+HOBOLHBA_01777	gene	75				
+HOBOLHBA_01777	tRNA	75				tRNA-Ala(tgc)
+HOBOLHBA_01778	gene	555	resA			
+HOBOLHBA_01778	CDS	555	resA			Thiol-disulfide oxidoreductase ResA
+HOBOLHBA_01779	gene	77				
+HOBOLHBA_01779	tRNA	77				tRNA-Ile(gat)
+HOBOLHBA_01780	gene	894				
+HOBOLHBA_01780	CDS	894				hypothetical protein
+HOBOLHBA_01781	gene	441				
+HOBOLHBA_01781	CDS	441				hypothetical protein
+HOBOLHBA_01782	gene	75				
+HOBOLHBA_01782	tRNA	75				tRNA-Thr(ggt)
+HOBOLHBA_01783	gene	861	dpnM			
+HOBOLHBA_01783	CDS	861	dpnM	2.1.1.72		Modification methylase DpnIIA
+HOBOLHBA_01784	gene	651				
+HOBOLHBA_01784	CDS	651				hypothetical protein
+HOBOLHBA_01785	gene	363				
+HOBOLHBA_01785	CDS	363				hypothetical protein
+HOBOLHBA_01786	gene	564				
+HOBOLHBA_01786	CDS	564				hypothetical protein
+HOBOLHBA_01787	gene	570				
+HOBOLHBA_01787	CDS	570				hypothetical protein
+HOBOLHBA_01788	gene	315				
+HOBOLHBA_01788	CDS	315				hypothetical protein
+HOBOLHBA_01789	gene	531				
+HOBOLHBA_01789	CDS	531				hypothetical protein
+HOBOLHBA_01790	gene	270				
+HOBOLHBA_01790	CDS	270				hypothetical protein
+HOBOLHBA_01791	gene	333				
+HOBOLHBA_01791	CDS	333				hypothetical protein
+HOBOLHBA_01792	gene	450				
+HOBOLHBA_01792	CDS	450				hypothetical protein
+HOBOLHBA_01793	gene	1422				
+HOBOLHBA_01793	CDS	1422				hypothetical protein
+HOBOLHBA_01794	gene	243				
+HOBOLHBA_01794	CDS	243				hypothetical protein
+HOBOLHBA_01795	gene	1266	serS			
+HOBOLHBA_01795	CDS	1266	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+HOBOLHBA_01796	gene	612				
+HOBOLHBA_01796	CDS	612				hypothetical protein
+HOBOLHBA_01797	gene	429				
+HOBOLHBA_01797	CDS	429				hypothetical protein
+HOBOLHBA_01798	gene	1464				
+HOBOLHBA_01798	CDS	1464				hypothetical protein
+HOBOLHBA_01799	gene	846	nirQ			
+HOBOLHBA_01799	CDS	846	nirQ		COG0714	Denitrification regulatory protein NirQ
+HOBOLHBA_01800	gene	1563				
+HOBOLHBA_01800	CDS	1563				hypothetical protein
+HOBOLHBA_01801	gene	1542				
+HOBOLHBA_01801	CDS	1542				hypothetical protein
+HOBOLHBA_01802	gene	456				
+HOBOLHBA_01802	CDS	456				hypothetical protein
+HOBOLHBA_01803	gene	564				
+HOBOLHBA_01803	CDS	564				hypothetical protein
+HOBOLHBA_01804	gene	222				
+HOBOLHBA_01804	CDS	222				hypothetical protein
+HOBOLHBA_01805	gene	588				
+HOBOLHBA_01805	CDS	588				hypothetical protein
+HOBOLHBA_01806	gene	360				
+HOBOLHBA_01806	CDS	360				hypothetical protein
+HOBOLHBA_01807	gene	381				
+HOBOLHBA_01807	CDS	381				hypothetical protein
+HOBOLHBA_01808	gene	267				
+HOBOLHBA_01808	CDS	267				hypothetical protein
+HOBOLHBA_01809	gene	342	glnB_3			
+HOBOLHBA_01809	CDS	342	glnB_3		COG0347	Nitrogen regulatory protein P-II
+HOBOLHBA_01810	gene	240				
+HOBOLHBA_01810	CDS	240				hypothetical protein
+HOBOLHBA_01811	gene	960	dusB			
+HOBOLHBA_01811	CDS	960	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+HOBOLHBA_01812	gene	2172				
+HOBOLHBA_01812	CDS	2172				hypothetical protein
+HOBOLHBA_01813	gene	2172				
+HOBOLHBA_01813	CDS	2172				hypothetical protein
+HOBOLHBA_01814	gene	2379				
+HOBOLHBA_01814	CDS	2379				hypothetical protein
+HOBOLHBA_01815	gene	1029				
+HOBOLHBA_01815	CDS	1029				hypothetical protein
+HOBOLHBA_01816	gene	549				
+HOBOLHBA_01816	CDS	549		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+HOBOLHBA_01817	gene	621				
+HOBOLHBA_01817	CDS	621				hypothetical protein
+HOBOLHBA_01818	gene	327				
+HOBOLHBA_01818	CDS	327				hypothetical protein
+HOBOLHBA_01819	gene	984	tsaD			
+HOBOLHBA_01819	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+HOBOLHBA_01820	gene	1188	ychF			
+HOBOLHBA_01820	CDS	1188	ychF		COG0012	Ribosome-binding ATPase YchF
+HOBOLHBA_01821	gene	549				
+HOBOLHBA_01821	CDS	549				hypothetical protein
+HOBOLHBA_01822	gene	1512	QTRT1			
+HOBOLHBA_01822	CDS	1512	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+HOBOLHBA_01823	gene	303	ndhI_1			
+HOBOLHBA_01823	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HOBOLHBA_01824	gene	213				
+HOBOLHBA_01824	CDS	213				hypothetical protein
+HOBOLHBA_01825	gene	1266				
+HOBOLHBA_01825	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+HOBOLHBA_01826	gene	861				
+HOBOLHBA_01826	CDS	861				hypothetical protein
+HOBOLHBA_01827	gene	76				
+HOBOLHBA_01827	tRNA	76				tRNA-Arg(tct)
+HOBOLHBA_01828	gene	351				
+HOBOLHBA_01828	CDS	351				hypothetical protein
+HOBOLHBA_01829	gene	462				
+HOBOLHBA_01829	CDS	462				hypothetical protein
+HOBOLHBA_01830	gene	1593	petB			
+HOBOLHBA_01830	CDS	1593	petB			Cytochrome b6
+HOBOLHBA_01831	gene	606				
+HOBOLHBA_01831	CDS	606				hypothetical protein
+HOBOLHBA_01832	gene	3798				
+HOBOLHBA_01832	CDS	3798				hypothetical protein
+HOBOLHBA_01833	gene	933				
+HOBOLHBA_01833	CDS	933				hypothetical protein
+HOBOLHBA_01834	gene	5103				
+HOBOLHBA_01834	CDS	5103				hypothetical protein
+HOBOLHBA_01835	gene	339	galE_1			
+HOBOLHBA_01835	CDS	339	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+HOBOLHBA_01836	gene	597	fcf1			
+HOBOLHBA_01836	CDS	597	fcf1	1.1.1.266		dTDP-4-dehydro-6-deoxyglucose reductase
+HOBOLHBA_01837	gene	876	arnC_3			
+HOBOLHBA_01837	CDS	876	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HOBOLHBA_01838	gene	516				
+HOBOLHBA_01838	CDS	516				hypothetical protein
+HOBOLHBA_01839	gene	132				
+HOBOLHBA_01839	CDS	132				hypothetical protein
+HOBOLHBA_01840	gene	342	glnB_4			
+HOBOLHBA_01840	CDS	342	glnB_4		COG0347	Nitrogen regulatory protein P-II
+HOBOLHBA_01841	gene	804				
+HOBOLHBA_01841	CDS	804				hypothetical protein
+HOBOLHBA_01842	gene	615				
+HOBOLHBA_01842	CDS	615				hypothetical protein
+HOBOLHBA_01843	gene	561				
+HOBOLHBA_01843	CDS	561				hypothetical protein
+HOBOLHBA_01844	gene	1440				
+HOBOLHBA_01844	CDS	1440				hypothetical protein
+HOBOLHBA_01845	gene	1122				
+HOBOLHBA_01845	CDS	1122				hypothetical protein
+HOBOLHBA_01846	gene	1827				
+HOBOLHBA_01846	CDS	1827				hypothetical protein
+HOBOLHBA_01847	gene	6843				
+HOBOLHBA_01847	CDS	6843				hypothetical protein
+HOBOLHBA_01848	gene	600	lpxD			
+HOBOLHBA_01848	CDS	600	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+HOBOLHBA_01849	gene	510	rmlA			
+HOBOLHBA_01849	CDS	510	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+HOBOLHBA_01850	gene	873	rmlD_2			
+HOBOLHBA_01850	CDS	873	rmlD_2	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+HOBOLHBA_01851	gene	996	rffG			
+HOBOLHBA_01851	CDS	996	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+HOBOLHBA_01852	gene	564	rmlC			
+HOBOLHBA_01852	CDS	564	rmlC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+HOBOLHBA_01853	gene	1074	wbpI_2			
+HOBOLHBA_01853	CDS	1074	wbpI_2	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HOBOLHBA_01854	gene	957				
+HOBOLHBA_01854	CDS	957				hypothetical protein
+HOBOLHBA_01855	gene	1242				
+HOBOLHBA_01855	CDS	1242				hypothetical protein
+HOBOLHBA_01856	gene	372				
+HOBOLHBA_01856	CDS	372				hypothetical protein
+HOBOLHBA_01857	gene	114				
+HOBOLHBA_01857	CDS	114				hypothetical protein
+HOBOLHBA_01858	gene	384				
+HOBOLHBA_01858	CDS	384				hypothetical protein
+HOBOLHBA_01859	gene	678				
+HOBOLHBA_01859	CDS	678				hypothetical protein
+HOBOLHBA_01860	gene	666				
+HOBOLHBA_01860	CDS	666				hypothetical protein
+HOBOLHBA_01861	gene	414				
+HOBOLHBA_01861	CDS	414				hypothetical protein
+HOBOLHBA_01862	gene	489				
+HOBOLHBA_01862	CDS	489		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+HOBOLHBA_01863	gene	1332	edcC			
+HOBOLHBA_01863	CDS	1332	edcC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+HOBOLHBA_01864	gene	312				
+HOBOLHBA_01864	CDS	312				hypothetical protein
+HOBOLHBA_01865	gene	453				
+HOBOLHBA_01865	CDS	453				hypothetical protein
+HOBOLHBA_01866	gene	411				
+HOBOLHBA_01866	CDS	411				hypothetical protein
+HOBOLHBA_01867	gene	336				
+HOBOLHBA_01867	CDS	336				hypothetical protein
+HOBOLHBA_01868	gene	216				
+HOBOLHBA_01868	CDS	216				hypothetical protein
+HOBOLHBA_01869	gene	342				
+HOBOLHBA_01869	CDS	342				hypothetical protein
+HOBOLHBA_01870	gene	474				
+HOBOLHBA_01870	CDS	474				hypothetical protein
+HOBOLHBA_01871	gene	1047				
+HOBOLHBA_01871	CDS	1047				hypothetical protein
+HOBOLHBA_01872	gene	1122	hflX			
+HOBOLHBA_01872	CDS	1122	hflX		COG2262	GTPase HflX
+HOBOLHBA_01873	gene	534				
+HOBOLHBA_01873	CDS	534				hypothetical protein
+HOBOLHBA_01874	gene	516				
+HOBOLHBA_01874	CDS	516				hypothetical protein
+HOBOLHBA_01875	gene	1404	aldh			
+HOBOLHBA_01875	CDS	1404	aldh	1.2.1.3		Aldehyde dehydrogenase
+HOBOLHBA_01876	gene	297				
+HOBOLHBA_01876	CDS	297				hypothetical protein
+HOBOLHBA_01877	gene	558				
+HOBOLHBA_01877	CDS	558				hypothetical protein
+HOBOLHBA_01878	gene	270				
+HOBOLHBA_01878	CDS	270				hypothetical protein
+HOBOLHBA_01879	gene	657	ribD2			
+HOBOLHBA_01879	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+HOBOLHBA_01880	gene	1191	atzA			
+HOBOLHBA_01880	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+HOBOLHBA_01881	gene	753				
+HOBOLHBA_01881	CDS	753				hypothetical protein
+HOBOLHBA_01882	gene	417	ribH			
+HOBOLHBA_01882	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+HOBOLHBA_01883	gene	666	ribBA			
+HOBOLHBA_01883	CDS	666	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+HOBOLHBA_01884	gene	600	ribE			
+HOBOLHBA_01884	CDS	600	ribE	2.5.1.9	COG0307	Riboflavin synthase
+HOBOLHBA_01885	gene	702				
+HOBOLHBA_01885	CDS	702				hypothetical protein
+HOBOLHBA_01886	gene	144				
+HOBOLHBA_01886	CDS	144				hypothetical protein
+HOBOLHBA_01887	gene	390	cheY_3			
+HOBOLHBA_01887	CDS	390	cheY_3		COG0784	Chemotaxis protein CheY
+HOBOLHBA_01888	gene	603				
+HOBOLHBA_01888	CDS	603				hypothetical protein
+HOBOLHBA_01889	gene	390				
+HOBOLHBA_01889	CDS	390				hypothetical protein
+HOBOLHBA_01890	gene	354	mcl2			
+HOBOLHBA_01890	CDS	354	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+HOBOLHBA_01891	gene	1080	ccr_2			
+HOBOLHBA_01891	CDS	1080	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+HOBOLHBA_01892	gene	282				
+HOBOLHBA_01892	CDS	282				hypothetical protein
+HOBOLHBA_01893	gene	453				
+HOBOLHBA_01893	CDS	453				hypothetical protein
+HOBOLHBA_01894	gene	459				
+HOBOLHBA_01894	CDS	459				hypothetical protein
+HOBOLHBA_01895	gene	285				
+HOBOLHBA_01895	CDS	285				hypothetical protein
+HOBOLHBA_01896	gene	483				
+HOBOLHBA_01896	CDS	483				hypothetical protein
+HOBOLHBA_01897	gene	675				
+HOBOLHBA_01897	CDS	675				hypothetical protein
+HOBOLHBA_01898	gene	201				
+HOBOLHBA_01898	CDS	201				hypothetical protein
+HOBOLHBA_01899	gene	105				
+HOBOLHBA_01899	CDS	105				hypothetical protein
+HOBOLHBA_01900	gene	336				
+HOBOLHBA_01900	CDS	336				hypothetical protein
+HOBOLHBA_01901	gene	315				
+HOBOLHBA_01901	CDS	315				hypothetical protein
+HOBOLHBA_01902	gene	174				
+HOBOLHBA_01902	CDS	174				hypothetical protein
+HOBOLHBA_01903	gene	534				
+HOBOLHBA_01903	CDS	534				hypothetical protein
+HOBOLHBA_01904	gene	312				
+HOBOLHBA_01904	CDS	312				hypothetical protein
+HOBOLHBA_01905	gene	1479				
+HOBOLHBA_01905	CDS	1479				hypothetical protein
+HOBOLHBA_01906	gene	303				
+HOBOLHBA_01906	CDS	303				hypothetical protein
+HOBOLHBA_01907	gene	76				
+HOBOLHBA_01907	tRNA	76				tRNA-Gly(tcc)
+HOBOLHBA_01908	gene	672				
+HOBOLHBA_01908	CDS	672				hypothetical protein
+HOBOLHBA_01909	gene	1116				
+HOBOLHBA_01909	CDS	1116				hypothetical protein
+HOBOLHBA_01910	gene	2652				
+HOBOLHBA_01910	CDS	2652				hypothetical protein
+HOBOLHBA_01911	gene	2187				
+HOBOLHBA_01911	CDS	2187				hypothetical protein
+HOBOLHBA_01912	gene	162				
+HOBOLHBA_01912	CDS	162				hypothetical protein
+HOBOLHBA_01913	gene	366				
+HOBOLHBA_01913	CDS	366				hypothetical protein
+HOBOLHBA_01914	gene	1164	fadA			
+HOBOLHBA_01914	CDS	1164	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+HOBOLHBA_01915	gene	465				
+HOBOLHBA_01915	CDS	465				hypothetical protein
+HOBOLHBA_01916	gene	807	ybeM			
+HOBOLHBA_01916	CDS	807	ybeM	3.5.1.128		Deaminated glutathione amidase
+HOBOLHBA_01917	gene	177				
+HOBOLHBA_01917	CDS	177				hypothetical protein
+HOBOLHBA_01918	gene	759				
+HOBOLHBA_01918	CDS	759				hypothetical protein
+HOBOLHBA_01919	gene	1602				
+HOBOLHBA_01919	CDS	1602				hypothetical protein
+HOBOLHBA_01920	gene	207				
+HOBOLHBA_01920	CDS	207				hypothetical protein
+HOBOLHBA_01921	gene	1707				
+HOBOLHBA_01921	CDS	1707				hypothetical protein
+HOBOLHBA_01922	gene	822				
+HOBOLHBA_01922	CDS	822				hypothetical protein
+HOBOLHBA_01923	gene	804				
+HOBOLHBA_01923	CDS	804				hypothetical protein
+HOBOLHBA_01924	gene	630				
+HOBOLHBA_01924	CDS	630				hypothetical protein
+HOBOLHBA_01925	gene	2784	vgb_3			
+HOBOLHBA_01925	CDS	2784	vgb_3	4.2.99.-		Virginiamycin B lyase
+HOBOLHBA_01926	gene	819	znuB			
+HOBOLHBA_01926	CDS	819	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+HOBOLHBA_01927	gene	723	mntB			
+HOBOLHBA_01927	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+HOBOLHBA_01928	gene	915	znuA			
+HOBOLHBA_01928	CDS	915	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+HOBOLHBA_01929	gene	384	nikR			
+HOBOLHBA_01929	CDS	384	nikR			Nickel-responsive regulator
+HOBOLHBA_01930	gene	1359				
+HOBOLHBA_01930	CDS	1359				hypothetical protein
+HOBOLHBA_01931	gene	711				
+HOBOLHBA_01931	CDS	711				hypothetical protein
+HOBOLHBA_01932	gene	930	pyrB			
+HOBOLHBA_01932	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HOBOLHBA_01933	gene	462	pyrI			
+HOBOLHBA_01933	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+HOBOLHBA_01934	gene	306	atpH			
+HOBOLHBA_01934	CDS	306	atpH			ATP synthase subunit c
+HOBOLHBA_01935	gene	132				
+HOBOLHBA_01935	CDS	132				hypothetical protein
+HOBOLHBA_01936	gene	633	ntpD			
+HOBOLHBA_01936	CDS	633	ntpD			V-type sodium ATPase subunit D
+HOBOLHBA_01937	gene	1386	ntpB			
+HOBOLHBA_01937	CDS	1386	ntpB			V-type sodium ATPase subunit B
+HOBOLHBA_01938	gene	1779	atpA			
+HOBOLHBA_01938	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+HOBOLHBA_01939	gene	618	atpE			
+HOBOLHBA_01939	CDS	618	atpE			V-type proton ATPase subunit E
+HOBOLHBA_01940	gene	2100				
+HOBOLHBA_01940	CDS	2100				hypothetical protein
+HOBOLHBA_01941	gene	165				
+HOBOLHBA_01941	CDS	165				hypothetical protein
+HOBOLHBA_01942	gene	795				
+HOBOLHBA_01942	CDS	795				hypothetical protein
+HOBOLHBA_01943	gene	441				
+HOBOLHBA_01943	CDS	441				hypothetical protein
+HOBOLHBA_01944	gene	168				
+HOBOLHBA_01944	CDS	168				hypothetical protein
+HOBOLHBA_01945	gene	777	rhdA_2			
+HOBOLHBA_01945	CDS	777	rhdA_2	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+HOBOLHBA_01946	gene	243				
+HOBOLHBA_01946	CDS	243				hypothetical protein
+HOBOLHBA_01947	gene	1563	amt			
+HOBOLHBA_01947	CDS	1563	amt			Ammonia channel
+HOBOLHBA_01948	gene	669				
+HOBOLHBA_01948	CDS	669				hypothetical protein
+HOBOLHBA_01949	gene	1038	atpC			
+HOBOLHBA_01949	CDS	1038	atpC			V-type ATP synthase subunit C
+HOBOLHBA_01950	gene	234				
+HOBOLHBA_01950	CDS	234				hypothetical protein
+HOBOLHBA_01951	gene	651				
+HOBOLHBA_01951	CDS	651				hypothetical protein
+HOBOLHBA_01952	gene	111				
+HOBOLHBA_01952	CDS	111				hypothetical protein
+HOBOLHBA_01953	gene	561				
+HOBOLHBA_01953	CDS	561				hypothetical protein
+HOBOLHBA_01954	gene	354				
+HOBOLHBA_01954	CDS	354				hypothetical protein
+HOBOLHBA_01955	gene	684	pyrH			
+HOBOLHBA_01955	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+HOBOLHBA_01956	gene	1236				
+HOBOLHBA_01956	CDS	1236				hypothetical protein
+HOBOLHBA_01957	gene	603	tmk			
+HOBOLHBA_01957	CDS	603	tmk	2.7.4.9	COG0125	Thymidylate kinase
+HOBOLHBA_01958	gene	381				
+HOBOLHBA_01958	CDS	381				hypothetical protein
+HOBOLHBA_01959	gene	1545	ubiB			
+HOBOLHBA_01959	CDS	1545	ubiB	2.7.-.-		protein kinase UbiB
+HOBOLHBA_01960	gene	384				
+HOBOLHBA_01960	CDS	384				hypothetical protein
+HOBOLHBA_01961	gene	198				
+HOBOLHBA_01961	CDS	198				hypothetical protein
+HOBOLHBA_01962	gene	333				
+HOBOLHBA_01962	CDS	333				hypothetical protein
+HOBOLHBA_01963	gene	1302				
+HOBOLHBA_01963	CDS	1302				hypothetical protein
+HOBOLHBA_01964	gene	549	lolD			
+HOBOLHBA_01964	CDS	549	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+HOBOLHBA_01965	gene	1188				
+HOBOLHBA_01965	CDS	1188				hypothetical protein
+HOBOLHBA_01966	gene	903				
+HOBOLHBA_01966	CDS	903				hypothetical protein
+HOBOLHBA_01967	gene	144				
+HOBOLHBA_01967	CDS	144				hypothetical protein
+HOBOLHBA_01968	gene	270	act			
+HOBOLHBA_01968	CDS	270	act	3.-.-.-		Methanol dehydrogenase activator
+HOBOLHBA_01969	gene	981				
+HOBOLHBA_01969	CDS	981				hypothetical protein
+HOBOLHBA_01970	gene	915	thrB_3			
+HOBOLHBA_01970	CDS	915	thrB_3	2.7.1.39		Homoserine kinase
+HOBOLHBA_01971	gene	765				
+HOBOLHBA_01971	CDS	765				hypothetical protein
+HOBOLHBA_01972	gene	783	panB			
+HOBOLHBA_01972	CDS	783	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+HOBOLHBA_01973	gene	1251	coaBC			
+HOBOLHBA_01973	CDS	1251	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+HOBOLHBA_01974	gene	180				
+HOBOLHBA_01974	CDS	180				hypothetical protein
+HOBOLHBA_01975	gene	843	COQ5			
+HOBOLHBA_01975	CDS	843	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+HOBOLHBA_01976	gene	486				
+HOBOLHBA_01976	CDS	486				hypothetical protein
+HOBOLHBA_01977	gene	1065	pepE			
+HOBOLHBA_01977	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+HOBOLHBA_01978	gene	1014	thiI_1			
+HOBOLHBA_01978	CDS	1014	thiI_1	2.8.1.4		tRNA sulfurtransferase
+HOBOLHBA_01979	gene	279				
+HOBOLHBA_01979	CDS	279				hypothetical protein
+HOBOLHBA_01980	gene	1941	rnj			
+HOBOLHBA_01980	CDS	1941	rnj	3.1.-.-		Ribonuclease J
+HOBOLHBA_01981	gene	633	prcB_2			
+HOBOLHBA_01981	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+HOBOLHBA_01982	gene	1029	egsA			
+HOBOLHBA_01982	CDS	1029	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+HOBOLHBA_01983	gene	747				
+HOBOLHBA_01983	CDS	747				hypothetical protein
+HOBOLHBA_01984	gene	1131				
+HOBOLHBA_01984	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+HOBOLHBA_01985	gene	495				
+HOBOLHBA_01985	CDS	495				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+HOBOLHBA_01986	gene	1023	rtcA			
+HOBOLHBA_01986	CDS	1023	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+HOBOLHBA_01987	gene	498				
+HOBOLHBA_01987	CDS	498				hypothetical protein
+HOBOLHBA_01988	gene	495				
+HOBOLHBA_01988	CDS	495				hypothetical protein
+HOBOLHBA_01989	gene	75				
+HOBOLHBA_01989	tRNA	75				tRNA-Val(gac)
+HOBOLHBA_01990	gene	711	bluB			
+HOBOLHBA_01990	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+HOBOLHBA_01991	gene	543				
+HOBOLHBA_01991	CDS	543		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+HOBOLHBA_01992	gene	474				
+HOBOLHBA_01992	CDS	474				hypothetical protein
+HOBOLHBA_01993	gene	228				
+HOBOLHBA_01993	CDS	228				hypothetical protein
+HOBOLHBA_01994	gene	477	ppiA			
+HOBOLHBA_01994	CDS	477	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+HOBOLHBA_01995	gene	882				
+HOBOLHBA_01995	CDS	882				hypothetical protein
+HOBOLHBA_01996	gene	156				
+HOBOLHBA_01996	CDS	156				hypothetical protein
+HOBOLHBA_01997	gene	192				
+HOBOLHBA_01997	CDS	192				hypothetical protein
+HOBOLHBA_01998	gene	489				
+HOBOLHBA_01998	CDS	489				hypothetical protein
+HOBOLHBA_01999	gene	468				
+HOBOLHBA_01999	CDS	468				hypothetical protein
+HOBOLHBA_02000	gene	894	RBKS			
+HOBOLHBA_02000	CDS	894	RBKS	2.7.1.15		Ribokinase
+HOBOLHBA_02001	gene	357				
+HOBOLHBA_02001	CDS	357				hypothetical protein
+HOBOLHBA_02002	gene	477				
+HOBOLHBA_02002	CDS	477				hypothetical protein
+HOBOLHBA_02003	gene	1086	desV			
+HOBOLHBA_02003	CDS	1086	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+HOBOLHBA_02004	gene	564				
+HOBOLHBA_02004	CDS	564				hypothetical protein
+HOBOLHBA_02005	gene	189				
+HOBOLHBA_02005	CDS	189				hypothetical protein
+HOBOLHBA_02006	gene	210				
+HOBOLHBA_02006	CDS	210				hypothetical protein
+HOBOLHBA_02007	gene	1047				
+HOBOLHBA_02007	CDS	1047				hypothetical protein
+HOBOLHBA_02008	gene	795				
+HOBOLHBA_02008	CDS	795		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+HOBOLHBA_02009	gene	1464				
+HOBOLHBA_02009	CDS	1464				hypothetical protein
+HOBOLHBA_02010	gene	1404	thrA_2			
+HOBOLHBA_02010	CDS	1404	thrA_2		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+HOBOLHBA_02011	gene	747				
+HOBOLHBA_02011	CDS	747				hypothetical protein
+HOBOLHBA_02012	gene	318				
+HOBOLHBA_02012	CDS	318				hypothetical protein
+HOBOLHBA_02013	gene	279				
+HOBOLHBA_02013	CDS	279				hypothetical protein
+HOBOLHBA_02014	gene	537				
+HOBOLHBA_02014	CDS	537				hypothetical protein
+HOBOLHBA_02015	gene	1554				
+HOBOLHBA_02015	CDS	1554				hypothetical protein
+HOBOLHBA_02016	gene	951				
+HOBOLHBA_02016	CDS	951				hypothetical protein
+HOBOLHBA_02017	gene	873				
+HOBOLHBA_02017	CDS	873				hypothetical protein
+HOBOLHBA_02018	gene	987				
+HOBOLHBA_02018	CDS	987				hypothetical protein
+HOBOLHBA_02019	gene	153				
+HOBOLHBA_02019	CDS	153				hypothetical protein
+HOBOLHBA_02020	gene	147				
+HOBOLHBA_02020	CDS	147				hypothetical protein
+HOBOLHBA_02021	gene	495				
+HOBOLHBA_02021	CDS	495				hypothetical protein
+HOBOLHBA_02022	gene	642	kynB			
+HOBOLHBA_02022	CDS	642	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+HOBOLHBA_02023	gene	273				
+HOBOLHBA_02023	CDS	273				hypothetical protein
+HOBOLHBA_02024	gene	1152	sufS			
+HOBOLHBA_02024	CDS	1152	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+HOBOLHBA_02025	gene	618				
+HOBOLHBA_02025	CDS	618				hypothetical protein
+HOBOLHBA_02026	gene	300	ndhI_2			
+HOBOLHBA_02026	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HOBOLHBA_02027	gene	993				
+HOBOLHBA_02027	CDS	993				hypothetical protein
+HOBOLHBA_02028	gene	1749				
+HOBOLHBA_02028	CDS	1749				hypothetical protein
+HOBOLHBA_02029	gene	366				
+HOBOLHBA_02029	CDS	366				hypothetical protein
+HOBOLHBA_02030	gene	1329	nrgA			
+HOBOLHBA_02030	CDS	1329	nrgA			Ammonium transporter
+HOBOLHBA_02031	gene	330				
+HOBOLHBA_02031	CDS	330				hypothetical protein
+HOBOLHBA_02032	gene	129				
+HOBOLHBA_02032	CDS	129				hypothetical protein
+HOBOLHBA_02033	gene	93				
+HOBOLHBA_02033	CDS	93				hypothetical protein
+HOBOLHBA_02034	gene	594				
+HOBOLHBA_02034	CDS	594				hypothetical protein
+HOBOLHBA_02035	gene	1152	dnaJ_4			
+HOBOLHBA_02035	CDS	1152	dnaJ_4			Chaperone protein DnaJ
+HOBOLHBA_02036	gene	423	teaD			
+HOBOLHBA_02036	CDS	423	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+HOBOLHBA_02037	gene	828	IMPDH_7			
+HOBOLHBA_02037	CDS	828	IMPDH_7	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+HOBOLHBA_02038	gene	684				
+HOBOLHBA_02038	CDS	684				hypothetical protein
+HOBOLHBA_02039	gene	1290	yhdG			
+HOBOLHBA_02039	CDS	1290	yhdG		COG0531	putative amino acid permease YhdG
+HOBOLHBA_02040	gene	1230	gerN_2			
+HOBOLHBA_02040	CDS	1230	gerN_2		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+HOBOLHBA_02041	gene	660				
+HOBOLHBA_02041	CDS	660				hypothetical protein
+HOBOLHBA_02042	gene	1431	glnA_1			
+HOBOLHBA_02042	CDS	1431	glnA_1	6.3.1.2		Glutamine synthetase
+HOBOLHBA_02043	gene	1365				
+HOBOLHBA_02043	CDS	1365				hypothetical protein
+HOBOLHBA_02044	gene	1743				
+HOBOLHBA_02044	CDS	1743				hypothetical protein
+HOBOLHBA_02045	gene	876	prs			
+HOBOLHBA_02045	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+HOBOLHBA_02046	gene	948				
+HOBOLHBA_02046	CDS	948				hypothetical protein
+HOBOLHBA_02047	gene	900	rnz			
+HOBOLHBA_02047	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+HOBOLHBA_02048	gene	732	cobB			
+HOBOLHBA_02048	CDS	732	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+HOBOLHBA_02049	gene	732				
+HOBOLHBA_02049	CDS	732				hypothetical protein
+HOBOLHBA_02050	gene	399				
+HOBOLHBA_02050	CDS	399				hypothetical protein
+HOBOLHBA_02051	gene	603				
+HOBOLHBA_02051	CDS	603				hypothetical protein
+HOBOLHBA_02052	gene	543				
+HOBOLHBA_02052	CDS	543		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+HOBOLHBA_02053	gene	1332				
+HOBOLHBA_02053	CDS	1332				hypothetical protein
+HOBOLHBA_02054	gene	762				
+HOBOLHBA_02054	CDS	762				hypothetical protein
+HOBOLHBA_02055	gene	74				
+HOBOLHBA_02055	tRNA	74				tRNA-Pro(ggg)
+HOBOLHBA_02056	gene	207				
+HOBOLHBA_02056	CDS	207				hypothetical protein
+HOBOLHBA_02057	gene	1149				
+HOBOLHBA_02057	CDS	1149		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+HOBOLHBA_02058	gene	741				
+HOBOLHBA_02058	CDS	741		1.-.-.-		putative oxidoreductase
+HOBOLHBA_02059	gene	222				
+HOBOLHBA_02059	CDS	222				hypothetical protein
+HOBOLHBA_02060	gene	285				
+HOBOLHBA_02060	CDS	285				hypothetical protein
+HOBOLHBA_02061	gene	558				
+HOBOLHBA_02061	CDS	558				hypothetical protein
+HOBOLHBA_02062	gene	1461	glnA_2			
+HOBOLHBA_02062	CDS	1461	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+HOBOLHBA_02063	gene	279				
+HOBOLHBA_02063	CDS	279				hypothetical protein
+HOBOLHBA_02064	gene	1704	groL_2			
+HOBOLHBA_02064	CDS	1704	groL_2		COG0459	60 kDa chaperonin
+HOBOLHBA_02065	gene	1323	glyA			
+HOBOLHBA_02065	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+HOBOLHBA_02066	gene	2907				
+HOBOLHBA_02066	CDS	2907				hypothetical protein
+HOBOLHBA_02067	gene	501				
+HOBOLHBA_02067	CDS	501				hypothetical protein
+HOBOLHBA_02068	gene	753				
+HOBOLHBA_02068	CDS	753		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+HOBOLHBA_02069	gene	363				
+HOBOLHBA_02069	CDS	363				hypothetical protein
+HOBOLHBA_02070	gene	603				
+HOBOLHBA_02070	CDS	603				hypothetical protein
+HOBOLHBA_02071	gene	162				
+HOBOLHBA_02071	CDS	162				hypothetical protein
+HOBOLHBA_02072	gene	387				
+HOBOLHBA_02072	CDS	387				hypothetical protein
+HOBOLHBA_02073	gene	1203				
+HOBOLHBA_02073	CDS	1203				hypothetical protein
+HOBOLHBA_02074	gene	1446				
+HOBOLHBA_02074	CDS	1446				hypothetical protein
+HOBOLHBA_02075	gene	504				
+HOBOLHBA_02075	CDS	504				hypothetical protein
+HOBOLHBA_02076	gene	894				
+HOBOLHBA_02076	CDS	894				hypothetical protein
+HOBOLHBA_02077	gene	699				
+HOBOLHBA_02077	CDS	699				hypothetical protein
+HOBOLHBA_02078	gene	492				
+HOBOLHBA_02078	CDS	492				hypothetical protein
+HOBOLHBA_02079	gene	1521				
+HOBOLHBA_02079	CDS	1521				hypothetical protein
+HOBOLHBA_02080	gene	1359				
+HOBOLHBA_02080	CDS	1359		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+HOBOLHBA_02081	gene	651				
+HOBOLHBA_02081	CDS	651				hypothetical protein
+HOBOLHBA_02082	gene	501				
+HOBOLHBA_02082	CDS	501				hypothetical protein
+HOBOLHBA_02083	gene	2133	ftsH_4			
+HOBOLHBA_02083	CDS	2133	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HOBOLHBA_02084	gene	219				
+HOBOLHBA_02084	CDS	219				hypothetical protein
+HOBOLHBA_02085	gene	435				
+HOBOLHBA_02085	CDS	435				hypothetical protein
+HOBOLHBA_02086	gene	921				
+HOBOLHBA_02086	CDS	921				hypothetical protein
+HOBOLHBA_02087	gene	192				
+HOBOLHBA_02087	CDS	192				hypothetical protein
+HOBOLHBA_02088	gene	381	crcB			
+HOBOLHBA_02088	CDS	381	crcB			Putative fluoride ion transporter CrcB
+HOBOLHBA_02089	gene	231				
+HOBOLHBA_02089	CDS	231				hypothetical protein
+HOBOLHBA_02090	gene	273				
+HOBOLHBA_02090	CDS	273				hypothetical protein
+HOBOLHBA_02091	gene	210				
+HOBOLHBA_02091	CDS	210				hypothetical protein
+HOBOLHBA_02092	gene	300				
+HOBOLHBA_02092	CDS	300				hypothetical protein
+HOBOLHBA_02093	gene	906				
+HOBOLHBA_02093	CDS	906				hypothetical protein
+HOBOLHBA_02094	gene	1386	nhaP2			
+HOBOLHBA_02094	CDS	1386	nhaP2			K(+)/H(+) antiporter NhaP2
+HOBOLHBA_02095	gene	543				
+HOBOLHBA_02095	CDS	543				hypothetical protein
+HOBOLHBA_02096	gene	516	cysC			
+HOBOLHBA_02096	CDS	516	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+HOBOLHBA_02097	gene	816	cysQ_2			
+HOBOLHBA_02097	CDS	816	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+HOBOLHBA_02098	gene	207				
+HOBOLHBA_02098	CDS	207				hypothetical protein
+HOBOLHBA_02099	gene	744	tsaC1			
+HOBOLHBA_02099	CDS	744	tsaC1	1.2.1.62		4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+HOBOLHBA_02100	gene	444				
+HOBOLHBA_02100	CDS	444				hypothetical protein
+HOBOLHBA_02101	gene	648				
+HOBOLHBA_02101	CDS	648				hypothetical protein
+HOBOLHBA_02102	gene	459				
+HOBOLHBA_02102	CDS	459				hypothetical protein
+HOBOLHBA_02103	gene	261				
+HOBOLHBA_02103	CDS	261				hypothetical protein
+HOBOLHBA_02104	gene	1026				
+HOBOLHBA_02104	CDS	1026				hypothetical protein
+HOBOLHBA_02105	gene	807				
+HOBOLHBA_02105	CDS	807				hypothetical protein
+HOBOLHBA_02106	gene	195				
+HOBOLHBA_02106	CDS	195				hypothetical protein
+HOBOLHBA_02107	gene	714	queE			
+HOBOLHBA_02107	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+HOBOLHBA_02108	gene	558	folE			
+HOBOLHBA_02108	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+HOBOLHBA_02109	gene	252				
+HOBOLHBA_02109	CDS	252				hypothetical protein
+HOBOLHBA_02110	gene	675	queC			
+HOBOLHBA_02110	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+HOBOLHBA_02111	gene	924	thrB_4			
+HOBOLHBA_02111	CDS	924	thrB_4	2.7.1.39	COG0083	Homoserine kinase
+HOBOLHBA_02112	gene	759				
+HOBOLHBA_02112	CDS	759				hypothetical protein
+HOBOLHBA_02113	gene	159				
+HOBOLHBA_02113	CDS	159				hypothetical protein
+HOBOLHBA_02114	gene	1008				
+HOBOLHBA_02114	CDS	1008				hypothetical protein
+HOBOLHBA_02115	gene	879	hcaB			
+HOBOLHBA_02115	CDS	879	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+HOBOLHBA_02116	gene	402				
+HOBOLHBA_02116	CDS	402				hypothetical protein
+HOBOLHBA_02117	gene	360				
+HOBOLHBA_02117	CDS	360				hypothetical protein
+HOBOLHBA_02118	gene	312				
+HOBOLHBA_02118	CDS	312				hypothetical protein
+HOBOLHBA_02119	gene	813				
+HOBOLHBA_02119	CDS	813				hypothetical protein
+HOBOLHBA_02120	gene	1113	thiI_2			
+HOBOLHBA_02120	CDS	1113	thiI_2	2.8.1.4		tRNA sulfurtransferase
+HOBOLHBA_02121	gene	726	cysH			
+HOBOLHBA_02121	CDS	726	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+HOBOLHBA_02122	gene	1143	sat			
+HOBOLHBA_02122	CDS	1143	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+HOBOLHBA_02123	gene	669				
+HOBOLHBA_02123	CDS	669				hypothetical protein
+HOBOLHBA_02124	gene	651	pdg			
+HOBOLHBA_02124	CDS	651	pdg			Ultraviolet N-glycosylase/AP lyase
+HOBOLHBA_02125	gene	423				
+HOBOLHBA_02125	CDS	423				hypothetical protein
+HOBOLHBA_02126	gene	1233				
+HOBOLHBA_02126	CDS	1233				hypothetical protein
+HOBOLHBA_02127	gene	384				
+HOBOLHBA_02127	CDS	384				hypothetical protein
+HOBOLHBA_02128	gene	1947				
+HOBOLHBA_02128	CDS	1947				hypothetical protein
+HOBOLHBA_02129	gene	480				
+HOBOLHBA_02129	CDS	480				hypothetical protein
+HOBOLHBA_02130	gene	591	cbiT			
+HOBOLHBA_02130	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+HOBOLHBA_02131	gene	723	cbiL			
+HOBOLHBA_02131	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+HOBOLHBA_02132	gene	771	cbiF			
+HOBOLHBA_02132	CDS	771	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+HOBOLHBA_02133	gene	765	murI			
+HOBOLHBA_02133	CDS	765	murI	5.1.1.3		Glutamate racemase
+HOBOLHBA_02134	gene	651				
+HOBOLHBA_02134	CDS	651				hypothetical protein
+HOBOLHBA_02135	gene	1173	arnC_4			
+HOBOLHBA_02135	CDS	1173	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HOBOLHBA_02136	gene	1158				
+HOBOLHBA_02136	CDS	1158				hypothetical protein
+HOBOLHBA_02137	gene	1095				
+HOBOLHBA_02137	CDS	1095				hypothetical protein
+HOBOLHBA_02138	gene	771	rfbF			
+HOBOLHBA_02138	CDS	771	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+HOBOLHBA_02139	gene	1020	galE_2			
+HOBOLHBA_02139	CDS	1020	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+HOBOLHBA_02140	gene	2046				
+HOBOLHBA_02140	CDS	2046				hypothetical protein
+HOBOLHBA_02141	gene	627				
+HOBOLHBA_02141	CDS	627				hypothetical protein
+HOBOLHBA_02142	gene	258				
+HOBOLHBA_02142	CDS	258				hypothetical protein
+HOBOLHBA_02143	gene	783				
+HOBOLHBA_02143	CDS	783				hypothetical protein
+HOBOLHBA_02144	gene	969				
+HOBOLHBA_02144	CDS	969				hypothetical protein
+HOBOLHBA_02145	gene	939				
+HOBOLHBA_02145	CDS	939				hypothetical protein
+HOBOLHBA_02146	gene	1158	pqqE			
+HOBOLHBA_02146	CDS	1158	pqqE	1.21.98.4		PqqA peptide cyclase
+HOBOLHBA_02147	gene	825				
+HOBOLHBA_02147	CDS	825				hypothetical protein
+HOBOLHBA_02148	gene	810	fcl			
+HOBOLHBA_02148	CDS	810	fcl	1.1.1.271		GDP-L-fucose synthase
+HOBOLHBA_02149	gene	732				
+HOBOLHBA_02149	CDS	732				hypothetical protein
+HOBOLHBA_02150	gene	549	rfbC			
+HOBOLHBA_02150	CDS	549	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+HOBOLHBA_02151	gene	1236				
+HOBOLHBA_02151	CDS	1236				hypothetical protein
+HOBOLHBA_02152	gene	912				
+HOBOLHBA_02152	CDS	912				hypothetical protein
+HOBOLHBA_02153	gene	153				
+HOBOLHBA_02153	CDS	153				hypothetical protein
+HOBOLHBA_02154	gene	192				
+HOBOLHBA_02154	CDS	192				hypothetical protein

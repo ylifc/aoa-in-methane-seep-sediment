@@ -1,0 +1,48 @@
+####### Summary from annotate/reannotate #######
+
+Date/time:	2021-11-01 22:25:44
+
+#######    Files   #######
+Genome:	Nitrosopumilus_sp_Nsub.fa_prokka/PROKKA_10312021.gbk
+Database:	/media/ylifc/HD-LXU3/NR_database/nr
+Reference Genome:	None
+BlastP:	Nitrosopumilus_sp_Nsub.fa_annotation_proteome.faa.blastP_output.tsv
+BlastX:	Nitrosopumilus_sp_Nsub.fa_annotation_intergenic.fasta.blastX_output.tsv
+Pseudogenes (GFF):	Nitrosopumilus_sp_Nsub.fa_annotation_pseudos.gff
+Pseudogenes (Fasta):	Nitrosopumilus_sp_Nsub.fa_annotation_pseudos.fasta
+Intact genes (GFF):	Nitrosopumilus_sp_Nsub.fa_annotation_intact.gff
+Intact genes (protein seq):	Nitrosopumilus_sp_Nsub.fa_annotation_intact.faa
+Intact genes (nucleotide seq):	Nitrosopumilus_sp_Nsub.fa_annotation_intact.ffn
+Chromosome map:	Nitrosopumilus_sp_Nsub.fa_annotation_map.pdf
+
+#######  Settings  #######
+Distance:	None
+hitcap:	15
+Intergenic_length:	30
+Intergenic_threshold:	0.3
+Length_pseudo:	0.65
+Shared_hits:	0.5
+contig_ends:	False
+no_bidirectional_length:	False
+use_alignment:	False
+max_dnds:	0.3
+####### Statistics #######
+#Input:
+Initial ORFs:	1718
+Initial pseudogenes:	0
+Number of contigs:	26
+#Output:
+Inital ORFs joined:	28
+Pseudogenes (total):	83
+Pseudogenes (too short):	36
+Pseudogenes (fragmented):	12
+Pseudogenes (no predicted ORF):	26
+Pseudogenes (high dN/dS):	0
+Intact genes:	1655
+
+####### Output Key #######
+Initial ORFs joined:		The number of input open reading frames that have been merged and flagged as a fragmented pseudogene.
+Pseudogenes (too short):	ORFs smaller than the "shared_hits" cutoff.
+Pseudogenes (fragmented):	Pseudogenes composed of merging 2 or more input ORFs.
+Pseudogenes (high dN/dS):	Incipient pseudogenes that look intact, but have an elevated dN/dS value compared to a reference gene.
+Intact genes:		[Initial ORFs] - [Initial ORFs joined] - [Pseudogenes (too short)] - [Pseudogenes (high dN/dS)]

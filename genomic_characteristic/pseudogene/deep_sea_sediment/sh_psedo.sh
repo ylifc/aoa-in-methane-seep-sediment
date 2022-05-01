@@ -1,0 +1,11 @@
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_iota_1_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_iota_1_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_theta_4_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g YK1309_1N_NP_iota_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op YK1309_1N_NP_iota_prokka_annotation --diamond -t 64
+pseudofinder.py annotate -g YK1312_12N_NP_theta_prokka/PROKKA_*.gbk -db /media/ylifc/HD-LXU3/NR_database/nr -op YK1312_12N_NP_theta_prokka_annotation --diamond -t 64

@@ -1,0 +1,15 @@
+prokka --cpus 0 --compliant --rfam Nitrososphaera_viennensis_EN76.fa --outdir Nitrososphaera_viennensis_EN76.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotenuis_aquarius_strain_AQ6F.fa --outdir Nitrosotenuis_aquarius_strain_AQ6F.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosocosmicus_hydrocola_strain_G61.fa --outdir Nitrosocosmicus_hydrocola_strain_G61.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosocosmicus_oleophilus_strain_MY3.fa --outdir Nitrosocosmicus_oleophilus_strain_MY3.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrososphaerales_archaeon_UBA213.fa --outdir Nitrososphaerales_archaeon_UBA213.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrososphaera_evergladensis_SR1.fa --outdir Nitrososphaera_evergladensis_SR1.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrososphaera_gargensis_Ga9.fa --outdir Nitrososphaera_gargensis_Ga9.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotalea_bavarica_SbT1.fa --outdir Nitrosotalea_bavarica_SbT1.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotalea_devanaterra_Nd1.fa --outdir Nitrosotalea_devanaterra_Nd1.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotalea_koreensis_CS.fa --outdir Nitrosotalea_koreensis_CS.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotalea_sinensis_Nd2.fa --outdir Nitrosotalea_sinensis_Nd2.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotenuis_chungbukensis_MY2.fa --outdir Nitrosotenuis_chungbukensis_MY2.fa_prokka
+prokka --cpus 0 --compliant --rfam Nitrosotenuis_cloacae_strain_SAT1.fa --outdir Nitrosotenuis_cloacae_strain_SAT1.fa_prokka
+prokka --cpus 0 --compliant --rfam Thaumarchaeota_archaeon_N4.fa --outdir Thaumarchaeota_archaeon_N4.fa_prokka
+prokka --cpus 0 --compliant --rfam Thaumarchaeota_archaeon_SAT137.fa --outdir Thaumarchaeota_archaeon_SAT137.fa_prokka

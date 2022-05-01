@@ -1,0 +1,2255 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+IAFGDHNC_00001	gene	2664	pacL			
+IAFGDHNC_00001	CDS	2664	pacL	7.2.2.10	COG0474	Calcium-transporting ATPase
+IAFGDHNC_00002	gene	1323				
+IAFGDHNC_00002	CDS	1323				hypothetical protein
+IAFGDHNC_00003	gene	1356	apgM			
+IAFGDHNC_00003	CDS	1356	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+IAFGDHNC_00004	gene	990				
+IAFGDHNC_00004	CDS	990				hypothetical protein
+IAFGDHNC_00005	gene	1122	dnaJ			
+IAFGDHNC_00005	CDS	1122	dnaJ		COG0484	Chaperone protein DnaJ
+IAFGDHNC_00006	gene	1872	dnaK			
+IAFGDHNC_00006	CDS	1872	dnaK		COG0443	Chaperone protein DnaK
+IAFGDHNC_00007	gene	420				
+IAFGDHNC_00007	CDS	420				hypothetical protein
+IAFGDHNC_00008	gene	486				
+IAFGDHNC_00008	CDS	486				hypothetical protein
+IAFGDHNC_00009	gene	630				
+IAFGDHNC_00009	CDS	630				hypothetical protein
+IAFGDHNC_00010	gene	594				
+IAFGDHNC_00010	CDS	594				hypothetical protein
+IAFGDHNC_00011	gene	426				
+IAFGDHNC_00011	CDS	426				hypothetical protein
+IAFGDHNC_00012	gene	723				
+IAFGDHNC_00012	CDS	723				hypothetical protein
+IAFGDHNC_00013	gene	567				
+IAFGDHNC_00013	CDS	567				hypothetical protein
+IAFGDHNC_00014	gene	393	rpsH			
+IAFGDHNC_00014	CDS	393	rpsH		COG0096	30S ribosomal protein S8
+IAFGDHNC_00015	gene	165				
+IAFGDHNC_00015	CDS	165				hypothetical protein
+IAFGDHNC_00016	gene	540				
+IAFGDHNC_00016	CDS	540				hypothetical protein
+IAFGDHNC_00017	gene	732				
+IAFGDHNC_00017	CDS	732				hypothetical protein
+IAFGDHNC_00018	gene	354				
+IAFGDHNC_00018	CDS	354				hypothetical protein
+IAFGDHNC_00019	gene	435				
+IAFGDHNC_00019	CDS	435				hypothetical protein
+IAFGDHNC_00020	gene	324				
+IAFGDHNC_00020	CDS	324				hypothetical protein
+IAFGDHNC_00021	gene	270				
+IAFGDHNC_00021	CDS	270				hypothetical protein
+IAFGDHNC_00022	gene	183				
+IAFGDHNC_00022	CDS	183				hypothetical protein
+IAFGDHNC_00023	gene	303				
+IAFGDHNC_00023	CDS	303				hypothetical protein
+IAFGDHNC_00024	gene	387				
+IAFGDHNC_00024	CDS	387				hypothetical protein
+IAFGDHNC_00025	gene	284				
+IAFGDHNC_00025	misc_RNA	284				RNaseP_arch
+IAFGDHNC_00026	gene	372				
+IAFGDHNC_00026	CDS	372				hypothetical protein
+IAFGDHNC_00027	gene	1338				
+IAFGDHNC_00027	CDS	1338				hypothetical protein
+IAFGDHNC_00028	gene	1500				
+IAFGDHNC_00028	CDS	1500				hypothetical protein
+IAFGDHNC_00029	gene	441				
+IAFGDHNC_00029	CDS	441				hypothetical protein
+IAFGDHNC_00030	gene	1209	ylmB			
+IAFGDHNC_00030	CDS	1209	ylmB	3.5.1.-	COG0624	N-formyl-4-amino-5-aminomethyl-2-methylpyrimidine deformylase
+IAFGDHNC_00031	gene	1002	ilvC			
+IAFGDHNC_00031	CDS	1002	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+IAFGDHNC_00032	gene	513				
+IAFGDHNC_00032	CDS	513				hypothetical protein
+IAFGDHNC_00033	gene	2856				
+IAFGDHNC_00033	CDS	2856				hypothetical protein
+IAFGDHNC_00034	gene	987	moaA_1			
+IAFGDHNC_00034	CDS	987	moaA_1	4.1.99.22		GTP 3',8-cyclase
+IAFGDHNC_00035	gene	960	htpX			
+IAFGDHNC_00035	CDS	960	htpX	3.4.24.-	COG0501	Protease HtpX 
+IAFGDHNC_00036	gene	900	pfkB			
+IAFGDHNC_00036	CDS	900	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+IAFGDHNC_00037	gene	276				
+IAFGDHNC_00037	CDS	276				hypothetical protein
+IAFGDHNC_00038	gene	567	pgsA2			
+IAFGDHNC_00038	CDS	567	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+IAFGDHNC_00039	gene	270				
+IAFGDHNC_00039	CDS	270				hypothetical protein
+IAFGDHNC_00040	gene	840	yhdJ			
+IAFGDHNC_00040	CDS	840	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+IAFGDHNC_00041	gene	246				
+IAFGDHNC_00041	CDS	246				hypothetical protein
+IAFGDHNC_00042	gene	180				
+IAFGDHNC_00042	CDS	180				hypothetical protein
+IAFGDHNC_00043	gene	402				
+IAFGDHNC_00043	CDS	402				hypothetical protein
+IAFGDHNC_00044	gene	1671	speE			
+IAFGDHNC_00044	CDS	1671	speE	2.5.1.16		Polyamine aminopropyltransferase
+IAFGDHNC_00045	gene	600				
+IAFGDHNC_00045	CDS	600				hypothetical protein
+IAFGDHNC_00046	gene	432				
+IAFGDHNC_00046	CDS	432				hypothetical protein
+IAFGDHNC_00047	gene	1629				
+IAFGDHNC_00047	CDS	1629				hypothetical protein
+IAFGDHNC_00048	gene	453	hit			
+IAFGDHNC_00048	CDS	453	hit		COG0537	Protein hit
+IAFGDHNC_00049	gene	396				
+IAFGDHNC_00049	CDS	396		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+IAFGDHNC_00050	gene	258				
+IAFGDHNC_00050	CDS	258				hypothetical protein
+IAFGDHNC_00051	gene	843				
+IAFGDHNC_00051	CDS	843				hypothetical protein
+IAFGDHNC_00052	gene	270				
+IAFGDHNC_00052	CDS	270				hypothetical protein
+IAFGDHNC_00053	gene	390	mshA			
+IAFGDHNC_00053	CDS	390	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+IAFGDHNC_00054	gene	1152	ugtP			
+IAFGDHNC_00054	CDS	1152	ugtP	2.4.1.315	COG0707	Processive diacylglycerol beta-glucosyltransferase
+IAFGDHNC_00055	gene	1095	moaA_2			
+IAFGDHNC_00055	CDS	1095	moaA_2			GTP 3',8-cyclase
+IAFGDHNC_00056	gene	681	psd			
+IAFGDHNC_00056	CDS	681	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+IAFGDHNC_00057	gene	453				
+IAFGDHNC_00057	CDS	453				hypothetical protein
+IAFGDHNC_00058	gene	2067	moaA_3			
+IAFGDHNC_00058	CDS	2067	moaA_3			GTP 3',8-cyclase
+IAFGDHNC_00059	gene	76				
+IAFGDHNC_00059	tRNA	76				tRNA-Ala(ggc)
+IAFGDHNC_00060	gene	1086				
+IAFGDHNC_00060	CDS	1086				hypothetical protein
+IAFGDHNC_00061	gene	414				
+IAFGDHNC_00061	CDS	414				hypothetical protein
+IAFGDHNC_00062	gene	537				
+IAFGDHNC_00062	CDS	537				hypothetical protein
+IAFGDHNC_00063	gene	1956	acsA			
+IAFGDHNC_00063	CDS	1956	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+IAFGDHNC_00064	gene	708	nth			
+IAFGDHNC_00064	CDS	708	nth	4.2.99.18	COG0177	Endonuclease III
+IAFGDHNC_00065	gene	285				
+IAFGDHNC_00065	CDS	285				hypothetical protein
+IAFGDHNC_00066	gene	1146	cysS_1			
+IAFGDHNC_00066	CDS	1146	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IAFGDHNC_00067	gene	888				
+IAFGDHNC_00067	CDS	888				hypothetical protein
+IAFGDHNC_00068	gene	876				
+IAFGDHNC_00068	CDS	876				hypothetical protein
+IAFGDHNC_00069	gene	1101	msmX			
+IAFGDHNC_00069	CDS	1101	msmX	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+IAFGDHNC_00070	gene	462				
+IAFGDHNC_00070	CDS	462				hypothetical protein
+IAFGDHNC_00071	gene	522				
+IAFGDHNC_00071	CDS	522				hypothetical protein
+IAFGDHNC_00072	gene	660				
+IAFGDHNC_00072	CDS	660				hypothetical protein
+IAFGDHNC_00073	gene	921	efeU			
+IAFGDHNC_00073	CDS	921	efeU		COG0672	Ferrous iron permease EfeU
+IAFGDHNC_00074	gene	459	ideR			
+IAFGDHNC_00074	CDS	459	ideR		COG1321	Iron-dependent repressor IdeR
+IAFGDHNC_00075	gene	513				
+IAFGDHNC_00075	CDS	513				Zinc-type alcohol dehydrogenase-like protein
+IAFGDHNC_00076	gene	933	fgd_1			
+IAFGDHNC_00076	CDS	933	fgd_1	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+IAFGDHNC_00077	gene	999	mdcB			
+IAFGDHNC_00077	CDS	999	mdcB	2.4.2.52		2-(5''-triphosphoribosyl)-3'-dephosphocoenzyme-A synthase
+IAFGDHNC_00078	gene	567				
+IAFGDHNC_00078	CDS	567				hypothetical protein
+IAFGDHNC_00079	gene	1125				
+IAFGDHNC_00079	CDS	1125				hypothetical protein
+IAFGDHNC_00080	gene	654				
+IAFGDHNC_00080	CDS	654				hypothetical protein
+IAFGDHNC_00081	gene	150				
+IAFGDHNC_00081	CDS	150				hypothetical protein
+IAFGDHNC_00082	gene	612				
+IAFGDHNC_00082	CDS	612		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+IAFGDHNC_00083	gene	663				
+IAFGDHNC_00083	CDS	663				hypothetical protein
+IAFGDHNC_00084	gene	1053	tsaD			
+IAFGDHNC_00084	CDS	1053	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+IAFGDHNC_00085	gene	408				
+IAFGDHNC_00085	CDS	408				hypothetical protein
+IAFGDHNC_00086	gene	189				
+IAFGDHNC_00086	CDS	189				hypothetical protein
+IAFGDHNC_00087	gene	1149				
+IAFGDHNC_00087	CDS	1149				hypothetical protein
+IAFGDHNC_00088	gene	1104				
+IAFGDHNC_00088	CDS	1104				hypothetical protein
+IAFGDHNC_00089	gene	447				
+IAFGDHNC_00089	CDS	447				hypothetical protein
+IAFGDHNC_00090	gene	237				
+IAFGDHNC_00090	CDS	237				hypothetical protein
+IAFGDHNC_00091	gene	669				
+IAFGDHNC_00091	CDS	669				hypothetical protein
+IAFGDHNC_00092	gene	843				
+IAFGDHNC_00092	CDS	843				hypothetical protein
+IAFGDHNC_00093	gene	951				
+IAFGDHNC_00093	CDS	951		2.7.4.2		Phosphomevalonate kinase
+IAFGDHNC_00094	gene	1254				
+IAFGDHNC_00094	CDS	1254		3.1.-.-	COG1236	Ribonuclease
+IAFGDHNC_00095	gene	702				
+IAFGDHNC_00095	CDS	702				hypothetical protein
+IAFGDHNC_00096	gene	1581	QTRT1			
+IAFGDHNC_00096	CDS	1581	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+IAFGDHNC_00097	gene	414				
+IAFGDHNC_00097	CDS	414				hypothetical protein
+IAFGDHNC_00098	gene	1008				
+IAFGDHNC_00098	CDS	1008				hypothetical protein
+IAFGDHNC_00099	gene	741				
+IAFGDHNC_00099	CDS	741				hypothetical protein
+IAFGDHNC_00100	gene	2100				
+IAFGDHNC_00100	CDS	2100				hypothetical protein
+IAFGDHNC_00101	gene	1068	atpC			
+IAFGDHNC_00101	CDS	1068	atpC			V-type ATP synthase subunit C
+IAFGDHNC_00102	gene	348				
+IAFGDHNC_00102	CDS	348				hypothetical protein
+IAFGDHNC_00103	gene	336				
+IAFGDHNC_00103	CDS	336				hypothetical protein
+IAFGDHNC_00104	gene	483				
+IAFGDHNC_00104	CDS	483				hypothetical protein
+IAFGDHNC_00105	gene	411				
+IAFGDHNC_00105	CDS	411				hypothetical protein
+IAFGDHNC_00106	gene	1296	hflX			
+IAFGDHNC_00106	CDS	1296	hflX			GTPase HflX
+IAFGDHNC_00107	gene	540				
+IAFGDHNC_00107	CDS	540				hypothetical protein
+IAFGDHNC_00108	gene	513				
+IAFGDHNC_00108	CDS	513				hypothetical protein
+IAFGDHNC_00109	gene	171				
+IAFGDHNC_00109	CDS	171				hypothetical protein
+IAFGDHNC_00110	gene	492				
+IAFGDHNC_00110	CDS	492				hypothetical protein
+IAFGDHNC_00111	gene	969				
+IAFGDHNC_00111	CDS	969				hypothetical protein
+IAFGDHNC_00112	gene	588	trpG			
+IAFGDHNC_00112	CDS	588	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+IAFGDHNC_00113	gene	288				
+IAFGDHNC_00113	CDS	288				hypothetical protein
+IAFGDHNC_00114	gene	615	gloC			
+IAFGDHNC_00114	CDS	615	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+IAFGDHNC_00115	gene	666	nnr			
+IAFGDHNC_00115	CDS	666	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+IAFGDHNC_00116	gene	480				
+IAFGDHNC_00116	CDS	480				hypothetical protein
+IAFGDHNC_00117	gene	294				
+IAFGDHNC_00117	CDS	294				hypothetical protein
+IAFGDHNC_00118	gene	240				
+IAFGDHNC_00118	CDS	240				hypothetical protein
+IAFGDHNC_00119	gene	405				
+IAFGDHNC_00119	CDS	405				hypothetical protein
+IAFGDHNC_00120	gene	2121	nrdZ			
+IAFGDHNC_00120	CDS	2121	nrdZ	1.17.4.1	COG0209	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+IAFGDHNC_00121	gene	1800	qgdA			
+IAFGDHNC_00121	CDS	1800	qgdA	1.1.9.1		Quinohemoprotein alcohol dehydrogenase ADH-IIG
+IAFGDHNC_00122	gene	348				
+IAFGDHNC_00122	CDS	348				hypothetical protein
+IAFGDHNC_00123	gene	978				
+IAFGDHNC_00123	CDS	978				hypothetical protein
+IAFGDHNC_00124	gene	513				
+IAFGDHNC_00124	CDS	513				hypothetical protein
+IAFGDHNC_00125	gene	771	natA_1			
+IAFGDHNC_00125	CDS	771	natA_1	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+IAFGDHNC_00126	gene	1629				
+IAFGDHNC_00126	CDS	1629				hypothetical protein
+IAFGDHNC_00127	gene	1059				
+IAFGDHNC_00127	CDS	1059				hypothetical protein
+IAFGDHNC_00128	gene	123				
+IAFGDHNC_00128	CDS	123				hypothetical protein
+IAFGDHNC_00129	gene	840	fadM			
+IAFGDHNC_00129	CDS	840	fadM	1.5.5.2		Proline dehydrogenase 1
+IAFGDHNC_00130	gene	552				
+IAFGDHNC_00130	CDS	552				hypothetical protein
+IAFGDHNC_00131	gene	618				
+IAFGDHNC_00131	CDS	618				hypothetical protein
+IAFGDHNC_00132	gene	699				
+IAFGDHNC_00132	CDS	699				hypothetical protein
+IAFGDHNC_00133	gene	681	glmS_1			
+IAFGDHNC_00133	CDS	681	glmS_1	5.4.99.1		Glutamate mutase sigma subunit
+IAFGDHNC_00134	gene	1011				
+IAFGDHNC_00134	CDS	1011				hypothetical protein
+IAFGDHNC_00135	gene	930	fgd_2			
+IAFGDHNC_00135	CDS	930	fgd_2	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+IAFGDHNC_00136	gene	627	sodB			
+IAFGDHNC_00136	CDS	627	sodB	1.15.1.1		Superoxide dismutase [Fe]
+IAFGDHNC_00137	gene	1044				
+IAFGDHNC_00137	CDS	1044				hypothetical protein
+IAFGDHNC_00138	gene	540				
+IAFGDHNC_00138	CDS	540				hypothetical protein
+IAFGDHNC_00139	gene	1470				
+IAFGDHNC_00139	CDS	1470		2.3.1.169	COG1152	Carbon monoxide dehydrogenase/acetyl-CoA synthase subunit alpha
+IAFGDHNC_00140	gene	1179				
+IAFGDHNC_00140	CDS	1179				hypothetical protein
+IAFGDHNC_00141	gene	1425	acsC			
+IAFGDHNC_00141	CDS	1425	acsC		COG1456	Corrinoid/iron-sulfur protein large subunit
+IAFGDHNC_00142	gene	1425	groL_1			
+IAFGDHNC_00142	CDS	1425	groL_1		COG0459	60 kDa chaperonin
+IAFGDHNC_00143	gene	1020				
+IAFGDHNC_00143	CDS	1020				hypothetical protein
+IAFGDHNC_00144	gene	888	prs			
+IAFGDHNC_00144	CDS	888	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+IAFGDHNC_00145	gene	504	teaD			
+IAFGDHNC_00145	CDS	504	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+IAFGDHNC_00146	gene	2385	smc_1			
+IAFGDHNC_00146	CDS	2385	smc_1			Chromosome partition protein Smc
+IAFGDHNC_00147	gene	513				
+IAFGDHNC_00147	CDS	513				hypothetical protein
+IAFGDHNC_00148	gene	102				
+IAFGDHNC_00148	CDS	102				hypothetical protein
+IAFGDHNC_00149	gene	144				
+IAFGDHNC_00149	CDS	144				hypothetical protein
+IAFGDHNC_00150	gene	2661				
+IAFGDHNC_00150	CDS	2661				hypothetical protein
+IAFGDHNC_00151	gene	1617	moaA_4			
+IAFGDHNC_00151	CDS	1617	moaA_4			GTP 3',8-cyclase
+IAFGDHNC_00152	gene	756				
+IAFGDHNC_00152	CDS	756				hypothetical protein
+IAFGDHNC_00153	gene	1068	ino1			
+IAFGDHNC_00153	CDS	1068	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+IAFGDHNC_00154	gene	819				
+IAFGDHNC_00154	CDS	819				hypothetical protein
+IAFGDHNC_00155	gene	444	rppH			
+IAFGDHNC_00155	CDS	444	rppH	3.6.1.-		RNA pyrophosphohydrolase
+IAFGDHNC_00156	gene	771	pyrF_1			
+IAFGDHNC_00156	CDS	771	pyrF_1			Orotidine 5'-phosphate decarboxylase
+IAFGDHNC_00157	gene	690				
+IAFGDHNC_00157	CDS	690				hypothetical protein
+IAFGDHNC_00158	gene	345				
+IAFGDHNC_00158	CDS	345				hypothetical protein
+IAFGDHNC_00159	gene	2031	smc_2			
+IAFGDHNC_00159	CDS	2031	smc_2			Chromosome partition protein Smc
+IAFGDHNC_00160	gene	807				
+IAFGDHNC_00160	CDS	807				hypothetical protein
+IAFGDHNC_00161	gene	591				
+IAFGDHNC_00161	CDS	591				hypothetical protein
+IAFGDHNC_00162	gene	2880	rhlE			
+IAFGDHNC_00162	CDS	2880	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+IAFGDHNC_00163	gene	768				
+IAFGDHNC_00163	CDS	768				hypothetical protein
+IAFGDHNC_00164	gene	360	ndhC			
+IAFGDHNC_00164	CDS	360	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+IAFGDHNC_00165	gene	504	nuoB			
+IAFGDHNC_00165	CDS	504	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+IAFGDHNC_00166	gene	501	ndhJ			
+IAFGDHNC_00166	CDS	501	ndhJ	7.1.1.-	COG0852	NAD(P)H-quinone oxidoreductase subunit J
+IAFGDHNC_00167	gene	1086	ndhH			
+IAFGDHNC_00167	CDS	1086	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+IAFGDHNC_00168	gene	1182	ndhA			
+IAFGDHNC_00168	CDS	1182	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+IAFGDHNC_00169	gene	504	ndhI			
+IAFGDHNC_00169	CDS	504	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IAFGDHNC_00170	gene	492				
+IAFGDHNC_00170	CDS	492				hypothetical protein
+IAFGDHNC_00171	gene	1068	fdhD			
+IAFGDHNC_00171	CDS	1068	fdhD			Sulfur carrier protein FdhD
+IAFGDHNC_00172	gene	345				
+IAFGDHNC_00172	CDS	345				hypothetical protein
+IAFGDHNC_00173	gene	414				
+IAFGDHNC_00173	CDS	414				hypothetical protein
+IAFGDHNC_00174	gene	1035	hicd			
+IAFGDHNC_00174	CDS	1035	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+IAFGDHNC_00175	gene	894	acuC			
+IAFGDHNC_00175	CDS	894	acuC			Acetoin utilization protein AcuC
+IAFGDHNC_00176	gene	1119				
+IAFGDHNC_00176	CDS	1119				hypothetical protein
+IAFGDHNC_00177	gene	1218	pgk			
+IAFGDHNC_00177	CDS	1218	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+IAFGDHNC_00178	gene	1026				
+IAFGDHNC_00178	CDS	1026				hypothetical protein
+IAFGDHNC_00179	gene	408				
+IAFGDHNC_00179	CDS	408				hypothetical protein
+IAFGDHNC_00180	gene	567				
+IAFGDHNC_00180	CDS	567				hypothetical protein
+IAFGDHNC_00181	gene	756	fabG_1			
+IAFGDHNC_00181	CDS	756	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IAFGDHNC_00182	gene	651	queC_1			
+IAFGDHNC_00182	CDS	651	queC_1	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+IAFGDHNC_00183	gene	2034	polB			
+IAFGDHNC_00183	CDS	2034	polB	2.7.7.7	COG0417	DNA polymerase II
+IAFGDHNC_00184	gene	525				
+IAFGDHNC_00184	CDS	525				hypothetical protein
+IAFGDHNC_00185	gene	984	frbC			
+IAFGDHNC_00185	CDS	984	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+IAFGDHNC_00186	gene	168				
+IAFGDHNC_00186	CDS	168				hypothetical protein
+IAFGDHNC_00187	gene	834	lysX_1			
+IAFGDHNC_00187	CDS	834	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IAFGDHNC_00188	gene	1110	lysK			
+IAFGDHNC_00188	CDS	1110	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+IAFGDHNC_00189	gene	1275	bsdC			
+IAFGDHNC_00189	CDS	1275	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+IAFGDHNC_00190	gene	1203				
+IAFGDHNC_00190	CDS	1203				hypothetical protein
+IAFGDHNC_00191	gene	396				
+IAFGDHNC_00191	CDS	396				hypothetical protein
+IAFGDHNC_00192	gene	291				
+IAFGDHNC_00192	CDS	291		4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+IAFGDHNC_00193	gene	555				
+IAFGDHNC_00193	CDS	555				hypothetical protein
+IAFGDHNC_00194	gene	279				
+IAFGDHNC_00194	CDS	279				hypothetical protein
+IAFGDHNC_00195	gene	198				
+IAFGDHNC_00195	CDS	198				hypothetical protein
+IAFGDHNC_00196	gene	2181				
+IAFGDHNC_00196	CDS	2181				hypothetical protein
+IAFGDHNC_00197	gene	822	fgd_3			
+IAFGDHNC_00197	CDS	822	fgd_3	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+IAFGDHNC_00198	gene	813	fbiB_1			
+IAFGDHNC_00198	CDS	813	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+IAFGDHNC_00199	gene	174				
+IAFGDHNC_00199	CDS	174				hypothetical protein
+IAFGDHNC_00200	gene	2124	topA			
+IAFGDHNC_00200	CDS	2124	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+IAFGDHNC_00201	gene	420				
+IAFGDHNC_00201	CDS	420				hypothetical protein
+IAFGDHNC_00202	gene	633				
+IAFGDHNC_00202	CDS	633				hypothetical protein
+IAFGDHNC_00203	gene	630				
+IAFGDHNC_00203	CDS	630				hypothetical protein
+IAFGDHNC_00204	gene	420				
+IAFGDHNC_00204	CDS	420				hypothetical protein
+IAFGDHNC_00205	gene	657				
+IAFGDHNC_00205	CDS	657				hypothetical protein
+IAFGDHNC_00206	gene	1224				
+IAFGDHNC_00206	CDS	1224				hypothetical protein
+IAFGDHNC_00207	gene	171				
+IAFGDHNC_00207	CDS	171				hypothetical protein
+IAFGDHNC_00208	gene	480				
+IAFGDHNC_00208	CDS	480				hypothetical protein
+IAFGDHNC_00209	gene	510				
+IAFGDHNC_00209	CDS	510				hypothetical protein
+IAFGDHNC_00210	gene	414				
+IAFGDHNC_00210	CDS	414				hypothetical protein
+IAFGDHNC_00211	gene	1659				
+IAFGDHNC_00211	CDS	1659				hypothetical protein
+IAFGDHNC_00212	gene	207				
+IAFGDHNC_00212	CDS	207				hypothetical protein
+IAFGDHNC_00213	gene	540	dcd			
+IAFGDHNC_00213	CDS	540	dcd	3.5.4.13		dCTP deaminase, dUMP-forming
+IAFGDHNC_00214	gene	1053				
+IAFGDHNC_00214	CDS	1053				hypothetical protein
+IAFGDHNC_00215	gene	309				
+IAFGDHNC_00215	CDS	309				hypothetical protein
+IAFGDHNC_00216	gene	348				
+IAFGDHNC_00216	CDS	348				hypothetical protein
+IAFGDHNC_00217	gene	303				
+IAFGDHNC_00217	CDS	303				hypothetical protein
+IAFGDHNC_00218	gene	405				
+IAFGDHNC_00218	CDS	405				hypothetical protein
+IAFGDHNC_00219	gene	279				
+IAFGDHNC_00219	CDS	279				hypothetical protein
+IAFGDHNC_00220	gene	1383				
+IAFGDHNC_00220	CDS	1383				hypothetical protein
+IAFGDHNC_00221	gene	963	nadA			
+IAFGDHNC_00221	CDS	963	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+IAFGDHNC_00222	gene	828	nadX			
+IAFGDHNC_00222	CDS	828	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+IAFGDHNC_00223	gene	861	nadC			
+IAFGDHNC_00223	CDS	861	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+IAFGDHNC_00224	gene	1002	nadK			
+IAFGDHNC_00224	CDS	1002	nadK	2.7.1.23		NAD kinase
+IAFGDHNC_00225	gene	594				
+IAFGDHNC_00225	CDS	594				hypothetical protein
+IAFGDHNC_00226	gene	1248	ychF			
+IAFGDHNC_00226	CDS	1248	ychF		COG0012	Ribosome-binding ATPase YchF
+IAFGDHNC_00227	gene	381	arsC			
+IAFGDHNC_00227	CDS	381	arsC	1.20.4.1		Glutaredoxin arsenate reductase
+IAFGDHNC_00228	gene	648	gph			
+IAFGDHNC_00228	CDS	648	gph	3.1.3.18		Phosphoglycolate phosphatase
+IAFGDHNC_00229	gene	930				
+IAFGDHNC_00229	CDS	930		1.1.1.81	COG0111	Hydroxypyruvate reductase
+IAFGDHNC_00230	gene	453				
+IAFGDHNC_00230	CDS	453				hypothetical protein
+IAFGDHNC_00231	gene	1326	truD			
+IAFGDHNC_00231	CDS	1326	truD	5.4.99.27		tRNA pseudouridine synthase D
+IAFGDHNC_00232	gene	1026				
+IAFGDHNC_00232	CDS	1026				hypothetical protein
+IAFGDHNC_00233	gene	459				
+IAFGDHNC_00233	CDS	459				hypothetical protein
+IAFGDHNC_00234	gene	2199	ftsH_1			
+IAFGDHNC_00234	CDS	2199	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IAFGDHNC_00235	gene	261				
+IAFGDHNC_00235	CDS	261				hypothetical protein
+IAFGDHNC_00236	gene	441				
+IAFGDHNC_00236	CDS	441				hypothetical protein
+IAFGDHNC_00237	gene	1173				
+IAFGDHNC_00237	CDS	1173				hypothetical protein
+IAFGDHNC_00238	gene	354				
+IAFGDHNC_00238	CDS	354				hypothetical protein
+IAFGDHNC_00239	gene	1083	lpd			
+IAFGDHNC_00239	CDS	1083	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+IAFGDHNC_00240	gene	264	lpd3			
+IAFGDHNC_00240	CDS	264	lpd3	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase 3
+IAFGDHNC_00241	gene	918	trxB_1			
+IAFGDHNC_00241	CDS	918	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+IAFGDHNC_00242	gene	400				
+IAFGDHNC_00242	rRNA	400				16S ribosomal RNA (partial)
+IAFGDHNC_00243	gene	237				
+IAFGDHNC_00243	CDS	237				hypothetical protein
+IAFGDHNC_00244	gene	1056				
+IAFGDHNC_00244	CDS	1056				hypothetical protein
+IAFGDHNC_00245	gene	1740				
+IAFGDHNC_00245	CDS	1740				hypothetical protein
+IAFGDHNC_00246	gene	762				
+IAFGDHNC_00246	CDS	762				hypothetical protein
+IAFGDHNC_00247	gene	390				
+IAFGDHNC_00247	CDS	390				hypothetical protein
+IAFGDHNC_00248	gene	1302	fdhF			
+IAFGDHNC_00248	CDS	1302	fdhF	1.17.1.9	COG0243	Formate dehydrogenase H
+IAFGDHNC_00249	gene	570	porC			
+IAFGDHNC_00249	CDS	570	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+IAFGDHNC_00250	gene	285	porD			
+IAFGDHNC_00250	CDS	285	porD		COG1144	Pyruvate synthase subunit PorD
+IAFGDHNC_00251	gene	1191	porA			
+IAFGDHNC_00251	CDS	1191	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+IAFGDHNC_00252	gene	927	porB			
+IAFGDHNC_00252	CDS	927	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+IAFGDHNC_00253	gene	489				
+IAFGDHNC_00253	CDS	489				hypothetical protein
+IAFGDHNC_00254	gene	432	hrp1_1			
+IAFGDHNC_00254	CDS	432	hrp1_1		COG0517	Hypoxic response protein 1
+IAFGDHNC_00255	gene	1434				
+IAFGDHNC_00255	CDS	1434				hypothetical protein
+IAFGDHNC_00256	gene	1056				
+IAFGDHNC_00256	CDS	1056				hypothetical protein
+IAFGDHNC_00257	gene	2616				
+IAFGDHNC_00257	CDS	2616				hypothetical protein
+IAFGDHNC_00258	gene	2148				
+IAFGDHNC_00258	CDS	2148				hypothetical protein
+IAFGDHNC_00259	gene	2034				
+IAFGDHNC_00259	CDS	2034				hypothetical protein
+IAFGDHNC_00260	gene	276				
+IAFGDHNC_00260	CDS	276				hypothetical protein
+IAFGDHNC_00261	gene	264				
+IAFGDHNC_00261	CDS	264				hypothetical protein
+IAFGDHNC_00262	gene	678				
+IAFGDHNC_00262	CDS	678				hypothetical protein
+IAFGDHNC_00263	gene	1533	gapN			
+IAFGDHNC_00263	CDS	1533	gapN	1.2.1.9	COG1012	NADP-dependent glyceraldehyde-3-phosphate dehydrogenase
+IAFGDHNC_00264	gene	1377	nrgA			
+IAFGDHNC_00264	CDS	1377	nrgA			Ammonium transporter
+IAFGDHNC_00265	gene	348	glnB_1			
+IAFGDHNC_00265	CDS	348	glnB_1		COG0347	Nitrogen regulatory protein P-II
+IAFGDHNC_00266	gene	339	glnB_2			
+IAFGDHNC_00266	CDS	339	glnB_2		COG0347	Nitrogen regulatory protein P-II
+IAFGDHNC_00267	gene	672				
+IAFGDHNC_00267	CDS	672				hypothetical protein
+IAFGDHNC_00268	gene	300				
+IAFGDHNC_00268	CDS	300				hypothetical protein
+IAFGDHNC_00269	gene	405				
+IAFGDHNC_00269	CDS	405				hypothetical protein
+IAFGDHNC_00270	gene	834	proC			
+IAFGDHNC_00270	CDS	834	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+IAFGDHNC_00271	gene	1584	rocA1			
+IAFGDHNC_00271	CDS	1584	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+IAFGDHNC_00272	gene	756	cpdA_1			
+IAFGDHNC_00272	CDS	756	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IAFGDHNC_00273	gene	1239				
+IAFGDHNC_00273	CDS	1239				hypothetical protein
+IAFGDHNC_00274	gene	3363	ftsH_2			
+IAFGDHNC_00274	CDS	3363	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IAFGDHNC_00275	gene	1011	ghrB			
+IAFGDHNC_00275	CDS	1011	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+IAFGDHNC_00276	gene	234				
+IAFGDHNC_00276	CDS	234				hypothetical protein
+IAFGDHNC_00277	gene	390	hrp1_2			
+IAFGDHNC_00277	CDS	390	hrp1_2		COG0517	Hypoxic response protein 1
+IAFGDHNC_00278	gene	1101				
+IAFGDHNC_00278	CDS	1101				hypothetical protein
+IAFGDHNC_00279	gene	1167	gdhA			
+IAFGDHNC_00279	CDS	1167	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+IAFGDHNC_00280	gene	579				
+IAFGDHNC_00280	CDS	579				hypothetical protein
+IAFGDHNC_00281	gene	447	lrp			
+IAFGDHNC_00281	CDS	447	lrp		COG1522	Leucine-responsive regulatory protein
+IAFGDHNC_00282	gene	1653				
+IAFGDHNC_00282	CDS	1653				hypothetical protein
+IAFGDHNC_00283	gene	1389	katA			
+IAFGDHNC_00283	CDS	1389	katA	1.11.1.6	COG0753	Vegetative catalase
+IAFGDHNC_00284	gene	459				
+IAFGDHNC_00284	CDS	459				hypothetical protein
+IAFGDHNC_00285	gene	1182				
+IAFGDHNC_00285	CDS	1182				hypothetical protein
+IAFGDHNC_00286	gene	849	carA			
+IAFGDHNC_00286	CDS	849	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+IAFGDHNC_00287	gene	3306	carB_1			
+IAFGDHNC_00287	CDS	3306	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+IAFGDHNC_00288	gene	759				
+IAFGDHNC_00288	CDS	759				hypothetical protein
+IAFGDHNC_00289	gene	1311	tuf			
+IAFGDHNC_00289	CDS	1311	tuf		COG0050	Elongation factor Tu
+IAFGDHNC_00290	gene	609				
+IAFGDHNC_00290	CDS	609				hypothetical protein
+IAFGDHNC_00291	gene	441				
+IAFGDHNC_00291	CDS	441				hypothetical protein
+IAFGDHNC_00292	gene	447	nusA			
+IAFGDHNC_00292	CDS	447	nusA			Transcription termination/antitermination protein NusA
+IAFGDHNC_00293	gene	312				
+IAFGDHNC_00293	CDS	312				hypothetical protein
+IAFGDHNC_00294	gene	3783	rpoC			
+IAFGDHNC_00294	CDS	3783	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+IAFGDHNC_00295	gene	3357	rpoB			
+IAFGDHNC_00295	CDS	3357	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+IAFGDHNC_00296	gene	261				
+IAFGDHNC_00296	CDS	261				hypothetical protein
+IAFGDHNC_00297	gene	744	kaiC_1			
+IAFGDHNC_00297	CDS	744	kaiC_1	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+IAFGDHNC_00298	gene	846				
+IAFGDHNC_00298	CDS	846				hypothetical protein
+IAFGDHNC_00299	gene	957				
+IAFGDHNC_00299	CDS	957				hypothetical protein
+IAFGDHNC_00300	gene	1026				
+IAFGDHNC_00300	CDS	1026				hypothetical protein
+IAFGDHNC_00301	gene	312				
+IAFGDHNC_00301	CDS	312				hypothetical protein
+IAFGDHNC_00302	gene	258				
+IAFGDHNC_00302	CDS	258				hypothetical protein
+IAFGDHNC_00303	gene	1110				
+IAFGDHNC_00303	CDS	1110				hypothetical protein
+IAFGDHNC_00304	gene	573				
+IAFGDHNC_00304	CDS	573				hypothetical protein
+IAFGDHNC_00305	gene	648	petE			
+IAFGDHNC_00305	CDS	648	petE			Plastocyanin
+IAFGDHNC_00306	gene	414				
+IAFGDHNC_00306	CDS	414				hypothetical protein
+IAFGDHNC_00307	gene	201				
+IAFGDHNC_00307	CDS	201				hypothetical protein
+IAFGDHNC_00308	gene	2640	ppdK			
+IAFGDHNC_00308	CDS	2640	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+IAFGDHNC_00309	gene	1239				
+IAFGDHNC_00309	CDS	1239				hypothetical protein
+IAFGDHNC_00310	gene	1107	sufS			
+IAFGDHNC_00310	CDS	1107	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+IAFGDHNC_00311	gene	267				
+IAFGDHNC_00311	CDS	267				hypothetical protein
+IAFGDHNC_00312	gene	249				
+IAFGDHNC_00312	CDS	249				hypothetical protein
+IAFGDHNC_00313	gene	723				
+IAFGDHNC_00313	CDS	723				hypothetical protein
+IAFGDHNC_00314	gene	297	atpH			
+IAFGDHNC_00314	CDS	297	atpH			ATP synthase subunit c
+IAFGDHNC_00315	gene	174				
+IAFGDHNC_00315	CDS	174				hypothetical protein
+IAFGDHNC_00316	gene	648	ntpD			
+IAFGDHNC_00316	CDS	648	ntpD			V-type sodium ATPase subunit D
+IAFGDHNC_00317	gene	1389	ntpB			
+IAFGDHNC_00317	CDS	1389	ntpB			V-type sodium ATPase subunit B
+IAFGDHNC_00318	gene	144				
+IAFGDHNC_00318	CDS	144				hypothetical protein
+IAFGDHNC_00319	gene	489				
+IAFGDHNC_00319	CDS	489				hypothetical protein
+IAFGDHNC_00320	gene	1434	smc_3			
+IAFGDHNC_00320	CDS	1434	smc_3			Chromosome partition protein Smc
+IAFGDHNC_00321	gene	1059				
+IAFGDHNC_00321	CDS	1059				hypothetical protein
+IAFGDHNC_00322	gene	369				
+IAFGDHNC_00322	CDS	369				hypothetical protein
+IAFGDHNC_00323	gene	285				
+IAFGDHNC_00323	CDS	285				hypothetical protein
+IAFGDHNC_00324	gene	834	rph_1			
+IAFGDHNC_00324	CDS	834	rph_1	2.7.7.56		Ribonuclease PH
+IAFGDHNC_00325	gene	723	rph_2			
+IAFGDHNC_00325	CDS	723	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+IAFGDHNC_00326	gene	693				
+IAFGDHNC_00326	CDS	693				hypothetical protein
+IAFGDHNC_00327	gene	690				
+IAFGDHNC_00327	CDS	690				hypothetical protein
+IAFGDHNC_00328	gene	756	prcA			
+IAFGDHNC_00328	CDS	756	prcA			Proteasome subunit alpha
+IAFGDHNC_00329	gene	432				
+IAFGDHNC_00329	CDS	432				hypothetical protein
+IAFGDHNC_00330	gene	684				
+IAFGDHNC_00330	CDS	684				hypothetical protein
+IAFGDHNC_00331	gene	909	fhcD			
+IAFGDHNC_00331	CDS	909	fhcD	2.3.1.101	COG2037	Formyltransferase/hydrolase complex subunit D
+IAFGDHNC_00332	gene	915				
+IAFGDHNC_00332	CDS	915				hypothetical protein
+IAFGDHNC_00333	gene	660				
+IAFGDHNC_00333	CDS	660				hypothetical protein
+IAFGDHNC_00334	gene	1080				
+IAFGDHNC_00334	CDS	1080				hypothetical protein
+IAFGDHNC_00335	gene	1209	carB_2			
+IAFGDHNC_00335	CDS	1209	carB_2			Carbamoyl-phosphate synthase large chain
+IAFGDHNC_00336	gene	738	hisA			
+IAFGDHNC_00336	CDS	738	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+IAFGDHNC_00337	gene	516	lysX_2			
+IAFGDHNC_00337	CDS	516	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IAFGDHNC_00338	gene	447				
+IAFGDHNC_00338	CDS	447				hypothetical protein
+IAFGDHNC_00339	gene	1251	moeA			
+IAFGDHNC_00339	CDS	1251	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+IAFGDHNC_00340	gene	528	yrdA			
+IAFGDHNC_00340	CDS	528	yrdA		COG0663	Protein YrdA
+IAFGDHNC_00341	gene	363				
+IAFGDHNC_00341	CDS	363				hypothetical protein
+IAFGDHNC_00342	gene	1278	hisS			
+IAFGDHNC_00342	CDS	1278	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+IAFGDHNC_00343	gene	990	ruvB			
+IAFGDHNC_00343	CDS	990	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+IAFGDHNC_00344	gene	585				
+IAFGDHNC_00344	CDS	585				hypothetical protein
+IAFGDHNC_00345	gene	2049				
+IAFGDHNC_00345	CDS	2049				hypothetical protein
+IAFGDHNC_00346	gene	330				
+IAFGDHNC_00346	CDS	330				hypothetical protein
+IAFGDHNC_00347	gene	456				
+IAFGDHNC_00347	CDS	456				hypothetical protein
+IAFGDHNC_00348	gene	297				
+IAFGDHNC_00348	CDS	297				hypothetical protein
+IAFGDHNC_00349	gene	159				
+IAFGDHNC_00349	CDS	159				hypothetical protein
+IAFGDHNC_00350	gene	297				
+IAFGDHNC_00350	CDS	297				hypothetical protein
+IAFGDHNC_00351	gene	345				
+IAFGDHNC_00351	CDS	345				hypothetical protein
+IAFGDHNC_00352	gene	1029	ftsZ			
+IAFGDHNC_00352	CDS	1029	ftsZ			Cell division protein FtsZ
+IAFGDHNC_00353	gene	1278	miaB			
+IAFGDHNC_00353	CDS	1278	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+IAFGDHNC_00354	gene	285				
+IAFGDHNC_00354	CDS	285				hypothetical protein
+IAFGDHNC_00355	gene	1680				
+IAFGDHNC_00355	CDS	1680				hypothetical protein
+IAFGDHNC_00356	gene	1608	purH			
+IAFGDHNC_00356	CDS	1608	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+IAFGDHNC_00357	gene	138				
+IAFGDHNC_00357	CDS	138				hypothetical protein
+IAFGDHNC_00358	gene	213				
+IAFGDHNC_00358	CDS	213				hypothetical protein
+IAFGDHNC_00359	gene	351				
+IAFGDHNC_00359	CDS	351				hypothetical protein
+IAFGDHNC_00360	gene	540				
+IAFGDHNC_00360	CDS	540				hypothetical protein
+IAFGDHNC_00361	gene	159				
+IAFGDHNC_00361	CDS	159				hypothetical protein
+IAFGDHNC_00362	gene	1041	xerD			
+IAFGDHNC_00362	CDS	1041	xerD			Tyrosine recombinase XerD
+IAFGDHNC_00363	gene	702				
+IAFGDHNC_00363	CDS	702				hypothetical protein
+IAFGDHNC_00364	gene	885				
+IAFGDHNC_00364	CDS	885				hypothetical protein
+IAFGDHNC_00365	gene	279				
+IAFGDHNC_00365	CDS	279				hypothetical protein
+IAFGDHNC_00366	gene	72				
+IAFGDHNC_00366	tRNA	72				tRNA-Ala(tgc)
+IAFGDHNC_00367	gene	111				
+IAFGDHNC_00367	CDS	111				hypothetical protein
+IAFGDHNC_00368	gene	792				
+IAFGDHNC_00368	CDS	792				hypothetical protein
+IAFGDHNC_00369	gene	195	fbp			
+IAFGDHNC_00369	CDS	195	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+IAFGDHNC_00370	gene	675	tpiA			
+IAFGDHNC_00370	CDS	675	tpiA			Triosephosphate isomerase
+IAFGDHNC_00371	gene	198				
+IAFGDHNC_00371	CDS	198				hypothetical protein
+IAFGDHNC_00372	gene	336				
+IAFGDHNC_00372	CDS	336				hypothetical protein
+IAFGDHNC_00373	gene	552				
+IAFGDHNC_00373	CDS	552				hypothetical protein
+IAFGDHNC_00374	gene	264				
+IAFGDHNC_00374	CDS	264				hypothetical protein
+IAFGDHNC_00375	gene	828	lsrF_1			
+IAFGDHNC_00375	CDS	828	lsrF_1	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+IAFGDHNC_00376	gene	1086	gutB			
+IAFGDHNC_00376	CDS	1086	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+IAFGDHNC_00377	gene	552				
+IAFGDHNC_00377	CDS	552				hypothetical protein
+IAFGDHNC_00378	gene	879				
+IAFGDHNC_00378	CDS	879				hypothetical protein
+IAFGDHNC_00379	gene	711				
+IAFGDHNC_00379	CDS	711				hypothetical protein
+IAFGDHNC_00380	gene	756				
+IAFGDHNC_00380	CDS	756				hypothetical protein
+IAFGDHNC_00381	gene	2328	valS_1			
+IAFGDHNC_00381	CDS	2328	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+IAFGDHNC_00382	gene	1257				
+IAFGDHNC_00382	CDS	1257				hypothetical protein
+IAFGDHNC_00383	gene	459				
+IAFGDHNC_00383	CDS	459				hypothetical protein
+IAFGDHNC_00384	gene	396				
+IAFGDHNC_00384	CDS	396				hypothetical protein
+IAFGDHNC_00385	gene	747				
+IAFGDHNC_00385	CDS	747				hypothetical protein
+IAFGDHNC_00386	gene	267	rplW			
+IAFGDHNC_00386	CDS	267	rplW		COG0089	50S ribosomal protein L23
+IAFGDHNC_00387	gene	804				
+IAFGDHNC_00387	CDS	804				hypothetical protein
+IAFGDHNC_00388	gene	738				
+IAFGDHNC_00388	CDS	738				hypothetical protein
+IAFGDHNC_00389	gene	1173	dnaG			
+IAFGDHNC_00389	CDS	1173	dnaG	2.7.7.-		DNA primase
+IAFGDHNC_00390	gene	465				
+IAFGDHNC_00390	CDS	465				hypothetical protein
+IAFGDHNC_00391	gene	1416	lhyD			
+IAFGDHNC_00391	CDS	1416	lhyD	3.5.2.-		L-hydantoinase
+IAFGDHNC_00392	gene	1710	frdA			
+IAFGDHNC_00392	CDS	1710	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+IAFGDHNC_00393	gene	465				
+IAFGDHNC_00393	CDS	465				hypothetical protein
+IAFGDHNC_00394	gene	330				
+IAFGDHNC_00394	CDS	330				hypothetical protein
+IAFGDHNC_00395	gene	738	frdB			
+IAFGDHNC_00395	CDS	738	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+IAFGDHNC_00396	gene	930				
+IAFGDHNC_00396	CDS	930				hypothetical protein
+IAFGDHNC_00397	gene	819				
+IAFGDHNC_00397	CDS	819				hypothetical protein
+IAFGDHNC_00398	gene	390				
+IAFGDHNC_00398	CDS	390				hypothetical protein
+IAFGDHNC_00399	gene	1647				
+IAFGDHNC_00399	CDS	1647				hypothetical protein
+IAFGDHNC_00400	gene	1512				
+IAFGDHNC_00400	CDS	1512				hypothetical protein
+IAFGDHNC_00401	gene	1125				
+IAFGDHNC_00401	CDS	1125				hypothetical protein
+IAFGDHNC_00402	gene	243				
+IAFGDHNC_00402	CDS	243				hypothetical protein
+IAFGDHNC_00403	gene	672				
+IAFGDHNC_00403	CDS	672				hypothetical protein
+IAFGDHNC_00404	gene	1569				
+IAFGDHNC_00404	CDS	1569				hypothetical protein
+IAFGDHNC_00405	gene	924	btuD_1			
+IAFGDHNC_00405	CDS	924	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IAFGDHNC_00406	gene	336				
+IAFGDHNC_00406	CDS	336				hypothetical protein
+IAFGDHNC_00407	gene	780				
+IAFGDHNC_00407	CDS	780				hypothetical protein
+IAFGDHNC_00408	gene	807				
+IAFGDHNC_00408	CDS	807				hypothetical protein
+IAFGDHNC_00409	gene	198				
+IAFGDHNC_00409	CDS	198				hypothetical protein
+IAFGDHNC_00410	gene	741	lnrL_1			
+IAFGDHNC_00410	CDS	741	lnrL_1	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IAFGDHNC_00411	gene	1164	ybhR			
+IAFGDHNC_00411	CDS	1164	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+IAFGDHNC_00412	gene	375				
+IAFGDHNC_00412	CDS	375				hypothetical protein
+IAFGDHNC_00413	gene	1305				
+IAFGDHNC_00413	CDS	1305				hypothetical protein
+IAFGDHNC_00414	gene	459				
+IAFGDHNC_00414	CDS	459				hypothetical protein
+IAFGDHNC_00415	gene	1413				
+IAFGDHNC_00415	CDS	1413				hypothetical protein
+IAFGDHNC_00416	gene	432	nosZ			
+IAFGDHNC_00416	CDS	432	nosZ	1.7.2.4		Nitrous-oxide reductase
+IAFGDHNC_00417	gene	738				
+IAFGDHNC_00417	CDS	738				hypothetical protein
+IAFGDHNC_00418	gene	1041				
+IAFGDHNC_00418	CDS	1041				hypothetical protein
+IAFGDHNC_00419	gene	975	lnrL_2			
+IAFGDHNC_00419	CDS	975	lnrL_2	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+IAFGDHNC_00420	gene	831	nosY			
+IAFGDHNC_00420	CDS	831	nosY		COG1277	putative ABC transporter permease protein NosY
+IAFGDHNC_00421	gene	498				
+IAFGDHNC_00421	CDS	498				hypothetical protein
+IAFGDHNC_00422	gene	690	trmJ			
+IAFGDHNC_00422	CDS	690	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+IAFGDHNC_00423	gene	264				
+IAFGDHNC_00423	CDS	264				hypothetical protein
+IAFGDHNC_00424	gene	882				
+IAFGDHNC_00424	CDS	882				hypothetical protein
+IAFGDHNC_00425	gene	945	btuD_2			
+IAFGDHNC_00425	CDS	945	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+IAFGDHNC_00426	gene	852				
+IAFGDHNC_00426	CDS	852				hypothetical protein
+IAFGDHNC_00427	gene	561	prmC			
+IAFGDHNC_00427	CDS	561	prmC	2.1.1.297		Release factor glutamine methyltransferase
+IAFGDHNC_00428	gene	771	rsmA			
+IAFGDHNC_00428	CDS	771	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+IAFGDHNC_00429	gene	567				
+IAFGDHNC_00429	CDS	567				hypothetical protein
+IAFGDHNC_00430	gene	333				
+IAFGDHNC_00430	CDS	333				hypothetical protein
+IAFGDHNC_00431	gene	297				
+IAFGDHNC_00431	CDS	297				hypothetical protein
+IAFGDHNC_00432	gene	414				
+IAFGDHNC_00432	CDS	414				hypothetical protein
+IAFGDHNC_00433	gene	750				
+IAFGDHNC_00433	CDS	750				hypothetical protein
+IAFGDHNC_00434	gene	183				
+IAFGDHNC_00434	CDS	183				hypothetical protein
+IAFGDHNC_00435	gene	450	hrp1_3			
+IAFGDHNC_00435	CDS	450	hrp1_3		COG0517	Hypoxic response protein 1
+IAFGDHNC_00436	gene	1182				
+IAFGDHNC_00436	CDS	1182				hypothetical protein
+IAFGDHNC_00437	gene	1323	ffh			
+IAFGDHNC_00437	CDS	1323	ffh		COG0541	Signal recognition particle protein
+IAFGDHNC_00438	gene	687				
+IAFGDHNC_00438	CDS	687				hypothetical protein
+IAFGDHNC_00439	gene	795				
+IAFGDHNC_00439	CDS	795				hypothetical protein
+IAFGDHNC_00440	gene	657				
+IAFGDHNC_00440	CDS	657				hypothetical protein
+IAFGDHNC_00441	gene	444				
+IAFGDHNC_00441	CDS	444				hypothetical protein
+IAFGDHNC_00442	gene	186				
+IAFGDHNC_00442	CDS	186				hypothetical protein
+IAFGDHNC_00443	gene	2013	der			
+IAFGDHNC_00443	CDS	2013	der			GTPase Der
+IAFGDHNC_00444	gene	822				
+IAFGDHNC_00444	CDS	822				hypothetical protein
+IAFGDHNC_00445	gene	411				
+IAFGDHNC_00445	CDS	411				hypothetical protein
+IAFGDHNC_00446	gene	807				
+IAFGDHNC_00446	CDS	807				hypothetical protein
+IAFGDHNC_00447	gene	525				
+IAFGDHNC_00447	CDS	525				hypothetical protein
+IAFGDHNC_00448	gene	915	fbiA			
+IAFGDHNC_00448	CDS	915	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+IAFGDHNC_00449	gene	759	fbiB_2			
+IAFGDHNC_00449	CDS	759	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+IAFGDHNC_00450	gene	984				
+IAFGDHNC_00450	CDS	984		1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+IAFGDHNC_00451	gene	516				
+IAFGDHNC_00451	CDS	516				hypothetical protein
+IAFGDHNC_00452	gene	1170	pucG			
+IAFGDHNC_00452	CDS	1170	pucG	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+IAFGDHNC_00453	gene	1254	hacA			
+IAFGDHNC_00453	CDS	1254	hacA	4.2.1.36	COG0065	Homoaconitase large subunit
+IAFGDHNC_00454	gene	498	DmdB_1			
+IAFGDHNC_00454	CDS	498	DmdB_1	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+IAFGDHNC_00455	gene	279	acyP			
+IAFGDHNC_00455	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+IAFGDHNC_00456	gene	201				
+IAFGDHNC_00456	CDS	201				hypothetical protein
+IAFGDHNC_00457	gene	666				
+IAFGDHNC_00457	CDS	666				hypothetical protein
+IAFGDHNC_00458	gene	558	resA_1			
+IAFGDHNC_00458	CDS	558	resA_1		COG0526	Thiol-disulfide oxidoreductase ResA
+IAFGDHNC_00459	gene	93				
+IAFGDHNC_00459	CDS	93				hypothetical protein
+IAFGDHNC_00460	gene	873				
+IAFGDHNC_00460	CDS	873				hypothetical protein
+IAFGDHNC_00461	gene	1155	rsxB_1			
+IAFGDHNC_00461	CDS	1155	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+IAFGDHNC_00462	gene	1014				
+IAFGDHNC_00462	CDS	1014				hypothetical protein
+IAFGDHNC_00463	gene	750	zupT_1			
+IAFGDHNC_00463	CDS	750	zupT_1			Zinc transporter ZupT
+IAFGDHNC_00464	gene	2169	ftsH_3			
+IAFGDHNC_00464	CDS	2169	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IAFGDHNC_00465	gene	228				
+IAFGDHNC_00465	CDS	228				hypothetical protein
+IAFGDHNC_00466	gene	603	qrcC			
+IAFGDHNC_00466	CDS	603	qrcC	1.97.-.-	COG0437	Menaquinone reductase, iron-sulfur cluster-binding subunit
+IAFGDHNC_00467	gene	1293				
+IAFGDHNC_00467	CDS	1293				hypothetical protein
+IAFGDHNC_00468	gene	201				
+IAFGDHNC_00468	CDS	201				hypothetical protein
+IAFGDHNC_00469	gene	1290				
+IAFGDHNC_00469	CDS	1290				hypothetical protein
+IAFGDHNC_00470	gene	1008	glnS			
+IAFGDHNC_00470	CDS	1008	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+IAFGDHNC_00471	gene	339				
+IAFGDHNC_00471	CDS	339				hypothetical protein
+IAFGDHNC_00472	gene	210				
+IAFGDHNC_00472	CDS	210				hypothetical protein
+IAFGDHNC_00473	gene	939	drrA_1			
+IAFGDHNC_00473	CDS	939	drrA_1	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IAFGDHNC_00474	gene	1128	lnrN			
+IAFGDHNC_00474	CDS	1128	lnrN		COG0842	Linearmycin resistance permease protein LnrN
+IAFGDHNC_00475	gene	357	trxA_1			
+IAFGDHNC_00475	CDS	357	trxA_1		COG0526	Thioredoxin
+IAFGDHNC_00476	gene	390	thyA			
+IAFGDHNC_00476	CDS	390	thyA	2.1.1.45		Thymidylate synthase
+IAFGDHNC_00477	gene	270				
+IAFGDHNC_00477	CDS	270				hypothetical protein
+IAFGDHNC_00478	gene	579				
+IAFGDHNC_00478	CDS	579				hypothetical protein
+IAFGDHNC_00479	gene	270	glyQS_1			
+IAFGDHNC_00479	CDS	270	glyQS_1	6.1.1.14	COG0423	Glycine--tRNA ligase
+IAFGDHNC_00480	gene	1188	glyQS_2			
+IAFGDHNC_00480	CDS	1188	glyQS_2	6.1.1.14		Glycine--tRNA ligase
+IAFGDHNC_00481	gene	810				
+IAFGDHNC_00481	CDS	810				hypothetical protein
+IAFGDHNC_00482	gene	690				
+IAFGDHNC_00482	CDS	690				hypothetical protein
+IAFGDHNC_00483	gene	294				
+IAFGDHNC_00483	CDS	294				hypothetical protein
+IAFGDHNC_00484	gene	1476				
+IAFGDHNC_00484	CDS	1476				hypothetical protein
+IAFGDHNC_00485	gene	1053				
+IAFGDHNC_00485	CDS	1053				hypothetical protein
+IAFGDHNC_00486	gene	219				
+IAFGDHNC_00486	CDS	219				hypothetical protein
+IAFGDHNC_00487	gene	963				
+IAFGDHNC_00487	CDS	963				hypothetical protein
+IAFGDHNC_00488	gene	1170	gadA			
+IAFGDHNC_00488	CDS	1170	gadA	4.1.1.15	COG0076	Glutamate decarboxylase
+IAFGDHNC_00489	gene	324	ytcD			
+IAFGDHNC_00489	CDS	324	ytcD		COG1733	putative HTH-type transcriptional regulator YtcD
+IAFGDHNC_00490	gene	726	dsbD			
+IAFGDHNC_00490	CDS	726	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+IAFGDHNC_00491	gene	1575	resA_2			
+IAFGDHNC_00491	CDS	1575	resA_2			Thiol-disulfide oxidoreductase ResA
+IAFGDHNC_00492	gene	1563				
+IAFGDHNC_00492	CDS	1563				hypothetical protein
+IAFGDHNC_00493	gene	504				
+IAFGDHNC_00493	CDS	504				hypothetical protein
+IAFGDHNC_00494	gene	342				
+IAFGDHNC_00494	CDS	342				hypothetical protein
+IAFGDHNC_00495	gene	732	egtC			
+IAFGDHNC_00495	CDS	732	egtC	3.5.1.118		Gamma-glutamyl-hercynylcysteine sulfoxide hydrolase
+IAFGDHNC_00496	gene	92				
+IAFGDHNC_00496	tRNA	92				tRNA-Leu(caa)
+IAFGDHNC_00497	gene	690	zupT_2			
+IAFGDHNC_00497	CDS	690	zupT_2			Zinc transporter ZupT
+IAFGDHNC_00498	gene	993				
+IAFGDHNC_00498	CDS	993				hypothetical protein
+IAFGDHNC_00499	gene	2001	ydhV			
+IAFGDHNC_00499	CDS	2001	ydhV	1.-.-.-	COG2414	putative oxidoreductase YdhV
+IAFGDHNC_00500	gene	657	serB			
+IAFGDHNC_00500	CDS	657	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+IAFGDHNC_00501	gene	723	folE2			
+IAFGDHNC_00501	CDS	723	folE2			GTP cyclohydrolase FolE2
+IAFGDHNC_00502	gene	1524				
+IAFGDHNC_00502	CDS	1524				hypothetical protein
+IAFGDHNC_00503	gene	249	mscK			
+IAFGDHNC_00503	CDS	249	mscK		COG3264	Mechanosensitive channel MscK
+IAFGDHNC_00504	gene	513				
+IAFGDHNC_00504	CDS	513				hypothetical protein
+IAFGDHNC_00505	gene	336				
+IAFGDHNC_00505	CDS	336				hypothetical protein
+IAFGDHNC_00506	gene	105				
+IAFGDHNC_00506	CDS	105				hypothetical protein
+IAFGDHNC_00507	gene	774				
+IAFGDHNC_00507	CDS	774				hypothetical protein
+IAFGDHNC_00508	gene	363				
+IAFGDHNC_00508	CDS	363				hypothetical protein
+IAFGDHNC_00509	gene	288				
+IAFGDHNC_00509	CDS	288				hypothetical protein
+IAFGDHNC_00510	gene	525				
+IAFGDHNC_00510	CDS	525				hypothetical protein
+IAFGDHNC_00511	gene	378				
+IAFGDHNC_00511	CDS	378				hypothetical protein
+IAFGDHNC_00512	gene	564				
+IAFGDHNC_00512	CDS	564				hypothetical protein
+IAFGDHNC_00513	gene	219				
+IAFGDHNC_00513	CDS	219				hypothetical protein
+IAFGDHNC_00514	gene	216				
+IAFGDHNC_00514	CDS	216				hypothetical protein
+IAFGDHNC_00515	gene	303				
+IAFGDHNC_00515	CDS	303				hypothetical protein
+IAFGDHNC_00516	gene	168				
+IAFGDHNC_00516	CDS	168				hypothetical protein
+IAFGDHNC_00517	gene	171				
+IAFGDHNC_00517	CDS	171				hypothetical protein
+IAFGDHNC_00518	gene	99				
+IAFGDHNC_00518	CDS	99				hypothetical protein
+IAFGDHNC_00519	gene	327				
+IAFGDHNC_00519	CDS	327				hypothetical protein
+IAFGDHNC_00520	gene	213				
+IAFGDHNC_00520	CDS	213				hypothetical protein
+IAFGDHNC_00521	gene	375				
+IAFGDHNC_00521	CDS	375				hypothetical protein
+IAFGDHNC_00522	gene	219				
+IAFGDHNC_00522	CDS	219				hypothetical protein
+IAFGDHNC_00523	gene	195				
+IAFGDHNC_00523	CDS	195				hypothetical protein
+IAFGDHNC_00524	gene	396	ndk			
+IAFGDHNC_00524	CDS	396	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+IAFGDHNC_00525	gene	1785	infB			
+IAFGDHNC_00525	CDS	1785	infB		COG0532	Translation initiation factor IF-2
+IAFGDHNC_00526	gene	909	folD			
+IAFGDHNC_00526	CDS	909	folD		COG0190	Bifunctional protein FolD protein
+IAFGDHNC_00527	gene	261				
+IAFGDHNC_00527	CDS	261				hypothetical protein
+IAFGDHNC_00528	gene	423				
+IAFGDHNC_00528	CDS	423				hypothetical protein
+IAFGDHNC_00529	gene	480				
+IAFGDHNC_00529	CDS	480				hypothetical protein
+IAFGDHNC_00530	gene	2778				
+IAFGDHNC_00530	CDS	2778				hypothetical protein
+IAFGDHNC_00531	gene	399				
+IAFGDHNC_00531	CDS	399				hypothetical protein
+IAFGDHNC_00532	gene	459				
+IAFGDHNC_00532	CDS	459				hypothetical protein
+IAFGDHNC_00533	gene	285				
+IAFGDHNC_00533	CDS	285				hypothetical protein
+IAFGDHNC_00534	gene	2241				
+IAFGDHNC_00534	CDS	2241				hypothetical protein
+IAFGDHNC_00535	gene	144				
+IAFGDHNC_00535	CDS	144				hypothetical protein
+IAFGDHNC_00536	gene	450				
+IAFGDHNC_00536	CDS	450				hypothetical protein
+IAFGDHNC_00537	gene	1923				
+IAFGDHNC_00537	CDS	1923				hypothetical protein
+IAFGDHNC_00538	gene	522	nfrA2			
+IAFGDHNC_00538	CDS	522	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+IAFGDHNC_00539	gene	252				
+IAFGDHNC_00539	CDS	252				hypothetical protein
+IAFGDHNC_00540	gene	336				
+IAFGDHNC_00540	CDS	336				hypothetical protein
+IAFGDHNC_00541	gene	255				
+IAFGDHNC_00541	CDS	255				hypothetical protein
+IAFGDHNC_00542	gene	633				
+IAFGDHNC_00542	CDS	633				hypothetical protein
+IAFGDHNC_00543	gene	645				
+IAFGDHNC_00543	CDS	645				hypothetical protein
+IAFGDHNC_00544	gene	1152				
+IAFGDHNC_00544	CDS	1152				hypothetical protein
+IAFGDHNC_00545	gene	693				
+IAFGDHNC_00545	CDS	693				hypothetical protein
+IAFGDHNC_00546	gene	1146				
+IAFGDHNC_00546	CDS	1146		1.8.5.4	COG0446	Sulfide-quinone reductase
+IAFGDHNC_00547	gene	96				
+IAFGDHNC_00547	CDS	96				hypothetical protein
+IAFGDHNC_00548	gene	159				
+IAFGDHNC_00548	CDS	159				hypothetical protein
+IAFGDHNC_00549	gene	1188	yfcJ			
+IAFGDHNC_00549	CDS	1188	yfcJ			putative MFS-type transporter YfcJ
+IAFGDHNC_00550	gene	492				
+IAFGDHNC_00550	CDS	492				hypothetical protein
+IAFGDHNC_00551	gene	825				
+IAFGDHNC_00551	CDS	825				hypothetical protein
+IAFGDHNC_00552	gene	447				
+IAFGDHNC_00552	CDS	447				hypothetical protein
+IAFGDHNC_00553	gene	348				
+IAFGDHNC_00553	CDS	348				hypothetical protein
+IAFGDHNC_00554	gene	465				
+IAFGDHNC_00554	CDS	465				hypothetical protein
+IAFGDHNC_00555	gene	633	nfi			
+IAFGDHNC_00555	CDS	633	nfi	3.1.21.7		Endonuclease V
+IAFGDHNC_00556	gene	645				
+IAFGDHNC_00556	CDS	645				hypothetical protein
+IAFGDHNC_00557	gene	468				
+IAFGDHNC_00557	CDS	468				hypothetical protein
+IAFGDHNC_00558	gene	189				
+IAFGDHNC_00558	CDS	189				hypothetical protein
+IAFGDHNC_00559	gene	291				
+IAFGDHNC_00559	CDS	291				hypothetical protein
+IAFGDHNC_00560	gene	222				
+IAFGDHNC_00560	CDS	222				hypothetical protein
+IAFGDHNC_00561	gene	243				
+IAFGDHNC_00561	CDS	243				hypothetical protein
+IAFGDHNC_00562	gene	88				
+IAFGDHNC_00562	tRNA	88				tRNA-Ser(tga)
+IAFGDHNC_00563	gene	612				
+IAFGDHNC_00563	CDS	612				hypothetical protein
+IAFGDHNC_00564	gene	519	DmdB_2			
+IAFGDHNC_00564	CDS	519	DmdB_2	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+IAFGDHNC_00565	gene	1281	dmdA			
+IAFGDHNC_00565	CDS	1281	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+IAFGDHNC_00566	gene	963	citZ			
+IAFGDHNC_00566	CDS	963	citZ	2.3.3.16	COG0372	Citrate synthase 2
+IAFGDHNC_00567	gene	936	kdgK			
+IAFGDHNC_00567	CDS	936	kdgK	2.7.1.45	COG0524	2-dehydro-3-deoxygluconokinase
+IAFGDHNC_00568	gene	906	dapA			
+IAFGDHNC_00568	CDS	906	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+IAFGDHNC_00569	gene	1269	rspA			
+IAFGDHNC_00569	CDS	1269	rspA	4.2.1.-	COG4948	D-galactonate dehydratase family member RspA
+IAFGDHNC_00570	gene	93				
+IAFGDHNC_00570	CDS	93				hypothetical protein
+IAFGDHNC_00571	gene	1365	algC			
+IAFGDHNC_00571	CDS	1365	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+IAFGDHNC_00572	gene	972	thiL_1			
+IAFGDHNC_00572	CDS	972	thiL_1	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+IAFGDHNC_00573	gene	1335	glmM			
+IAFGDHNC_00573	CDS	1335	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+IAFGDHNC_00574	gene	330				
+IAFGDHNC_00574	CDS	330			COG0640	putative HTH-type transcriptional regulator
+IAFGDHNC_00575	gene	1404	merA			
+IAFGDHNC_00575	CDS	1404	merA	1.16.1.1		Mercuric reductase
+IAFGDHNC_00576	gene	126				
+IAFGDHNC_00576	CDS	126				hypothetical protein
+IAFGDHNC_00577	gene	156				
+IAFGDHNC_00577	CDS	156				hypothetical protein
+IAFGDHNC_00578	gene	180				
+IAFGDHNC_00578	CDS	180				hypothetical protein
+IAFGDHNC_00579	gene	450				
+IAFGDHNC_00579	CDS	450				hypothetical protein
+IAFGDHNC_00580	gene	1422				
+IAFGDHNC_00580	CDS	1422				hypothetical protein
+IAFGDHNC_00581	gene	252				
+IAFGDHNC_00581	CDS	252				hypothetical protein
+IAFGDHNC_00582	gene	672	ecfA1			
+IAFGDHNC_00582	CDS	672	ecfA1	7.-.-.-		Energy-coupling factor transporter ATP-binding protein EcfA1
+IAFGDHNC_00583	gene	816	ecfA3			
+IAFGDHNC_00583	CDS	816	ecfA3	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA3
+IAFGDHNC_00584	gene	732	ecfT			
+IAFGDHNC_00584	CDS	732	ecfT			Energy-coupling factor transporter transmembrane protein EcfT
+IAFGDHNC_00585	gene	621				
+IAFGDHNC_00585	CDS	621				hypothetical protein
+IAFGDHNC_00586	gene	2088	fusA			
+IAFGDHNC_00586	CDS	2088	fusA		COG0480	Elongation factor G
+IAFGDHNC_00587	gene	921	pimA			
+IAFGDHNC_00587	CDS	921	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+IAFGDHNC_00588	gene	453	IMPDH			
+IAFGDHNC_00588	CDS	453	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+IAFGDHNC_00589	gene	705	COQ5			
+IAFGDHNC_00589	CDS	705	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+IAFGDHNC_00590	gene	789				
+IAFGDHNC_00590	CDS	789		2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+IAFGDHNC_00591	gene	165				
+IAFGDHNC_00591	CDS	165				hypothetical protein
+IAFGDHNC_00592	gene	1620	sir			
+IAFGDHNC_00592	CDS	1620	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+IAFGDHNC_00593	gene	1320	hisD			
+IAFGDHNC_00593	CDS	1320	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+IAFGDHNC_00594	gene	984	hisG			
+IAFGDHNC_00594	CDS	984	hisG	2.4.2.17		ATP phosphoribosyltransferase
+IAFGDHNC_00595	gene	300				
+IAFGDHNC_00595	CDS	300				hypothetical protein
+IAFGDHNC_00596	gene	243				
+IAFGDHNC_00596	CDS	243				hypothetical protein
+IAFGDHNC_00597	gene	1707	deaD			
+IAFGDHNC_00597	CDS	1707	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+IAFGDHNC_00598	gene	792				
+IAFGDHNC_00598	CDS	792				hypothetical protein
+IAFGDHNC_00599	gene	1500	pepA			
+IAFGDHNC_00599	CDS	1500	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+IAFGDHNC_00600	gene	687				
+IAFGDHNC_00600	CDS	687				hypothetical protein
+IAFGDHNC_00601	gene	330				
+IAFGDHNC_00601	CDS	330				hypothetical protein
+IAFGDHNC_00602	gene	891				
+IAFGDHNC_00602	CDS	891				hypothetical protein
+IAFGDHNC_00603	gene	873				
+IAFGDHNC_00603	CDS	873				hypothetical protein
+IAFGDHNC_00604	gene	1839	korA			
+IAFGDHNC_00604	CDS	1839	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+IAFGDHNC_00605	gene	420				
+IAFGDHNC_00605	CDS	420				hypothetical protein
+IAFGDHNC_00606	gene	420				
+IAFGDHNC_00606	CDS	420				hypothetical protein
+IAFGDHNC_00607	gene	1263	coaBC			
+IAFGDHNC_00607	CDS	1263	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+IAFGDHNC_00608	gene	954				
+IAFGDHNC_00608	CDS	954				hypothetical protein
+IAFGDHNC_00609	gene	435				
+IAFGDHNC_00609	CDS	435				hypothetical protein
+IAFGDHNC_00610	gene	285				
+IAFGDHNC_00610	CDS	285				hypothetical protein
+IAFGDHNC_00611	gene	156				
+IAFGDHNC_00611	CDS	156				hypothetical protein
+IAFGDHNC_00612	gene	777	rsxB_2			
+IAFGDHNC_00612	CDS	777	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+IAFGDHNC_00613	gene	1215				
+IAFGDHNC_00613	CDS	1215				hypothetical protein
+IAFGDHNC_00614	gene	177				
+IAFGDHNC_00614	CDS	177				hypothetical protein
+IAFGDHNC_00615	gene	1494				
+IAFGDHNC_00615	CDS	1494				hypothetical protein
+IAFGDHNC_00616	gene	1227				
+IAFGDHNC_00616	CDS	1227				hypothetical protein
+IAFGDHNC_00617	gene	216				
+IAFGDHNC_00617	CDS	216				hypothetical protein
+IAFGDHNC_00618	gene	837				
+IAFGDHNC_00618	CDS	837				hypothetical protein
+IAFGDHNC_00619	gene	255				
+IAFGDHNC_00619	CDS	255				hypothetical protein
+IAFGDHNC_00620	gene	315	rpsJ			
+IAFGDHNC_00620	CDS	315	rpsJ			30S ribosomal protein S10
+IAFGDHNC_00621	gene	165				
+IAFGDHNC_00621	CDS	165				hypothetical protein
+IAFGDHNC_00622	gene	792				
+IAFGDHNC_00622	CDS	792				hypothetical protein
+IAFGDHNC_00623	gene	1464	rtcB			
+IAFGDHNC_00623	CDS	1464	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+IAFGDHNC_00624	gene	771				
+IAFGDHNC_00624	CDS	771				hypothetical protein
+IAFGDHNC_00625	gene	372				
+IAFGDHNC_00625	CDS	372				hypothetical protein
+IAFGDHNC_00626	gene	855				
+IAFGDHNC_00626	CDS	855				hypothetical protein
+IAFGDHNC_00627	gene	1098				
+IAFGDHNC_00627	CDS	1098				hypothetical protein
+IAFGDHNC_00628	gene	654	cysG			
+IAFGDHNC_00628	CDS	654	cysG		COG0007	Siroheme synthase
+IAFGDHNC_00629	gene	984	hemB			
+IAFGDHNC_00629	CDS	984	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+IAFGDHNC_00630	gene	240				
+IAFGDHNC_00630	CDS	240				hypothetical protein
+IAFGDHNC_00631	gene	954				
+IAFGDHNC_00631	CDS	954				hypothetical protein
+IAFGDHNC_00632	gene	810	menA_1			
+IAFGDHNC_00632	CDS	810	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IAFGDHNC_00633	gene	426				
+IAFGDHNC_00633	CDS	426				hypothetical protein
+IAFGDHNC_00634	gene	390	ybaN			
+IAFGDHNC_00634	CDS	390	ybaN		COG2832	Inner membrane protein YbaN
+IAFGDHNC_00635	gene	501				
+IAFGDHNC_00635	CDS	501				hypothetical protein
+IAFGDHNC_00636	gene	651				
+IAFGDHNC_00636	CDS	651				hypothetical protein
+IAFGDHNC_00637	gene	621				
+IAFGDHNC_00637	CDS	621		7.6.2.-	COG1131	Multidrug efflux system ATP-binding protein
+IAFGDHNC_00638	gene	300	atpF			
+IAFGDHNC_00638	CDS	300	atpF			V-type ATP synthase subunit F
+IAFGDHNC_00639	gene	609	atpE			
+IAFGDHNC_00639	CDS	609	atpE			V-type proton ATPase subunit E
+IAFGDHNC_00640	gene	450				
+IAFGDHNC_00640	CDS	450				hypothetical protein
+IAFGDHNC_00641	gene	1335	hemA			
+IAFGDHNC_00641	CDS	1335	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+IAFGDHNC_00642	gene	453	decR			
+IAFGDHNC_00642	CDS	453	decR		COG1522	DNA-binding transcriptional activator DecR
+IAFGDHNC_00643	gene	579	gluP			
+IAFGDHNC_00643	CDS	579	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+IAFGDHNC_00644	gene	195				
+IAFGDHNC_00644	CDS	195				hypothetical protein
+IAFGDHNC_00645	gene	306				
+IAFGDHNC_00645	CDS	306				hypothetical protein
+IAFGDHNC_00646	gene	1398	cysS_2			
+IAFGDHNC_00646	CDS	1398	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase
+IAFGDHNC_00647	gene	270				
+IAFGDHNC_00647	CDS	270				hypothetical protein
+IAFGDHNC_00648	gene	1209	lysC			
+IAFGDHNC_00648	CDS	1209	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+IAFGDHNC_00649	gene	1086	pyrG			
+IAFGDHNC_00649	CDS	1086	pyrG	6.3.4.2		CTP synthase
+IAFGDHNC_00650	gene	993	thiL_2			
+IAFGDHNC_00650	CDS	993	thiL_2	2.7.4.16		Thiamine-monophosphate kinase
+IAFGDHNC_00651	gene	801				
+IAFGDHNC_00651	CDS	801				hypothetical protein
+IAFGDHNC_00652	gene	1512	trpB_1			
+IAFGDHNC_00652	CDS	1512	trpB_1	4.2.1.20		Tryptophan synthase beta chain
+IAFGDHNC_00653	gene	783	fabG_2			
+IAFGDHNC_00653	CDS	783	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IAFGDHNC_00654	gene	585				
+IAFGDHNC_00654	CDS	585				hypothetical protein
+IAFGDHNC_00655	gene	909	mneP			
+IAFGDHNC_00655	CDS	909	mneP		COG0053	Manganese efflux system protein MneP
+IAFGDHNC_00656	gene	1278	macB_1			
+IAFGDHNC_00656	CDS	1278	macB_1	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+IAFGDHNC_00657	gene	3543				
+IAFGDHNC_00657	CDS	3543				hypothetical protein
+IAFGDHNC_00658	gene	732	yknY_1			
+IAFGDHNC_00658	CDS	732	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+IAFGDHNC_00659	gene	534				
+IAFGDHNC_00659	CDS	534				hypothetical protein
+IAFGDHNC_00660	gene	114				
+IAFGDHNC_00660	CDS	114				hypothetical protein
+IAFGDHNC_00661	gene	858				
+IAFGDHNC_00661	CDS	858				hypothetical protein
+IAFGDHNC_00662	gene	129				
+IAFGDHNC_00662	CDS	129				hypothetical protein
+IAFGDHNC_00663	gene	1044				
+IAFGDHNC_00663	CDS	1044				hypothetical protein
+IAFGDHNC_00664	gene	843				
+IAFGDHNC_00664	CDS	843				hypothetical protein
+IAFGDHNC_00665	gene	1044				
+IAFGDHNC_00665	CDS	1044				hypothetical protein
+IAFGDHNC_00666	gene	465				
+IAFGDHNC_00666	CDS	465				hypothetical protein
+IAFGDHNC_00667	gene	858				
+IAFGDHNC_00667	CDS	858				hypothetical protein
+IAFGDHNC_00668	gene	1449	ndhB_1			
+IAFGDHNC_00668	CDS	1449	ndhB_1	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+IAFGDHNC_00669	gene	1467	ndhD1			
+IAFGDHNC_00669	CDS	1467	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+IAFGDHNC_00670	gene	999	ndhB_2			
+IAFGDHNC_00670	CDS	999	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+IAFGDHNC_00671	gene	534				
+IAFGDHNC_00671	CDS	534				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+IAFGDHNC_00672	gene	1047	rtcA			
+IAFGDHNC_00672	CDS	1047	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+IAFGDHNC_00673	gene	594	prcB_1			
+IAFGDHNC_00673	CDS	594	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+IAFGDHNC_00674	gene	972				
+IAFGDHNC_00674	CDS	972				hypothetical protein
+IAFGDHNC_00675	gene	150				
+IAFGDHNC_00675	CDS	150				hypothetical protein
+IAFGDHNC_00676	gene	711				
+IAFGDHNC_00676	CDS	711				hypothetical protein
+IAFGDHNC_00677	gene	162				
+IAFGDHNC_00677	CDS	162				hypothetical protein
+IAFGDHNC_00678	gene	291				
+IAFGDHNC_00678	CDS	291				hypothetical protein
+IAFGDHNC_00679	gene	1131				
+IAFGDHNC_00679	CDS	1131				hypothetical protein
+IAFGDHNC_00680	gene	1668	ilvD			
+IAFGDHNC_00680	CDS	1668	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+IAFGDHNC_00681	gene	432				
+IAFGDHNC_00681	CDS	432				hypothetical protein
+IAFGDHNC_00682	gene	1446				
+IAFGDHNC_00682	CDS	1446				hypothetical protein
+IAFGDHNC_00683	gene	936				
+IAFGDHNC_00683	CDS	936				hypothetical protein
+IAFGDHNC_00684	gene	402				
+IAFGDHNC_00684	CDS	402				hypothetical protein
+IAFGDHNC_00685	gene	510				
+IAFGDHNC_00685	CDS	510				hypothetical protein
+IAFGDHNC_00686	gene	693	murJ			
+IAFGDHNC_00686	CDS	693	murJ			lipid II flippase MurJ
+IAFGDHNC_00687	gene	3156	ileS			
+IAFGDHNC_00687	CDS	3156	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+IAFGDHNC_00688	gene	666				
+IAFGDHNC_00688	CDS	666				hypothetical protein
+IAFGDHNC_00689	gene	1098	obg			
+IAFGDHNC_00689	CDS	1098	obg	3.6.5.-		GTPase Obg
+IAFGDHNC_00690	gene	252	rlmCD			
+IAFGDHNC_00690	CDS	252	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+IAFGDHNC_00691	gene	627	resA_3			
+IAFGDHNC_00691	CDS	627	resA_3			Thiol-disulfide oxidoreductase ResA
+IAFGDHNC_00692	gene	246				
+IAFGDHNC_00692	CDS	246				hypothetical protein
+IAFGDHNC_00693	gene	534				
+IAFGDHNC_00693	CDS	534				hypothetical protein
+IAFGDHNC_00694	gene	660				
+IAFGDHNC_00694	CDS	660				hypothetical protein
+IAFGDHNC_00695	gene	534	metH			
+IAFGDHNC_00695	CDS	534	metH	2.1.1.13	COG0646	Methionine synthase
+IAFGDHNC_00696	gene	393	resA_4			
+IAFGDHNC_00696	CDS	393	resA_4		COG0526	Thiol-disulfide oxidoreductase ResA
+IAFGDHNC_00697	gene	291				
+IAFGDHNC_00697	CDS	291				hypothetical protein
+IAFGDHNC_00698	gene	336				
+IAFGDHNC_00698	CDS	336				hypothetical protein
+IAFGDHNC_00699	gene	363				
+IAFGDHNC_00699	CDS	363				hypothetical protein
+IAFGDHNC_00700	gene	759				
+IAFGDHNC_00700	CDS	759				hypothetical protein
+IAFGDHNC_00701	gene	1071				
+IAFGDHNC_00701	CDS	1071				hypothetical protein
+IAFGDHNC_00702	gene	705	kaiC_2			
+IAFGDHNC_00702	CDS	705	kaiC_2	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+IAFGDHNC_00703	gene	1365				
+IAFGDHNC_00703	CDS	1365				hypothetical protein
+IAFGDHNC_00704	gene	912				
+IAFGDHNC_00704	CDS	912				hypothetical protein
+IAFGDHNC_00705	gene	381	ligD			
+IAFGDHNC_00705	CDS	381	ligD		COG1793	Multifunctional non-homologous end joining protein LigD
+IAFGDHNC_00706	gene	1461	purB			
+IAFGDHNC_00706	CDS	1461	purB	4.3.2.2		Adenylosuccinate lyase
+IAFGDHNC_00707	gene	276	purS			
+IAFGDHNC_00707	CDS	276	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+IAFGDHNC_00708	gene	705	purQ			
+IAFGDHNC_00708	CDS	705	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IAFGDHNC_00709	gene	1395	pmt			
+IAFGDHNC_00709	CDS	1395	pmt	2.4.1.109	COG1928	putative dolichyl-phosphate-mannose--protein mannosyltransferase
+IAFGDHNC_00710	gene	1056	purM			
+IAFGDHNC_00710	CDS	1056	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+IAFGDHNC_00711	gene	846	purC			
+IAFGDHNC_00711	CDS	846	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IAFGDHNC_00712	gene	447	purE			
+IAFGDHNC_00712	CDS	447	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+IAFGDHNC_00713	gene	1431	purF			
+IAFGDHNC_00713	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+IAFGDHNC_00714	gene	1398	purL			
+IAFGDHNC_00714	CDS	1398	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+IAFGDHNC_00715	gene	489	dsrE2			
+IAFGDHNC_00715	CDS	489	dsrE2		COG2210	Sulfur carrier protein DsrE2
+IAFGDHNC_00716	gene	240	tusA_1			
+IAFGDHNC_00716	CDS	240	tusA_1		COG0425	Sulfur carrier protein TusA
+IAFGDHNC_00717	gene	282				
+IAFGDHNC_00717	CDS	282				hypothetical protein
+IAFGDHNC_00718	gene	357				
+IAFGDHNC_00718	CDS	357				hypothetical protein
+IAFGDHNC_00719	gene	450				
+IAFGDHNC_00719	CDS	450				hypothetical protein
+IAFGDHNC_00720	gene	522				
+IAFGDHNC_00720	CDS	522				hypothetical protein
+IAFGDHNC_00721	gene	519				
+IAFGDHNC_00721	CDS	519				hypothetical protein
+IAFGDHNC_00722	gene	969	trxB_2			
+IAFGDHNC_00722	CDS	969	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+IAFGDHNC_00723	gene	438				
+IAFGDHNC_00723	CDS	438				hypothetical protein
+IAFGDHNC_00724	gene	282				
+IAFGDHNC_00724	CDS	282				hypothetical protein
+IAFGDHNC_00725	gene	1344	hemL			
+IAFGDHNC_00725	CDS	1344	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+IAFGDHNC_00726	gene	651				
+IAFGDHNC_00726	CDS	651				hypothetical protein
+IAFGDHNC_00727	gene	1926	nqrF			
+IAFGDHNC_00727	CDS	1926	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+IAFGDHNC_00728	gene	900	mtgA			
+IAFGDHNC_00728	CDS	900	mtgA	2.1.1.-	COG1962	Methylcorrinoid:tetrahydrofolate methyltransferase
+IAFGDHNC_00729	gene	282				
+IAFGDHNC_00729	CDS	282				hypothetical protein
+IAFGDHNC_00730	gene	1065				
+IAFGDHNC_00730	CDS	1065				hypothetical protein
+IAFGDHNC_00731	gene	75				
+IAFGDHNC_00731	tRNA	75				tRNA-Lys(ctt)
+IAFGDHNC_00732	gene	504				
+IAFGDHNC_00732	CDS	504				hypothetical protein
+IAFGDHNC_00733	gene	432				
+IAFGDHNC_00733	CDS	432				hypothetical protein
+IAFGDHNC_00734	gene	408				
+IAFGDHNC_00734	CDS	408			COG0864	Putative nickel-responsive regulator
+IAFGDHNC_00735	gene	378				
+IAFGDHNC_00735	CDS	378				hypothetical protein
+IAFGDHNC_00736	gene	1770	glmS_2			
+IAFGDHNC_00736	CDS	1770	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IAFGDHNC_00737	gene	201				
+IAFGDHNC_00737	CDS	201				hypothetical protein
+IAFGDHNC_00738	gene	1107	TOP6A			
+IAFGDHNC_00738	CDS	1107	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+IAFGDHNC_00739	gene	1467	TOP6B			
+IAFGDHNC_00739	CDS	1467	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+IAFGDHNC_00740	gene	507				
+IAFGDHNC_00740	CDS	507				hypothetical protein
+IAFGDHNC_00741	gene	819				
+IAFGDHNC_00741	CDS	819				hypothetical protein
+IAFGDHNC_00742	gene	312				
+IAFGDHNC_00742	CDS	312				hypothetical protein
+IAFGDHNC_00743	gene	1248	ahcY			
+IAFGDHNC_00743	CDS	1248	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+IAFGDHNC_00744	gene	1260				
+IAFGDHNC_00744	CDS	1260				hypothetical protein
+IAFGDHNC_00745	gene	957				
+IAFGDHNC_00745	CDS	957				hypothetical protein
+IAFGDHNC_00746	gene	1329				
+IAFGDHNC_00746	CDS	1329				hypothetical protein
+IAFGDHNC_00747	gene	183				
+IAFGDHNC_00747	CDS	183				hypothetical protein
+IAFGDHNC_00748	gene	219				
+IAFGDHNC_00748	CDS	219				hypothetical protein
+IAFGDHNC_00749	gene	1299	eno			
+IAFGDHNC_00749	CDS	1299	eno	4.2.1.11	COG0148	Enolase
+IAFGDHNC_00750	gene	1377				
+IAFGDHNC_00750	CDS	1377		2.7.1.165	COG2379	D-glycerate 2-kinase
+IAFGDHNC_00751	gene	717				
+IAFGDHNC_00751	CDS	717				hypothetical protein
+IAFGDHNC_00752	gene	429				
+IAFGDHNC_00752	CDS	429				hypothetical protein
+IAFGDHNC_00753	gene	1515	ribZ			
+IAFGDHNC_00753	CDS	1515	ribZ			Riboflavin transporter RibZ
+IAFGDHNC_00754	gene	1866	bamB			
+IAFGDHNC_00754	CDS	1866	bamB			Outer membrane protein assembly factor BamB
+IAFGDHNC_00755	gene	441				
+IAFGDHNC_00755	CDS	441				hypothetical protein
+IAFGDHNC_00756	gene	165				
+IAFGDHNC_00756	CDS	165				hypothetical protein
+IAFGDHNC_00757	gene	1128				
+IAFGDHNC_00757	CDS	1128				hypothetical protein
+IAFGDHNC_00758	gene	1071	fni			
+IAFGDHNC_00758	CDS	1071	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+IAFGDHNC_00759	gene	579	glpG			
+IAFGDHNC_00759	CDS	579	glpG	3.4.21.105		Rhomboid protease GlpG
+IAFGDHNC_00760	gene	279				
+IAFGDHNC_00760	CDS	279				hypothetical protein
+IAFGDHNC_00761	gene	1101	hypE			
+IAFGDHNC_00761	CDS	1101	hypE	4.2.1.-		Carbamoyl dehydratase HypE
+IAFGDHNC_00762	gene	555	thiT			
+IAFGDHNC_00762	CDS	555	thiT		COG3859	Thiamine transporter ThiT
+IAFGDHNC_00763	gene	948				
+IAFGDHNC_00763	CDS	948				hypothetical protein
+IAFGDHNC_00764	gene	453	gpt			
+IAFGDHNC_00764	CDS	453	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+IAFGDHNC_00765	gene	216	yccU			
+IAFGDHNC_00765	CDS	216	yccU		COG1832	putative protein YccU
+IAFGDHNC_00766	gene	642				
+IAFGDHNC_00766	CDS	642				hypothetical protein
+IAFGDHNC_00767	gene	552	cobO			
+IAFGDHNC_00767	CDS	552	cobO	2.5.1.17		Corrinoid adenosyltransferase
+IAFGDHNC_00768	gene	336				
+IAFGDHNC_00768	CDS	336				hypothetical protein
+IAFGDHNC_00769	gene	189				
+IAFGDHNC_00769	CDS	189				hypothetical protein
+IAFGDHNC_00770	gene	552				
+IAFGDHNC_00770	CDS	552				hypothetical protein
+IAFGDHNC_00771	gene	1320	rnj			
+IAFGDHNC_00771	CDS	1320	rnj	3.1.-.-	COG0595	Ribonuclease J
+IAFGDHNC_00772	gene	258	rsxB_3			
+IAFGDHNC_00772	CDS	258	rsxB_3	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+IAFGDHNC_00773	gene	846	nfo			
+IAFGDHNC_00773	CDS	846	nfo	3.1.21.2	COG0648	putative endonuclease 4
+IAFGDHNC_00774	gene	273				
+IAFGDHNC_00774	CDS	273				hypothetical protein
+IAFGDHNC_00775	gene	651				
+IAFGDHNC_00775	CDS	651				hypothetical protein
+IAFGDHNC_00776	gene	435				
+IAFGDHNC_00776	CDS	435				hypothetical protein
+IAFGDHNC_00777	gene	402				
+IAFGDHNC_00777	CDS	402				hypothetical protein
+IAFGDHNC_00778	gene	2946				
+IAFGDHNC_00778	CDS	2946			COG0247	putative protein
+IAFGDHNC_00779	gene	915	mdh			
+IAFGDHNC_00779	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+IAFGDHNC_00780	gene	1173				
+IAFGDHNC_00780	CDS	1173		1.18.1.2		Ferredoxin--NADP reductase
+IAFGDHNC_00781	gene	399	iscU			
+IAFGDHNC_00781	CDS	399	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+IAFGDHNC_00782	gene	1233	iscS			
+IAFGDHNC_00782	CDS	1233	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+IAFGDHNC_00783	gene	291				
+IAFGDHNC_00783	CDS	291				hypothetical protein
+IAFGDHNC_00784	gene	315	tusA_2			
+IAFGDHNC_00784	CDS	315	tusA_2			Sulfur carrier protein TusA
+IAFGDHNC_00785	gene	549				
+IAFGDHNC_00785	CDS	549				hypothetical protein
+IAFGDHNC_00786	gene	276				
+IAFGDHNC_00786	CDS	276				hypothetical protein
+IAFGDHNC_00787	gene	1686				
+IAFGDHNC_00787	CDS	1686				hypothetical protein
+IAFGDHNC_00788	gene	1821	pckG			
+IAFGDHNC_00788	CDS	1821	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+IAFGDHNC_00789	gene	1560	menA_2			
+IAFGDHNC_00789	CDS	1560	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IAFGDHNC_00790	gene	1104	fprA			
+IAFGDHNC_00790	CDS	1104	fprA	1.-.-.-	COG0426	Nitric oxide reductase
+IAFGDHNC_00791	gene	333	trpF			
+IAFGDHNC_00791	CDS	333	trpF	5.3.1.24		N-(5'-phosphoribosyl)anthranilate isomerase
+IAFGDHNC_00792	gene	1206	trpB_2			
+IAFGDHNC_00792	CDS	1206	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+IAFGDHNC_00793	gene	702	trpA			
+IAFGDHNC_00793	CDS	702	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+IAFGDHNC_00794	gene	258				
+IAFGDHNC_00794	CDS	258				hypothetical protein
+IAFGDHNC_00795	gene	705	pyrH			
+IAFGDHNC_00795	CDS	705	pyrH	2.7.4.22	COG0528	Uridylate kinase
+IAFGDHNC_00796	gene	840				
+IAFGDHNC_00796	CDS	840				hypothetical protein
+IAFGDHNC_00797	gene	186	moaC			
+IAFGDHNC_00797	CDS	186	moaC			Cyclic pyranopterin monophosphate synthase
+IAFGDHNC_00798	gene	525	moaB			
+IAFGDHNC_00798	CDS	525	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+IAFGDHNC_00799	gene	348				
+IAFGDHNC_00799	CDS	348				hypothetical protein
+IAFGDHNC_00800	gene	1209				
+IAFGDHNC_00800	CDS	1209				hypothetical protein
+IAFGDHNC_00801	gene	846	cyoE			
+IAFGDHNC_00801	CDS	846	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+IAFGDHNC_00802	gene	537				
+IAFGDHNC_00802	CDS	537				hypothetical protein
+IAFGDHNC_00803	gene	186				
+IAFGDHNC_00803	CDS	186				hypothetical protein
+IAFGDHNC_00804	gene	300				
+IAFGDHNC_00804	CDS	300				hypothetical protein
+IAFGDHNC_00805	gene	501	mtnA_1			
+IAFGDHNC_00805	CDS	501	mtnA_1	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+IAFGDHNC_00806	gene	522	mtnA_2			
+IAFGDHNC_00806	CDS	522	mtnA_2	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+IAFGDHNC_00807	gene	96				
+IAFGDHNC_00807	tRNA	96				tRNA-Leu(aag)
+IAFGDHNC_00808	gene	243				
+IAFGDHNC_00808	CDS	243				hypothetical protein
+IAFGDHNC_00809	gene	315	ppiB			
+IAFGDHNC_00809	CDS	315	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+IAFGDHNC_00810	gene	582				
+IAFGDHNC_00810	CDS	582				hypothetical protein
+IAFGDHNC_00811	gene	1317				
+IAFGDHNC_00811	CDS	1317				hypothetical protein
+IAFGDHNC_00812	gene	720	cugP_1			
+IAFGDHNC_00812	CDS	720	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IAFGDHNC_00813	gene	858	ctaB			
+IAFGDHNC_00813	CDS	858	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+IAFGDHNC_00814	gene	315	tatA_1			
+IAFGDHNC_00814	CDS	315	tatA_1			Sec-independent protein translocase protein TatA
+IAFGDHNC_00815	gene	390	tatA_2			
+IAFGDHNC_00815	CDS	390	tatA_2			Sec-independent protein translocase protein TatA
+IAFGDHNC_00816	gene	801	tatC			
+IAFGDHNC_00816	CDS	801	tatC		COG0805	Sec-independent protein translocase protein TatC
+IAFGDHNC_00817	gene	357				
+IAFGDHNC_00817	CDS	357				hypothetical protein
+IAFGDHNC_00818	gene	273				
+IAFGDHNC_00818	CDS	273				hypothetical protein
+IAFGDHNC_00819	gene	150				
+IAFGDHNC_00819	CDS	150				hypothetical protein
+IAFGDHNC_00820	gene	186				
+IAFGDHNC_00820	CDS	186				hypothetical protein
+IAFGDHNC_00821	gene	279				
+IAFGDHNC_00821	CDS	279				hypothetical protein
+IAFGDHNC_00822	gene	147				
+IAFGDHNC_00822	CDS	147				hypothetical protein
+IAFGDHNC_00823	gene	2673				
+IAFGDHNC_00823	CDS	2673				hypothetical protein
+IAFGDHNC_00824	gene	1479	gltD			
+IAFGDHNC_00824	CDS	1479	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+IAFGDHNC_00825	gene	2382				
+IAFGDHNC_00825	CDS	2382				hypothetical protein
+IAFGDHNC_00826	gene	438				
+IAFGDHNC_00826	CDS	438				hypothetical protein
+IAFGDHNC_00827	gene	753	gpgS			
+IAFGDHNC_00827	CDS	753	gpgS	2.4.1.266	COG0463	Glucosyl-3-phosphoglycerate synthase
+IAFGDHNC_00828	gene	1527	msrP			
+IAFGDHNC_00828	CDS	1527	msrP	1.8.5.-		Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IAFGDHNC_00829	gene	1218				
+IAFGDHNC_00829	CDS	1218				hypothetical protein
+IAFGDHNC_00830	gene	552				
+IAFGDHNC_00830	CDS	552				hypothetical protein
+IAFGDHNC_00831	gene	513				
+IAFGDHNC_00831	CDS	513				hypothetical protein
+IAFGDHNC_00832	gene	189				
+IAFGDHNC_00832	CDS	189				hypothetical protein
+IAFGDHNC_00833	gene	582	rnr			
+IAFGDHNC_00833	CDS	582	rnr	3.1.13.1		Ribonuclease R
+IAFGDHNC_00834	gene	381				
+IAFGDHNC_00834	CDS	381				hypothetical protein
+IAFGDHNC_00835	gene	678				
+IAFGDHNC_00835	CDS	678				hypothetical protein
+IAFGDHNC_00836	gene	567	resA_5			
+IAFGDHNC_00836	CDS	567	resA_5			Thiol-disulfide oxidoreductase ResA
+IAFGDHNC_00837	gene	1476	gatA			
+IAFGDHNC_00837	CDS	1476	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+IAFGDHNC_00838	gene	1449	gatB			
+IAFGDHNC_00838	CDS	1449	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IAFGDHNC_00839	gene	1167	murG			
+IAFGDHNC_00839	CDS	1167	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IAFGDHNC_00840	gene	624				
+IAFGDHNC_00840	CDS	624				hypothetical protein
+IAFGDHNC_00841	gene	486				
+IAFGDHNC_00841	CDS	486				hypothetical protein
+IAFGDHNC_00842	gene	591				
+IAFGDHNC_00842	CDS	591				hypothetical protein
+IAFGDHNC_00843	gene	1959				
+IAFGDHNC_00843	CDS	1959				hypothetical protein
+IAFGDHNC_00844	gene	288				
+IAFGDHNC_00844	CDS	288				hypothetical protein
+IAFGDHNC_00845	gene	372				
+IAFGDHNC_00845	CDS	372				hypothetical protein
+IAFGDHNC_00846	gene	912	recA			
+IAFGDHNC_00846	CDS	912	recA			Protein RecA
+IAFGDHNC_00847	gene	777	nucS			
+IAFGDHNC_00847	CDS	777	nucS	3.1.-.-	COG1637	Endonuclease NucS
+IAFGDHNC_00848	gene	240				
+IAFGDHNC_00848	CDS	240				hypothetical protein
+IAFGDHNC_00849	gene	1218	mat			
+IAFGDHNC_00849	CDS	1218	mat	2.5.1.6		S-adenosylmethionine synthase
+IAFGDHNC_00850	gene	384				
+IAFGDHNC_00850	CDS	384				hypothetical protein
+IAFGDHNC_00851	gene	1104				
+IAFGDHNC_00851	CDS	1104		3.4.-.-		putative peptidase
+IAFGDHNC_00852	gene	822				
+IAFGDHNC_00852	CDS	822				hypothetical protein
+IAFGDHNC_00853	gene	222				
+IAFGDHNC_00853	CDS	222				hypothetical protein
+IAFGDHNC_00854	gene	1122				
+IAFGDHNC_00854	CDS	1122				hypothetical protein
+IAFGDHNC_00855	gene	1665				
+IAFGDHNC_00855	CDS	1665				hypothetical protein
+IAFGDHNC_00856	gene	110				
+IAFGDHNC_00856	rRNA	110				5S ribosomal RNA
+IAFGDHNC_00857	gene	723	cugP_2			
+IAFGDHNC_00857	CDS	723	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+IAFGDHNC_00858	gene	453	rimI			
+IAFGDHNC_00858	CDS	453	rimI	2.3.1.266	COG0456	[Ribosomal protein S18]-alanine N-acetyltransferase
+IAFGDHNC_00859	gene	393				
+IAFGDHNC_00859	CDS	393		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+IAFGDHNC_00860	gene	711				
+IAFGDHNC_00860	CDS	711				hypothetical protein
+IAFGDHNC_00861	gene	843				
+IAFGDHNC_00861	CDS	843				hypothetical protein
+IAFGDHNC_00862	gene	684				
+IAFGDHNC_00862	CDS	684				hypothetical protein
+IAFGDHNC_00863	gene	657				
+IAFGDHNC_00863	CDS	657				hypothetical protein
+IAFGDHNC_00864	gene	576	hisB			
+IAFGDHNC_00864	CDS	576	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+IAFGDHNC_00865	gene	606	hisH			
+IAFGDHNC_00865	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+IAFGDHNC_00866	gene	723	priA			
+IAFGDHNC_00866	CDS	723	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+IAFGDHNC_00867	gene	750	hisF			
+IAFGDHNC_00867	CDS	750	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+IAFGDHNC_00868	gene	330	hisI			
+IAFGDHNC_00868	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+IAFGDHNC_00869	gene	291				
+IAFGDHNC_00869	CDS	291				hypothetical protein
+IAFGDHNC_00870	gene	924				
+IAFGDHNC_00870	CDS	924				hypothetical protein
+IAFGDHNC_00871	gene	252				
+IAFGDHNC_00871	CDS	252				hypothetical protein
+IAFGDHNC_00872	gene	999	mraY			
+IAFGDHNC_00872	CDS	999	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IAFGDHNC_00873	gene	255				
+IAFGDHNC_00873	CDS	255				hypothetical protein
+IAFGDHNC_00874	gene	501	dapH			
+IAFGDHNC_00874	CDS	501	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IAFGDHNC_00875	gene	543				
+IAFGDHNC_00875	CDS	543				hypothetical protein
+IAFGDHNC_00876	gene	2544	srmB			
+IAFGDHNC_00876	CDS	2544	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+IAFGDHNC_00877	gene	1452				
+IAFGDHNC_00877	CDS	1452				hypothetical protein
+IAFGDHNC_00878	gene	273				
+IAFGDHNC_00878	CDS	273				hypothetical protein
+IAFGDHNC_00879	gene	273				
+IAFGDHNC_00879	CDS	273				hypothetical protein
+IAFGDHNC_00880	gene	489				
+IAFGDHNC_00880	CDS	489				hypothetical protein
+IAFGDHNC_00881	gene	1752				
+IAFGDHNC_00881	CDS	1752				hypothetical protein
+IAFGDHNC_00882	gene	174				
+IAFGDHNC_00882	CDS	174				hypothetical protein
+IAFGDHNC_00883	gene	630				
+IAFGDHNC_00883	CDS	630				hypothetical protein
+IAFGDHNC_00884	gene	660				
+IAFGDHNC_00884	CDS	660				hypothetical protein
+IAFGDHNC_00885	gene	264				
+IAFGDHNC_00885	CDS	264				hypothetical protein
+IAFGDHNC_00886	gene	864				
+IAFGDHNC_00886	CDS	864				hypothetical protein
+IAFGDHNC_00887	gene	306				
+IAFGDHNC_00887	CDS	306				hypothetical protein
+IAFGDHNC_00888	gene	543				
+IAFGDHNC_00888	CDS	543				hypothetical protein
+IAFGDHNC_00889	gene	2730	alaS			
+IAFGDHNC_00889	CDS	2730	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+IAFGDHNC_00890	gene	2913	valS_2			
+IAFGDHNC_00890	CDS	2913	valS_2	6.1.1.9		Valine--tRNA ligase
+IAFGDHNC_00891	gene	1155				
+IAFGDHNC_00891	CDS	1155				hypothetical protein
+IAFGDHNC_00892	gene	465				
+IAFGDHNC_00892	CDS	465				hypothetical protein
+IAFGDHNC_00893	gene	438	mobA			
+IAFGDHNC_00893	CDS	438	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+IAFGDHNC_00894	gene	405				
+IAFGDHNC_00894	CDS	405				hypothetical protein
+IAFGDHNC_00895	gene	492	DmdB_3			
+IAFGDHNC_00895	CDS	492	DmdB_3	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+IAFGDHNC_00896	gene	1257	leuC			
+IAFGDHNC_00896	CDS	1257	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+IAFGDHNC_00897	gene	1548	leuA			
+IAFGDHNC_00897	CDS	1548	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+IAFGDHNC_00898	gene	495	ilvH			
+IAFGDHNC_00898	CDS	495	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+IAFGDHNC_00899	gene	519	ilvB			
+IAFGDHNC_00899	CDS	519	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+IAFGDHNC_00900	gene	231				
+IAFGDHNC_00900	CDS	231				hypothetical protein
+IAFGDHNC_00901	gene	75				
+IAFGDHNC_00901	tRNA	75				tRNA-Val(gac)
+IAFGDHNC_00902	gene	1269	mvaA			
+IAFGDHNC_00902	CDS	1269	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+IAFGDHNC_00903	gene	702				
+IAFGDHNC_00903	CDS	702				hypothetical protein
+IAFGDHNC_00904	gene	693	aqpZ2			
+IAFGDHNC_00904	CDS	693	aqpZ2			Aquaporin Z 2
+IAFGDHNC_00905	gene	267				
+IAFGDHNC_00905	CDS	267				hypothetical protein
+IAFGDHNC_00906	gene	171				
+IAFGDHNC_00906	CDS	171				hypothetical protein
+IAFGDHNC_00907	gene	153				
+IAFGDHNC_00907	CDS	153				hypothetical protein
+IAFGDHNC_00908	gene	222				
+IAFGDHNC_00908	CDS	222				hypothetical protein
+IAFGDHNC_00909	gene	342				
+IAFGDHNC_00909	CDS	342				hypothetical protein
+IAFGDHNC_00910	gene	86				
+IAFGDHNC_00910	tRNA	86				tRNA-Ser(gct)
+IAFGDHNC_00911	gene	310				
+IAFGDHNC_00911	misc_RNA	310				Archaea_SRP
+IAFGDHNC_00912	gene	321	trxA_2			
+IAFGDHNC_00912	CDS	321	trxA_2		COG0526	Thioredoxin
+IAFGDHNC_00913	gene	555				
+IAFGDHNC_00913	CDS	555				hypothetical protein
+IAFGDHNC_00914	gene	1167	thrC			
+IAFGDHNC_00914	CDS	1167	thrC	4.2.3.1	COG0498	Threonine synthase
+IAFGDHNC_00915	gene	282	cysO			
+IAFGDHNC_00915	CDS	282	cysO		COG1977	Sulfur carrier protein CysO
+IAFGDHNC_00916	gene	762				
+IAFGDHNC_00916	CDS	762				hypothetical protein
+IAFGDHNC_00917	gene	1842				
+IAFGDHNC_00917	CDS	1842				hypothetical protein
+IAFGDHNC_00918	gene	243				
+IAFGDHNC_00918	CDS	243				hypothetical protein
+IAFGDHNC_00919	gene	372				
+IAFGDHNC_00919	CDS	372				hypothetical protein
+IAFGDHNC_00920	gene	438				
+IAFGDHNC_00920	CDS	438				hypothetical protein
+IAFGDHNC_00921	gene	1002	drrA_2			
+IAFGDHNC_00921	CDS	1002	drrA_2	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IAFGDHNC_00922	gene	867				
+IAFGDHNC_00922	CDS	867				hypothetical protein
+IAFGDHNC_00923	gene	921				
+IAFGDHNC_00923	CDS	921		2.4.1.320	COG2152	1,4-beta-mannosyl-N-acetylglucosamine phosphorylase
+IAFGDHNC_00924	gene	486				
+IAFGDHNC_00924	CDS	486				hypothetical protein
+IAFGDHNC_00925	gene	429	nikR			
+IAFGDHNC_00925	CDS	429	nikR			Nickel-responsive regulator
+IAFGDHNC_00926	gene	597				
+IAFGDHNC_00926	CDS	597				hypothetical protein
+IAFGDHNC_00927	gene	195				
+IAFGDHNC_00927	CDS	195				hypothetical protein
+IAFGDHNC_00928	gene	876				
+IAFGDHNC_00928	CDS	876				hypothetical protein
+IAFGDHNC_00929	gene	864				
+IAFGDHNC_00929	CDS	864				hypothetical protein
+IAFGDHNC_00930	gene	558				
+IAFGDHNC_00930	CDS	558		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+IAFGDHNC_00931	gene	669	rnhB			
+IAFGDHNC_00931	CDS	669	rnhB			Ribonuclease HII
+IAFGDHNC_00932	gene	681				
+IAFGDHNC_00932	CDS	681				hypothetical protein
+IAFGDHNC_00933	gene	1206				
+IAFGDHNC_00933	CDS	1206				hypothetical protein
+IAFGDHNC_00934	gene	945	pyrD			
+IAFGDHNC_00934	CDS	945	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IAFGDHNC_00935	gene	825				
+IAFGDHNC_00935	CDS	825			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+IAFGDHNC_00936	gene	186				
+IAFGDHNC_00936	CDS	186				hypothetical protein
+IAFGDHNC_00937	gene	453				
+IAFGDHNC_00937	CDS	453				hypothetical protein
+IAFGDHNC_00938	gene	258				
+IAFGDHNC_00938	CDS	258				hypothetical protein
+IAFGDHNC_00939	gene	891				
+IAFGDHNC_00939	CDS	891				hypothetical protein
+IAFGDHNC_00940	gene	1416	tldD			
+IAFGDHNC_00940	CDS	1416	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+IAFGDHNC_00941	gene	1350	pmbA			
+IAFGDHNC_00941	CDS	1350	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+IAFGDHNC_00942	gene	1122	macB_2			
+IAFGDHNC_00942	CDS	1122	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+IAFGDHNC_00943	gene	684	yknY_2			
+IAFGDHNC_00943	CDS	684	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+IAFGDHNC_00944	gene	1611	kefC			
+IAFGDHNC_00944	CDS	1611	kefC			Glutathione-regulated potassium-efflux system protein KefC
+IAFGDHNC_00945	gene	573				
+IAFGDHNC_00945	CDS	573				hypothetical protein
+IAFGDHNC_00946	gene	882	noc			
+IAFGDHNC_00946	CDS	882	noc			Nucleoid occlusion protein
+IAFGDHNC_00947	gene	1314				
+IAFGDHNC_00947	CDS	1314				hypothetical protein
+IAFGDHNC_00948	gene	144				
+IAFGDHNC_00948	CDS	144				hypothetical protein
+IAFGDHNC_00949	gene	240				
+IAFGDHNC_00949	CDS	240				hypothetical protein
+IAFGDHNC_00950	gene	474				
+IAFGDHNC_00950	CDS	474				hypothetical protein
+IAFGDHNC_00951	gene	564				
+IAFGDHNC_00951	CDS	564				hypothetical protein
+IAFGDHNC_00952	gene	324				
+IAFGDHNC_00952	CDS	324				hypothetical protein
+IAFGDHNC_00953	gene	315				
+IAFGDHNC_00953	CDS	315				hypothetical protein
+IAFGDHNC_00954	gene	522				
+IAFGDHNC_00954	CDS	522				hypothetical protein
+IAFGDHNC_00955	gene	1284				
+IAFGDHNC_00955	CDS	1284				hypothetical protein
+IAFGDHNC_00956	gene	516	sumT			
+IAFGDHNC_00956	CDS	516	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+IAFGDHNC_00957	gene	234				
+IAFGDHNC_00957	CDS	234				hypothetical protein
+IAFGDHNC_00958	gene	396				
+IAFGDHNC_00958	CDS	396				hypothetical protein
+IAFGDHNC_00959	gene	915	mtdA			
+IAFGDHNC_00959	CDS	915	mtdA			Bifunctional protein MdtA
+IAFGDHNC_00960	gene	741				
+IAFGDHNC_00960	CDS	741				hypothetical protein
+IAFGDHNC_00961	gene	174				
+IAFGDHNC_00961	CDS	174				hypothetical protein
+IAFGDHNC_00962	gene	219				
+IAFGDHNC_00962	CDS	219				hypothetical protein
+IAFGDHNC_00963	gene	768	tatD			
+IAFGDHNC_00963	CDS	768	tatD	3.1.-.-	COG0084	putative metal-dependent hydrolase TatD
+IAFGDHNC_00964	gene	228				
+IAFGDHNC_00964	CDS	228				hypothetical protein
+IAFGDHNC_00965	gene	267				
+IAFGDHNC_00965	CDS	267				hypothetical protein
+IAFGDHNC_00966	gene	531	petC			
+IAFGDHNC_00966	CDS	531	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+IAFGDHNC_00967	gene	675	ccsA			
+IAFGDHNC_00967	CDS	675	ccsA			Cytochrome c biogenesis protein CcsA
+IAFGDHNC_00968	gene	153				
+IAFGDHNC_00968	CDS	153				hypothetical protein
+IAFGDHNC_00969	gene	660	natA_2			
+IAFGDHNC_00969	CDS	660	natA_2	7.2.2.4	COG4555	ABC transporter ATP-binding protein NatA
+IAFGDHNC_00970	gene	678				
+IAFGDHNC_00970	CDS	678				hypothetical protein
+IAFGDHNC_00971	gene	510				
+IAFGDHNC_00971	CDS	510				hypothetical protein
+IAFGDHNC_00972	gene	1923	ccmF			
+IAFGDHNC_00972	CDS	1923	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+IAFGDHNC_00973	gene	384	ccmE			
+IAFGDHNC_00973	CDS	384	ccmE			Cytochrome c-type biogenesis protein CcmE
+IAFGDHNC_00974	gene	687				
+IAFGDHNC_00974	CDS	687				hypothetical protein
+IAFGDHNC_00975	gene	915				
+IAFGDHNC_00975	CDS	915				hypothetical protein
+IAFGDHNC_00976	gene	1323	asnS			
+IAFGDHNC_00976	CDS	1323	asnS	6.1.1.22		Asparagine--tRNA ligase
+IAFGDHNC_00977	gene	297	gatC			
+IAFGDHNC_00977	CDS	297	gatC	6.3.5.-		Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+IAFGDHNC_00978	gene	225				
+IAFGDHNC_00978	CDS	225				hypothetical protein
+IAFGDHNC_00979	gene	1161				
+IAFGDHNC_00979	CDS	1161				hypothetical protein
+IAFGDHNC_00980	gene	840	argH			
+IAFGDHNC_00980	CDS	840	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+IAFGDHNC_00981	gene	135				
+IAFGDHNC_00981	CDS	135				hypothetical protein
+IAFGDHNC_00982	gene	864	lysX_3			
+IAFGDHNC_00982	CDS	864	lysX_3	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+IAFGDHNC_00983	gene	1053	lysY			
+IAFGDHNC_00983	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+IAFGDHNC_00984	gene	807	lysZ			
+IAFGDHNC_00984	CDS	807	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+IAFGDHNC_00985	gene	1200	lysJ			
+IAFGDHNC_00985	CDS	1200	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+IAFGDHNC_00986	gene	423				
+IAFGDHNC_00986	CDS	423				hypothetical protein
+IAFGDHNC_00987	gene	1017	adhT			
+IAFGDHNC_00987	CDS	1017	adhT	1.1.1.1		Alcohol dehydrogenase
+IAFGDHNC_00988	gene	405				
+IAFGDHNC_00988	CDS	405				hypothetical protein
+IAFGDHNC_00989	gene	525				
+IAFGDHNC_00989	CDS	525				hypothetical protein
+IAFGDHNC_00990	gene	252				
+IAFGDHNC_00990	CDS	252				hypothetical protein
+IAFGDHNC_00991	gene	1335	glnA			
+IAFGDHNC_00991	CDS	1335	glnA	6.3.1.2	COG0174	Glutamine synthetase
+IAFGDHNC_00992	gene	513	fbiB_3			
+IAFGDHNC_00992	CDS	513	fbiB_3	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+IAFGDHNC_00993	gene	684				
+IAFGDHNC_00993	CDS	684				hypothetical protein
+IAFGDHNC_00994	gene	666				
+IAFGDHNC_00994	CDS	666				hypothetical protein
+IAFGDHNC_00995	gene	498				
+IAFGDHNC_00995	CDS	498				hypothetical protein
+IAFGDHNC_00996	gene	555				
+IAFGDHNC_00996	CDS	555				hypothetical protein
+IAFGDHNC_00997	gene	720	pyrE			
+IAFGDHNC_00997	CDS	720	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+IAFGDHNC_00998	gene	1161				
+IAFGDHNC_00998	CDS	1161				hypothetical protein
+IAFGDHNC_00999	gene	1020				
+IAFGDHNC_00999	CDS	1020				hypothetical protein
+IAFGDHNC_01000	gene	111				
+IAFGDHNC_01000	CDS	111				hypothetical protein
+IAFGDHNC_01001	gene	609	ywlC			
+IAFGDHNC_01001	CDS	609	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+IAFGDHNC_01002	gene	534				
+IAFGDHNC_01002	CDS	534				hypothetical protein
+IAFGDHNC_01003	gene	546				
+IAFGDHNC_01003	CDS	546				hypothetical protein
+IAFGDHNC_01004	gene	258				
+IAFGDHNC_01004	CDS	258				hypothetical protein
+IAFGDHNC_01005	gene	522	rpsD			
+IAFGDHNC_01005	CDS	522	rpsD		COG0522	30S ribosomal protein S4
+IAFGDHNC_01006	gene	465				
+IAFGDHNC_01006	CDS	465				hypothetical protein
+IAFGDHNC_01007	gene	432				
+IAFGDHNC_01007	CDS	432				hypothetical protein
+IAFGDHNC_01008	gene	639				
+IAFGDHNC_01008	CDS	639				hypothetical protein
+IAFGDHNC_01009	gene	360				
+IAFGDHNC_01009	CDS	360				hypothetical protein
+IAFGDHNC_01010	gene	459				
+IAFGDHNC_01010	CDS	459				hypothetical protein
+IAFGDHNC_01011	gene	624				
+IAFGDHNC_01011	CDS	624				hypothetical protein
+IAFGDHNC_01012	gene	2100				
+IAFGDHNC_01012	CDS	2100				hypothetical protein
+IAFGDHNC_01013	gene	228				
+IAFGDHNC_01013	CDS	228				hypothetical protein
+IAFGDHNC_01014	gene	1122				
+IAFGDHNC_01014	CDS	1122				hypothetical protein
+IAFGDHNC_01015	gene	807				
+IAFGDHNC_01015	CDS	807		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+IAFGDHNC_01016	gene	1011	purA			
+IAFGDHNC_01016	CDS	1011	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+IAFGDHNC_01017	gene	258				
+IAFGDHNC_01017	CDS	258				hypothetical protein
+IAFGDHNC_01018	gene	225				
+IAFGDHNC_01018	CDS	225				hypothetical protein
+IAFGDHNC_01019	gene	444				
+IAFGDHNC_01019	CDS	444				hypothetical protein
+IAFGDHNC_01020	gene	855				
+IAFGDHNC_01020	CDS	855				hypothetical protein
+IAFGDHNC_01021	gene	882				
+IAFGDHNC_01021	CDS	882				hypothetical protein
+IAFGDHNC_01022	gene	1554				
+IAFGDHNC_01022	CDS	1554				hypothetical protein
+IAFGDHNC_01023	gene	639				
+IAFGDHNC_01023	CDS	639				hypothetical protein
+IAFGDHNC_01024	gene	174				
+IAFGDHNC_01024	CDS	174				hypothetical protein
+IAFGDHNC_01025	gene	738	ppm1			
+IAFGDHNC_01025	CDS	738	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+IAFGDHNC_01026	gene	1140	desV			
+IAFGDHNC_01026	CDS	1140	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+IAFGDHNC_01027	gene	1065				
+IAFGDHNC_01027	CDS	1065				hypothetical protein
+IAFGDHNC_01028	gene	258				
+IAFGDHNC_01028	CDS	258				hypothetical protein
+IAFGDHNC_01029	gene	723	cysH			
+IAFGDHNC_01029	CDS	723	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+IAFGDHNC_01030	gene	741	tcyN			
+IAFGDHNC_01030	CDS	741	tcyN	3.6.3.-	COG1126	L-cystine import ATP-binding protein TcyN
+IAFGDHNC_01031	gene	699	tupB			
+IAFGDHNC_01031	CDS	699	tupB		COG4662	Tungstate uptake system permease protein TupB
+IAFGDHNC_01032	gene	291				
+IAFGDHNC_01032	CDS	291				hypothetical protein
+IAFGDHNC_01033	gene	1395	groL_2			
+IAFGDHNC_01033	CDS	1395	groL_2			60 kDa chaperonin
+IAFGDHNC_01034	gene	504				
+IAFGDHNC_01034	CDS	504				hypothetical protein
+IAFGDHNC_01035	gene	1080				
+IAFGDHNC_01035	CDS	1080				hypothetical protein
+IAFGDHNC_01036	gene	159				
+IAFGDHNC_01036	CDS	159				hypothetical protein
+IAFGDHNC_01037	gene	303				
+IAFGDHNC_01037	CDS	303				hypothetical protein
+IAFGDHNC_01038	gene	651				
+IAFGDHNC_01038	CDS	651				hypothetical protein
+IAFGDHNC_01039	gene	1023	proS			
+IAFGDHNC_01039	CDS	1023	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+IAFGDHNC_01040	gene	717				
+IAFGDHNC_01040	CDS	717				hypothetical protein
+IAFGDHNC_01041	gene	669				
+IAFGDHNC_01041	CDS	669				hypothetical protein
+IAFGDHNC_01042	gene	1281				
+IAFGDHNC_01042	CDS	1281				hypothetical protein
+IAFGDHNC_01043	gene	1197	ftsH_4			
+IAFGDHNC_01043	CDS	1197	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+IAFGDHNC_01044	gene	846				
+IAFGDHNC_01044	CDS	846				hypothetical protein
+IAFGDHNC_01045	gene	426				
+IAFGDHNC_01045	CDS	426				hypothetical protein
+IAFGDHNC_01046	gene	279	lsrF_2			
+IAFGDHNC_01046	CDS	279	lsrF_2	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+IAFGDHNC_01047	gene	1074	aroB'			
+IAFGDHNC_01047	CDS	1074	aroB'	1.4.1.24		3-dehydroquinate synthase
+IAFGDHNC_01048	gene	693	aroD			
+IAFGDHNC_01048	CDS	693	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+IAFGDHNC_01049	gene	873	aroE			
+IAFGDHNC_01049	CDS	873	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+IAFGDHNC_01050	gene	876	thrB			
+IAFGDHNC_01050	CDS	876	thrB	2.7.1.39		Homoserine kinase
+IAFGDHNC_01051	gene	621	lysS			
+IAFGDHNC_01051	CDS	621	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+IAFGDHNC_01052	gene	441	bcp			
+IAFGDHNC_01052	CDS	441	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+IAFGDHNC_01053	gene	753				
+IAFGDHNC_01053	CDS	753				hypothetical protein
+IAFGDHNC_01054	gene	1440	gltB			
+IAFGDHNC_01054	CDS	1440	gltB	1.4.1.13		Glutamate synthase [NADPH] large chain
+IAFGDHNC_01055	gene	564				
+IAFGDHNC_01055	CDS	564				hypothetical protein
+IAFGDHNC_01056	gene	783				
+IAFGDHNC_01056	CDS	783				hypothetical protein
+IAFGDHNC_01057	gene	1863				
+IAFGDHNC_01057	CDS	1863				hypothetical protein
+IAFGDHNC_01058	gene	882	speB			
+IAFGDHNC_01058	CDS	882	speB	3.5.3.11	COG0010	Agmatinase
+IAFGDHNC_01059	gene	402				
+IAFGDHNC_01059	CDS	402			COG0864	Putative nickel-responsive regulator
+IAFGDHNC_01060	gene	870	czcD			
+IAFGDHNC_01060	CDS	870	czcD			Metal cation efflux system protein CzcD
+IAFGDHNC_01061	gene	684	queE			
+IAFGDHNC_01061	CDS	684	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+IAFGDHNC_01062	gene	1452	queC_2			
+IAFGDHNC_01062	CDS	1452	queC_2	6.3.4.20		7-cyano-7-deazaguanine synthase
+IAFGDHNC_01063	gene	672				
+IAFGDHNC_01063	CDS	672				hypothetical protein
+IAFGDHNC_01064	gene	696	rpiA			
+IAFGDHNC_01064	CDS	696	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+IAFGDHNC_01065	gene	639				
+IAFGDHNC_01065	CDS	639				hypothetical protein
+IAFGDHNC_01066	gene	168				
+IAFGDHNC_01066	CDS	168				hypothetical protein
+IAFGDHNC_01067	gene	228				
+IAFGDHNC_01067	CDS	228				hypothetical protein
+IAFGDHNC_01068	gene	480	proB			
+IAFGDHNC_01068	CDS	480	proB	2.7.2.11		Glutamate 5-kinase
+IAFGDHNC_01069	gene	300				
+IAFGDHNC_01069	CDS	300				hypothetical protein
+IAFGDHNC_01070	gene	630				
+IAFGDHNC_01070	CDS	630		3.1.-.-	COG1236	Ribonuclease
+IAFGDHNC_01071	gene	594				
+IAFGDHNC_01071	CDS	594				hypothetical protein
+IAFGDHNC_01072	gene	807				
+IAFGDHNC_01072	CDS	807				hypothetical protein
+IAFGDHNC_01073	gene	1584	wecC			
+IAFGDHNC_01073	CDS	1584	wecC	1.1.1.336		UDP-N-acetyl-D-mannosamine dehydrogenase
+IAFGDHNC_01074	gene	957	wbgU			
+IAFGDHNC_01074	CDS	957	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+IAFGDHNC_01075	gene	726				
+IAFGDHNC_01075	CDS	726				hypothetical protein
+IAFGDHNC_01076	gene	1359				
+IAFGDHNC_01076	CDS	1359		2.3.3.3	COG0119	Citrate (Re)-synthase
+IAFGDHNC_01077	gene	756	cpdA_2			
+IAFGDHNC_01077	CDS	756	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IAFGDHNC_01078	gene	846				
+IAFGDHNC_01078	CDS	846				hypothetical protein
+IAFGDHNC_01079	gene	531				
+IAFGDHNC_01079	CDS	531				hypothetical protein
+IAFGDHNC_01080	gene	462				
+IAFGDHNC_01080	CDS	462				hypothetical protein
+IAFGDHNC_01081	gene	552				
+IAFGDHNC_01081	CDS	552				hypothetical protein
+IAFGDHNC_01082	gene	525				
+IAFGDHNC_01082	CDS	525				hypothetical protein
+IAFGDHNC_01083	gene	711				
+IAFGDHNC_01083	CDS	711				hypothetical protein
+IAFGDHNC_01084	gene	1077				
+IAFGDHNC_01084	CDS	1077				hypothetical protein
+IAFGDHNC_01085	gene	942	ttuA			
+IAFGDHNC_01085	CDS	942	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+IAFGDHNC_01086	gene	1272				
+IAFGDHNC_01086	CDS	1272				hypothetical protein
+IAFGDHNC_01087	gene	330	cutA			
+IAFGDHNC_01087	CDS	330	cutA		COG1324	Divalent-cation tolerance protein CutA
+IAFGDHNC_01088	gene	210				
+IAFGDHNC_01088	CDS	210				hypothetical protein
+IAFGDHNC_01089	gene	189				
+IAFGDHNC_01089	CDS	189				hypothetical protein
+IAFGDHNC_01090	gene	1569				
+IAFGDHNC_01090	CDS	1569				hypothetical protein
+IAFGDHNC_01091	gene	1431				
+IAFGDHNC_01091	CDS	1431				hypothetical protein
+IAFGDHNC_01092	gene	564				
+IAFGDHNC_01092	CDS	564				hypothetical protein
+IAFGDHNC_01093	gene	780				
+IAFGDHNC_01093	CDS	780				hypothetical protein
+IAFGDHNC_01094	gene	849	panB			
+IAFGDHNC_01094	CDS	849	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+IAFGDHNC_01095	gene	972	panE			
+IAFGDHNC_01095	CDS	972	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase
+IAFGDHNC_01096	gene	3549	smc_4			
+IAFGDHNC_01096	CDS	3549	smc_4		COG1196	Chromosome partition protein Smc
+IAFGDHNC_01097	gene	663				
+IAFGDHNC_01097	CDS	663				hypothetical protein
+IAFGDHNC_01098	gene	546	scpB			
+IAFGDHNC_01098	CDS	546	scpB			Segregation and condensation protein B
+IAFGDHNC_01099	gene	384				
+IAFGDHNC_01099	CDS	384				hypothetical protein
+IAFGDHNC_01100	gene	645				
+IAFGDHNC_01100	CDS	645				hypothetical protein
+IAFGDHNC_01101	gene	828				
+IAFGDHNC_01101	CDS	828				hypothetical protein
+IAFGDHNC_01102	gene	162				
+IAFGDHNC_01102	CDS	162				hypothetical protein
+IAFGDHNC_01103	gene	1863				
+IAFGDHNC_01103	CDS	1863				hypothetical protein
+IAFGDHNC_01104	gene	1212	norV			
+IAFGDHNC_01104	CDS	1212	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+IAFGDHNC_01105	gene	183				
+IAFGDHNC_01105	CDS	183				hypothetical protein
+IAFGDHNC_01106	gene	510	fae			
+IAFGDHNC_01106	CDS	510	fae	4.2.1.147	COG1795	5,6,7,8-tetrahydromethanopterin hydro-lyase
+IAFGDHNC_01107	gene	726	mngB			
+IAFGDHNC_01107	CDS	726	mngB	3.1.3.70		Mannosyl-3-phosphoglycerate phosphatase
+IAFGDHNC_01108	gene	1911	argS			
+IAFGDHNC_01108	CDS	1911	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+IAFGDHNC_01109	gene	549				
+IAFGDHNC_01109	CDS	549				hypothetical protein
+IAFGDHNC_01110	gene	219				
+IAFGDHNC_01110	CDS	219				hypothetical protein
+IAFGDHNC_01111	gene	2055	metG			
+IAFGDHNC_01111	CDS	2055	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+IAFGDHNC_01112	gene	660	prcB_2			
+IAFGDHNC_01112	CDS	660	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+IAFGDHNC_01113	gene	510				
+IAFGDHNC_01113	CDS	510				hypothetical protein
+IAFGDHNC_01114	gene	273				
+IAFGDHNC_01114	CDS	273				hypothetical protein
+IAFGDHNC_01115	gene	891	sucD			
+IAFGDHNC_01115	CDS	891	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+IAFGDHNC_01116	gene	1122	sucC			
+IAFGDHNC_01116	CDS	1122	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+IAFGDHNC_01117	gene	366				
+IAFGDHNC_01117	CDS	366				hypothetical protein
+IAFGDHNC_01118	gene	285				
+IAFGDHNC_01118	CDS	285				hypothetical protein
+IAFGDHNC_01119	gene	420				
+IAFGDHNC_01119	CDS	420				hypothetical protein
+IAFGDHNC_01120	gene	393				
+IAFGDHNC_01120	CDS	393				hypothetical protein
+IAFGDHNC_01121	gene	756				
+IAFGDHNC_01121	CDS	756				hypothetical protein
+IAFGDHNC_01122	gene	933	ssuD			
+IAFGDHNC_01122	CDS	933	ssuD	1.14.14.5	COG2141	Alkanesulfonate monooxygenase
+IAFGDHNC_01123	gene	1182	pyrF_2			
+IAFGDHNC_01123	CDS	1182	pyrF_2			Orotidine 5'-phosphate decarboxylase
+IAFGDHNC_01124	gene	513				
+IAFGDHNC_01124	CDS	513				hypothetical protein
+IAFGDHNC_01125	gene	198				
+IAFGDHNC_01125	CDS	198				hypothetical protein
+IAFGDHNC_01126	gene	204				
+IAFGDHNC_01126	CDS	204			COG3360	Dodecin
+IAFGDHNC_01127	gene	111				
+IAFGDHNC_01127	CDS	111				hypothetical protein

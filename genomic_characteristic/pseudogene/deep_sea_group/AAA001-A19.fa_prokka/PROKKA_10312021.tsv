@@ -1,0 +1,1955 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FLHCEGFC_00001	gene	456	trxB			
+FLHCEGFC_00001	CDS	456	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FLHCEGFC_00002	gene	243	tusA			
+FLHCEGFC_00002	CDS	243	tusA		COG0425	Sulfur carrier protein TusA
+FLHCEGFC_00003	gene	918				
+FLHCEGFC_00003	CDS	918				hypothetical protein
+FLHCEGFC_00004	gene	732	fbiB			
+FLHCEGFC_00004	CDS	732	fbiB		COG0778	Bifunctional F420 biosynthesis protein FbiB
+FLHCEGFC_00005	gene	1026	sir			
+FLHCEGFC_00005	CDS	1026	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+FLHCEGFC_00006	gene	810	ttuD			
+FLHCEGFC_00006	CDS	810	ttuD		COG2897	Sulfur carrier protein TtuD
+FLHCEGFC_00007	gene	1203				
+FLHCEGFC_00007	CDS	1203				hypothetical protein
+FLHCEGFC_00008	gene	1107				
+FLHCEGFC_00008	CDS	1107				hypothetical protein
+FLHCEGFC_00009	gene	1110	obg			
+FLHCEGFC_00009	CDS	1110	obg	3.6.5.-		GTPase Obg
+FLHCEGFC_00010	gene	714				
+FLHCEGFC_00010	CDS	714				hypothetical protein
+FLHCEGFC_00011	gene	1872	argS			
+FLHCEGFC_00011	CDS	1872	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FLHCEGFC_00012	gene	117				
+FLHCEGFC_00012	CDS	117				hypothetical protein
+FLHCEGFC_00013	gene	855	trmI			
+FLHCEGFC_00013	CDS	855	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+FLHCEGFC_00014	gene	861	nnr			
+FLHCEGFC_00014	CDS	861	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FLHCEGFC_00015	gene	1362	dapE			
+FLHCEGFC_00015	CDS	1362	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+FLHCEGFC_00016	gene	600	prcB_1			
+FLHCEGFC_00016	CDS	600	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+FLHCEGFC_00017	gene	477				
+FLHCEGFC_00017	CDS	477				hypothetical protein
+FLHCEGFC_00018	gene	1011	hom			
+FLHCEGFC_00018	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+FLHCEGFC_00019	gene	438	msrB			
+FLHCEGFC_00019	CDS	438	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+FLHCEGFC_00020	gene	1617	thyX			
+FLHCEGFC_00020	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+FLHCEGFC_00021	gene	306				
+FLHCEGFC_00021	CDS	306				hypothetical protein
+FLHCEGFC_00022	gene	819				
+FLHCEGFC_00022	CDS	819				hypothetical protein
+FLHCEGFC_00023	gene	1923	acsA			
+FLHCEGFC_00023	CDS	1923	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+FLHCEGFC_00024	gene	363	queD			
+FLHCEGFC_00024	CDS	363	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+FLHCEGFC_00025	gene	222				
+FLHCEGFC_00025	CDS	222				hypothetical protein
+FLHCEGFC_00026	gene	240				
+FLHCEGFC_00026	CDS	240				hypothetical protein
+FLHCEGFC_00027	gene	465				
+FLHCEGFC_00027	CDS	465				hypothetical protein
+FLHCEGFC_00028	gene	93				
+FLHCEGFC_00028	CDS	93				hypothetical protein
+FLHCEGFC_00029	gene	903				
+FLHCEGFC_00029	CDS	903				hypothetical protein
+FLHCEGFC_00030	gene	1521				
+FLHCEGFC_00030	CDS	1521				hypothetical protein
+FLHCEGFC_00031	gene	999	birA			
+FLHCEGFC_00031	CDS	999	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FLHCEGFC_00032	gene	411	yccU			
+FLHCEGFC_00032	CDS	411	yccU		COG1832	putative protein YccU
+FLHCEGFC_00033	gene	261				
+FLHCEGFC_00033	CDS	261				hypothetical protein
+FLHCEGFC_00034	gene	1212	OLA1			
+FLHCEGFC_00034	CDS	1212	OLA1			Obg-like ATPase 1
+FLHCEGFC_00035	gene	1389	cysS			
+FLHCEGFC_00035	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FLHCEGFC_00036	gene	786	nadE			
+FLHCEGFC_00036	CDS	786	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FLHCEGFC_00037	gene	225				
+FLHCEGFC_00037	CDS	225				hypothetical protein
+FLHCEGFC_00038	gene	303	bnzC			
+FLHCEGFC_00038	CDS	303	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+FLHCEGFC_00039	gene	1311	ahcY			
+FLHCEGFC_00039	CDS	1311	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+FLHCEGFC_00040	gene	186				
+FLHCEGFC_00040	CDS	186				hypothetical protein
+FLHCEGFC_00041	gene	1656	metG_1			
+FLHCEGFC_00041	CDS	1656	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+FLHCEGFC_00042	gene	753				
+FLHCEGFC_00042	CDS	753				hypothetical protein
+FLHCEGFC_00043	gene	966	tuf_1			
+FLHCEGFC_00043	CDS	966	tuf_1			Elongation factor Tu
+FLHCEGFC_00044	gene	999	ilvC			
+FLHCEGFC_00044	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+FLHCEGFC_00045	gene	423	mcm			
+FLHCEGFC_00045	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+FLHCEGFC_00046	gene	2499	pepN			
+FLHCEGFC_00046	CDS	2499	pepN	3.4.11.2	COG0308	Aminopeptidase N
+FLHCEGFC_00047	gene	414				
+FLHCEGFC_00047	CDS	414				hypothetical protein
+FLHCEGFC_00048	gene	918				
+FLHCEGFC_00048	CDS	918		3.6.-.-	COG1703	putative GTPase
+FLHCEGFC_00049	gene	1584	bhbA			
+FLHCEGFC_00049	CDS	1584	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+FLHCEGFC_00050	gene	393	epi			
+FLHCEGFC_00050	CDS	393	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+FLHCEGFC_00051	gene	246				
+FLHCEGFC_00051	CDS	246				hypothetical protein
+FLHCEGFC_00052	gene	537				
+FLHCEGFC_00052	CDS	537				hypothetical protein
+FLHCEGFC_00053	gene	2652	ppdK			
+FLHCEGFC_00053	CDS	2652	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+FLHCEGFC_00054	gene	657	tpiA			
+FLHCEGFC_00054	CDS	657	tpiA			Triosephosphate isomerase
+FLHCEGFC_00055	gene	291				
+FLHCEGFC_00055	CDS	291			COG4095	Sugar transporter SemiSWEET
+FLHCEGFC_00056	gene	801				
+FLHCEGFC_00056	CDS	801				hypothetical protein
+FLHCEGFC_00057	gene	75				
+FLHCEGFC_00057	tRNA	75				tRNA-Met(cat)
+FLHCEGFC_00058	gene	1095	yliI			
+FLHCEGFC_00058	CDS	1095	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+FLHCEGFC_00059	gene	1158	mvaA			
+FLHCEGFC_00059	CDS	1158	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+FLHCEGFC_00060	gene	987	hisG			
+FLHCEGFC_00060	CDS	987	hisG	2.4.2.17		ATP phosphoribosyltransferase
+FLHCEGFC_00061	gene	1239	hisD			
+FLHCEGFC_00061	CDS	1239	hisD	1.1.1.23		Histidinol dehydrogenase
+FLHCEGFC_00062	gene	1068	hisC			
+FLHCEGFC_00062	CDS	1068	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+FLHCEGFC_00063	gene	933				
+FLHCEGFC_00063	CDS	933				hypothetical protein
+FLHCEGFC_00064	gene	1986				
+FLHCEGFC_00064	CDS	1986				hypothetical protein
+FLHCEGFC_00065	gene	588	hisB			
+FLHCEGFC_00065	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+FLHCEGFC_00066	gene	606	hisH			
+FLHCEGFC_00066	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+FLHCEGFC_00067	gene	705	hisA			
+FLHCEGFC_00067	CDS	705	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+FLHCEGFC_00068	gene	804	hisF			
+FLHCEGFC_00068	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+FLHCEGFC_00069	gene	330	hisI			
+FLHCEGFC_00069	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+FLHCEGFC_00070	gene	1224	thrC			
+FLHCEGFC_00070	CDS	1224	thrC	4.2.3.1	COG0498	Threonine synthase
+FLHCEGFC_00071	gene	1371				
+FLHCEGFC_00071	CDS	1371				hypothetical protein
+FLHCEGFC_00072	gene	4653				
+FLHCEGFC_00072	CDS	4653				hypothetical protein
+FLHCEGFC_00073	gene	984				
+FLHCEGFC_00073	CDS	984				hypothetical protein
+FLHCEGFC_00074	gene	4251				
+FLHCEGFC_00074	CDS	4251				hypothetical protein
+FLHCEGFC_00075	gene	603	petC			
+FLHCEGFC_00075	CDS	603	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+FLHCEGFC_00076	gene	1482	petB			
+FLHCEGFC_00076	CDS	1482	petB			Cytochrome b6
+FLHCEGFC_00077	gene	477				
+FLHCEGFC_00077	CDS	477				hypothetical protein
+FLHCEGFC_00078	gene	351				
+FLHCEGFC_00078	CDS	351				hypothetical protein
+FLHCEGFC_00079	gene	77				
+FLHCEGFC_00079	tRNA	77				tRNA-Arg(tct)
+FLHCEGFC_00080	gene	849				
+FLHCEGFC_00080	CDS	849				hypothetical protein
+FLHCEGFC_00081	gene	1254				
+FLHCEGFC_00081	CDS	1254		3.1.-.-	COG1236	Ribonuclease
+FLHCEGFC_00082	gene	213				
+FLHCEGFC_00082	CDS	213				hypothetical protein
+FLHCEGFC_00083	gene	303	ndhI			
+FLHCEGFC_00083	CDS	303	ndhI	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+FLHCEGFC_00084	gene	1332	QTRT1			
+FLHCEGFC_00084	CDS	1332	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+FLHCEGFC_00085	gene	1263	tuf_2			
+FLHCEGFC_00085	CDS	1263	tuf_2			Elongation factor Tu
+FLHCEGFC_00086	gene	369				
+FLHCEGFC_00086	CDS	369				hypothetical protein
+FLHCEGFC_00087	gene	507				
+FLHCEGFC_00087	CDS	507				hypothetical protein
+FLHCEGFC_00088	gene	156				
+FLHCEGFC_00088	CDS	156				hypothetical protein
+FLHCEGFC_00089	gene	801				
+FLHCEGFC_00089	CDS	801				hypothetical protein
+FLHCEGFC_00090	gene	534	cobO			
+FLHCEGFC_00090	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+FLHCEGFC_00091	gene	1356	cbiA			
+FLHCEGFC_00091	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+FLHCEGFC_00092	gene	186				
+FLHCEGFC_00092	CDS	186				hypothetical protein
+FLHCEGFC_00093	gene	669	cbiC			
+FLHCEGFC_00093	CDS	669	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+FLHCEGFC_00094	gene	564	cbiX			
+FLHCEGFC_00094	CDS	564	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+FLHCEGFC_00095	gene	1056	cbiG			
+FLHCEGFC_00095	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+FLHCEGFC_00096	gene	1098	cbiD			
+FLHCEGFC_00096	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+FLHCEGFC_00097	gene	855	fcl			
+FLHCEGFC_00097	CDS	855	fcl	1.1.1.271		GDP-L-fucose synthase
+FLHCEGFC_00098	gene	1155				
+FLHCEGFC_00098	CDS	1155				hypothetical protein
+FLHCEGFC_00099	gene	420				
+FLHCEGFC_00099	CDS	420				hypothetical protein
+FLHCEGFC_00100	gene	162				
+FLHCEGFC_00100	CDS	162				hypothetical protein
+FLHCEGFC_00101	gene	1293				
+FLHCEGFC_00101	CDS	1293				hypothetical protein
+FLHCEGFC_00102	gene	804				
+FLHCEGFC_00102	CDS	804				hypothetical protein
+FLHCEGFC_00103	gene	2658				
+FLHCEGFC_00103	CDS	2658				hypothetical protein
+FLHCEGFC_00104	gene	675				
+FLHCEGFC_00104	CDS	675				hypothetical protein
+FLHCEGFC_00105	gene	76				
+FLHCEGFC_00105	tRNA	76				tRNA-Gly(tcc)
+FLHCEGFC_00106	gene	303				
+FLHCEGFC_00106	CDS	303				hypothetical protein
+FLHCEGFC_00107	gene	453				
+FLHCEGFC_00107	CDS	453				hypothetical protein
+FLHCEGFC_00108	gene	285				
+FLHCEGFC_00108	CDS	285				hypothetical protein
+FLHCEGFC_00109	gene	1077	ccr_1			
+FLHCEGFC_00109	CDS	1077	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+FLHCEGFC_00110	gene	852	citE			
+FLHCEGFC_00110	CDS	852	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+FLHCEGFC_00111	gene	585	ribE			
+FLHCEGFC_00111	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+FLHCEGFC_00112	gene	675	ribBA			
+FLHCEGFC_00112	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FLHCEGFC_00113	gene	414	ribH			
+FLHCEGFC_00113	CDS	414	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+FLHCEGFC_00114	gene	750				
+FLHCEGFC_00114	CDS	750				hypothetical protein
+FLHCEGFC_00115	gene	1188	triA			
+FLHCEGFC_00115	CDS	1188	triA	3.5.4.45		Melamine deaminase
+FLHCEGFC_00116	gene	654	ribD2			
+FLHCEGFC_00116	CDS	654	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+FLHCEGFC_00117	gene	519				
+FLHCEGFC_00117	CDS	519				hypothetical protein
+FLHCEGFC_00118	gene	588				
+FLHCEGFC_00118	CDS	588				hypothetical protein
+FLHCEGFC_00119	gene	1110	hflX			
+FLHCEGFC_00119	CDS	1110	hflX		COG2262	GTPase HflX
+FLHCEGFC_00120	gene	1047				
+FLHCEGFC_00120	CDS	1047				hypothetical protein
+FLHCEGFC_00121	gene	453				
+FLHCEGFC_00121	CDS	453				hypothetical protein
+FLHCEGFC_00122	gene	348				
+FLHCEGFC_00122	CDS	348				hypothetical protein
+FLHCEGFC_00123	gene	162				
+FLHCEGFC_00123	CDS	162				hypothetical protein
+FLHCEGFC_00124	gene	240				
+FLHCEGFC_00124	CDS	240				hypothetical protein
+FLHCEGFC_00125	gene	74				
+FLHCEGFC_00125	tRNA	74				tRNA-Gly(ccc)
+FLHCEGFC_00126	gene	138				
+FLHCEGFC_00126	CDS	138				hypothetical protein
+FLHCEGFC_00127	gene	543	guaA_1			
+FLHCEGFC_00127	CDS	543	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+FLHCEGFC_00128	gene	2856				
+FLHCEGFC_00128	CDS	2856				hypothetical protein
+FLHCEGFC_00129	gene	1125				
+FLHCEGFC_00129	CDS	1125				hypothetical protein
+FLHCEGFC_00130	gene	1026				
+FLHCEGFC_00130	CDS	1026				hypothetical protein
+FLHCEGFC_00131	gene	840	nfo			
+FLHCEGFC_00131	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+FLHCEGFC_00132	gene	1254	glyQS_1			
+FLHCEGFC_00132	CDS	1254	glyQS_1	6.1.1.14		Glycine--tRNA ligase
+FLHCEGFC_00133	gene	234	glyQS_2			
+FLHCEGFC_00133	CDS	234	glyQS_2	6.1.1.14		Glycine--tRNA ligase
+FLHCEGFC_00134	gene	252				
+FLHCEGFC_00134	CDS	252				hypothetical protein
+FLHCEGFC_00135	gene	141				
+FLHCEGFC_00135	CDS	141				hypothetical protein
+FLHCEGFC_00136	gene	273				
+FLHCEGFC_00136	CDS	273				hypothetical protein
+FLHCEGFC_00137	gene	678				
+FLHCEGFC_00137	CDS	678				hypothetical protein
+FLHCEGFC_00138	gene	732	murI			
+FLHCEGFC_00138	CDS	732	murI	5.1.1.3		Glutamate racemase
+FLHCEGFC_00139	gene	735	cbiF			
+FLHCEGFC_00139	CDS	735	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+FLHCEGFC_00140	gene	456	cbiL			
+FLHCEGFC_00140	CDS	456	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+FLHCEGFC_00141	gene	318				
+FLHCEGFC_00141	CDS	318				hypothetical protein
+FLHCEGFC_00142	gene	606	cbiT			
+FLHCEGFC_00142	CDS	606	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+FLHCEGFC_00143	gene	504				
+FLHCEGFC_00143	CDS	504				hypothetical protein
+FLHCEGFC_00144	gene	1899				
+FLHCEGFC_00144	CDS	1899				hypothetical protein
+FLHCEGFC_00145	gene	363				
+FLHCEGFC_00145	CDS	363				hypothetical protein
+FLHCEGFC_00146	gene	1155				
+FLHCEGFC_00146	CDS	1155				hypothetical protein
+FLHCEGFC_00147	gene	495				
+FLHCEGFC_00147	CDS	495				hypothetical protein
+FLHCEGFC_00148	gene	1140				
+FLHCEGFC_00148	CDS	1140				hypothetical protein
+FLHCEGFC_00149	gene	654	nth			
+FLHCEGFC_00149	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+FLHCEGFC_00150	gene	687				
+FLHCEGFC_00150	CDS	687				hypothetical protein
+FLHCEGFC_00151	gene	1146	sat			
+FLHCEGFC_00151	CDS	1146	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+FLHCEGFC_00152	gene	792	cysH			
+FLHCEGFC_00152	CDS	792	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+FLHCEGFC_00153	gene	1131	thiI_1			
+FLHCEGFC_00153	CDS	1131	thiI_1	2.8.1.4		tRNA sulfurtransferase
+FLHCEGFC_00154	gene	1236				
+FLHCEGFC_00154	CDS	1236				hypothetical protein
+FLHCEGFC_00155	gene	381				
+FLHCEGFC_00155	CDS	381				hypothetical protein
+FLHCEGFC_00156	gene	375				
+FLHCEGFC_00156	CDS	375				hypothetical protein
+FLHCEGFC_00157	gene	807				
+FLHCEGFC_00157	CDS	807		1.-.-.-		putative oxidoreductase
+FLHCEGFC_00158	gene	1098				
+FLHCEGFC_00158	CDS	1098				hypothetical protein
+FLHCEGFC_00159	gene	948	thrB_1			
+FLHCEGFC_00159	CDS	948	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+FLHCEGFC_00160	gene	678	queC			
+FLHCEGFC_00160	CDS	678	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+FLHCEGFC_00161	gene	267				
+FLHCEGFC_00161	CDS	267				hypothetical protein
+FLHCEGFC_00162	gene	261	degP			
+FLHCEGFC_00162	CDS	261	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+FLHCEGFC_00163	gene	258	htrA			
+FLHCEGFC_00163	CDS	258	htrA			Putative serine protease HtrA
+FLHCEGFC_00164	gene	465				
+FLHCEGFC_00164	CDS	465				hypothetical protein
+FLHCEGFC_00165	gene	240				
+FLHCEGFC_00165	CDS	240				hypothetical protein
+FLHCEGFC_00166	gene	612				
+FLHCEGFC_00166	CDS	612				hypothetical protein
+FLHCEGFC_00167	gene	390				
+FLHCEGFC_00167	CDS	390				hypothetical protein
+FLHCEGFC_00168	gene	96				
+FLHCEGFC_00168	CDS	96				hypothetical protein
+FLHCEGFC_00169	gene	225				
+FLHCEGFC_00169	CDS	225				hypothetical protein
+FLHCEGFC_00170	gene	324	metG_2			
+FLHCEGFC_00170	CDS	324	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+FLHCEGFC_00171	gene	321				
+FLHCEGFC_00171	CDS	321				hypothetical protein
+FLHCEGFC_00172	gene	237				
+FLHCEGFC_00172	CDS	237				hypothetical protein
+FLHCEGFC_00173	gene	1125				
+FLHCEGFC_00173	CDS	1125				hypothetical protein
+FLHCEGFC_00174	gene	180				
+FLHCEGFC_00174	CDS	180				hypothetical protein
+FLHCEGFC_00175	gene	894				
+FLHCEGFC_00175	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+FLHCEGFC_00176	gene	147				
+FLHCEGFC_00176	CDS	147				hypothetical protein
+FLHCEGFC_00177	gene	76				
+FLHCEGFC_00177	tRNA	76				tRNA-Pro(tgg)
+FLHCEGFC_00178	gene	507				
+FLHCEGFC_00178	CDS	507				hypothetical protein
+FLHCEGFC_00179	gene	2367	potE			
+FLHCEGFC_00179	CDS	2367	potE			Putrescine transporter PotE
+FLHCEGFC_00180	gene	280				
+FLHCEGFC_00180	misc_RNA	280				RNaseP_arch
+FLHCEGFC_00181	gene	1290				
+FLHCEGFC_00181	CDS	1290				hypothetical protein
+FLHCEGFC_00182	gene	921	fbiA			
+FLHCEGFC_00182	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+FLHCEGFC_00183	gene	627	fbiD			
+FLHCEGFC_00183	CDS	627	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+FLHCEGFC_00184	gene	969				
+FLHCEGFC_00184	CDS	969				hypothetical protein
+FLHCEGFC_00185	gene	309				
+FLHCEGFC_00185	CDS	309				hypothetical protein
+FLHCEGFC_00186	gene	327				
+FLHCEGFC_00186	CDS	327				hypothetical protein
+FLHCEGFC_00187	gene	168				
+FLHCEGFC_00187	CDS	168				hypothetical protein
+FLHCEGFC_00188	gene	1743				
+FLHCEGFC_00188	CDS	1743				hypothetical protein
+FLHCEGFC_00189	gene	459				
+FLHCEGFC_00189	CDS	459				hypothetical protein
+FLHCEGFC_00190	gene	2484				
+FLHCEGFC_00190	CDS	2484				hypothetical protein
+FLHCEGFC_00191	gene	624	COQ3			
+FLHCEGFC_00191	CDS	624	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+FLHCEGFC_00192	gene	1206	thi4_1			
+FLHCEGFC_00192	CDS	1206	thi4_1	2.4.2.59		Thiamine thiazole synthase
+FLHCEGFC_00193	gene	207				
+FLHCEGFC_00193	CDS	207				hypothetical protein
+FLHCEGFC_00194	gene	123				
+FLHCEGFC_00194	CDS	123				hypothetical protein
+FLHCEGFC_00195	gene	576				
+FLHCEGFC_00195	CDS	576				hypothetical protein
+FLHCEGFC_00196	gene	186				
+FLHCEGFC_00196	CDS	186				hypothetical protein
+FLHCEGFC_00197	gene	876	glxR			
+FLHCEGFC_00197	CDS	876	glxR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+FLHCEGFC_00198	gene	162				
+FLHCEGFC_00198	CDS	162				hypothetical protein
+FLHCEGFC_00199	gene	387				
+FLHCEGFC_00199	CDS	387				hypothetical protein
+FLHCEGFC_00200	gene	195	cspA			
+FLHCEGFC_00200	CDS	195	cspA		COG1278	putative cold shock protein A
+FLHCEGFC_00201	gene	672				
+FLHCEGFC_00201	CDS	672				hypothetical protein
+FLHCEGFC_00202	gene	630	rnhB			
+FLHCEGFC_00202	CDS	630	rnhB			Ribonuclease HII
+FLHCEGFC_00203	gene	1203	trm1			
+FLHCEGFC_00203	CDS	1203	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+FLHCEGFC_00204	gene	303				
+FLHCEGFC_00204	CDS	303				hypothetical protein
+FLHCEGFC_00205	gene	207				
+FLHCEGFC_00205	CDS	207				hypothetical protein
+FLHCEGFC_00206	gene	612				
+FLHCEGFC_00206	CDS	612				hypothetical protein
+FLHCEGFC_00207	gene	837				
+FLHCEGFC_00207	CDS	837				hypothetical protein
+FLHCEGFC_00208	gene	888				
+FLHCEGFC_00208	CDS	888				hypothetical protein
+FLHCEGFC_00209	gene	1059				
+FLHCEGFC_00209	CDS	1059				hypothetical protein
+FLHCEGFC_00210	gene	444				
+FLHCEGFC_00210	CDS	444				hypothetical protein
+FLHCEGFC_00211	gene	645				
+FLHCEGFC_00211	CDS	645				hypothetical protein
+FLHCEGFC_00212	gene	561				
+FLHCEGFC_00212	CDS	561				hypothetical protein
+FLHCEGFC_00213	gene	360				
+FLHCEGFC_00213	CDS	360				hypothetical protein
+FLHCEGFC_00214	gene	1524				
+FLHCEGFC_00214	CDS	1524				hypothetical protein
+FLHCEGFC_00215	gene	168				
+FLHCEGFC_00215	CDS	168				hypothetical protein
+FLHCEGFC_00216	gene	150				
+FLHCEGFC_00216	CDS	150				hypothetical protein
+FLHCEGFC_00217	gene	888				
+FLHCEGFC_00217	CDS	888				hypothetical protein
+FLHCEGFC_00218	gene	76				
+FLHCEGFC_00218	tRNA	76				tRNA-Glu(ctc)
+FLHCEGFC_00219	gene	684				
+FLHCEGFC_00219	CDS	684				hypothetical protein
+FLHCEGFC_00220	gene	573				
+FLHCEGFC_00220	CDS	573				hypothetical protein
+FLHCEGFC_00221	gene	516				
+FLHCEGFC_00221	CDS	516				hypothetical protein
+FLHCEGFC_00222	gene	273				
+FLHCEGFC_00222	CDS	273				hypothetical protein
+FLHCEGFC_00223	gene	74				
+FLHCEGFC_00223	tRNA	74				tRNA-Gly(gcc)
+FLHCEGFC_00224	gene	420				
+FLHCEGFC_00224	CDS	420				hypothetical protein
+FLHCEGFC_00225	gene	1323	magA			
+FLHCEGFC_00225	CDS	1323	magA		COG0475	Iron transporter MagA
+FLHCEGFC_00226	gene	108				
+FLHCEGFC_00226	CDS	108				hypothetical protein
+FLHCEGFC_00227	gene	639				
+FLHCEGFC_00227	CDS	639				hypothetical protein
+FLHCEGFC_00228	gene	2031				
+FLHCEGFC_00228	CDS	2031				hypothetical protein
+FLHCEGFC_00229	gene	954				
+FLHCEGFC_00229	CDS	954				hypothetical protein
+FLHCEGFC_00230	gene	816	nadK			
+FLHCEGFC_00230	CDS	816	nadK	2.7.1.23		NAD kinase
+FLHCEGFC_00231	gene	480				
+FLHCEGFC_00231	CDS	480				hypothetical protein
+FLHCEGFC_00232	gene	687				
+FLHCEGFC_00232	CDS	687				hypothetical protein
+FLHCEGFC_00233	gene	378				
+FLHCEGFC_00233	CDS	378				hypothetical protein
+FLHCEGFC_00234	gene	246				
+FLHCEGFC_00234	CDS	246				hypothetical protein
+FLHCEGFC_00235	gene	198				
+FLHCEGFC_00235	CDS	198				hypothetical protein
+FLHCEGFC_00236	gene	819	rph			
+FLHCEGFC_00236	CDS	819	rph	2.7.7.56		Ribonuclease PH
+FLHCEGFC_00237	gene	165				
+FLHCEGFC_00237	CDS	165				hypothetical protein
+FLHCEGFC_00238	gene	1380				
+FLHCEGFC_00238	CDS	1380				hypothetical protein
+FLHCEGFC_00239	gene	714				
+FLHCEGFC_00239	CDS	714				hypothetical protein
+FLHCEGFC_00240	gene	2127	bepA			
+FLHCEGFC_00240	CDS	2127	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+FLHCEGFC_00241	gene	294				
+FLHCEGFC_00241	CDS	294				hypothetical protein
+FLHCEGFC_00242	gene	255				
+FLHCEGFC_00242	CDS	255				hypothetical protein
+FLHCEGFC_00243	gene	123				
+FLHCEGFC_00243	CDS	123				hypothetical protein
+FLHCEGFC_00244	gene	1485	rnj_1			
+FLHCEGFC_00244	CDS	1485	rnj_1	3.1.-.-		Ribonuclease J
+FLHCEGFC_00245	gene	804				
+FLHCEGFC_00245	CDS	804				hypothetical protein
+FLHCEGFC_00246	gene	186				
+FLHCEGFC_00246	CDS	186				hypothetical protein
+FLHCEGFC_00247	gene	1302				
+FLHCEGFC_00247	CDS	1302				hypothetical protein
+FLHCEGFC_00248	gene	369				
+FLHCEGFC_00248	CDS	369				hypothetical protein
+FLHCEGFC_00249	gene	312				
+FLHCEGFC_00249	CDS	312				hypothetical protein
+FLHCEGFC_00250	gene	960				
+FLHCEGFC_00250	CDS	960				hypothetical protein
+FLHCEGFC_00251	gene	1182				
+FLHCEGFC_00251	CDS	1182				hypothetical protein
+FLHCEGFC_00252	gene	318				
+FLHCEGFC_00252	CDS	318				hypothetical protein
+FLHCEGFC_00253	gene	231	iscS_1			
+FLHCEGFC_00253	CDS	231	iscS_1	2.8.1.7		Cysteine desulfurase IscS
+FLHCEGFC_00254	gene	255	iscS_2			
+FLHCEGFC_00254	CDS	255	iscS_2	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FLHCEGFC_00255	gene	354	iscS_3			
+FLHCEGFC_00255	CDS	354	iscS_3	2.8.1.7	COG1104	Cysteine desulfurase IscS
+FLHCEGFC_00256	gene	381				
+FLHCEGFC_00256	CDS	381				hypothetical protein
+FLHCEGFC_00257	gene	297				
+FLHCEGFC_00257	CDS	297				hypothetical protein
+FLHCEGFC_00258	gene	201				
+FLHCEGFC_00258	CDS	201				hypothetical protein
+FLHCEGFC_00259	gene	273				
+FLHCEGFC_00259	CDS	273				hypothetical protein
+FLHCEGFC_00260	gene	252				
+FLHCEGFC_00260	CDS	252				hypothetical protein
+FLHCEGFC_00261	gene	165				
+FLHCEGFC_00261	CDS	165				hypothetical protein
+FLHCEGFC_00262	gene	246				
+FLHCEGFC_00262	CDS	246				hypothetical protein
+FLHCEGFC_00263	gene	294				
+FLHCEGFC_00263	CDS	294				hypothetical protein
+FLHCEGFC_00264	gene	1086				
+FLHCEGFC_00264	CDS	1086				hypothetical protein
+FLHCEGFC_00265	gene	765				
+FLHCEGFC_00265	CDS	765				hypothetical protein
+FLHCEGFC_00266	gene	357				
+FLHCEGFC_00266	CDS	357				hypothetical protein
+FLHCEGFC_00267	gene	168				
+FLHCEGFC_00267	CDS	168				hypothetical protein
+FLHCEGFC_00268	gene	594				
+FLHCEGFC_00268	CDS	594				hypothetical protein
+FLHCEGFC_00269	gene	210				
+FLHCEGFC_00269	CDS	210				hypothetical protein
+FLHCEGFC_00270	gene	2313	valS			
+FLHCEGFC_00270	CDS	2313	valS	6.1.1.9		Valine--tRNA ligase
+FLHCEGFC_00271	gene	282	phhB			
+FLHCEGFC_00271	CDS	282	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+FLHCEGFC_00272	gene	768				
+FLHCEGFC_00272	CDS	768				hypothetical protein
+FLHCEGFC_00273	gene	546	purB			
+FLHCEGFC_00273	CDS	546	purB	4.3.2.2		Adenylosuccinate lyase
+FLHCEGFC_00274	gene	330	oppD			
+FLHCEGFC_00274	CDS	330	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+FLHCEGFC_00275	gene	663				
+FLHCEGFC_00275	CDS	663				hypothetical protein
+FLHCEGFC_00276	gene	558				
+FLHCEGFC_00276	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+FLHCEGFC_00277	gene	570	tmung			
+FLHCEGFC_00277	CDS	570	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+FLHCEGFC_00278	gene	231				
+FLHCEGFC_00278	CDS	231				hypothetical protein
+FLHCEGFC_00279	gene	336				
+FLHCEGFC_00279	CDS	336				hypothetical protein
+FLHCEGFC_00280	gene	471	mntR			
+FLHCEGFC_00280	CDS	471	mntR			HTH-type transcriptional regulator MntR
+FLHCEGFC_00281	gene	405				
+FLHCEGFC_00281	CDS	405				hypothetical protein
+FLHCEGFC_00282	gene	498				
+FLHCEGFC_00282	CDS	498				hypothetical protein
+FLHCEGFC_00283	gene	756	yfcA			
+FLHCEGFC_00283	CDS	756	yfcA		COG0730	putative membrane transporter protein YfcA
+FLHCEGFC_00284	gene	1641				
+FLHCEGFC_00284	CDS	1641				hypothetical protein
+FLHCEGFC_00285	gene	237				
+FLHCEGFC_00285	CDS	237				hypothetical protein
+FLHCEGFC_00286	gene	378				
+FLHCEGFC_00286	CDS	378				hypothetical protein
+FLHCEGFC_00287	gene	540				
+FLHCEGFC_00287	CDS	540				hypothetical protein
+FLHCEGFC_00288	gene	654				
+FLHCEGFC_00288	CDS	654				hypothetical protein
+FLHCEGFC_00289	gene	1806	lig			
+FLHCEGFC_00289	CDS	1806	lig	6.5.1.1		DNA ligase
+FLHCEGFC_00290	gene	411				
+FLHCEGFC_00290	CDS	411				hypothetical protein
+FLHCEGFC_00291	gene	1137	fbp			
+FLHCEGFC_00291	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+FLHCEGFC_00292	gene	1299	cysN			
+FLHCEGFC_00292	CDS	1299	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1
+FLHCEGFC_00293	gene	309	rpsJ			
+FLHCEGFC_00293	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+FLHCEGFC_00294	gene	216				
+FLHCEGFC_00294	CDS	216				hypothetical protein
+FLHCEGFC_00295	gene	417				
+FLHCEGFC_00295	CDS	417				hypothetical protein
+FLHCEGFC_00296	gene	129				
+FLHCEGFC_00296	CDS	129				hypothetical protein
+FLHCEGFC_00297	gene	507				
+FLHCEGFC_00297	CDS	507				hypothetical protein
+FLHCEGFC_00298	gene	1140	fadB			
+FLHCEGFC_00298	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+FLHCEGFC_00299	gene	186				
+FLHCEGFC_00299	CDS	186				hypothetical protein
+FLHCEGFC_00300	gene	111				
+FLHCEGFC_00300	CDS	111				hypothetical protein
+FLHCEGFC_00301	gene	294				
+FLHCEGFC_00301	CDS	294				hypothetical protein
+FLHCEGFC_00302	gene	411	hit_1			
+FLHCEGFC_00302	CDS	411	hit_1		COG0537	Protein hit
+FLHCEGFC_00303	gene	708	dnaJ_1			
+FLHCEGFC_00303	CDS	708	dnaJ_1			Chaperone protein DnaJ
+FLHCEGFC_00304	gene	453				
+FLHCEGFC_00304	CDS	453				hypothetical protein
+FLHCEGFC_00305	gene	210				
+FLHCEGFC_00305	CDS	210				hypothetical protein
+FLHCEGFC_00306	gene	768	aqpZ_1			
+FLHCEGFC_00306	CDS	768	aqpZ_1			Aquaporin Z
+FLHCEGFC_00307	gene	987				
+FLHCEGFC_00307	CDS	987				hypothetical protein
+FLHCEGFC_00308	gene	630				
+FLHCEGFC_00308	CDS	630				hypothetical protein
+FLHCEGFC_00309	gene	2646				
+FLHCEGFC_00309	CDS	2646				hypothetical protein
+FLHCEGFC_00310	gene	774				
+FLHCEGFC_00310	CDS	774				hypothetical protein
+FLHCEGFC_00311	gene	1008	drrA			
+FLHCEGFC_00311	CDS	1008	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+FLHCEGFC_00312	gene	594	rlmE			
+FLHCEGFC_00312	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+FLHCEGFC_00313	gene	825				
+FLHCEGFC_00313	CDS	825				hypothetical protein
+FLHCEGFC_00314	gene	2079				
+FLHCEGFC_00314	CDS	2079				hypothetical protein
+FLHCEGFC_00315	gene	2139				
+FLHCEGFC_00315	CDS	2139				hypothetical protein
+FLHCEGFC_00316	gene	513	apt			
+FLHCEGFC_00316	CDS	513	apt	2.4.2.7		Adenine phosphoribosyltransferase
+FLHCEGFC_00317	gene	807	mtnP			
+FLHCEGFC_00317	CDS	807	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+FLHCEGFC_00318	gene	243				
+FLHCEGFC_00318	CDS	243				hypothetical protein
+FLHCEGFC_00319	gene	432				
+FLHCEGFC_00319	CDS	432				hypothetical protein
+FLHCEGFC_00320	gene	369				
+FLHCEGFC_00320	CDS	369				hypothetical protein
+FLHCEGFC_00321	gene	462				
+FLHCEGFC_00321	CDS	462				hypothetical protein
+FLHCEGFC_00322	gene	1056	rlmN			
+FLHCEGFC_00322	CDS	1056	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+FLHCEGFC_00323	gene	1101	TOP6A			
+FLHCEGFC_00323	CDS	1101	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+FLHCEGFC_00324	gene	243	TOP6B			
+FLHCEGFC_00324	CDS	243	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+FLHCEGFC_00325	gene	180				
+FLHCEGFC_00325	CDS	180				hypothetical protein
+FLHCEGFC_00326	gene	306				
+FLHCEGFC_00326	CDS	306				hypothetical protein
+FLHCEGFC_00327	gene	198				
+FLHCEGFC_00327	CDS	198				hypothetical protein
+FLHCEGFC_00328	gene	279				
+FLHCEGFC_00328	CDS	279				hypothetical protein
+FLHCEGFC_00329	gene	123				
+FLHCEGFC_00329	CDS	123				hypothetical protein
+FLHCEGFC_00330	gene	228				
+FLHCEGFC_00330	CDS	228		1.17.1.9		Formate dehydrogenase
+FLHCEGFC_00331	gene	144				
+FLHCEGFC_00331	CDS	144		1.17.1.9		Formate dehydrogenase, mitochondrial
+FLHCEGFC_00332	gene	747				
+FLHCEGFC_00332	CDS	747		1.17.1.9		Formate dehydrogenase
+FLHCEGFC_00333	gene	372	groL_1			
+FLHCEGFC_00333	CDS	372	groL_1			60 kDa chaperonin
+FLHCEGFC_00334	gene	1029	groL_2			
+FLHCEGFC_00334	CDS	1029	groL_2			60 kDa chaperonin
+FLHCEGFC_00335	gene	354	ade_1			
+FLHCEGFC_00335	CDS	354	ade_1	3.5.4.2		Adenine deaminase
+FLHCEGFC_00336	gene	906	ade_2			
+FLHCEGFC_00336	CDS	906	ade_2	3.5.4.2	COG1001	Adenine deaminase
+FLHCEGFC_00337	gene	336	ade_3			
+FLHCEGFC_00337	CDS	336	ade_3	3.5.4.2		Adenine deaminase
+FLHCEGFC_00338	gene	282				
+FLHCEGFC_00338	CDS	282				hypothetical protein
+FLHCEGFC_00339	gene	198				
+FLHCEGFC_00339	CDS	198				hypothetical protein
+FLHCEGFC_00340	gene	324				
+FLHCEGFC_00340	CDS	324				hypothetical protein
+FLHCEGFC_00341	gene	306				
+FLHCEGFC_00341	CDS	306				hypothetical protein
+FLHCEGFC_00342	gene	726	cobS			
+FLHCEGFC_00342	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+FLHCEGFC_00343	gene	1002	cobD_1			
+FLHCEGFC_00343	CDS	1002	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+FLHCEGFC_00344	gene	825	cobQ			
+FLHCEGFC_00344	CDS	825	cobQ			Cobyric acid synthase
+FLHCEGFC_00345	gene	1080	cobD_2			
+FLHCEGFC_00345	CDS	1080	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+FLHCEGFC_00346	gene	843	asd2			
+FLHCEGFC_00346	CDS	843	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+FLHCEGFC_00347	gene	204				
+FLHCEGFC_00347	CDS	204				hypothetical protein
+FLHCEGFC_00348	gene	447				
+FLHCEGFC_00348	CDS	447				hypothetical protein
+FLHCEGFC_00349	gene	414	ctaB			
+FLHCEGFC_00349	CDS	414	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+FLHCEGFC_00350	gene	351	cyoE_1			
+FLHCEGFC_00350	CDS	351	cyoE_1	2.5.1.141		Protoheme IX farnesyltransferase
+FLHCEGFC_00351	gene	732	phnE			
+FLHCEGFC_00351	CDS	732	phnE		COG3639	Phosphate-import permease protein PhnE
+FLHCEGFC_00352	gene	453	btuD			
+FLHCEGFC_00352	CDS	453	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FLHCEGFC_00353	gene	390	pglK			
+FLHCEGFC_00353	CDS	390	pglK	7.5.2.5	COG1132	Protein glycosylation K
+FLHCEGFC_00354	gene	1080				
+FLHCEGFC_00354	CDS	1080				hypothetical protein
+FLHCEGFC_00355	gene	717				
+FLHCEGFC_00355	CDS	717				hypothetical protein
+FLHCEGFC_00356	gene	1335	bsdC			
+FLHCEGFC_00356	CDS	1335	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+FLHCEGFC_00357	gene	852	larC			
+FLHCEGFC_00357	CDS	852	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+FLHCEGFC_00358	gene	804	larE			
+FLHCEGFC_00358	CDS	804	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+FLHCEGFC_00359	gene	1170	iscS_4			
+FLHCEGFC_00359	CDS	1170	iscS_4	2.8.1.7		Cysteine desulfurase IscS
+FLHCEGFC_00360	gene	834				
+FLHCEGFC_00360	CDS	834				hypothetical protein
+FLHCEGFC_00361	gene	852				
+FLHCEGFC_00361	CDS	852				hypothetical protein
+FLHCEGFC_00362	gene	825				
+FLHCEGFC_00362	CDS	825				hypothetical protein
+FLHCEGFC_00363	gene	255				
+FLHCEGFC_00363	CDS	255				hypothetical protein
+FLHCEGFC_00364	gene	3345	rpoB			
+FLHCEGFC_00364	CDS	3345	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+FLHCEGFC_00365	gene	3795	rpoC			
+FLHCEGFC_00365	CDS	3795	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+FLHCEGFC_00366	gene	312				
+FLHCEGFC_00366	CDS	312				hypothetical protein
+FLHCEGFC_00367	gene	465	nusA			
+FLHCEGFC_00367	CDS	465	nusA			Transcription termination/antitermination protein NusA
+FLHCEGFC_00368	gene	438				
+FLHCEGFC_00368	CDS	438				hypothetical protein
+FLHCEGFC_00369	gene	318				
+FLHCEGFC_00369	CDS	318				hypothetical protein
+FLHCEGFC_00370	gene	216				
+FLHCEGFC_00370	CDS	216				hypothetical protein
+FLHCEGFC_00371	gene	72				
+FLHCEGFC_00371	tRNA	72				tRNA-Gln(ctg)
+FLHCEGFC_00372	gene	321				
+FLHCEGFC_00372	CDS	321				hypothetical protein
+FLHCEGFC_00373	gene	705				
+FLHCEGFC_00373	CDS	705				hypothetical protein
+FLHCEGFC_00374	gene	1011				
+FLHCEGFC_00374	CDS	1011				hypothetical protein
+FLHCEGFC_00375	gene	1845				
+FLHCEGFC_00375	CDS	1845				hypothetical protein
+FLHCEGFC_00376	gene	696				
+FLHCEGFC_00376	CDS	696				hypothetical protein
+FLHCEGFC_00377	gene	813	truD			
+FLHCEGFC_00377	CDS	813	truD	5.4.99.27		tRNA pseudouridine synthase D
+FLHCEGFC_00378	gene	210				
+FLHCEGFC_00378	CDS	210				hypothetical protein
+FLHCEGFC_00379	gene	1674	vgb_1			
+FLHCEGFC_00379	CDS	1674	vgb_1	4.2.99.-		Virginiamycin B lyase
+FLHCEGFC_00380	gene	351				
+FLHCEGFC_00380	CDS	351				hypothetical protein
+FLHCEGFC_00381	gene	1170				
+FLHCEGFC_00381	CDS	1170				hypothetical protein
+FLHCEGFC_00382	gene	282				
+FLHCEGFC_00382	CDS	282				hypothetical protein
+FLHCEGFC_00383	gene	2145	ftsH			
+FLHCEGFC_00383	CDS	2145	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FLHCEGFC_00384	gene	312				
+FLHCEGFC_00384	CDS	312				hypothetical protein
+FLHCEGFC_00385	gene	876	cyoE_2			
+FLHCEGFC_00385	CDS	876	cyoE_2	2.5.1.141		Protoheme IX farnesyltransferase
+FLHCEGFC_00386	gene	726				
+FLHCEGFC_00386	CDS	726				hypothetical protein
+FLHCEGFC_00387	gene	306				
+FLHCEGFC_00387	CDS	306				hypothetical protein
+FLHCEGFC_00388	gene	264				
+FLHCEGFC_00388	CDS	264				hypothetical protein
+FLHCEGFC_00389	gene	1770	hppA_1			
+FLHCEGFC_00389	CDS	1770	hppA_1	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+FLHCEGFC_00390	gene	339	hppA_2			
+FLHCEGFC_00390	CDS	339	hppA_2	7.1.3.1		Putative K(+)-stimulated pyrophosphate-energized sodium pump
+FLHCEGFC_00391	gene	378				
+FLHCEGFC_00391	CDS	378				hypothetical protein
+FLHCEGFC_00392	gene	342				
+FLHCEGFC_00392	CDS	342				hypothetical protein
+FLHCEGFC_00393	gene	186				
+FLHCEGFC_00393	CDS	186				hypothetical protein
+FLHCEGFC_00394	gene	423	apbC			
+FLHCEGFC_00394	CDS	423	apbC		COG0489	Iron-sulfur cluster carrier protein
+FLHCEGFC_00395	gene	612	mrp			
+FLHCEGFC_00395	CDS	612	mrp		COG0489	Iron-sulfur cluster carrier protein
+FLHCEGFC_00396	gene	603				
+FLHCEGFC_00396	CDS	603				hypothetical protein
+FLHCEGFC_00397	gene	207				
+FLHCEGFC_00397	CDS	207				hypothetical protein
+FLHCEGFC_00398	gene	831	nadC			
+FLHCEGFC_00398	CDS	831	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FLHCEGFC_00399	gene	327	nadA			
+FLHCEGFC_00399	CDS	327	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+FLHCEGFC_00400	gene	3963				
+FLHCEGFC_00400	CDS	3963				hypothetical protein
+FLHCEGFC_00401	gene	3963				
+FLHCEGFC_00401	CDS	3963				hypothetical protein
+FLHCEGFC_00402	gene	258				
+FLHCEGFC_00402	CDS	258				hypothetical protein
+FLHCEGFC_00403	gene	276				
+FLHCEGFC_00403	CDS	276				hypothetical protein
+FLHCEGFC_00404	gene	201				
+FLHCEGFC_00404	CDS	201				hypothetical protein
+FLHCEGFC_00405	gene	183				
+FLHCEGFC_00405	CDS	183				hypothetical protein
+FLHCEGFC_00406	gene	138				
+FLHCEGFC_00406	CDS	138				hypothetical protein
+FLHCEGFC_00407	gene	117				
+FLHCEGFC_00407	CDS	117				hypothetical protein
+FLHCEGFC_00408	gene	243				
+FLHCEGFC_00408	CDS	243				hypothetical protein
+FLHCEGFC_00409	gene	1974	rtpR			
+FLHCEGFC_00409	CDS	1974	rtpR	1.17.4.2		Adenosylcobalamin-dependent ribonucleoside-triphosphate reductase
+FLHCEGFC_00410	gene	450				
+FLHCEGFC_00410	CDS	450				hypothetical protein
+FLHCEGFC_00411	gene	810				
+FLHCEGFC_00411	CDS	810				hypothetical protein
+FLHCEGFC_00412	gene	384				
+FLHCEGFC_00412	CDS	384				hypothetical protein
+FLHCEGFC_00413	gene	1836				
+FLHCEGFC_00413	CDS	1836				hypothetical protein
+FLHCEGFC_00414	gene	1674				
+FLHCEGFC_00414	CDS	1674				hypothetical protein
+FLHCEGFC_00415	gene	237	fdx			
+FLHCEGFC_00415	CDS	237	fdx		COG1145	Ferredoxin
+FLHCEGFC_00416	gene	2865	vgb_2			
+FLHCEGFC_00416	CDS	2865	vgb_2	4.2.99.-		Virginiamycin B lyase
+FLHCEGFC_00417	gene	657				
+FLHCEGFC_00417	CDS	657				hypothetical protein
+FLHCEGFC_00418	gene	996	petE			
+FLHCEGFC_00418	CDS	996	petE			Plastocyanin
+FLHCEGFC_00419	gene	1164	arnC			
+FLHCEGFC_00419	CDS	1164	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FLHCEGFC_00420	gene	492				
+FLHCEGFC_00420	CDS	492				hypothetical protein
+FLHCEGFC_00421	gene	1215				
+FLHCEGFC_00421	CDS	1215				hypothetical protein
+FLHCEGFC_00422	gene	1059				
+FLHCEGFC_00422	CDS	1059				hypothetical protein
+FLHCEGFC_00423	gene	954	pyrB			
+FLHCEGFC_00423	CDS	954	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+FLHCEGFC_00424	gene	462	pyrI			
+FLHCEGFC_00424	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+FLHCEGFC_00425	gene	2118				
+FLHCEGFC_00425	CDS	2118				hypothetical protein
+FLHCEGFC_00426	gene	330				
+FLHCEGFC_00426	CDS	330				hypothetical protein
+FLHCEGFC_00427	gene	660	atpD			
+FLHCEGFC_00427	CDS	660	atpD		COG1394	V-type ATP synthase subunit D
+FLHCEGFC_00428	gene	1404	ntpB			
+FLHCEGFC_00428	CDS	1404	ntpB			V-type sodium ATPase subunit B
+FLHCEGFC_00429	gene	1695	ntpA			
+FLHCEGFC_00429	CDS	1695	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+FLHCEGFC_00430	gene	183				
+FLHCEGFC_00430	CDS	183				hypothetical protein
+FLHCEGFC_00431	gene	288				
+FLHCEGFC_00431	CDS	288				hypothetical protein
+FLHCEGFC_00432	gene	429				
+FLHCEGFC_00432	CDS	429				hypothetical protein
+FLHCEGFC_00433	gene	948	asnB			
+FLHCEGFC_00433	CDS	948	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+FLHCEGFC_00434	gene	141				
+FLHCEGFC_00434	CDS	141				hypothetical protein
+FLHCEGFC_00435	gene	888	menA			
+FLHCEGFC_00435	CDS	888	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+FLHCEGFC_00436	gene	402				
+FLHCEGFC_00436	CDS	402				hypothetical protein
+FLHCEGFC_00437	gene	429				
+FLHCEGFC_00437	CDS	429				hypothetical protein
+FLHCEGFC_00438	gene	276	ppiC			
+FLHCEGFC_00438	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+FLHCEGFC_00439	gene	1494	srmB			
+FLHCEGFC_00439	CDS	1494	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+FLHCEGFC_00440	gene	258				
+FLHCEGFC_00440	CDS	258				hypothetical protein
+FLHCEGFC_00441	gene	387	hit_2			
+FLHCEGFC_00441	CDS	387	hit_2		COG0537	Protein hit
+FLHCEGFC_00442	gene	1281				
+FLHCEGFC_00442	CDS	1281				hypothetical protein
+FLHCEGFC_00443	gene	216				
+FLHCEGFC_00443	CDS	216				hypothetical protein
+FLHCEGFC_00444	gene	345				
+FLHCEGFC_00444	CDS	345				hypothetical protein
+FLHCEGFC_00445	gene	330				
+FLHCEGFC_00445	CDS	330				hypothetical protein
+FLHCEGFC_00446	gene	1026				
+FLHCEGFC_00446	CDS	1026				hypothetical protein
+FLHCEGFC_00447	gene	207				
+FLHCEGFC_00447	CDS	207				hypothetical protein
+FLHCEGFC_00448	gene	342				
+FLHCEGFC_00448	CDS	342				hypothetical protein
+FLHCEGFC_00449	gene	1311	aspS2_1			
+FLHCEGFC_00449	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+FLHCEGFC_00450	gene	267				
+FLHCEGFC_00450	CDS	267				hypothetical protein
+FLHCEGFC_00451	gene	1449	gatA			
+FLHCEGFC_00451	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FLHCEGFC_00452	gene	1413	gatB			
+FLHCEGFC_00452	CDS	1413	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+FLHCEGFC_00453	gene	894				
+FLHCEGFC_00453	CDS	894				hypothetical protein
+FLHCEGFC_00454	gene	249				
+FLHCEGFC_00454	CDS	249				hypothetical protein
+FLHCEGFC_00455	gene	1095	dinB1			
+FLHCEGFC_00455	CDS	1095	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+FLHCEGFC_00456	gene	957				
+FLHCEGFC_00456	CDS	957				hypothetical protein
+FLHCEGFC_00457	gene	1170				
+FLHCEGFC_00457	CDS	1170				hypothetical protein
+FLHCEGFC_00458	gene	381				
+FLHCEGFC_00458	CDS	381				hypothetical protein
+FLHCEGFC_00459	gene	690				
+FLHCEGFC_00459	CDS	690				hypothetical protein
+FLHCEGFC_00460	gene	465				
+FLHCEGFC_00460	CDS	465				hypothetical protein
+FLHCEGFC_00461	gene	543				
+FLHCEGFC_00461	CDS	543				hypothetical protein
+FLHCEGFC_00462	gene	171				
+FLHCEGFC_00462	CDS	171				hypothetical protein
+FLHCEGFC_00463	gene	306				
+FLHCEGFC_00463	CDS	306				hypothetical protein
+FLHCEGFC_00464	gene	150				
+FLHCEGFC_00464	CDS	150				hypothetical protein
+FLHCEGFC_00465	gene	309				
+FLHCEGFC_00465	CDS	309				hypothetical protein
+FLHCEGFC_00466	gene	408				
+FLHCEGFC_00466	CDS	408				hypothetical protein
+FLHCEGFC_00467	gene	171				
+FLHCEGFC_00467	CDS	171				hypothetical protein
+FLHCEGFC_00468	gene	420				
+FLHCEGFC_00468	CDS	420				hypothetical protein
+FLHCEGFC_00469	gene	345				
+FLHCEGFC_00469	CDS	345				hypothetical protein
+FLHCEGFC_00470	gene	276				
+FLHCEGFC_00470	CDS	276				hypothetical protein
+FLHCEGFC_00471	gene	678				
+FLHCEGFC_00471	CDS	678				hypothetical protein
+FLHCEGFC_00472	gene	348				
+FLHCEGFC_00472	CDS	348				hypothetical protein
+FLHCEGFC_00473	gene	999				
+FLHCEGFC_00473	CDS	999				hypothetical protein
+FLHCEGFC_00474	gene	723				
+FLHCEGFC_00474	CDS	723				hypothetical protein
+FLHCEGFC_00475	gene	834	znuB			
+FLHCEGFC_00475	CDS	834	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+FLHCEGFC_00476	gene	765	mntB			
+FLHCEGFC_00476	CDS	765	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+FLHCEGFC_00477	gene	384	nikR			
+FLHCEGFC_00477	CDS	384	nikR			Nickel-responsive regulator
+FLHCEGFC_00478	gene	798				
+FLHCEGFC_00478	CDS	798				hypothetical protein
+FLHCEGFC_00479	gene	453				
+FLHCEGFC_00479	CDS	453				hypothetical protein
+FLHCEGFC_00480	gene	438	bcp_1			
+FLHCEGFC_00480	CDS	438	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FLHCEGFC_00481	gene	582				
+FLHCEGFC_00481	CDS	582				hypothetical protein
+FLHCEGFC_00482	gene	1176	dnaJ_2			
+FLHCEGFC_00482	CDS	1176	dnaJ_2			Chaperone protein DnaJ
+FLHCEGFC_00483	gene	399				
+FLHCEGFC_00483	CDS	399				hypothetical protein
+FLHCEGFC_00484	gene	576				
+FLHCEGFC_00484	CDS	576				hypothetical protein
+FLHCEGFC_00485	gene	588	ccr_2			
+FLHCEGFC_00485	CDS	588	ccr_2	1.3.1.86		Crotonyl-CoA reductase
+FLHCEGFC_00486	gene	513				
+FLHCEGFC_00486	CDS	513		1.1.1.1		Alcohol dehydrogenase
+FLHCEGFC_00487	gene	687				
+FLHCEGFC_00487	CDS	687				hypothetical protein
+FLHCEGFC_00488	gene	681	ubiE			
+FLHCEGFC_00488	CDS	681	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+FLHCEGFC_00489	gene	624	trmR			
+FLHCEGFC_00489	CDS	624	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+FLHCEGFC_00490	gene	498	sucD_1			
+FLHCEGFC_00490	CDS	498	sucD_1	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+FLHCEGFC_00491	gene	399	sucD_2			
+FLHCEGFC_00491	CDS	399	sucD_2	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+FLHCEGFC_00492	gene	1107	sucC			
+FLHCEGFC_00492	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+FLHCEGFC_00493	gene	330				
+FLHCEGFC_00493	CDS	330				hypothetical protein
+FLHCEGFC_00494	gene	2412	ileS			
+FLHCEGFC_00494	CDS	2412	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FLHCEGFC_00495	gene	330				
+FLHCEGFC_00495	CDS	330				hypothetical protein
+FLHCEGFC_00496	gene	93				
+FLHCEGFC_00496	CDS	93				hypothetical protein
+FLHCEGFC_00497	gene	423				
+FLHCEGFC_00497	CDS	423				hypothetical protein
+FLHCEGFC_00498	gene	873				
+FLHCEGFC_00498	CDS	873				hypothetical protein
+FLHCEGFC_00499	gene	303				
+FLHCEGFC_00499	CDS	303				hypothetical protein
+FLHCEGFC_00500	gene	894	COQ5			
+FLHCEGFC_00500	CDS	894	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FLHCEGFC_00501	gene	969	pdxS			
+FLHCEGFC_00501	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+FLHCEGFC_00502	gene	621	pdxT			
+FLHCEGFC_00502	CDS	621	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+FLHCEGFC_00503	gene	1524				
+FLHCEGFC_00503	CDS	1524				hypothetical protein
+FLHCEGFC_00504	gene	1149				
+FLHCEGFC_00504	CDS	1149				hypothetical protein
+FLHCEGFC_00505	gene	132				
+FLHCEGFC_00505	CDS	132				hypothetical protein
+FLHCEGFC_00506	gene	570				
+FLHCEGFC_00506	CDS	570				hypothetical protein
+FLHCEGFC_00507	gene	789				
+FLHCEGFC_00507	CDS	789				hypothetical protein
+FLHCEGFC_00508	gene	537				
+FLHCEGFC_00508	CDS	537				hypothetical protein
+FLHCEGFC_00509	gene	231				
+FLHCEGFC_00509	CDS	231				hypothetical protein
+FLHCEGFC_00510	gene	228				
+FLHCEGFC_00510	CDS	228				hypothetical protein
+FLHCEGFC_00511	gene	297				
+FLHCEGFC_00511	CDS	297				hypothetical protein
+FLHCEGFC_00512	gene	483				
+FLHCEGFC_00512	CDS	483				hypothetical protein
+FLHCEGFC_00513	gene	294				
+FLHCEGFC_00513	CDS	294				hypothetical protein
+FLHCEGFC_00514	gene	768				
+FLHCEGFC_00514	CDS	768				hypothetical protein
+FLHCEGFC_00515	gene	165				
+FLHCEGFC_00515	CDS	165				hypothetical protein
+FLHCEGFC_00516	gene	861	aspC			
+FLHCEGFC_00516	CDS	861	aspC	2.6.1.1	COG0436	Aspartate aminotransferase
+FLHCEGFC_00517	gene	516				
+FLHCEGFC_00517	CDS	516				hypothetical protein
+FLHCEGFC_00518	gene	972	aroC			
+FLHCEGFC_00518	CDS	972	aroC	4.2.3.5		Chorismate synthase
+FLHCEGFC_00519	gene	1269	aroA			
+FLHCEGFC_00519	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+FLHCEGFC_00520	gene	855	thrB_2			
+FLHCEGFC_00520	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+FLHCEGFC_00521	gene	822	aroE			
+FLHCEGFC_00521	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+FLHCEGFC_00522	gene	672	aroD			
+FLHCEGFC_00522	CDS	672	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FLHCEGFC_00523	gene	1056	griH			
+FLHCEGFC_00523	CDS	1056	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+FLHCEGFC_00524	gene	786	griI			
+FLHCEGFC_00524	CDS	786	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+FLHCEGFC_00525	gene	1119	mqnC			
+FLHCEGFC_00525	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+FLHCEGFC_00526	gene	1443	ubiD			
+FLHCEGFC_00526	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+FLHCEGFC_00527	gene	234				
+FLHCEGFC_00527	CDS	234				hypothetical protein
+FLHCEGFC_00528	gene	375				
+FLHCEGFC_00528	CDS	375				hypothetical protein
+FLHCEGFC_00529	gene	360	atpF			
+FLHCEGFC_00529	CDS	360	atpF			V-type ATP synthase subunit F
+FLHCEGFC_00530	gene	1065	atpC			
+FLHCEGFC_00530	CDS	1065	atpC			V-type ATP synthase subunit C
+FLHCEGFC_00531	gene	555	atpE			
+FLHCEGFC_00531	CDS	555	atpE			V-type proton ATPase subunit E
+FLHCEGFC_00532	gene	336				
+FLHCEGFC_00532	CDS	336				hypothetical protein
+FLHCEGFC_00533	gene	774	rhdA			
+FLHCEGFC_00533	CDS	774	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+FLHCEGFC_00534	gene	1593	amt			
+FLHCEGFC_00534	CDS	1593	amt			Ammonia channel
+FLHCEGFC_00535	gene	693				
+FLHCEGFC_00535	CDS	693				hypothetical protein
+FLHCEGFC_00536	gene	672				
+FLHCEGFC_00536	CDS	672				hypothetical protein
+FLHCEGFC_00537	gene	123				
+FLHCEGFC_00537	CDS	123				hypothetical protein
+FLHCEGFC_00538	gene	543				
+FLHCEGFC_00538	CDS	543				hypothetical protein
+FLHCEGFC_00539	gene	354				
+FLHCEGFC_00539	CDS	354				hypothetical protein
+FLHCEGFC_00540	gene	675	pyrH			
+FLHCEGFC_00540	CDS	675	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FLHCEGFC_00541	gene	1239				
+FLHCEGFC_00541	CDS	1239				hypothetical protein
+FLHCEGFC_00542	gene	582	tmk			
+FLHCEGFC_00542	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+FLHCEGFC_00543	gene	387				
+FLHCEGFC_00543	CDS	387				hypothetical protein
+FLHCEGFC_00544	gene	192				
+FLHCEGFC_00544	CDS	192				hypothetical protein
+FLHCEGFC_00545	gene	126				
+FLHCEGFC_00545	CDS	126				hypothetical protein
+FLHCEGFC_00546	gene	73				
+FLHCEGFC_00546	tRNA	73				tRNA-Gln(ttg)
+FLHCEGFC_00547	gene	771				
+FLHCEGFC_00547	CDS	771				hypothetical protein
+FLHCEGFC_00548	gene	954	lnrL			
+FLHCEGFC_00548	CDS	954	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FLHCEGFC_00549	gene	1398				
+FLHCEGFC_00549	CDS	1398				hypothetical protein
+FLHCEGFC_00550	gene	2754	dbpA			
+FLHCEGFC_00550	CDS	2754	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+FLHCEGFC_00551	gene	120				
+FLHCEGFC_00551	CDS	120				hypothetical protein
+FLHCEGFC_00552	gene	651	radA			
+FLHCEGFC_00552	CDS	651	radA			DNA repair protein RadA
+FLHCEGFC_00553	gene	243				
+FLHCEGFC_00553	CDS	243				hypothetical protein
+FLHCEGFC_00554	gene	1161	metK			
+FLHCEGFC_00554	CDS	1161	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+FLHCEGFC_00555	gene	459				
+FLHCEGFC_00555	CDS	459				hypothetical protein
+FLHCEGFC_00556	gene	813	ybeM			
+FLHCEGFC_00556	CDS	813	ybeM	3.5.1.128		Deaminated glutathione amidase
+FLHCEGFC_00557	gene	177				
+FLHCEGFC_00557	CDS	177				hypothetical protein
+FLHCEGFC_00558	gene	771				
+FLHCEGFC_00558	CDS	771				hypothetical protein
+FLHCEGFC_00559	gene	321				
+FLHCEGFC_00559	CDS	321				hypothetical protein
+FLHCEGFC_00560	gene	393				
+FLHCEGFC_00560	CDS	393				hypothetical protein
+FLHCEGFC_00561	gene	315				
+FLHCEGFC_00561	CDS	315				hypothetical protein
+FLHCEGFC_00562	gene	141				
+FLHCEGFC_00562	CDS	141				hypothetical protein
+FLHCEGFC_00563	gene	255				
+FLHCEGFC_00563	CDS	255				hypothetical protein
+FLHCEGFC_00564	gene	717				
+FLHCEGFC_00564	CDS	717				hypothetical protein
+FLHCEGFC_00565	gene	240				
+FLHCEGFC_00565	CDS	240				hypothetical protein
+FLHCEGFC_00566	gene	240				
+FLHCEGFC_00566	CDS	240				hypothetical protein
+FLHCEGFC_00567	gene	669				
+FLHCEGFC_00567	CDS	669				hypothetical protein
+FLHCEGFC_00568	gene	441				
+FLHCEGFC_00568	CDS	441				hypothetical protein
+FLHCEGFC_00569	gene	279				
+FLHCEGFC_00569	CDS	279				hypothetical protein
+FLHCEGFC_00570	gene	1059				
+FLHCEGFC_00570	CDS	1059		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+FLHCEGFC_00571	gene	1059	thiI_2			
+FLHCEGFC_00571	CDS	1059	thiI_2	2.8.1.4		tRNA sulfurtransferase
+FLHCEGFC_00572	gene	279				
+FLHCEGFC_00572	CDS	279				hypothetical protein
+FLHCEGFC_00573	gene	1935	rnj_2			
+FLHCEGFC_00573	CDS	1935	rnj_2	3.1.-.-		Ribonuclease J
+FLHCEGFC_00574	gene	504	prcB_2			
+FLHCEGFC_00574	CDS	504	prcB_2			Proteasome subunit beta
+FLHCEGFC_00575	gene	183				
+FLHCEGFC_00575	CDS	183				hypothetical protein
+FLHCEGFC_00576	gene	219				
+FLHCEGFC_00576	CDS	219				hypothetical protein
+FLHCEGFC_00577	gene	1569				
+FLHCEGFC_00577	CDS	1569				hypothetical protein
+FLHCEGFC_00578	gene	780				
+FLHCEGFC_00578	CDS	780				hypothetical protein
+FLHCEGFC_00579	gene	1464				
+FLHCEGFC_00579	CDS	1464				hypothetical protein
+FLHCEGFC_00580	gene	432				
+FLHCEGFC_00580	CDS	432				hypothetical protein
+FLHCEGFC_00581	gene	612				
+FLHCEGFC_00581	CDS	612				hypothetical protein
+FLHCEGFC_00582	gene	1245	serS			
+FLHCEGFC_00582	CDS	1245	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+FLHCEGFC_00583	gene	243				
+FLHCEGFC_00583	CDS	243				hypothetical protein
+FLHCEGFC_00584	gene	450				
+FLHCEGFC_00584	CDS	450				hypothetical protein
+FLHCEGFC_00585	gene	318				
+FLHCEGFC_00585	CDS	318				hypothetical protein
+FLHCEGFC_00586	gene	270				
+FLHCEGFC_00586	CDS	270				hypothetical protein
+FLHCEGFC_00587	gene	192				
+FLHCEGFC_00587	CDS	192				hypothetical protein
+FLHCEGFC_00588	gene	897				
+FLHCEGFC_00588	CDS	897				hypothetical protein
+FLHCEGFC_00589	gene	267				
+FLHCEGFC_00589	CDS	267				hypothetical protein
+FLHCEGFC_00590	gene	654				
+FLHCEGFC_00590	CDS	654				hypothetical protein
+FLHCEGFC_00591	gene	372				
+FLHCEGFC_00591	CDS	372				hypothetical protein
+FLHCEGFC_00592	gene	162				
+FLHCEGFC_00592	CDS	162				hypothetical protein
+FLHCEGFC_00593	gene	297	phaJ_1			
+FLHCEGFC_00593	CDS	297	phaJ_1	4.2.1.119	COG2030	(R)-specific enoyl-CoA hydratase
+FLHCEGFC_00594	gene	240				
+FLHCEGFC_00594	CDS	240				hypothetical protein
+FLHCEGFC_00595	gene	1746				
+FLHCEGFC_00595	CDS	1746				hypothetical protein
+FLHCEGFC_00596	gene	534	dapH			
+FLHCEGFC_00596	CDS	534	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FLHCEGFC_00597	gene	684				
+FLHCEGFC_00597	CDS	684				hypothetical protein
+FLHCEGFC_00598	gene	195				
+FLHCEGFC_00598	CDS	195				hypothetical protein
+FLHCEGFC_00599	gene	150				
+FLHCEGFC_00599	CDS	150				hypothetical protein
+FLHCEGFC_00600	gene	1038	mgs			
+FLHCEGFC_00600	CDS	1038	mgs	2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+FLHCEGFC_00601	gene	219				
+FLHCEGFC_00601	CDS	219				hypothetical protein
+FLHCEGFC_00602	gene	264				
+FLHCEGFC_00602	CDS	264				hypothetical protein
+FLHCEGFC_00603	gene	138				
+FLHCEGFC_00603	CDS	138				hypothetical protein
+FLHCEGFC_00604	gene	159				
+FLHCEGFC_00604	CDS	159				hypothetical protein
+FLHCEGFC_00605	gene	150				
+FLHCEGFC_00605	CDS	150				hypothetical protein
+FLHCEGFC_00606	gene	135				
+FLHCEGFC_00606	CDS	135				hypothetical protein
+FLHCEGFC_00607	gene	156				
+FLHCEGFC_00607	CDS	156				hypothetical protein
+FLHCEGFC_00608	gene	267				
+FLHCEGFC_00608	CDS	267				hypothetical protein
+FLHCEGFC_00609	gene	564				
+FLHCEGFC_00609	CDS	564				hypothetical protein
+FLHCEGFC_00610	gene	216				
+FLHCEGFC_00610	CDS	216				hypothetical protein
+FLHCEGFC_00611	gene	489				
+FLHCEGFC_00611	CDS	489				hypothetical protein
+FLHCEGFC_00612	gene	405				
+FLHCEGFC_00612	CDS	405				hypothetical protein
+FLHCEGFC_00613	gene	1524	smc_1			
+FLHCEGFC_00613	CDS	1524	smc_1			Chromosome partition protein Smc
+FLHCEGFC_00614	gene	1134	cpdA_1			
+FLHCEGFC_00614	CDS	1134	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FLHCEGFC_00615	gene	1527				
+FLHCEGFC_00615	CDS	1527				hypothetical protein
+FLHCEGFC_00616	gene	228				
+FLHCEGFC_00616	CDS	228				hypothetical protein
+FLHCEGFC_00617	gene	630				
+FLHCEGFC_00617	CDS	630				hypothetical protein
+FLHCEGFC_00618	gene	819	nadX			
+FLHCEGFC_00618	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+FLHCEGFC_00619	gene	120				
+FLHCEGFC_00619	CDS	120				hypothetical protein
+FLHCEGFC_00620	gene	390				
+FLHCEGFC_00620	CDS	390		2.3.1.-		tRNA uridine(34) acetyltransferase
+FLHCEGFC_00621	gene	183				
+FLHCEGFC_00621	CDS	183				hypothetical protein
+FLHCEGFC_00622	gene	123				
+FLHCEGFC_00622	CDS	123				hypothetical protein
+FLHCEGFC_00623	gene	528				
+FLHCEGFC_00623	CDS	528			COG1055	putative transporter
+FLHCEGFC_00624	gene	300				
+FLHCEGFC_00624	CDS	300				hypothetical protein
+FLHCEGFC_00625	gene	240				
+FLHCEGFC_00625	CDS	240			COG1055	putative transporter
+FLHCEGFC_00626	gene	177				
+FLHCEGFC_00626	CDS	177				hypothetical protein
+FLHCEGFC_00627	gene	186				
+FLHCEGFC_00627	CDS	186				hypothetical protein
+FLHCEGFC_00628	gene	93				
+FLHCEGFC_00628	CDS	93				hypothetical protein
+FLHCEGFC_00629	gene	354	purM_1			
+FLHCEGFC_00629	CDS	354	purM_1	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+FLHCEGFC_00630	gene	102				
+FLHCEGFC_00630	CDS	102				hypothetical protein
+FLHCEGFC_00631	gene	165	purM_2			
+FLHCEGFC_00631	CDS	165	purM_2	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+FLHCEGFC_00632	gene	534				
+FLHCEGFC_00632	CDS	534				hypothetical protein
+FLHCEGFC_00633	gene	165				
+FLHCEGFC_00633	CDS	165				hypothetical protein
+FLHCEGFC_00634	gene	189				
+FLHCEGFC_00634	CDS	189				hypothetical protein
+FLHCEGFC_00635	gene	153				
+FLHCEGFC_00635	CDS	153				hypothetical protein
+FLHCEGFC_00636	gene	651	yrbG			
+FLHCEGFC_00636	CDS	651	yrbG		COG0530	Inner membrane protein YrbG
+FLHCEGFC_00637	gene	270				
+FLHCEGFC_00637	CDS	270				hypothetical protein
+FLHCEGFC_00638	gene	453				
+FLHCEGFC_00638	CDS	453				hypothetical protein
+FLHCEGFC_00639	gene	837	fbiC_1			
+FLHCEGFC_00639	CDS	837	fbiC_1		COG1060	FO synthase
+FLHCEGFC_00640	gene	270				
+FLHCEGFC_00640	CDS	270				hypothetical protein
+FLHCEGFC_00641	gene	252	fbiC_2			
+FLHCEGFC_00641	CDS	252	fbiC_2		COG1060	FO synthase
+FLHCEGFC_00642	gene	300	cofG			
+FLHCEGFC_00642	CDS	300	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+FLHCEGFC_00643	gene	75				
+FLHCEGFC_00643	tRNA	75				tRNA-Ala(cgc)
+FLHCEGFC_00644	gene	360				
+FLHCEGFC_00644	CDS	360				hypothetical protein
+FLHCEGFC_00645	gene	531				
+FLHCEGFC_00645	CDS	531				hypothetical protein
+FLHCEGFC_00646	gene	333	trxA			
+FLHCEGFC_00646	CDS	333	trxA			Thioredoxin 1
+FLHCEGFC_00647	gene	795				
+FLHCEGFC_00647	CDS	795				hypothetical protein
+FLHCEGFC_00648	gene	726				
+FLHCEGFC_00648	CDS	726				hypothetical protein
+FLHCEGFC_00649	gene	1527	abfD			
+FLHCEGFC_00649	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+FLHCEGFC_00650	gene	2103	FCS1			
+FLHCEGFC_00650	CDS	2103	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+FLHCEGFC_00651	gene	357				
+FLHCEGFC_00651	CDS	357				hypothetical protein
+FLHCEGFC_00652	gene	453				
+FLHCEGFC_00652	CDS	453				hypothetical protein
+FLHCEGFC_00653	gene	369				
+FLHCEGFC_00653	CDS	369				hypothetical protein
+FLHCEGFC_00654	gene	1179	carA			
+FLHCEGFC_00654	CDS	1179	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+FLHCEGFC_00655	gene	3045	carB			
+FLHCEGFC_00655	CDS	3045	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+FLHCEGFC_00656	gene	747	cpdA_2			
+FLHCEGFC_00656	CDS	747	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FLHCEGFC_00657	gene	288				
+FLHCEGFC_00657	CDS	288				hypothetical protein
+FLHCEGFC_00658	gene	561				
+FLHCEGFC_00658	CDS	561				hypothetical protein
+FLHCEGFC_00659	gene	111				
+FLHCEGFC_00659	CDS	111				hypothetical protein
+FLHCEGFC_00660	gene	108				
+FLHCEGFC_00660	CDS	108				hypothetical protein
+FLHCEGFC_00661	gene	1032	gutB			
+FLHCEGFC_00661	CDS	1032	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+FLHCEGFC_00662	gene	816	lsrF			
+FLHCEGFC_00662	CDS	816	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+FLHCEGFC_00663	gene	288				
+FLHCEGFC_00663	CDS	288				hypothetical protein
+FLHCEGFC_00664	gene	1509	glmU			
+FLHCEGFC_00664	CDS	1509	glmU	2.7.7.23		Bifunctional protein GlmU
+FLHCEGFC_00665	gene	1401	bchE			
+FLHCEGFC_00665	CDS	1401	bchE	1.21.98.3	COG1032	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+FLHCEGFC_00666	gene	2046				
+FLHCEGFC_00666	CDS	2046				hypothetical protein
+FLHCEGFC_00667	gene	933	rfbE			
+FLHCEGFC_00667	CDS	933	rfbE	5.1.3.10	COG0451	CDP-paratose 2-epimerase
+FLHCEGFC_00668	gene	549	aptB			
+FLHCEGFC_00668	CDS	549	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FLHCEGFC_00669	gene	1257				
+FLHCEGFC_00669	CDS	1257				hypothetical protein
+FLHCEGFC_00670	gene	759				
+FLHCEGFC_00670	CDS	759				hypothetical protein
+FLHCEGFC_00671	gene	1131				
+FLHCEGFC_00671	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FLHCEGFC_00672	gene	495				
+FLHCEGFC_00672	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+FLHCEGFC_00673	gene	495				
+FLHCEGFC_00673	CDS	495				hypothetical protein
+FLHCEGFC_00674	gene	522				
+FLHCEGFC_00674	CDS	522				hypothetical protein
+FLHCEGFC_00675	gene	76				
+FLHCEGFC_00675	tRNA	76				tRNA-Val(gac)
+FLHCEGFC_00676	gene	273				
+FLHCEGFC_00676	CDS	273				hypothetical protein
+FLHCEGFC_00677	gene	222				
+FLHCEGFC_00677	CDS	222				hypothetical protein
+FLHCEGFC_00678	gene	489	ppiA			
+FLHCEGFC_00678	CDS	489	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+FLHCEGFC_00679	gene	468				
+FLHCEGFC_00679	CDS	468				hypothetical protein
+FLHCEGFC_00680	gene	459				
+FLHCEGFC_00680	CDS	459				hypothetical protein
+FLHCEGFC_00681	gene	570				
+FLHCEGFC_00681	CDS	570				hypothetical protein
+FLHCEGFC_00682	gene	492	cysC			
+FLHCEGFC_00682	CDS	492	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+FLHCEGFC_00683	gene	77				
+FLHCEGFC_00683	tRNA	77				tRNA-Val(tac)
+FLHCEGFC_00684	gene	1416				
+FLHCEGFC_00684	CDS	1416				hypothetical protein
+FLHCEGFC_00685	gene	915	ilvE			
+FLHCEGFC_00685	CDS	915	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+FLHCEGFC_00686	gene	165				
+FLHCEGFC_00686	CDS	165				hypothetical protein
+FLHCEGFC_00687	gene	74				
+FLHCEGFC_00687	tRNA	74				tRNA-Lys(ttt)
+FLHCEGFC_00688	gene	78				
+FLHCEGFC_00688	tRNA	78				tRNA-Asp(gtc)
+FLHCEGFC_00689	gene	828	cysQ			
+FLHCEGFC_00689	CDS	828	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+FLHCEGFC_00690	gene	1074				
+FLHCEGFC_00690	CDS	1074				hypothetical protein
+FLHCEGFC_00691	gene	321				
+FLHCEGFC_00691	CDS	321				hypothetical protein
+FLHCEGFC_00692	gene	579	purN			
+FLHCEGFC_00692	CDS	579	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+FLHCEGFC_00693	gene	651				
+FLHCEGFC_00693	CDS	651				hypothetical protein
+FLHCEGFC_00694	gene	1086				
+FLHCEGFC_00694	CDS	1086		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+FLHCEGFC_00695	gene	948				
+FLHCEGFC_00695	CDS	948				hypothetical protein
+FLHCEGFC_00696	gene	1281				
+FLHCEGFC_00696	CDS	1281		2.7.1.165	COG2379	D-glycerate 2-kinase
+FLHCEGFC_00697	gene	207				
+FLHCEGFC_00697	CDS	207				hypothetical protein
+FLHCEGFC_00698	gene	444				
+FLHCEGFC_00698	CDS	444				hypothetical protein
+FLHCEGFC_00699	gene	207				
+FLHCEGFC_00699	CDS	207				hypothetical protein
+FLHCEGFC_00700	gene	405	citZ			
+FLHCEGFC_00700	CDS	405	citZ	2.3.3.16	COG0372	Citrate synthase 2
+FLHCEGFC_00701	gene	1323				
+FLHCEGFC_00701	CDS	1323				hypothetical protein
+FLHCEGFC_00702	gene	996				
+FLHCEGFC_00702	CDS	996				hypothetical protein
+FLHCEGFC_00703	gene	549				
+FLHCEGFC_00703	CDS	549				hypothetical protein
+FLHCEGFC_00704	gene	816	pheA			
+FLHCEGFC_00704	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+FLHCEGFC_00705	gene	471				
+FLHCEGFC_00705	CDS	471				hypothetical protein
+FLHCEGFC_00706	gene	1437	guaB			
+FLHCEGFC_00706	CDS	1437	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+FLHCEGFC_00707	gene	144				
+FLHCEGFC_00707	CDS	144				hypothetical protein
+FLHCEGFC_00708	gene	495				
+FLHCEGFC_00708	CDS	495				hypothetical protein
+FLHCEGFC_00709	gene	537				
+FLHCEGFC_00709	CDS	537				hypothetical protein
+FLHCEGFC_00710	gene	261				
+FLHCEGFC_00710	CDS	261				hypothetical protein
+FLHCEGFC_00711	gene	1017				
+FLHCEGFC_00711	CDS	1017				hypothetical protein
+FLHCEGFC_00712	gene	1071				
+FLHCEGFC_00712	CDS	1071				hypothetical protein
+FLHCEGFC_00713	gene	195				
+FLHCEGFC_00713	CDS	195				hypothetical protein
+FLHCEGFC_00714	gene	714	queE			
+FLHCEGFC_00714	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+FLHCEGFC_00715	gene	567	folE			
+FLHCEGFC_00715	CDS	567	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+FLHCEGFC_00716	gene	327				
+FLHCEGFC_00716	CDS	327				hypothetical protein
+FLHCEGFC_00717	gene	810				
+FLHCEGFC_00717	CDS	810				hypothetical protein
+FLHCEGFC_00718	gene	246				
+FLHCEGFC_00718	CDS	246				hypothetical protein
+FLHCEGFC_00719	gene	492				
+FLHCEGFC_00719	CDS	492				hypothetical protein
+FLHCEGFC_00720	gene	1302				
+FLHCEGFC_00720	CDS	1302				hypothetical protein
+FLHCEGFC_00721	gene	207				
+FLHCEGFC_00721	CDS	207				hypothetical protein
+FLHCEGFC_00722	gene	690				
+FLHCEGFC_00722	CDS	690				hypothetical protein
+FLHCEGFC_00723	gene	1134				
+FLHCEGFC_00723	CDS	1134				hypothetical protein
+FLHCEGFC_00724	gene	1002				
+FLHCEGFC_00724	CDS	1002				hypothetical protein
+FLHCEGFC_00725	gene	1428				
+FLHCEGFC_00725	CDS	1428				hypothetical protein
+FLHCEGFC_00726	gene	1230	carE			
+FLHCEGFC_00726	CDS	1230	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+FLHCEGFC_00727	gene	882	acrB			
+FLHCEGFC_00727	CDS	882	acrB			Acryloyl-CoA reductase electron transfer subunit gamma
+FLHCEGFC_00728	gene	354				
+FLHCEGFC_00728	CDS	354				hypothetical protein
+FLHCEGFC_00729	gene	564				
+FLHCEGFC_00729	CDS	564				hypothetical protein
+FLHCEGFC_00730	gene	1062	phaC			
+FLHCEGFC_00730	CDS	1062	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+FLHCEGFC_00731	gene	423				
+FLHCEGFC_00731	CDS	423				hypothetical protein
+FLHCEGFC_00732	gene	297				
+FLHCEGFC_00732	CDS	297				hypothetical protein
+FLHCEGFC_00733	gene	705				
+FLHCEGFC_00733	CDS	705			COG0596	putative protein
+FLHCEGFC_00734	gene	468				
+FLHCEGFC_00734	CDS	468				hypothetical protein
+FLHCEGFC_00735	gene	351				
+FLHCEGFC_00735	CDS	351				hypothetical protein
+FLHCEGFC_00736	gene	348				
+FLHCEGFC_00736	CDS	348				hypothetical protein
+FLHCEGFC_00737	gene	267				
+FLHCEGFC_00737	CDS	267				hypothetical protein
+FLHCEGFC_00738	gene	462				
+FLHCEGFC_00738	CDS	462				hypothetical protein
+FLHCEGFC_00739	gene	222				
+FLHCEGFC_00739	CDS	222				hypothetical protein
+FLHCEGFC_00740	gene	684				
+FLHCEGFC_00740	CDS	684				hypothetical protein
+FLHCEGFC_00741	gene	945				
+FLHCEGFC_00741	CDS	945		1.1.1.81	COG0111	Hydroxypyruvate reductase
+FLHCEGFC_00742	gene	1410				
+FLHCEGFC_00742	CDS	1410				hypothetical protein
+FLHCEGFC_00743	gene	1425				
+FLHCEGFC_00743	CDS	1425				hypothetical protein
+FLHCEGFC_00744	gene	77				
+FLHCEGFC_00744	tRNA	77				tRNA-Val(cac)
+FLHCEGFC_00745	gene	258				
+FLHCEGFC_00745	CDS	258				hypothetical protein
+FLHCEGFC_00746	gene	1773				
+FLHCEGFC_00746	CDS	1773				hypothetical protein
+FLHCEGFC_00747	gene	396	ino1			
+FLHCEGFC_00747	CDS	396	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+FLHCEGFC_00748	gene	3558	smc_2			
+FLHCEGFC_00748	CDS	3558	smc_2		COG1196	Chromosome partition protein Smc
+FLHCEGFC_00749	gene	600				
+FLHCEGFC_00749	CDS	600				hypothetical protein
+FLHCEGFC_00750	gene	189				
+FLHCEGFC_00750	CDS	189				hypothetical protein
+FLHCEGFC_00751	gene	201				
+FLHCEGFC_00751	CDS	201				hypothetical protein
+FLHCEGFC_00752	gene	432				
+FLHCEGFC_00752	CDS	432				hypothetical protein
+FLHCEGFC_00753	gene	231				
+FLHCEGFC_00753	CDS	231				hypothetical protein
+FLHCEGFC_00754	gene	378				
+FLHCEGFC_00754	CDS	378				hypothetical protein
+FLHCEGFC_00755	gene	285				
+FLHCEGFC_00755	CDS	285				hypothetical protein
+FLHCEGFC_00756	gene	372				
+FLHCEGFC_00756	CDS	372				hypothetical protein
+FLHCEGFC_00757	gene	129				
+FLHCEGFC_00757	CDS	129				hypothetical protein
+FLHCEGFC_00758	gene	513				
+FLHCEGFC_00758	CDS	513				hypothetical protein
+FLHCEGFC_00759	gene	603				
+FLHCEGFC_00759	CDS	603				hypothetical protein
+FLHCEGFC_00760	gene	297				
+FLHCEGFC_00760	CDS	297				hypothetical protein
+FLHCEGFC_00761	gene	1188	ilvD			
+FLHCEGFC_00761	CDS	1188	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+FLHCEGFC_00762	gene	1416				
+FLHCEGFC_00762	CDS	1416				hypothetical protein
+FLHCEGFC_00763	gene	1350				
+FLHCEGFC_00763	CDS	1350				hypothetical protein
+FLHCEGFC_00764	gene	540	thpR			
+FLHCEGFC_00764	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+FLHCEGFC_00765	gene	522				
+FLHCEGFC_00765	CDS	522				hypothetical protein
+FLHCEGFC_00766	gene	402				
+FLHCEGFC_00766	CDS	402				hypothetical protein
+FLHCEGFC_00767	gene	903	rnz			
+FLHCEGFC_00767	CDS	903	rnz	3.1.26.11	COG1234	Ribonuclease Z
+FLHCEGFC_00768	gene	876	prs			
+FLHCEGFC_00768	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FLHCEGFC_00769	gene	735				
+FLHCEGFC_00769	CDS	735				hypothetical protein
+FLHCEGFC_00770	gene	498	nuoI			
+FLHCEGFC_00770	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+FLHCEGFC_00771	gene	516				
+FLHCEGFC_00771	CDS	516				hypothetical protein
+FLHCEGFC_00772	gene	306	nuoK			
+FLHCEGFC_00772	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+FLHCEGFC_00773	gene	1551	mrpA			
+FLHCEGFC_00773	CDS	1551	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+FLHCEGFC_00774	gene	354				
+FLHCEGFC_00774	CDS	354				hypothetical protein
+FLHCEGFC_00775	gene	2697	alaS			
+FLHCEGFC_00775	CDS	2697	alaS	6.1.1.7		Alanine--tRNA ligase
+FLHCEGFC_00776	gene	627	folD			
+FLHCEGFC_00776	CDS	627	folD		COG0190	Bifunctional protein FolD protein
+FLHCEGFC_00777	gene	561				
+FLHCEGFC_00777	CDS	561		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+FLHCEGFC_00778	gene	351	purD_1			
+FLHCEGFC_00778	CDS	351	purD_1	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FLHCEGFC_00779	gene	954	purD_2			
+FLHCEGFC_00779	CDS	954	purD_2	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FLHCEGFC_00780	gene	729	cobB			
+FLHCEGFC_00780	CDS	729	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+FLHCEGFC_00781	gene	501				
+FLHCEGFC_00781	CDS	501		1.1.1.1		Alcohol dehydrogenase
+FLHCEGFC_00782	gene	216	tdh			
+FLHCEGFC_00782	CDS	216	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+FLHCEGFC_00783	gene	285				
+FLHCEGFC_00783	CDS	285				hypothetical protein
+FLHCEGFC_00784	gene	228				
+FLHCEGFC_00784	CDS	228				hypothetical protein
+FLHCEGFC_00785	gene	102				
+FLHCEGFC_00785	CDS	102				hypothetical protein
+FLHCEGFC_00786	gene	159				
+FLHCEGFC_00786	CDS	159				hypothetical protein
+FLHCEGFC_00787	gene	249				
+FLHCEGFC_00787	CDS	249				hypothetical protein
+FLHCEGFC_00788	gene	249				
+FLHCEGFC_00788	CDS	249				hypothetical protein
+FLHCEGFC_00789	gene	294				
+FLHCEGFC_00789	CDS	294				hypothetical protein
+FLHCEGFC_00790	gene	1155	nqo4			
+FLHCEGFC_00790	CDS	1155	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+FLHCEGFC_00791	gene	543	nuoC			
+FLHCEGFC_00791	CDS	543	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+FLHCEGFC_00792	gene	558	ndhK			
+FLHCEGFC_00792	CDS	558	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+FLHCEGFC_00793	gene	165				
+FLHCEGFC_00793	CDS	165				hypothetical protein
+FLHCEGFC_00794	gene	1296	aspS2_2			
+FLHCEGFC_00794	CDS	1296	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+FLHCEGFC_00795	gene	171				
+FLHCEGFC_00795	CDS	171				hypothetical protein
+FLHCEGFC_00796	gene	852	hicd			
+FLHCEGFC_00796	CDS	852	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+FLHCEGFC_00797	gene	339	leuA			
+FLHCEGFC_00797	CDS	339	leuA	2.3.3.13		2-isopropylmalate synthase
+FLHCEGFC_00798	gene	1155	colD			
+FLHCEGFC_00798	CDS	1155	colD	4.2.1.168		GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+FLHCEGFC_00799	gene	552	nudF			
+FLHCEGFC_00799	CDS	552	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+FLHCEGFC_00800	gene	717	hddC			
+FLHCEGFC_00800	CDS	717	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+FLHCEGFC_00801	gene	1089	undec1A			
+FLHCEGFC_00801	CDS	1089	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+FLHCEGFC_00802	gene	174				
+FLHCEGFC_00802	CDS	174				hypothetical protein
+FLHCEGFC_00803	gene	243				
+FLHCEGFC_00803	CDS	243				hypothetical protein
+FLHCEGFC_00804	gene	111				
+FLHCEGFC_00804	CDS	111				hypothetical protein
+FLHCEGFC_00805	gene	159				
+FLHCEGFC_00805	CDS	159				hypothetical protein
+FLHCEGFC_00806	gene	615				
+FLHCEGFC_00806	CDS	615				hypothetical protein
+FLHCEGFC_00807	gene	570				
+FLHCEGFC_00807	CDS	570				hypothetical protein
+FLHCEGFC_00808	gene	312				
+FLHCEGFC_00808	CDS	312				hypothetical protein
+FLHCEGFC_00809	gene	231				
+FLHCEGFC_00809	CDS	231				hypothetical protein
+FLHCEGFC_00810	gene	519	grpE			
+FLHCEGFC_00810	CDS	519	grpE		COG0576	Protein GrpE
+FLHCEGFC_00811	gene	1128				
+FLHCEGFC_00811	CDS	1128				hypothetical protein
+FLHCEGFC_00812	gene	945	aqpZ_2			
+FLHCEGFC_00812	CDS	945	aqpZ_2			Aquaporin Z
+FLHCEGFC_00813	gene	465	bcp_2			
+FLHCEGFC_00813	CDS	465	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FLHCEGFC_00814	gene	390				
+FLHCEGFC_00814	CDS	390				hypothetical protein
+FLHCEGFC_00815	gene	603				
+FLHCEGFC_00815	CDS	603				hypothetical protein
+FLHCEGFC_00816	gene	1197	ychF			
+FLHCEGFC_00816	CDS	1197	ychF		COG0012	Ribosome-binding ATPase YchF
+FLHCEGFC_00817	gene	216	wbpA			
+FLHCEGFC_00817	CDS	216	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+FLHCEGFC_00818	gene	234				
+FLHCEGFC_00818	CDS	234				hypothetical protein
+FLHCEGFC_00819	gene	141				
+FLHCEGFC_00819	CDS	141				hypothetical protein
+FLHCEGFC_00820	gene	219				
+FLHCEGFC_00820	CDS	219				hypothetical protein
+FLHCEGFC_00821	gene	279				
+FLHCEGFC_00821	CDS	279				hypothetical protein
+FLHCEGFC_00822	gene	516	lhyD			
+FLHCEGFC_00822	CDS	516	lhyD	3.5.2.-		L-hydantoinase
+FLHCEGFC_00823	gene	675	rpiA			
+FLHCEGFC_00823	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+FLHCEGFC_00824	gene	861				
+FLHCEGFC_00824	CDS	861				hypothetical protein
+FLHCEGFC_00825	gene	189				
+FLHCEGFC_00825	CDS	189				hypothetical protein
+FLHCEGFC_00826	gene	117				
+FLHCEGFC_00826	CDS	117				hypothetical protein
+FLHCEGFC_00827	gene	879				
+FLHCEGFC_00827	CDS	879				hypothetical protein
+FLHCEGFC_00828	gene	246				
+FLHCEGFC_00828	CDS	246				hypothetical protein
+FLHCEGFC_00829	gene	420	phaJ_2			
+FLHCEGFC_00829	CDS	420	phaJ_2	4.2.1.119	COG2030	(R)-specific enoyl-CoA hydratase
+FLHCEGFC_00830	gene	165				
+FLHCEGFC_00830	CDS	165				hypothetical protein
+FLHCEGFC_00831	gene	297				
+FLHCEGFC_00831	CDS	297				hypothetical protein
+FLHCEGFC_00832	gene	363				
+FLHCEGFC_00832	CDS	363				hypothetical protein
+FLHCEGFC_00833	gene	819	cpoB			
+FLHCEGFC_00833	CDS	819	cpoB			Cell division coordinator CpoB
+FLHCEGFC_00834	gene	1152	hemL			
+FLHCEGFC_00834	CDS	1152	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+FLHCEGFC_00835	gene	648	fabG			
+FLHCEGFC_00835	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FLHCEGFC_00836	gene	252				
+FLHCEGFC_00836	CDS	252				hypothetical protein
+FLHCEGFC_00837	gene	126				
+FLHCEGFC_00837	CDS	126				hypothetical protein
+FLHCEGFC_00838	gene	234				
+FLHCEGFC_00838	CDS	234				hypothetical protein
+FLHCEGFC_00839	gene	198				
+FLHCEGFC_00839	CDS	198				hypothetical protein
+FLHCEGFC_00840	gene	240				
+FLHCEGFC_00840	CDS	240				hypothetical protein
+FLHCEGFC_00841	gene	222	apgM_1			
+FLHCEGFC_00841	CDS	222	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FLHCEGFC_00842	gene	192				
+FLHCEGFC_00842	CDS	192				hypothetical protein
+FLHCEGFC_00843	gene	2049				
+FLHCEGFC_00843	CDS	2049				hypothetical protein
+FLHCEGFC_00844	gene	183	cysG_1			
+FLHCEGFC_00844	CDS	183	cysG_1	4.99.1.4		Siroheme synthase
+FLHCEGFC_00845	gene	237	cysG_2			
+FLHCEGFC_00845	CDS	237	cysG_2		COG0007	Siroheme synthase
+FLHCEGFC_00846	gene	183	sumT			
+FLHCEGFC_00846	CDS	183	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+FLHCEGFC_00847	gene	771	hemC			
+FLHCEGFC_00847	CDS	771	hemC	2.5.1.61		Porphobilinogen deaminase
+FLHCEGFC_00848	gene	327	hemL2			
+FLHCEGFC_00848	CDS	327	hemL2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase 2
+FLHCEGFC_00849	gene	74				
+FLHCEGFC_00849	tRNA	74				tRNA-Pro(ggg)
+FLHCEGFC_00850	gene	759				
+FLHCEGFC_00850	CDS	759				hypothetical protein
+FLHCEGFC_00851	gene	882				
+FLHCEGFC_00851	CDS	882				hypothetical protein
+FLHCEGFC_00852	gene	474	bcp_3			
+FLHCEGFC_00852	CDS	474	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FLHCEGFC_00853	gene	513				
+FLHCEGFC_00853	CDS	513				hypothetical protein
+FLHCEGFC_00854	gene	1125	cfiB			
+FLHCEGFC_00854	CDS	1125	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+FLHCEGFC_00855	gene	993				
+FLHCEGFC_00855	CDS	993		2.5.-.-		Deoxyhypusine synthase-like protein
+FLHCEGFC_00856	gene	261				
+FLHCEGFC_00856	CDS	261				hypothetical protein
+FLHCEGFC_00857	gene	345	algD			
+FLHCEGFC_00857	CDS	345	algD	1.1.1.132	COG1004	GDP-mannose 6-dehydrogenase
+FLHCEGFC_00858	gene	174				
+FLHCEGFC_00858	CDS	174				hypothetical protein
+FLHCEGFC_00859	gene	375	galE			
+FLHCEGFC_00859	CDS	375	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+FLHCEGFC_00860	gene	288				
+FLHCEGFC_00860	CDS	288				hypothetical protein
+FLHCEGFC_00861	gene	552	pdaD			
+FLHCEGFC_00861	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+FLHCEGFC_00862	gene	1266				
+FLHCEGFC_00862	CDS	1266				hypothetical protein
+FLHCEGFC_00863	gene	270				
+FLHCEGFC_00863	CDS	270				hypothetical protein
+FLHCEGFC_00864	gene	177				
+FLHCEGFC_00864	CDS	177				hypothetical protein
+FLHCEGFC_00865	gene	123				
+FLHCEGFC_00865	CDS	123				hypothetical protein
+FLHCEGFC_00866	gene	108				
+FLHCEGFC_00866	CDS	108				hypothetical protein
+FLHCEGFC_00867	gene	1359				
+FLHCEGFC_00867	CDS	1359				hypothetical protein
+FLHCEGFC_00868	gene	291				
+FLHCEGFC_00868	CDS	291				hypothetical protein
+FLHCEGFC_00869	gene	468				
+FLHCEGFC_00869	CDS	468				hypothetical protein
+FLHCEGFC_00870	gene	816	aptA			
+FLHCEGFC_00870	CDS	816	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+FLHCEGFC_00871	gene	810				
+FLHCEGFC_00871	CDS	810				hypothetical protein
+FLHCEGFC_00872	gene	366	thi4_2			
+FLHCEGFC_00872	CDS	366	thi4_2	2.4.2.59		Thiamine thiazole synthase
+FLHCEGFC_00873	gene	870	aspA			
+FLHCEGFC_00873	CDS	870	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+FLHCEGFC_00874	gene	807	miaB			
+FLHCEGFC_00874	CDS	807	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FLHCEGFC_00875	gene	216				
+FLHCEGFC_00875	CDS	216				hypothetical protein
+FLHCEGFC_00876	gene	234				
+FLHCEGFC_00876	CDS	234				hypothetical protein
+FLHCEGFC_00877	gene	228				
+FLHCEGFC_00877	CDS	228				hypothetical protein
+FLHCEGFC_00878	gene	312				
+FLHCEGFC_00878	CDS	312				hypothetical protein
+FLHCEGFC_00879	gene	117				
+FLHCEGFC_00879	CDS	117				hypothetical protein
+FLHCEGFC_00880	gene	321				
+FLHCEGFC_00880	CDS	321				hypothetical protein
+FLHCEGFC_00881	gene	204				
+FLHCEGFC_00881	CDS	204				hypothetical protein
+FLHCEGFC_00882	gene	309				
+FLHCEGFC_00882	CDS	309				hypothetical protein
+FLHCEGFC_00883	gene	261				
+FLHCEGFC_00883	CDS	261				hypothetical protein
+FLHCEGFC_00884	gene	273				
+FLHCEGFC_00884	CDS	273				hypothetical protein
+FLHCEGFC_00885	gene	180				
+FLHCEGFC_00885	CDS	180				hypothetical protein
+FLHCEGFC_00886	gene	384	guaA_2			
+FLHCEGFC_00886	CDS	384	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+FLHCEGFC_00887	gene	876	mak			
+FLHCEGFC_00887	CDS	876	mak	2.7.1.4	COG1940	Fructokinase
+FLHCEGFC_00888	gene	495				
+FLHCEGFC_00888	CDS	495				hypothetical protein
+FLHCEGFC_00889	gene	129				
+FLHCEGFC_00889	CDS	129				hypothetical protein
+FLHCEGFC_00890	gene	216				
+FLHCEGFC_00890	CDS	216				hypothetical protein
+FLHCEGFC_00891	gene	315				
+FLHCEGFC_00891	CDS	315				hypothetical protein
+FLHCEGFC_00892	gene	795	nuoN			
+FLHCEGFC_00892	CDS	795	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+FLHCEGFC_00893	gene	663				
+FLHCEGFC_00893	CDS	663				hypothetical protein
+FLHCEGFC_00894	gene	357				
+FLHCEGFC_00894	CDS	357				hypothetical protein
+FLHCEGFC_00895	gene	711	dpnM			
+FLHCEGFC_00895	CDS	711	dpnM	2.1.1.72		Modification methylase DpnIIA
+FLHCEGFC_00896	gene	120				
+FLHCEGFC_00896	CDS	120				hypothetical protein
+FLHCEGFC_00897	gene	231				
+FLHCEGFC_00897	CDS	231				hypothetical protein
+FLHCEGFC_00898	gene	990	tagO			
+FLHCEGFC_00898	CDS	990	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+FLHCEGFC_00899	gene	243				
+FLHCEGFC_00899	CDS	243				hypothetical protein
+FLHCEGFC_00900	gene	408				
+FLHCEGFC_00900	CDS	408				hypothetical protein
+FLHCEGFC_00901	gene	624	bzaF			
+FLHCEGFC_00901	CDS	624	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+FLHCEGFC_00902	gene	1017	accD5			
+FLHCEGFC_00902	CDS	1017	accD5	6.4.1.3	COG4799	putative propionyl-CoA carboxylase beta chain 5
+FLHCEGFC_00903	gene	279				
+FLHCEGFC_00903	CDS	279				hypothetical protein
+FLHCEGFC_00904	gene	549				
+FLHCEGFC_00904	CDS	549				hypothetical protein
+FLHCEGFC_00905	gene	75				
+FLHCEGFC_00905	tRNA	75				tRNA-Ile(gat)
+FLHCEGFC_00906	gene	279				
+FLHCEGFC_00906	CDS	279				hypothetical protein
+FLHCEGFC_00907	gene	138				
+FLHCEGFC_00907	CDS	138				hypothetical protein
+FLHCEGFC_00908	gene	288				
+FLHCEGFC_00908	CDS	288				hypothetical protein
+FLHCEGFC_00909	gene	504	mshA			
+FLHCEGFC_00909	CDS	504	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FLHCEGFC_00910	gene	807				
+FLHCEGFC_00910	CDS	807				hypothetical protein
+FLHCEGFC_00911	gene	249				
+FLHCEGFC_00911	CDS	249				hypothetical protein
+FLHCEGFC_00912	gene	150				
+FLHCEGFC_00912	CDS	150				hypothetical protein
+FLHCEGFC_00913	gene	228				
+FLHCEGFC_00913	CDS	228				hypothetical protein
+FLHCEGFC_00914	gene	144				
+FLHCEGFC_00914	CDS	144				hypothetical protein
+FLHCEGFC_00915	gene	168				
+FLHCEGFC_00915	CDS	168				hypothetical protein
+FLHCEGFC_00916	gene	120	sufC			
+FLHCEGFC_00916	CDS	120	sufC		COG0396	Vegetative protein 296
+FLHCEGFC_00917	gene	165				
+FLHCEGFC_00917	CDS	165				hypothetical protein
+FLHCEGFC_00918	gene	144				
+FLHCEGFC_00918	CDS	144				hypothetical protein
+FLHCEGFC_00919	gene	195				
+FLHCEGFC_00919	CDS	195				hypothetical protein
+FLHCEGFC_00920	gene	516				
+FLHCEGFC_00920	CDS	516				hypothetical protein
+FLHCEGFC_00921	gene	387				
+FLHCEGFC_00921	CDS	387				hypothetical protein
+FLHCEGFC_00922	gene	570	xerC			
+FLHCEGFC_00922	CDS	570	xerC			Tyrosine recombinase XerC
+FLHCEGFC_00923	gene	654				
+FLHCEGFC_00923	CDS	654				hypothetical protein
+FLHCEGFC_00924	gene	861				
+FLHCEGFC_00924	CDS	861				IS3 family transposase ISPpu29
+FLHCEGFC_00925	gene	141				
+FLHCEGFC_00925	CDS	141				hypothetical protein
+FLHCEGFC_00926	gene	483				
+FLHCEGFC_00926	CDS	483				hypothetical protein
+FLHCEGFC_00927	gene	201				
+FLHCEGFC_00927	CDS	201				hypothetical protein
+FLHCEGFC_00928	gene	510	dadD			
+FLHCEGFC_00928	CDS	510	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+FLHCEGFC_00929	gene	216				
+FLHCEGFC_00929	CDS	216				hypothetical protein
+FLHCEGFC_00930	gene	408				
+FLHCEGFC_00930	CDS	408				hypothetical protein
+FLHCEGFC_00931	gene	228				
+FLHCEGFC_00931	CDS	228				hypothetical protein
+FLHCEGFC_00932	gene	378				
+FLHCEGFC_00932	CDS	378				hypothetical protein
+FLHCEGFC_00933	gene	477				
+FLHCEGFC_00933	CDS	477				hypothetical protein
+FLHCEGFC_00934	gene	99				
+FLHCEGFC_00934	CDS	99				hypothetical protein
+FLHCEGFC_00935	gene	816	adhT			
+FLHCEGFC_00935	CDS	816	adhT	1.1.1.1		Alcohol dehydrogenase
+FLHCEGFC_00936	gene	228				
+FLHCEGFC_00936	CDS	228				hypothetical protein
+FLHCEGFC_00937	gene	402				
+FLHCEGFC_00937	CDS	402				hypothetical protein
+FLHCEGFC_00938	gene	231				
+FLHCEGFC_00938	CDS	231				hypothetical protein
+FLHCEGFC_00939	gene	126				
+FLHCEGFC_00939	CDS	126				hypothetical protein
+FLHCEGFC_00940	gene	177				
+FLHCEGFC_00940	CDS	177				hypothetical protein
+FLHCEGFC_00941	gene	171				
+FLHCEGFC_00941	CDS	171				hypothetical protein
+FLHCEGFC_00942	gene	606				
+FLHCEGFC_00942	CDS	606				hypothetical protein
+FLHCEGFC_00943	gene	147				
+FLHCEGFC_00943	CDS	147				hypothetical protein
+FLHCEGFC_00944	gene	234				
+FLHCEGFC_00944	CDS	234				hypothetical protein
+FLHCEGFC_00945	gene	276				
+FLHCEGFC_00945	CDS	276				hypothetical protein
+FLHCEGFC_00946	gene	231				
+FLHCEGFC_00946	CDS	231				hypothetical protein
+FLHCEGFC_00947	gene	75				
+FLHCEGFC_00947	tRNA	75				tRNA-Arg(gcg)
+FLHCEGFC_00948	gene	393	cugP			
+FLHCEGFC_00948	CDS	393	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FLHCEGFC_00949	gene	108				
+FLHCEGFC_00949	CDS	108				hypothetical protein
+FLHCEGFC_00950	gene	129				
+FLHCEGFC_00950	CDS	129				hypothetical protein
+FLHCEGFC_00951	gene	105				
+FLHCEGFC_00951	CDS	105				hypothetical protein
+FLHCEGFC_00952	gene	255				
+FLHCEGFC_00952	CDS	255				hypothetical protein
+FLHCEGFC_00953	gene	123				
+FLHCEGFC_00953	CDS	123				hypothetical protein
+FLHCEGFC_00954	gene	300				
+FLHCEGFC_00954	CDS	300				hypothetical protein
+FLHCEGFC_00955	gene	138				
+FLHCEGFC_00955	CDS	138				hypothetical protein
+FLHCEGFC_00956	gene	369	ffh			
+FLHCEGFC_00956	CDS	369	ffh		COG0541	Signal recognition particle protein
+FLHCEGFC_00957	gene	204				
+FLHCEGFC_00957	CDS	204				hypothetical protein
+FLHCEGFC_00958	gene	234				
+FLHCEGFC_00958	CDS	234				hypothetical protein
+FLHCEGFC_00959	gene	474	apgM_2			
+FLHCEGFC_00959	CDS	474	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FLHCEGFC_00960	gene	177				
+FLHCEGFC_00960	CDS	177				hypothetical protein
+FLHCEGFC_00961	gene	210				
+FLHCEGFC_00961	CDS	210				hypothetical protein
+FLHCEGFC_00962	gene	129				
+FLHCEGFC_00962	CDS	129				hypothetical protein
+FLHCEGFC_00963	gene	264				
+FLHCEGFC_00963	CDS	264				hypothetical protein
+FLHCEGFC_00964	gene	144				
+FLHCEGFC_00964	CDS	144				hypothetical protein
+FLHCEGFC_00965	gene	135				
+FLHCEGFC_00965	CDS	135				hypothetical protein
+FLHCEGFC_00966	gene	210				
+FLHCEGFC_00966	CDS	210				hypothetical protein
+FLHCEGFC_00967	gene	222	sufS			
+FLHCEGFC_00967	CDS	222	sufS	4.4.1.16		Cysteine desulfurase
+FLHCEGFC_00968	gene	297				
+FLHCEGFC_00968	CDS	297				hypothetical protein
+FLHCEGFC_00969	gene	99				
+FLHCEGFC_00969	CDS	99				hypothetical protein
+FLHCEGFC_00970	gene	138				
+FLHCEGFC_00970	CDS	138				hypothetical protein
+FLHCEGFC_00971	gene	192				
+FLHCEGFC_00971	CDS	192				hypothetical protein
+FLHCEGFC_00972	gene	171				
+FLHCEGFC_00972	CDS	171				hypothetical protein
+FLHCEGFC_00973	gene	144				
+FLHCEGFC_00973	CDS	144				hypothetical protein
+FLHCEGFC_00974	gene	120				
+FLHCEGFC_00974	CDS	120				hypothetical protein
+FLHCEGFC_00975	gene	117				
+FLHCEGFC_00975	CDS	117				hypothetical protein
+FLHCEGFC_00976	gene	123	srp54			
+FLHCEGFC_00976	CDS	123	srp54			Signal recognition particle 54 kDa protein
+FLHCEGFC_00977	gene	129				
+FLHCEGFC_00977	CDS	129				hypothetical protein

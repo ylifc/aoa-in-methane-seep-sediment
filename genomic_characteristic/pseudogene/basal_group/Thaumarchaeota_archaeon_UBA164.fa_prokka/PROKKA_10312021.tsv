@@ -1,0 +1,2627 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FPBLJBIC_00001	gene	1377	ythA			
+FPBLJBIC_00001	CDS	1377	ythA	1.10.3.-	COG1271	Putative cytochrome bd menaquinol oxidase subunit I
+FPBLJBIC_00002	gene	927				
+FPBLJBIC_00002	CDS	927				hypothetical protein
+FPBLJBIC_00003	gene	76				
+FPBLJBIC_00003	tRNA	76				tRNA-Arg(ccg)
+FPBLJBIC_00004	gene	486	mshD			
+FPBLJBIC_00004	CDS	486	mshD	2.3.1.189		Mycothiol acetyltransferase
+FPBLJBIC_00005	gene	687				
+FPBLJBIC_00005	CDS	687				hypothetical protein
+FPBLJBIC_00006	gene	228				
+FPBLJBIC_00006	CDS	228				hypothetical protein
+FPBLJBIC_00007	gene	1503	mctP			
+FPBLJBIC_00007	CDS	1503	mctP			Monocarboxylate transport permease protein
+FPBLJBIC_00008	gene	465				
+FPBLJBIC_00008	CDS	465				hypothetical protein
+FPBLJBIC_00009	gene	2193	fusA			
+FPBLJBIC_00009	CDS	2193	fusA		COG0480	Elongation factor G
+FPBLJBIC_00010	gene	378				
+FPBLJBIC_00010	CDS	378				hypothetical protein
+FPBLJBIC_00011	gene	1650	moaA_1			
+FPBLJBIC_00011	CDS	1650	moaA_1			GTP 3',8-cyclase
+FPBLJBIC_00012	gene	1227	gdhA_1			
+FPBLJBIC_00012	CDS	1227	gdhA_1	1.4.1.3	COG0334	Glutamate dehydrogenase
+FPBLJBIC_00013	gene	2238	pucD_1			
+FPBLJBIC_00013	CDS	2238	pucD_1	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+FPBLJBIC_00014	gene	228				
+FPBLJBIC_00014	CDS	228				hypothetical protein
+FPBLJBIC_00015	gene	843	ndhF_1			
+FPBLJBIC_00015	CDS	843	ndhF_1	1.17.1.5		Nicotinate dehydrogenase FAD-subunit
+FPBLJBIC_00016	gene	471	ndhS_1			
+FPBLJBIC_00016	CDS	471	ndhS_1	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+FPBLJBIC_00017	gene	600	mobA_1			
+FPBLJBIC_00017	CDS	600	mobA_1	2.7.7.77		Molybdenum cofactor guanylyltransferase
+FPBLJBIC_00018	gene	762	proC			
+FPBLJBIC_00018	CDS	762	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+FPBLJBIC_00019	gene	107				
+FPBLJBIC_00019	rRNA	107				5S ribosomal RNA
+FPBLJBIC_00020	gene	705	ywpJ			
+FPBLJBIC_00020	CDS	705	ywpJ	3.1.3.-	COG0561	Phosphatase YwpJ
+FPBLJBIC_00021	gene	1842	argS			
+FPBLJBIC_00021	CDS	1842	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FPBLJBIC_00022	gene	408	rpsI			
+FPBLJBIC_00022	CDS	408	rpsI		COG0103	30S ribosomal protein S9
+FPBLJBIC_00023	gene	438				
+FPBLJBIC_00023	CDS	438				hypothetical protein
+FPBLJBIC_00024	gene	339				
+FPBLJBIC_00024	CDS	339				hypothetical protein
+FPBLJBIC_00025	gene	765				
+FPBLJBIC_00025	CDS	765				hypothetical protein
+FPBLJBIC_00026	gene	462				
+FPBLJBIC_00026	CDS	462				hypothetical protein
+FPBLJBIC_00027	gene	474				
+FPBLJBIC_00027	CDS	474				hypothetical protein
+FPBLJBIC_00028	gene	501	rpsM			
+FPBLJBIC_00028	CDS	501	rpsM		COG0099	30S ribosomal protein S13
+FPBLJBIC_00029	gene	486				
+FPBLJBIC_00029	CDS	486				hypothetical protein
+FPBLJBIC_00030	gene	558				
+FPBLJBIC_00030	CDS	558				hypothetical protein
+FPBLJBIC_00031	gene	945	thiL_1			
+FPBLJBIC_00031	CDS	945	thiL_1	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+FPBLJBIC_00032	gene	420				
+FPBLJBIC_00032	CDS	420				hypothetical protein
+FPBLJBIC_00033	gene	1233				
+FPBLJBIC_00033	CDS	1233				hypothetical protein
+FPBLJBIC_00034	gene	330				
+FPBLJBIC_00034	CDS	330				hypothetical protein
+FPBLJBIC_00035	gene	276				
+FPBLJBIC_00035	CDS	276				hypothetical protein
+FPBLJBIC_00036	gene	345				
+FPBLJBIC_00036	CDS	345				hypothetical protein
+FPBLJBIC_00037	gene	531				
+FPBLJBIC_00037	CDS	531				hypothetical protein
+FPBLJBIC_00038	gene	1149	thi4			
+FPBLJBIC_00038	CDS	1149	thi4	2.4.2.59		Thiamine thiazole synthase
+FPBLJBIC_00039	gene	1437	naiP_1			
+FPBLJBIC_00039	CDS	1437	naiP_1			Putative niacin/nicotinamide transporter NaiP
+FPBLJBIC_00040	gene	378				
+FPBLJBIC_00040	CDS	378				hypothetical protein
+FPBLJBIC_00041	gene	564				
+FPBLJBIC_00041	CDS	564				hypothetical protein
+FPBLJBIC_00042	gene	231				
+FPBLJBIC_00042	CDS	231				hypothetical protein
+FPBLJBIC_00043	gene	1020				
+FPBLJBIC_00043	CDS	1020				hypothetical protein
+FPBLJBIC_00044	gene	408				
+FPBLJBIC_00044	CDS	408				hypothetical protein
+FPBLJBIC_00045	gene	810				
+FPBLJBIC_00045	CDS	810				hypothetical protein
+FPBLJBIC_00046	gene	2058	kdpB_1			
+FPBLJBIC_00046	CDS	2058	kdpB_1	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+FPBLJBIC_00047	gene	1491	kdpA			
+FPBLJBIC_00047	CDS	1491	kdpA		COG2060	Potassium-transporting ATPase potassium-binding subunit
+FPBLJBIC_00048	gene	453				
+FPBLJBIC_00048	CDS	453				hypothetical protein
+FPBLJBIC_00049	gene	375				
+FPBLJBIC_00049	CDS	375				hypothetical protein
+FPBLJBIC_00050	gene	744				
+FPBLJBIC_00050	CDS	744		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+FPBLJBIC_00051	gene	231				
+FPBLJBIC_00051	CDS	231				hypothetical protein
+FPBLJBIC_00052	gene	315	rpsJ			
+FPBLJBIC_00052	CDS	315	rpsJ		COG0051	30S ribosomal protein S10
+FPBLJBIC_00053	gene	429				
+FPBLJBIC_00053	CDS	429				hypothetical protein
+FPBLJBIC_00054	gene	537				
+FPBLJBIC_00054	CDS	537				hypothetical protein
+FPBLJBIC_00055	gene	2043				
+FPBLJBIC_00055	CDS	2043				hypothetical protein
+FPBLJBIC_00056	gene	750				
+FPBLJBIC_00056	CDS	750				hypothetical protein
+FPBLJBIC_00057	gene	1728	ykoD			
+FPBLJBIC_00057	CDS	1728	ykoD	3.6.3.-	COG1122	Putative HMP/thiamine import ATP-binding protein YkoD
+FPBLJBIC_00058	gene	438				
+FPBLJBIC_00058	CDS	438				hypothetical protein
+FPBLJBIC_00059	gene	498				
+FPBLJBIC_00059	CDS	498				hypothetical protein
+FPBLJBIC_00060	gene	969	ecfT_1			
+FPBLJBIC_00060	CDS	969	ecfT_1		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FPBLJBIC_00061	gene	540				
+FPBLJBIC_00061	CDS	540				hypothetical protein
+FPBLJBIC_00062	gene	147				
+FPBLJBIC_00062	CDS	147				hypothetical protein
+FPBLJBIC_00063	gene	297				
+FPBLJBIC_00063	CDS	297				hypothetical protein
+FPBLJBIC_00064	gene	348				
+FPBLJBIC_00064	CDS	348				hypothetical protein
+FPBLJBIC_00065	gene	1266	trpB_1			
+FPBLJBIC_00065	CDS	1266	trpB_1	4.2.1.20	COG0133	Tryptophan synthase beta chain
+FPBLJBIC_00066	gene	840	btuF			
+FPBLJBIC_00066	CDS	840	btuF			Vitamin B12-binding protein
+FPBLJBIC_00067	gene	912	deoD_1			
+FPBLJBIC_00067	CDS	912	deoD_1	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+FPBLJBIC_00068	gene	1230				
+FPBLJBIC_00068	CDS	1230				hypothetical protein
+FPBLJBIC_00069	gene	1293	mvaA			
+FPBLJBIC_00069	CDS	1293	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+FPBLJBIC_00070	gene	2052	srmB			
+FPBLJBIC_00070	CDS	2052	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+FPBLJBIC_00071	gene	450				
+FPBLJBIC_00071	CDS	450				hypothetical protein
+FPBLJBIC_00072	gene	903				
+FPBLJBIC_00072	CDS	903				hypothetical protein
+FPBLJBIC_00073	gene	336	petC			
+FPBLJBIC_00073	CDS	336	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+FPBLJBIC_00074	gene	408				
+FPBLJBIC_00074	CDS	408				hypothetical protein
+FPBLJBIC_00075	gene	1455				
+FPBLJBIC_00075	CDS	1455				hypothetical protein
+FPBLJBIC_00076	gene	1149				
+FPBLJBIC_00076	CDS	1149				hypothetical protein
+FPBLJBIC_00077	gene	618				
+FPBLJBIC_00077	CDS	618				hypothetical protein
+FPBLJBIC_00078	gene	876	frlD			
+FPBLJBIC_00078	CDS	876	frlD	2.7.1.-	COG0524	Fructosamine kinase FrlD
+FPBLJBIC_00079	gene	873				
+FPBLJBIC_00079	CDS	873				hypothetical protein
+FPBLJBIC_00080	gene	1911				
+FPBLJBIC_00080	CDS	1911				hypothetical protein
+FPBLJBIC_00081	gene	408				
+FPBLJBIC_00081	CDS	408		3.4.19.-	COG1310	putative TtuB-protein conjugate cleaving protease
+FPBLJBIC_00082	gene	837	putB			
+FPBLJBIC_00082	CDS	837	putB	1.5.5.2	COG0506	Proline dehydrogenase 2
+FPBLJBIC_00083	gene	507				
+FPBLJBIC_00083	CDS	507				hypothetical protein
+FPBLJBIC_00084	gene	810	ecfA3_1			
+FPBLJBIC_00084	CDS	810	ecfA3_1	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA3
+FPBLJBIC_00085	gene	792	ecfA3_2			
+FPBLJBIC_00085	CDS	792	ecfA3_2	3.6.3.-	COG1122	Energy-coupling factor transporter ATP-binding protein EcfA3
+FPBLJBIC_00086	gene	723	ecfT_2			
+FPBLJBIC_00086	CDS	723	ecfT_2		COG0619	Energy-coupling factor transporter transmembrane protein EcfT
+FPBLJBIC_00087	gene	369				
+FPBLJBIC_00087	CDS	369				hypothetical protein
+FPBLJBIC_00088	gene	618	nfi			
+FPBLJBIC_00088	CDS	618	nfi	3.1.21.7	COG1515	Endonuclease V
+FPBLJBIC_00089	gene	540				
+FPBLJBIC_00089	CDS	540			COG2110	putative protein
+FPBLJBIC_00090	gene	738	cobB			
+FPBLJBIC_00090	CDS	738	cobB	2.3.1.286	COG0846	NAD-dependent protein deacetylase
+FPBLJBIC_00091	gene	1122				
+FPBLJBIC_00091	CDS	1122				hypothetical protein
+FPBLJBIC_00092	gene	3117	ileS			
+FPBLJBIC_00092	CDS	3117	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FPBLJBIC_00093	gene	387				
+FPBLJBIC_00093	CDS	387				hypothetical protein
+FPBLJBIC_00094	gene	2208	copA			
+FPBLJBIC_00094	CDS	2208	copA	7.2.2.8	COG2217	Copper-exporting P-type ATPase
+FPBLJBIC_00095	gene	168				
+FPBLJBIC_00095	CDS	168				hypothetical protein
+FPBLJBIC_00096	gene	537				
+FPBLJBIC_00096	CDS	537				hypothetical protein
+FPBLJBIC_00097	gene	855				
+FPBLJBIC_00097	CDS	855				hypothetical protein
+FPBLJBIC_00098	gene	375				
+FPBLJBIC_00098	CDS	375				hypothetical protein
+FPBLJBIC_00099	gene	612				
+FPBLJBIC_00099	CDS	612				hypothetical protein
+FPBLJBIC_00100	gene	327	ygjH			
+FPBLJBIC_00100	CDS	327	ygjH		COG0073	tRNA-binding protein YgjH
+FPBLJBIC_00101	gene	309				
+FPBLJBIC_00101	CDS	309				hypothetical protein
+FPBLJBIC_00102	gene	1062				
+FPBLJBIC_00102	CDS	1062				hypothetical protein
+FPBLJBIC_00103	gene	915				
+FPBLJBIC_00103	CDS	915		2.5.-.-		Deoxyhypusine synthase-like protein
+FPBLJBIC_00104	gene	588	ahpC			
+FPBLJBIC_00104	CDS	588	ahpC	1.11.1.15		Alkyl hydroperoxide reductase C
+FPBLJBIC_00105	gene	282				
+FPBLJBIC_00105	CDS	282				hypothetical protein
+FPBLJBIC_00106	gene	312	glpE			
+FPBLJBIC_00106	CDS	312	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+FPBLJBIC_00107	gene	1338	nanT_1			
+FPBLJBIC_00107	CDS	1338	nanT_1			Sialic acid transporter NanT
+FPBLJBIC_00108	gene	888	garR_1			
+FPBLJBIC_00108	CDS	888	garR_1	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+FPBLJBIC_00109	gene	267				
+FPBLJBIC_00109	CDS	267		3.5.4.2	COG1816	Adenine deaminase
+FPBLJBIC_00110	gene	411	yccU			
+FPBLJBIC_00110	CDS	411	yccU		COG1832	putative protein YccU
+FPBLJBIC_00111	gene	174				
+FPBLJBIC_00111	CDS	174				hypothetical protein
+FPBLJBIC_00112	gene	1335	allB			
+FPBLJBIC_00112	CDS	1335	allB	3.5.2.5	COG0044	Allantoinase
+FPBLJBIC_00113	gene	1287	yjhB			
+FPBLJBIC_00113	CDS	1287	yjhB			Putative metabolite transport protein YjhB
+FPBLJBIC_00114	gene	966				
+FPBLJBIC_00114	CDS	966				hypothetical protein
+FPBLJBIC_00115	gene	75				
+FPBLJBIC_00115	tRNA	75				tRNA-Arg(tct)
+FPBLJBIC_00116	gene	198				
+FPBLJBIC_00116	CDS	198				hypothetical protein
+FPBLJBIC_00117	gene	1059				
+FPBLJBIC_00117	CDS	1059				hypothetical protein
+FPBLJBIC_00118	gene	531				
+FPBLJBIC_00118	CDS	531				hypothetical protein
+FPBLJBIC_00119	gene	3348	smc_1			
+FPBLJBIC_00119	CDS	3348	smc_1			Chromosome partition protein Smc
+FPBLJBIC_00120	gene	615				
+FPBLJBIC_00120	CDS	615				hypothetical protein
+FPBLJBIC_00121	gene	558				
+FPBLJBIC_00121	CDS	558				hypothetical protein
+FPBLJBIC_00122	gene	693				
+FPBLJBIC_00122	CDS	693				hypothetical protein
+FPBLJBIC_00123	gene	879				
+FPBLJBIC_00123	CDS	879				hypothetical protein
+FPBLJBIC_00124	gene	480				
+FPBLJBIC_00124	CDS	480				hypothetical protein
+FPBLJBIC_00125	gene	78				
+FPBLJBIC_00125	tRNA	78				tRNA-Ile(gat)
+FPBLJBIC_00126	gene	369				
+FPBLJBIC_00126	CDS	369				hypothetical protein
+FPBLJBIC_00127	gene	222				
+FPBLJBIC_00127	CDS	222				hypothetical protein
+FPBLJBIC_00128	gene	831	rph_1			
+FPBLJBIC_00128	CDS	831	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+FPBLJBIC_00129	gene	717	rph_2			
+FPBLJBIC_00129	CDS	717	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+FPBLJBIC_00130	gene	651				
+FPBLJBIC_00130	CDS	651				hypothetical protein
+FPBLJBIC_00131	gene	696				
+FPBLJBIC_00131	CDS	696				hypothetical protein
+FPBLJBIC_00132	gene	723	prcA			
+FPBLJBIC_00132	CDS	723	prcA	3.4.25.1	COG0638	Proteasome subunit alpha
+FPBLJBIC_00133	gene	513				
+FPBLJBIC_00133	CDS	513				hypothetical protein
+FPBLJBIC_00134	gene	723				
+FPBLJBIC_00134	CDS	723				hypothetical protein
+FPBLJBIC_00135	gene	267				
+FPBLJBIC_00135	CDS	267				hypothetical protein
+FPBLJBIC_00136	gene	1329				
+FPBLJBIC_00136	CDS	1329				hypothetical protein
+FPBLJBIC_00137	gene	1623				
+FPBLJBIC_00137	CDS	1623				hypothetical protein
+FPBLJBIC_00138	gene	759	cmpD			
+FPBLJBIC_00138	CDS	759	cmpD	3.6.3.-		Bicarbonate transport ATP-binding protein CmpD
+FPBLJBIC_00139	gene	840				
+FPBLJBIC_00139	CDS	840				hypothetical protein
+FPBLJBIC_00140	gene	186				
+FPBLJBIC_00140	CDS	186				hypothetical protein
+FPBLJBIC_00141	gene	495				
+FPBLJBIC_00141	CDS	495				hypothetical protein
+FPBLJBIC_00142	gene	2805	rhlE			
+FPBLJBIC_00142	CDS	2805	rhlE	3.6.4.13		ATP-dependent RNA helicase RhlE
+FPBLJBIC_00143	gene	1239	aspS2_1			
+FPBLJBIC_00143	CDS	1239	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+FPBLJBIC_00144	gene	534				
+FPBLJBIC_00144	CDS	534				hypothetical protein
+FPBLJBIC_00145	gene	648				
+FPBLJBIC_00145	CDS	648				hypothetical protein
+FPBLJBIC_00146	gene	189				
+FPBLJBIC_00146	CDS	189				hypothetical protein
+FPBLJBIC_00147	gene	1131				
+FPBLJBIC_00147	CDS	1131				hypothetical protein
+FPBLJBIC_00148	gene	192				
+FPBLJBIC_00148	CDS	192				hypothetical protein
+FPBLJBIC_00149	gene	195				
+FPBLJBIC_00149	CDS	195				hypothetical protein
+FPBLJBIC_00150	gene	285				
+FPBLJBIC_00150	CDS	285				hypothetical protein
+FPBLJBIC_00151	gene	957	htpX_1			
+FPBLJBIC_00151	CDS	957	htpX_1	3.4.24.-	COG0501	Protease HtpX 
+FPBLJBIC_00152	gene	399				
+FPBLJBIC_00152	CDS	399				hypothetical protein
+FPBLJBIC_00153	gene	1158				
+FPBLJBIC_00153	CDS	1158				hypothetical protein
+FPBLJBIC_00154	gene	1023	fabH			
+FPBLJBIC_00154	CDS	1023	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+FPBLJBIC_00155	gene	579				
+FPBLJBIC_00155	CDS	579				hypothetical protein
+FPBLJBIC_00156	gene	642				
+FPBLJBIC_00156	CDS	642				hypothetical protein
+FPBLJBIC_00157	gene	1014	hicd_1			
+FPBLJBIC_00157	CDS	1014	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+FPBLJBIC_00158	gene	1506	leuA_1			
+FPBLJBIC_00158	CDS	1506	leuA_1	2.3.3.13		2-isopropylmalate synthase
+FPBLJBIC_00159	gene	993	ilvC			
+FPBLJBIC_00159	CDS	993	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+FPBLJBIC_00160	gene	447	ilvH			
+FPBLJBIC_00160	CDS	447	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+FPBLJBIC_00161	gene	1671	ilvI			
+FPBLJBIC_00161	CDS	1671	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+FPBLJBIC_00162	gene	708				
+FPBLJBIC_00162	CDS	708				hypothetical protein
+FPBLJBIC_00163	gene	1197	mat			
+FPBLJBIC_00163	CDS	1197	mat	2.5.1.6		S-adenosylmethionine synthase
+FPBLJBIC_00164	gene	558				
+FPBLJBIC_00164	CDS	558				hypothetical protein
+FPBLJBIC_00165	gene	1329	npr			
+FPBLJBIC_00165	CDS	1329	npr	1.11.1.1	COG0446	NADH peroxidase
+FPBLJBIC_00166	gene	978	truD			
+FPBLJBIC_00166	CDS	978	truD	5.4.99.27		tRNA pseudouridine synthase D
+FPBLJBIC_00167	gene	351				
+FPBLJBIC_00167	CDS	351				hypothetical protein
+FPBLJBIC_00168	gene	1389				
+FPBLJBIC_00168	CDS	1389				hypothetical protein
+FPBLJBIC_00169	gene	1530	fdrA			
+FPBLJBIC_00169	CDS	1530	fdrA		COG0074	Protein FdrA
+FPBLJBIC_00170	gene	996				
+FPBLJBIC_00170	CDS	996				hypothetical protein
+FPBLJBIC_00171	gene	534				
+FPBLJBIC_00171	CDS	534				hypothetical protein
+FPBLJBIC_00172	gene	759	cugP_1			
+FPBLJBIC_00172	CDS	759	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FPBLJBIC_00173	gene	1095				
+FPBLJBIC_00173	CDS	1095				hypothetical protein
+FPBLJBIC_00174	gene	447	bcp_1			
+FPBLJBIC_00174	CDS	447	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin
+FPBLJBIC_00175	gene	696	cugP_2			
+FPBLJBIC_00175	CDS	696	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FPBLJBIC_00176	gene	1056				
+FPBLJBIC_00176	CDS	1056				hypothetical protein
+FPBLJBIC_00177	gene	546	tmung			
+FPBLJBIC_00177	CDS	546	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+FPBLJBIC_00178	gene	741	rnz			
+FPBLJBIC_00178	CDS	741	rnz	3.1.26.11	COG1234	Ribonuclease Z
+FPBLJBIC_00179	gene	429				
+FPBLJBIC_00179	CDS	429				hypothetical protein
+FPBLJBIC_00180	gene	960				
+FPBLJBIC_00180	CDS	960				hypothetical protein
+FPBLJBIC_00181	gene	639				
+FPBLJBIC_00181	CDS	639				hypothetical protein
+FPBLJBIC_00182	gene	846				
+FPBLJBIC_00182	CDS	846				hypothetical protein
+FPBLJBIC_00183	gene	249				
+FPBLJBIC_00183	CDS	249				hypothetical protein
+FPBLJBIC_00184	gene	231				
+FPBLJBIC_00184	CDS	231				hypothetical protein
+FPBLJBIC_00185	gene	471	scpB			
+FPBLJBIC_00185	CDS	471	scpB		COG1386	Segregation and condensation protein B 
+FPBLJBIC_00186	gene	579				
+FPBLJBIC_00186	CDS	579				hypothetical protein
+FPBLJBIC_00187	gene	315				
+FPBLJBIC_00187	CDS	315				hypothetical protein
+FPBLJBIC_00188	gene	966	fgd_1			
+FPBLJBIC_00188	CDS	966	fgd_1	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+FPBLJBIC_00189	gene	1842				
+FPBLJBIC_00189	CDS	1842		3.2.1.28	COG3387	Trehalase
+FPBLJBIC_00190	gene	870	dapA			
+FPBLJBIC_00190	CDS	870	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+FPBLJBIC_00191	gene	1083	tdh_1			
+FPBLJBIC_00191	CDS	1083	tdh_1	1.1.1.103		L-threonine 3-dehydrogenase
+FPBLJBIC_00192	gene	1233	dgoD			
+FPBLJBIC_00192	CDS	1233	dgoD	4.2.1.6	COG4948	D-galactonate dehydratase
+FPBLJBIC_00193	gene	1032	albA			
+FPBLJBIC_00193	CDS	1032	albA	1.21.98.-	COG0535	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+FPBLJBIC_00194	gene	942	mtnA			
+FPBLJBIC_00194	CDS	942	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+FPBLJBIC_00195	gene	387				
+FPBLJBIC_00195	CDS	387				hypothetical protein
+FPBLJBIC_00196	gene	1491	mdtD_1			
+FPBLJBIC_00196	CDS	1491	mdtD_1			Putative multidrug resistance protein MdtD
+FPBLJBIC_00197	gene	174				
+FPBLJBIC_00197	CDS	174				hypothetical protein
+FPBLJBIC_00198	gene	675				
+FPBLJBIC_00198	CDS	675				hypothetical protein
+FPBLJBIC_00199	gene	897				
+FPBLJBIC_00199	CDS	897				hypothetical protein
+FPBLJBIC_00200	gene	402				
+FPBLJBIC_00200	CDS	402				hypothetical protein
+FPBLJBIC_00201	gene	1584	ilvB			
+FPBLJBIC_00201	CDS	1584	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+FPBLJBIC_00202	gene	612	cmk			
+FPBLJBIC_00202	CDS	612	cmk	2.7.4.25		Cytidylate kinase
+FPBLJBIC_00203	gene	990	truB			
+FPBLJBIC_00203	CDS	990	truB	5.4.99.25		tRNA pseudouridine synthase B
+FPBLJBIC_00204	gene	1359	algC			
+FPBLJBIC_00204	CDS	1359	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+FPBLJBIC_00205	gene	336	AAH1			
+FPBLJBIC_00205	CDS	336	AAH1	3.5.4.2		Adenine deaminase
+FPBLJBIC_00206	gene	507	ppa			
+FPBLJBIC_00206	CDS	507	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase
+FPBLJBIC_00207	gene	981	recA			
+FPBLJBIC_00207	CDS	981	recA			Protein RecA
+FPBLJBIC_00208	gene	1056				
+FPBLJBIC_00208	CDS	1056				hypothetical protein
+FPBLJBIC_00209	gene	1437	rtcB			
+FPBLJBIC_00209	CDS	1437	rtcB	6.5.1.-		RNA-splicing ligase RtcB
+FPBLJBIC_00210	gene	270				
+FPBLJBIC_00210	CDS	270			COG4095	Sugar transporter SemiSWEET
+FPBLJBIC_00211	gene	1098				
+FPBLJBIC_00211	CDS	1098				hypothetical protein
+FPBLJBIC_00212	gene	384				
+FPBLJBIC_00212	CDS	384				hypothetical protein
+FPBLJBIC_00213	gene	276	acyP			
+FPBLJBIC_00213	CDS	276	acyP	3.6.1.7	COG1254	Acylphosphatase
+FPBLJBIC_00214	gene	651				
+FPBLJBIC_00214	CDS	651				hypothetical protein
+FPBLJBIC_00215	gene	435				
+FPBLJBIC_00215	CDS	435				hypothetical protein
+FPBLJBIC_00216	gene	2409	kdpB_2			
+FPBLJBIC_00216	CDS	2409	kdpB_2	7.2.2.6		Potassium-transporting ATPase ATP-binding subunit
+FPBLJBIC_00217	gene	1422	cobQ			
+FPBLJBIC_00217	CDS	1422	cobQ		COG1492	Cobyric acid synthase
+FPBLJBIC_00218	gene	1179	codA			
+FPBLJBIC_00218	CDS	1179	codA	3.5.4.1	COG0402	Cytosine deaminase
+FPBLJBIC_00219	gene	1293				
+FPBLJBIC_00219	CDS	1293				hypothetical protein
+FPBLJBIC_00220	gene	282				
+FPBLJBIC_00220	CDS	282				hypothetical protein
+FPBLJBIC_00221	gene	702	sfsA			
+FPBLJBIC_00221	CDS	702	sfsA			Sugar fermentation stimulation protein A
+FPBLJBIC_00222	gene	987	arcB			
+FPBLJBIC_00222	CDS	987	arcB	1.5.1.49		Delta(1)-pyrroline-2-carboxylate reductase
+FPBLJBIC_00223	gene	789	udp			
+FPBLJBIC_00223	CDS	789	udp	2.4.2.3	COG2820	Uridine phosphorylase
+FPBLJBIC_00224	gene	1503				
+FPBLJBIC_00224	CDS	1503				hypothetical protein
+FPBLJBIC_00225	gene	885	lacF			
+FPBLJBIC_00225	CDS	885	lacF			Lactose transport system permease protein LacF
+FPBLJBIC_00226	gene	855	dasC			
+FPBLJBIC_00226	CDS	855	dasC		COG0395	Diacetylchitobiose uptake system permease protein DasC
+FPBLJBIC_00227	gene	1059	msmX_1			
+FPBLJBIC_00227	CDS	1059	msmX_1	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+FPBLJBIC_00228	gene	294				
+FPBLJBIC_00228	CDS	294				hypothetical protein
+FPBLJBIC_00229	gene	798				
+FPBLJBIC_00229	CDS	798				hypothetical protein
+FPBLJBIC_00230	gene	1224	pncB2			
+FPBLJBIC_00230	CDS	1224	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+FPBLJBIC_00231	gene	1665	glyQS			
+FPBLJBIC_00231	CDS	1665	glyQS	6.1.1.14		Glycine--tRNA ligase
+FPBLJBIC_00232	gene	1158				
+FPBLJBIC_00232	CDS	1158				hypothetical protein
+FPBLJBIC_00233	gene	516	dcd_1			
+FPBLJBIC_00233	CDS	516	dcd_1	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+FPBLJBIC_00234	gene	972				
+FPBLJBIC_00234	CDS	972				hypothetical protein
+FPBLJBIC_00235	gene	1269				
+FPBLJBIC_00235	CDS	1269				hypothetical protein
+FPBLJBIC_00236	gene	1680	mdtD_2			
+FPBLJBIC_00236	CDS	1680	mdtD_2			Putative multidrug resistance protein MdtD
+FPBLJBIC_00237	gene	1092				
+FPBLJBIC_00237	CDS	1092				hypothetical protein
+FPBLJBIC_00238	gene	1053				
+FPBLJBIC_00238	CDS	1053				hypothetical protein
+FPBLJBIC_00239	gene	927				
+FPBLJBIC_00239	CDS	927				hypothetical protein
+FPBLJBIC_00240	gene	1503	mglA			
+FPBLJBIC_00240	CDS	1503	mglA	7.5.2.11	COG1129	Galactose/methyl galactoside import ATP-binding protein MglA
+FPBLJBIC_00241	gene	1572				
+FPBLJBIC_00241	CDS	1572				hypothetical protein
+FPBLJBIC_00242	gene	1194				
+FPBLJBIC_00242	CDS	1194				hypothetical protein
+FPBLJBIC_00243	gene	1017				
+FPBLJBIC_00243	CDS	1017				hypothetical protein
+FPBLJBIC_00244	gene	588	yecD			
+FPBLJBIC_00244	CDS	588	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+FPBLJBIC_00245	gene	309				
+FPBLJBIC_00245	CDS	309				hypothetical protein
+FPBLJBIC_00246	gene	1311				
+FPBLJBIC_00246	CDS	1311				hypothetical protein
+FPBLJBIC_00247	gene	1518				
+FPBLJBIC_00247	CDS	1518				hypothetical protein
+FPBLJBIC_00248	gene	945	galE			
+FPBLJBIC_00248	CDS	945	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+FPBLJBIC_00249	gene	540				
+FPBLJBIC_00249	CDS	540				hypothetical protein
+FPBLJBIC_00250	gene	213				
+FPBLJBIC_00250	CDS	213				hypothetical protein
+FPBLJBIC_00251	gene	1779				
+FPBLJBIC_00251	CDS	1779				hypothetical protein
+FPBLJBIC_00252	gene	3876				
+FPBLJBIC_00252	CDS	3876				hypothetical protein
+FPBLJBIC_00253	gene	1317	naiP_2			
+FPBLJBIC_00253	CDS	1317	naiP_2			Putative niacin/nicotinamide transporter NaiP
+FPBLJBIC_00254	gene	1200				
+FPBLJBIC_00254	CDS	1200				hypothetical protein
+FPBLJBIC_00255	gene	438				
+FPBLJBIC_00255	CDS	438				hypothetical protein
+FPBLJBIC_00256	gene	2229				
+FPBLJBIC_00256	CDS	2229				hypothetical protein
+FPBLJBIC_00257	gene	1128				
+FPBLJBIC_00257	CDS	1128				hypothetical protein
+FPBLJBIC_00258	gene	690				
+FPBLJBIC_00258	CDS	690				hypothetical protein
+FPBLJBIC_00259	gene	582				
+FPBLJBIC_00259	CDS	582				hypothetical protein
+FPBLJBIC_00260	gene	522				
+FPBLJBIC_00260	CDS	522				hypothetical protein
+FPBLJBIC_00261	gene	474				
+FPBLJBIC_00261	CDS	474				hypothetical protein
+FPBLJBIC_00262	gene	900				
+FPBLJBIC_00262	CDS	900				hypothetical protein
+FPBLJBIC_00263	gene	597				
+FPBLJBIC_00263	CDS	597				hypothetical protein
+FPBLJBIC_00264	gene	171				
+FPBLJBIC_00264	CDS	171				hypothetical protein
+FPBLJBIC_00265	gene	261				
+FPBLJBIC_00265	CDS	261				hypothetical protein
+FPBLJBIC_00266	gene	1302				
+FPBLJBIC_00266	CDS	1302				hypothetical protein
+FPBLJBIC_00267	gene	948	fgd_2			
+FPBLJBIC_00267	CDS	948	fgd_2	1.1.98.2		F420-dependent glucose-6-phosphate dehydrogenase
+FPBLJBIC_00268	gene	447				
+FPBLJBIC_00268	CDS	447				hypothetical protein
+FPBLJBIC_00269	gene	318				
+FPBLJBIC_00269	CDS	318				hypothetical protein
+FPBLJBIC_00270	gene	138				
+FPBLJBIC_00270	CDS	138				hypothetical protein
+FPBLJBIC_00271	gene	1617	pucI_1			
+FPBLJBIC_00271	CDS	1617	pucI_1		COG1953	putative allantoin permease
+FPBLJBIC_00272	gene	2391	hcrA			
+FPBLJBIC_00272	CDS	2391	hcrA	1.3.7.9		4-hydroxybenzoyl-CoA reductase subunit alpha
+FPBLJBIC_00273	gene	846				
+FPBLJBIC_00273	CDS	846				hypothetical protein
+FPBLJBIC_00274	gene	483	ndhS_2			
+FPBLJBIC_00274	CDS	483	ndhS_2	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+FPBLJBIC_00275	gene	924	pyrB			
+FPBLJBIC_00275	CDS	924	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+FPBLJBIC_00276	gene	621				
+FPBLJBIC_00276	CDS	621				hypothetical protein
+FPBLJBIC_00277	gene	396				
+FPBLJBIC_00277	CDS	396				hypothetical protein
+FPBLJBIC_00278	gene	510				
+FPBLJBIC_00278	CDS	510				hypothetical protein
+FPBLJBIC_00279	gene	855	tuf_1			
+FPBLJBIC_00279	CDS	855	tuf_1			Elongation factor Tu
+FPBLJBIC_00280	gene	1203	gerN			
+FPBLJBIC_00280	CDS	1203	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+FPBLJBIC_00281	gene	1380				
+FPBLJBIC_00281	CDS	1380				hypothetical protein
+FPBLJBIC_00282	gene	2496	smc_2			
+FPBLJBIC_00282	CDS	2496	smc_2			Chromosome partition protein Smc
+FPBLJBIC_00283	gene	1137				
+FPBLJBIC_00283	CDS	1137				hypothetical protein
+FPBLJBIC_00284	gene	1515				
+FPBLJBIC_00284	CDS	1515				hypothetical protein
+FPBLJBIC_00285	gene	873				
+FPBLJBIC_00285	CDS	873				hypothetical protein
+FPBLJBIC_00286	gene	927	ecfT_3			
+FPBLJBIC_00286	CDS	927	ecfT_3			Energy-coupling factor transporter transmembrane protein EcfT
+FPBLJBIC_00287	gene	1068				
+FPBLJBIC_00287	CDS	1068				hypothetical protein
+FPBLJBIC_00288	gene	783				
+FPBLJBIC_00288	CDS	783				hypothetical protein
+FPBLJBIC_00289	gene	579	phnT			
+FPBLJBIC_00289	CDS	579	phnT		COG3842	Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+FPBLJBIC_00290	gene	1254				
+FPBLJBIC_00290	CDS	1254				hypothetical protein
+FPBLJBIC_00291	gene	450				
+FPBLJBIC_00291	CDS	450				hypothetical protein
+FPBLJBIC_00292	gene	1128	fbp			
+FPBLJBIC_00292	CDS	1128	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+FPBLJBIC_00293	gene	330				
+FPBLJBIC_00293	CDS	330				hypothetical protein
+FPBLJBIC_00294	gene	405				
+FPBLJBIC_00294	CDS	405				hypothetical protein
+FPBLJBIC_00295	gene	957				
+FPBLJBIC_00295	CDS	957				hypothetical protein
+FPBLJBIC_00296	gene	1683				
+FPBLJBIC_00296	CDS	1683				hypothetical protein
+FPBLJBIC_00297	gene	1602				
+FPBLJBIC_00297	CDS	1602				hypothetical protein
+FPBLJBIC_00298	gene	1938				
+FPBLJBIC_00298	CDS	1938				hypothetical protein
+FPBLJBIC_00299	gene	996				
+FPBLJBIC_00299	CDS	996				hypothetical protein
+FPBLJBIC_00300	gene	267				
+FPBLJBIC_00300	CDS	267				hypothetical protein
+FPBLJBIC_00301	gene	86				
+FPBLJBIC_00301	tRNA	86				tRNA-Ser(gct)
+FPBLJBIC_00302	gene	1098				
+FPBLJBIC_00302	CDS	1098				hypothetical protein
+FPBLJBIC_00303	gene	933				
+FPBLJBIC_00303	CDS	933				hypothetical protein
+FPBLJBIC_00304	gene	891				
+FPBLJBIC_00304	CDS	891				hypothetical protein
+FPBLJBIC_00305	gene	801				
+FPBLJBIC_00305	CDS	801		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+FPBLJBIC_00306	gene	1095				
+FPBLJBIC_00306	CDS	1095				hypothetical protein
+FPBLJBIC_00307	gene	1104				
+FPBLJBIC_00307	CDS	1104				hypothetical protein
+FPBLJBIC_00308	gene	813				
+FPBLJBIC_00308	CDS	813				hypothetical protein
+FPBLJBIC_00309	gene	714	menG			
+FPBLJBIC_00309	CDS	714	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+FPBLJBIC_00310	gene	774				
+FPBLJBIC_00310	CDS	774				hypothetical protein
+FPBLJBIC_00311	gene	912	argF			
+FPBLJBIC_00311	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+FPBLJBIC_00312	gene	76				
+FPBLJBIC_00312	tRNA	76				tRNA-Lys(ctt)
+FPBLJBIC_00313	gene	1386	glmM			
+FPBLJBIC_00313	CDS	1386	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+FPBLJBIC_00314	gene	558				
+FPBLJBIC_00314	CDS	558				hypothetical protein
+FPBLJBIC_00315	gene	1494	TOP6B			
+FPBLJBIC_00315	CDS	1494	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+FPBLJBIC_00316	gene	1062	TOP6A			
+FPBLJBIC_00316	CDS	1062	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+FPBLJBIC_00317	gene	177				
+FPBLJBIC_00317	CDS	177				hypothetical protein
+FPBLJBIC_00318	gene	555				
+FPBLJBIC_00318	CDS	555				hypothetical protein
+FPBLJBIC_00319	gene	642	gph_1			
+FPBLJBIC_00319	CDS	642	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+FPBLJBIC_00320	gene	1311				
+FPBLJBIC_00320	CDS	1311				hypothetical protein
+FPBLJBIC_00321	gene	1470	ubiB			
+FPBLJBIC_00321	CDS	1470	ubiB	2.7.-.-		protein kinase UbiB
+FPBLJBIC_00322	gene	342				
+FPBLJBIC_00322	CDS	342				hypothetical protein
+FPBLJBIC_00323	gene	1653	tuf_2			
+FPBLJBIC_00323	CDS	1653	tuf_2			Elongation factor Tu
+FPBLJBIC_00324	gene	1098				
+FPBLJBIC_00324	CDS	1098				hypothetical protein
+FPBLJBIC_00325	gene	537	tdk			
+FPBLJBIC_00325	CDS	537	tdk	2.7.1.21		Thymidine kinase
+FPBLJBIC_00326	gene	1167				
+FPBLJBIC_00326	CDS	1167				hypothetical protein
+FPBLJBIC_00327	gene	1443	gabD			
+FPBLJBIC_00327	CDS	1443	gabD	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+FPBLJBIC_00328	gene	459	nphA2			
+FPBLJBIC_00328	CDS	459	nphA2	1.5.1.36		NADH-dependent flavin reductase
+FPBLJBIC_00329	gene	732	glpQ			
+FPBLJBIC_00329	CDS	732	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+FPBLJBIC_00330	gene	858	gbh			
+FPBLJBIC_00330	CDS	858	gbh	3.5.3.7		Guanidinobutyrase
+FPBLJBIC_00331	gene	579				
+FPBLJBIC_00331	CDS	579				hypothetical protein
+FPBLJBIC_00332	gene	375				
+FPBLJBIC_00332	CDS	375				hypothetical protein
+FPBLJBIC_00333	gene	243				
+FPBLJBIC_00333	CDS	243				hypothetical protein
+FPBLJBIC_00334	gene	1218	eno2			
+FPBLJBIC_00334	CDS	1218	eno2	4.2.1.11	COG0148	Enolase 2
+FPBLJBIC_00335	gene	678				
+FPBLJBIC_00335	CDS	678				hypothetical protein
+FPBLJBIC_00336	gene	843				
+FPBLJBIC_00336	CDS	843				hypothetical protein
+FPBLJBIC_00337	gene	888	galK			
+FPBLJBIC_00337	CDS	888	galK	2.7.1.6		Galactokinase
+FPBLJBIC_00338	gene	786	argB			
+FPBLJBIC_00338	CDS	786	argB	2.7.2.8		Acetylglutamate kinase
+FPBLJBIC_00339	gene	1086	fni			
+FPBLJBIC_00339	CDS	1086	fni	5.3.3.2	COG1304	Isopentenyl-diphosphate delta-isomerase
+FPBLJBIC_00340	gene	966				
+FPBLJBIC_00340	CDS	966				hypothetical protein
+FPBLJBIC_00341	gene	1692	gluQ			
+FPBLJBIC_00341	CDS	1692	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+FPBLJBIC_00342	gene	1155	metZ			
+FPBLJBIC_00342	CDS	1155	metZ	2.5.1.-	COG0626	O-succinylhomoserine sulfhydrylase
+FPBLJBIC_00343	gene	525				
+FPBLJBIC_00343	CDS	525				hypothetical protein
+FPBLJBIC_00344	gene	1248				
+FPBLJBIC_00344	CDS	1248		3.1.-.-	COG1236	Ribonuclease
+FPBLJBIC_00345	gene	762	pldh-t			
+FPBLJBIC_00345	CDS	762	pldh-t	1.1.1.107		Pyridoxal 4-dehydrogenase
+FPBLJBIC_00346	gene	438				
+FPBLJBIC_00346	CDS	438				hypothetical protein
+FPBLJBIC_00347	gene	1164				
+FPBLJBIC_00347	CDS	1164		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FPBLJBIC_00348	gene	657				
+FPBLJBIC_00348	CDS	657				hypothetical protein
+FPBLJBIC_00349	gene	1260	mtaD_1			
+FPBLJBIC_00349	CDS	1260	mtaD_1	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+FPBLJBIC_00350	gene	1050				
+FPBLJBIC_00350	CDS	1050				hypothetical protein
+FPBLJBIC_00351	gene	627	rpiA			
+FPBLJBIC_00351	CDS	627	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+FPBLJBIC_00352	gene	345				
+FPBLJBIC_00352	CDS	345				hypothetical protein
+FPBLJBIC_00353	gene	714				
+FPBLJBIC_00353	CDS	714				hypothetical protein
+FPBLJBIC_00354	gene	693				
+FPBLJBIC_00354	CDS	693				hypothetical protein
+FPBLJBIC_00355	gene	732				
+FPBLJBIC_00355	CDS	732				hypothetical protein
+FPBLJBIC_00356	gene	228				
+FPBLJBIC_00356	CDS	228				hypothetical protein
+FPBLJBIC_00357	gene	726				
+FPBLJBIC_00357	CDS	726				hypothetical protein
+FPBLJBIC_00358	gene	879	nanK			
+FPBLJBIC_00358	CDS	879	nanK	2.7.1.60		N-acetylmannosamine kinase
+FPBLJBIC_00359	gene	543				
+FPBLJBIC_00359	CDS	543				hypothetical protein
+FPBLJBIC_00360	gene	975	trxB			
+FPBLJBIC_00360	CDS	975	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FPBLJBIC_00361	gene	1212				
+FPBLJBIC_00361	CDS	1212				hypothetical protein
+FPBLJBIC_00362	gene	1284	ubiD			
+FPBLJBIC_00362	CDS	1284	ubiD	4.1.1.98		3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+FPBLJBIC_00363	gene	396				
+FPBLJBIC_00363	CDS	396				hypothetical protein
+FPBLJBIC_00364	gene	783	tmk			
+FPBLJBIC_00364	CDS	783	tmk	2.7.4.9		Thymidylate kinase
+FPBLJBIC_00365	gene	450				
+FPBLJBIC_00365	CDS	450				hypothetical protein
+FPBLJBIC_00366	gene	486	pfdA			
+FPBLJBIC_00366	CDS	486	pfdA			Prefoldin subunit alpha
+FPBLJBIC_00367	gene	879	ftsY			
+FPBLJBIC_00367	CDS	879	ftsY		COG0552	Signal recognition particle receptor FtsY
+FPBLJBIC_00368	gene	666	udgB			
+FPBLJBIC_00368	CDS	666	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+FPBLJBIC_00369	gene	771	nadE			
+FPBLJBIC_00369	CDS	771	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FPBLJBIC_00370	gene	1272	thrC_1			
+FPBLJBIC_00370	CDS	1272	thrC_1	4.2.3.1	COG0498	Threonine synthase
+FPBLJBIC_00371	gene	699				
+FPBLJBIC_00371	CDS	699				hypothetical protein
+FPBLJBIC_00372	gene	570				
+FPBLJBIC_00372	CDS	570				hypothetical protein
+FPBLJBIC_00373	gene	975				
+FPBLJBIC_00373	CDS	975				hypothetical protein
+FPBLJBIC_00374	gene	477				
+FPBLJBIC_00374	CDS	477				hypothetical protein
+FPBLJBIC_00375	gene	1008				
+FPBLJBIC_00375	CDS	1008				hypothetical protein
+FPBLJBIC_00376	gene	969				
+FPBLJBIC_00376	CDS	969				hypothetical protein
+FPBLJBIC_00377	gene	636	gpmA			
+FPBLJBIC_00377	CDS	636	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+FPBLJBIC_00378	gene	621	pspB			
+FPBLJBIC_00378	CDS	621	pspB	3.1.3.3	COG0406	Putative phosphoserine phosphatase 2
+FPBLJBIC_00379	gene	582				
+FPBLJBIC_00379	CDS	582				hypothetical protein
+FPBLJBIC_00380	gene	1038				
+FPBLJBIC_00380	CDS	1038				hypothetical protein
+FPBLJBIC_00381	gene	672	nth			
+FPBLJBIC_00381	CDS	672	nth	4.2.99.18	COG0177	Endonuclease III
+FPBLJBIC_00382	gene	76				
+FPBLJBIC_00382	tRNA	76				tRNA-Met(cat)
+FPBLJBIC_00383	gene	396				
+FPBLJBIC_00383	CDS	396				hypothetical protein
+FPBLJBIC_00384	gene	294				
+FPBLJBIC_00384	CDS	294				hypothetical protein
+FPBLJBIC_00385	gene	1251				
+FPBLJBIC_00385	CDS	1251				hypothetical protein
+FPBLJBIC_00386	gene	1308	mtaD_2			
+FPBLJBIC_00386	CDS	1308	mtaD_2	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+FPBLJBIC_00387	gene	258				
+FPBLJBIC_00387	CDS	258				hypothetical protein
+FPBLJBIC_00388	gene	1323				
+FPBLJBIC_00388	CDS	1323				hypothetical protein
+FPBLJBIC_00389	gene	1557	kefB			
+FPBLJBIC_00389	CDS	1557	kefB			Glutathione-regulated potassium-efflux system protein KefB
+FPBLJBIC_00390	gene	405				
+FPBLJBIC_00390	CDS	405				hypothetical protein
+FPBLJBIC_00391	gene	1023				
+FPBLJBIC_00391	CDS	1023				hypothetical protein
+FPBLJBIC_00392	gene	1230	pgk			
+FPBLJBIC_00392	CDS	1230	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FPBLJBIC_00393	gene	1404	leuC			
+FPBLJBIC_00393	CDS	1404	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+FPBLJBIC_00394	gene	630	leuD			
+FPBLJBIC_00394	CDS	630	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+FPBLJBIC_00395	gene	1761	infB			
+FPBLJBIC_00395	CDS	1761	infB			Translation initiation factor IF-2
+FPBLJBIC_00396	gene	558				
+FPBLJBIC_00396	CDS	558				hypothetical protein
+FPBLJBIC_00397	gene	930	garR_2			
+FPBLJBIC_00397	CDS	930	garR_2	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+FPBLJBIC_00398	gene	74				
+FPBLJBIC_00398	tRNA	74				tRNA-Cys(gca)
+FPBLJBIC_00399	gene	846				
+FPBLJBIC_00399	CDS	846				hypothetical protein
+FPBLJBIC_00400	gene	1239				
+FPBLJBIC_00400	CDS	1239				hypothetical protein
+FPBLJBIC_00401	gene	498	ypeA			
+FPBLJBIC_00401	CDS	498	ypeA	2.3.1.-		Acetyltransferase YpeA
+FPBLJBIC_00402	gene	495				
+FPBLJBIC_00402	CDS	495				hypothetical protein
+FPBLJBIC_00403	gene	390				
+FPBLJBIC_00403	CDS	390				hypothetical protein
+FPBLJBIC_00404	gene	1182	nanT_2			
+FPBLJBIC_00404	CDS	1182	nanT_2			Sialic acid transporter NanT
+FPBLJBIC_00405	gene	342				
+FPBLJBIC_00405	CDS	342				hypothetical protein
+FPBLJBIC_00406	gene	768	aioB			
+FPBLJBIC_00406	CDS	768	aioB	1.20.9.1		Arsenite oxidase subunit AioB
+FPBLJBIC_00407	gene	1416	petB			
+FPBLJBIC_00407	CDS	1416	petB			Cytochrome b6
+FPBLJBIC_00408	gene	774	caiD			
+FPBLJBIC_00408	CDS	774	caiD	4.2.1.149		Carnitinyl-CoA dehydratase
+FPBLJBIC_00409	gene	1347				
+FPBLJBIC_00409	CDS	1347				hypothetical protein
+FPBLJBIC_00410	gene	972				
+FPBLJBIC_00410	CDS	972				hypothetical protein
+FPBLJBIC_00411	gene	132				
+FPBLJBIC_00411	CDS	132				hypothetical protein
+FPBLJBIC_00412	gene	2235				
+FPBLJBIC_00412	CDS	2235				hypothetical protein
+FPBLJBIC_00413	gene	435				
+FPBLJBIC_00413	CDS	435				hypothetical protein
+FPBLJBIC_00414	gene	414				
+FPBLJBIC_00414	CDS	414		3.1.2.28		1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+FPBLJBIC_00415	gene	705				
+FPBLJBIC_00415	CDS	705				hypothetical protein
+FPBLJBIC_00416	gene	444				
+FPBLJBIC_00416	CDS	444				hypothetical protein
+FPBLJBIC_00417	gene	636				
+FPBLJBIC_00417	CDS	636				hypothetical protein
+FPBLJBIC_00418	gene	225				
+FPBLJBIC_00418	CDS	225				hypothetical protein
+FPBLJBIC_00419	gene	243				
+FPBLJBIC_00419	CDS	243				hypothetical protein
+FPBLJBIC_00420	gene	417				
+FPBLJBIC_00420	CDS	417				hypothetical protein
+FPBLJBIC_00421	gene	768				
+FPBLJBIC_00421	CDS	768				hypothetical protein
+FPBLJBIC_00422	gene	843				
+FPBLJBIC_00422	CDS	843				hypothetical protein
+FPBLJBIC_00423	gene	252				
+FPBLJBIC_00423	CDS	252				hypothetical protein
+FPBLJBIC_00424	gene	99				
+FPBLJBIC_00424	CDS	99				hypothetical protein
+FPBLJBIC_00425	gene	774	fabG			
+FPBLJBIC_00425	CDS	774	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FPBLJBIC_00426	gene	216				
+FPBLJBIC_00426	CDS	216				hypothetical protein
+FPBLJBIC_00427	gene	387				
+FPBLJBIC_00427	CDS	387				hypothetical protein
+FPBLJBIC_00428	gene	354				
+FPBLJBIC_00428	CDS	354				hypothetical protein
+FPBLJBIC_00429	gene	552				
+FPBLJBIC_00429	CDS	552				hypothetical protein
+FPBLJBIC_00430	gene	774				
+FPBLJBIC_00430	CDS	774				hypothetical protein
+FPBLJBIC_00431	gene	1191	thcD			
+FPBLJBIC_00431	CDS	1191	thcD	1.18.1.-		Rhodocoxin reductase
+FPBLJBIC_00432	gene	504				
+FPBLJBIC_00432	CDS	504				hypothetical protein
+FPBLJBIC_00433	gene	294				
+FPBLJBIC_00433	CDS	294				hypothetical protein
+FPBLJBIC_00434	gene	1347				
+FPBLJBIC_00434	CDS	1347				hypothetical protein
+FPBLJBIC_00435	gene	1434				
+FPBLJBIC_00435	CDS	1434				hypothetical protein
+FPBLJBIC_00436	gene	561	yraA_1			
+FPBLJBIC_00436	CDS	561	yraA_1	3.2.-.-	COG0693	Putative cysteine protease YraA
+FPBLJBIC_00437	gene	1173				
+FPBLJBIC_00437	CDS	1173				hypothetical protein
+FPBLJBIC_00438	gene	840				
+FPBLJBIC_00438	CDS	840				hypothetical protein
+FPBLJBIC_00439	gene	327				
+FPBLJBIC_00439	CDS	327				hypothetical protein
+FPBLJBIC_00440	gene	1407	gudP			
+FPBLJBIC_00440	CDS	1407	gudP			putative glucarate transporter
+FPBLJBIC_00441	gene	321				
+FPBLJBIC_00441	CDS	321				hypothetical protein
+FPBLJBIC_00442	gene	261				
+FPBLJBIC_00442	CDS	261				hypothetical protein
+FPBLJBIC_00443	gene	390				
+FPBLJBIC_00443	CDS	390				hypothetical protein
+FPBLJBIC_00444	gene	447	bcp_2			
+FPBLJBIC_00444	CDS	447	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FPBLJBIC_00445	gene	552				
+FPBLJBIC_00445	CDS	552				hypothetical protein
+FPBLJBIC_00446	gene	1731	moaA_2			
+FPBLJBIC_00446	CDS	1731	moaA_2			GTP 3',8-cyclase
+FPBLJBIC_00447	gene	399				
+FPBLJBIC_00447	CDS	399				hypothetical protein
+FPBLJBIC_00448	gene	1533	ppcA			
+FPBLJBIC_00448	CDS	1533	ppcA	4.1.1.31		Phosphoenolpyruvate carboxylase
+FPBLJBIC_00449	gene	1173	rlmL			
+FPBLJBIC_00449	CDS	1173	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+FPBLJBIC_00450	gene	564				
+FPBLJBIC_00450	CDS	564				hypothetical protein
+FPBLJBIC_00451	gene	1155				
+FPBLJBIC_00451	CDS	1155				hypothetical protein
+FPBLJBIC_00452	gene	174				
+FPBLJBIC_00452	CDS	174				hypothetical protein
+FPBLJBIC_00453	gene	468				
+FPBLJBIC_00453	CDS	468				hypothetical protein
+FPBLJBIC_00454	gene	504				
+FPBLJBIC_00454	CDS	504				hypothetical protein
+FPBLJBIC_00455	gene	1047	hflX			
+FPBLJBIC_00455	CDS	1047	hflX			GTPase HflX
+FPBLJBIC_00456	gene	492				
+FPBLJBIC_00456	CDS	492				hypothetical protein
+FPBLJBIC_00457	gene	1320				
+FPBLJBIC_00457	CDS	1320				hypothetical protein
+FPBLJBIC_00458	gene	1059				
+FPBLJBIC_00458	CDS	1059				hypothetical protein
+FPBLJBIC_00459	gene	1302				
+FPBLJBIC_00459	CDS	1302		2.7.1.165	COG2379	D-glycerate 2-kinase
+FPBLJBIC_00460	gene	453	lrp_1			
+FPBLJBIC_00460	CDS	453	lrp_1		COG1522	Leucine-responsive regulatory protein
+FPBLJBIC_00461	gene	531				
+FPBLJBIC_00461	CDS	531				hypothetical protein
+FPBLJBIC_00462	gene	969	moaA_3			
+FPBLJBIC_00462	CDS	969	moaA_3	4.1.99.22	COG2896	GTP 3',8-cyclase
+FPBLJBIC_00463	gene	76				
+FPBLJBIC_00463	tRNA	76				tRNA-Gly(ccc)
+FPBLJBIC_00464	gene	756				
+FPBLJBIC_00464	CDS	756				hypothetical protein
+FPBLJBIC_00465	gene	1305	cbbL			
+FPBLJBIC_00465	CDS	1305	cbbL	4.1.1.39		Ribulose bisphosphate carboxylase large chain
+FPBLJBIC_00466	gene	390				
+FPBLJBIC_00466	CDS	390				hypothetical protein
+FPBLJBIC_00467	gene	714	rplB			
+FPBLJBIC_00467	CDS	714	rplB		COG0090	50S ribosomal protein L2
+FPBLJBIC_00468	gene	267				
+FPBLJBIC_00468	CDS	267				hypothetical protein
+FPBLJBIC_00469	gene	753				
+FPBLJBIC_00469	CDS	753				hypothetical protein
+FPBLJBIC_00470	gene	858	rplC			
+FPBLJBIC_00470	CDS	858	rplC		COG0087	50S ribosomal protein L3
+FPBLJBIC_00471	gene	909	thrB_1			
+FPBLJBIC_00471	CDS	909	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+FPBLJBIC_00472	gene	885	iolX			
+FPBLJBIC_00472	CDS	885	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+FPBLJBIC_00473	gene	483				
+FPBLJBIC_00473	CDS	483				hypothetical protein
+FPBLJBIC_00474	gene	588	mhpC			
+FPBLJBIC_00474	CDS	588	mhpC	3.7.1.14		2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+FPBLJBIC_00475	gene	948	ttuA_1			
+FPBLJBIC_00475	CDS	948	ttuA_1	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+FPBLJBIC_00476	gene	489				
+FPBLJBIC_00476	CDS	489				hypothetical protein
+FPBLJBIC_00477	gene	285				
+FPBLJBIC_00477	CDS	285				hypothetical protein
+FPBLJBIC_00478	gene	807	MRI1			
+FPBLJBIC_00478	CDS	807	MRI1	5.3.1.23		Methylthioribose-1-phosphate isomerase
+FPBLJBIC_00479	gene	522	nudL			
+FPBLJBIC_00479	CDS	522	nudL	3.6.1.-		putative Nudix hydrolase NudL
+FPBLJBIC_00480	gene	870				
+FPBLJBIC_00480	CDS	870			COG0730	putative membrane transporter protein
+FPBLJBIC_00481	gene	76				
+FPBLJBIC_00481	tRNA	76				tRNA-Gly(tcc)
+FPBLJBIC_00482	gene	1185	ribZ_1			
+FPBLJBIC_00482	CDS	1185	ribZ_1			Riboflavin transporter RibZ
+FPBLJBIC_00483	gene	1356				
+FPBLJBIC_00483	CDS	1356				hypothetical protein
+FPBLJBIC_00484	gene	222				
+FPBLJBIC_00484	CDS	222				hypothetical protein
+FPBLJBIC_00485	gene	702				
+FPBLJBIC_00485	CDS	702				hypothetical protein
+FPBLJBIC_00486	gene	1026	mshA_1			
+FPBLJBIC_00486	CDS	1026	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPBLJBIC_00487	gene	753				
+FPBLJBIC_00487	CDS	753				hypothetical protein
+FPBLJBIC_00488	gene	1095				
+FPBLJBIC_00488	CDS	1095				hypothetical protein
+FPBLJBIC_00489	gene	1008	adhT			
+FPBLJBIC_00489	CDS	1008	adhT	1.1.1.1		Alcohol dehydrogenase
+FPBLJBIC_00490	gene	375				
+FPBLJBIC_00490	CDS	375				hypothetical protein
+FPBLJBIC_00491	gene	234				
+FPBLJBIC_00491	CDS	234				hypothetical protein
+FPBLJBIC_00492	gene	972	mraY			
+FPBLJBIC_00492	CDS	972	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FPBLJBIC_00493	gene	927	ttuA_2			
+FPBLJBIC_00493	CDS	927	ttuA_2	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+FPBLJBIC_00494	gene	255				
+FPBLJBIC_00494	CDS	255				hypothetical protein
+FPBLJBIC_00495	gene	1062				
+FPBLJBIC_00495	CDS	1062				Iron-sulfur cluster carrier protein
+FPBLJBIC_00496	gene	558				
+FPBLJBIC_00496	CDS	558				hypothetical protein
+FPBLJBIC_00497	gene	282	mftC			
+FPBLJBIC_00497	CDS	282	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+FPBLJBIC_00498	gene	708				
+FPBLJBIC_00498	CDS	708				hypothetical protein
+FPBLJBIC_00499	gene	1344	hemY			
+FPBLJBIC_00499	CDS	1344	hemY	1.3.3.4	COG1232	Protoporphyrinogen oxidase
+FPBLJBIC_00500	gene	1374	merA			
+FPBLJBIC_00500	CDS	1374	merA	1.16.1.1		Mercuric reductase
+FPBLJBIC_00501	gene	228				
+FPBLJBIC_00501	CDS	228				hypothetical protein
+FPBLJBIC_00502	gene	342				
+FPBLJBIC_00502	CDS	342				hypothetical protein
+FPBLJBIC_00503	gene	77				
+FPBLJBIC_00503	tRNA	77				tRNA-Arg(gcg)
+FPBLJBIC_00504	gene	363				
+FPBLJBIC_00504	CDS	363				hypothetical protein
+FPBLJBIC_00505	gene	771	cinA			
+FPBLJBIC_00505	CDS	771	cinA		COG1058	Putative competence-damage inducible protein
+FPBLJBIC_00506	gene	1026	argF'			
+FPBLJBIC_00506	CDS	1026	argF'	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+FPBLJBIC_00507	gene	786	proB			
+FPBLJBIC_00507	CDS	786	proB	2.7.2.11	COG0263	Glutamate 5-kinase 1
+FPBLJBIC_00508	gene	666	deoC			
+FPBLJBIC_00508	CDS	666	deoC	4.1.2.4	COG0274	Deoxyribose-phosphate aldolase
+FPBLJBIC_00509	gene	1440				
+FPBLJBIC_00509	CDS	1440				hypothetical protein
+FPBLJBIC_00510	gene	861				
+FPBLJBIC_00510	CDS	861		3.1.1.99		6-deoxy-6-sulfogluconolactonase
+FPBLJBIC_00511	gene	1131	ppaT			
+FPBLJBIC_00511	CDS	1131	ppaT	2.6.1.30	COG0075	Pyridoxamine--pyruvate transaminase
+FPBLJBIC_00512	gene	1482				
+FPBLJBIC_00512	CDS	1482				hypothetical protein
+FPBLJBIC_00513	gene	1296				
+FPBLJBIC_00513	CDS	1296				hypothetical protein
+FPBLJBIC_00514	gene	534	nudF			
+FPBLJBIC_00514	CDS	534	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+FPBLJBIC_00515	gene	738				
+FPBLJBIC_00515	CDS	738				hypothetical protein
+FPBLJBIC_00516	gene	867				
+FPBLJBIC_00516	CDS	867				hypothetical protein
+FPBLJBIC_00517	gene	312				
+FPBLJBIC_00517	CDS	312				hypothetical protein
+FPBLJBIC_00518	gene	408				
+FPBLJBIC_00518	CDS	408				hypothetical protein
+FPBLJBIC_00519	gene	1344				
+FPBLJBIC_00519	CDS	1344				hypothetical protein
+FPBLJBIC_00520	gene	447				
+FPBLJBIC_00520	CDS	447				hypothetical protein
+FPBLJBIC_00521	gene	759	trmI			
+FPBLJBIC_00521	CDS	759	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+FPBLJBIC_00522	gene	933				
+FPBLJBIC_00522	CDS	933				hypothetical protein
+FPBLJBIC_00523	gene	2340	pucD_2			
+FPBLJBIC_00523	CDS	2340	pucD_2	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+FPBLJBIC_00524	gene	477	ndhS_3			
+FPBLJBIC_00524	CDS	477	ndhS_3	1.17.1.5		Nicotinate dehydrogenase small FeS subunit
+FPBLJBIC_00525	gene	852	ndhF_2			
+FPBLJBIC_00525	CDS	852	ndhF_2	1.17.1.5		Nicotinate dehydrogenase FAD-subunit
+FPBLJBIC_00526	gene	990	hisI			
+FPBLJBIC_00526	CDS	990	hisI	3.5.4.19		Histidine biosynthesis bifunctional protein HisIE
+FPBLJBIC_00527	gene	756	hisF			
+FPBLJBIC_00527	CDS	756	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+FPBLJBIC_00528	gene	666	hisA			
+FPBLJBIC_00528	CDS	666	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+FPBLJBIC_00529	gene	603	hisH			
+FPBLJBIC_00529	CDS	603	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+FPBLJBIC_00530	gene	570	hisB			
+FPBLJBIC_00530	CDS	570	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+FPBLJBIC_00531	gene	921	hisG			
+FPBLJBIC_00531	CDS	921	hisG	2.4.2.17		ATP phosphoribosyltransferase
+FPBLJBIC_00532	gene	573				
+FPBLJBIC_00532	CDS	573				hypothetical protein
+FPBLJBIC_00533	gene	2217	hppA			
+FPBLJBIC_00533	CDS	2217	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+FPBLJBIC_00534	gene	297				
+FPBLJBIC_00534	CDS	297				hypothetical protein
+FPBLJBIC_00535	gene	597				
+FPBLJBIC_00535	CDS	597				hypothetical protein
+FPBLJBIC_00536	gene	930	rbsK			
+FPBLJBIC_00536	CDS	930	rbsK	2.7.1.15	COG0524	Ribokinase
+FPBLJBIC_00537	gene	903	rihC			
+FPBLJBIC_00537	CDS	903	rihC	3.2.-.-		Non-specific ribonucleoside hydrolase RihC
+FPBLJBIC_00538	gene	351				
+FPBLJBIC_00538	CDS	351				hypothetical protein
+FPBLJBIC_00539	gene	1338	cpgS			
+FPBLJBIC_00539	CDS	1338	cpgS	6.5.-.-		Cyclic 2,3-diphosphoglycerate synthetase
+FPBLJBIC_00540	gene	1332				
+FPBLJBIC_00540	CDS	1332		5.1.1.21	COG0160	Isoleucine 2-epimerase
+FPBLJBIC_00541	gene	1455	pdhD			
+FPBLJBIC_00541	CDS	1455	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+FPBLJBIC_00542	gene	741				
+FPBLJBIC_00542	CDS	741				hypothetical protein
+FPBLJBIC_00543	gene	918	wbgU			
+FPBLJBIC_00543	CDS	918	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+FPBLJBIC_00544	gene	636	rpe			
+FPBLJBIC_00544	CDS	636	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+FPBLJBIC_00545	gene	948	hldE			
+FPBLJBIC_00545	CDS	948	hldE		COG2870	Bifunctional protein HldE
+FPBLJBIC_00546	gene	837	aptA			
+FPBLJBIC_00546	CDS	837	aptA	2.2.1.-	COG3959	Apulose-4-phosphate transketolase subunit A
+FPBLJBIC_00547	gene	933	aptB			
+FPBLJBIC_00547	CDS	933	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FPBLJBIC_00548	gene	681	hddC			
+FPBLJBIC_00548	CDS	681	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+FPBLJBIC_00549	gene	1002	hddA			
+FPBLJBIC_00549	CDS	1002	hddA	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+FPBLJBIC_00550	gene	582	gmhA			
+FPBLJBIC_00550	CDS	582	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+FPBLJBIC_00551	gene	513	gmhB			
+FPBLJBIC_00551	CDS	513	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+FPBLJBIC_00552	gene	801	tal			
+FPBLJBIC_00552	CDS	801	tal	2.2.1.2	COG0176	Transaldolase
+FPBLJBIC_00553	gene	780				
+FPBLJBIC_00553	CDS	780				hypothetical protein
+FPBLJBIC_00554	gene	111				
+FPBLJBIC_00554	CDS	111				hypothetical protein
+FPBLJBIC_00555	gene	1104	mshA_2			
+FPBLJBIC_00555	CDS	1104	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPBLJBIC_00556	gene	810				
+FPBLJBIC_00556	CDS	810				hypothetical protein
+FPBLJBIC_00557	gene	240				
+FPBLJBIC_00557	CDS	240				hypothetical protein
+FPBLJBIC_00558	gene	2802				
+FPBLJBIC_00558	CDS	2802				hypothetical protein
+FPBLJBIC_00559	gene	186				
+FPBLJBIC_00559	CDS	186				hypothetical protein
+FPBLJBIC_00560	gene	123				
+FPBLJBIC_00560	CDS	123				hypothetical protein
+FPBLJBIC_00561	gene	216				
+FPBLJBIC_00561	CDS	216				hypothetical protein
+FPBLJBIC_00562	gene	1035	gmd			
+FPBLJBIC_00562	CDS	1035	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+FPBLJBIC_00563	gene	132				
+FPBLJBIC_00563	CDS	132				hypothetical protein
+FPBLJBIC_00564	gene	660				
+FPBLJBIC_00564	CDS	660				hypothetical protein
+FPBLJBIC_00565	gene	180				
+FPBLJBIC_00565	CDS	180				hypothetical protein
+FPBLJBIC_00566	gene	588				
+FPBLJBIC_00566	CDS	588				hypothetical protein
+FPBLJBIC_00567	gene	816				
+FPBLJBIC_00567	CDS	816				hypothetical protein
+FPBLJBIC_00568	gene	1110	mshA_3			
+FPBLJBIC_00568	CDS	1110	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPBLJBIC_00569	gene	75				
+FPBLJBIC_00569	tRNA	75				tRNA-Asn(gtt)
+FPBLJBIC_00570	gene	969				
+FPBLJBIC_00570	CDS	969				hypothetical protein
+FPBLJBIC_00571	gene	714				
+FPBLJBIC_00571	CDS	714				hypothetical protein
+FPBLJBIC_00572	gene	1311	miaB			
+FPBLJBIC_00572	CDS	1311	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FPBLJBIC_00573	gene	330				
+FPBLJBIC_00573	CDS	330				hypothetical protein
+FPBLJBIC_00574	gene	513				
+FPBLJBIC_00574	CDS	513				hypothetical protein
+FPBLJBIC_00575	gene	855	gloB			
+FPBLJBIC_00575	CDS	855	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+FPBLJBIC_00576	gene	339				
+FPBLJBIC_00576	CDS	339				hypothetical protein
+FPBLJBIC_00577	gene	252				
+FPBLJBIC_00577	CDS	252				hypothetical protein
+FPBLJBIC_00578	gene	108				
+FPBLJBIC_00578	CDS	108				hypothetical protein
+FPBLJBIC_00579	gene	258				
+FPBLJBIC_00579	CDS	258				hypothetical protein
+FPBLJBIC_00580	gene	2241	ftsH_1			
+FPBLJBIC_00580	CDS	2241	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPBLJBIC_00581	gene	1071				
+FPBLJBIC_00581	CDS	1071				hypothetical protein
+FPBLJBIC_00582	gene	1917	rnj			
+FPBLJBIC_00582	CDS	1917	rnj	3.1.-.-		Ribonuclease J
+FPBLJBIC_00583	gene	630	prcB_1			
+FPBLJBIC_00583	CDS	630	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+FPBLJBIC_00584	gene	237	tusA			
+FPBLJBIC_00584	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+FPBLJBIC_00585	gene	402				
+FPBLJBIC_00585	CDS	402				hypothetical protein
+FPBLJBIC_00586	gene	468				
+FPBLJBIC_00586	CDS	468				hypothetical protein
+FPBLJBIC_00587	gene	951				
+FPBLJBIC_00587	CDS	951				hypothetical protein
+FPBLJBIC_00588	gene	1935	korA_1			
+FPBLJBIC_00588	CDS	1935	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+FPBLJBIC_00589	gene	303				
+FPBLJBIC_00589	CDS	303				hypothetical protein
+FPBLJBIC_00590	gene	684				
+FPBLJBIC_00590	CDS	684				hypothetical protein
+FPBLJBIC_00591	gene	1236	macB			
+FPBLJBIC_00591	CDS	1236	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+FPBLJBIC_00592	gene	1794				
+FPBLJBIC_00592	CDS	1794				hypothetical protein
+FPBLJBIC_00593	gene	681	yknY			
+FPBLJBIC_00593	CDS	681	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+FPBLJBIC_00594	gene	237				
+FPBLJBIC_00594	CDS	237				hypothetical protein
+FPBLJBIC_00595	gene	759				
+FPBLJBIC_00595	CDS	759				hypothetical protein
+FPBLJBIC_00596	gene	414				
+FPBLJBIC_00596	CDS	414				hypothetical protein
+FPBLJBIC_00597	gene	73				
+FPBLJBIC_00597	tRNA	73				tRNA-Asp(gtc)
+FPBLJBIC_00598	gene	543				
+FPBLJBIC_00598	CDS	543				hypothetical protein
+FPBLJBIC_00599	gene	1464	ribZ_2			
+FPBLJBIC_00599	CDS	1464	ribZ_2			Riboflavin transporter RibZ
+FPBLJBIC_00600	gene	747				
+FPBLJBIC_00600	CDS	747				hypothetical protein
+FPBLJBIC_00601	gene	1380	gltD			
+FPBLJBIC_00601	CDS	1380	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+FPBLJBIC_00602	gene	843				
+FPBLJBIC_00602	CDS	843			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+FPBLJBIC_00603	gene	327	trxA			
+FPBLJBIC_00603	CDS	327	trxA		COG0526	Thioredoxin
+FPBLJBIC_00604	gene	573				
+FPBLJBIC_00604	CDS	573				hypothetical protein
+FPBLJBIC_00605	gene	1392	cysS			
+FPBLJBIC_00605	CDS	1392	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FPBLJBIC_00606	gene	894	cysM			
+FPBLJBIC_00606	CDS	894	cysM	2.5.1.47	COG0031	Cysteine synthase B
+FPBLJBIC_00607	gene	771				
+FPBLJBIC_00607	CDS	771				hypothetical protein
+FPBLJBIC_00608	gene	855	hemC			
+FPBLJBIC_00608	CDS	855	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+FPBLJBIC_00609	gene	1179	hemA			
+FPBLJBIC_00609	CDS	1179	hemA	1.2.1.70		Glutamyl-tRNA reductase
+FPBLJBIC_00610	gene	783				
+FPBLJBIC_00610	CDS	783				hypothetical protein
+FPBLJBIC_00611	gene	888	hemB			
+FPBLJBIC_00611	CDS	888	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+FPBLJBIC_00612	gene	1278	hemL			
+FPBLJBIC_00612	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+FPBLJBIC_00613	gene	441				
+FPBLJBIC_00613	CDS	441				hypothetical protein
+FPBLJBIC_00614	gene	486	fdtC			
+FPBLJBIC_00614	CDS	486	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+FPBLJBIC_00615	gene	672				
+FPBLJBIC_00615	CDS	672				hypothetical protein
+FPBLJBIC_00616	gene	543				
+FPBLJBIC_00616	CDS	543				hypothetical protein
+FPBLJBIC_00617	gene	990	hemE			
+FPBLJBIC_00617	CDS	990	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+FPBLJBIC_00618	gene	219				
+FPBLJBIC_00618	CDS	219				hypothetical protein
+FPBLJBIC_00619	gene	1671	ilvD			
+FPBLJBIC_00619	CDS	1671	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+FPBLJBIC_00620	gene	1602	cimA			
+FPBLJBIC_00620	CDS	1602	cimA	2.3.1.182	COG0119	(R)-citramalate synthase
+FPBLJBIC_00621	gene	2334	pepN			
+FPBLJBIC_00621	CDS	2334	pepN	3.4.11.2	COG0308	Aminopeptidase N
+FPBLJBIC_00622	gene	495				
+FPBLJBIC_00622	CDS	495				hypothetical protein
+FPBLJBIC_00623	gene	474				
+FPBLJBIC_00623	CDS	474				hypothetical protein
+FPBLJBIC_00624	gene	579				
+FPBLJBIC_00624	CDS	579				hypothetical protein
+FPBLJBIC_00625	gene	1383	secY			
+FPBLJBIC_00625	CDS	1383	secY			Protein translocase subunit SecY
+FPBLJBIC_00626	gene	432				
+FPBLJBIC_00626	CDS	432				hypothetical protein
+FPBLJBIC_00627	gene	432				
+FPBLJBIC_00627	CDS	432				hypothetical protein
+FPBLJBIC_00628	gene	621				
+FPBLJBIC_00628	CDS	621				hypothetical protein
+FPBLJBIC_00629	gene	558				
+FPBLJBIC_00629	CDS	558				hypothetical protein
+FPBLJBIC_00630	gene	405				
+FPBLJBIC_00630	CDS	405				hypothetical protein
+FPBLJBIC_00631	gene	372				
+FPBLJBIC_00631	CDS	372				hypothetical protein
+FPBLJBIC_00632	gene	540	rplF			
+FPBLJBIC_00632	CDS	540	rplF		COG0097	50S ribosomal protein L6
+FPBLJBIC_00633	gene	393				
+FPBLJBIC_00633	CDS	393				hypothetical protein
+FPBLJBIC_00634	gene	165				
+FPBLJBIC_00634	CDS	165				hypothetical protein
+FPBLJBIC_00635	gene	528				
+FPBLJBIC_00635	CDS	528				hypothetical protein
+FPBLJBIC_00636	gene	726				
+FPBLJBIC_00636	CDS	726				hypothetical protein
+FPBLJBIC_00637	gene	324				
+FPBLJBIC_00637	CDS	324				hypothetical protein
+FPBLJBIC_00638	gene	435				
+FPBLJBIC_00638	CDS	435				hypothetical protein
+FPBLJBIC_00639	gene	327				
+FPBLJBIC_00639	CDS	327				hypothetical protein
+FPBLJBIC_00640	gene	207				
+FPBLJBIC_00640	CDS	207				hypothetical protein
+FPBLJBIC_00641	gene	195				
+FPBLJBIC_00641	CDS	195				hypothetical protein
+FPBLJBIC_00642	gene	630	rpsC			
+FPBLJBIC_00642	CDS	630	rpsC		COG0092	30S ribosomal protein S3
+FPBLJBIC_00643	gene	468				
+FPBLJBIC_00643	CDS	468				hypothetical protein
+FPBLJBIC_00644	gene	774	nadK			
+FPBLJBIC_00644	CDS	774	nadK	2.7.1.23		NAD kinase
+FPBLJBIC_00645	gene	306				
+FPBLJBIC_00645	CDS	306				hypothetical protein
+FPBLJBIC_00646	gene	87				
+FPBLJBIC_00646	tRNA	87				tRNA-Leu(gag)
+FPBLJBIC_00647	gene	336				
+FPBLJBIC_00647	CDS	336				hypothetical protein
+FPBLJBIC_00648	gene	897				
+FPBLJBIC_00648	CDS	897		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+FPBLJBIC_00649	gene	687				
+FPBLJBIC_00649	CDS	687				hypothetical protein
+FPBLJBIC_00650	gene	73				
+FPBLJBIC_00650	tRNA	73				tRNA-Ala(tgc)
+FPBLJBIC_00651	gene	543				
+FPBLJBIC_00651	CDS	543		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+FPBLJBIC_00652	gene	687				
+FPBLJBIC_00652	CDS	687				hypothetical protein
+FPBLJBIC_00653	gene	981	ddpF			
+FPBLJBIC_00653	CDS	981	ddpF		COG1124	putative D,D-dipeptide transport ATP-binding protein DdpF
+FPBLJBIC_00654	gene	972	oppD			
+FPBLJBIC_00654	CDS	972	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+FPBLJBIC_00655	gene	960				
+FPBLJBIC_00655	CDS	960				hypothetical protein
+FPBLJBIC_00656	gene	996	ddpB			
+FPBLJBIC_00656	CDS	996	ddpB		COG0601	putative D,D-dipeptide transport system permease protein DdpB
+FPBLJBIC_00657	gene	2010				
+FPBLJBIC_00657	CDS	2010				hypothetical protein
+FPBLJBIC_00658	gene	927				
+FPBLJBIC_00658	CDS	927				hypothetical protein
+FPBLJBIC_00659	gene	453	lrp_2			
+FPBLJBIC_00659	CDS	453	lrp_2		COG1522	Leucine-responsive regulatory protein
+FPBLJBIC_00660	gene	939				
+FPBLJBIC_00660	CDS	939				hypothetical protein
+FPBLJBIC_00661	gene	333				
+FPBLJBIC_00661	CDS	333				hypothetical protein
+FPBLJBIC_00662	gene	864				
+FPBLJBIC_00662	CDS	864				hypothetical protein
+FPBLJBIC_00663	gene	1647	groL_1			
+FPBLJBIC_00663	CDS	1647	groL_1		COG0459	60 kDa chaperonin
+FPBLJBIC_00664	gene	1272	gdhA_2			
+FPBLJBIC_00664	CDS	1272	gdhA_2	1.4.1.3	COG0334	Glutamate dehydrogenase
+FPBLJBIC_00665	gene	1995				
+FPBLJBIC_00665	CDS	1995				hypothetical protein
+FPBLJBIC_00666	gene	1107	nanT_3			
+FPBLJBIC_00666	CDS	1107	nanT_3			Sialic acid transporter NanT
+FPBLJBIC_00667	gene	831				
+FPBLJBIC_00667	CDS	831				hypothetical protein
+FPBLJBIC_00668	gene	957	rbn			
+FPBLJBIC_00668	CDS	957	rbn	3.1.-.-	COG1234	Ribonuclease BN
+FPBLJBIC_00669	gene	1020				
+FPBLJBIC_00669	CDS	1020				hypothetical protein
+FPBLJBIC_00670	gene	783				
+FPBLJBIC_00670	CDS	783				hypothetical protein
+FPBLJBIC_00671	gene	1122	trm1			
+FPBLJBIC_00671	CDS	1122	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+FPBLJBIC_00672	gene	1173				
+FPBLJBIC_00672	CDS	1173				hypothetical protein
+FPBLJBIC_00673	gene	1536	efpA			
+FPBLJBIC_00673	CDS	1536	efpA			putative MFS-type transporter EfpA
+FPBLJBIC_00674	gene	1338				
+FPBLJBIC_00674	CDS	1338				hypothetical protein
+FPBLJBIC_00675	gene	1155	dapE			
+FPBLJBIC_00675	CDS	1155	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+FPBLJBIC_00676	gene	1782	lig			
+FPBLJBIC_00676	CDS	1782	lig	6.5.1.1		DNA ligase
+FPBLJBIC_00677	gene	771	fbiB_1			
+FPBLJBIC_00677	CDS	771	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+FPBLJBIC_00678	gene	870				
+FPBLJBIC_00678	CDS	870				hypothetical protein
+FPBLJBIC_00679	gene	171				
+FPBLJBIC_00679	CDS	171				hypothetical protein
+FPBLJBIC_00680	gene	1182				
+FPBLJBIC_00680	CDS	1182				hypothetical protein
+FPBLJBIC_00681	gene	321				
+FPBLJBIC_00681	CDS	321				hypothetical protein
+FPBLJBIC_00682	gene	390				
+FPBLJBIC_00682	CDS	390				hypothetical protein
+FPBLJBIC_00683	gene	1065				
+FPBLJBIC_00683	CDS	1065		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FPBLJBIC_00684	gene	378				
+FPBLJBIC_00684	CDS	378				hypothetical protein
+FPBLJBIC_00685	gene	639				
+FPBLJBIC_00685	CDS	639				hypothetical protein
+FPBLJBIC_00686	gene	540				
+FPBLJBIC_00686	CDS	540				hypothetical protein
+FPBLJBIC_00687	gene	1353	ttuE			
+FPBLJBIC_00687	CDS	1353	ttuE	2.7.1.40		Pyruvate kinase
+FPBLJBIC_00688	gene	546				
+FPBLJBIC_00688	CDS	546				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+FPBLJBIC_00689	gene	390				
+FPBLJBIC_00689	CDS	390				hypothetical protein
+FPBLJBIC_00690	gene	1452	mtr			
+FPBLJBIC_00690	CDS	1452	mtr	1.8.1.15	COG1249	Mycothione reductase
+FPBLJBIC_00691	gene	783	kynB			
+FPBLJBIC_00691	CDS	783	kynB	3.5.1.9		Kynurenine formamidase
+FPBLJBIC_00692	gene	1155				
+FPBLJBIC_00692	CDS	1155				hypothetical protein
+FPBLJBIC_00693	gene	141				
+FPBLJBIC_00693	CDS	141				hypothetical protein
+FPBLJBIC_00694	gene	231				
+FPBLJBIC_00694	CDS	231				hypothetical protein
+FPBLJBIC_00695	gene	2751	valS			
+FPBLJBIC_00695	CDS	2751	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+FPBLJBIC_00696	gene	759	bepA			
+FPBLJBIC_00696	CDS	759	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+FPBLJBIC_00697	gene	309				
+FPBLJBIC_00697	misc_RNA	309				Archaea_SRP
+FPBLJBIC_00698	gene	2646	alaS			
+FPBLJBIC_00698	CDS	2646	alaS	6.1.1.7		Alanine--tRNA ligase
+FPBLJBIC_00699	gene	1308	ychF			
+FPBLJBIC_00699	CDS	1308	ychF		COG0012	Ribosome-binding ATPase YchF
+FPBLJBIC_00700	gene	552				
+FPBLJBIC_00700	CDS	552				hypothetical protein
+FPBLJBIC_00701	gene	1065				
+FPBLJBIC_00701	CDS	1065				hypothetical protein
+FPBLJBIC_00702	gene	1029				
+FPBLJBIC_00702	CDS	1029		2.5.-.-		Deoxyhypusine synthase-like protein
+FPBLJBIC_00703	gene	267				
+FPBLJBIC_00703	CDS	267				hypothetical protein
+FPBLJBIC_00704	gene	1269	yhdG			
+FPBLJBIC_00704	CDS	1269	yhdG		COG0531	putative amino acid permease YhdG
+FPBLJBIC_00705	gene	1038	thiI			
+FPBLJBIC_00705	CDS	1038	thiI	2.8.1.4		tRNA sulfurtransferase
+FPBLJBIC_00706	gene	591				
+FPBLJBIC_00706	CDS	591				hypothetical protein
+FPBLJBIC_00707	gene	303				
+FPBLJBIC_00707	CDS	303				hypothetical protein
+FPBLJBIC_00708	gene	684				
+FPBLJBIC_00708	CDS	684				hypothetical protein
+FPBLJBIC_00709	gene	1173				
+FPBLJBIC_00709	CDS	1173				hypothetical protein
+FPBLJBIC_00710	gene	1392	GATB_1			
+FPBLJBIC_00710	CDS	1392	GATB_1	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+FPBLJBIC_00711	gene	1392	gatA			
+FPBLJBIC_00711	CDS	1392	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FPBLJBIC_00712	gene	267				
+FPBLJBIC_00712	CDS	267				hypothetical protein
+FPBLJBIC_00713	gene	1251	aspS2_2			
+FPBLJBIC_00713	CDS	1251	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+FPBLJBIC_00714	gene	834				
+FPBLJBIC_00714	CDS	834				hypothetical protein
+FPBLJBIC_00715	gene	1068				
+FPBLJBIC_00715	CDS	1068				hypothetical protein
+FPBLJBIC_00716	gene	864	cyoE			
+FPBLJBIC_00716	CDS	864	cyoE	2.5.1.141		Protoheme IX farnesyltransferase
+FPBLJBIC_00717	gene	510				
+FPBLJBIC_00717	CDS	510				hypothetical protein
+FPBLJBIC_00718	gene	435	nhaX			
+FPBLJBIC_00718	CDS	435	nhaX		COG0589	Stress response protein NhaX
+FPBLJBIC_00719	gene	825				
+FPBLJBIC_00719	CDS	825				hypothetical protein
+FPBLJBIC_00720	gene	1857	GATB_2			
+FPBLJBIC_00720	CDS	1857	GATB_2	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+FPBLJBIC_00721	gene	1266				
+FPBLJBIC_00721	CDS	1266				hypothetical protein
+FPBLJBIC_00722	gene	74				
+FPBLJBIC_00722	tRNA	74				tRNA-Ala(ggc)
+FPBLJBIC_00723	gene	525				
+FPBLJBIC_00723	CDS	525		3.6.1.-	COG1986	Inosine/xanthosine triphosphatase
+FPBLJBIC_00724	gene	1557				
+FPBLJBIC_00724	CDS	1557		2.3.1.-		tRNA uridine(34) acetyltransferase
+FPBLJBIC_00725	gene	657	gph_2			
+FPBLJBIC_00725	CDS	657	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+FPBLJBIC_00726	gene	234				
+FPBLJBIC_00726	CDS	234				hypothetical protein
+FPBLJBIC_00727	gene	85				
+FPBLJBIC_00727	tRNA	85				tRNA-Leu(tag)
+FPBLJBIC_00728	gene	1011				
+FPBLJBIC_00728	CDS	1011				hypothetical protein
+FPBLJBIC_00729	gene	948				
+FPBLJBIC_00729	CDS	948				hypothetical protein
+FPBLJBIC_00730	gene	1551				
+FPBLJBIC_00730	CDS	1551				hypothetical protein
+FPBLJBIC_00731	gene	1533				
+FPBLJBIC_00731	CDS	1533				hypothetical protein
+FPBLJBIC_00732	gene	594				
+FPBLJBIC_00732	CDS	594				hypothetical protein
+FPBLJBIC_00733	gene	444				
+FPBLJBIC_00733	CDS	444				hypothetical protein
+FPBLJBIC_00734	gene	438	nusA			
+FPBLJBIC_00734	CDS	438	nusA			Transcription termination/antitermination protein NusA
+FPBLJBIC_00735	gene	306				
+FPBLJBIC_00735	CDS	306				hypothetical protein
+FPBLJBIC_00736	gene	3747	rpoC			
+FPBLJBIC_00736	CDS	3747	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+FPBLJBIC_00737	gene	3318	rpoB			
+FPBLJBIC_00737	CDS	3318	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+FPBLJBIC_00738	gene	252				
+FPBLJBIC_00738	CDS	252				hypothetical protein
+FPBLJBIC_00739	gene	243	napF			
+FPBLJBIC_00739	CDS	243	napF			Ferredoxin-type protein NapF
+FPBLJBIC_00740	gene	1026	korA_2			
+FPBLJBIC_00740	CDS	1026	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+FPBLJBIC_00741	gene	780				
+FPBLJBIC_00741	CDS	780				hypothetical protein
+FPBLJBIC_00742	gene	552				
+FPBLJBIC_00742	CDS	552				hypothetical protein
+FPBLJBIC_00743	gene	978	thiL_2			
+FPBLJBIC_00743	CDS	978	thiL_2	2.7.4.16		Thiamine-monophosphate kinase
+FPBLJBIC_00744	gene	849	pucA			
+FPBLJBIC_00744	CDS	849	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+FPBLJBIC_00745	gene	183				
+FPBLJBIC_00745	CDS	183				hypothetical protein
+FPBLJBIC_00746	gene	342				
+FPBLJBIC_00746	CDS	342				hypothetical protein
+FPBLJBIC_00747	gene	1539				
+FPBLJBIC_00747	CDS	1539				hypothetical protein
+FPBLJBIC_00748	gene	666				
+FPBLJBIC_00748	CDS	666				hypothetical protein
+FPBLJBIC_00749	gene	168				
+FPBLJBIC_00749	CDS	168				hypothetical protein
+FPBLJBIC_00750	gene	303				
+FPBLJBIC_00750	CDS	303				hypothetical protein
+FPBLJBIC_00751	gene	78				
+FPBLJBIC_00751	tRNA	78				tRNA-Thr(cgt)
+FPBLJBIC_00752	gene	1989	FCS1			
+FPBLJBIC_00752	CDS	1989	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+FPBLJBIC_00753	gene	1179	thlA			
+FPBLJBIC_00753	CDS	1179	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase
+FPBLJBIC_00754	gene	1353				
+FPBLJBIC_00754	CDS	1353				hypothetical protein
+FPBLJBIC_00755	gene	672				
+FPBLJBIC_00755	CDS	672				hypothetical protein
+FPBLJBIC_00756	gene	180				
+FPBLJBIC_00756	CDS	180				hypothetical protein
+FPBLJBIC_00757	gene	237				
+FPBLJBIC_00757	CDS	237				hypothetical protein
+FPBLJBIC_00758	gene	834				
+FPBLJBIC_00758	CDS	834				hypothetical protein
+FPBLJBIC_00759	gene	546				
+FPBLJBIC_00759	CDS	546				hypothetical protein
+FPBLJBIC_00760	gene	516				
+FPBLJBIC_00760	CDS	516				hypothetical protein
+FPBLJBIC_00761	gene	441				
+FPBLJBIC_00761	CDS	441				hypothetical protein
+FPBLJBIC_00762	gene	111				
+FPBLJBIC_00762	CDS	111				hypothetical protein
+FPBLJBIC_00763	gene	4500				
+FPBLJBIC_00763	CDS	4500				hypothetical protein
+FPBLJBIC_00764	gene	651				
+FPBLJBIC_00764	CDS	651				hypothetical protein
+FPBLJBIC_00765	gene	2310				
+FPBLJBIC_00765	CDS	2310				hypothetical protein
+FPBLJBIC_00766	gene	144				
+FPBLJBIC_00766	CDS	144				hypothetical protein
+FPBLJBIC_00767	gene	552				
+FPBLJBIC_00767	CDS	552				hypothetical protein
+FPBLJBIC_00768	gene	243				
+FPBLJBIC_00768	CDS	243				hypothetical protein
+FPBLJBIC_00769	gene	996				
+FPBLJBIC_00769	CDS	996				hypothetical protein
+FPBLJBIC_00770	gene	639				
+FPBLJBIC_00770	CDS	639				hypothetical protein
+FPBLJBIC_00771	gene	384				
+FPBLJBIC_00771	CDS	384				hypothetical protein
+FPBLJBIC_00772	gene	1176				
+FPBLJBIC_00772	CDS	1176				hypothetical protein
+FPBLJBIC_00773	gene	396				
+FPBLJBIC_00773	CDS	396				hypothetical protein
+FPBLJBIC_00774	gene	381				
+FPBLJBIC_00774	CDS	381				hypothetical protein
+FPBLJBIC_00775	gene	1842				
+FPBLJBIC_00775	CDS	1842				hypothetical protein
+FPBLJBIC_00776	gene	378				
+FPBLJBIC_00776	CDS	378				hypothetical protein
+FPBLJBIC_00777	gene	1221				
+FPBLJBIC_00777	CDS	1221				hypothetical protein
+FPBLJBIC_00778	gene	210				
+FPBLJBIC_00778	CDS	210				hypothetical protein
+FPBLJBIC_00779	gene	231				
+FPBLJBIC_00779	CDS	231				hypothetical protein
+FPBLJBIC_00780	gene	726				
+FPBLJBIC_00780	CDS	726				hypothetical protein
+FPBLJBIC_00781	gene	450				
+FPBLJBIC_00781	CDS	450				hypothetical protein
+FPBLJBIC_00782	gene	231				
+FPBLJBIC_00782	CDS	231				hypothetical protein
+FPBLJBIC_00783	gene	492				
+FPBLJBIC_00783	CDS	492				hypothetical protein
+FPBLJBIC_00784	gene	408				
+FPBLJBIC_00784	CDS	408				hypothetical protein
+FPBLJBIC_00785	gene	444				
+FPBLJBIC_00785	CDS	444				hypothetical protein
+FPBLJBIC_00786	gene	1596				
+FPBLJBIC_00786	CDS	1596				hypothetical protein
+FPBLJBIC_00787	gene	78				
+FPBLJBIC_00787	tRNA	78				tRNA-Met(cat)
+FPBLJBIC_00788	gene	756				
+FPBLJBIC_00788	CDS	756				hypothetical protein
+FPBLJBIC_00789	gene	540				
+FPBLJBIC_00789	CDS	540				hypothetical protein
+FPBLJBIC_00790	gene	147				
+FPBLJBIC_00790	CDS	147				hypothetical protein
+FPBLJBIC_00791	gene	552				
+FPBLJBIC_00791	CDS	552				hypothetical protein
+FPBLJBIC_00792	gene	330				
+FPBLJBIC_00792	CDS	330				hypothetical protein
+FPBLJBIC_00793	gene	393				
+FPBLJBIC_00793	CDS	393				hypothetical protein
+FPBLJBIC_00794	gene	1770				
+FPBLJBIC_00794	CDS	1770				hypothetical protein
+FPBLJBIC_00795	gene	1923				
+FPBLJBIC_00795	CDS	1923				hypothetical protein
+FPBLJBIC_00796	gene	2292				
+FPBLJBIC_00796	CDS	2292				hypothetical protein
+FPBLJBIC_00797	gene	216				
+FPBLJBIC_00797	CDS	216				hypothetical protein
+FPBLJBIC_00798	gene	987				
+FPBLJBIC_00798	CDS	987				hypothetical protein
+FPBLJBIC_00799	gene	210				
+FPBLJBIC_00799	CDS	210				hypothetical protein
+FPBLJBIC_00800	gene	840				
+FPBLJBIC_00800	CDS	840				hypothetical protein
+FPBLJBIC_00801	gene	402				
+FPBLJBIC_00801	CDS	402				hypothetical protein
+FPBLJBIC_00802	gene	462				
+FPBLJBIC_00802	CDS	462				hypothetical protein
+FPBLJBIC_00803	gene	144				
+FPBLJBIC_00803	CDS	144				hypothetical protein
+FPBLJBIC_00804	gene	612				
+FPBLJBIC_00804	CDS	612				hypothetical protein
+FPBLJBIC_00805	gene	1839				
+FPBLJBIC_00805	CDS	1839				hypothetical protein
+FPBLJBIC_00806	gene	363				
+FPBLJBIC_00806	CDS	363				hypothetical protein
+FPBLJBIC_00807	gene	108				
+FPBLJBIC_00807	CDS	108				hypothetical protein
+FPBLJBIC_00808	gene	1269				
+FPBLJBIC_00808	CDS	1269				hypothetical protein
+FPBLJBIC_00809	gene	561				
+FPBLJBIC_00809	CDS	561				hypothetical protein
+FPBLJBIC_00810	gene	669				
+FPBLJBIC_00810	CDS	669				hypothetical protein
+FPBLJBIC_00811	gene	873				
+FPBLJBIC_00811	CDS	873				hypothetical protein
+FPBLJBIC_00812	gene	123				
+FPBLJBIC_00812	CDS	123				hypothetical protein
+FPBLJBIC_00813	gene	1134	xerC_1			
+FPBLJBIC_00813	CDS	1134	xerC_1			Tyrosine recombinase XerC
+FPBLJBIC_00814	gene	75				
+FPBLJBIC_00814	tRNA	75				tRNA-Glu(ctc)
+FPBLJBIC_00815	gene	1818				
+FPBLJBIC_00815	CDS	1818				hypothetical protein
+FPBLJBIC_00816	gene	195				
+FPBLJBIC_00816	CDS	195				hypothetical protein
+FPBLJBIC_00817	gene	552	rnr			
+FPBLJBIC_00817	CDS	552	rnr	3.1.13.1		Ribonuclease R
+FPBLJBIC_00818	gene	189				
+FPBLJBIC_00818	CDS	189				hypothetical protein
+FPBLJBIC_00819	gene	510				
+FPBLJBIC_00819	CDS	510				hypothetical protein
+FPBLJBIC_00820	gene	552				
+FPBLJBIC_00820	CDS	552				hypothetical protein
+FPBLJBIC_00821	gene	963	arcC2			
+FPBLJBIC_00821	CDS	963	arcC2	2.7.2.2		Carbamate kinase 2
+FPBLJBIC_00822	gene	897				
+FPBLJBIC_00822	CDS	897				hypothetical protein
+FPBLJBIC_00823	gene	579	ttrB			
+FPBLJBIC_00823	CDS	579	ttrB		COG0437	Tetrathionate reductase subunit B
+FPBLJBIC_00824	gene	2094				
+FPBLJBIC_00824	CDS	2094		4.2.1.112		Acetylene hydratase
+FPBLJBIC_00825	gene	1359	uacT			
+FPBLJBIC_00825	CDS	1359	uacT		COG2233	Uric acid transporter UacT
+FPBLJBIC_00826	gene	108				
+FPBLJBIC_00826	CDS	108				hypothetical protein
+FPBLJBIC_00827	gene	249				
+FPBLJBIC_00827	CDS	249				hypothetical protein
+FPBLJBIC_00828	gene	144				
+FPBLJBIC_00828	CDS	144				hypothetical protein
+FPBLJBIC_00829	gene	519				
+FPBLJBIC_00829	CDS	519				hypothetical protein
+FPBLJBIC_00830	gene	1140				
+FPBLJBIC_00830	CDS	1140				hypothetical protein
+FPBLJBIC_00831	gene	564				
+FPBLJBIC_00831	CDS	564				hypothetical protein
+FPBLJBIC_00832	gene	1257	ahcY			
+FPBLJBIC_00832	CDS	1257	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+FPBLJBIC_00833	gene	1380				
+FPBLJBIC_00833	CDS	1380				hypothetical protein
+FPBLJBIC_00834	gene	843	btuD_1			
+FPBLJBIC_00834	CDS	843	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FPBLJBIC_00835	gene	723				
+FPBLJBIC_00835	CDS	723				hypothetical protein
+FPBLJBIC_00836	gene	88				
+FPBLJBIC_00836	tRNA	88				tRNA-Ser(tga)
+FPBLJBIC_00837	gene	1365	mtaD_3			
+FPBLJBIC_00837	CDS	1365	mtaD_3	3.5.4.28	COG0402	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+FPBLJBIC_00838	gene	1773	btuD_2			
+FPBLJBIC_00838	CDS	1773	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FPBLJBIC_00839	gene	795	surE			
+FPBLJBIC_00839	CDS	795	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+FPBLJBIC_00840	gene	201				
+FPBLJBIC_00840	CDS	201				hypothetical protein
+FPBLJBIC_00841	gene	585				
+FPBLJBIC_00841	CDS	585				hypothetical protein
+FPBLJBIC_00842	gene	789	menA_1			
+FPBLJBIC_00842	CDS	789	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+FPBLJBIC_00843	gene	1326	menA_2			
+FPBLJBIC_00843	CDS	1326	menA_2	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+FPBLJBIC_00844	gene	567	rutB			
+FPBLJBIC_00844	CDS	567	rutB	3.5.1.110		Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+FPBLJBIC_00845	gene	978				
+FPBLJBIC_00845	CDS	978				hypothetical protein
+FPBLJBIC_00846	gene	1212	thrC_2			
+FPBLJBIC_00846	CDS	1212	thrC_2	4.2.3.1	COG0498	Threonine synthase
+FPBLJBIC_00847	gene	1131				
+FPBLJBIC_00847	CDS	1131				hypothetical protein
+FPBLJBIC_00848	gene	756				
+FPBLJBIC_00848	CDS	756				hypothetical protein
+FPBLJBIC_00849	gene	669				
+FPBLJBIC_00849	CDS	669		4.1.2.43		3-hexulose-6-phosphate synthase
+FPBLJBIC_00850	gene	780				
+FPBLJBIC_00850	CDS	780				hypothetical protein
+FPBLJBIC_00851	gene	285				
+FPBLJBIC_00851	CDS	285				hypothetical protein
+FPBLJBIC_00852	gene	1167	ino1			
+FPBLJBIC_00852	CDS	1167	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+FPBLJBIC_00853	gene	1035				
+FPBLJBIC_00853	CDS	1035				hypothetical protein
+FPBLJBIC_00854	gene	441				
+FPBLJBIC_00854	CDS	441				hypothetical protein
+FPBLJBIC_00855	gene	807	cysH			
+FPBLJBIC_00855	CDS	807	cysH	1.8.4.8		Phosphoadenosine phosphosulfate reductase
+FPBLJBIC_00856	gene	432				
+FPBLJBIC_00856	CDS	432				hypothetical protein
+FPBLJBIC_00857	gene	540	dcd_2			
+FPBLJBIC_00857	CDS	540	dcd_2	3.5.4.30	COG0717	dCTP deaminase, dUMP-forming
+FPBLJBIC_00858	gene	780	thyX			
+FPBLJBIC_00858	CDS	780	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+FPBLJBIC_00859	gene	1566	lysS			
+FPBLJBIC_00859	CDS	1566	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+FPBLJBIC_00860	gene	1176	cshA			
+FPBLJBIC_00860	CDS	1176	cshA	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase CshA
+FPBLJBIC_00861	gene	76				
+FPBLJBIC_00861	tRNA	76				tRNA-Thr(tgt)
+FPBLJBIC_00862	gene	1419	bchE			
+FPBLJBIC_00862	CDS	1419	bchE	1.21.98.3	COG1032	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+FPBLJBIC_00863	gene	246				
+FPBLJBIC_00863	CDS	246				hypothetical protein
+FPBLJBIC_00864	gene	609	prcB_2			
+FPBLJBIC_00864	CDS	609	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+FPBLJBIC_00865	gene	792				
+FPBLJBIC_00865	CDS	792				hypothetical protein
+FPBLJBIC_00866	gene	1443	glnA1			
+FPBLJBIC_00866	CDS	1443	glnA1	6.3.1.2	COG0174	Glutamine synthetase
+FPBLJBIC_00867	gene	381				
+FPBLJBIC_00867	CDS	381				hypothetical protein
+FPBLJBIC_00868	gene	990	yajO			
+FPBLJBIC_00868	CDS	990	yajO	1.1.-.-	COG0667	1-deoxyxylulose-5-phosphate synthase YajO
+FPBLJBIC_00869	gene	822				
+FPBLJBIC_00869	CDS	822				hypothetical protein
+FPBLJBIC_00870	gene	1491	ypwA			
+FPBLJBIC_00870	CDS	1491	ypwA	3.4.17.19	COG2317	Carboxypeptidase 1
+FPBLJBIC_00871	gene	1569	glpK			
+FPBLJBIC_00871	CDS	1569	glpK	2.7.1.30	COG0554	Glycerol kinase
+FPBLJBIC_00872	gene	1314	csbC			
+FPBLJBIC_00872	CDS	1314	csbC			putative metabolite transport protein CsbC
+FPBLJBIC_00873	gene	1392	ydjE			
+FPBLJBIC_00873	CDS	1392	ydjE			Inner membrane metabolite transport protein YdjE
+FPBLJBIC_00874	gene	1794	yveA			
+FPBLJBIC_00874	CDS	1794	yveA		COG0531	Aspartate-proton symporter
+FPBLJBIC_00875	gene	1167	argE			
+FPBLJBIC_00875	CDS	1167	argE	3.5.1.16	COG0624	Acetylornithine deacetylase
+FPBLJBIC_00876	gene	1218				
+FPBLJBIC_00876	CDS	1218				hypothetical protein
+FPBLJBIC_00877	gene	750				
+FPBLJBIC_00877	CDS	750				hypothetical protein
+FPBLJBIC_00878	gene	336				
+FPBLJBIC_00878	CDS	336				hypothetical protein
+FPBLJBIC_00879	gene	744	ecsA			
+FPBLJBIC_00879	CDS	744	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+FPBLJBIC_00880	gene	1488				
+FPBLJBIC_00880	CDS	1488				hypothetical protein
+FPBLJBIC_00881	gene	384				
+FPBLJBIC_00881	CDS	384				hypothetical protein
+FPBLJBIC_00882	gene	207				
+FPBLJBIC_00882	CDS	207				hypothetical protein
+FPBLJBIC_00883	gene	441	ndk			
+FPBLJBIC_00883	CDS	441	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+FPBLJBIC_00884	gene	1095	gph_3			
+FPBLJBIC_00884	CDS	1095	gph_3	3.1.3.18		Phosphoglycolate phosphatase
+FPBLJBIC_00885	gene	450	ndx1			
+FPBLJBIC_00885	CDS	450	ndx1	3.6.1.61	COG0494	Diadenosine hexaphosphate hydrolase
+FPBLJBIC_00886	gene	1776				
+FPBLJBIC_00886	CDS	1776				hypothetical protein
+FPBLJBIC_00887	gene	1326	mshA_4			
+FPBLJBIC_00887	CDS	1326	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPBLJBIC_00888	gene	876				
+FPBLJBIC_00888	CDS	876				hypothetical protein
+FPBLJBIC_00889	gene	2466	ftsH_2			
+FPBLJBIC_00889	CDS	2466	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPBLJBIC_00890	gene	1152				
+FPBLJBIC_00890	CDS	1152				hypothetical protein
+FPBLJBIC_00891	gene	91				
+FPBLJBIC_00891	tRNA	91				tRNA-Met(cat)
+FPBLJBIC_00892	gene	1356				
+FPBLJBIC_00892	CDS	1356				hypothetical protein
+FPBLJBIC_00893	gene	1233				
+FPBLJBIC_00893	CDS	1233				hypothetical protein
+FPBLJBIC_00894	gene	486	gpt			
+FPBLJBIC_00894	CDS	486	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+FPBLJBIC_00895	gene	264				
+FPBLJBIC_00895	CDS	264				hypothetical protein
+FPBLJBIC_00896	gene	831				
+FPBLJBIC_00896	CDS	831				hypothetical protein
+FPBLJBIC_00897	gene	1236				
+FPBLJBIC_00897	CDS	1236				hypothetical protein
+FPBLJBIC_00898	gene	468				
+FPBLJBIC_00898	CDS	468				hypothetical protein
+FPBLJBIC_00899	gene	303				
+FPBLJBIC_00899	CDS	303				hypothetical protein
+FPBLJBIC_00900	gene	405				
+FPBLJBIC_00900	CDS	405				hypothetical protein
+FPBLJBIC_00901	gene	1032				
+FPBLJBIC_00901	CDS	1032				hypothetical protein
+FPBLJBIC_00902	gene	1455				
+FPBLJBIC_00902	CDS	1455				hypothetical protein
+FPBLJBIC_00903	gene	1266	serS			
+FPBLJBIC_00903	CDS	1266	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+FPBLJBIC_00904	gene	252				
+FPBLJBIC_00904	CDS	252				hypothetical protein
+FPBLJBIC_00905	gene	537				
+FPBLJBIC_00905	CDS	537				hypothetical protein
+FPBLJBIC_00906	gene	657	rsmA			
+FPBLJBIC_00906	CDS	657	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+FPBLJBIC_00907	gene	723				
+FPBLJBIC_00907	CDS	723				hypothetical protein
+FPBLJBIC_00908	gene	561	fucA			
+FPBLJBIC_00908	CDS	561	fucA	4.1.2.17	COG0235	L-fuculose phosphate aldolase
+FPBLJBIC_00909	gene	816	pheA			
+FPBLJBIC_00909	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+FPBLJBIC_00910	gene	918	ilvE			
+FPBLJBIC_00910	CDS	918	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+FPBLJBIC_00911	gene	639	rnhB			
+FPBLJBIC_00911	CDS	639	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+FPBLJBIC_00912	gene	420				
+FPBLJBIC_00912	CDS	420				hypothetical protein
+FPBLJBIC_00913	gene	1062				
+FPBLJBIC_00913	CDS	1062		3.4.-.-		putative peptidase
+FPBLJBIC_00914	gene	1818	glmS			
+FPBLJBIC_00914	CDS	1818	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FPBLJBIC_00915	gene	432				
+FPBLJBIC_00915	CDS	432				hypothetical protein
+FPBLJBIC_00916	gene	357				
+FPBLJBIC_00916	CDS	357				hypothetical protein
+FPBLJBIC_00917	gene	171				
+FPBLJBIC_00917	CDS	171				hypothetical protein
+FPBLJBIC_00918	gene	393	efp			
+FPBLJBIC_00918	CDS	393	efp			Elongation factor P
+FPBLJBIC_00919	gene	73				
+FPBLJBIC_00919	tRNA	73				tRNA-Ala(cgc)
+FPBLJBIC_00920	gene	411				
+FPBLJBIC_00920	CDS	411				Protein archease
+FPBLJBIC_00921	gene	267				
+FPBLJBIC_00921	CDS	267				hypothetical protein
+FPBLJBIC_00922	gene	666	deoD_2			
+FPBLJBIC_00922	CDS	666	deoD_2	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+FPBLJBIC_00923	gene	612				
+FPBLJBIC_00923	CDS	612		3.-.-.-		putative protein
+FPBLJBIC_00924	gene	288				
+FPBLJBIC_00924	CDS	288				hypothetical protein
+FPBLJBIC_00925	gene	300				
+FPBLJBIC_00925	CDS	300				hypothetical protein
+FPBLJBIC_00926	gene	1071				
+FPBLJBIC_00926	CDS	1071				hypothetical protein
+FPBLJBIC_00927	gene	966	cobD_1			
+FPBLJBIC_00927	CDS	966	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+FPBLJBIC_00928	gene	888	cobD_2			
+FPBLJBIC_00928	CDS	888	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+FPBLJBIC_00929	gene	552				
+FPBLJBIC_00929	CDS	552				hypothetical protein
+FPBLJBIC_00930	gene	720	cobS			
+FPBLJBIC_00930	CDS	720	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+FPBLJBIC_00931	gene	375				
+FPBLJBIC_00931	CDS	375				hypothetical protein
+FPBLJBIC_00932	gene	1251	proA			
+FPBLJBIC_00932	CDS	1251	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+FPBLJBIC_00933	gene	1233				
+FPBLJBIC_00933	CDS	1233				hypothetical protein
+FPBLJBIC_00934	gene	1113				
+FPBLJBIC_00934	CDS	1113				hypothetical protein
+FPBLJBIC_00935	gene	336				
+FPBLJBIC_00935	CDS	336				hypothetical protein
+FPBLJBIC_00936	gene	1371	lysA			
+FPBLJBIC_00936	CDS	1371	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FPBLJBIC_00937	gene	228				
+FPBLJBIC_00937	CDS	228				hypothetical protein
+FPBLJBIC_00938	gene	1245				
+FPBLJBIC_00938	CDS	1245			COG1055	putative transporter
+FPBLJBIC_00939	gene	828				
+FPBLJBIC_00939	CDS	828				hypothetical protein
+FPBLJBIC_00940	gene	768				
+FPBLJBIC_00940	CDS	768				hypothetical protein
+FPBLJBIC_00941	gene	522	yrdA			
+FPBLJBIC_00941	CDS	522	yrdA		COG0663	Protein YrdA
+FPBLJBIC_00942	gene	1569	tuf_3			
+FPBLJBIC_00942	CDS	1569	tuf_3			Elongation factor Tu
+FPBLJBIC_00943	gene	1014				
+FPBLJBIC_00943	CDS	1014		1.1.1.1		Alcohol dehydrogenase
+FPBLJBIC_00944	gene	1140	aspC			
+FPBLJBIC_00944	CDS	1140	aspC	2.6.1.1	COG0436	Aspartate/prephenate aminotransferase
+FPBLJBIC_00945	gene	522				
+FPBLJBIC_00945	CDS	522				hypothetical protein
+FPBLJBIC_00946	gene	2538				
+FPBLJBIC_00946	CDS	2538				hypothetical protein
+FPBLJBIC_00947	gene	474				
+FPBLJBIC_00947	CDS	474				hypothetical protein
+FPBLJBIC_00948	gene	1245				
+FPBLJBIC_00948	CDS	1245				hypothetical protein
+FPBLJBIC_00949	gene	426				
+FPBLJBIC_00949	CDS	426				hypothetical protein
+FPBLJBIC_00950	gene	1173	mntH			
+FPBLJBIC_00950	CDS	1173	mntH			Divalent metal cation transporter MntH
+FPBLJBIC_00951	gene	498				
+FPBLJBIC_00951	CDS	498				hypothetical protein
+FPBLJBIC_00952	gene	318	cutA			
+FPBLJBIC_00952	CDS	318	cutA		COG1324	Divalent-cation tolerance protein CutA
+FPBLJBIC_00953	gene	171				
+FPBLJBIC_00953	CDS	171				hypothetical protein
+FPBLJBIC_00954	gene	441	nusG			
+FPBLJBIC_00954	CDS	441	nusG			Transcription termination/antitermination protein NusG
+FPBLJBIC_00955	gene	933	pqqE_1			
+FPBLJBIC_00955	CDS	933	pqqE_1	1.21.98.4	COG0535	PqqA peptide cyclase
+FPBLJBIC_00956	gene	645	nnr			
+FPBLJBIC_00956	CDS	645	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FPBLJBIC_00957	gene	813				
+FPBLJBIC_00957	CDS	813				hypothetical protein
+FPBLJBIC_00958	gene	330				
+FPBLJBIC_00958	CDS	330				hypothetical protein
+FPBLJBIC_00959	gene	1053	cysK			
+FPBLJBIC_00959	CDS	1053	cysK	2.5.1.47	COG0031	Cysteine synthase A
+FPBLJBIC_00960	gene	672				
+FPBLJBIC_00960	CDS	672				hypothetical protein
+FPBLJBIC_00961	gene	1359	purB			
+FPBLJBIC_00961	CDS	1359	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+FPBLJBIC_00962	gene	1206	purA			
+FPBLJBIC_00962	CDS	1206	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FPBLJBIC_00963	gene	1326				
+FPBLJBIC_00963	CDS	1326				hypothetical protein
+FPBLJBIC_00964	gene	975	draG			
+FPBLJBIC_00964	CDS	975	draG	3.2.2.24	COG1397	ADP-ribosyl-[dinitrogen reductase] glycohydrolase
+FPBLJBIC_00965	gene	843	RBKS			
+FPBLJBIC_00965	CDS	843	RBKS	2.7.1.15		Ribokinase
+FPBLJBIC_00966	gene	849	yhdN			
+FPBLJBIC_00966	CDS	849	yhdN	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+FPBLJBIC_00967	gene	441				
+FPBLJBIC_00967	CDS	441				hypothetical protein
+FPBLJBIC_00968	gene	444				
+FPBLJBIC_00968	CDS	444				hypothetical protein
+FPBLJBIC_00969	gene	264				
+FPBLJBIC_00969	CDS	264				hypothetical protein
+FPBLJBIC_00970	gene	519	yraA_2			
+FPBLJBIC_00970	CDS	519	yraA_2	3.2.-.-	COG0693	Putative cysteine protease YraA
+FPBLJBIC_00971	gene	918	sfnG			
+FPBLJBIC_00971	CDS	918	sfnG	1.14.14.35		FMNH(2)-dependent dimethylsulfone monooxygenase
+FPBLJBIC_00972	gene	432				
+FPBLJBIC_00972	CDS	432				hypothetical protein
+FPBLJBIC_00973	gene	600				
+FPBLJBIC_00973	CDS	600				hypothetical protein
+FPBLJBIC_00974	gene	744				
+FPBLJBIC_00974	CDS	744				hypothetical protein
+FPBLJBIC_00975	gene	522				
+FPBLJBIC_00975	CDS	522				hypothetical protein
+FPBLJBIC_00976	gene	86				
+FPBLJBIC_00976	tRNA	86				tRNA-Leu(taa)
+FPBLJBIC_00977	gene	114				
+FPBLJBIC_00977	CDS	114				hypothetical protein
+FPBLJBIC_00978	gene	918				
+FPBLJBIC_00978	CDS	918				hypothetical protein
+FPBLJBIC_00979	gene	873				
+FPBLJBIC_00979	CDS	873				hypothetical protein
+FPBLJBIC_00980	gene	564				
+FPBLJBIC_00980	CDS	564				hypothetical protein
+FPBLJBIC_00981	gene	1239				
+FPBLJBIC_00981	CDS	1239				hypothetical protein
+FPBLJBIC_00982	gene	579				
+FPBLJBIC_00982	CDS	579				hypothetical protein
+FPBLJBIC_00983	gene	672				
+FPBLJBIC_00983	CDS	672				hypothetical protein
+FPBLJBIC_00984	gene	324				
+FPBLJBIC_00984	CDS	324				hypothetical protein
+FPBLJBIC_00985	gene	348				
+FPBLJBIC_00985	CDS	348				hypothetical protein
+FPBLJBIC_00986	gene	297				
+FPBLJBIC_00986	CDS	297				hypothetical protein
+FPBLJBIC_00987	gene	729				
+FPBLJBIC_00987	CDS	729				hypothetical protein
+FPBLJBIC_00988	gene	687				
+FPBLJBIC_00988	CDS	687				hypothetical protein
+FPBLJBIC_00989	gene	345				
+FPBLJBIC_00989	CDS	345				hypothetical protein
+FPBLJBIC_00990	gene	1494				
+FPBLJBIC_00990	CDS	1494				hypothetical protein
+FPBLJBIC_00991	gene	228				
+FPBLJBIC_00991	CDS	228				hypothetical protein
+FPBLJBIC_00992	gene	645	xerC_2			
+FPBLJBIC_00992	CDS	645	xerC_2			Tyrosine recombinase XerC
+FPBLJBIC_00993	gene	76				
+FPBLJBIC_00993	tRNA	76				tRNA-Glu(ttc)
+FPBLJBIC_00994	gene	786	egtC			
+FPBLJBIC_00994	CDS	786	egtC	3.5.1.118		Gamma-glutamyl-hercynylcysteine sulfoxide hydrolase
+FPBLJBIC_00995	gene	852	eamA			
+FPBLJBIC_00995	CDS	852	eamA		COG0697	putative amino-acid metabolite efflux pump
+FPBLJBIC_00996	gene	1056				
+FPBLJBIC_00996	CDS	1056				hypothetical protein
+FPBLJBIC_00997	gene	678				
+FPBLJBIC_00997	CDS	678				hypothetical protein
+FPBLJBIC_00998	gene	345				
+FPBLJBIC_00998	CDS	345				hypothetical protein
+FPBLJBIC_00999	gene	420	mhqP			
+FPBLJBIC_00999	CDS	420	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+FPBLJBIC_01000	gene	2616	rhlB			
+FPBLJBIC_01000	CDS	2616	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+FPBLJBIC_01001	gene	756				
+FPBLJBIC_01001	CDS	756				hypothetical protein
+FPBLJBIC_01002	gene	510				
+FPBLJBIC_01002	CDS	510				hypothetical protein
+FPBLJBIC_01003	gene	804	ybeM			
+FPBLJBIC_01003	CDS	804	ybeM	3.5.1.128		Deaminated glutathione amidase
+FPBLJBIC_01004	gene	261				
+FPBLJBIC_01004	CDS	261				hypothetical protein
+FPBLJBIC_01005	gene	639				
+FPBLJBIC_01005	CDS	639				hypothetical protein
+FPBLJBIC_01006	gene	858				
+FPBLJBIC_01006	CDS	858				hypothetical protein
+FPBLJBIC_01007	gene	1227	icd			
+FPBLJBIC_01007	CDS	1227	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+FPBLJBIC_01008	gene	363				
+FPBLJBIC_01008	CDS	363				hypothetical protein
+FPBLJBIC_01009	gene	396				
+FPBLJBIC_01009	CDS	396				hypothetical protein
+FPBLJBIC_01010	gene	516				
+FPBLJBIC_01010	CDS	516				hypothetical protein
+FPBLJBIC_01011	gene	342				
+FPBLJBIC_01011	CDS	342				hypothetical protein
+FPBLJBIC_01012	gene	276				
+FPBLJBIC_01012	CDS	276				hypothetical protein
+FPBLJBIC_01013	gene	663				
+FPBLJBIC_01013	CDS	663				hypothetical protein
+FPBLJBIC_01014	gene	327				
+FPBLJBIC_01014	CDS	327				hypothetical protein
+FPBLJBIC_01015	gene	1842	pckG			
+FPBLJBIC_01015	CDS	1842	pckG	4.1.1.32	COG1274	Phosphoenolpyruvate carboxykinase [GTP]
+FPBLJBIC_01016	gene	417				
+FPBLJBIC_01016	CDS	417				hypothetical protein
+FPBLJBIC_01017	gene	690				
+FPBLJBIC_01017	CDS	690				hypothetical protein
+FPBLJBIC_01018	gene	621	mobA_2			
+FPBLJBIC_01018	CDS	621	mobA_2	2.7.7.77	COG0746	putative molybdenum cofactor guanylyltransferase
+FPBLJBIC_01019	gene	348				
+FPBLJBIC_01019	CDS	348				hypothetical protein
+FPBLJBIC_01020	gene	2058				
+FPBLJBIC_01020	CDS	2058				hypothetical protein
+FPBLJBIC_01021	gene	1236				
+FPBLJBIC_01021	CDS	1236				hypothetical protein
+FPBLJBIC_01022	gene	654	mngB			
+FPBLJBIC_01022	CDS	654	mngB	3.1.3.70		Mannosyl-3-phosphoglycerate phosphatase
+FPBLJBIC_01023	gene	636				
+FPBLJBIC_01023	CDS	636				hypothetical protein
+FPBLJBIC_01024	gene	1068	lysK			
+FPBLJBIC_01024	CDS	1068	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+FPBLJBIC_01025	gene	846	lysX_1			
+FPBLJBIC_01025	CDS	846	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+FPBLJBIC_01026	gene	1176	leuA_2			
+FPBLJBIC_01026	CDS	1176	leuA_2	2.3.3.13		2-isopropylmalate synthase
+FPBLJBIC_01027	gene	411	lrpC			
+FPBLJBIC_01027	CDS	411	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+FPBLJBIC_01028	gene	1170	lysJ			
+FPBLJBIC_01028	CDS	1170	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+FPBLJBIC_01029	gene	801	lysZ			
+FPBLJBIC_01029	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+FPBLJBIC_01030	gene	1056	lysY			
+FPBLJBIC_01030	CDS	1056	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+FPBLJBIC_01031	gene	858	lysX_2			
+FPBLJBIC_01031	CDS	858	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+FPBLJBIC_01032	gene	180				
+FPBLJBIC_01032	CDS	180				hypothetical protein
+FPBLJBIC_01033	gene	1434	argH			
+FPBLJBIC_01033	CDS	1434	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FPBLJBIC_01034	gene	1209	argG			
+FPBLJBIC_01034	CDS	1209	argG	6.3.4.5		Argininosuccinate synthase
+FPBLJBIC_01035	gene	687				
+FPBLJBIC_01035	CDS	687				hypothetical protein
+FPBLJBIC_01036	gene	1668	groL_2			
+FPBLJBIC_01036	CDS	1668	groL_2		COG0459	60 kDa chaperonin
+FPBLJBIC_01037	gene	729				
+FPBLJBIC_01037	CDS	729				hypothetical protein
+FPBLJBIC_01038	gene	1005	metE			
+FPBLJBIC_01038	CDS	1005	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+FPBLJBIC_01039	gene	915				
+FPBLJBIC_01039	CDS	915				hypothetical protein
+FPBLJBIC_01040	gene	3606	rgy			
+FPBLJBIC_01040	CDS	3606	rgy		COG1110	Reverse gyrase
+FPBLJBIC_01041	gene	1635				
+FPBLJBIC_01041	CDS	1635				hypothetical protein
+FPBLJBIC_01042	gene	282				
+FPBLJBIC_01042	CDS	282				hypothetical protein
+FPBLJBIC_01043	gene	2139	ftsH_3			
+FPBLJBIC_01043	CDS	2139	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPBLJBIC_01044	gene	489				
+FPBLJBIC_01044	CDS	489				hypothetical protein
+FPBLJBIC_01045	gene	465				
+FPBLJBIC_01045	CDS	465				hypothetical protein
+FPBLJBIC_01046	gene	1206	fieF			
+FPBLJBIC_01046	CDS	1206	fieF			Ferrous-iron efflux pump FieF
+FPBLJBIC_01047	gene	471				
+FPBLJBIC_01047	CDS	471				hypothetical protein
+FPBLJBIC_01048	gene	489				
+FPBLJBIC_01048	CDS	489				hypothetical protein
+FPBLJBIC_01049	gene	1206				
+FPBLJBIC_01049	CDS	1206				hypothetical protein
+FPBLJBIC_01050	gene	1317	glyA			
+FPBLJBIC_01050	CDS	1317	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+FPBLJBIC_01051	gene	86				
+FPBLJBIC_01051	tRNA	86				tRNA-Ser(gga)
+FPBLJBIC_01052	gene	540	apt			
+FPBLJBIC_01052	CDS	540	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+FPBLJBIC_01053	gene	1002				
+FPBLJBIC_01053	CDS	1002				hypothetical protein
+FPBLJBIC_01054	gene	273	atpH			
+FPBLJBIC_01054	CDS	273	atpH			ATP synthase subunit c
+FPBLJBIC_01055	gene	126				
+FPBLJBIC_01055	CDS	126				hypothetical protein
+FPBLJBIC_01056	gene	606	atpD			
+FPBLJBIC_01056	CDS	606	atpD			V-type ATP synthase subunit D
+FPBLJBIC_01057	gene	1395	ntpB			
+FPBLJBIC_01057	CDS	1395	ntpB			V-type sodium ATPase subunit B
+FPBLJBIC_01058	gene	1731	atpA			
+FPBLJBIC_01058	CDS	1731	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+FPBLJBIC_01059	gene	555	atpE			
+FPBLJBIC_01059	CDS	555	atpE			V-type proton ATPase subunit E
+FPBLJBIC_01060	gene	294				
+FPBLJBIC_01060	CDS	294				hypothetical protein
+FPBLJBIC_01061	gene	360	yabJ			
+FPBLJBIC_01061	CDS	360	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+FPBLJBIC_01062	gene	549	btuR			
+FPBLJBIC_01062	CDS	549	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+FPBLJBIC_01063	gene	987				
+FPBLJBIC_01063	CDS	987				hypothetical protein
+FPBLJBIC_01064	gene	1080	aroC			
+FPBLJBIC_01064	CDS	1080	aroC	4.2.3.5		Chorismate synthase
+FPBLJBIC_01065	gene	1263	aroA			
+FPBLJBIC_01065	CDS	1263	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+FPBLJBIC_01066	gene	798	thrB_2			
+FPBLJBIC_01066	CDS	798	thrB_2	2.7.1.39		Homoserine kinase
+FPBLJBIC_01067	gene	774	aroE			
+FPBLJBIC_01067	CDS	774	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+FPBLJBIC_01068	gene	654	aroD			
+FPBLJBIC_01068	CDS	654	aroD	4.2.1.10		3-dehydroquinate dehydratase
+FPBLJBIC_01069	gene	948	griH			
+FPBLJBIC_01069	CDS	948	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+FPBLJBIC_01070	gene	786	griI			
+FPBLJBIC_01070	CDS	786	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+FPBLJBIC_01071	gene	1065	asd2			
+FPBLJBIC_01071	CDS	1065	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+FPBLJBIC_01072	gene	1194	lysC			
+FPBLJBIC_01072	CDS	1194	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+FPBLJBIC_01073	gene	1446	proS			
+FPBLJBIC_01073	CDS	1446	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FPBLJBIC_01074	gene	267				
+FPBLJBIC_01074	CDS	267				hypothetical protein
+FPBLJBIC_01075	gene	177				
+FPBLJBIC_01075	CDS	177				hypothetical protein
+FPBLJBIC_01076	gene	293				
+FPBLJBIC_01076	misc_RNA	293				RNaseP_arch
+FPBLJBIC_01077	gene	2019	cdhA			
+FPBLJBIC_01077	CDS	2019	cdhA	1.17.5.2		Caffeine dehydrogenase subunit alpha
+FPBLJBIC_01078	gene	459	kdhB			
+FPBLJBIC_01078	CDS	459	kdhB	1.5.99.14		6-hydroxypseudooxynicotine dehydrogenase complex subunit beta
+FPBLJBIC_01079	gene	846	kdhA			
+FPBLJBIC_01079	CDS	846	kdhA	1.5.99.14		6-hydroxypseudooxynicotine dehydrogenase complex subunit alpha
+FPBLJBIC_01080	gene	567				
+FPBLJBIC_01080	CDS	567				hypothetical protein
+FPBLJBIC_01081	gene	843				
+FPBLJBIC_01081	CDS	843				hypothetical protein
+FPBLJBIC_01082	gene	1152	korA_3			
+FPBLJBIC_01082	CDS	1152	korA_3	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+FPBLJBIC_01083	gene	258				
+FPBLJBIC_01083	CDS	258				hypothetical protein
+FPBLJBIC_01084	gene	1593	pqqE_2			
+FPBLJBIC_01084	CDS	1593	pqqE_2	1.21.98.4		PqqA peptide cyclase
+FPBLJBIC_01085	gene	282				
+FPBLJBIC_01085	CDS	282				hypothetical protein
+FPBLJBIC_01086	gene	339				
+FPBLJBIC_01086	CDS	339				hypothetical protein
+FPBLJBIC_01087	gene	1299	tuf_4			
+FPBLJBIC_01087	CDS	1299	tuf_4		COG0050	Elongation factor Tu
+FPBLJBIC_01088	gene	819				
+FPBLJBIC_01088	CDS	819				hypothetical protein
+FPBLJBIC_01089	gene	447				
+FPBLJBIC_01089	CDS	447				hypothetical protein
+FPBLJBIC_01090	gene	1980	pat			
+FPBLJBIC_01090	CDS	1980	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+FPBLJBIC_01091	gene	303				
+FPBLJBIC_01091	CDS	303				hypothetical protein
+FPBLJBIC_01092	gene	153				
+FPBLJBIC_01092	CDS	153				hypothetical protein
+FPBLJBIC_01093	gene	279				
+FPBLJBIC_01093	CDS	279				hypothetical protein
+FPBLJBIC_01094	gene	459				
+FPBLJBIC_01094	CDS	459				hypothetical protein
+FPBLJBIC_01095	gene	76				
+FPBLJBIC_01095	tRNA	76				tRNA-Met(cat)
+FPBLJBIC_01096	gene	390				
+FPBLJBIC_01096	CDS	390				hypothetical protein
+FPBLJBIC_01097	gene	417				
+FPBLJBIC_01097	CDS	417				hypothetical protein
+FPBLJBIC_01098	gene	1041	dinB			
+FPBLJBIC_01098	CDS	1041	dinB	2.7.7.7		DNA polymerase IV
+FPBLJBIC_01099	gene	738				
+FPBLJBIC_01099	CDS	738				hypothetical protein
+FPBLJBIC_01100	gene	552				
+FPBLJBIC_01100	CDS	552				hypothetical protein
+FPBLJBIC_01101	gene	312				
+FPBLJBIC_01101	CDS	312				hypothetical protein
+FPBLJBIC_01102	gene	1170	moeA			
+FPBLJBIC_01102	CDS	1170	moeA	2.10.1.1		Molybdopterin molybdenumtransferase
+FPBLJBIC_01103	gene	1110				
+FPBLJBIC_01103	CDS	1110				hypothetical protein
+FPBLJBIC_01104	gene	1347	ssnA			
+FPBLJBIC_01104	CDS	1347	ssnA	3.-.-.-	COG0402	Putative aminohydrolase SsnA
+FPBLJBIC_01105	gene	76				
+FPBLJBIC_01105	tRNA	76				tRNA-Thr(ggt)
+FPBLJBIC_01106	gene	1266				
+FPBLJBIC_01106	CDS	1266				hypothetical protein
+FPBLJBIC_01107	gene	612				
+FPBLJBIC_01107	CDS	612				hypothetical protein
+FPBLJBIC_01108	gene	573	bsdB			
+FPBLJBIC_01108	CDS	573	bsdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+FPBLJBIC_01109	gene	234				
+FPBLJBIC_01109	CDS	234				hypothetical protein
+FPBLJBIC_01110	gene	669	pyrH			
+FPBLJBIC_01110	CDS	669	pyrH	2.7.4.22	COG0528	Uridylate kinase
+FPBLJBIC_01111	gene	102				
+FPBLJBIC_01111	CDS	102				hypothetical protein
+FPBLJBIC_01112	gene	2229	pucD_3			
+FPBLJBIC_01112	CDS	2229	pucD_3	1.17.1.4	COG1529	putative xanthine dehydrogenase subunit D
+FPBLJBIC_01113	gene	1659	pucI_2			
+FPBLJBIC_01113	CDS	1659	pucI_2		COG1953	putative allantoin permease
+FPBLJBIC_01114	gene	504				
+FPBLJBIC_01114	CDS	504				hypothetical protein
+FPBLJBIC_01115	gene	276				
+FPBLJBIC_01115	CDS	276				hypothetical protein
+FPBLJBIC_01116	gene	501	bcp_3			
+FPBLJBIC_01116	CDS	501	bcp_3	1.11.1.15	COG1225	Peroxiredoxin Bcp
+FPBLJBIC_01117	gene	234				
+FPBLJBIC_01117	CDS	234				hypothetical protein
+FPBLJBIC_01118	gene	1173	ftsH_4			
+FPBLJBIC_01118	CDS	1173	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPBLJBIC_01119	gene	555				
+FPBLJBIC_01119	CDS	555				hypothetical protein
+FPBLJBIC_01120	gene	102				
+FPBLJBIC_01120	CDS	102				hypothetical protein
+FPBLJBIC_01121	gene	642				
+FPBLJBIC_01121	CDS	642				hypothetical protein
+FPBLJBIC_01122	gene	741				
+FPBLJBIC_01122	CDS	741				hypothetical protein
+FPBLJBIC_01123	gene	1227	OLA1			
+FPBLJBIC_01123	CDS	1227	OLA1			Obg-like ATPase 1
+FPBLJBIC_01124	gene	873	sucD			
+FPBLJBIC_01124	CDS	873	sucD	6.2.1.5		Succinate--CoA ligase [ADP-forming] subunit alpha
+FPBLJBIC_01125	gene	1104	sucC			
+FPBLJBIC_01125	CDS	1104	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+FPBLJBIC_01126	gene	354				
+FPBLJBIC_01126	CDS	354				hypothetical protein
+FPBLJBIC_01127	gene	480				
+FPBLJBIC_01127	CDS	480				hypothetical protein
+FPBLJBIC_01128	gene	816	frdB			
+FPBLJBIC_01128	CDS	816	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+FPBLJBIC_01129	gene	1746	frdA			
+FPBLJBIC_01129	CDS	1746	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+FPBLJBIC_01130	gene	447	moaC2			
+FPBLJBIC_01130	CDS	447	moaC2	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase 2
+FPBLJBIC_01131	gene	1548	ywrD			
+FPBLJBIC_01131	CDS	1548	ywrD	2.3.2.2	COG0405	Glutathione hydrolase-like YwrD proenzyme
+FPBLJBIC_01132	gene	510	moaB			
+FPBLJBIC_01132	CDS	510	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+FPBLJBIC_01133	gene	957	ruvB			
+FPBLJBIC_01133	CDS	957	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+FPBLJBIC_01134	gene	909				
+FPBLJBIC_01134	CDS	909				hypothetical protein
+FPBLJBIC_01135	gene	888				
+FPBLJBIC_01135	CDS	888				hypothetical protein
+FPBLJBIC_01136	gene	489	vapC			
+FPBLJBIC_01136	CDS	489	vapC	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+FPBLJBIC_01137	gene	1239	hisS			
+FPBLJBIC_01137	CDS	1239	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+FPBLJBIC_01138	gene	255				
+FPBLJBIC_01138	CDS	255				hypothetical protein
+FPBLJBIC_01139	gene	1143	gltA			
+FPBLJBIC_01139	CDS	1143	gltA	2.3.3.16	COG0372	Citrate synthase
+FPBLJBIC_01140	gene	708	deoD_3			
+FPBLJBIC_01140	CDS	708	deoD_3	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+FPBLJBIC_01141	gene	996				
+FPBLJBIC_01141	CDS	996				hypothetical protein
+FPBLJBIC_01142	gene	2199				
+FPBLJBIC_01142	CDS	2199				hypothetical protein
+FPBLJBIC_01143	gene	558				
+FPBLJBIC_01143	CDS	558				hypothetical protein
+FPBLJBIC_01144	gene	291				
+FPBLJBIC_01144	CDS	291				hypothetical protein
+FPBLJBIC_01145	gene	198				
+FPBLJBIC_01145	CDS	198				hypothetical protein
+FPBLJBIC_01146	gene	765				
+FPBLJBIC_01146	CDS	765				hypothetical protein
+FPBLJBIC_01147	gene	336				
+FPBLJBIC_01147	CDS	336				hypothetical protein
+FPBLJBIC_01148	gene	1146	naiP_3			
+FPBLJBIC_01148	CDS	1146	naiP_3			Putative niacin/nicotinamide transporter NaiP
+FPBLJBIC_01149	gene	609				
+FPBLJBIC_01149	CDS	609				hypothetical protein
+FPBLJBIC_01150	gene	774				
+FPBLJBIC_01150	CDS	774				hypothetical protein
+FPBLJBIC_01151	gene	429				
+FPBLJBIC_01151	CDS	429				hypothetical protein
+FPBLJBIC_01152	gene	270				
+FPBLJBIC_01152	CDS	270				hypothetical protein
+FPBLJBIC_01153	gene	816	fbiB_2			
+FPBLJBIC_01153	CDS	816	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+FPBLJBIC_01154	gene	1032				
+FPBLJBIC_01154	CDS	1032				hypothetical protein
+FPBLJBIC_01155	gene	636	pcm			
+FPBLJBIC_01155	CDS	636	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+FPBLJBIC_01156	gene	375				
+FPBLJBIC_01156	CDS	375				hypothetical protein
+FPBLJBIC_01157	gene	942				
+FPBLJBIC_01157	CDS	942				hypothetical protein
+FPBLJBIC_01158	gene	1158				
+FPBLJBIC_01158	CDS	1158				hypothetical protein
+FPBLJBIC_01159	gene	621				
+FPBLJBIC_01159	CDS	621				hypothetical protein
+FPBLJBIC_01160	gene	996	tsaD			
+FPBLJBIC_01160	CDS	996	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+FPBLJBIC_01161	gene	435				
+FPBLJBIC_01161	CDS	435				hypothetical protein
+FPBLJBIC_01162	gene	1137	murG			
+FPBLJBIC_01162	CDS	1137	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FPBLJBIC_01163	gene	618				
+FPBLJBIC_01163	CDS	618				hypothetical protein
+FPBLJBIC_01164	gene	531				
+FPBLJBIC_01164	CDS	531		3.6.1.15	COG1618	Nucleoside-triphosphatase THEP1
+FPBLJBIC_01165	gene	765				
+FPBLJBIC_01165	CDS	765				hypothetical protein
+FPBLJBIC_01166	gene	525				
+FPBLJBIC_01166	CDS	525				hypothetical protein
+FPBLJBIC_01167	gene	504				
+FPBLJBIC_01167	CDS	504				hypothetical protein
+FPBLJBIC_01168	gene	576				
+FPBLJBIC_01168	CDS	576				hypothetical protein
+FPBLJBIC_01169	gene	2007	topA			
+FPBLJBIC_01169	CDS	2007	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+FPBLJBIC_01170	gene	255				
+FPBLJBIC_01170	CDS	255				hypothetical protein
+FPBLJBIC_01171	gene	285	dcd_3			
+FPBLJBIC_01171	CDS	285	dcd_3	3.5.4.13		dCTP deaminase, dUMP-forming
+FPBLJBIC_01172	gene	399				
+FPBLJBIC_01172	CDS	399				hypothetical protein
+FPBLJBIC_01173	gene	579	rlmE			
+FPBLJBIC_01173	CDS	579	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+FPBLJBIC_01174	gene	1065	msmX_2			
+FPBLJBIC_01174	CDS	1065	msmX_2	7.5.2.-	COG3839	Oligosaccharides import ATP-binding protein MsmX
+FPBLJBIC_01175	gene	1788				
+FPBLJBIC_01175	CDS	1788				hypothetical protein
+FPBLJBIC_01176	gene	1410				
+FPBLJBIC_01176	CDS	1410				hypothetical protein
+FPBLJBIC_01177	gene	819				
+FPBLJBIC_01177	CDS	819		1.-.-.-	COG0667	putative oxidoreductase
+FPBLJBIC_01178	gene	963	porB			
+FPBLJBIC_01178	CDS	963	porB	1.2.7.1	COG1013	Pyruvate synthase subunit PorB
+FPBLJBIC_01179	gene	1206	porA			
+FPBLJBIC_01179	CDS	1206	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+FPBLJBIC_01180	gene	321	porD			
+FPBLJBIC_01180	CDS	321	porD		COG1144	Pyruvate synthase subunit PorD
+FPBLJBIC_01181	gene	558	porC			
+FPBLJBIC_01181	CDS	558	porC	1.2.7.1	COG1014	Pyruvate synthase subunit PorC
+FPBLJBIC_01182	gene	1626	metG			
+FPBLJBIC_01182	CDS	1626	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+FPBLJBIC_01183	gene	483				
+FPBLJBIC_01183	CDS	483				hypothetical protein
+FPBLJBIC_01184	gene	1278				
+FPBLJBIC_01184	CDS	1278		1.1.1.38		NAD-dependent malic enzyme
+FPBLJBIC_01185	gene	2751				
+FPBLJBIC_01185	CDS	2751				hypothetical protein
+FPBLJBIC_01186	gene	1146	oxlT			
+FPBLJBIC_01186	CDS	1146	oxlT			Oxalate:formate antiporter
+FPBLJBIC_01187	gene	1140	lutB			
+FPBLJBIC_01187	CDS	1140	lutB		COG1139	Lactate utilization protein B
+FPBLJBIC_01188	gene	912				
+FPBLJBIC_01188	CDS	912				hypothetical protein
+FPBLJBIC_01189	gene	1284	fadF_1			
+FPBLJBIC_01189	CDS	1284	fadF_1	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+FPBLJBIC_01190	gene	1383				
+FPBLJBIC_01190	CDS	1383		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+FPBLJBIC_01191	gene	315				
+FPBLJBIC_01191	CDS	315				hypothetical protein
+FPBLJBIC_01192	gene	1053				
+FPBLJBIC_01192	CDS	1053				hypothetical protein
+FPBLJBIC_01193	gene	1404				
+FPBLJBIC_01193	CDS	1404		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+FPBLJBIC_01194	gene	237				
+FPBLJBIC_01194	CDS	237				hypothetical protein
+FPBLJBIC_01195	gene	930	mdh			
+FPBLJBIC_01195	CDS	930	mdh	1.1.1.37		Malate dehydrogenase
+FPBLJBIC_01196	gene	1011	hicd_2			
+FPBLJBIC_01196	CDS	1011	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+FPBLJBIC_01197	gene	2625	citB			
+FPBLJBIC_01197	CDS	2625	citB	4.2.1.-	COG1048	Aconitate/2-methylaconitate hydratase
+FPBLJBIC_01198	gene	354				
+FPBLJBIC_01198	CDS	354				hypothetical protein
+FPBLJBIC_01199	gene	870				
+FPBLJBIC_01199	CDS	870				hypothetical protein
+FPBLJBIC_01200	gene	1005	drrA			
+FPBLJBIC_01200	CDS	1005	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+FPBLJBIC_01201	gene	426				
+FPBLJBIC_01201	CDS	426				hypothetical protein
+FPBLJBIC_01202	gene	942	htpX_2			
+FPBLJBIC_01202	CDS	942	htpX_2	3.4.24.-		Protease HtpX
+FPBLJBIC_01203	gene	366				
+FPBLJBIC_01203	CDS	366				hypothetical protein
+FPBLJBIC_01204	gene	1242	trpB_2			
+FPBLJBIC_01204	CDS	1242	trpB_2	4.2.1.20	COG0133	Tryptophan synthase beta chain
+FPBLJBIC_01205	gene	714	trpA			
+FPBLJBIC_01205	CDS	714	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+FPBLJBIC_01206	gene	1017	trpD			
+FPBLJBIC_01206	CDS	1017	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+FPBLJBIC_01207	gene	576	trpF			
+FPBLJBIC_01207	CDS	576	trpF	5.3.1.24		N-(5'-phosphoribosyl)anthranilate isomerase
+FPBLJBIC_01208	gene	1260	trpE			
+FPBLJBIC_01208	CDS	1260	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+FPBLJBIC_01209	gene	582	trpG			
+FPBLJBIC_01209	CDS	582	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+FPBLJBIC_01210	gene	744	trpC			
+FPBLJBIC_01210	CDS	744	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+FPBLJBIC_01211	gene	714				
+FPBLJBIC_01211	CDS	714				hypothetical protein
+FPBLJBIC_01212	gene	333				
+FPBLJBIC_01212	CDS	333				hypothetical protein
+FPBLJBIC_01213	gene	246				
+FPBLJBIC_01213	CDS	246				hypothetical protein
+FPBLJBIC_01214	gene	225				
+FPBLJBIC_01214	CDS	225				hypothetical protein
+FPBLJBIC_01215	gene	306				
+FPBLJBIC_01215	CDS	306				hypothetical protein
+FPBLJBIC_01216	gene	216				
+FPBLJBIC_01216	CDS	216				hypothetical protein
+FPBLJBIC_01217	gene	549				
+FPBLJBIC_01217	CDS	549				hypothetical protein
+FPBLJBIC_01218	gene	489				
+FPBLJBIC_01218	CDS	489				hypothetical protein
+FPBLJBIC_01219	gene	504				
+FPBLJBIC_01219	CDS	504				hypothetical protein
+FPBLJBIC_01220	gene	222				
+FPBLJBIC_01220	CDS	222				hypothetical protein
+FPBLJBIC_01221	gene	600				
+FPBLJBIC_01221	CDS	600				hypothetical protein
+FPBLJBIC_01222	gene	693				
+FPBLJBIC_01222	CDS	693				hypothetical protein
+FPBLJBIC_01223	gene	459				
+FPBLJBIC_01223	CDS	459				hypothetical protein
+FPBLJBIC_01224	gene	753				
+FPBLJBIC_01224	CDS	753				hypothetical protein
+FPBLJBIC_01225	gene	387				
+FPBLJBIC_01225	CDS	387				hypothetical protein
+FPBLJBIC_01226	gene	1956				
+FPBLJBIC_01226	CDS	1956				hypothetical protein
+FPBLJBIC_01227	gene	228				
+FPBLJBIC_01227	CDS	228				hypothetical protein
+FPBLJBIC_01228	gene	1176				
+FPBLJBIC_01228	CDS	1176				hypothetical protein
+FPBLJBIC_01229	gene	783				
+FPBLJBIC_01229	CDS	783				hypothetical protein
+FPBLJBIC_01230	gene	636				
+FPBLJBIC_01230	CDS	636				hypothetical protein
+FPBLJBIC_01231	gene	147				
+FPBLJBIC_01231	CDS	147				hypothetical protein
+FPBLJBIC_01232	gene	1191	xerC_3			
+FPBLJBIC_01232	CDS	1191	xerC_3			Tyrosine recombinase XerC
+FPBLJBIC_01233	gene	76				
+FPBLJBIC_01233	tRNA	76				tRNA-Gly(gcc)
+FPBLJBIC_01234	gene	492				
+FPBLJBIC_01234	CDS	492				hypothetical protein
+FPBLJBIC_01235	gene	162				
+FPBLJBIC_01235	CDS	162				hypothetical protein
+FPBLJBIC_01236	gene	921				
+FPBLJBIC_01236	CDS	921				hypothetical protein
+FPBLJBIC_01237	gene	321				
+FPBLJBIC_01237	CDS	321				hypothetical protein
+FPBLJBIC_01238	gene	981				
+FPBLJBIC_01238	CDS	981				hypothetical protein
+FPBLJBIC_01239	gene	156				
+FPBLJBIC_01239	CDS	156				hypothetical protein
+FPBLJBIC_01240	gene	1998	recF			
+FPBLJBIC_01240	CDS	1998	recF			DNA replication and repair protein RecF
+FPBLJBIC_01241	gene	2322				
+FPBLJBIC_01241	CDS	2322				hypothetical protein
+FPBLJBIC_01242	gene	459				
+FPBLJBIC_01242	CDS	459				hypothetical protein
+FPBLJBIC_01243	gene	123				
+FPBLJBIC_01243	CDS	123				hypothetical protein
+FPBLJBIC_01244	gene	1134	xerC_4			
+FPBLJBIC_01244	CDS	1134	xerC_4			Tyrosine recombinase XerC
+FPBLJBIC_01245	gene	95				
+FPBLJBIC_01245	tRNA	95				tRNA-Ser(cga)
+FPBLJBIC_01246	gene	1302	prpD2			
+FPBLJBIC_01246	CDS	1302	prpD2	4.2.1.79	COG2079	2-methylcitrate dehydratase 2
+FPBLJBIC_01247	gene	867	mmgF			
+FPBLJBIC_01247	CDS	867	mmgF	4.1.3.-	COG2513	2-methylisocitrate lyase
+FPBLJBIC_01248	gene	74				
+FPBLJBIC_01248	tRNA	74				tRNA-Gln(ttg)
+FPBLJBIC_01249	gene	471				
+FPBLJBIC_01249	CDS	471				hypothetical protein
+FPBLJBIC_01250	gene	567				
+FPBLJBIC_01250	CDS	567		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+FPBLJBIC_01251	gene	1014	thrC_3			
+FPBLJBIC_01251	CDS	1014	thrC_3	4.2.3.1	COG0498	Threonine synthase
+FPBLJBIC_01252	gene	1380	nuoN			
+FPBLJBIC_01252	CDS	1380	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+FPBLJBIC_01253	gene	1932	nuoL			
+FPBLJBIC_01253	CDS	1932	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+FPBLJBIC_01254	gene	1476	ndhD1			
+FPBLJBIC_01254	CDS	1476	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+FPBLJBIC_01255	gene	306	ndhE			
+FPBLJBIC_01255	CDS	306	ndhE	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 4L, chloroplastic
+FPBLJBIC_01256	gene	480				
+FPBLJBIC_01256	CDS	480				hypothetical protein
+FPBLJBIC_01257	gene	537	nuoI			
+FPBLJBIC_01257	CDS	537	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+FPBLJBIC_01258	gene	1017	ndhA			
+FPBLJBIC_01258	CDS	1017	ndhA	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+FPBLJBIC_01259	gene	1212	nqo4			
+FPBLJBIC_01259	CDS	1212	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+FPBLJBIC_01260	gene	522	nqo5			
+FPBLJBIC_01260	CDS	522	nqo5	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit 5
+FPBLJBIC_01261	gene	531	ndhK			
+FPBLJBIC_01261	CDS	531	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+FPBLJBIC_01262	gene	378				
+FPBLJBIC_01262	CDS	378				hypothetical protein
+FPBLJBIC_01263	gene	843	nfo			
+FPBLJBIC_01263	CDS	843	nfo	3.1.21.2	COG0648	putative endonuclease 4
+FPBLJBIC_01264	gene	588				
+FPBLJBIC_01264	CDS	588		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+FPBLJBIC_01265	gene	765				
+FPBLJBIC_01265	CDS	765				hypothetical protein
+FPBLJBIC_01266	gene	270				
+FPBLJBIC_01266	CDS	270				hypothetical protein
+FPBLJBIC_01267	gene	741	sufC			
+FPBLJBIC_01267	CDS	741	sufC		COG0396	putative ATP-dependent transporter SufC
+FPBLJBIC_01268	gene	171				
+FPBLJBIC_01268	CDS	171				hypothetical protein
+FPBLJBIC_01269	gene	1635				
+FPBLJBIC_01269	CDS	1635				hypothetical protein
+FPBLJBIC_01270	gene	2499				
+FPBLJBIC_01270	CDS	2499				hypothetical protein
+FPBLJBIC_01271	gene	1434				
+FPBLJBIC_01271	CDS	1434				hypothetical protein
+FPBLJBIC_01272	gene	1044	tdh_2			
+FPBLJBIC_01272	CDS	1044	tdh_2	1.1.1.103		L-threonine 3-dehydrogenase
+FPBLJBIC_01273	gene	789	lsrF			
+FPBLJBIC_01273	CDS	789	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+FPBLJBIC_01274	gene	1497	gbsA			
+FPBLJBIC_01274	CDS	1497	gbsA	1.2.1.8	COG1012	Betaine aldehyde dehydrogenase
+FPBLJBIC_01275	gene	1446	xylB			
+FPBLJBIC_01275	CDS	1446	xylB	2.7.1.17	COG1070	Xylulose kinase
+FPBLJBIC_01276	gene	114				
+FPBLJBIC_01276	CDS	114				hypothetical protein
+FPBLJBIC_01277	gene	219				
+FPBLJBIC_01277	CDS	219				hypothetical protein
+FPBLJBIC_01278	gene	1179	glpA			
+FPBLJBIC_01278	CDS	1179	glpA	1.1.5.3	COG0578	Anaerobic glycerol-3-phosphate dehydrogenase subunit A
+FPBLJBIC_01279	gene	438				
+FPBLJBIC_01279	CDS	438				hypothetical protein
+FPBLJBIC_01280	gene	1413				
+FPBLJBIC_01280	CDS	1413				hypothetical protein
+FPBLJBIC_01281	gene	366				
+FPBLJBIC_01281	CDS	366				hypothetical protein
+FPBLJBIC_01282	gene	897	prs			
+FPBLJBIC_01282	CDS	897	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FPBLJBIC_01283	gene	186				
+FPBLJBIC_01283	CDS	186				hypothetical protein
+FPBLJBIC_01284	gene	1047	btuD_3			
+FPBLJBIC_01284	CDS	1047	btuD_3	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FPBLJBIC_01285	gene	1650				
+FPBLJBIC_01285	CDS	1650				hypothetical protein
+FPBLJBIC_01286	gene	1392				
+FPBLJBIC_01286	CDS	1392				hypothetical protein
+FPBLJBIC_01287	gene	1470				
+FPBLJBIC_01287	CDS	1470		5.1.1.21	COG0160	Isoleucine 2-epimerase
+FPBLJBIC_01288	gene	219				
+FPBLJBIC_01288	CDS	219				hypothetical protein
+FPBLJBIC_01289	gene	285	tatA			
+FPBLJBIC_01289	CDS	285	tatA			Sec-independent protein translocase protein TatA
+FPBLJBIC_01290	gene	327				
+FPBLJBIC_01290	CDS	327				hypothetical protein
+FPBLJBIC_01291	gene	819	tatC			
+FPBLJBIC_01291	CDS	819	tatC		COG0805	Sec-independent protein translocase protein TatC
+FPBLJBIC_01292	gene	231				
+FPBLJBIC_01292	CDS	231				hypothetical protein
+FPBLJBIC_01293	gene	555				
+FPBLJBIC_01293	CDS	555				hypothetical protein
+FPBLJBIC_01294	gene	1179				
+FPBLJBIC_01294	CDS	1179				hypothetical protein
+FPBLJBIC_01295	gene	1626				
+FPBLJBIC_01295	CDS	1626				hypothetical protein
+FPBLJBIC_01296	gene	1863				
+FPBLJBIC_01296	CDS	1863				hypothetical protein
+FPBLJBIC_01297	gene	90				
+FPBLJBIC_01297	tRNA	90				tRNA-Gln(ctg)
+FPBLJBIC_01298	gene	2025	fadF_2			
+FPBLJBIC_01298	CDS	2025	fadF_2	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+FPBLJBIC_01299	gene	888	fixB			
+FPBLJBIC_01299	CDS	888	fixB		COG2025	Protein FixB
+FPBLJBIC_01300	gene	750	fixA			
+FPBLJBIC_01300	CDS	750	fixA			Protein FixA
+FPBLJBIC_01301	gene	1569	glcA			
+FPBLJBIC_01301	CDS	1569	glcA		COG1620	Glycolate permease GlcA
+FPBLJBIC_01302	gene	408				
+FPBLJBIC_01302	CDS	408				hypothetical protein
+FPBLJBIC_01303	gene	1005	carC_1			
+FPBLJBIC_01303	CDS	1005	carC_1	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FPBLJBIC_01304	gene	1113	carC_2			
+FPBLJBIC_01304	CDS	1113	carC_2	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+FPBLJBIC_01305	gene	1188	fadA			
+FPBLJBIC_01305	CDS	1188	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+FPBLJBIC_01306	gene	1950	fadJ			
+FPBLJBIC_01306	CDS	1950	fadJ	5.1.2.3		Fatty acid oxidation complex subunit alpha
+FPBLJBIC_01307	gene	324				
+FPBLJBIC_01307	CDS	324				hypothetical protein
+FPBLJBIC_01308	gene	1632				
+FPBLJBIC_01308	CDS	1632		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+FPBLJBIC_01309	gene	75				
+FPBLJBIC_01309	tRNA	75				tRNA-Val(gac)
+FPBLJBIC_01310	gene	168				
+FPBLJBIC_01310	CDS	168				hypothetical protein
+FPBLJBIC_01311	gene	1005	fgd1			
+FPBLJBIC_01311	CDS	1005	fgd1	1.1.98.2	COG2141	F420-dependent glucose-6-phosphate dehydrogenase 1
+FPBLJBIC_01312	gene	1269				
+FPBLJBIC_01312	CDS	1269				hypothetical protein
+FPBLJBIC_01313	gene	228				
+FPBLJBIC_01313	CDS	228				hypothetical protein

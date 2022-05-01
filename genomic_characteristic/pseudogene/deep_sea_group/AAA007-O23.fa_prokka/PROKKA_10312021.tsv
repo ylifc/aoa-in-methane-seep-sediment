@@ -1,0 +1,2755 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BGDFGHOM_00001	gene	186				
+BGDFGHOM_00001	CDS	186				hypothetical protein
+BGDFGHOM_00002	gene	837				
+BGDFGHOM_00002	CDS	837				hypothetical protein
+BGDFGHOM_00003	gene	882				
+BGDFGHOM_00003	CDS	882				hypothetical protein
+BGDFGHOM_00004	gene	1059				
+BGDFGHOM_00004	CDS	1059				hypothetical protein
+BGDFGHOM_00005	gene	444				
+BGDFGHOM_00005	CDS	444				hypothetical protein
+BGDFGHOM_00006	gene	645				
+BGDFGHOM_00006	CDS	645				hypothetical protein
+BGDFGHOM_00007	gene	561				
+BGDFGHOM_00007	CDS	561				hypothetical protein
+BGDFGHOM_00008	gene	360				
+BGDFGHOM_00008	CDS	360				hypothetical protein
+BGDFGHOM_00009	gene	1524				
+BGDFGHOM_00009	CDS	1524				hypothetical protein
+BGDFGHOM_00010	gene	168				
+BGDFGHOM_00010	CDS	168				hypothetical protein
+BGDFGHOM_00011	gene	888				
+BGDFGHOM_00011	CDS	888				hypothetical protein
+BGDFGHOM_00012	gene	76				
+BGDFGHOM_00012	tRNA	76				tRNA-Glu(ctc)
+BGDFGHOM_00013	gene	684				
+BGDFGHOM_00013	CDS	684				hypothetical protein
+BGDFGHOM_00014	gene	573				
+BGDFGHOM_00014	CDS	573				hypothetical protein
+BGDFGHOM_00015	gene	516				
+BGDFGHOM_00015	CDS	516				hypothetical protein
+BGDFGHOM_00016	gene	267				
+BGDFGHOM_00016	CDS	267				hypothetical protein
+BGDFGHOM_00017	gene	74				
+BGDFGHOM_00017	tRNA	74				tRNA-Gly(gcc)
+BGDFGHOM_00018	gene	432				
+BGDFGHOM_00018	CDS	432				hypothetical protein
+BGDFGHOM_00019	gene	1323	magA			
+BGDFGHOM_00019	CDS	1323	magA		COG0475	Iron transporter MagA
+BGDFGHOM_00020	gene	108				
+BGDFGHOM_00020	CDS	108				hypothetical protein
+BGDFGHOM_00021	gene	639				
+BGDFGHOM_00021	CDS	639				hypothetical protein
+BGDFGHOM_00022	gene	2031				
+BGDFGHOM_00022	CDS	2031				hypothetical protein
+BGDFGHOM_00023	gene	954				
+BGDFGHOM_00023	CDS	954				hypothetical protein
+BGDFGHOM_00024	gene	816	nadK_1			
+BGDFGHOM_00024	CDS	816	nadK_1	2.7.1.23		NAD kinase
+BGDFGHOM_00025	gene	480				
+BGDFGHOM_00025	CDS	480				hypothetical protein
+BGDFGHOM_00026	gene	687				
+BGDFGHOM_00026	CDS	687				hypothetical protein
+BGDFGHOM_00027	gene	378				
+BGDFGHOM_00027	CDS	378				hypothetical protein
+BGDFGHOM_00028	gene	246				
+BGDFGHOM_00028	CDS	246				hypothetical protein
+BGDFGHOM_00029	gene	198				
+BGDFGHOM_00029	CDS	198				hypothetical protein
+BGDFGHOM_00030	gene	819	rph_1			
+BGDFGHOM_00030	CDS	819	rph_1	2.7.7.56		Ribonuclease PH
+BGDFGHOM_00031	gene	738	rph_2			
+BGDFGHOM_00031	CDS	738	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+BGDFGHOM_00032	gene	687				
+BGDFGHOM_00032	CDS	687				hypothetical protein
+BGDFGHOM_00033	gene	669				
+BGDFGHOM_00033	CDS	669				hypothetical protein
+BGDFGHOM_00034	gene	690				
+BGDFGHOM_00034	CDS	690				hypothetical protein
+BGDFGHOM_00035	gene	630				
+BGDFGHOM_00035	CDS	630				hypothetical protein
+BGDFGHOM_00036	gene	321				
+BGDFGHOM_00036	CDS	321				hypothetical protein
+BGDFGHOM_00037	gene	591				
+BGDFGHOM_00037	CDS	591				hypothetical protein
+BGDFGHOM_00038	gene	465	rpsI			
+BGDFGHOM_00038	CDS	465	rpsI		COG0103	30S ribosomal protein S9
+BGDFGHOM_00039	gene	390				
+BGDFGHOM_00039	CDS	390				hypothetical protein
+BGDFGHOM_00040	gene	483	DmdB			
+BGDFGHOM_00040	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+BGDFGHOM_00041	gene	1272	dmdA			
+BGDFGHOM_00041	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+BGDFGHOM_00042	gene	762	fbiB_1			
+BGDFGHOM_00042	CDS	762	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+BGDFGHOM_00043	gene	594				
+BGDFGHOM_00043	CDS	594				hypothetical protein
+BGDFGHOM_00044	gene	555				
+BGDFGHOM_00044	CDS	555				hypothetical protein
+BGDFGHOM_00045	gene	435				
+BGDFGHOM_00045	CDS	435				hypothetical protein
+BGDFGHOM_00046	gene	966				
+BGDFGHOM_00046	CDS	966				hypothetical protein
+BGDFGHOM_00047	gene	1908				
+BGDFGHOM_00047	CDS	1908				hypothetical protein
+BGDFGHOM_00048	gene	159				
+BGDFGHOM_00048	CDS	159				hypothetical protein
+BGDFGHOM_00049	gene	261				
+BGDFGHOM_00049	CDS	261				hypothetical protein
+BGDFGHOM_00050	gene	1293	lhgD			
+BGDFGHOM_00050	CDS	1293	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+BGDFGHOM_00051	gene	420				
+BGDFGHOM_00051	CDS	420				hypothetical protein
+BGDFGHOM_00052	gene	1146				
+BGDFGHOM_00052	CDS	1146				IS1595 family transposase ISCco3
+BGDFGHOM_00053	gene	888				
+BGDFGHOM_00053	CDS	888				hypothetical protein
+BGDFGHOM_00054	gene	453				
+BGDFGHOM_00054	CDS	453				hypothetical protein
+BGDFGHOM_00055	gene	1014	truB			
+BGDFGHOM_00055	CDS	1014	truB	5.4.99.25		tRNA pseudouridine synthase B
+BGDFGHOM_00056	gene	561	cmk			
+BGDFGHOM_00056	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+BGDFGHOM_00057	gene	642				
+BGDFGHOM_00057	CDS	642				hypothetical protein
+BGDFGHOM_00058	gene	591				
+BGDFGHOM_00058	CDS	591				hypothetical protein
+BGDFGHOM_00059	gene	1434	secY			
+BGDFGHOM_00059	CDS	1434	secY			Protein translocase subunit SecY
+BGDFGHOM_00060	gene	492				
+BGDFGHOM_00060	CDS	492				hypothetical protein
+BGDFGHOM_00061	gene	468				
+BGDFGHOM_00061	CDS	468				hypothetical protein
+BGDFGHOM_00062	gene	696				
+BGDFGHOM_00062	CDS	696				hypothetical protein
+BGDFGHOM_00063	gene	423				
+BGDFGHOM_00063	CDS	423				hypothetical protein
+BGDFGHOM_00064	gene	912	argF			
+BGDFGHOM_00064	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+BGDFGHOM_00065	gene	1515	ftsY			
+BGDFGHOM_00065	CDS	1515	ftsY			Signal recognition particle receptor FtsY
+BGDFGHOM_00066	gene	420	pfdA			
+BGDFGHOM_00066	CDS	420	pfdA			Prefoldin subunit alpha
+BGDFGHOM_00067	gene	621	sodA			
+BGDFGHOM_00067	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+BGDFGHOM_00068	gene	2070				
+BGDFGHOM_00068	CDS	2070				hypothetical protein
+BGDFGHOM_00069	gene	1596	pckA			
+BGDFGHOM_00069	CDS	1596	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+BGDFGHOM_00070	gene	405				
+BGDFGHOM_00070	CDS	405				hypothetical protein
+BGDFGHOM_00071	gene	462				
+BGDFGHOM_00071	CDS	462				hypothetical protein
+BGDFGHOM_00072	gene	294	ogt			
+BGDFGHOM_00072	CDS	294	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+BGDFGHOM_00073	gene	777				
+BGDFGHOM_00073	CDS	777				hypothetical protein
+BGDFGHOM_00074	gene	180				
+BGDFGHOM_00074	CDS	180				hypothetical protein
+BGDFGHOM_00075	gene	603				
+BGDFGHOM_00075	CDS	603				hypothetical protein
+BGDFGHOM_00076	gene	483	rplK			
+BGDFGHOM_00076	CDS	483	rplK		COG0080	50S ribosomal protein L11
+BGDFGHOM_00077	gene	462	lrp_1			
+BGDFGHOM_00077	CDS	462	lrp_1		COG1522	Leucine-responsive regulatory protein
+BGDFGHOM_00078	gene	654	rplA			
+BGDFGHOM_00078	CDS	654	rplA		COG0081	50S ribosomal protein L1
+BGDFGHOM_00079	gene	975				
+BGDFGHOM_00079	CDS	975				hypothetical protein
+BGDFGHOM_00080	gene	108				
+BGDFGHOM_00080	CDS	108				hypothetical protein
+BGDFGHOM_00081	gene	873				
+BGDFGHOM_00081	CDS	873				hypothetical protein
+BGDFGHOM_00082	gene	666	tal			
+BGDFGHOM_00082	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+BGDFGHOM_00083	gene	975	aptB			
+BGDFGHOM_00083	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+BGDFGHOM_00084	gene	1668	dxs			
+BGDFGHOM_00084	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+BGDFGHOM_00085	gene	384				
+BGDFGHOM_00085	CDS	384				hypothetical protein
+BGDFGHOM_00086	gene	1230				
+BGDFGHOM_00086	CDS	1230				hypothetical protein
+BGDFGHOM_00087	gene	612				
+BGDFGHOM_00087	CDS	612				hypothetical protein
+BGDFGHOM_00088	gene	112				
+BGDFGHOM_00088	rRNA	112				5S ribosomal RNA
+BGDFGHOM_00089	gene	1776	btuD			
+BGDFGHOM_00089	CDS	1776	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BGDFGHOM_00090	gene	837				
+BGDFGHOM_00090	CDS	837				hypothetical protein
+BGDFGHOM_00091	gene	225				
+BGDFGHOM_00091	CDS	225				hypothetical protein
+BGDFGHOM_00092	gene	480	ypeA			
+BGDFGHOM_00092	CDS	480	ypeA	2.3.1.-		Acetyltransferase YpeA
+BGDFGHOM_00093	gene	1086				
+BGDFGHOM_00093	CDS	1086				hypothetical protein
+BGDFGHOM_00094	gene	1083				
+BGDFGHOM_00094	CDS	1083				hypothetical protein
+BGDFGHOM_00095	gene	609	pyrE			
+BGDFGHOM_00095	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+BGDFGHOM_00096	gene	564				
+BGDFGHOM_00096	CDS	564				hypothetical protein
+BGDFGHOM_00097	gene	74				
+BGDFGHOM_00097	tRNA	74				tRNA-Met(cat)
+BGDFGHOM_00098	gene	636				
+BGDFGHOM_00098	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+BGDFGHOM_00099	gene	76				
+BGDFGHOM_00099	tRNA	76				tRNA-Glu(ttc)
+BGDFGHOM_00100	gene	861				
+BGDFGHOM_00100	CDS	861				hypothetical protein
+BGDFGHOM_00101	gene	1305	nuoN			
+BGDFGHOM_00101	CDS	1305	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+BGDFGHOM_00102	gene	225				
+BGDFGHOM_00102	CDS	225				hypothetical protein
+BGDFGHOM_00103	gene	2073	ndhB			
+BGDFGHOM_00103	CDS	2073	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+BGDFGHOM_00104	gene	1551	mrpA			
+BGDFGHOM_00104	CDS	1551	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+BGDFGHOM_00105	gene	306	nuoK			
+BGDFGHOM_00105	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+BGDFGHOM_00106	gene	516				
+BGDFGHOM_00106	CDS	516				hypothetical protein
+BGDFGHOM_00107	gene	498	nuoI			
+BGDFGHOM_00107	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+BGDFGHOM_00108	gene	1311	ndhA			
+BGDFGHOM_00108	CDS	1311	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+BGDFGHOM_00109	gene	1155	nqo4			
+BGDFGHOM_00109	CDS	1155	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+BGDFGHOM_00110	gene	543	nuoC			
+BGDFGHOM_00110	CDS	543	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+BGDFGHOM_00111	gene	558	ndhK			
+BGDFGHOM_00111	CDS	558	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+BGDFGHOM_00112	gene	375	ndhC			
+BGDFGHOM_00112	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+BGDFGHOM_00113	gene	474	bcp_1			
+BGDFGHOM_00113	CDS	474	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+BGDFGHOM_00114	gene	513				
+BGDFGHOM_00114	CDS	513				hypothetical protein
+BGDFGHOM_00115	gene	1491	cfiB			
+BGDFGHOM_00115	CDS	1491	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+BGDFGHOM_00116	gene	1548	pccB			
+BGDFGHOM_00116	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+BGDFGHOM_00117	gene	321				
+BGDFGHOM_00117	CDS	321				hypothetical protein
+BGDFGHOM_00118	gene	1161	ruvB			
+BGDFGHOM_00118	CDS	1161	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+BGDFGHOM_00119	gene	1116				
+BGDFGHOM_00119	CDS	1116				hypothetical protein
+BGDFGHOM_00120	gene	801	cysQ			
+BGDFGHOM_00120	CDS	801	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+BGDFGHOM_00121	gene	78				
+BGDFGHOM_00121	tRNA	78				tRNA-Asp(gtc)
+BGDFGHOM_00122	gene	77				
+BGDFGHOM_00122	tRNA	77				tRNA-Lys(ttt)
+BGDFGHOM_00123	gene	171				
+BGDFGHOM_00123	CDS	171				hypothetical protein
+BGDFGHOM_00124	gene	918	ilvE_1			
+BGDFGHOM_00124	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BGDFGHOM_00125	gene	1416				
+BGDFGHOM_00125	CDS	1416				hypothetical protein
+BGDFGHOM_00126	gene	77				
+BGDFGHOM_00126	tRNA	77				tRNA-Val(tac)
+BGDFGHOM_00127	gene	492	cysC			
+BGDFGHOM_00127	CDS	492	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+BGDFGHOM_00128	gene	882				
+BGDFGHOM_00128	CDS	882				hypothetical protein
+BGDFGHOM_00129	gene	453				
+BGDFGHOM_00129	CDS	453				hypothetical protein
+BGDFGHOM_00130	gene	357				
+BGDFGHOM_00130	CDS	357				hypothetical protein
+BGDFGHOM_00131	gene	2103	FCS1			
+BGDFGHOM_00131	CDS	2103	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+BGDFGHOM_00132	gene	1527	abfD			
+BGDFGHOM_00132	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+BGDFGHOM_00133	gene	726				
+BGDFGHOM_00133	CDS	726				hypothetical protein
+BGDFGHOM_00134	gene	771				
+BGDFGHOM_00134	CDS	771				hypothetical protein
+BGDFGHOM_00135	gene	333	trxA			
+BGDFGHOM_00135	CDS	333	trxA			Thioredoxin 1
+BGDFGHOM_00136	gene	531				
+BGDFGHOM_00136	CDS	531				hypothetical protein
+BGDFGHOM_00137	gene	360				
+BGDFGHOM_00137	CDS	360				hypothetical protein
+BGDFGHOM_00138	gene	75				
+BGDFGHOM_00138	tRNA	75				tRNA-Ala(cgc)
+BGDFGHOM_00139	gene	1398				
+BGDFGHOM_00139	CDS	1398		3.5.2.-		D-hydantoinase
+BGDFGHOM_00140	gene	675	rpiA			
+BGDFGHOM_00140	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+BGDFGHOM_00141	gene	861				
+BGDFGHOM_00141	CDS	861				hypothetical protein
+BGDFGHOM_00142	gene	189				
+BGDFGHOM_00142	CDS	189				hypothetical protein
+BGDFGHOM_00143	gene	231				
+BGDFGHOM_00143	CDS	231				hypothetical protein
+BGDFGHOM_00144	gene	807	mftE			
+BGDFGHOM_00144	CDS	807	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+BGDFGHOM_00145	gene	843	purU			
+BGDFGHOM_00145	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+BGDFGHOM_00146	gene	88				
+BGDFGHOM_00146	tRNA	88				tRNA-Leu(tag)
+BGDFGHOM_00147	gene	1359	algC_1			
+BGDFGHOM_00147	CDS	1359	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+BGDFGHOM_00148	gene	1839				
+BGDFGHOM_00148	CDS	1839				hypothetical protein
+BGDFGHOM_00149	gene	441				
+BGDFGHOM_00149	CDS	441				hypothetical protein
+BGDFGHOM_00150	gene	2316	valS_1			
+BGDFGHOM_00150	CDS	2316	valS_1	6.1.1.9		Valine--tRNA ligase
+BGDFGHOM_00151	gene	282	phhB			
+BGDFGHOM_00151	CDS	282	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+BGDFGHOM_00152	gene	756	asnB_1			
+BGDFGHOM_00152	CDS	756	asnB_1	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+BGDFGHOM_00153	gene	1362	purB			
+BGDFGHOM_00153	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+BGDFGHOM_00154	gene	648	fabG			
+BGDFGHOM_00154	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BGDFGHOM_00155	gene	1449	rtcB			
+BGDFGHOM_00155	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+BGDFGHOM_00156	gene	414				
+BGDFGHOM_00156	CDS	414				hypothetical protein
+BGDFGHOM_00157	gene	312				
+BGDFGHOM_00157	CDS	312				hypothetical protein
+BGDFGHOM_00158	gene	564				
+BGDFGHOM_00158	CDS	564				hypothetical protein
+BGDFGHOM_00159	gene	594				
+BGDFGHOM_00159	CDS	594				hypothetical protein
+BGDFGHOM_00160	gene	264				
+BGDFGHOM_00160	CDS	264				hypothetical protein
+BGDFGHOM_00161	gene	240				
+BGDFGHOM_00161	CDS	240				hypothetical protein
+BGDFGHOM_00162	gene	906	thiL			
+BGDFGHOM_00162	CDS	906	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+BGDFGHOM_00163	gene	1299	algC_2			
+BGDFGHOM_00163	CDS	1299	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+BGDFGHOM_00164	gene	74				
+BGDFGHOM_00164	tRNA	74				tRNA-Thr(cgt)
+BGDFGHOM_00165	gene	174				
+BGDFGHOM_00165	CDS	174				hypothetical protein
+BGDFGHOM_00166	gene	207				
+BGDFGHOM_00166	CDS	207				hypothetical protein
+BGDFGHOM_00167	gene	282				
+BGDFGHOM_00167	CDS	282				hypothetical protein
+BGDFGHOM_00168	gene	588				
+BGDFGHOM_00168	CDS	588				hypothetical protein
+BGDFGHOM_00169	gene	201				
+BGDFGHOM_00169	CDS	201				hypothetical protein
+BGDFGHOM_00170	gene	1755				
+BGDFGHOM_00170	CDS	1755				hypothetical protein
+BGDFGHOM_00171	gene	75				
+BGDFGHOM_00171	tRNA	75				tRNA-Cys(gca)
+BGDFGHOM_00172	gene	222				
+BGDFGHOM_00172	CDS	222				hypothetical protein
+BGDFGHOM_00173	gene	756	dtd3			
+BGDFGHOM_00173	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+BGDFGHOM_00174	gene	432				
+BGDFGHOM_00174	CDS	432				hypothetical protein
+BGDFGHOM_00175	gene	777				
+BGDFGHOM_00175	CDS	777				hypothetical protein
+BGDFGHOM_00176	gene	519				
+BGDFGHOM_00176	CDS	519				hypothetical protein
+BGDFGHOM_00177	gene	423				
+BGDFGHOM_00177	CDS	423		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+BGDFGHOM_00178	gene	180	ywlC			
+BGDFGHOM_00178	CDS	180	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+BGDFGHOM_00179	gene	288				
+BGDFGHOM_00179	CDS	288				hypothetical protein
+BGDFGHOM_00180	gene	639				
+BGDFGHOM_00180	CDS	639				hypothetical protein
+BGDFGHOM_00181	gene	210				
+BGDFGHOM_00181	CDS	210				hypothetical protein
+BGDFGHOM_00182	gene	279				
+BGDFGHOM_00182	CDS	279				hypothetical protein
+BGDFGHOM_00183	gene	471				
+BGDFGHOM_00183	CDS	471				hypothetical protein
+BGDFGHOM_00184	gene	1005	purA			
+BGDFGHOM_00184	CDS	1005	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+BGDFGHOM_00185	gene	666				
+BGDFGHOM_00185	CDS	666				hypothetical protein
+BGDFGHOM_00186	gene	741	pyrF			
+BGDFGHOM_00186	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+BGDFGHOM_00187	gene	420				
+BGDFGHOM_00187	CDS	420				hypothetical protein
+BGDFGHOM_00188	gene	762				
+BGDFGHOM_00188	CDS	762		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+BGDFGHOM_00189	gene	1140				
+BGDFGHOM_00189	CDS	1140				hypothetical protein
+BGDFGHOM_00190	gene	501				
+BGDFGHOM_00190	CDS	501				hypothetical protein
+BGDFGHOM_00191	gene	153				
+BGDFGHOM_00191	CDS	153				hypothetical protein
+BGDFGHOM_00192	gene	423				
+BGDFGHOM_00192	CDS	423				hypothetical protein
+BGDFGHOM_00193	gene	294				
+BGDFGHOM_00193	CDS	294				hypothetical protein
+BGDFGHOM_00194	gene	312				
+BGDFGHOM_00194	CDS	312				hypothetical protein
+BGDFGHOM_00195	gene	570				
+BGDFGHOM_00195	CDS	570				hypothetical protein
+BGDFGHOM_00196	gene	1842	TOP6B			
+BGDFGHOM_00196	CDS	1842	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+BGDFGHOM_00197	gene	1068	TOP6A			
+BGDFGHOM_00197	CDS	1068	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+BGDFGHOM_00198	gene	1056	rlmN			
+BGDFGHOM_00198	CDS	1056	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+BGDFGHOM_00199	gene	462				
+BGDFGHOM_00199	CDS	462				hypothetical protein
+BGDFGHOM_00200	gene	369				
+BGDFGHOM_00200	CDS	369				hypothetical protein
+BGDFGHOM_00201	gene	432				
+BGDFGHOM_00201	CDS	432				hypothetical protein
+BGDFGHOM_00202	gene	243				
+BGDFGHOM_00202	CDS	243				hypothetical protein
+BGDFGHOM_00203	gene	807	mtnP			
+BGDFGHOM_00203	CDS	807	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+BGDFGHOM_00204	gene	513	apt			
+BGDFGHOM_00204	CDS	513	apt	2.4.2.7		Adenine phosphoribosyltransferase
+BGDFGHOM_00205	gene	2145				
+BGDFGHOM_00205	CDS	2145				hypothetical protein
+BGDFGHOM_00206	gene	2079				
+BGDFGHOM_00206	CDS	2079				hypothetical protein
+BGDFGHOM_00207	gene	348				
+BGDFGHOM_00207	CDS	348				hypothetical protein
+BGDFGHOM_00208	gene	594	rlmE			
+BGDFGHOM_00208	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+BGDFGHOM_00209	gene	993	drrA			
+BGDFGHOM_00209	CDS	993	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+BGDFGHOM_00210	gene	774				
+BGDFGHOM_00210	CDS	774				hypothetical protein
+BGDFGHOM_00211	gene	3570				
+BGDFGHOM_00211	CDS	3570				hypothetical protein
+BGDFGHOM_00212	gene	630				
+BGDFGHOM_00212	CDS	630				hypothetical protein
+BGDFGHOM_00213	gene	987				
+BGDFGHOM_00213	CDS	987				hypothetical protein
+BGDFGHOM_00214	gene	681	glpF			
+BGDFGHOM_00214	CDS	681	glpF		COG0580	Glycerol uptake facilitator protein
+BGDFGHOM_00215	gene	1281	hemL_1			
+BGDFGHOM_00215	CDS	1281	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+BGDFGHOM_00216	gene	936	hemC			
+BGDFGHOM_00216	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+BGDFGHOM_00217	gene	747	sumT			
+BGDFGHOM_00217	CDS	747	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+BGDFGHOM_00218	gene	810				
+BGDFGHOM_00218	CDS	810				hypothetical protein
+BGDFGHOM_00219	gene	1401				
+BGDFGHOM_00219	CDS	1401				hypothetical protein
+BGDFGHOM_00220	gene	1401				
+BGDFGHOM_00220	CDS	1401				hypothetical protein
+BGDFGHOM_00221	gene	1248	csd			
+BGDFGHOM_00221	CDS	1248	csd	2.8.1.7		putative cysteine desulfurase
+BGDFGHOM_00222	gene	450	sufU			
+BGDFGHOM_00222	CDS	450	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+BGDFGHOM_00223	gene	336				
+BGDFGHOM_00223	CDS	336				hypothetical protein
+BGDFGHOM_00224	gene	1212	pgk			
+BGDFGHOM_00224	CDS	1212	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+BGDFGHOM_00225	gene	660				
+BGDFGHOM_00225	CDS	660				hypothetical protein
+BGDFGHOM_00226	gene	183				
+BGDFGHOM_00226	CDS	183				hypothetical protein
+BGDFGHOM_00227	gene	135				
+BGDFGHOM_00227	CDS	135				hypothetical protein
+BGDFGHOM_00228	gene	459	msrA			
+BGDFGHOM_00228	CDS	459	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+BGDFGHOM_00229	gene	291				
+BGDFGHOM_00229	CDS	291				hypothetical protein
+BGDFGHOM_00230	gene	621				
+BGDFGHOM_00230	CDS	621				hypothetical protein
+BGDFGHOM_00231	gene	312				
+BGDFGHOM_00231	CDS	312				hypothetical protein
+BGDFGHOM_00232	gene	987	hemB			
+BGDFGHOM_00232	CDS	987	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+BGDFGHOM_00233	gene	1254	hemA_1			
+BGDFGHOM_00233	CDS	1254	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BGDFGHOM_00234	gene	654	cysG			
+BGDFGHOM_00234	CDS	654	cysG		COG0007	Siroheme synthase
+BGDFGHOM_00235	gene	1014				
+BGDFGHOM_00235	CDS	1014				hypothetical protein
+BGDFGHOM_00236	gene	384				
+BGDFGHOM_00236	CDS	384				hypothetical protein
+BGDFGHOM_00237	gene	1002	iolS			
+BGDFGHOM_00237	CDS	1002	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+BGDFGHOM_00238	gene	549				
+BGDFGHOM_00238	CDS	549				hypothetical protein
+BGDFGHOM_00239	gene	606				
+BGDFGHOM_00239	CDS	606			COG3253	putative protein/MSMEI_2713
+BGDFGHOM_00240	gene	774	sufC			
+BGDFGHOM_00240	CDS	774	sufC		COG0396	Vegetative protein 296
+BGDFGHOM_00241	gene	960				
+BGDFGHOM_00241	CDS	960				hypothetical protein
+BGDFGHOM_00242	gene	252				
+BGDFGHOM_00242	CDS	252				hypothetical protein
+BGDFGHOM_00243	gene	300				
+BGDFGHOM_00243	CDS	300				hypothetical protein
+BGDFGHOM_00244	gene	366				
+BGDFGHOM_00244	CDS	366				hypothetical protein
+BGDFGHOM_00245	gene	522	scpB			
+BGDFGHOM_00245	CDS	522	scpB			Segregation and condensation protein B
+BGDFGHOM_00246	gene	705				
+BGDFGHOM_00246	CDS	705				hypothetical protein
+BGDFGHOM_00247	gene	1065				
+BGDFGHOM_00247	CDS	1065		1.1.1.1		Alcohol dehydrogenase
+BGDFGHOM_00248	gene	609				
+BGDFGHOM_00248	CDS	609				hypothetical protein
+BGDFGHOM_00249	gene	414				
+BGDFGHOM_00249	CDS	414				hypothetical protein
+BGDFGHOM_00250	gene	693				
+BGDFGHOM_00250	CDS	693				hypothetical protein
+BGDFGHOM_00251	gene	1326	ffh			
+BGDFGHOM_00251	CDS	1326	ffh		COG0541	Signal recognition particle protein
+BGDFGHOM_00252	gene	1176				
+BGDFGHOM_00252	CDS	1176				hypothetical protein
+BGDFGHOM_00253	gene	708				
+BGDFGHOM_00253	CDS	708				hypothetical protein
+BGDFGHOM_00254	gene	171				
+BGDFGHOM_00254	CDS	171				hypothetical protein
+BGDFGHOM_00255	gene	417				
+BGDFGHOM_00255	CDS	417				hypothetical protein
+BGDFGHOM_00256	gene	306				
+BGDFGHOM_00256	CDS	306				hypothetical protein
+BGDFGHOM_00257	gene	168				
+BGDFGHOM_00257	CDS	168				hypothetical protein
+BGDFGHOM_00258	gene	1245	apgM			
+BGDFGHOM_00258	CDS	1245	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BGDFGHOM_00259	gene	114				
+BGDFGHOM_00259	CDS	114				hypothetical protein
+BGDFGHOM_00260	gene	906				
+BGDFGHOM_00260	CDS	906				hypothetical protein
+BGDFGHOM_00261	gene	429				
+BGDFGHOM_00261	CDS	429				hypothetical protein
+BGDFGHOM_00262	gene	438				
+BGDFGHOM_00262	CDS	438				hypothetical protein
+BGDFGHOM_00263	gene	354	cugP_1			
+BGDFGHOM_00263	CDS	354	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BGDFGHOM_00264	gene	699	cugP_2			
+BGDFGHOM_00264	CDS	699	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BGDFGHOM_00265	gene	1287	pdxK			
+BGDFGHOM_00265	CDS	1287	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+BGDFGHOM_00266	gene	1329	bzaF			
+BGDFGHOM_00266	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+BGDFGHOM_00267	gene	408				
+BGDFGHOM_00267	CDS	408				hypothetical protein
+BGDFGHOM_00268	gene	855				
+BGDFGHOM_00268	CDS	855				hypothetical protein
+BGDFGHOM_00269	gene	1416	dapL			
+BGDFGHOM_00269	CDS	1416	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+BGDFGHOM_00270	gene	1095	aroC			
+BGDFGHOM_00270	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+BGDFGHOM_00271	gene	1269	aroA			
+BGDFGHOM_00271	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+BGDFGHOM_00272	gene	855	thrB_1			
+BGDFGHOM_00272	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+BGDFGHOM_00273	gene	456	aroE_1			
+BGDFGHOM_00273	CDS	456	aroE_1	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+BGDFGHOM_00274	gene	345	aroE_2			
+BGDFGHOM_00274	CDS	345	aroE_2	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+BGDFGHOM_00275	gene	672	aroD			
+BGDFGHOM_00275	CDS	672	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+BGDFGHOM_00276	gene	1056	griH			
+BGDFGHOM_00276	CDS	1056	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+BGDFGHOM_00277	gene	786	griI			
+BGDFGHOM_00277	CDS	786	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+BGDFGHOM_00278	gene	1119	mqnC			
+BGDFGHOM_00278	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+BGDFGHOM_00279	gene	1443	ubiD			
+BGDFGHOM_00279	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+BGDFGHOM_00280	gene	375				
+BGDFGHOM_00280	CDS	375				hypothetical protein
+BGDFGHOM_00281	gene	876				
+BGDFGHOM_00281	CDS	876				hypothetical protein
+BGDFGHOM_00282	gene	456	bcp_2			
+BGDFGHOM_00282	CDS	456	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+BGDFGHOM_00283	gene	954	aqpZ			
+BGDFGHOM_00283	CDS	954	aqpZ			Aquaporin Z
+BGDFGHOM_00284	gene	1653				
+BGDFGHOM_00284	CDS	1653				hypothetical protein
+BGDFGHOM_00285	gene	741				
+BGDFGHOM_00285	CDS	741				hypothetical protein
+BGDFGHOM_00286	gene	123				
+BGDFGHOM_00286	CDS	123				hypothetical protein
+BGDFGHOM_00287	gene	1092				
+BGDFGHOM_00287	CDS	1092				hypothetical protein
+BGDFGHOM_00288	gene	468				
+BGDFGHOM_00288	CDS	468				hypothetical protein
+BGDFGHOM_00289	gene	822				
+BGDFGHOM_00289	CDS	822				hypothetical protein
+BGDFGHOM_00290	gene	288				
+BGDFGHOM_00290	CDS	288				hypothetical protein
+BGDFGHOM_00291	gene	381				
+BGDFGHOM_00291	CDS	381				hypothetical protein
+BGDFGHOM_00292	gene	834				
+BGDFGHOM_00292	CDS	834				hypothetical protein
+BGDFGHOM_00293	gene	132				
+BGDFGHOM_00293	CDS	132				hypothetical protein
+BGDFGHOM_00294	gene	132				
+BGDFGHOM_00294	CDS	132				hypothetical protein
+BGDFGHOM_00295	gene	537				
+BGDFGHOM_00295	CDS	537				hypothetical protein
+BGDFGHOM_00296	gene	1101				
+BGDFGHOM_00296	CDS	1101				hypothetical protein
+BGDFGHOM_00297	gene	2196	fusA			
+BGDFGHOM_00297	CDS	2196	fusA		COG0480	Elongation factor G
+BGDFGHOM_00298	gene	822	mqnD			
+BGDFGHOM_00298	CDS	822	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+BGDFGHOM_00299	gene	219				
+BGDFGHOM_00299	CDS	219				hypothetical protein
+BGDFGHOM_00300	gene	282				
+BGDFGHOM_00300	CDS	282				hypothetical protein
+BGDFGHOM_00301	gene	1098	mqnE			
+BGDFGHOM_00301	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+BGDFGHOM_00302	gene	447				
+BGDFGHOM_00302	CDS	447				hypothetical protein
+BGDFGHOM_00303	gene	525	dedA			
+BGDFGHOM_00303	CDS	525	dedA		COG0586	Protein DedA
+BGDFGHOM_00304	gene	228				
+BGDFGHOM_00304	CDS	228				hypothetical protein
+BGDFGHOM_00305	gene	249				
+BGDFGHOM_00305	CDS	249				hypothetical protein
+BGDFGHOM_00306	gene	849	dnaJ_1			
+BGDFGHOM_00306	CDS	849	dnaJ_1			Chaperone protein DnaJ
+BGDFGHOM_00307	gene	144				
+BGDFGHOM_00307	CDS	144				hypothetical protein
+BGDFGHOM_00308	gene	1710				
+BGDFGHOM_00308	CDS	1710				hypothetical protein
+BGDFGHOM_00309	gene	999	dppB			
+BGDFGHOM_00309	CDS	999	dppB		COG0601	Dipeptide transport system permease protein DppB
+BGDFGHOM_00310	gene	1362				
+BGDFGHOM_00310	CDS	1362				hypothetical protein
+BGDFGHOM_00311	gene	327				
+BGDFGHOM_00311	CDS	327				hypothetical protein
+BGDFGHOM_00312	gene	318				
+BGDFGHOM_00312	CDS	318				hypothetical protein
+BGDFGHOM_00313	gene	405				
+BGDFGHOM_00313	CDS	405				hypothetical protein
+BGDFGHOM_00314	gene	1320				
+BGDFGHOM_00314	CDS	1320				hypothetical protein
+BGDFGHOM_00315	gene	357				
+BGDFGHOM_00315	CDS	357				hypothetical protein
+BGDFGHOM_00316	gene	96				
+BGDFGHOM_00316	CDS	96				hypothetical protein
+BGDFGHOM_00317	gene	297				
+BGDFGHOM_00317	CDS	297				hypothetical protein
+BGDFGHOM_00318	gene	1026				
+BGDFGHOM_00318	CDS	1026				hypothetical protein
+BGDFGHOM_00319	gene	183				
+BGDFGHOM_00319	CDS	183				hypothetical protein
+BGDFGHOM_00320	gene	972	trxB_1			
+BGDFGHOM_00320	CDS	972	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+BGDFGHOM_00321	gene	279				
+BGDFGHOM_00321	CDS	279				hypothetical protein
+BGDFGHOM_00322	gene	2969				
+BGDFGHOM_00322	rRNA	2969				23S ribosomal RNA
+BGDFGHOM_00323	gene	1465				
+BGDFGHOM_00323	rRNA	1465				16S ribosomal RNA
+BGDFGHOM_00324	gene	1311	hemL_2			
+BGDFGHOM_00324	CDS	1311	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+BGDFGHOM_00325	gene	819	cpoB			
+BGDFGHOM_00325	CDS	819	cpoB			Cell division coordinator CpoB
+BGDFGHOM_00326	gene	723				
+BGDFGHOM_00326	CDS	723				hypothetical protein
+BGDFGHOM_00327	gene	453				
+BGDFGHOM_00327	CDS	453				hypothetical protein
+BGDFGHOM_00328	gene	708	dnaJ_2			
+BGDFGHOM_00328	CDS	708	dnaJ_2			Chaperone protein DnaJ
+BGDFGHOM_00329	gene	411	hit_1			
+BGDFGHOM_00329	CDS	411	hit_1		COG0537	Protein hit
+BGDFGHOM_00330	gene	294				
+BGDFGHOM_00330	CDS	294				hypothetical protein
+BGDFGHOM_00331	gene	171				
+BGDFGHOM_00331	CDS	171				hypothetical protein
+BGDFGHOM_00332	gene	1179	fadB			
+BGDFGHOM_00332	CDS	1179	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+BGDFGHOM_00333	gene	507				
+BGDFGHOM_00333	CDS	507				hypothetical protein
+BGDFGHOM_00334	gene	129				
+BGDFGHOM_00334	CDS	129				hypothetical protein
+BGDFGHOM_00335	gene	417				
+BGDFGHOM_00335	CDS	417				hypothetical protein
+BGDFGHOM_00336	gene	216				
+BGDFGHOM_00336	CDS	216				hypothetical protein
+BGDFGHOM_00337	gene	309	rpsJ			
+BGDFGHOM_00337	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+BGDFGHOM_00338	gene	1299	cysN			
+BGDFGHOM_00338	CDS	1299	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1
+BGDFGHOM_00339	gene	1137	fbp			
+BGDFGHOM_00339	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+BGDFGHOM_00340	gene	435				
+BGDFGHOM_00340	CDS	435				hypothetical protein
+BGDFGHOM_00341	gene	1506	lig_1			
+BGDFGHOM_00341	CDS	1506	lig_1	6.5.1.1		DNA ligase
+BGDFGHOM_00342	gene	240	lig_2			
+BGDFGHOM_00342	CDS	240	lig_2	6.5.1.1		DNA ligase
+BGDFGHOM_00343	gene	654				
+BGDFGHOM_00343	CDS	654				hypothetical protein
+BGDFGHOM_00344	gene	540				
+BGDFGHOM_00344	CDS	540				hypothetical protein
+BGDFGHOM_00345	gene	378				
+BGDFGHOM_00345	CDS	378				hypothetical protein
+BGDFGHOM_00346	gene	237				
+BGDFGHOM_00346	CDS	237				hypothetical protein
+BGDFGHOM_00347	gene	1629				
+BGDFGHOM_00347	CDS	1629				hypothetical protein
+BGDFGHOM_00348	gene	756	yfcA			
+BGDFGHOM_00348	CDS	756	yfcA		COG0730	putative membrane transporter protein YfcA
+BGDFGHOM_00349	gene	498				
+BGDFGHOM_00349	CDS	498				hypothetical protein
+BGDFGHOM_00350	gene	405				
+BGDFGHOM_00350	CDS	405				hypothetical protein
+BGDFGHOM_00351	gene	471	mntR_1			
+BGDFGHOM_00351	CDS	471	mntR_1			HTH-type transcriptional regulator MntR
+BGDFGHOM_00352	gene	666				
+BGDFGHOM_00352	CDS	666				hypothetical protein
+BGDFGHOM_00353	gene	231				
+BGDFGHOM_00353	CDS	231				hypothetical protein
+BGDFGHOM_00354	gene	570	tmung			
+BGDFGHOM_00354	CDS	570	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+BGDFGHOM_00355	gene	558				
+BGDFGHOM_00355	CDS	558		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+BGDFGHOM_00356	gene	663				
+BGDFGHOM_00356	CDS	663				hypothetical protein
+BGDFGHOM_00357	gene	783	oppD			
+BGDFGHOM_00357	CDS	783	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+BGDFGHOM_00358	gene	1296	aspS2_1			
+BGDFGHOM_00358	CDS	1296	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BGDFGHOM_00359	gene	1020	hicd_1			
+BGDFGHOM_00359	CDS	1020	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+BGDFGHOM_00360	gene	1512	leuA_1			
+BGDFGHOM_00360	CDS	1512	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+BGDFGHOM_00361	gene	468	ilvH			
+BGDFGHOM_00361	CDS	468	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+BGDFGHOM_00362	gene	1701	ilvB			
+BGDFGHOM_00362	CDS	1701	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+BGDFGHOM_00363	gene	459				
+BGDFGHOM_00363	CDS	459				hypothetical protein
+BGDFGHOM_00364	gene	816	lsrF			
+BGDFGHOM_00364	CDS	816	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+BGDFGHOM_00365	gene	1020	gutB			
+BGDFGHOM_00365	CDS	1020	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+BGDFGHOM_00366	gene	108				
+BGDFGHOM_00366	CDS	108				hypothetical protein
+BGDFGHOM_00367	gene	111				
+BGDFGHOM_00367	CDS	111				hypothetical protein
+BGDFGHOM_00368	gene	561				
+BGDFGHOM_00368	CDS	561				hypothetical protein
+BGDFGHOM_00369	gene	288				
+BGDFGHOM_00369	CDS	288				hypothetical protein
+BGDFGHOM_00370	gene	747				
+BGDFGHOM_00370	CDS	747				hypothetical protein
+BGDFGHOM_00371	gene	3045	carB			
+BGDFGHOM_00371	CDS	3045	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+BGDFGHOM_00372	gene	1179	carA			
+BGDFGHOM_00372	CDS	1179	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+BGDFGHOM_00373	gene	1191	ftsH_1			
+BGDFGHOM_00373	CDS	1191	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BGDFGHOM_00374	gene	1044				
+BGDFGHOM_00374	CDS	1044				hypothetical protein
+BGDFGHOM_00375	gene	198				
+BGDFGHOM_00375	CDS	198				hypothetical protein
+BGDFGHOM_00376	gene	1170	citZ			
+BGDFGHOM_00376	CDS	1170	citZ	2.3.3.16	COG0372	Citrate synthase 2
+BGDFGHOM_00377	gene	207				
+BGDFGHOM_00377	CDS	207				hypothetical protein
+BGDFGHOM_00378	gene	444				
+BGDFGHOM_00378	CDS	444				hypothetical protein
+BGDFGHOM_00379	gene	207				
+BGDFGHOM_00379	CDS	207				hypothetical protein
+BGDFGHOM_00380	gene	1281				
+BGDFGHOM_00380	CDS	1281		2.7.1.165	COG2379	D-glycerate 2-kinase
+BGDFGHOM_00381	gene	948				
+BGDFGHOM_00381	CDS	948				hypothetical protein
+BGDFGHOM_00382	gene	1086				
+BGDFGHOM_00382	CDS	1086		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+BGDFGHOM_00383	gene	651				
+BGDFGHOM_00383	CDS	651				hypothetical protein
+BGDFGHOM_00384	gene	309				
+BGDFGHOM_00384	CDS	309				hypothetical protein
+BGDFGHOM_00385	gene	369				
+BGDFGHOM_00385	CDS	369				hypothetical protein
+BGDFGHOM_00386	gene	210				
+BGDFGHOM_00386	CDS	210				hypothetical protein
+BGDFGHOM_00387	gene	597				
+BGDFGHOM_00387	CDS	597				hypothetical protein
+BGDFGHOM_00388	gene	600				
+BGDFGHOM_00388	CDS	600				hypothetical protein
+BGDFGHOM_00389	gene	1056				
+BGDFGHOM_00389	CDS	1056				hypothetical protein
+BGDFGHOM_00390	gene	219				
+BGDFGHOM_00390	CDS	219				hypothetical protein
+BGDFGHOM_00391	gene	495				
+BGDFGHOM_00391	CDS	495				hypothetical protein
+BGDFGHOM_00392	gene	468				
+BGDFGHOM_00392	CDS	468				hypothetical protein
+BGDFGHOM_00393	gene	933				
+BGDFGHOM_00393	CDS	933				hypothetical protein
+BGDFGHOM_00394	gene	3138	rep			
+BGDFGHOM_00394	CDS	3138	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+BGDFGHOM_00395	gene	1404				
+BGDFGHOM_00395	CDS	1404				hypothetical protein
+BGDFGHOM_00396	gene	1950				
+BGDFGHOM_00396	CDS	1950				hypothetical protein
+BGDFGHOM_00397	gene	1014				
+BGDFGHOM_00397	CDS	1014				hypothetical protein
+BGDFGHOM_00398	gene	627				
+BGDFGHOM_00398	CDS	627				hypothetical protein
+BGDFGHOM_00399	gene	216				
+BGDFGHOM_00399	CDS	216				hypothetical protein
+BGDFGHOM_00400	gene	831				
+BGDFGHOM_00400	CDS	831				hypothetical protein
+BGDFGHOM_00401	gene	408				
+BGDFGHOM_00401	CDS	408				hypothetical protein
+BGDFGHOM_00402	gene	726				
+BGDFGHOM_00402	CDS	726				hypothetical protein
+BGDFGHOM_00403	gene	501				
+BGDFGHOM_00403	CDS	501				hypothetical protein
+BGDFGHOM_00404	gene	336				
+BGDFGHOM_00404	CDS	336				hypothetical protein
+BGDFGHOM_00405	gene	555				
+BGDFGHOM_00405	CDS	555				hypothetical protein
+BGDFGHOM_00406	gene	789				
+BGDFGHOM_00406	CDS	789				hypothetical protein
+BGDFGHOM_00407	gene	159				
+BGDFGHOM_00407	CDS	159				hypothetical protein
+BGDFGHOM_00408	gene	300				
+BGDFGHOM_00408	CDS	300				hypothetical protein
+BGDFGHOM_00409	gene	282				
+BGDFGHOM_00409	CDS	282				hypothetical protein
+BGDFGHOM_00410	gene	351				
+BGDFGHOM_00410	CDS	351				hypothetical protein
+BGDFGHOM_00411	gene	540				
+BGDFGHOM_00411	CDS	540				hypothetical protein
+BGDFGHOM_00412	gene	183				
+BGDFGHOM_00412	CDS	183				hypothetical protein
+BGDFGHOM_00413	gene	273				
+BGDFGHOM_00413	CDS	273				hypothetical protein
+BGDFGHOM_00414	gene	252				
+BGDFGHOM_00414	CDS	252				hypothetical protein
+BGDFGHOM_00415	gene	453				
+BGDFGHOM_00415	CDS	453				hypothetical protein
+BGDFGHOM_00416	gene	297				
+BGDFGHOM_00416	CDS	297				hypothetical protein
+BGDFGHOM_00417	gene	597				
+BGDFGHOM_00417	CDS	597				hypothetical protein
+BGDFGHOM_00418	gene	627				
+BGDFGHOM_00418	CDS	627				hypothetical protein
+BGDFGHOM_00419	gene	975				
+BGDFGHOM_00419	CDS	975				IS1595 family transposase ISCco3
+BGDFGHOM_00420	gene	621	pdxT			
+BGDFGHOM_00420	CDS	621	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+BGDFGHOM_00421	gene	969	pdxS			
+BGDFGHOM_00421	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+BGDFGHOM_00422	gene	303				
+BGDFGHOM_00422	CDS	303				hypothetical protein
+BGDFGHOM_00423	gene	873				
+BGDFGHOM_00423	CDS	873				hypothetical protein
+BGDFGHOM_00424	gene	423				
+BGDFGHOM_00424	CDS	423				hypothetical protein
+BGDFGHOM_00425	gene	534				
+BGDFGHOM_00425	CDS	534				hypothetical protein
+BGDFGHOM_00426	gene	2388	acnA			
+BGDFGHOM_00426	CDS	2388	acnA	4.2.1.3		Aconitate hydratase A
+BGDFGHOM_00427	gene	633				
+BGDFGHOM_00427	CDS	633				hypothetical protein
+BGDFGHOM_00428	gene	573				
+BGDFGHOM_00428	CDS	573				hypothetical protein
+BGDFGHOM_00429	gene	240				
+BGDFGHOM_00429	CDS	240				hypothetical protein
+BGDFGHOM_00430	gene	417				
+BGDFGHOM_00430	CDS	417				hypothetical protein
+BGDFGHOM_00431	gene	1644				
+BGDFGHOM_00431	CDS	1644				hypothetical protein
+BGDFGHOM_00432	gene	1425				
+BGDFGHOM_00432	CDS	1425				hypothetical protein
+BGDFGHOM_00433	gene	1110				
+BGDFGHOM_00433	CDS	1110				hypothetical protein
+BGDFGHOM_00434	gene	285				
+BGDFGHOM_00434	CDS	285				hypothetical protein
+BGDFGHOM_00435	gene	330				
+BGDFGHOM_00435	CDS	330				hypothetical protein
+BGDFGHOM_00436	gene	465				
+BGDFGHOM_00436	CDS	465				hypothetical protein
+BGDFGHOM_00437	gene	129				
+BGDFGHOM_00437	CDS	129				hypothetical protein
+BGDFGHOM_00438	gene	76				
+BGDFGHOM_00438	tRNA	76				tRNA-Ala(tgc)
+BGDFGHOM_00439	gene	549	resA			
+BGDFGHOM_00439	CDS	549	resA			Thiol-disulfide oxidoreductase ResA
+BGDFGHOM_00440	gene	75				
+BGDFGHOM_00440	tRNA	75				tRNA-Ile(gat)
+BGDFGHOM_00441	gene	549				
+BGDFGHOM_00441	CDS	549				hypothetical protein
+BGDFGHOM_00442	gene	603				
+BGDFGHOM_00442	CDS	603				hypothetical protein
+BGDFGHOM_00443	gene	651				
+BGDFGHOM_00443	CDS	651				hypothetical protein
+BGDFGHOM_00444	gene	357				
+BGDFGHOM_00444	CDS	357				hypothetical protein
+BGDFGHOM_00445	gene	711	dpnM			
+BGDFGHOM_00445	CDS	711	dpnM	2.1.1.72		Modification methylase DpnIIA
+BGDFGHOM_00446	gene	74				
+BGDFGHOM_00446	tRNA	74				tRNA-Thr(ggt)
+BGDFGHOM_00447	gene	387				
+BGDFGHOM_00447	CDS	387				hypothetical protein
+BGDFGHOM_00448	gene	897				
+BGDFGHOM_00448	CDS	897				hypothetical protein
+BGDFGHOM_00449	gene	192				
+BGDFGHOM_00449	CDS	192				hypothetical protein
+BGDFGHOM_00450	gene	270				
+BGDFGHOM_00450	CDS	270				hypothetical protein
+BGDFGHOM_00451	gene	318				
+BGDFGHOM_00451	CDS	318				hypothetical protein
+BGDFGHOM_00452	gene	450				
+BGDFGHOM_00452	CDS	450				hypothetical protein
+BGDFGHOM_00453	gene	243				
+BGDFGHOM_00453	CDS	243				hypothetical protein
+BGDFGHOM_00454	gene	1260	serS			
+BGDFGHOM_00454	CDS	1260	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+BGDFGHOM_00455	gene	612				
+BGDFGHOM_00455	CDS	612				hypothetical protein
+BGDFGHOM_00456	gene	432				
+BGDFGHOM_00456	CDS	432				hypothetical protein
+BGDFGHOM_00457	gene	1464				
+BGDFGHOM_00457	CDS	1464				hypothetical protein
+BGDFGHOM_00458	gene	828	nirQ			
+BGDFGHOM_00458	CDS	828	nirQ		COG0714	Denitrification regulatory protein NirQ
+BGDFGHOM_00459	gene	147				
+BGDFGHOM_00459	CDS	147				hypothetical protein
+BGDFGHOM_00460	gene	1422				
+BGDFGHOM_00460	CDS	1422				hypothetical protein
+BGDFGHOM_00461	gene	714				
+BGDFGHOM_00461	CDS	714				hypothetical protein
+BGDFGHOM_00462	gene	231				
+BGDFGHOM_00462	CDS	231				hypothetical protein
+BGDFGHOM_00463	gene	639				
+BGDFGHOM_00463	CDS	639				hypothetical protein
+BGDFGHOM_00464	gene	312				
+BGDFGHOM_00464	CDS	312				hypothetical protein
+BGDFGHOM_00465	gene	513				
+BGDFGHOM_00465	CDS	513				hypothetical protein
+BGDFGHOM_00466	gene	2697	alaS			
+BGDFGHOM_00466	CDS	2697	alaS	6.1.1.7		Alanine--tRNA ligase
+BGDFGHOM_00467	gene	102				
+BGDFGHOM_00467	CDS	102				hypothetical protein
+BGDFGHOM_00468	gene	612	valS_2			
+BGDFGHOM_00468	CDS	612	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+BGDFGHOM_00469	gene	2127	valS_3			
+BGDFGHOM_00469	CDS	2127	valS_3	6.1.1.9	COG0525	Valine--tRNA ligase
+BGDFGHOM_00470	gene	1011				
+BGDFGHOM_00470	CDS	1011				hypothetical protein
+BGDFGHOM_00471	gene	705				
+BGDFGHOM_00471	CDS	705				hypothetical protein
+BGDFGHOM_00472	gene	321				
+BGDFGHOM_00472	CDS	321				hypothetical protein
+BGDFGHOM_00473	gene	72				
+BGDFGHOM_00473	tRNA	72				tRNA-Gln(ctg)
+BGDFGHOM_00474	gene	597				
+BGDFGHOM_00474	CDS	597				hypothetical protein
+BGDFGHOM_00475	gene	438				
+BGDFGHOM_00475	CDS	438				hypothetical protein
+BGDFGHOM_00476	gene	465	nusA			
+BGDFGHOM_00476	CDS	465	nusA			Transcription termination/antitermination protein NusA
+BGDFGHOM_00477	gene	312				
+BGDFGHOM_00477	CDS	312				hypothetical protein
+BGDFGHOM_00478	gene	3795	rpoC			
+BGDFGHOM_00478	CDS	3795	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+BGDFGHOM_00479	gene	2868	rpoB			
+BGDFGHOM_00479	CDS	2868	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+BGDFGHOM_00480	gene	264				
+BGDFGHOM_00480	CDS	264				hypothetical protein
+BGDFGHOM_00481	gene	630				
+BGDFGHOM_00481	CDS	630				hypothetical protein
+BGDFGHOM_00482	gene	1755	glmS			
+BGDFGHOM_00482	CDS	1755	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BGDFGHOM_00483	gene	936				
+BGDFGHOM_00483	CDS	936				hypothetical protein
+BGDFGHOM_00484	gene	612	pksB			
+BGDFGHOM_00484	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+BGDFGHOM_00485	gene	657	nnr_1			
+BGDFGHOM_00485	CDS	657	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BGDFGHOM_00486	gene	648				
+BGDFGHOM_00486	CDS	648				hypothetical protein
+BGDFGHOM_00487	gene	87				
+BGDFGHOM_00487	tRNA	87				tRNA-Leu(gag)
+BGDFGHOM_00488	gene	237				
+BGDFGHOM_00488	CDS	237				hypothetical protein
+BGDFGHOM_00489	gene	1239	eno			
+BGDFGHOM_00489	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+BGDFGHOM_00490	gene	609				
+BGDFGHOM_00490	CDS	609				hypothetical protein
+BGDFGHOM_00491	gene	948				
+BGDFGHOM_00491	CDS	948		2.7.4.2		Phosphomevalonate kinase
+BGDFGHOM_00492	gene	738	argB			
+BGDFGHOM_00492	CDS	738	argB	2.7.2.8		Acetylglutamate kinase
+BGDFGHOM_00493	gene	684	idi			
+BGDFGHOM_00493	CDS	684	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+BGDFGHOM_00494	gene	984	hepT			
+BGDFGHOM_00494	CDS	984	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+BGDFGHOM_00495	gene	1713	gluQ			
+BGDFGHOM_00495	CDS	1713	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+BGDFGHOM_00496	gene	873	yisK			
+BGDFGHOM_00496	CDS	873	yisK		COG0179	putative protein YisK
+BGDFGHOM_00497	gene	315	bphA3			
+BGDFGHOM_00497	CDS	315	bphA3			Biphenyl dioxygenase ferredoxin subunit
+BGDFGHOM_00498	gene	270				
+BGDFGHOM_00498	CDS	270				hypothetical protein
+BGDFGHOM_00499	gene	777				
+BGDFGHOM_00499	CDS	777				hypothetical protein
+BGDFGHOM_00500	gene	348				
+BGDFGHOM_00500	CDS	348				hypothetical protein
+BGDFGHOM_00501	gene	73				
+BGDFGHOM_00501	tRNA	73				tRNA-His(gtg)
+BGDFGHOM_00502	gene	1047				
+BGDFGHOM_00502	CDS	1047				hypothetical protein
+BGDFGHOM_00503	gene	942				
+BGDFGHOM_00503	CDS	942				hypothetical protein
+BGDFGHOM_00504	gene	1020	moaA_1			
+BGDFGHOM_00504	CDS	1020	moaA_1			GTP 3',8-cyclase
+BGDFGHOM_00505	gene	558				
+BGDFGHOM_00505	CDS	558		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+BGDFGHOM_00506	gene	621				
+BGDFGHOM_00506	CDS	621				hypothetical protein
+BGDFGHOM_00507	gene	333				
+BGDFGHOM_00507	CDS	333				hypothetical protein
+BGDFGHOM_00508	gene	198				
+BGDFGHOM_00508	CDS	198				hypothetical protein
+BGDFGHOM_00509	gene	984	tsaD			
+BGDFGHOM_00509	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+BGDFGHOM_00510	gene	1197	OLA1_1			
+BGDFGHOM_00510	CDS	1197	OLA1_1			Obg-like ATPase 1
+BGDFGHOM_00511	gene	603				
+BGDFGHOM_00511	CDS	603				hypothetical protein
+BGDFGHOM_00512	gene	1509	QTRT1			
+BGDFGHOM_00512	CDS	1509	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+BGDFGHOM_00513	gene	303	ndhI_1			
+BGDFGHOM_00513	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BGDFGHOM_00514	gene	213				
+BGDFGHOM_00514	CDS	213				hypothetical protein
+BGDFGHOM_00515	gene	1167				
+BGDFGHOM_00515	CDS	1167		3.1.-.-	COG1236	Ribonuclease
+BGDFGHOM_00516	gene	849				
+BGDFGHOM_00516	CDS	849				hypothetical protein
+BGDFGHOM_00517	gene	77				
+BGDFGHOM_00517	tRNA	77				tRNA-Arg(tct)
+BGDFGHOM_00518	gene	351				
+BGDFGHOM_00518	CDS	351				hypothetical protein
+BGDFGHOM_00519	gene	477				
+BGDFGHOM_00519	CDS	477				hypothetical protein
+BGDFGHOM_00520	gene	1464	petB			
+BGDFGHOM_00520	CDS	1464	petB			Cytochrome b6
+BGDFGHOM_00521	gene	603				
+BGDFGHOM_00521	CDS	603				hypothetical protein
+BGDFGHOM_00522	gene	4251				
+BGDFGHOM_00522	CDS	4251				hypothetical protein
+BGDFGHOM_00523	gene	984				
+BGDFGHOM_00523	CDS	984				hypothetical protein
+BGDFGHOM_00524	gene	4659				
+BGDFGHOM_00524	CDS	4659				hypothetical protein
+BGDFGHOM_00525	gene	1371				
+BGDFGHOM_00525	CDS	1371				hypothetical protein
+BGDFGHOM_00526	gene	1224	thrC			
+BGDFGHOM_00526	CDS	1224	thrC	4.2.3.1	COG0498	Threonine synthase
+BGDFGHOM_00527	gene	330	hisI			
+BGDFGHOM_00527	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+BGDFGHOM_00528	gene	804	hisF			
+BGDFGHOM_00528	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+BGDFGHOM_00529	gene	705	hisA			
+BGDFGHOM_00529	CDS	705	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+BGDFGHOM_00530	gene	606	hisH			
+BGDFGHOM_00530	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+BGDFGHOM_00531	gene	588	hisB			
+BGDFGHOM_00531	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+BGDFGHOM_00532	gene	1419				
+BGDFGHOM_00532	CDS	1419				hypothetical protein
+BGDFGHOM_00533	gene	1068	hisC			
+BGDFGHOM_00533	CDS	1068	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+BGDFGHOM_00534	gene	1293	hisD			
+BGDFGHOM_00534	CDS	1293	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+BGDFGHOM_00535	gene	987	hisG			
+BGDFGHOM_00535	CDS	987	hisG	2.4.2.17		ATP phosphoribosyltransferase
+BGDFGHOM_00536	gene	1158	mvaA			
+BGDFGHOM_00536	CDS	1158	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+BGDFGHOM_00537	gene	1125	yliI			
+BGDFGHOM_00537	CDS	1125	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+BGDFGHOM_00538	gene	1200	miaB			
+BGDFGHOM_00538	CDS	1200	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+BGDFGHOM_00539	gene	942	ftsZ			
+BGDFGHOM_00539	CDS	942	ftsZ			Cell division protein FtsZ
+BGDFGHOM_00540	gene	159				
+BGDFGHOM_00540	CDS	159				hypothetical protein
+BGDFGHOM_00541	gene	564	nudL			
+BGDFGHOM_00541	CDS	564	nudL	3.6.1.-		putative Nudix hydrolase NudL
+BGDFGHOM_00542	gene	756				
+BGDFGHOM_00542	CDS	756				hypothetical protein
+BGDFGHOM_00543	gene	927	metE_1			
+BGDFGHOM_00543	CDS	927	metE_1	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+BGDFGHOM_00544	gene	1011	metE_2			
+BGDFGHOM_00544	CDS	1011	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+BGDFGHOM_00545	gene	759	ssuC			
+BGDFGHOM_00545	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+BGDFGHOM_00546	gene	756	nrtD			
+BGDFGHOM_00546	CDS	756	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+BGDFGHOM_00547	gene	1035	ssuA			
+BGDFGHOM_00547	CDS	1035	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+BGDFGHOM_00548	gene	1188	argG			
+BGDFGHOM_00548	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+BGDFGHOM_00549	gene	168				
+BGDFGHOM_00549	CDS	168				hypothetical protein
+BGDFGHOM_00550	gene	858	lysX_1			
+BGDFGHOM_00550	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+BGDFGHOM_00551	gene	1053	lysY			
+BGDFGHOM_00551	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+BGDFGHOM_00552	gene	804	lysZ			
+BGDFGHOM_00552	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+BGDFGHOM_00553	gene	1176	lysJ			
+BGDFGHOM_00553	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+BGDFGHOM_00554	gene	417	lrpC			
+BGDFGHOM_00554	CDS	417	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+BGDFGHOM_00555	gene	1170	leuA_2			
+BGDFGHOM_00555	CDS	1170	leuA_2	2.3.3.13		2-isopropylmalate synthase
+BGDFGHOM_00556	gene	168				
+BGDFGHOM_00556	CDS	168				hypothetical protein
+BGDFGHOM_00557	gene	849	lysX_2			
+BGDFGHOM_00557	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+BGDFGHOM_00558	gene	1125	lysK			
+BGDFGHOM_00558	CDS	1125	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+BGDFGHOM_00559	gene	1038				
+BGDFGHOM_00559	CDS	1038				hypothetical protein
+BGDFGHOM_00560	gene	417	hldE			
+BGDFGHOM_00560	CDS	417	hldE	2.7.7.70		Bifunctional protein HldE
+BGDFGHOM_00561	gene	678				
+BGDFGHOM_00561	CDS	678				hypothetical protein
+BGDFGHOM_00562	gene	678				
+BGDFGHOM_00562	CDS	678				hypothetical protein
+BGDFGHOM_00563	gene	1362	aspA			
+BGDFGHOM_00563	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+BGDFGHOM_00564	gene	1431				
+BGDFGHOM_00564	CDS	1431				hypothetical protein
+BGDFGHOM_00565	gene	933				
+BGDFGHOM_00565	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+BGDFGHOM_00566	gene	684				
+BGDFGHOM_00566	CDS	684				hypothetical protein
+BGDFGHOM_00567	gene	651				
+BGDFGHOM_00567	CDS	651				hypothetical protein
+BGDFGHOM_00568	gene	447				
+BGDFGHOM_00568	CDS	447				hypothetical protein
+BGDFGHOM_00569	gene	1398				
+BGDFGHOM_00569	CDS	1398				hypothetical protein
+BGDFGHOM_00570	gene	660				
+BGDFGHOM_00570	CDS	660				hypothetical protein
+BGDFGHOM_00571	gene	564				
+BGDFGHOM_00571	CDS	564				hypothetical protein
+BGDFGHOM_00572	gene	141				
+BGDFGHOM_00572	CDS	141				hypothetical protein
+BGDFGHOM_00573	gene	426				
+BGDFGHOM_00573	CDS	426				hypothetical protein
+BGDFGHOM_00574	gene	489				
+BGDFGHOM_00574	CDS	489				hypothetical protein
+BGDFGHOM_00575	gene	2082	smc_1			
+BGDFGHOM_00575	CDS	2082	smc_1			Chromosome partition protein Smc
+BGDFGHOM_00576	gene	1137	cpdA_1			
+BGDFGHOM_00576	CDS	1137	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BGDFGHOM_00577	gene	1527				
+BGDFGHOM_00577	CDS	1527				hypothetical protein
+BGDFGHOM_00578	gene	837				
+BGDFGHOM_00578	CDS	837				hypothetical protein
+BGDFGHOM_00579	gene	819	nadX			
+BGDFGHOM_00579	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+BGDFGHOM_00580	gene	936	nadA			
+BGDFGHOM_00580	CDS	936	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+BGDFGHOM_00581	gene	831	nadC			
+BGDFGHOM_00581	CDS	831	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BGDFGHOM_00582	gene	189				
+BGDFGHOM_00582	CDS	189				hypothetical protein
+BGDFGHOM_00583	gene	651				
+BGDFGHOM_00583	CDS	651				hypothetical protein
+BGDFGHOM_00584	gene	1104	apbC			
+BGDFGHOM_00584	CDS	1104	apbC		COG0489	Iron-sulfur cluster carrier protein
+BGDFGHOM_00585	gene	486				
+BGDFGHOM_00585	CDS	486				hypothetical protein
+BGDFGHOM_00586	gene	282				
+BGDFGHOM_00586	CDS	282				hypothetical protein
+BGDFGHOM_00587	gene	198				
+BGDFGHOM_00587	CDS	198				hypothetical protein
+BGDFGHOM_00588	gene	585	mobA			
+BGDFGHOM_00588	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+BGDFGHOM_00589	gene	726	cobS			
+BGDFGHOM_00589	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+BGDFGHOM_00590	gene	972	cobD			
+BGDFGHOM_00590	CDS	972	cobD		COG1270	Cobalamin biosynthesis protein CobD
+BGDFGHOM_00591	gene	732	cobQ			
+BGDFGHOM_00591	CDS	732	cobQ		COG1492	Cobyric acid synthase
+BGDFGHOM_00592	gene	219				
+BGDFGHOM_00592	CDS	219				hypothetical protein
+BGDFGHOM_00593	gene	204				
+BGDFGHOM_00593	CDS	204				hypothetical protein
+BGDFGHOM_00594	gene	399	ndk			
+BGDFGHOM_00594	CDS	399	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+BGDFGHOM_00595	gene	1782	infB			
+BGDFGHOM_00595	CDS	1782	infB			Translation initiation factor IF-2
+BGDFGHOM_00596	gene	417				
+BGDFGHOM_00596	CDS	417				Protein archease
+BGDFGHOM_00597	gene	1281	hisS			
+BGDFGHOM_00597	CDS	1281	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+BGDFGHOM_00598	gene	666				
+BGDFGHOM_00598	CDS	666				hypothetical protein
+BGDFGHOM_00599	gene	558				
+BGDFGHOM_00599	CDS	558				hypothetical protein
+BGDFGHOM_00600	gene	86				
+BGDFGHOM_00600	tRNA	86				tRNA-Ser(tga)
+BGDFGHOM_00601	gene	957				
+BGDFGHOM_00601	CDS	957				hypothetical protein
+BGDFGHOM_00602	gene	510				
+BGDFGHOM_00602	CDS	510				hypothetical protein
+BGDFGHOM_00603	gene	2094				
+BGDFGHOM_00603	CDS	2094				hypothetical protein
+BGDFGHOM_00604	gene	2154	srmB_1			
+BGDFGHOM_00604	CDS	2154	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+BGDFGHOM_00605	gene	990	mraY			
+BGDFGHOM_00605	CDS	990	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+BGDFGHOM_00606	gene	231				
+BGDFGHOM_00606	CDS	231				hypothetical protein
+BGDFGHOM_00607	gene	477	fdtC			
+BGDFGHOM_00607	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+BGDFGHOM_00608	gene	270				
+BGDFGHOM_00608	CDS	270				hypothetical protein
+BGDFGHOM_00609	gene	936	iolX			
+BGDFGHOM_00609	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+BGDFGHOM_00610	gene	861	ilvE_2			
+BGDFGHOM_00610	CDS	861	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BGDFGHOM_00611	gene	567				
+BGDFGHOM_00611	CDS	567				hypothetical protein
+BGDFGHOM_00612	gene	76				
+BGDFGHOM_00612	tRNA	76				tRNA-Pro(cgg)
+BGDFGHOM_00613	gene	870	mimB			
+BGDFGHOM_00613	CDS	870	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+BGDFGHOM_00614	gene	717				
+BGDFGHOM_00614	CDS	717				hypothetical protein
+BGDFGHOM_00615	gene	1080	hemA_2			
+BGDFGHOM_00615	CDS	1080	hemA_2	1.2.1.70		Glutamyl-tRNA reductase
+BGDFGHOM_00616	gene	77				
+BGDFGHOM_00616	tRNA	77				tRNA-Ala(ggc)
+BGDFGHOM_00617	gene	537				
+BGDFGHOM_00617	CDS	537				hypothetical protein
+BGDFGHOM_00618	gene	429				
+BGDFGHOM_00618	CDS	429				hypothetical protein
+BGDFGHOM_00619	gene	858	Dml			
+BGDFGHOM_00619	CDS	858	Dml	4.1.3.32		2,3-dimethylmalate lyase
+BGDFGHOM_00620	gene	507				
+BGDFGHOM_00620	CDS	507				hypothetical protein
+BGDFGHOM_00621	gene	1713	frdA			
+BGDFGHOM_00621	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BGDFGHOM_00622	gene	429				
+BGDFGHOM_00622	CDS	429				hypothetical protein
+BGDFGHOM_00623	gene	357				
+BGDFGHOM_00623	CDS	357				hypothetical protein
+BGDFGHOM_00624	gene	801	frdB			
+BGDFGHOM_00624	CDS	801	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+BGDFGHOM_00625	gene	324				
+BGDFGHOM_00625	CDS	324				hypothetical protein
+BGDFGHOM_00626	gene	1461	argH			
+BGDFGHOM_00626	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+BGDFGHOM_00627	gene	669	bluB			
+BGDFGHOM_00627	CDS	669	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+BGDFGHOM_00628	gene	76				
+BGDFGHOM_00628	tRNA	76				tRNA-Lys(ctt)
+BGDFGHOM_00629	gene	648				
+BGDFGHOM_00629	CDS	648				hypothetical protein
+BGDFGHOM_00630	gene	519				
+BGDFGHOM_00630	CDS	519				hypothetical protein
+BGDFGHOM_00631	gene	393	ctaA			
+BGDFGHOM_00631	CDS	393	ctaA	1.3.-.-		Heme A synthase
+BGDFGHOM_00632	gene	564				
+BGDFGHOM_00632	CDS	564				hypothetical protein
+BGDFGHOM_00633	gene	1542	ctaD			
+BGDFGHOM_00633	CDS	1542	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+BGDFGHOM_00634	gene	423	coxM			
+BGDFGHOM_00634	CDS	423	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+BGDFGHOM_00635	gene	261				
+BGDFGHOM_00635	CDS	261				hypothetical protein
+BGDFGHOM_00636	gene	618	pspA			
+BGDFGHOM_00636	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+BGDFGHOM_00637	gene	672				
+BGDFGHOM_00637	CDS	672				hypothetical protein
+BGDFGHOM_00638	gene	237				
+BGDFGHOM_00638	CDS	237				hypothetical protein
+BGDFGHOM_00639	gene	1185	aspC			
+BGDFGHOM_00639	CDS	1185	aspC	2.6.1.1	COG0436	putative aspartate aminotransferase
+BGDFGHOM_00640	gene	75				
+BGDFGHOM_00640	tRNA	75				tRNA-Arg(tcg)
+BGDFGHOM_00641	gene	240				
+BGDFGHOM_00641	CDS	240				hypothetical protein
+BGDFGHOM_00642	gene	642				
+BGDFGHOM_00642	CDS	642				hypothetical protein
+BGDFGHOM_00643	gene	1035	mtnA			
+BGDFGHOM_00643	CDS	1035	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+BGDFGHOM_00644	gene	1011				
+BGDFGHOM_00644	CDS	1011				hypothetical protein
+BGDFGHOM_00645	gene	738	kdsB			
+BGDFGHOM_00645	CDS	738	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+BGDFGHOM_00646	gene	150				
+BGDFGHOM_00646	CDS	150				hypothetical protein
+BGDFGHOM_00647	gene	1107	moaA_2			
+BGDFGHOM_00647	CDS	1107	moaA_2			GTP 3',8-cyclase
+BGDFGHOM_00648	gene	978				
+BGDFGHOM_00648	CDS	978				hypothetical protein
+BGDFGHOM_00649	gene	1110				
+BGDFGHOM_00649	CDS	1110				hypothetical protein
+BGDFGHOM_00650	gene	1032	neuB			
+BGDFGHOM_00650	CDS	1032	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+BGDFGHOM_00651	gene	591	gmhA1			
+BGDFGHOM_00651	CDS	591	gmhA1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+BGDFGHOM_00652	gene	486	gmhB			
+BGDFGHOM_00652	CDS	486	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+BGDFGHOM_00653	gene	1014	hddA			
+BGDFGHOM_00653	CDS	1014	hddA	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+BGDFGHOM_00654	gene	882	arnC_1			
+BGDFGHOM_00654	CDS	882	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BGDFGHOM_00655	gene	1143				
+BGDFGHOM_00655	CDS	1143				hypothetical protein
+BGDFGHOM_00656	gene	1509				
+BGDFGHOM_00656	CDS	1509				hypothetical protein
+BGDFGHOM_00657	gene	984	iolG_1			
+BGDFGHOM_00657	CDS	984	iolG_1	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+BGDFGHOM_00658	gene	1059	legI			
+BGDFGHOM_00658	CDS	1059	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+BGDFGHOM_00659	gene	999				
+BGDFGHOM_00659	CDS	999				hypothetical protein
+BGDFGHOM_00660	gene	771				
+BGDFGHOM_00660	CDS	771				hypothetical protein
+BGDFGHOM_00661	gene	798	bacC			
+BGDFGHOM_00661	CDS	798	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+BGDFGHOM_00662	gene	1788				
+BGDFGHOM_00662	CDS	1788				hypothetical protein
+BGDFGHOM_00663	gene	1131				
+BGDFGHOM_00663	CDS	1131				hypothetical protein
+BGDFGHOM_00664	gene	1020				
+BGDFGHOM_00664	CDS	1020				hypothetical protein
+BGDFGHOM_00665	gene	558				
+BGDFGHOM_00665	CDS	558				hypothetical protein
+BGDFGHOM_00666	gene	126				
+BGDFGHOM_00666	CDS	126				hypothetical protein
+BGDFGHOM_00667	gene	1080	asd2			
+BGDFGHOM_00667	CDS	1080	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+BGDFGHOM_00668	gene	447	lrp_2			
+BGDFGHOM_00668	CDS	447	lrp_2		COG1522	Leucine-responsive regulatory protein
+BGDFGHOM_00669	gene	930	ctaB_1			
+BGDFGHOM_00669	CDS	930	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+BGDFGHOM_00670	gene	783	phnE			
+BGDFGHOM_00670	CDS	783	phnE		COG3639	Phosphate-import permease protein PhnE
+BGDFGHOM_00671	gene	822	metN2			
+BGDFGHOM_00671	CDS	822	metN2	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN 2
+BGDFGHOM_00672	gene	1083				
+BGDFGHOM_00672	CDS	1083				hypothetical protein
+BGDFGHOM_00673	gene	717				
+BGDFGHOM_00673	CDS	717				hypothetical protein
+BGDFGHOM_00674	gene	1335	bsdC			
+BGDFGHOM_00674	CDS	1335	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+BGDFGHOM_00675	gene	339				
+BGDFGHOM_00675	CDS	339				hypothetical protein
+BGDFGHOM_00676	gene	240				
+BGDFGHOM_00676	CDS	240				hypothetical protein
+BGDFGHOM_00677	gene	162				
+BGDFGHOM_00677	CDS	162				hypothetical protein
+BGDFGHOM_00678	gene	318				
+BGDFGHOM_00678	CDS	318				hypothetical protein
+BGDFGHOM_00679	gene	453				
+BGDFGHOM_00679	CDS	453				hypothetical protein
+BGDFGHOM_00680	gene	1047				
+BGDFGHOM_00680	CDS	1047				hypothetical protein
+BGDFGHOM_00681	gene	1110	hflX			
+BGDFGHOM_00681	CDS	1110	hflX		COG2262	GTPase HflX
+BGDFGHOM_00682	gene	546				
+BGDFGHOM_00682	CDS	546				hypothetical protein
+BGDFGHOM_00683	gene	510				
+BGDFGHOM_00683	CDS	510				hypothetical protein
+BGDFGHOM_00684	gene	654	ribD2			
+BGDFGHOM_00684	CDS	654	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+BGDFGHOM_00685	gene	1188	triA			
+BGDFGHOM_00685	CDS	1188	triA	3.5.4.45		Melamine deaminase
+BGDFGHOM_00686	gene	750				
+BGDFGHOM_00686	CDS	750				hypothetical protein
+BGDFGHOM_00687	gene	414	ribH			
+BGDFGHOM_00687	CDS	414	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+BGDFGHOM_00688	gene	675	ribBA			
+BGDFGHOM_00688	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+BGDFGHOM_00689	gene	585	ribE			
+BGDFGHOM_00689	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+BGDFGHOM_00690	gene	852	citE			
+BGDFGHOM_00690	CDS	852	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+BGDFGHOM_00691	gene	1077	ccr_1			
+BGDFGHOM_00691	CDS	1077	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+BGDFGHOM_00692	gene	285				
+BGDFGHOM_00692	CDS	285				hypothetical protein
+BGDFGHOM_00693	gene	453				
+BGDFGHOM_00693	CDS	453				hypothetical protein
+BGDFGHOM_00694	gene	303				
+BGDFGHOM_00694	CDS	303				hypothetical protein
+BGDFGHOM_00695	gene	76				
+BGDFGHOM_00695	tRNA	76				tRNA-Gly(tcc)
+BGDFGHOM_00696	gene	675				
+BGDFGHOM_00696	CDS	675				hypothetical protein
+BGDFGHOM_00697	gene	2658				
+BGDFGHOM_00697	CDS	2658				hypothetical protein
+BGDFGHOM_00698	gene	2277				
+BGDFGHOM_00698	CDS	2277				hypothetical protein
+BGDFGHOM_00699	gene	162				
+BGDFGHOM_00699	CDS	162				hypothetical protein
+BGDFGHOM_00700	gene	366				
+BGDFGHOM_00700	CDS	366				hypothetical protein
+BGDFGHOM_00701	gene	1155				
+BGDFGHOM_00701	CDS	1155				hypothetical protein
+BGDFGHOM_00702	gene	459				
+BGDFGHOM_00702	CDS	459				hypothetical protein
+BGDFGHOM_00703	gene	813	ybeM			
+BGDFGHOM_00703	CDS	813	ybeM	3.5.1.128		Deaminated glutathione amidase
+BGDFGHOM_00704	gene	177				
+BGDFGHOM_00704	CDS	177				hypothetical protein
+BGDFGHOM_00705	gene	771				
+BGDFGHOM_00705	CDS	771				hypothetical protein
+BGDFGHOM_00706	gene	390				
+BGDFGHOM_00706	CDS	390				hypothetical protein
+BGDFGHOM_00707	gene	207				
+BGDFGHOM_00707	CDS	207				hypothetical protein
+BGDFGHOM_00708	gene	303				
+BGDFGHOM_00708	CDS	303				hypothetical protein
+BGDFGHOM_00709	gene	1203	trm1			
+BGDFGHOM_00709	CDS	1203	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+BGDFGHOM_00710	gene	630	rnhB			
+BGDFGHOM_00710	CDS	630	rnhB			Ribonuclease HII
+BGDFGHOM_00711	gene	672				
+BGDFGHOM_00711	CDS	672				hypothetical protein
+BGDFGHOM_00712	gene	1224				
+BGDFGHOM_00712	CDS	1224				hypothetical protein
+BGDFGHOM_00713	gene	912	pyrD			
+BGDFGHOM_00713	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+BGDFGHOM_00714	gene	786	pyrK			
+BGDFGHOM_00714	CDS	786	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+BGDFGHOM_00715	gene	1728				
+BGDFGHOM_00715	CDS	1728				hypothetical protein
+BGDFGHOM_00716	gene	189				
+BGDFGHOM_00716	CDS	189				hypothetical protein
+BGDFGHOM_00717	gene	1104	recA			
+BGDFGHOM_00717	CDS	1104	recA			Protein RecA
+BGDFGHOM_00718	gene	300				
+BGDFGHOM_00718	CDS	300				hypothetical protein
+BGDFGHOM_00719	gene	327				
+BGDFGHOM_00719	CDS	327				hypothetical protein
+BGDFGHOM_00720	gene	561				
+BGDFGHOM_00720	CDS	561				hypothetical protein
+BGDFGHOM_00721	gene	702	rsmA			
+BGDFGHOM_00721	CDS	702	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+BGDFGHOM_00722	gene	543	prmC			
+BGDFGHOM_00722	CDS	543	prmC	2.1.1.297		Release factor glutamine methyltransferase
+BGDFGHOM_00723	gene	1029	hicd_2			
+BGDFGHOM_00723	CDS	1029	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+BGDFGHOM_00724	gene	744	cpdA_2			
+BGDFGHOM_00724	CDS	744	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BGDFGHOM_00725	gene	85				
+BGDFGHOM_00725	tRNA	85				tRNA-Ser(gct)
+BGDFGHOM_00726	gene	162				
+BGDFGHOM_00726	CDS	162				hypothetical protein
+BGDFGHOM_00727	gene	174				
+BGDFGHOM_00727	CDS	174				hypothetical protein
+BGDFGHOM_00728	gene	828				
+BGDFGHOM_00728	CDS	828				hypothetical protein
+BGDFGHOM_00729	gene	1191				
+BGDFGHOM_00729	CDS	1191				hypothetical protein
+BGDFGHOM_00730	gene	168				
+BGDFGHOM_00730	CDS	168				hypothetical protein
+BGDFGHOM_00731	gene	1692				
+BGDFGHOM_00731	CDS	1692				hypothetical protein
+BGDFGHOM_00732	gene	834	cpnA			
+BGDFGHOM_00732	CDS	834	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+BGDFGHOM_00733	gene	195				
+BGDFGHOM_00733	CDS	195				hypothetical protein
+BGDFGHOM_00734	gene	783	dpnA			
+BGDFGHOM_00734	CDS	783	dpnA	2.1.1.72		Modification methylase DpnIIB
+BGDFGHOM_00735	gene	354				
+BGDFGHOM_00735	CDS	354				hypothetical protein
+BGDFGHOM_00736	gene	690	COQ5_1			
+BGDFGHOM_00736	CDS	690	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BGDFGHOM_00737	gene	720	prcA_1			
+BGDFGHOM_00737	CDS	720	prcA_1	3.4.25.1	COG0638	Proteasome subunit alpha
+BGDFGHOM_00738	gene	375				
+BGDFGHOM_00738	CDS	375				hypothetical protein
+BGDFGHOM_00739	gene	1275	gdhA			
+BGDFGHOM_00739	CDS	1275	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+BGDFGHOM_00740	gene	378				
+BGDFGHOM_00740	CDS	378				hypothetical protein
+BGDFGHOM_00741	gene	2115				
+BGDFGHOM_00741	CDS	2115				hypothetical protein
+BGDFGHOM_00742	gene	762	crt			
+BGDFGHOM_00742	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+BGDFGHOM_00743	gene	465	erpA			
+BGDFGHOM_00743	CDS	465	erpA			Iron-sulfur cluster insertion protein ErpA
+BGDFGHOM_00744	gene	141				
+BGDFGHOM_00744	CDS	141				hypothetical protein
+BGDFGHOM_00745	gene	237				
+BGDFGHOM_00745	CDS	237				hypothetical protein
+BGDFGHOM_00746	gene	696				
+BGDFGHOM_00746	CDS	696				hypothetical protein
+BGDFGHOM_00747	gene	2856	vgb_1			
+BGDFGHOM_00747	CDS	2856	vgb_1	4.2.99.-		Virginiamycin B lyase
+BGDFGHOM_00748	gene	657				
+BGDFGHOM_00748	CDS	657				hypothetical protein
+BGDFGHOM_00749	gene	189				
+BGDFGHOM_00749	CDS	189				hypothetical protein
+BGDFGHOM_00750	gene	1164	arnC_2			
+BGDFGHOM_00750	CDS	1164	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BGDFGHOM_00751	gene	492				
+BGDFGHOM_00751	CDS	492				hypothetical protein
+BGDFGHOM_00752	gene	1215				
+BGDFGHOM_00752	CDS	1215				hypothetical protein
+BGDFGHOM_00753	gene	1059				
+BGDFGHOM_00753	CDS	1059				hypothetical protein
+BGDFGHOM_00754	gene	930	pyrB			
+BGDFGHOM_00754	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+BGDFGHOM_00755	gene	462	pyrI			
+BGDFGHOM_00755	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+BGDFGHOM_00756	gene	420				
+BGDFGHOM_00756	CDS	420				hypothetical protein
+BGDFGHOM_00757	gene	1635				
+BGDFGHOM_00757	CDS	1635				hypothetical protein
+BGDFGHOM_00758	gene	330				
+BGDFGHOM_00758	CDS	330				hypothetical protein
+BGDFGHOM_00759	gene	660	atpD			
+BGDFGHOM_00759	CDS	660	atpD		COG1394	V-type ATP synthase subunit D
+BGDFGHOM_00760	gene	1404	ntpB			
+BGDFGHOM_00760	CDS	1404	ntpB			V-type sodium ATPase subunit B
+BGDFGHOM_00761	gene	1764	ntpA			
+BGDFGHOM_00761	CDS	1764	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+BGDFGHOM_00762	gene	360	atpF			
+BGDFGHOM_00762	CDS	360	atpF			V-type ATP synthase subunit F
+BGDFGHOM_00763	gene	1065	atpC			
+BGDFGHOM_00763	CDS	1065	atpC			V-type ATP synthase subunit C
+BGDFGHOM_00764	gene	336	atpE			
+BGDFGHOM_00764	CDS	336	atpE			V-type proton ATPase subunit E
+BGDFGHOM_00765	gene	117				
+BGDFGHOM_00765	CDS	117				hypothetical protein
+BGDFGHOM_00766	gene	333				
+BGDFGHOM_00766	CDS	333				hypothetical protein
+BGDFGHOM_00767	gene	774	rhdA			
+BGDFGHOM_00767	CDS	774	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+BGDFGHOM_00768	gene	1593	amt			
+BGDFGHOM_00768	CDS	1593	amt			Ammonia channel
+BGDFGHOM_00769	gene	693				
+BGDFGHOM_00769	CDS	693				hypothetical protein
+BGDFGHOM_00770	gene	672				
+BGDFGHOM_00770	CDS	672				hypothetical protein
+BGDFGHOM_00771	gene	123				
+BGDFGHOM_00771	CDS	123				hypothetical protein
+BGDFGHOM_00772	gene	543				
+BGDFGHOM_00772	CDS	543				hypothetical protein
+BGDFGHOM_00773	gene	354				
+BGDFGHOM_00773	CDS	354				hypothetical protein
+BGDFGHOM_00774	gene	675	pyrH			
+BGDFGHOM_00774	CDS	675	pyrH	2.7.4.22		Uridylate kinase
+BGDFGHOM_00775	gene	738				
+BGDFGHOM_00775	CDS	738				hypothetical protein
+BGDFGHOM_00776	gene	77				
+BGDFGHOM_00776	tRNA	77				tRNA-Val(cac)
+BGDFGHOM_00777	gene	258				
+BGDFGHOM_00777	CDS	258				hypothetical protein
+BGDFGHOM_00778	gene	1773				
+BGDFGHOM_00778	CDS	1773				hypothetical protein
+BGDFGHOM_00779	gene	1551				
+BGDFGHOM_00779	CDS	1551				hypothetical protein
+BGDFGHOM_00780	gene	552	pdaD			
+BGDFGHOM_00780	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+BGDFGHOM_00781	gene	219				
+BGDFGHOM_00781	CDS	219				hypothetical protein
+BGDFGHOM_00782	gene	75				
+BGDFGHOM_00782	tRNA	75				tRNA-Thr(tgt)
+BGDFGHOM_00783	gene	1305	cshA			
+BGDFGHOM_00783	CDS	1305	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+BGDFGHOM_00784	gene	234				
+BGDFGHOM_00784	CDS	234				hypothetical protein
+BGDFGHOM_00785	gene	288				
+BGDFGHOM_00785	CDS	288				hypothetical protein
+BGDFGHOM_00786	gene	474				
+BGDFGHOM_00786	CDS	474				hypothetical protein
+BGDFGHOM_00787	gene	786				
+BGDFGHOM_00787	CDS	786				hypothetical protein
+BGDFGHOM_00788	gene	300				
+BGDFGHOM_00788	CDS	300				hypothetical protein
+BGDFGHOM_00789	gene	321				
+BGDFGHOM_00789	CDS	321				hypothetical protein
+BGDFGHOM_00790	gene	2031				
+BGDFGHOM_00790	CDS	2031				hypothetical protein
+BGDFGHOM_00791	gene	228				
+BGDFGHOM_00791	CDS	228				hypothetical protein
+BGDFGHOM_00792	gene	1038	adhT			
+BGDFGHOM_00792	CDS	1038	adhT	1.1.1.1		Alcohol dehydrogenase
+BGDFGHOM_00793	gene	228				
+BGDFGHOM_00793	CDS	228				hypothetical protein
+BGDFGHOM_00794	gene	402				
+BGDFGHOM_00794	CDS	402				hypothetical protein
+BGDFGHOM_00795	gene	330				
+BGDFGHOM_00795	CDS	330				hypothetical protein
+BGDFGHOM_00796	gene	696				
+BGDFGHOM_00796	CDS	696				hypothetical protein
+BGDFGHOM_00797	gene	1197	truD			
+BGDFGHOM_00797	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+BGDFGHOM_00798	gene	1680	vgb_2			
+BGDFGHOM_00798	CDS	1680	vgb_2	4.2.99.-		Virginiamycin B lyase
+BGDFGHOM_00799	gene	357				
+BGDFGHOM_00799	CDS	357				hypothetical protein
+BGDFGHOM_00800	gene	1170				
+BGDFGHOM_00800	CDS	1170				hypothetical protein
+BGDFGHOM_00801	gene	282				
+BGDFGHOM_00801	CDS	282				hypothetical protein
+BGDFGHOM_00802	gene	2145	ftsH_2			
+BGDFGHOM_00802	CDS	2145	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BGDFGHOM_00803	gene	303				
+BGDFGHOM_00803	CDS	303				hypothetical protein
+BGDFGHOM_00804	gene	873	ctaB_2			
+BGDFGHOM_00804	CDS	873	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+BGDFGHOM_00805	gene	807				
+BGDFGHOM_00805	CDS	807				hypothetical protein
+BGDFGHOM_00806	gene	405				
+BGDFGHOM_00806	CDS	405				hypothetical protein
+BGDFGHOM_00807	gene	264				
+BGDFGHOM_00807	CDS	264				hypothetical protein
+BGDFGHOM_00808	gene	2061	hppA			
+BGDFGHOM_00808	CDS	2061	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+BGDFGHOM_00809	gene	387				
+BGDFGHOM_00809	CDS	387				hypothetical protein
+BGDFGHOM_00810	gene	498				
+BGDFGHOM_00810	CDS	498				hypothetical protein
+BGDFGHOM_00811	gene	399				
+BGDFGHOM_00811	CDS	399				hypothetical protein
+BGDFGHOM_00812	gene	123				
+BGDFGHOM_00812	CDS	123				hypothetical protein
+BGDFGHOM_00813	gene	561	ecdB			
+BGDFGHOM_00813	CDS	561	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+BGDFGHOM_00814	gene	186	tatA			
+BGDFGHOM_00814	CDS	186	tatA			Sec-independent protein translocase protein TatA
+BGDFGHOM_00815	gene	792	tatC			
+BGDFGHOM_00815	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+BGDFGHOM_00816	gene	465				
+BGDFGHOM_00816	CDS	465				hypothetical protein
+BGDFGHOM_00817	gene	261	purS			
+BGDFGHOM_00817	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+BGDFGHOM_00818	gene	417	hrp1			
+BGDFGHOM_00818	CDS	417	hrp1		COG0517	Hypoxic response protein 1
+BGDFGHOM_00819	gene	726	purQ			
+BGDFGHOM_00819	CDS	726	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+BGDFGHOM_00820	gene	1155	purL_1			
+BGDFGHOM_00820	CDS	1155	purL_1	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+BGDFGHOM_00821	gene	1032	purL_2			
+BGDFGHOM_00821	CDS	1032	purL_2	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+BGDFGHOM_00822	gene	1437	purF			
+BGDFGHOM_00822	CDS	1437	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+BGDFGHOM_00823	gene	246				
+BGDFGHOM_00823	CDS	246				hypothetical protein
+BGDFGHOM_00824	gene	159				
+BGDFGHOM_00824	CDS	159				hypothetical protein
+BGDFGHOM_00825	gene	516				
+BGDFGHOM_00825	CDS	516				hypothetical protein
+BGDFGHOM_00826	gene	420				
+BGDFGHOM_00826	CDS	420				hypothetical protein
+BGDFGHOM_00827	gene	825	purC			
+BGDFGHOM_00827	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+BGDFGHOM_00828	gene	495				
+BGDFGHOM_00828	CDS	495				hypothetical protein
+BGDFGHOM_00829	gene	417				
+BGDFGHOM_00829	CDS	417				hypothetical protein
+BGDFGHOM_00830	gene	408				
+BGDFGHOM_00830	CDS	408				hypothetical protein
+BGDFGHOM_00831	gene	831	sucC			
+BGDFGHOM_00831	CDS	831	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+BGDFGHOM_00832	gene	918	sucD			
+BGDFGHOM_00832	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+BGDFGHOM_00833	gene	171				
+BGDFGHOM_00833	CDS	171				hypothetical protein
+BGDFGHOM_00834	gene	624	trmR			
+BGDFGHOM_00834	CDS	624	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+BGDFGHOM_00835	gene	678	COQ5_2			
+BGDFGHOM_00835	CDS	678	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BGDFGHOM_00836	gene	1074	ccr_2			
+BGDFGHOM_00836	CDS	1074	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+BGDFGHOM_00837	gene	693				
+BGDFGHOM_00837	CDS	693				hypothetical protein
+BGDFGHOM_00838	gene	186				
+BGDFGHOM_00838	CDS	186				hypothetical protein
+BGDFGHOM_00839	gene	147				
+BGDFGHOM_00839	CDS	147				hypothetical protein
+BGDFGHOM_00840	gene	132				
+BGDFGHOM_00840	CDS	132				hypothetical protein
+BGDFGHOM_00841	gene	351				
+BGDFGHOM_00841	CDS	351				hypothetical protein
+BGDFGHOM_00842	gene	252				
+BGDFGHOM_00842	CDS	252				hypothetical protein
+BGDFGHOM_00843	gene	255				
+BGDFGHOM_00843	CDS	255				hypothetical protein
+BGDFGHOM_00844	gene	822				
+BGDFGHOM_00844	CDS	822				hypothetical protein
+BGDFGHOM_00845	gene	852				
+BGDFGHOM_00845	CDS	852				hypothetical protein
+BGDFGHOM_00846	gene	837				
+BGDFGHOM_00846	CDS	837				hypothetical protein
+BGDFGHOM_00847	gene	1170	iscS			
+BGDFGHOM_00847	CDS	1170	iscS	2.8.1.7		Cysteine desulfurase IscS
+BGDFGHOM_00848	gene	804	larE			
+BGDFGHOM_00848	CDS	804	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+BGDFGHOM_00849	gene	780	larC			
+BGDFGHOM_00849	CDS	780	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+BGDFGHOM_00850	gene	393	adeC			
+BGDFGHOM_00850	CDS	393	adeC	3.5.4.2		Adenine deaminase
+BGDFGHOM_00851	gene	1623	groL_1			
+BGDFGHOM_00851	CDS	1623	groL_1		COG0459	60 kDa chaperonin
+BGDFGHOM_00852	gene	951	mak			
+BGDFGHOM_00852	CDS	951	mak	2.7.1.4	COG1940	Fructokinase
+BGDFGHOM_00853	gene	1521	guaA_1			
+BGDFGHOM_00853	CDS	1521	guaA_1	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+BGDFGHOM_00854	gene	432				
+BGDFGHOM_00854	CDS	432				hypothetical protein
+BGDFGHOM_00855	gene	552	purE_1			
+BGDFGHOM_00855	CDS	552	purE_1	5.4.99.18		N5-carboxyaminoimidazole ribonucleotide mutase
+BGDFGHOM_00856	gene	723				
+BGDFGHOM_00856	CDS	723				hypothetical protein
+BGDFGHOM_00857	gene	1569				
+BGDFGHOM_00857	CDS	1569				hypothetical protein
+BGDFGHOM_00858	gene	324				
+BGDFGHOM_00858	CDS	324				hypothetical protein
+BGDFGHOM_00859	gene	921				
+BGDFGHOM_00859	CDS	921				hypothetical protein
+BGDFGHOM_00860	gene	357				
+BGDFGHOM_00860	CDS	357				hypothetical protein
+BGDFGHOM_00861	gene	516				
+BGDFGHOM_00861	CDS	516				hypothetical protein
+BGDFGHOM_00862	gene	987	strE			
+BGDFGHOM_00862	CDS	987	strE	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+BGDFGHOM_00863	gene	1035	cugP_3			
+BGDFGHOM_00863	CDS	1035	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BGDFGHOM_00864	gene	1044				
+BGDFGHOM_00864	CDS	1044				hypothetical protein
+BGDFGHOM_00865	gene	354				
+BGDFGHOM_00865	CDS	354				hypothetical protein
+BGDFGHOM_00866	gene	414	epi_1			
+BGDFGHOM_00866	CDS	414	epi_1	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+BGDFGHOM_00867	gene	231				
+BGDFGHOM_00867	CDS	231				hypothetical protein
+BGDFGHOM_00868	gene	1746				
+BGDFGHOM_00868	CDS	1746				hypothetical protein
+BGDFGHOM_00869	gene	534	dapH			
+BGDFGHOM_00869	CDS	534	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+BGDFGHOM_00870	gene	843				
+BGDFGHOM_00870	CDS	843				hypothetical protein
+BGDFGHOM_00871	gene	939	rfbE			
+BGDFGHOM_00871	CDS	939	rfbE	5.1.3.10	COG0451	CDP-paratose 2-epimerase
+BGDFGHOM_00872	gene	1035	mgs			
+BGDFGHOM_00872	CDS	1035	mgs	2.4.1.337	COG0438	Alpha-monoglucosyldiacylglycerol synthase
+BGDFGHOM_00873	gene	969	galE1			
+BGDFGHOM_00873	CDS	969	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+BGDFGHOM_00874	gene	378				
+BGDFGHOM_00874	CDS	378				hypothetical protein
+BGDFGHOM_00875	gene	579	purN			
+BGDFGHOM_00875	CDS	579	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+BGDFGHOM_00876	gene	864	folD			
+BGDFGHOM_00876	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+BGDFGHOM_00877	gene	561	yqgN			
+BGDFGHOM_00877	CDS	561	yqgN		COG0212	putative protein YqgN
+BGDFGHOM_00878	gene	945	purD			
+BGDFGHOM_00878	CDS	945	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+BGDFGHOM_00879	gene	1272	guaB			
+BGDFGHOM_00879	CDS	1272	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+BGDFGHOM_00880	gene	471				
+BGDFGHOM_00880	CDS	471				hypothetical protein
+BGDFGHOM_00881	gene	132				
+BGDFGHOM_00881	CDS	132				hypothetical protein
+BGDFGHOM_00882	gene	417				
+BGDFGHOM_00882	CDS	417				hypothetical protein
+BGDFGHOM_00883	gene	1593				
+BGDFGHOM_00883	CDS	1593				hypothetical protein
+BGDFGHOM_00884	gene	972				
+BGDFGHOM_00884	CDS	972				hypothetical protein
+BGDFGHOM_00885	gene	570				
+BGDFGHOM_00885	CDS	570				hypothetical protein
+BGDFGHOM_00886	gene	909				
+BGDFGHOM_00886	CDS	909				hypothetical protein
+BGDFGHOM_00887	gene	1014	iolG_2			
+BGDFGHOM_00887	CDS	1014	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+BGDFGHOM_00888	gene	1053				
+BGDFGHOM_00888	CDS	1053				hypothetical protein
+BGDFGHOM_00889	gene	564	gph			
+BGDFGHOM_00889	CDS	564	gph	3.1.3.18		Phosphoglycolate phosphatase
+BGDFGHOM_00890	gene	975				
+BGDFGHOM_00890	CDS	975				hypothetical protein
+BGDFGHOM_00891	gene	330				
+BGDFGHOM_00891	CDS	330				hypothetical protein
+BGDFGHOM_00892	gene	1053	desV			
+BGDFGHOM_00892	CDS	1053	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+BGDFGHOM_00893	gene	1128				
+BGDFGHOM_00893	CDS	1128				hypothetical protein
+BGDFGHOM_00894	gene	552				
+BGDFGHOM_00894	CDS	552				hypothetical protein
+BGDFGHOM_00895	gene	1164				
+BGDFGHOM_00895	CDS	1164				hypothetical protein
+BGDFGHOM_00896	gene	516				
+BGDFGHOM_00896	CDS	516		2.7.8.-		Cardiolipin synthase
+BGDFGHOM_00897	gene	855				
+BGDFGHOM_00897	CDS	855				hypothetical protein
+BGDFGHOM_00898	gene	972	iolG_3			
+BGDFGHOM_00898	CDS	972	iolG_3	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+BGDFGHOM_00899	gene	1020				
+BGDFGHOM_00899	CDS	1020				hypothetical protein
+BGDFGHOM_00900	gene	843				
+BGDFGHOM_00900	CDS	843				hypothetical protein
+BGDFGHOM_00901	gene	1086				
+BGDFGHOM_00901	CDS	1086				hypothetical protein
+BGDFGHOM_00902	gene	789				
+BGDFGHOM_00902	CDS	789				hypothetical protein
+BGDFGHOM_00903	gene	1221	asnB_2			
+BGDFGHOM_00903	CDS	1221	asnB_2	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+BGDFGHOM_00904	gene	1374	wbpA			
+BGDFGHOM_00904	CDS	1374	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+BGDFGHOM_00905	gene	708				
+BGDFGHOM_00905	CDS	708				hypothetical protein
+BGDFGHOM_00906	gene	918	wbgU			
+BGDFGHOM_00906	CDS	918	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+BGDFGHOM_00907	gene	1056	mshA_1			
+BGDFGHOM_00907	CDS	1056	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+BGDFGHOM_00908	gene	1050				
+BGDFGHOM_00908	CDS	1050				hypothetical protein
+BGDFGHOM_00909	gene	321	mshA_2			
+BGDFGHOM_00909	CDS	321	mshA_2	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+BGDFGHOM_00910	gene	426				
+BGDFGHOM_00910	CDS	426				hypothetical protein
+BGDFGHOM_00911	gene	1128				
+BGDFGHOM_00911	CDS	1128				hypothetical protein
+BGDFGHOM_00912	gene	1251				
+BGDFGHOM_00912	CDS	1251				hypothetical protein
+BGDFGHOM_00913	gene	1197				
+BGDFGHOM_00913	CDS	1197		1.17.1.9		Formate dehydrogenase
+BGDFGHOM_00914	gene	1668	moaA_3			
+BGDFGHOM_00914	CDS	1668	moaA_3			GTP 3',8-cyclase
+BGDFGHOM_00915	gene	771				
+BGDFGHOM_00915	CDS	771				hypothetical protein
+BGDFGHOM_00916	gene	450	mntR_2			
+BGDFGHOM_00916	CDS	450	mntR_2			HTH-type transcriptional regulator MntR
+BGDFGHOM_00917	gene	165				
+BGDFGHOM_00917	CDS	165				hypothetical protein
+BGDFGHOM_00918	gene	396				
+BGDFGHOM_00918	CDS	396				hypothetical protein
+BGDFGHOM_00919	gene	1056				
+BGDFGHOM_00919	CDS	1056				hypothetical protein
+BGDFGHOM_00920	gene	312	cutA			
+BGDFGHOM_00920	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+BGDFGHOM_00921	gene	1200				
+BGDFGHOM_00921	CDS	1200				hypothetical protein
+BGDFGHOM_00922	gene	909	ttuA			
+BGDFGHOM_00922	CDS	909	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+BGDFGHOM_00923	gene	312				
+BGDFGHOM_00923	misc_RNA	312				Archaea_SRP
+BGDFGHOM_00924	gene	279	acyP			
+BGDFGHOM_00924	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+BGDFGHOM_00925	gene	735				
+BGDFGHOM_00925	CDS	735				hypothetical protein
+BGDFGHOM_00926	gene	2259	ftsH_3			
+BGDFGHOM_00926	CDS	2259	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BGDFGHOM_00927	gene	1287				
+BGDFGHOM_00927	CDS	1287				hypothetical protein
+BGDFGHOM_00928	gene	1887	GATB			
+BGDFGHOM_00928	CDS	1887	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+BGDFGHOM_00929	gene	999				
+BGDFGHOM_00929	CDS	999				hypothetical protein
+BGDFGHOM_00930	gene	87				
+BGDFGHOM_00930	tRNA	87				tRNA-Leu(cag)
+BGDFGHOM_00931	gene	186				
+BGDFGHOM_00931	CDS	186				hypothetical protein
+BGDFGHOM_00932	gene	1065	dnaJ_3			
+BGDFGHOM_00932	CDS	1065	dnaJ_3		COG0484	Chaperone protein DnaJ
+BGDFGHOM_00933	gene	1887	dnaK			
+BGDFGHOM_00933	CDS	1887	dnaK		COG0443	Chaperone protein DnaK
+BGDFGHOM_00934	gene	621	grpE			
+BGDFGHOM_00934	CDS	621	grpE			Protein GrpE
+BGDFGHOM_00935	gene	156				
+BGDFGHOM_00935	CDS	156				hypothetical protein
+BGDFGHOM_00936	gene	684				
+BGDFGHOM_00936	CDS	684				hypothetical protein
+BGDFGHOM_00937	gene	73				
+BGDFGHOM_00937	tRNA	73				tRNA-Gln(ttg)
+BGDFGHOM_00938	gene	771				
+BGDFGHOM_00938	CDS	771				hypothetical protein
+BGDFGHOM_00939	gene	954	lnrL			
+BGDFGHOM_00939	CDS	954	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+BGDFGHOM_00940	gene	1398				
+BGDFGHOM_00940	CDS	1398				hypothetical protein
+BGDFGHOM_00941	gene	1404				
+BGDFGHOM_00941	CDS	1404				hypothetical protein
+BGDFGHOM_00942	gene	945	dbpA			
+BGDFGHOM_00942	CDS	945	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+BGDFGHOM_00943	gene	120				
+BGDFGHOM_00943	CDS	120				hypothetical protein
+BGDFGHOM_00944	gene	651	radA			
+BGDFGHOM_00944	CDS	651	radA			DNA repair protein RadA
+BGDFGHOM_00945	gene	243				
+BGDFGHOM_00945	CDS	243				hypothetical protein
+BGDFGHOM_00946	gene	1161	metK			
+BGDFGHOM_00946	CDS	1161	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+BGDFGHOM_00947	gene	384				
+BGDFGHOM_00947	CDS	384				hypothetical protein
+BGDFGHOM_00948	gene	291				
+BGDFGHOM_00948	CDS	291				hypothetical protein
+BGDFGHOM_00949	gene	1098	cbiD			
+BGDFGHOM_00949	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+BGDFGHOM_00950	gene	1056	cbiG			
+BGDFGHOM_00950	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+BGDFGHOM_00951	gene	738	cbiX			
+BGDFGHOM_00951	CDS	738	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+BGDFGHOM_00952	gene	630	cbiC			
+BGDFGHOM_00952	CDS	630	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+BGDFGHOM_00953	gene	186				
+BGDFGHOM_00953	CDS	186				hypothetical protein
+BGDFGHOM_00954	gene	1161				
+BGDFGHOM_00954	CDS	1161				hypothetical protein
+BGDFGHOM_00955	gene	1356	cbiA			
+BGDFGHOM_00955	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+BGDFGHOM_00956	gene	534	cobO			
+BGDFGHOM_00956	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+BGDFGHOM_00957	gene	801				
+BGDFGHOM_00957	CDS	801				hypothetical protein
+BGDFGHOM_00958	gene	156				
+BGDFGHOM_00958	CDS	156				hypothetical protein
+BGDFGHOM_00959	gene	156				
+BGDFGHOM_00959	CDS	156				hypothetical protein
+BGDFGHOM_00960	gene	591				
+BGDFGHOM_00960	CDS	591				hypothetical protein
+BGDFGHOM_00961	gene	369				
+BGDFGHOM_00961	CDS	369				hypothetical protein
+BGDFGHOM_00962	gene	1263	tuf_1			
+BGDFGHOM_00962	CDS	1263	tuf_1			Elongation factor Tu
+BGDFGHOM_00963	gene	174				
+BGDFGHOM_00963	CDS	174				hypothetical protein
+BGDFGHOM_00964	gene	74				
+BGDFGHOM_00964	tRNA	74				tRNA-Gly(ccc)
+BGDFGHOM_00965	gene	138				
+BGDFGHOM_00965	CDS	138				hypothetical protein
+BGDFGHOM_00966	gene	543	guaA_2			
+BGDFGHOM_00966	CDS	543	guaA_2	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+BGDFGHOM_00967	gene	1422				
+BGDFGHOM_00967	CDS	1422				hypothetical protein
+BGDFGHOM_00968	gene	1467	patA			
+BGDFGHOM_00968	CDS	1467	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+BGDFGHOM_00969	gene	1089				
+BGDFGHOM_00969	CDS	1089				hypothetical protein
+BGDFGHOM_00970	gene	2859				
+BGDFGHOM_00970	CDS	2859				hypothetical protein
+BGDFGHOM_00971	gene	1128				
+BGDFGHOM_00971	CDS	1128				hypothetical protein
+BGDFGHOM_00972	gene	1026				
+BGDFGHOM_00972	CDS	1026				hypothetical protein
+BGDFGHOM_00973	gene	840	nfo			
+BGDFGHOM_00973	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+BGDFGHOM_00974	gene	1458	glyQS			
+BGDFGHOM_00974	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+BGDFGHOM_00975	gene	678				
+BGDFGHOM_00975	CDS	678				hypothetical protein
+BGDFGHOM_00976	gene	768	murI			
+BGDFGHOM_00976	CDS	768	murI	5.1.1.3		Glutamate racemase
+BGDFGHOM_00977	gene	777	cbiF			
+BGDFGHOM_00977	CDS	777	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+BGDFGHOM_00978	gene	723	cbiL			
+BGDFGHOM_00978	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+BGDFGHOM_00979	gene	606	cbiT			
+BGDFGHOM_00979	CDS	606	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+BGDFGHOM_00980	gene	486				
+BGDFGHOM_00980	CDS	486				hypothetical protein
+BGDFGHOM_00981	gene	1899				
+BGDFGHOM_00981	CDS	1899				hypothetical protein
+BGDFGHOM_00982	gene	363				
+BGDFGHOM_00982	CDS	363				hypothetical protein
+BGDFGHOM_00983	gene	1155				
+BGDFGHOM_00983	CDS	1155				hypothetical protein
+BGDFGHOM_00984	gene	492				
+BGDFGHOM_00984	CDS	492				hypothetical protein
+BGDFGHOM_00985	gene	1146				
+BGDFGHOM_00985	CDS	1146				hypothetical protein
+BGDFGHOM_00986	gene	651	nth			
+BGDFGHOM_00986	CDS	651	nth	4.2.99.18	COG0177	Endonuclease III
+BGDFGHOM_00987	gene	831				
+BGDFGHOM_00987	CDS	831				hypothetical protein
+BGDFGHOM_00988	gene	687				
+BGDFGHOM_00988	CDS	687				hypothetical protein
+BGDFGHOM_00989	gene	1146	sat			
+BGDFGHOM_00989	CDS	1146	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+BGDFGHOM_00990	gene	792	cysH			
+BGDFGHOM_00990	CDS	792	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+BGDFGHOM_00991	gene	1131	thiI_1			
+BGDFGHOM_00991	CDS	1131	thiI_1	2.8.1.4		tRNA sulfurtransferase
+BGDFGHOM_00992	gene	1236				
+BGDFGHOM_00992	CDS	1236				hypothetical protein
+BGDFGHOM_00993	gene	333				
+BGDFGHOM_00993	CDS	333				hypothetical protein
+BGDFGHOM_00994	gene	375				
+BGDFGHOM_00994	CDS	375				hypothetical protein
+BGDFGHOM_00995	gene	807				
+BGDFGHOM_00995	CDS	807		1.-.-.-		putative oxidoreductase
+BGDFGHOM_00996	gene	1098				
+BGDFGHOM_00996	CDS	1098				hypothetical protein
+BGDFGHOM_00997	gene	948	thrB_2			
+BGDFGHOM_00997	CDS	948	thrB_2	2.7.1.39	COG0083	Homoserine kinase
+BGDFGHOM_00998	gene	678	queC			
+BGDFGHOM_00998	CDS	678	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+BGDFGHOM_00999	gene	267				
+BGDFGHOM_00999	CDS	267				hypothetical protein
+BGDFGHOM_01000	gene	246				
+BGDFGHOM_01000	CDS	246				hypothetical protein
+BGDFGHOM_01001	gene	810				
+BGDFGHOM_01001	CDS	810				hypothetical protein
+BGDFGHOM_01002	gene	327				
+BGDFGHOM_01002	CDS	327				hypothetical protein
+BGDFGHOM_01003	gene	567	folE			
+BGDFGHOM_01003	CDS	567	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+BGDFGHOM_01004	gene	714	queE			
+BGDFGHOM_01004	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+BGDFGHOM_01005	gene	195				
+BGDFGHOM_01005	CDS	195				hypothetical protein
+BGDFGHOM_01006	gene	1068				
+BGDFGHOM_01006	CDS	1068				hypothetical protein
+BGDFGHOM_01007	gene	1017				
+BGDFGHOM_01007	CDS	1017				hypothetical protein
+BGDFGHOM_01008	gene	288				
+BGDFGHOM_01008	CDS	288				hypothetical protein
+BGDFGHOM_01009	gene	531				
+BGDFGHOM_01009	CDS	531				hypothetical protein
+BGDFGHOM_01010	gene	645				
+BGDFGHOM_01010	CDS	645				hypothetical protein
+BGDFGHOM_01011	gene	480				
+BGDFGHOM_01011	CDS	480				hypothetical protein
+BGDFGHOM_01012	gene	177				
+BGDFGHOM_01012	CDS	177				hypothetical protein
+BGDFGHOM_01013	gene	543				
+BGDFGHOM_01013	CDS	543				hypothetical protein
+BGDFGHOM_01014	gene	1458	nhaP2			
+BGDFGHOM_01014	CDS	1458	nhaP2			K(+)/H(+) antiporter NhaP2
+BGDFGHOM_01015	gene	915				
+BGDFGHOM_01015	CDS	915				hypothetical protein
+BGDFGHOM_01016	gene	1566				
+BGDFGHOM_01016	CDS	1566				hypothetical protein
+BGDFGHOM_01017	gene	1350				
+BGDFGHOM_01017	CDS	1350				hypothetical protein
+BGDFGHOM_01018	gene	1719				
+BGDFGHOM_01018	CDS	1719				hypothetical protein
+BGDFGHOM_01019	gene	879	prs			
+BGDFGHOM_01019	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+BGDFGHOM_01020	gene	903	rnz			
+BGDFGHOM_01020	CDS	903	rnz	3.1.26.11	COG1234	Ribonuclease Z
+BGDFGHOM_01021	gene	402				
+BGDFGHOM_01021	CDS	402				hypothetical protein
+BGDFGHOM_01022	gene	522				
+BGDFGHOM_01022	CDS	522				hypothetical protein
+BGDFGHOM_01023	gene	540				
+BGDFGHOM_01023	CDS	540		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+BGDFGHOM_01024	gene	1311				
+BGDFGHOM_01024	CDS	1311				hypothetical protein
+BGDFGHOM_01025	gene	759				
+BGDFGHOM_01025	CDS	759				hypothetical protein
+BGDFGHOM_01026	gene	74				
+BGDFGHOM_01026	tRNA	74				tRNA-Pro(ggg)
+BGDFGHOM_01027	gene	744				
+BGDFGHOM_01027	CDS	744		1.-.-.-		putative oxidoreductase
+BGDFGHOM_01028	gene	327				
+BGDFGHOM_01028	CDS	327				hypothetical protein
+BGDFGHOM_01029	gene	375				
+BGDFGHOM_01029	CDS	375				hypothetical protein
+BGDFGHOM_01030	gene	1461	glnA			
+BGDFGHOM_01030	CDS	1461	glnA	6.3.1.2	COG0174	Glutamine synthetase
+BGDFGHOM_01031	gene	462				
+BGDFGHOM_01031	CDS	462				hypothetical protein
+BGDFGHOM_01032	gene	1689	groL_2			
+BGDFGHOM_01032	CDS	1689	groL_2		COG0459	60 kDa chaperonin
+BGDFGHOM_01033	gene	1323	glyA			
+BGDFGHOM_01033	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+BGDFGHOM_01034	gene	195				
+BGDFGHOM_01034	CDS	195				hypothetical protein
+BGDFGHOM_01035	gene	324				
+BGDFGHOM_01035	CDS	324				hypothetical protein
+BGDFGHOM_01036	gene	1668				
+BGDFGHOM_01036	CDS	1668				hypothetical protein
+BGDFGHOM_01037	gene	492				
+BGDFGHOM_01037	CDS	492				hypothetical protein
+BGDFGHOM_01038	gene	699				
+BGDFGHOM_01038	CDS	699		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+BGDFGHOM_01039	gene	1236				
+BGDFGHOM_01039	CDS	1236				hypothetical protein
+BGDFGHOM_01040	gene	384				
+BGDFGHOM_01040	CDS	384				hypothetical protein
+BGDFGHOM_01041	gene	573				
+BGDFGHOM_01041	CDS	573				hypothetical protein
+BGDFGHOM_01042	gene	360				
+BGDFGHOM_01042	CDS	360				hypothetical protein
+BGDFGHOM_01043	gene	792				
+BGDFGHOM_01043	CDS	792		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+BGDFGHOM_01044	gene	267				
+BGDFGHOM_01044	CDS	267				hypothetical protein
+BGDFGHOM_01045	gene	183				
+BGDFGHOM_01045	CDS	183				hypothetical protein
+BGDFGHOM_01046	gene	264				
+BGDFGHOM_01046	CDS	264				hypothetical protein
+BGDFGHOM_01047	gene	246				
+BGDFGHOM_01047	CDS	246				hypothetical protein
+BGDFGHOM_01048	gene	495				
+BGDFGHOM_01048	CDS	495				hypothetical protein
+BGDFGHOM_01049	gene	279				
+BGDFGHOM_01049	CDS	279				hypothetical protein
+BGDFGHOM_01050	gene	225				
+BGDFGHOM_01050	CDS	225				hypothetical protein
+BGDFGHOM_01051	gene	675				
+BGDFGHOM_01051	CDS	675				hypothetical protein
+BGDFGHOM_01052	gene	456				
+BGDFGHOM_01052	CDS	456				hypothetical protein
+BGDFGHOM_01053	gene	135				
+BGDFGHOM_01053	CDS	135				hypothetical protein
+BGDFGHOM_01054	gene	648	kynB			
+BGDFGHOM_01054	CDS	648	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+BGDFGHOM_01055	gene	255				
+BGDFGHOM_01055	CDS	255				hypothetical protein
+BGDFGHOM_01056	gene	564				
+BGDFGHOM_01056	CDS	564				hypothetical protein
+BGDFGHOM_01057	gene	300	ndhI_2			
+BGDFGHOM_01057	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BGDFGHOM_01058	gene	495				
+BGDFGHOM_01058	CDS	495				hypothetical protein
+BGDFGHOM_01059	gene	153				
+BGDFGHOM_01059	CDS	153				hypothetical protein
+BGDFGHOM_01060	gene	153				
+BGDFGHOM_01060	CDS	153				hypothetical protein
+BGDFGHOM_01061	gene	534				
+BGDFGHOM_01061	CDS	534				hypothetical protein
+BGDFGHOM_01062	gene	270				
+BGDFGHOM_01062	CDS	270				hypothetical protein
+BGDFGHOM_01063	gene	324				
+BGDFGHOM_01063	CDS	324				hypothetical protein
+BGDFGHOM_01064	gene	756				
+BGDFGHOM_01064	CDS	756				hypothetical protein
+BGDFGHOM_01065	gene	1404	thrA			
+BGDFGHOM_01065	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+BGDFGHOM_01066	gene	789				
+BGDFGHOM_01066	CDS	789		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+BGDFGHOM_01067	gene	1047				
+BGDFGHOM_01067	CDS	1047				hypothetical protein
+BGDFGHOM_01068	gene	570				
+BGDFGHOM_01068	CDS	570				hypothetical protein
+BGDFGHOM_01069	gene	333				
+BGDFGHOM_01069	CDS	333				hypothetical protein
+BGDFGHOM_01070	gene	894	RBKS			
+BGDFGHOM_01070	CDS	894	RBKS	2.7.1.15		Ribokinase
+BGDFGHOM_01071	gene	468				
+BGDFGHOM_01071	CDS	468				hypothetical protein
+BGDFGHOM_01072	gene	489	ppiA			
+BGDFGHOM_01072	CDS	489	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+BGDFGHOM_01073	gene	222				
+BGDFGHOM_01073	CDS	222				hypothetical protein
+BGDFGHOM_01074	gene	273				
+BGDFGHOM_01074	CDS	273				hypothetical protein
+BGDFGHOM_01075	gene	76				
+BGDFGHOM_01075	tRNA	76				tRNA-Val(gac)
+BGDFGHOM_01076	gene	498				
+BGDFGHOM_01076	CDS	498				hypothetical protein
+BGDFGHOM_01077	gene	495				
+BGDFGHOM_01077	CDS	495				hypothetical protein
+BGDFGHOM_01078	gene	495				
+BGDFGHOM_01078	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+BGDFGHOM_01079	gene	1131				
+BGDFGHOM_01079	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+BGDFGHOM_01080	gene	759				
+BGDFGHOM_01080	CDS	759				hypothetical protein
+BGDFGHOM_01081	gene	225				
+BGDFGHOM_01081	CDS	225				hypothetical protein
+BGDFGHOM_01082	gene	480				
+BGDFGHOM_01082	CDS	480				hypothetical protein
+BGDFGHOM_01083	gene	633	prcB_1			
+BGDFGHOM_01083	CDS	633	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+BGDFGHOM_01084	gene	1935	rnj			
+BGDFGHOM_01084	CDS	1935	rnj	3.1.-.-		Ribonuclease J
+BGDFGHOM_01085	gene	279				
+BGDFGHOM_01085	CDS	279				hypothetical protein
+BGDFGHOM_01086	gene	1047	thiI_2			
+BGDFGHOM_01086	CDS	1047	thiI_2	2.8.1.4		tRNA sulfurtransferase
+BGDFGHOM_01087	gene	1059				
+BGDFGHOM_01087	CDS	1059		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+BGDFGHOM_01088	gene	279				
+BGDFGHOM_01088	CDS	279				hypothetical protein
+BGDFGHOM_01089	gene	666				
+BGDFGHOM_01089	CDS	666				hypothetical protein
+BGDFGHOM_01090	gene	240				
+BGDFGHOM_01090	CDS	240				hypothetical protein
+BGDFGHOM_01091	gene	240				
+BGDFGHOM_01091	CDS	240				hypothetical protein
+BGDFGHOM_01092	gene	255				
+BGDFGHOM_01092	CDS	255				hypothetical protein
+BGDFGHOM_01093	gene	141				
+BGDFGHOM_01093	CDS	141				hypothetical protein
+BGDFGHOM_01094	gene	315				
+BGDFGHOM_01094	CDS	315				hypothetical protein
+BGDFGHOM_01095	gene	393				
+BGDFGHOM_01095	CDS	393				hypothetical protein
+BGDFGHOM_01096	gene	1530				
+BGDFGHOM_01096	CDS	1530				hypothetical protein
+BGDFGHOM_01097	gene	159				
+BGDFGHOM_01097	CDS	159				hypothetical protein
+BGDFGHOM_01098	gene	243				
+BGDFGHOM_01098	CDS	243				hypothetical protein
+BGDFGHOM_01099	gene	174				
+BGDFGHOM_01099	CDS	174				hypothetical protein
+BGDFGHOM_01100	gene	1215	coaBC			
+BGDFGHOM_01100	CDS	1215	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+BGDFGHOM_01101	gene	783	panB			
+BGDFGHOM_01101	CDS	783	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+BGDFGHOM_01102	gene	738				
+BGDFGHOM_01102	CDS	738				hypothetical protein
+BGDFGHOM_01103	gene	675	thrB_3			
+BGDFGHOM_01103	CDS	675	thrB_3	2.7.1.39		Homoserine kinase
+BGDFGHOM_01104	gene	1170				
+BGDFGHOM_01104	CDS	1170				hypothetical protein
+BGDFGHOM_01105	gene	77				
+BGDFGHOM_01105	tRNA	77				tRNA-Arg(gcg)
+BGDFGHOM_01106	gene	444				
+BGDFGHOM_01106	CDS	444				hypothetical protein
+BGDFGHOM_01107	gene	819				
+BGDFGHOM_01107	CDS	819				hypothetical protein
+BGDFGHOM_01108	gene	198				
+BGDFGHOM_01108	CDS	198				hypothetical protein
+BGDFGHOM_01109	gene	1605	lysS			
+BGDFGHOM_01109	CDS	1605	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+BGDFGHOM_01110	gene	1581				
+BGDFGHOM_01110	CDS	1581		2.3.1.-		tRNA uridine(34) acetyltransferase
+BGDFGHOM_01111	gene	606				
+BGDFGHOM_01111	CDS	606				hypothetical protein
+BGDFGHOM_01112	gene	456				
+BGDFGHOM_01112	CDS	456				hypothetical protein
+BGDFGHOM_01113	gene	1440				
+BGDFGHOM_01113	CDS	1440			COG1055	putative transporter
+BGDFGHOM_01114	gene	1023	purM			
+BGDFGHOM_01114	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+BGDFGHOM_01115	gene	726				
+BGDFGHOM_01115	CDS	726				hypothetical protein
+BGDFGHOM_01116	gene	345				
+BGDFGHOM_01116	CDS	345				hypothetical protein
+BGDFGHOM_01117	gene	936	yrbG			
+BGDFGHOM_01117	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+BGDFGHOM_01118	gene	2580				
+BGDFGHOM_01118	CDS	2580				hypothetical protein
+BGDFGHOM_01119	gene	1254	fbiC_1			
+BGDFGHOM_01119	CDS	1254	fbiC_1		COG1060	FO synthase
+BGDFGHOM_01120	gene	228	cofG			
+BGDFGHOM_01120	CDS	228	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+BGDFGHOM_01121	gene	987	fbiC_2			
+BGDFGHOM_01121	CDS	987	fbiC_2		COG1060	FO synthase
+BGDFGHOM_01122	gene	1143				
+BGDFGHOM_01122	CDS	1143				hypothetical protein
+BGDFGHOM_01123	gene	1212				
+BGDFGHOM_01123	CDS	1212				hypothetical protein
+BGDFGHOM_01124	gene	420				
+BGDFGHOM_01124	CDS	420				hypothetical protein
+BGDFGHOM_01125	gene	324	metG_1			
+BGDFGHOM_01125	CDS	324	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+BGDFGHOM_01126	gene	561				
+BGDFGHOM_01126	CDS	561				hypothetical protein
+BGDFGHOM_01127	gene	1137				
+BGDFGHOM_01127	CDS	1137				hypothetical protein
+BGDFGHOM_01128	gene	180				
+BGDFGHOM_01128	CDS	180				hypothetical protein
+BGDFGHOM_01129	gene	894				
+BGDFGHOM_01129	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+BGDFGHOM_01130	gene	147				
+BGDFGHOM_01130	CDS	147				hypothetical protein
+BGDFGHOM_01131	gene	76				
+BGDFGHOM_01131	tRNA	76				tRNA-Pro(tgg)
+BGDFGHOM_01132	gene	498				
+BGDFGHOM_01132	CDS	498				hypothetical protein
+BGDFGHOM_01133	gene	2364	potE			
+BGDFGHOM_01133	CDS	2364	potE			Putrescine transporter PotE
+BGDFGHOM_01134	gene	280				
+BGDFGHOM_01134	misc_RNA	280				RNaseP_arch
+BGDFGHOM_01135	gene	1290				
+BGDFGHOM_01135	CDS	1290				hypothetical protein
+BGDFGHOM_01136	gene	921	fbiA			
+BGDFGHOM_01136	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+BGDFGHOM_01137	gene	627	fbiD			
+BGDFGHOM_01137	CDS	627	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+BGDFGHOM_01138	gene	969				
+BGDFGHOM_01138	CDS	969				hypothetical protein
+BGDFGHOM_01139	gene	309				
+BGDFGHOM_01139	CDS	309				hypothetical protein
+BGDFGHOM_01140	gene	327				
+BGDFGHOM_01140	CDS	327				hypothetical protein
+BGDFGHOM_01141	gene	168				
+BGDFGHOM_01141	CDS	168				hypothetical protein
+BGDFGHOM_01142	gene	1779				
+BGDFGHOM_01142	CDS	1779				hypothetical protein
+BGDFGHOM_01143	gene	459				
+BGDFGHOM_01143	CDS	459				hypothetical protein
+BGDFGHOM_01144	gene	2484				
+BGDFGHOM_01144	CDS	2484				hypothetical protein
+BGDFGHOM_01145	gene	921				
+BGDFGHOM_01145	CDS	921				hypothetical protein
+BGDFGHOM_01146	gene	630	COQ3			
+BGDFGHOM_01146	CDS	630	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+BGDFGHOM_01147	gene	1206	thi4_1			
+BGDFGHOM_01147	CDS	1206	thi4_1	2.4.2.59		Thiamine thiazole synthase
+BGDFGHOM_01148	gene	207				
+BGDFGHOM_01148	CDS	207				hypothetical protein
+BGDFGHOM_01149	gene	576				
+BGDFGHOM_01149	CDS	576				hypothetical protein
+BGDFGHOM_01150	gene	195				
+BGDFGHOM_01150	CDS	195				hypothetical protein
+BGDFGHOM_01151	gene	876	garR			
+BGDFGHOM_01151	CDS	876	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+BGDFGHOM_01152	gene	162				
+BGDFGHOM_01152	CDS	162				hypothetical protein
+BGDFGHOM_01153	gene	387				
+BGDFGHOM_01153	CDS	387				hypothetical protein
+BGDFGHOM_01154	gene	195	cspA_1			
+BGDFGHOM_01154	CDS	195	cspA_1		COG1278	putative cold shock protein A
+BGDFGHOM_01155	gene	195	cspA_2			
+BGDFGHOM_01155	CDS	195	cspA_2		COG1278	putative cold shock protein A
+BGDFGHOM_01156	gene	384	nikR			
+BGDFGHOM_01156	CDS	384	nikR			Nickel-responsive regulator
+BGDFGHOM_01157	gene	714	mntB			
+BGDFGHOM_01157	CDS	714	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+BGDFGHOM_01158	gene	840	znuB			
+BGDFGHOM_01158	CDS	840	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+BGDFGHOM_01159	gene	903				
+BGDFGHOM_01159	CDS	903				hypothetical protein
+BGDFGHOM_01160	gene	306				
+BGDFGHOM_01160	CDS	306				hypothetical protein
+BGDFGHOM_01161	gene	831				
+BGDFGHOM_01161	CDS	831				hypothetical protein
+BGDFGHOM_01162	gene	156				
+BGDFGHOM_01162	CDS	156				hypothetical protein
+BGDFGHOM_01163	gene	396				
+BGDFGHOM_01163	CDS	396				hypothetical protein
+BGDFGHOM_01164	gene	189				
+BGDFGHOM_01164	CDS	189				hypothetical protein
+BGDFGHOM_01165	gene	1638				
+BGDFGHOM_01165	CDS	1638				hypothetical protein
+BGDFGHOM_01166	gene	684				
+BGDFGHOM_01166	CDS	684				hypothetical protein
+BGDFGHOM_01167	gene	276				
+BGDFGHOM_01167	CDS	276				hypothetical protein
+BGDFGHOM_01168	gene	327				
+BGDFGHOM_01168	CDS	327				hypothetical protein
+BGDFGHOM_01169	gene	420				
+BGDFGHOM_01169	CDS	420				hypothetical protein
+BGDFGHOM_01170	gene	171				
+BGDFGHOM_01170	CDS	171				hypothetical protein
+BGDFGHOM_01171	gene	408				
+BGDFGHOM_01171	CDS	408				hypothetical protein
+BGDFGHOM_01172	gene	309				
+BGDFGHOM_01172	CDS	309				hypothetical protein
+BGDFGHOM_01173	gene	150				
+BGDFGHOM_01173	CDS	150				hypothetical protein
+BGDFGHOM_01174	gene	306				
+BGDFGHOM_01174	CDS	306				hypothetical protein
+BGDFGHOM_01175	gene	171				
+BGDFGHOM_01175	CDS	171				hypothetical protein
+BGDFGHOM_01176	gene	198				
+BGDFGHOM_01176	CDS	198				hypothetical protein
+BGDFGHOM_01177	gene	543				
+BGDFGHOM_01177	CDS	543				hypothetical protein
+BGDFGHOM_01178	gene	465				
+BGDFGHOM_01178	CDS	465				hypothetical protein
+BGDFGHOM_01179	gene	147				
+BGDFGHOM_01179	CDS	147				hypothetical protein
+BGDFGHOM_01180	gene	690				
+BGDFGHOM_01180	CDS	690				hypothetical protein
+BGDFGHOM_01181	gene	369				
+BGDFGHOM_01181	CDS	369				hypothetical protein
+BGDFGHOM_01182	gene	1170				
+BGDFGHOM_01182	CDS	1170				hypothetical protein
+BGDFGHOM_01183	gene	951				
+BGDFGHOM_01183	CDS	951				hypothetical protein
+BGDFGHOM_01184	gene	1095	dinB1			
+BGDFGHOM_01184	CDS	1095	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+BGDFGHOM_01185	gene	267				
+BGDFGHOM_01185	CDS	267				hypothetical protein
+BGDFGHOM_01186	gene	525				
+BGDFGHOM_01186	CDS	525				hypothetical protein
+BGDFGHOM_01187	gene	960				
+BGDFGHOM_01187	CDS	960		2.5.-.-		Deoxyhypusine synthase-like protein
+BGDFGHOM_01188	gene	1098	ino1			
+BGDFGHOM_01188	CDS	1098	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+BGDFGHOM_01189	gene	3552	smc_2			
+BGDFGHOM_01189	CDS	3552	smc_2		COG1196	Chromosome partition protein Smc
+BGDFGHOM_01190	gene	600				
+BGDFGHOM_01190	CDS	600				hypothetical protein
+BGDFGHOM_01191	gene	966	oppF			
+BGDFGHOM_01191	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+BGDFGHOM_01192	gene	1029	egtD			
+BGDFGHOM_01192	CDS	1029	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+BGDFGHOM_01193	gene	1299	egtB			
+BGDFGHOM_01193	CDS	1299	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+BGDFGHOM_01194	gene	300				
+BGDFGHOM_01194	CDS	300				hypothetical protein
+BGDFGHOM_01195	gene	1440	proS			
+BGDFGHOM_01195	CDS	1440	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+BGDFGHOM_01196	gene	264				
+BGDFGHOM_01196	CDS	264				hypothetical protein
+BGDFGHOM_01197	gene	288				
+BGDFGHOM_01197	CDS	288				hypothetical protein
+BGDFGHOM_01198	gene	651	serB			
+BGDFGHOM_01198	CDS	651	serB	3.1.3.3		Phosphoserine phosphatase
+BGDFGHOM_01199	gene	732	fbiB_2			
+BGDFGHOM_01199	CDS	732	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+BGDFGHOM_01200	gene	918				
+BGDFGHOM_01200	CDS	918				hypothetical protein
+BGDFGHOM_01201	gene	243	tusA			
+BGDFGHOM_01201	CDS	243	tusA		COG0425	Sulfur carrier protein TusA
+BGDFGHOM_01202	gene	933	trxB_2			
+BGDFGHOM_01202	CDS	933	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+BGDFGHOM_01203	gene	810				
+BGDFGHOM_01203	CDS	810				hypothetical protein
+BGDFGHOM_01204	gene	840	thi4_2			
+BGDFGHOM_01204	CDS	840	thi4_2	2.4.2.59		Thiamine thiazole synthase
+BGDFGHOM_01205	gene	1818	sir			
+BGDFGHOM_01205	CDS	1818	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+BGDFGHOM_01206	gene	810	sseA			
+BGDFGHOM_01206	CDS	810	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+BGDFGHOM_01207	gene	1203				
+BGDFGHOM_01207	CDS	1203				hypothetical protein
+BGDFGHOM_01208	gene	1116				
+BGDFGHOM_01208	CDS	1116				hypothetical protein
+BGDFGHOM_01209	gene	1110	obg			
+BGDFGHOM_01209	CDS	1110	obg	3.6.5.-		GTPase Obg
+BGDFGHOM_01210	gene	714				
+BGDFGHOM_01210	CDS	714				hypothetical protein
+BGDFGHOM_01211	gene	1872	argS			
+BGDFGHOM_01211	CDS	1872	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+BGDFGHOM_01212	gene	117				
+BGDFGHOM_01212	CDS	117				hypothetical protein
+BGDFGHOM_01213	gene	2160				
+BGDFGHOM_01213	CDS	2160				hypothetical protein
+BGDFGHOM_01214	gene	855	trmI			
+BGDFGHOM_01214	CDS	855	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+BGDFGHOM_01215	gene	861	nnr_2			
+BGDFGHOM_01215	CDS	861	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BGDFGHOM_01216	gene	1362	dapE			
+BGDFGHOM_01216	CDS	1362	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+BGDFGHOM_01217	gene	600	prcB_2			
+BGDFGHOM_01217	CDS	600	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+BGDFGHOM_01218	gene	477				
+BGDFGHOM_01218	CDS	477				hypothetical protein
+BGDFGHOM_01219	gene	1011	hom			
+BGDFGHOM_01219	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+BGDFGHOM_01220	gene	438	msrB			
+BGDFGHOM_01220	CDS	438	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+BGDFGHOM_01221	gene	1617	thyX			
+BGDFGHOM_01221	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+BGDFGHOM_01222	gene	306				
+BGDFGHOM_01222	CDS	306				hypothetical protein
+BGDFGHOM_01223	gene	774				
+BGDFGHOM_01223	CDS	774				hypothetical protein
+BGDFGHOM_01224	gene	1923	acsA			
+BGDFGHOM_01224	CDS	1923	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+BGDFGHOM_01225	gene	363	queD			
+BGDFGHOM_01225	CDS	363	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+BGDFGHOM_01226	gene	222				
+BGDFGHOM_01226	CDS	222				hypothetical protein
+BGDFGHOM_01227	gene	240				
+BGDFGHOM_01227	CDS	240				hypothetical protein
+BGDFGHOM_01228	gene	558				
+BGDFGHOM_01228	CDS	558				hypothetical protein
+BGDFGHOM_01229	gene	951				
+BGDFGHOM_01229	CDS	951				hypothetical protein
+BGDFGHOM_01230	gene	1521				
+BGDFGHOM_01230	CDS	1521				hypothetical protein
+BGDFGHOM_01231	gene	996	birA			
+BGDFGHOM_01231	CDS	996	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+BGDFGHOM_01232	gene	411	yccU			
+BGDFGHOM_01232	CDS	411	yccU		COG1832	putative protein YccU
+BGDFGHOM_01233	gene	261				
+BGDFGHOM_01233	CDS	261				hypothetical protein
+BGDFGHOM_01234	gene	1212	OLA1_2			
+BGDFGHOM_01234	CDS	1212	OLA1_2			Obg-like ATPase 1
+BGDFGHOM_01235	gene	1401	cysS			
+BGDFGHOM_01235	CDS	1401	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+BGDFGHOM_01236	gene	786	nadE			
+BGDFGHOM_01236	CDS	786	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+BGDFGHOM_01237	gene	225				
+BGDFGHOM_01237	CDS	225				hypothetical protein
+BGDFGHOM_01238	gene	303	bnzC			
+BGDFGHOM_01238	CDS	303	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+BGDFGHOM_01239	gene	1278	ahcY			
+BGDFGHOM_01239	CDS	1278	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+BGDFGHOM_01240	gene	186				
+BGDFGHOM_01240	CDS	186				hypothetical protein
+BGDFGHOM_01241	gene	1656	metG_2			
+BGDFGHOM_01241	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+BGDFGHOM_01242	gene	753				
+BGDFGHOM_01242	CDS	753				hypothetical protein
+BGDFGHOM_01243	gene	966	tuf_2			
+BGDFGHOM_01243	CDS	966	tuf_2			Elongation factor Tu
+BGDFGHOM_01244	gene	999	ilvC			
+BGDFGHOM_01244	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+BGDFGHOM_01245	gene	423	mcm			
+BGDFGHOM_01245	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+BGDFGHOM_01246	gene	2508	pepN			
+BGDFGHOM_01246	CDS	2508	pepN	3.4.11.2	COG0308	Aminopeptidase N
+BGDFGHOM_01247	gene	414				
+BGDFGHOM_01247	CDS	414				hypothetical protein
+BGDFGHOM_01248	gene	918				
+BGDFGHOM_01248	CDS	918		3.6.-.-	COG1703	putative GTPase
+BGDFGHOM_01249	gene	1584	bhbA			
+BGDFGHOM_01249	CDS	1584	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+BGDFGHOM_01250	gene	393	epi_2			
+BGDFGHOM_01250	CDS	393	epi_2	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+BGDFGHOM_01251	gene	246				
+BGDFGHOM_01251	CDS	246				hypothetical protein
+BGDFGHOM_01252	gene	537				
+BGDFGHOM_01252	CDS	537				hypothetical protein
+BGDFGHOM_01253	gene	423	ppdK_1			
+BGDFGHOM_01253	CDS	423	ppdK_1	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+BGDFGHOM_01254	gene	2172	ppdK_2			
+BGDFGHOM_01254	CDS	2172	ppdK_2	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+BGDFGHOM_01255	gene	657	tpiA			
+BGDFGHOM_01255	CDS	657	tpiA			Triosephosphate isomerase
+BGDFGHOM_01256	gene	291				
+BGDFGHOM_01256	CDS	291			COG4095	Sugar transporter SemiSWEET
+BGDFGHOM_01257	gene	2559				
+BGDFGHOM_01257	CDS	2559				hypothetical protein
+BGDFGHOM_01258	gene	513				
+BGDFGHOM_01258	CDS	513				hypothetical protein
+BGDFGHOM_01259	gene	603				
+BGDFGHOM_01259	CDS	603				hypothetical protein
+BGDFGHOM_01260	gene	297				
+BGDFGHOM_01260	CDS	297				hypothetical protein
+BGDFGHOM_01261	gene	1695	ilvD			
+BGDFGHOM_01261	CDS	1695	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+BGDFGHOM_01262	gene	1356	pabB			
+BGDFGHOM_01262	CDS	1356	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+BGDFGHOM_01263	gene	591	trpG			
+BGDFGHOM_01263	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+BGDFGHOM_01264	gene	1047	trpD			
+BGDFGHOM_01264	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+BGDFGHOM_01265	gene	558	trpC			
+BGDFGHOM_01265	CDS	558	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+BGDFGHOM_01266	gene	1191	trpB			
+BGDFGHOM_01266	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+BGDFGHOM_01267	gene	804	trpA			
+BGDFGHOM_01267	CDS	804	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+BGDFGHOM_01268	gene	1602	pyrG			
+BGDFGHOM_01268	CDS	1602	pyrG	6.3.4.2		CTP synthase
+BGDFGHOM_01269	gene	603	nadK_2			
+BGDFGHOM_01269	CDS	603	nadK_2	2.7.1.23		NAD kinase
+BGDFGHOM_01270	gene	327				
+BGDFGHOM_01270	CDS	327				hypothetical protein
+BGDFGHOM_01271	gene	873				
+BGDFGHOM_01271	CDS	873				hypothetical protein
+BGDFGHOM_01272	gene	288				
+BGDFGHOM_01272	CDS	288				hypothetical protein
+BGDFGHOM_01273	gene	543				
+BGDFGHOM_01273	CDS	543				hypothetical protein
+BGDFGHOM_01274	gene	573	pgsA2			
+BGDFGHOM_01274	CDS	573	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+BGDFGHOM_01275	gene	855	speB			
+BGDFGHOM_01275	CDS	855	speB	3.5.3.11	COG0010	Agmatinase
+BGDFGHOM_01276	gene	1851				
+BGDFGHOM_01276	CDS	1851				hypothetical protein
+BGDFGHOM_01277	gene	252				
+BGDFGHOM_01277	CDS	252				hypothetical protein
+BGDFGHOM_01278	gene	150				
+BGDFGHOM_01278	CDS	150				hypothetical protein
+BGDFGHOM_01279	gene	330				
+BGDFGHOM_01279	CDS	330				hypothetical protein
+BGDFGHOM_01280	gene	1080				
+BGDFGHOM_01280	CDS	1080		2.5.-.-		Deoxyhypusine synthase-like protein
+BGDFGHOM_01281	gene	213				
+BGDFGHOM_01281	CDS	213				hypothetical protein
+BGDFGHOM_01282	gene	315				
+BGDFGHOM_01282	CDS	315				hypothetical protein
+BGDFGHOM_01283	gene	381				
+BGDFGHOM_01283	CDS	381				hypothetical protein
+BGDFGHOM_01284	gene	510				
+BGDFGHOM_01284	CDS	510				hypothetical protein
+BGDFGHOM_01285	gene	288				
+BGDFGHOM_01285	CDS	288				hypothetical protein
+BGDFGHOM_01286	gene	417				
+BGDFGHOM_01286	CDS	417				hypothetical protein
+BGDFGHOM_01287	gene	948	asnB_3			
+BGDFGHOM_01287	CDS	948	asnB_3	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+BGDFGHOM_01288	gene	141				
+BGDFGHOM_01288	CDS	141				hypothetical protein
+BGDFGHOM_01289	gene	888	menA			
+BGDFGHOM_01289	CDS	888	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BGDFGHOM_01290	gene	402				
+BGDFGHOM_01290	CDS	402				hypothetical protein
+BGDFGHOM_01291	gene	432				
+BGDFGHOM_01291	CDS	432				hypothetical protein
+BGDFGHOM_01292	gene	276	ppiC			
+BGDFGHOM_01292	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+BGDFGHOM_01293	gene	1494	srmB_2			
+BGDFGHOM_01293	CDS	1494	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+BGDFGHOM_01294	gene	258				
+BGDFGHOM_01294	CDS	258				hypothetical protein
+BGDFGHOM_01295	gene	387	hit_2			
+BGDFGHOM_01295	CDS	387	hit_2		COG0537	Protein hit
+BGDFGHOM_01296	gene	1281				
+BGDFGHOM_01296	CDS	1281				hypothetical protein
+BGDFGHOM_01297	gene	216				
+BGDFGHOM_01297	CDS	216				hypothetical protein
+BGDFGHOM_01298	gene	345				
+BGDFGHOM_01298	CDS	345				hypothetical protein
+BGDFGHOM_01299	gene	363				
+BGDFGHOM_01299	CDS	363				hypothetical protein
+BGDFGHOM_01300	gene	1026				
+BGDFGHOM_01300	CDS	1026				hypothetical protein
+BGDFGHOM_01301	gene	207				
+BGDFGHOM_01301	CDS	207				hypothetical protein
+BGDFGHOM_01302	gene	342				
+BGDFGHOM_01302	CDS	342				hypothetical protein
+BGDFGHOM_01303	gene	1311	aspS2_2			
+BGDFGHOM_01303	CDS	1311	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BGDFGHOM_01304	gene	267				
+BGDFGHOM_01304	CDS	267				hypothetical protein
+BGDFGHOM_01305	gene	1449	gatA			
+BGDFGHOM_01305	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+BGDFGHOM_01306	gene	1410	gatB			
+BGDFGHOM_01306	CDS	1410	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+BGDFGHOM_01307	gene	1878				
+BGDFGHOM_01307	CDS	1878				hypothetical protein
+BGDFGHOM_01308	gene	1230	carE			
+BGDFGHOM_01308	CDS	1230	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+BGDFGHOM_01309	gene	882	acrB			
+BGDFGHOM_01309	CDS	882	acrB			Acryloyl-CoA reductase electron transfer subunit gamma
+BGDFGHOM_01310	gene	354				
+BGDFGHOM_01310	CDS	354				hypothetical protein
+BGDFGHOM_01311	gene	552				
+BGDFGHOM_01311	CDS	552				hypothetical protein
+BGDFGHOM_01312	gene	1062	phaC			
+BGDFGHOM_01312	CDS	1062	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+BGDFGHOM_01313	gene	423				
+BGDFGHOM_01313	CDS	423				hypothetical protein
+BGDFGHOM_01314	gene	297				
+BGDFGHOM_01314	CDS	297				hypothetical protein
+BGDFGHOM_01315	gene	783				
+BGDFGHOM_01315	CDS	783			COG0596	putative protein
+BGDFGHOM_01316	gene	1212				
+BGDFGHOM_01316	CDS	1212				hypothetical protein
+BGDFGHOM_01317	gene	348				
+BGDFGHOM_01317	CDS	348				hypothetical protein
+BGDFGHOM_01318	gene	189				
+BGDFGHOM_01318	CDS	189				hypothetical protein
+BGDFGHOM_01319	gene	528				
+BGDFGHOM_01319	CDS	528				hypothetical protein
+BGDFGHOM_01320	gene	75				
+BGDFGHOM_01320	tRNA	75				tRNA-Phe(gaa)
+BGDFGHOM_01321	gene	201				
+BGDFGHOM_01321	CDS	201				hypothetical protein
+BGDFGHOM_01322	gene	240				
+BGDFGHOM_01322	CDS	240				hypothetical protein
+BGDFGHOM_01323	gene	219				
+BGDFGHOM_01323	CDS	219				hypothetical protein
+BGDFGHOM_01324	gene	417				
+BGDFGHOM_01324	CDS	417				hypothetical protein
+BGDFGHOM_01325	gene	366				
+BGDFGHOM_01325	CDS	366				hypothetical protein
+BGDFGHOM_01326	gene	96				
+BGDFGHOM_01326	CDS	96				hypothetical protein
+BGDFGHOM_01327	gene	837				
+BGDFGHOM_01327	CDS	837				hypothetical protein
+BGDFGHOM_01328	gene	825				
+BGDFGHOM_01328	CDS	825				hypothetical protein
+BGDFGHOM_01329	gene	1209	tdcB			
+BGDFGHOM_01329	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+BGDFGHOM_01330	gene	549	purE_2			
+BGDFGHOM_01330	CDS	549	purE_2	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+BGDFGHOM_01331	gene	150				
+BGDFGHOM_01331	CDS	150				hypothetical protein
+BGDFGHOM_01332	gene	1143	purK			
+BGDFGHOM_01332	CDS	1143	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+BGDFGHOM_01333	gene	393				
+BGDFGHOM_01333	CDS	393				hypothetical protein
+BGDFGHOM_01334	gene	360	murU			
+BGDFGHOM_01334	CDS	360	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+BGDFGHOM_01335	gene	345				
+BGDFGHOM_01335	CDS	345				hypothetical protein
+BGDFGHOM_01336	gene	972				
+BGDFGHOM_01336	CDS	972		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+BGDFGHOM_01337	gene	1107	fadA			
+BGDFGHOM_01337	CDS	1107	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+BGDFGHOM_01338	gene	333				
+BGDFGHOM_01338	CDS	333				hypothetical protein
+BGDFGHOM_01339	gene	126				
+BGDFGHOM_01339	CDS	126				hypothetical protein
+BGDFGHOM_01340	gene	645				
+BGDFGHOM_01340	CDS	645				hypothetical protein
+BGDFGHOM_01341	gene	768				
+BGDFGHOM_01341	CDS	768				hypothetical protein
+BGDFGHOM_01342	gene	336				
+BGDFGHOM_01342	CDS	336				hypothetical protein
+BGDFGHOM_01343	gene	423				
+BGDFGHOM_01343	CDS	423				hypothetical protein
+BGDFGHOM_01344	gene	1344				
+BGDFGHOM_01344	CDS	1344				hypothetical protein
+BGDFGHOM_01345	gene	1269				
+BGDFGHOM_01345	CDS	1269				hypothetical protein
+BGDFGHOM_01346	gene	1053				
+BGDFGHOM_01346	CDS	1053				hypothetical protein
+BGDFGHOM_01347	gene	855				
+BGDFGHOM_01347	CDS	855				hypothetical protein
+BGDFGHOM_01348	gene	1395	mvaS			
+BGDFGHOM_01348	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+BGDFGHOM_01349	gene	549				
+BGDFGHOM_01349	CDS	549				hypothetical protein
+BGDFGHOM_01350	gene	699	bioD1			
+BGDFGHOM_01350	CDS	699	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+BGDFGHOM_01351	gene	1347	bioK			
+BGDFGHOM_01351	CDS	1347	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+BGDFGHOM_01352	gene	981	bioB			
+BGDFGHOM_01352	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+BGDFGHOM_01353	gene	1131	bioF			
+BGDFGHOM_01353	CDS	1131	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+BGDFGHOM_01354	gene	651				
+BGDFGHOM_01354	CDS	651				hypothetical protein
+BGDFGHOM_01355	gene	345				
+BGDFGHOM_01355	CDS	345				hypothetical protein
+BGDFGHOM_01356	gene	150				
+BGDFGHOM_01356	CDS	150				hypothetical protein
+BGDFGHOM_01357	gene	735	prcA_2			
+BGDFGHOM_01357	CDS	735	prcA_2			Proteasome subunit alpha
+BGDFGHOM_01358	gene	816				
+BGDFGHOM_01358	CDS	816				hypothetical protein
+BGDFGHOM_01359	gene	993				
+BGDFGHOM_01359	CDS	993				hypothetical protein
+BGDFGHOM_01360	gene	813				
+BGDFGHOM_01360	CDS	813				hypothetical protein
+BGDFGHOM_01361	gene	267				
+BGDFGHOM_01361	CDS	267				hypothetical protein
+BGDFGHOM_01362	gene	396				
+BGDFGHOM_01362	CDS	396				hypothetical protein
+BGDFGHOM_01363	gene	459				
+BGDFGHOM_01363	CDS	459				hypothetical protein
+BGDFGHOM_01364	gene	729				
+BGDFGHOM_01364	CDS	729				hypothetical protein
+BGDFGHOM_01365	gene	204				
+BGDFGHOM_01365	CDS	204				hypothetical protein
+BGDFGHOM_01366	gene	330				
+BGDFGHOM_01366	CDS	330				hypothetical protein
+BGDFGHOM_01367	gene	438				
+BGDFGHOM_01367	CDS	438				hypothetical protein
+BGDFGHOM_01368	gene	549				
+BGDFGHOM_01368	CDS	549				hypothetical protein
+BGDFGHOM_01369	gene	717				
+BGDFGHOM_01369	CDS	717				hypothetical protein
+BGDFGHOM_01370	gene	519				
+BGDFGHOM_01370	CDS	519				hypothetical protein
+BGDFGHOM_01371	gene	195				
+BGDFGHOM_01371	CDS	195				hypothetical protein
+BGDFGHOM_01372	gene	393	rpsH			
+BGDFGHOM_01372	CDS	393	rpsH			30S ribosomal protein S8
+BGDFGHOM_01373	gene	558				
+BGDFGHOM_01373	CDS	558				hypothetical protein
+BGDFGHOM_01374	gene	76				
+BGDFGHOM_01374	tRNA	76				tRNA-Asn(gtt)
+BGDFGHOM_01375	gene	255				
+BGDFGHOM_01375	CDS	255				hypothetical protein
+BGDFGHOM_01376	gene	219				
+BGDFGHOM_01376	CDS	219				hypothetical protein
+BGDFGHOM_01377	gene	312				
+BGDFGHOM_01377	CDS	312				hypothetical protein

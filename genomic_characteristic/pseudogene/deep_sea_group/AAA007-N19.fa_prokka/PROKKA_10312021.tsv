@@ -1,0 +1,2409 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ADDFNANM_00001	gene	864	folD			
+ADDFNANM_00001	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+ADDFNANM_00002	gene	561	yqgN			
+ADDFNANM_00002	CDS	561	yqgN		COG0212	putative protein YqgN
+ADDFNANM_00003	gene	1263	purD			
+ADDFNANM_00003	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+ADDFNANM_00004	gene	720	cobB			
+ADDFNANM_00004	CDS	720	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+ADDFNANM_00005	gene	3201	ileS			
+ADDFNANM_00005	CDS	3201	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+ADDFNANM_00006	gene	330				
+ADDFNANM_00006	CDS	330				hypothetical protein
+ADDFNANM_00007	gene	1107	sucC			
+ADDFNANM_00007	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+ADDFNANM_00008	gene	918	sucD			
+ADDFNANM_00008	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+ADDFNANM_00009	gene	171				
+ADDFNANM_00009	CDS	171				hypothetical protein
+ADDFNANM_00010	gene	624	trmR			
+ADDFNANM_00010	CDS	624	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+ADDFNANM_00011	gene	678	ubiE			
+ADDFNANM_00011	CDS	678	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+ADDFNANM_00012	gene	1074	ccr			
+ADDFNANM_00012	CDS	1074	ccr	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+ADDFNANM_00013	gene	684				
+ADDFNANM_00013	CDS	684				hypothetical protein
+ADDFNANM_00014	gene	2469				
+ADDFNANM_00014	CDS	2469				hypothetical protein
+ADDFNANM_00015	gene	399				
+ADDFNANM_00015	CDS	399				hypothetical protein
+ADDFNANM_00016	gene	1110	dnaJ_1			
+ADDFNANM_00016	CDS	1110	dnaJ_1			Chaperone protein DnaJ
+ADDFNANM_00017	gene	582				
+ADDFNANM_00017	CDS	582				hypothetical protein
+ADDFNANM_00018	gene	459	bcp_1			
+ADDFNANM_00018	CDS	459	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+ADDFNANM_00019	gene	384				
+ADDFNANM_00019	CDS	384				hypothetical protein
+ADDFNANM_00020	gene	2322				
+ADDFNANM_00020	CDS	2322				hypothetical protein
+ADDFNANM_00021	gene	77				
+ADDFNANM_00021	tRNA	77				tRNA-Val(cac)
+ADDFNANM_00022	gene	258				
+ADDFNANM_00022	CDS	258				hypothetical protein
+ADDFNANM_00023	gene	1773				
+ADDFNANM_00023	CDS	1773				hypothetical protein
+ADDFNANM_00024	gene	1551				
+ADDFNANM_00024	CDS	1551				hypothetical protein
+ADDFNANM_00025	gene	552	pdaD			
+ADDFNANM_00025	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+ADDFNANM_00026	gene	219				
+ADDFNANM_00026	CDS	219				hypothetical protein
+ADDFNANM_00027	gene	75				
+ADDFNANM_00027	tRNA	75				tRNA-Thr(tgt)
+ADDFNANM_00028	gene	1305	cshA			
+ADDFNANM_00028	CDS	1305	cshA	3.6.4.13	COG0513	ATP-dependent RNA helicase CshA
+ADDFNANM_00029	gene	234				
+ADDFNANM_00029	CDS	234				hypothetical protein
+ADDFNANM_00030	gene	288				
+ADDFNANM_00030	CDS	288				hypothetical protein
+ADDFNANM_00031	gene	474				
+ADDFNANM_00031	CDS	474				hypothetical protein
+ADDFNANM_00032	gene	786				
+ADDFNANM_00032	CDS	786				hypothetical protein
+ADDFNANM_00033	gene	300				
+ADDFNANM_00033	CDS	300				hypothetical protein
+ADDFNANM_00034	gene	333				
+ADDFNANM_00034	CDS	333				hypothetical protein
+ADDFNANM_00035	gene	2031				
+ADDFNANM_00035	CDS	2031				hypothetical protein
+ADDFNANM_00036	gene	228				
+ADDFNANM_00036	CDS	228				hypothetical protein
+ADDFNANM_00037	gene	1038	adhT			
+ADDFNANM_00037	CDS	1038	adhT	1.1.1.1		Alcohol dehydrogenase
+ADDFNANM_00038	gene	201				
+ADDFNANM_00038	CDS	201				hypothetical protein
+ADDFNANM_00039	gene	228				
+ADDFNANM_00039	CDS	228				hypothetical protein
+ADDFNANM_00040	gene	402				
+ADDFNANM_00040	CDS	402				hypothetical protein
+ADDFNANM_00041	gene	330				
+ADDFNANM_00041	CDS	330				hypothetical protein
+ADDFNANM_00042	gene	696				
+ADDFNANM_00042	CDS	696				hypothetical protein
+ADDFNANM_00043	gene	1197	truD			
+ADDFNANM_00043	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+ADDFNANM_00044	gene	1680	vgb_1			
+ADDFNANM_00044	CDS	1680	vgb_1	4.2.99.-		Virginiamycin B lyase
+ADDFNANM_00045	gene	351				
+ADDFNANM_00045	CDS	351				hypothetical protein
+ADDFNANM_00046	gene	1170				
+ADDFNANM_00046	CDS	1170				hypothetical protein
+ADDFNANM_00047	gene	282				
+ADDFNANM_00047	CDS	282				hypothetical protein
+ADDFNANM_00048	gene	2145	ftsH_1			
+ADDFNANM_00048	CDS	2145	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+ADDFNANM_00049	gene	303				
+ADDFNANM_00049	CDS	303				hypothetical protein
+ADDFNANM_00050	gene	873	ctaB			
+ADDFNANM_00050	CDS	873	ctaB	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+ADDFNANM_00051	gene	807				
+ADDFNANM_00051	CDS	807				hypothetical protein
+ADDFNANM_00052	gene	399				
+ADDFNANM_00052	CDS	399				hypothetical protein
+ADDFNANM_00053	gene	264				
+ADDFNANM_00053	CDS	264				hypothetical protein
+ADDFNANM_00054	gene	2061	hppA			
+ADDFNANM_00054	CDS	2061	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+ADDFNANM_00055	gene	378				
+ADDFNANM_00055	CDS	378				hypothetical protein
+ADDFNANM_00056	gene	498				
+ADDFNANM_00056	CDS	498				hypothetical protein
+ADDFNANM_00057	gene	1104	apbC			
+ADDFNANM_00057	CDS	1104	apbC		COG0489	Iron-sulfur cluster carrier protein
+ADDFNANM_00058	gene	651				
+ADDFNANM_00058	CDS	651				hypothetical protein
+ADDFNANM_00059	gene	189				
+ADDFNANM_00059	CDS	189				hypothetical protein
+ADDFNANM_00060	gene	831	nadC			
+ADDFNANM_00060	CDS	831	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+ADDFNANM_00061	gene	936	nadA			
+ADDFNANM_00061	CDS	936	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+ADDFNANM_00062	gene	819	nadX			
+ADDFNANM_00062	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+ADDFNANM_00063	gene	837				
+ADDFNANM_00063	CDS	837				hypothetical protein
+ADDFNANM_00064	gene	1527				
+ADDFNANM_00064	CDS	1527				hypothetical protein
+ADDFNANM_00065	gene	1134				
+ADDFNANM_00065	CDS	1134				hypothetical protein
+ADDFNANM_00066	gene	2082	smc			
+ADDFNANM_00066	CDS	2082	smc			Chromosome partition protein Smc
+ADDFNANM_00067	gene	489				
+ADDFNANM_00067	CDS	489				hypothetical protein
+ADDFNANM_00068	gene	426				
+ADDFNANM_00068	CDS	426				hypothetical protein
+ADDFNANM_00069	gene	564				
+ADDFNANM_00069	CDS	564				hypothetical protein
+ADDFNANM_00070	gene	660				
+ADDFNANM_00070	CDS	660				hypothetical protein
+ADDFNANM_00071	gene	1398				
+ADDFNANM_00071	CDS	1398				hypothetical protein
+ADDFNANM_00072	gene	351				
+ADDFNANM_00072	CDS	351				hypothetical protein
+ADDFNANM_00073	gene	654				
+ADDFNANM_00073	CDS	654				hypothetical protein
+ADDFNANM_00074	gene	684				
+ADDFNANM_00074	CDS	684				hypothetical protein
+ADDFNANM_00075	gene	933				
+ADDFNANM_00075	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+ADDFNANM_00076	gene	1410				
+ADDFNANM_00076	CDS	1410				hypothetical protein
+ADDFNANM_00077	gene	1362	aspA			
+ADDFNANM_00077	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+ADDFNANM_00078	gene	1269	miaB			
+ADDFNANM_00078	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+ADDFNANM_00079	gene	942	ftsZ			
+ADDFNANM_00079	CDS	942	ftsZ			Cell division protein FtsZ
+ADDFNANM_00080	gene	486				
+ADDFNANM_00080	CDS	486				hypothetical protein
+ADDFNANM_00081	gene	159				
+ADDFNANM_00081	CDS	159				hypothetical protein
+ADDFNANM_00082	gene	564	nudL			
+ADDFNANM_00082	CDS	564	nudL	3.6.1.-		putative Nudix hydrolase NudL
+ADDFNANM_00083	gene	735				
+ADDFNANM_00083	CDS	735				hypothetical protein
+ADDFNANM_00084	gene	927	metE_1			
+ADDFNANM_00084	CDS	927	metE_1	2.1.1.14		5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+ADDFNANM_00085	gene	1011	metE_2			
+ADDFNANM_00085	CDS	1011	metE_2	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+ADDFNANM_00086	gene	330				
+ADDFNANM_00086	CDS	330				hypothetical protein
+ADDFNANM_00087	gene	759	ssuC			
+ADDFNANM_00087	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+ADDFNANM_00088	gene	756	nrtD			
+ADDFNANM_00088	CDS	756	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+ADDFNANM_00089	gene	1035	ssuA			
+ADDFNANM_00089	CDS	1035	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+ADDFNANM_00090	gene	1188	argG			
+ADDFNANM_00090	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+ADDFNANM_00091	gene	168				
+ADDFNANM_00091	CDS	168				hypothetical protein
+ADDFNANM_00092	gene	723	lysX_1			
+ADDFNANM_00092	CDS	723	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+ADDFNANM_00093	gene	135				
+ADDFNANM_00093	CDS	135				hypothetical protein
+ADDFNANM_00094	gene	1053	lysY			
+ADDFNANM_00094	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+ADDFNANM_00095	gene	804	lysZ			
+ADDFNANM_00095	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+ADDFNANM_00096	gene	312	lysJ_1			
+ADDFNANM_00096	CDS	312	lysJ_1	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+ADDFNANM_00097	gene	294	lysJ_2			
+ADDFNANM_00097	CDS	294	lysJ_2	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+ADDFNANM_00098	gene	555	argD			
+ADDFNANM_00098	CDS	555	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+ADDFNANM_00099	gene	417	lrpC			
+ADDFNANM_00099	CDS	417	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+ADDFNANM_00100	gene	1170	leuA			
+ADDFNANM_00100	CDS	1170	leuA	2.3.3.13		2-isopropylmalate synthase
+ADDFNANM_00101	gene	828	lysX_2			
+ADDFNANM_00101	CDS	828	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+ADDFNANM_00102	gene	369	lysK			
+ADDFNANM_00102	CDS	369	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+ADDFNANM_00103	gene	234				
+ADDFNANM_00103	CDS	234				hypothetical protein
+ADDFNANM_00104	gene	315				
+ADDFNANM_00104	CDS	315				hypothetical protein
+ADDFNANM_00105	gene	357				
+ADDFNANM_00105	CDS	357				hypothetical protein
+ADDFNANM_00106	gene	210				
+ADDFNANM_00106	CDS	210				hypothetical protein
+ADDFNANM_00107	gene	171				
+ADDFNANM_00107	CDS	171				hypothetical protein
+ADDFNANM_00108	gene	1704	pat			
+ADDFNANM_00108	CDS	1704	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+ADDFNANM_00109	gene	1527	abfD			
+ADDFNANM_00109	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+ADDFNANM_00110	gene	126				
+ADDFNANM_00110	CDS	126				hypothetical protein
+ADDFNANM_00111	gene	654				
+ADDFNANM_00111	CDS	654				hypothetical protein
+ADDFNANM_00112	gene	795				
+ADDFNANM_00112	CDS	795				hypothetical protein
+ADDFNANM_00113	gene	333	trxA			
+ADDFNANM_00113	CDS	333	trxA			Thioredoxin 1
+ADDFNANM_00114	gene	531				
+ADDFNANM_00114	CDS	531				hypothetical protein
+ADDFNANM_00115	gene	360				
+ADDFNANM_00115	CDS	360				hypothetical protein
+ADDFNANM_00116	gene	75				
+ADDFNANM_00116	tRNA	75				tRNA-Ala(cgc)
+ADDFNANM_00117	gene	1398				
+ADDFNANM_00117	CDS	1398		3.5.2.-		D-hydantoinase
+ADDFNANM_00118	gene	675	rpiA			
+ADDFNANM_00118	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+ADDFNANM_00119	gene	861				
+ADDFNANM_00119	CDS	861				hypothetical protein
+ADDFNANM_00120	gene	189				
+ADDFNANM_00120	CDS	189				hypothetical protein
+ADDFNANM_00121	gene	231				
+ADDFNANM_00121	CDS	231				hypothetical protein
+ADDFNANM_00122	gene	759	mftE			
+ADDFNANM_00122	CDS	759	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+ADDFNANM_00123	gene	843	purU			
+ADDFNANM_00123	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+ADDFNANM_00124	gene	88				
+ADDFNANM_00124	tRNA	88				tRNA-Leu(tag)
+ADDFNANM_00125	gene	1344	algC_1			
+ADDFNANM_00125	CDS	1344	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+ADDFNANM_00126	gene	405				
+ADDFNANM_00126	CDS	405				hypothetical protein
+ADDFNANM_00127	gene	219				
+ADDFNANM_00127	CDS	219				hypothetical protein
+ADDFNANM_00128	gene	204				
+ADDFNANM_00128	CDS	204				hypothetical protein
+ADDFNANM_00129	gene	399	ndk			
+ADDFNANM_00129	CDS	399	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+ADDFNANM_00130	gene	1782	infB			
+ADDFNANM_00130	CDS	1782	infB			Translation initiation factor IF-2
+ADDFNANM_00131	gene	417				
+ADDFNANM_00131	CDS	417				Protein archease
+ADDFNANM_00132	gene	1272	hisS			
+ADDFNANM_00132	CDS	1272	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+ADDFNANM_00133	gene	666				
+ADDFNANM_00133	CDS	666				hypothetical protein
+ADDFNANM_00134	gene	558				
+ADDFNANM_00134	CDS	558				hypothetical protein
+ADDFNANM_00135	gene	86				
+ADDFNANM_00135	tRNA	86				tRNA-Ser(tga)
+ADDFNANM_00136	gene	957				
+ADDFNANM_00136	CDS	957				hypothetical protein
+ADDFNANM_00137	gene	510				
+ADDFNANM_00137	CDS	510				hypothetical protein
+ADDFNANM_00138	gene	2094				
+ADDFNANM_00138	CDS	2094				hypothetical protein
+ADDFNANM_00139	gene	2154	srmB_1			
+ADDFNANM_00139	CDS	2154	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+ADDFNANM_00140	gene	990	mraY			
+ADDFNANM_00140	CDS	990	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+ADDFNANM_00141	gene	231				
+ADDFNANM_00141	CDS	231				hypothetical protein
+ADDFNANM_00142	gene	477	fdtC			
+ADDFNANM_00142	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+ADDFNANM_00143	gene	270				
+ADDFNANM_00143	CDS	270				hypothetical protein
+ADDFNANM_00144	gene	936	iolX			
+ADDFNANM_00144	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+ADDFNANM_00145	gene	918	ilvE_1			
+ADDFNANM_00145	CDS	918	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+ADDFNANM_00146	gene	567				
+ADDFNANM_00146	CDS	567				hypothetical protein
+ADDFNANM_00147	gene	76				
+ADDFNANM_00147	tRNA	76				tRNA-Pro(cgg)
+ADDFNANM_00148	gene	870	nqrF			
+ADDFNANM_00148	CDS	870	nqrF	7.2.1.1		Na(+)-translocating NADH-quinone reductase subunit F
+ADDFNANM_00149	gene	717				
+ADDFNANM_00149	CDS	717				hypothetical protein
+ADDFNANM_00150	gene	1080	hemA_1			
+ADDFNANM_00150	CDS	1080	hemA_1	1.2.1.70		Glutamyl-tRNA reductase
+ADDFNANM_00151	gene	77				
+ADDFNANM_00151	tRNA	77				tRNA-Ala(ggc)
+ADDFNANM_00152	gene	537				
+ADDFNANM_00152	CDS	537				hypothetical protein
+ADDFNANM_00153	gene	411				
+ADDFNANM_00153	CDS	411				hypothetical protein
+ADDFNANM_00154	gene	858	Dml			
+ADDFNANM_00154	CDS	858	Dml	4.1.3.32		2,3-dimethylmalate lyase
+ADDFNANM_00155	gene	507				
+ADDFNANM_00155	CDS	507				hypothetical protein
+ADDFNANM_00156	gene	1713	frdA			
+ADDFNANM_00156	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+ADDFNANM_00157	gene	429				
+ADDFNANM_00157	CDS	429				hypothetical protein
+ADDFNANM_00158	gene	345				
+ADDFNANM_00158	CDS	345				hypothetical protein
+ADDFNANM_00159	gene	801	frdB			
+ADDFNANM_00159	CDS	801	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+ADDFNANM_00160	gene	324				
+ADDFNANM_00160	CDS	324				hypothetical protein
+ADDFNANM_00161	gene	1461	argH			
+ADDFNANM_00161	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+ADDFNANM_00162	gene	669	bluB			
+ADDFNANM_00162	CDS	669	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+ADDFNANM_00163	gene	76				
+ADDFNANM_00163	tRNA	76				tRNA-Lys(ctt)
+ADDFNANM_00164	gene	648				
+ADDFNANM_00164	CDS	648				hypothetical protein
+ADDFNANM_00165	gene	519				
+ADDFNANM_00165	CDS	519				hypothetical protein
+ADDFNANM_00166	gene	444	ctaA			
+ADDFNANM_00166	CDS	444	ctaA	1.3.-.-		Heme A synthase
+ADDFNANM_00167	gene	564				
+ADDFNANM_00167	CDS	564				hypothetical protein
+ADDFNANM_00168	gene	1542	ctaD			
+ADDFNANM_00168	CDS	1542	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+ADDFNANM_00169	gene	426				
+ADDFNANM_00169	CDS	426				hypothetical protein
+ADDFNANM_00170	gene	261				
+ADDFNANM_00170	CDS	261				hypothetical protein
+ADDFNANM_00171	gene	618	pspA			
+ADDFNANM_00171	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+ADDFNANM_00172	gene	672				
+ADDFNANM_00172	CDS	672				hypothetical protein
+ADDFNANM_00173	gene	237				
+ADDFNANM_00173	CDS	237				hypothetical protein
+ADDFNANM_00174	gene	1185	aspC_1			
+ADDFNANM_00174	CDS	1185	aspC_1	2.6.1.1	COG0436	putative aspartate aminotransferase
+ADDFNANM_00175	gene	75				
+ADDFNANM_00175	tRNA	75				tRNA-Arg(tcg)
+ADDFNANM_00176	gene	240				
+ADDFNANM_00176	CDS	240				hypothetical protein
+ADDFNANM_00177	gene	642				
+ADDFNANM_00177	CDS	642				hypothetical protein
+ADDFNANM_00178	gene	1038	mtnA			
+ADDFNANM_00178	CDS	1038	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+ADDFNANM_00179	gene	1008				
+ADDFNANM_00179	CDS	1008				hypothetical protein
+ADDFNANM_00180	gene	1482				
+ADDFNANM_00180	CDS	1482				hypothetical protein
+ADDFNANM_00181	gene	462				
+ADDFNANM_00181	CDS	462				hypothetical protein
+ADDFNANM_00182	gene	756				
+ADDFNANM_00182	CDS	756				hypothetical protein
+ADDFNANM_00183	gene	141				
+ADDFNANM_00183	CDS	141				hypothetical protein
+ADDFNANM_00184	gene	951				
+ADDFNANM_00184	CDS	951				hypothetical protein
+ADDFNANM_00185	gene	867	arnC_1			
+ADDFNANM_00185	CDS	867	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ADDFNANM_00186	gene	1509				
+ADDFNANM_00186	CDS	1509				hypothetical protein
+ADDFNANM_00187	gene	1008	pseB			
+ADDFNANM_00187	CDS	1008	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+ADDFNANM_00188	gene	426				
+ADDFNANM_00188	CDS	426				hypothetical protein
+ADDFNANM_00189	gene	726	neuB			
+ADDFNANM_00189	CDS	726	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+ADDFNANM_00190	gene	1086	arnB			
+ADDFNANM_00190	CDS	1086	arnB	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+ADDFNANM_00191	gene	1122				
+ADDFNANM_00191	CDS	1122				hypothetical protein
+ADDFNANM_00192	gene	1857				
+ADDFNANM_00192	CDS	1857				hypothetical protein
+ADDFNANM_00193	gene	516				
+ADDFNANM_00193	CDS	516				hypothetical protein
+ADDFNANM_00194	gene	987	strE			
+ADDFNANM_00194	CDS	987	strE	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+ADDFNANM_00195	gene	1035	cugP_1			
+ADDFNANM_00195	CDS	1035	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+ADDFNANM_00196	gene	1044				
+ADDFNANM_00196	CDS	1044				hypothetical protein
+ADDFNANM_00197	gene	1074	moaA_1			
+ADDFNANM_00197	CDS	1074	moaA_1			GTP 3',8-cyclase
+ADDFNANM_00198	gene	2034				
+ADDFNANM_00198	CDS	2034				hypothetical protein
+ADDFNANM_00199	gene	105				
+ADDFNANM_00199	CDS	105				hypothetical protein
+ADDFNANM_00200	gene	501				
+ADDFNANM_00200	CDS	501		3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+ADDFNANM_00201	gene	831	legI			
+ADDFNANM_00201	CDS	831	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+ADDFNANM_00202	gene	981				
+ADDFNANM_00202	CDS	981				hypothetical protein
+ADDFNANM_00203	gene	1110	moaA_2			
+ADDFNANM_00203	CDS	1110	moaA_2			GTP 3',8-cyclase
+ADDFNANM_00204	gene	1176	pqqE			
+ADDFNANM_00204	CDS	1176	pqqE	1.21.98.4		PqqA peptide cyclase
+ADDFNANM_00205	gene	576	gmhA			
+ADDFNANM_00205	CDS	576	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+ADDFNANM_00206	gene	783	kdsB			
+ADDFNANM_00206	CDS	783	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+ADDFNANM_00207	gene	354	acpS			
+ADDFNANM_00207	CDS	354	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+ADDFNANM_00208	gene	432	phaJ			
+ADDFNANM_00208	CDS	432	phaJ	4.2.1.119	COG2030	(R)-specific enoyl-CoA hydratase
+ADDFNANM_00209	gene	240				
+ADDFNANM_00209	CDS	240				hypothetical protein
+ADDFNANM_00210	gene	1746				
+ADDFNANM_00210	CDS	1746				hypothetical protein
+ADDFNANM_00211	gene	534	dapH			
+ADDFNANM_00211	CDS	534	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+ADDFNANM_00212	gene	843				
+ADDFNANM_00212	CDS	843				hypothetical protein
+ADDFNANM_00213	gene	939				
+ADDFNANM_00213	CDS	939		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+ADDFNANM_00214	gene	1038	gtfA			
+ADDFNANM_00214	CDS	1038	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+ADDFNANM_00215	gene	969	galE1			
+ADDFNANM_00215	CDS	969	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+ADDFNANM_00216	gene	387	dnaJ_2			
+ADDFNANM_00216	CDS	387	dnaJ_2		COG0484	Chaperone protein DnaJ
+ADDFNANM_00217	gene	1902	dnaK			
+ADDFNANM_00217	CDS	1902	dnaK		COG0443	Chaperone protein DnaK
+ADDFNANM_00218	gene	519	grpE			
+ADDFNANM_00218	CDS	519	grpE		COG0576	Protein GrpE
+ADDFNANM_00219	gene	1128				
+ADDFNANM_00219	CDS	1128				hypothetical protein
+ADDFNANM_00220	gene	762				
+ADDFNANM_00220	CDS	762				hypothetical protein
+ADDFNANM_00221	gene	252				
+ADDFNANM_00221	CDS	252				hypothetical protein
+ADDFNANM_00222	gene	73				
+ADDFNANM_00222	tRNA	73				tRNA-Gln(ttg)
+ADDFNANM_00223	gene	762				
+ADDFNANM_00223	CDS	762				hypothetical protein
+ADDFNANM_00224	gene	954	lnrL			
+ADDFNANM_00224	CDS	954	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+ADDFNANM_00225	gene	1398				
+ADDFNANM_00225	CDS	1398				hypothetical protein
+ADDFNANM_00226	gene	2754	dbpA			
+ADDFNANM_00226	CDS	2754	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+ADDFNANM_00227	gene	120				
+ADDFNANM_00227	CDS	120				hypothetical protein
+ADDFNANM_00228	gene	651	radA			
+ADDFNANM_00228	CDS	651	radA			DNA repair protein RadA
+ADDFNANM_00229	gene	243				
+ADDFNANM_00229	CDS	243				hypothetical protein
+ADDFNANM_00230	gene	1161	metK			
+ADDFNANM_00230	CDS	1161	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+ADDFNANM_00231	gene	873	fcl_1			
+ADDFNANM_00231	CDS	873	fcl_1	1.1.1.271		GDP-L-fucose synthase
+ADDFNANM_00232	gene	1098	cbiD			
+ADDFNANM_00232	CDS	1098	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+ADDFNANM_00233	gene	1056	cbiG			
+ADDFNANM_00233	CDS	1056	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+ADDFNANM_00234	gene	738	cbiX			
+ADDFNANM_00234	CDS	738	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+ADDFNANM_00235	gene	630	cbiC			
+ADDFNANM_00235	CDS	630	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+ADDFNANM_00236	gene	186				
+ADDFNANM_00236	CDS	186				hypothetical protein
+ADDFNANM_00237	gene	1356	cbiA			
+ADDFNANM_00237	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+ADDFNANM_00238	gene	534	cobO			
+ADDFNANM_00238	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+ADDFNANM_00239	gene	801				
+ADDFNANM_00239	CDS	801				hypothetical protein
+ADDFNANM_00240	gene	156				
+ADDFNANM_00240	CDS	156				hypothetical protein
+ADDFNANM_00241	gene	267				
+ADDFNANM_00241	CDS	267				hypothetical protein
+ADDFNANM_00242	gene	495				
+ADDFNANM_00242	CDS	495				hypothetical protein
+ADDFNANM_00243	gene	369				
+ADDFNANM_00243	CDS	369				hypothetical protein
+ADDFNANM_00244	gene	1263	tuf			
+ADDFNANM_00244	CDS	1263	tuf			Elongation factor Tu
+ADDFNANM_00245	gene	456				
+ADDFNANM_00245	CDS	456				hypothetical protein
+ADDFNANM_00246	gene	174				
+ADDFNANM_00246	CDS	174				hypothetical protein
+ADDFNANM_00247	gene	74				
+ADDFNANM_00247	tRNA	74				tRNA-Gly(ccc)
+ADDFNANM_00248	gene	138				
+ADDFNANM_00248	CDS	138				hypothetical protein
+ADDFNANM_00249	gene	558	guaA_1			
+ADDFNANM_00249	CDS	558	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+ADDFNANM_00250	gene	1419				
+ADDFNANM_00250	CDS	1419				hypothetical protein
+ADDFNANM_00251	gene	1467	patA			
+ADDFNANM_00251	CDS	1467	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+ADDFNANM_00252	gene	1089				
+ADDFNANM_00252	CDS	1089				hypothetical protein
+ADDFNANM_00253	gene	2856				
+ADDFNANM_00253	CDS	2856				hypothetical protein
+ADDFNANM_00254	gene	1122				
+ADDFNANM_00254	CDS	1122				hypothetical protein
+ADDFNANM_00255	gene	1026				
+ADDFNANM_00255	CDS	1026				hypothetical protein
+ADDFNANM_00256	gene	840	nfo			
+ADDFNANM_00256	CDS	840	nfo	3.1.21.2	COG0648	Endonuclease 4
+ADDFNANM_00257	gene	1458	glyQS			
+ADDFNANM_00257	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+ADDFNANM_00258	gene	678				
+ADDFNANM_00258	CDS	678				hypothetical protein
+ADDFNANM_00259	gene	768	murI			
+ADDFNANM_00259	CDS	768	murI	5.1.1.3		Glutamate racemase
+ADDFNANM_00260	gene	777	cbiF			
+ADDFNANM_00260	CDS	777	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+ADDFNANM_00261	gene	723	cbiL			
+ADDFNANM_00261	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+ADDFNANM_00262	gene	606	cbiT			
+ADDFNANM_00262	CDS	606	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+ADDFNANM_00263	gene	705				
+ADDFNANM_00263	CDS	705				hypothetical protein
+ADDFNANM_00264	gene	1899				
+ADDFNANM_00264	CDS	1899				hypothetical protein
+ADDFNANM_00265	gene	363				
+ADDFNANM_00265	CDS	363				hypothetical protein
+ADDFNANM_00266	gene	1155				
+ADDFNANM_00266	CDS	1155				hypothetical protein
+ADDFNANM_00267	gene	492				
+ADDFNANM_00267	CDS	492				hypothetical protein
+ADDFNANM_00268	gene	1146				
+ADDFNANM_00268	CDS	1146				hypothetical protein
+ADDFNANM_00269	gene	654	nth			
+ADDFNANM_00269	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+ADDFNANM_00270	gene	687				
+ADDFNANM_00270	CDS	687				hypothetical protein
+ADDFNANM_00271	gene	1146	sat			
+ADDFNANM_00271	CDS	1146	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+ADDFNANM_00272	gene	792	cysH			
+ADDFNANM_00272	CDS	792	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+ADDFNANM_00273	gene	1131	thiI_1			
+ADDFNANM_00273	CDS	1131	thiI_1	2.8.1.4		tRNA sulfurtransferase
+ADDFNANM_00274	gene	1236				
+ADDFNANM_00274	CDS	1236				hypothetical protein
+ADDFNANM_00275	gene	324				
+ADDFNANM_00275	CDS	324				hypothetical protein
+ADDFNANM_00276	gene	375				
+ADDFNANM_00276	CDS	375				hypothetical protein
+ADDFNANM_00277	gene	807				
+ADDFNANM_00277	CDS	807		1.-.-.-		putative oxidoreductase
+ADDFNANM_00278	gene	1098				
+ADDFNANM_00278	CDS	1098				hypothetical protein
+ADDFNANM_00279	gene	468	thrB_1			
+ADDFNANM_00279	CDS	468	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+ADDFNANM_00280	gene	240				
+ADDFNANM_00280	CDS	240				hypothetical protein
+ADDFNANM_00281	gene	678	queC			
+ADDFNANM_00281	CDS	678	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+ADDFNANM_00282	gene	264				
+ADDFNANM_00282	CDS	264				hypothetical protein
+ADDFNANM_00283	gene	246				
+ADDFNANM_00283	CDS	246				hypothetical protein
+ADDFNANM_00284	gene	810				
+ADDFNANM_00284	CDS	810				hypothetical protein
+ADDFNANM_00285	gene	327				
+ADDFNANM_00285	CDS	327				hypothetical protein
+ADDFNANM_00286	gene	567	folE			
+ADDFNANM_00286	CDS	567	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+ADDFNANM_00287	gene	714	queE			
+ADDFNANM_00287	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+ADDFNANM_00288	gene	195				
+ADDFNANM_00288	CDS	195				hypothetical protein
+ADDFNANM_00289	gene	1071				
+ADDFNANM_00289	CDS	1071				hypothetical protein
+ADDFNANM_00290	gene	1017				
+ADDFNANM_00290	CDS	1017				hypothetical protein
+ADDFNANM_00291	gene	261				
+ADDFNANM_00291	CDS	261				hypothetical protein
+ADDFNANM_00292	gene	531				
+ADDFNANM_00292	CDS	531				hypothetical protein
+ADDFNANM_00293	gene	645				
+ADDFNANM_00293	CDS	645				hypothetical protein
+ADDFNANM_00294	gene	474				
+ADDFNANM_00294	CDS	474				hypothetical protein
+ADDFNANM_00295	gene	177				
+ADDFNANM_00295	CDS	177				hypothetical protein
+ADDFNANM_00296	gene	543				
+ADDFNANM_00296	CDS	543				hypothetical protein
+ADDFNANM_00297	gene	213				
+ADDFNANM_00297	CDS	213				hypothetical protein
+ADDFNANM_00298	gene	1170	nhaP2			
+ADDFNANM_00298	CDS	1170	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+ADDFNANM_00299	gene	912				
+ADDFNANM_00299	CDS	912				hypothetical protein
+ADDFNANM_00300	gene	1356				
+ADDFNANM_00300	CDS	1356				hypothetical protein
+ADDFNANM_00301	gene	1350				
+ADDFNANM_00301	CDS	1350				hypothetical protein
+ADDFNANM_00302	gene	1719				
+ADDFNANM_00302	CDS	1719				hypothetical protein
+ADDFNANM_00303	gene	879	prs			
+ADDFNANM_00303	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+ADDFNANM_00304	gene	903	rnz			
+ADDFNANM_00304	CDS	903	rnz	3.1.26.11	COG1234	Ribonuclease Z
+ADDFNANM_00305	gene	402				
+ADDFNANM_00305	CDS	402				hypothetical protein
+ADDFNANM_00306	gene	522				
+ADDFNANM_00306	CDS	522				hypothetical protein
+ADDFNANM_00307	gene	540	thpR			
+ADDFNANM_00307	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+ADDFNANM_00308	gene	300				
+ADDFNANM_00308	CDS	300				hypothetical protein
+ADDFNANM_00309	gene	630				
+ADDFNANM_00309	CDS	630				hypothetical protein
+ADDFNANM_00310	gene	954				
+ADDFNANM_00310	CDS	954				hypothetical protein
+ADDFNANM_00311	gene	1371				
+ADDFNANM_00311	CDS	1371				hypothetical protein
+ADDFNANM_00312	gene	1128				
+ADDFNANM_00312	CDS	1128				hypothetical protein
+ADDFNANM_00313	gene	747				
+ADDFNANM_00313	CDS	747		2.7.7.-	COG1213	CTP:phosphoglutamine cytidylyltransferase
+ADDFNANM_00314	gene	558				
+ADDFNANM_00314	CDS	558				hypothetical protein
+ADDFNANM_00315	gene	495				
+ADDFNANM_00315	CDS	495				hypothetical protein
+ADDFNANM_00316	gene	897	pphA			
+ADDFNANM_00316	CDS	897	pphA	3.11.1.3		Phosphonopyruvate hydrolase
+ADDFNANM_00317	gene	291				
+ADDFNANM_00317	CDS	291				hypothetical protein
+ADDFNANM_00318	gene	678				
+ADDFNANM_00318	CDS	678				hypothetical protein
+ADDFNANM_00319	gene	1425				
+ADDFNANM_00319	CDS	1425				hypothetical protein
+ADDFNANM_00320	gene	975				
+ADDFNANM_00320	CDS	975				hypothetical protein
+ADDFNANM_00321	gene	657	fmt			
+ADDFNANM_00321	CDS	657	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+ADDFNANM_00322	gene	1014	iolG_1			
+ADDFNANM_00322	CDS	1014	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+ADDFNANM_00323	gene	483				
+ADDFNANM_00323	CDS	483				hypothetical protein
+ADDFNANM_00324	gene	1128				
+ADDFNANM_00324	CDS	1128				hypothetical protein
+ADDFNANM_00325	gene	972	iolG_2			
+ADDFNANM_00325	CDS	972	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+ADDFNANM_00326	gene	1020				
+ADDFNANM_00326	CDS	1020				hypothetical protein
+ADDFNANM_00327	gene	1056	desV			
+ADDFNANM_00327	CDS	1056	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+ADDFNANM_00328	gene	939				
+ADDFNANM_00328	CDS	939				hypothetical protein
+ADDFNANM_00329	gene	117				
+ADDFNANM_00329	CDS	117				hypothetical protein
+ADDFNANM_00330	gene	747				
+ADDFNANM_00330	CDS	747				hypothetical protein
+ADDFNANM_00331	gene	1221				
+ADDFNANM_00331	CDS	1221				hypothetical protein
+ADDFNANM_00332	gene	1353	wbpA			
+ADDFNANM_00332	CDS	1353	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+ADDFNANM_00333	gene	513	algD			
+ADDFNANM_00333	CDS	513	algD	1.1.1.132	COG1004	GDP-mannose 6-dehydrogenase
+ADDFNANM_00334	gene	741	tuaD			
+ADDFNANM_00334	CDS	741	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+ADDFNANM_00335	gene	921	galE_1			
+ADDFNANM_00335	CDS	921	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+ADDFNANM_00336	gene	1056	mshA_1			
+ADDFNANM_00336	CDS	1056	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+ADDFNANM_00337	gene	1050				
+ADDFNANM_00337	CDS	1050				hypothetical protein
+ADDFNANM_00338	gene	945	mshA_2			
+ADDFNANM_00338	CDS	945	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+ADDFNANM_00339	gene	1785				
+ADDFNANM_00339	CDS	1785				hypothetical protein
+ADDFNANM_00340	gene	573				
+ADDFNANM_00340	CDS	573				hypothetical protein
+ADDFNANM_00341	gene	468				
+ADDFNANM_00341	CDS	468		1.17.1.9		Formate dehydrogenase
+ADDFNANM_00342	gene	699				
+ADDFNANM_00342	CDS	699		1.17.1.9		Formate dehydrogenase
+ADDFNANM_00343	gene	1668	moaA_3			
+ADDFNANM_00343	CDS	1668	moaA_3			GTP 3',8-cyclase
+ADDFNANM_00344	gene	774				
+ADDFNANM_00344	CDS	774				hypothetical protein
+ADDFNANM_00345	gene	450	mntR			
+ADDFNANM_00345	CDS	450	mntR			HTH-type transcriptional regulator MntR
+ADDFNANM_00346	gene	165				
+ADDFNANM_00346	CDS	165				hypothetical protein
+ADDFNANM_00347	gene	396				
+ADDFNANM_00347	CDS	396				hypothetical protein
+ADDFNANM_00348	gene	1056				
+ADDFNANM_00348	CDS	1056				hypothetical protein
+ADDFNANM_00349	gene	312	cutA			
+ADDFNANM_00349	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+ADDFNANM_00350	gene	546				
+ADDFNANM_00350	CDS	546				hypothetical protein
+ADDFNANM_00351	gene	579				
+ADDFNANM_00351	CDS	579				hypothetical protein
+ADDFNANM_00352	gene	909	ttuA			
+ADDFNANM_00352	CDS	909	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+ADDFNANM_00353	gene	312				
+ADDFNANM_00353	misc_RNA	312				Archaea_SRP
+ADDFNANM_00354	gene	279	acyP			
+ADDFNANM_00354	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+ADDFNANM_00355	gene	735				
+ADDFNANM_00355	CDS	735				hypothetical protein
+ADDFNANM_00356	gene	744	mpa			
+ADDFNANM_00356	CDS	744	mpa			Proteasome-associated ATPase
+ADDFNANM_00357	gene	1518	ftsH_2			
+ADDFNANM_00357	CDS	1518	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+ADDFNANM_00358	gene	369				
+ADDFNANM_00358	CDS	369				hypothetical protein
+ADDFNANM_00359	gene	612	ansA			
+ADDFNANM_00359	CDS	612	ansA	3.5.1.1	COG0252	L-asparaginase 1
+ADDFNANM_00360	gene	108				
+ADDFNANM_00360	CDS	108				hypothetical protein
+ADDFNANM_00361	gene	735	gatB_1			
+ADDFNANM_00361	CDS	735	gatB_1	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ADDFNANM_00362	gene	522				
+ADDFNANM_00362	CDS	522				hypothetical protein
+ADDFNANM_00363	gene	240				
+ADDFNANM_00363	CDS	240				hypothetical protein
+ADDFNANM_00364	gene	86				
+ADDFNANM_00364	tRNA	86				tRNA-Leu(cag)
+ADDFNANM_00365	gene	177				
+ADDFNANM_00365	CDS	177				hypothetical protein
+ADDFNANM_00366	gene	384	dnaJ_3			
+ADDFNANM_00366	CDS	384	dnaJ_3		COG0484	Chaperone protein DnaJ
+ADDFNANM_00367	gene	411	hisA			
+ADDFNANM_00367	CDS	411	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+ADDFNANM_00368	gene	804	hisF			
+ADDFNANM_00368	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+ADDFNANM_00369	gene	330	hisI			
+ADDFNANM_00369	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+ADDFNANM_00370	gene	1224	thrC			
+ADDFNANM_00370	CDS	1224	thrC	4.2.3.1	COG0498	Threonine synthase
+ADDFNANM_00371	gene	378				
+ADDFNANM_00371	CDS	378				hypothetical protein
+ADDFNANM_00372	gene	1026				
+ADDFNANM_00372	CDS	1026				hypothetical protein
+ADDFNANM_00373	gene	4656				
+ADDFNANM_00373	CDS	4656				hypothetical protein
+ADDFNANM_00374	gene	984				
+ADDFNANM_00374	CDS	984				hypothetical protein
+ADDFNANM_00375	gene	4251				
+ADDFNANM_00375	CDS	4251				hypothetical protein
+ADDFNANM_00376	gene	603	petC			
+ADDFNANM_00376	CDS	603	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+ADDFNANM_00377	gene	1464	petB			
+ADDFNANM_00377	CDS	1464	petB			Cytochrome b6
+ADDFNANM_00378	gene	477				
+ADDFNANM_00378	CDS	477				hypothetical protein
+ADDFNANM_00379	gene	351				
+ADDFNANM_00379	CDS	351				hypothetical protein
+ADDFNANM_00380	gene	77				
+ADDFNANM_00380	tRNA	77				tRNA-Arg(tct)
+ADDFNANM_00381	gene	849				
+ADDFNANM_00381	CDS	849				hypothetical protein
+ADDFNANM_00382	gene	1254				
+ADDFNANM_00382	CDS	1254		3.1.-.-	COG1236	Ribonuclease
+ADDFNANM_00383	gene	213				
+ADDFNANM_00383	CDS	213				hypothetical protein
+ADDFNANM_00384	gene	303	ndhI_1			
+ADDFNANM_00384	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ADDFNANM_00385	gene	1509	QTRT1			
+ADDFNANM_00385	CDS	1509	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+ADDFNANM_00386	gene	603				
+ADDFNANM_00386	CDS	603				hypothetical protein
+ADDFNANM_00387	gene	1197	OLA1			
+ADDFNANM_00387	CDS	1197	OLA1			Obg-like ATPase 1
+ADDFNANM_00388	gene	984	tsaD			
+ADDFNANM_00388	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+ADDFNANM_00389	gene	195				
+ADDFNANM_00389	CDS	195				hypothetical protein
+ADDFNANM_00390	gene	333				
+ADDFNANM_00390	CDS	333				hypothetical protein
+ADDFNANM_00391	gene	621				
+ADDFNANM_00391	CDS	621				hypothetical protein
+ADDFNANM_00392	gene	558				
+ADDFNANM_00392	CDS	558		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+ADDFNANM_00393	gene	1020	moaA_4			
+ADDFNANM_00393	CDS	1020	moaA_4			GTP 3',8-cyclase
+ADDFNANM_00394	gene	942				
+ADDFNANM_00394	CDS	942				hypothetical protein
+ADDFNANM_00395	gene	1047				
+ADDFNANM_00395	CDS	1047				hypothetical protein
+ADDFNANM_00396	gene	73				
+ADDFNANM_00396	tRNA	73				tRNA-His(gtg)
+ADDFNANM_00397	gene	348				
+ADDFNANM_00397	CDS	348				hypothetical protein
+ADDFNANM_00398	gene	777				
+ADDFNANM_00398	CDS	777				hypothetical protein
+ADDFNANM_00399	gene	270				
+ADDFNANM_00399	CDS	270				hypothetical protein
+ADDFNANM_00400	gene	315	bphA3			
+ADDFNANM_00400	CDS	315	bphA3			Biphenyl dioxygenase ferredoxin subunit
+ADDFNANM_00401	gene	864	yisK			
+ADDFNANM_00401	CDS	864	yisK		COG0179	putative protein YisK
+ADDFNANM_00402	gene	1737	glnS			
+ADDFNANM_00402	CDS	1737	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+ADDFNANM_00403	gene	984	hepT			
+ADDFNANM_00403	CDS	984	hepT	2.5.1.30	COG0142	Heptaprenyl diphosphate synthase component 2
+ADDFNANM_00404	gene	690	idi			
+ADDFNANM_00404	CDS	690	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+ADDFNANM_00405	gene	738	argB			
+ADDFNANM_00405	CDS	738	argB	2.7.2.8		Acetylglutamate kinase
+ADDFNANM_00406	gene	948	galK			
+ADDFNANM_00406	CDS	948	galK	2.7.1.6		Galactokinase
+ADDFNANM_00407	gene	609				
+ADDFNANM_00407	CDS	609				hypothetical protein
+ADDFNANM_00408	gene	1239	eno			
+ADDFNANM_00408	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+ADDFNANM_00409	gene	237				
+ADDFNANM_00409	CDS	237				hypothetical protein
+ADDFNANM_00410	gene	87				
+ADDFNANM_00410	tRNA	87				tRNA-Leu(gag)
+ADDFNANM_00411	gene	648				
+ADDFNANM_00411	CDS	648				hypothetical protein
+ADDFNANM_00412	gene	657	nnr			
+ADDFNANM_00412	CDS	657	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ADDFNANM_00413	gene	612	pksB			
+ADDFNANM_00413	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+ADDFNANM_00414	gene	1065				
+ADDFNANM_00414	CDS	1065				hypothetical protein
+ADDFNANM_00415	gene	1551	glmS_1			
+ADDFNANM_00415	CDS	1551	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ADDFNANM_00416	gene	135	glmS_2			
+ADDFNANM_00416	CDS	135	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ADDFNANM_00417	gene	645				
+ADDFNANM_00417	CDS	645				hypothetical protein
+ADDFNANM_00418	gene	237				
+ADDFNANM_00418	CDS	237				hypothetical protein
+ADDFNANM_00419	gene	609	pyrE			
+ADDFNANM_00419	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+ADDFNANM_00420	gene	1083				
+ADDFNANM_00420	CDS	1083				hypothetical protein
+ADDFNANM_00421	gene	1086				
+ADDFNANM_00421	CDS	1086				hypothetical protein
+ADDFNANM_00422	gene	480	ypeA			
+ADDFNANM_00422	CDS	480	ypeA	2.3.1.-		Acetyltransferase YpeA
+ADDFNANM_00423	gene	225				
+ADDFNANM_00423	CDS	225				hypothetical protein
+ADDFNANM_00424	gene	837				
+ADDFNANM_00424	CDS	837				hypothetical protein
+ADDFNANM_00425	gene	1776	btuD			
+ADDFNANM_00425	CDS	1776	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+ADDFNANM_00426	gene	112				
+ADDFNANM_00426	rRNA	112				5S ribosomal RNA
+ADDFNANM_00427	gene	612				
+ADDFNANM_00427	CDS	612				hypothetical protein
+ADDFNANM_00428	gene	1230				
+ADDFNANM_00428	CDS	1230				hypothetical protein
+ADDFNANM_00429	gene	147				
+ADDFNANM_00429	CDS	147				hypothetical protein
+ADDFNANM_00430	gene	384				
+ADDFNANM_00430	CDS	384				hypothetical protein
+ADDFNANM_00431	gene	1668	dxs			
+ADDFNANM_00431	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+ADDFNANM_00432	gene	975	aptB			
+ADDFNANM_00432	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+ADDFNANM_00433	gene	666	tal			
+ADDFNANM_00433	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+ADDFNANM_00434	gene	930				
+ADDFNANM_00434	CDS	930				hypothetical protein
+ADDFNANM_00435	gene	654	rplA			
+ADDFNANM_00435	CDS	654	rplA		COG0081	50S ribosomal protein L1
+ADDFNANM_00436	gene	462	lrp			
+ADDFNANM_00436	CDS	462	lrp		COG1522	Leucine-responsive regulatory protein
+ADDFNANM_00437	gene	483	rplK			
+ADDFNANM_00437	CDS	483	rplK		COG0080	50S ribosomal protein L11
+ADDFNANM_00438	gene	585				
+ADDFNANM_00438	CDS	585				hypothetical protein
+ADDFNANM_00439	gene	180				
+ADDFNANM_00439	CDS	180				hypothetical protein
+ADDFNANM_00440	gene	777				
+ADDFNANM_00440	CDS	777				hypothetical protein
+ADDFNANM_00441	gene	294	ogt			
+ADDFNANM_00441	CDS	294	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+ADDFNANM_00442	gene	480				
+ADDFNANM_00442	CDS	480				hypothetical protein
+ADDFNANM_00443	gene	540				
+ADDFNANM_00443	CDS	540				hypothetical protein
+ADDFNANM_00444	gene	1596	pckA			
+ADDFNANM_00444	CDS	1596	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+ADDFNANM_00445	gene	2070				
+ADDFNANM_00445	CDS	2070				hypothetical protein
+ADDFNANM_00446	gene	621	sodA			
+ADDFNANM_00446	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+ADDFNANM_00447	gene	420	pfdA			
+ADDFNANM_00447	CDS	420	pfdA			Prefoldin subunit alpha
+ADDFNANM_00448	gene	1329	ftsY			
+ADDFNANM_00448	CDS	1329	ftsY			Signal recognition particle receptor FtsY
+ADDFNANM_00449	gene	912	argF			
+ADDFNANM_00449	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+ADDFNANM_00450	gene	489				
+ADDFNANM_00450	CDS	489				hypothetical protein
+ADDFNANM_00451	gene	678				
+ADDFNANM_00451	CDS	678				hypothetical protein
+ADDFNANM_00452	gene	468				
+ADDFNANM_00452	CDS	468				hypothetical protein
+ADDFNANM_00453	gene	492				
+ADDFNANM_00453	CDS	492				hypothetical protein
+ADDFNANM_00454	gene	1434	secY			
+ADDFNANM_00454	CDS	1434	secY			Protein translocase subunit SecY
+ADDFNANM_00455	gene	591				
+ADDFNANM_00455	CDS	591				hypothetical protein
+ADDFNANM_00456	gene	642				
+ADDFNANM_00456	CDS	642				hypothetical protein
+ADDFNANM_00457	gene	561	cmk			
+ADDFNANM_00457	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+ADDFNANM_00458	gene	1014	truB			
+ADDFNANM_00458	CDS	1014	truB	5.4.99.25		tRNA pseudouridine synthase B
+ADDFNANM_00459	gene	453				
+ADDFNANM_00459	CDS	453				hypothetical protein
+ADDFNANM_00460	gene	1299	lhgD			
+ADDFNANM_00460	CDS	1299	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+ADDFNANM_00461	gene	261				
+ADDFNANM_00461	CDS	261				hypothetical protein
+ADDFNANM_00462	gene	159				
+ADDFNANM_00462	CDS	159				hypothetical protein
+ADDFNANM_00463	gene	1908				
+ADDFNANM_00463	CDS	1908				hypothetical protein
+ADDFNANM_00464	gene	966				
+ADDFNANM_00464	CDS	966				hypothetical protein
+ADDFNANM_00465	gene	435				
+ADDFNANM_00465	CDS	435				hypothetical protein
+ADDFNANM_00466	gene	555				
+ADDFNANM_00466	CDS	555				hypothetical protein
+ADDFNANM_00467	gene	594				
+ADDFNANM_00467	CDS	594				hypothetical protein
+ADDFNANM_00468	gene	762	fbiB			
+ADDFNANM_00468	CDS	762	fbiB	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+ADDFNANM_00469	gene	1272	dmdA			
+ADDFNANM_00469	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+ADDFNANM_00470	gene	483	DmdB			
+ADDFNANM_00470	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+ADDFNANM_00471	gene	369				
+ADDFNANM_00471	CDS	369				hypothetical protein
+ADDFNANM_00472	gene	465				
+ADDFNANM_00472	CDS	465				hypothetical protein
+ADDFNANM_00473	gene	543				
+ADDFNANM_00473	CDS	543				hypothetical protein
+ADDFNANM_00474	gene	321				
+ADDFNANM_00474	CDS	321				hypothetical protein
+ADDFNANM_00475	gene	630				
+ADDFNANM_00475	CDS	630				hypothetical protein
+ADDFNANM_00476	gene	207				
+ADDFNANM_00476	CDS	207				hypothetical protein
+ADDFNANM_00477	gene	1206	thi4			
+ADDFNANM_00477	CDS	1206	thi4	2.4.2.59		Thiamine thiazole synthase
+ADDFNANM_00478	gene	627	COQ3			
+ADDFNANM_00478	CDS	627	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+ADDFNANM_00479	gene	1731				
+ADDFNANM_00479	CDS	1731				hypothetical protein
+ADDFNANM_00480	gene	2487				
+ADDFNANM_00480	CDS	2487				hypothetical protein
+ADDFNANM_00481	gene	459				
+ADDFNANM_00481	CDS	459				hypothetical protein
+ADDFNANM_00482	gene	1779				
+ADDFNANM_00482	CDS	1779				hypothetical protein
+ADDFNANM_00483	gene	168				
+ADDFNANM_00483	CDS	168				hypothetical protein
+ADDFNANM_00484	gene	327				
+ADDFNANM_00484	CDS	327				hypothetical protein
+ADDFNANM_00485	gene	309				
+ADDFNANM_00485	CDS	309				hypothetical protein
+ADDFNANM_00486	gene	990				
+ADDFNANM_00486	CDS	990				hypothetical protein
+ADDFNANM_00487	gene	627	fbiD			
+ADDFNANM_00487	CDS	627	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+ADDFNANM_00488	gene	921	fbiA			
+ADDFNANM_00488	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+ADDFNANM_00489	gene	1290				
+ADDFNANM_00489	CDS	1290				hypothetical protein
+ADDFNANM_00490	gene	280				
+ADDFNANM_00490	misc_RNA	280				RNaseP_arch
+ADDFNANM_00491	gene	2367	potE			
+ADDFNANM_00491	CDS	2367	potE			Putrescine transporter PotE
+ADDFNANM_00492	gene	522				
+ADDFNANM_00492	CDS	522				hypothetical protein
+ADDFNANM_00493	gene	76				
+ADDFNANM_00493	tRNA	76				tRNA-Pro(tgg)
+ADDFNANM_00494	gene	147				
+ADDFNANM_00494	CDS	147				hypothetical protein
+ADDFNANM_00495	gene	894				
+ADDFNANM_00495	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+ADDFNANM_00496	gene	180				
+ADDFNANM_00496	CDS	180				hypothetical protein
+ADDFNANM_00497	gene	1125				
+ADDFNANM_00497	CDS	1125				hypothetical protein
+ADDFNANM_00498	gene	561				
+ADDFNANM_00498	CDS	561				hypothetical protein
+ADDFNANM_00499	gene	324	metG			
+ADDFNANM_00499	CDS	324	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+ADDFNANM_00500	gene	420				
+ADDFNANM_00500	CDS	420				hypothetical protein
+ADDFNANM_00501	gene	1212				
+ADDFNANM_00501	CDS	1212				hypothetical protein
+ADDFNANM_00502	gene	1143				
+ADDFNANM_00502	CDS	1143				hypothetical protein
+ADDFNANM_00503	gene	1170	fbiC_1			
+ADDFNANM_00503	CDS	1170	fbiC_1		COG1060	FO synthase
+ADDFNANM_00504	gene	1254	fbiC_2			
+ADDFNANM_00504	CDS	1254	fbiC_2		COG1060	FO synthase
+ADDFNANM_00505	gene	591				
+ADDFNANM_00505	CDS	591				hypothetical protein
+ADDFNANM_00506	gene	330				
+ADDFNANM_00506	CDS	330				hypothetical protein
+ADDFNANM_00507	gene	936	yrbG			
+ADDFNANM_00507	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+ADDFNANM_00508	gene	345				
+ADDFNANM_00508	CDS	345				hypothetical protein
+ADDFNANM_00509	gene	726				
+ADDFNANM_00509	CDS	726				hypothetical protein
+ADDFNANM_00510	gene	828	purM_1			
+ADDFNANM_00510	CDS	828	purM_1	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+ADDFNANM_00511	gene	165	purM_2			
+ADDFNANM_00511	CDS	165	purM_2	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+ADDFNANM_00512	gene	801				
+ADDFNANM_00512	CDS	801			COG1055	putative transporter
+ADDFNANM_00513	gene	594				
+ADDFNANM_00513	CDS	594			COG1055	putative transporter
+ADDFNANM_00514	gene	291				
+ADDFNANM_00514	CDS	291				hypothetical protein
+ADDFNANM_00515	gene	207				
+ADDFNANM_00515	CDS	207				hypothetical protein
+ADDFNANM_00516	gene	384				
+ADDFNANM_00516	CDS	384				hypothetical protein
+ADDFNANM_00517	gene	450				
+ADDFNANM_00517	CDS	450				hypothetical protein
+ADDFNANM_00518	gene	213				
+ADDFNANM_00518	CDS	213				hypothetical protein
+ADDFNANM_00519	gene	333				
+ADDFNANM_00519	CDS	333				hypothetical protein
+ADDFNANM_00520	gene	252				
+ADDFNANM_00520	CDS	252				hypothetical protein
+ADDFNANM_00521	gene	189				
+ADDFNANM_00521	CDS	189				hypothetical protein
+ADDFNANM_00522	gene	198				
+ADDFNANM_00522	CDS	198				hypothetical protein
+ADDFNANM_00523	gene	2859	vgb_2			
+ADDFNANM_00523	CDS	2859	vgb_2	4.2.99.-		Virginiamycin B lyase
+ADDFNANM_00524	gene	657				
+ADDFNANM_00524	CDS	657				hypothetical protein
+ADDFNANM_00525	gene	1002				
+ADDFNANM_00525	CDS	1002				hypothetical protein
+ADDFNANM_00526	gene	1164	arnC_2			
+ADDFNANM_00526	CDS	1164	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ADDFNANM_00527	gene	492				
+ADDFNANM_00527	CDS	492				hypothetical protein
+ADDFNANM_00528	gene	1215				
+ADDFNANM_00528	CDS	1215				hypothetical protein
+ADDFNANM_00529	gene	1059				
+ADDFNANM_00529	CDS	1059				hypothetical protein
+ADDFNANM_00530	gene	966	pyrB			
+ADDFNANM_00530	CDS	966	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+ADDFNANM_00531	gene	462	pyrI			
+ADDFNANM_00531	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+ADDFNANM_00532	gene	2100				
+ADDFNANM_00532	CDS	2100				hypothetical protein
+ADDFNANM_00533	gene	138				
+ADDFNANM_00533	CDS	138				hypothetical protein
+ADDFNANM_00534	gene	213				
+ADDFNANM_00534	CDS	213				hypothetical protein
+ADDFNANM_00535	gene	663	atpD			
+ADDFNANM_00535	CDS	663	atpD		COG1394	V-type ATP synthase subunit D
+ADDFNANM_00536	gene	1404	ntpB			
+ADDFNANM_00536	CDS	1404	ntpB			V-type sodium ATPase subunit B
+ADDFNANM_00537	gene	1764	ntpA			
+ADDFNANM_00537	CDS	1764	ntpA	7.2.2.1		V-type sodium ATPase catalytic subunit A
+ADDFNANM_00538	gene	360	atpF			
+ADDFNANM_00538	CDS	360	atpF			V-type ATP synthase subunit F
+ADDFNANM_00539	gene	1065	atpC			
+ADDFNANM_00539	CDS	1065	atpC			V-type ATP synthase subunit C
+ADDFNANM_00540	gene	555	atpE			
+ADDFNANM_00540	CDS	555	atpE			V-type proton ATPase subunit E
+ADDFNANM_00541	gene	333				
+ADDFNANM_00541	CDS	333				hypothetical protein
+ADDFNANM_00542	gene	774	rhdA			
+ADDFNANM_00542	CDS	774	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+ADDFNANM_00543	gene	1581	amt			
+ADDFNANM_00543	CDS	1581	amt			Ammonia channel
+ADDFNANM_00544	gene	693				
+ADDFNANM_00544	CDS	693				hypothetical protein
+ADDFNANM_00545	gene	672				
+ADDFNANM_00545	CDS	672				hypothetical protein
+ADDFNANM_00546	gene	123				
+ADDFNANM_00546	CDS	123				hypothetical protein
+ADDFNANM_00547	gene	543				
+ADDFNANM_00547	CDS	543				hypothetical protein
+ADDFNANM_00548	gene	354				
+ADDFNANM_00548	CDS	354				hypothetical protein
+ADDFNANM_00549	gene	675	pyrH			
+ADDFNANM_00549	CDS	675	pyrH	2.7.4.22		Uridylate kinase
+ADDFNANM_00550	gene	1239				
+ADDFNANM_00550	CDS	1239				hypothetical protein
+ADDFNANM_00551	gene	582	tmk			
+ADDFNANM_00551	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+ADDFNANM_00552	gene	387				
+ADDFNANM_00552	CDS	387				18 kDa heat shock protein
+ADDFNANM_00553	gene	1548	ubiB			
+ADDFNANM_00553	CDS	1548	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+ADDFNANM_00554	gene	375				
+ADDFNANM_00554	CDS	375				hypothetical protein
+ADDFNANM_00555	gene	1329				
+ADDFNANM_00555	CDS	1329				hypothetical protein
+ADDFNANM_00556	gene	186				
+ADDFNANM_00556	CDS	186				hypothetical protein
+ADDFNANM_00557	gene	1437	ilvD			
+ADDFNANM_00557	CDS	1437	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+ADDFNANM_00558	gene	114				
+ADDFNANM_00558	CDS	114				hypothetical protein
+ADDFNANM_00559	gene	1356	pabB			
+ADDFNANM_00559	CDS	1356	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+ADDFNANM_00560	gene	591	trpG			
+ADDFNANM_00560	CDS	591	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+ADDFNANM_00561	gene	1047	trpD			
+ADDFNANM_00561	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+ADDFNANM_00562	gene	558	trpC			
+ADDFNANM_00562	CDS	558	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+ADDFNANM_00563	gene	1191	trpB			
+ADDFNANM_00563	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+ADDFNANM_00564	gene	798	trpA			
+ADDFNANM_00564	CDS	798	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+ADDFNANM_00565	gene	1602	pyrG			
+ADDFNANM_00565	CDS	1602	pyrG	6.3.4.2		CTP synthase
+ADDFNANM_00566	gene	1002	nadK_1			
+ADDFNANM_00566	CDS	1002	nadK_1	2.7.1.23		NAD kinase
+ADDFNANM_00567	gene	873				
+ADDFNANM_00567	CDS	873				hypothetical protein
+ADDFNANM_00568	gene	288				
+ADDFNANM_00568	CDS	288				hypothetical protein
+ADDFNANM_00569	gene	543				
+ADDFNANM_00569	CDS	543				hypothetical protein
+ADDFNANM_00570	gene	573	pgsA2			
+ADDFNANM_00570	CDS	573	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+ADDFNANM_00571	gene	855	speB			
+ADDFNANM_00571	CDS	855	speB	3.5.3.11	COG0010	Agmatinase
+ADDFNANM_00572	gene	1851				
+ADDFNANM_00572	CDS	1851				hypothetical protein
+ADDFNANM_00573	gene	252				
+ADDFNANM_00573	CDS	252				hypothetical protein
+ADDFNANM_00574	gene	150				
+ADDFNANM_00574	CDS	150				hypothetical protein
+ADDFNANM_00575	gene	330				
+ADDFNANM_00575	CDS	330				hypothetical protein
+ADDFNANM_00576	gene	1080				
+ADDFNANM_00576	CDS	1080		2.5.-.-		Deoxyhypusine synthase-like protein
+ADDFNANM_00577	gene	213				
+ADDFNANM_00577	CDS	213				hypothetical protein
+ADDFNANM_00578	gene	315				
+ADDFNANM_00578	CDS	315				hypothetical protein
+ADDFNANM_00579	gene	390				
+ADDFNANM_00579	CDS	390				hypothetical protein
+ADDFNANM_00580	gene	510				
+ADDFNANM_00580	CDS	510				hypothetical protein
+ADDFNANM_00581	gene	228				
+ADDFNANM_00581	CDS	228				hypothetical protein
+ADDFNANM_00582	gene	417				
+ADDFNANM_00582	CDS	417				hypothetical protein
+ADDFNANM_00583	gene	948	asnB_1			
+ADDFNANM_00583	CDS	948	asnB_1	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+ADDFNANM_00584	gene	141				
+ADDFNANM_00584	CDS	141				hypothetical protein
+ADDFNANM_00585	gene	888	menA			
+ADDFNANM_00585	CDS	888	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+ADDFNANM_00586	gene	402				
+ADDFNANM_00586	CDS	402				hypothetical protein
+ADDFNANM_00587	gene	432				
+ADDFNANM_00587	CDS	432				hypothetical protein
+ADDFNANM_00588	gene	276	ppiC			
+ADDFNANM_00588	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+ADDFNANM_00589	gene	1494	srmB_2			
+ADDFNANM_00589	CDS	1494	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+ADDFNANM_00590	gene	258				
+ADDFNANM_00590	CDS	258				hypothetical protein
+ADDFNANM_00591	gene	387	hit			
+ADDFNANM_00591	CDS	387	hit		COG0537	Protein hit
+ADDFNANM_00592	gene	1281				
+ADDFNANM_00592	CDS	1281				hypothetical protein
+ADDFNANM_00593	gene	216				
+ADDFNANM_00593	CDS	216				hypothetical protein
+ADDFNANM_00594	gene	345				
+ADDFNANM_00594	CDS	345				hypothetical protein
+ADDFNANM_00595	gene	363				
+ADDFNANM_00595	CDS	363				hypothetical protein
+ADDFNANM_00596	gene	501				
+ADDFNANM_00596	CDS	501				hypothetical protein
+ADDFNANM_00597	gene	1932				
+ADDFNANM_00597	CDS	1932				hypothetical protein
+ADDFNANM_00598	gene	639				
+ADDFNANM_00598	CDS	639				hypothetical protein
+ADDFNANM_00599	gene	1323	magA			
+ADDFNANM_00599	CDS	1323	magA		COG0475	Iron transporter MagA
+ADDFNANM_00600	gene	420				
+ADDFNANM_00600	CDS	420				hypothetical protein
+ADDFNANM_00601	gene	74				
+ADDFNANM_00601	tRNA	74				tRNA-Gly(gcc)
+ADDFNANM_00602	gene	273				
+ADDFNANM_00602	CDS	273				hypothetical protein
+ADDFNANM_00603	gene	516				
+ADDFNANM_00603	CDS	516				hypothetical protein
+ADDFNANM_00604	gene	573				
+ADDFNANM_00604	CDS	573				hypothetical protein
+ADDFNANM_00605	gene	684				
+ADDFNANM_00605	CDS	684				hypothetical protein
+ADDFNANM_00606	gene	76				
+ADDFNANM_00606	tRNA	76				tRNA-Glu(ctc)
+ADDFNANM_00607	gene	888				
+ADDFNANM_00607	CDS	888				hypothetical protein
+ADDFNANM_00608	gene	168				
+ADDFNANM_00608	CDS	168				hypothetical protein
+ADDFNANM_00609	gene	1524				
+ADDFNANM_00609	CDS	1524				hypothetical protein
+ADDFNANM_00610	gene	360				
+ADDFNANM_00610	CDS	360				hypothetical protein
+ADDFNANM_00611	gene	366				
+ADDFNANM_00611	CDS	366				hypothetical protein
+ADDFNANM_00612	gene	645				
+ADDFNANM_00612	CDS	645				hypothetical protein
+ADDFNANM_00613	gene	429				
+ADDFNANM_00613	CDS	429				hypothetical protein
+ADDFNANM_00614	gene	1059				
+ADDFNANM_00614	CDS	1059				hypothetical protein
+ADDFNANM_00615	gene	882				
+ADDFNANM_00615	CDS	882				hypothetical protein
+ADDFNANM_00616	gene	837				
+ADDFNANM_00616	CDS	837				hypothetical protein
+ADDFNANM_00617	gene	612				
+ADDFNANM_00617	CDS	612				hypothetical protein
+ADDFNANM_00618	gene	159				
+ADDFNANM_00618	CDS	159				hypothetical protein
+ADDFNANM_00619	gene	168				
+ADDFNANM_00619	CDS	168				hypothetical protein
+ADDFNANM_00620	gene	168				
+ADDFNANM_00620	CDS	168				hypothetical protein
+ADDFNANM_00621	gene	1203	trm1			
+ADDFNANM_00621	CDS	1203	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+ADDFNANM_00622	gene	630	rnhB			
+ADDFNANM_00622	CDS	630	rnhB			Ribonuclease HII
+ADDFNANM_00623	gene	672				
+ADDFNANM_00623	CDS	672				hypothetical protein
+ADDFNANM_00624	gene	1200				
+ADDFNANM_00624	CDS	1200				hypothetical protein
+ADDFNANM_00625	gene	912	pyrD			
+ADDFNANM_00625	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ADDFNANM_00626	gene	786	pyrK			
+ADDFNANM_00626	CDS	786	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+ADDFNANM_00627	gene	1437				
+ADDFNANM_00627	CDS	1437				hypothetical protein
+ADDFNANM_00628	gene	312				
+ADDFNANM_00628	CDS	312				hypothetical protein
+ADDFNANM_00629	gene	189				
+ADDFNANM_00629	CDS	189				hypothetical protein
+ADDFNANM_00630	gene	456				
+ADDFNANM_00630	CDS	456				hypothetical protein
+ADDFNANM_00631	gene	153				
+ADDFNANM_00631	CDS	153				hypothetical protein
+ADDFNANM_00632	gene	501				
+ADDFNANM_00632	CDS	501				hypothetical protein
+ADDFNANM_00633	gene	1140				
+ADDFNANM_00633	CDS	1140				hypothetical protein
+ADDFNANM_00634	gene	762				
+ADDFNANM_00634	CDS	762		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+ADDFNANM_00635	gene	420				
+ADDFNANM_00635	CDS	420				hypothetical protein
+ADDFNANM_00636	gene	741	pyrF			
+ADDFNANM_00636	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+ADDFNANM_00637	gene	666				
+ADDFNANM_00637	CDS	666				hypothetical protein
+ADDFNANM_00638	gene	1005	purA			
+ADDFNANM_00638	CDS	1005	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+ADDFNANM_00639	gene	483				
+ADDFNANM_00639	CDS	483				hypothetical protein
+ADDFNANM_00640	gene	279				
+ADDFNANM_00640	CDS	279				hypothetical protein
+ADDFNANM_00641	gene	210				
+ADDFNANM_00641	CDS	210				hypothetical protein
+ADDFNANM_00642	gene	639				
+ADDFNANM_00642	CDS	639				hypothetical protein
+ADDFNANM_00643	gene	288				
+ADDFNANM_00643	CDS	288				hypothetical protein
+ADDFNANM_00644	gene	600				
+ADDFNANM_00644	CDS	600		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+ADDFNANM_00645	gene	519				
+ADDFNANM_00645	CDS	519				hypothetical protein
+ADDFNANM_00646	gene	777				
+ADDFNANM_00646	CDS	777				hypothetical protein
+ADDFNANM_00647	gene	348				
+ADDFNANM_00647	CDS	348				hypothetical protein
+ADDFNANM_00648	gene	756	ycfH			
+ADDFNANM_00648	CDS	756	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+ADDFNANM_00649	gene	222				
+ADDFNANM_00649	CDS	222				hypothetical protein
+ADDFNANM_00650	gene	75				
+ADDFNANM_00650	tRNA	75				tRNA-Cys(gca)
+ADDFNANM_00651	gene	1755				
+ADDFNANM_00651	CDS	1755				hypothetical protein
+ADDFNANM_00652	gene	204				
+ADDFNANM_00652	CDS	204				hypothetical protein
+ADDFNANM_00653	gene	588				
+ADDFNANM_00653	CDS	588				hypothetical protein
+ADDFNANM_00654	gene	282				
+ADDFNANM_00654	CDS	282				hypothetical protein
+ADDFNANM_00655	gene	219				
+ADDFNANM_00655	CDS	219				hypothetical protein
+ADDFNANM_00656	gene	174				
+ADDFNANM_00656	CDS	174				hypothetical protein
+ADDFNANM_00657	gene	74				
+ADDFNANM_00657	tRNA	74				tRNA-Thr(cgt)
+ADDFNANM_00658	gene	1299	algC_2			
+ADDFNANM_00658	CDS	1299	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+ADDFNANM_00659	gene	957	thiL			
+ADDFNANM_00659	CDS	957	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+ADDFNANM_00660	gene	543				
+ADDFNANM_00660	CDS	543				hypothetical protein
+ADDFNANM_00661	gene	312				
+ADDFNANM_00661	CDS	312				hypothetical protein
+ADDFNANM_00662	gene	414				
+ADDFNANM_00662	CDS	414				hypothetical protein
+ADDFNANM_00663	gene	1449	rtcB			
+ADDFNANM_00663	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+ADDFNANM_00664	gene	648	fabG			
+ADDFNANM_00664	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ADDFNANM_00665	gene	1362	purB			
+ADDFNANM_00665	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+ADDFNANM_00666	gene	267				
+ADDFNANM_00666	CDS	267				hypothetical protein
+ADDFNANM_00667	gene	495	asnB_2			
+ADDFNANM_00667	CDS	495	asnB_2	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+ADDFNANM_00668	gene	282	phhB			
+ADDFNANM_00668	CDS	282	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+ADDFNANM_00669	gene	729				
+ADDFNANM_00669	CDS	729				hypothetical protein
+ADDFNANM_00670	gene	759				
+ADDFNANM_00670	CDS	759				hypothetical protein
+ADDFNANM_00671	gene	74				
+ADDFNANM_00671	tRNA	74				tRNA-Pro(ggg)
+ADDFNANM_00672	gene	744				
+ADDFNANM_00672	CDS	744		1.-.-.-		putative oxidoreductase
+ADDFNANM_00673	gene	279				
+ADDFNANM_00673	CDS	279				hypothetical protein
+ADDFNANM_00674	gene	327				
+ADDFNANM_00674	CDS	327				hypothetical protein
+ADDFNANM_00675	gene	375				
+ADDFNANM_00675	CDS	375				hypothetical protein
+ADDFNANM_00676	gene	396	glnA_1			
+ADDFNANM_00676	CDS	396	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+ADDFNANM_00677	gene	252	glnA_2			
+ADDFNANM_00677	CDS	252	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+ADDFNANM_00678	gene	660	glnA_3			
+ADDFNANM_00678	CDS	660	glnA_3	6.3.1.2	COG0174	Glutamine synthetase
+ADDFNANM_00679	gene	462				
+ADDFNANM_00679	CDS	462				hypothetical protein
+ADDFNANM_00680	gene	1689	groL			
+ADDFNANM_00680	CDS	1689	groL		COG0459	60 kDa chaperonin
+ADDFNANM_00681	gene	1323	glyA			
+ADDFNANM_00681	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+ADDFNANM_00682	gene	195				
+ADDFNANM_00682	CDS	195				hypothetical protein
+ADDFNANM_00683	gene	324				
+ADDFNANM_00683	CDS	324				hypothetical protein
+ADDFNANM_00684	gene	1668				
+ADDFNANM_00684	CDS	1668				hypothetical protein
+ADDFNANM_00685	gene	525				
+ADDFNANM_00685	CDS	525				hypothetical protein
+ADDFNANM_00686	gene	699				
+ADDFNANM_00686	CDS	699		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+ADDFNANM_00687	gene	1236				
+ADDFNANM_00687	CDS	1236				hypothetical protein
+ADDFNANM_00688	gene	174				
+ADDFNANM_00688	CDS	174				hypothetical protein
+ADDFNANM_00689	gene	384				
+ADDFNANM_00689	CDS	384				hypothetical protein
+ADDFNANM_00690	gene	579				
+ADDFNANM_00690	CDS	579				hypothetical protein
+ADDFNANM_00691	gene	360				
+ADDFNANM_00691	CDS	360				hypothetical protein
+ADDFNANM_00692	gene	792				
+ADDFNANM_00692	CDS	792		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+ADDFNANM_00693	gene	267				
+ADDFNANM_00693	CDS	267				hypothetical protein
+ADDFNANM_00694	gene	675				
+ADDFNANM_00694	CDS	675				hypothetical protein
+ADDFNANM_00695	gene	495				
+ADDFNANM_00695	CDS	495				hypothetical protein
+ADDFNANM_00696	gene	135				
+ADDFNANM_00696	CDS	135				hypothetical protein
+ADDFNANM_00697	gene	648	kynB			
+ADDFNANM_00697	CDS	648	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+ADDFNANM_00698	gene	255				
+ADDFNANM_00698	CDS	255				hypothetical protein
+ADDFNANM_00699	gene	564				
+ADDFNANM_00699	CDS	564				hypothetical protein
+ADDFNANM_00700	gene	300	ndhI_2			
+ADDFNANM_00700	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ADDFNANM_00701	gene	495				
+ADDFNANM_00701	CDS	495				hypothetical protein
+ADDFNANM_00702	gene	462	act			
+ADDFNANM_00702	CDS	462	act	3.-.-.-		Methanol dehydrogenase activator
+ADDFNANM_00703	gene	981				
+ADDFNANM_00703	CDS	981				hypothetical protein
+ADDFNANM_00704	gene	897	thrB_2			
+ADDFNANM_00704	CDS	897	thrB_2	2.7.1.39		Homoserine kinase
+ADDFNANM_00705	gene	738				
+ADDFNANM_00705	CDS	738				hypothetical protein
+ADDFNANM_00706	gene	783	panB			
+ADDFNANM_00706	CDS	783	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+ADDFNANM_00707	gene	1215	coaBC			
+ADDFNANM_00707	CDS	1215	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+ADDFNANM_00708	gene	174				
+ADDFNANM_00708	CDS	174				hypothetical protein
+ADDFNANM_00709	gene	243				
+ADDFNANM_00709	CDS	243				hypothetical protein
+ADDFNANM_00710	gene	165				
+ADDFNANM_00710	CDS	165				hypothetical protein
+ADDFNANM_00711	gene	204				
+ADDFNANM_00711	CDS	204				hypothetical protein
+ADDFNANM_00712	gene	1530				
+ADDFNANM_00712	CDS	1530				hypothetical protein
+ADDFNANM_00713	gene	252				
+ADDFNANM_00713	CDS	252				hypothetical protein
+ADDFNANM_00714	gene	456				
+ADDFNANM_00714	CDS	456				hypothetical protein
+ADDFNANM_00715	gene	315				
+ADDFNANM_00715	CDS	315				hypothetical protein
+ADDFNANM_00716	gene	141				
+ADDFNANM_00716	CDS	141				hypothetical protein
+ADDFNANM_00717	gene	249				
+ADDFNANM_00717	CDS	249				hypothetical protein
+ADDFNANM_00718	gene	240				
+ADDFNANM_00718	CDS	240				hypothetical protein
+ADDFNANM_00719	gene	240				
+ADDFNANM_00719	CDS	240				hypothetical protein
+ADDFNANM_00720	gene	672				
+ADDFNANM_00720	CDS	672				hypothetical protein
+ADDFNANM_00721	gene	441				
+ADDFNANM_00721	CDS	441				hypothetical protein
+ADDFNANM_00722	gene	279				
+ADDFNANM_00722	CDS	279				hypothetical protein
+ADDFNANM_00723	gene	1059				
+ADDFNANM_00723	CDS	1059		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+ADDFNANM_00724	gene	1047	thiI_2			
+ADDFNANM_00724	CDS	1047	thiI_2	2.8.1.4		tRNA sulfurtransferase
+ADDFNANM_00725	gene	279				
+ADDFNANM_00725	CDS	279				hypothetical protein
+ADDFNANM_00726	gene	1935	rnj			
+ADDFNANM_00726	CDS	1935	rnj	3.1.-.-		Ribonuclease J
+ADDFNANM_00727	gene	633	prcB			
+ADDFNANM_00727	CDS	633	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+ADDFNANM_00728	gene	1044	aroB			
+ADDFNANM_00728	CDS	1044	aroB	4.2.3.4		3-dehydroquinate synthase
+ADDFNANM_00729	gene	759				
+ADDFNANM_00729	CDS	759				hypothetical protein
+ADDFNANM_00730	gene	594				
+ADDFNANM_00730	CDS	594		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+ADDFNANM_00731	gene	654	cysG			
+ADDFNANM_00731	CDS	654	cysG		COG0007	Siroheme synthase
+ADDFNANM_00732	gene	1254	hemA_2			
+ADDFNANM_00732	CDS	1254	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+ADDFNANM_00733	gene	987	hemB			
+ADDFNANM_00733	CDS	987	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+ADDFNANM_00734	gene	312				
+ADDFNANM_00734	CDS	312				hypothetical protein
+ADDFNANM_00735	gene	621				
+ADDFNANM_00735	CDS	621				hypothetical protein
+ADDFNANM_00736	gene	291				
+ADDFNANM_00736	CDS	291				hypothetical protein
+ADDFNANM_00737	gene	459	msrA			
+ADDFNANM_00737	CDS	459	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+ADDFNANM_00738	gene	318				
+ADDFNANM_00738	CDS	318				hypothetical protein
+ADDFNANM_00739	gene	660				
+ADDFNANM_00739	CDS	660				hypothetical protein
+ADDFNANM_00740	gene	1212	pgk			
+ADDFNANM_00740	CDS	1212	pgk	2.7.2.3		Phosphoglycerate kinase
+ADDFNANM_00741	gene	336				
+ADDFNANM_00741	CDS	336				hypothetical protein
+ADDFNANM_00742	gene	450	sufU			
+ADDFNANM_00742	CDS	450	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+ADDFNANM_00743	gene	1248	csd			
+ADDFNANM_00743	CDS	1248	csd	2.8.1.7		putative cysteine desulfurase
+ADDFNANM_00744	gene	1401				
+ADDFNANM_00744	CDS	1401				hypothetical protein
+ADDFNANM_00745	gene	1401				
+ADDFNANM_00745	CDS	1401				hypothetical protein
+ADDFNANM_00746	gene	810				
+ADDFNANM_00746	CDS	810				hypothetical protein
+ADDFNANM_00747	gene	747	sumT			
+ADDFNANM_00747	CDS	747	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+ADDFNANM_00748	gene	936	hemC			
+ADDFNANM_00748	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+ADDFNANM_00749	gene	444	hemL			
+ADDFNANM_00749	CDS	444	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+ADDFNANM_00750	gene	1131				
+ADDFNANM_00750	CDS	1131				hypothetical protein
+ADDFNANM_00751	gene	783				
+ADDFNANM_00751	CDS	783			COG0596	putative protein
+ADDFNANM_00752	gene	297				
+ADDFNANM_00752	CDS	297				hypothetical protein
+ADDFNANM_00753	gene	423				
+ADDFNANM_00753	CDS	423				hypothetical protein
+ADDFNANM_00754	gene	1062	phaC			
+ADDFNANM_00754	CDS	1062	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+ADDFNANM_00755	gene	564				
+ADDFNANM_00755	CDS	564				hypothetical protein
+ADDFNANM_00756	gene	354				
+ADDFNANM_00756	CDS	354				hypothetical protein
+ADDFNANM_00757	gene	882	acrB			
+ADDFNANM_00757	CDS	882	acrB			Acryloyl-CoA reductase electron transfer subunit gamma
+ADDFNANM_00758	gene	1230	carE			
+ADDFNANM_00758	CDS	1230	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+ADDFNANM_00759	gene	1878				
+ADDFNANM_00759	CDS	1878				hypothetical protein
+ADDFNANM_00760	gene	108				
+ADDFNANM_00760	CDS	108				hypothetical protein
+ADDFNANM_00761	gene	1413	gatB_2			
+ADDFNANM_00761	CDS	1413	gatB_2	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ADDFNANM_00762	gene	1449	gatA			
+ADDFNANM_00762	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+ADDFNANM_00763	gene	267				
+ADDFNANM_00763	CDS	267				hypothetical protein
+ADDFNANM_00764	gene	1311	aspS2			
+ADDFNANM_00764	CDS	1311	aspS2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+ADDFNANM_00765	gene	342				
+ADDFNANM_00765	CDS	342				hypothetical protein
+ADDFNANM_00766	gene	207				
+ADDFNANM_00766	CDS	207				hypothetical protein
+ADDFNANM_00767	gene	336				
+ADDFNANM_00767	CDS	336				hypothetical protein
+ADDFNANM_00768	gene	141				
+ADDFNANM_00768	CDS	141				hypothetical protein
+ADDFNANM_00769	gene	672				
+ADDFNANM_00769	CDS	672				hypothetical protein
+ADDFNANM_00770	gene	189				
+ADDFNANM_00770	CDS	189				hypothetical protein
+ADDFNANM_00771	gene	870				
+ADDFNANM_00771	CDS	870				hypothetical protein
+ADDFNANM_00772	gene	642				
+ADDFNANM_00772	CDS	642				hypothetical protein
+ADDFNANM_00773	gene	147				
+ADDFNANM_00773	CDS	147				hypothetical protein
+ADDFNANM_00774	gene	336				
+ADDFNANM_00774	CDS	336				hypothetical protein
+ADDFNANM_00775	gene	174				
+ADDFNANM_00775	CDS	174				hypothetical protein
+ADDFNANM_00776	gene	165				
+ADDFNANM_00776	CDS	165				hypothetical protein
+ADDFNANM_00777	gene	252	iscS_1			
+ADDFNANM_00777	CDS	252	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+ADDFNANM_00778	gene	129				
+ADDFNANM_00778	CDS	129				hypothetical protein
+ADDFNANM_00779	gene	177	iscS_2			
+ADDFNANM_00779	CDS	177	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+ADDFNANM_00780	gene	288				
+ADDFNANM_00780	CDS	288				hypothetical protein
+ADDFNANM_00781	gene	831	larC_1			
+ADDFNANM_00781	CDS	831	larC_1	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+ADDFNANM_00782	gene	735	larC_2			
+ADDFNANM_00782	CDS	735	larC_2	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+ADDFNANM_00783	gene	696	mdh_1			
+ADDFNANM_00783	CDS	696	mdh_1	1.1.1.37		Malate dehydrogenase
+ADDFNANM_00784	gene	222	mdh_2			
+ADDFNANM_00784	CDS	222	mdh_2	1.1.1.37	COG0039	Malate dehydrogenase
+ADDFNANM_00785	gene	777	larB			
+ADDFNANM_00785	CDS	777	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+ADDFNANM_00786	gene	615				
+ADDFNANM_00786	CDS	615				hypothetical protein
+ADDFNANM_00787	gene	147				
+ADDFNANM_00787	CDS	147				hypothetical protein
+ADDFNANM_00788	gene	1047				
+ADDFNANM_00788	CDS	1047				hypothetical protein
+ADDFNANM_00789	gene	366				
+ADDFNANM_00789	CDS	366				hypothetical protein
+ADDFNANM_00790	gene	243				
+ADDFNANM_00790	CDS	243				hypothetical protein
+ADDFNANM_00791	gene	621				
+ADDFNANM_00791	CDS	621				hypothetical protein
+ADDFNANM_00792	gene	303				
+ADDFNANM_00792	CDS	303				hypothetical protein
+ADDFNANM_00793	gene	318				
+ADDFNANM_00793	CDS	318				hypothetical protein
+ADDFNANM_00794	gene	150				
+ADDFNANM_00794	CDS	150				hypothetical protein
+ADDFNANM_00795	gene	1173				
+ADDFNANM_00795	CDS	1173				hypothetical protein
+ADDFNANM_00796	gene	135				
+ADDFNANM_00796	CDS	135				hypothetical protein
+ADDFNANM_00797	gene	183				
+ADDFNANM_00797	CDS	183				hypothetical protein
+ADDFNANM_00798	gene	432				
+ADDFNANM_00798	CDS	432				hypothetical protein
+ADDFNANM_00799	gene	276				
+ADDFNANM_00799	CDS	276				hypothetical protein
+ADDFNANM_00800	gene	312	hisC_1			
+ADDFNANM_00800	CDS	312	hisC_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+ADDFNANM_00801	gene	699	hisC_2			
+ADDFNANM_00801	CDS	699	hisC_2	2.6.1.9		Histidinol-phosphate aminotransferase
+ADDFNANM_00802	gene	960	hisD			
+ADDFNANM_00802	CDS	960	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+ADDFNANM_00803	gene	507	hisG_1			
+ADDFNANM_00803	CDS	507	hisG_1	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+ADDFNANM_00804	gene	492	hisG_2			
+ADDFNANM_00804	CDS	492	hisG_2	2.4.2.17		ATP phosphoribosyltransferase
+ADDFNANM_00805	gene	1158	mvaA			
+ADDFNANM_00805	CDS	1158	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+ADDFNANM_00806	gene	165				
+ADDFNANM_00806	CDS	165				hypothetical protein
+ADDFNANM_00807	gene	225				
+ADDFNANM_00807	CDS	225				hypothetical protein
+ADDFNANM_00808	gene	681				
+ADDFNANM_00808	CDS	681				hypothetical protein
+ADDFNANM_00809	gene	75				
+ADDFNANM_00809	tRNA	75				tRNA-Met(cat)
+ADDFNANM_00810	gene	285				
+ADDFNANM_00810	CDS	285				hypothetical protein
+ADDFNANM_00811	gene	777				
+ADDFNANM_00811	CDS	777				hypothetical protein
+ADDFNANM_00812	gene	264				
+ADDFNANM_00812	CDS	264				hypothetical protein
+ADDFNANM_00813	gene	750				
+ADDFNANM_00813	CDS	750				hypothetical protein
+ADDFNANM_00814	gene	519				
+ADDFNANM_00814	CDS	519				hypothetical protein
+ADDFNANM_00815	gene	141				
+ADDFNANM_00815	CDS	141				hypothetical protein
+ADDFNANM_00816	gene	348	pheA			
+ADDFNANM_00816	CDS	348	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+ADDFNANM_00817	gene	513				
+ADDFNANM_00817	CDS	513				hypothetical protein
+ADDFNANM_00818	gene	2559				
+ADDFNANM_00818	CDS	2559				hypothetical protein
+ADDFNANM_00819	gene	291				
+ADDFNANM_00819	CDS	291			COG4095	Sugar transporter SemiSWEET
+ADDFNANM_00820	gene	657	tpiA			
+ADDFNANM_00820	CDS	657	tpiA			Triosephosphate isomerase
+ADDFNANM_00821	gene	2652	ppdK			
+ADDFNANM_00821	CDS	2652	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+ADDFNANM_00822	gene	537				
+ADDFNANM_00822	CDS	537				hypothetical protein
+ADDFNANM_00823	gene	246				
+ADDFNANM_00823	CDS	246				hypothetical protein
+ADDFNANM_00824	gene	393	epi			
+ADDFNANM_00824	CDS	393	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+ADDFNANM_00825	gene	1584	mcm_1			
+ADDFNANM_00825	CDS	1584	mcm_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+ADDFNANM_00826	gene	918				
+ADDFNANM_00826	CDS	918		3.6.-.-	COG1703	putative GTPase
+ADDFNANM_00827	gene	414				
+ADDFNANM_00827	CDS	414				hypothetical protein
+ADDFNANM_00828	gene	2217	pepN			
+ADDFNANM_00828	CDS	2217	pepN	3.4.11.2	COG0308	Aminopeptidase N
+ADDFNANM_00829	gene	300				
+ADDFNANM_00829	CDS	300				hypothetical protein
+ADDFNANM_00830	gene	327				
+ADDFNANM_00830	CDS	327				hypothetical protein
+ADDFNANM_00831	gene	315				
+ADDFNANM_00831	CDS	315				hypothetical protein
+ADDFNANM_00832	gene	180				
+ADDFNANM_00832	CDS	180				hypothetical protein
+ADDFNANM_00833	gene	702	rsmA			
+ADDFNANM_00833	CDS	702	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+ADDFNANM_00834	gene	177				
+ADDFNANM_00834	CDS	177				hypothetical protein
+ADDFNANM_00835	gene	162				
+ADDFNANM_00835	CDS	162				hypothetical protein
+ADDFNANM_00836	gene	1029	hicd			
+ADDFNANM_00836	CDS	1029	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+ADDFNANM_00837	gene	219	cpdA_1			
+ADDFNANM_00837	CDS	219	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+ADDFNANM_00838	gene	549	cpdA_2			
+ADDFNANM_00838	CDS	549	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+ADDFNANM_00839	gene	85				
+ADDFNANM_00839	tRNA	85				tRNA-Ser(gct)
+ADDFNANM_00840	gene	720				
+ADDFNANM_00840	CDS	720				hypothetical protein
+ADDFNANM_00841	gene	147				
+ADDFNANM_00841	CDS	147				hypothetical protein
+ADDFNANM_00842	gene	237				
+ADDFNANM_00842	CDS	237				hypothetical protein
+ADDFNANM_00843	gene	150				
+ADDFNANM_00843	CDS	150				hypothetical protein
+ADDFNANM_00844	gene	831				
+ADDFNANM_00844	CDS	831				hypothetical protein
+ADDFNANM_00845	gene	168				
+ADDFNANM_00845	CDS	168				hypothetical protein
+ADDFNANM_00846	gene	498				
+ADDFNANM_00846	CDS	498				hypothetical protein
+ADDFNANM_00847	gene	147				
+ADDFNANM_00847	CDS	147				hypothetical protein
+ADDFNANM_00848	gene	858				
+ADDFNANM_00848	CDS	858				hypothetical protein
+ADDFNANM_00849	gene	834	cpnA			
+ADDFNANM_00849	CDS	834	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+ADDFNANM_00850	gene	195				
+ADDFNANM_00850	CDS	195				hypothetical protein
+ADDFNANM_00851	gene	783	dpnA			
+ADDFNANM_00851	CDS	783	dpnA	2.1.1.72		Modification methylase DpnIIB
+ADDFNANM_00852	gene	345				
+ADDFNANM_00852	CDS	345				hypothetical protein
+ADDFNANM_00853	gene	690	COQ5			
+ADDFNANM_00853	CDS	690	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+ADDFNANM_00854	gene	729	prcA			
+ADDFNANM_00854	CDS	729	prcA	3.4.25.1	COG0638	Proteasome subunit alpha
+ADDFNANM_00855	gene	282				
+ADDFNANM_00855	CDS	282				hypothetical protein
+ADDFNANM_00856	gene	201				
+ADDFNANM_00856	CDS	201				hypothetical protein
+ADDFNANM_00857	gene	456	aspC_2			
+ADDFNANM_00857	CDS	456	aspC_2	2.6.1.1	COG0436	Aspartate aminotransferase
+ADDFNANM_00858	gene	594	hisC_3			
+ADDFNANM_00858	CDS	594	hisC_3	2.6.1.9		Histidinol-phosphate aminotransferase
+ADDFNANM_00859	gene	618	aroC			
+ADDFNANM_00859	CDS	618	aroC	4.2.3.5	COG0082	Chorismate synthase
+ADDFNANM_00860	gene	474				
+ADDFNANM_00860	CDS	474				hypothetical protein
+ADDFNANM_00861	gene	765	aroA_1			
+ADDFNANM_00861	CDS	765	aroA_1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+ADDFNANM_00862	gene	192	aroA_2			
+ADDFNANM_00862	CDS	192	aroA_2	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+ADDFNANM_00863	gene	279	aroA_3			
+ADDFNANM_00863	CDS	279	aroA_3	2.5.1.19		3-phosphoshikimate 1-carboxyvinyltransferase
+ADDFNANM_00864	gene	243				
+ADDFNANM_00864	CDS	243				hypothetical protein
+ADDFNANM_00865	gene	432	thrB_3			
+ADDFNANM_00865	CDS	432	thrB_3	2.7.1.39		Homoserine kinase
+ADDFNANM_00866	gene	228				
+ADDFNANM_00866	CDS	228				hypothetical protein
+ADDFNANM_00867	gene	510	aroE			
+ADDFNANM_00867	CDS	510	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+ADDFNANM_00868	gene	480	aroD_1			
+ADDFNANM_00868	CDS	480	aroD_1	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+ADDFNANM_00869	gene	222	aroD_2			
+ADDFNANM_00869	CDS	222	aroD_2	4.2.1.10		3-dehydroquinate dehydratase
+ADDFNANM_00870	gene	594	griH			
+ADDFNANM_00870	CDS	594	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+ADDFNANM_00871	gene	231				
+ADDFNANM_00871	CDS	231				hypothetical protein
+ADDFNANM_00872	gene	171	aroA'			
+ADDFNANM_00872	CDS	171	aroA'	2.2.1.10		2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+ADDFNANM_00873	gene	540	griI			
+ADDFNANM_00873	CDS	540	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+ADDFNANM_00874	gene	1119	mqnC			
+ADDFNANM_00874	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+ADDFNANM_00875	gene	684	ubiD_1			
+ADDFNANM_00875	CDS	684	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ADDFNANM_00876	gene	687	ubiD_2			
+ADDFNANM_00876	CDS	687	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ADDFNANM_00877	gene	288				
+ADDFNANM_00877	CDS	288				hypothetical protein
+ADDFNANM_00878	gene	771				
+ADDFNANM_00878	CDS	771				hypothetical protein
+ADDFNANM_00879	gene	177				
+ADDFNANM_00879	CDS	177				hypothetical protein
+ADDFNANM_00880	gene	813	ybeM			
+ADDFNANM_00880	CDS	813	ybeM	3.5.1.128		Deaminated glutathione amidase
+ADDFNANM_00881	gene	459				
+ADDFNANM_00881	CDS	459				hypothetical protein
+ADDFNANM_00882	gene	1155				
+ADDFNANM_00882	CDS	1155				hypothetical protein
+ADDFNANM_00883	gene	246				
+ADDFNANM_00883	CDS	246				hypothetical protein
+ADDFNANM_00884	gene	168				
+ADDFNANM_00884	CDS	168				hypothetical protein
+ADDFNANM_00885	gene	162				
+ADDFNANM_00885	CDS	162				hypothetical protein
+ADDFNANM_00886	gene	1566				
+ADDFNANM_00886	CDS	1566				hypothetical protein
+ADDFNANM_00887	gene	774				
+ADDFNANM_00887	CDS	774				hypothetical protein
+ADDFNANM_00888	gene	711				
+ADDFNANM_00888	CDS	711				hypothetical protein
+ADDFNANM_00889	gene	309				
+ADDFNANM_00889	CDS	309				hypothetical protein
+ADDFNANM_00890	gene	390	nrdZ_1			
+ADDFNANM_00890	CDS	390	nrdZ_1	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ADDFNANM_00891	gene	192				
+ADDFNANM_00891	CDS	192				hypothetical protein
+ADDFNANM_00892	gene	327				
+ADDFNANM_00892	CDS	327				hypothetical protein
+ADDFNANM_00893	gene	507	nrdZ_2			
+ADDFNANM_00893	CDS	507	nrdZ_2	1.17.4.1	COG0209	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ADDFNANM_00894	gene	76				
+ADDFNANM_00894	tRNA	76				tRNA-Gly(tcc)
+ADDFNANM_00895	gene	108				
+ADDFNANM_00895	CDS	108				hypothetical protein
+ADDFNANM_00896	gene	210				
+ADDFNANM_00896	CDS	210				hypothetical protein
+ADDFNANM_00897	gene	105				
+ADDFNANM_00897	CDS	105				hypothetical protein
+ADDFNANM_00898	gene	102				
+ADDFNANM_00898	CDS	102				hypothetical protein
+ADDFNANM_00899	gene	102				
+ADDFNANM_00899	CDS	102				hypothetical protein
+ADDFNANM_00900	gene	513	apt			
+ADDFNANM_00900	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+ADDFNANM_00901	gene	807	mtnP			
+ADDFNANM_00901	CDS	807	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+ADDFNANM_00902	gene	243				
+ADDFNANM_00902	CDS	243				hypothetical protein
+ADDFNANM_00903	gene	432				
+ADDFNANM_00903	CDS	432				hypothetical protein
+ADDFNANM_00904	gene	369				
+ADDFNANM_00904	CDS	369				hypothetical protein
+ADDFNANM_00905	gene	462				
+ADDFNANM_00905	CDS	462				hypothetical protein
+ADDFNANM_00906	gene	1053	rlmN			
+ADDFNANM_00906	CDS	1053	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+ADDFNANM_00907	gene	1101	TOP6A			
+ADDFNANM_00907	CDS	1101	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+ADDFNANM_00908	gene	1842	TOP6B			
+ADDFNANM_00908	CDS	1842	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+ADDFNANM_00909	gene	570				
+ADDFNANM_00909	CDS	570				hypothetical protein
+ADDFNANM_00910	gene	312				
+ADDFNANM_00910	CDS	312				hypothetical protein
+ADDFNANM_00911	gene	291				
+ADDFNANM_00911	CDS	291				hypothetical protein
+ADDFNANM_00912	gene	264				
+ADDFNANM_00912	CDS	264				hypothetical protein
+ADDFNANM_00913	gene	1065				
+ADDFNANM_00913	CDS	1065		1.1.1.1		Alcohol dehydrogenase
+ADDFNANM_00914	gene	768				
+ADDFNANM_00914	CDS	768				hypothetical protein
+ADDFNANM_00915	gene	522	scpB			
+ADDFNANM_00915	CDS	522	scpB			Segregation and condensation protein B
+ADDFNANM_00916	gene	366				
+ADDFNANM_00916	CDS	366				hypothetical protein
+ADDFNANM_00917	gene	327				
+ADDFNANM_00917	CDS	327				hypothetical protein
+ADDFNANM_00918	gene	273				
+ADDFNANM_00918	CDS	273				hypothetical protein
+ADDFNANM_00919	gene	960				
+ADDFNANM_00919	CDS	960				hypothetical protein
+ADDFNANM_00920	gene	774	sufC			
+ADDFNANM_00920	CDS	774	sufC		COG0396	Vegetative protein 296
+ADDFNANM_00921	gene	678				
+ADDFNANM_00921	CDS	678			COG3253	putative protein/MSMEI_2713
+ADDFNANM_00922	gene	549				
+ADDFNANM_00922	CDS	549				hypothetical protein
+ADDFNANM_00923	gene	1002	iolS			
+ADDFNANM_00923	CDS	1002	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+ADDFNANM_00924	gene	384				
+ADDFNANM_00924	CDS	384				hypothetical protein
+ADDFNANM_00925	gene	171				
+ADDFNANM_00925	CDS	171				hypothetical protein
+ADDFNANM_00926	gene	198				
+ADDFNANM_00926	CDS	198				hypothetical protein
+ADDFNANM_00927	gene	1170	citZ			
+ADDFNANM_00927	CDS	1170	citZ	2.3.3.16	COG0372	Citrate synthase 2
+ADDFNANM_00928	gene	177				
+ADDFNANM_00928	CDS	177				hypothetical protein
+ADDFNANM_00929	gene	444				
+ADDFNANM_00929	CDS	444				hypothetical protein
+ADDFNANM_00930	gene	207				
+ADDFNANM_00930	CDS	207				hypothetical protein
+ADDFNANM_00931	gene	1281				
+ADDFNANM_00931	CDS	1281		2.7.1.165	COG2379	D-glycerate 2-kinase
+ADDFNANM_00932	gene	948				
+ADDFNANM_00932	CDS	948				hypothetical protein
+ADDFNANM_00933	gene	1086				
+ADDFNANM_00933	CDS	1086		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+ADDFNANM_00934	gene	651				
+ADDFNANM_00934	CDS	651				hypothetical protein
+ADDFNANM_00935	gene	621	purN			
+ADDFNANM_00935	CDS	621	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+ADDFNANM_00936	gene	384				
+ADDFNANM_00936	CDS	384				hypothetical protein
+ADDFNANM_00937	gene	357				
+ADDFNANM_00937	CDS	357				hypothetical protein
+ADDFNANM_00938	gene	453				
+ADDFNANM_00938	CDS	453				hypothetical protein
+ADDFNANM_00939	gene	882				
+ADDFNANM_00939	CDS	882				hypothetical protein
+ADDFNANM_00940	gene	237				
+ADDFNANM_00940	CDS	237				hypothetical protein
+ADDFNANM_00941	gene	77				
+ADDFNANM_00941	tRNA	77				tRNA-Val(tac)
+ADDFNANM_00942	gene	1416				
+ADDFNANM_00942	CDS	1416				hypothetical protein
+ADDFNANM_00943	gene	915	ilvE_2			
+ADDFNANM_00943	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+ADDFNANM_00944	gene	165				
+ADDFNANM_00944	CDS	165				hypothetical protein
+ADDFNANM_00945	gene	74				
+ADDFNANM_00945	tRNA	74				tRNA-Lys(ttt)
+ADDFNANM_00946	gene	78				
+ADDFNANM_00946	tRNA	78				tRNA-Asp(gtc)
+ADDFNANM_00947	gene	801	cysQ			
+ADDFNANM_00947	CDS	801	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+ADDFNANM_00948	gene	1116				
+ADDFNANM_00948	CDS	1116				hypothetical protein
+ADDFNANM_00949	gene	189				
+ADDFNANM_00949	CDS	189				hypothetical protein
+ADDFNANM_00950	gene	687				
+ADDFNANM_00950	CDS	687				hypothetical protein
+ADDFNANM_00951	gene	738	rph_1			
+ADDFNANM_00951	CDS	738	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+ADDFNANM_00952	gene	819	rph_2			
+ADDFNANM_00952	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+ADDFNANM_00953	gene	198				
+ADDFNANM_00953	CDS	198				hypothetical protein
+ADDFNANM_00954	gene	246				
+ADDFNANM_00954	CDS	246				hypothetical protein
+ADDFNANM_00955	gene	378				
+ADDFNANM_00955	CDS	378				hypothetical protein
+ADDFNANM_00956	gene	687				
+ADDFNANM_00956	CDS	687				hypothetical protein
+ADDFNANM_00957	gene	480				
+ADDFNANM_00957	CDS	480				hypothetical protein
+ADDFNANM_00958	gene	816	nadK_2			
+ADDFNANM_00958	CDS	816	nadK_2	2.7.1.23		NAD kinase
+ADDFNANM_00959	gene	954				
+ADDFNANM_00959	CDS	954				hypothetical protein
+ADDFNANM_00960	gene	108				
+ADDFNANM_00960	CDS	108				hypothetical protein
+ADDFNANM_00961	gene	111				
+ADDFNANM_00961	CDS	111				hypothetical protein
+ADDFNANM_00962	gene	561				
+ADDFNANM_00962	CDS	561				hypothetical protein
+ADDFNANM_00963	gene	288				
+ADDFNANM_00963	CDS	288				hypothetical protein
+ADDFNANM_00964	gene	747				
+ADDFNANM_00964	CDS	747				hypothetical protein
+ADDFNANM_00965	gene	3045	carB			
+ADDFNANM_00965	CDS	3045	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+ADDFNANM_00966	gene	468	carA			
+ADDFNANM_00966	CDS	468	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+ADDFNANM_00967	gene	74				
+ADDFNANM_00967	tRNA	74				tRNA-Thr(ggt)
+ADDFNANM_00968	gene	432				
+ADDFNANM_00968	CDS	432				hypothetical protein
+ADDFNANM_00969	gene	897				
+ADDFNANM_00969	CDS	897				hypothetical protein
+ADDFNANM_00970	gene	192				
+ADDFNANM_00970	CDS	192				hypothetical protein
+ADDFNANM_00971	gene	306				
+ADDFNANM_00971	CDS	306				hypothetical protein
+ADDFNANM_00972	gene	318				
+ADDFNANM_00972	CDS	318				hypothetical protein
+ADDFNANM_00973	gene	450				
+ADDFNANM_00973	CDS	450				hypothetical protein
+ADDFNANM_00974	gene	243				
+ADDFNANM_00974	CDS	243				hypothetical protein
+ADDFNANM_00975	gene	1245	serS			
+ADDFNANM_00975	CDS	1245	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+ADDFNANM_00976	gene	585				
+ADDFNANM_00976	CDS	585				hypothetical protein
+ADDFNANM_00977	gene	711	dpnM			
+ADDFNANM_00977	CDS	711	dpnM	2.1.1.72		Modification methylase DpnIIA
+ADDFNANM_00978	gene	357				
+ADDFNANM_00978	CDS	357				hypothetical protein
+ADDFNANM_00979	gene	651				
+ADDFNANM_00979	CDS	651				hypothetical protein
+ADDFNANM_00980	gene	603				
+ADDFNANM_00980	CDS	603				hypothetical protein
+ADDFNANM_00981	gene	549				
+ADDFNANM_00981	CDS	549				hypothetical protein
+ADDFNANM_00982	gene	75				
+ADDFNANM_00982	tRNA	75				tRNA-Ile(gat)
+ADDFNANM_00983	gene	549	resA			
+ADDFNANM_00983	CDS	549	resA			Thiol-disulfide oxidoreductase ResA
+ADDFNANM_00984	gene	76				
+ADDFNANM_00984	tRNA	76				tRNA-Ala(tgc)
+ADDFNANM_00985	gene	129				
+ADDFNANM_00985	CDS	129				hypothetical protein
+ADDFNANM_00986	gene	465				
+ADDFNANM_00986	CDS	465				hypothetical protein
+ADDFNANM_00987	gene	243				
+ADDFNANM_00987	CDS	243				hypothetical protein
+ADDFNANM_00988	gene	1182				
+ADDFNANM_00988	CDS	1182				hypothetical protein
+ADDFNANM_00989	gene	906	gnu			
+ADDFNANM_00989	CDS	906	gnu	5.1.3.26	COG0451	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+ADDFNANM_00990	gene	561	pglC			
+ADDFNANM_00990	CDS	561	pglC	2.7.8.36	COG2148	Undecaprenyl phosphate N,N'-diacetylbacillosamine 1-phosphate transferase
+ADDFNANM_00991	gene	126				
+ADDFNANM_00991	CDS	126				hypothetical protein
+ADDFNANM_00992	gene	117	asd			
+ADDFNANM_00992	CDS	117	asd	1.2.1.11		Aspartate-semialdehyde dehydrogenase
+ADDFNANM_00993	gene	144				
+ADDFNANM_00993	CDS	144				hypothetical protein
+ADDFNANM_00994	gene	144				
+ADDFNANM_00994	CDS	144				hypothetical protein
+ADDFNANM_00995	gene	171				
+ADDFNANM_00995	CDS	171				hypothetical protein
+ADDFNANM_00996	gene	276	cobQ			
+ADDFNANM_00996	CDS	276	cobQ			Cobyric acid synthase
+ADDFNANM_00997	gene	318				
+ADDFNANM_00997	CDS	318				IS630 family transposase ISAzs31
+ADDFNANM_00998	gene	270				
+ADDFNANM_00998	CDS	270				hypothetical protein
+ADDFNANM_00999	gene	933				
+ADDFNANM_00999	CDS	933		2.4.-.-		putative glycosyltransferase
+ADDFNANM_01000	gene	711	hddC			
+ADDFNANM_01000	CDS	711	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+ADDFNANM_01001	gene	552				
+ADDFNANM_01001	CDS	552				hypothetical protein
+ADDFNANM_01002	gene	867	colD			
+ADDFNANM_01002	CDS	867	colD	4.2.1.168		GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+ADDFNANM_01003	gene	987				
+ADDFNANM_01003	CDS	987				hypothetical protein
+ADDFNANM_01004	gene	600	acoA			
+ADDFNANM_01004	CDS	600	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+ADDFNANM_01005	gene	537				
+ADDFNANM_01005	CDS	537				hypothetical protein
+ADDFNANM_01006	gene	237	fcl_2			
+ADDFNANM_01006	CDS	237	fcl_2	1.1.1.271		GDP-L-fucose synthase
+ADDFNANM_01007	gene	204				
+ADDFNANM_01007	CDS	204				hypothetical protein
+ADDFNANM_01008	gene	153				
+ADDFNANM_01008	CDS	153				hypothetical protein
+ADDFNANM_01009	gene	1443				
+ADDFNANM_01009	CDS	1443				hypothetical protein
+ADDFNANM_01010	gene	126				
+ADDFNANM_01010	CDS	126				hypothetical protein
+ADDFNANM_01011	gene	153				
+ADDFNANM_01011	CDS	153				hypothetical protein
+ADDFNANM_01012	gene	510	nirQ			
+ADDFNANM_01012	CDS	510	nirQ		COG0714	Denitrification regulatory protein NirQ
+ADDFNANM_01013	gene	285				
+ADDFNANM_01013	CDS	285				hypothetical protein
+ADDFNANM_01014	gene	135				
+ADDFNANM_01014	CDS	135				hypothetical protein
+ADDFNANM_01015	gene	135				
+ADDFNANM_01015	CDS	135				hypothetical protein
+ADDFNANM_01016	gene	1137	gdhA			
+ADDFNANM_01016	CDS	1137	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+ADDFNANM_01017	gene	378				
+ADDFNANM_01017	CDS	378				hypothetical protein
+ADDFNANM_01018	gene	357				
+ADDFNANM_01018	CDS	357				hypothetical protein
+ADDFNANM_01019	gene	387				
+ADDFNANM_01019	CDS	387				hypothetical protein
+ADDFNANM_01020	gene	324				
+ADDFNANM_01020	CDS	324				hypothetical protein
+ADDFNANM_01021	gene	747				
+ADDFNANM_01021	CDS	747				hypothetical protein
+ADDFNANM_01022	gene	234				
+ADDFNANM_01022	CDS	234				hypothetical protein
+ADDFNANM_01023	gene	165				
+ADDFNANM_01023	CDS	165				hypothetical protein
+ADDFNANM_01024	gene	495				
+ADDFNANM_01024	CDS	495				hypothetical protein
+ADDFNANM_01025	gene	783	ffh			
+ADDFNANM_01025	CDS	783	ffh		COG0541	Signal recognition particle protein
+ADDFNANM_01026	gene	126				
+ADDFNANM_01026	CDS	126				hypothetical protein
+ADDFNANM_01027	gene	414				
+ADDFNANM_01027	CDS	414				hypothetical protein
+ADDFNANM_01028	gene	249				
+ADDFNANM_01028	CDS	249				hypothetical protein
+ADDFNANM_01029	gene	414				
+ADDFNANM_01029	CDS	414				hypothetical protein
+ADDFNANM_01030	gene	369				
+ADDFNANM_01030	CDS	369				hypothetical protein
+ADDFNANM_01031	gene	153				
+ADDFNANM_01031	CDS	153				hypothetical protein
+ADDFNANM_01032	gene	456	bcp_2			
+ADDFNANM_01032	CDS	456	bcp_2	1.11.1.15	COG1225	Peroxiredoxin Bcp
+ADDFNANM_01033	gene	639	aqpZ			
+ADDFNANM_01033	CDS	639	aqpZ		COG0580	Aquaporin Z
+ADDFNANM_01034	gene	282				
+ADDFNANM_01034	CDS	282				hypothetical protein
+ADDFNANM_01035	gene	321				
+ADDFNANM_01035	CDS	321				hypothetical protein
+ADDFNANM_01036	gene	369				
+ADDFNANM_01036	CDS	369				hypothetical protein
+ADDFNANM_01037	gene	468				
+ADDFNANM_01037	CDS	468				hypothetical protein
+ADDFNANM_01038	gene	642				
+ADDFNANM_01038	CDS	642				hypothetical protein
+ADDFNANM_01039	gene	372	rpoB_1			
+ADDFNANM_01039	CDS	372	rpoB_1	2.7.7.6		DNA-directed RNA polymerase subunit beta
+ADDFNANM_01040	gene	189	rpoB_2			
+ADDFNANM_01040	CDS	189	rpoB_2	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+ADDFNANM_01041	gene	150				
+ADDFNANM_01041	CDS	150				hypothetical protein
+ADDFNANM_01042	gene	159	rpoB_3			
+ADDFNANM_01042	CDS	159	rpoB_3	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+ADDFNANM_01043	gene	405				
+ADDFNANM_01043	CDS	405				hypothetical protein
+ADDFNANM_01044	gene	186				
+ADDFNANM_01044	CDS	186				hypothetical protein
+ADDFNANM_01045	gene	201				
+ADDFNANM_01045	CDS	201				hypothetical protein
+ADDFNANM_01046	gene	1890				
+ADDFNANM_01046	CDS	1890				hypothetical protein
+ADDFNANM_01047	gene	471				
+ADDFNANM_01047	CDS	471				hypothetical protein
+ADDFNANM_01048	gene	297	crt_1			
+ADDFNANM_01048	CDS	297	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+ADDFNANM_01049	gene	288	crt_2			
+ADDFNANM_01049	CDS	288	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+ADDFNANM_01050	gene	423	erpA			
+ADDFNANM_01050	CDS	423	erpA			Iron-sulfur cluster insertion protein ErpA
+ADDFNANM_01051	gene	213				
+ADDFNANM_01051	CDS	213				hypothetical protein
+ADDFNANM_01052	gene	168	cugP_2			
+ADDFNANM_01052	CDS	168	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+ADDFNANM_01053	gene	342	thiDN			
+ADDFNANM_01053	CDS	342	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+ADDFNANM_01054	gene	438	thiD			
+ADDFNANM_01054	CDS	438	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+ADDFNANM_01055	gene	237	thiC_1			
+ADDFNANM_01055	CDS	237	thiC_1	4.1.99.17		Phosphomethylpyrimidine synthase
+ADDFNANM_01056	gene	357	bzaB			
+ADDFNANM_01056	CDS	357	bzaB	4.1.99.23		5-hydroxybenzimidazole synthase BzaB
+ADDFNANM_01057	gene	210	thiC_2			
+ADDFNANM_01057	CDS	210	thiC_2	4.1.99.17		Phosphomethylpyrimidine synthase
+ADDFNANM_01058	gene	420				
+ADDFNANM_01058	CDS	420				hypothetical protein
+ADDFNANM_01059	gene	150				
+ADDFNANM_01059	CDS	150				hypothetical protein
+ADDFNANM_01060	gene	360				
+ADDFNANM_01060	CDS	360				hypothetical protein
+ADDFNANM_01061	gene	243				
+ADDFNANM_01061	CDS	243				hypothetical protein
+ADDFNANM_01062	gene	312				
+ADDFNANM_01062	CDS	312				hypothetical protein
+ADDFNANM_01063	gene	213				
+ADDFNANM_01063	CDS	213				hypothetical protein
+ADDFNANM_01064	gene	117				
+ADDFNANM_01064	CDS	117				hypothetical protein
+ADDFNANM_01065	gene	141				
+ADDFNANM_01065	CDS	141				hypothetical protein
+ADDFNANM_01066	gene	423	mcm_2			
+ADDFNANM_01066	CDS	423	mcm_2	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+ADDFNANM_01067	gene	999	ilvC			
+ADDFNANM_01067	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+ADDFNANM_01068	gene	669	selB			
+ADDFNANM_01068	CDS	669	selB		COG3276	Selenocysteine-specific elongation factor
+ADDFNANM_01069	gene	357				
+ADDFNANM_01069	CDS	357				hypothetical protein
+ADDFNANM_01070	gene	930				
+ADDFNANM_01070	CDS	930				hypothetical protein
+ADDFNANM_01071	gene	132				
+ADDFNANM_01071	CDS	132				hypothetical protein
+ADDFNANM_01072	gene	465				
+ADDFNANM_01072	CDS	465				hypothetical protein
+ADDFNANM_01073	gene	927	galE_2			
+ADDFNANM_01073	CDS	927	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+ADDFNANM_01074	gene	273				
+ADDFNANM_01074	CDS	273				hypothetical protein
+ADDFNANM_01075	gene	219				
+ADDFNANM_01075	CDS	219				hypothetical protein
+ADDFNANM_01076	gene	105				
+ADDFNANM_01076	CDS	105				hypothetical protein
+ADDFNANM_01077	gene	195				
+ADDFNANM_01077	CDS	195				hypothetical protein
+ADDFNANM_01078	gene	441				
+ADDFNANM_01078	CDS	441				hypothetical protein
+ADDFNANM_01079	gene	429				
+ADDFNANM_01079	CDS	429				hypothetical protein
+ADDFNANM_01080	gene	129				
+ADDFNANM_01080	CDS	129				hypothetical protein
+ADDFNANM_01081	gene	282				
+ADDFNANM_01081	CDS	282				hypothetical protein
+ADDFNANM_01082	gene	1197	ftsH_3			
+ADDFNANM_01082	CDS	1197	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+ADDFNANM_01083	gene	1287				
+ADDFNANM_01083	CDS	1287				hypothetical protein
+ADDFNANM_01084	gene	249				
+ADDFNANM_01084	CDS	249				hypothetical protein
+ADDFNANM_01085	gene	339				
+ADDFNANM_01085	CDS	339				hypothetical protein
+ADDFNANM_01086	gene	219				
+ADDFNANM_01086	CDS	219				hypothetical protein
+ADDFNANM_01087	gene	186	cbiB_1			
+ADDFNANM_01087	CDS	186	cbiB_1			Cobalamin biosynthesis protein CbiB
+ADDFNANM_01088	gene	348	cbiB_2			
+ADDFNANM_01088	CDS	348	cbiB_2			Cobalamin biosynthesis protein CbiB
+ADDFNANM_01089	gene	390	cobS			
+ADDFNANM_01089	CDS	390	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+ADDFNANM_01090	gene	420				
+ADDFNANM_01090	CDS	420				hypothetical protein
+ADDFNANM_01091	gene	228				
+ADDFNANM_01091	CDS	228				hypothetical protein
+ADDFNANM_01092	gene	198				
+ADDFNANM_01092	CDS	198				hypothetical protein
+ADDFNANM_01093	gene	906				
+ADDFNANM_01093	CDS	906				hypothetical protein
+ADDFNANM_01094	gene	453	rfbB			
+ADDFNANM_01094	CDS	453	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+ADDFNANM_01095	gene	141				
+ADDFNANM_01095	CDS	141				hypothetical protein
+ADDFNANM_01096	gene	204				
+ADDFNANM_01096	CDS	204				hypothetical protein
+ADDFNANM_01097	gene	138				
+ADDFNANM_01097	CDS	138				hypothetical protein
+ADDFNANM_01098	gene	219				
+ADDFNANM_01098	CDS	219				hypothetical protein
+ADDFNANM_01099	gene	1185	wbpI			
+ADDFNANM_01099	CDS	1185	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+ADDFNANM_01100	gene	219				
+ADDFNANM_01100	CDS	219				hypothetical protein
+ADDFNANM_01101	gene	156				
+ADDFNANM_01101	CDS	156				hypothetical protein
+ADDFNANM_01102	gene	207				
+ADDFNANM_01102	CDS	207				hypothetical protein
+ADDFNANM_01103	gene	216				
+ADDFNANM_01103	CDS	216				hypothetical protein
+ADDFNANM_01104	gene	162				
+ADDFNANM_01104	CDS	162				hypothetical protein
+ADDFNANM_01105	gene	495				
+ADDFNANM_01105	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+ADDFNANM_01106	gene	495				
+ADDFNANM_01106	CDS	495				hypothetical protein
+ADDFNANM_01107	gene	174				
+ADDFNANM_01107	CDS	174				hypothetical protein
+ADDFNANM_01108	gene	96				
+ADDFNANM_01108	CDS	96				hypothetical protein
+ADDFNANM_01109	gene	315				
+ADDFNANM_01109	CDS	315				hypothetical protein
+ADDFNANM_01110	gene	183	thrA			
+ADDFNANM_01110	CDS	183	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+ADDFNANM_01111	gene	789				
+ADDFNANM_01111	CDS	789		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+ADDFNANM_01112	gene	504				
+ADDFNANM_01112	CDS	504				hypothetical protein
+ADDFNANM_01113	gene	138				
+ADDFNANM_01113	CDS	138				hypothetical protein
+ADDFNANM_01114	gene	195				
+ADDFNANM_01114	CDS	195				hypothetical protein
+ADDFNANM_01115	gene	219	hisH_1			
+ADDFNANM_01115	CDS	219	hisH_1	3.5.1.2		Imidazole glycerol phosphate synthase subunit HisH
+ADDFNANM_01116	gene	153	hisH_2			
+ADDFNANM_01116	CDS	153	hisH_2	3.5.1.2		Imidazole glycerol phosphate synthase subunit HisH
+ADDFNANM_01117	gene	438	hisB			
+ADDFNANM_01117	CDS	438	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+ADDFNANM_01118	gene	975	mshA_3			
+ADDFNANM_01118	CDS	975	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+ADDFNANM_01119	gene	102				
+ADDFNANM_01119	CDS	102				hypothetical protein
+ADDFNANM_01120	gene	111				
+ADDFNANM_01120	CDS	111				hypothetical protein
+ADDFNANM_01121	gene	315				
+ADDFNANM_01121	CDS	315				hypothetical protein
+ADDFNANM_01122	gene	216				
+ADDFNANM_01122	CDS	216				hypothetical protein
+ADDFNANM_01123	gene	189				
+ADDFNANM_01123	CDS	189				hypothetical protein
+ADDFNANM_01124	gene	402	phnE			
+ADDFNANM_01124	CDS	402	phnE		COG3639	Phosphate-import permease protein PhnE
+ADDFNANM_01125	gene	225				
+ADDFNANM_01125	CDS	225				hypothetical protein
+ADDFNANM_01126	gene	282	nucM			
+ADDFNANM_01126	CDS	282	nucM	3.1.21.-	COG2356	Nuclease NucM
+ADDFNANM_01127	gene	165				
+ADDFNANM_01127	CDS	165				hypothetical protein
+ADDFNANM_01128	gene	405				
+ADDFNANM_01128	CDS	405				hypothetical protein
+ADDFNANM_01129	gene	621				
+ADDFNANM_01129	CDS	621				hypothetical protein
+ADDFNANM_01130	gene	219				
+ADDFNANM_01130	CDS	219				hypothetical protein
+ADDFNANM_01131	gene	354				
+ADDFNANM_01131	CDS	354				hypothetical protein
+ADDFNANM_01132	gene	111				
+ADDFNANM_01132	CDS	111				hypothetical protein
+ADDFNANM_01133	gene	153				
+ADDFNANM_01133	CDS	153				hypothetical protein
+ADDFNANM_01134	gene	294	ade_1			
+ADDFNANM_01134	CDS	294	ade_1	3.5.4.2	COG1001	Adenine deaminase
+ADDFNANM_01135	gene	387	ade_2			
+ADDFNANM_01135	CDS	387	ade_2	3.5.4.2		Adenine deaminase
+ADDFNANM_01136	gene	174				
+ADDFNANM_01136	CDS	174				hypothetical protein
+ADDFNANM_01137	gene	246				
+ADDFNANM_01137	CDS	246				hypothetical protein
+ADDFNANM_01138	gene	570	xerC			
+ADDFNANM_01138	CDS	570	xerC			Tyrosine recombinase XerC
+ADDFNANM_01139	gene	402				
+ADDFNANM_01139	CDS	402				hypothetical protein
+ADDFNANM_01140	gene	234				
+ADDFNANM_01140	CDS	234				hypothetical protein
+ADDFNANM_01141	gene	186				
+ADDFNANM_01141	CDS	186				hypothetical protein
+ADDFNANM_01142	gene	168				
+ADDFNANM_01142	CDS	168				hypothetical protein
+ADDFNANM_01143	gene	243	guaA_2			
+ADDFNANM_01143	CDS	243	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+ADDFNANM_01144	gene	201				
+ADDFNANM_01144	CDS	201				hypothetical protein
+ADDFNANM_01145	gene	213				
+ADDFNANM_01145	CDS	213				hypothetical protein
+ADDFNANM_01146	gene	642				
+ADDFNANM_01146	CDS	642				hypothetical protein
+ADDFNANM_01147	gene	297	guaB			
+ADDFNANM_01147	CDS	297	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+ADDFNANM_01148	gene	114				
+ADDFNANM_01148	CDS	114				hypothetical protein
+ADDFNANM_01149	gene	345				
+ADDFNANM_01149	CDS	345				hypothetical protein
+ADDFNANM_01150	gene	117				
+ADDFNANM_01150	CDS	117				hypothetical protein
+ADDFNANM_01151	gene	90				
+ADDFNANM_01151	CDS	90				hypothetical protein
+ADDFNANM_01152	gene	159	hldE			
+ADDFNANM_01152	CDS	159	hldE	2.7.7.70		Bifunctional protein HldE
+ADDFNANM_01153	gene	222				
+ADDFNANM_01153	CDS	222				hypothetical protein
+ADDFNANM_01154	gene	279				
+ADDFNANM_01154	CDS	279				hypothetical protein
+ADDFNANM_01155	gene	201	thiC_3			
+ADDFNANM_01155	CDS	201	thiC_3	4.1.99.17		Phosphomethylpyrimidine synthase
+ADDFNANM_01156	gene	132				
+ADDFNANM_01156	CDS	132				hypothetical protein
+ADDFNANM_01157	gene	180				
+ADDFNANM_01157	CDS	180				hypothetical protein
+ADDFNANM_01158	gene	234				
+ADDFNANM_01158	CDS	234				hypothetical protein
+ADDFNANM_01159	gene	79				
+ADDFNANM_01159	tRNA	79				tRNA-Arg(gcg)
+ADDFNANM_01160	gene	126				
+ADDFNANM_01160	CDS	126				hypothetical protein
+ADDFNANM_01161	gene	249				
+ADDFNANM_01161	CDS	249				hypothetical protein
+ADDFNANM_01162	gene	306				
+ADDFNANM_01162	CDS	306				hypothetical protein
+ADDFNANM_01163	gene	150				
+ADDFNANM_01163	CDS	150				hypothetical protein
+ADDFNANM_01164	gene	147				
+ADDFNANM_01164	CDS	147				hypothetical protein
+ADDFNANM_01165	gene	123				
+ADDFNANM_01165	CDS	123				hypothetical protein
+ADDFNANM_01166	gene	252				
+ADDFNANM_01166	CDS	252				hypothetical protein
+ADDFNANM_01167	gene	192				
+ADDFNANM_01167	CDS	192				hypothetical protein
+ADDFNANM_01168	gene	183				
+ADDFNANM_01168	CDS	183				hypothetical protein
+ADDFNANM_01169	gene	285				
+ADDFNANM_01169	CDS	285				hypothetical protein
+ADDFNANM_01170	gene	246				
+ADDFNANM_01170	CDS	246				hypothetical protein
+ADDFNANM_01171	gene	105				
+ADDFNANM_01171	CDS	105				hypothetical protein
+ADDFNANM_01172	gene	111				
+ADDFNANM_01172	CDS	111				hypothetical protein
+ADDFNANM_01173	gene	144				
+ADDFNANM_01173	CDS	144				hypothetical protein
+ADDFNANM_01174	gene	150				
+ADDFNANM_01174	CDS	150				hypothetical protein
+ADDFNANM_01175	gene	171				
+ADDFNANM_01175	CDS	171				hypothetical protein
+ADDFNANM_01176	gene	174				
+ADDFNANM_01176	CDS	174				hypothetical protein
+ADDFNANM_01177	gene	279				
+ADDFNANM_01177	CDS	279				hypothetical protein
+ADDFNANM_01178	gene	375	apgM_1			
+ADDFNANM_01178	CDS	375	apgM_1			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ADDFNANM_01179	gene	222	rpoC1			
+ADDFNANM_01179	CDS	222	rpoC1	2.7.7.6		DNA-directed RNA polymerase subunit gamma
+ADDFNANM_01180	gene	192				
+ADDFNANM_01180	CDS	192				hypothetical protein
+ADDFNANM_01181	gene	177	rpoC			
+ADDFNANM_01181	CDS	177	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+ADDFNANM_01182	gene	225				
+ADDFNANM_01182	CDS	225				hypothetical protein
+ADDFNANM_01183	gene	390	folP_1			
+ADDFNANM_01183	CDS	390	folP_1	2.5.1.15		Dihydropteroate synthase
+ADDFNANM_01184	gene	165				
+ADDFNANM_01184	CDS	165				hypothetical protein
+ADDFNANM_01185	gene	126				
+ADDFNANM_01185	CDS	126				hypothetical protein
+ADDFNANM_01186	gene	141				
+ADDFNANM_01186	CDS	141				hypothetical protein
+ADDFNANM_01187	gene	228				
+ADDFNANM_01187	CDS	228				hypothetical protein
+ADDFNANM_01188	gene	96				
+ADDFNANM_01188	CDS	96				hypothetical protein
+ADDFNANM_01189	gene	168				
+ADDFNANM_01189	CDS	168				hypothetical protein
+ADDFNANM_01190	gene	243	hflX			
+ADDFNANM_01190	CDS	243	hflX			GTPase HflX
+ADDFNANM_01191	gene	213	apgM_2			
+ADDFNANM_01191	CDS	213	apgM_2			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ADDFNANM_01192	gene	117				
+ADDFNANM_01192	CDS	117				hypothetical protein
+ADDFNANM_01193	gene	153				
+ADDFNANM_01193	CDS	153				hypothetical protein
+ADDFNANM_01194	gene	153				
+ADDFNANM_01194	CDS	153				hypothetical protein
+ADDFNANM_01195	gene	309				
+ADDFNANM_01195	CDS	309				hypothetical protein
+ADDFNANM_01196	gene	225				
+ADDFNANM_01196	CDS	225				hypothetical protein
+ADDFNANM_01197	gene	105				
+ADDFNANM_01197	CDS	105				hypothetical protein
+ADDFNANM_01198	gene	129				
+ADDFNANM_01198	CDS	129				hypothetical protein
+ADDFNANM_01199	gene	240				
+ADDFNANM_01199	CDS	240				hypothetical protein
+ADDFNANM_01200	gene	222	folP_2			
+ADDFNANM_01200	CDS	222	folP_2	2.5.1.15	COG0294	Dihydropteroate synthase
+ADDFNANM_01201	gene	73				
+ADDFNANM_01201	tRNA	73				tRNA-Gln(ctg)
+ADDFNANM_01202	gene	162				
+ADDFNANM_01202	CDS	162				hypothetical protein
+ADDFNANM_01203	gene	162				
+ADDFNANM_01203	CDS	162				hypothetical protein
+ADDFNANM_01204	gene	189				
+ADDFNANM_01204	CDS	189				hypothetical protein

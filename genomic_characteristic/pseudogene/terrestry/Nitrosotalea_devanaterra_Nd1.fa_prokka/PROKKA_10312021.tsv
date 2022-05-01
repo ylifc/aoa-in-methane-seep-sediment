@@ -1,0 +1,4217 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+BPKGAMPB_00001	gene	1209				
+BPKGAMPB_00001	CDS	1209				hypothetical protein
+BPKGAMPB_00002	gene	396				
+BPKGAMPB_00002	CDS	396				hypothetical protein
+BPKGAMPB_00003	gene	153				
+BPKGAMPB_00003	CDS	153				hypothetical protein
+BPKGAMPB_00004	gene	558				
+BPKGAMPB_00004	CDS	558				hypothetical protein
+BPKGAMPB_00005	gene	363				
+BPKGAMPB_00005	CDS	363				hypothetical protein
+BPKGAMPB_00006	gene	750				
+BPKGAMPB_00006	CDS	750		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+BPKGAMPB_00007	gene	3375				
+BPKGAMPB_00007	CDS	3375				hypothetical protein
+BPKGAMPB_00008	gene	1323	glyA			
+BPKGAMPB_00008	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+BPKGAMPB_00009	gene	1701	groL_1			
+BPKGAMPB_00009	CDS	1701	groL_1		COG0459	60 kDa chaperonin
+BPKGAMPB_00010	gene	279				
+BPKGAMPB_00010	CDS	279				hypothetical protein
+BPKGAMPB_00011	gene	1485	glnA_1			
+BPKGAMPB_00011	CDS	1485	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+BPKGAMPB_00012	gene	558				
+BPKGAMPB_00012	CDS	558				hypothetical protein
+BPKGAMPB_00013	gene	273				
+BPKGAMPB_00013	CDS	273				hypothetical protein
+BPKGAMPB_00014	gene	225				
+BPKGAMPB_00014	CDS	225				hypothetical protein
+BPKGAMPB_00015	gene	741				
+BPKGAMPB_00015	CDS	741		1.-.-.-		putative oxidoreductase
+BPKGAMPB_00016	gene	1143				
+BPKGAMPB_00016	CDS	1143		1.8.5.4	COG0446	Sulfide-quinone reductase
+BPKGAMPB_00017	gene	77				
+BPKGAMPB_00017	tRNA	77				tRNA-Pro(ggg)
+BPKGAMPB_00018	gene	399				
+BPKGAMPB_00018	CDS	399				hypothetical protein
+BPKGAMPB_00019	gene	309				
+BPKGAMPB_00019	CDS	309				hypothetical protein
+BPKGAMPB_00020	gene	1707	yoaA			
+BPKGAMPB_00020	CDS	1707	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+BPKGAMPB_00021	gene	1551				
+BPKGAMPB_00021	CDS	1551				hypothetical protein
+BPKGAMPB_00022	gene	609	alkA			
+BPKGAMPB_00022	CDS	609	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+BPKGAMPB_00023	gene	1359	fieF			
+BPKGAMPB_00023	CDS	1359	fieF			Ferrous-iron efflux pump FieF
+BPKGAMPB_00024	gene	768				
+BPKGAMPB_00024	CDS	768				hypothetical protein
+BPKGAMPB_00025	gene	1335				
+BPKGAMPB_00025	CDS	1335				hypothetical protein
+BPKGAMPB_00026	gene	540	thpR			
+BPKGAMPB_00026	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+BPKGAMPB_00027	gene	561				
+BPKGAMPB_00027	CDS	561				hypothetical protein
+BPKGAMPB_00028	gene	414				
+BPKGAMPB_00028	CDS	414				hypothetical protein
+BPKGAMPB_00029	gene	843				
+BPKGAMPB_00029	CDS	843				hypothetical protein
+BPKGAMPB_00030	gene	723	cobB			
+BPKGAMPB_00030	CDS	723	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+BPKGAMPB_00031	gene	900	rnz			
+BPKGAMPB_00031	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+BPKGAMPB_00032	gene	927				
+BPKGAMPB_00032	CDS	927				hypothetical protein
+BPKGAMPB_00033	gene	876	prs			
+BPKGAMPB_00033	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+BPKGAMPB_00034	gene	918	btuF			
+BPKGAMPB_00034	CDS	918	btuF		COG0614	Vitamin B12-binding protein
+BPKGAMPB_00035	gene	906				
+BPKGAMPB_00035	CDS	906				hypothetical protein
+BPKGAMPB_00036	gene	543				
+BPKGAMPB_00036	CDS	543				hypothetical protein
+BPKGAMPB_00037	gene	828				
+BPKGAMPB_00037	CDS	828				hypothetical protein
+BPKGAMPB_00038	gene	219				
+BPKGAMPB_00038	CDS	219				hypothetical protein
+BPKGAMPB_00039	gene	744	fabG_1			
+BPKGAMPB_00039	CDS	744	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BPKGAMPB_00040	gene	945				
+BPKGAMPB_00040	CDS	945				hypothetical protein
+BPKGAMPB_00041	gene	639				
+BPKGAMPB_00041	CDS	639				hypothetical protein
+BPKGAMPB_00042	gene	1278				
+BPKGAMPB_00042	CDS	1278				hypothetical protein
+BPKGAMPB_00043	gene	405				
+BPKGAMPB_00043	CDS	405				hypothetical protein
+BPKGAMPB_00044	gene	585				
+BPKGAMPB_00044	CDS	585				hypothetical protein
+BPKGAMPB_00045	gene	378				
+BPKGAMPB_00045	CDS	378				hypothetical protein
+BPKGAMPB_00046	gene	312				
+BPKGAMPB_00046	CDS	312				hypothetical protein
+BPKGAMPB_00047	gene	129				
+BPKGAMPB_00047	CDS	129				hypothetical protein
+BPKGAMPB_00048	gene	288				
+BPKGAMPB_00048	CDS	288				hypothetical protein
+BPKGAMPB_00049	gene	1173				
+BPKGAMPB_00049	CDS	1173				hypothetical protein
+BPKGAMPB_00050	gene	669				
+BPKGAMPB_00050	CDS	669				hypothetical protein
+BPKGAMPB_00051	gene	198				
+BPKGAMPB_00051	CDS	198				hypothetical protein
+BPKGAMPB_00052	gene	2358				
+BPKGAMPB_00052	CDS	2358				hypothetical protein
+BPKGAMPB_00053	gene	714	queE			
+BPKGAMPB_00053	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+BPKGAMPB_00054	gene	561	folE			
+BPKGAMPB_00054	CDS	561	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+BPKGAMPB_00055	gene	255				
+BPKGAMPB_00055	CDS	255				hypothetical protein
+BPKGAMPB_00056	gene	669	queC			
+BPKGAMPB_00056	CDS	669	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+BPKGAMPB_00057	gene	810				
+BPKGAMPB_00057	CDS	810				hypothetical protein
+BPKGAMPB_00058	gene	753	crt_1			
+BPKGAMPB_00058	CDS	753	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+BPKGAMPB_00059	gene	915	thrB_1			
+BPKGAMPB_00059	CDS	915	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+BPKGAMPB_00060	gene	759				
+BPKGAMPB_00060	CDS	759				hypothetical protein
+BPKGAMPB_00061	gene	1017				
+BPKGAMPB_00061	CDS	1017				hypothetical protein
+BPKGAMPB_00062	gene	798				
+BPKGAMPB_00062	CDS	798		1.-.-.-		putative oxidoreductase
+BPKGAMPB_00063	gene	402				
+BPKGAMPB_00063	CDS	402				hypothetical protein
+BPKGAMPB_00064	gene	114				
+BPKGAMPB_00064	CDS	114				hypothetical protein
+BPKGAMPB_00065	gene	222				
+BPKGAMPB_00065	CDS	222				hypothetical protein
+BPKGAMPB_00066	gene	1233				
+BPKGAMPB_00066	CDS	1233				hypothetical protein
+BPKGAMPB_00067	gene	1125	thiI_1			
+BPKGAMPB_00067	CDS	1125	thiI_1	2.8.1.4		tRNA sulfurtransferase
+BPKGAMPB_00068	gene	720	cysH			
+BPKGAMPB_00068	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+BPKGAMPB_00069	gene	1140	sat			
+BPKGAMPB_00069	CDS	1140	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+BPKGAMPB_00070	gene	708				
+BPKGAMPB_00070	CDS	708				hypothetical protein
+BPKGAMPB_00071	gene	627	nth			
+BPKGAMPB_00071	CDS	627	nth	4.2.99.18	COG0177	Endonuclease III
+BPKGAMPB_00072	gene	1155				
+BPKGAMPB_00072	CDS	1155				hypothetical protein
+BPKGAMPB_00073	gene	384				
+BPKGAMPB_00073	CDS	384				hypothetical protein
+BPKGAMPB_00074	gene	600				
+BPKGAMPB_00074	CDS	600				hypothetical protein
+BPKGAMPB_00075	gene	489				
+BPKGAMPB_00075	CDS	489				hypothetical protein
+BPKGAMPB_00076	gene	1935				
+BPKGAMPB_00076	CDS	1935				hypothetical protein
+BPKGAMPB_00077	gene	420				
+BPKGAMPB_00077	CDS	420				hypothetical protein
+BPKGAMPB_00078	gene	591	cbiT			
+BPKGAMPB_00078	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+BPKGAMPB_00079	gene	732	cobI			
+BPKGAMPB_00079	CDS	732	cobI	2.1.1.130		Precorrin-2 C(20)-methyltransferase
+BPKGAMPB_00080	gene	768	cbiF			
+BPKGAMPB_00080	CDS	768	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+BPKGAMPB_00081	gene	753	murI			
+BPKGAMPB_00081	CDS	753	murI	5.1.1.3		Glutamate racemase
+BPKGAMPB_00082	gene	642				
+BPKGAMPB_00082	CDS	642				hypothetical protein
+BPKGAMPB_00083	gene	1623				
+BPKGAMPB_00083	CDS	1623				hypothetical protein
+BPKGAMPB_00084	gene	531				
+BPKGAMPB_00084	CDS	531				hypothetical protein
+BPKGAMPB_00085	gene	7203				
+BPKGAMPB_00085	CDS	7203				hypothetical protein
+BPKGAMPB_00086	gene	666	udgb			
+BPKGAMPB_00086	CDS	666	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+BPKGAMPB_00087	gene	759				
+BPKGAMPB_00087	CDS	759				hypothetical protein
+BPKGAMPB_00088	gene	240				
+BPKGAMPB_00088	CDS	240				hypothetical protein
+BPKGAMPB_00089	gene	621				
+BPKGAMPB_00089	CDS	621				hypothetical protein
+BPKGAMPB_00090	gene	1461	glyQS			
+BPKGAMPB_00090	CDS	1461	glyQS	6.1.1.14		Glycine--tRNA ligase
+BPKGAMPB_00091	gene	843	nfo			
+BPKGAMPB_00091	CDS	843	nfo	3.1.21.2	COG0648	putative endonuclease 4
+BPKGAMPB_00092	gene	1011				
+BPKGAMPB_00092	CDS	1011				hypothetical protein
+BPKGAMPB_00093	gene	1125				
+BPKGAMPB_00093	CDS	1125				hypothetical protein
+BPKGAMPB_00094	gene	2838				
+BPKGAMPB_00094	CDS	2838				hypothetical protein
+BPKGAMPB_00095	gene	546	guaA_1			
+BPKGAMPB_00095	CDS	546	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+BPKGAMPB_00096	gene	945				
+BPKGAMPB_00096	CDS	945				hypothetical protein
+BPKGAMPB_00097	gene	414	hit_1			
+BPKGAMPB_00097	CDS	414	hit_1		COG0537	Protein hit
+BPKGAMPB_00098	gene	74				
+BPKGAMPB_00098	tRNA	74				tRNA-Gly(ccc)
+BPKGAMPB_00099	gene	174				
+BPKGAMPB_00099	CDS	174				hypothetical protein
+BPKGAMPB_00100	gene	402				
+BPKGAMPB_00100	CDS	402				hypothetical protein
+BPKGAMPB_00101	gene	1266	tuf_1			
+BPKGAMPB_00101	CDS	1266	tuf_1			Elongation factor Tu
+BPKGAMPB_00102	gene	201				
+BPKGAMPB_00102	CDS	201				hypothetical protein
+BPKGAMPB_00103	gene	138				
+BPKGAMPB_00103	CDS	138				hypothetical protein
+BPKGAMPB_00104	gene	657				
+BPKGAMPB_00104	CDS	657				hypothetical protein
+BPKGAMPB_00105	gene	2799				
+BPKGAMPB_00105	CDS	2799				hypothetical protein
+BPKGAMPB_00106	gene	156				
+BPKGAMPB_00106	CDS	156				hypothetical protein
+BPKGAMPB_00107	gene	798	pnp			
+BPKGAMPB_00107	CDS	798	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+BPKGAMPB_00108	gene	531	cobO			
+BPKGAMPB_00108	CDS	531	cobO	2.5.1.17		Corrinoid adenosyltransferase
+BPKGAMPB_00109	gene	1224	thi4_1			
+BPKGAMPB_00109	CDS	1224	thi4_1	2.4.2.59		Thiamine thiazole synthase
+BPKGAMPB_00110	gene	1356	cbiA			
+BPKGAMPB_00110	CDS	1356	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+BPKGAMPB_00111	gene	636	cbiC			
+BPKGAMPB_00111	CDS	636	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+BPKGAMPB_00112	gene	747	cbiX			
+BPKGAMPB_00112	CDS	747	cbiX	4.99.1.3		Sirohydrochlorin cobaltochelatase
+BPKGAMPB_00113	gene	1065	cbiG			
+BPKGAMPB_00113	CDS	1065	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+BPKGAMPB_00114	gene	1209	cbiD			
+BPKGAMPB_00114	CDS	1209	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+BPKGAMPB_00115	gene	441	dnaJ_1			
+BPKGAMPB_00115	CDS	441	dnaJ_1			Chaperone protein DnaJ
+BPKGAMPB_00116	gene	855				
+BPKGAMPB_00116	CDS	855				hypothetical protein
+BPKGAMPB_00117	gene	1164	metK			
+BPKGAMPB_00117	CDS	1164	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+BPKGAMPB_00118	gene	246				
+BPKGAMPB_00118	CDS	246				hypothetical protein
+BPKGAMPB_00119	gene	648	radA			
+BPKGAMPB_00119	CDS	648	radA			DNA repair protein RadA
+BPKGAMPB_00120	gene	126				
+BPKGAMPB_00120	CDS	126				hypothetical protein
+BPKGAMPB_00121	gene	2604	dbpA			
+BPKGAMPB_00121	CDS	2604	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+BPKGAMPB_00122	gene	1398				
+BPKGAMPB_00122	CDS	1398				hypothetical protein
+BPKGAMPB_00123	gene	930				
+BPKGAMPB_00123	CDS	930				hypothetical protein
+BPKGAMPB_00124	gene	201				
+BPKGAMPB_00124	CDS	201				hypothetical protein
+BPKGAMPB_00125	gene	732				
+BPKGAMPB_00125	CDS	732				hypothetical protein
+BPKGAMPB_00126	gene	885				
+BPKGAMPB_00126	CDS	885				hypothetical protein
+BPKGAMPB_00127	gene	954	lnrL			
+BPKGAMPB_00127	CDS	954	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+BPKGAMPB_00128	gene	762				
+BPKGAMPB_00128	CDS	762				hypothetical protein
+BPKGAMPB_00129	gene	243				
+BPKGAMPB_00129	CDS	243				hypothetical protein
+BPKGAMPB_00130	gene	73				
+BPKGAMPB_00130	tRNA	73				tRNA-Gln(ttg)
+BPKGAMPB_00131	gene	432				
+BPKGAMPB_00131	CDS	432				hypothetical protein
+BPKGAMPB_00132	gene	1278				
+BPKGAMPB_00132	CDS	1278				hypothetical protein
+BPKGAMPB_00133	gene	1368				
+BPKGAMPB_00133	CDS	1368				hypothetical protein
+BPKGAMPB_00134	gene	1011				
+BPKGAMPB_00134	CDS	1011				hypothetical protein
+BPKGAMPB_00135	gene	1035	pseB_1			
+BPKGAMPB_00135	CDS	1035	pseB_1	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+BPKGAMPB_00136	gene	1131	per_1			
+BPKGAMPB_00136	CDS	1131	per_1	2.6.1.102	COG0399	GDP-perosamine synthase
+BPKGAMPB_00137	gene	1152	mshA_1			
+BPKGAMPB_00137	CDS	1152	mshA_1	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+BPKGAMPB_00138	gene	1590				
+BPKGAMPB_00138	CDS	1590				hypothetical protein
+BPKGAMPB_00139	gene	1152				
+BPKGAMPB_00139	CDS	1152				hypothetical protein
+BPKGAMPB_00140	gene	1083	per_2			
+BPKGAMPB_00140	CDS	1083	per_2	2.6.1.102	COG0399	GDP-perosamine synthase
+BPKGAMPB_00141	gene	432				
+BPKGAMPB_00141	CDS	432				hypothetical protein
+BPKGAMPB_00142	gene	957	gmd			
+BPKGAMPB_00142	CDS	957	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+BPKGAMPB_00143	gene	1266				
+BPKGAMPB_00143	CDS	1266				hypothetical protein
+BPKGAMPB_00144	gene	1011				
+BPKGAMPB_00144	CDS	1011				hypothetical protein
+BPKGAMPB_00145	gene	528	cysC			
+BPKGAMPB_00145	CDS	528	cysC	2.7.1.25		putative adenylyl-sulfate kinase
+BPKGAMPB_00146	gene	1083				
+BPKGAMPB_00146	CDS	1083				hypothetical protein
+BPKGAMPB_00147	gene	2037				
+BPKGAMPB_00147	CDS	2037				hypothetical protein
+BPKGAMPB_00148	gene	1803				
+BPKGAMPB_00148	CDS	1803				hypothetical protein
+BPKGAMPB_00149	gene	405				
+BPKGAMPB_00149	CDS	405		2.3.1.-	COG0110	Putative acetyltransferase
+BPKGAMPB_00150	gene	1161				
+BPKGAMPB_00150	CDS	1161		3.2.1.184	COG0381	UDP-N,N'-diacetylbacillosamine 2-epimerase (hydrolyzing)
+BPKGAMPB_00151	gene	1332	kat			
+BPKGAMPB_00151	CDS	1332	kat	2.6.1.111		3-aminobutyryl-CoA aminotransferase
+BPKGAMPB_00152	gene	1005	iolG_1			
+BPKGAMPB_00152	CDS	1005	iolG_1	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+BPKGAMPB_00153	gene	1041	neuB_1			
+BPKGAMPB_00153	CDS	1041	neuB_1	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+BPKGAMPB_00154	gene	747				
+BPKGAMPB_00154	CDS	747				hypothetical protein
+BPKGAMPB_00155	gene	1068	legI_1			
+BPKGAMPB_00155	CDS	1068	legI_1	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+BPKGAMPB_00156	gene	1011				
+BPKGAMPB_00156	CDS	1011				hypothetical protein
+BPKGAMPB_00157	gene	783	btuD_1			
+BPKGAMPB_00157	CDS	783	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BPKGAMPB_00158	gene	792				
+BPKGAMPB_00158	CDS	792				hypothetical protein
+BPKGAMPB_00159	gene	1167	mshA_2			
+BPKGAMPB_00159	CDS	1167	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+BPKGAMPB_00160	gene	876	arnC_1			
+BPKGAMPB_00160	CDS	876	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BPKGAMPB_00161	gene	5403				
+BPKGAMPB_00161	CDS	5403				hypothetical protein
+BPKGAMPB_00162	gene	300				
+BPKGAMPB_00162	CDS	300				hypothetical protein
+BPKGAMPB_00163	gene	423	coxM			
+BPKGAMPB_00163	CDS	423	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+BPKGAMPB_00164	gene	1542	ctaD			
+BPKGAMPB_00164	CDS	1542	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+BPKGAMPB_00165	gene	978	petE_1			
+BPKGAMPB_00165	CDS	978	petE_1			Plastocyanin
+BPKGAMPB_00166	gene	447	ctaA			
+BPKGAMPB_00166	CDS	447	ctaA	1.3.-.-		Heme A synthase
+BPKGAMPB_00167	gene	513				
+BPKGAMPB_00167	CDS	513				hypothetical protein
+BPKGAMPB_00168	gene	597				
+BPKGAMPB_00168	CDS	597				hypothetical protein
+BPKGAMPB_00169	gene	255				
+BPKGAMPB_00169	CDS	255				hypothetical protein
+BPKGAMPB_00170	gene	234				
+BPKGAMPB_00170	CDS	234				hypothetical protein
+BPKGAMPB_00171	gene	174				
+BPKGAMPB_00171	CDS	174				hypothetical protein
+BPKGAMPB_00172	gene	915	ilvE_1			
+BPKGAMPB_00172	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BPKGAMPB_00173	gene	207				
+BPKGAMPB_00173	CDS	207				hypothetical protein
+BPKGAMPB_00174	gene	1416				
+BPKGAMPB_00174	CDS	1416				hypothetical protein
+BPKGAMPB_00175	gene	159				
+BPKGAMPB_00175	CDS	159				hypothetical protein
+BPKGAMPB_00176	gene	1017	murG_1			
+BPKGAMPB_00176	CDS	1017	murG_1	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BPKGAMPB_00177	gene	76				
+BPKGAMPB_00177	tRNA	76				tRNA-Val(tac)
+BPKGAMPB_00178	gene	879				
+BPKGAMPB_00178	CDS	879				hypothetical protein
+BPKGAMPB_00179	gene	303				
+BPKGAMPB_00179	CDS	303				hypothetical protein
+BPKGAMPB_00180	gene	273				
+BPKGAMPB_00180	CDS	273				hypothetical protein
+BPKGAMPB_00181	gene	453				
+BPKGAMPB_00181	CDS	453				hypothetical protein
+BPKGAMPB_00182	gene	357				
+BPKGAMPB_00182	CDS	357				hypothetical protein
+BPKGAMPB_00183	gene	2106	pat			
+BPKGAMPB_00183	CDS	2106	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+BPKGAMPB_00184	gene	1503	abfD			
+BPKGAMPB_00184	CDS	1503	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+BPKGAMPB_00185	gene	684				
+BPKGAMPB_00185	CDS	684				hypothetical protein
+BPKGAMPB_00186	gene	720				
+BPKGAMPB_00186	CDS	720				hypothetical protein
+BPKGAMPB_00187	gene	1317	deaD			
+BPKGAMPB_00187	CDS	1317	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+BPKGAMPB_00188	gene	333	trxA_1			
+BPKGAMPB_00188	CDS	333	trxA_1			Thioredoxin 1
+BPKGAMPB_00189	gene	522				
+BPKGAMPB_00189	CDS	522				hypothetical protein
+BPKGAMPB_00190	gene	366				
+BPKGAMPB_00190	CDS	366				hypothetical protein
+BPKGAMPB_00191	gene	76				
+BPKGAMPB_00191	tRNA	76				tRNA-Ala(cgc)
+BPKGAMPB_00192	gene	1395	lhyD			
+BPKGAMPB_00192	CDS	1395	lhyD	3.5.2.-		L-hydantoinase
+BPKGAMPB_00193	gene	1161				
+BPKGAMPB_00193	CDS	1161				hypothetical protein
+BPKGAMPB_00194	gene	357	cutA			
+BPKGAMPB_00194	CDS	357	cutA		COG1324	Divalent-cation tolerance protein CutA
+BPKGAMPB_00195	gene	1053				
+BPKGAMPB_00195	CDS	1053				hypothetical protein
+BPKGAMPB_00196	gene	426				
+BPKGAMPB_00196	CDS	426				hypothetical protein
+BPKGAMPB_00197	gene	420				
+BPKGAMPB_00197	CDS	420				hypothetical protein
+BPKGAMPB_00198	gene	156				
+BPKGAMPB_00198	CDS	156				hypothetical protein
+BPKGAMPB_00199	gene	441	dtxR			
+BPKGAMPB_00199	CDS	441	dtxR			Diphtheria toxin repressor
+BPKGAMPB_00200	gene	780				
+BPKGAMPB_00200	CDS	780				hypothetical protein
+BPKGAMPB_00201	gene	1665	moaA_1			
+BPKGAMPB_00201	CDS	1665	moaA_1			GTP 3',8-cyclase
+BPKGAMPB_00202	gene	1020	pimA			
+BPKGAMPB_00202	CDS	1020	pimA	2.4.1.345	COG0438	Phosphatidyl-myo-inositol mannosyltransferase
+BPKGAMPB_00203	gene	1086	wbpI_1			
+BPKGAMPB_00203	CDS	1086	wbpI_1	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+BPKGAMPB_00204	gene	1248				
+BPKGAMPB_00204	CDS	1248				hypothetical protein
+BPKGAMPB_00205	gene	1353	wecC			
+BPKGAMPB_00205	CDS	1353	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+BPKGAMPB_00206	gene	948				
+BPKGAMPB_00206	CDS	948		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+BPKGAMPB_00207	gene	1104	mshA_3			
+BPKGAMPB_00207	CDS	1104	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+BPKGAMPB_00208	gene	357				
+BPKGAMPB_00208	CDS	357				hypothetical protein
+BPKGAMPB_00209	gene	648	fabG_2			
+BPKGAMPB_00209	CDS	648	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BPKGAMPB_00210	gene	1056	wbpI_2			
+BPKGAMPB_00210	CDS	1056	wbpI_2	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+BPKGAMPB_00211	gene	1137	mshA_4			
+BPKGAMPB_00211	CDS	1137	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+BPKGAMPB_00212	gene	1500				
+BPKGAMPB_00212	CDS	1500				hypothetical protein
+BPKGAMPB_00213	gene	1113	arnB_1			
+BPKGAMPB_00213	CDS	1113	arnB_1	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+BPKGAMPB_00214	gene	993	thrB_2			
+BPKGAMPB_00214	CDS	993	thrB_2	2.7.1.39		Homoserine kinase
+BPKGAMPB_00215	gene	1047	neuB_2			
+BPKGAMPB_00215	CDS	1047	neuB_2	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+BPKGAMPB_00216	gene	747				
+BPKGAMPB_00216	CDS	747				hypothetical protein
+BPKGAMPB_00217	gene	1050	legI_2			
+BPKGAMPB_00217	CDS	1050	legI_2	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+BPKGAMPB_00218	gene	459				
+BPKGAMPB_00218	CDS	459				hypothetical protein
+BPKGAMPB_00219	gene	249				
+BPKGAMPB_00219	CDS	249				hypothetical protein
+BPKGAMPB_00220	gene	216				
+BPKGAMPB_00220	CDS	216				hypothetical protein
+BPKGAMPB_00221	gene	948				
+BPKGAMPB_00221	CDS	948				hypothetical protein
+BPKGAMPB_00222	gene	711				
+BPKGAMPB_00222	CDS	711				hypothetical protein
+BPKGAMPB_00223	gene	690				
+BPKGAMPB_00223	CDS	690				putative protein
+BPKGAMPB_00224	gene	975	murG_2			
+BPKGAMPB_00224	CDS	975	murG_2	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BPKGAMPB_00225	gene	996	pseB_2			
+BPKGAMPB_00225	CDS	996	pseB_2	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+BPKGAMPB_00226	gene	1848				
+BPKGAMPB_00226	CDS	1848				hypothetical protein
+BPKGAMPB_00227	gene	1494				
+BPKGAMPB_00227	CDS	1494				hypothetical protein
+BPKGAMPB_00228	gene	1107				
+BPKGAMPB_00228	CDS	1107				hypothetical protein
+BPKGAMPB_00229	gene	948				
+BPKGAMPB_00229	CDS	948				hypothetical protein
+BPKGAMPB_00230	gene	1140				
+BPKGAMPB_00230	CDS	1140				hypothetical protein
+BPKGAMPB_00231	gene	1347	arnB_2			
+BPKGAMPB_00231	CDS	1347	arnB_2	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+BPKGAMPB_00232	gene	948	rfbB			
+BPKGAMPB_00232	CDS	948	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+BPKGAMPB_00233	gene	1077	perA			
+BPKGAMPB_00233	CDS	1077	perA	2.6.1.102	COG0399	GDP-perosamine synthase
+BPKGAMPB_00234	gene	795				
+BPKGAMPB_00234	CDS	795				hypothetical protein
+BPKGAMPB_00235	gene	924	galE1			
+BPKGAMPB_00235	CDS	924	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+BPKGAMPB_00236	gene	1047	mtnA			
+BPKGAMPB_00236	CDS	1047	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+BPKGAMPB_00237	gene	630				
+BPKGAMPB_00237	CDS	630				hypothetical protein
+BPKGAMPB_00238	gene	240				
+BPKGAMPB_00238	CDS	240				hypothetical protein
+BPKGAMPB_00239	gene	585				
+BPKGAMPB_00239	CDS	585				hypothetical protein
+BPKGAMPB_00240	gene	495				
+BPKGAMPB_00240	CDS	495				hypothetical protein
+BPKGAMPB_00241	gene	195				
+BPKGAMPB_00241	CDS	195				hypothetical protein
+BPKGAMPB_00242	gene	216				
+BPKGAMPB_00242	CDS	216				hypothetical protein
+BPKGAMPB_00243	gene	75				
+BPKGAMPB_00243	tRNA	75				tRNA-Arg(tcg)
+BPKGAMPB_00244	gene	1173	alaA			
+BPKGAMPB_00244	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+BPKGAMPB_00245	gene	399				
+BPKGAMPB_00245	CDS	399				hypothetical protein
+BPKGAMPB_00246	gene	225				
+BPKGAMPB_00246	CDS	225				hypothetical protein
+BPKGAMPB_00247	gene	672				
+BPKGAMPB_00247	CDS	672				hypothetical protein
+BPKGAMPB_00248	gene	621	pspA			
+BPKGAMPB_00248	CDS	621	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+BPKGAMPB_00249	gene	987				
+BPKGAMPB_00249	CDS	987				hypothetical protein
+BPKGAMPB_00250	gene	4245				
+BPKGAMPB_00250	CDS	4245				hypothetical protein
+BPKGAMPB_00251	gene	609	petC			
+BPKGAMPB_00251	CDS	609	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+BPKGAMPB_00252	gene	1437	petB			
+BPKGAMPB_00252	CDS	1437	petB			Cytochrome b6
+BPKGAMPB_00253	gene	471				
+BPKGAMPB_00253	CDS	471				hypothetical protein
+BPKGAMPB_00254	gene	351				
+BPKGAMPB_00254	CDS	351				hypothetical protein
+BPKGAMPB_00255	gene	354	saeR			
+BPKGAMPB_00255	CDS	354	saeR			Response regulator SaeR
+BPKGAMPB_00256	gene	762				
+BPKGAMPB_00256	CDS	762				hypothetical protein
+BPKGAMPB_00257	gene	570				
+BPKGAMPB_00257	CDS	570				hypothetical protein
+BPKGAMPB_00258	gene	393				
+BPKGAMPB_00258	CDS	393				hypothetical protein
+BPKGAMPB_00259	gene	126				
+BPKGAMPB_00259	CDS	126				hypothetical protein
+BPKGAMPB_00260	gene	273				
+BPKGAMPB_00260	CDS	273				hypothetical protein
+BPKGAMPB_00261	gene	558				
+BPKGAMPB_00261	CDS	558				hypothetical protein
+BPKGAMPB_00262	gene	1314				
+BPKGAMPB_00262	CDS	1314				hypothetical protein
+BPKGAMPB_00263	gene	77				
+BPKGAMPB_00263	tRNA	77				tRNA-Arg(tct)
+BPKGAMPB_00264	gene	849				
+BPKGAMPB_00264	CDS	849				hypothetical protein
+BPKGAMPB_00265	gene	1257				
+BPKGAMPB_00265	CDS	1257		3.1.-.-	COG1236	Ribonuclease
+BPKGAMPB_00266	gene	222				
+BPKGAMPB_00266	CDS	222				hypothetical protein
+BPKGAMPB_00267	gene	321	ndhI_1			
+BPKGAMPB_00267	CDS	321	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BPKGAMPB_00268	gene	1515	QTRT1			
+BPKGAMPB_00268	CDS	1515	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+BPKGAMPB_00269	gene	552				
+BPKGAMPB_00269	CDS	552				hypothetical protein
+BPKGAMPB_00270	gene	1248	ychF			
+BPKGAMPB_00270	CDS	1248	ychF		COG0012	Ribosome-binding ATPase YchF
+BPKGAMPB_00271	gene	984	tsaD			
+BPKGAMPB_00271	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+BPKGAMPB_00272	gene	327				
+BPKGAMPB_00272	CDS	327				hypothetical protein
+BPKGAMPB_00273	gene	621				
+BPKGAMPB_00273	CDS	621				hypothetical protein
+BPKGAMPB_00274	gene	564				
+BPKGAMPB_00274	CDS	564		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+BPKGAMPB_00275	gene	1029				
+BPKGAMPB_00275	CDS	1029				hypothetical protein
+BPKGAMPB_00276	gene	1053	adh			
+BPKGAMPB_00276	CDS	1053	adh	1.1.1.1		Alcohol dehydrogenase
+BPKGAMPB_00277	gene	73				
+BPKGAMPB_00277	tRNA	73				tRNA-His(gtg)
+BPKGAMPB_00278	gene	351				
+BPKGAMPB_00278	CDS	351				hypothetical protein
+BPKGAMPB_00279	gene	765				
+BPKGAMPB_00279	CDS	765				hypothetical protein
+BPKGAMPB_00280	gene	273				
+BPKGAMPB_00280	CDS	273				hypothetical protein
+BPKGAMPB_00281	gene	309	bnzC			
+BPKGAMPB_00281	CDS	309	bnzC		COG2146	Benzene 1,2-dioxygenase system ferredoxin subunit
+BPKGAMPB_00282	gene	861	yisK			
+BPKGAMPB_00282	CDS	861	yisK		COG0179	putative protein YisK
+BPKGAMPB_00283	gene	1707	glnS			
+BPKGAMPB_00283	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+BPKGAMPB_00284	gene	1002				
+BPKGAMPB_00284	CDS	1002		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+BPKGAMPB_00285	gene	639	idi			
+BPKGAMPB_00285	CDS	639	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+BPKGAMPB_00286	gene	741	argB			
+BPKGAMPB_00286	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+BPKGAMPB_00287	gene	954	galK			
+BPKGAMPB_00287	CDS	954	galK	2.7.1.6	COG0153	Galactokinase
+BPKGAMPB_00288	gene	837				
+BPKGAMPB_00288	CDS	837				hypothetical protein
+BPKGAMPB_00289	gene	645				
+BPKGAMPB_00289	CDS	645				hypothetical protein
+BPKGAMPB_00290	gene	1239	eno2			
+BPKGAMPB_00290	CDS	1239	eno2	4.2.1.11	COG0148	Enolase 2
+BPKGAMPB_00291	gene	243				
+BPKGAMPB_00291	CDS	243				hypothetical protein
+BPKGAMPB_00292	gene	87				
+BPKGAMPB_00292	tRNA	87				tRNA-Leu(gag)
+BPKGAMPB_00293	gene	693	nnr_1			
+BPKGAMPB_00293	CDS	693	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BPKGAMPB_00294	gene	615	pksB			
+BPKGAMPB_00294	CDS	615	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+BPKGAMPB_00295	gene	1056				
+BPKGAMPB_00295	CDS	1056				hypothetical protein
+BPKGAMPB_00296	gene	1761	glmS_1			
+BPKGAMPB_00296	CDS	1761	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BPKGAMPB_00297	gene	540				
+BPKGAMPB_00297	CDS	540				hypothetical protein
+BPKGAMPB_00298	gene	594				
+BPKGAMPB_00298	CDS	594				hypothetical protein
+BPKGAMPB_00299	gene	321				
+BPKGAMPB_00299	CDS	321				hypothetical protein
+BPKGAMPB_00300	gene	501				
+BPKGAMPB_00300	CDS	501				hypothetical protein
+BPKGAMPB_00301	gene	3030				
+BPKGAMPB_00301	CDS	3030				hypothetical protein
+BPKGAMPB_00302	gene	1158	iscS			
+BPKGAMPB_00302	CDS	1158	iscS	2.8.1.7		Cysteine desulfurase IscS
+BPKGAMPB_00303	gene	801	larE			
+BPKGAMPB_00303	CDS	801	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+BPKGAMPB_00304	gene	1233	larC			
+BPKGAMPB_00304	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+BPKGAMPB_00305	gene	915	mdh			
+BPKGAMPB_00305	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+BPKGAMPB_00306	gene	804	larB			
+BPKGAMPB_00306	CDS	804	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+BPKGAMPB_00307	gene	720				
+BPKGAMPB_00307	CDS	720				hypothetical protein
+BPKGAMPB_00308	gene	1566				
+BPKGAMPB_00308	CDS	1566				hypothetical protein
+BPKGAMPB_00309	gene	396				
+BPKGAMPB_00309	CDS	396				hypothetical protein
+BPKGAMPB_00310	gene	1029				
+BPKGAMPB_00310	CDS	1029				hypothetical protein
+BPKGAMPB_00311	gene	840				
+BPKGAMPB_00311	CDS	840				hypothetical protein
+BPKGAMPB_00312	gene	894				
+BPKGAMPB_00312	CDS	894				hypothetical protein
+BPKGAMPB_00313	gene	552				
+BPKGAMPB_00313	CDS	552				hypothetical protein
+BPKGAMPB_00314	gene	177				
+BPKGAMPB_00314	CDS	177				hypothetical protein
+BPKGAMPB_00315	gene	897				
+BPKGAMPB_00315	CDS	897				hypothetical protein
+BPKGAMPB_00316	gene	252				
+BPKGAMPB_00316	CDS	252				hypothetical protein
+BPKGAMPB_00317	gene	3348	rpoB			
+BPKGAMPB_00317	CDS	3348	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+BPKGAMPB_00318	gene	3795	rpoC			
+BPKGAMPB_00318	CDS	3795	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+BPKGAMPB_00319	gene	318				
+BPKGAMPB_00319	CDS	318				hypothetical protein
+BPKGAMPB_00320	gene	492	nusA			
+BPKGAMPB_00320	CDS	492	nusA			Transcription termination/antitermination protein NusA
+BPKGAMPB_00321	gene	438				
+BPKGAMPB_00321	CDS	438				hypothetical protein
+BPKGAMPB_00322	gene	600				
+BPKGAMPB_00322	CDS	600				hypothetical protein
+BPKGAMPB_00323	gene	321				
+BPKGAMPB_00323	CDS	321				hypothetical protein
+BPKGAMPB_00324	gene	699				
+BPKGAMPB_00324	CDS	699				hypothetical protein
+BPKGAMPB_00325	gene	1008				
+BPKGAMPB_00325	CDS	1008				hypothetical protein
+BPKGAMPB_00326	gene	2871	valS_1			
+BPKGAMPB_00326	CDS	2871	valS_1	6.1.1.9		Valine--tRNA ligase
+BPKGAMPB_00327	gene	2709	alaS			
+BPKGAMPB_00327	CDS	2709	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+BPKGAMPB_00328	gene	507				
+BPKGAMPB_00328	CDS	507				hypothetical protein
+BPKGAMPB_00329	gene	300				
+BPKGAMPB_00329	CDS	300				hypothetical protein
+BPKGAMPB_00330	gene	630				
+BPKGAMPB_00330	CDS	630				hypothetical protein
+BPKGAMPB_00331	gene	867				
+BPKGAMPB_00331	CDS	867				hypothetical protein
+BPKGAMPB_00332	gene	657	rplA			
+BPKGAMPB_00332	CDS	657	rplA			50S ribosomal protein L1
+BPKGAMPB_00333	gene	435	lrp_1			
+BPKGAMPB_00333	CDS	435	lrp_1		COG1522	Leucine-responsive regulatory protein
+BPKGAMPB_00334	gene	480	rplK			
+BPKGAMPB_00334	CDS	480	rplK		COG0080	50S ribosomal protein L11
+BPKGAMPB_00335	gene	456				
+BPKGAMPB_00335	CDS	456				hypothetical protein
+BPKGAMPB_00336	gene	186				
+BPKGAMPB_00336	CDS	186				hypothetical protein
+BPKGAMPB_00337	gene	231				
+BPKGAMPB_00337	CDS	231				hypothetical protein
+BPKGAMPB_00338	gene	390				
+BPKGAMPB_00338	CDS	390				hypothetical protein
+BPKGAMPB_00339	gene	195				
+BPKGAMPB_00339	CDS	195				hypothetical protein
+BPKGAMPB_00340	gene	777				
+BPKGAMPB_00340	CDS	777				hypothetical protein
+BPKGAMPB_00341	gene	297	ogt			
+BPKGAMPB_00341	CDS	297	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+BPKGAMPB_00342	gene	450				
+BPKGAMPB_00342	CDS	450				hypothetical protein
+BPKGAMPB_00343	gene	402				
+BPKGAMPB_00343	CDS	402				hypothetical protein
+BPKGAMPB_00344	gene	1605	pckA			
+BPKGAMPB_00344	CDS	1605	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+BPKGAMPB_00345	gene	2016				
+BPKGAMPB_00345	CDS	2016				hypothetical protein
+BPKGAMPB_00346	gene	624	sodA			
+BPKGAMPB_00346	CDS	624	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+BPKGAMPB_00347	gene	423	pfdA			
+BPKGAMPB_00347	CDS	423	pfdA			Prefoldin subunit alpha
+BPKGAMPB_00348	gene	1497	ftsY			
+BPKGAMPB_00348	CDS	1497	ftsY			Signal recognition particle receptor FtsY
+BPKGAMPB_00349	gene	915	argF			
+BPKGAMPB_00349	CDS	915	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+BPKGAMPB_00350	gene	489				
+BPKGAMPB_00350	CDS	489				hypothetical protein
+BPKGAMPB_00351	gene	636				
+BPKGAMPB_00351	CDS	636				hypothetical protein
+BPKGAMPB_00352	gene	468				
+BPKGAMPB_00352	CDS	468				hypothetical protein
+BPKGAMPB_00353	gene	423				
+BPKGAMPB_00353	CDS	423				hypothetical protein
+BPKGAMPB_00354	gene	1440	secY			
+BPKGAMPB_00354	CDS	1440	secY			Protein translocase subunit SecY
+BPKGAMPB_00355	gene	591				
+BPKGAMPB_00355	CDS	591				hypothetical protein
+BPKGAMPB_00356	gene	636				
+BPKGAMPB_00356	CDS	636				hypothetical protein
+BPKGAMPB_00357	gene	585	cmk			
+BPKGAMPB_00357	CDS	585	cmk	2.7.4.25		Cytidylate kinase
+BPKGAMPB_00358	gene	999	truB			
+BPKGAMPB_00358	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+BPKGAMPB_00359	gene	450				
+BPKGAMPB_00359	CDS	450				hypothetical protein
+BPKGAMPB_00360	gene	1104				
+BPKGAMPB_00360	CDS	1104				hypothetical protein
+BPKGAMPB_00361	gene	306				
+BPKGAMPB_00361	CDS	306				hypothetical protein
+BPKGAMPB_00362	gene	381				
+BPKGAMPB_00362	CDS	381				hypothetical protein
+BPKGAMPB_00363	gene	759	arsM			
+BPKGAMPB_00363	CDS	759	arsM	2.1.1.137		Arsenite methyltransferase
+BPKGAMPB_00364	gene	429	arsC2			
+BPKGAMPB_00364	CDS	429	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+BPKGAMPB_00365	gene	675	aqpZ2_1			
+BPKGAMPB_00365	CDS	675	aqpZ2_1			Aquaporin Z 2
+BPKGAMPB_00366	gene	687				
+BPKGAMPB_00366	CDS	687				hypothetical protein
+BPKGAMPB_00367	gene	1344	lhgD			
+BPKGAMPB_00367	CDS	1344	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+BPKGAMPB_00368	gene	261				
+BPKGAMPB_00368	CDS	261				hypothetical protein
+BPKGAMPB_00369	gene	963	ghrB			
+BPKGAMPB_00369	CDS	963	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+BPKGAMPB_00370	gene	1914	korA			
+BPKGAMPB_00370	CDS	1914	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+BPKGAMPB_00371	gene	966				
+BPKGAMPB_00371	CDS	966				hypothetical protein
+BPKGAMPB_00372	gene	435				
+BPKGAMPB_00372	CDS	435				hypothetical protein
+BPKGAMPB_00373	gene	531				
+BPKGAMPB_00373	CDS	531				hypothetical protein
+BPKGAMPB_00374	gene	591				
+BPKGAMPB_00374	CDS	591				hypothetical protein
+BPKGAMPB_00375	gene	234				
+BPKGAMPB_00375	CDS	234				hypothetical protein
+BPKGAMPB_00376	gene	783				
+BPKGAMPB_00376	CDS	783				hypothetical protein
+BPKGAMPB_00377	gene	552				
+BPKGAMPB_00377	CDS	552				hypothetical protein
+BPKGAMPB_00378	gene	771	fbiB_1			
+BPKGAMPB_00378	CDS	771	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+BPKGAMPB_00379	gene	1272	dmdA			
+BPKGAMPB_00379	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+BPKGAMPB_00380	gene	483	DmdB			
+BPKGAMPB_00380	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+BPKGAMPB_00381	gene	1413	leuC			
+BPKGAMPB_00381	CDS	1413	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+BPKGAMPB_00382	gene	570	leuD1			
+BPKGAMPB_00382	CDS	570	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+BPKGAMPB_00383	gene	732	cugP_1			
+BPKGAMPB_00383	CDS	732	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BPKGAMPB_00384	gene	444	rpsI			
+BPKGAMPB_00384	CDS	444	rpsI		COG0103	30S ribosomal protein S9
+BPKGAMPB_00385	gene	480				
+BPKGAMPB_00385	CDS	480				hypothetical protein
+BPKGAMPB_00386	gene	348				
+BPKGAMPB_00386	CDS	348				hypothetical protein
+BPKGAMPB_00387	gene	636				
+BPKGAMPB_00387	CDS	636				hypothetical protein
+BPKGAMPB_00388	gene	690				
+BPKGAMPB_00388	CDS	690				hypothetical protein
+BPKGAMPB_00389	gene	705				
+BPKGAMPB_00389	CDS	705				hypothetical protein
+BPKGAMPB_00390	gene	705	rph_1			
+BPKGAMPB_00390	CDS	705	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+BPKGAMPB_00391	gene	804	rph_2			
+BPKGAMPB_00391	CDS	804	rph_2	2.7.7.56		Ribonuclease PH
+BPKGAMPB_00392	gene	216				
+BPKGAMPB_00392	CDS	216				hypothetical protein
+BPKGAMPB_00393	gene	246				
+BPKGAMPB_00393	CDS	246				hypothetical protein
+BPKGAMPB_00394	gene	396				
+BPKGAMPB_00394	CDS	396				hypothetical protein
+BPKGAMPB_00395	gene	693				
+BPKGAMPB_00395	CDS	693				hypothetical protein
+BPKGAMPB_00396	gene	642				
+BPKGAMPB_00396	CDS	642				hypothetical protein
+BPKGAMPB_00397	gene	798				
+BPKGAMPB_00397	CDS	798				hypothetical protein
+BPKGAMPB_00398	gene	1773				
+BPKGAMPB_00398	CDS	1773				hypothetical protein
+BPKGAMPB_00399	gene	1401				
+BPKGAMPB_00399	CDS	1401				hypothetical protein
+BPKGAMPB_00400	gene	1446	glnA_2			
+BPKGAMPB_00400	CDS	1446	glnA_2	6.3.1.2		Glutamine synthetase
+BPKGAMPB_00401	gene	228				
+BPKGAMPB_00401	CDS	228				hypothetical protein
+BPKGAMPB_00402	gene	603				
+BPKGAMPB_00402	CDS	603				hypothetical protein
+BPKGAMPB_00403	gene	573				
+BPKGAMPB_00403	CDS	573				hypothetical protein
+BPKGAMPB_00404	gene	225				
+BPKGAMPB_00404	CDS	225				hypothetical protein
+BPKGAMPB_00405	gene	468				
+BPKGAMPB_00405	CDS	468				hypothetical protein
+BPKGAMPB_00406	gene	975				
+BPKGAMPB_00406	CDS	975				hypothetical protein
+BPKGAMPB_00407	gene	573				
+BPKGAMPB_00407	CDS	573				hypothetical protein
+BPKGAMPB_00408	gene	471				
+BPKGAMPB_00408	CDS	471				hypothetical protein
+BPKGAMPB_00409	gene	504				
+BPKGAMPB_00409	CDS	504				hypothetical protein
+BPKGAMPB_00410	gene	969	petE_2			
+BPKGAMPB_00410	CDS	969	petE_2			Plastocyanin
+BPKGAMPB_00411	gene	519				
+BPKGAMPB_00411	CDS	519				hypothetical protein
+BPKGAMPB_00412	gene	816	nadK_1			
+BPKGAMPB_00412	CDS	816	nadK_1	2.7.1.23		NAD kinase
+BPKGAMPB_00413	gene	840	ttuD_1			
+BPKGAMPB_00413	CDS	840	ttuD_1		COG2897	Sulfur carrier protein TtuD
+BPKGAMPB_00414	gene	333				
+BPKGAMPB_00414	CDS	333				hypothetical protein
+BPKGAMPB_00415	gene	951				
+BPKGAMPB_00415	CDS	951				hypothetical protein
+BPKGAMPB_00416	gene	2019				
+BPKGAMPB_00416	CDS	2019				hypothetical protein
+BPKGAMPB_00417	gene	1407				
+BPKGAMPB_00417	CDS	1407				hypothetical protein
+BPKGAMPB_00418	gene	390	msrB			
+BPKGAMPB_00418	CDS	390	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+BPKGAMPB_00419	gene	579				
+BPKGAMPB_00419	CDS	579				hypothetical protein
+BPKGAMPB_00420	gene	1602				
+BPKGAMPB_00420	CDS	1602				hypothetical protein
+BPKGAMPB_00421	gene	420				
+BPKGAMPB_00421	CDS	420				hypothetical protein
+BPKGAMPB_00422	gene	74				
+BPKGAMPB_00422	tRNA	74				tRNA-Gly(gcc)
+BPKGAMPB_00423	gene	276				
+BPKGAMPB_00423	CDS	276				hypothetical protein
+BPKGAMPB_00424	gene	507				
+BPKGAMPB_00424	CDS	507				hypothetical protein
+BPKGAMPB_00425	gene	570				
+BPKGAMPB_00425	CDS	570				hypothetical protein
+BPKGAMPB_00426	gene	162				
+BPKGAMPB_00426	CDS	162				hypothetical protein
+BPKGAMPB_00427	gene	447				
+BPKGAMPB_00427	CDS	447				hypothetical protein
+BPKGAMPB_00428	gene	612				
+BPKGAMPB_00428	CDS	612				hypothetical protein
+BPKGAMPB_00429	gene	77				
+BPKGAMPB_00429	tRNA	77				tRNA-Glu(ctc)
+BPKGAMPB_00430	gene	885				
+BPKGAMPB_00430	CDS	885				hypothetical protein
+BPKGAMPB_00431	gene	171				
+BPKGAMPB_00431	CDS	171				hypothetical protein
+BPKGAMPB_00432	gene	1584				
+BPKGAMPB_00432	CDS	1584				hypothetical protein
+BPKGAMPB_00433	gene	684				
+BPKGAMPB_00433	CDS	684				hypothetical protein
+BPKGAMPB_00434	gene	507				
+BPKGAMPB_00434	CDS	507				hypothetical protein
+BPKGAMPB_00435	gene	309				
+BPKGAMPB_00435	CDS	309				hypothetical protein
+BPKGAMPB_00436	gene	1050	sasA_1			
+BPKGAMPB_00436	CDS	1050	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_00437	gene	399	cheY_1			
+BPKGAMPB_00437	CDS	399	cheY_1		COG0784	Chemotaxis protein CheY
+BPKGAMPB_00438	gene	390				
+BPKGAMPB_00438	CDS	390				hypothetical protein
+BPKGAMPB_00439	gene	495				
+BPKGAMPB_00439	CDS	495				hypothetical protein
+BPKGAMPB_00440	gene	216				
+BPKGAMPB_00440	CDS	216				hypothetical protein
+BPKGAMPB_00441	gene	642				
+BPKGAMPB_00441	CDS	642				hypothetical protein
+BPKGAMPB_00442	gene	318				
+BPKGAMPB_00442	CDS	318				hypothetical protein
+BPKGAMPB_00443	gene	447				
+BPKGAMPB_00443	CDS	447				hypothetical protein
+BPKGAMPB_00444	gene	1002	drrA			
+BPKGAMPB_00444	CDS	1002	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+BPKGAMPB_00445	gene	780				
+BPKGAMPB_00445	CDS	780				hypothetical protein
+BPKGAMPB_00446	gene	5265				
+BPKGAMPB_00446	CDS	5265				hypothetical protein
+BPKGAMPB_00447	gene	1278	hemL_1			
+BPKGAMPB_00447	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+BPKGAMPB_00448	gene	936	hemC			
+BPKGAMPB_00448	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+BPKGAMPB_00449	gene	741	sumT			
+BPKGAMPB_00449	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+BPKGAMPB_00450	gene	795				
+BPKGAMPB_00450	CDS	795				hypothetical protein
+BPKGAMPB_00451	gene	1188	arnC_2			
+BPKGAMPB_00451	CDS	1188	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BPKGAMPB_00452	gene	1401				
+BPKGAMPB_00452	CDS	1401				hypothetical protein
+BPKGAMPB_00453	gene	1401				
+BPKGAMPB_00453	CDS	1401				hypothetical protein
+BPKGAMPB_00454	gene	261	bphA3_1			
+BPKGAMPB_00454	CDS	261	bphA3_1			Biphenyl 2,3-dioxygenase, ferredoxin component
+BPKGAMPB_00455	gene	1245	csd			
+BPKGAMPB_00455	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+BPKGAMPB_00456	gene	441				
+BPKGAMPB_00456	CDS	441				hypothetical protein
+BPKGAMPB_00457	gene	339				
+BPKGAMPB_00457	CDS	339				hypothetical protein
+BPKGAMPB_00458	gene	1209	pgk			
+BPKGAMPB_00458	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+BPKGAMPB_00459	gene	660				
+BPKGAMPB_00459	CDS	660				hypothetical protein
+BPKGAMPB_00460	gene	312				
+BPKGAMPB_00460	CDS	312				hypothetical protein
+BPKGAMPB_00461	gene	909				
+BPKGAMPB_00461	CDS	909				hypothetical protein
+BPKGAMPB_00462	gene	777				
+BPKGAMPB_00462	CDS	777				hypothetical protein
+BPKGAMPB_00463	gene	609				
+BPKGAMPB_00463	CDS	609				hypothetical protein
+BPKGAMPB_00464	gene	300				
+BPKGAMPB_00464	CDS	300				hypothetical protein
+BPKGAMPB_00465	gene	597				
+BPKGAMPB_00465	CDS	597				hypothetical protein
+BPKGAMPB_00466	gene	174				
+BPKGAMPB_00466	CDS	174				hypothetical protein
+BPKGAMPB_00467	gene	369				
+BPKGAMPB_00467	CDS	369				hypothetical protein
+BPKGAMPB_00468	gene	672				
+BPKGAMPB_00468	CDS	672			COG3253	putative protein/MSMEI_2713
+BPKGAMPB_00469	gene	549				
+BPKGAMPB_00469	CDS	549				hypothetical protein
+BPKGAMPB_00470	gene	1005	iolS			
+BPKGAMPB_00470	CDS	1005	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+BPKGAMPB_00471	gene	531				
+BPKGAMPB_00471	CDS	531				hypothetical protein
+BPKGAMPB_00472	gene	321				
+BPKGAMPB_00472	CDS	321				hypothetical protein
+BPKGAMPB_00473	gene	1014				
+BPKGAMPB_00473	CDS	1014				hypothetical protein
+BPKGAMPB_00474	gene	654	cysG			
+BPKGAMPB_00474	CDS	654	cysG		COG0007	Siroheme synthase
+BPKGAMPB_00475	gene	1203	hemA			
+BPKGAMPB_00475	CDS	1203	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+BPKGAMPB_00476	gene	981	hemB			
+BPKGAMPB_00476	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+BPKGAMPB_00477	gene	312				
+BPKGAMPB_00477	CDS	312				hypothetical protein
+BPKGAMPB_00478	gene	621	yedJ			
+BPKGAMPB_00478	CDS	621	yedJ		COG1418	putative protein YedJ
+BPKGAMPB_00479	gene	1254	bcd			
+BPKGAMPB_00479	CDS	1254	bcd	1.3.8.1	COG1960	Acyl-CoA dehydrogenase, short-chain specific
+BPKGAMPB_00480	gene	1215	argD			
+BPKGAMPB_00480	CDS	1215	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+BPKGAMPB_00481	gene	102				
+BPKGAMPB_00481	CDS	102				hypothetical protein
+BPKGAMPB_00482	gene	159				
+BPKGAMPB_00482	CDS	159				hypothetical protein
+BPKGAMPB_00483	gene	438	bcp_1			
+BPKGAMPB_00483	CDS	438	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+BPKGAMPB_00484	gene	777	sufC			
+BPKGAMPB_00484	CDS	777	sufC		COG0396	Vegetative protein 296
+BPKGAMPB_00485	gene	528				
+BPKGAMPB_00485	CDS	528				hypothetical protein
+BPKGAMPB_00486	gene	408				
+BPKGAMPB_00486	CDS	408				hypothetical protein
+BPKGAMPB_00487	gene	531				
+BPKGAMPB_00487	CDS	531				hypothetical protein
+BPKGAMPB_00488	gene	426				
+BPKGAMPB_00488	CDS	426				hypothetical protein
+BPKGAMPB_00489	gene	165				
+BPKGAMPB_00489	CDS	165				hypothetical protein
+BPKGAMPB_00490	gene	276				
+BPKGAMPB_00490	CDS	276				hypothetical protein
+BPKGAMPB_00491	gene	741	yknY			
+BPKGAMPB_00491	CDS	741	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+BPKGAMPB_00492	gene	2190				
+BPKGAMPB_00492	CDS	2190				hypothetical protein
+BPKGAMPB_00493	gene	1242				
+BPKGAMPB_00493	CDS	1242				hypothetical protein
+BPKGAMPB_00494	gene	240				
+BPKGAMPB_00494	CDS	240				hypothetical protein
+BPKGAMPB_00495	gene	1194	ftsH_1			
+BPKGAMPB_00495	CDS	1194	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BPKGAMPB_00496	gene	1335				
+BPKGAMPB_00496	CDS	1335				hypothetical protein
+BPKGAMPB_00497	gene	732	tmk_1			
+BPKGAMPB_00497	CDS	732	tmk_1	2.7.4.9		Thymidylate kinase
+BPKGAMPB_00498	gene	675	tmk_2			
+BPKGAMPB_00498	CDS	675	tmk_2	2.7.4.9	COG0125	Thymidylate kinase
+BPKGAMPB_00499	gene	492	sixA			
+BPKGAMPB_00499	CDS	492	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+BPKGAMPB_00500	gene	1401	gppA			
+BPKGAMPB_00500	CDS	1401	gppA	3.6.1.40		Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+BPKGAMPB_00501	gene	807				
+BPKGAMPB_00501	CDS	807				hypothetical protein
+BPKGAMPB_00502	gene	993				
+BPKGAMPB_00502	CDS	993				hypothetical protein
+BPKGAMPB_00503	gene	633				
+BPKGAMPB_00503	CDS	633				hypothetical protein
+BPKGAMPB_00504	gene	1062				
+BPKGAMPB_00504	CDS	1062				hypothetical protein
+BPKGAMPB_00505	gene	969	pstC			
+BPKGAMPB_00505	CDS	969	pstC		COG0573	Phosphate transport system permease protein PstC
+BPKGAMPB_00506	gene	921	pstA			
+BPKGAMPB_00506	CDS	921	pstA		COG0581	Phosphate transport system permease protein PstA
+BPKGAMPB_00507	gene	810	pstB3			
+BPKGAMPB_00507	CDS	810	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+BPKGAMPB_00508	gene	627				
+BPKGAMPB_00508	CDS	627				hypothetical protein
+BPKGAMPB_00509	gene	1182	pstS_1			
+BPKGAMPB_00509	CDS	1182	pstS_1		COG0226	Phosphate-binding protein PstS
+BPKGAMPB_00510	gene	1164	pstS_2			
+BPKGAMPB_00510	CDS	1164	pstS_2		COG0226	Phosphate-binding protein PstS
+BPKGAMPB_00511	gene	963				
+BPKGAMPB_00511	CDS	963				hypothetical protein
+BPKGAMPB_00512	gene	279				
+BPKGAMPB_00512	CDS	279				hypothetical protein
+BPKGAMPB_00513	gene	300				
+BPKGAMPB_00513	CDS	300				hypothetical protein
+BPKGAMPB_00514	gene	381				
+BPKGAMPB_00514	CDS	381				hypothetical protein
+BPKGAMPB_00515	gene	654				
+BPKGAMPB_00515	CDS	654				hypothetical protein
+BPKGAMPB_00516	gene	690				
+BPKGAMPB_00516	CDS	690				hypothetical protein
+BPKGAMPB_00517	gene	585	scpB			
+BPKGAMPB_00517	CDS	585	scpB			Segregation and condensation protein B
+BPKGAMPB_00518	gene	660				
+BPKGAMPB_00518	CDS	660				hypothetical protein
+BPKGAMPB_00519	gene	744	rcsC_1			
+BPKGAMPB_00519	CDS	744	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_00520	gene	507				
+BPKGAMPB_00520	CDS	507				hypothetical protein
+BPKGAMPB_00521	gene	597				
+BPKGAMPB_00521	CDS	597				hypothetical protein
+BPKGAMPB_00522	gene	408				
+BPKGAMPB_00522	CDS	408				hypothetical protein
+BPKGAMPB_00523	gene	747				
+BPKGAMPB_00523	CDS	747				hypothetical protein
+BPKGAMPB_00524	gene	1326	ffh			
+BPKGAMPB_00524	CDS	1326	ffh		COG0541	Signal recognition particle protein
+BPKGAMPB_00525	gene	681	dnaJ_2			
+BPKGAMPB_00525	CDS	681	dnaJ_2			Chaperone protein DnaJ
+BPKGAMPB_00526	gene	1149				
+BPKGAMPB_00526	CDS	1149				hypothetical protein
+BPKGAMPB_00527	gene	708				
+BPKGAMPB_00527	CDS	708				hypothetical protein
+BPKGAMPB_00528	gene	174				
+BPKGAMPB_00528	CDS	174				hypothetical protein
+BPKGAMPB_00529	gene	354				
+BPKGAMPB_00529	CDS	354				hypothetical protein
+BPKGAMPB_00530	gene	549				
+BPKGAMPB_00530	CDS	549				hypothetical protein
+BPKGAMPB_00531	gene	1281	apgM			
+BPKGAMPB_00531	CDS	1281	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BPKGAMPB_00532	gene	435	slyD			
+BPKGAMPB_00532	CDS	435	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+BPKGAMPB_00533	gene	603				
+BPKGAMPB_00533	CDS	603				hypothetical protein
+BPKGAMPB_00534	gene	1017				
+BPKGAMPB_00534	CDS	1017				hypothetical protein
+BPKGAMPB_00535	gene	429				
+BPKGAMPB_00535	CDS	429				hypothetical protein
+BPKGAMPB_00536	gene	447				
+BPKGAMPB_00536	CDS	447				hypothetical protein
+BPKGAMPB_00537	gene	711	cugP_2			
+BPKGAMPB_00537	CDS	711	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BPKGAMPB_00538	gene	1308	pdxK			
+BPKGAMPB_00538	CDS	1308	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+BPKGAMPB_00539	gene	1317	bzaF			
+BPKGAMPB_00539	CDS	1317	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+BPKGAMPB_00540	gene	405				
+BPKGAMPB_00540	CDS	405				hypothetical protein
+BPKGAMPB_00541	gene	855	tyrA			
+BPKGAMPB_00541	CDS	855	tyrA		COG0287	T-protein
+BPKGAMPB_00542	gene	1368	dapL			
+BPKGAMPB_00542	CDS	1368	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+BPKGAMPB_00543	gene	1098	aroC			
+BPKGAMPB_00543	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+BPKGAMPB_00544	gene	1263	aroA			
+BPKGAMPB_00544	CDS	1263	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+BPKGAMPB_00545	gene	855	thrB_3			
+BPKGAMPB_00545	CDS	855	thrB_3	2.7.1.39		Homoserine kinase
+BPKGAMPB_00546	gene	822	aroE			
+BPKGAMPB_00546	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+BPKGAMPB_00547	gene	282				
+BPKGAMPB_00547	CDS	282				hypothetical protein
+BPKGAMPB_00548	gene	249				
+BPKGAMPB_00548	CDS	249				hypothetical protein
+BPKGAMPB_00549	gene	681	aroD			
+BPKGAMPB_00549	CDS	681	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+BPKGAMPB_00550	gene	309				
+BPKGAMPB_00550	CDS	309				hypothetical protein
+BPKGAMPB_00551	gene	297				
+BPKGAMPB_00551	CDS	297				hypothetical protein
+BPKGAMPB_00552	gene	840				
+BPKGAMPB_00552	CDS	840				hypothetical protein
+BPKGAMPB_00553	gene	204				
+BPKGAMPB_00553	CDS	204				hypothetical protein
+BPKGAMPB_00554	gene	1056	aroB'			
+BPKGAMPB_00554	CDS	1056	aroB'	1.4.1.24		3-dehydroquinate synthase
+BPKGAMPB_00555	gene	789	griI			
+BPKGAMPB_00555	CDS	789	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+BPKGAMPB_00556	gene	1119	mqnC			
+BPKGAMPB_00556	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+BPKGAMPB_00557	gene	1443	ubiD			
+BPKGAMPB_00557	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+BPKGAMPB_00558	gene	378				
+BPKGAMPB_00558	CDS	378				hypothetical protein
+BPKGAMPB_00559	gene	603				
+BPKGAMPB_00559	CDS	603				hypothetical protein
+BPKGAMPB_00560	gene	459	bcp_2			
+BPKGAMPB_00560	CDS	459	bcp_2	1.11.1.15	COG1225	Peroxiredoxin Bcp
+BPKGAMPB_00561	gene	240				
+BPKGAMPB_00561	CDS	240				hypothetical protein
+BPKGAMPB_00562	gene	675				
+BPKGAMPB_00562	CDS	675				hypothetical protein
+BPKGAMPB_00563	gene	711	aqpZ2_2			
+BPKGAMPB_00563	CDS	711	aqpZ2_2			Aquaporin Z 2
+BPKGAMPB_00564	gene	77				
+BPKGAMPB_00564	tRNA	77				tRNA-Arg(gcg)
+BPKGAMPB_00565	gene	1212				
+BPKGAMPB_00565	CDS	1212				hypothetical protein
+BPKGAMPB_00566	gene	1062				
+BPKGAMPB_00566	CDS	1062				hypothetical protein
+BPKGAMPB_00567	gene	1695				
+BPKGAMPB_00567	CDS	1695				hypothetical protein
+BPKGAMPB_00568	gene	327				
+BPKGAMPB_00568	CDS	327				hypothetical protein
+BPKGAMPB_00569	gene	213				
+BPKGAMPB_00569	CDS	213				hypothetical protein
+BPKGAMPB_00570	gene	183				
+BPKGAMPB_00570	CDS	183				hypothetical protein
+BPKGAMPB_00571	gene	150				
+BPKGAMPB_00571	CDS	150				hypothetical protein
+BPKGAMPB_00572	gene	504				
+BPKGAMPB_00572	CDS	504				hypothetical protein
+BPKGAMPB_00573	gene	1467				
+BPKGAMPB_00573	CDS	1467				hypothetical protein
+BPKGAMPB_00574	gene	813				
+BPKGAMPB_00574	CDS	813				hypothetical protein
+BPKGAMPB_00575	gene	753				
+BPKGAMPB_00575	CDS	753				hypothetical protein
+BPKGAMPB_00576	gene	753				
+BPKGAMPB_00576	CDS	753				hypothetical protein
+BPKGAMPB_00577	gene	2070				
+BPKGAMPB_00577	CDS	2070				hypothetical protein
+BPKGAMPB_00578	gene	1317				
+BPKGAMPB_00578	CDS	1317				hypothetical protein
+BPKGAMPB_00579	gene	3579				
+BPKGAMPB_00579	CDS	3579				hypothetical protein
+BPKGAMPB_00580	gene	372				
+BPKGAMPB_00580	CDS	372				hypothetical protein
+BPKGAMPB_00581	gene	1188				
+BPKGAMPB_00581	CDS	1188				hypothetical protein
+BPKGAMPB_00582	gene	252				
+BPKGAMPB_00582	CDS	252				hypothetical protein
+BPKGAMPB_00583	gene	1290				
+BPKGAMPB_00583	CDS	1290				hypothetical protein
+BPKGAMPB_00584	gene	2616	srmB_1			
+BPKGAMPB_00584	CDS	2616	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+BPKGAMPB_00585	gene	921				
+BPKGAMPB_00585	CDS	921				hypothetical protein
+BPKGAMPB_00586	gene	153				
+BPKGAMPB_00586	CDS	153				hypothetical protein
+BPKGAMPB_00587	gene	237				
+BPKGAMPB_00587	CDS	237				hypothetical protein
+BPKGAMPB_00588	gene	309				
+BPKGAMPB_00588	CDS	309				hypothetical protein
+BPKGAMPB_00589	gene	2490	pknD			
+BPKGAMPB_00589	CDS	2490	pknD	2.7.11.1		Serine/threonine-protein kinase PknD
+BPKGAMPB_00590	gene	1029				
+BPKGAMPB_00590	CDS	1029				hypothetical protein
+BPKGAMPB_00591	gene	1080				
+BPKGAMPB_00591	CDS	1080				hypothetical protein
+BPKGAMPB_00592	gene	1074				
+BPKGAMPB_00592	CDS	1074				hypothetical protein
+BPKGAMPB_00593	gene	399				
+BPKGAMPB_00593	CDS	399				hypothetical protein
+BPKGAMPB_00594	gene	1245				
+BPKGAMPB_00594	CDS	1245				hypothetical protein
+BPKGAMPB_00595	gene	1272				
+BPKGAMPB_00595	CDS	1272				hypothetical protein
+BPKGAMPB_00596	gene	270				
+BPKGAMPB_00596	CDS	270				hypothetical protein
+BPKGAMPB_00597	gene	1053	ddl			
+BPKGAMPB_00597	CDS	1053	ddl	6.3.2.4		D-alanine--D-alanine ligase
+BPKGAMPB_00598	gene	2526				
+BPKGAMPB_00598	CDS	2526				hypothetical protein
+BPKGAMPB_00599	gene	447				
+BPKGAMPB_00599	CDS	447				hypothetical protein
+BPKGAMPB_00600	gene	1485				
+BPKGAMPB_00600	CDS	1485				hypothetical protein
+BPKGAMPB_00601	gene	297				
+BPKGAMPB_00601	CDS	297				hypothetical protein
+BPKGAMPB_00602	gene	1788				
+BPKGAMPB_00602	CDS	1788				hypothetical protein
+BPKGAMPB_00603	gene	2442				
+BPKGAMPB_00603	CDS	2442				hypothetical protein
+BPKGAMPB_00604	gene	1407				
+BPKGAMPB_00604	CDS	1407				hypothetical protein
+BPKGAMPB_00605	gene	795				
+BPKGAMPB_00605	CDS	795				hypothetical protein
+BPKGAMPB_00606	gene	1122				
+BPKGAMPB_00606	CDS	1122				hypothetical protein
+BPKGAMPB_00607	gene	1428				
+BPKGAMPB_00607	CDS	1428				hypothetical protein
+BPKGAMPB_00608	gene	1446				
+BPKGAMPB_00608	CDS	1446				hypothetical protein
+BPKGAMPB_00609	gene	1410				
+BPKGAMPB_00609	CDS	1410				hypothetical protein
+BPKGAMPB_00610	gene	1017				
+BPKGAMPB_00610	CDS	1017				hypothetical protein
+BPKGAMPB_00611	gene	1257				
+BPKGAMPB_00611	CDS	1257				hypothetical protein
+BPKGAMPB_00612	gene	516				
+BPKGAMPB_00612	CDS	516				hypothetical protein
+BPKGAMPB_00613	gene	1158				
+BPKGAMPB_00613	CDS	1158				hypothetical protein
+BPKGAMPB_00614	gene	354				
+BPKGAMPB_00614	CDS	354				hypothetical protein
+BPKGAMPB_00615	gene	654				
+BPKGAMPB_00615	CDS	654				hypothetical protein
+BPKGAMPB_00616	gene	654				
+BPKGAMPB_00616	CDS	654				hypothetical protein
+BPKGAMPB_00617	gene	528				
+BPKGAMPB_00617	CDS	528				hypothetical protein
+BPKGAMPB_00618	gene	498				
+BPKGAMPB_00618	CDS	498				hypothetical protein
+BPKGAMPB_00619	gene	1497				
+BPKGAMPB_00619	CDS	1497				hypothetical protein
+BPKGAMPB_00620	gene	1458				
+BPKGAMPB_00620	CDS	1458				hypothetical protein
+BPKGAMPB_00621	gene	1116				
+BPKGAMPB_00621	CDS	1116				hypothetical protein
+BPKGAMPB_00622	gene	1053				
+BPKGAMPB_00622	CDS	1053				hypothetical protein
+BPKGAMPB_00623	gene	1263				
+BPKGAMPB_00623	CDS	1263				hypothetical protein
+BPKGAMPB_00624	gene	1110				
+BPKGAMPB_00624	CDS	1110				hypothetical protein
+BPKGAMPB_00625	gene	216				
+BPKGAMPB_00625	CDS	216				hypothetical protein
+BPKGAMPB_00626	gene	279				
+BPKGAMPB_00626	CDS	279				hypothetical protein
+BPKGAMPB_00627	gene	300				
+BPKGAMPB_00627	CDS	300				hypothetical protein
+BPKGAMPB_00628	gene	162				
+BPKGAMPB_00628	CDS	162				hypothetical protein
+BPKGAMPB_00629	gene	705				
+BPKGAMPB_00629	CDS	705				hypothetical protein
+BPKGAMPB_00630	gene	1101				
+BPKGAMPB_00630	CDS	1101				hypothetical protein
+BPKGAMPB_00631	gene	1359				
+BPKGAMPB_00631	CDS	1359				hypothetical protein
+BPKGAMPB_00632	gene	414				
+BPKGAMPB_00632	CDS	414				hypothetical protein
+BPKGAMPB_00633	gene	897				
+BPKGAMPB_00633	CDS	897				hypothetical protein
+BPKGAMPB_00634	gene	483				
+BPKGAMPB_00634	CDS	483				hypothetical protein
+BPKGAMPB_00635	gene	1071				
+BPKGAMPB_00635	CDS	1071				hypothetical protein
+BPKGAMPB_00636	gene	1338				
+BPKGAMPB_00636	CDS	1338				hypothetical protein
+BPKGAMPB_00637	gene	1389				
+BPKGAMPB_00637	CDS	1389				hypothetical protein
+BPKGAMPB_00638	gene	507				
+BPKGAMPB_00638	CDS	507				hypothetical protein
+BPKGAMPB_00639	gene	501				
+BPKGAMPB_00639	CDS	501				hypothetical protein
+BPKGAMPB_00640	gene	2724				
+BPKGAMPB_00640	CDS	2724				hypothetical protein
+BPKGAMPB_00641	gene	372				
+BPKGAMPB_00641	CDS	372				hypothetical protein
+BPKGAMPB_00642	gene	630	IMPDH_1			
+BPKGAMPB_00642	CDS	630	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BPKGAMPB_00643	gene	1500				
+BPKGAMPB_00643	CDS	1500				hypothetical protein
+BPKGAMPB_00644	gene	957				
+BPKGAMPB_00644	CDS	957				hypothetical protein
+BPKGAMPB_00645	gene	891	menA_1			
+BPKGAMPB_00645	CDS	891	menA_1	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BPKGAMPB_00646	gene	411	spo0A_1			
+BPKGAMPB_00646	CDS	411	spo0A_1			Stage 0 sporulation protein A
+BPKGAMPB_00647	gene	201				
+BPKGAMPB_00647	CDS	201				hypothetical protein
+BPKGAMPB_00648	gene	261				
+BPKGAMPB_00648	CDS	261				hypothetical protein
+BPKGAMPB_00649	gene	93				
+BPKGAMPB_00649	CDS	93				hypothetical protein
+BPKGAMPB_00650	gene	345				
+BPKGAMPB_00650	CDS	345				hypothetical protein
+BPKGAMPB_00651	gene	927				
+BPKGAMPB_00651	CDS	927				hypothetical protein
+BPKGAMPB_00652	gene	132				
+BPKGAMPB_00652	CDS	132				hypothetical protein
+BPKGAMPB_00653	gene	495				
+BPKGAMPB_00653	CDS	495				hypothetical protein
+BPKGAMPB_00654	gene	576				
+BPKGAMPB_00654	CDS	576				hypothetical protein
+BPKGAMPB_00655	gene	507	slyA_1			
+BPKGAMPB_00655	CDS	507	slyA_1			Transcriptional regulator SlyA
+BPKGAMPB_00656	gene	1473	mdtD_1			
+BPKGAMPB_00656	CDS	1473	mdtD_1			Putative multidrug resistance protein MdtD
+BPKGAMPB_00657	gene	975	trxB_1			
+BPKGAMPB_00657	CDS	975	trxB_1	1.8.1.9	COG0492	Thioredoxin reductase
+BPKGAMPB_00658	gene	231				
+BPKGAMPB_00658	CDS	231				hypothetical protein
+BPKGAMPB_00659	gene	816				
+BPKGAMPB_00659	CDS	816				hypothetical protein
+BPKGAMPB_00660	gene	189				
+BPKGAMPB_00660	CDS	189				hypothetical protein
+BPKGAMPB_00661	gene	1590	lysS			
+BPKGAMPB_00661	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+BPKGAMPB_00662	gene	1587				
+BPKGAMPB_00662	CDS	1587		2.3.1.-		tRNA uridine(34) acetyltransferase
+BPKGAMPB_00663	gene	1023	purM			
+BPKGAMPB_00663	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+BPKGAMPB_00664	gene	345				
+BPKGAMPB_00664	CDS	345				hypothetical protein
+BPKGAMPB_00665	gene	234				
+BPKGAMPB_00665	CDS	234				hypothetical protein
+BPKGAMPB_00666	gene	1005				
+BPKGAMPB_00666	CDS	1005				hypothetical protein
+BPKGAMPB_00667	gene	1350				
+BPKGAMPB_00667	CDS	1350				hypothetical protein
+BPKGAMPB_00668	gene	1260	fbiC_1			
+BPKGAMPB_00668	CDS	1260	fbiC_1		COG1060	FO synthase
+BPKGAMPB_00669	gene	1170	fbiC_2			
+BPKGAMPB_00669	CDS	1170	fbiC_2		COG1060	FO synthase
+BPKGAMPB_00670	gene	720				
+BPKGAMPB_00670	CDS	720				hypothetical protein
+BPKGAMPB_00671	gene	723				
+BPKGAMPB_00671	CDS	723				hypothetical protein
+BPKGAMPB_00672	gene	1191				
+BPKGAMPB_00672	CDS	1191				hypothetical protein
+BPKGAMPB_00673	gene	288				
+BPKGAMPB_00673	CDS	288				hypothetical protein
+BPKGAMPB_00674	gene	723				
+BPKGAMPB_00674	CDS	723				hypothetical protein
+BPKGAMPB_00675	gene	1242				
+BPKGAMPB_00675	CDS	1242				hypothetical protein
+BPKGAMPB_00676	gene	1122				
+BPKGAMPB_00676	CDS	1122				hypothetical protein
+BPKGAMPB_00677	gene	1209	crtQ			
+BPKGAMPB_00677	CDS	1209	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+BPKGAMPB_00678	gene	417				
+BPKGAMPB_00678	CDS	417				hypothetical protein
+BPKGAMPB_00679	gene	327	metG_1			
+BPKGAMPB_00679	CDS	327	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+BPKGAMPB_00680	gene	1455				
+BPKGAMPB_00680	CDS	1455			COG0247	putative protein
+BPKGAMPB_00681	gene	441				
+BPKGAMPB_00681	CDS	441				hypothetical protein
+BPKGAMPB_00682	gene	1122				
+BPKGAMPB_00682	CDS	1122				hypothetical protein
+BPKGAMPB_00683	gene	189				
+BPKGAMPB_00683	CDS	189				hypothetical protein
+BPKGAMPB_00684	gene	891				
+BPKGAMPB_00684	CDS	891		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+BPKGAMPB_00685	gene	74				
+BPKGAMPB_00685	tRNA	74				tRNA-Pro(tgg)
+BPKGAMPB_00686	gene	171				
+BPKGAMPB_00686	CDS	171				hypothetical protein
+BPKGAMPB_00687	gene	900				
+BPKGAMPB_00687	CDS	900				hypothetical protein
+BPKGAMPB_00688	gene	240				
+BPKGAMPB_00688	CDS	240				hypothetical protein
+BPKGAMPB_00689	gene	3528				
+BPKGAMPB_00689	CDS	3528				hypothetical protein
+BPKGAMPB_00690	gene	558				
+BPKGAMPB_00690	CDS	558				hypothetical protein
+BPKGAMPB_00691	gene	2331	potE			
+BPKGAMPB_00691	CDS	2331	potE			Putrescine transporter PotE
+BPKGAMPB_00692	gene	277				
+BPKGAMPB_00692	misc_RNA	277				RNaseP_arch
+BPKGAMPB_00693	gene	1152				
+BPKGAMPB_00693	CDS	1152				hypothetical protein
+BPKGAMPB_00694	gene	921	fbiA			
+BPKGAMPB_00694	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+BPKGAMPB_00695	gene	639	fbiD			
+BPKGAMPB_00695	CDS	639	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+BPKGAMPB_00696	gene	996				
+BPKGAMPB_00696	CDS	996				hypothetical protein
+BPKGAMPB_00697	gene	309				
+BPKGAMPB_00697	CDS	309				hypothetical protein
+BPKGAMPB_00698	gene	333				
+BPKGAMPB_00698	CDS	333				hypothetical protein
+BPKGAMPB_00699	gene	165				
+BPKGAMPB_00699	CDS	165				hypothetical protein
+BPKGAMPB_00700	gene	1740				
+BPKGAMPB_00700	CDS	1740				hypothetical protein
+BPKGAMPB_00701	gene	621				
+BPKGAMPB_00701	CDS	621				hypothetical protein
+BPKGAMPB_00702	gene	2463				
+BPKGAMPB_00702	CDS	2463				hypothetical protein
+BPKGAMPB_00703	gene	1053				
+BPKGAMPB_00703	CDS	1053				hypothetical protein
+BPKGAMPB_00704	gene	1362				
+BPKGAMPB_00704	CDS	1362				hypothetical protein
+BPKGAMPB_00705	gene	627				
+BPKGAMPB_00705	CDS	627				hypothetical protein
+BPKGAMPB_00706	gene	183				
+BPKGAMPB_00706	CDS	183				hypothetical protein
+BPKGAMPB_00707	gene	180				
+BPKGAMPB_00707	CDS	180				hypothetical protein
+BPKGAMPB_00708	gene	99				
+BPKGAMPB_00708	CDS	99				hypothetical protein
+BPKGAMPB_00709	gene	372				
+BPKGAMPB_00709	CDS	372				hypothetical protein
+BPKGAMPB_00710	gene	330				
+BPKGAMPB_00710	CDS	330				hypothetical protein
+BPKGAMPB_00711	gene	327				
+BPKGAMPB_00711	CDS	327				hypothetical protein
+BPKGAMPB_00712	gene	414				
+BPKGAMPB_00712	CDS	414				hypothetical protein
+BPKGAMPB_00713	gene	1278				
+BPKGAMPB_00713	CDS	1278				hypothetical protein
+BPKGAMPB_00714	gene	309				
+BPKGAMPB_00714	CDS	309				hypothetical protein
+BPKGAMPB_00715	gene	1911				
+BPKGAMPB_00715	CDS	1911				hypothetical protein
+BPKGAMPB_00716	gene	1455	arnC_3			
+BPKGAMPB_00716	CDS	1455	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+BPKGAMPB_00717	gene	1539				
+BPKGAMPB_00717	CDS	1539				hypothetical protein
+BPKGAMPB_00718	gene	1041	adhC2			
+BPKGAMPB_00718	CDS	1041	adhC2	1.1.1.2	COG1064	NADP-dependent alcohol dehydrogenase C 2
+BPKGAMPB_00719	gene	1020				
+BPKGAMPB_00719	CDS	1020				hypothetical protein
+BPKGAMPB_00720	gene	1026				
+BPKGAMPB_00720	CDS	1026				hypothetical protein
+BPKGAMPB_00721	gene	180				
+BPKGAMPB_00721	CDS	180				hypothetical protein
+BPKGAMPB_00722	gene	180				
+BPKGAMPB_00722	CDS	180				hypothetical protein
+BPKGAMPB_00723	gene	738	dnaJ_3			
+BPKGAMPB_00723	CDS	738	dnaJ_3			Chaperone protein DnaJ
+BPKGAMPB_00724	gene	144				
+BPKGAMPB_00724	CDS	144				hypothetical protein
+BPKGAMPB_00725	gene	2010	rcsC_2			
+BPKGAMPB_00725	CDS	2010	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_00726	gene	540				
+BPKGAMPB_00726	CDS	540				hypothetical protein
+BPKGAMPB_00727	gene	417	catD			
+BPKGAMPB_00727	CDS	417	catD	1.-.-.-	COG2259	Putative oxidoreductase CatD
+BPKGAMPB_00728	gene	336				
+BPKGAMPB_00728	CDS	336				hypothetical protein
+BPKGAMPB_00729	gene	405				
+BPKGAMPB_00729	CDS	405				hypothetical protein
+BPKGAMPB_00730	gene	99				
+BPKGAMPB_00730	CDS	99				hypothetical protein
+BPKGAMPB_00731	gene	1617	thyX			
+BPKGAMPB_00731	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+BPKGAMPB_00732	gene	285				
+BPKGAMPB_00732	CDS	285				hypothetical protein
+BPKGAMPB_00733	gene	822				
+BPKGAMPB_00733	CDS	822				hypothetical protein
+BPKGAMPB_00734	gene	1911	acsA			
+BPKGAMPB_00734	CDS	1911	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+BPKGAMPB_00735	gene	495				
+BPKGAMPB_00735	CDS	495				hypothetical protein
+BPKGAMPB_00736	gene	345				
+BPKGAMPB_00736	CDS	345				hypothetical protein
+BPKGAMPB_00737	gene	483	mntR			
+BPKGAMPB_00737	CDS	483	mntR		COG1321	Transcriptional regulator MntR
+BPKGAMPB_00738	gene	1830				
+BPKGAMPB_00738	CDS	1830				hypothetical protein
+BPKGAMPB_00739	gene	918	rssB			
+BPKGAMPB_00739	CDS	918	rssB			Regulator of RpoS
+BPKGAMPB_00740	gene	357	cheY_2			
+BPKGAMPB_00740	CDS	357	cheY_2		COG0784	Chemotaxis protein CheY
+BPKGAMPB_00741	gene	369				
+BPKGAMPB_00741	CDS	369				hypothetical protein
+BPKGAMPB_00742	gene	1875	sasA_2			
+BPKGAMPB_00742	CDS	1875	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_00743	gene	1419				
+BPKGAMPB_00743	CDS	1419				hypothetical protein
+BPKGAMPB_00744	gene	582	tmung			
+BPKGAMPB_00744	CDS	582	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+BPKGAMPB_00745	gene	561				
+BPKGAMPB_00745	CDS	561		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+BPKGAMPB_00746	gene	1215				
+BPKGAMPB_00746	CDS	1215				hypothetical protein
+BPKGAMPB_00747	gene	492				
+BPKGAMPB_00747	CDS	492				hypothetical protein
+BPKGAMPB_00748	gene	384				
+BPKGAMPB_00748	CDS	384				hypothetical protein
+BPKGAMPB_00749	gene	315				
+BPKGAMPB_00749	CDS	315				hypothetical protein
+BPKGAMPB_00750	gene	1443	proS			
+BPKGAMPB_00750	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+BPKGAMPB_00751	gene	285				
+BPKGAMPB_00751	CDS	285				hypothetical protein
+BPKGAMPB_00752	gene	651	serB2			
+BPKGAMPB_00752	CDS	651	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+BPKGAMPB_00753	gene	741	fbiB_2			
+BPKGAMPB_00753	CDS	741	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+BPKGAMPB_00754	gene	921				
+BPKGAMPB_00754	CDS	921				hypothetical protein
+BPKGAMPB_00755	gene	249	tusA			
+BPKGAMPB_00755	CDS	249	tusA			Sulfur carrier protein TusA
+BPKGAMPB_00756	gene	999	cysM			
+BPKGAMPB_00756	CDS	999	cysM	2.5.1.47	COG0031	Cysteine synthase B
+BPKGAMPB_00757	gene	963	trxB_2			
+BPKGAMPB_00757	CDS	963	trxB_2	1.8.1.9	COG0492	Thioredoxin reductase
+BPKGAMPB_00758	gene	786				
+BPKGAMPB_00758	CDS	786				hypothetical protein
+BPKGAMPB_00759	gene	819	thi4_2			
+BPKGAMPB_00759	CDS	819	thi4_2	2.4.2.59		Thiamine thiazole synthase
+BPKGAMPB_00760	gene	1071	ino1_1			
+BPKGAMPB_00760	CDS	1071	ino1_1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+BPKGAMPB_00761	gene	1806	sir			
+BPKGAMPB_00761	CDS	1806	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+BPKGAMPB_00762	gene	810	ttuD_2			
+BPKGAMPB_00762	CDS	810	ttuD_2		COG2897	Sulfur carrier protein TtuD
+BPKGAMPB_00763	gene	1146				
+BPKGAMPB_00763	CDS	1146				hypothetical protein
+BPKGAMPB_00764	gene	1632				
+BPKGAMPB_00764	CDS	1632				hypothetical protein
+BPKGAMPB_00765	gene	285				
+BPKGAMPB_00765	CDS	285				hypothetical protein
+BPKGAMPB_00766	gene	219				
+BPKGAMPB_00766	CDS	219				hypothetical protein
+BPKGAMPB_00767	gene	1101	obg			
+BPKGAMPB_00767	CDS	1101	obg	3.6.5.-		GTPase Obg
+BPKGAMPB_00768	gene	489				
+BPKGAMPB_00768	CDS	489				hypothetical protein
+BPKGAMPB_00769	gene	237				
+BPKGAMPB_00769	CDS	237				hypothetical protein
+BPKGAMPB_00770	gene	696	mngB			
+BPKGAMPB_00770	CDS	696	mngB	3.1.3.70		Mannosyl-3-phosphoglycerate phosphatase
+BPKGAMPB_00771	gene	1884	argS			
+BPKGAMPB_00771	CDS	1884	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+BPKGAMPB_00772	gene	186				
+BPKGAMPB_00772	CDS	186				hypothetical protein
+BPKGAMPB_00773	gene	879	trmI			
+BPKGAMPB_00773	CDS	879	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+BPKGAMPB_00774	gene	861	nnr_2			
+BPKGAMPB_00774	CDS	861	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BPKGAMPB_00775	gene	1350	dapE			
+BPKGAMPB_00775	CDS	1350	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+BPKGAMPB_00776	gene	594	prcB_1			
+BPKGAMPB_00776	CDS	594	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+BPKGAMPB_00777	gene	477				
+BPKGAMPB_00777	CDS	477				hypothetical protein
+BPKGAMPB_00778	gene	1020	hom			
+BPKGAMPB_00778	CDS	1020	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+BPKGAMPB_00779	gene	675				
+BPKGAMPB_00779	CDS	675				hypothetical protein
+BPKGAMPB_00780	gene	738				
+BPKGAMPB_00780	CDS	738				hypothetical protein
+BPKGAMPB_00781	gene	777				
+BPKGAMPB_00781	CDS	777				hypothetical protein
+BPKGAMPB_00782	gene	456				
+BPKGAMPB_00782	CDS	456				hypothetical protein
+BPKGAMPB_00783	gene	1788				
+BPKGAMPB_00783	CDS	1788				hypothetical protein
+BPKGAMPB_00784	gene	237				
+BPKGAMPB_00784	CDS	237				hypothetical protein
+BPKGAMPB_00785	gene	402				
+BPKGAMPB_00785	CDS	402				hypothetical protein
+BPKGAMPB_00786	gene	534				
+BPKGAMPB_00786	CDS	534				hypothetical protein
+BPKGAMPB_00787	gene	657				
+BPKGAMPB_00787	CDS	657				hypothetical protein
+BPKGAMPB_00788	gene	1767	lig			
+BPKGAMPB_00788	CDS	1767	lig	6.5.1.1		DNA ligase
+BPKGAMPB_00789	gene	288				
+BPKGAMPB_00789	CDS	288				hypothetical protein
+BPKGAMPB_00790	gene	216				
+BPKGAMPB_00790	CDS	216				hypothetical protein
+BPKGAMPB_00791	gene	312				
+BPKGAMPB_00791	CDS	312				hypothetical protein
+BPKGAMPB_00792	gene	387				
+BPKGAMPB_00792	CDS	387				hypothetical protein
+BPKGAMPB_00793	gene	510				
+BPKGAMPB_00793	CDS	510				hypothetical protein
+BPKGAMPB_00794	gene	351				
+BPKGAMPB_00794	CDS	351				hypothetical protein
+BPKGAMPB_00795	gene	417				
+BPKGAMPB_00795	CDS	417				hypothetical protein
+BPKGAMPB_00796	gene	951	asnB			
+BPKGAMPB_00796	CDS	951	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+BPKGAMPB_00797	gene	156				
+BPKGAMPB_00797	CDS	156				hypothetical protein
+BPKGAMPB_00798	gene	147				
+BPKGAMPB_00798	CDS	147				hypothetical protein
+BPKGAMPB_00799	gene	279				
+BPKGAMPB_00799	CDS	279				hypothetical protein
+BPKGAMPB_00800	gene	213				
+BPKGAMPB_00800	CDS	213				hypothetical protein
+BPKGAMPB_00801	gene	240				
+BPKGAMPB_00801	CDS	240				hypothetical protein
+BPKGAMPB_00802	gene	1101				
+BPKGAMPB_00802	CDS	1101				hypothetical protein
+BPKGAMPB_00803	gene	903	menA_2			
+BPKGAMPB_00803	CDS	903	menA_2	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+BPKGAMPB_00804	gene	405				
+BPKGAMPB_00804	CDS	405				hypothetical protein
+BPKGAMPB_00805	gene	840	pah			
+BPKGAMPB_00805	CDS	840	pah	3.5.3.22	COG0010	Proclavaminate amidinohydrolase
+BPKGAMPB_00806	gene	999	birA			
+BPKGAMPB_00806	CDS	999	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+BPKGAMPB_00807	gene	663				
+BPKGAMPB_00807	CDS	663				hypothetical protein
+BPKGAMPB_00808	gene	378				
+BPKGAMPB_00808	CDS	378				hypothetical protein
+BPKGAMPB_00809	gene	351				
+BPKGAMPB_00809	CDS	351				hypothetical protein
+BPKGAMPB_00810	gene	576				
+BPKGAMPB_00810	CDS	576				hypothetical protein
+BPKGAMPB_00811	gene	414	yccU			
+BPKGAMPB_00811	CDS	414	yccU		COG1832	putative protein YccU
+BPKGAMPB_00812	gene	366				
+BPKGAMPB_00812	CDS	366				hypothetical protein
+BPKGAMPB_00813	gene	1218	OLA1			
+BPKGAMPB_00813	CDS	1218	OLA1			Obg-like ATPase 1
+BPKGAMPB_00814	gene	1449	cysS_1			
+BPKGAMPB_00814	CDS	1449	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase
+BPKGAMPB_00815	gene	789	nadE			
+BPKGAMPB_00815	CDS	789	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+BPKGAMPB_00816	gene	303	bphA3_2			
+BPKGAMPB_00816	CDS	303	bphA3_2			Biphenyl dioxygenase ferredoxin subunit
+BPKGAMPB_00817	gene	1242	ahcY			
+BPKGAMPB_00817	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+BPKGAMPB_00818	gene	1647	metG_2			
+BPKGAMPB_00818	CDS	1647	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+BPKGAMPB_00819	gene	1227				
+BPKGAMPB_00819	CDS	1227				hypothetical protein
+BPKGAMPB_00820	gene	864	garR			
+BPKGAMPB_00820	CDS	864	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+BPKGAMPB_00821	gene	528	ycf3			
+BPKGAMPB_00821	CDS	528	ycf3			Photosystem I assembly protein Ycf3
+BPKGAMPB_00822	gene	999	ilvC			
+BPKGAMPB_00822	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+BPKGAMPB_00823	gene	420	scpA			
+BPKGAMPB_00823	CDS	420	scpA	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+BPKGAMPB_00824	gene	915				
+BPKGAMPB_00824	CDS	915		3.6.-.-	COG1703	putative GTPase
+BPKGAMPB_00825	gene	1578	mcm			
+BPKGAMPB_00825	CDS	1578	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+BPKGAMPB_00826	gene	399	epi			
+BPKGAMPB_00826	CDS	399	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+BPKGAMPB_00827	gene	555				
+BPKGAMPB_00827	CDS	555				hypothetical protein
+BPKGAMPB_00828	gene	393	mscL			
+BPKGAMPB_00828	CDS	393	mscL			Large-conductance mechanosensitive channel
+BPKGAMPB_00829	gene	702	tpiA			
+BPKGAMPB_00829	CDS	702	tpiA			Triosephosphate isomerase
+BPKGAMPB_00830	gene	297				
+BPKGAMPB_00830	CDS	297				hypothetical protein
+BPKGAMPB_00831	gene	168				
+BPKGAMPB_00831	CDS	168				hypothetical protein
+BPKGAMPB_00832	gene	921	sucD			
+BPKGAMPB_00832	CDS	921	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+BPKGAMPB_00833	gene	1113	sucC			
+BPKGAMPB_00833	CDS	1113	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+BPKGAMPB_00834	gene	330				
+BPKGAMPB_00834	CDS	330				hypothetical protein
+BPKGAMPB_00835	gene	3198	ileS			
+BPKGAMPB_00835	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+BPKGAMPB_00836	gene	621				
+BPKGAMPB_00836	CDS	621				hypothetical protein
+BPKGAMPB_00837	gene	1197				
+BPKGAMPB_00837	CDS	1197				hypothetical protein
+BPKGAMPB_00838	gene	564				
+BPKGAMPB_00838	CDS	564				hypothetical protein
+BPKGAMPB_00839	gene	579				
+BPKGAMPB_00839	CDS	579				hypothetical protein
+BPKGAMPB_00840	gene	1185	ftsH_2			
+BPKGAMPB_00840	CDS	1185	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BPKGAMPB_00841	gene	1173	carA			
+BPKGAMPB_00841	CDS	1173	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+BPKGAMPB_00842	gene	162				
+BPKGAMPB_00842	CDS	162				hypothetical protein
+BPKGAMPB_00843	gene	3060	carB			
+BPKGAMPB_00843	CDS	3060	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+BPKGAMPB_00844	gene	747				
+BPKGAMPB_00844	CDS	747				hypothetical protein
+BPKGAMPB_00845	gene	306				
+BPKGAMPB_00845	CDS	306				hypothetical protein
+BPKGAMPB_00846	gene	606				
+BPKGAMPB_00846	CDS	606				hypothetical protein
+BPKGAMPB_00847	gene	699				
+BPKGAMPB_00847	CDS	699				hypothetical protein
+BPKGAMPB_00848	gene	462	teaD			
+BPKGAMPB_00848	CDS	462	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+BPKGAMPB_00849	gene	444				
+BPKGAMPB_00849	CDS	444				hypothetical protein
+BPKGAMPB_00850	gene	468				
+BPKGAMPB_00850	CDS	468				hypothetical protein
+BPKGAMPB_00851	gene	300				
+BPKGAMPB_00851	CDS	300				hypothetical protein
+BPKGAMPB_00852	gene	1266	purD			
+BPKGAMPB_00852	CDS	1266	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+BPKGAMPB_00853	gene	447				
+BPKGAMPB_00853	CDS	447				hypothetical protein
+BPKGAMPB_00854	gene	951				
+BPKGAMPB_00854	CDS	951				hypothetical protein
+BPKGAMPB_00855	gene	1788				
+BPKGAMPB_00855	CDS	1788				hypothetical protein
+BPKGAMPB_00856	gene	342				
+BPKGAMPB_00856	CDS	342				hypothetical protein
+BPKGAMPB_00857	gene	387				
+BPKGAMPB_00857	CDS	387				hypothetical protein
+BPKGAMPB_00858	gene	201				
+BPKGAMPB_00858	CDS	201				hypothetical protein
+BPKGAMPB_00859	gene	516				
+BPKGAMPB_00859	CDS	516				hypothetical protein
+BPKGAMPB_00860	gene	570				
+BPKGAMPB_00860	CDS	570				hypothetical protein
+BPKGAMPB_00861	gene	618				
+BPKGAMPB_00861	CDS	618				hypothetical protein
+BPKGAMPB_00862	gene	1980				
+BPKGAMPB_00862	CDS	1980				hypothetical protein
+BPKGAMPB_00863	gene	819				
+BPKGAMPB_00863	CDS	819				hypothetical protein
+BPKGAMPB_00864	gene	765				
+BPKGAMPB_00864	CDS	765				hypothetical protein
+BPKGAMPB_00865	gene	1095	cas1			
+BPKGAMPB_00865	CDS	1095	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+BPKGAMPB_00866	gene	345				
+BPKGAMPB_00866	CDS	345				hypothetical protein
+BPKGAMPB_00867	gene	561	yqgN			
+BPKGAMPB_00867	CDS	561	yqgN		COG0212	putative protein YqgN
+BPKGAMPB_00868	gene	870	folD			
+BPKGAMPB_00868	CDS	870	folD		COG0190	Bifunctional protein FolD protein
+BPKGAMPB_00869	gene	339				
+BPKGAMPB_00869	CDS	339				hypothetical protein
+BPKGAMPB_00870	gene	618	purN			
+BPKGAMPB_00870	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+BPKGAMPB_00871	gene	999				
+BPKGAMPB_00871	CDS	999				hypothetical protein
+BPKGAMPB_00872	gene	159				
+BPKGAMPB_00872	CDS	159				hypothetical protein
+BPKGAMPB_00873	gene	972				
+BPKGAMPB_00873	CDS	972				hypothetical protein
+BPKGAMPB_00874	gene	1584	uvrC			
+BPKGAMPB_00874	CDS	1584	uvrC		COG0322	UvrABC system protein C
+BPKGAMPB_00875	gene	2820	uvrA			
+BPKGAMPB_00875	CDS	2820	uvrA			UvrABC system protein A
+BPKGAMPB_00876	gene	1941	uvrB			
+BPKGAMPB_00876	CDS	1941	uvrB			UvrABC system protein B
+BPKGAMPB_00877	gene	633				
+BPKGAMPB_00877	CDS	633				hypothetical protein
+BPKGAMPB_00878	gene	432				
+BPKGAMPB_00878	CDS	432				hypothetical protein
+BPKGAMPB_00879	gene	498				
+BPKGAMPB_00879	CDS	498				hypothetical protein
+BPKGAMPB_00880	gene	291				
+BPKGAMPB_00880	CDS	291				hypothetical protein
+BPKGAMPB_00881	gene	2046	hyfB			
+BPKGAMPB_00881	CDS	2046	hyfB	1.-.-.-	COG0651	Hydrogenase-4 component B
+BPKGAMPB_00882	gene	942	hycD			
+BPKGAMPB_00882	CDS	942	hycD		COG0650	Formate hydrogenlyase subunit 4
+BPKGAMPB_00883	gene	666	hyfE			
+BPKGAMPB_00883	CDS	666	hyfE	1.-.-.-	COG4237	Hydrogenase-4 component E
+BPKGAMPB_00884	gene	1494	mrpA			
+BPKGAMPB_00884	CDS	1494	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+BPKGAMPB_00885	gene	1620	hyfG			
+BPKGAMPB_00885	CDS	1620	hyfG	1.-.-.-	COG3261	Hydrogenase-4 component G
+BPKGAMPB_00886	gene	789	ndhK_1			
+BPKGAMPB_00886	CDS	789	ndhK_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+BPKGAMPB_00887	gene	156				
+BPKGAMPB_00887	CDS	156				hypothetical protein
+BPKGAMPB_00888	gene	183				
+BPKGAMPB_00888	CDS	183				hypothetical protein
+BPKGAMPB_00889	gene	1089				
+BPKGAMPB_00889	CDS	1089		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+BPKGAMPB_00890	gene	945				
+BPKGAMPB_00890	CDS	945				hypothetical protein
+BPKGAMPB_00891	gene	507				
+BPKGAMPB_00891	CDS	507				hypothetical protein
+BPKGAMPB_00892	gene	1278				
+BPKGAMPB_00892	CDS	1278		2.7.1.165	COG2379	D-glycerate 2-kinase
+BPKGAMPB_00893	gene	387				
+BPKGAMPB_00893	CDS	387				hypothetical protein
+BPKGAMPB_00894	gene	207				
+BPKGAMPB_00894	CDS	207				hypothetical protein
+BPKGAMPB_00895	gene	1173	gltA			
+BPKGAMPB_00895	CDS	1173	gltA	2.3.3.16	COG0372	Citrate synthase
+BPKGAMPB_00896	gene	231				
+BPKGAMPB_00896	CDS	231				hypothetical protein
+BPKGAMPB_00897	gene	981				
+BPKGAMPB_00897	CDS	981				hypothetical protein
+BPKGAMPB_00898	gene	456				
+BPKGAMPB_00898	CDS	456				hypothetical protein
+BPKGAMPB_00899	gene	234				
+BPKGAMPB_00899	CDS	234				hypothetical protein
+BPKGAMPB_00900	gene	993				
+BPKGAMPB_00900	CDS	993				hypothetical protein
+BPKGAMPB_00901	gene	891				
+BPKGAMPB_00901	CDS	891				hypothetical protein
+BPKGAMPB_00902	gene	2028				
+BPKGAMPB_00902	CDS	2028		5.1.3.11		Cellobiose 2-epimerase
+BPKGAMPB_00903	gene	321				
+BPKGAMPB_00903	CDS	321				hypothetical protein
+BPKGAMPB_00904	gene	1368				
+BPKGAMPB_00904	CDS	1368				hypothetical protein
+BPKGAMPB_00905	gene	282				
+BPKGAMPB_00905	CDS	282				hypothetical protein
+BPKGAMPB_00906	gene	144				
+BPKGAMPB_00906	CDS	144				hypothetical protein
+BPKGAMPB_00907	gene	456				
+BPKGAMPB_00907	CDS	456				hypothetical protein
+BPKGAMPB_00908	gene	510				
+BPKGAMPB_00908	CDS	510				hypothetical protein
+BPKGAMPB_00909	gene	591				
+BPKGAMPB_00909	CDS	591				hypothetical protein
+BPKGAMPB_00910	gene	288				
+BPKGAMPB_00910	CDS	288				hypothetical protein
+BPKGAMPB_00911	gene	498				
+BPKGAMPB_00911	CDS	498				hypothetical protein
+BPKGAMPB_00912	gene	243				
+BPKGAMPB_00912	CDS	243				hypothetical protein
+BPKGAMPB_00913	gene	906				
+BPKGAMPB_00913	CDS	906				hypothetical protein
+BPKGAMPB_00914	gene	423				
+BPKGAMPB_00914	CDS	423				hypothetical protein
+BPKGAMPB_00915	gene	75				
+BPKGAMPB_00915	tRNA	75				tRNA-Thr(tgt)
+BPKGAMPB_00916	gene	690				
+BPKGAMPB_00916	CDS	690				hypothetical protein
+BPKGAMPB_00917	gene	465				
+BPKGAMPB_00917	CDS	465				hypothetical protein
+BPKGAMPB_00918	gene	846	COQ5_1			
+BPKGAMPB_00918	CDS	846	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BPKGAMPB_00919	gene	258	purS			
+BPKGAMPB_00919	CDS	258	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+BPKGAMPB_00920	gene	441	IMPDH_2			
+BPKGAMPB_00920	CDS	441	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BPKGAMPB_00921	gene	708	glpG			
+BPKGAMPB_00921	CDS	708	glpG	3.4.21.105		Rhomboid protease GlpG
+BPKGAMPB_00922	gene	690	purQ			
+BPKGAMPB_00922	CDS	690	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+BPKGAMPB_00923	gene	2166	purL			
+BPKGAMPB_00923	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+BPKGAMPB_00924	gene	1443	purF			
+BPKGAMPB_00924	CDS	1443	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+BPKGAMPB_00925	gene	246				
+BPKGAMPB_00925	CDS	246				hypothetical protein
+BPKGAMPB_00926	gene	840	purC			
+BPKGAMPB_00926	CDS	840	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+BPKGAMPB_00927	gene	537				
+BPKGAMPB_00927	CDS	537				hypothetical protein
+BPKGAMPB_00928	gene	417				
+BPKGAMPB_00928	CDS	417				hypothetical protein
+BPKGAMPB_00929	gene	738	prcA_1			
+BPKGAMPB_00929	CDS	738	prcA_1			Proteasome subunit alpha
+BPKGAMPB_00930	gene	816				
+BPKGAMPB_00930	CDS	816				hypothetical protein
+BPKGAMPB_00931	gene	927				
+BPKGAMPB_00931	CDS	927				hypothetical protein
+BPKGAMPB_00932	gene	816				
+BPKGAMPB_00932	CDS	816				hypothetical protein
+BPKGAMPB_00933	gene	267				
+BPKGAMPB_00933	CDS	267				hypothetical protein
+BPKGAMPB_00934	gene	396				
+BPKGAMPB_00934	CDS	396				hypothetical protein
+BPKGAMPB_00935	gene	456				
+BPKGAMPB_00935	CDS	456				hypothetical protein
+BPKGAMPB_00936	gene	762				
+BPKGAMPB_00936	CDS	762				hypothetical protein
+BPKGAMPB_00937	gene	204				
+BPKGAMPB_00937	CDS	204				hypothetical protein
+BPKGAMPB_00938	gene	267				
+BPKGAMPB_00938	CDS	267				hypothetical protein
+BPKGAMPB_00939	gene	324				
+BPKGAMPB_00939	CDS	324				hypothetical protein
+BPKGAMPB_00940	gene	438				
+BPKGAMPB_00940	CDS	438				hypothetical protein
+BPKGAMPB_00941	gene	519				
+BPKGAMPB_00941	CDS	519				hypothetical protein
+BPKGAMPB_00942	gene	717				
+BPKGAMPB_00942	CDS	717				hypothetical protein
+BPKGAMPB_00943	gene	522				
+BPKGAMPB_00943	CDS	522				hypothetical protein
+BPKGAMPB_00944	gene	177				
+BPKGAMPB_00944	CDS	177				hypothetical protein
+BPKGAMPB_00945	gene	393	rpsH			
+BPKGAMPB_00945	CDS	393	rpsH			30S ribosomal protein S8
+BPKGAMPB_00946	gene	558				
+BPKGAMPB_00946	CDS	558				hypothetical protein
+BPKGAMPB_00947	gene	75				
+BPKGAMPB_00947	tRNA	75				tRNA-Asn(gtt)
+BPKGAMPB_00948	gene	264				
+BPKGAMPB_00948	CDS	264				hypothetical protein
+BPKGAMPB_00949	gene	288				
+BPKGAMPB_00949	CDS	288				hypothetical protein
+BPKGAMPB_00950	gene	297				
+BPKGAMPB_00950	CDS	297				hypothetical protein
+BPKGAMPB_00951	gene	747				
+BPKGAMPB_00951	CDS	747				hypothetical protein
+BPKGAMPB_00952	gene	231				
+BPKGAMPB_00952	CDS	231				hypothetical protein
+BPKGAMPB_00953	gene	342				
+BPKGAMPB_00953	CDS	342				hypothetical protein
+BPKGAMPB_00954	gene	669				
+BPKGAMPB_00954	CDS	669				hypothetical protein
+BPKGAMPB_00955	gene	1137	dipZ			
+BPKGAMPB_00955	CDS	1137	dipZ		COG0785	Protein DipZ
+BPKGAMPB_00956	gene	732				
+BPKGAMPB_00956	CDS	732				hypothetical protein
+BPKGAMPB_00957	gene	1128	bioF			
+BPKGAMPB_00957	CDS	1128	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+BPKGAMPB_00958	gene	981	bioB			
+BPKGAMPB_00958	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+BPKGAMPB_00959	gene	1311	bioK			
+BPKGAMPB_00959	CDS	1311	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+BPKGAMPB_00960	gene	693	bioD1			
+BPKGAMPB_00960	CDS	693	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+BPKGAMPB_00961	gene	582				
+BPKGAMPB_00961	CDS	582				hypothetical protein
+BPKGAMPB_00962	gene	1278				
+BPKGAMPB_00962	CDS	1278				hypothetical protein
+BPKGAMPB_00963	gene	573	purE			
+BPKGAMPB_00963	CDS	573	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+BPKGAMPB_00964	gene	561				
+BPKGAMPB_00964	CDS	561				hypothetical protein
+BPKGAMPB_00965	gene	1152	purK			
+BPKGAMPB_00965	CDS	1152	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+BPKGAMPB_00966	gene	735	kaiC			
+BPKGAMPB_00966	CDS	735	kaiC	2.7.11.1		Circadian clock protein kinase KaiC
+BPKGAMPB_00967	gene	873				
+BPKGAMPB_00967	CDS	873				hypothetical protein
+BPKGAMPB_00968	gene	537				
+BPKGAMPB_00968	CDS	537				hypothetical protein
+BPKGAMPB_00969	gene	489				
+BPKGAMPB_00969	CDS	489				hypothetical protein
+BPKGAMPB_00970	gene	447				
+BPKGAMPB_00970	CDS	447				hypothetical protein
+BPKGAMPB_00971	gene	1452				
+BPKGAMPB_00971	CDS	1452				hypothetical protein
+BPKGAMPB_00972	gene	1209				
+BPKGAMPB_00972	CDS	1209				hypothetical protein
+BPKGAMPB_00973	gene	510				
+BPKGAMPB_00973	CDS	510				hypothetical protein
+BPKGAMPB_00974	gene	981				
+BPKGAMPB_00974	CDS	981				hypothetical protein
+BPKGAMPB_00975	gene	1554				
+BPKGAMPB_00975	CDS	1554				hypothetical protein
+BPKGAMPB_00976	gene	654				
+BPKGAMPB_00976	CDS	654				hypothetical protein
+BPKGAMPB_00977	gene	1551				
+BPKGAMPB_00977	CDS	1551				hypothetical protein
+BPKGAMPB_00978	gene	1467				
+BPKGAMPB_00978	CDS	1467				hypothetical protein
+BPKGAMPB_00979	gene	2379				
+BPKGAMPB_00979	CDS	2379				hypothetical protein
+BPKGAMPB_00980	gene	249				
+BPKGAMPB_00980	CDS	249				hypothetical protein
+BPKGAMPB_00981	gene	702				
+BPKGAMPB_00981	CDS	702				hypothetical protein
+BPKGAMPB_00982	gene	864				
+BPKGAMPB_00982	CDS	864				hypothetical protein
+BPKGAMPB_00983	gene	633				
+BPKGAMPB_00983	CDS	633				hypothetical protein
+BPKGAMPB_00984	gene	417	spo0A_2			
+BPKGAMPB_00984	CDS	417	spo0A_2		COG0784	Stage 0 sporulation protein A
+BPKGAMPB_00985	gene	1515				
+BPKGAMPB_00985	CDS	1515				hypothetical protein
+BPKGAMPB_00986	gene	1671				
+BPKGAMPB_00986	CDS	1671				hypothetical protein
+BPKGAMPB_00987	gene	702				
+BPKGAMPB_00987	CDS	702				hypothetical protein
+BPKGAMPB_00988	gene	525				
+BPKGAMPB_00988	CDS	525				hypothetical protein
+BPKGAMPB_00989	gene	468				
+BPKGAMPB_00989	CDS	468				hypothetical protein
+BPKGAMPB_00990	gene	1218				
+BPKGAMPB_00990	CDS	1218				hypothetical protein
+BPKGAMPB_00991	gene	696				
+BPKGAMPB_00991	CDS	696				hypothetical protein
+BPKGAMPB_00992	gene	1008				
+BPKGAMPB_00992	CDS	1008				hypothetical protein
+BPKGAMPB_00993	gene	693				
+BPKGAMPB_00993	CDS	693				hypothetical protein
+BPKGAMPB_00994	gene	693				
+BPKGAMPB_00994	CDS	693				hypothetical protein
+BPKGAMPB_00995	gene	702				
+BPKGAMPB_00995	CDS	702				hypothetical protein
+BPKGAMPB_00996	gene	1110				
+BPKGAMPB_00996	CDS	1110				hypothetical protein
+BPKGAMPB_00997	gene	285				
+BPKGAMPB_00997	CDS	285				hypothetical protein
+BPKGAMPB_00998	gene	1347	mcpB			
+BPKGAMPB_00998	CDS	1347	mcpB		COG0840	Methyl-accepting chemotaxis protein McpB
+BPKGAMPB_00999	gene	483	cheW			
+BPKGAMPB_00999	CDS	483	cheW		COG0835	Chemotaxis protein CheW
+BPKGAMPB_01000	gene	384	cheY_3			
+BPKGAMPB_01000	CDS	384	cheY_3		COG0784	Chemotaxis protein CheY
+BPKGAMPB_01001	gene	1068	cheB_1			
+BPKGAMPB_01001	CDS	1068	cheB_1	3.1.1.61	COG2201	Protein-glutamate methylesterase/protein-glutamine glutaminase
+BPKGAMPB_01002	gene	1566				
+BPKGAMPB_01002	CDS	1566				hypothetical protein
+BPKGAMPB_01003	gene	606				
+BPKGAMPB_01003	CDS	606				hypothetical protein
+BPKGAMPB_01004	gene	849	cheR			
+BPKGAMPB_01004	CDS	849	cheR	2.1.1.80		Chemotaxis protein methyltransferase
+BPKGAMPB_01005	gene	384	cheY_4			
+BPKGAMPB_01005	CDS	384	cheY_4		COG0784	Chemotaxis protein CheY
+BPKGAMPB_01006	gene	591				
+BPKGAMPB_01006	CDS	591				hypothetical protein
+BPKGAMPB_01007	gene	498	cheD			
+BPKGAMPB_01007	CDS	498	cheD	3.5.1.44		Chemoreceptor glutamine deamidase CheD
+BPKGAMPB_01008	gene	591				
+BPKGAMPB_01008	CDS	591				hypothetical protein
+BPKGAMPB_01009	gene	411				
+BPKGAMPB_01009	CDS	411				hypothetical protein
+BPKGAMPB_01010	gene	1095	sasA_3			
+BPKGAMPB_01010	CDS	1095	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_01011	gene	309				
+BPKGAMPB_01011	CDS	309				hypothetical protein
+BPKGAMPB_01012	gene	405	cpdR_1			
+BPKGAMPB_01012	CDS	405	cpdR_1			Response regulator receiver protein CpdR
+BPKGAMPB_01013	gene	1470	rcsC_3			
+BPKGAMPB_01013	CDS	1470	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_01014	gene	492				
+BPKGAMPB_01014	CDS	492				hypothetical protein
+BPKGAMPB_01015	gene	480	cpdR_2			
+BPKGAMPB_01015	CDS	480	cpdR_2			Response regulator receiver protein CpdR
+BPKGAMPB_01016	gene	2448	cpoB_1			
+BPKGAMPB_01016	CDS	2448	cpoB_1			Cell division coordinator CpoB
+BPKGAMPB_01017	gene	1467				
+BPKGAMPB_01017	CDS	1467				hypothetical protein
+BPKGAMPB_01018	gene	513				
+BPKGAMPB_01018	CDS	513				hypothetical protein
+BPKGAMPB_01019	gene	996				
+BPKGAMPB_01019	CDS	996				hypothetical protein
+BPKGAMPB_01020	gene	888				
+BPKGAMPB_01020	CDS	888				hypothetical protein
+BPKGAMPB_01021	gene	2415				
+BPKGAMPB_01021	CDS	2415				hypothetical protein
+BPKGAMPB_01022	gene	813				
+BPKGAMPB_01022	CDS	813				hypothetical protein
+BPKGAMPB_01023	gene	690				
+BPKGAMPB_01023	CDS	690				hypothetical protein
+BPKGAMPB_01024	gene	393				
+BPKGAMPB_01024	CDS	393				hypothetical protein
+BPKGAMPB_01025	gene	690	cugP_3			
+BPKGAMPB_01025	CDS	690	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+BPKGAMPB_01026	gene	972				
+BPKGAMPB_01026	CDS	972		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+BPKGAMPB_01027	gene	1110	fadA_1			
+BPKGAMPB_01027	CDS	1110	fadA_1	2.3.1.16		3-ketoacyl-CoA thiolase
+BPKGAMPB_01028	gene	321				
+BPKGAMPB_01028	CDS	321				hypothetical protein
+BPKGAMPB_01029	gene	336				
+BPKGAMPB_01029	CDS	336				hypothetical protein
+BPKGAMPB_01030	gene	570				
+BPKGAMPB_01030	CDS	570				hypothetical protein
+BPKGAMPB_01031	gene	360				
+BPKGAMPB_01031	CDS	360				hypothetical protein
+BPKGAMPB_01032	gene	891	rutF			
+BPKGAMPB_01032	CDS	891	rutF	1.5.1.42		FMN reductase (NADH) RutF
+BPKGAMPB_01033	gene	735				
+BPKGAMPB_01033	CDS	735				hypothetical protein
+BPKGAMPB_01034	gene	603				
+BPKGAMPB_01034	CDS	603				hypothetical protein
+BPKGAMPB_01035	gene	1503				
+BPKGAMPB_01035	CDS	1503				hypothetical protein
+BPKGAMPB_01036	gene	804				
+BPKGAMPB_01036	CDS	804				hypothetical protein
+BPKGAMPB_01037	gene	696				
+BPKGAMPB_01037	CDS	696				hypothetical protein
+BPKGAMPB_01038	gene	1068				
+BPKGAMPB_01038	CDS	1068				hypothetical protein
+BPKGAMPB_01039	gene	99				
+BPKGAMPB_01039	CDS	99				hypothetical protein
+BPKGAMPB_01040	gene	315				
+BPKGAMPB_01040	CDS	315				hypothetical protein
+BPKGAMPB_01041	gene	2250				
+BPKGAMPB_01041	CDS	2250				hypothetical protein
+BPKGAMPB_01042	gene	693				
+BPKGAMPB_01042	CDS	693				hypothetical protein
+BPKGAMPB_01043	gene	567				
+BPKGAMPB_01043	CDS	567				hypothetical protein
+BPKGAMPB_01044	gene	222				
+BPKGAMPB_01044	CDS	222				hypothetical protein
+BPKGAMPB_01045	gene	171				
+BPKGAMPB_01045	CDS	171				hypothetical protein
+BPKGAMPB_01046	gene	840				
+BPKGAMPB_01046	CDS	840				hypothetical protein
+BPKGAMPB_01047	gene	1158				
+BPKGAMPB_01047	CDS	1158				hypothetical protein
+BPKGAMPB_01048	gene	345				
+BPKGAMPB_01048	CDS	345				hypothetical protein
+BPKGAMPB_01049	gene	1332				
+BPKGAMPB_01049	CDS	1332				hypothetical protein
+BPKGAMPB_01050	gene	1254				
+BPKGAMPB_01050	CDS	1254				hypothetical protein
+BPKGAMPB_01051	gene	1050				
+BPKGAMPB_01051	CDS	1050				hypothetical protein
+BPKGAMPB_01052	gene	720				
+BPKGAMPB_01052	CDS	720				hypothetical protein
+BPKGAMPB_01053	gene	1440	mvaS			
+BPKGAMPB_01053	CDS	1440	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+BPKGAMPB_01054	gene	123				
+BPKGAMPB_01054	CDS	123				hypothetical protein
+BPKGAMPB_01055	gene	411				
+BPKGAMPB_01055	CDS	411				hypothetical protein
+BPKGAMPB_01056	gene	195				
+BPKGAMPB_01056	CDS	195				hypothetical protein
+BPKGAMPB_01057	gene	309	rpsJ			
+BPKGAMPB_01057	CDS	309	rpsJ			30S ribosomal protein S10
+BPKGAMPB_01058	gene	1311	tuf_2			
+BPKGAMPB_01058	CDS	1311	tuf_2		COG0050	Elongation factor Tu
+BPKGAMPB_01059	gene	1815	fbp			
+BPKGAMPB_01059	CDS	1815	fbp	4.1.2.13		Fructose-1,6-bisphosphate aldolase/phosphatase
+BPKGAMPB_01060	gene	510				
+BPKGAMPB_01060	CDS	510				hypothetical protein
+BPKGAMPB_01061	gene	1137	fadB			
+BPKGAMPB_01061	CDS	1137	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+BPKGAMPB_01062	gene	255				
+BPKGAMPB_01062	CDS	255				hypothetical protein
+BPKGAMPB_01063	gene	660				
+BPKGAMPB_01063	CDS	660				hypothetical protein
+BPKGAMPB_01064	gene	261				
+BPKGAMPB_01064	CDS	261				hypothetical protein
+BPKGAMPB_01065	gene	156				
+BPKGAMPB_01065	CDS	156				hypothetical protein
+BPKGAMPB_01066	gene	396				
+BPKGAMPB_01066	CDS	396				hypothetical protein
+BPKGAMPB_01067	gene	255				
+BPKGAMPB_01067	CDS	255				hypothetical protein
+BPKGAMPB_01068	gene	753				
+BPKGAMPB_01068	CDS	753				hypothetical protein
+BPKGAMPB_01069	gene	462				
+BPKGAMPB_01069	CDS	462				hypothetical protein
+BPKGAMPB_01070	gene	786				
+BPKGAMPB_01070	CDS	786				hypothetical protein
+BPKGAMPB_01071	gene	1509	srmB_2			
+BPKGAMPB_01071	CDS	1509	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+BPKGAMPB_01072	gene	561				
+BPKGAMPB_01072	CDS	561				hypothetical protein
+BPKGAMPB_01073	gene	2553				
+BPKGAMPB_01073	CDS	2553				hypothetical protein
+BPKGAMPB_01074	gene	873	speB			
+BPKGAMPB_01074	CDS	873	speB	3.5.3.11	COG0010	Agmatinase
+BPKGAMPB_01075	gene	231				
+BPKGAMPB_01075	CDS	231				hypothetical protein
+BPKGAMPB_01076	gene	1851				
+BPKGAMPB_01076	CDS	1851				hypothetical protein
+BPKGAMPB_01077	gene	132				
+BPKGAMPB_01077	CDS	132				hypothetical protein
+BPKGAMPB_01078	gene	246				
+BPKGAMPB_01078	CDS	246				hypothetical protein
+BPKGAMPB_01079	gene	765				
+BPKGAMPB_01079	CDS	765				hypothetical protein
+BPKGAMPB_01080	gene	465	cheB_2			
+BPKGAMPB_01080	CDS	465	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+BPKGAMPB_01081	gene	732	aldB			
+BPKGAMPB_01081	CDS	732	aldB	4.1.1.5	COG3527	Alpha-acetolactate decarboxylase
+BPKGAMPB_01082	gene	141				
+BPKGAMPB_01082	CDS	141				hypothetical protein
+BPKGAMPB_01083	gene	2520	mgtA			
+BPKGAMPB_01083	CDS	2520	mgtA	7.2.2.14	COG0474	Magnesium-transporting ATPase, P-type 1
+BPKGAMPB_01084	gene	420	nhaX_1			
+BPKGAMPB_01084	CDS	420	nhaX_1		COG0589	Stress response protein NhaX
+BPKGAMPB_01085	gene	978				
+BPKGAMPB_01085	CDS	978				hypothetical protein
+BPKGAMPB_01086	gene	846	caiE			
+BPKGAMPB_01086	CDS	846	caiE			Carnitine operon protein CaiE
+BPKGAMPB_01087	gene	78				
+BPKGAMPB_01087	tRNA	78				tRNA-Val(cac)
+BPKGAMPB_01088	gene	465				
+BPKGAMPB_01088	CDS	465				hypothetical protein
+BPKGAMPB_01089	gene	435	gpt			
+BPKGAMPB_01089	CDS	435	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+BPKGAMPB_01090	gene	1287	mntH_1			
+BPKGAMPB_01090	CDS	1287	mntH_1		COG1914	Divalent metal cation transporter MntH
+BPKGAMPB_01091	gene	1209	tdcB			
+BPKGAMPB_01091	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+BPKGAMPB_01092	gene	837				
+BPKGAMPB_01092	CDS	837				hypothetical protein
+BPKGAMPB_01093	gene	795				
+BPKGAMPB_01093	CDS	795				hypothetical protein
+BPKGAMPB_01094	gene	369				
+BPKGAMPB_01094	CDS	369				hypothetical protein
+BPKGAMPB_01095	gene	393				
+BPKGAMPB_01095	CDS	393				hypothetical protein
+BPKGAMPB_01096	gene	411				
+BPKGAMPB_01096	CDS	411				hypothetical protein
+BPKGAMPB_01097	gene	219				
+BPKGAMPB_01097	CDS	219				hypothetical protein
+BPKGAMPB_01098	gene	267				
+BPKGAMPB_01098	CDS	267				hypothetical protein
+BPKGAMPB_01099	gene	282				
+BPKGAMPB_01099	CDS	282				hypothetical protein
+BPKGAMPB_01100	gene	357				
+BPKGAMPB_01100	CDS	357				hypothetical protein
+BPKGAMPB_01101	gene	363				
+BPKGAMPB_01101	CDS	363				hypothetical protein
+BPKGAMPB_01102	gene	76				
+BPKGAMPB_01102	tRNA	76				tRNA-Phe(gaa)
+BPKGAMPB_01103	gene	537	yvqK			
+BPKGAMPB_01103	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+BPKGAMPB_01104	gene	531				
+BPKGAMPB_01104	CDS	531				hypothetical protein
+BPKGAMPB_01105	gene	348				
+BPKGAMPB_01105	CDS	348				hypothetical protein
+BPKGAMPB_01106	gene	1233				
+BPKGAMPB_01106	CDS	1233				hypothetical protein
+BPKGAMPB_01107	gene	768				
+BPKGAMPB_01107	CDS	768		1.1.1.47	COG1028	Glucose 1-dehydrogenase
+BPKGAMPB_01108	gene	357				
+BPKGAMPB_01108	CDS	357				hypothetical protein
+BPKGAMPB_01109	gene	531				
+BPKGAMPB_01109	CDS	531				hypothetical protein
+BPKGAMPB_01110	gene	330				
+BPKGAMPB_01110	CDS	330				hypothetical protein
+BPKGAMPB_01111	gene	330	glnB_1			
+BPKGAMPB_01111	CDS	330	glnB_1		COG0347	Nitrogen regulatory protein P-II
+BPKGAMPB_01112	gene	1251	nrgA_1			
+BPKGAMPB_01112	CDS	1251	nrgA_1			Ammonium transporter
+BPKGAMPB_01113	gene	1407	gatB			
+BPKGAMPB_01113	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+BPKGAMPB_01114	gene	1452	gatA			
+BPKGAMPB_01114	CDS	1452	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+BPKGAMPB_01115	gene	267				
+BPKGAMPB_01115	CDS	267				hypothetical protein
+BPKGAMPB_01116	gene	1311	aspS2_1			
+BPKGAMPB_01116	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BPKGAMPB_01117	gene	1419				
+BPKGAMPB_01117	CDS	1419		1.13.11.75		Apocarotenoid-15,15'-oxygenase
+BPKGAMPB_01118	gene	165				
+BPKGAMPB_01118	CDS	165				hypothetical protein
+BPKGAMPB_01119	gene	1146	rlmN			
+BPKGAMPB_01119	CDS	1146	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+BPKGAMPB_01120	gene	216				
+BPKGAMPB_01120	CDS	216				hypothetical protein
+BPKGAMPB_01121	gene	1026				
+BPKGAMPB_01121	CDS	1026				hypothetical protein
+BPKGAMPB_01122	gene	849	zupT			
+BPKGAMPB_01122	CDS	849	zupT			Zinc transporter ZupT
+BPKGAMPB_01123	gene	330				
+BPKGAMPB_01123	CDS	330				hypothetical protein
+BPKGAMPB_01124	gene	648				
+BPKGAMPB_01124	CDS	648				hypothetical protein
+BPKGAMPB_01125	gene	1275				
+BPKGAMPB_01125	CDS	1275				hypothetical protein
+BPKGAMPB_01126	gene	321	trxA_2			
+BPKGAMPB_01126	CDS	321	trxA_2		COG0526	Thioredoxin
+BPKGAMPB_01127	gene	414	hit_2			
+BPKGAMPB_01127	CDS	414	hit_2		COG0537	Protein hit
+BPKGAMPB_01128	gene	603				
+BPKGAMPB_01128	CDS	603				hypothetical protein
+BPKGAMPB_01129	gene	1209				
+BPKGAMPB_01129	CDS	1209				hypothetical protein
+BPKGAMPB_01130	gene	1677	ilvD			
+BPKGAMPB_01130	CDS	1677	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+BPKGAMPB_01131	gene	216				
+BPKGAMPB_01131	CDS	216				hypothetical protein
+BPKGAMPB_01132	gene	1365	pabB			
+BPKGAMPB_01132	CDS	1365	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+BPKGAMPB_01133	gene	588	trpG			
+BPKGAMPB_01133	CDS	588	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+BPKGAMPB_01134	gene	1047	trpD			
+BPKGAMPB_01134	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+BPKGAMPB_01135	gene	774	trpC			
+BPKGAMPB_01135	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+BPKGAMPB_01136	gene	1203	trpB			
+BPKGAMPB_01136	CDS	1203	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+BPKGAMPB_01137	gene	807	trpA			
+BPKGAMPB_01137	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+BPKGAMPB_01138	gene	1617	pyrG			
+BPKGAMPB_01138	CDS	1617	pyrG	6.3.4.2		CTP synthase
+BPKGAMPB_01139	gene	993	nadK_2			
+BPKGAMPB_01139	CDS	993	nadK_2	2.7.1.23		NAD kinase
+BPKGAMPB_01140	gene	876				
+BPKGAMPB_01140	CDS	876				hypothetical protein
+BPKGAMPB_01141	gene	288				
+BPKGAMPB_01141	CDS	288				hypothetical protein
+BPKGAMPB_01142	gene	573	pgsA2			
+BPKGAMPB_01142	CDS	573	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+BPKGAMPB_01143	gene	213				
+BPKGAMPB_01143	CDS	213				hypothetical protein
+BPKGAMPB_01144	gene	1065				
+BPKGAMPB_01144	CDS	1065		2.5.-.-		Deoxyhypusine synthase-like protein
+BPKGAMPB_01145	gene	171				
+BPKGAMPB_01145	CDS	171				hypothetical protein
+BPKGAMPB_01146	gene	1773	pepF1			
+BPKGAMPB_01146	CDS	1773	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+BPKGAMPB_01147	gene	246				
+BPKGAMPB_01147	CDS	246				hypothetical protein
+BPKGAMPB_01148	gene	228				
+BPKGAMPB_01148	CDS	228				hypothetical protein
+BPKGAMPB_01149	gene	888				
+BPKGAMPB_01149	CDS	888				hypothetical protein
+BPKGAMPB_01150	gene	1713				
+BPKGAMPB_01150	CDS	1713				hypothetical protein
+BPKGAMPB_01151	gene	186				
+BPKGAMPB_01151	CDS	186				hypothetical protein
+BPKGAMPB_01152	gene	654				
+BPKGAMPB_01152	CDS	654				hypothetical protein
+BPKGAMPB_01153	gene	498				
+BPKGAMPB_01153	CDS	498				hypothetical protein
+BPKGAMPB_01154	gene	636				
+BPKGAMPB_01154	CDS	636				hypothetical protein
+BPKGAMPB_01155	gene	414				
+BPKGAMPB_01155	CDS	414				hypothetical protein
+BPKGAMPB_01156	gene	1536				
+BPKGAMPB_01156	CDS	1536				hypothetical protein
+BPKGAMPB_01157	gene	2526				
+BPKGAMPB_01157	CDS	2526				hypothetical protein
+BPKGAMPB_01158	gene	306				
+BPKGAMPB_01158	CDS	306				hypothetical protein
+BPKGAMPB_01159	gene	219				
+BPKGAMPB_01159	CDS	219				hypothetical protein
+BPKGAMPB_01160	gene	255				
+BPKGAMPB_01160	CDS	255				hypothetical protein
+BPKGAMPB_01161	gene	1113				
+BPKGAMPB_01161	CDS	1113				hypothetical protein
+BPKGAMPB_01162	gene	282				
+BPKGAMPB_01162	CDS	282				hypothetical protein
+BPKGAMPB_01163	gene	255				
+BPKGAMPB_01163	CDS	255				hypothetical protein
+BPKGAMPB_01164	gene	1041				
+BPKGAMPB_01164	CDS	1041				hypothetical protein
+BPKGAMPB_01165	gene	219				
+BPKGAMPB_01165	CDS	219				hypothetical protein
+BPKGAMPB_01166	gene	1221				
+BPKGAMPB_01166	CDS	1221				hypothetical protein
+BPKGAMPB_01167	gene	1182				
+BPKGAMPB_01167	CDS	1182				hypothetical protein
+BPKGAMPB_01168	gene	552	pdaD			
+BPKGAMPB_01168	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+BPKGAMPB_01169	gene	459	bcp_3			
+BPKGAMPB_01169	CDS	459	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+BPKGAMPB_01170	gene	531	ppa			
+BPKGAMPB_01170	CDS	531	ppa	3.6.1.1		Inorganic pyrophosphatase
+BPKGAMPB_01171	gene	1044	gutB			
+BPKGAMPB_01171	CDS	1044	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+BPKGAMPB_01172	gene	837	lsrF			
+BPKGAMPB_01172	CDS	837	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+BPKGAMPB_01173	gene	459				
+BPKGAMPB_01173	CDS	459				hypothetical protein
+BPKGAMPB_01174	gene	1689	ilvB			
+BPKGAMPB_01174	CDS	1689	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+BPKGAMPB_01175	gene	495	ilvH			
+BPKGAMPB_01175	CDS	495	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+BPKGAMPB_01176	gene	1518	leuA_1			
+BPKGAMPB_01176	CDS	1518	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+BPKGAMPB_01177	gene	1017	hicd_1			
+BPKGAMPB_01177	CDS	1017	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+BPKGAMPB_01178	gene	261				
+BPKGAMPB_01178	CDS	261				hypothetical protein
+BPKGAMPB_01179	gene	1290	aspS2_2			
+BPKGAMPB_01179	CDS	1290	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+BPKGAMPB_01180	gene	558				
+BPKGAMPB_01180	CDS	558				hypothetical protein
+BPKGAMPB_01181	gene	945	oppD			
+BPKGAMPB_01181	CDS	945	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+BPKGAMPB_01182	gene	930				
+BPKGAMPB_01182	CDS	930				hypothetical protein
+BPKGAMPB_01183	gene	966	oppF			
+BPKGAMPB_01183	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+BPKGAMPB_01184	gene	3528	smc_1			
+BPKGAMPB_01184	CDS	3528	smc_1			Chromosome partition protein Smc
+BPKGAMPB_01185	gene	1068	ino1_2			
+BPKGAMPB_01185	CDS	1068	ino1_2	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+BPKGAMPB_01186	gene	939				
+BPKGAMPB_01186	CDS	939		2.5.-.-		Deoxyhypusine synthase-like protein
+BPKGAMPB_01187	gene	705				
+BPKGAMPB_01187	CDS	705				hypothetical protein
+BPKGAMPB_01188	gene	1161	cysS_2			
+BPKGAMPB_01188	CDS	1161	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase
+BPKGAMPB_01189	gene	246				
+BPKGAMPB_01189	CDS	246				hypothetical protein
+BPKGAMPB_01190	gene	717				
+BPKGAMPB_01190	CDS	717				hypothetical protein
+BPKGAMPB_01191	gene	249				
+BPKGAMPB_01191	CDS	249				hypothetical protein
+BPKGAMPB_01192	gene	240				
+BPKGAMPB_01192	CDS	240				hypothetical protein
+BPKGAMPB_01193	gene	291				
+BPKGAMPB_01193	CDS	291				hypothetical protein
+BPKGAMPB_01194	gene	258				
+BPKGAMPB_01194	CDS	258				hypothetical protein
+BPKGAMPB_01195	gene	1095	dinB1			
+BPKGAMPB_01195	CDS	1095	dinB1	2.7.7.7	COG0389	DNA polymerase IV 1
+BPKGAMPB_01196	gene	486				
+BPKGAMPB_01196	CDS	486				hypothetical protein
+BPKGAMPB_01197	gene	945				
+BPKGAMPB_01197	CDS	945				hypothetical protein
+BPKGAMPB_01198	gene	1161				
+BPKGAMPB_01198	CDS	1161				hypothetical protein
+BPKGAMPB_01199	gene	384				
+BPKGAMPB_01199	CDS	384				hypothetical protein
+BPKGAMPB_01200	gene	921	tuf_3			
+BPKGAMPB_01200	CDS	921	tuf_3			Elongation factor Tu
+BPKGAMPB_01201	gene	648				
+BPKGAMPB_01201	CDS	648				hypothetical protein
+BPKGAMPB_01202	gene	879				
+BPKGAMPB_01202	CDS	879				hypothetical protein
+BPKGAMPB_01203	gene	801				
+BPKGAMPB_01203	CDS	801				hypothetical protein
+BPKGAMPB_01204	gene	369				
+BPKGAMPB_01204	CDS	369				hypothetical protein
+BPKGAMPB_01205	gene	285				
+BPKGAMPB_01205	CDS	285				hypothetical protein
+BPKGAMPB_01206	gene	261				
+BPKGAMPB_01206	CDS	261				hypothetical protein
+BPKGAMPB_01207	gene	357				
+BPKGAMPB_01207	CDS	357				hypothetical protein
+BPKGAMPB_01208	gene	1137				
+BPKGAMPB_01208	CDS	1137				hypothetical protein
+BPKGAMPB_01209	gene	282				
+BPKGAMPB_01209	CDS	282				hypothetical protein
+BPKGAMPB_01210	gene	2169	ftsH_3			
+BPKGAMPB_01210	CDS	2169	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BPKGAMPB_01211	gene	315				
+BPKGAMPB_01211	CDS	315				hypothetical protein
+BPKGAMPB_01212	gene	969	ctaB_1			
+BPKGAMPB_01212	CDS	969	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+BPKGAMPB_01213	gene	1122	petE_3			
+BPKGAMPB_01213	CDS	1122	petE_3			Plastocyanin
+BPKGAMPB_01214	gene	414	mec			
+BPKGAMPB_01214	CDS	414	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+BPKGAMPB_01215	gene	258				
+BPKGAMPB_01215	CDS	258				hypothetical protein
+BPKGAMPB_01216	gene	189				
+BPKGAMPB_01216	CDS	189				hypothetical protein
+BPKGAMPB_01217	gene	387				
+BPKGAMPB_01217	CDS	387				hypothetical protein
+BPKGAMPB_01218	gene	495				
+BPKGAMPB_01218	CDS	495				hypothetical protein
+BPKGAMPB_01219	gene	1083	apbC			
+BPKGAMPB_01219	CDS	1083	apbC		COG0489	Iron-sulfur cluster carrier protein
+BPKGAMPB_01220	gene	621	rnr			
+BPKGAMPB_01220	CDS	621	rnr	3.1.13.1		Ribonuclease R
+BPKGAMPB_01221	gene	189				
+BPKGAMPB_01221	CDS	189				hypothetical protein
+BPKGAMPB_01222	gene	828	nadC			
+BPKGAMPB_01222	CDS	828	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BPKGAMPB_01223	gene	939	nadA			
+BPKGAMPB_01223	CDS	939	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+BPKGAMPB_01224	gene	819	nadX			
+BPKGAMPB_01224	CDS	819	nadX	1.4.1.21	COG1712	L-aspartate dehydrogenase
+BPKGAMPB_01225	gene	891	fadM			
+BPKGAMPB_01225	CDS	891	fadM	1.5.5.2	COG0506	Proline dehydrogenase 1
+BPKGAMPB_01226	gene	1644	rocA1			
+BPKGAMPB_01226	CDS	1644	rocA1	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 1
+BPKGAMPB_01227	gene	840				
+BPKGAMPB_01227	CDS	840				hypothetical protein
+BPKGAMPB_01228	gene	1521				
+BPKGAMPB_01228	CDS	1521				hypothetical protein
+BPKGAMPB_01229	gene	1155				
+BPKGAMPB_01229	CDS	1155				hypothetical protein
+BPKGAMPB_01230	gene	2076	smc_2			
+BPKGAMPB_01230	CDS	2076	smc_2			Chromosome partition protein Smc
+BPKGAMPB_01231	gene	507				
+BPKGAMPB_01231	CDS	507				hypothetical protein
+BPKGAMPB_01232	gene	447				
+BPKGAMPB_01232	CDS	447				hypothetical protein
+BPKGAMPB_01233	gene	1425	ribZ			
+BPKGAMPB_01233	CDS	1425	ribZ			Riboflavin transporter RibZ
+BPKGAMPB_01234	gene	729	yhhW			
+BPKGAMPB_01234	CDS	729	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+BPKGAMPB_01235	gene	936				
+BPKGAMPB_01235	CDS	936				hypothetical protein
+BPKGAMPB_01236	gene	408				
+BPKGAMPB_01236	CDS	408				hypothetical protein
+BPKGAMPB_01237	gene	507				
+BPKGAMPB_01237	CDS	507				hypothetical protein
+BPKGAMPB_01238	gene	3414				
+BPKGAMPB_01238	CDS	3414				hypothetical protein
+BPKGAMPB_01239	gene	1461				
+BPKGAMPB_01239	CDS	1461				hypothetical protein
+BPKGAMPB_01240	gene	282				
+BPKGAMPB_01240	CDS	282				hypothetical protein
+BPKGAMPB_01241	gene	459				
+BPKGAMPB_01241	CDS	459				hypothetical protein
+BPKGAMPB_01242	gene	798	tatC			
+BPKGAMPB_01242	CDS	798	tatC		COG0805	Sec-independent protein translocase protein TatC
+BPKGAMPB_01243	gene	177	tatA			
+BPKGAMPB_01243	CDS	177	tatA			Sec-independent protein translocase protein TatA
+BPKGAMPB_01244	gene	1092				
+BPKGAMPB_01244	CDS	1092				hypothetical protein
+BPKGAMPB_01245	gene	426				
+BPKGAMPB_01245	CDS	426				hypothetical protein
+BPKGAMPB_01246	gene	849				
+BPKGAMPB_01246	CDS	849				hypothetical protein
+BPKGAMPB_01247	gene	255				
+BPKGAMPB_01247	CDS	255				hypothetical protein
+BPKGAMPB_01248	gene	849	eryG			
+BPKGAMPB_01248	CDS	849	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+BPKGAMPB_01249	gene	168				
+BPKGAMPB_01249	CDS	168				hypothetical protein
+BPKGAMPB_01250	gene	624				
+BPKGAMPB_01250	CDS	624				hypothetical protein
+BPKGAMPB_01251	gene	282				
+BPKGAMPB_01251	CDS	282				hypothetical protein
+BPKGAMPB_01252	gene	990				
+BPKGAMPB_01252	CDS	990				hypothetical protein
+BPKGAMPB_01253	gene	1044				
+BPKGAMPB_01253	CDS	1044				hypothetical protein
+BPKGAMPB_01254	gene	1719				
+BPKGAMPB_01254	CDS	1719				hypothetical protein
+BPKGAMPB_01255	gene	171				
+BPKGAMPB_01255	CDS	171				hypothetical protein
+BPKGAMPB_01256	gene	267				
+BPKGAMPB_01256	CDS	267				hypothetical protein
+BPKGAMPB_01257	gene	165				
+BPKGAMPB_01257	CDS	165				hypothetical protein
+BPKGAMPB_01258	gene	195				
+BPKGAMPB_01258	CDS	195				hypothetical protein
+BPKGAMPB_01259	gene	222				
+BPKGAMPB_01259	CDS	222				hypothetical protein
+BPKGAMPB_01260	gene	1479				
+BPKGAMPB_01260	CDS	1479				hypothetical protein
+BPKGAMPB_01261	gene	588				
+BPKGAMPB_01261	CDS	588				hypothetical protein
+BPKGAMPB_01262	gene	540				
+BPKGAMPB_01262	CDS	540				hypothetical protein
+BPKGAMPB_01263	gene	486				
+BPKGAMPB_01263	CDS	486				hypothetical protein
+BPKGAMPB_01264	gene	192				
+BPKGAMPB_01264	CDS	192				hypothetical protein
+BPKGAMPB_01265	gene	267				
+BPKGAMPB_01265	CDS	267				hypothetical protein
+BPKGAMPB_01266	gene	111				
+BPKGAMPB_01266	CDS	111				hypothetical protein
+BPKGAMPB_01267	gene	198				
+BPKGAMPB_01267	CDS	198				hypothetical protein
+BPKGAMPB_01268	gene	111				
+BPKGAMPB_01268	CDS	111				hypothetical protein
+BPKGAMPB_01269	gene	432				
+BPKGAMPB_01269	CDS	432				hypothetical protein
+BPKGAMPB_01270	gene	132				
+BPKGAMPB_01270	CDS	132				hypothetical protein
+BPKGAMPB_01271	gene	285				
+BPKGAMPB_01271	CDS	285				hypothetical protein
+BPKGAMPB_01272	gene	411				
+BPKGAMPB_01272	CDS	411				hypothetical protein
+BPKGAMPB_01273	gene	183				
+BPKGAMPB_01273	CDS	183				hypothetical protein
+BPKGAMPB_01274	gene	216				
+BPKGAMPB_01274	CDS	216				hypothetical protein
+BPKGAMPB_01275	gene	216				
+BPKGAMPB_01275	CDS	216				hypothetical protein
+BPKGAMPB_01276	gene	276				
+BPKGAMPB_01276	CDS	276				hypothetical protein
+BPKGAMPB_01277	gene	342				
+BPKGAMPB_01277	CDS	342				hypothetical protein
+BPKGAMPB_01278	gene	276				
+BPKGAMPB_01278	CDS	276				hypothetical protein
+BPKGAMPB_01279	gene	510				
+BPKGAMPB_01279	CDS	510				hypothetical protein
+BPKGAMPB_01280	gene	738				
+BPKGAMPB_01280	CDS	738				hypothetical protein
+BPKGAMPB_01281	gene	375				
+BPKGAMPB_01281	CDS	375				hypothetical protein
+BPKGAMPB_01282	gene	1872				
+BPKGAMPB_01282	CDS	1872				hypothetical protein
+BPKGAMPB_01283	gene	939				
+BPKGAMPB_01283	CDS	939				hypothetical protein
+BPKGAMPB_01284	gene	642				
+BPKGAMPB_01284	CDS	642				hypothetical protein
+BPKGAMPB_01285	gene	1065	cas1-1			
+BPKGAMPB_01285	CDS	1065	cas1-1	3.1.-.-		CRISPR-associated endonuclease Cas1 1
+BPKGAMPB_01286	gene	420				
+BPKGAMPB_01286	CDS	420				hypothetical protein
+BPKGAMPB_01287	gene	2193	fusA			
+BPKGAMPB_01287	CDS	2193	fusA		COG0480	Elongation factor G
+BPKGAMPB_01288	gene	822	mqnD			
+BPKGAMPB_01288	CDS	822	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+BPKGAMPB_01289	gene	279				
+BPKGAMPB_01289	CDS	279				hypothetical protein
+BPKGAMPB_01290	gene	456				
+BPKGAMPB_01290	CDS	456				hypothetical protein
+BPKGAMPB_01291	gene	1098	mqnE			
+BPKGAMPB_01291	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+BPKGAMPB_01292	gene	399				
+BPKGAMPB_01292	CDS	399				hypothetical protein
+BPKGAMPB_01293	gene	1407				
+BPKGAMPB_01293	CDS	1407				hypothetical protein
+BPKGAMPB_01294	gene	336				
+BPKGAMPB_01294	CDS	336				hypothetical protein
+BPKGAMPB_01295	gene	1512				
+BPKGAMPB_01295	CDS	1512				hypothetical protein
+BPKGAMPB_01296	gene	447	ligD			
+BPKGAMPB_01296	CDS	447	ligD		COG1793	Multifunctional non-homologous end joining DNA repair protein LigD
+BPKGAMPB_01297	gene	1500	mctP			
+BPKGAMPB_01297	CDS	1500	mctP			Monocarboxylate transport permease protein
+BPKGAMPB_01298	gene	561				
+BPKGAMPB_01298	CDS	561				hypothetical protein
+BPKGAMPB_01299	gene	234				
+BPKGAMPB_01299	CDS	234				hypothetical protein
+BPKGAMPB_01300	gene	357				
+BPKGAMPB_01300	CDS	357				hypothetical protein
+BPKGAMPB_01301	gene	1437	vgb_1			
+BPKGAMPB_01301	CDS	1437	vgb_1	4.2.99.-		Virginiamycin B lyase
+BPKGAMPB_01302	gene	525				
+BPKGAMPB_01302	CDS	525				hypothetical protein
+BPKGAMPB_01303	gene	453	msrA			
+BPKGAMPB_01303	CDS	453	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+BPKGAMPB_01304	gene	1227				
+BPKGAMPB_01304	CDS	1227				hypothetical protein
+BPKGAMPB_01305	gene	474	slyA_2			
+BPKGAMPB_01305	CDS	474	slyA_2			Transcriptional regulator SlyA
+BPKGAMPB_01306	gene	678				
+BPKGAMPB_01306	CDS	678				hypothetical protein
+BPKGAMPB_01307	gene	540				
+BPKGAMPB_01307	CDS	540				hypothetical protein
+BPKGAMPB_01308	gene	501				
+BPKGAMPB_01308	CDS	501				hypothetical protein
+BPKGAMPB_01309	gene	624	ppaX			
+BPKGAMPB_01309	CDS	624	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+BPKGAMPB_01310	gene	951				
+BPKGAMPB_01310	CDS	951				hypothetical protein
+BPKGAMPB_01311	gene	204				
+BPKGAMPB_01311	CDS	204				hypothetical protein
+BPKGAMPB_01312	gene	279				
+BPKGAMPB_01312	CDS	279				hypothetical protein
+BPKGAMPB_01313	gene	207				
+BPKGAMPB_01313	CDS	207				hypothetical protein
+BPKGAMPB_01314	gene	363				
+BPKGAMPB_01314	CDS	363				hypothetical protein
+BPKGAMPB_01315	gene	813				
+BPKGAMPB_01315	CDS	813				hypothetical protein
+BPKGAMPB_01316	gene	207				
+BPKGAMPB_01316	CDS	207				hypothetical protein
+BPKGAMPB_01317	gene	576	prcB_2			
+BPKGAMPB_01317	CDS	576	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+BPKGAMPB_01318	gene	666	prcA_2			
+BPKGAMPB_01318	CDS	666	prcA_2			Proteasome subunit alpha
+BPKGAMPB_01319	gene	129				
+BPKGAMPB_01319	CDS	129				hypothetical protein
+BPKGAMPB_01320	gene	285				
+BPKGAMPB_01320	CDS	285				hypothetical protein
+BPKGAMPB_01321	gene	732				
+BPKGAMPB_01321	CDS	732				hypothetical protein
+BPKGAMPB_01322	gene	309				
+BPKGAMPB_01322	CDS	309				hypothetical protein
+BPKGAMPB_01323	gene	789				
+BPKGAMPB_01323	CDS	789				hypothetical protein
+BPKGAMPB_01324	gene	849				
+BPKGAMPB_01324	CDS	849				hypothetical protein
+BPKGAMPB_01325	gene	720				
+BPKGAMPB_01325	CDS	720				hypothetical protein
+BPKGAMPB_01326	gene	900				
+BPKGAMPB_01326	CDS	900				hypothetical protein
+BPKGAMPB_01327	gene	2937	vgb_2			
+BPKGAMPB_01327	CDS	2937	vgb_2	4.2.99.-		Virginiamycin B lyase
+BPKGAMPB_01328	gene	393				
+BPKGAMPB_01328	CDS	393				hypothetical protein
+BPKGAMPB_01329	gene	498				
+BPKGAMPB_01329	CDS	498				hypothetical protein
+BPKGAMPB_01330	gene	1311				
+BPKGAMPB_01330	CDS	1311				hypothetical protein
+BPKGAMPB_01331	gene	270				
+BPKGAMPB_01331	CDS	270				hypothetical protein
+BPKGAMPB_01332	gene	951	moaA_2			
+BPKGAMPB_01332	CDS	951	moaA_2			GTP 3',8-cyclase
+BPKGAMPB_01333	gene	213				
+BPKGAMPB_01333	CDS	213				hypothetical protein
+BPKGAMPB_01334	gene	786				
+BPKGAMPB_01334	CDS	786			COG2968	26 kDa periplasmic immunogenic protein
+BPKGAMPB_01335	gene	714				
+BPKGAMPB_01335	CDS	714				hypothetical protein
+BPKGAMPB_01336	gene	285				
+BPKGAMPB_01336	CDS	285				hypothetical protein
+BPKGAMPB_01337	gene	333				
+BPKGAMPB_01337	CDS	333				hypothetical protein
+BPKGAMPB_01338	gene	156				
+BPKGAMPB_01338	CDS	156				hypothetical protein
+BPKGAMPB_01339	gene	588				
+BPKGAMPB_01339	CDS	588				hypothetical protein
+BPKGAMPB_01340	gene	807				
+BPKGAMPB_01340	CDS	807				hypothetical protein
+BPKGAMPB_01341	gene	225				
+BPKGAMPB_01341	CDS	225				hypothetical protein
+BPKGAMPB_01342	gene	2946				
+BPKGAMPB_01342	CDS	2946				hypothetical protein
+BPKGAMPB_01343	gene	1200				
+BPKGAMPB_01343	CDS	1200				hypothetical protein
+BPKGAMPB_01344	gene	1257	nrgA_2			
+BPKGAMPB_01344	CDS	1257	nrgA_2			Ammonium transporter
+BPKGAMPB_01345	gene	408				
+BPKGAMPB_01345	CDS	408				hypothetical protein
+BPKGAMPB_01346	gene	609	rutE			
+BPKGAMPB_01346	CDS	609	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+BPKGAMPB_01347	gene	630				
+BPKGAMPB_01347	CDS	630				hypothetical protein
+BPKGAMPB_01348	gene	138				
+BPKGAMPB_01348	CDS	138				hypothetical protein
+BPKGAMPB_01349	gene	177				
+BPKGAMPB_01349	CDS	177				hypothetical protein
+BPKGAMPB_01350	gene	1389	gabD1			
+BPKGAMPB_01350	CDS	1389	gabD1	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+BPKGAMPB_01351	gene	420				
+BPKGAMPB_01351	CDS	420				hypothetical protein
+BPKGAMPB_01352	gene	414				
+BPKGAMPB_01352	CDS	414				hypothetical protein
+BPKGAMPB_01353	gene	1071	phaC			
+BPKGAMPB_01353	CDS	1071	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+BPKGAMPB_01354	gene	567				
+BPKGAMPB_01354	CDS	567				hypothetical protein
+BPKGAMPB_01355	gene	462				
+BPKGAMPB_01355	CDS	462				hypothetical protein
+BPKGAMPB_01356	gene	789				
+BPKGAMPB_01356	CDS	789			COG0596	putative protein
+BPKGAMPB_01357	gene	417				
+BPKGAMPB_01357	CDS	417				hypothetical protein
+BPKGAMPB_01358	gene	1086				
+BPKGAMPB_01358	CDS	1086				hypothetical protein
+BPKGAMPB_01359	gene	945				
+BPKGAMPB_01359	CDS	945				hypothetical protein
+BPKGAMPB_01360	gene	123				
+BPKGAMPB_01360	CDS	123				hypothetical protein
+BPKGAMPB_01361	gene	267				
+BPKGAMPB_01361	CDS	267				hypothetical protein
+BPKGAMPB_01362	gene	474				
+BPKGAMPB_01362	CDS	474				hypothetical protein
+BPKGAMPB_01363	gene	1035				
+BPKGAMPB_01363	CDS	1035				hypothetical protein
+BPKGAMPB_01364	gene	1329				
+BPKGAMPB_01364	CDS	1329				hypothetical protein
+BPKGAMPB_01365	gene	540				
+BPKGAMPB_01365	CDS	540				hypothetical protein
+BPKGAMPB_01366	gene	1152				
+BPKGAMPB_01366	CDS	1152				hypothetical protein
+BPKGAMPB_01367	gene	783				
+BPKGAMPB_01367	CDS	783				hypothetical protein
+BPKGAMPB_01368	gene	228				
+BPKGAMPB_01368	CDS	228				hypothetical protein
+BPKGAMPB_01369	gene	633				
+BPKGAMPB_01369	CDS	633				hypothetical protein
+BPKGAMPB_01370	gene	1689				
+BPKGAMPB_01370	CDS	1689				hypothetical protein
+BPKGAMPB_01371	gene	1266				
+BPKGAMPB_01371	CDS	1266				hypothetical protein
+BPKGAMPB_01372	gene	354				
+BPKGAMPB_01372	CDS	354				hypothetical protein
+BPKGAMPB_01373	gene	576				
+BPKGAMPB_01373	CDS	576				hypothetical protein
+BPKGAMPB_01374	gene	1233				
+BPKGAMPB_01374	CDS	1233				hypothetical protein
+BPKGAMPB_01375	gene	483				
+BPKGAMPB_01375	CDS	483				hypothetical protein
+BPKGAMPB_01376	gene	291				
+BPKGAMPB_01376	CDS	291				hypothetical protein
+BPKGAMPB_01377	gene	714				
+BPKGAMPB_01377	CDS	714				hypothetical protein
+BPKGAMPB_01378	gene	381				
+BPKGAMPB_01378	CDS	381				hypothetical protein
+BPKGAMPB_01379	gene	714				
+BPKGAMPB_01379	CDS	714				hypothetical protein
+BPKGAMPB_01380	gene	555				
+BPKGAMPB_01380	CDS	555				hypothetical protein
+BPKGAMPB_01381	gene	327				
+BPKGAMPB_01381	CDS	327				hypothetical protein
+BPKGAMPB_01382	gene	309				
+BPKGAMPB_01382	CDS	309				hypothetical protein
+BPKGAMPB_01383	gene	762	pleC_1			
+BPKGAMPB_01383	CDS	762	pleC_1	2.7.13.3		Non-motile and phage-resistance protein
+BPKGAMPB_01384	gene	309				
+BPKGAMPB_01384	CDS	309				hypothetical protein
+BPKGAMPB_01385	gene	1173				
+BPKGAMPB_01385	CDS	1173		1.1.1.38		NAD-dependent malic enzyme
+BPKGAMPB_01386	gene	381				
+BPKGAMPB_01386	CDS	381				hypothetical protein
+BPKGAMPB_01387	gene	306				
+BPKGAMPB_01387	CDS	306				hypothetical protein
+BPKGAMPB_01388	gene	414	nhaX_2			
+BPKGAMPB_01388	CDS	414	nhaX_2		COG0589	Stress response protein NhaX
+BPKGAMPB_01389	gene	582				
+BPKGAMPB_01389	CDS	582				hypothetical protein
+BPKGAMPB_01390	gene	228				
+BPKGAMPB_01390	CDS	228				hypothetical protein
+BPKGAMPB_01391	gene	621	azoR1			
+BPKGAMPB_01391	CDS	621	azoR1	1.7.1.17	COG1182	FMN-dependent NADH-azoreductase 1
+BPKGAMPB_01392	gene	1386				
+BPKGAMPB_01392	CDS	1386		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+BPKGAMPB_01393	gene	414	cheB_3			
+BPKGAMPB_01393	CDS	414	cheB_3	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+BPKGAMPB_01394	gene	306				
+BPKGAMPB_01394	CDS	306				hypothetical protein
+BPKGAMPB_01395	gene	600				
+BPKGAMPB_01395	CDS	600				hypothetical protein
+BPKGAMPB_01396	gene	2172				
+BPKGAMPB_01396	CDS	2172				hypothetical protein
+BPKGAMPB_01397	gene	165				
+BPKGAMPB_01397	CDS	165				hypothetical protein
+BPKGAMPB_01398	gene	771				
+BPKGAMPB_01398	CDS	771				hypothetical protein
+BPKGAMPB_01399	gene	1071	ccr_1			
+BPKGAMPB_01399	CDS	1071	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+BPKGAMPB_01400	gene	1014	yhdN			
+BPKGAMPB_01400	CDS	1014	yhdN	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+BPKGAMPB_01401	gene	1542				
+BPKGAMPB_01401	CDS	1542				hypothetical protein
+BPKGAMPB_01402	gene	261				
+BPKGAMPB_01402	CDS	261				hypothetical protein
+BPKGAMPB_01403	gene	399				
+BPKGAMPB_01403	CDS	399				hypothetical protein
+BPKGAMPB_01404	gene	357				
+BPKGAMPB_01404	CDS	357				hypothetical protein
+BPKGAMPB_01405	gene	411				
+BPKGAMPB_01405	CDS	411				hypothetical protein
+BPKGAMPB_01406	gene	939	sasA_4			
+BPKGAMPB_01406	CDS	939	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_01407	gene	387				
+BPKGAMPB_01407	CDS	387				hypothetical protein
+BPKGAMPB_01408	gene	117				
+BPKGAMPB_01408	CDS	117				hypothetical protein
+BPKGAMPB_01409	gene	987				
+BPKGAMPB_01409	CDS	987				hypothetical protein
+BPKGAMPB_01410	gene	240				
+BPKGAMPB_01410	CDS	240				hypothetical protein
+BPKGAMPB_01411	gene	573				
+BPKGAMPB_01411	CDS	573				hypothetical protein
+BPKGAMPB_01412	gene	372				
+BPKGAMPB_01412	CDS	372				hypothetical protein
+BPKGAMPB_01413	gene	228				
+BPKGAMPB_01413	CDS	228				hypothetical protein
+BPKGAMPB_01414	gene	171				
+BPKGAMPB_01414	CDS	171				hypothetical protein
+BPKGAMPB_01415	gene	564				
+BPKGAMPB_01415	CDS	564				hypothetical protein
+BPKGAMPB_01416	gene	621				
+BPKGAMPB_01416	CDS	621				hypothetical protein
+BPKGAMPB_01417	gene	2067	kinE			
+BPKGAMPB_01417	CDS	2067	kinE	2.7.13.3	COG2202	Sporulation kinase E
+BPKGAMPB_01418	gene	495				
+BPKGAMPB_01418	CDS	495				hypothetical protein
+BPKGAMPB_01419	gene	492	dnaJ_4			
+BPKGAMPB_01419	CDS	492	dnaJ_4			Chaperone protein DnaJ
+BPKGAMPB_01420	gene	420	spo0A_3			
+BPKGAMPB_01420	CDS	420	spo0A_3		COG0784	Stage 0 sporulation protein A
+BPKGAMPB_01421	gene	975				
+BPKGAMPB_01421	CDS	975				hypothetical protein
+BPKGAMPB_01422	gene	711				
+BPKGAMPB_01422	CDS	711				hypothetical protein
+BPKGAMPB_01423	gene	291				
+BPKGAMPB_01423	CDS	291				hypothetical protein
+BPKGAMPB_01424	gene	1947				
+BPKGAMPB_01424	CDS	1947				hypothetical protein
+BPKGAMPB_01425	gene	543				
+BPKGAMPB_01425	CDS	543				hypothetical protein
+BPKGAMPB_01426	gene	1077				
+BPKGAMPB_01426	CDS	1077				hypothetical protein
+BPKGAMPB_01427	gene	1005				
+BPKGAMPB_01427	CDS	1005				hypothetical protein
+BPKGAMPB_01428	gene	216				
+BPKGAMPB_01428	CDS	216				hypothetical protein
+BPKGAMPB_01429	gene	225				
+BPKGAMPB_01429	CDS	225				hypothetical protein
+BPKGAMPB_01430	gene	207				
+BPKGAMPB_01430	CDS	207				hypothetical protein
+BPKGAMPB_01431	gene	1170				
+BPKGAMPB_01431	CDS	1170				hypothetical protein
+BPKGAMPB_01432	gene	369				
+BPKGAMPB_01432	CDS	369				hypothetical protein
+BPKGAMPB_01433	gene	261				
+BPKGAMPB_01433	CDS	261				hypothetical protein
+BPKGAMPB_01434	gene	345				
+BPKGAMPB_01434	CDS	345				hypothetical protein
+BPKGAMPB_01435	gene	339				
+BPKGAMPB_01435	CDS	339				hypothetical protein
+BPKGAMPB_01436	gene	336				
+BPKGAMPB_01436	CDS	336				hypothetical protein
+BPKGAMPB_01437	gene	864	IMPDH_3			
+BPKGAMPB_01437	CDS	864	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BPKGAMPB_01438	gene	579				
+BPKGAMPB_01438	CDS	579				hypothetical protein
+BPKGAMPB_01439	gene	753				
+BPKGAMPB_01439	CDS	753				hypothetical protein
+BPKGAMPB_01440	gene	501				
+BPKGAMPB_01440	CDS	501				hypothetical protein
+BPKGAMPB_01441	gene	1287	mntH_2			
+BPKGAMPB_01441	CDS	1287	mntH_2		COG1914	Divalent metal cation transporter MntH
+BPKGAMPB_01442	gene	1305				
+BPKGAMPB_01442	CDS	1305				hypothetical protein
+BPKGAMPB_01443	gene	1629	mdtD_2			
+BPKGAMPB_01443	CDS	1629	mdtD_2			Putative multidrug resistance protein MdtD
+BPKGAMPB_01444	gene	1305				
+BPKGAMPB_01444	CDS	1305				hypothetical protein
+BPKGAMPB_01445	gene	1230	nhaP			
+BPKGAMPB_01445	CDS	1230	nhaP			K(+)/H(+) antiporter NhaP
+BPKGAMPB_01446	gene	1290	ttuB			
+BPKGAMPB_01446	CDS	1290	ttuB			Putative tartrate transporter
+BPKGAMPB_01447	gene	828				
+BPKGAMPB_01447	CDS	828				hypothetical protein
+BPKGAMPB_01448	gene	252				
+BPKGAMPB_01448	CDS	252				hypothetical protein
+BPKGAMPB_01449	gene	342				
+BPKGAMPB_01449	CDS	342				hypothetical protein
+BPKGAMPB_01450	gene	1446	mdtD_3			
+BPKGAMPB_01450	CDS	1446	mdtD_3			Putative multidrug resistance protein MdtD
+BPKGAMPB_01451	gene	240				
+BPKGAMPB_01451	CDS	240				hypothetical protein
+BPKGAMPB_01452	gene	1182	rcsC_4			
+BPKGAMPB_01452	CDS	1182	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_01453	gene	1416	sasA_5			
+BPKGAMPB_01453	CDS	1416	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_01454	gene	1086				
+BPKGAMPB_01454	CDS	1086				hypothetical protein
+BPKGAMPB_01455	gene	354	rcsC_5			
+BPKGAMPB_01455	CDS	354	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_01456	gene	267				
+BPKGAMPB_01456	CDS	267				hypothetical protein
+BPKGAMPB_01457	gene	477	kdpC			
+BPKGAMPB_01457	CDS	477	kdpC		COG2156	Potassium-transporting ATPase KdpC subunit
+BPKGAMPB_01458	gene	2118	kdpB			
+BPKGAMPB_01458	CDS	2118	kdpB	7.2.2.6	COG2216	Potassium-transporting ATPase ATP-binding subunit
+BPKGAMPB_01459	gene	1605	kdpA			
+BPKGAMPB_01459	CDS	1605	kdpA		COG2060	Potassium-transporting ATPase potassium-binding subunit
+BPKGAMPB_01460	gene	543				
+BPKGAMPB_01460	CDS	543				hypothetical protein
+BPKGAMPB_01461	gene	1506				
+BPKGAMPB_01461	CDS	1506				hypothetical protein
+BPKGAMPB_01462	gene	549				
+BPKGAMPB_01462	CDS	549				hypothetical protein
+BPKGAMPB_01463	gene	450				
+BPKGAMPB_01463	CDS	450				hypothetical protein
+BPKGAMPB_01464	gene	255				
+BPKGAMPB_01464	CDS	255				hypothetical protein
+BPKGAMPB_01465	gene	684				
+BPKGAMPB_01465	CDS	684				hypothetical protein
+BPKGAMPB_01466	gene	135				
+BPKGAMPB_01466	CDS	135				hypothetical protein
+BPKGAMPB_01467	gene	141				
+BPKGAMPB_01467	CDS	141				hypothetical protein
+BPKGAMPB_01468	gene	300				
+BPKGAMPB_01468	CDS	300				hypothetical protein
+BPKGAMPB_01469	gene	408				
+BPKGAMPB_01469	CDS	408				hypothetical protein
+BPKGAMPB_01470	gene	483	IMPDH_4			
+BPKGAMPB_01470	CDS	483	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+BPKGAMPB_01471	gene	2331				
+BPKGAMPB_01471	CDS	2331				hypothetical protein
+BPKGAMPB_01472	gene	876				
+BPKGAMPB_01472	CDS	876				hypothetical protein
+BPKGAMPB_01473	gene	321				
+BPKGAMPB_01473	CDS	321				hypothetical protein
+BPKGAMPB_01474	gene	924				
+BPKGAMPB_01474	CDS	924				hypothetical protein
+BPKGAMPB_01475	gene	1134				
+BPKGAMPB_01475	CDS	1134				hypothetical protein
+BPKGAMPB_01476	gene	240				
+BPKGAMPB_01476	CDS	240				hypothetical protein
+BPKGAMPB_01477	gene	249				
+BPKGAMPB_01477	CDS	249				hypothetical protein
+BPKGAMPB_01478	gene	168				
+BPKGAMPB_01478	CDS	168				hypothetical protein
+BPKGAMPB_01479	gene	699	bshB1			
+BPKGAMPB_01479	CDS	699	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+BPKGAMPB_01480	gene	300				
+BPKGAMPB_01480	CDS	300				hypothetical protein
+BPKGAMPB_01481	gene	708				
+BPKGAMPB_01481	CDS	708				putative protein
+BPKGAMPB_01482	gene	225				
+BPKGAMPB_01482	CDS	225				hypothetical protein
+BPKGAMPB_01483	gene	351				
+BPKGAMPB_01483	CDS	351				hypothetical protein
+BPKGAMPB_01484	gene	240				
+BPKGAMPB_01484	CDS	240				hypothetical protein
+BPKGAMPB_01485	gene	1011				
+BPKGAMPB_01485	CDS	1011				hypothetical protein
+BPKGAMPB_01486	gene	933	apaH			
+BPKGAMPB_01486	CDS	933	apaH	3.6.1.41		Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+BPKGAMPB_01487	gene	1935				
+BPKGAMPB_01487	CDS	1935				hypothetical protein
+BPKGAMPB_01488	gene	1062				
+BPKGAMPB_01488	CDS	1062				hypothetical protein
+BPKGAMPB_01489	gene	1644				
+BPKGAMPB_01489	CDS	1644				hypothetical protein
+BPKGAMPB_01490	gene	963	wbgU			
+BPKGAMPB_01490	CDS	963	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+BPKGAMPB_01491	gene	1488	mshA_5			
+BPKGAMPB_01491	CDS	1488	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+BPKGAMPB_01492	gene	600				
+BPKGAMPB_01492	CDS	600				hypothetical protein
+BPKGAMPB_01493	gene	1761	glmS_2			
+BPKGAMPB_01493	CDS	1761	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BPKGAMPB_01494	gene	90				
+BPKGAMPB_01494	CDS	90				hypothetical protein
+BPKGAMPB_01495	gene	1446				
+BPKGAMPB_01495	CDS	1446				hypothetical protein
+BPKGAMPB_01496	gene	807	pleC_2			
+BPKGAMPB_01496	CDS	807	pleC_2	2.7.13.3		Non-motile and phage-resistance protein
+BPKGAMPB_01497	gene	366	copR			
+BPKGAMPB_01497	CDS	366	copR			Transcriptional activator protein CopR
+BPKGAMPB_01498	gene	795				
+BPKGAMPB_01498	CDS	795				hypothetical protein
+BPKGAMPB_01499	gene	222	gvpA_1			
+BPKGAMPB_01499	CDS	222	gvpA_1			Gas vesicle structural protein
+BPKGAMPB_01500	gene	252				
+BPKGAMPB_01500	CDS	252				hypothetical protein
+BPKGAMPB_01501	gene	270	gvpA_2			
+BPKGAMPB_01501	CDS	270	gvpA_2			Gas vesicle structural protein
+BPKGAMPB_01502	gene	486				
+BPKGAMPB_01502	CDS	486				hypothetical protein
+BPKGAMPB_01503	gene	741				
+BPKGAMPB_01503	CDS	741				hypothetical protein
+BPKGAMPB_01504	gene	222				
+BPKGAMPB_01504	CDS	222				hypothetical protein
+BPKGAMPB_01505	gene	1122	rcsC_6			
+BPKGAMPB_01505	CDS	1122	rcsC_6	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_01506	gene	2016				
+BPKGAMPB_01506	CDS	2016				hypothetical protein
+BPKGAMPB_01507	gene	279				
+BPKGAMPB_01507	CDS	279				hypothetical protein
+BPKGAMPB_01508	gene	1905				
+BPKGAMPB_01508	CDS	1905				hypothetical protein
+BPKGAMPB_01509	gene	201				
+BPKGAMPB_01509	CDS	201				hypothetical protein
+BPKGAMPB_01510	gene	339				
+BPKGAMPB_01510	CDS	339				hypothetical protein
+BPKGAMPB_01511	gene	456				
+BPKGAMPB_01511	CDS	456				hypothetical protein
+BPKGAMPB_01512	gene	270				
+BPKGAMPB_01512	CDS	270				hypothetical protein
+BPKGAMPB_01513	gene	300				
+BPKGAMPB_01513	CDS	300				hypothetical protein
+BPKGAMPB_01514	gene	1143				
+BPKGAMPB_01514	CDS	1143				hypothetical protein
+BPKGAMPB_01515	gene	204				
+BPKGAMPB_01515	CDS	204				hypothetical protein
+BPKGAMPB_01516	gene	195				
+BPKGAMPB_01516	CDS	195				hypothetical protein
+BPKGAMPB_01517	gene	2046				
+BPKGAMPB_01517	CDS	2046				hypothetical protein
+BPKGAMPB_01518	gene	1164				
+BPKGAMPB_01518	CDS	1164				hypothetical protein
+BPKGAMPB_01519	gene	330				
+BPKGAMPB_01519	CDS	330				hypothetical protein
+BPKGAMPB_01520	gene	156				
+BPKGAMPB_01520	CDS	156				hypothetical protein
+BPKGAMPB_01521	gene	240				
+BPKGAMPB_01521	CDS	240				hypothetical protein
+BPKGAMPB_01522	gene	588				
+BPKGAMPB_01522	CDS	588				hypothetical protein
+BPKGAMPB_01523	gene	1449				
+BPKGAMPB_01523	CDS	1449				hypothetical protein
+BPKGAMPB_01524	gene	1131				
+BPKGAMPB_01524	CDS	1131				hypothetical protein
+BPKGAMPB_01525	gene	363	crcB			
+BPKGAMPB_01525	CDS	363	crcB		COG0239	Putative fluoride ion transporter CrcB
+BPKGAMPB_01526	gene	624				
+BPKGAMPB_01526	CDS	624				hypothetical protein
+BPKGAMPB_01527	gene	1044	petE_4			
+BPKGAMPB_01527	CDS	1044	petE_4			Plastocyanin
+BPKGAMPB_01528	gene	78				
+BPKGAMPB_01528	misc_RNA	78				Fluoride
+BPKGAMPB_01529	gene	1647	rcsC_7			
+BPKGAMPB_01529	CDS	1647	rcsC_7	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_01530	gene	447				
+BPKGAMPB_01530	CDS	447				hypothetical protein
+BPKGAMPB_01531	gene	477				
+BPKGAMPB_01531	CDS	477			COG2764	putative protein
+BPKGAMPB_01532	gene	1491	sasA_6			
+BPKGAMPB_01532	CDS	1491	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_01533	gene	888				
+BPKGAMPB_01533	CDS	888				hypothetical protein
+BPKGAMPB_01534	gene	174				
+BPKGAMPB_01534	CDS	174				hypothetical protein
+BPKGAMPB_01535	gene	207				
+BPKGAMPB_01535	CDS	207				hypothetical protein
+BPKGAMPB_01536	gene	312				
+BPKGAMPB_01536	CDS	312				hypothetical protein
+BPKGAMPB_01537	gene	459				
+BPKGAMPB_01537	CDS	459				hypothetical protein
+BPKGAMPB_01538	gene	132				
+BPKGAMPB_01538	CDS	132				hypothetical protein
+BPKGAMPB_01539	gene	1578				
+BPKGAMPB_01539	CDS	1578				hypothetical protein
+BPKGAMPB_01540	gene	588				
+BPKGAMPB_01540	CDS	588				hypothetical protein
+BPKGAMPB_01541	gene	1152				
+BPKGAMPB_01541	CDS	1152				hypothetical protein
+BPKGAMPB_01542	gene	249				
+BPKGAMPB_01542	CDS	249				hypothetical protein
+BPKGAMPB_01543	gene	8643				
+BPKGAMPB_01543	CDS	8643				hypothetical protein
+BPKGAMPB_01544	gene	234				
+BPKGAMPB_01544	CDS	234				hypothetical protein
+BPKGAMPB_01545	gene	804				
+BPKGAMPB_01545	CDS	804				hypothetical protein
+BPKGAMPB_01546	gene	300				
+BPKGAMPB_01546	CDS	300				hypothetical protein
+BPKGAMPB_01547	gene	186				
+BPKGAMPB_01547	CDS	186				hypothetical protein
+BPKGAMPB_01548	gene	2968				
+BPKGAMPB_01548	rRNA	2968				23S ribosomal RNA
+BPKGAMPB_01549	gene	1464				
+BPKGAMPB_01549	rRNA	1464				16S ribosomal RNA
+BPKGAMPB_01550	gene	1311	hemL_2			
+BPKGAMPB_01550	CDS	1311	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+BPKGAMPB_01551	gene	492				
+BPKGAMPB_01551	CDS	492				hypothetical protein
+BPKGAMPB_01552	gene	723				
+BPKGAMPB_01552	CDS	723				hypothetical protein
+BPKGAMPB_01553	gene	573				
+BPKGAMPB_01553	CDS	573				hypothetical protein
+BPKGAMPB_01554	gene	954				
+BPKGAMPB_01554	CDS	954				hypothetical protein
+BPKGAMPB_01555	gene	2169	ftsH_4			
+BPKGAMPB_01555	CDS	2169	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BPKGAMPB_01556	gene	390				
+BPKGAMPB_01556	CDS	390				hypothetical protein
+BPKGAMPB_01557	gene	114				
+BPKGAMPB_01557	CDS	114				hypothetical protein
+BPKGAMPB_01558	gene	657				
+BPKGAMPB_01558	CDS	657				hypothetical protein
+BPKGAMPB_01559	gene	174				
+BPKGAMPB_01559	CDS	174				hypothetical protein
+BPKGAMPB_01560	gene	291				
+BPKGAMPB_01560	CDS	291				hypothetical protein
+BPKGAMPB_01561	gene	477	slyA_3			
+BPKGAMPB_01561	CDS	477	slyA_3			Transcriptional regulator SlyA
+BPKGAMPB_01562	gene	297				
+BPKGAMPB_01562	CDS	297				hypothetical protein
+BPKGAMPB_01563	gene	771				
+BPKGAMPB_01563	CDS	771				hypothetical protein
+BPKGAMPB_01564	gene	366				
+BPKGAMPB_01564	CDS	366				hypothetical protein
+BPKGAMPB_01565	gene	1449	sasA_7			
+BPKGAMPB_01565	CDS	1449	sasA_7	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_01566	gene	228				
+BPKGAMPB_01566	CDS	228				hypothetical protein
+BPKGAMPB_01567	gene	639				
+BPKGAMPB_01567	CDS	639				hypothetical protein
+BPKGAMPB_01568	gene	903				
+BPKGAMPB_01568	CDS	903				hypothetical protein
+BPKGAMPB_01569	gene	477				
+BPKGAMPB_01569	CDS	477				hypothetical protein
+BPKGAMPB_01570	gene	390				
+BPKGAMPB_01570	CDS	390				hypothetical protein
+BPKGAMPB_01571	gene	213				
+BPKGAMPB_01571	CDS	213				hypothetical protein
+BPKGAMPB_01572	gene	411				
+BPKGAMPB_01572	CDS	411				hypothetical protein
+BPKGAMPB_01573	gene	336				
+BPKGAMPB_01573	CDS	336				hypothetical protein
+BPKGAMPB_01574	gene	396				
+BPKGAMPB_01574	CDS	396				hypothetical protein
+BPKGAMPB_01575	gene	222				
+BPKGAMPB_01575	CDS	222				hypothetical protein
+BPKGAMPB_01576	gene	234				
+BPKGAMPB_01576	CDS	234				hypothetical protein
+BPKGAMPB_01577	gene	498				
+BPKGAMPB_01577	CDS	498				hypothetical protein
+BPKGAMPB_01578	gene	2487	pepN			
+BPKGAMPB_01578	CDS	2487	pepN	3.4.11.2	COG0308	Aminopeptidase N
+BPKGAMPB_01579	gene	240				
+BPKGAMPB_01579	CDS	240				hypothetical protein
+BPKGAMPB_01580	gene	1284	apnhaP			
+BPKGAMPB_01580	CDS	1284	apnhaP			Na(+)/H(+) antiporter ApNhaP
+BPKGAMPB_01581	gene	810	cpoB_2			
+BPKGAMPB_01581	CDS	810	cpoB_2			Cell division coordinator CpoB
+BPKGAMPB_01582	gene	300				
+BPKGAMPB_01582	CDS	300				hypothetical protein
+BPKGAMPB_01583	gene	1389				
+BPKGAMPB_01583	CDS	1389				hypothetical protein
+BPKGAMPB_01584	gene	546				
+BPKGAMPB_01584	CDS	546				hypothetical protein
+BPKGAMPB_01585	gene	1551	vgb_3			
+BPKGAMPB_01585	CDS	1551	vgb_3	4.2.99.-		Virginiamycin B lyase
+BPKGAMPB_01586	gene	1200	truD			
+BPKGAMPB_01586	CDS	1200	truD	5.4.99.27		tRNA pseudouridine synthase D
+BPKGAMPB_01587	gene	408				
+BPKGAMPB_01587	CDS	408				hypothetical protein
+BPKGAMPB_01588	gene	1086				
+BPKGAMPB_01588	CDS	1086				hypothetical protein
+BPKGAMPB_01589	gene	684				
+BPKGAMPB_01589	CDS	684				hypothetical protein
+BPKGAMPB_01590	gene	291				
+BPKGAMPB_01590	CDS	291				hypothetical protein
+BPKGAMPB_01591	gene	1491	resA_1			
+BPKGAMPB_01591	CDS	1491	resA_1			Thiol-disulfide oxidoreductase ResA
+BPKGAMPB_01592	gene	288				
+BPKGAMPB_01592	CDS	288				hypothetical protein
+BPKGAMPB_01593	gene	231				
+BPKGAMPB_01593	CDS	231				hypothetical protein
+BPKGAMPB_01594	gene	213				
+BPKGAMPB_01594	CDS	213				hypothetical protein
+BPKGAMPB_01595	gene	690				
+BPKGAMPB_01595	CDS	690				hypothetical protein
+BPKGAMPB_01596	gene	501				
+BPKGAMPB_01596	CDS	501				hypothetical protein
+BPKGAMPB_01597	gene	459				
+BPKGAMPB_01597	CDS	459				hypothetical protein
+BPKGAMPB_01598	gene	627				
+BPKGAMPB_01598	CDS	627				hypothetical protein
+BPKGAMPB_01599	gene	933				
+BPKGAMPB_01599	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+BPKGAMPB_01600	gene	486				
+BPKGAMPB_01600	CDS	486				hypothetical protein
+BPKGAMPB_01601	gene	1338				
+BPKGAMPB_01601	CDS	1338				hypothetical protein
+BPKGAMPB_01602	gene	1401	aspA			
+BPKGAMPB_01602	CDS	1401	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+BPKGAMPB_01603	gene	1269	miaB			
+BPKGAMPB_01603	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+BPKGAMPB_01604	gene	954	ftsZ			
+BPKGAMPB_01604	CDS	954	ftsZ			Cell division protein FtsZ
+BPKGAMPB_01605	gene	513				
+BPKGAMPB_01605	CDS	513				hypothetical protein
+BPKGAMPB_01606	gene	549	nudL			
+BPKGAMPB_01606	CDS	549	nudL	3.6.1.-		putative Nudix hydrolase NudL
+BPKGAMPB_01607	gene	2508	metH_1			
+BPKGAMPB_01607	CDS	2508	metH_1	2.1.1.13	COG0646	Methionine synthase
+BPKGAMPB_01608	gene	957	metH_2			
+BPKGAMPB_01608	CDS	957	metH_2	2.1.1.13	COG0646	Methionine synthase
+BPKGAMPB_01609	gene	756				
+BPKGAMPB_01609	CDS	756				hypothetical protein
+BPKGAMPB_01610	gene	1053				
+BPKGAMPB_01610	CDS	1053				hypothetical protein
+BPKGAMPB_01611	gene	1068	ssuA			
+BPKGAMPB_01611	CDS	1068	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+BPKGAMPB_01612	gene	798	ssuC			
+BPKGAMPB_01612	CDS	798	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+BPKGAMPB_01613	gene	777	nrtD			
+BPKGAMPB_01613	CDS	777	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+BPKGAMPB_01614	gene	1188	argG			
+BPKGAMPB_01614	CDS	1188	argG	6.3.4.5		Argininosuccinate synthase
+BPKGAMPB_01615	gene	168				
+BPKGAMPB_01615	CDS	168				hypothetical protein
+BPKGAMPB_01616	gene	858	lysX_1			
+BPKGAMPB_01616	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+BPKGAMPB_01617	gene	1053	lysY			
+BPKGAMPB_01617	CDS	1053	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+BPKGAMPB_01618	gene	801	lysZ			
+BPKGAMPB_01618	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+BPKGAMPB_01619	gene	1176	lysJ			
+BPKGAMPB_01619	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+BPKGAMPB_01620	gene	420				
+BPKGAMPB_01620	CDS	420				hypothetical protein
+BPKGAMPB_01621	gene	1191	leuA_2			
+BPKGAMPB_01621	CDS	1191	leuA_2	2.3.3.13		2-isopropylmalate synthase
+BPKGAMPB_01622	gene	165				
+BPKGAMPB_01622	CDS	165				hypothetical protein
+BPKGAMPB_01623	gene	849	lysX_2			
+BPKGAMPB_01623	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+BPKGAMPB_01624	gene	1143	lysK			
+BPKGAMPB_01624	CDS	1143	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+BPKGAMPB_01625	gene	1047				
+BPKGAMPB_01625	CDS	1047				hypothetical protein
+BPKGAMPB_01626	gene	618	hldE			
+BPKGAMPB_01626	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+BPKGAMPB_01627	gene	696				
+BPKGAMPB_01627	CDS	696				hypothetical protein
+BPKGAMPB_01628	gene	1146				
+BPKGAMPB_01628	CDS	1146				hypothetical protein
+BPKGAMPB_01629	gene	375				
+BPKGAMPB_01629	CDS	375				hypothetical protein
+BPKGAMPB_01630	gene	690				
+BPKGAMPB_01630	CDS	690				hypothetical protein
+BPKGAMPB_01631	gene	282				
+BPKGAMPB_01631	CDS	282				hypothetical protein
+BPKGAMPB_01632	gene	2124				
+BPKGAMPB_01632	CDS	2124				hypothetical protein
+BPKGAMPB_01633	gene	762	crt_2			
+BPKGAMPB_01633	CDS	762	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+BPKGAMPB_01634	gene	357	erpA			
+BPKGAMPB_01634	CDS	357	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+BPKGAMPB_01635	gene	228				
+BPKGAMPB_01635	CDS	228				hypothetical protein
+BPKGAMPB_01636	gene	1248	gdhA			
+BPKGAMPB_01636	CDS	1248	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+BPKGAMPB_01637	gene	351				
+BPKGAMPB_01637	CDS	351				hypothetical protein
+BPKGAMPB_01638	gene	1170	yhhS			
+BPKGAMPB_01638	CDS	1170	yhhS			putative MFS-type transporter YhhS
+BPKGAMPB_01639	gene	690	COQ5_2			
+BPKGAMPB_01639	CDS	690	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+BPKGAMPB_01640	gene	2511	cshB			
+BPKGAMPB_01640	CDS	2511	cshB	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshB
+BPKGAMPB_01641	gene	825	cpnA			
+BPKGAMPB_01641	CDS	825	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+BPKGAMPB_01642	gene	1566				
+BPKGAMPB_01642	CDS	1566				hypothetical protein
+BPKGAMPB_01643	gene	94				
+BPKGAMPB_01643	tRNA	94				tRNA-Met(cat)
+BPKGAMPB_01644	gene	366				
+BPKGAMPB_01644	CDS	366				hypothetical protein
+BPKGAMPB_01645	gene	1188				
+BPKGAMPB_01645	CDS	1188				hypothetical protein
+BPKGAMPB_01646	gene	822				
+BPKGAMPB_01646	CDS	822				hypothetical protein
+BPKGAMPB_01647	gene	171				
+BPKGAMPB_01647	CDS	171				hypothetical protein
+BPKGAMPB_01648	gene	162				
+BPKGAMPB_01648	CDS	162				hypothetical protein
+BPKGAMPB_01649	gene	85				
+BPKGAMPB_01649	tRNA	85				tRNA-Ser(gct)
+BPKGAMPB_01650	gene	747	cpdA			
+BPKGAMPB_01650	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BPKGAMPB_01651	gene	1029	hicd_2			
+BPKGAMPB_01651	CDS	1029	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+BPKGAMPB_01652	gene	894				
+BPKGAMPB_01652	CDS	894				hypothetical protein
+BPKGAMPB_01653	gene	504	prmC			
+BPKGAMPB_01653	CDS	504	prmC	2.1.1.297		Release factor glutamine methyltransferase
+BPKGAMPB_01654	gene	705	rsmA			
+BPKGAMPB_01654	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+BPKGAMPB_01655	gene	561				
+BPKGAMPB_01655	CDS	561				hypothetical protein
+BPKGAMPB_01656	gene	327				
+BPKGAMPB_01656	CDS	327				hypothetical protein
+BPKGAMPB_01657	gene	303				
+BPKGAMPB_01657	CDS	303				hypothetical protein
+BPKGAMPB_01658	gene	999	recA			
+BPKGAMPB_01658	CDS	999	recA			Protein RecA
+BPKGAMPB_01659	gene	333				
+BPKGAMPB_01659	CDS	333				hypothetical protein
+BPKGAMPB_01660	gene	210				
+BPKGAMPB_01660	CDS	210				hypothetical protein
+BPKGAMPB_01661	gene	249				
+BPKGAMPB_01661	CDS	249				hypothetical protein
+BPKGAMPB_01662	gene	288				
+BPKGAMPB_01662	CDS	288				hypothetical protein
+BPKGAMPB_01663	gene	285				
+BPKGAMPB_01663	CDS	285				hypothetical protein
+BPKGAMPB_01664	gene	249				
+BPKGAMPB_01664	CDS	249				hypothetical protein
+BPKGAMPB_01665	gene	180				
+BPKGAMPB_01665	CDS	180				hypothetical protein
+BPKGAMPB_01666	gene	1719				
+BPKGAMPB_01666	CDS	1719				hypothetical protein
+BPKGAMPB_01667	gene	813	pyrK			
+BPKGAMPB_01667	CDS	813	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+BPKGAMPB_01668	gene	909	pyrD			
+BPKGAMPB_01668	CDS	909	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+BPKGAMPB_01669	gene	1284				
+BPKGAMPB_01669	CDS	1284				hypothetical protein
+BPKGAMPB_01670	gene	705				
+BPKGAMPB_01670	CDS	705				hypothetical protein
+BPKGAMPB_01671	gene	624	rnhB			
+BPKGAMPB_01671	CDS	624	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+BPKGAMPB_01672	gene	372				
+BPKGAMPB_01672	CDS	372				hypothetical protein
+BPKGAMPB_01673	gene	1020				
+BPKGAMPB_01673	CDS	1020				hypothetical protein
+BPKGAMPB_01674	gene	1200	trm1			
+BPKGAMPB_01674	CDS	1200	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+BPKGAMPB_01675	gene	597	rlmE			
+BPKGAMPB_01675	CDS	597	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+BPKGAMPB_01676	gene	588				
+BPKGAMPB_01676	CDS	588				hypothetical protein
+BPKGAMPB_01677	gene	510				
+BPKGAMPB_01677	CDS	510				hypothetical protein
+BPKGAMPB_01678	gene	2082				
+BPKGAMPB_01678	CDS	2082				hypothetical protein
+BPKGAMPB_01679	gene	2187				
+BPKGAMPB_01679	CDS	2187				hypothetical protein
+BPKGAMPB_01680	gene	513	apt			
+BPKGAMPB_01680	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+BPKGAMPB_01681	gene	795	mtnP			
+BPKGAMPB_01681	CDS	795	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+BPKGAMPB_01682	gene	285				
+BPKGAMPB_01682	CDS	285				hypothetical protein
+BPKGAMPB_01683	gene	441				
+BPKGAMPB_01683	CDS	441				hypothetical protein
+BPKGAMPB_01684	gene	393				
+BPKGAMPB_01684	CDS	393				hypothetical protein
+BPKGAMPB_01685	gene	558	ecdB			
+BPKGAMPB_01685	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+BPKGAMPB_01686	gene	414				
+BPKGAMPB_01686	CDS	414				hypothetical protein
+BPKGAMPB_01687	gene	1104	TOP6A			
+BPKGAMPB_01687	CDS	1104	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+BPKGAMPB_01688	gene	1833	TOP6B			
+BPKGAMPB_01688	CDS	1833	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+BPKGAMPB_01689	gene	573				
+BPKGAMPB_01689	CDS	573				hypothetical protein
+BPKGAMPB_01690	gene	936				
+BPKGAMPB_01690	CDS	936				hypothetical protein
+BPKGAMPB_01691	gene	312				
+BPKGAMPB_01691	CDS	312				hypothetical protein
+BPKGAMPB_01692	gene	255				
+BPKGAMPB_01692	CDS	255				hypothetical protein
+BPKGAMPB_01693	gene	423				
+BPKGAMPB_01693	CDS	423				hypothetical protein
+BPKGAMPB_01694	gene	270				
+BPKGAMPB_01694	CDS	270				hypothetical protein
+BPKGAMPB_01695	gene	327				
+BPKGAMPB_01695	CDS	327				hypothetical protein
+BPKGAMPB_01696	gene	234				
+BPKGAMPB_01696	CDS	234				hypothetical protein
+BPKGAMPB_01697	gene	1122	kinA			
+BPKGAMPB_01697	CDS	1122	kinA	2.7.13.3	COG0642	Sporulation kinase A
+BPKGAMPB_01698	gene	144				
+BPKGAMPB_01698	CDS	144				hypothetical protein
+BPKGAMPB_01699	gene	498				
+BPKGAMPB_01699	CDS	498				hypothetical protein
+BPKGAMPB_01700	gene	1146				
+BPKGAMPB_01700	CDS	1146				hypothetical protein
+BPKGAMPB_01701	gene	753				
+BPKGAMPB_01701	CDS	753		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+BPKGAMPB_01702	gene	405				
+BPKGAMPB_01702	CDS	405				hypothetical protein
+BPKGAMPB_01703	gene	750	pyrF			
+BPKGAMPB_01703	CDS	750	pyrF			Orotidine 5'-phosphate decarboxylase
+BPKGAMPB_01704	gene	657				
+BPKGAMPB_01704	CDS	657				hypothetical protein
+BPKGAMPB_01705	gene	1008	purA			
+BPKGAMPB_01705	CDS	1008	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+BPKGAMPB_01706	gene	462				
+BPKGAMPB_01706	CDS	462				hypothetical protein
+BPKGAMPB_01707	gene	276				
+BPKGAMPB_01707	CDS	276				hypothetical protein
+BPKGAMPB_01708	gene	1476	sasA_8			
+BPKGAMPB_01708	CDS	1476	sasA_8	2.7.-.-		Adaptive-response sensory-kinase SasA
+BPKGAMPB_01709	gene	207				
+BPKGAMPB_01709	CDS	207				hypothetical protein
+BPKGAMPB_01710	gene	645				
+BPKGAMPB_01710	CDS	645				hypothetical protein
+BPKGAMPB_01711	gene	291				
+BPKGAMPB_01711	CDS	291				hypothetical protein
+BPKGAMPB_01712	gene	105				
+BPKGAMPB_01712	CDS	105				hypothetical protein
+BPKGAMPB_01713	gene	111				
+BPKGAMPB_01713	CDS	111				hypothetical protein
+BPKGAMPB_01714	gene	591	ywlC			
+BPKGAMPB_01714	CDS	591	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+BPKGAMPB_01715	gene	522				
+BPKGAMPB_01715	CDS	522				hypothetical protein
+BPKGAMPB_01716	gene	780				
+BPKGAMPB_01716	CDS	780				hypothetical protein
+BPKGAMPB_01717	gene	228				
+BPKGAMPB_01717	CDS	228				hypothetical protein
+BPKGAMPB_01718	gene	756	dtd3			
+BPKGAMPB_01718	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+BPKGAMPB_01719	gene	222				
+BPKGAMPB_01719	CDS	222				hypothetical protein
+BPKGAMPB_01720	gene	72				
+BPKGAMPB_01720	tRNA	72				tRNA-Cys(gca)
+BPKGAMPB_01721	gene	1755				
+BPKGAMPB_01721	CDS	1755				hypothetical protein
+BPKGAMPB_01722	gene	579				
+BPKGAMPB_01722	CDS	579				hypothetical protein
+BPKGAMPB_01723	gene	282				
+BPKGAMPB_01723	CDS	282				hypothetical protein
+BPKGAMPB_01724	gene	74				
+BPKGAMPB_01724	tRNA	74				tRNA-Thr(cgt)
+BPKGAMPB_01725	gene	1299	algC			
+BPKGAMPB_01725	CDS	1299	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+BPKGAMPB_01726	gene	960	thiL			
+BPKGAMPB_01726	CDS	960	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+BPKGAMPB_01727	gene	405	rpsK			
+BPKGAMPB_01727	CDS	405	rpsK		COG0100	30S ribosomal protein S11
+BPKGAMPB_01728	gene	324				
+BPKGAMPB_01728	CDS	324				hypothetical protein
+BPKGAMPB_01729	gene	486				
+BPKGAMPB_01729	CDS	486				hypothetical protein
+BPKGAMPB_01730	gene	1452	rtcB			
+BPKGAMPB_01730	CDS	1452	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+BPKGAMPB_01731	gene	135				
+BPKGAMPB_01731	CDS	135				hypothetical protein
+BPKGAMPB_01732	gene	1362	purB			
+BPKGAMPB_01732	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+BPKGAMPB_01733	gene	792				
+BPKGAMPB_01733	CDS	792				hypothetical protein
+BPKGAMPB_01734	gene	282	phhB			
+BPKGAMPB_01734	CDS	282	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+BPKGAMPB_01735	gene	822				
+BPKGAMPB_01735	CDS	822				hypothetical protein
+BPKGAMPB_01736	gene	2316	valS_2			
+BPKGAMPB_01736	CDS	2316	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+BPKGAMPB_01737	gene	369				
+BPKGAMPB_01737	CDS	369				hypothetical protein
+BPKGAMPB_01738	gene	579				
+BPKGAMPB_01738	CDS	579		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+BPKGAMPB_01739	gene	999	ccr_2			
+BPKGAMPB_01739	CDS	999	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+BPKGAMPB_01740	gene	234				
+BPKGAMPB_01740	CDS	234				hypothetical protein
+BPKGAMPB_01741	gene	2283	acnA			
+BPKGAMPB_01741	CDS	2283	acnA	4.2.1.3		Aconitate hydratase A
+BPKGAMPB_01742	gene	618	pdxT			
+BPKGAMPB_01742	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+BPKGAMPB_01743	gene	969	pdxS			
+BPKGAMPB_01743	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+BPKGAMPB_01744	gene	534				
+BPKGAMPB_01744	CDS	534				hypothetical protein
+BPKGAMPB_01745	gene	633				
+BPKGAMPB_01745	CDS	633				hypothetical protein
+BPKGAMPB_01746	gene	567				
+BPKGAMPB_01746	CDS	567				hypothetical protein
+BPKGAMPB_01747	gene	420				
+BPKGAMPB_01747	CDS	420				hypothetical protein
+BPKGAMPB_01748	gene	1638				
+BPKGAMPB_01748	CDS	1638				hypothetical protein
+BPKGAMPB_01749	gene	1470				
+BPKGAMPB_01749	CDS	1470				hypothetical protein
+BPKGAMPB_01750	gene	1116				
+BPKGAMPB_01750	CDS	1116				hypothetical protein
+BPKGAMPB_01751	gene	282				
+BPKGAMPB_01751	CDS	282				hypothetical protein
+BPKGAMPB_01752	gene	300				
+BPKGAMPB_01752	CDS	300				hypothetical protein
+BPKGAMPB_01753	gene	468				
+BPKGAMPB_01753	CDS	468				hypothetical protein
+BPKGAMPB_01754	gene	1023				
+BPKGAMPB_01754	CDS	1023				hypothetical protein
+BPKGAMPB_01755	gene	267				
+BPKGAMPB_01755	CDS	267				hypothetical protein
+BPKGAMPB_01756	gene	552				
+BPKGAMPB_01756	CDS	552				hypothetical protein
+BPKGAMPB_01757	gene	183				
+BPKGAMPB_01757	CDS	183				hypothetical protein
+BPKGAMPB_01758	gene	1128				
+BPKGAMPB_01758	CDS	1128				hypothetical protein
+BPKGAMPB_01759	gene	591				
+BPKGAMPB_01759	CDS	591				hypothetical protein
+BPKGAMPB_01760	gene	369				
+BPKGAMPB_01760	CDS	369				hypothetical protein
+BPKGAMPB_01761	gene	168				
+BPKGAMPB_01761	CDS	168				hypothetical protein
+BPKGAMPB_01762	gene	1491				
+BPKGAMPB_01762	CDS	1491				hypothetical protein
+BPKGAMPB_01763	gene	72				
+BPKGAMPB_01763	tRNA	72				tRNA-Ala(tgc)
+BPKGAMPB_01764	gene	561	resA_2			
+BPKGAMPB_01764	CDS	561	resA_2			Thiol-disulfide oxidoreductase ResA
+BPKGAMPB_01765	gene	351				
+BPKGAMPB_01765	CDS	351				hypothetical protein
+BPKGAMPB_01766	gene	900				
+BPKGAMPB_01766	CDS	900				hypothetical protein
+BPKGAMPB_01767	gene	387				
+BPKGAMPB_01767	CDS	387				hypothetical protein
+BPKGAMPB_01768	gene	74				
+BPKGAMPB_01768	tRNA	74				tRNA-Thr(ggt)
+BPKGAMPB_01769	gene	1332	rcsC_8			
+BPKGAMPB_01769	CDS	1332	rcsC_8	2.7.13.3		Sensor histidine kinase RcsC
+BPKGAMPB_01770	gene	555				
+BPKGAMPB_01770	CDS	555				hypothetical protein
+BPKGAMPB_01771	gene	864	dpnM			
+BPKGAMPB_01771	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+BPKGAMPB_01772	gene	651				
+BPKGAMPB_01772	CDS	651				hypothetical protein
+BPKGAMPB_01773	gene	363				
+BPKGAMPB_01773	CDS	363				hypothetical protein
+BPKGAMPB_01774	gene	564				
+BPKGAMPB_01774	CDS	564				hypothetical protein
+BPKGAMPB_01775	gene	567				
+BPKGAMPB_01775	CDS	567				hypothetical protein
+BPKGAMPB_01776	gene	279				
+BPKGAMPB_01776	CDS	279				hypothetical protein
+BPKGAMPB_01777	gene	690				
+BPKGAMPB_01777	CDS	690				hypothetical protein
+BPKGAMPB_01778	gene	210				
+BPKGAMPB_01778	CDS	210				hypothetical protein
+BPKGAMPB_01779	gene	1542	nrgA_3			
+BPKGAMPB_01779	CDS	1542	nrgA_3			Ammonium transporter
+BPKGAMPB_01780	gene	168				
+BPKGAMPB_01780	CDS	168				hypothetical protein
+BPKGAMPB_01781	gene	492				
+BPKGAMPB_01781	CDS	492				hypothetical protein
+BPKGAMPB_01782	gene	471				
+BPKGAMPB_01782	CDS	471				hypothetical protein
+BPKGAMPB_01783	gene	252				
+BPKGAMPB_01783	CDS	252				hypothetical protein
+BPKGAMPB_01784	gene	750				
+BPKGAMPB_01784	CDS	750				hypothetical protein
+BPKGAMPB_01785	gene	348	glnB_2			
+BPKGAMPB_01785	CDS	348	glnB_2		COG0347	Nitrogen regulatory protein P-II
+BPKGAMPB_01786	gene	522				
+BPKGAMPB_01786	CDS	522				hypothetical protein
+BPKGAMPB_01787	gene	267				
+BPKGAMPB_01787	CDS	267				hypothetical protein
+BPKGAMPB_01788	gene	300				
+BPKGAMPB_01788	CDS	300				hypothetical protein
+BPKGAMPB_01789	gene	450				
+BPKGAMPB_01789	CDS	450				hypothetical protein
+BPKGAMPB_01790	gene	1419				
+BPKGAMPB_01790	CDS	1419				hypothetical protein
+BPKGAMPB_01791	gene	243				
+BPKGAMPB_01791	CDS	243				hypothetical protein
+BPKGAMPB_01792	gene	1263	serS			
+BPKGAMPB_01792	CDS	1263	serS	6.1.1.11		Serine--tRNA ligase
+BPKGAMPB_01793	gene	615				
+BPKGAMPB_01793	CDS	615				hypothetical protein
+BPKGAMPB_01794	gene	423				
+BPKGAMPB_01794	CDS	423				hypothetical protein
+BPKGAMPB_01795	gene	1452				
+BPKGAMPB_01795	CDS	1452				hypothetical protein
+BPKGAMPB_01796	gene	801	nirQ			
+BPKGAMPB_01796	CDS	801	nirQ		COG0714	Denitrification regulatory protein NirQ
+BPKGAMPB_01797	gene	1566				
+BPKGAMPB_01797	CDS	1566				hypothetical protein
+BPKGAMPB_01798	gene	480				
+BPKGAMPB_01798	CDS	480				hypothetical protein
+BPKGAMPB_01799	gene	666	tal			
+BPKGAMPB_01799	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+BPKGAMPB_01800	gene	969	aptB			
+BPKGAMPB_01800	CDS	969	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+BPKGAMPB_01801	gene	1668	dxs			
+BPKGAMPB_01801	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+BPKGAMPB_01802	gene	465				
+BPKGAMPB_01802	CDS	465				hypothetical protein
+BPKGAMPB_01803	gene	129				
+BPKGAMPB_01803	CDS	129				hypothetical protein
+BPKGAMPB_01804	gene	258				
+BPKGAMPB_01804	CDS	258				hypothetical protein
+BPKGAMPB_01805	gene	109				
+BPKGAMPB_01805	rRNA	109				5S ribosomal RNA
+BPKGAMPB_01806	gene	1785	btuD_2			
+BPKGAMPB_01806	CDS	1785	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+BPKGAMPB_01807	gene	828				
+BPKGAMPB_01807	CDS	828				hypothetical protein
+BPKGAMPB_01808	gene	222				
+BPKGAMPB_01808	CDS	222				hypothetical protein
+BPKGAMPB_01809	gene	501	mshD			
+BPKGAMPB_01809	CDS	501	mshD	2.3.1.189		Mycothiol acetyltransferase
+BPKGAMPB_01810	gene	924				
+BPKGAMPB_01810	CDS	924				hypothetical protein
+BPKGAMPB_01811	gene	1089				
+BPKGAMPB_01811	CDS	1089				hypothetical protein
+BPKGAMPB_01812	gene	609	pyrE			
+BPKGAMPB_01812	CDS	609	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+BPKGAMPB_01813	gene	564				
+BPKGAMPB_01813	CDS	564				hypothetical protein
+BPKGAMPB_01814	gene	75				
+BPKGAMPB_01814	tRNA	75				tRNA-Met(cat)
+BPKGAMPB_01815	gene	639				
+BPKGAMPB_01815	CDS	639		1.-.-.-	COG5424	putative oxidoreductase CT_610
+BPKGAMPB_01816	gene	852	ispB			
+BPKGAMPB_01816	CDS	852	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+BPKGAMPB_01817	gene	1488	nuoN			
+BPKGAMPB_01817	CDS	1488	nuoN	7.1.1.-	COG1007	NADH-quinone oxidoreductase subunit N
+BPKGAMPB_01818	gene	2085	ndhB			
+BPKGAMPB_01818	CDS	2085	ndhB	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+BPKGAMPB_01819	gene	1557	ndhD			
+BPKGAMPB_01819	CDS	1557	ndhD	7.1.1.-		NAD(P)H-quinone oxidoreductase chain 4
+BPKGAMPB_01820	gene	306	nuoK			
+BPKGAMPB_01820	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+BPKGAMPB_01821	gene	513				
+BPKGAMPB_01821	CDS	513				hypothetical protein
+BPKGAMPB_01822	gene	498	nuoI			
+BPKGAMPB_01822	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+BPKGAMPB_01823	gene	1302	ndhA			
+BPKGAMPB_01823	CDS	1302	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+BPKGAMPB_01824	gene	1134	nqo4			
+BPKGAMPB_01824	CDS	1134	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+BPKGAMPB_01825	gene	663	ndhJ			
+BPKGAMPB_01825	CDS	663	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+BPKGAMPB_01826	gene	528	ndhK_2			
+BPKGAMPB_01826	CDS	528	ndhK_2	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+BPKGAMPB_01827	gene	417	ndhC			
+BPKGAMPB_01827	CDS	417	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+BPKGAMPB_01828	gene	465	bcp_4			
+BPKGAMPB_01828	CDS	465	bcp_4	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+BPKGAMPB_01829	gene	513				
+BPKGAMPB_01829	CDS	513				hypothetical protein
+BPKGAMPB_01830	gene	1494	cfiB			
+BPKGAMPB_01830	CDS	1494	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+BPKGAMPB_01831	gene	1548	pccB			
+BPKGAMPB_01831	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+BPKGAMPB_01832	gene	273				
+BPKGAMPB_01832	CDS	273				hypothetical protein
+BPKGAMPB_01833	gene	318				
+BPKGAMPB_01833	CDS	318				hypothetical protein
+BPKGAMPB_01834	gene	1161				
+BPKGAMPB_01834	CDS	1161				hypothetical protein
+BPKGAMPB_01835	gene	1131				
+BPKGAMPB_01835	CDS	1131				hypothetical protein
+BPKGAMPB_01836	gene	813	cysQ			
+BPKGAMPB_01836	CDS	813	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+BPKGAMPB_01837	gene	75				
+BPKGAMPB_01837	tRNA	75				tRNA-Lys(ttt)
+BPKGAMPB_01838	gene	210				
+BPKGAMPB_01838	CDS	210				hypothetical protein
+BPKGAMPB_01839	gene	1470	argH			
+BPKGAMPB_01839	CDS	1470	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+BPKGAMPB_01840	gene	321				
+BPKGAMPB_01840	CDS	321				hypothetical protein
+BPKGAMPB_01841	gene	774	frdB			
+BPKGAMPB_01841	CDS	774	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+BPKGAMPB_01842	gene	345				
+BPKGAMPB_01842	CDS	345				hypothetical protein
+BPKGAMPB_01843	gene	435				
+BPKGAMPB_01843	CDS	435				hypothetical protein
+BPKGAMPB_01844	gene	1713	frdA			
+BPKGAMPB_01844	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+BPKGAMPB_01845	gene	861	Dml			
+BPKGAMPB_01845	CDS	861	Dml	4.1.3.32		2,3-dimethylmalate lyase
+BPKGAMPB_01846	gene	285				
+BPKGAMPB_01846	CDS	285				hypothetical protein
+BPKGAMPB_01847	gene	408				
+BPKGAMPB_01847	CDS	408				hypothetical protein
+BPKGAMPB_01848	gene	75				
+BPKGAMPB_01848	tRNA	75				tRNA-Ala(ggc)
+BPKGAMPB_01849	gene	843	mimB			
+BPKGAMPB_01849	CDS	843	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+BPKGAMPB_01850	gene	74				
+BPKGAMPB_01850	tRNA	74				tRNA-Pro(cgg)
+BPKGAMPB_01851	gene	633				
+BPKGAMPB_01851	CDS	633				hypothetical protein
+BPKGAMPB_01852	gene	918	ilvE_2			
+BPKGAMPB_01852	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+BPKGAMPB_01853	gene	936	iolG_2			
+BPKGAMPB_01853	CDS	936	iolG_2	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+BPKGAMPB_01854	gene	270				
+BPKGAMPB_01854	CDS	270				hypothetical protein
+BPKGAMPB_01855	gene	477	fdtC			
+BPKGAMPB_01855	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+BPKGAMPB_01856	gene	234				
+BPKGAMPB_01856	CDS	234				hypothetical protein
+BPKGAMPB_01857	gene	993	tagO			
+BPKGAMPB_01857	CDS	993	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+BPKGAMPB_01858	gene	2124				
+BPKGAMPB_01858	CDS	2124				hypothetical protein
+BPKGAMPB_01859	gene	2082				
+BPKGAMPB_01859	CDS	2082				hypothetical protein
+BPKGAMPB_01860	gene	540				
+BPKGAMPB_01860	CDS	540				hypothetical protein
+BPKGAMPB_01861	gene	954				
+BPKGAMPB_01861	CDS	954				hypothetical protein
+BPKGAMPB_01862	gene	85				
+BPKGAMPB_01862	tRNA	85				tRNA-Ser(tga)
+BPKGAMPB_01863	gene	534	napF			
+BPKGAMPB_01863	CDS	534	napF			Ferredoxin-type protein NapF
+BPKGAMPB_01864	gene	447	ndhI_2			
+BPKGAMPB_01864	CDS	447	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BPKGAMPB_01865	gene	672				
+BPKGAMPB_01865	CDS	672				hypothetical protein
+BPKGAMPB_01866	gene	1275	hisS			
+BPKGAMPB_01866	CDS	1275	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+BPKGAMPB_01867	gene	417				
+BPKGAMPB_01867	CDS	417				Protein archease
+BPKGAMPB_01868	gene	381				
+BPKGAMPB_01868	CDS	381				hypothetical protein
+BPKGAMPB_01869	gene	1785	infB			
+BPKGAMPB_01869	CDS	1785	infB			Translation initiation factor IF-2
+BPKGAMPB_01870	gene	402	ndk			
+BPKGAMPB_01870	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+BPKGAMPB_01871	gene	204				
+BPKGAMPB_01871	CDS	204				hypothetical protein
+BPKGAMPB_01872	gene	207				
+BPKGAMPB_01872	CDS	207				hypothetical protein
+BPKGAMPB_01873	gene	396				
+BPKGAMPB_01873	CDS	396				hypothetical protein
+BPKGAMPB_01874	gene	1347	glmM			
+BPKGAMPB_01874	CDS	1347	glmM	5.4.2.10		Phosphoglucosamine mutase
+BPKGAMPB_01875	gene	87				
+BPKGAMPB_01875	tRNA	87				tRNA-Leu(tag)
+BPKGAMPB_01876	gene	1119				
+BPKGAMPB_01876	CDS	1119				hypothetical protein
+BPKGAMPB_01877	gene	675				
+BPKGAMPB_01877	CDS	675				hypothetical protein
+BPKGAMPB_01878	gene	180				
+BPKGAMPB_01878	CDS	180				hypothetical protein
+BPKGAMPB_01879	gene	1191				
+BPKGAMPB_01879	CDS	1191				hypothetical protein
+BPKGAMPB_01880	gene	279				
+BPKGAMPB_01880	CDS	279				hypothetical protein
+BPKGAMPB_01881	gene	1578				
+BPKGAMPB_01881	CDS	1578				hypothetical protein
+BPKGAMPB_01882	gene	1386				
+BPKGAMPB_01882	CDS	1386				hypothetical protein
+BPKGAMPB_01883	gene	1149				
+BPKGAMPB_01883	CDS	1149				hypothetical protein
+BPKGAMPB_01884	gene	189				
+BPKGAMPB_01884	CDS	189				hypothetical protein
+BPKGAMPB_01885	gene	564				
+BPKGAMPB_01885	CDS	564				hypothetical protein
+BPKGAMPB_01886	gene	921				
+BPKGAMPB_01886	CDS	921				hypothetical protein
+BPKGAMPB_01887	gene	708				
+BPKGAMPB_01887	CDS	708				hypothetical protein
+BPKGAMPB_01888	gene	165				
+BPKGAMPB_01888	CDS	165				hypothetical protein
+BPKGAMPB_01889	gene	378				
+BPKGAMPB_01889	CDS	378				hypothetical protein
+BPKGAMPB_01890	gene	138				
+BPKGAMPB_01890	CDS	138				hypothetical protein
+BPKGAMPB_01891	gene	1185				
+BPKGAMPB_01891	CDS	1185				hypothetical protein
+BPKGAMPB_01892	gene	636				
+BPKGAMPB_01892	CDS	636				hypothetical protein
+BPKGAMPB_01893	gene	855	purU			
+BPKGAMPB_01893	CDS	855	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+BPKGAMPB_01894	gene	711	mftE			
+BPKGAMPB_01894	CDS	711	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+BPKGAMPB_01895	gene	231				
+BPKGAMPB_01895	CDS	231				hypothetical protein
+BPKGAMPB_01896	gene	939				
+BPKGAMPB_01896	CDS	939				hypothetical protein
+BPKGAMPB_01897	gene	675	rpiA			
+BPKGAMPB_01897	CDS	675	rpiA	5.3.1.6		Ribose-5-phosphate isomerase A
+BPKGAMPB_01898	gene	909	ttuA			
+BPKGAMPB_01898	CDS	909	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+BPKGAMPB_01899	gene	313				
+BPKGAMPB_01899	misc_RNA	313				Archaea_SRP
+BPKGAMPB_01900	gene	330				
+BPKGAMPB_01900	CDS	330				hypothetical protein
+BPKGAMPB_01901	gene	279	acyP			
+BPKGAMPB_01901	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+BPKGAMPB_01902	gene	732				
+BPKGAMPB_01902	CDS	732				hypothetical protein
+BPKGAMPB_01903	gene	2202	ftsH_5			
+BPKGAMPB_01903	CDS	2202	ftsH_5	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BPKGAMPB_01904	gene	1287				
+BPKGAMPB_01904	CDS	1287				hypothetical protein
+BPKGAMPB_01905	gene	1908	GATB			
+BPKGAMPB_01905	CDS	1908	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+BPKGAMPB_01906	gene	87				
+BPKGAMPB_01906	tRNA	87				tRNA-Leu(cag)
+BPKGAMPB_01907	gene	555				
+BPKGAMPB_01907	CDS	555				hypothetical protein
+BPKGAMPB_01908	gene	1110	dnaJ_5			
+BPKGAMPB_01908	CDS	1110	dnaJ_5		COG0484	Chaperone protein DnaJ
+BPKGAMPB_01909	gene	1848	dnaK			
+BPKGAMPB_01909	CDS	1848	dnaK		COG0443	Chaperone protein DnaK
+BPKGAMPB_01910	gene	570	grpE			
+BPKGAMPB_01910	CDS	570	grpE			Protein GrpE
+BPKGAMPB_01911	gene	1071				
+BPKGAMPB_01911	CDS	1071				hypothetical protein
+BPKGAMPB_01912	gene	969				
+BPKGAMPB_01912	CDS	969				hypothetical protein
+BPKGAMPB_01913	gene	1317				
+BPKGAMPB_01913	CDS	1317				hypothetical protein
+BPKGAMPB_01914	gene	1218	thrC			
+BPKGAMPB_01914	CDS	1218	thrC	4.2.3.1	COG0498	Threonine synthase
+BPKGAMPB_01915	gene	504				
+BPKGAMPB_01915	CDS	504				hypothetical protein
+BPKGAMPB_01916	gene	330	hisI			
+BPKGAMPB_01916	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+BPKGAMPB_01917	gene	804	hisF			
+BPKGAMPB_01917	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+BPKGAMPB_01918	gene	708	priA			
+BPKGAMPB_01918	CDS	708	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+BPKGAMPB_01919	gene	606	hisH			
+BPKGAMPB_01919	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+BPKGAMPB_01920	gene	588	hisB			
+BPKGAMPB_01920	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+BPKGAMPB_01921	gene	987				
+BPKGAMPB_01921	CDS	987				hypothetical protein
+BPKGAMPB_01922	gene	1071	hisC			
+BPKGAMPB_01922	CDS	1071	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+BPKGAMPB_01923	gene	1272	hisD			
+BPKGAMPB_01923	CDS	1272	hisD	1.1.1.23		Histidinol dehydrogenase
+BPKGAMPB_01924	gene	978	hisG			
+BPKGAMPB_01924	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+BPKGAMPB_01925	gene	1254	mvaA			
+BPKGAMPB_01925	CDS	1254	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+BPKGAMPB_01926	gene	1095				
+BPKGAMPB_01926	CDS	1095				hypothetical protein
+BPKGAMPB_01927	gene	1326				
+BPKGAMPB_01927	CDS	1326				hypothetical protein
+BPKGAMPB_01928	gene	231				
+BPKGAMPB_01928	CDS	231				hypothetical protein
+BPKGAMPB_01929	gene	996				
+BPKGAMPB_01929	CDS	996				hypothetical protein
+BPKGAMPB_01930	gene	990				
+BPKGAMPB_01930	CDS	990				hypothetical protein
+BPKGAMPB_01931	gene	3201	petE_5			
+BPKGAMPB_01931	CDS	3201	petE_5			Plastocyanin
+BPKGAMPB_01932	gene	171				
+BPKGAMPB_01932	CDS	171				hypothetical protein
+BPKGAMPB_01933	gene	909				
+BPKGAMPB_01933	CDS	909				hypothetical protein
+BPKGAMPB_01934	gene	180				
+BPKGAMPB_01934	CDS	180				hypothetical protein
+BPKGAMPB_01935	gene	1110	xerC_1			
+BPKGAMPB_01935	CDS	1110	xerC_1			Tyrosine recombinase XerC
+BPKGAMPB_01936	gene	555				
+BPKGAMPB_01936	CDS	555				hypothetical protein
+BPKGAMPB_01937	gene	816	pheA			
+BPKGAMPB_01937	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+BPKGAMPB_01938	gene	465				
+BPKGAMPB_01938	CDS	465				hypothetical protein
+BPKGAMPB_01939	gene	1440	guaB			
+BPKGAMPB_01939	CDS	1440	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+BPKGAMPB_01940	gene	846	folP			
+BPKGAMPB_01940	CDS	846	folP	2.5.1.15		Dihydropteroate synthase
+BPKGAMPB_01941	gene	738				
+BPKGAMPB_01941	CDS	738				hypothetical protein
+BPKGAMPB_01942	gene	558				
+BPKGAMPB_01942	CDS	558				hypothetical protein
+BPKGAMPB_01943	gene	1524	guaA_2			
+BPKGAMPB_01943	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+BPKGAMPB_01944	gene	1446				
+BPKGAMPB_01944	CDS	1446				hypothetical protein
+BPKGAMPB_01945	gene	1014	RBKS_1			
+BPKGAMPB_01945	CDS	1014	RBKS_1	2.7.1.15		Ribokinase
+BPKGAMPB_01946	gene	1623	groL_2			
+BPKGAMPB_01946	CDS	1623	groL_2		COG0459	60 kDa chaperonin
+BPKGAMPB_01947	gene	1773	ade			
+BPKGAMPB_01947	CDS	1773	ade	3.5.4.2	COG1001	Adenine deaminase
+BPKGAMPB_01948	gene	279				
+BPKGAMPB_01948	CDS	279				hypothetical protein
+BPKGAMPB_01949	gene	198				
+BPKGAMPB_01949	CDS	198				hypothetical protein
+BPKGAMPB_01950	gene	585	mobA			
+BPKGAMPB_01950	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+BPKGAMPB_01951	gene	726	cobS			
+BPKGAMPB_01951	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+BPKGAMPB_01952	gene	993	cobD_1			
+BPKGAMPB_01952	CDS	993	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+BPKGAMPB_01953	gene	846	cobQ			
+BPKGAMPB_01953	CDS	846	cobQ		COG1492	Cobyric acid synthase
+BPKGAMPB_01954	gene	1080	cobD_2			
+BPKGAMPB_01954	CDS	1080	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+BPKGAMPB_01955	gene	1077	asd2			
+BPKGAMPB_01955	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+BPKGAMPB_01956	gene	459	lrp_2			
+BPKGAMPB_01956	CDS	459	lrp_2		COG1522	Leucine-responsive regulatory protein
+BPKGAMPB_01957	gene	906	ctaB_2			
+BPKGAMPB_01957	CDS	906	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+BPKGAMPB_01958	gene	1335	bsdC			
+BPKGAMPB_01958	CDS	1335	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+BPKGAMPB_01959	gene	339				
+BPKGAMPB_01959	CDS	339				hypothetical protein
+BPKGAMPB_01960	gene	378				
+BPKGAMPB_01960	CDS	378				hypothetical protein
+BPKGAMPB_01961	gene	624				
+BPKGAMPB_01961	CDS	624				hypothetical protein
+BPKGAMPB_01962	gene	342				
+BPKGAMPB_01962	CDS	342				hypothetical protein
+BPKGAMPB_01963	gene	468				
+BPKGAMPB_01963	CDS	468				hypothetical protein
+BPKGAMPB_01964	gene	1044				
+BPKGAMPB_01964	CDS	1044				hypothetical protein
+BPKGAMPB_01965	gene	1149	hflX			
+BPKGAMPB_01965	CDS	1149	hflX		COG2262	GTPase HflX
+BPKGAMPB_01966	gene	531				
+BPKGAMPB_01966	CDS	531				hypothetical protein
+BPKGAMPB_01967	gene	510				
+BPKGAMPB_01967	CDS	510				hypothetical protein
+BPKGAMPB_01968	gene	645	ribD2			
+BPKGAMPB_01968	CDS	645	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+BPKGAMPB_01969	gene	1191	dadD			
+BPKGAMPB_01969	CDS	1191	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+BPKGAMPB_01970	gene	753				
+BPKGAMPB_01970	CDS	753				hypothetical protein
+BPKGAMPB_01971	gene	417	ribH			
+BPKGAMPB_01971	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+BPKGAMPB_01972	gene	681	ribBA			
+BPKGAMPB_01972	CDS	681	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+BPKGAMPB_01973	gene	591	ribE			
+BPKGAMPB_01973	CDS	591	ribE	2.5.1.9	COG0307	Riboflavin synthase
+BPKGAMPB_01974	gene	855	citE			
+BPKGAMPB_01974	CDS	855	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+BPKGAMPB_01975	gene	1050	ccr_3			
+BPKGAMPB_01975	CDS	1050	ccr_3	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+BPKGAMPB_01976	gene	279				
+BPKGAMPB_01976	CDS	279				hypothetical protein
+BPKGAMPB_01977	gene	453				
+BPKGAMPB_01977	CDS	453				hypothetical protein
+BPKGAMPB_01978	gene	321				
+BPKGAMPB_01978	CDS	321				hypothetical protein
+BPKGAMPB_01979	gene	669				
+BPKGAMPB_01979	CDS	669				hypothetical protein
+BPKGAMPB_01980	gene	74				
+BPKGAMPB_01980	tRNA	74				tRNA-Gly(tcc)
+BPKGAMPB_01981	gene	1143				
+BPKGAMPB_01981	CDS	1143				hypothetical protein
+BPKGAMPB_01982	gene	1134				
+BPKGAMPB_01982	CDS	1134				hypothetical protein
+BPKGAMPB_01983	gene	2658				
+BPKGAMPB_01983	CDS	2658				hypothetical protein
+BPKGAMPB_01984	gene	2097				
+BPKGAMPB_01984	CDS	2097				hypothetical protein
+BPKGAMPB_01985	gene	162				
+BPKGAMPB_01985	CDS	162				hypothetical protein
+BPKGAMPB_01986	gene	396				
+BPKGAMPB_01986	CDS	396				hypothetical protein
+BPKGAMPB_01987	gene	1155	fadA_2			
+BPKGAMPB_01987	CDS	1155	fadA_2	2.3.1.16		3-ketoacyl-CoA thiolase
+BPKGAMPB_01988	gene	465				
+BPKGAMPB_01988	CDS	465				hypothetical protein
+BPKGAMPB_01989	gene	810	ybeM			
+BPKGAMPB_01989	CDS	810	ybeM	3.5.1.128		Deaminated glutathione amidase
+BPKGAMPB_01990	gene	177				
+BPKGAMPB_01990	CDS	177				hypothetical protein
+BPKGAMPB_01991	gene	747	gluP			
+BPKGAMPB_01991	CDS	747	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+BPKGAMPB_01992	gene	1674				
+BPKGAMPB_01992	CDS	1674				hypothetical protein
+BPKGAMPB_01993	gene	1122				
+BPKGAMPB_01993	CDS	1122				hypothetical protein
+BPKGAMPB_01994	gene	549	petE_6			
+BPKGAMPB_01994	CDS	549	petE_6			Plastocyanin
+BPKGAMPB_01995	gene	909	petE_7			
+BPKGAMPB_01995	CDS	909	petE_7			Plastocyanin
+BPKGAMPB_01996	gene	849	mntB			
+BPKGAMPB_01996	CDS	849	mntB			Manganese transport system membrane protein MntB
+BPKGAMPB_01997	gene	804	scaC			
+BPKGAMPB_01997	CDS	804	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+BPKGAMPB_01998	gene	972	znuA			
+BPKGAMPB_01998	CDS	972	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+BPKGAMPB_01999	gene	384	nikR			
+BPKGAMPB_01999	CDS	384	nikR			Nickel-responsive regulator
+BPKGAMPB_02000	gene	933	pyrB			
+BPKGAMPB_02000	CDS	933	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+BPKGAMPB_02001	gene	486	pyrI			
+BPKGAMPB_02001	CDS	486	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+BPKGAMPB_02002	gene	2016				
+BPKGAMPB_02002	CDS	2016				hypothetical protein
+BPKGAMPB_02003	gene	324				
+BPKGAMPB_02003	CDS	324				hypothetical protein
+BPKGAMPB_02004	gene	126				
+BPKGAMPB_02004	CDS	126				hypothetical protein
+BPKGAMPB_02005	gene	669	atpD			
+BPKGAMPB_02005	CDS	669	atpD		COG1394	V-type ATP synthase subunit D
+BPKGAMPB_02006	gene	1389	ntpB			
+BPKGAMPB_02006	CDS	1389	ntpB			V-type sodium ATPase subunit B
+BPKGAMPB_02007	gene	1764	atpA			
+BPKGAMPB_02007	CDS	1764	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+BPKGAMPB_02008	gene	342	atpF			
+BPKGAMPB_02008	CDS	342	atpF			V-type ATP synthase subunit F
+BPKGAMPB_02009	gene	1068	atpC			
+BPKGAMPB_02009	CDS	1068	atpC			V-type ATP synthase subunit C
+BPKGAMPB_02010	gene	555	atpE			
+BPKGAMPB_02010	CDS	555	atpE			V-type proton ATPase subunit E
+BPKGAMPB_02011	gene	348				
+BPKGAMPB_02011	CDS	348				hypothetical protein
+BPKGAMPB_02012	gene	786	rhdA			
+BPKGAMPB_02012	CDS	786	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+BPKGAMPB_02013	gene	681				
+BPKGAMPB_02013	CDS	681				hypothetical protein
+BPKGAMPB_02014	gene	570				
+BPKGAMPB_02014	CDS	570				hypothetical protein
+BPKGAMPB_02015	gene	576				
+BPKGAMPB_02015	CDS	576				hypothetical protein
+BPKGAMPB_02016	gene	264				
+BPKGAMPB_02016	CDS	264				hypothetical protein
+BPKGAMPB_02017	gene	678	pyrH			
+BPKGAMPB_02017	CDS	678	pyrH	2.7.4.22		Uridylate kinase
+BPKGAMPB_02018	gene	1248				
+BPKGAMPB_02018	CDS	1248				hypothetical protein
+BPKGAMPB_02019	gene	579	tmk_3			
+BPKGAMPB_02019	CDS	579	tmk_3	2.7.4.9	COG0125	Thymidylate kinase
+BPKGAMPB_02020	gene	402				
+BPKGAMPB_02020	CDS	402				hypothetical protein
+BPKGAMPB_02021	gene	1506				
+BPKGAMPB_02021	CDS	1506				hypothetical protein
+BPKGAMPB_02022	gene	1338	ubiB			
+BPKGAMPB_02022	CDS	1338	ubiB	2.7.-.-		protein kinase UbiB
+BPKGAMPB_02023	gene	393				
+BPKGAMPB_02023	CDS	393				hypothetical protein
+BPKGAMPB_02024	gene	1659				
+BPKGAMPB_02024	CDS	1659				hypothetical protein
+BPKGAMPB_02025	gene	699	lolD			
+BPKGAMPB_02025	CDS	699	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+BPKGAMPB_02026	gene	1197				
+BPKGAMPB_02026	CDS	1197				hypothetical protein
+BPKGAMPB_02027	gene	930				
+BPKGAMPB_02027	CDS	930				hypothetical protein
+BPKGAMPB_02028	gene	513	nudF			
+BPKGAMPB_02028	CDS	513	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+BPKGAMPB_02029	gene	978				
+BPKGAMPB_02029	CDS	978				hypothetical protein
+BPKGAMPB_02030	gene	885	thrB_4			
+BPKGAMPB_02030	CDS	885	thrB_4	2.7.1.39		Homoserine kinase
+BPKGAMPB_02031	gene	747				
+BPKGAMPB_02031	CDS	747				hypothetical protein
+BPKGAMPB_02032	gene	834	panB			
+BPKGAMPB_02032	CDS	834	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+BPKGAMPB_02033	gene	1236	coaBC			
+BPKGAMPB_02033	CDS	1236	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+BPKGAMPB_02034	gene	234				
+BPKGAMPB_02034	CDS	234				hypothetical protein
+BPKGAMPB_02035	gene	1062	pepE			
+BPKGAMPB_02035	CDS	1062	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+BPKGAMPB_02036	gene	1005	thiI_2			
+BPKGAMPB_02036	CDS	1005	thiI_2	2.8.1.4		tRNA sulfurtransferase
+BPKGAMPB_02037	gene	279				
+BPKGAMPB_02037	CDS	279				hypothetical protein
+BPKGAMPB_02038	gene	1932	rnj			
+BPKGAMPB_02038	CDS	1932	rnj	3.1.-.-		Ribonuclease J
+BPKGAMPB_02039	gene	633	prcB_3			
+BPKGAMPB_02039	CDS	633	prcB_3	3.4.25.1	COG0638	Proteasome subunit beta
+BPKGAMPB_02040	gene	1041	aroB			
+BPKGAMPB_02040	CDS	1041	aroB	4.2.3.4		3-dehydroquinate synthase
+BPKGAMPB_02041	gene	747				
+BPKGAMPB_02041	CDS	747				hypothetical protein
+BPKGAMPB_02042	gene	1128				
+BPKGAMPB_02042	CDS	1128		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+BPKGAMPB_02043	gene	777				
+BPKGAMPB_02043	CDS	777				hypothetical protein
+BPKGAMPB_02044	gene	267				
+BPKGAMPB_02044	CDS	267				hypothetical protein
+BPKGAMPB_02045	gene	672				
+BPKGAMPB_02045	CDS	672				hypothetical protein
+BPKGAMPB_02046	gene	537				
+BPKGAMPB_02046	CDS	537				hypothetical protein
+BPKGAMPB_02047	gene	1266				
+BPKGAMPB_02047	CDS	1266				hypothetical protein
+BPKGAMPB_02048	gene	603				
+BPKGAMPB_02048	CDS	603				hypothetical protein
+BPKGAMPB_02049	gene	999				
+BPKGAMPB_02049	CDS	999				hypothetical protein
+BPKGAMPB_02050	gene	516				
+BPKGAMPB_02050	CDS	516				hypothetical protein
+BPKGAMPB_02051	gene	753				
+BPKGAMPB_02051	CDS	753				hypothetical protein
+BPKGAMPB_02052	gene	648				
+BPKGAMPB_02052	CDS	648				hypothetical protein
+BPKGAMPB_02053	gene	1005				
+BPKGAMPB_02053	CDS	1005				hypothetical protein
+BPKGAMPB_02054	gene	399				
+BPKGAMPB_02054	CDS	399				hypothetical protein
+BPKGAMPB_02055	gene	306				
+BPKGAMPB_02055	CDS	306				hypothetical protein
+BPKGAMPB_02056	gene	993				
+BPKGAMPB_02056	CDS	993				hypothetical protein
+BPKGAMPB_02057	gene	117				
+BPKGAMPB_02057	CDS	117				hypothetical protein
+BPKGAMPB_02058	gene	255				
+BPKGAMPB_02058	CDS	255				hypothetical protein
+BPKGAMPB_02059	gene	150				
+BPKGAMPB_02059	CDS	150				hypothetical protein
+BPKGAMPB_02060	gene	156				
+BPKGAMPB_02060	CDS	156				hypothetical protein
+BPKGAMPB_02061	gene	954				
+BPKGAMPB_02061	CDS	954				hypothetical protein
+BPKGAMPB_02062	gene	1275	xerC_2			
+BPKGAMPB_02062	CDS	1275	xerC_2			Tyrosine recombinase XerC
+BPKGAMPB_02063	gene	498				
+BPKGAMPB_02063	CDS	498		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+BPKGAMPB_02064	gene	1023	rtcA			
+BPKGAMPB_02064	CDS	1023	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+BPKGAMPB_02065	gene	495				
+BPKGAMPB_02065	CDS	495				hypothetical protein
+BPKGAMPB_02066	gene	498				
+BPKGAMPB_02066	CDS	498				hypothetical protein
+BPKGAMPB_02067	gene	399				
+BPKGAMPB_02067	CDS	399				hypothetical protein
+BPKGAMPB_02068	gene	77				
+BPKGAMPB_02068	tRNA	77				tRNA-Val(gac)
+BPKGAMPB_02069	gene	711	bluB			
+BPKGAMPB_02069	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+BPKGAMPB_02070	gene	426				
+BPKGAMPB_02070	CDS	426				hypothetical protein
+BPKGAMPB_02071	gene	462				
+BPKGAMPB_02071	CDS	462				hypothetical protein
+BPKGAMPB_02072	gene	258				
+BPKGAMPB_02072	CDS	258				hypothetical protein
+BPKGAMPB_02073	gene	480	ppiA			
+BPKGAMPB_02073	CDS	480	ppiA	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase A
+BPKGAMPB_02074	gene	1041				
+BPKGAMPB_02074	CDS	1041				hypothetical protein
+BPKGAMPB_02075	gene	477				
+BPKGAMPB_02075	CDS	477				hypothetical protein
+BPKGAMPB_02076	gene	474				
+BPKGAMPB_02076	CDS	474				hypothetical protein
+BPKGAMPB_02077	gene	894	RBKS_2			
+BPKGAMPB_02077	CDS	894	RBKS_2	2.7.1.15		Ribokinase
+BPKGAMPB_02078	gene	333				
+BPKGAMPB_02078	CDS	333				hypothetical protein
+BPKGAMPB_02079	gene	492				
+BPKGAMPB_02079	CDS	492				hypothetical protein
+BPKGAMPB_02080	gene	1086	desV			
+BPKGAMPB_02080	CDS	1086	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+BPKGAMPB_02081	gene	564				
+BPKGAMPB_02081	CDS	564				hypothetical protein
+BPKGAMPB_02082	gene	1056				
+BPKGAMPB_02082	CDS	1056				hypothetical protein
+BPKGAMPB_02083	gene	981	sfnG			
+BPKGAMPB_02083	CDS	981	sfnG	1.14.14.35		FMNH(2)-dependent dimethylsulfone monooxygenase
+BPKGAMPB_02084	gene	789				
+BPKGAMPB_02084	CDS	789		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+BPKGAMPB_02085	gene	1452				
+BPKGAMPB_02085	CDS	1452				hypothetical protein
+BPKGAMPB_02086	gene	1398	thrA			
+BPKGAMPB_02086	CDS	1398	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+BPKGAMPB_02087	gene	747				
+BPKGAMPB_02087	CDS	747				hypothetical protein
+BPKGAMPB_02088	gene	315				
+BPKGAMPB_02088	CDS	315				hypothetical protein
+BPKGAMPB_02089	gene	282				
+BPKGAMPB_02089	CDS	282				hypothetical protein
+BPKGAMPB_02090	gene	543				
+BPKGAMPB_02090	CDS	543				hypothetical protein
+BPKGAMPB_02091	gene	147				
+BPKGAMPB_02091	CDS	147				hypothetical protein
+BPKGAMPB_02092	gene	495				
+BPKGAMPB_02092	CDS	495				hypothetical protein
+BPKGAMPB_02093	gene	300	ndhI_3			
+BPKGAMPB_02093	CDS	300	ndhI_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+BPKGAMPB_02094	gene	276	prsA1			
+BPKGAMPB_02094	CDS	276	prsA1	5.2.1.8	COG0760	Foldase protein PrsA 1
+BPKGAMPB_02095	gene	615				
+BPKGAMPB_02095	CDS	615				hypothetical protein
+BPKGAMPB_02096	gene	1143	sufS			
+BPKGAMPB_02096	CDS	1143	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+BPKGAMPB_02097	gene	261				
+BPKGAMPB_02097	CDS	261				hypothetical protein
+BPKGAMPB_02098	gene	1071				
+BPKGAMPB_02098	CDS	1071				hypothetical protein
+BPKGAMPB_02099	gene	2142	ftsH_6			
+BPKGAMPB_02099	CDS	2142	ftsH_6	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+BPKGAMPB_02100	gene	516				
+BPKGAMPB_02100	CDS	516				hypothetical protein
+BPKGAMPB_02101	gene	663				
+BPKGAMPB_02101	CDS	663				hypothetical protein
+BPKGAMPB_02102	gene	321				
+BPKGAMPB_02102	CDS	321				hypothetical protein
+BPKGAMPB_02103	gene	1353				
+BPKGAMPB_02103	CDS	1353		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+BPKGAMPB_02104	gene	147				
+BPKGAMPB_02104	CDS	147				hypothetical protein
+BPKGAMPB_02105	gene	702				
+BPKGAMPB_02105	CDS	702				hypothetical protein
+BPKGAMPB_02106	gene	1671	petE_8			
+BPKGAMPB_02106	CDS	1671	petE_8			Plastocyanin
+BPKGAMPB_02107	gene	543				
+BPKGAMPB_02107	CDS	543				hypothetical protein
+BPKGAMPB_02108	gene	1431				
+BPKGAMPB_02108	CDS	1431				hypothetical protein

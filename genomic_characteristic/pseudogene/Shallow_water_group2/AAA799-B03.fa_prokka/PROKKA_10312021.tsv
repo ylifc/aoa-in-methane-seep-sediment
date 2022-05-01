@@ -1,0 +1,2601 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DOMIDHEL_00001	gene	627				
+DOMIDHEL_00001	CDS	627				hypothetical protein
+DOMIDHEL_00002	gene	408	msrB			
+DOMIDHEL_00002	CDS	408	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+DOMIDHEL_00003	gene	1011	hom			
+DOMIDHEL_00003	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+DOMIDHEL_00004	gene	477				
+DOMIDHEL_00004	CDS	477				hypothetical protein
+DOMIDHEL_00005	gene	471				
+DOMIDHEL_00005	CDS	471				hypothetical protein
+DOMIDHEL_00006	gene	597	prcB			
+DOMIDHEL_00006	CDS	597	prcB	3.4.25.1	COG0638	Proteasome subunit beta
+DOMIDHEL_00007	gene	420	mhqP			
+DOMIDHEL_00007	CDS	420	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+DOMIDHEL_00008	gene	1353	dapE			
+DOMIDHEL_00008	CDS	1353	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+DOMIDHEL_00009	gene	939	nnr_1			
+DOMIDHEL_00009	CDS	939	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DOMIDHEL_00010	gene	891	trmI			
+DOMIDHEL_00010	CDS	891	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+DOMIDHEL_00011	gene	120				
+DOMIDHEL_00011	CDS	120				hypothetical protein
+DOMIDHEL_00012	gene	342				
+DOMIDHEL_00012	CDS	342				hypothetical protein
+DOMIDHEL_00013	gene	147				
+DOMIDHEL_00013	CDS	147				hypothetical protein
+DOMIDHEL_00014	gene	510				
+DOMIDHEL_00014	CDS	510				hypothetical protein
+DOMIDHEL_00015	gene	294				
+DOMIDHEL_00015	CDS	294				hypothetical protein
+DOMIDHEL_00016	gene	1887	argS			
+DOMIDHEL_00016	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+DOMIDHEL_00017	gene	696				
+DOMIDHEL_00017	CDS	696				hypothetical protein
+DOMIDHEL_00018	gene	228				
+DOMIDHEL_00018	CDS	228				hypothetical protein
+DOMIDHEL_00019	gene	1110	obg			
+DOMIDHEL_00019	CDS	1110	obg	3.6.5.-		GTPase Obg
+DOMIDHEL_00020	gene	138				
+DOMIDHEL_00020	CDS	138				hypothetical protein
+DOMIDHEL_00021	gene	381				
+DOMIDHEL_00021	CDS	381				hypothetical protein
+DOMIDHEL_00022	gene	1620				
+DOMIDHEL_00022	CDS	1620				hypothetical protein
+DOMIDHEL_00023	gene	1122				
+DOMIDHEL_00023	CDS	1122				hypothetical protein
+DOMIDHEL_00024	gene	807				
+DOMIDHEL_00024	CDS	807				hypothetical protein
+DOMIDHEL_00025	gene	1809	sir			
+DOMIDHEL_00025	CDS	1809	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+DOMIDHEL_00026	gene	819	thi4			
+DOMIDHEL_00026	CDS	819	thi4	2.4.2.59		Thiamine thiazole synthase
+DOMIDHEL_00027	gene	771				
+DOMIDHEL_00027	CDS	771				hypothetical protein
+DOMIDHEL_00028	gene	492	ldh_1			
+DOMIDHEL_00028	CDS	492	ldh_1	1.1.1.27	COG0039	L-lactate dehydrogenase
+DOMIDHEL_00029	gene	432	ldh_2			
+DOMIDHEL_00029	CDS	432	ldh_2	1.1.1.27	COG0039	L-lactate dehydrogenase
+DOMIDHEL_00030	gene	480				
+DOMIDHEL_00030	CDS	480				Putative universal stress protein
+DOMIDHEL_00031	gene	342				
+DOMIDHEL_00031	CDS	342				hypothetical protein
+DOMIDHEL_00032	gene	858	IMPDH_1			
+DOMIDHEL_00032	CDS	858	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+DOMIDHEL_00033	gene	423				
+DOMIDHEL_00033	CDS	423				Putative universal stress protein
+DOMIDHEL_00034	gene	432	teaD_1			
+DOMIDHEL_00034	CDS	432	teaD_1		COG0589	TRAP-T-associated universal stress protein TeaD
+DOMIDHEL_00035	gene	438	hrp1			
+DOMIDHEL_00035	CDS	438	hrp1		COG0517	Hypoxic response protein 1
+DOMIDHEL_00036	gene	1002	trxB			
+DOMIDHEL_00036	CDS	1002	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+DOMIDHEL_00037	gene	216				
+DOMIDHEL_00037	CDS	216				hypothetical protein
+DOMIDHEL_00038	gene	474				
+DOMIDHEL_00038	CDS	474				hypothetical protein
+DOMIDHEL_00039	gene	993	cysM			
+DOMIDHEL_00039	CDS	993	cysM	2.5.1.47	COG0031	Cysteine synthase B
+DOMIDHEL_00040	gene	237	tusA			
+DOMIDHEL_00040	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+DOMIDHEL_00041	gene	915				
+DOMIDHEL_00041	CDS	915				hypothetical protein
+DOMIDHEL_00042	gene	726	fbiB_1			
+DOMIDHEL_00042	CDS	726	fbiB_1		COG0778	Bifunctional F420 biosynthesis protein FbiB
+DOMIDHEL_00043	gene	720	serB2			
+DOMIDHEL_00043	CDS	720	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+DOMIDHEL_00044	gene	471				
+DOMIDHEL_00044	CDS	471				hypothetical protein
+DOMIDHEL_00045	gene	312				
+DOMIDHEL_00045	CDS	312				hypothetical protein
+DOMIDHEL_00046	gene	387				
+DOMIDHEL_00046	CDS	387				hypothetical protein
+DOMIDHEL_00047	gene	432				
+DOMIDHEL_00047	CDS	432				Putative universal stress protein
+DOMIDHEL_00048	gene	390				
+DOMIDHEL_00048	CDS	390				hypothetical protein
+DOMIDHEL_00049	gene	495				
+DOMIDHEL_00049	CDS	495				hypothetical protein
+DOMIDHEL_00050	gene	219				
+DOMIDHEL_00050	CDS	219				hypothetical protein
+DOMIDHEL_00051	gene	354				
+DOMIDHEL_00051	CDS	354				hypothetical protein
+DOMIDHEL_00052	gene	423				
+DOMIDHEL_00052	CDS	423				Putative universal stress protein
+DOMIDHEL_00053	gene	315				
+DOMIDHEL_00053	CDS	315				hypothetical protein
+DOMIDHEL_00054	gene	165				
+DOMIDHEL_00054	CDS	165				hypothetical protein
+DOMIDHEL_00055	gene	648				
+DOMIDHEL_00055	CDS	648				hypothetical protein
+DOMIDHEL_00056	gene	459				
+DOMIDHEL_00056	CDS	459				hypothetical protein
+DOMIDHEL_00057	gene	132				
+DOMIDHEL_00057	CDS	132				hypothetical protein
+DOMIDHEL_00058	gene	309				
+DOMIDHEL_00058	CDS	309				hypothetical protein
+DOMIDHEL_00059	gene	369				
+DOMIDHEL_00059	CDS	369				hypothetical protein
+DOMIDHEL_00060	gene	606				
+DOMIDHEL_00060	CDS	606				hypothetical protein
+DOMIDHEL_00061	gene	1653				
+DOMIDHEL_00061	CDS	1653				hypothetical protein
+DOMIDHEL_00062	gene	1311	yhdG			
+DOMIDHEL_00062	CDS	1311	yhdG		COG0531	putative amino acid permease YhdG
+DOMIDHEL_00063	gene	144				
+DOMIDHEL_00063	CDS	144				hypothetical protein
+DOMIDHEL_00064	gene	417	teaD_2			
+DOMIDHEL_00064	CDS	417	teaD_2		COG0589	TRAP-T-associated universal stress protein TeaD
+DOMIDHEL_00065	gene	723				
+DOMIDHEL_00065	CDS	723				hypothetical protein
+DOMIDHEL_00066	gene	1290	ybaT			
+DOMIDHEL_00066	CDS	1290	ybaT		COG0531	Inner membrane transport protein YbaT
+DOMIDHEL_00067	gene	360				
+DOMIDHEL_00067	CDS	360				hypothetical protein
+DOMIDHEL_00068	gene	417	teaD_3			
+DOMIDHEL_00068	CDS	417	teaD_3		COG0589	TRAP-T-associated universal stress protein TeaD
+DOMIDHEL_00069	gene	291				
+DOMIDHEL_00069	CDS	291				hypothetical protein
+DOMIDHEL_00070	gene	471				
+DOMIDHEL_00070	CDS	471				hypothetical protein
+DOMIDHEL_00071	gene	1137	xerC_1			
+DOMIDHEL_00071	CDS	1137	xerC_1			Tyrosine recombinase XerC
+DOMIDHEL_00072	gene	285				
+DOMIDHEL_00072	CDS	285				hypothetical protein
+DOMIDHEL_00073	gene	1443	proS			
+DOMIDHEL_00073	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+DOMIDHEL_00074	gene	363				
+DOMIDHEL_00074	CDS	363				hypothetical protein
+DOMIDHEL_00075	gene	1317	egtB			
+DOMIDHEL_00075	CDS	1317	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+DOMIDHEL_00076	gene	1023	egtD			
+DOMIDHEL_00076	CDS	1023	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+DOMIDHEL_00077	gene	966	oppF			
+DOMIDHEL_00077	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+DOMIDHEL_00078	gene	3525	smc_1			
+DOMIDHEL_00078	CDS	3525	smc_1			Chromosome partition protein Smc
+DOMIDHEL_00079	gene	738				
+DOMIDHEL_00079	CDS	738				hypothetical protein
+DOMIDHEL_00080	gene	1095	ino1			
+DOMIDHEL_00080	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+DOMIDHEL_00081	gene	942				
+DOMIDHEL_00081	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+DOMIDHEL_00082	gene	714				
+DOMIDHEL_00082	CDS	714				hypothetical protein
+DOMIDHEL_00083	gene	621				
+DOMIDHEL_00083	CDS	621				hypothetical protein
+DOMIDHEL_00084	gene	258				
+DOMIDHEL_00084	CDS	258				hypothetical protein
+DOMIDHEL_00085	gene	234				
+DOMIDHEL_00085	CDS	234				hypothetical protein
+DOMIDHEL_00086	gene	252				
+DOMIDHEL_00086	CDS	252				hypothetical protein
+DOMIDHEL_00087	gene	1095	dinB			
+DOMIDHEL_00087	CDS	1095	dinB	2.7.7.7		DNA polymerase IV
+DOMIDHEL_00088	gene	942				
+DOMIDHEL_00088	CDS	942				hypothetical protein
+DOMIDHEL_00089	gene	480				
+DOMIDHEL_00089	CDS	480				hypothetical protein
+DOMIDHEL_00090	gene	663				
+DOMIDHEL_00090	CDS	663				hypothetical protein
+DOMIDHEL_00091	gene	198				
+DOMIDHEL_00091	CDS	198				hypothetical protein
+DOMIDHEL_00092	gene	303				
+DOMIDHEL_00092	CDS	303				hypothetical protein
+DOMIDHEL_00093	gene	369				
+DOMIDHEL_00093	CDS	369				hypothetical protein
+DOMIDHEL_00094	gene	387				
+DOMIDHEL_00094	CDS	387				hypothetical protein
+DOMIDHEL_00095	gene	879	garR			
+DOMIDHEL_00095	CDS	879	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+DOMIDHEL_00096	gene	762	gdhB			
+DOMIDHEL_00096	CDS	762	gdhB	1.1.1.47	COG1028	Glucose 1-dehydrogenase B
+DOMIDHEL_00097	gene	582				
+DOMIDHEL_00097	CDS	582				hypothetical protein
+DOMIDHEL_00098	gene	207				
+DOMIDHEL_00098	CDS	207				hypothetical protein
+DOMIDHEL_00099	gene	1230	sthA			
+DOMIDHEL_00099	CDS	1230	sthA	1.6.1.1		Soluble pyridine nucleotide transhydrogenase
+DOMIDHEL_00100	gene	264				
+DOMIDHEL_00100	CDS	264				hypothetical protein
+DOMIDHEL_00101	gene	2169	ftsH			
+DOMIDHEL_00101	CDS	2169	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+DOMIDHEL_00102	gene	1290				
+DOMIDHEL_00102	CDS	1290				hypothetical protein
+DOMIDHEL_00103	gene	1905	GATB			
+DOMIDHEL_00103	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+DOMIDHEL_00104	gene	2595				
+DOMIDHEL_00104	CDS	2595				hypothetical protein
+DOMIDHEL_00105	gene	870	gtaB			
+DOMIDHEL_00105	CDS	870	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+DOMIDHEL_00106	gene	966				
+DOMIDHEL_00106	CDS	966				hypothetical protein
+DOMIDHEL_00107	gene	1500	bchE_1			
+DOMIDHEL_00107	CDS	1500	bchE_1	1.21.98.3		Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+DOMIDHEL_00108	gene	1053				
+DOMIDHEL_00108	CDS	1053				hypothetical protein
+DOMIDHEL_00109	gene	1257	colD			
+DOMIDHEL_00109	CDS	1257	colD	4.2.1.168		GDP-4-keto-6-deoxy-D-mannose 3-dehydratase
+DOMIDHEL_00110	gene	858	rmd_1			
+DOMIDHEL_00110	CDS	858	rmd_1	1.1.1.281	COG1089	GDP-6-deoxy-D-mannose reductase
+DOMIDHEL_00111	gene	942	galE_1			
+DOMIDHEL_00111	CDS	942	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+DOMIDHEL_00112	gene	1305	wecC			
+DOMIDHEL_00112	CDS	1305	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+DOMIDHEL_00113	gene	1506	bchE_2			
+DOMIDHEL_00113	CDS	1506	bchE_2	1.21.98.3	COG1032	Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+DOMIDHEL_00114	gene	1155				
+DOMIDHEL_00114	CDS	1155				hypothetical protein
+DOMIDHEL_00115	gene	1218				
+DOMIDHEL_00115	CDS	1218				hypothetical protein
+DOMIDHEL_00116	gene	813				
+DOMIDHEL_00116	CDS	813				hypothetical protein
+DOMIDHEL_00117	gene	2889				
+DOMIDHEL_00117	CDS	2889				hypothetical protein
+DOMIDHEL_00118	gene	204				
+DOMIDHEL_00118	CDS	204				hypothetical protein
+DOMIDHEL_00119	gene	759				
+DOMIDHEL_00119	CDS	759				hypothetical protein
+DOMIDHEL_00120	gene	1140				
+DOMIDHEL_00120	CDS	1140				hypothetical protein
+DOMIDHEL_00121	gene	1026	wbgU			
+DOMIDHEL_00121	CDS	1026	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+DOMIDHEL_00122	gene	1335	tuaD			
+DOMIDHEL_00122	CDS	1335	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+DOMIDHEL_00123	gene	558	gph			
+DOMIDHEL_00123	CDS	558	gph	3.1.3.18		Phosphoglycolate phosphatase
+DOMIDHEL_00124	gene	732	tam			
+DOMIDHEL_00124	CDS	732	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+DOMIDHEL_00125	gene	1074				
+DOMIDHEL_00125	CDS	1074				hypothetical protein
+DOMIDHEL_00126	gene	1203	asnB_1			
+DOMIDHEL_00126	CDS	1203	asnB_1	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+DOMIDHEL_00127	gene	969	iolG			
+DOMIDHEL_00127	CDS	969	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+DOMIDHEL_00128	gene	2523	pgl			
+DOMIDHEL_00128	CDS	2523	pgl	3.1.1.31		6-phosphogluconolactonase
+DOMIDHEL_00129	gene	1827				
+DOMIDHEL_00129	CDS	1827				hypothetical protein
+DOMIDHEL_00130	gene	1116	desV			
+DOMIDHEL_00130	CDS	1116	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+DOMIDHEL_00131	gene	777	arnC			
+DOMIDHEL_00131	CDS	777	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DOMIDHEL_00132	gene	2424				
+DOMIDHEL_00132	CDS	2424				hypothetical protein
+DOMIDHEL_00133	gene	1041				
+DOMIDHEL_00133	CDS	1041				hypothetical protein
+DOMIDHEL_00134	gene	621				
+DOMIDHEL_00134	CDS	621				hypothetical protein
+DOMIDHEL_00135	gene	87				
+DOMIDHEL_00135	tRNA	87				tRNA-Leu(cag)
+DOMIDHEL_00136	gene	165				
+DOMIDHEL_00136	CDS	165				hypothetical protein
+DOMIDHEL_00137	gene	534				
+DOMIDHEL_00137	CDS	534				hypothetical protein
+DOMIDHEL_00138	gene	1086	dnaJ_1			
+DOMIDHEL_00138	CDS	1086	dnaJ_1		COG0484	Chaperone protein DnaJ
+DOMIDHEL_00139	gene	1875	dnaK			
+DOMIDHEL_00139	CDS	1875	dnaK		COG0443	Chaperone protein DnaK
+DOMIDHEL_00140	gene	558	grpE			
+DOMIDHEL_00140	CDS	558	grpE		COG0576	Protein GrpE
+DOMIDHEL_00141	gene	1140				
+DOMIDHEL_00141	CDS	1140				hypothetical protein
+DOMIDHEL_00142	gene	1029				
+DOMIDHEL_00142	CDS	1029				hypothetical protein
+DOMIDHEL_00143	gene	74				
+DOMIDHEL_00143	tRNA	74				tRNA-Gln(ttg)
+DOMIDHEL_00144	gene	738				
+DOMIDHEL_00144	CDS	738				hypothetical protein
+DOMIDHEL_00145	gene	762				
+DOMIDHEL_00145	CDS	762				hypothetical protein
+DOMIDHEL_00146	gene	939	lnrL			
+DOMIDHEL_00146	CDS	939	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+DOMIDHEL_00147	gene	1401				
+DOMIDHEL_00147	CDS	1401				hypothetical protein
+DOMIDHEL_00148	gene	2715	dbpA_1			
+DOMIDHEL_00148	CDS	2715	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+DOMIDHEL_00149	gene	120				
+DOMIDHEL_00149	CDS	120				hypothetical protein
+DOMIDHEL_00150	gene	921				
+DOMIDHEL_00150	CDS	921				hypothetical protein
+DOMIDHEL_00151	gene	903	iolS_1			
+DOMIDHEL_00151	CDS	903	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+DOMIDHEL_00152	gene	741				
+DOMIDHEL_00152	CDS	741				hypothetical protein
+DOMIDHEL_00153	gene	444				
+DOMIDHEL_00153	CDS	444				hypothetical protein
+DOMIDHEL_00154	gene	885	rmd_2			
+DOMIDHEL_00154	CDS	885	rmd_2	1.1.1.281	COG1089	GDP-6-deoxy-D-mannose reductase
+DOMIDHEL_00155	gene	924				
+DOMIDHEL_00155	CDS	924				hypothetical protein
+DOMIDHEL_00156	gene	942				
+DOMIDHEL_00156	CDS	942				hypothetical protein
+DOMIDHEL_00157	gene	1017	galE_2			
+DOMIDHEL_00157	CDS	1017	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+DOMIDHEL_00158	gene	510	gmhB			
+DOMIDHEL_00158	CDS	510	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+DOMIDHEL_00159	gene	603	gmhA_1			
+DOMIDHEL_00159	CDS	603	gmhA_1	5.3.1.28	COG0279	Phosphoheptose isomerase
+DOMIDHEL_00160	gene	570	rfbC			
+DOMIDHEL_00160	CDS	570	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+DOMIDHEL_00161	gene	1224				
+DOMIDHEL_00161	CDS	1224				hypothetical protein
+DOMIDHEL_00162	gene	891	rmlD			
+DOMIDHEL_00162	CDS	891	rmlD	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+DOMIDHEL_00163	gene	1029	hddA			
+DOMIDHEL_00163	CDS	1029	hddA	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+DOMIDHEL_00164	gene	834				
+DOMIDHEL_00164	CDS	834				hypothetical protein
+DOMIDHEL_00165	gene	903	galE_3			
+DOMIDHEL_00165	CDS	903	galE_3	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+DOMIDHEL_00166	gene	1353				
+DOMIDHEL_00166	CDS	1353				hypothetical protein
+DOMIDHEL_00167	gene	1062	mtnA			
+DOMIDHEL_00167	CDS	1062	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+DOMIDHEL_00168	gene	639				
+DOMIDHEL_00168	CDS	639				hypothetical protein
+DOMIDHEL_00169	gene	648	baiA1			
+DOMIDHEL_00169	CDS	648	baiA1	1.1.1.395		3alpha-hydroxy bile acid-CoA-ester 3-dehydrogenase 1/3
+DOMIDHEL_00170	gene	1383				
+DOMIDHEL_00170	CDS	1383				hypothetical protein
+DOMIDHEL_00171	gene	297				
+DOMIDHEL_00171	CDS	297				hypothetical protein
+DOMIDHEL_00172	gene	240				
+DOMIDHEL_00172	CDS	240				hypothetical protein
+DOMIDHEL_00173	gene	594				
+DOMIDHEL_00173	CDS	594				hypothetical protein
+DOMIDHEL_00174	gene	492				
+DOMIDHEL_00174	CDS	492				hypothetical protein
+DOMIDHEL_00175	gene	75				
+DOMIDHEL_00175	tRNA	75				tRNA-Arg(tcg)
+DOMIDHEL_00176	gene	1176	alaA			
+DOMIDHEL_00176	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+DOMIDHEL_00177	gene	402				
+DOMIDHEL_00177	CDS	402				hypothetical protein
+DOMIDHEL_00178	gene	234				
+DOMIDHEL_00178	CDS	234				hypothetical protein
+DOMIDHEL_00179	gene	672				
+DOMIDHEL_00179	CDS	672				hypothetical protein
+DOMIDHEL_00180	gene	624	pspA			
+DOMIDHEL_00180	CDS	624	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DOMIDHEL_00181	gene	261				
+DOMIDHEL_00181	CDS	261				hypothetical protein
+DOMIDHEL_00182	gene	432	coxM			
+DOMIDHEL_00182	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+DOMIDHEL_00183	gene	1527	ctaD			
+DOMIDHEL_00183	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+DOMIDHEL_00184	gene	957	petE			
+DOMIDHEL_00184	CDS	957	petE			Plastocyanin
+DOMIDHEL_00185	gene	444	ctaA			
+DOMIDHEL_00185	CDS	444	ctaA	1.3.-.-	COG1612	Heme A synthase
+DOMIDHEL_00186	gene	441				
+DOMIDHEL_00186	CDS	441				hypothetical protein
+DOMIDHEL_00187	gene	744				
+DOMIDHEL_00187	CDS	744				hypothetical protein
+DOMIDHEL_00188	gene	75				
+DOMIDHEL_00188	tRNA	75				tRNA-Lys(ctt)
+DOMIDHEL_00189	gene	378	cheY_1			
+DOMIDHEL_00189	CDS	378	cheY_1		COG0784	Chemotaxis protein CheY
+DOMIDHEL_00190	gene	1782	sasA_1			
+DOMIDHEL_00190	CDS	1782	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+DOMIDHEL_00191	gene	555				
+DOMIDHEL_00191	CDS	555				hypothetical protein
+DOMIDHEL_00192	gene	162				
+DOMIDHEL_00192	CDS	162				hypothetical protein
+DOMIDHEL_00193	gene	915	ilvE_1			
+DOMIDHEL_00193	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DOMIDHEL_00194	gene	207				
+DOMIDHEL_00194	CDS	207				hypothetical protein
+DOMIDHEL_00195	gene	1416				
+DOMIDHEL_00195	CDS	1416				hypothetical protein
+DOMIDHEL_00196	gene	1023	murG			
+DOMIDHEL_00196	CDS	1023	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+DOMIDHEL_00197	gene	77				
+DOMIDHEL_00197	tRNA	77				tRNA-Val(tac)
+DOMIDHEL_00198	gene	282				
+DOMIDHEL_00198	CDS	282				hypothetical protein
+DOMIDHEL_00199	gene	348				
+DOMIDHEL_00199	CDS	348				hypothetical protein
+DOMIDHEL_00200	gene	372				
+DOMIDHEL_00200	CDS	372				hypothetical protein
+DOMIDHEL_00201	gene	975	dsbD			
+DOMIDHEL_00201	CDS	975	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+DOMIDHEL_00202	gene	138				
+DOMIDHEL_00202	CDS	138				hypothetical protein
+DOMIDHEL_00203	gene	225				
+DOMIDHEL_00203	CDS	225				hypothetical protein
+DOMIDHEL_00204	gene	252				
+DOMIDHEL_00204	CDS	252				hypothetical protein
+DOMIDHEL_00205	gene	453				
+DOMIDHEL_00205	CDS	453				hypothetical protein
+DOMIDHEL_00206	gene	882				
+DOMIDHEL_00206	CDS	882				hypothetical protein
+DOMIDHEL_00207	gene	303				
+DOMIDHEL_00207	CDS	303				hypothetical protein
+DOMIDHEL_00208	gene	285				
+DOMIDHEL_00208	CDS	285				hypothetical protein
+DOMIDHEL_00209	gene	444				
+DOMIDHEL_00209	CDS	444				hypothetical protein
+DOMIDHEL_00210	gene	357				
+DOMIDHEL_00210	CDS	357				hypothetical protein
+DOMIDHEL_00211	gene	2097	pat			
+DOMIDHEL_00211	CDS	2097	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+DOMIDHEL_00212	gene	1527	abfD			
+DOMIDHEL_00212	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+DOMIDHEL_00213	gene	765				
+DOMIDHEL_00213	CDS	765				hypothetical protein
+DOMIDHEL_00214	gene	1668	dxs			
+DOMIDHEL_00214	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+DOMIDHEL_00215	gene	117				
+DOMIDHEL_00215	CDS	117				hypothetical protein
+DOMIDHEL_00216	gene	216				
+DOMIDHEL_00216	CDS	216				hypothetical protein
+DOMIDHEL_00217	gene	396				
+DOMIDHEL_00217	CDS	396				hypothetical protein
+DOMIDHEL_00218	gene	141				
+DOMIDHEL_00218	CDS	141				hypothetical protein
+DOMIDHEL_00219	gene	1467	pepA			
+DOMIDHEL_00219	CDS	1467	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+DOMIDHEL_00220	gene	129				
+DOMIDHEL_00220	CDS	129				hypothetical protein
+DOMIDHEL_00221	gene	112				
+DOMIDHEL_00221	rRNA	112				5S ribosomal RNA
+DOMIDHEL_00222	gene	1788	btuD			
+DOMIDHEL_00222	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+DOMIDHEL_00223	gene	828				
+DOMIDHEL_00223	CDS	828				hypothetical protein
+DOMIDHEL_00224	gene	219				
+DOMIDHEL_00224	CDS	219				hypothetical protein
+DOMIDHEL_00225	gene	498	ypeA			
+DOMIDHEL_00225	CDS	498	ypeA	2.3.1.-		Acetyltransferase YpeA
+DOMIDHEL_00226	gene	1107				
+DOMIDHEL_00226	CDS	1107				hypothetical protein
+DOMIDHEL_00227	gene	1083				
+DOMIDHEL_00227	CDS	1083				hypothetical protein
+DOMIDHEL_00228	gene	606	pyrE			
+DOMIDHEL_00228	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+DOMIDHEL_00229	gene	74				
+DOMIDHEL_00229	tRNA	74				tRNA-Met(cat)
+DOMIDHEL_00230	gene	633				
+DOMIDHEL_00230	CDS	633		1.-.-.-	COG5424	putative oxidoreductase CT_610
+DOMIDHEL_00231	gene	852				
+DOMIDHEL_00231	CDS	852				hypothetical protein
+DOMIDHEL_00232	gene	1485	ndhB_1			
+DOMIDHEL_00232	CDS	1485	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+DOMIDHEL_00233	gene	2079	ndhB_2			
+DOMIDHEL_00233	CDS	2079	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+DOMIDHEL_00234	gene	1554	mrpA			
+DOMIDHEL_00234	CDS	1554	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+DOMIDHEL_00235	gene	306	nuoK			
+DOMIDHEL_00235	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+DOMIDHEL_00236	gene	513				
+DOMIDHEL_00236	CDS	513				hypothetical protein
+DOMIDHEL_00237	gene	498	nuoI			
+DOMIDHEL_00237	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+DOMIDHEL_00238	gene	1299	ndhA			
+DOMIDHEL_00238	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+DOMIDHEL_00239	gene	1143	nqo4			
+DOMIDHEL_00239	CDS	1143	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+DOMIDHEL_00240	gene	606	ndhJ			
+DOMIDHEL_00240	CDS	606	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+DOMIDHEL_00241	gene	525	ndhK			
+DOMIDHEL_00241	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+DOMIDHEL_00242	gene	375	ndhC			
+DOMIDHEL_00242	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+DOMIDHEL_00243	gene	465	bcp_1			
+DOMIDHEL_00243	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+DOMIDHEL_00244	gene	513				
+DOMIDHEL_00244	CDS	513				hypothetical protein
+DOMIDHEL_00245	gene	1488	cfiB			
+DOMIDHEL_00245	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+DOMIDHEL_00246	gene	1548	pccB			
+DOMIDHEL_00246	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+DOMIDHEL_00247	gene	312				
+DOMIDHEL_00247	CDS	312				hypothetical protein
+DOMIDHEL_00248	gene	1158	ruvB			
+DOMIDHEL_00248	CDS	1158	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+DOMIDHEL_00249	gene	1116				
+DOMIDHEL_00249	CDS	1116				hypothetical protein
+DOMIDHEL_00250	gene	801	cysQ			
+DOMIDHEL_00250	CDS	801	cysQ	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+DOMIDHEL_00251	gene	843	fpr_1			
+DOMIDHEL_00251	CDS	843	fpr_1	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+DOMIDHEL_00252	gene	168				
+DOMIDHEL_00252	CDS	168				hypothetical protein
+DOMIDHEL_00253	gene	1077	hemA_1			
+DOMIDHEL_00253	CDS	1077	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+DOMIDHEL_00254	gene	768				
+DOMIDHEL_00254	CDS	768				hypothetical protein
+DOMIDHEL_00255	gene	78				
+DOMIDHEL_00255	tRNA	78				tRNA-Asp(gtc)
+DOMIDHEL_00256	gene	75				
+DOMIDHEL_00256	tRNA	75				tRNA-Lys(ttt)
+DOMIDHEL_00257	gene	1245				
+DOMIDHEL_00257	CDS	1245				hypothetical protein
+DOMIDHEL_00258	gene	1047				
+DOMIDHEL_00258	CDS	1047				hypothetical protein
+DOMIDHEL_00259	gene	1296				
+DOMIDHEL_00259	CDS	1296				hypothetical protein
+DOMIDHEL_00260	gene	414				
+DOMIDHEL_00260	CDS	414				hypothetical protein
+DOMIDHEL_00261	gene	552				
+DOMIDHEL_00261	CDS	552				hypothetical protein
+DOMIDHEL_00262	gene	1485				
+DOMIDHEL_00262	CDS	1485				hypothetical protein
+DOMIDHEL_00263	gene	246				
+DOMIDHEL_00263	CDS	246				hypothetical protein
+DOMIDHEL_00264	gene	843				
+DOMIDHEL_00264	CDS	843				hypothetical protein
+DOMIDHEL_00265	gene	252				
+DOMIDHEL_00265	CDS	252				hypothetical protein
+DOMIDHEL_00266	gene	3348	rpoB			
+DOMIDHEL_00266	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+DOMIDHEL_00267	gene	3792	rpoC			
+DOMIDHEL_00267	CDS	3792	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+DOMIDHEL_00268	gene	234				
+DOMIDHEL_00268	CDS	234				hypothetical protein
+DOMIDHEL_00269	gene	1179				
+DOMIDHEL_00269	CDS	1179				hypothetical protein
+DOMIDHEL_00270	gene	1533				
+DOMIDHEL_00270	CDS	1533				hypothetical protein
+DOMIDHEL_00271	gene	324				
+DOMIDHEL_00271	CDS	324				hypothetical protein
+DOMIDHEL_00272	gene	483	nusA			
+DOMIDHEL_00272	CDS	483	nusA			Transcription termination/antitermination protein NusA
+DOMIDHEL_00273	gene	438				
+DOMIDHEL_00273	CDS	438				hypothetical protein
+DOMIDHEL_00274	gene	600				
+DOMIDHEL_00274	CDS	600				hypothetical protein
+DOMIDHEL_00275	gene	321				
+DOMIDHEL_00275	CDS	321				hypothetical protein
+DOMIDHEL_00276	gene	705				
+DOMIDHEL_00276	CDS	705				hypothetical protein
+DOMIDHEL_00277	gene	999				
+DOMIDHEL_00277	CDS	999				hypothetical protein
+DOMIDHEL_00278	gene	603	drgA			
+DOMIDHEL_00278	CDS	603	drgA			Protein DrgA
+DOMIDHEL_00279	gene	1110				
+DOMIDHEL_00279	CDS	1110				hypothetical protein
+DOMIDHEL_00280	gene	255				
+DOMIDHEL_00280	CDS	255				hypothetical protein
+DOMIDHEL_00281	gene	198				
+DOMIDHEL_00281	CDS	198				hypothetical protein
+DOMIDHEL_00282	gene	234				
+DOMIDHEL_00282	CDS	234				hypothetical protein
+DOMIDHEL_00283	gene	180				
+DOMIDHEL_00283	CDS	180				hypothetical protein
+DOMIDHEL_00284	gene	108				
+DOMIDHEL_00284	CDS	108				hypothetical protein
+DOMIDHEL_00285	gene	270				
+DOMIDHEL_00285	CDS	270				hypothetical protein
+DOMIDHEL_00286	gene	141				
+DOMIDHEL_00286	CDS	141				hypothetical protein
+DOMIDHEL_00287	gene	192				
+DOMIDHEL_00287	CDS	192				hypothetical protein
+DOMIDHEL_00288	gene	348				
+DOMIDHEL_00288	CDS	348				hypothetical protein
+DOMIDHEL_00289	gene	432				
+DOMIDHEL_00289	CDS	432				hypothetical protein
+DOMIDHEL_00290	gene	126				
+DOMIDHEL_00290	CDS	126				hypothetical protein
+DOMIDHEL_00291	gene	519				
+DOMIDHEL_00291	CDS	519				hypothetical protein
+DOMIDHEL_00292	gene	234				
+DOMIDHEL_00292	CDS	234				hypothetical protein
+DOMIDHEL_00293	gene	306				
+DOMIDHEL_00293	CDS	306				hypothetical protein
+DOMIDHEL_00294	gene	654	udgB			
+DOMIDHEL_00294	CDS	654	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+DOMIDHEL_00295	gene	2874	valS			
+DOMIDHEL_00295	CDS	2874	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+DOMIDHEL_00296	gene	2670	alaS			
+DOMIDHEL_00296	CDS	2670	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+DOMIDHEL_00297	gene	951	neoA			
+DOMIDHEL_00297	CDS	951	neoA	1.1.1.329		2-deoxy-scyllo-inosamine dehydrogenase
+DOMIDHEL_00298	gene	393				
+DOMIDHEL_00298	CDS	393				hypothetical protein
+DOMIDHEL_00299	gene	1206	yliI			
+DOMIDHEL_00299	CDS	1206	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+DOMIDHEL_00300	gene	510				
+DOMIDHEL_00300	CDS	510				hypothetical protein
+DOMIDHEL_00301	gene	318				
+DOMIDHEL_00301	CDS	318				hypothetical protein
+DOMIDHEL_00302	gene	633				
+DOMIDHEL_00302	CDS	633				hypothetical protein
+DOMIDHEL_00303	gene	201				
+DOMIDHEL_00303	CDS	201				hypothetical protein
+DOMIDHEL_00304	gene	936				
+DOMIDHEL_00304	CDS	936				hypothetical protein
+DOMIDHEL_00305	gene	1137				
+DOMIDHEL_00305	CDS	1137				hypothetical protein
+DOMIDHEL_00306	gene	1314	bioK			
+DOMIDHEL_00306	CDS	1314	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+DOMIDHEL_00307	gene	186				
+DOMIDHEL_00307	CDS	186				hypothetical protein
+DOMIDHEL_00308	gene	753	bioD1			
+DOMIDHEL_00308	CDS	753	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+DOMIDHEL_00309	gene	396				
+DOMIDHEL_00309	CDS	396				hypothetical protein
+DOMIDHEL_00310	gene	840				
+DOMIDHEL_00310	CDS	840				hypothetical protein
+DOMIDHEL_00311	gene	306				
+DOMIDHEL_00311	CDS	306				hypothetical protein
+DOMIDHEL_00312	gene	549				
+DOMIDHEL_00312	CDS	549				hypothetical protein
+DOMIDHEL_00313	gene	303				
+DOMIDHEL_00313	CDS	303				hypothetical protein
+DOMIDHEL_00314	gene	1395	mvaS			
+DOMIDHEL_00314	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+DOMIDHEL_00315	gene	711				
+DOMIDHEL_00315	CDS	711				hypothetical protein
+DOMIDHEL_00316	gene	732				
+DOMIDHEL_00316	CDS	732				hypothetical protein
+DOMIDHEL_00317	gene	1164				
+DOMIDHEL_00317	CDS	1164				hypothetical protein
+DOMIDHEL_00318	gene	1053				
+DOMIDHEL_00318	CDS	1053				hypothetical protein
+DOMIDHEL_00319	gene	1254				
+DOMIDHEL_00319	CDS	1254				hypothetical protein
+DOMIDHEL_00320	gene	1338				
+DOMIDHEL_00320	CDS	1338				hypothetical protein
+DOMIDHEL_00321	gene	375				
+DOMIDHEL_00321	CDS	375				hypothetical protein
+DOMIDHEL_00322	gene	318				
+DOMIDHEL_00322	CDS	318				hypothetical protein
+DOMIDHEL_00323	gene	606				
+DOMIDHEL_00323	CDS	606				hypothetical protein
+DOMIDHEL_00324	gene	549				
+DOMIDHEL_00324	CDS	549				hypothetical protein
+DOMIDHEL_00325	gene	210				
+DOMIDHEL_00325	CDS	210				hypothetical protein
+DOMIDHEL_00326	gene	828				
+DOMIDHEL_00326	CDS	828				hypothetical protein
+DOMIDHEL_00327	gene	309				
+DOMIDHEL_00327	CDS	309				hypothetical protein
+DOMIDHEL_00328	gene	1110	fadA			
+DOMIDHEL_00328	CDS	1110	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+DOMIDHEL_00329	gene	963				
+DOMIDHEL_00329	CDS	963		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+DOMIDHEL_00330	gene	150				
+DOMIDHEL_00330	CDS	150				hypothetical protein
+DOMIDHEL_00331	gene	678	hddC			
+DOMIDHEL_00331	CDS	678	hddC	2.7.7.71		D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+DOMIDHEL_00332	gene	267				
+DOMIDHEL_00332	CDS	267				hypothetical protein
+DOMIDHEL_00333	gene	138				
+DOMIDHEL_00333	CDS	138				hypothetical protein
+DOMIDHEL_00334	gene	387				
+DOMIDHEL_00334	CDS	387				hypothetical protein
+DOMIDHEL_00335	gene	1146	purK			
+DOMIDHEL_00335	CDS	1146	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+DOMIDHEL_00336	gene	648	purE			
+DOMIDHEL_00336	CDS	648	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+DOMIDHEL_00337	gene	1209	tdcB			
+DOMIDHEL_00337	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+DOMIDHEL_00338	gene	840				
+DOMIDHEL_00338	CDS	840				hypothetical protein
+DOMIDHEL_00339	gene	816				
+DOMIDHEL_00339	CDS	816				hypothetical protein
+DOMIDHEL_00340	gene	147				
+DOMIDHEL_00340	CDS	147				hypothetical protein
+DOMIDHEL_00341	gene	372				
+DOMIDHEL_00341	CDS	372				hypothetical protein
+DOMIDHEL_00342	gene	387				
+DOMIDHEL_00342	CDS	387				hypothetical protein
+DOMIDHEL_00343	gene	1128				
+DOMIDHEL_00343	CDS	1128				hypothetical protein
+DOMIDHEL_00344	gene	258				
+DOMIDHEL_00344	CDS	258				hypothetical protein
+DOMIDHEL_00345	gene	234				
+DOMIDHEL_00345	CDS	234				hypothetical protein
+DOMIDHEL_00346	gene	264				
+DOMIDHEL_00346	CDS	264				hypothetical protein
+DOMIDHEL_00347	gene	339				
+DOMIDHEL_00347	CDS	339				hypothetical protein
+DOMIDHEL_00348	gene	264				
+DOMIDHEL_00348	CDS	264				hypothetical protein
+DOMIDHEL_00349	gene	168				
+DOMIDHEL_00349	CDS	168				hypothetical protein
+DOMIDHEL_00350	gene	198				
+DOMIDHEL_00350	CDS	198				hypothetical protein
+DOMIDHEL_00351	gene	789				
+DOMIDHEL_00351	CDS	789				hypothetical protein
+DOMIDHEL_00352	gene	219				
+DOMIDHEL_00352	CDS	219				hypothetical protein
+DOMIDHEL_00353	gene	399				
+DOMIDHEL_00353	CDS	399				hypothetical protein
+DOMIDHEL_00354	gene	240				
+DOMIDHEL_00354	CDS	240				hypothetical protein
+DOMIDHEL_00355	gene	525				
+DOMIDHEL_00355	CDS	525				hypothetical protein
+DOMIDHEL_00356	gene	123				
+DOMIDHEL_00356	CDS	123				hypothetical protein
+DOMIDHEL_00357	gene	177				
+DOMIDHEL_00357	CDS	177				hypothetical protein
+DOMIDHEL_00358	gene	333				
+DOMIDHEL_00358	CDS	333				hypothetical protein
+DOMIDHEL_00359	gene	738	prcA			
+DOMIDHEL_00359	CDS	738	prcA			Proteasome subunit alpha
+DOMIDHEL_00360	gene	813				
+DOMIDHEL_00360	CDS	813				hypothetical protein
+DOMIDHEL_00361	gene	111				
+DOMIDHEL_00361	CDS	111				hypothetical protein
+DOMIDHEL_00362	gene	996				
+DOMIDHEL_00362	CDS	996				hypothetical protein
+DOMIDHEL_00363	gene	816				
+DOMIDHEL_00363	CDS	816				hypothetical protein
+DOMIDHEL_00364	gene	267				
+DOMIDHEL_00364	CDS	267				hypothetical protein
+DOMIDHEL_00365	gene	396				
+DOMIDHEL_00365	CDS	396				hypothetical protein
+DOMIDHEL_00366	gene	468				
+DOMIDHEL_00366	CDS	468				hypothetical protein
+DOMIDHEL_00367	gene	756				
+DOMIDHEL_00367	CDS	756				hypothetical protein
+DOMIDHEL_00368	gene	207				
+DOMIDHEL_00368	CDS	207				hypothetical protein
+DOMIDHEL_00369	gene	267				
+DOMIDHEL_00369	CDS	267				hypothetical protein
+DOMIDHEL_00370	gene	324				
+DOMIDHEL_00370	CDS	324				hypothetical protein
+DOMIDHEL_00371	gene	423	rplN			
+DOMIDHEL_00371	CDS	423	rplN			50S ribosomal protein L14
+DOMIDHEL_00372	gene	498				
+DOMIDHEL_00372	CDS	498				hypothetical protein
+DOMIDHEL_00373	gene	717				
+DOMIDHEL_00373	CDS	717				hypothetical protein
+DOMIDHEL_00374	gene	522				
+DOMIDHEL_00374	CDS	522				hypothetical protein
+DOMIDHEL_00375	gene	393	rpsH			
+DOMIDHEL_00375	CDS	393	rpsH			30S ribosomal protein S8
+DOMIDHEL_00376	gene	558				
+DOMIDHEL_00376	CDS	558				hypothetical protein
+DOMIDHEL_00377	gene	288				
+DOMIDHEL_00377	CDS	288				hypothetical protein
+DOMIDHEL_00378	gene	77				
+DOMIDHEL_00378	tRNA	77				tRNA-Asn(gtt)
+DOMIDHEL_00379	gene	249				
+DOMIDHEL_00379	CDS	249				hypothetical protein
+DOMIDHEL_00380	gene	228				
+DOMIDHEL_00380	CDS	228				hypothetical protein
+DOMIDHEL_00381	gene	435				
+DOMIDHEL_00381	CDS	435				hypothetical protein
+DOMIDHEL_00382	gene	153				
+DOMIDHEL_00382	CDS	153				hypothetical protein
+DOMIDHEL_00383	gene	126				
+DOMIDHEL_00383	CDS	126				hypothetical protein
+DOMIDHEL_00384	gene	156				
+DOMIDHEL_00384	CDS	156				hypothetical protein
+DOMIDHEL_00385	gene	774				
+DOMIDHEL_00385	CDS	774				hypothetical protein
+DOMIDHEL_00386	gene	489				
+DOMIDHEL_00386	CDS	489				hypothetical protein
+DOMIDHEL_00387	gene	405				
+DOMIDHEL_00387	CDS	405				hypothetical protein
+DOMIDHEL_00388	gene	405				
+DOMIDHEL_00388	CDS	405				hypothetical protein
+DOMIDHEL_00389	gene	321				
+DOMIDHEL_00389	CDS	321				hypothetical protein
+DOMIDHEL_00390	gene	504				
+DOMIDHEL_00390	CDS	504				hypothetical protein
+DOMIDHEL_00391	gene	303				
+DOMIDHEL_00391	CDS	303				hypothetical protein
+DOMIDHEL_00392	gene	825	purC			
+DOMIDHEL_00392	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+DOMIDHEL_00393	gene	387				
+DOMIDHEL_00393	CDS	387				hypothetical protein
+DOMIDHEL_00394	gene	279				
+DOMIDHEL_00394	CDS	279				hypothetical protein
+DOMIDHEL_00395	gene	1470	purF			
+DOMIDHEL_00395	CDS	1470	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+DOMIDHEL_00396	gene	2166	purL			
+DOMIDHEL_00396	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+DOMIDHEL_00397	gene	681	purQ			
+DOMIDHEL_00397	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+DOMIDHEL_00398	gene	426	IMPDH_2			
+DOMIDHEL_00398	CDS	426	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+DOMIDHEL_00399	gene	261	purS			
+DOMIDHEL_00399	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+DOMIDHEL_00400	gene	384				
+DOMIDHEL_00400	CDS	384				hypothetical protein
+DOMIDHEL_00401	gene	156				
+DOMIDHEL_00401	CDS	156				hypothetical protein
+DOMIDHEL_00402	gene	465				
+DOMIDHEL_00402	CDS	465				hypothetical protein
+DOMIDHEL_00403	gene	792	tatC			
+DOMIDHEL_00403	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+DOMIDHEL_00404	gene	207	tatA			
+DOMIDHEL_00404	CDS	207	tatA			Sec-independent protein translocase protein TatA
+DOMIDHEL_00405	gene	435				
+DOMIDHEL_00405	CDS	435				hypothetical protein
+DOMIDHEL_00406	gene	558	ecdB			
+DOMIDHEL_00406	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+DOMIDHEL_00407	gene	1092				
+DOMIDHEL_00407	CDS	1092				hypothetical protein
+DOMIDHEL_00408	gene	207				
+DOMIDHEL_00408	CDS	207				hypothetical protein
+DOMIDHEL_00409	gene	1380				
+DOMIDHEL_00409	CDS	1380				hypothetical protein
+DOMIDHEL_00410	gene	927	btuF			
+DOMIDHEL_00410	CDS	927	btuF			Vitamin B12-binding protein
+DOMIDHEL_00411	gene	1158				
+DOMIDHEL_00411	CDS	1158				hypothetical protein
+DOMIDHEL_00412	gene	528				
+DOMIDHEL_00412	CDS	528				hypothetical protein
+DOMIDHEL_00413	gene	900				
+DOMIDHEL_00413	CDS	900				hypothetical protein
+DOMIDHEL_00414	gene	777				
+DOMIDHEL_00414	CDS	777				hypothetical protein
+DOMIDHEL_00415	gene	822	mscS			
+DOMIDHEL_00415	CDS	822	mscS		COG0668	Small-conductance mechanosensitive channel
+DOMIDHEL_00416	gene	282				
+DOMIDHEL_00416	CDS	282				hypothetical protein
+DOMIDHEL_00417	gene	660				
+DOMIDHEL_00417	CDS	660				hypothetical protein
+DOMIDHEL_00418	gene	777				
+DOMIDHEL_00418	CDS	777				hypothetical protein
+DOMIDHEL_00419	gene	288				
+DOMIDHEL_00419	CDS	288				hypothetical protein
+DOMIDHEL_00420	gene	438				
+DOMIDHEL_00420	CDS	438				hypothetical protein
+DOMIDHEL_00421	gene	330				
+DOMIDHEL_00421	CDS	330				hypothetical protein
+DOMIDHEL_00422	gene	315				
+DOMIDHEL_00422	CDS	315				hypothetical protein
+DOMIDHEL_00423	gene	1389	cysS			
+DOMIDHEL_00423	CDS	1389	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+DOMIDHEL_00424	gene	792	nadE			
+DOMIDHEL_00424	CDS	792	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+DOMIDHEL_00425	gene	303	todB			
+DOMIDHEL_00425	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+DOMIDHEL_00426	gene	1242	ahcY			
+DOMIDHEL_00426	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+DOMIDHEL_00427	gene	1656	metG			
+DOMIDHEL_00427	CDS	1656	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+DOMIDHEL_00428	gene	753				
+DOMIDHEL_00428	CDS	753				hypothetical protein
+DOMIDHEL_00429	gene	921	tuf			
+DOMIDHEL_00429	CDS	921	tuf			Elongation factor Tu
+DOMIDHEL_00430	gene	516				
+DOMIDHEL_00430	CDS	516		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+DOMIDHEL_00431	gene	543				
+DOMIDHEL_00431	CDS	543				hypothetical protein
+DOMIDHEL_00432	gene	603				
+DOMIDHEL_00432	CDS	603				hypothetical protein
+DOMIDHEL_00433	gene	276				
+DOMIDHEL_00433	CDS	276				hypothetical protein
+DOMIDHEL_00434	gene	999	ilvC			
+DOMIDHEL_00434	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+DOMIDHEL_00435	gene	423	mcm_1			
+DOMIDHEL_00435	CDS	423	mcm_1	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+DOMIDHEL_00436	gene	2493	pepN			
+DOMIDHEL_00436	CDS	2493	pepN	3.4.11.2		Aminopeptidase N
+DOMIDHEL_00437	gene	408				
+DOMIDHEL_00437	CDS	408				hypothetical protein
+DOMIDHEL_00438	gene	918	argK			
+DOMIDHEL_00438	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+DOMIDHEL_00439	gene	1599	mcm_2			
+DOMIDHEL_00439	CDS	1599	mcm_2	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+DOMIDHEL_00440	gene	396	epi			
+DOMIDHEL_00440	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+DOMIDHEL_00441	gene	558				
+DOMIDHEL_00441	CDS	558				hypothetical protein
+DOMIDHEL_00442	gene	2643	ppdK_1			
+DOMIDHEL_00442	CDS	2643	ppdK_1	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+DOMIDHEL_00443	gene	657	tpiA			
+DOMIDHEL_00443	CDS	657	tpiA			Triosephosphate isomerase
+DOMIDHEL_00444	gene	282				
+DOMIDHEL_00444	CDS	282				hypothetical protein
+DOMIDHEL_00445	gene	2559				
+DOMIDHEL_00445	CDS	2559				hypothetical protein
+DOMIDHEL_00446	gene	483				
+DOMIDHEL_00446	CDS	483				hypothetical protein
+DOMIDHEL_00447	gene	189				
+DOMIDHEL_00447	CDS	189				hypothetical protein
+DOMIDHEL_00448	gene	246				
+DOMIDHEL_00448	CDS	246				hypothetical protein
+DOMIDHEL_00449	gene	216				
+DOMIDHEL_00449	CDS	216				hypothetical protein
+DOMIDHEL_00450	gene	1074				
+DOMIDHEL_00450	CDS	1074				hypothetical protein
+DOMIDHEL_00451	gene	867				
+DOMIDHEL_00451	CDS	867				hypothetical protein
+DOMIDHEL_00452	gene	663	rplA			
+DOMIDHEL_00452	CDS	663	rplA		COG0081	50S ribosomal protein L1
+DOMIDHEL_00453	gene	534				
+DOMIDHEL_00453	CDS	534				hypothetical protein
+DOMIDHEL_00454	gene	105				
+DOMIDHEL_00454	CDS	105				hypothetical protein
+DOMIDHEL_00455	gene	141				
+DOMIDHEL_00455	CDS	141				hypothetical protein
+DOMIDHEL_00456	gene	111				
+DOMIDHEL_00456	CDS	111				hypothetical protein
+DOMIDHEL_00457	gene	318				
+DOMIDHEL_00457	CDS	318				hypothetical protein
+DOMIDHEL_00458	gene	402				
+DOMIDHEL_00458	CDS	402				hypothetical protein
+DOMIDHEL_00459	gene	348	cheY_2			
+DOMIDHEL_00459	CDS	348	cheY_2		COG0784	Chemotaxis protein CheY
+DOMIDHEL_00460	gene	141				
+DOMIDHEL_00460	CDS	141				hypothetical protein
+DOMIDHEL_00461	gene	189				
+DOMIDHEL_00461	CDS	189				hypothetical protein
+DOMIDHEL_00462	gene	480				
+DOMIDHEL_00462	CDS	480				hypothetical protein
+DOMIDHEL_00463	gene	459				
+DOMIDHEL_00463	CDS	459				hypothetical protein
+DOMIDHEL_00464	gene	129				
+DOMIDHEL_00464	CDS	129				hypothetical protein
+DOMIDHEL_00465	gene	777				
+DOMIDHEL_00465	CDS	777				hypothetical protein
+DOMIDHEL_00466	gene	300	ogt			
+DOMIDHEL_00466	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+DOMIDHEL_00467	gene	396				
+DOMIDHEL_00467	CDS	396				hypothetical protein
+DOMIDHEL_00468	gene	456				
+DOMIDHEL_00468	CDS	456				hypothetical protein
+DOMIDHEL_00469	gene	405				
+DOMIDHEL_00469	CDS	405				hypothetical protein
+DOMIDHEL_00470	gene	1596	pckA			
+DOMIDHEL_00470	CDS	1596	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+DOMIDHEL_00471	gene	2025				
+DOMIDHEL_00471	CDS	2025				hypothetical protein
+DOMIDHEL_00472	gene	621	sodA_1			
+DOMIDHEL_00472	CDS	621	sodA_1	1.15.1.1		Superoxide dismutase [Mn]
+DOMIDHEL_00473	gene	450	pfdA			
+DOMIDHEL_00473	CDS	450	pfdA			Prefoldin subunit alpha
+DOMIDHEL_00474	gene	1128	ftsY			
+DOMIDHEL_00474	CDS	1128	ftsY			Signal recognition particle receptor FtsY
+DOMIDHEL_00475	gene	216				
+DOMIDHEL_00475	CDS	216				hypothetical protein
+DOMIDHEL_00476	gene	915	argF			
+DOMIDHEL_00476	CDS	915	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+DOMIDHEL_00477	gene	483				
+DOMIDHEL_00477	CDS	483				hypothetical protein
+DOMIDHEL_00478	gene	714				
+DOMIDHEL_00478	CDS	714				hypothetical protein
+DOMIDHEL_00479	gene	468				
+DOMIDHEL_00479	CDS	468				hypothetical protein
+DOMIDHEL_00480	gene	465				
+DOMIDHEL_00480	CDS	465				hypothetical protein
+DOMIDHEL_00481	gene	1431	secY			
+DOMIDHEL_00481	CDS	1431	secY			Protein translocase subunit SecY
+DOMIDHEL_00482	gene	588				
+DOMIDHEL_00482	CDS	588				hypothetical protein
+DOMIDHEL_00483	gene	624				
+DOMIDHEL_00483	CDS	624				hypothetical protein
+DOMIDHEL_00484	gene	561	cmk			
+DOMIDHEL_00484	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+DOMIDHEL_00485	gene	999	truB			
+DOMIDHEL_00485	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+DOMIDHEL_00486	gene	447				
+DOMIDHEL_00486	CDS	447				hypothetical protein
+DOMIDHEL_00487	gene	1203	sub1			
+DOMIDHEL_00487	CDS	1203	sub1	3.4.21.62		Subtilisin
+DOMIDHEL_00488	gene	141				
+DOMIDHEL_00488	CDS	141				hypothetical protein
+DOMIDHEL_00489	gene	1314	lhgD			
+DOMIDHEL_00489	CDS	1314	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+DOMIDHEL_00490	gene	282				
+DOMIDHEL_00490	CDS	282				hypothetical protein
+DOMIDHEL_00491	gene	372				
+DOMIDHEL_00491	CDS	372				hypothetical protein
+DOMIDHEL_00492	gene	969	ghrB			
+DOMIDHEL_00492	CDS	969	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+DOMIDHEL_00493	gene	147				
+DOMIDHEL_00493	CDS	147				hypothetical protein
+DOMIDHEL_00494	gene	1911				
+DOMIDHEL_00494	CDS	1911				hypothetical protein
+DOMIDHEL_00495	gene	963				
+DOMIDHEL_00495	CDS	963				hypothetical protein
+DOMIDHEL_00496	gene	441				
+DOMIDHEL_00496	CDS	441				hypothetical protein
+DOMIDHEL_00497	gene	534				
+DOMIDHEL_00497	CDS	534				hypothetical protein
+DOMIDHEL_00498	gene	189				
+DOMIDHEL_00498	CDS	189				hypothetical protein
+DOMIDHEL_00499	gene	555				
+DOMIDHEL_00499	CDS	555				hypothetical protein
+DOMIDHEL_00500	gene	780	fbiB_2			
+DOMIDHEL_00500	CDS	780	fbiB_2	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+DOMIDHEL_00501	gene	1272	dmdA			
+DOMIDHEL_00501	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+DOMIDHEL_00502	gene	483	DmdB			
+DOMIDHEL_00502	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+DOMIDHEL_00503	gene	1416	leuC			
+DOMIDHEL_00503	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+DOMIDHEL_00504	gene	585	leuD1			
+DOMIDHEL_00504	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+DOMIDHEL_00505	gene	720	cugP			
+DOMIDHEL_00505	CDS	720	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+DOMIDHEL_00506	gene	450	rpsI			
+DOMIDHEL_00506	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+DOMIDHEL_00507	gene	465				
+DOMIDHEL_00507	CDS	465				hypothetical protein
+DOMIDHEL_00508	gene	348				
+DOMIDHEL_00508	CDS	348				hypothetical protein
+DOMIDHEL_00509	gene	666				
+DOMIDHEL_00509	CDS	666				hypothetical protein
+DOMIDHEL_00510	gene	363				
+DOMIDHEL_00510	CDS	363				hypothetical protein
+DOMIDHEL_00511	gene	1074	sasA_2			
+DOMIDHEL_00511	CDS	1074	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+DOMIDHEL_00512	gene	534				
+DOMIDHEL_00512	CDS	534				hypothetical protein
+DOMIDHEL_00513	gene	687				
+DOMIDHEL_00513	CDS	687				hypothetical protein
+DOMIDHEL_00514	gene	681	pnp			
+DOMIDHEL_00514	CDS	681	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+DOMIDHEL_00515	gene	735	rph_1			
+DOMIDHEL_00515	CDS	735	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+DOMIDHEL_00516	gene	819	rph_2			
+DOMIDHEL_00516	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+DOMIDHEL_00517	gene	213				
+DOMIDHEL_00517	CDS	213				hypothetical protein
+DOMIDHEL_00518	gene	246				
+DOMIDHEL_00518	CDS	246				hypothetical protein
+DOMIDHEL_00519	gene	375				
+DOMIDHEL_00519	CDS	375				hypothetical protein
+DOMIDHEL_00520	gene	687				
+DOMIDHEL_00520	CDS	687				hypothetical protein
+DOMIDHEL_00521	gene	495				
+DOMIDHEL_00521	CDS	495				hypothetical protein
+DOMIDHEL_00522	gene	483				
+DOMIDHEL_00522	CDS	483				hypothetical protein
+DOMIDHEL_00523	gene	816	nadK_1			
+DOMIDHEL_00523	CDS	816	nadK_1	2.7.1.23		NAD kinase
+DOMIDHEL_00524	gene	924				
+DOMIDHEL_00524	CDS	924			COG3039	IS5 family transposase ISMeme1
+DOMIDHEL_00525	gene	846	ttuD			
+DOMIDHEL_00525	CDS	846	ttuD		COG2897	Sulfur carrier protein TtuD
+DOMIDHEL_00526	gene	312				
+DOMIDHEL_00526	CDS	312				hypothetical protein
+DOMIDHEL_00527	gene	948				
+DOMIDHEL_00527	CDS	948				hypothetical protein
+DOMIDHEL_00528	gene	2094				
+DOMIDHEL_00528	CDS	2094				hypothetical protein
+DOMIDHEL_00529	gene	1530				
+DOMIDHEL_00529	CDS	1530				hypothetical protein
+DOMIDHEL_00530	gene	108				
+DOMIDHEL_00530	CDS	108				hypothetical protein
+DOMIDHEL_00531	gene	1326	magA			
+DOMIDHEL_00531	CDS	1326	magA		COG0475	Iron transporter MagA
+DOMIDHEL_00532	gene	429				
+DOMIDHEL_00532	CDS	429				hypothetical protein
+DOMIDHEL_00533	gene	77				
+DOMIDHEL_00533	tRNA	77				tRNA-Gly(gcc)
+DOMIDHEL_00534	gene	264				
+DOMIDHEL_00534	CDS	264				hypothetical protein
+DOMIDHEL_00535	gene	510				
+DOMIDHEL_00535	CDS	510				hypothetical protein
+DOMIDHEL_00536	gene	564				
+DOMIDHEL_00536	CDS	564				hypothetical protein
+DOMIDHEL_00537	gene	657				
+DOMIDHEL_00537	CDS	657				hypothetical protein
+DOMIDHEL_00538	gene	147				
+DOMIDHEL_00538	CDS	147				hypothetical protein
+DOMIDHEL_00539	gene	411				
+DOMIDHEL_00539	CDS	411				hypothetical protein
+DOMIDHEL_00540	gene	243				
+DOMIDHEL_00540	CDS	243				hypothetical protein
+DOMIDHEL_00541	gene	243				
+DOMIDHEL_00541	CDS	243				hypothetical protein
+DOMIDHEL_00542	gene	237				
+DOMIDHEL_00542	CDS	237				hypothetical protein
+DOMIDHEL_00543	gene	696				
+DOMIDHEL_00543	CDS	696				hypothetical protein
+DOMIDHEL_00544	gene	954				
+DOMIDHEL_00544	CDS	954				hypothetical protein
+DOMIDHEL_00545	gene	348	rpfC			
+DOMIDHEL_00545	CDS	348	rpfC	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+DOMIDHEL_00546	gene	1086	barA			
+DOMIDHEL_00546	CDS	1086	barA	2.7.13.3	COG0784	Signal transduction histidine-protein kinase BarA
+DOMIDHEL_00547	gene	564				
+DOMIDHEL_00547	CDS	564				hypothetical protein
+DOMIDHEL_00548	gene	1359	hisC			
+DOMIDHEL_00548	CDS	1359	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+DOMIDHEL_00549	gene	1926	acsA_1			
+DOMIDHEL_00549	CDS	1926	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+DOMIDHEL_00550	gene	264				
+DOMIDHEL_00550	CDS	264				hypothetical protein
+DOMIDHEL_00551	gene	1404	gatB			
+DOMIDHEL_00551	CDS	1404	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+DOMIDHEL_00552	gene	1446	gatA			
+DOMIDHEL_00552	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+DOMIDHEL_00553	gene	267				
+DOMIDHEL_00553	CDS	267				hypothetical protein
+DOMIDHEL_00554	gene	1311	aspS2_1			
+DOMIDHEL_00554	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+DOMIDHEL_00555	gene	183				
+DOMIDHEL_00555	CDS	183				hypothetical protein
+DOMIDHEL_00556	gene	210				
+DOMIDHEL_00556	CDS	210				hypothetical protein
+DOMIDHEL_00557	gene	1026				
+DOMIDHEL_00557	CDS	1026				hypothetical protein
+DOMIDHEL_00558	gene	792	phnE			
+DOMIDHEL_00558	CDS	792	phnE		COG3639	Phosphate-import permease protein PhnE
+DOMIDHEL_00559	gene	831	metN			
+DOMIDHEL_00559	CDS	831	metN	3.6.3.-	COG1135	Methionine import ATP-binding protein MetN
+DOMIDHEL_00560	gene	1089				
+DOMIDHEL_00560	CDS	1089				hypothetical protein
+DOMIDHEL_00561	gene	351				
+DOMIDHEL_00561	CDS	351				hypothetical protein
+DOMIDHEL_00562	gene	333				
+DOMIDHEL_00562	CDS	333				hypothetical protein
+DOMIDHEL_00563	gene	729				
+DOMIDHEL_00563	CDS	729				hypothetical protein
+DOMIDHEL_00564	gene	216				
+DOMIDHEL_00564	CDS	216				hypothetical protein
+DOMIDHEL_00565	gene	732	cheB			
+DOMIDHEL_00565	CDS	732	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+DOMIDHEL_00566	gene	510				
+DOMIDHEL_00566	CDS	510				hypothetical protein
+DOMIDHEL_00567	gene	645				
+DOMIDHEL_00567	CDS	645				hypothetical protein
+DOMIDHEL_00568	gene	1281				
+DOMIDHEL_00568	CDS	1281				hypothetical protein
+DOMIDHEL_00569	gene	405	hit_1			
+DOMIDHEL_00569	CDS	405	hit_1		COG0537	Protein hit
+DOMIDHEL_00570	gene	600				
+DOMIDHEL_00570	CDS	600				hypothetical protein
+DOMIDHEL_00571	gene	195				
+DOMIDHEL_00571	CDS	195				hypothetical protein
+DOMIDHEL_00572	gene	1677	ilvD			
+DOMIDHEL_00572	CDS	1677	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+DOMIDHEL_00573	gene	555				
+DOMIDHEL_00573	CDS	555				hypothetical protein
+DOMIDHEL_00574	gene	2322	vgb_1			
+DOMIDHEL_00574	CDS	2322	vgb_1	4.2.99.-		Virginiamycin B lyase
+DOMIDHEL_00575	gene	75				
+DOMIDHEL_00575	tRNA	75				tRNA-Glu(ctc)
+DOMIDHEL_00576	gene	876				
+DOMIDHEL_00576	CDS	876				hypothetical protein
+DOMIDHEL_00577	gene	144				
+DOMIDHEL_00577	CDS	144				hypothetical protein
+DOMIDHEL_00578	gene	168				
+DOMIDHEL_00578	CDS	168				hypothetical protein
+DOMIDHEL_00579	gene	1440				
+DOMIDHEL_00579	CDS	1440				hypothetical protein
+DOMIDHEL_00580	gene	360				
+DOMIDHEL_00580	CDS	360				hypothetical protein
+DOMIDHEL_00581	gene	477				
+DOMIDHEL_00581	CDS	477				hypothetical protein
+DOMIDHEL_00582	gene	642				
+DOMIDHEL_00582	CDS	642				hypothetical protein
+DOMIDHEL_00583	gene	2262				
+DOMIDHEL_00583	CDS	2262				hypothetical protein
+DOMIDHEL_00584	gene	717				
+DOMIDHEL_00584	CDS	717				hypothetical protein
+DOMIDHEL_00585	gene	318				
+DOMIDHEL_00585	CDS	318				hypothetical protein
+DOMIDHEL_00586	gene	453				
+DOMIDHEL_00586	CDS	453				hypothetical protein
+DOMIDHEL_00587	gene	1002	drrA			
+DOMIDHEL_00587	CDS	1002	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+DOMIDHEL_00588	gene	786				
+DOMIDHEL_00588	CDS	786				hypothetical protein
+DOMIDHEL_00589	gene	1572	vgb_2			
+DOMIDHEL_00589	CDS	1572	vgb_2	4.2.99.-		Virginiamycin B lyase
+DOMIDHEL_00590	gene	1632				
+DOMIDHEL_00590	CDS	1632				hypothetical protein
+DOMIDHEL_00591	gene	1254				
+DOMIDHEL_00591	CDS	1254				hypothetical protein
+DOMIDHEL_00592	gene	261				
+DOMIDHEL_00592	CDS	261				hypothetical protein
+DOMIDHEL_00593	gene	978	pstC			
+DOMIDHEL_00593	CDS	978	pstC		COG0573	Phosphate transport system permease protein PstC
+DOMIDHEL_00594	gene	933	pstA			
+DOMIDHEL_00594	CDS	933	pstA		COG0581	Phosphate transport system permease protein PstA
+DOMIDHEL_00595	gene	834	pstB3			
+DOMIDHEL_00595	CDS	834	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+DOMIDHEL_00596	gene	660	phoU			
+DOMIDHEL_00596	CDS	660	phoU		COG0704	Phosphate-specific transport system accessory protein PhoU 
+DOMIDHEL_00597	gene	1080				
+DOMIDHEL_00597	CDS	1080				hypothetical protein
+DOMIDHEL_00598	gene	303				
+DOMIDHEL_00598	CDS	303				hypothetical protein
+DOMIDHEL_00599	gene	300	cadC			
+DOMIDHEL_00599	CDS	300	cadC			Cadmium resistance transcriptional regulatory protein CadC
+DOMIDHEL_00600	gene	399	arsC2			
+DOMIDHEL_00600	CDS	399	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+DOMIDHEL_00601	gene	690	aqpZ			
+DOMIDHEL_00601	CDS	690	aqpZ		COG0580	Aquaporin Z
+DOMIDHEL_00602	gene	1341	hemL			
+DOMIDHEL_00602	CDS	1341	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+DOMIDHEL_00603	gene	936	hemC			
+DOMIDHEL_00603	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+DOMIDHEL_00604	gene	741	sumT			
+DOMIDHEL_00604	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+DOMIDHEL_00605	gene	936	smc_2			
+DOMIDHEL_00605	CDS	936	smc_2			Chromosome partition protein Smc
+DOMIDHEL_00606	gene	1482	smc_3			
+DOMIDHEL_00606	CDS	1482	smc_3			Chromosome partition protein Smc
+DOMIDHEL_00607	gene	291				
+DOMIDHEL_00607	CDS	291				hypothetical protein
+DOMIDHEL_00608	gene	828	mqnD			
+DOMIDHEL_00608	CDS	828	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+DOMIDHEL_00609	gene	951				
+DOMIDHEL_00609	CDS	951				hypothetical protein
+DOMIDHEL_00610	gene	2193	fusA			
+DOMIDHEL_00610	CDS	2193	fusA		COG0480	Elongation factor G
+DOMIDHEL_00611	gene	447				
+DOMIDHEL_00611	CDS	447				hypothetical protein
+DOMIDHEL_00612	gene	2094				
+DOMIDHEL_00612	CDS	2094				hypothetical protein
+DOMIDHEL_00613	gene	111				
+DOMIDHEL_00613	CDS	111				hypothetical protein
+DOMIDHEL_00614	gene	579				
+DOMIDHEL_00614	CDS	579				hypothetical protein
+DOMIDHEL_00615	gene	231				
+DOMIDHEL_00615	CDS	231				hypothetical protein
+DOMIDHEL_00616	gene	231				
+DOMIDHEL_00616	CDS	231				hypothetical protein
+DOMIDHEL_00617	gene	423				
+DOMIDHEL_00617	CDS	423				hypothetical protein
+DOMIDHEL_00618	gene	231				
+DOMIDHEL_00618	CDS	231				hypothetical protein
+DOMIDHEL_00619	gene	1488				
+DOMIDHEL_00619	CDS	1488				hypothetical protein
+DOMIDHEL_00620	gene	618	trmR			
+DOMIDHEL_00620	CDS	618	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+DOMIDHEL_00621	gene	378				
+DOMIDHEL_00621	CDS	378				hypothetical protein
+DOMIDHEL_00622	gene	357				
+DOMIDHEL_00622	CDS	357				hypothetical protein
+DOMIDHEL_00623	gene	207				
+DOMIDHEL_00623	CDS	207				hypothetical protein
+DOMIDHEL_00624	gene	213				
+DOMIDHEL_00624	CDS	213				hypothetical protein
+DOMIDHEL_00625	gene	204				
+DOMIDHEL_00625	CDS	204				hypothetical protein
+DOMIDHEL_00626	gene	291				
+DOMIDHEL_00626	CDS	291				hypothetical protein
+DOMIDHEL_00627	gene	567				
+DOMIDHEL_00627	CDS	567				hypothetical protein
+DOMIDHEL_00628	gene	234				
+DOMIDHEL_00628	CDS	234				hypothetical protein
+DOMIDHEL_00629	gene	264				
+DOMIDHEL_00629	CDS	264				hypothetical protein
+DOMIDHEL_00630	gene	813				
+DOMIDHEL_00630	CDS	813				hypothetical protein
+DOMIDHEL_00631	gene	1818	IMPDH_3			
+DOMIDHEL_00631	CDS	1818	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+DOMIDHEL_00632	gene	444				
+DOMIDHEL_00632	CDS	444				hypothetical protein
+DOMIDHEL_00633	gene	219				
+DOMIDHEL_00633	CDS	219				hypothetical protein
+DOMIDHEL_00634	gene	198				
+DOMIDHEL_00634	CDS	198				hypothetical protein
+DOMIDHEL_00635	gene	393				
+DOMIDHEL_00635	CDS	393				hypothetical protein
+DOMIDHEL_00636	gene	249				
+DOMIDHEL_00636	CDS	249				hypothetical protein
+DOMIDHEL_00637	gene	261				
+DOMIDHEL_00637	CDS	261				hypothetical protein
+DOMIDHEL_00638	gene	258				
+DOMIDHEL_00638	CDS	258				hypothetical protein
+DOMIDHEL_00639	gene	438				
+DOMIDHEL_00639	CDS	438				hypothetical protein
+DOMIDHEL_00640	gene	447				
+DOMIDHEL_00640	CDS	447				hypothetical protein
+DOMIDHEL_00641	gene	1071				
+DOMIDHEL_00641	CDS	1071				hypothetical protein
+DOMIDHEL_00642	gene	1353	apgM			
+DOMIDHEL_00642	CDS	1353	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+DOMIDHEL_00643	gene	561				
+DOMIDHEL_00643	CDS	561				hypothetical protein
+DOMIDHEL_00644	gene	453				
+DOMIDHEL_00644	CDS	453				hypothetical protein
+DOMIDHEL_00645	gene	174				
+DOMIDHEL_00645	CDS	174				hypothetical protein
+DOMIDHEL_00646	gene	711				
+DOMIDHEL_00646	CDS	711				hypothetical protein
+DOMIDHEL_00647	gene	99				
+DOMIDHEL_00647	CDS	99				hypothetical protein
+DOMIDHEL_00648	gene	1143				
+DOMIDHEL_00648	CDS	1143				hypothetical protein
+DOMIDHEL_00649	gene	1329	ffh			
+DOMIDHEL_00649	CDS	1329	ffh		COG0541	Signal recognition particle protein
+DOMIDHEL_00650	gene	690				
+DOMIDHEL_00650	CDS	690				hypothetical protein
+DOMIDHEL_00651	gene	411				
+DOMIDHEL_00651	CDS	411				hypothetical protein
+DOMIDHEL_00652	gene	609				
+DOMIDHEL_00652	CDS	609				hypothetical protein
+DOMIDHEL_00653	gene	192	cspLA			
+DOMIDHEL_00653	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+DOMIDHEL_00654	gene	312				
+DOMIDHEL_00654	CDS	312				hypothetical protein
+DOMIDHEL_00655	gene	564				
+DOMIDHEL_00655	CDS	564				hypothetical protein
+DOMIDHEL_00656	gene	501				
+DOMIDHEL_00656	CDS	501				hypothetical protein
+DOMIDHEL_00657	gene	621	rssB			
+DOMIDHEL_00657	CDS	621	rssB			Regulator of RpoS
+DOMIDHEL_00658	gene	1197	adh			
+DOMIDHEL_00658	CDS	1197	adh	1.1.1.1		Alcohol dehydrogenase
+DOMIDHEL_00659	gene	594				
+DOMIDHEL_00659	CDS	594				hypothetical protein
+DOMIDHEL_00660	gene	579	scpB			
+DOMIDHEL_00660	CDS	579	scpB			Segregation and condensation protein B
+DOMIDHEL_00661	gene	384				
+DOMIDHEL_00661	CDS	384				hypothetical protein
+DOMIDHEL_00662	gene	300				
+DOMIDHEL_00662	CDS	300				hypothetical protein
+DOMIDHEL_00663	gene	249				
+DOMIDHEL_00663	CDS	249				hypothetical protein
+DOMIDHEL_00664	gene	957				
+DOMIDHEL_00664	CDS	957				hypothetical protein
+DOMIDHEL_00665	gene	771	sufC			
+DOMIDHEL_00665	CDS	771	sufC		COG0396	Vegetative protein 296
+DOMIDHEL_00666	gene	213				
+DOMIDHEL_00666	CDS	213				hypothetical protein
+DOMIDHEL_00667	gene	678				
+DOMIDHEL_00667	CDS	678			COG3253	putative protein/MSMEI_2713
+DOMIDHEL_00668	gene	999	iolS_2			
+DOMIDHEL_00668	CDS	999	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+DOMIDHEL_00669	gene	339				
+DOMIDHEL_00669	CDS	339				hypothetical protein
+DOMIDHEL_00670	gene	1026				
+DOMIDHEL_00670	CDS	1026				hypothetical protein
+DOMIDHEL_00671	gene	540	cysG			
+DOMIDHEL_00671	CDS	540	cysG	4.99.1.4		Siroheme synthase
+DOMIDHEL_00672	gene	1266	hemA_2			
+DOMIDHEL_00672	CDS	1266	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+DOMIDHEL_00673	gene	981	hemB			
+DOMIDHEL_00673	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+DOMIDHEL_00674	gene	312				
+DOMIDHEL_00674	CDS	312				hypothetical protein
+DOMIDHEL_00675	gene	621	yedJ			
+DOMIDHEL_00675	CDS	621	yedJ		COG1418	putative protein YedJ
+DOMIDHEL_00676	gene	621				
+DOMIDHEL_00676	CDS	621				hypothetical protein
+DOMIDHEL_00677	gene	315				
+DOMIDHEL_00677	CDS	315				hypothetical protein
+DOMIDHEL_00678	gene	2553				
+DOMIDHEL_00678	CDS	2553				hypothetical protein
+DOMIDHEL_00679	gene	462				
+DOMIDHEL_00679	CDS	462				hypothetical protein
+DOMIDHEL_00680	gene	240				
+DOMIDHEL_00680	CDS	240				hypothetical protein
+DOMIDHEL_00681	gene	969	rutE_1			
+DOMIDHEL_00681	CDS	969	rutE_1	1.1.1.298		malonic semialdehyde reductase RutE
+DOMIDHEL_00682	gene	831				
+DOMIDHEL_00682	CDS	831				hypothetical protein
+DOMIDHEL_00683	gene	228				
+DOMIDHEL_00683	CDS	228				hypothetical protein
+DOMIDHEL_00684	gene	834				
+DOMIDHEL_00684	CDS	834				hypothetical protein
+DOMIDHEL_00685	gene	903				
+DOMIDHEL_00685	CDS	903				hypothetical protein
+DOMIDHEL_00686	gene	1338				
+DOMIDHEL_00686	CDS	1338				hypothetical protein
+DOMIDHEL_00687	gene	417				
+DOMIDHEL_00687	CDS	417				hypothetical protein
+DOMIDHEL_00688	gene	120				
+DOMIDHEL_00688	CDS	120				hypothetical protein
+DOMIDHEL_00689	gene	342				
+DOMIDHEL_00689	CDS	342				hypothetical protein
+DOMIDHEL_00690	gene	651				
+DOMIDHEL_00690	CDS	651				hypothetical protein
+DOMIDHEL_00691	gene	1098	dipZ			
+DOMIDHEL_00691	CDS	1098	dipZ		COG0785	Protein DipZ
+DOMIDHEL_00692	gene	735				
+DOMIDHEL_00692	CDS	735				hypothetical protein
+DOMIDHEL_00693	gene	144				
+DOMIDHEL_00693	CDS	144				hypothetical protein
+DOMIDHEL_00694	gene	1131	bioF			
+DOMIDHEL_00694	CDS	1131	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+DOMIDHEL_00695	gene	1023	bioB			
+DOMIDHEL_00695	CDS	1023	bioB	2.8.1.6	COG0502	Biotin synthase
+DOMIDHEL_00696	gene	477				
+DOMIDHEL_00696	CDS	477				hypothetical protein
+DOMIDHEL_00697	gene	264				
+DOMIDHEL_00697	CDS	264				hypothetical protein
+DOMIDHEL_00698	gene	387				
+DOMIDHEL_00698	CDS	387				hypothetical protein
+DOMIDHEL_00699	gene	303				
+DOMIDHEL_00699	CDS	303				hypothetical protein
+DOMIDHEL_00700	gene	282				
+DOMIDHEL_00700	CDS	282				hypothetical protein
+DOMIDHEL_00701	gene	507	ftnA_1			
+DOMIDHEL_00701	CDS	507	ftnA_1	1.16.3.2	COG1528	Bacterial non-heme ferritin
+DOMIDHEL_00702	gene	882				
+DOMIDHEL_00702	CDS	882				hypothetical protein
+DOMIDHEL_00703	gene	843				
+DOMIDHEL_00703	CDS	843				hypothetical protein
+DOMIDHEL_00704	gene	93				
+DOMIDHEL_00704	CDS	93				hypothetical protein
+DOMIDHEL_00705	gene	447				
+DOMIDHEL_00705	CDS	447				hypothetical protein
+DOMIDHEL_00706	gene	360				
+DOMIDHEL_00706	CDS	360				hypothetical protein
+DOMIDHEL_00707	gene	141				
+DOMIDHEL_00707	CDS	141				hypothetical protein
+DOMIDHEL_00708	gene	153				
+DOMIDHEL_00708	CDS	153				hypothetical protein
+DOMIDHEL_00709	gene	966				
+DOMIDHEL_00709	CDS	966				hypothetical protein
+DOMIDHEL_00710	gene	183				
+DOMIDHEL_00710	CDS	183				hypothetical protein
+DOMIDHEL_00711	gene	1212	OLA1			
+DOMIDHEL_00711	CDS	1212	OLA1			Obg-like ATPase 1
+DOMIDHEL_00712	gene	360				
+DOMIDHEL_00712	CDS	360				hypothetical protein
+DOMIDHEL_00713	gene	411	yccU			
+DOMIDHEL_00713	CDS	411	yccU		COG1832	putative protein YccU
+DOMIDHEL_00714	gene	522				
+DOMIDHEL_00714	CDS	522				hypothetical protein
+DOMIDHEL_00715	gene	1008	birA			
+DOMIDHEL_00715	CDS	1008	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+DOMIDHEL_00716	gene	348				
+DOMIDHEL_00716	CDS	348				hypothetical protein
+DOMIDHEL_00717	gene	1437				
+DOMIDHEL_00717	CDS	1437				hypothetical protein
+DOMIDHEL_00718	gene	948				
+DOMIDHEL_00718	CDS	948				hypothetical protein
+DOMIDHEL_00719	gene	408	gpt			
+DOMIDHEL_00719	CDS	408	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+DOMIDHEL_00720	gene	393				
+DOMIDHEL_00720	CDS	393				hypothetical protein
+DOMIDHEL_00721	gene	579				
+DOMIDHEL_00721	CDS	579				hypothetical protein
+DOMIDHEL_00722	gene	1065	phaC			
+DOMIDHEL_00722	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+DOMIDHEL_00723	gene	429				
+DOMIDHEL_00723	CDS	429				hypothetical protein
+DOMIDHEL_00724	gene	426				
+DOMIDHEL_00724	CDS	426				hypothetical protein
+DOMIDHEL_00725	gene	846				
+DOMIDHEL_00725	CDS	846			COG0596	putative protein
+DOMIDHEL_00726	gene	432	nhaX			
+DOMIDHEL_00726	CDS	432	nhaX		COG0589	Stress response protein NhaX
+DOMIDHEL_00727	gene	453	msrA			
+DOMIDHEL_00727	CDS	453	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+DOMIDHEL_00728	gene	402				
+DOMIDHEL_00728	CDS	402				hypothetical protein
+DOMIDHEL_00729	gene	1098				
+DOMIDHEL_00729	CDS	1098				hypothetical protein
+DOMIDHEL_00730	gene	855				
+DOMIDHEL_00730	CDS	855				hypothetical protein
+DOMIDHEL_00731	gene	132				
+DOMIDHEL_00731	CDS	132				hypothetical protein
+DOMIDHEL_00732	gene	477				
+DOMIDHEL_00732	CDS	477				hypothetical protein
+DOMIDHEL_00733	gene	177				
+DOMIDHEL_00733	CDS	177				hypothetical protein
+DOMIDHEL_00734	gene	186				
+DOMIDHEL_00734	CDS	186				hypothetical protein
+DOMIDHEL_00735	gene	840	COQ5			
+DOMIDHEL_00735	CDS	840	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+DOMIDHEL_00736	gene	576				
+DOMIDHEL_00736	CDS	576				hypothetical protein
+DOMIDHEL_00737	gene	903				
+DOMIDHEL_00737	CDS	903				hypothetical protein
+DOMIDHEL_00738	gene	114				
+DOMIDHEL_00738	CDS	114				hypothetical protein
+DOMIDHEL_00739	gene	228				
+DOMIDHEL_00739	CDS	228				hypothetical protein
+DOMIDHEL_00740	gene	468				
+DOMIDHEL_00740	CDS	468				hypothetical protein
+DOMIDHEL_00741	gene	90				
+DOMIDHEL_00741	CDS	90				hypothetical protein
+DOMIDHEL_00742	gene	240				
+DOMIDHEL_00742	CDS	240				hypothetical protein
+DOMIDHEL_00743	gene	1458	argH			
+DOMIDHEL_00743	CDS	1458	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+DOMIDHEL_00744	gene	357				
+DOMIDHEL_00744	CDS	357				hypothetical protein
+DOMIDHEL_00745	gene	750	frdB			
+DOMIDHEL_00745	CDS	750	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+DOMIDHEL_00746	gene	345				
+DOMIDHEL_00746	CDS	345				hypothetical protein
+DOMIDHEL_00747	gene	432				
+DOMIDHEL_00747	CDS	432				hypothetical protein
+DOMIDHEL_00748	gene	1713	frdA			
+DOMIDHEL_00748	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+DOMIDHEL_00749	gene	510				
+DOMIDHEL_00749	CDS	510				hypothetical protein
+DOMIDHEL_00750	gene	867	Dml			
+DOMIDHEL_00750	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+DOMIDHEL_00751	gene	288				
+DOMIDHEL_00751	CDS	288				hypothetical protein
+DOMIDHEL_00752	gene	75				
+DOMIDHEL_00752	tRNA	75				tRNA-Ala(ggc)
+DOMIDHEL_00753	gene	846	fpr_2			
+DOMIDHEL_00753	CDS	846	fpr_2	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+DOMIDHEL_00754	gene	603				
+DOMIDHEL_00754	CDS	603				hypothetical protein
+DOMIDHEL_00755	gene	405				
+DOMIDHEL_00755	CDS	405				hypothetical protein
+DOMIDHEL_00756	gene	918	ilvE_2			
+DOMIDHEL_00756	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DOMIDHEL_00757	gene	936	iolX			
+DOMIDHEL_00757	CDS	936	iolX	1.1.1.370	COG0673	scyllo-inositol 2-dehydrogenase (NAD(+))
+DOMIDHEL_00758	gene	270				
+DOMIDHEL_00758	CDS	270				hypothetical protein
+DOMIDHEL_00759	gene	477	fdtC			
+DOMIDHEL_00759	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+DOMIDHEL_00760	gene	231				
+DOMIDHEL_00760	CDS	231				hypothetical protein
+DOMIDHEL_00761	gene	714	mraY			
+DOMIDHEL_00761	CDS	714	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+DOMIDHEL_00762	gene	252				
+DOMIDHEL_00762	CDS	252				hypothetical protein
+DOMIDHEL_00763	gene	2130	cshA			
+DOMIDHEL_00763	CDS	2130	cshA	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+DOMIDHEL_00764	gene	2088				
+DOMIDHEL_00764	CDS	2088				hypothetical protein
+DOMIDHEL_00765	gene	519				
+DOMIDHEL_00765	CDS	519				hypothetical protein
+DOMIDHEL_00766	gene	951				
+DOMIDHEL_00766	CDS	951				hypothetical protein
+DOMIDHEL_00767	gene	86				
+DOMIDHEL_00767	tRNA	86				tRNA-Ser(tga)
+DOMIDHEL_00768	gene	537	napF_1			
+DOMIDHEL_00768	CDS	537	napF_1			Ferredoxin-type protein NapF
+DOMIDHEL_00769	gene	492	napF_2			
+DOMIDHEL_00769	CDS	492	napF_2			Ferredoxin-type protein NapF
+DOMIDHEL_00770	gene	666				
+DOMIDHEL_00770	CDS	666				hypothetical protein
+DOMIDHEL_00771	gene	1284	hisS			
+DOMIDHEL_00771	CDS	1284	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+DOMIDHEL_00772	gene	180				
+DOMIDHEL_00772	CDS	180				hypothetical protein
+DOMIDHEL_00773	gene	96				
+DOMIDHEL_00773	CDS	96				hypothetical protein
+DOMIDHEL_00774	gene	537				
+DOMIDHEL_00774	CDS	537			COG0586	putative membrane protein
+DOMIDHEL_00775	gene	198				
+DOMIDHEL_00775	CDS	198				hypothetical protein
+DOMIDHEL_00776	gene	93				
+DOMIDHEL_00776	CDS	93				hypothetical protein
+DOMIDHEL_00777	gene	417				
+DOMIDHEL_00777	CDS	417				Protein archease
+DOMIDHEL_00778	gene	879				
+DOMIDHEL_00778	CDS	879				hypothetical protein
+DOMIDHEL_00779	gene	597				
+DOMIDHEL_00779	CDS	597				hypothetical protein
+DOMIDHEL_00780	gene	147				
+DOMIDHEL_00780	CDS	147				hypothetical protein
+DOMIDHEL_00781	gene	402				
+DOMIDHEL_00781	CDS	402				hypothetical protein
+DOMIDHEL_00782	gene	1761	infB			
+DOMIDHEL_00782	CDS	1761	infB			Translation initiation factor IF-2
+DOMIDHEL_00783	gene	402	ndk			
+DOMIDHEL_00783	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+DOMIDHEL_00784	gene	201				
+DOMIDHEL_00784	CDS	201				hypothetical protein
+DOMIDHEL_00785	gene	213				
+DOMIDHEL_00785	CDS	213				hypothetical protein
+DOMIDHEL_00786	gene	387				
+DOMIDHEL_00786	CDS	387				hypothetical protein
+DOMIDHEL_00787	gene	1350	algC			
+DOMIDHEL_00787	CDS	1350	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+DOMIDHEL_00788	gene	88				
+DOMIDHEL_00788	tRNA	88				tRNA-Leu(tag)
+DOMIDHEL_00789	gene	843	purU			
+DOMIDHEL_00789	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+DOMIDHEL_00790	gene	723	mftE			
+DOMIDHEL_00790	CDS	723	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+DOMIDHEL_00791	gene	237				
+DOMIDHEL_00791	CDS	237				hypothetical protein
+DOMIDHEL_00792	gene	972				
+DOMIDHEL_00792	CDS	972				hypothetical protein
+DOMIDHEL_00793	gene	675	rpiA			
+DOMIDHEL_00793	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+DOMIDHEL_00794	gene	198				
+DOMIDHEL_00794	CDS	198				hypothetical protein
+DOMIDHEL_00795	gene	1035				
+DOMIDHEL_00795	CDS	1035				hypothetical protein
+DOMIDHEL_00796	gene	618				
+DOMIDHEL_00796	CDS	618				hypothetical protein
+DOMIDHEL_00797	gene	828				
+DOMIDHEL_00797	CDS	828				hypothetical protein
+DOMIDHEL_00798	gene	666	pcm			
+DOMIDHEL_00798	CDS	666	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+DOMIDHEL_00799	gene	900				
+DOMIDHEL_00799	CDS	900				hypothetical protein
+DOMIDHEL_00800	gene	1299	thiDN			
+DOMIDHEL_00800	CDS	1299	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+DOMIDHEL_00801	gene	192				
+DOMIDHEL_00801	CDS	192				hypothetical protein
+DOMIDHEL_00802	gene	168				
+DOMIDHEL_00802	CDS	168				hypothetical protein
+DOMIDHEL_00803	gene	1329	bzaF			
+DOMIDHEL_00803	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+DOMIDHEL_00804	gene	405				
+DOMIDHEL_00804	CDS	405				hypothetical protein
+DOMIDHEL_00805	gene	852				
+DOMIDHEL_00805	CDS	852				hypothetical protein
+DOMIDHEL_00806	gene	1371	dapL			
+DOMIDHEL_00806	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+DOMIDHEL_00807	gene	1098	aroC			
+DOMIDHEL_00807	CDS	1098	aroC	4.2.3.5		Chorismate synthase
+DOMIDHEL_00808	gene	1269	aroA			
+DOMIDHEL_00808	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+DOMIDHEL_00809	gene	855	thrB_1			
+DOMIDHEL_00809	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+DOMIDHEL_00810	gene	822	aroE			
+DOMIDHEL_00810	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+DOMIDHEL_00811	gene	672	aroD			
+DOMIDHEL_00811	CDS	672	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+DOMIDHEL_00812	gene	1062	griH			
+DOMIDHEL_00812	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+DOMIDHEL_00813	gene	783	griI			
+DOMIDHEL_00813	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+DOMIDHEL_00814	gene	1119	mqnC			
+DOMIDHEL_00814	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+DOMIDHEL_00815	gene	1443	ubiD			
+DOMIDHEL_00815	CDS	1443	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+DOMIDHEL_00816	gene	375				
+DOMIDHEL_00816	CDS	375				hypothetical protein
+DOMIDHEL_00817	gene	549				
+DOMIDHEL_00817	CDS	549				hypothetical protein
+DOMIDHEL_00818	gene	144				
+DOMIDHEL_00818	CDS	144				hypothetical protein
+DOMIDHEL_00819	gene	192				
+DOMIDHEL_00819	CDS	192				hypothetical protein
+DOMIDHEL_00820	gene	570				
+DOMIDHEL_00820	CDS	570				hypothetical protein
+DOMIDHEL_00821	gene	420				
+DOMIDHEL_00821	CDS	420				hypothetical protein
+DOMIDHEL_00822	gene	465	bcp_2			
+DOMIDHEL_00822	CDS	465	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin
+DOMIDHEL_00823	gene	705	aqpZ2			
+DOMIDHEL_00823	CDS	705	aqpZ2			Aquaporin Z 2
+DOMIDHEL_00824	gene	426				
+DOMIDHEL_00824	CDS	426				hypothetical protein
+DOMIDHEL_00825	gene	819				
+DOMIDHEL_00825	CDS	819				hypothetical protein
+DOMIDHEL_00826	gene	77				
+DOMIDHEL_00826	tRNA	77				tRNA-Arg(gcg)
+DOMIDHEL_00827	gene	333				
+DOMIDHEL_00827	CDS	333				hypothetical protein
+DOMIDHEL_00828	gene	1308				
+DOMIDHEL_00828	CDS	1308				hypothetical protein
+DOMIDHEL_00829	gene	636				
+DOMIDHEL_00829	CDS	636				hypothetical protein
+DOMIDHEL_00830	gene	912	pyrD			
+DOMIDHEL_00830	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+DOMIDHEL_00831	gene	813	pyrK			
+DOMIDHEL_00831	CDS	813	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DOMIDHEL_00832	gene	1725				
+DOMIDHEL_00832	CDS	1725				hypothetical protein
+DOMIDHEL_00833	gene	183				
+DOMIDHEL_00833	CDS	183				hypothetical protein
+DOMIDHEL_00834	gene	1167	recA			
+DOMIDHEL_00834	CDS	1167	recA			Protein RecA
+DOMIDHEL_00835	gene	1056	rlmN			
+DOMIDHEL_00835	CDS	1056	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+DOMIDHEL_00836	gene	300				
+DOMIDHEL_00836	CDS	300				hypothetical protein
+DOMIDHEL_00837	gene	327				
+DOMIDHEL_00837	CDS	327				hypothetical protein
+DOMIDHEL_00838	gene	567				
+DOMIDHEL_00838	CDS	567				hypothetical protein
+DOMIDHEL_00839	gene	705	rsmA			
+DOMIDHEL_00839	CDS	705	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+DOMIDHEL_00840	gene	537				
+DOMIDHEL_00840	CDS	537				hypothetical protein
+DOMIDHEL_00841	gene	1032	icd			
+DOMIDHEL_00841	CDS	1032	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+DOMIDHEL_00842	gene	759	cpdA			
+DOMIDHEL_00842	CDS	759	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+DOMIDHEL_00843	gene	87				
+DOMIDHEL_00843	tRNA	87				tRNA-Ser(gct)
+DOMIDHEL_00844	gene	162				
+DOMIDHEL_00844	CDS	162				hypothetical protein
+DOMIDHEL_00845	gene	171				
+DOMIDHEL_00845	CDS	171				hypothetical protein
+DOMIDHEL_00846	gene	819				
+DOMIDHEL_00846	CDS	819				hypothetical protein
+DOMIDHEL_00847	gene	1197				
+DOMIDHEL_00847	CDS	1197				hypothetical protein
+DOMIDHEL_00848	gene	867				
+DOMIDHEL_00848	CDS	867				hypothetical protein
+DOMIDHEL_00849	gene	477				
+DOMIDHEL_00849	CDS	477				hypothetical protein
+DOMIDHEL_00850	gene	159				
+DOMIDHEL_00850	CDS	159				hypothetical protein
+DOMIDHEL_00851	gene	531				
+DOMIDHEL_00851	CDS	531				hypothetical protein
+DOMIDHEL_00852	gene	240				
+DOMIDHEL_00852	CDS	240				hypothetical protein
+DOMIDHEL_00853	gene	171				
+DOMIDHEL_00853	CDS	171				hypothetical protein
+DOMIDHEL_00854	gene	393				
+DOMIDHEL_00854	CDS	393				hypothetical protein
+DOMIDHEL_00855	gene	831				
+DOMIDHEL_00855	CDS	831				hypothetical protein
+DOMIDHEL_00856	gene	252				
+DOMIDHEL_00856	CDS	252				hypothetical protein
+DOMIDHEL_00857	gene	366				
+DOMIDHEL_00857	CDS	366				hypothetical protein
+DOMIDHEL_00858	gene	1380	rnj_1			
+DOMIDHEL_00858	CDS	1380	rnj_1	3.1.-.-	COG0595	Ribonuclease J
+DOMIDHEL_00859	gene	108				
+DOMIDHEL_00859	CDS	108				hypothetical protein
+DOMIDHEL_00860	gene	324				
+DOMIDHEL_00860	CDS	324				hypothetical protein
+DOMIDHEL_00861	gene	2271				
+DOMIDHEL_00861	CDS	2271				hypothetical protein
+DOMIDHEL_00862	gene	525				
+DOMIDHEL_00862	CDS	525				hypothetical protein
+DOMIDHEL_00863	gene	477				
+DOMIDHEL_00863	CDS	477				hypothetical protein
+DOMIDHEL_00864	gene	714				
+DOMIDHEL_00864	CDS	714				hypothetical protein
+DOMIDHEL_00865	gene	3330				
+DOMIDHEL_00865	CDS	3330				hypothetical protein
+DOMIDHEL_00866	gene	966	rnj_2			
+DOMIDHEL_00866	CDS	966	rnj_2	3.1.-.-		Ribonuclease J
+DOMIDHEL_00867	gene	339				
+DOMIDHEL_00867	CDS	339				hypothetical protein
+DOMIDHEL_00868	gene	441				
+DOMIDHEL_00868	CDS	441				hypothetical protein
+DOMIDHEL_00869	gene	390				
+DOMIDHEL_00869	CDS	390				hypothetical protein
+DOMIDHEL_00870	gene	273				
+DOMIDHEL_00870	CDS	273				hypothetical protein
+DOMIDHEL_00871	gene	108				
+DOMIDHEL_00871	CDS	108				hypothetical protein
+DOMIDHEL_00872	gene	1182	lysJ			
+DOMIDHEL_00872	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+DOMIDHEL_00873	gene	804	lysZ			
+DOMIDHEL_00873	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+DOMIDHEL_00874	gene	1047	argC			
+DOMIDHEL_00874	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+DOMIDHEL_00875	gene	1302	xerC_2			
+DOMIDHEL_00875	CDS	1302	xerC_2			Tyrosine recombinase XerC
+DOMIDHEL_00876	gene	1152				
+DOMIDHEL_00876	CDS	1152				hypothetical protein
+DOMIDHEL_00877	gene	1323				
+DOMIDHEL_00877	CDS	1323				hypothetical protein
+DOMIDHEL_00878	gene	900				
+DOMIDHEL_00878	CDS	900				hypothetical protein
+DOMIDHEL_00879	gene	384				
+DOMIDHEL_00879	CDS	384				hypothetical protein
+DOMIDHEL_00880	gene	1704				
+DOMIDHEL_00880	CDS	1704				hypothetical protein
+DOMIDHEL_00881	gene	936				
+DOMIDHEL_00881	CDS	936				hypothetical protein
+DOMIDHEL_00882	gene	132				
+DOMIDHEL_00882	CDS	132				hypothetical protein
+DOMIDHEL_00883	gene	360				
+DOMIDHEL_00883	CDS	360				hypothetical protein
+DOMIDHEL_00884	gene	294				
+DOMIDHEL_00884	CDS	294				hypothetical protein
+DOMIDHEL_00885	gene	219				
+DOMIDHEL_00885	CDS	219				hypothetical protein
+DOMIDHEL_00886	gene	1998	rapA			
+DOMIDHEL_00886	CDS	1998	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+DOMIDHEL_00887	gene	1326				
+DOMIDHEL_00887	CDS	1326				hypothetical protein
+DOMIDHEL_00888	gene	2742				
+DOMIDHEL_00888	CDS	2742				hypothetical protein
+DOMIDHEL_00889	gene	2568				
+DOMIDHEL_00889	CDS	2568				hypothetical protein
+DOMIDHEL_00890	gene	648				
+DOMIDHEL_00890	CDS	648				hypothetical protein
+DOMIDHEL_00891	gene	1482	rnj_3			
+DOMIDHEL_00891	CDS	1482	rnj_3	3.1.-.-		Ribonuclease J
+DOMIDHEL_00892	gene	738				
+DOMIDHEL_00892	CDS	738				hypothetical protein
+DOMIDHEL_00893	gene	294				
+DOMIDHEL_00893	CDS	294				hypothetical protein
+DOMIDHEL_00894	gene	219				
+DOMIDHEL_00894	CDS	219				hypothetical protein
+DOMIDHEL_00895	gene	981				
+DOMIDHEL_00895	CDS	981				hypothetical protein
+DOMIDHEL_00896	gene	651	idi			
+DOMIDHEL_00896	CDS	651	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+DOMIDHEL_00897	gene	744	argB			
+DOMIDHEL_00897	CDS	744	argB	2.7.2.8		Acetylglutamate kinase
+DOMIDHEL_00898	gene	942	thrB_2			
+DOMIDHEL_00898	CDS	942	thrB_2	2.7.1.39		Homoserine kinase
+DOMIDHEL_00899	gene	624				
+DOMIDHEL_00899	CDS	624				hypothetical protein
+DOMIDHEL_00900	gene	1239	eno			
+DOMIDHEL_00900	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+DOMIDHEL_00901	gene	237				
+DOMIDHEL_00901	CDS	237				hypothetical protein
+DOMIDHEL_00902	gene	87				
+DOMIDHEL_00902	tRNA	87				tRNA-Leu(gag)
+DOMIDHEL_00903	gene	615				
+DOMIDHEL_00903	CDS	615				hypothetical protein
+DOMIDHEL_00904	gene	648	nnr_2			
+DOMIDHEL_00904	CDS	648	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DOMIDHEL_00905	gene	609	pksB			
+DOMIDHEL_00905	CDS	609	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+DOMIDHEL_00906	gene	1059	cobT			
+DOMIDHEL_00906	CDS	1059	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+DOMIDHEL_00907	gene	1761	glmS			
+DOMIDHEL_00907	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+DOMIDHEL_00908	gene	576				
+DOMIDHEL_00908	CDS	576				hypothetical protein
+DOMIDHEL_00909	gene	492				
+DOMIDHEL_00909	CDS	492				hypothetical protein
+DOMIDHEL_00910	gene	177				
+DOMIDHEL_00910	CDS	177				hypothetical protein
+DOMIDHEL_00911	gene	309				
+DOMIDHEL_00911	CDS	309				hypothetical protein
+DOMIDHEL_00912	gene	504				
+DOMIDHEL_00912	CDS	504				hypothetical protein
+DOMIDHEL_00913	gene	1062				
+DOMIDHEL_00913	CDS	1062				hypothetical protein
+DOMIDHEL_00914	gene	1179	zupT			
+DOMIDHEL_00914	CDS	1179	zupT			Zinc transporter ZupT
+DOMIDHEL_00915	gene	1353	fieF			
+DOMIDHEL_00915	CDS	1353	fieF			Ferrous-iron efflux pump FieF
+DOMIDHEL_00916	gene	3144				
+DOMIDHEL_00916	CDS	3144				hypothetical protein
+DOMIDHEL_00917	gene	510				
+DOMIDHEL_00917	CDS	510				hypothetical protein
+DOMIDHEL_00918	gene	372				
+DOMIDHEL_00918	CDS	372				hypothetical protein
+DOMIDHEL_00919	gene	324				
+DOMIDHEL_00919	CDS	324				hypothetical protein
+DOMIDHEL_00920	gene	1581				
+DOMIDHEL_00920	CDS	1581				hypothetical protein
+DOMIDHEL_00921	gene	777	larB			
+DOMIDHEL_00921	CDS	777	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+DOMIDHEL_00922	gene	915	mdh			
+DOMIDHEL_00922	CDS	915	mdh	1.1.1.37		Malate dehydrogenase
+DOMIDHEL_00923	gene	1221	larC			
+DOMIDHEL_00923	CDS	1221	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+DOMIDHEL_00924	gene	798	larE			
+DOMIDHEL_00924	CDS	798	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+DOMIDHEL_00925	gene	165				
+DOMIDHEL_00925	CDS	165				hypothetical protein
+DOMIDHEL_00926	gene	804				
+DOMIDHEL_00926	CDS	804				hypothetical protein
+DOMIDHEL_00927	gene	531				
+DOMIDHEL_00927	CDS	531				hypothetical protein
+DOMIDHEL_00928	gene	306	acsA_2			
+DOMIDHEL_00928	CDS	306	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+DOMIDHEL_00929	gene	1287	acsA_3			
+DOMIDHEL_00929	CDS	1287	acsA_3	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+DOMIDHEL_00930	gene	525				
+DOMIDHEL_00930	CDS	525				hypothetical protein
+DOMIDHEL_00931	gene	192				
+DOMIDHEL_00931	CDS	192				hypothetical protein
+DOMIDHEL_00932	gene	723				
+DOMIDHEL_00932	CDS	723				hypothetical protein
+DOMIDHEL_00933	gene	501				
+DOMIDHEL_00933	CDS	501				hypothetical protein
+DOMIDHEL_00934	gene	729				
+DOMIDHEL_00934	CDS	729				hypothetical protein
+DOMIDHEL_00935	gene	813				
+DOMIDHEL_00935	CDS	813				hypothetical protein
+DOMIDHEL_00936	gene	1023				
+DOMIDHEL_00936	CDS	1023				hypothetical protein
+DOMIDHEL_00937	gene	264				
+DOMIDHEL_00937	CDS	264				hypothetical protein
+DOMIDHEL_00938	gene	84				
+DOMIDHEL_00938	tRNA	84				tRNA-Ser(cga)
+DOMIDHEL_00939	gene	186				
+DOMIDHEL_00939	CDS	186				hypothetical protein
+DOMIDHEL_00940	gene	648	rutE_2			
+DOMIDHEL_00940	CDS	648	rutE_2	1.1.1.298		malonic semialdehyde reductase RutE
+DOMIDHEL_00941	gene	234				
+DOMIDHEL_00941	CDS	234				hypothetical protein
+DOMIDHEL_00942	gene	177				
+DOMIDHEL_00942	CDS	177				hypothetical protein
+DOMIDHEL_00943	gene	378				
+DOMIDHEL_00943	CDS	378				hypothetical protein
+DOMIDHEL_00944	gene	342				
+DOMIDHEL_00944	CDS	342				hypothetical protein
+DOMIDHEL_00945	gene	462				
+DOMIDHEL_00945	CDS	462				hypothetical protein
+DOMIDHEL_00946	gene	1281				
+DOMIDHEL_00946	CDS	1281				hypothetical protein
+DOMIDHEL_00947	gene	399				
+DOMIDHEL_00947	CDS	399				hypothetical protein
+DOMIDHEL_00948	gene	378				
+DOMIDHEL_00948	CDS	378				hypothetical protein
+DOMIDHEL_00949	gene	537				
+DOMIDHEL_00949	CDS	537				hypothetical protein
+DOMIDHEL_00950	gene	654				
+DOMIDHEL_00950	CDS	654				hypothetical protein
+DOMIDHEL_00951	gene	1767	lig			
+DOMIDHEL_00951	CDS	1767	lig	6.5.1.1		DNA ligase
+DOMIDHEL_00952	gene	408				
+DOMIDHEL_00952	CDS	408				hypothetical protein
+DOMIDHEL_00953	gene	1146	fbp			
+DOMIDHEL_00953	CDS	1146	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+DOMIDHEL_00954	gene	1299	cysN			
+DOMIDHEL_00954	CDS	1299	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1
+DOMIDHEL_00955	gene	309	rpsJ			
+DOMIDHEL_00955	CDS	309	rpsJ			30S ribosomal protein S10
+DOMIDHEL_00956	gene	195				
+DOMIDHEL_00956	CDS	195				hypothetical protein
+DOMIDHEL_00957	gene	411				
+DOMIDHEL_00957	CDS	411				hypothetical protein
+DOMIDHEL_00958	gene	108				
+DOMIDHEL_00958	CDS	108				hypothetical protein
+DOMIDHEL_00959	gene	510				
+DOMIDHEL_00959	CDS	510				hypothetical protein
+DOMIDHEL_00960	gene	249				
+DOMIDHEL_00960	CDS	249				hypothetical protein
+DOMIDHEL_00961	gene	1140	fadB			
+DOMIDHEL_00961	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+DOMIDHEL_00962	gene	168				
+DOMIDHEL_00962	CDS	168				hypothetical protein
+DOMIDHEL_00963	gene	297				
+DOMIDHEL_00963	CDS	297				hypothetical protein
+DOMIDHEL_00964	gene	408	hit_2			
+DOMIDHEL_00964	CDS	408	hit_2		COG0537	Protein hit
+DOMIDHEL_00965	gene	666	dnaJ_2			
+DOMIDHEL_00965	CDS	666	dnaJ_2			Chaperone protein DnaJ
+DOMIDHEL_00966	gene	261				
+DOMIDHEL_00966	CDS	261				hypothetical protein
+DOMIDHEL_00967	gene	159				
+DOMIDHEL_00967	CDS	159				hypothetical protein
+DOMIDHEL_00968	gene	1089				
+DOMIDHEL_00968	CDS	1089				hypothetical protein
+DOMIDHEL_00969	gene	1647				
+DOMIDHEL_00969	CDS	1647				hypothetical protein
+DOMIDHEL_00970	gene	834	legI			
+DOMIDHEL_00970	CDS	834	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+DOMIDHEL_00971	gene	720	fabG_1			
+DOMIDHEL_00971	CDS	720	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DOMIDHEL_00972	gene	837	ulaE			
+DOMIDHEL_00972	CDS	837	ulaE	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE
+DOMIDHEL_00973	gene	507				
+DOMIDHEL_00973	CDS	507		3.1.3.103	COG1778	2-keto-3-deoxy-D-glycero-D-galacto-9-phosphonononic acid phosphatase
+DOMIDHEL_00974	gene	585	gmhA_2			
+DOMIDHEL_00974	CDS	585	gmhA_2	5.3.1.28	COG0279	Phosphoheptose isomerase
+DOMIDHEL_00975	gene	141				
+DOMIDHEL_00975	CDS	141				hypothetical protein
+DOMIDHEL_00976	gene	693	neuA			
+DOMIDHEL_00976	CDS	693	neuA	2.7.7.43	COG1083	N-acylneuraminate cytidylyltransferase
+DOMIDHEL_00977	gene	882				
+DOMIDHEL_00977	CDS	882				hypothetical protein
+DOMIDHEL_00978	gene	972	ilvE_3			
+DOMIDHEL_00978	CDS	972	ilvE_3	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DOMIDHEL_00979	gene	750	fabG_2			
+DOMIDHEL_00979	CDS	750	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DOMIDHEL_00980	gene	1026				
+DOMIDHEL_00980	CDS	1026				hypothetical protein
+DOMIDHEL_00981	gene	2175				
+DOMIDHEL_00981	CDS	2175				hypothetical protein
+DOMIDHEL_00982	gene	1563				
+DOMIDHEL_00982	CDS	1563				hypothetical protein
+DOMIDHEL_00983	gene	294				
+DOMIDHEL_00983	CDS	294				hypothetical protein
+DOMIDHEL_00984	gene	225				
+DOMIDHEL_00984	CDS	225				hypothetical protein
+DOMIDHEL_00985	gene	1053				
+DOMIDHEL_00985	CDS	1053				hypothetical protein
+DOMIDHEL_00986	gene	606				
+DOMIDHEL_00986	CDS	606				hypothetical protein
+DOMIDHEL_00987	gene	2232				
+DOMIDHEL_00987	CDS	2232				hypothetical protein
+DOMIDHEL_00988	gene	342				
+DOMIDHEL_00988	CDS	342				hypothetical protein
+DOMIDHEL_00989	gene	330				
+DOMIDHEL_00989	CDS	330				hypothetical protein
+DOMIDHEL_00990	gene	240				
+DOMIDHEL_00990	CDS	240				hypothetical protein
+DOMIDHEL_00991	gene	153				
+DOMIDHEL_00991	CDS	153				hypothetical protein
+DOMIDHEL_00992	gene	621	czcD			
+DOMIDHEL_00992	CDS	621	czcD		COG1230	Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+DOMIDHEL_00993	gene	354				
+DOMIDHEL_00993	CDS	354				hypothetical protein
+DOMIDHEL_00994	gene	1605	vgb_3			
+DOMIDHEL_00994	CDS	1605	vgb_3	4.2.99.-		Virginiamycin B lyase
+DOMIDHEL_00995	gene	1197	truD			
+DOMIDHEL_00995	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+DOMIDHEL_00996	gene	216				
+DOMIDHEL_00996	CDS	216				hypothetical protein
+DOMIDHEL_00997	gene	210				
+DOMIDHEL_00997	CDS	210				hypothetical protein
+DOMIDHEL_00998	gene	687				
+DOMIDHEL_00998	CDS	687				hypothetical protein
+DOMIDHEL_00999	gene	249				
+DOMIDHEL_00999	CDS	249				hypothetical protein
+DOMIDHEL_01000	gene	492				
+DOMIDHEL_01000	CDS	492				hypothetical protein
+DOMIDHEL_01001	gene	234				
+DOMIDHEL_01001	CDS	234				hypothetical protein
+DOMIDHEL_01002	gene	1035	adhT			
+DOMIDHEL_01002	CDS	1035	adhT	1.1.1.1		Alcohol dehydrogenase
+DOMIDHEL_01003	gene	234				
+DOMIDHEL_01003	CDS	234				hypothetical protein
+DOMIDHEL_01004	gene	1224				
+DOMIDHEL_01004	CDS	1224				hypothetical protein
+DOMIDHEL_01005	gene	774				
+DOMIDHEL_01005	CDS	774				hypothetical protein
+DOMIDHEL_01006	gene	321				
+DOMIDHEL_01006	CDS	321				hypothetical protein
+DOMIDHEL_01007	gene	93				
+DOMIDHEL_01007	CDS	93				hypothetical protein
+DOMIDHEL_01008	gene	351				
+DOMIDHEL_01008	CDS	351				hypothetical protein
+DOMIDHEL_01009	gene	459				
+DOMIDHEL_01009	CDS	459				hypothetical protein
+DOMIDHEL_01010	gene	837				
+DOMIDHEL_01010	CDS	837				hypothetical protein
+DOMIDHEL_01011	gene	690				
+DOMIDHEL_01011	CDS	690				hypothetical protein
+DOMIDHEL_01012	gene	291				
+DOMIDHEL_01012	CDS	291				hypothetical protein
+DOMIDHEL_01013	gene	234				
+DOMIDHEL_01013	CDS	234				hypothetical protein
+DOMIDHEL_01014	gene	1320	deaD			
+DOMIDHEL_01014	CDS	1320	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+DOMIDHEL_01015	gene	798				
+DOMIDHEL_01015	CDS	798				hypothetical protein
+DOMIDHEL_01016	gene	1059				
+DOMIDHEL_01016	CDS	1059				hypothetical protein
+DOMIDHEL_01017	gene	399				
+DOMIDHEL_01017	CDS	399				hypothetical protein
+DOMIDHEL_01018	gene	285				
+DOMIDHEL_01018	CDS	285				hypothetical protein
+DOMIDHEL_01019	gene	846				
+DOMIDHEL_01019	CDS	846				hypothetical protein
+DOMIDHEL_01020	gene	585				
+DOMIDHEL_01020	CDS	585				hypothetical protein
+DOMIDHEL_01021	gene	726				
+DOMIDHEL_01021	CDS	726				hypothetical protein
+DOMIDHEL_01022	gene	1023	purM			
+DOMIDHEL_01022	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+DOMIDHEL_01023	gene	1251	gerN			
+DOMIDHEL_01023	CDS	1251	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+DOMIDHEL_01024	gene	285				
+DOMIDHEL_01024	CDS	285				hypothetical protein
+DOMIDHEL_01025	gene	1584				
+DOMIDHEL_01025	CDS	1584		2.3.1.-		tRNA uridine(34) acetyltransferase
+DOMIDHEL_01026	gene	1590	lysS			
+DOMIDHEL_01026	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+DOMIDHEL_01027	gene	201				
+DOMIDHEL_01027	CDS	201				hypothetical protein
+DOMIDHEL_01028	gene	759				
+DOMIDHEL_01028	CDS	759				hypothetical protein
+DOMIDHEL_01029	gene	447				
+DOMIDHEL_01029	CDS	447				hypothetical protein
+DOMIDHEL_01030	gene	123				
+DOMIDHEL_01030	CDS	123				hypothetical protein
+DOMIDHEL_01031	gene	144				
+DOMIDHEL_01031	CDS	144				hypothetical protein
+DOMIDHEL_01032	gene	303				
+DOMIDHEL_01032	CDS	303				hypothetical protein
+DOMIDHEL_01033	gene	174				
+DOMIDHEL_01033	CDS	174				hypothetical protein
+DOMIDHEL_01034	gene	333				
+DOMIDHEL_01034	CDS	333				hypothetical protein
+DOMIDHEL_01035	gene	516	ftnA_2			
+DOMIDHEL_01035	CDS	516	ftnA_2	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+DOMIDHEL_01036	gene	1266				
+DOMIDHEL_01036	CDS	1266				hypothetical protein
+DOMIDHEL_01037	gene	372				
+DOMIDHEL_01037	CDS	372				hypothetical protein
+DOMIDHEL_01038	gene	552	tag			
+DOMIDHEL_01038	CDS	552	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+DOMIDHEL_01039	gene	426				
+DOMIDHEL_01039	CDS	426				hypothetical protein
+DOMIDHEL_01040	gene	408	IMPDH_4			
+DOMIDHEL_01040	CDS	408	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+DOMIDHEL_01041	gene	471				
+DOMIDHEL_01041	CDS	471				hypothetical protein
+DOMIDHEL_01042	gene	606				
+DOMIDHEL_01042	CDS	606				hypothetical protein
+DOMIDHEL_01043	gene	324				
+DOMIDHEL_01043	CDS	324				hypothetical protein
+DOMIDHEL_01044	gene	669				
+DOMIDHEL_01044	CDS	669				hypothetical protein
+DOMIDHEL_01045	gene	1209	pgk			
+DOMIDHEL_01045	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+DOMIDHEL_01046	gene	345				
+DOMIDHEL_01046	CDS	345				hypothetical protein
+DOMIDHEL_01047	gene	444	sufU			
+DOMIDHEL_01047	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+DOMIDHEL_01048	gene	1245	csd			
+DOMIDHEL_01048	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+DOMIDHEL_01049	gene	318	doxA			
+DOMIDHEL_01049	CDS	318	doxA			Naphthalene 1,2-dioxygenase system, ferredoxin component
+DOMIDHEL_01050	gene	1398				
+DOMIDHEL_01050	CDS	1398				hypothetical protein
+DOMIDHEL_01051	gene	1401				
+DOMIDHEL_01051	CDS	1401				hypothetical protein
+DOMIDHEL_01052	gene	177				
+DOMIDHEL_01052	CDS	177				hypothetical protein
+DOMIDHEL_01053	gene	423				
+DOMIDHEL_01053	CDS	423				hypothetical protein
+DOMIDHEL_01054	gene	1185	glnS			
+DOMIDHEL_01054	CDS	1185	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+DOMIDHEL_01055	gene	870	yisK			
+DOMIDHEL_01055	CDS	870	yisK		COG0179	putative protein YisK
+DOMIDHEL_01056	gene	777				
+DOMIDHEL_01056	CDS	777				hypothetical protein
+DOMIDHEL_01057	gene	309	bphA3			
+DOMIDHEL_01057	CDS	309	bphA3			Biphenyl dioxygenase ferredoxin subunit
+DOMIDHEL_01058	gene	270				
+DOMIDHEL_01058	CDS	270				hypothetical protein
+DOMIDHEL_01059	gene	762				
+DOMIDHEL_01059	CDS	762				hypothetical protein
+DOMIDHEL_01060	gene	336				
+DOMIDHEL_01060	CDS	336				hypothetical protein
+DOMIDHEL_01061	gene	291				
+DOMIDHEL_01061	CDS	291				hypothetical protein
+DOMIDHEL_01062	gene	93				
+DOMIDHEL_01062	CDS	93				hypothetical protein
+DOMIDHEL_01063	gene	73				
+DOMIDHEL_01063	tRNA	73				tRNA-His(gtg)
+DOMIDHEL_01064	gene	1023	corA			
+DOMIDHEL_01064	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+DOMIDHEL_01065	gene	273				
+DOMIDHEL_01065	CDS	273				hypothetical protein
+DOMIDHEL_01066	gene	669	tal			
+DOMIDHEL_01066	CDS	669	tal	2.2.1.2	COG0176	Transaldolase
+DOMIDHEL_01067	gene	570	aptB			
+DOMIDHEL_01067	CDS	570	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+DOMIDHEL_01068	gene	411				
+DOMIDHEL_01068	CDS	411				hypothetical protein
+DOMIDHEL_01069	gene	219				
+DOMIDHEL_01069	CDS	219				hypothetical protein
+DOMIDHEL_01070	gene	240				
+DOMIDHEL_01070	CDS	240				hypothetical protein
+DOMIDHEL_01071	gene	108				
+DOMIDHEL_01071	CDS	108				hypothetical protein
+DOMIDHEL_01072	gene	144				
+DOMIDHEL_01072	CDS	144				hypothetical protein
+DOMIDHEL_01073	gene	288				
+DOMIDHEL_01073	CDS	288				hypothetical protein
+DOMIDHEL_01074	gene	75				
+DOMIDHEL_01074	tRNA	75				tRNA-Phe(gaa)
+DOMIDHEL_01075	gene	1494	sasA_3			
+DOMIDHEL_01075	CDS	1494	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+DOMIDHEL_01076	gene	537	cobO			
+DOMIDHEL_01076	CDS	537	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+DOMIDHEL_01077	gene	534				
+DOMIDHEL_01077	CDS	534				hypothetical protein
+DOMIDHEL_01078	gene	225				
+DOMIDHEL_01078	CDS	225				hypothetical protein
+DOMIDHEL_01079	gene	300				
+DOMIDHEL_01079	CDS	300				hypothetical protein
+DOMIDHEL_01080	gene	348				
+DOMIDHEL_01080	CDS	348				hypothetical protein
+DOMIDHEL_01081	gene	1224				
+DOMIDHEL_01081	CDS	1224				hypothetical protein
+DOMIDHEL_01082	gene	738	kaiC			
+DOMIDHEL_01082	CDS	738	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+DOMIDHEL_01083	gene	162				
+DOMIDHEL_01083	CDS	162				hypothetical protein
+DOMIDHEL_01084	gene	801				
+DOMIDHEL_01084	CDS	801				hypothetical protein
+DOMIDHEL_01085	gene	360				
+DOMIDHEL_01085	CDS	360				hypothetical protein
+DOMIDHEL_01086	gene	252				
+DOMIDHEL_01086	CDS	252				hypothetical protein
+DOMIDHEL_01087	gene	144				
+DOMIDHEL_01087	CDS	144				hypothetical protein
+DOMIDHEL_01088	gene	1446				
+DOMIDHEL_01088	CDS	1446			COG0247	putative protein
+DOMIDHEL_01089	gene	1314				
+DOMIDHEL_01089	CDS	1314				hypothetical protein
+DOMIDHEL_01090	gene	405				
+DOMIDHEL_01090	CDS	405				hypothetical protein
+DOMIDHEL_01091	gene	549	dnaJ_3			
+DOMIDHEL_01091	CDS	549	dnaJ_3			Chaperone protein DnaJ
+DOMIDHEL_01092	gene	444	lrp			
+DOMIDHEL_01092	CDS	444	lrp		COG1522	Leucine-responsive regulatory protein
+DOMIDHEL_01093	gene	855	trpB			
+DOMIDHEL_01093	CDS	855	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+DOMIDHEL_01094	gene	807	trpA			
+DOMIDHEL_01094	CDS	807	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+DOMIDHEL_01095	gene	90				
+DOMIDHEL_01095	CDS	90				hypothetical protein
+DOMIDHEL_01096	gene	684				
+DOMIDHEL_01096	CDS	684				hypothetical protein
+DOMIDHEL_01097	gene	345				
+DOMIDHEL_01097	CDS	345				hypothetical protein
+DOMIDHEL_01098	gene	870				
+DOMIDHEL_01098	CDS	870				hypothetical protein
+DOMIDHEL_01099	gene	999	nadK_2			
+DOMIDHEL_01099	CDS	999	nadK_2	2.7.1.23		NAD kinase
+DOMIDHEL_01100	gene	1602	pyrG			
+DOMIDHEL_01100	CDS	1602	pyrG	6.3.4.2		CTP synthase
+DOMIDHEL_01101	gene	843				
+DOMIDHEL_01101	CDS	843				hypothetical protein
+DOMIDHEL_01102	gene	441				
+DOMIDHEL_01102	CDS	441				hypothetical protein
+DOMIDHEL_01103	gene	624	sodA_2			
+DOMIDHEL_01103	CDS	624	sodA_2	1.15.1.1		Superoxide dismutase [Mn]
+DOMIDHEL_01104	gene	564				
+DOMIDHEL_01104	CDS	564				hypothetical protein
+DOMIDHEL_01105	gene	615				
+DOMIDHEL_01105	CDS	615				hypothetical protein
+DOMIDHEL_01106	gene	1713				
+DOMIDHEL_01106	CDS	1713				hypothetical protein
+DOMIDHEL_01107	gene	681				
+DOMIDHEL_01107	CDS	681				hypothetical protein
+DOMIDHEL_01108	gene	660				
+DOMIDHEL_01108	CDS	660				hypothetical protein
+DOMIDHEL_01109	gene	1401				
+DOMIDHEL_01109	CDS	1401		3.5.2.-		D-hydantoinase
+DOMIDHEL_01110	gene	264				
+DOMIDHEL_01110	CDS	264				hypothetical protein
+DOMIDHEL_01111	gene	288				
+DOMIDHEL_01111	CDS	288				hypothetical protein
+DOMIDHEL_01112	gene	540				
+DOMIDHEL_01112	CDS	540				hypothetical protein
+DOMIDHEL_01113	gene	360				
+DOMIDHEL_01113	CDS	360				hypothetical protein
+DOMIDHEL_01114	gene	73				
+DOMIDHEL_01114	tRNA	73				tRNA-Ala(cgc)
+DOMIDHEL_01115	gene	327	trxA			
+DOMIDHEL_01115	CDS	327	trxA			Thioredoxin 1
+DOMIDHEL_01116	gene	768				
+DOMIDHEL_01116	CDS	768				hypothetical protein
+DOMIDHEL_01117	gene	711				
+DOMIDHEL_01117	CDS	711				hypothetical protein
+DOMIDHEL_01118	gene	123				
+DOMIDHEL_01118	CDS	123				hypothetical protein
+DOMIDHEL_01119	gene	1035	nanM			
+DOMIDHEL_01119	CDS	1035	nanM	5.1.3.24		N-acetylneuraminate epimerase
+DOMIDHEL_01120	gene	1023				
+DOMIDHEL_01120	CDS	1023				hypothetical protein
+DOMIDHEL_01121	gene	216				
+DOMIDHEL_01121	CDS	216				hypothetical protein
+DOMIDHEL_01122	gene	735	bdbD			
+DOMIDHEL_01122	CDS	735	bdbD		COG1651	Disulfide bond formation protein D
+DOMIDHEL_01123	gene	228				
+DOMIDHEL_01123	CDS	228				hypothetical protein
+DOMIDHEL_01124	gene	1590	vgb_4			
+DOMIDHEL_01124	CDS	1590	vgb_4	4.2.99.-		Virginiamycin B lyase
+DOMIDHEL_01125	gene	264				
+DOMIDHEL_01125	CDS	264				hypothetical protein
+DOMIDHEL_01126	gene	312				
+DOMIDHEL_01126	CDS	312				hypothetical protein
+DOMIDHEL_01127	gene	1368				
+DOMIDHEL_01127	CDS	1368				hypothetical protein
+DOMIDHEL_01128	gene	1050				
+DOMIDHEL_01128	CDS	1050				hypothetical protein
+DOMIDHEL_01129	gene	309				
+DOMIDHEL_01129	CDS	309				hypothetical protein
+DOMIDHEL_01130	gene	243				
+DOMIDHEL_01130	CDS	243				hypothetical protein
+DOMIDHEL_01131	gene	336	yfgD			
+DOMIDHEL_01131	CDS	336	yfgD		COG1393	putative protein YfgD
+DOMIDHEL_01132	gene	957				
+DOMIDHEL_01132	CDS	957				hypothetical protein
+DOMIDHEL_01133	gene	687	nrgA			
+DOMIDHEL_01133	CDS	687	nrgA			Ammonium transporter
+DOMIDHEL_01134	gene	369				
+DOMIDHEL_01134	CDS	369				hypothetical protein
+DOMIDHEL_01135	gene	153				
+DOMIDHEL_01135	CDS	153				hypothetical protein
+DOMIDHEL_01136	gene	936	yrbG			
+DOMIDHEL_01136	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+DOMIDHEL_01137	gene	1359	pmbA			
+DOMIDHEL_01137	CDS	1359	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+DOMIDHEL_01138	gene	1260	fbiC			
+DOMIDHEL_01138	CDS	1260	fbiC		COG1060	FO synthase
+DOMIDHEL_01139	gene	303	cofG			
+DOMIDHEL_01139	CDS	303	cofG	4.3.1.32		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+DOMIDHEL_01140	gene	204				
+DOMIDHEL_01140	CDS	204				hypothetical protein
+DOMIDHEL_01141	gene	600				
+DOMIDHEL_01141	CDS	600				hypothetical protein
+DOMIDHEL_01142	gene	297				
+DOMIDHEL_01142	CDS	297				hypothetical protein
+DOMIDHEL_01143	gene	90				
+DOMIDHEL_01143	CDS	90				hypothetical protein
+DOMIDHEL_01144	gene	150				
+DOMIDHEL_01144	CDS	150				hypothetical protein
+DOMIDHEL_01145	gene	219				
+DOMIDHEL_01145	CDS	219				hypothetical protein
+DOMIDHEL_01146	gene	234				
+DOMIDHEL_01146	CDS	234				hypothetical protein
+DOMIDHEL_01147	gene	462				
+DOMIDHEL_01147	CDS	462				hypothetical protein
+DOMIDHEL_01148	gene	156				
+DOMIDHEL_01148	CDS	156				hypothetical protein
+DOMIDHEL_01149	gene	393				
+DOMIDHEL_01149	CDS	393				hypothetical protein
+DOMIDHEL_01150	gene	237				
+DOMIDHEL_01150	CDS	237				hypothetical protein
+DOMIDHEL_01151	gene	351				
+DOMIDHEL_01151	CDS	351				hypothetical protein
+DOMIDHEL_01152	gene	246				
+DOMIDHEL_01152	CDS	246				hypothetical protein
+DOMIDHEL_01153	gene	204				
+DOMIDHEL_01153	CDS	204				hypothetical protein
+DOMIDHEL_01154	gene	537				
+DOMIDHEL_01154	CDS	537				hypothetical protein
+DOMIDHEL_01155	gene	144				
+DOMIDHEL_01155	CDS	144				hypothetical protein
+DOMIDHEL_01156	gene	267				
+DOMIDHEL_01156	CDS	267				hypothetical protein
+DOMIDHEL_01157	gene	246				
+DOMIDHEL_01157	CDS	246				hypothetical protein
+DOMIDHEL_01158	gene	333				
+DOMIDHEL_01158	CDS	333				hypothetical protein
+DOMIDHEL_01159	gene	144				
+DOMIDHEL_01159	CDS	144				hypothetical protein
+DOMIDHEL_01160	gene	210				
+DOMIDHEL_01160	CDS	210				hypothetical protein
+DOMIDHEL_01161	gene	1704	rcsC			
+DOMIDHEL_01161	CDS	1704	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+DOMIDHEL_01162	gene	138				
+DOMIDHEL_01162	CDS	138				hypothetical protein
+DOMIDHEL_01163	gene	1422				
+DOMIDHEL_01163	CDS	1422				hypothetical protein
+DOMIDHEL_01164	gene	579	tmung			
+DOMIDHEL_01164	CDS	579	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+DOMIDHEL_01165	gene	1200	aspS2_2			
+DOMIDHEL_01165	CDS	1200	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+DOMIDHEL_01166	gene	246				
+DOMIDHEL_01166	CDS	246				hypothetical protein
+DOMIDHEL_01167	gene	132				
+DOMIDHEL_01167	CDS	132				hypothetical protein
+DOMIDHEL_01168	gene	360				
+DOMIDHEL_01168	CDS	360				hypothetical protein
+DOMIDHEL_01169	gene	1014	hicd			
+DOMIDHEL_01169	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+DOMIDHEL_01170	gene	819	leuA			
+DOMIDHEL_01170	CDS	819	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+DOMIDHEL_01171	gene	945	asnB_2			
+DOMIDHEL_01171	CDS	945	asnB_2	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+DOMIDHEL_01172	gene	417				
+DOMIDHEL_01172	CDS	417				hypothetical protein
+DOMIDHEL_01173	gene	309				
+DOMIDHEL_01173	CDS	309				hypothetical protein
+DOMIDHEL_01174	gene	549				
+DOMIDHEL_01174	CDS	549				hypothetical protein
+DOMIDHEL_01175	gene	387				
+DOMIDHEL_01175	CDS	387				hypothetical protein
+DOMIDHEL_01176	gene	393				
+DOMIDHEL_01176	CDS	393				hypothetical protein
+DOMIDHEL_01177	gene	213				
+DOMIDHEL_01177	CDS	213				hypothetical protein
+DOMIDHEL_01178	gene	381				
+DOMIDHEL_01178	CDS	381		2.5.-.-		Deoxyhypusine synthase-like protein
+DOMIDHEL_01179	gene	2963				
+DOMIDHEL_01179	rRNA	2963				23S ribosomal RNA
+DOMIDHEL_01180	gene	228				
+DOMIDHEL_01180	CDS	228				hypothetical protein
+DOMIDHEL_01181	gene	495				
+DOMIDHEL_01181	CDS	495				hypothetical protein
+DOMIDHEL_01182	gene	174				
+DOMIDHEL_01182	CDS	174				hypothetical protein
+DOMIDHEL_01183	gene	1119	mqnE			
+DOMIDHEL_01183	CDS	1119	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+DOMIDHEL_01184	gene	306				
+DOMIDHEL_01184	CDS	306				hypothetical protein
+DOMIDHEL_01185	gene	276				
+DOMIDHEL_01185	CDS	276				hypothetical protein
+DOMIDHEL_01186	gene	690				
+DOMIDHEL_01186	CDS	690				hypothetical protein
+DOMIDHEL_01187	gene	417				
+DOMIDHEL_01187	CDS	417				hypothetical protein
+DOMIDHEL_01188	gene	360				
+DOMIDHEL_01188	CDS	360				hypothetical protein
+DOMIDHEL_01189	gene	234				
+DOMIDHEL_01189	CDS	234				hypothetical protein
+DOMIDHEL_01190	gene	120				
+DOMIDHEL_01190	CDS	120				hypothetical protein
+DOMIDHEL_01191	gene	936				
+DOMIDHEL_01191	CDS	936				hypothetical protein
+DOMIDHEL_01192	gene	1086				
+DOMIDHEL_01192	CDS	1086				hypothetical protein
+DOMIDHEL_01193	gene	1539				
+DOMIDHEL_01193	CDS	1539				hypothetical protein
+DOMIDHEL_01194	gene	663				
+DOMIDHEL_01194	CDS	663				hypothetical protein
+DOMIDHEL_01195	gene	1038				
+DOMIDHEL_01195	CDS	1038				hypothetical protein
+DOMIDHEL_01196	gene	675				
+DOMIDHEL_01196	CDS	675				hypothetical protein
+DOMIDHEL_01197	gene	618	rnhB			
+DOMIDHEL_01197	CDS	618	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DOMIDHEL_01198	gene	1149	trm1			
+DOMIDHEL_01198	CDS	1149	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+DOMIDHEL_01199	gene	594	rlmE			
+DOMIDHEL_01199	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+DOMIDHEL_01200	gene	360				
+DOMIDHEL_01200	CDS	360				hypothetical protein
+DOMIDHEL_01201	gene	492				
+DOMIDHEL_01201	CDS	492				hypothetical protein
+DOMIDHEL_01202	gene	636				
+DOMIDHEL_01202	CDS	636				hypothetical protein
+DOMIDHEL_01203	gene	774	yfcA			
+DOMIDHEL_01203	CDS	774	yfcA		COG0730	putative membrane transporter protein YfcA
+DOMIDHEL_01204	gene	450				
+DOMIDHEL_01204	CDS	450				hypothetical protein
+DOMIDHEL_01205	gene	282				
+DOMIDHEL_01205	CDS	282				hypothetical protein
+DOMIDHEL_01206	gene	1275				
+DOMIDHEL_01206	CDS	1275				hypothetical protein
+DOMIDHEL_01207	gene	567				
+DOMIDHEL_01207	CDS	567				hypothetical protein
+DOMIDHEL_01208	gene	390				
+DOMIDHEL_01208	CDS	390				hypothetical protein
+DOMIDHEL_01209	gene	642				
+DOMIDHEL_01209	CDS	642				hypothetical protein
+DOMIDHEL_01210	gene	765				
+DOMIDHEL_01210	CDS	765				hypothetical protein
+DOMIDHEL_01211	gene	459				
+DOMIDHEL_01211	CDS	459				hypothetical protein
+DOMIDHEL_01212	gene	1830	asnB_3			
+DOMIDHEL_01212	CDS	1830	asnB_3	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+DOMIDHEL_01213	gene	519	tdh			
+DOMIDHEL_01213	CDS	519	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+DOMIDHEL_01214	gene	876	speB			
+DOMIDHEL_01214	CDS	876	speB	3.5.3.11	COG0010	Agmatinase
+DOMIDHEL_01215	gene	1380	thrS			
+DOMIDHEL_01215	CDS	1380	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+DOMIDHEL_01216	gene	564				
+DOMIDHEL_01216	CDS	564				hypothetical protein
+DOMIDHEL_01217	gene	1398	dinG			
+DOMIDHEL_01217	CDS	1398	dinG	3.1.-.-		3'-5' exonuclease DinG
+DOMIDHEL_01218	gene	843				
+DOMIDHEL_01218	CDS	843				hypothetical protein
+DOMIDHEL_01219	gene	123				
+DOMIDHEL_01219	CDS	123				hypothetical protein
+DOMIDHEL_01220	gene	822	cpoB			
+DOMIDHEL_01220	CDS	822	cpoB			Cell division coordinator CpoB
+DOMIDHEL_01221	gene	597				
+DOMIDHEL_01221	CDS	597				hypothetical protein
+DOMIDHEL_01222	gene	363				
+DOMIDHEL_01222	CDS	363				hypothetical protein
+DOMIDHEL_01223	gene	99				
+DOMIDHEL_01223	CDS	99				hypothetical protein
+DOMIDHEL_01224	gene	369	cheY_3			
+DOMIDHEL_01224	CDS	369	cheY_3		COG0784	Chemotaxis protein CheY
+DOMIDHEL_01225	gene	1815				
+DOMIDHEL_01225	CDS	1815				hypothetical protein
+DOMIDHEL_01226	gene	387	mntR			
+DOMIDHEL_01226	CDS	387	mntR		COG1321	HTH-type transcriptional regulator MntR
+DOMIDHEL_01227	gene	357				
+DOMIDHEL_01227	CDS	357				hypothetical protein
+DOMIDHEL_01228	gene	501				
+DOMIDHEL_01228	CDS	501				hypothetical protein
+DOMIDHEL_01229	gene	363				
+DOMIDHEL_01229	CDS	363				hypothetical protein
+DOMIDHEL_01230	gene	624	COQ3			
+DOMIDHEL_01230	CDS	624	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+DOMIDHEL_01231	gene	272				
+DOMIDHEL_01231	misc_RNA	272				RNaseP_arch
+DOMIDHEL_01232	gene	300				
+DOMIDHEL_01232	CDS	300				hypothetical protein
+DOMIDHEL_01233	gene	753	vgb_5			
+DOMIDHEL_01233	CDS	753	vgb_5	4.2.99.-		Virginiamycin B lyase
+DOMIDHEL_01234	gene	735				
+DOMIDHEL_01234	CDS	735				hypothetical protein
+DOMIDHEL_01235	gene	384				
+DOMIDHEL_01235	CDS	384				hypothetical protein
+DOMIDHEL_01236	gene	1581				
+DOMIDHEL_01236	CDS	1581				hypothetical protein
+DOMIDHEL_01237	gene	348				
+DOMIDHEL_01237	CDS	348				hypothetical protein
+DOMIDHEL_01238	gene	324				
+DOMIDHEL_01238	CDS	324				hypothetical protein
+DOMIDHEL_01239	gene	1209				
+DOMIDHEL_01239	CDS	1209				hypothetical protein
+DOMIDHEL_01240	gene	513				
+DOMIDHEL_01240	CDS	513				hypothetical protein
+DOMIDHEL_01241	gene	519				
+DOMIDHEL_01241	CDS	519				hypothetical protein
+DOMIDHEL_01242	gene	936	oppD			
+DOMIDHEL_01242	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+DOMIDHEL_01243	gene	294				
+DOMIDHEL_01243	CDS	294				hypothetical protein
+DOMIDHEL_01244	gene	375				
+DOMIDHEL_01244	CDS	375				hypothetical protein
+DOMIDHEL_01245	gene	633				
+DOMIDHEL_01245	CDS	633				hypothetical protein
+DOMIDHEL_01246	gene	96				
+DOMIDHEL_01246	CDS	96				hypothetical protein
+DOMIDHEL_01247	gene	576				
+DOMIDHEL_01247	CDS	576				hypothetical protein
+DOMIDHEL_01248	gene	294	ttcA			
+DOMIDHEL_01248	CDS	294	ttcA	2.8.1.-		tRNA-cytidine(32) 2-sulfurtransferase
+DOMIDHEL_01249	gene	330	ttuA			
+DOMIDHEL_01249	CDS	330	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+DOMIDHEL_01250	gene	312				
+DOMIDHEL_01250	misc_RNA	312				Archaea_SRP
+DOMIDHEL_01251	gene	333				
+DOMIDHEL_01251	CDS	333				hypothetical protein
+DOMIDHEL_01252	gene	279	acyP			
+DOMIDHEL_01252	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+DOMIDHEL_01253	gene	267				
+DOMIDHEL_01253	CDS	267				hypothetical protein
+DOMIDHEL_01254	gene	1029				
+DOMIDHEL_01254	CDS	1029				hypothetical protein
+DOMIDHEL_01255	gene	336				
+DOMIDHEL_01255	CDS	336				hypothetical protein
+DOMIDHEL_01256	gene	351				
+DOMIDHEL_01256	CDS	351				hypothetical protein
+DOMIDHEL_01257	gene	399				
+DOMIDHEL_01257	CDS	399				hypothetical protein
+DOMIDHEL_01258	gene	285				
+DOMIDHEL_01258	CDS	285				hypothetical protein
+DOMIDHEL_01259	gene	507				
+DOMIDHEL_01259	CDS	507				hypothetical protein
+DOMIDHEL_01260	gene	1101				
+DOMIDHEL_01260	CDS	1101				hypothetical protein
+DOMIDHEL_01261	gene	393				
+DOMIDHEL_01261	CDS	393				hypothetical protein
+DOMIDHEL_01262	gene	705				
+DOMIDHEL_01262	CDS	705				hypothetical protein
+DOMIDHEL_01263	gene	348				
+DOMIDHEL_01263	CDS	348				hypothetical protein
+DOMIDHEL_01264	gene	135				
+DOMIDHEL_01264	CDS	135				hypothetical protein
+DOMIDHEL_01265	gene	405				
+DOMIDHEL_01265	CDS	405				hypothetical protein
+DOMIDHEL_01266	gene	255				
+DOMIDHEL_01266	CDS	255				hypothetical protein
+DOMIDHEL_01267	gene	246				
+DOMIDHEL_01267	CDS	246				hypothetical protein
+DOMIDHEL_01268	gene	216				
+DOMIDHEL_01268	CDS	216				hypothetical protein
+DOMIDHEL_01269	gene	414				
+DOMIDHEL_01269	CDS	414				hypothetical protein
+DOMIDHEL_01270	gene	330	glnB			
+DOMIDHEL_01270	CDS	330	glnB		COG0347	Nitrogen regulatory protein P-II 1
+DOMIDHEL_01271	gene	399				
+DOMIDHEL_01271	CDS	399				hypothetical protein
+DOMIDHEL_01272	gene	615				
+DOMIDHEL_01272	CDS	615				hypothetical protein
+DOMIDHEL_01273	gene	285				
+DOMIDHEL_01273	CDS	285				hypothetical protein
+DOMIDHEL_01274	gene	405				
+DOMIDHEL_01274	CDS	405				hypothetical protein
+DOMIDHEL_01275	gene	276	lsrF			
+DOMIDHEL_01275	CDS	276	lsrF	2.3.1.245		3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+DOMIDHEL_01276	gene	165				
+DOMIDHEL_01276	CDS	165				hypothetical protein
+DOMIDHEL_01277	gene	522	pphA			
+DOMIDHEL_01277	CDS	522	pphA	3.11.1.3		Phosphonopyruvate hydrolase
+DOMIDHEL_01278	gene	213				
+DOMIDHEL_01278	CDS	213				hypothetical protein
+DOMIDHEL_01279	gene	618				
+DOMIDHEL_01279	CDS	618				hypothetical protein
+DOMIDHEL_01280	gene	666	dbpA_2			
+DOMIDHEL_01280	CDS	666	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+DOMIDHEL_01281	gene	231				
+DOMIDHEL_01281	CDS	231				hypothetical protein
+DOMIDHEL_01282	gene	684	gchK			
+DOMIDHEL_01282	CDS	684	gchK	2.7.13.3	COG0642	Globin-coupled histidine kinase
+DOMIDHEL_01283	gene	417	apt			
+DOMIDHEL_01283	CDS	417	apt	2.4.2.7		Adenine phosphoribosyltransferase
+DOMIDHEL_01284	gene	765	ppdK_2			
+DOMIDHEL_01284	CDS	765	ppdK_2	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+DOMIDHEL_01285	gene	267				
+DOMIDHEL_01285	CDS	267				hypothetical protein
+DOMIDHEL_01286	gene	801				
+DOMIDHEL_01286	CDS	801				hypothetical protein
+DOMIDHEL_01287	gene	348				
+DOMIDHEL_01287	CDS	348				hypothetical protein
+DOMIDHEL_01288	gene	624				
+DOMIDHEL_01288	CDS	624				hypothetical protein
+DOMIDHEL_01289	gene	165				
+DOMIDHEL_01289	CDS	165				hypothetical protein
+DOMIDHEL_01290	gene	210				
+DOMIDHEL_01290	CDS	210				hypothetical protein
+DOMIDHEL_01291	gene	219				
+DOMIDHEL_01291	CDS	219				hypothetical protein
+DOMIDHEL_01292	gene	363				
+DOMIDHEL_01292	CDS	363				hypothetical protein
+DOMIDHEL_01293	gene	192				
+DOMIDHEL_01293	CDS	192				hypothetical protein
+DOMIDHEL_01294	gene	201				
+DOMIDHEL_01294	CDS	201				hypothetical protein
+DOMIDHEL_01295	gene	228				
+DOMIDHEL_01295	CDS	228				putative protein
+DOMIDHEL_01296	gene	399				
+DOMIDHEL_01296	CDS	399				hypothetical protein
+DOMIDHEL_01297	gene	339				
+DOMIDHEL_01297	CDS	339				hypothetical protein
+DOMIDHEL_01298	gene	96				
+DOMIDHEL_01298	CDS	96				hypothetical protein
+DOMIDHEL_01299	gene	135				
+DOMIDHEL_01299	CDS	135				hypothetical protein
+DOMIDHEL_01300	gene	204				
+DOMIDHEL_01300	CDS	204				hypothetical protein

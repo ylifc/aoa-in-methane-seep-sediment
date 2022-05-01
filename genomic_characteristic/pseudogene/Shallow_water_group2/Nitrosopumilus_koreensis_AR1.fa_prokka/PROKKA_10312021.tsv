@@ -1,0 +1,4131 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+INAECAKM_00001	gene	756	murI			
+INAECAKM_00001	CDS	756	murI	5.1.1.3		Glutamate racemase
+INAECAKM_00002	gene	771	cbiF			
+INAECAKM_00002	CDS	771	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+INAECAKM_00003	gene	723	cbiL			
+INAECAKM_00003	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+INAECAKM_00004	gene	591	cbiT			
+INAECAKM_00004	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+INAECAKM_00005	gene	477				
+INAECAKM_00005	CDS	477				hypothetical protein
+INAECAKM_00006	gene	1956				
+INAECAKM_00006	CDS	1956				hypothetical protein
+INAECAKM_00007	gene	387				
+INAECAKM_00007	CDS	387				hypothetical protein
+INAECAKM_00008	gene	1155				
+INAECAKM_00008	CDS	1155				hypothetical protein
+INAECAKM_00009	gene	654	nth			
+INAECAKM_00009	CDS	654	nth	4.2.99.18	COG0177	Endonuclease III
+INAECAKM_00010	gene	7485				
+INAECAKM_00010	CDS	7485				hypothetical protein
+INAECAKM_00011	gene	1458	glyQS			
+INAECAKM_00011	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+INAECAKM_00012	gene	840	nfo			
+INAECAKM_00012	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+INAECAKM_00013	gene	1026				
+INAECAKM_00013	CDS	1026				hypothetical protein
+INAECAKM_00014	gene	1122				
+INAECAKM_00014	CDS	1122				hypothetical protein
+INAECAKM_00015	gene	2856				
+INAECAKM_00015	CDS	2856				hypothetical protein
+INAECAKM_00016	gene	543	guaA_1			
+INAECAKM_00016	CDS	543	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+INAECAKM_00017	gene	963				
+INAECAKM_00017	CDS	963				hypothetical protein
+INAECAKM_00018	gene	74				
+INAECAKM_00018	tRNA	74				tRNA-Gly(ccc)
+INAECAKM_00019	gene	174				
+INAECAKM_00019	CDS	174				hypothetical protein
+INAECAKM_00020	gene	411				
+INAECAKM_00020	CDS	411				hypothetical protein
+INAECAKM_00021	gene	1263	selB			
+INAECAKM_00021	CDS	1263	selB		COG3276	Selenocysteine-specific elongation factor
+INAECAKM_00022	gene	369				
+INAECAKM_00022	CDS	369				hypothetical protein
+INAECAKM_00023	gene	450				
+INAECAKM_00023	CDS	450				hypothetical protein
+INAECAKM_00024	gene	2136				
+INAECAKM_00024	CDS	2136				hypothetical protein
+INAECAKM_00025	gene	156				
+INAECAKM_00025	CDS	156				hypothetical protein
+INAECAKM_00026	gene	798	pnp_1			
+INAECAKM_00026	CDS	798	pnp_1	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+INAECAKM_00027	gene	531	cobO_1			
+INAECAKM_00027	CDS	531	cobO_1	2.5.1.17		Corrinoid adenosyltransferase
+INAECAKM_00028	gene	1353	cbiA			
+INAECAKM_00028	CDS	1353	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+INAECAKM_00029	gene	642	cbiC			
+INAECAKM_00029	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+INAECAKM_00030	gene	753	cbiX			
+INAECAKM_00030	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+INAECAKM_00031	gene	1053	cbiG			
+INAECAKM_00031	CDS	1053	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+INAECAKM_00032	gene	1086	cbiD			
+INAECAKM_00032	CDS	1086	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+INAECAKM_00033	gene	870				
+INAECAKM_00033	CDS	870				hypothetical protein
+INAECAKM_00034	gene	1167	metK			
+INAECAKM_00034	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+INAECAKM_00035	gene	246				
+INAECAKM_00035	CDS	246				hypothetical protein
+INAECAKM_00036	gene	648	recA			
+INAECAKM_00036	CDS	648	recA			Protein RecA
+INAECAKM_00037	gene	2742	dbpA_1			
+INAECAKM_00037	CDS	2742	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+INAECAKM_00038	gene	1401				
+INAECAKM_00038	CDS	1401				hypothetical protein
+INAECAKM_00039	gene	738	lnrL			
+INAECAKM_00039	CDS	738	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+INAECAKM_00040	gene	207				
+INAECAKM_00040	CDS	207				hypothetical protein
+INAECAKM_00041	gene	576				
+INAECAKM_00041	CDS	576				hypothetical protein
+INAECAKM_00042	gene	738				
+INAECAKM_00042	CDS	738				hypothetical protein
+INAECAKM_00043	gene	74				
+INAECAKM_00043	tRNA	74				tRNA-Gln(ttg)
+INAECAKM_00044	gene	1029				
+INAECAKM_00044	CDS	1029				hypothetical protein
+INAECAKM_00045	gene	1152				
+INAECAKM_00045	CDS	1152				hypothetical protein
+INAECAKM_00046	gene	552	grpE			
+INAECAKM_00046	CDS	552	grpE			Protein GrpE
+INAECAKM_00047	gene	1875	dnaK			
+INAECAKM_00047	CDS	1875	dnaK		COG0443	Chaperone protein DnaK
+INAECAKM_00048	gene	1086	dnaJ_1			
+INAECAKM_00048	CDS	1086	dnaJ_1		COG0484	Chaperone protein DnaJ
+INAECAKM_00049	gene	534				
+INAECAKM_00049	CDS	534				hypothetical protein
+INAECAKM_00050	gene	165				
+INAECAKM_00050	CDS	165				hypothetical protein
+INAECAKM_00051	gene	87				
+INAECAKM_00051	tRNA	87				tRNA-Leu(cag)
+INAECAKM_00052	gene	1905	GATB			
+INAECAKM_00052	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+INAECAKM_00053	gene	1290				
+INAECAKM_00053	CDS	1290				hypothetical protein
+INAECAKM_00054	gene	1404				
+INAECAKM_00054	CDS	1404				hypothetical protein
+INAECAKM_00055	gene	2169	ftsH_1			
+INAECAKM_00055	CDS	2169	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+INAECAKM_00056	gene	735				
+INAECAKM_00056	CDS	735				hypothetical protein
+INAECAKM_00057	gene	279	yccX			
+INAECAKM_00057	CDS	279	yccX	3.6.1.7	COG1254	Acylphosphatase
+INAECAKM_00058	gene	333				
+INAECAKM_00058	CDS	333				hypothetical protein
+INAECAKM_00059	gene	915	ttuA			
+INAECAKM_00059	CDS	915	ttuA	2.8.1.15	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+INAECAKM_00060	gene	1290				
+INAECAKM_00060	CDS	1290				hypothetical protein
+INAECAKM_00061	gene	249	cutA			
+INAECAKM_00061	CDS	249	cutA		COG1324	Divalent-cation tolerance protein CutA
+INAECAKM_00062	gene	918				
+INAECAKM_00062	CDS	918				hypothetical protein
+INAECAKM_00063	gene	414				
+INAECAKM_00063	CDS	414				hypothetical protein
+INAECAKM_00064	gene	1188				
+INAECAKM_00064	CDS	1188				IS200/IS605 family transposase ISNma21
+INAECAKM_00065	gene	453				
+INAECAKM_00065	CDS	453				hypothetical protein
+INAECAKM_00066	gene	165				
+INAECAKM_00066	CDS	165				hypothetical protein
+INAECAKM_00067	gene	459	dtxR			
+INAECAKM_00067	CDS	459	dtxR			Diphtheria toxin repressor
+INAECAKM_00068	gene	768				
+INAECAKM_00068	CDS	768				hypothetical protein
+INAECAKM_00069	gene	1572	moaA			
+INAECAKM_00069	CDS	1572	moaA			GTP 3',8-cyclase
+INAECAKM_00070	gene	432				
+INAECAKM_00070	CDS	432				hypothetical protein
+INAECAKM_00071	gene	1017				
+INAECAKM_00071	CDS	1017		2.4.1.11	COG0438	Glycogen synthase
+INAECAKM_00072	gene	1341	bchE			
+INAECAKM_00072	CDS	1341	bchE	1.21.98.3		Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+INAECAKM_00073	gene	1158	arnB_1			
+INAECAKM_00073	CDS	1158	arnB_1	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+INAECAKM_00074	gene	1041	pseB_1			
+INAECAKM_00074	CDS	1041	pseB_1	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+INAECAKM_00075	gene	912				
+INAECAKM_00075	CDS	912				hypothetical protein
+INAECAKM_00076	gene	639				
+INAECAKM_00076	CDS	639				hypothetical protein
+INAECAKM_00077	gene	1167				
+INAECAKM_00077	CDS	1167				hypothetical protein
+INAECAKM_00078	gene	768	arnC_1			
+INAECAKM_00078	CDS	768	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+INAECAKM_00079	gene	954	rfbB			
+INAECAKM_00079	CDS	954	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+INAECAKM_00080	gene	729				
+INAECAKM_00080	CDS	729				hypothetical protein
+INAECAKM_00081	gene	102				
+INAECAKM_00081	CDS	102				hypothetical protein
+INAECAKM_00082	gene	789				
+INAECAKM_00082	CDS	789				hypothetical protein
+INAECAKM_00083	gene	1020	galE_1			
+INAECAKM_00083	CDS	1020	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+INAECAKM_00084	gene	432	gmm			
+INAECAKM_00084	CDS	432	gmm	3.6.1.-		GDP-mannose mannosyl hydrolase
+INAECAKM_00085	gene	939	fcl			
+INAECAKM_00085	CDS	939	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+INAECAKM_00086	gene	1161				
+INAECAKM_00086	CDS	1161				hypothetical protein
+INAECAKM_00087	gene	372				
+INAECAKM_00087	CDS	372				hypothetical protein
+INAECAKM_00088	gene	429				
+INAECAKM_00088	CDS	429				hypothetical protein
+INAECAKM_00089	gene	915	rmlD			
+INAECAKM_00089	CDS	915	rmlD	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+INAECAKM_00090	gene	1029	hddA			
+INAECAKM_00090	CDS	1029	hddA	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+INAECAKM_00091	gene	594	gmhA			
+INAECAKM_00091	CDS	594	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase
+INAECAKM_00092	gene	528	gmhB			
+INAECAKM_00092	CDS	528	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+INAECAKM_00093	gene	1017	galE_2			
+INAECAKM_00093	CDS	1017	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+INAECAKM_00094	gene	531	rfbC			
+INAECAKM_00094	CDS	531	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+INAECAKM_00095	gene	1221				
+INAECAKM_00095	CDS	1221				hypothetical protein
+INAECAKM_00096	gene	708	rfbF			
+INAECAKM_00096	CDS	708	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+INAECAKM_00097	gene	1527				
+INAECAKM_00097	CDS	1527				hypothetical protein
+INAECAKM_00098	gene	990	pseB_2			
+INAECAKM_00098	CDS	990	pseB_2	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+INAECAKM_00099	gene	1869				
+INAECAKM_00099	CDS	1869				hypothetical protein
+INAECAKM_00100	gene	762	kdsB			
+INAECAKM_00100	CDS	762	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+INAECAKM_00101	gene	900	COQ3			
+INAECAKM_00101	CDS	900	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+INAECAKM_00102	gene	462				
+INAECAKM_00102	CDS	462				hypothetical protein
+INAECAKM_00103	gene	819	neuB			
+INAECAKM_00103	CDS	819	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+INAECAKM_00104	gene	606				
+INAECAKM_00104	CDS	606		3.1.3.-	COG0637	Phosphorylated carbohydrates phosphatase
+INAECAKM_00105	gene	732				
+INAECAKM_00105	CDS	732				hypothetical protein
+INAECAKM_00106	gene	660	fmt			
+INAECAKM_00106	CDS	660	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+INAECAKM_00107	gene	309				
+INAECAKM_00107	CDS	309				hypothetical protein
+INAECAKM_00108	gene	432				
+INAECAKM_00108	CDS	432				hypothetical protein
+INAECAKM_00109	gene	1092	arnB_2			
+INAECAKM_00109	CDS	1092	arnB_2	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+INAECAKM_00110	gene	603				
+INAECAKM_00110	CDS	603				hypothetical protein
+INAECAKM_00111	gene	468				
+INAECAKM_00111	CDS	468				hypothetical protein
+INAECAKM_00112	gene	918	wbgU			
+INAECAKM_00112	CDS	918	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+INAECAKM_00113	gene	1047	mtnA			
+INAECAKM_00113	CDS	1047	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+INAECAKM_00114	gene	414				
+INAECAKM_00114	CDS	414				hypothetical protein
+INAECAKM_00115	gene	261				
+INAECAKM_00115	CDS	261				hypothetical protein
+INAECAKM_00116	gene	639				
+INAECAKM_00116	CDS	639				hypothetical protein
+INAECAKM_00117	gene	648	fabG			
+INAECAKM_00117	CDS	648	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+INAECAKM_00118	gene	1776				
+INAECAKM_00118	CDS	1776				hypothetical protein
+INAECAKM_00119	gene	471				
+INAECAKM_00119	CDS	471				hypothetical protein
+INAECAKM_00120	gene	1065				
+INAECAKM_00120	CDS	1065				hypothetical protein
+INAECAKM_00121	gene	228				
+INAECAKM_00121	CDS	228				hypothetical protein
+INAECAKM_00122	gene	855				
+INAECAKM_00122	CDS	855				hypothetical protein
+INAECAKM_00123	gene	240				
+INAECAKM_00123	CDS	240				hypothetical protein
+INAECAKM_00124	gene	429				
+INAECAKM_00124	CDS	429				hypothetical protein
+INAECAKM_00125	gene	564				
+INAECAKM_00125	CDS	564				hypothetical protein
+INAECAKM_00126	gene	129				
+INAECAKM_00126	CDS	129				hypothetical protein
+INAECAKM_00127	gene	528				
+INAECAKM_00127	CDS	528				hypothetical protein
+INAECAKM_00128	gene	270				
+INAECAKM_00128	CDS	270				hypothetical protein
+INAECAKM_00129	gene	660				
+INAECAKM_00129	CDS	660				hypothetical protein
+INAECAKM_00130	gene	2235				
+INAECAKM_00130	CDS	2235				hypothetical protein
+INAECAKM_00131	gene	402				
+INAECAKM_00131	CDS	402				hypothetical protein
+INAECAKM_00132	gene	477				
+INAECAKM_00132	CDS	477				hypothetical protein
+INAECAKM_00133	gene	429				
+INAECAKM_00133	CDS	429				hypothetical protein
+INAECAKM_00134	gene	789				
+INAECAKM_00134	CDS	789				hypothetical protein
+INAECAKM_00135	gene	597				
+INAECAKM_00135	CDS	597				hypothetical protein
+INAECAKM_00136	gene	1218				
+INAECAKM_00136	CDS	1218				hypothetical protein
+INAECAKM_00137	gene	240				
+INAECAKM_00137	CDS	240				hypothetical protein
+INAECAKM_00138	gene	594				
+INAECAKM_00138	CDS	594				hypothetical protein
+INAECAKM_00139	gene	492				
+INAECAKM_00139	CDS	492				hypothetical protein
+INAECAKM_00140	gene	75				
+INAECAKM_00140	tRNA	75				tRNA-Arg(tcg)
+INAECAKM_00141	gene	1176	alaA			
+INAECAKM_00141	CDS	1176	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+INAECAKM_00142	gene	402				
+INAECAKM_00142	CDS	402				hypothetical protein
+INAECAKM_00143	gene	234				
+INAECAKM_00143	CDS	234				hypothetical protein
+INAECAKM_00144	gene	672				
+INAECAKM_00144	CDS	672				hypothetical protein
+INAECAKM_00145	gene	624	pspA			
+INAECAKM_00145	CDS	624	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+INAECAKM_00146	gene	261				
+INAECAKM_00146	CDS	261				hypothetical protein
+INAECAKM_00147	gene	432	coxM			
+INAECAKM_00147	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+INAECAKM_00148	gene	1527	ctaD			
+INAECAKM_00148	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+INAECAKM_00149	gene	963				
+INAECAKM_00149	CDS	963				hypothetical protein
+INAECAKM_00150	gene	444	ctaA			
+INAECAKM_00150	CDS	444	ctaA	1.3.-.-	COG1612	Heme A synthase
+INAECAKM_00151	gene	525				
+INAECAKM_00151	CDS	525				hypothetical protein
+INAECAKM_00152	gene	597				
+INAECAKM_00152	CDS	597				hypothetical protein
+INAECAKM_00153	gene	75				
+INAECAKM_00153	tRNA	75				tRNA-Lys(ctt)
+INAECAKM_00154	gene	393	cheY_1			
+INAECAKM_00154	CDS	393	cheY_1		COG0784	Chemotaxis protein CheY
+INAECAKM_00155	gene	1773	sasA_1			
+INAECAKM_00155	CDS	1773	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+INAECAKM_00156	gene	555				
+INAECAKM_00156	CDS	555				hypothetical protein
+INAECAKM_00157	gene	162				
+INAECAKM_00157	CDS	162				hypothetical protein
+INAECAKM_00158	gene	915	ilvE_1			
+INAECAKM_00158	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+INAECAKM_00159	gene	207				
+INAECAKM_00159	CDS	207				hypothetical protein
+INAECAKM_00160	gene	1416	yclM			
+INAECAKM_00160	CDS	1416	yclM	2.7.2.4	COG0527	Aspartokinase 3
+INAECAKM_00161	gene	1023	murG			
+INAECAKM_00161	CDS	1023	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+INAECAKM_00162	gene	77				
+INAECAKM_00162	tRNA	77				tRNA-Val(tac)
+INAECAKM_00163	gene	264				
+INAECAKM_00163	CDS	264				hypothetical protein
+INAECAKM_00164	gene	348				
+INAECAKM_00164	CDS	348				hypothetical protein
+INAECAKM_00165	gene	342				
+INAECAKM_00165	CDS	342				hypothetical protein
+INAECAKM_00166	gene	993	dsbD			
+INAECAKM_00166	CDS	993	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+INAECAKM_00167	gene	138				
+INAECAKM_00167	CDS	138				hypothetical protein
+INAECAKM_00168	gene	225				
+INAECAKM_00168	CDS	225				hypothetical protein
+INAECAKM_00169	gene	252				
+INAECAKM_00169	CDS	252				hypothetical protein
+INAECAKM_00170	gene	450				
+INAECAKM_00170	CDS	450				hypothetical protein
+INAECAKM_00171	gene	882				
+INAECAKM_00171	CDS	882				hypothetical protein
+INAECAKM_00172	gene	375				
+INAECAKM_00172	CDS	375				hypothetical protein
+INAECAKM_00173	gene	285				
+INAECAKM_00173	CDS	285				hypothetical protein
+INAECAKM_00174	gene	444				
+INAECAKM_00174	CDS	444				hypothetical protein
+INAECAKM_00175	gene	357				
+INAECAKM_00175	CDS	357				hypothetical protein
+INAECAKM_00176	gene	279	FCS1			
+INAECAKM_00176	CDS	279	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+INAECAKM_00177	gene	1821	pat			
+INAECAKM_00177	CDS	1821	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+INAECAKM_00178	gene	1527	abfD			
+INAECAKM_00178	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+INAECAKM_00179	gene	915				
+INAECAKM_00179	CDS	915				hypothetical protein
+INAECAKM_00180	gene	708				
+INAECAKM_00180	CDS	708				hypothetical protein
+INAECAKM_00181	gene	744				
+INAECAKM_00181	CDS	744				hypothetical protein
+INAECAKM_00182	gene	327	trxA			
+INAECAKM_00182	CDS	327	trxA			Thioredoxin 1
+INAECAKM_00183	gene	73				
+INAECAKM_00183	tRNA	73				tRNA-Ala(cgc)
+INAECAKM_00184	gene	360				
+INAECAKM_00184	CDS	360				hypothetical protein
+INAECAKM_00185	gene	540				
+INAECAKM_00185	CDS	540				hypothetical protein
+INAECAKM_00186	gene	264				
+INAECAKM_00186	CDS	264				hypothetical protein
+INAECAKM_00187	gene	1392				
+INAECAKM_00187	CDS	1392		3.5.2.-		D-hydantoinase
+INAECAKM_00188	gene	900				
+INAECAKM_00188	CDS	900				hypothetical protein
+INAECAKM_00189	gene	828				
+INAECAKM_00189	CDS	828				hypothetical protein
+INAECAKM_00190	gene	618				
+INAECAKM_00190	CDS	618				hypothetical protein
+INAECAKM_00191	gene	1065				
+INAECAKM_00191	CDS	1065				hypothetical protein
+INAECAKM_00192	gene	198				
+INAECAKM_00192	CDS	198				hypothetical protein
+INAECAKM_00193	gene	675	rpiA			
+INAECAKM_00193	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+INAECAKM_00194	gene	975				
+INAECAKM_00194	CDS	975				hypothetical protein
+INAECAKM_00195	gene	237				
+INAECAKM_00195	CDS	237				hypothetical protein
+INAECAKM_00196	gene	723	mftE			
+INAECAKM_00196	CDS	723	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+INAECAKM_00197	gene	843	purU			
+INAECAKM_00197	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+INAECAKM_00198	gene	88				
+INAECAKM_00198	tRNA	88				tRNA-Leu(tag)
+INAECAKM_00199	gene	1350	algC			
+INAECAKM_00199	CDS	1350	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+INAECAKM_00200	gene	387				
+INAECAKM_00200	CDS	387				hypothetical protein
+INAECAKM_00201	gene	213				
+INAECAKM_00201	CDS	213				hypothetical protein
+INAECAKM_00202	gene	201				
+INAECAKM_00202	CDS	201				hypothetical protein
+INAECAKM_00203	gene	402	ndk			
+INAECAKM_00203	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+INAECAKM_00204	gene	1782	infB			
+INAECAKM_00204	CDS	1782	infB			Translation initiation factor IF-2
+INAECAKM_00205	gene	402				
+INAECAKM_00205	CDS	402				hypothetical protein
+INAECAKM_00206	gene	147				
+INAECAKM_00206	CDS	147				hypothetical protein
+INAECAKM_00207	gene	1491				
+INAECAKM_00207	CDS	1491				hypothetical protein
+INAECAKM_00208	gene	417				
+INAECAKM_00208	CDS	417				Protein archease
+INAECAKM_00209	gene	390				
+INAECAKM_00209	CDS	390				hypothetical protein
+INAECAKM_00210	gene	540				
+INAECAKM_00210	CDS	540			COG0586	putative membrane protein
+INAECAKM_00211	gene	96				
+INAECAKM_00211	CDS	96				hypothetical protein
+INAECAKM_00212	gene	177				
+INAECAKM_00212	CDS	177				hypothetical protein
+INAECAKM_00213	gene	1284	hisS			
+INAECAKM_00213	CDS	1284	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+INAECAKM_00214	gene	666				
+INAECAKM_00214	CDS	666				hypothetical protein
+INAECAKM_00215	gene	492	napF_1			
+INAECAKM_00215	CDS	492	napF_1			Ferredoxin-type protein NapF
+INAECAKM_00216	gene	537	napF_2			
+INAECAKM_00216	CDS	537	napF_2			Ferredoxin-type protein NapF
+INAECAKM_00217	gene	86				
+INAECAKM_00217	tRNA	86				tRNA-Ser(tga)
+INAECAKM_00218	gene	951				
+INAECAKM_00218	CDS	951				hypothetical protein
+INAECAKM_00219	gene	519				
+INAECAKM_00219	CDS	519				hypothetical protein
+INAECAKM_00220	gene	2088				
+INAECAKM_00220	CDS	2088				hypothetical protein
+INAECAKM_00221	gene	846	cshA_1			
+INAECAKM_00221	CDS	846	cshA_1	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+INAECAKM_00222	gene	1287				
+INAECAKM_00222	CDS	1287				hypothetical protein
+INAECAKM_00223	gene	993	mraY			
+INAECAKM_00223	CDS	993	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+INAECAKM_00224	gene	231				
+INAECAKM_00224	CDS	231				hypothetical protein
+INAECAKM_00225	gene	477	fdtC			
+INAECAKM_00225	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+INAECAKM_00226	gene	270				
+INAECAKM_00226	CDS	270				hypothetical protein
+INAECAKM_00227	gene	513				
+INAECAKM_00227	CDS	513				hypothetical protein
+INAECAKM_00228	gene	420	iolG			
+INAECAKM_00228	CDS	420	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+INAECAKM_00229	gene	447	ilvE_2			
+INAECAKM_00229	CDS	447	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+INAECAKM_00230	gene	399	ilvE_3			
+INAECAKM_00230	CDS	399	ilvE_3	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+INAECAKM_00231	gene	603				
+INAECAKM_00231	CDS	603				hypothetical protein
+INAECAKM_00232	gene	846	mimB			
+INAECAKM_00232	CDS	846	mimB	1.18.1.-		Propane 2-monooxygenase, reductase component
+INAECAKM_00233	gene	75				
+INAECAKM_00233	tRNA	75				tRNA-Ala(ggc)
+INAECAKM_00234	gene	852	Dml			
+INAECAKM_00234	CDS	852	Dml	4.1.3.32		2,3-dimethylmalate lyase
+INAECAKM_00235	gene	588				
+INAECAKM_00235	CDS	588				hypothetical protein
+INAECAKM_00236	gene	1713	frdA			
+INAECAKM_00236	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+INAECAKM_00237	gene	432				
+INAECAKM_00237	CDS	432				hypothetical protein
+INAECAKM_00238	gene	345				
+INAECAKM_00238	CDS	345				hypothetical protein
+INAECAKM_00239	gene	750	frdB			
+INAECAKM_00239	CDS	750	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+INAECAKM_00240	gene	354				
+INAECAKM_00240	CDS	354				hypothetical protein
+INAECAKM_00241	gene	1464	argH			
+INAECAKM_00241	CDS	1464	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+INAECAKM_00242	gene	75				
+INAECAKM_00242	tRNA	75				tRNA-Lys(ttt)
+INAECAKM_00243	gene	78				
+INAECAKM_00243	tRNA	78				tRNA-Asp(gtc)
+INAECAKM_00244	gene	768				
+INAECAKM_00244	CDS	768				hypothetical protein
+INAECAKM_00245	gene	1077	hemA_1			
+INAECAKM_00245	CDS	1077	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+INAECAKM_00246	gene	168				
+INAECAKM_00246	CDS	168				hypothetical protein
+INAECAKM_00247	gene	843	fpr			
+INAECAKM_00247	CDS	843	fpr	1.18.1.2	COG1018	Ferredoxin--NADP reductase
+INAECAKM_00248	gene	801	cysQ_1			
+INAECAKM_00248	CDS	801	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+INAECAKM_00249	gene	1116				
+INAECAKM_00249	CDS	1116				hypothetical protein
+INAECAKM_00250	gene	1158	ruvB			
+INAECAKM_00250	CDS	1158	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+INAECAKM_00251	gene	312				
+INAECAKM_00251	CDS	312				hypothetical protein
+INAECAKM_00252	gene	1548	pccB			
+INAECAKM_00252	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+INAECAKM_00253	gene	1488	cfiB			
+INAECAKM_00253	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+INAECAKM_00254	gene	513				
+INAECAKM_00254	CDS	513				hypothetical protein
+INAECAKM_00255	gene	465	bcp_1			
+INAECAKM_00255	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+INAECAKM_00256	gene	375	ndhC			
+INAECAKM_00256	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+INAECAKM_00257	gene	525	ndhK			
+INAECAKM_00257	CDS	525	ndhK	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+INAECAKM_00258	gene	606	nuoC			
+INAECAKM_00258	CDS	606	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+INAECAKM_00259	gene	1137	nqo4			
+INAECAKM_00259	CDS	1137	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+INAECAKM_00260	gene	1299	ndhA			
+INAECAKM_00260	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+INAECAKM_00261	gene	498	nuoI			
+INAECAKM_00261	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+INAECAKM_00262	gene	513				
+INAECAKM_00262	CDS	513				hypothetical protein
+INAECAKM_00263	gene	306	nuoK			
+INAECAKM_00263	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+INAECAKM_00264	gene	1554	mrpA			
+INAECAKM_00264	CDS	1554	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+INAECAKM_00265	gene	2082	ndhB_1			
+INAECAKM_00265	CDS	2082	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+INAECAKM_00266	gene	1485	ndhB_2			
+INAECAKM_00266	CDS	1485	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+INAECAKM_00267	gene	852				
+INAECAKM_00267	CDS	852				hypothetical protein
+INAECAKM_00268	gene	633				
+INAECAKM_00268	CDS	633		1.-.-.-	COG5424	putative oxidoreductase CT_610
+INAECAKM_00269	gene	74				
+INAECAKM_00269	tRNA	74				tRNA-Met(cat)
+INAECAKM_00270	gene	606	pyrE			
+INAECAKM_00270	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+INAECAKM_00271	gene	1083				
+INAECAKM_00271	CDS	1083				hypothetical protein
+INAECAKM_00272	gene	1107				
+INAECAKM_00272	CDS	1107				hypothetical protein
+INAECAKM_00273	gene	498	ypeA			
+INAECAKM_00273	CDS	498	ypeA	2.3.1.-		Acetyltransferase YpeA
+INAECAKM_00274	gene	219				
+INAECAKM_00274	CDS	219				hypothetical protein
+INAECAKM_00275	gene	828				
+INAECAKM_00275	CDS	828				hypothetical protein
+INAECAKM_00276	gene	1788	btuD_1			
+INAECAKM_00276	CDS	1788	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+INAECAKM_00277	gene	112				
+INAECAKM_00277	rRNA	112				5S ribosomal RNA
+INAECAKM_00278	gene	1467	pepA			
+INAECAKM_00278	CDS	1467	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+INAECAKM_00279	gene	162				
+INAECAKM_00279	CDS	162				hypothetical protein
+INAECAKM_00280	gene	291				
+INAECAKM_00280	CDS	291				hypothetical protein
+INAECAKM_00281	gene	1668	dxs			
+INAECAKM_00281	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+INAECAKM_00282	gene	960	aptB			
+INAECAKM_00282	CDS	960	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+INAECAKM_00283	gene	666	tal			
+INAECAKM_00283	CDS	666	tal	2.2.1.2	COG0176	Transaldolase
+INAECAKM_00284	gene	273				
+INAECAKM_00284	CDS	273				hypothetical protein
+INAECAKM_00285	gene	783				
+INAECAKM_00285	CDS	783				hypothetical protein
+INAECAKM_00286	gene	1023	corA			
+INAECAKM_00286	CDS	1023	corA		COG0598	Cobalt/magnesium transport protein CorA
+INAECAKM_00287	gene	73				
+INAECAKM_00287	tRNA	73				tRNA-His(gtg)
+INAECAKM_00288	gene	336				
+INAECAKM_00288	CDS	336				hypothetical protein
+INAECAKM_00289	gene	762				
+INAECAKM_00289	CDS	762				hypothetical protein
+INAECAKM_00290	gene	270				
+INAECAKM_00290	CDS	270				hypothetical protein
+INAECAKM_00291	gene	309	bphA3_1			
+INAECAKM_00291	CDS	309	bphA3_1			Biphenyl dioxygenase ferredoxin subunit
+INAECAKM_00292	gene	777				
+INAECAKM_00292	CDS	777				hypothetical protein
+INAECAKM_00293	gene	873				
+INAECAKM_00293	CDS	873				hypothetical protein
+INAECAKM_00294	gene	399				
+INAECAKM_00294	CDS	399				hypothetical protein
+INAECAKM_00295	gene	1260	gluQ			
+INAECAKM_00295	CDS	1260	gluQ	6.1.1.-		Glutamyl-Q tRNA(Asp) synthetase
+INAECAKM_00296	gene	981				
+INAECAKM_00296	CDS	981				hypothetical protein
+INAECAKM_00297	gene	651	idi			
+INAECAKM_00297	CDS	651	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+INAECAKM_00298	gene	744	argB			
+INAECAKM_00298	CDS	744	argB	2.7.2.8		Acetylglutamate kinase
+INAECAKM_00299	gene	942	thrB_1			
+INAECAKM_00299	CDS	942	thrB_1	2.7.1.39		Homoserine kinase
+INAECAKM_00300	gene	624				
+INAECAKM_00300	CDS	624				hypothetical protein
+INAECAKM_00301	gene	1239	eno			
+INAECAKM_00301	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+INAECAKM_00302	gene	237				
+INAECAKM_00302	CDS	237				hypothetical protein
+INAECAKM_00303	gene	87				
+INAECAKM_00303	tRNA	87				tRNA-Leu(gag)
+INAECAKM_00304	gene	615				
+INAECAKM_00304	CDS	615				hypothetical protein
+INAECAKM_00305	gene	648	nnr_1			
+INAECAKM_00305	CDS	648	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+INAECAKM_00306	gene	141				
+INAECAKM_00306	CDS	141				hypothetical protein
+INAECAKM_00307	gene	411	gloB			
+INAECAKM_00307	CDS	411	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+INAECAKM_00308	gene	1059	cobT			
+INAECAKM_00308	CDS	1059	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+INAECAKM_00309	gene	1761	glmS			
+INAECAKM_00309	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+INAECAKM_00310	gene	624				
+INAECAKM_00310	CDS	624				hypothetical protein
+INAECAKM_00311	gene	507				
+INAECAKM_00311	CDS	507				hypothetical protein
+INAECAKM_00312	gene	309				
+INAECAKM_00312	CDS	309				hypothetical protein
+INAECAKM_00313	gene	504				
+INAECAKM_00313	CDS	504				hypothetical protein
+INAECAKM_00314	gene	1032				
+INAECAKM_00314	CDS	1032				hypothetical protein
+INAECAKM_00315	gene	1179	zupT			
+INAECAKM_00315	CDS	1179	zupT			Zinc transporter ZupT
+INAECAKM_00316	gene	1353	fieF			
+INAECAKM_00316	CDS	1353	fieF			Ferrous-iron efflux pump FieF
+INAECAKM_00317	gene	3252				
+INAECAKM_00317	CDS	3252				hypothetical protein
+INAECAKM_00318	gene	954				
+INAECAKM_00318	CDS	954				hypothetical protein
+INAECAKM_00319	gene	324				
+INAECAKM_00319	CDS	324				hypothetical protein
+INAECAKM_00320	gene	1581				
+INAECAKM_00320	CDS	1581				hypothetical protein
+INAECAKM_00321	gene	777	larB			
+INAECAKM_00321	CDS	777	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+INAECAKM_00322	gene	915	mdh_1			
+INAECAKM_00322	CDS	915	mdh_1	1.1.1.37		Malate dehydrogenase
+INAECAKM_00323	gene	1221	larC			
+INAECAKM_00323	CDS	1221	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+INAECAKM_00324	gene	798	larE			
+INAECAKM_00324	CDS	798	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+INAECAKM_00325	gene	1167	iscS			
+INAECAKM_00325	CDS	1167	iscS	2.8.1.7		Cysteine desulfurase IscS
+INAECAKM_00326	gene	804				
+INAECAKM_00326	CDS	804				hypothetical protein
+INAECAKM_00327	gene	888				
+INAECAKM_00327	CDS	888				hypothetical protein
+INAECAKM_00328	gene	861				
+INAECAKM_00328	CDS	861				hypothetical protein
+INAECAKM_00329	gene	171				
+INAECAKM_00329	CDS	171				hypothetical protein
+INAECAKM_00330	gene	105				
+INAECAKM_00330	CDS	105				hypothetical protein
+INAECAKM_00331	gene	99				
+INAECAKM_00331	CDS	99				hypothetical protein
+INAECAKM_00332	gene	831				
+INAECAKM_00332	CDS	831				hypothetical protein
+INAECAKM_00333	gene	252				
+INAECAKM_00333	CDS	252				hypothetical protein
+INAECAKM_00334	gene	3348	rpoB			
+INAECAKM_00334	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+INAECAKM_00335	gene	3792	rpoC			
+INAECAKM_00335	CDS	3792	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+INAECAKM_00336	gene	228				
+INAECAKM_00336	CDS	228				hypothetical protein
+INAECAKM_00337	gene	1179				
+INAECAKM_00337	CDS	1179				hypothetical protein
+INAECAKM_00338	gene	1638				
+INAECAKM_00338	CDS	1638				hypothetical protein
+INAECAKM_00339	gene	324				
+INAECAKM_00339	CDS	324				hypothetical protein
+INAECAKM_00340	gene	465	nusA			
+INAECAKM_00340	CDS	465	nusA			Transcription termination/antitermination protein NusA
+INAECAKM_00341	gene	438				
+INAECAKM_00341	CDS	438				hypothetical protein
+INAECAKM_00342	gene	600				
+INAECAKM_00342	CDS	600				hypothetical protein
+INAECAKM_00343	gene	321				
+INAECAKM_00343	CDS	321				hypothetical protein
+INAECAKM_00344	gene	705				
+INAECAKM_00344	CDS	705				hypothetical protein
+INAECAKM_00345	gene	999				
+INAECAKM_00345	CDS	999				hypothetical protein
+INAECAKM_00346	gene	603	drgA			
+INAECAKM_00346	CDS	603	drgA			Protein DrgA
+INAECAKM_00347	gene	246				
+INAECAKM_00347	CDS	246				hypothetical protein
+INAECAKM_00348	gene	210				
+INAECAKM_00348	CDS	210				hypothetical protein
+INAECAKM_00349	gene	234				
+INAECAKM_00349	CDS	234				hypothetical protein
+INAECAKM_00350	gene	402				
+INAECAKM_00350	CDS	402				hypothetical protein
+INAECAKM_00351	gene	2259	dbpA_2			
+INAECAKM_00351	CDS	2259	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+INAECAKM_00352	gene	180				
+INAECAKM_00352	CDS	180				hypothetical protein
+INAECAKM_00353	gene	144				
+INAECAKM_00353	CDS	144				hypothetical protein
+INAECAKM_00354	gene	156				
+INAECAKM_00354	CDS	156				hypothetical protein
+INAECAKM_00355	gene	141				
+INAECAKM_00355	CDS	141				hypothetical protein
+INAECAKM_00356	gene	177				
+INAECAKM_00356	CDS	177				hypothetical protein
+INAECAKM_00357	gene	198				
+INAECAKM_00357	CDS	198				hypothetical protein
+INAECAKM_00358	gene	189				
+INAECAKM_00358	CDS	189				hypothetical protein
+INAECAKM_00359	gene	294				
+INAECAKM_00359	CDS	294				hypothetical protein
+INAECAKM_00360	gene	666	udgB			
+INAECAKM_00360	CDS	666	udgB	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+INAECAKM_00361	gene	387				
+INAECAKM_00361	CDS	387				hypothetical protein
+INAECAKM_00362	gene	2868	valS_1			
+INAECAKM_00362	CDS	2868	valS_1	6.1.1.9		Valine--tRNA ligase
+INAECAKM_00363	gene	2670	alaS			
+INAECAKM_00363	CDS	2670	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+INAECAKM_00364	gene	1326				
+INAECAKM_00364	CDS	1326				hypothetical protein
+INAECAKM_00365	gene	951	neoA			
+INAECAKM_00365	CDS	951	neoA	1.1.1.329		2-deoxy-scyllo-inosamine dehydrogenase
+INAECAKM_00366	gene	414				
+INAECAKM_00366	CDS	414				hypothetical protein
+INAECAKM_00367	gene	1188				
+INAECAKM_00367	CDS	1188				hypothetical protein
+INAECAKM_00368	gene	1518	sasA_2			
+INAECAKM_00368	CDS	1518	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+INAECAKM_00369	gene	510				
+INAECAKM_00369	CDS	510				hypothetical protein
+INAECAKM_00370	gene	309				
+INAECAKM_00370	CDS	309				hypothetical protein
+INAECAKM_00371	gene	633				
+INAECAKM_00371	CDS	633				hypothetical protein
+INAECAKM_00372	gene	114				
+INAECAKM_00372	CDS	114				hypothetical protein
+INAECAKM_00373	gene	552				
+INAECAKM_00373	CDS	552				hypothetical protein
+INAECAKM_00374	gene	807				
+INAECAKM_00374	CDS	807				hypothetical protein
+INAECAKM_00375	gene	378	spo0A			
+INAECAKM_00375	CDS	378	spo0A			Stage 0 sporulation protein A
+INAECAKM_00376	gene	1065				
+INAECAKM_00376	CDS	1065				hypothetical protein
+INAECAKM_00377	gene	867				
+INAECAKM_00377	CDS	867				hypothetical protein
+INAECAKM_00378	gene	663	rplA			
+INAECAKM_00378	CDS	663	rplA		COG0081	50S ribosomal protein L1
+INAECAKM_00379	gene	531				
+INAECAKM_00379	CDS	531				hypothetical protein
+INAECAKM_00380	gene	105				
+INAECAKM_00380	CDS	105				hypothetical protein
+INAECAKM_00381	gene	111				
+INAECAKM_00381	CDS	111				hypothetical protein
+INAECAKM_00382	gene	1875				
+INAECAKM_00382	CDS	1875				hypothetical protein
+INAECAKM_00383	gene	150				
+INAECAKM_00383	CDS	150				hypothetical protein
+INAECAKM_00384	gene	966	rutE_1			
+INAECAKM_00384	CDS	966	rutE_1	1.1.1.298		malonic semialdehyde reductase RutE
+INAECAKM_00385	gene	801				
+INAECAKM_00385	CDS	801				hypothetical protein
+INAECAKM_00386	gene	369				
+INAECAKM_00386	CDS	369				hypothetical protein
+INAECAKM_00387	gene	252				
+INAECAKM_00387	CDS	252				hypothetical protein
+INAECAKM_00388	gene	216				
+INAECAKM_00388	CDS	216				hypothetical protein
+INAECAKM_00389	gene	186				
+INAECAKM_00389	CDS	186				hypothetical protein
+INAECAKM_00390	gene	1308				
+INAECAKM_00390	CDS	1308				hypothetical protein
+INAECAKM_00391	gene	996				
+INAECAKM_00391	CDS	996				hypothetical protein
+INAECAKM_00392	gene	5133				
+INAECAKM_00392	CDS	5133				hypothetical protein
+INAECAKM_00393	gene	1032				
+INAECAKM_00393	CDS	1032				hypothetical protein
+INAECAKM_00394	gene	1269				
+INAECAKM_00394	CDS	1269				hypothetical protein
+INAECAKM_00395	gene	708				
+INAECAKM_00395	CDS	708				hypothetical protein
+INAECAKM_00396	gene	696				
+INAECAKM_00396	CDS	696				hypothetical protein
+INAECAKM_00397	gene	408	cheB_1			
+INAECAKM_00397	CDS	408	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+INAECAKM_00398	gene	141				
+INAECAKM_00398	CDS	141				hypothetical protein
+INAECAKM_00399	gene	186				
+INAECAKM_00399	CDS	186				hypothetical protein
+INAECAKM_00400	gene	480	rplK			
+INAECAKM_00400	CDS	480	rplK		COG0080	50S ribosomal protein L11
+INAECAKM_00401	gene	459				
+INAECAKM_00401	CDS	459				hypothetical protein
+INAECAKM_00402	gene	174				
+INAECAKM_00402	CDS	174				hypothetical protein
+INAECAKM_00403	gene	777				
+INAECAKM_00403	CDS	777				hypothetical protein
+INAECAKM_00404	gene	300	ogt			
+INAECAKM_00404	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+INAECAKM_00405	gene	393	fosB			
+INAECAKM_00405	CDS	393	fosB	2.5.1.-		Metallothiol transferase FosB
+INAECAKM_00406	gene	456				
+INAECAKM_00406	CDS	456				hypothetical protein
+INAECAKM_00407	gene	510				
+INAECAKM_00407	CDS	510				hypothetical protein
+INAECAKM_00408	gene	1500	pckA			
+INAECAKM_00408	CDS	1500	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+INAECAKM_00409	gene	2022				
+INAECAKM_00409	CDS	2022				hypothetical protein
+INAECAKM_00410	gene	621	sodA_1			
+INAECAKM_00410	CDS	621	sodA_1	1.15.1.1		Superoxide dismutase [Mn]
+INAECAKM_00411	gene	90				
+INAECAKM_00411	CDS	90				hypothetical protein
+INAECAKM_00412	gene	438	pfdA			
+INAECAKM_00412	CDS	438	pfdA			Prefoldin subunit alpha
+INAECAKM_00413	gene	321	ftsY_1			
+INAECAKM_00413	CDS	321	ftsY_1			Signal recognition particle receptor FtsY
+INAECAKM_00414	gene	657	ftsY_2			
+INAECAKM_00414	CDS	657	ftsY_2		COG0552	Signal recognition particle receptor FtsY
+INAECAKM_00415	gene	216				
+INAECAKM_00415	CDS	216				hypothetical protein
+INAECAKM_00416	gene	915	argF			
+INAECAKM_00416	CDS	915	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+INAECAKM_00417	gene	483				
+INAECAKM_00417	CDS	483				hypothetical protein
+INAECAKM_00418	gene	723				
+INAECAKM_00418	CDS	723				hypothetical protein
+INAECAKM_00419	gene	474				
+INAECAKM_00419	CDS	474				hypothetical protein
+INAECAKM_00420	gene	477				
+INAECAKM_00420	CDS	477				hypothetical protein
+INAECAKM_00421	gene	1431	secY			
+INAECAKM_00421	CDS	1431	secY			Protein translocase subunit SecY
+INAECAKM_00422	gene	450				
+INAECAKM_00422	CDS	450				hypothetical protein
+INAECAKM_00423	gene	654				
+INAECAKM_00423	CDS	654				hypothetical protein
+INAECAKM_00424	gene	561	cmk			
+INAECAKM_00424	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+INAECAKM_00425	gene	996	truB			
+INAECAKM_00425	CDS	996	truB	5.4.99.25		tRNA pseudouridine synthase B
+INAECAKM_00426	gene	429				
+INAECAKM_00426	CDS	429				hypothetical protein
+INAECAKM_00427	gene	846				
+INAECAKM_00427	CDS	846				hypothetical protein
+INAECAKM_00428	gene	1311	lhgD			
+INAECAKM_00428	CDS	1311	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+INAECAKM_00429	gene	282				
+INAECAKM_00429	CDS	282				hypothetical protein
+INAECAKM_00430	gene	372				
+INAECAKM_00430	CDS	372				hypothetical protein
+INAECAKM_00431	gene	507	ghrB			
+INAECAKM_00431	CDS	507	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+INAECAKM_00432	gene	285				
+INAECAKM_00432	CDS	285		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+INAECAKM_00433	gene	147				
+INAECAKM_00433	CDS	147				hypothetical protein
+INAECAKM_00434	gene	1911				
+INAECAKM_00434	CDS	1911				hypothetical protein
+INAECAKM_00435	gene	963				
+INAECAKM_00435	CDS	963				hypothetical protein
+INAECAKM_00436	gene	441				
+INAECAKM_00436	CDS	441				hypothetical protein
+INAECAKM_00437	gene	534				
+INAECAKM_00437	CDS	534				hypothetical protein
+INAECAKM_00438	gene	327				
+INAECAKM_00438	CDS	327				hypothetical protein
+INAECAKM_00439	gene	555				
+INAECAKM_00439	CDS	555				hypothetical protein
+INAECAKM_00440	gene	780	fbiB_1			
+INAECAKM_00440	CDS	780	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+INAECAKM_00441	gene	1272	dmdA			
+INAECAKM_00441	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+INAECAKM_00442	gene	483	DmdB			
+INAECAKM_00442	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+INAECAKM_00443	gene	1416	leuC			
+INAECAKM_00443	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+INAECAKM_00444	gene	585	leuD1			
+INAECAKM_00444	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+INAECAKM_00445	gene	720	cugP_1			
+INAECAKM_00445	CDS	720	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+INAECAKM_00446	gene	450	rpsI			
+INAECAKM_00446	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+INAECAKM_00447	gene	465				
+INAECAKM_00447	CDS	465				hypothetical protein
+INAECAKM_00448	gene	348				
+INAECAKM_00448	CDS	348				hypothetical protein
+INAECAKM_00449	gene	666				
+INAECAKM_00449	CDS	666				hypothetical protein
+INAECAKM_00450	gene	354				
+INAECAKM_00450	CDS	354				hypothetical protein
+INAECAKM_00451	gene	729				
+INAECAKM_00451	CDS	729				hypothetical protein
+INAECAKM_00452	gene	681	pnp_2			
+INAECAKM_00452	CDS	681	pnp_2	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+INAECAKM_00453	gene	735	rph_1			
+INAECAKM_00453	CDS	735	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+INAECAKM_00454	gene	819	rph_2			
+INAECAKM_00454	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+INAECAKM_00455	gene	213				
+INAECAKM_00455	CDS	213				hypothetical protein
+INAECAKM_00456	gene	246				
+INAECAKM_00456	CDS	246				hypothetical protein
+INAECAKM_00457	gene	390				
+INAECAKM_00457	CDS	390				hypothetical protein
+INAECAKM_00458	gene	438				
+INAECAKM_00458	CDS	438				hypothetical protein
+INAECAKM_00459	gene	279				
+INAECAKM_00459	CDS	279				hypothetical protein
+INAECAKM_00460	gene	480				
+INAECAKM_00460	CDS	480				hypothetical protein
+INAECAKM_00461	gene	837	nadK_1			
+INAECAKM_00461	CDS	837	nadK_1	2.7.1.23		NAD kinase
+INAECAKM_00462	gene	846	ttuD			
+INAECAKM_00462	CDS	846	ttuD		COG2897	Sulfur carrier protein TtuD
+INAECAKM_00463	gene	312				
+INAECAKM_00463	CDS	312				hypothetical protein
+INAECAKM_00464	gene	948				
+INAECAKM_00464	CDS	948				hypothetical protein
+INAECAKM_00465	gene	2073				
+INAECAKM_00465	CDS	2073				hypothetical protein
+INAECAKM_00466	gene	1524				
+INAECAKM_00466	CDS	1524				hypothetical protein
+INAECAKM_00467	gene	108				
+INAECAKM_00467	CDS	108				hypothetical protein
+INAECAKM_00468	gene	1326	magA			
+INAECAKM_00468	CDS	1326	magA		COG0475	Iron transporter MagA
+INAECAKM_00469	gene	429				
+INAECAKM_00469	CDS	429				hypothetical protein
+INAECAKM_00470	gene	77				
+INAECAKM_00470	tRNA	77				tRNA-Gly(gcc)
+INAECAKM_00471	gene	264				
+INAECAKM_00471	CDS	264				hypothetical protein
+INAECAKM_00472	gene	510				
+INAECAKM_00472	CDS	510				hypothetical protein
+INAECAKM_00473	gene	564				
+INAECAKM_00473	CDS	564				hypothetical protein
+INAECAKM_00474	gene	657				
+INAECAKM_00474	CDS	657				hypothetical protein
+INAECAKM_00475	gene	93				
+INAECAKM_00475	CDS	93				hypothetical protein
+INAECAKM_00476	gene	735				
+INAECAKM_00476	CDS	735				hypothetical protein
+INAECAKM_00477	gene	288				
+INAECAKM_00477	CDS	288				hypothetical protein
+INAECAKM_00478	gene	1854	sasA_3			
+INAECAKM_00478	CDS	1854	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+INAECAKM_00479	gene	372	spo0F_1			
+INAECAKM_00479	CDS	372	spo0F_1	2.7.-.-	COG0784	Sporulation initiation phosphotransferase F
+INAECAKM_00480	gene	861				
+INAECAKM_00480	CDS	861				hypothetical protein
+INAECAKM_00481	gene	1035	wecC			
+INAECAKM_00481	CDS	1035	wecC	1.1.1.336		UDP-N-acetyl-D-mannosamine dehydrogenase
+INAECAKM_00482	gene	732				
+INAECAKM_00482	CDS	732				hypothetical protein
+INAECAKM_00483	gene	1440	arnC_2			
+INAECAKM_00483	CDS	1440	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+INAECAKM_00484	gene	2415				
+INAECAKM_00484	CDS	2415				hypothetical protein
+INAECAKM_00485	gene	96				
+INAECAKM_00485	CDS	96				hypothetical protein
+INAECAKM_00486	gene	789				
+INAECAKM_00486	CDS	789				hypothetical protein
+INAECAKM_00487	gene	804				
+INAECAKM_00487	CDS	804				hypothetical protein
+INAECAKM_00488	gene	387				
+INAECAKM_00488	CDS	387				hypothetical protein
+INAECAKM_00489	gene	1539				
+INAECAKM_00489	CDS	1539				hypothetical protein
+INAECAKM_00490	gene	1248				
+INAECAKM_00490	CDS	1248				hypothetical protein
+INAECAKM_00491	gene	174				
+INAECAKM_00491	CDS	174				hypothetical protein
+INAECAKM_00492	gene	183				
+INAECAKM_00492	CDS	183				hypothetical protein
+INAECAKM_00493	gene	258				
+INAECAKM_00493	CDS	258				hypothetical protein
+INAECAKM_00494	gene	315				
+INAECAKM_00494	CDS	315				hypothetical protein
+INAECAKM_00495	gene	933				
+INAECAKM_00495	CDS	933				hypothetical protein
+INAECAKM_00496	gene	1119				
+INAECAKM_00496	CDS	1119				hypothetical protein
+INAECAKM_00497	gene	123				
+INAECAKM_00497	CDS	123				hypothetical protein
+INAECAKM_00498	gene	198				
+INAECAKM_00498	CDS	198				hypothetical protein
+INAECAKM_00499	gene	2460				
+INAECAKM_00499	CDS	2460				hypothetical protein
+INAECAKM_00500	gene	888				
+INAECAKM_00500	CDS	888				hypothetical protein
+INAECAKM_00501	gene	144				
+INAECAKM_00501	CDS	144				hypothetical protein
+INAECAKM_00502	gene	282				
+INAECAKM_00502	CDS	282				hypothetical protein
+INAECAKM_00503	gene	792				
+INAECAKM_00503	CDS	792				hypothetical protein
+INAECAKM_00504	gene	594				
+INAECAKM_00504	CDS	594				hypothetical protein
+INAECAKM_00505	gene	3297				
+INAECAKM_00505	CDS	3297				hypothetical protein
+INAECAKM_00506	gene	186				
+INAECAKM_00506	CDS	186				hypothetical protein
+INAECAKM_00507	gene	1425				
+INAECAKM_00507	CDS	1425				hypothetical protein
+INAECAKM_00508	gene	351				
+INAECAKM_00508	CDS	351				hypothetical protein
+INAECAKM_00509	gene	603				
+INAECAKM_00509	CDS	603				hypothetical protein
+INAECAKM_00510	gene	594				
+INAECAKM_00510	CDS	594				hypothetical protein
+INAECAKM_00511	gene	504				
+INAECAKM_00511	CDS	504				hypothetical protein
+INAECAKM_00512	gene	198				
+INAECAKM_00512	CDS	198				hypothetical protein
+INAECAKM_00513	gene	1254	xerC			
+INAECAKM_00513	CDS	1254	xerC			Tyrosine recombinase XerC
+INAECAKM_00514	gene	75				
+INAECAKM_00514	tRNA	75				tRNA-Glu(ctc)
+INAECAKM_00515	gene	516				
+INAECAKM_00515	CDS	516				hypothetical protein
+INAECAKM_00516	gene	303				
+INAECAKM_00516	CDS	303				hypothetical protein
+INAECAKM_00517	gene	144				
+INAECAKM_00517	CDS	144				hypothetical protein
+INAECAKM_00518	gene	168				
+INAECAKM_00518	CDS	168				hypothetical protein
+INAECAKM_00519	gene	1437				
+INAECAKM_00519	CDS	1437				hypothetical protein
+INAECAKM_00520	gene	360				
+INAECAKM_00520	CDS	360				hypothetical protein
+INAECAKM_00521	gene	477				
+INAECAKM_00521	CDS	477				hypothetical protein
+INAECAKM_00522	gene	642				
+INAECAKM_00522	CDS	642				hypothetical protein
+INAECAKM_00523	gene	183				
+INAECAKM_00523	CDS	183				hypothetical protein
+INAECAKM_00524	gene	2076				
+INAECAKM_00524	CDS	2076				hypothetical protein
+INAECAKM_00525	gene	714				
+INAECAKM_00525	CDS	714				hypothetical protein
+INAECAKM_00526	gene	318				
+INAECAKM_00526	CDS	318				hypothetical protein
+INAECAKM_00527	gene	453				
+INAECAKM_00527	CDS	453				hypothetical protein
+INAECAKM_00528	gene	1020	drrA			
+INAECAKM_00528	CDS	1020	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+INAECAKM_00529	gene	786	drrB			
+INAECAKM_00529	CDS	786	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+INAECAKM_00530	gene	1632				
+INAECAKM_00530	CDS	1632				hypothetical protein
+INAECAKM_00531	gene	630				
+INAECAKM_00531	CDS	630				hypothetical protein
+INAECAKM_00532	gene	993				
+INAECAKM_00532	CDS	993				hypothetical protein
+INAECAKM_00533	gene	1086				
+INAECAKM_00533	CDS	1086				hypothetical protein
+INAECAKM_00534	gene	303				
+INAECAKM_00534	CDS	303				hypothetical protein
+INAECAKM_00535	gene	300	cadC			
+INAECAKM_00535	CDS	300	cadC			Cadmium resistance transcriptional regulatory protein CadC
+INAECAKM_00536	gene	399	arsC2			
+INAECAKM_00536	CDS	399	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+INAECAKM_00537	gene	684	aqpZ			
+INAECAKM_00537	CDS	684	aqpZ		COG0580	Aquaporin Z
+INAECAKM_00538	gene	1278	hemL_1			
+INAECAKM_00538	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+INAECAKM_00539	gene	936	hemC			
+INAECAKM_00539	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+INAECAKM_00540	gene	741	sumT			
+INAECAKM_00540	CDS	741	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+INAECAKM_00541	gene	804				
+INAECAKM_00541	CDS	804				hypothetical protein
+INAECAKM_00542	gene	120				
+INAECAKM_00542	CDS	120				hypothetical protein
+INAECAKM_00543	gene	1401				
+INAECAKM_00543	CDS	1401				hypothetical protein
+INAECAKM_00544	gene	1398				
+INAECAKM_00544	CDS	1398				hypothetical protein
+INAECAKM_00545	gene	309	bphA3_2			
+INAECAKM_00545	CDS	309	bphA3_2			Biphenyl 2,3-dioxygenase, ferredoxin component
+INAECAKM_00546	gene	1245	csd			
+INAECAKM_00546	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+INAECAKM_00547	gene	444	sufU			
+INAECAKM_00547	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+INAECAKM_00548	gene	345				
+INAECAKM_00548	CDS	345				hypothetical protein
+INAECAKM_00549	gene	1227	pgk			
+INAECAKM_00549	CDS	1227	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+INAECAKM_00550	gene	669				
+INAECAKM_00550	CDS	669				hypothetical protein
+INAECAKM_00551	gene	312				
+INAECAKM_00551	CDS	312				hypothetical protein
+INAECAKM_00552	gene	867				
+INAECAKM_00552	CDS	867				hypothetical protein
+INAECAKM_00553	gene	606				
+INAECAKM_00553	CDS	606				hypothetical protein
+INAECAKM_00554	gene	315				
+INAECAKM_00554	CDS	315				hypothetical protein
+INAECAKM_00555	gene	621				
+INAECAKM_00555	CDS	621				hypothetical protein
+INAECAKM_00556	gene	621	yedJ			
+INAECAKM_00556	CDS	621	yedJ		COG1418	putative protein YedJ
+INAECAKM_00557	gene	312				
+INAECAKM_00557	CDS	312				hypothetical protein
+INAECAKM_00558	gene	981	hemB			
+INAECAKM_00558	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+INAECAKM_00559	gene	1266	hemA_2			
+INAECAKM_00559	CDS	1266	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+INAECAKM_00560	gene	654	cysG			
+INAECAKM_00560	CDS	654	cysG	4.99.1.4		Siroheme synthase
+INAECAKM_00561	gene	1017				
+INAECAKM_00561	CDS	1017				hypothetical protein
+INAECAKM_00562	gene	123				
+INAECAKM_00562	CDS	123				hypothetical protein
+INAECAKM_00563	gene	378				
+INAECAKM_00563	CDS	378				hypothetical protein
+INAECAKM_00564	gene	663	yhdN			
+INAECAKM_00564	CDS	663	yhdN	1.1.1.-	COG0667	Aldo-keto reductase YhdN
+INAECAKM_00565	gene	504				
+INAECAKM_00565	CDS	504			COG3253	putative protein/MSMEI_2713
+INAECAKM_00566	gene	225				
+INAECAKM_00566	CDS	225				hypothetical protein
+INAECAKM_00567	gene	261				
+INAECAKM_00567	CDS	261				hypothetical protein
+INAECAKM_00568	gene	771	sufC			
+INAECAKM_00568	CDS	771	sufC		COG0396	Vegetative protein 296
+INAECAKM_00569	gene	957				
+INAECAKM_00569	CDS	957				hypothetical protein
+INAECAKM_00570	gene	249				
+INAECAKM_00570	CDS	249				hypothetical protein
+INAECAKM_00571	gene	300				
+INAECAKM_00571	CDS	300				hypothetical protein
+INAECAKM_00572	gene	384				
+INAECAKM_00572	CDS	384				hypothetical protein
+INAECAKM_00573	gene	579	scpB			
+INAECAKM_00573	CDS	579	scpB			Segregation and condensation protein B
+INAECAKM_00574	gene	690				
+INAECAKM_00574	CDS	690				hypothetical protein
+INAECAKM_00575	gene	1053	adhT			
+INAECAKM_00575	CDS	1053	adhT	1.1.1.1		Alcohol dehydrogenase
+INAECAKM_00576	gene	750	rssB_1			
+INAECAKM_00576	CDS	750	rssB_1			Regulator of RpoS
+INAECAKM_00577	gene	501				
+INAECAKM_00577	CDS	501				hypothetical protein
+INAECAKM_00578	gene	564				
+INAECAKM_00578	CDS	564				hypothetical protein
+INAECAKM_00579	gene	327				
+INAECAKM_00579	CDS	327				hypothetical protein
+INAECAKM_00580	gene	192	cspLA			
+INAECAKM_00580	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+INAECAKM_00581	gene	609				
+INAECAKM_00581	CDS	609				hypothetical protein
+INAECAKM_00582	gene	411				
+INAECAKM_00582	CDS	411				hypothetical protein
+INAECAKM_00583	gene	690				
+INAECAKM_00583	CDS	690				hypothetical protein
+INAECAKM_00584	gene	1326	ffh			
+INAECAKM_00584	CDS	1326	ffh		COG0541	Signal recognition particle protein
+INAECAKM_00585	gene	1146				
+INAECAKM_00585	CDS	1146				hypothetical protein
+INAECAKM_00586	gene	99				
+INAECAKM_00586	CDS	99				hypothetical protein
+INAECAKM_00587	gene	711				
+INAECAKM_00587	CDS	711				hypothetical protein
+INAECAKM_00588	gene	174				
+INAECAKM_00588	CDS	174				hypothetical protein
+INAECAKM_00589	gene	429				
+INAECAKM_00589	CDS	429				hypothetical protein
+INAECAKM_00590	gene	609				
+INAECAKM_00590	CDS	609				hypothetical protein
+INAECAKM_00591	gene	1353	apgM			
+INAECAKM_00591	CDS	1353	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+INAECAKM_00592	gene	1017				
+INAECAKM_00592	CDS	1017				hypothetical protein
+INAECAKM_00593	gene	447				
+INAECAKM_00593	CDS	447				hypothetical protein
+INAECAKM_00594	gene	438				
+INAECAKM_00594	CDS	438				hypothetical protein
+INAECAKM_00595	gene	705	cugP_2			
+INAECAKM_00595	CDS	705	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+INAECAKM_00596	gene	1302	thiDN			
+INAECAKM_00596	CDS	1302	thiDN		COG0351	Bifunctional thiamine biosynthesis protein ThiDN
+INAECAKM_00597	gene	192				
+INAECAKM_00597	CDS	192				hypothetical protein
+INAECAKM_00598	gene	225				
+INAECAKM_00598	CDS	225				hypothetical protein
+INAECAKM_00599	gene	1329	bzaF			
+INAECAKM_00599	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+INAECAKM_00600	gene	405				
+INAECAKM_00600	CDS	405				hypothetical protein
+INAECAKM_00601	gene	852				
+INAECAKM_00601	CDS	852				hypothetical protein
+INAECAKM_00602	gene	1371	dapL			
+INAECAKM_00602	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+INAECAKM_00603	gene	1098	aroC			
+INAECAKM_00603	CDS	1098	aroC	4.2.3.5		Chorismate synthase
+INAECAKM_00604	gene	1269	aroA			
+INAECAKM_00604	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+INAECAKM_00605	gene	855	thrB_2			
+INAECAKM_00605	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+INAECAKM_00606	gene	822	aroE			
+INAECAKM_00606	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+INAECAKM_00607	gene	672	aroD			
+INAECAKM_00607	CDS	672	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+INAECAKM_00608	gene	1062	griH			
+INAECAKM_00608	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+INAECAKM_00609	gene	783	griI			
+INAECAKM_00609	CDS	783	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+INAECAKM_00610	gene	1119	mqnC			
+INAECAKM_00610	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+INAECAKM_00611	gene	1443	ubiD_1			
+INAECAKM_00611	CDS	1443	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+INAECAKM_00612	gene	375				
+INAECAKM_00612	CDS	375				hypothetical protein
+INAECAKM_00613	gene	210				
+INAECAKM_00613	CDS	210				hypothetical protein
+INAECAKM_00614	gene	180				
+INAECAKM_00614	CDS	180				hypothetical protein
+INAECAKM_00615	gene	465	bcp_2			
+INAECAKM_00615	CDS	465	bcp_2	1.11.1.15	COG1225	Peroxiredoxin Bcp
+INAECAKM_00616	gene	705	aqpZ2			
+INAECAKM_00616	CDS	705	aqpZ2			Aquaporin Z 2
+INAECAKM_00617	gene	423				
+INAECAKM_00617	CDS	423				hypothetical protein
+INAECAKM_00618	gene	819				
+INAECAKM_00618	CDS	819				hypothetical protein
+INAECAKM_00619	gene	77				
+INAECAKM_00619	tRNA	77				tRNA-Arg(gcg)
+INAECAKM_00620	gene	150				
+INAECAKM_00620	CDS	150				hypothetical protein
+INAECAKM_00621	gene	576				
+INAECAKM_00621	CDS	576		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+INAECAKM_00622	gene	168				
+INAECAKM_00622	CDS	168				hypothetical protein
+INAECAKM_00623	gene	1083				
+INAECAKM_00623	CDS	1083				hypothetical protein
+INAECAKM_00624	gene	396				
+INAECAKM_00624	CDS	396		2.7.7.-		A-adding tRNA nucleotidyltransferase
+INAECAKM_00625	gene	426				
+INAECAKM_00625	CDS	426				hypothetical protein
+INAECAKM_00626	gene	552	tag			
+INAECAKM_00626	CDS	552	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+INAECAKM_00627	gene	306				
+INAECAKM_00627	CDS	306				hypothetical protein
+INAECAKM_00628	gene	1266				
+INAECAKM_00628	CDS	1266				hypothetical protein
+INAECAKM_00629	gene	516	ftnA			
+INAECAKM_00629	CDS	516	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+INAECAKM_00630	gene	333				
+INAECAKM_00630	CDS	333				hypothetical protein
+INAECAKM_00631	gene	174				
+INAECAKM_00631	CDS	174				hypothetical protein
+INAECAKM_00632	gene	303				
+INAECAKM_00632	CDS	303				hypothetical protein
+INAECAKM_00633	gene	144				
+INAECAKM_00633	CDS	144				hypothetical protein
+INAECAKM_00634	gene	447				
+INAECAKM_00634	CDS	447				hypothetical protein
+INAECAKM_00635	gene	759				
+INAECAKM_00635	CDS	759				hypothetical protein
+INAECAKM_00636	gene	201				
+INAECAKM_00636	CDS	201				hypothetical protein
+INAECAKM_00637	gene	1590	lysS			
+INAECAKM_00637	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+INAECAKM_00638	gene	1584				
+INAECAKM_00638	CDS	1584		2.3.1.-		tRNA uridine(34) acetyltransferase
+INAECAKM_00639	gene	189				
+INAECAKM_00639	CDS	189				hypothetical protein
+INAECAKM_00640	gene	1251	gerN_1			
+INAECAKM_00640	CDS	1251	gerN_1		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+INAECAKM_00641	gene	357	kdpE			
+INAECAKM_00641	CDS	357	kdpE		COG0745	Transcriptional regulatory protein KdpE
+INAECAKM_00642	gene	906	rcsC_1			
+INAECAKM_00642	CDS	906	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+INAECAKM_00643	gene	819				
+INAECAKM_00643	CDS	819				hypothetical protein
+INAECAKM_00644	gene	1023	purM			
+INAECAKM_00644	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+INAECAKM_00645	gene	726				
+INAECAKM_00645	CDS	726				hypothetical protein
+INAECAKM_00646	gene	564				
+INAECAKM_00646	CDS	564				hypothetical protein
+INAECAKM_00647	gene	204				
+INAECAKM_00647	CDS	204				hypothetical protein
+INAECAKM_00648	gene	348				
+INAECAKM_00648	CDS	348				hypothetical protein
+INAECAKM_00649	gene	582				
+INAECAKM_00649	CDS	582				hypothetical protein
+INAECAKM_00650	gene	96				
+INAECAKM_00650	CDS	96				hypothetical protein
+INAECAKM_00651	gene	129				
+INAECAKM_00651	CDS	129				hypothetical protein
+INAECAKM_00652	gene	333	glnB_1			
+INAECAKM_00652	CDS	333	glnB_1		COG0347	Nitrogen regulatory protein P-II 1
+INAECAKM_00653	gene	1311	nrgA			
+INAECAKM_00653	CDS	1311	nrgA			Ammonium transporter
+INAECAKM_00654	gene	375				
+INAECAKM_00654	CDS	375				hypothetical protein
+INAECAKM_00655	gene	936	yrbG			
+INAECAKM_00655	CDS	936	yrbG		COG0530	Inner membrane protein YrbG
+INAECAKM_00656	gene	1359	pmbA			
+INAECAKM_00656	CDS	1359	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+INAECAKM_00657	gene	1260	fbiC_1			
+INAECAKM_00657	CDS	1260	fbiC_1		COG1060	FO synthase
+INAECAKM_00658	gene	903	fbiC_2			
+INAECAKM_00658	CDS	903	fbiC_2		COG1060	FO synthase
+INAECAKM_00659	gene	165				
+INAECAKM_00659	CDS	165				hypothetical protein
+INAECAKM_00660	gene	1146				
+INAECAKM_00660	CDS	1146				hypothetical protein
+INAECAKM_00661	gene	1209	crtQ			
+INAECAKM_00661	CDS	1209	crtQ	2.4.1.-		4,4'-diaponeurosporenoate glycosyltransferase
+INAECAKM_00662	gene	417				
+INAECAKM_00662	CDS	417				hypothetical protein
+INAECAKM_00663	gene	198				
+INAECAKM_00663	CDS	198				hypothetical protein
+INAECAKM_00664	gene	330	metG_1			
+INAECAKM_00664	CDS	330	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+INAECAKM_00665	gene	561				
+INAECAKM_00665	CDS	561				hypothetical protein
+INAECAKM_00666	gene	1122				
+INAECAKM_00666	CDS	1122				hypothetical protein
+INAECAKM_00667	gene	180				
+INAECAKM_00667	CDS	180				hypothetical protein
+INAECAKM_00668	gene	894				
+INAECAKM_00668	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+INAECAKM_00669	gene	77				
+INAECAKM_00669	tRNA	77				tRNA-Pro(tgg)
+INAECAKM_00670	gene	246				
+INAECAKM_00670	CDS	246				hypothetical protein
+INAECAKM_00671	gene	3291				
+INAECAKM_00671	CDS	3291				hypothetical protein
+INAECAKM_00672	gene	492				
+INAECAKM_00672	CDS	492				hypothetical protein
+INAECAKM_00673	gene	2463				
+INAECAKM_00673	CDS	2463				hypothetical protein
+INAECAKM_00674	gene	618				
+INAECAKM_00674	CDS	618				hypothetical protein
+INAECAKM_00675	gene	1746				
+INAECAKM_00675	CDS	1746				hypothetical protein
+INAECAKM_00676	gene	168				
+INAECAKM_00676	CDS	168				hypothetical protein
+INAECAKM_00677	gene	330				
+INAECAKM_00677	CDS	330				hypothetical protein
+INAECAKM_00678	gene	309				
+INAECAKM_00678	CDS	309				hypothetical protein
+INAECAKM_00679	gene	990				
+INAECAKM_00679	CDS	990				hypothetical protein
+INAECAKM_00680	gene	909				
+INAECAKM_00680	CDS	909				hypothetical protein
+INAECAKM_00681	gene	639	fbiD			
+INAECAKM_00681	CDS	639	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+INAECAKM_00682	gene	921	fbiA			
+INAECAKM_00682	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+INAECAKM_00683	gene	1377				
+INAECAKM_00683	CDS	1377				hypothetical protein
+INAECAKM_00684	gene	279				
+INAECAKM_00684	misc_RNA	279				RNaseP_arch
+INAECAKM_00685	gene	624	tam			
+INAECAKM_00685	CDS	624	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+INAECAKM_00686	gene	2577				
+INAECAKM_00686	CDS	2577				hypothetical protein
+INAECAKM_00687	gene	1224	thi4_1			
+INAECAKM_00687	CDS	1224	thi4_1	2.4.2.59		Thiamine thiazole synthase
+INAECAKM_00688	gene	210				
+INAECAKM_00688	CDS	210				hypothetical protein
+INAECAKM_00689	gene	126				
+INAECAKM_00689	CDS	126				hypothetical protein
+INAECAKM_00690	gene	600				
+INAECAKM_00690	CDS	600				hypothetical protein
+INAECAKM_00691	gene	762	baiA			
+INAECAKM_00691	CDS	762	baiA	1.1.1.392		3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+INAECAKM_00692	gene	879	garR			
+INAECAKM_00692	CDS	879	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+INAECAKM_00693	gene	387				
+INAECAKM_00693	CDS	387				hypothetical protein
+INAECAKM_00694	gene	369				
+INAECAKM_00694	CDS	369				hypothetical protein
+INAECAKM_00695	gene	303				
+INAECAKM_00695	CDS	303				hypothetical protein
+INAECAKM_00696	gene	198				
+INAECAKM_00696	CDS	198				hypothetical protein
+INAECAKM_00697	gene	663				
+INAECAKM_00697	CDS	663				hypothetical protein
+INAECAKM_00698	gene	480				
+INAECAKM_00698	CDS	480				hypothetical protein
+INAECAKM_00699	gene	945				
+INAECAKM_00699	CDS	945				hypothetical protein
+INAECAKM_00700	gene	1095	dinB			
+INAECAKM_00700	CDS	1095	dinB	2.7.7.7		DNA polymerase IV
+INAECAKM_00701	gene	243				
+INAECAKM_00701	CDS	243				hypothetical protein
+INAECAKM_00702	gene	141				
+INAECAKM_00702	CDS	141				hypothetical protein
+INAECAKM_00703	gene	111				
+INAECAKM_00703	CDS	111				hypothetical protein
+INAECAKM_00704	gene	465				
+INAECAKM_00704	CDS	465				hypothetical protein
+INAECAKM_00705	gene	894				
+INAECAKM_00705	CDS	894				hypothetical protein
+INAECAKM_00706	gene	324				
+INAECAKM_00706	CDS	324				hypothetical protein
+INAECAKM_00707	gene	282				
+INAECAKM_00707	CDS	282				hypothetical protein
+INAECAKM_00708	gene	237				
+INAECAKM_00708	CDS	237				hypothetical protein
+INAECAKM_00709	gene	2904				
+INAECAKM_00709	CDS	2904				hypothetical protein
+INAECAKM_00710	gene	303				
+INAECAKM_00710	CDS	303				hypothetical protein
+INAECAKM_00711	gene	249				
+INAECAKM_00711	CDS	249				hypothetical protein
+INAECAKM_00712	gene	387				
+INAECAKM_00712	CDS	387				hypothetical protein
+INAECAKM_00713	gene	273				
+INAECAKM_00713	CDS	273				hypothetical protein
+INAECAKM_00714	gene	621				
+INAECAKM_00714	CDS	621				hypothetical protein
+INAECAKM_00715	gene	714				
+INAECAKM_00715	CDS	714				hypothetical protein
+INAECAKM_00716	gene	942				
+INAECAKM_00716	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+INAECAKM_00717	gene	1095	ino1			
+INAECAKM_00717	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+INAECAKM_00718	gene	738				
+INAECAKM_00718	CDS	738				hypothetical protein
+INAECAKM_00719	gene	3525	smc_1			
+INAECAKM_00719	CDS	3525	smc_1			Chromosome partition protein Smc
+INAECAKM_00720	gene	912	btuD_2			
+INAECAKM_00720	CDS	912	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+INAECAKM_00721	gene	1023	egtD			
+INAECAKM_00721	CDS	1023	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+INAECAKM_00722	gene	1311	egtB			
+INAECAKM_00722	CDS	1311	egtB	1.14.99.50	COG1262	Hercynine oxygenase
+INAECAKM_00723	gene	369				
+INAECAKM_00723	CDS	369				hypothetical protein
+INAECAKM_00724	gene	1443	proS			
+INAECAKM_00724	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+INAECAKM_00725	gene	285				
+INAECAKM_00725	CDS	285				hypothetical protein
+INAECAKM_00726	gene	669	serB2			
+INAECAKM_00726	CDS	669	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+INAECAKM_00727	gene	726	fbiB_2			
+INAECAKM_00727	CDS	726	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+INAECAKM_00728	gene	915				
+INAECAKM_00728	CDS	915				hypothetical protein
+INAECAKM_00729	gene	237	tusA			
+INAECAKM_00729	CDS	237	tusA		COG0425	Sulfur carrier protein TusA
+INAECAKM_00730	gene	990	cysM			
+INAECAKM_00730	CDS	990	cysM	2.5.1.47	COG0031	Cysteine synthase B
+INAECAKM_00731	gene	474				
+INAECAKM_00731	CDS	474				hypothetical protein
+INAECAKM_00732	gene	210				
+INAECAKM_00732	CDS	210				hypothetical protein
+INAECAKM_00733	gene	1005	trxB			
+INAECAKM_00733	CDS	1005	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+INAECAKM_00734	gene	438	hrp1_1			
+INAECAKM_00734	CDS	438	hrp1_1		COG0517	Hypoxic response protein 1
+INAECAKM_00735	gene	432				
+INAECAKM_00735	CDS	432				hypothetical protein
+INAECAKM_00736	gene	435				
+INAECAKM_00736	CDS	435				Putative universal stress protein
+INAECAKM_00737	gene	855	IMPDH_1			
+INAECAKM_00737	CDS	855	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+INAECAKM_00738	gene	342				
+INAECAKM_00738	CDS	342				hypothetical protein
+INAECAKM_00739	gene	402				
+INAECAKM_00739	CDS	402				hypothetical protein
+INAECAKM_00740	gene	876	mdh_2			
+INAECAKM_00740	CDS	876	mdh_2	1.1.1.37		Malate dehydrogenase
+INAECAKM_00741	gene	789				
+INAECAKM_00741	CDS	789				hypothetical protein
+INAECAKM_00742	gene	819	thi4_2			
+INAECAKM_00742	CDS	819	thi4_2	2.4.2.59		Thiamine thiazole synthase
+INAECAKM_00743	gene	1809	sir			
+INAECAKM_00743	CDS	1809	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+INAECAKM_00744	gene	807				
+INAECAKM_00744	CDS	807				hypothetical protein
+INAECAKM_00745	gene	1122				
+INAECAKM_00745	CDS	1122				hypothetical protein
+INAECAKM_00746	gene	1293				
+INAECAKM_00746	CDS	1293				hypothetical protein
+INAECAKM_00747	gene	177				
+INAECAKM_00747	CDS	177				hypothetical protein
+INAECAKM_00748	gene	1110	obg			
+INAECAKM_00748	CDS	1110	obg	3.6.5.-		GTPase Obg
+INAECAKM_00749	gene	228				
+INAECAKM_00749	CDS	228				hypothetical protein
+INAECAKM_00750	gene	714	ycsE			
+INAECAKM_00750	CDS	714	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+INAECAKM_00751	gene	1887	argS			
+INAECAKM_00751	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+INAECAKM_00752	gene	597				
+INAECAKM_00752	CDS	597				hypothetical protein
+INAECAKM_00753	gene	513				
+INAECAKM_00753	CDS	513				hypothetical protein
+INAECAKM_00754	gene	138				
+INAECAKM_00754	CDS	138				hypothetical protein
+INAECAKM_00755	gene	123				
+INAECAKM_00755	CDS	123				hypothetical protein
+INAECAKM_00756	gene	342				
+INAECAKM_00756	CDS	342				hypothetical protein
+INAECAKM_00757	gene	837	trmI			
+INAECAKM_00757	CDS	837	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+INAECAKM_00758	gene	864	nnr_2			
+INAECAKM_00758	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+INAECAKM_00759	gene	1356	dapE			
+INAECAKM_00759	CDS	1356	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+INAECAKM_00760	gene	420	mhqP			
+INAECAKM_00760	CDS	420	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+INAECAKM_00761	gene	597	prcB_1			
+INAECAKM_00761	CDS	597	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+INAECAKM_00762	gene	477				
+INAECAKM_00762	CDS	477				hypothetical protein
+INAECAKM_00763	gene	981				
+INAECAKM_00763	CDS	981				hypothetical protein
+INAECAKM_00764	gene	411	msrB			
+INAECAKM_00764	CDS	411	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+INAECAKM_00765	gene	1617	thyX			
+INAECAKM_00765	CDS	1617	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+INAECAKM_00766	gene	294				
+INAECAKM_00766	CDS	294				hypothetical protein
+INAECAKM_00767	gene	918				
+INAECAKM_00767	CDS	918				hypothetical protein
+INAECAKM_00768	gene	1917	acsA			
+INAECAKM_00768	CDS	1917	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+INAECAKM_00769	gene	525				
+INAECAKM_00769	CDS	525				hypothetical protein
+INAECAKM_00770	gene	1023				
+INAECAKM_00770	CDS	1023				hypothetical protein
+INAECAKM_00771	gene	264				
+INAECAKM_00771	CDS	264				hypothetical protein
+INAECAKM_00772	gene	84				
+INAECAKM_00772	tRNA	84				tRNA-Ser(cga)
+INAECAKM_00773	gene	186				
+INAECAKM_00773	CDS	186				hypothetical protein
+INAECAKM_00774	gene	648	rutE_2			
+INAECAKM_00774	CDS	648	rutE_2	1.1.1.298		malonic semialdehyde reductase RutE
+INAECAKM_00775	gene	234				
+INAECAKM_00775	CDS	234				hypothetical protein
+INAECAKM_00776	gene	177				
+INAECAKM_00776	CDS	177				hypothetical protein
+INAECAKM_00777	gene	393				
+INAECAKM_00777	CDS	393				hypothetical protein
+INAECAKM_00778	gene	342				
+INAECAKM_00778	CDS	342				hypothetical protein
+INAECAKM_00779	gene	474				
+INAECAKM_00779	CDS	474				hypothetical protein
+INAECAKM_00780	gene	1281				
+INAECAKM_00780	CDS	1281				hypothetical protein
+INAECAKM_00781	gene	399				
+INAECAKM_00781	CDS	399				hypothetical protein
+INAECAKM_00782	gene	261				
+INAECAKM_00782	CDS	261				hypothetical protein
+INAECAKM_00783	gene	351				
+INAECAKM_00783	CDS	351				hypothetical protein
+INAECAKM_00784	gene	1368				
+INAECAKM_00784	CDS	1368				hypothetical protein
+INAECAKM_00785	gene	1050	dppB			
+INAECAKM_00785	CDS	1050	dppB		COG0601	Dipeptide transport system permease protein DppB
+INAECAKM_00786	gene	300				
+INAECAKM_00786	CDS	300				hypothetical protein
+INAECAKM_00787	gene	243				
+INAECAKM_00787	CDS	243				hypothetical protein
+INAECAKM_00788	gene	336	yfgD			
+INAECAKM_00788	CDS	336	yfgD		COG1393	putative protein YfgD
+INAECAKM_00789	gene	198				
+INAECAKM_00789	CDS	198				hypothetical protein
+INAECAKM_00790	gene	951				
+INAECAKM_00790	CDS	951				hypothetical protein
+INAECAKM_00791	gene	660				
+INAECAKM_00791	CDS	660				hypothetical protein
+INAECAKM_00792	gene	714				
+INAECAKM_00792	CDS	714				hypothetical protein
+INAECAKM_00793	gene	1713				
+INAECAKM_00793	CDS	1713				hypothetical protein
+INAECAKM_00794	gene	615				
+INAECAKM_00794	CDS	615				hypothetical protein
+INAECAKM_00795	gene	564				
+INAECAKM_00795	CDS	564				hypothetical protein
+INAECAKM_00796	gene	624	sodA_2			
+INAECAKM_00796	CDS	624	sodA_2	1.15.1.1		Superoxide dismutase [Mn]
+INAECAKM_00797	gene	1257				
+INAECAKM_00797	CDS	1257				hypothetical protein
+INAECAKM_00798	gene	360				
+INAECAKM_00798	CDS	360				hypothetical protein
+INAECAKM_00799	gene	252				
+INAECAKM_00799	CDS	252				hypothetical protein
+INAECAKM_00800	gene	1446				
+INAECAKM_00800	CDS	1446			COG0247	putative protein
+INAECAKM_00801	gene	546				
+INAECAKM_00801	CDS	546				hypothetical protein
+INAECAKM_00802	gene	753				
+INAECAKM_00802	CDS	753				hypothetical protein
+INAECAKM_00803	gene	399				
+INAECAKM_00803	CDS	399				hypothetical protein
+INAECAKM_00804	gene	516	dnaJ_2			
+INAECAKM_00804	CDS	516	dnaJ_2			Chaperone protein DnaJ
+INAECAKM_00805	gene	315				
+INAECAKM_00805	CDS	315				hypothetical protein
+INAECAKM_00806	gene	144				
+INAECAKM_00806	CDS	144				hypothetical protein
+INAECAKM_00807	gene	228				
+INAECAKM_00807	CDS	228				hypothetical protein
+INAECAKM_00808	gene	492				
+INAECAKM_00808	CDS	492				hypothetical protein
+INAECAKM_00809	gene	174				
+INAECAKM_00809	CDS	174				hypothetical protein
+INAECAKM_00810	gene	1119	mqnE			
+INAECAKM_00810	CDS	1119	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+INAECAKM_00811	gene	306				
+INAECAKM_00811	CDS	306				hypothetical protein
+INAECAKM_00812	gene	294				
+INAECAKM_00812	CDS	294				hypothetical protein
+INAECAKM_00813	gene	291				
+INAECAKM_00813	CDS	291				hypothetical protein
+INAECAKM_00814	gene	759				
+INAECAKM_00814	CDS	759				hypothetical protein
+INAECAKM_00815	gene	351				
+INAECAKM_00815	CDS	351				hypothetical protein
+INAECAKM_00816	gene	126				
+INAECAKM_00816	CDS	126				hypothetical protein
+INAECAKM_00817	gene	828	mqnD			
+INAECAKM_00817	CDS	828	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+INAECAKM_00818	gene	906				
+INAECAKM_00818	CDS	906				hypothetical protein
+INAECAKM_00819	gene	2193	fusA			
+INAECAKM_00819	CDS	2193	fusA		COG0480	Elongation factor G
+INAECAKM_00820	gene	501				
+INAECAKM_00820	CDS	501				hypothetical protein
+INAECAKM_00821	gene	1044	cas1			
+INAECAKM_00821	CDS	1044	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+INAECAKM_00822	gene	402				
+INAECAKM_00822	CDS	402				hypothetical protein
+INAECAKM_00823	gene	195				
+INAECAKM_00823	CDS	195				hypothetical protein
+INAECAKM_00824	gene	297				
+INAECAKM_00824	CDS	297				hypothetical protein
+INAECAKM_00825	gene	798				
+INAECAKM_00825	CDS	798				hypothetical protein
+INAECAKM_00826	gene	267				
+INAECAKM_00826	CDS	267				hypothetical protein
+INAECAKM_00827	gene	615				
+INAECAKM_00827	CDS	615				hypothetical protein
+INAECAKM_00828	gene	234				
+INAECAKM_00828	CDS	234				hypothetical protein
+INAECAKM_00829	gene	261				
+INAECAKM_00829	CDS	261				hypothetical protein
+INAECAKM_00830	gene	1785				
+INAECAKM_00830	CDS	1785				hypothetical protein
+INAECAKM_00831	gene	945				
+INAECAKM_00831	CDS	945				hypothetical protein
+INAECAKM_00832	gene	477				
+INAECAKM_00832	CDS	477				hypothetical protein
+INAECAKM_00833	gene	537	napF_3			
+INAECAKM_00833	CDS	537	napF_3			Ferredoxin-type protein NapF
+INAECAKM_00834	gene	393				
+INAECAKM_00834	CDS	393				hypothetical protein
+INAECAKM_00835	gene	693				
+INAECAKM_00835	CDS	693				hypothetical protein
+INAECAKM_00836	gene	678	COQ5_1			
+INAECAKM_00836	CDS	678	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+INAECAKM_00837	gene	210				
+INAECAKM_00837	CDS	210				hypothetical protein
+INAECAKM_00838	gene	1155				
+INAECAKM_00838	CDS	1155				hypothetical protein
+INAECAKM_00839	gene	168				
+INAECAKM_00839	CDS	168				hypothetical protein
+INAECAKM_00840	gene	312				
+INAECAKM_00840	CDS	312				hypothetical protein
+INAECAKM_00841	gene	411				
+INAECAKM_00841	CDS	411				hypothetical protein
+INAECAKM_00842	gene	459				
+INAECAKM_00842	CDS	459				hypothetical protein
+INAECAKM_00843	gene	558				
+INAECAKM_00843	CDS	558				hypothetical protein
+INAECAKM_00844	gene	384				
+INAECAKM_00844	CDS	384				hypothetical protein
+INAECAKM_00845	gene	255				
+INAECAKM_00845	CDS	255				hypothetical protein
+INAECAKM_00846	gene	882				
+INAECAKM_00846	CDS	882				hypothetical protein
+INAECAKM_00847	gene	393				
+INAECAKM_00847	CDS	393				hypothetical protein
+INAECAKM_00848	gene	150				
+INAECAKM_00848	CDS	150				hypothetical protein
+INAECAKM_00849	gene	219				
+INAECAKM_00849	CDS	219				hypothetical protein
+INAECAKM_00850	gene	141				
+INAECAKM_00850	CDS	141				hypothetical protein
+INAECAKM_00851	gene	414				
+INAECAKM_00851	CDS	414				hypothetical protein
+INAECAKM_00852	gene	288				
+INAECAKM_00852	CDS	288				hypothetical protein
+INAECAKM_00853	gene	213				
+INAECAKM_00853	CDS	213				hypothetical protein
+INAECAKM_00854	gene	111				
+INAECAKM_00854	CDS	111				hypothetical protein
+INAECAKM_00855	gene	2136	ftsH_2			
+INAECAKM_00855	CDS	2136	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+INAECAKM_00856	gene	165				
+INAECAKM_00856	CDS	165				hypothetical protein
+INAECAKM_00857	gene	261				
+INAECAKM_00857	CDS	261				hypothetical protein
+INAECAKM_00858	gene	117				
+INAECAKM_00858	CDS	117				hypothetical protein
+INAECAKM_00859	gene	489	yqaA			
+INAECAKM_00859	CDS	489	yqaA		COG1238	Inner membrane protein YqaA
+INAECAKM_00860	gene	429				
+INAECAKM_00860	CDS	429				hypothetical protein
+INAECAKM_00861	gene	285				
+INAECAKM_00861	CDS	285				hypothetical protein
+INAECAKM_00862	gene	147				
+INAECAKM_00862	CDS	147				hypothetical protein
+INAECAKM_00863	gene	882				
+INAECAKM_00863	CDS	882				hypothetical protein
+INAECAKM_00864	gene	207				
+INAECAKM_00864	CDS	207				hypothetical protein
+INAECAKM_00865	gene	279				
+INAECAKM_00865	CDS	279				hypothetical protein
+INAECAKM_00866	gene	1668				
+INAECAKM_00866	CDS	1668				hypothetical protein
+INAECAKM_00867	gene	786				
+INAECAKM_00867	CDS	786				hypothetical protein
+INAECAKM_00868	gene	666				
+INAECAKM_00868	CDS	666				hypothetical protein
+INAECAKM_00869	gene	753				
+INAECAKM_00869	CDS	753				hypothetical protein
+INAECAKM_00870	gene	129				
+INAECAKM_00870	CDS	129				hypothetical protein
+INAECAKM_00871	gene	972	pgl			
+INAECAKM_00871	CDS	972	pgl	3.1.1.31		6-phosphogluconolactonase
+INAECAKM_00872	gene	120				
+INAECAKM_00872	CDS	120				hypothetical protein
+INAECAKM_00873	gene	582				
+INAECAKM_00873	CDS	582				hypothetical protein
+INAECAKM_00874	gene	231				
+INAECAKM_00874	CDS	231				hypothetical protein
+INAECAKM_00875	gene	231				
+INAECAKM_00875	CDS	231				hypothetical protein
+INAECAKM_00876	gene	426				
+INAECAKM_00876	CDS	426				hypothetical protein
+INAECAKM_00877	gene	225				
+INAECAKM_00877	CDS	225				hypothetical protein
+INAECAKM_00878	gene	156				
+INAECAKM_00878	CDS	156				hypothetical protein
+INAECAKM_00879	gene	1353				
+INAECAKM_00879	CDS	1353				hypothetical protein
+INAECAKM_00880	gene	618	trmR			
+INAECAKM_00880	CDS	618	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+INAECAKM_00881	gene	378				
+INAECAKM_00881	CDS	378				hypothetical protein
+INAECAKM_00882	gene	348				
+INAECAKM_00882	CDS	348				hypothetical protein
+INAECAKM_00883	gene	207				
+INAECAKM_00883	CDS	207				hypothetical protein
+INAECAKM_00884	gene	210				
+INAECAKM_00884	CDS	210				hypothetical protein
+INAECAKM_00885	gene	276				
+INAECAKM_00885	CDS	276				hypothetical protein
+INAECAKM_00886	gene	567				
+INAECAKM_00886	CDS	567				hypothetical protein
+INAECAKM_00887	gene	264				
+INAECAKM_00887	CDS	264				hypothetical protein
+INAECAKM_00888	gene	810				
+INAECAKM_00888	CDS	810				hypothetical protein
+INAECAKM_00889	gene	1815	IMPDH_2			
+INAECAKM_00889	CDS	1815	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+INAECAKM_00890	gene	435				
+INAECAKM_00890	CDS	435				hypothetical protein
+INAECAKM_00891	gene	219				
+INAECAKM_00891	CDS	219				hypothetical protein
+INAECAKM_00892	gene	195				
+INAECAKM_00892	CDS	195				hypothetical protein
+INAECAKM_00893	gene	1002				
+INAECAKM_00893	CDS	1002				hypothetical protein
+INAECAKM_00894	gene	120				
+INAECAKM_00894	CDS	120				hypothetical protein
+INAECAKM_00895	gene	885				
+INAECAKM_00895	CDS	885				hypothetical protein
+INAECAKM_00896	gene	2631				
+INAECAKM_00896	CDS	2631				hypothetical protein
+INAECAKM_00897	gene	393				
+INAECAKM_00897	CDS	393				hypothetical protein
+INAECAKM_00898	gene	249				
+INAECAKM_00898	CDS	249				hypothetical protein
+INAECAKM_00899	gene	261				
+INAECAKM_00899	CDS	261				hypothetical protein
+INAECAKM_00900	gene	837				
+INAECAKM_00900	CDS	837				hypothetical protein
+INAECAKM_00901	gene	1092				
+INAECAKM_00901	CDS	1092				hypothetical protein
+INAECAKM_00902	gene	141				
+INAECAKM_00902	CDS	141				hypothetical protein
+INAECAKM_00903	gene	558	ecdB			
+INAECAKM_00903	CDS	558	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+INAECAKM_00904	gene	429				
+INAECAKM_00904	CDS	429				hypothetical protein
+INAECAKM_00905	gene	207	tatA_1			
+INAECAKM_00905	CDS	207	tatA_1			Sec-independent protein translocase protein TatA
+INAECAKM_00906	gene	792	tatC			
+INAECAKM_00906	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+INAECAKM_00907	gene	465				
+INAECAKM_00907	CDS	465				hypothetical protein
+INAECAKM_00908	gene	156				
+INAECAKM_00908	CDS	156				hypothetical protein
+INAECAKM_00909	gene	384				
+INAECAKM_00909	CDS	384				hypothetical protein
+INAECAKM_00910	gene	261	purS			
+INAECAKM_00910	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+INAECAKM_00911	gene	423	hrp1_2			
+INAECAKM_00911	CDS	423	hrp1_2		COG0517	Hypoxic response protein 1
+INAECAKM_00912	gene	510	purQ_1			
+INAECAKM_00912	CDS	510	purQ_1	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+INAECAKM_00913	gene	192	purQ_2			
+INAECAKM_00913	CDS	192	purQ_2	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+INAECAKM_00914	gene	2166	purL			
+INAECAKM_00914	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+INAECAKM_00915	gene	1476	purF			
+INAECAKM_00915	CDS	1476	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+INAECAKM_00916	gene	279				
+INAECAKM_00916	CDS	279				hypothetical protein
+INAECAKM_00917	gene	288				
+INAECAKM_00917	CDS	288				hypothetical protein
+INAECAKM_00918	gene	825	purC			
+INAECAKM_00918	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+INAECAKM_00919	gene	504				
+INAECAKM_00919	CDS	504				hypothetical protein
+INAECAKM_00920	gene	321				
+INAECAKM_00920	CDS	321				hypothetical protein
+INAECAKM_00921	gene	405				
+INAECAKM_00921	CDS	405				hypothetical protein
+INAECAKM_00922	gene	372				
+INAECAKM_00922	CDS	372				hypothetical protein
+INAECAKM_00923	gene	615				
+INAECAKM_00923	CDS	615				hypothetical protein
+INAECAKM_00924	gene	624				
+INAECAKM_00924	CDS	624				hypothetical protein
+INAECAKM_00925	gene	156				
+INAECAKM_00925	CDS	156				hypothetical protein
+INAECAKM_00926	gene	126				
+INAECAKM_00926	CDS	126				hypothetical protein
+INAECAKM_00927	gene	150				
+INAECAKM_00927	CDS	150				hypothetical protein
+INAECAKM_00928	gene	450				
+INAECAKM_00928	CDS	450				hypothetical protein
+INAECAKM_00929	gene	228				
+INAECAKM_00929	CDS	228				hypothetical protein
+INAECAKM_00930	gene	249				
+INAECAKM_00930	CDS	249				hypothetical protein
+INAECAKM_00931	gene	77				
+INAECAKM_00931	tRNA	77				tRNA-Asn(gtt)
+INAECAKM_00932	gene	288				
+INAECAKM_00932	CDS	288				hypothetical protein
+INAECAKM_00933	gene	558				
+INAECAKM_00933	CDS	558				hypothetical protein
+INAECAKM_00934	gene	393				
+INAECAKM_00934	CDS	393				hypothetical protein
+INAECAKM_00935	gene	180				
+INAECAKM_00935	CDS	180				hypothetical protein
+INAECAKM_00936	gene	522				
+INAECAKM_00936	CDS	522				hypothetical protein
+INAECAKM_00937	gene	717				
+INAECAKM_00937	CDS	717				hypothetical protein
+INAECAKM_00938	gene	456				
+INAECAKM_00938	CDS	456				hypothetical protein
+INAECAKM_00939	gene	423	rplN			
+INAECAKM_00939	CDS	423	rplN		COG0093	50S ribosomal protein L14
+INAECAKM_00940	gene	324				
+INAECAKM_00940	CDS	324				hypothetical protein
+INAECAKM_00941	gene	267				
+INAECAKM_00941	CDS	267				hypothetical protein
+INAECAKM_00942	gene	207				
+INAECAKM_00942	CDS	207				hypothetical protein
+INAECAKM_00943	gene	756				
+INAECAKM_00943	CDS	756				hypothetical protein
+INAECAKM_00944	gene	459				
+INAECAKM_00944	CDS	459				hypothetical protein
+INAECAKM_00945	gene	396				
+INAECAKM_00945	CDS	396				hypothetical protein
+INAECAKM_00946	gene	267				
+INAECAKM_00946	CDS	267				hypothetical protein
+INAECAKM_00947	gene	816				
+INAECAKM_00947	CDS	816				hypothetical protein
+INAECAKM_00948	gene	996				
+INAECAKM_00948	CDS	996				hypothetical protein
+INAECAKM_00949	gene	111				
+INAECAKM_00949	CDS	111				hypothetical protein
+INAECAKM_00950	gene	813				
+INAECAKM_00950	CDS	813				hypothetical protein
+INAECAKM_00951	gene	738	prcA_1			
+INAECAKM_00951	CDS	738	prcA_1			Proteasome subunit alpha
+INAECAKM_00952	gene	417				
+INAECAKM_00952	CDS	417				hypothetical protein
+INAECAKM_00953	gene	120				
+INAECAKM_00953	CDS	120				hypothetical protein
+INAECAKM_00954	gene	342				
+INAECAKM_00954	CDS	342				hypothetical protein
+INAECAKM_00955	gene	651				
+INAECAKM_00955	CDS	651				hypothetical protein
+INAECAKM_00956	gene	1101	dipZ			
+INAECAKM_00956	CDS	1101	dipZ		COG0785	Protein DipZ
+INAECAKM_00957	gene	735				
+INAECAKM_00957	CDS	735				hypothetical protein
+INAECAKM_00958	gene	105				
+INAECAKM_00958	CDS	105				hypothetical protein
+INAECAKM_00959	gene	1131	bioF			
+INAECAKM_00959	CDS	1131	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+INAECAKM_00960	gene	978	bioB			
+INAECAKM_00960	CDS	978	bioB	2.8.1.6	COG0502	Biotin synthase
+INAECAKM_00961	gene	1560				
+INAECAKM_00961	CDS	1560				hypothetical protein
+INAECAKM_00962	gene	951				
+INAECAKM_00962	CDS	951				hypothetical protein
+INAECAKM_00963	gene	888				
+INAECAKM_00963	CDS	888				hypothetical protein
+INAECAKM_00964	gene	987				
+INAECAKM_00964	CDS	987				hypothetical protein
+INAECAKM_00965	gene	1281	bioK			
+INAECAKM_00965	CDS	1281	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+INAECAKM_00966	gene	684	bioD			
+INAECAKM_00966	CDS	684	bioD	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD
+INAECAKM_00967	gene	402				
+INAECAKM_00967	CDS	402				hypothetical protein
+INAECAKM_00968	gene	864				
+INAECAKM_00968	CDS	864				hypothetical protein
+INAECAKM_00969	gene	294				
+INAECAKM_00969	CDS	294				hypothetical protein
+INAECAKM_00970	gene	549				
+INAECAKM_00970	CDS	549				hypothetical protein
+INAECAKM_00971	gene	1395	mvaS			
+INAECAKM_00971	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+INAECAKM_00972	gene	705				
+INAECAKM_00972	CDS	705				hypothetical protein
+INAECAKM_00973	gene	684				
+INAECAKM_00973	CDS	684				hypothetical protein
+INAECAKM_00974	gene	957	rssB_2			
+INAECAKM_00974	CDS	957	rssB_2			Regulator of RpoS
+INAECAKM_00975	gene	1920				
+INAECAKM_00975	CDS	1920				hypothetical protein
+INAECAKM_00976	gene	1824	arnC_3			
+INAECAKM_00976	CDS	1824	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+INAECAKM_00977	gene	1176				
+INAECAKM_00977	CDS	1176				hypothetical protein
+INAECAKM_00978	gene	1053				
+INAECAKM_00978	CDS	1053				hypothetical protein
+INAECAKM_00979	gene	1254				
+INAECAKM_00979	CDS	1254				hypothetical protein
+INAECAKM_00980	gene	1344				
+INAECAKM_00980	CDS	1344				hypothetical protein
+INAECAKM_00981	gene	375				
+INAECAKM_00981	CDS	375				hypothetical protein
+INAECAKM_00982	gene	318				
+INAECAKM_00982	CDS	318				hypothetical protein
+INAECAKM_00983	gene	843				
+INAECAKM_00983	CDS	843				hypothetical protein
+INAECAKM_00984	gene	303				
+INAECAKM_00984	CDS	303				hypothetical protein
+INAECAKM_00985	gene	582				
+INAECAKM_00985	CDS	582				hypothetical protein
+INAECAKM_00986	gene	540				
+INAECAKM_00986	CDS	540				hypothetical protein
+INAECAKM_00987	gene	201				
+INAECAKM_00987	CDS	201				hypothetical protein
+INAECAKM_00988	gene	828				
+INAECAKM_00988	CDS	828				hypothetical protein
+INAECAKM_00989	gene	309				
+INAECAKM_00989	CDS	309				hypothetical protein
+INAECAKM_00990	gene	477				
+INAECAKM_00990	CDS	477				hypothetical protein
+INAECAKM_00991	gene	618				
+INAECAKM_00991	CDS	618				hypothetical protein
+INAECAKM_00992	gene	966				
+INAECAKM_00992	CDS	966		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+INAECAKM_00993	gene	204				
+INAECAKM_00993	CDS	204				hypothetical protein
+INAECAKM_00994	gene	678	cugP_3			
+INAECAKM_00994	CDS	678	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+INAECAKM_00995	gene	246				
+INAECAKM_00995	CDS	246				hypothetical protein
+INAECAKM_00996	gene	138				
+INAECAKM_00996	CDS	138				hypothetical protein
+INAECAKM_00997	gene	390				
+INAECAKM_00997	CDS	390				hypothetical protein
+INAECAKM_00998	gene	1146	purK			
+INAECAKM_00998	CDS	1146	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+INAECAKM_00999	gene	621	purE			
+INAECAKM_00999	CDS	621	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+INAECAKM_01000	gene	1209	tdcB			
+INAECAKM_01000	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+INAECAKM_01001	gene	849				
+INAECAKM_01001	CDS	849				hypothetical protein
+INAECAKM_01002	gene	123				
+INAECAKM_01002	CDS	123				hypothetical protein
+INAECAKM_01003	gene	816				
+INAECAKM_01003	CDS	816				hypothetical protein
+INAECAKM_01004	gene	363				
+INAECAKM_01004	CDS	363				hypothetical protein
+INAECAKM_01005	gene	387				
+INAECAKM_01005	CDS	387				hypothetical protein
+INAECAKM_01006	gene	411				
+INAECAKM_01006	CDS	411				hypothetical protein
+INAECAKM_01007	gene	219				
+INAECAKM_01007	CDS	219				hypothetical protein
+INAECAKM_01008	gene	240				
+INAECAKM_01008	CDS	240				hypothetical protein
+INAECAKM_01009	gene	294				
+INAECAKM_01009	CDS	294				hypothetical protein
+INAECAKM_01010	gene	288				
+INAECAKM_01010	CDS	288				hypothetical protein
+INAECAKM_01011	gene	75				
+INAECAKM_01011	tRNA	75				tRNA-Phe(gaa)
+INAECAKM_01012	gene	1131	bepA			
+INAECAKM_01012	CDS	1131	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+INAECAKM_01013	gene	537	cobO_2			
+INAECAKM_01013	CDS	537	cobO_2	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+INAECAKM_01014	gene	534				
+INAECAKM_01014	CDS	534				hypothetical protein
+INAECAKM_01015	gene	225				
+INAECAKM_01015	CDS	225				hypothetical protein
+INAECAKM_01016	gene	345				
+INAECAKM_01016	CDS	345				hypothetical protein
+INAECAKM_01017	gene	348				
+INAECAKM_01017	CDS	348				hypothetical protein
+INAECAKM_01018	gene	1224				
+INAECAKM_01018	CDS	1224				hypothetical protein
+INAECAKM_01019	gene	738	kaiC			
+INAECAKM_01019	CDS	738	kaiC	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+INAECAKM_01020	gene	846				
+INAECAKM_01020	CDS	846				hypothetical protein
+INAECAKM_01021	gene	546				
+INAECAKM_01021	CDS	546				hypothetical protein
+INAECAKM_01022	gene	498				
+INAECAKM_01022	CDS	498				hypothetical protein
+INAECAKM_01023	gene	2487				
+INAECAKM_01023	CDS	2487				hypothetical protein
+INAECAKM_01024	gene	453				
+INAECAKM_01024	CDS	453				hypothetical protein
+INAECAKM_01025	gene	639				
+INAECAKM_01025	CDS	639				hypothetical protein
+INAECAKM_01026	gene	1038				
+INAECAKM_01026	CDS	1038				hypothetical protein
+INAECAKM_01027	gene	1563				
+INAECAKM_01027	CDS	1563				hypothetical protein
+INAECAKM_01028	gene	630				
+INAECAKM_01028	CDS	630				hypothetical protein
+INAECAKM_01029	gene	1530				
+INAECAKM_01029	CDS	1530				hypothetical protein
+INAECAKM_01030	gene	1236				
+INAECAKM_01030	CDS	1236				hypothetical protein
+INAECAKM_01031	gene	2598				
+INAECAKM_01031	CDS	2598				hypothetical protein
+INAECAKM_01032	gene	264				
+INAECAKM_01032	CDS	264				hypothetical protein
+INAECAKM_01033	gene	696				
+INAECAKM_01033	CDS	696				hypothetical protein
+INAECAKM_01034	gene	951				
+INAECAKM_01034	CDS	951				hypothetical protein
+INAECAKM_01035	gene	390	rpfC			
+INAECAKM_01035	CDS	390	rpfC	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+INAECAKM_01036	gene	1086	rcsC_2			
+INAECAKM_01036	CDS	1086	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+INAECAKM_01037	gene	582				
+INAECAKM_01037	CDS	582				hypothetical protein
+INAECAKM_01038	gene	1353	hisC_1			
+INAECAKM_01038	CDS	1353	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+INAECAKM_01039	gene	1926	acs			
+INAECAKM_01039	CDS	1926	acs	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+INAECAKM_01040	gene	264				
+INAECAKM_01040	CDS	264				hypothetical protein
+INAECAKM_01041	gene	1404	gatB			
+INAECAKM_01041	CDS	1404	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+INAECAKM_01042	gene	1446	gatA			
+INAECAKM_01042	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+INAECAKM_01043	gene	267				
+INAECAKM_01043	CDS	267				hypothetical protein
+INAECAKM_01044	gene	1311	aspS2_1			
+INAECAKM_01044	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+INAECAKM_01045	gene	174				
+INAECAKM_01045	CDS	174				hypothetical protein
+INAECAKM_01046	gene	210				
+INAECAKM_01046	CDS	210				hypothetical protein
+INAECAKM_01047	gene	1026				
+INAECAKM_01047	CDS	1026				hypothetical protein
+INAECAKM_01048	gene	2118				
+INAECAKM_01048	CDS	2118				hypothetical protein
+INAECAKM_01049	gene	2163				
+INAECAKM_01049	CDS	2163				hypothetical protein
+INAECAKM_01050	gene	1551				
+INAECAKM_01050	CDS	1551				hypothetical protein
+INAECAKM_01051	gene	351				
+INAECAKM_01051	CDS	351				hypothetical protein
+INAECAKM_01052	gene	333				
+INAECAKM_01052	CDS	333				hypothetical protein
+INAECAKM_01053	gene	732				
+INAECAKM_01053	CDS	732				hypothetical protein
+INAECAKM_01054	gene	216				
+INAECAKM_01054	CDS	216				hypothetical protein
+INAECAKM_01055	gene	735	cheB_2			
+INAECAKM_01055	CDS	735	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+INAECAKM_01056	gene	510				
+INAECAKM_01056	CDS	510				hypothetical protein
+INAECAKM_01057	gene	645				
+INAECAKM_01057	CDS	645				hypothetical protein
+INAECAKM_01058	gene	1281				
+INAECAKM_01058	CDS	1281				hypothetical protein
+INAECAKM_01059	gene	405	hit			
+INAECAKM_01059	CDS	405	hit		COG0537	Protein hit
+INAECAKM_01060	gene	600				
+INAECAKM_01060	CDS	600				hypothetical protein
+INAECAKM_01061	gene	195				
+INAECAKM_01061	CDS	195				hypothetical protein
+INAECAKM_01062	gene	1677	ilvD			
+INAECAKM_01062	CDS	1677	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+INAECAKM_01063	gene	555				
+INAECAKM_01063	CDS	555				hypothetical protein
+INAECAKM_01064	gene	1401	dinG			
+INAECAKM_01064	CDS	1401	dinG	3.1.-.-		3'-5' exonuclease DinG
+INAECAKM_01065	gene	318				
+INAECAKM_01065	CDS	318				hypothetical protein
+INAECAKM_01066	gene	234				
+INAECAKM_01066	CDS	234				hypothetical protein
+INAECAKM_01067	gene	132				
+INAECAKM_01067	CDS	132				hypothetical protein
+INAECAKM_01068	gene	267				
+INAECAKM_01068	CDS	267				hypothetical protein
+INAECAKM_01069	gene	540				
+INAECAKM_01069	CDS	540				hypothetical protein
+INAECAKM_01070	gene	318				
+INAECAKM_01070	CDS	318				hypothetical protein
+INAECAKM_01071	gene	252				
+INAECAKM_01071	CDS	252				hypothetical protein
+INAECAKM_01072	gene	204				
+INAECAKM_01072	CDS	204				hypothetical protein
+INAECAKM_01073	gene	591				
+INAECAKM_01073	CDS	591				hypothetical protein
+INAECAKM_01074	gene	336				
+INAECAKM_01074	CDS	336				hypothetical protein
+INAECAKM_01075	gene	90				
+INAECAKM_01075	CDS	90				hypothetical protein
+INAECAKM_01076	gene	150				
+INAECAKM_01076	CDS	150				hypothetical protein
+INAECAKM_01077	gene	234				
+INAECAKM_01077	CDS	234				hypothetical protein
+INAECAKM_01078	gene	468				
+INAECAKM_01078	CDS	468				hypothetical protein
+INAECAKM_01079	gene	171				
+INAECAKM_01079	CDS	171				hypothetical protein
+INAECAKM_01080	gene	393				
+INAECAKM_01080	CDS	393				hypothetical protein
+INAECAKM_01081	gene	234				
+INAECAKM_01081	CDS	234				hypothetical protein
+INAECAKM_01082	gene	351				
+INAECAKM_01082	CDS	351				hypothetical protein
+INAECAKM_01083	gene	210				
+INAECAKM_01083	CDS	210				hypothetical protein
+INAECAKM_01084	gene	474				
+INAECAKM_01084	CDS	474				hypothetical protein
+INAECAKM_01085	gene	414				
+INAECAKM_01085	CDS	414				hypothetical protein
+INAECAKM_01086	gene	300				
+INAECAKM_01086	CDS	300				hypothetical protein
+INAECAKM_01087	gene	195				
+INAECAKM_01087	CDS	195				hypothetical protein
+INAECAKM_01088	gene	672				
+INAECAKM_01088	CDS	672				hypothetical protein
+INAECAKM_01089	gene	402				
+INAECAKM_01089	CDS	402				hypothetical protein
+INAECAKM_01090	gene	198				
+INAECAKM_01090	CDS	198				hypothetical protein
+INAECAKM_01091	gene	234				
+INAECAKM_01091	CDS	234				hypothetical protein
+INAECAKM_01092	gene	333				
+INAECAKM_01092	CDS	333				hypothetical protein
+INAECAKM_01093	gene	234				
+INAECAKM_01093	CDS	234				hypothetical protein
+INAECAKM_01094	gene	1350	pabB			
+INAECAKM_01094	CDS	1350	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+INAECAKM_01095	gene	597	trpG			
+INAECAKM_01095	CDS	597	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+INAECAKM_01096	gene	1047	trpD			
+INAECAKM_01096	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+INAECAKM_01097	gene	777	trpC			
+INAECAKM_01097	CDS	777	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+INAECAKM_01098	gene	1188	trpB			
+INAECAKM_01098	CDS	1188	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+INAECAKM_01099	gene	819	trpA			
+INAECAKM_01099	CDS	819	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+INAECAKM_01100	gene	90				
+INAECAKM_01100	CDS	90				hypothetical protein
+INAECAKM_01101	gene	687				
+INAECAKM_01101	CDS	687				hypothetical protein
+INAECAKM_01102	gene	180				
+INAECAKM_01102	CDS	180				hypothetical protein
+INAECAKM_01103	gene	840				
+INAECAKM_01103	CDS	840				hypothetical protein
+INAECAKM_01104	gene	1668	pyrG			
+INAECAKM_01104	CDS	1668	pyrG	6.3.4.2		CTP synthase
+INAECAKM_01105	gene	864	nadK_2			
+INAECAKM_01105	CDS	864	nadK_2	2.7.1.23		NAD kinase
+INAECAKM_01106	gene	870	RBKS_1			
+INAECAKM_01106	CDS	870	RBKS_1	2.7.1.15		Ribokinase
+INAECAKM_01107	gene	1233	sasA_4			
+INAECAKM_01107	CDS	1233	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+INAECAKM_01108	gene	288				
+INAECAKM_01108	CDS	288				hypothetical protein
+INAECAKM_01109	gene	576				
+INAECAKM_01109	CDS	576				hypothetical protein
+INAECAKM_01110	gene	876	speB			
+INAECAKM_01110	CDS	876	speB	3.5.3.11	COG0010	Agmatinase
+INAECAKM_01111	gene	1866				
+INAECAKM_01111	CDS	1866				hypothetical protein
+INAECAKM_01112	gene	354				
+INAECAKM_01112	CDS	354				hypothetical protein
+INAECAKM_01113	gene	1062				
+INAECAKM_01113	CDS	1062		2.5.-.-		Deoxyhypusine synthase-like protein
+INAECAKM_01114	gene	213				
+INAECAKM_01114	CDS	213				hypothetical protein
+INAECAKM_01115	gene	396				
+INAECAKM_01115	CDS	396				hypothetical protein
+INAECAKM_01116	gene	387				
+INAECAKM_01116	CDS	387				hypothetical protein
+INAECAKM_01117	gene	549				
+INAECAKM_01117	CDS	549				hypothetical protein
+INAECAKM_01118	gene	306				
+INAECAKM_01118	CDS	306				hypothetical protein
+INAECAKM_01119	gene	417				
+INAECAKM_01119	CDS	417				hypothetical protein
+INAECAKM_01120	gene	945	asnB			
+INAECAKM_01120	CDS	945	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+INAECAKM_01121	gene	138				
+INAECAKM_01121	CDS	138				hypothetical protein
+INAECAKM_01122	gene	366				
+INAECAKM_01122	CDS	366				hypothetical protein
+INAECAKM_01123	gene	1101				
+INAECAKM_01123	CDS	1101				hypothetical protein
+INAECAKM_01124	gene	891	menA			
+INAECAKM_01124	CDS	891	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+INAECAKM_01125	gene	204				
+INAECAKM_01125	CDS	204				hypothetical protein
+INAECAKM_01126	gene	2736				
+INAECAKM_01126	CDS	2736				hypothetical protein
+INAECAKM_01127	gene	579				
+INAECAKM_01127	CDS	579				hypothetical protein
+INAECAKM_01128	gene	1671				
+INAECAKM_01128	CDS	1671				hypothetical protein
+INAECAKM_01129	gene	213				
+INAECAKM_01129	CDS	213				hypothetical protein
+INAECAKM_01130	gene	705				
+INAECAKM_01130	CDS	705				hypothetical protein
+INAECAKM_01131	gene	531				
+INAECAKM_01131	CDS	531				hypothetical protein
+INAECAKM_01132	gene	1155				
+INAECAKM_01132	CDS	1155				hypothetical protein
+INAECAKM_01133	gene	1611				
+INAECAKM_01133	CDS	1611				hypothetical protein
+INAECAKM_01134	gene	972				
+INAECAKM_01134	CDS	972				hypothetical protein
+INAECAKM_01135	gene	909				
+INAECAKM_01135	CDS	909				hypothetical protein
+INAECAKM_01136	gene	840				
+INAECAKM_01136	CDS	840				hypothetical protein
+INAECAKM_01137	gene	402				
+INAECAKM_01137	CDS	402				hypothetical protein
+INAECAKM_01138	gene	279				
+INAECAKM_01138	CDS	279				hypothetical protein
+INAECAKM_01139	gene	405				
+INAECAKM_01139	CDS	405				hypothetical protein
+INAECAKM_01140	gene	279	prsA			
+INAECAKM_01140	CDS	279	prsA	5.2.1.8	COG0760	Foldase protein PrsA
+INAECAKM_01141	gene	276				
+INAECAKM_01141	CDS	276				hypothetical protein
+INAECAKM_01142	gene	1491	dbpA_3			
+INAECAKM_01142	CDS	1491	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+INAECAKM_01143	gene	246				
+INAECAKM_01143	CDS	246				hypothetical protein
+INAECAKM_01144	gene	189				
+INAECAKM_01144	CDS	189				hypothetical protein
+INAECAKM_01145	gene	483				
+INAECAKM_01145	CDS	483				hypothetical protein
+INAECAKM_01146	gene	2559				
+INAECAKM_01146	CDS	2559				hypothetical protein
+INAECAKM_01147	gene	294				
+INAECAKM_01147	CDS	294				hypothetical protein
+INAECAKM_01148	gene	657	tpiA			
+INAECAKM_01148	CDS	657	tpiA			Triosephosphate isomerase
+INAECAKM_01149	gene	2664	ppdK			
+INAECAKM_01149	CDS	2664	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+INAECAKM_01150	gene	558				
+INAECAKM_01150	CDS	558				hypothetical protein
+INAECAKM_01151	gene	399	epi			
+INAECAKM_01151	CDS	399	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+INAECAKM_01152	gene	1599	bhbA			
+INAECAKM_01152	CDS	1599	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+INAECAKM_01153	gene	921	argK			
+INAECAKM_01153	CDS	921	argK	3.6.5.-	COG1703	GTPase ArgK
+INAECAKM_01154	gene	468				
+INAECAKM_01154	CDS	468				hypothetical protein
+INAECAKM_01155	gene	2493	pepN			
+INAECAKM_01155	CDS	2493	pepN	3.4.11.2		Aminopeptidase N
+INAECAKM_01156	gene	423	mcm			
+INAECAKM_01156	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+INAECAKM_01157	gene	999	ilvC			
+INAECAKM_01157	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+INAECAKM_01158	gene	120				
+INAECAKM_01158	CDS	120				hypothetical protein
+INAECAKM_01159	gene	516				
+INAECAKM_01159	CDS	516		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+INAECAKM_01160	gene	7302				
+INAECAKM_01160	CDS	7302				hypothetical protein
+INAECAKM_01161	gene	924	tuf_1			
+INAECAKM_01161	CDS	924	tuf_1			Elongation factor Tu
+INAECAKM_01162	gene	753				
+INAECAKM_01162	CDS	753				hypothetical protein
+INAECAKM_01163	gene	1656	metG_2			
+INAECAKM_01163	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+INAECAKM_01164	gene	1242	ahcY			
+INAECAKM_01164	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+INAECAKM_01165	gene	303	todB			
+INAECAKM_01165	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+INAECAKM_01166	gene	792	nadE			
+INAECAKM_01166	CDS	792	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+INAECAKM_01167	gene	1461	cysS			
+INAECAKM_01167	CDS	1461	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+INAECAKM_01168	gene	315				
+INAECAKM_01168	CDS	315				hypothetical protein
+INAECAKM_01169	gene	330				
+INAECAKM_01169	CDS	330				hypothetical protein
+INAECAKM_01170	gene	285				
+INAECAKM_01170	CDS	285				hypothetical protein
+INAECAKM_01171	gene	828	mscS			
+INAECAKM_01171	CDS	828	mscS		COG0668	Small-conductance mechanosensitive channel
+INAECAKM_01172	gene	600				
+INAECAKM_01172	CDS	600				hypothetical protein
+INAECAKM_01173	gene	201				
+INAECAKM_01173	CDS	201				hypothetical protein
+INAECAKM_01174	gene	894				
+INAECAKM_01174	CDS	894				hypothetical protein
+INAECAKM_01175	gene	540				
+INAECAKM_01175	CDS	540				hypothetical protein
+INAECAKM_01176	gene	1158				
+INAECAKM_01176	CDS	1158				hypothetical protein
+INAECAKM_01177	gene	1107	btuF			
+INAECAKM_01177	CDS	1107	btuF			Vitamin B12-binding protein
+INAECAKM_01178	gene	2112				
+INAECAKM_01178	CDS	2112				hypothetical protein
+INAECAKM_01179	gene	1380				
+INAECAKM_01179	CDS	1380				hypothetical protein
+INAECAKM_01180	gene	843				
+INAECAKM_01180	CDS	843				hypothetical protein
+INAECAKM_01181	gene	183				
+INAECAKM_01181	CDS	183				hypothetical protein
+INAECAKM_01182	gene	1212	OLA1			
+INAECAKM_01182	CDS	1212	OLA1			Obg-like ATPase 1
+INAECAKM_01183	gene	366				
+INAECAKM_01183	CDS	366				hypothetical protein
+INAECAKM_01184	gene	420	yccU			
+INAECAKM_01184	CDS	420	yccU		COG1832	putative protein YccU
+INAECAKM_01185	gene	531				
+INAECAKM_01185	CDS	531				hypothetical protein
+INAECAKM_01186	gene	1008	birA			
+INAECAKM_01186	CDS	1008	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+INAECAKM_01187	gene	366				
+INAECAKM_01187	CDS	366				hypothetical protein
+INAECAKM_01188	gene	1410				
+INAECAKM_01188	CDS	1410				hypothetical protein
+INAECAKM_01189	gene	912				
+INAECAKM_01189	CDS	912				hypothetical protein
+INAECAKM_01190	gene	408	gpt			
+INAECAKM_01190	CDS	408	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+INAECAKM_01191	gene	393				
+INAECAKM_01191	CDS	393				hypothetical protein
+INAECAKM_01192	gene	339				
+INAECAKM_01192	CDS	339				hypothetical protein
+INAECAKM_01193	gene	282				
+INAECAKM_01193	CDS	282				hypothetical protein
+INAECAKM_01194	gene	1065	phaC			
+INAECAKM_01194	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+INAECAKM_01195	gene	429				
+INAECAKM_01195	CDS	429				hypothetical protein
+INAECAKM_01196	gene	426				
+INAECAKM_01196	CDS	426				hypothetical protein
+INAECAKM_01197	gene	846				
+INAECAKM_01197	CDS	846			COG0596	putative protein
+INAECAKM_01198	gene	360				
+INAECAKM_01198	CDS	360				hypothetical protein
+INAECAKM_01199	gene	453	msrA			
+INAECAKM_01199	CDS	453	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+INAECAKM_01200	gene	384				
+INAECAKM_01200	CDS	384				hypothetical protein
+INAECAKM_01201	gene	1032				
+INAECAKM_01201	CDS	1032				hypothetical protein
+INAECAKM_01202	gene	843	eryG			
+INAECAKM_01202	CDS	843	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+INAECAKM_01203	gene	132				
+INAECAKM_01203	CDS	132				hypothetical protein
+INAECAKM_01204	gene	465				
+INAECAKM_01204	CDS	465				hypothetical protein
+INAECAKM_01205	gene	1465				
+INAECAKM_01205	rRNA	1465				16S ribosomal RNA
+INAECAKM_01206	gene	2963				
+INAECAKM_01206	rRNA	2963				23S ribosomal RNA
+INAECAKM_01207	gene	1302	hemL_2			
+INAECAKM_01207	CDS	1302	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+INAECAKM_01208	gene	189				
+INAECAKM_01208	CDS	189				hypothetical protein
+INAECAKM_01209	gene	300				
+INAECAKM_01209	CDS	300				hypothetical protein
+INAECAKM_01210	gene	1734				
+INAECAKM_01210	CDS	1734				hypothetical protein
+INAECAKM_01211	gene	123				
+INAECAKM_01211	CDS	123				hypothetical protein
+INAECAKM_01212	gene	822	cpoB			
+INAECAKM_01212	CDS	822	cpoB			Cell division coordinator CpoB
+INAECAKM_01213	gene	705				
+INAECAKM_01213	CDS	705				hypothetical protein
+INAECAKM_01214	gene	363				
+INAECAKM_01214	CDS	363				hypothetical protein
+INAECAKM_01215	gene	456				
+INAECAKM_01215	CDS	456				hypothetical protein
+INAECAKM_01216	gene	357				
+INAECAKM_01216	CDS	357				hypothetical protein
+INAECAKM_01217	gene	666	dnaJ_3			
+INAECAKM_01217	CDS	666	dnaJ_3			Chaperone protein DnaJ
+INAECAKM_01218	gene	408				
+INAECAKM_01218	CDS	408				hypothetical protein
+INAECAKM_01219	gene	303				
+INAECAKM_01219	CDS	303				hypothetical protein
+INAECAKM_01220	gene	168				
+INAECAKM_01220	CDS	168				hypothetical protein
+INAECAKM_01221	gene	1140	fadB			
+INAECAKM_01221	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+INAECAKM_01222	gene	252				
+INAECAKM_01222	CDS	252				hypothetical protein
+INAECAKM_01223	gene	510				
+INAECAKM_01223	CDS	510				hypothetical protein
+INAECAKM_01224	gene	108				
+INAECAKM_01224	CDS	108				hypothetical protein
+INAECAKM_01225	gene	411				
+INAECAKM_01225	CDS	411				hypothetical protein
+INAECAKM_01226	gene	201				
+INAECAKM_01226	CDS	201				hypothetical protein
+INAECAKM_01227	gene	309	rpsJ			
+INAECAKM_01227	CDS	309	rpsJ			30S ribosomal protein S10
+INAECAKM_01228	gene	885	tuf_2			
+INAECAKM_01228	CDS	885	tuf_2		COG0050	Elongation factor Tu
+INAECAKM_01229	gene	1146	fbp			
+INAECAKM_01229	CDS	1146	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+INAECAKM_01230	gene	408				
+INAECAKM_01230	CDS	408				hypothetical protein
+INAECAKM_01231	gene	1767	lig			
+INAECAKM_01231	CDS	1767	lig	6.5.1.1		DNA ligase
+INAECAKM_01232	gene	654				
+INAECAKM_01232	CDS	654				hypothetical protein
+INAECAKM_01233	gene	537				
+INAECAKM_01233	CDS	537				hypothetical protein
+INAECAKM_01234	gene	378				
+INAECAKM_01234	CDS	378				hypothetical protein
+INAECAKM_01235	gene	237				
+INAECAKM_01235	CDS	237				hypothetical protein
+INAECAKM_01236	gene	393				
+INAECAKM_01236	CDS	393				hypothetical protein
+INAECAKM_01237	gene	1767				
+INAECAKM_01237	CDS	1767				hypothetical protein
+INAECAKM_01238	gene	450				
+INAECAKM_01238	CDS	450				hypothetical protein
+INAECAKM_01239	gene	186				
+INAECAKM_01239	CDS	186				hypothetical protein
+INAECAKM_01240	gene	798				
+INAECAKM_01240	CDS	798				hypothetical protein
+INAECAKM_01241	gene	2781				
+INAECAKM_01241	CDS	2781				hypothetical protein
+INAECAKM_01242	gene	813				
+INAECAKM_01242	CDS	813				hypothetical protein
+INAECAKM_01243	gene	1176				
+INAECAKM_01243	CDS	1176				hypothetical protein
+INAECAKM_01244	gene	708				
+INAECAKM_01244	CDS	708				hypothetical protein
+INAECAKM_01245	gene	726				
+INAECAKM_01245	CDS	726				hypothetical protein
+INAECAKM_01246	gene	834				
+INAECAKM_01246	CDS	834				hypothetical protein
+INAECAKM_01247	gene	273				
+INAECAKM_01247	CDS	273				hypothetical protein
+INAECAKM_01248	gene	1674	alsS			
+INAECAKM_01248	CDS	1674	alsS	2.2.1.6	COG0028	Acetolactate synthase
+INAECAKM_01249	gene	372				
+INAECAKM_01249	CDS	372				hypothetical protein
+INAECAKM_01250	gene	441				
+INAECAKM_01250	CDS	441				hypothetical protein
+INAECAKM_01251	gene	294				
+INAECAKM_01251	CDS	294				hypothetical protein
+INAECAKM_01252	gene	1605	kefB			
+INAECAKM_01252	CDS	1605	kefB			Glutathione-regulated potassium-efflux system protein KefB
+INAECAKM_01253	gene	330				
+INAECAKM_01253	CDS	330				hypothetical protein
+INAECAKM_01254	gene	798				
+INAECAKM_01254	CDS	798				hypothetical protein
+INAECAKM_01255	gene	381				
+INAECAKM_01255	CDS	381				hypothetical protein
+INAECAKM_01256	gene	159				
+INAECAKM_01256	CDS	159				hypothetical protein
+INAECAKM_01257	gene	246				
+INAECAKM_01257	CDS	246				hypothetical protein
+INAECAKM_01258	gene	999				
+INAECAKM_01258	CDS	999				hypothetical protein
+INAECAKM_01259	gene	201				
+INAECAKM_01259	CDS	201				hypothetical protein
+INAECAKM_01260	gene	1461				
+INAECAKM_01260	CDS	1461				hypothetical protein
+INAECAKM_01261	gene	540	zraS			
+INAECAKM_01261	CDS	540	zraS	2.7.13.3		Sensor protein ZraS
+INAECAKM_01262	gene	126				
+INAECAKM_01262	CDS	126				hypothetical protein
+INAECAKM_01263	gene	1074				
+INAECAKM_01263	CDS	1074				hypothetical protein
+INAECAKM_01264	gene	471	cheB_3			
+INAECAKM_01264	CDS	471	cheB_3	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+INAECAKM_01265	gene	756				
+INAECAKM_01265	CDS	756				hypothetical protein
+INAECAKM_01266	gene	240				
+INAECAKM_01266	CDS	240				hypothetical protein
+INAECAKM_01267	gene	126				
+INAECAKM_01267	CDS	126				hypothetical protein
+INAECAKM_01268	gene	282				
+INAECAKM_01268	CDS	282				hypothetical protein
+INAECAKM_01269	gene	504	cheB_4			
+INAECAKM_01269	CDS	504	cheB_4	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+INAECAKM_01270	gene	1557	rcsC_3			
+INAECAKM_01270	CDS	1557	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+INAECAKM_01271	gene	840				
+INAECAKM_01271	CDS	840				hypothetical protein
+INAECAKM_01272	gene	441				
+INAECAKM_01272	CDS	441				hypothetical protein
+INAECAKM_01273	gene	225				
+INAECAKM_01273	CDS	225				hypothetical protein
+INAECAKM_01274	gene	468				
+INAECAKM_01274	CDS	468				hypothetical protein
+INAECAKM_01275	gene	252				
+INAECAKM_01275	CDS	252				hypothetical protein
+INAECAKM_01276	gene	183				
+INAECAKM_01276	CDS	183				hypothetical protein
+INAECAKM_01277	gene	798				
+INAECAKM_01277	CDS	798				hypothetical protein
+INAECAKM_01278	gene	1335	gltP			
+INAECAKM_01278	CDS	1335	gltP		COG1301	Proton/glutamate-aspartate symporter
+INAECAKM_01279	gene	915	ectD			
+INAECAKM_01279	CDS	915	ectD	1.14.11.55		Ectoine dioxygenase
+INAECAKM_01280	gene	402	ectC			
+INAECAKM_01280	CDS	402	ectC	4.2.1.108		L-ectoine synthase
+INAECAKM_01281	gene	1296	ectB			
+INAECAKM_01281	CDS	1296	ectB	2.6.1.76		Diaminobutyrate--2-oxoglutarate transaminase
+INAECAKM_01282	gene	504	ectA			
+INAECAKM_01282	CDS	504	ectA	2.3.1.178		L-2,4-diaminobutyric acid acetyltransferase
+INAECAKM_01283	gene	378				
+INAECAKM_01283	CDS	378				hypothetical protein
+INAECAKM_01284	gene	162				
+INAECAKM_01284	CDS	162				hypothetical protein
+INAECAKM_01285	gene	315				
+INAECAKM_01285	CDS	315				hypothetical protein
+INAECAKM_01286	gene	891				
+INAECAKM_01286	CDS	891				hypothetical protein
+INAECAKM_01287	gene	960				
+INAECAKM_01287	CDS	960				hypothetical protein
+INAECAKM_01288	gene	162				
+INAECAKM_01288	CDS	162				hypothetical protein
+INAECAKM_01289	gene	192				
+INAECAKM_01289	CDS	192				hypothetical protein
+INAECAKM_01290	gene	204				
+INAECAKM_01290	CDS	204				hypothetical protein
+INAECAKM_01291	gene	810	noc			
+INAECAKM_01291	CDS	810	noc			Nucleoid occlusion protein
+INAECAKM_01292	gene	1209	gerN_2			
+INAECAKM_01292	CDS	1209	gerN_2		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+INAECAKM_01293	gene	429				
+INAECAKM_01293	CDS	429				hypothetical protein
+INAECAKM_01294	gene	564				
+INAECAKM_01294	CDS	564				hypothetical protein
+INAECAKM_01295	gene	120				
+INAECAKM_01295	CDS	120				hypothetical protein
+INAECAKM_01296	gene	414				
+INAECAKM_01296	CDS	414				hypothetical protein
+INAECAKM_01297	gene	228				
+INAECAKM_01297	CDS	228				hypothetical protein
+INAECAKM_01298	gene	1695				
+INAECAKM_01298	CDS	1695				hypothetical protein
+INAECAKM_01299	gene	486				
+INAECAKM_01299	CDS	486				hypothetical protein
+INAECAKM_01300	gene	183				
+INAECAKM_01300	CDS	183				hypothetical protein
+INAECAKM_01301	gene	909				
+INAECAKM_01301	CDS	909				hypothetical protein
+INAECAKM_01302	gene	399				
+INAECAKM_01302	CDS	399				hypothetical protein
+INAECAKM_01303	gene	699				
+INAECAKM_01303	CDS	699				hypothetical protein
+INAECAKM_01304	gene	276				
+INAECAKM_01304	CDS	276				hypothetical protein
+INAECAKM_01305	gene	1152				
+INAECAKM_01305	CDS	1152				hypothetical protein
+INAECAKM_01306	gene	1401	rcsC_4			
+INAECAKM_01306	CDS	1401	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+INAECAKM_01307	gene	234				
+INAECAKM_01307	CDS	234				hypothetical protein
+INAECAKM_01308	gene	1443				
+INAECAKM_01308	CDS	1443				hypothetical protein
+INAECAKM_01309	gene	1146	arnC_4			
+INAECAKM_01309	CDS	1146	arnC_4	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+INAECAKM_01310	gene	258				
+INAECAKM_01310	CDS	258				hypothetical protein
+INAECAKM_01311	gene	456				
+INAECAKM_01311	CDS	456				hypothetical protein
+INAECAKM_01312	gene	255				
+INAECAKM_01312	CDS	255				hypothetical protein
+INAECAKM_01313	gene	519				
+INAECAKM_01313	CDS	519				hypothetical protein
+INAECAKM_01314	gene	165				
+INAECAKM_01314	CDS	165				hypothetical protein
+INAECAKM_01315	gene	234				
+INAECAKM_01315	CDS	234				hypothetical protein
+INAECAKM_01316	gene	666				
+INAECAKM_01316	CDS	666				hypothetical protein
+INAECAKM_01317	gene	552				
+INAECAKM_01317	CDS	552				hypothetical protein
+INAECAKM_01318	gene	486				
+INAECAKM_01318	CDS	486				hypothetical protein
+INAECAKM_01319	gene	450				
+INAECAKM_01319	CDS	450				hypothetical protein
+INAECAKM_01320	gene	735				
+INAECAKM_01320	CDS	735				hypothetical protein
+INAECAKM_01321	gene	576				
+INAECAKM_01321	CDS	576				hypothetical protein
+INAECAKM_01322	gene	1791				
+INAECAKM_01322	CDS	1791				hypothetical protein
+INAECAKM_01323	gene	813				
+INAECAKM_01323	CDS	813				hypothetical protein
+INAECAKM_01324	gene	315				
+INAECAKM_01324	CDS	315				hypothetical protein
+INAECAKM_01325	gene	1713				
+INAECAKM_01325	CDS	1713				hypothetical protein
+INAECAKM_01326	gene	801				
+INAECAKM_01326	CDS	801				hypothetical protein
+INAECAKM_01327	gene	543				
+INAECAKM_01327	CDS	543				hypothetical protein
+INAECAKM_01328	gene	228				
+INAECAKM_01328	CDS	228				hypothetical protein
+INAECAKM_01329	gene	1335				
+INAECAKM_01329	CDS	1335				hypothetical protein
+INAECAKM_01330	gene	105				
+INAECAKM_01330	CDS	105				hypothetical protein
+INAECAKM_01331	gene	534				
+INAECAKM_01331	CDS	534				hypothetical protein
+INAECAKM_01332	gene	1347	petE_1			
+INAECAKM_01332	CDS	1347	petE_1			Plastocyanin
+INAECAKM_01333	gene	360				
+INAECAKM_01333	CDS	360				hypothetical protein
+INAECAKM_01334	gene	1932				
+INAECAKM_01334	CDS	1932				hypothetical protein
+INAECAKM_01335	gene	489				
+INAECAKM_01335	CDS	489				hypothetical protein
+INAECAKM_01336	gene	636				
+INAECAKM_01336	CDS	636				hypothetical protein
+INAECAKM_01337	gene	399				
+INAECAKM_01337	CDS	399				hypothetical protein
+INAECAKM_01338	gene	1143				
+INAECAKM_01338	CDS	1143				hypothetical protein
+INAECAKM_01339	gene	384				
+INAECAKM_01339	CDS	384				hypothetical protein
+INAECAKM_01340	gene	363				
+INAECAKM_01340	CDS	363				hypothetical protein
+INAECAKM_01341	gene	654				
+INAECAKM_01341	CDS	654				hypothetical protein
+INAECAKM_01342	gene	492				
+INAECAKM_01342	CDS	492				hypothetical protein
+INAECAKM_01343	gene	744				
+INAECAKM_01343	CDS	744				hypothetical protein
+INAECAKM_01344	gene	357				
+INAECAKM_01344	CDS	357				hypothetical protein
+INAECAKM_01345	gene	465	mntR			
+INAECAKM_01345	CDS	465	mntR		COG1321	HTH-type transcriptional regulator MntR
+INAECAKM_01346	gene	1377				
+INAECAKM_01346	CDS	1377				hypothetical protein
+INAECAKM_01347	gene	432				
+INAECAKM_01347	CDS	432				hypothetical protein
+INAECAKM_01348	gene	369	cheY_2			
+INAECAKM_01348	CDS	369	cheY_2		COG0784	Chemotaxis protein CheY
+INAECAKM_01349	gene	354				
+INAECAKM_01349	CDS	354				hypothetical protein
+INAECAKM_01350	gene	1893	rcsC_5			
+INAECAKM_01350	CDS	1893	rcsC_5	2.7.13.3		Sensor histidine kinase RcsC
+INAECAKM_01351	gene	138				
+INAECAKM_01351	CDS	138				hypothetical protein
+INAECAKM_01352	gene	1422				
+INAECAKM_01352	CDS	1422				hypothetical protein
+INAECAKM_01353	gene	591	tmung			
+INAECAKM_01353	CDS	591	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+INAECAKM_01354	gene	507				
+INAECAKM_01354	CDS	507		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+INAECAKM_01355	gene	633				
+INAECAKM_01355	CDS	633				hypothetical protein
+INAECAKM_01356	gene	375				
+INAECAKM_01356	CDS	375				hypothetical protein
+INAECAKM_01357	gene	294				
+INAECAKM_01357	CDS	294				hypothetical protein
+INAECAKM_01358	gene	936	oppD			
+INAECAKM_01358	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+INAECAKM_01359	gene	519				
+INAECAKM_01359	CDS	519				hypothetical protein
+INAECAKM_01360	gene	1287	aspS2_2			
+INAECAKM_01360	CDS	1287	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+INAECAKM_01361	gene	246				
+INAECAKM_01361	CDS	246				hypothetical protein
+INAECAKM_01362	gene	132				
+INAECAKM_01362	CDS	132				hypothetical protein
+INAECAKM_01363	gene	273				
+INAECAKM_01363	CDS	273				hypothetical protein
+INAECAKM_01364	gene	1014	hicd			
+INAECAKM_01364	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+INAECAKM_01365	gene	264				
+INAECAKM_01365	CDS	264				hypothetical protein
+INAECAKM_01366	gene	1512	leuA			
+INAECAKM_01366	CDS	1512	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+INAECAKM_01367	gene	486	ilvH			
+INAECAKM_01367	CDS	486	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+INAECAKM_01368	gene	1698	ilvB			
+INAECAKM_01368	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+INAECAKM_01369	gene	405				
+INAECAKM_01369	CDS	405				hypothetical protein
+INAECAKM_01370	gene	945	lsrF			
+INAECAKM_01370	CDS	945	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+INAECAKM_01371	gene	1029	gutB			
+INAECAKM_01371	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+INAECAKM_01372	gene	294	atpF			
+INAECAKM_01372	CDS	294	atpF			V-type ATP synthase subunit F
+INAECAKM_01373	gene	300				
+INAECAKM_01373	CDS	300				hypothetical protein
+INAECAKM_01374	gene	252				
+INAECAKM_01374	CDS	252				hypothetical protein
+INAECAKM_01375	gene	303				
+INAECAKM_01375	CDS	303				hypothetical protein
+INAECAKM_01376	gene	648				
+INAECAKM_01376	CDS	648				hypothetical protein
+INAECAKM_01377	gene	3243	carB			
+INAECAKM_01377	CDS	3243	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+INAECAKM_01378	gene	1161	carA			
+INAECAKM_01378	CDS	1161	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+INAECAKM_01379	gene	1194	ftsH_3			
+INAECAKM_01379	CDS	1194	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+INAECAKM_01380	gene	492				
+INAECAKM_01380	CDS	492				hypothetical protein
+INAECAKM_01381	gene	558				
+INAECAKM_01381	CDS	558				hypothetical protein
+INAECAKM_01382	gene	1161				
+INAECAKM_01382	CDS	1161				hypothetical protein
+INAECAKM_01383	gene	456				
+INAECAKM_01383	CDS	456				hypothetical protein
+INAECAKM_01384	gene	369				
+INAECAKM_01384	CDS	369				hypothetical protein
+INAECAKM_01385	gene	843				
+INAECAKM_01385	CDS	843				hypothetical protein
+INAECAKM_01386	gene	192				
+INAECAKM_01386	CDS	192				hypothetical protein
+INAECAKM_01387	gene	1164	citZ			
+INAECAKM_01387	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+INAECAKM_01388	gene	261				
+INAECAKM_01388	CDS	261				hypothetical protein
+INAECAKM_01389	gene	348				
+INAECAKM_01389	CDS	348				hypothetical protein
+INAECAKM_01390	gene	633	petE_2			
+INAECAKM_01390	CDS	633	petE_2			Plastocyanin
+INAECAKM_01391	gene	1587	uvrC			
+INAECAKM_01391	CDS	1587	uvrC		COG0322	UvrABC system protein C
+INAECAKM_01392	gene	2286	uvrA_1			
+INAECAKM_01392	CDS	2286	uvrA_1			UvrABC system protein A
+INAECAKM_01393	gene	543	uvrA_2			
+INAECAKM_01393	CDS	543	uvrA_2			UvrABC system protein A
+INAECAKM_01394	gene	1233	uvrB_1			
+INAECAKM_01394	CDS	1233	uvrB_1			UvrABC system protein B
+INAECAKM_01395	gene	726	uvrB_2			
+INAECAKM_01395	CDS	726	uvrB_2			UvrABC system protein B
+INAECAKM_01396	gene	624				
+INAECAKM_01396	CDS	624				hypothetical protein
+INAECAKM_01397	gene	219				
+INAECAKM_01397	CDS	219				hypothetical protein
+INAECAKM_01398	gene	90				
+INAECAKM_01398	CDS	90				hypothetical protein
+INAECAKM_01399	gene	510				
+INAECAKM_01399	CDS	510				hypothetical protein
+INAECAKM_01400	gene	231				
+INAECAKM_01400	CDS	231				hypothetical protein
+INAECAKM_01401	gene	1107				
+INAECAKM_01401	CDS	1107		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+INAECAKM_01402	gene	945				
+INAECAKM_01402	CDS	945				hypothetical protein
+INAECAKM_01403	gene	996				
+INAECAKM_01403	CDS	996				hypothetical protein
+INAECAKM_01404	gene	273				
+INAECAKM_01404	CDS	273				hypothetical protein
+INAECAKM_01405	gene	237				
+INAECAKM_01405	CDS	237				hypothetical protein
+INAECAKM_01406	gene	984				
+INAECAKM_01406	CDS	984				hypothetical protein
+INAECAKM_01407	gene	618	purN			
+INAECAKM_01407	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+INAECAKM_01408	gene	321				
+INAECAKM_01408	CDS	321				hypothetical protein
+INAECAKM_01409	gene	285				
+INAECAKM_01409	CDS	285				hypothetical protein
+INAECAKM_01410	gene	870	folD			
+INAECAKM_01410	CDS	870	folD		COG0190	Bifunctional protein FolD protein
+INAECAKM_01411	gene	564	yqgN			
+INAECAKM_01411	CDS	564	yqgN		COG0212	putative protein YqgN
+INAECAKM_01412	gene	1248	purD			
+INAECAKM_01412	CDS	1248	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+INAECAKM_01413	gene	3198	ileS			
+INAECAKM_01413	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+INAECAKM_01414	gene	588				
+INAECAKM_01414	CDS	588				hypothetical protein
+INAECAKM_01415	gene	330				
+INAECAKM_01415	CDS	330				hypothetical protein
+INAECAKM_01416	gene	1107	sucC			
+INAECAKM_01416	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+INAECAKM_01417	gene	918	sucD			
+INAECAKM_01417	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+INAECAKM_01418	gene	168				
+INAECAKM_01418	CDS	168				hypothetical protein
+INAECAKM_01419	gene	249				
+INAECAKM_01419	CDS	249				hypothetical protein
+INAECAKM_01420	gene	99				
+INAECAKM_01420	tRNA	99				tRNA-Val(cac)
+INAECAKM_01421	gene	2748				
+INAECAKM_01421	CDS	2748				hypothetical protein
+INAECAKM_01422	gene	132				
+INAECAKM_01422	CDS	132				hypothetical protein
+INAECAKM_01423	gene	420				
+INAECAKM_01423	CDS	420				hypothetical protein
+INAECAKM_01424	gene	540	ppa			
+INAECAKM_01424	CDS	540	ppa	3.6.1.1		Inorganic pyrophosphatase
+INAECAKM_01425	gene	258				
+INAECAKM_01425	CDS	258				hypothetical protein
+INAECAKM_01426	gene	1773	pepF1			
+INAECAKM_01426	CDS	1773	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+INAECAKM_01427	gene	573				
+INAECAKM_01427	CDS	573				hypothetical protein
+INAECAKM_01428	gene	1143				
+INAECAKM_01428	CDS	1143				hypothetical protein
+INAECAKM_01429	gene	552	pdaD			
+INAECAKM_01429	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+INAECAKM_01430	gene	231				
+INAECAKM_01430	CDS	231				hypothetical protein
+INAECAKM_01431	gene	75				
+INAECAKM_01431	tRNA	75				tRNA-Thr(tgt)
+INAECAKM_01432	gene	795				
+INAECAKM_01432	CDS	795				hypothetical protein
+INAECAKM_01433	gene	1317	deaD			
+INAECAKM_01433	CDS	1317	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+INAECAKM_01434	gene	234				
+INAECAKM_01434	CDS	234				hypothetical protein
+INAECAKM_01435	gene	552				
+INAECAKM_01435	CDS	552				hypothetical protein
+INAECAKM_01436	gene	285				
+INAECAKM_01436	CDS	285				hypothetical protein
+INAECAKM_01437	gene	291				
+INAECAKM_01437	CDS	291				hypothetical protein
+INAECAKM_01438	gene	690				
+INAECAKM_01438	CDS	690				hypothetical protein
+INAECAKM_01439	gene	765				
+INAECAKM_01439	CDS	765				hypothetical protein
+INAECAKM_01440	gene	459				
+INAECAKM_01440	CDS	459				hypothetical protein
+INAECAKM_01441	gene	336				
+INAECAKM_01441	CDS	336				hypothetical protein
+INAECAKM_01442	gene	93				
+INAECAKM_01442	CDS	93				hypothetical protein
+INAECAKM_01443	gene	321				
+INAECAKM_01443	CDS	321				hypothetical protein
+INAECAKM_01444	gene	2028				
+INAECAKM_01444	CDS	2028				hypothetical protein
+INAECAKM_01445	gene	234				
+INAECAKM_01445	CDS	234				hypothetical protein
+INAECAKM_01446	gene	1035				
+INAECAKM_01446	CDS	1035		1.1.1.1		Alcohol dehydrogenase
+INAECAKM_01447	gene	234				
+INAECAKM_01447	CDS	234				hypothetical protein
+INAECAKM_01448	gene	492				
+INAECAKM_01448	CDS	492				hypothetical protein
+INAECAKM_01449	gene	249				
+INAECAKM_01449	CDS	249				hypothetical protein
+INAECAKM_01450	gene	687				
+INAECAKM_01450	CDS	687				hypothetical protein
+INAECAKM_01451	gene	1479				
+INAECAKM_01451	CDS	1479				hypothetical protein
+INAECAKM_01452	gene	210				
+INAECAKM_01452	CDS	210				hypothetical protein
+INAECAKM_01453	gene	216				
+INAECAKM_01453	CDS	216				hypothetical protein
+INAECAKM_01454	gene	813	truD			
+INAECAKM_01454	CDS	813	truD	5.4.99.27		tRNA pseudouridine synthase D
+INAECAKM_01455	gene	186				
+INAECAKM_01455	CDS	186				hypothetical protein
+INAECAKM_01456	gene	1608	vgb_1			
+INAECAKM_01456	CDS	1608	vgb_1	4.2.99.-		Virginiamycin B lyase
+INAECAKM_01457	gene	375				
+INAECAKM_01457	CDS	375				hypothetical protein
+INAECAKM_01458	gene	1137				
+INAECAKM_01458	CDS	1137				hypothetical protein
+INAECAKM_01459	gene	282				
+INAECAKM_01459	CDS	282				hypothetical protein
+INAECAKM_01460	gene	2142	ftsH_4			
+INAECAKM_01460	CDS	2142	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+INAECAKM_01461	gene	297				
+INAECAKM_01461	CDS	297				hypothetical protein
+INAECAKM_01462	gene	894	ctaB_1			
+INAECAKM_01462	CDS	894	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+INAECAKM_01463	gene	1095	petE_3			
+INAECAKM_01463	CDS	1095	petE_3			Plastocyanin
+INAECAKM_01464	gene	393	mec			
+INAECAKM_01464	CDS	393	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+INAECAKM_01465	gene	384				
+INAECAKM_01465	CDS	384				hypothetical protein
+INAECAKM_01466	gene	222				
+INAECAKM_01466	CDS	222				hypothetical protein
+INAECAKM_01467	gene	462	IMPDH_3			
+INAECAKM_01467	CDS	462	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+INAECAKM_01468	gene	426				
+INAECAKM_01468	CDS	426				hypothetical protein
+INAECAKM_01469	gene	714				
+INAECAKM_01469	CDS	714				hypothetical protein
+INAECAKM_01470	gene	381				
+INAECAKM_01470	CDS	381				hypothetical protein
+INAECAKM_01471	gene	258				
+INAECAKM_01471	CDS	258				hypothetical protein
+INAECAKM_01472	gene	195				
+INAECAKM_01472	CDS	195				hypothetical protein
+INAECAKM_01473	gene	2040	hppA			
+INAECAKM_01473	CDS	2040	hppA	7.1.3.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+INAECAKM_01474	gene	378				
+INAECAKM_01474	CDS	378				hypothetical protein
+INAECAKM_01475	gene	1212				
+INAECAKM_01475	CDS	1212				hypothetical protein
+INAECAKM_01476	gene	1104				
+INAECAKM_01476	CDS	1104				hypothetical protein
+INAECAKM_01477	gene	582				
+INAECAKM_01477	CDS	582				hypothetical protein
+INAECAKM_01478	gene	1917				
+INAECAKM_01478	CDS	1917				hypothetical protein
+INAECAKM_01479	gene	240				
+INAECAKM_01479	CDS	240				hypothetical protein
+INAECAKM_01480	gene	495				
+INAECAKM_01480	CDS	495				hypothetical protein
+INAECAKM_01481	gene	1158	apbC			
+INAECAKM_01481	CDS	1158	apbC		COG0489	Iron-sulfur cluster carrier protein
+INAECAKM_01482	gene	597	rnr			
+INAECAKM_01482	CDS	597	rnr	3.1.13.1		Ribonuclease R
+INAECAKM_01483	gene	189				
+INAECAKM_01483	CDS	189				hypothetical protein
+INAECAKM_01484	gene	816	nadC			
+INAECAKM_01484	CDS	816	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+INAECAKM_01485	gene	603				
+INAECAKM_01485	CDS	603				hypothetical protein
+INAECAKM_01486	gene	405				
+INAECAKM_01486	CDS	405				hypothetical protein
+INAECAKM_01487	gene	378	nadA_1			
+INAECAKM_01487	CDS	378	nadA_1	2.5.1.72	COG0379	Quinolinate synthase A
+INAECAKM_01488	gene	573	nadA_2			
+INAECAKM_01488	CDS	573	nadA_2	2.5.1.72	COG0379	Quinolinate synthase A
+INAECAKM_01489	gene	786	nadX			
+INAECAKM_01489	CDS	786	nadX	1.4.1.21		L-aspartate dehydrogenase
+INAECAKM_01490	gene	543				
+INAECAKM_01490	CDS	543				hypothetical protein
+INAECAKM_01491	gene	591				
+INAECAKM_01491	CDS	591				hypothetical protein
+INAECAKM_01492	gene	948				
+INAECAKM_01492	CDS	948				hypothetical protein
+INAECAKM_01493	gene	441				
+INAECAKM_01493	CDS	441				hypothetical protein
+INAECAKM_01494	gene	1533				
+INAECAKM_01494	CDS	1533				hypothetical protein
+INAECAKM_01495	gene	1143				
+INAECAKM_01495	CDS	1143				hypothetical protein
+INAECAKM_01496	gene	1758	smc_2			
+INAECAKM_01496	CDS	1758	smc_2			Chromosome partition protein Smc
+INAECAKM_01497	gene	300				
+INAECAKM_01497	CDS	300				hypothetical protein
+INAECAKM_01498	gene	1257	petE_4			
+INAECAKM_01498	CDS	1257	petE_4			Plastocyanin
+INAECAKM_01499	gene	489				
+INAECAKM_01499	CDS	489				hypothetical protein
+INAECAKM_01500	gene	666				
+INAECAKM_01500	CDS	666				hypothetical protein
+INAECAKM_01501	gene	819				
+INAECAKM_01501	CDS	819				hypothetical protein
+INAECAKM_01502	gene	498				
+INAECAKM_01502	CDS	498				hypothetical protein
+INAECAKM_01503	gene	447	phnO			
+INAECAKM_01503	CDS	447	phnO	2.3.1.280		Aminoalkylphosphonate N-acetyltransferase
+INAECAKM_01504	gene	1542				
+INAECAKM_01504	CDS	1542				hypothetical protein
+INAECAKM_01505	gene	468				
+INAECAKM_01505	CDS	468				hypothetical protein
+INAECAKM_01506	gene	198				
+INAECAKM_01506	CDS	198				hypothetical protein
+INAECAKM_01507	gene	723				
+INAECAKM_01507	CDS	723				hypothetical protein
+INAECAKM_01508	gene	204				
+INAECAKM_01508	CDS	204				hypothetical protein
+INAECAKM_01509	gene	438				
+INAECAKM_01509	CDS	438				hypothetical protein
+INAECAKM_01510	gene	528				
+INAECAKM_01510	CDS	528				hypothetical protein
+INAECAKM_01511	gene	333				
+INAECAKM_01511	CDS	333				hypothetical protein
+INAECAKM_01512	gene	369				
+INAECAKM_01512	CDS	369				hypothetical protein
+INAECAKM_01513	gene	165				
+INAECAKM_01513	CDS	165				hypothetical protein
+INAECAKM_01514	gene	651				
+INAECAKM_01514	CDS	651				hypothetical protein
+INAECAKM_01515	gene	657				
+INAECAKM_01515	CDS	657				hypothetical protein
+INAECAKM_01516	gene	516				
+INAECAKM_01516	CDS	516				hypothetical protein
+INAECAKM_01517	gene	990				
+INAECAKM_01517	CDS	990				hypothetical protein
+INAECAKM_01518	gene	933				
+INAECAKM_01518	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+INAECAKM_01519	gene	1413				
+INAECAKM_01519	CDS	1413				hypothetical protein
+INAECAKM_01520	gene	1362	aspA			
+INAECAKM_01520	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+INAECAKM_01521	gene	1269	miaB			
+INAECAKM_01521	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+INAECAKM_01522	gene	951	ftsZ			
+INAECAKM_01522	CDS	951	ftsZ			Cell division protein FtsZ
+INAECAKM_01523	gene	324				
+INAECAKM_01523	CDS	324				hypothetical protein
+INAECAKM_01524	gene	159				
+INAECAKM_01524	CDS	159				hypothetical protein
+INAECAKM_01525	gene	552	nudL			
+INAECAKM_01525	CDS	552	nudL	3.6.1.-		putative Nudix hydrolase NudL
+INAECAKM_01526	gene	738				
+INAECAKM_01526	CDS	738				hypothetical protein
+INAECAKM_01527	gene	2499	metH_1			
+INAECAKM_01527	CDS	2499	metH_1	2.1.1.13	COG0646	Methionine synthase
+INAECAKM_01528	gene	987	metH_2			
+INAECAKM_01528	CDS	987	metH_2	2.1.1.13	COG0646	Methionine synthase
+INAECAKM_01529	gene	1101				
+INAECAKM_01529	CDS	1101				hypothetical protein
+INAECAKM_01530	gene	759	ssuC			
+INAECAKM_01530	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+INAECAKM_01531	gene	762	nrtD			
+INAECAKM_01531	CDS	762	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+INAECAKM_01532	gene	1026	ssuA			
+INAECAKM_01532	CDS	1026	ssuA		COG0715	Putative aliphatic sulfonates-binding protein
+INAECAKM_01533	gene	1200	argG			
+INAECAKM_01533	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+INAECAKM_01534	gene	168				
+INAECAKM_01534	CDS	168				hypothetical protein
+INAECAKM_01535	gene	858	lysX_1			
+INAECAKM_01535	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+INAECAKM_01536	gene	1047	argC			
+INAECAKM_01536	CDS	1047	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+INAECAKM_01537	gene	804	lysZ			
+INAECAKM_01537	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+INAECAKM_01538	gene	1182	lysJ			
+INAECAKM_01538	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+INAECAKM_01539	gene	315				
+INAECAKM_01539	CDS	315				hypothetical protein
+INAECAKM_01540	gene	1182	frbC			
+INAECAKM_01540	CDS	1182	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+INAECAKM_01541	gene	168				
+INAECAKM_01541	CDS	168				hypothetical protein
+INAECAKM_01542	gene	843	lysX_2			
+INAECAKM_01542	CDS	843	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+INAECAKM_01543	gene	1086	lysK			
+INAECAKM_01543	CDS	1086	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+INAECAKM_01544	gene	309				
+INAECAKM_01544	CDS	309				hypothetical protein
+INAECAKM_01545	gene	636				
+INAECAKM_01545	CDS	636				hypothetical protein
+INAECAKM_01546	gene	621	hldE			
+INAECAKM_01546	CDS	621	hldE	2.7.7.70		Bifunctional protein HldE
+INAECAKM_01547	gene	684				
+INAECAKM_01547	CDS	684				hypothetical protein
+INAECAKM_01548	gene	1143	dnaG			
+INAECAKM_01548	CDS	1143	dnaG	2.7.7.-		DNA primase
+INAECAKM_01549	gene	351	erpA			
+INAECAKM_01549	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+INAECAKM_01550	gene	399	hrp1_3			
+INAECAKM_01550	CDS	399	hrp1_3		COG0517	Hypoxic response protein 1
+INAECAKM_01551	gene	600				
+INAECAKM_01551	CDS	600				hypothetical protein
+INAECAKM_01552	gene	342				
+INAECAKM_01552	CDS	342				hypothetical protein
+INAECAKM_01553	gene	525	petE_5			
+INAECAKM_01553	CDS	525	petE_5			Plastocyanin
+INAECAKM_01554	gene	762	crt			
+INAECAKM_01554	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+INAECAKM_01555	gene	2118				
+INAECAKM_01555	CDS	2118				hypothetical protein
+INAECAKM_01556	gene	351				
+INAECAKM_01556	CDS	351				hypothetical protein
+INAECAKM_01557	gene	342				
+INAECAKM_01557	CDS	342				hypothetical protein
+INAECAKM_01558	gene	378				
+INAECAKM_01558	CDS	378				hypothetical protein
+INAECAKM_01559	gene	1275	gluD			
+INAECAKM_01559	CDS	1275	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+INAECAKM_01560	gene	384				
+INAECAKM_01560	CDS	384				hypothetical protein
+INAECAKM_01561	gene	720	prcA_2			
+INAECAKM_01561	CDS	720	prcA_2			Proteasome subunit alpha
+INAECAKM_01562	gene	693	menG			
+INAECAKM_01562	CDS	693	menG	2.1.1.163	COG2226	Demethylmenaquinone methyltransferase
+INAECAKM_01563	gene	1155	ycaD			
+INAECAKM_01563	CDS	1155	ycaD			putative MFS-type transporter YcaD
+INAECAKM_01564	gene	315	glnB_2			
+INAECAKM_01564	CDS	315	glnB_2		COG0347	Nitrogen regulatory protein P-II
+INAECAKM_01565	gene	348	tatA_2			
+INAECAKM_01565	CDS	348	tatA_2			Sec-independent protein translocase protein TatA
+INAECAKM_01566	gene	795	yhdJ			
+INAECAKM_01566	CDS	795	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+INAECAKM_01567	gene	591	cshA_2			
+INAECAKM_01567	CDS	591	cshA_2	3.6.4.13		DEAD-box ATP-dependent RNA helicase CshA
+INAECAKM_01568	gene	1854	dbpA_4			
+INAECAKM_01568	CDS	1854	dbpA_4	3.6.4.13		ATP-dependent RNA helicase DbpA
+INAECAKM_01569	gene	831				
+INAECAKM_01569	CDS	831				hypothetical protein
+INAECAKM_01570	gene	822				
+INAECAKM_01570	CDS	822				hypothetical protein
+INAECAKM_01571	gene	807				
+INAECAKM_01571	CDS	807				hypothetical protein
+INAECAKM_01572	gene	378	spo0F_2			
+INAECAKM_01572	CDS	378	spo0F_2	2.7.-.-	COG0784	Sporulation initiation phosphotransferase F
+INAECAKM_01573	gene	2163	sasA_5			
+INAECAKM_01573	CDS	2163	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+INAECAKM_01574	gene	1269	amiC			
+INAECAKM_01574	CDS	1269	amiC			Aliphatic amidase expression-regulating protein
+INAECAKM_01575	gene	186				
+INAECAKM_01575	CDS	186				hypothetical protein
+INAECAKM_01576	gene	195				
+INAECAKM_01576	CDS	195				hypothetical protein
+INAECAKM_01577	gene	1662				
+INAECAKM_01577	CDS	1662				hypothetical protein
+INAECAKM_01578	gene	1542				
+INAECAKM_01578	CDS	1542				hypothetical protein
+INAECAKM_01579	gene	801				
+INAECAKM_01579	CDS	801				hypothetical protein
+INAECAKM_01580	gene	648				
+INAECAKM_01580	CDS	648				hypothetical protein
+INAECAKM_01581	gene	162				
+INAECAKM_01581	CDS	162				hypothetical protein
+INAECAKM_01582	gene	930				
+INAECAKM_01582	CDS	930				hypothetical protein
+INAECAKM_01583	gene	579				
+INAECAKM_01583	CDS	579				hypothetical protein
+INAECAKM_01584	gene	864				
+INAECAKM_01584	CDS	864				hypothetical protein
+INAECAKM_01585	gene	174				
+INAECAKM_01585	CDS	174				hypothetical protein
+INAECAKM_01586	gene	408				
+INAECAKM_01586	CDS	408				hypothetical protein
+INAECAKM_01587	gene	213				
+INAECAKM_01587	CDS	213				hypothetical protein
+INAECAKM_01588	gene	525				
+INAECAKM_01588	CDS	525				hypothetical protein
+INAECAKM_01589	gene	930				
+INAECAKM_01589	CDS	930				hypothetical protein
+INAECAKM_01590	gene	183				
+INAECAKM_01590	CDS	183				hypothetical protein
+INAECAKM_01591	gene	96				
+INAECAKM_01591	CDS	96				hypothetical protein
+INAECAKM_01592	gene	228				
+INAECAKM_01592	CDS	228				hypothetical protein
+INAECAKM_01593	gene	513				
+INAECAKM_01593	CDS	513				hypothetical protein
+INAECAKM_01594	gene	276				
+INAECAKM_01594	CDS	276				hypothetical protein
+INAECAKM_01595	gene	921				
+INAECAKM_01595	CDS	921				hypothetical protein
+INAECAKM_01596	gene	255				
+INAECAKM_01596	CDS	255				hypothetical protein
+INAECAKM_01597	gene	282				
+INAECAKM_01597	CDS	282				hypothetical protein
+INAECAKM_01598	gene	387				
+INAECAKM_01598	CDS	387				hypothetical protein
+INAECAKM_01599	gene	537				
+INAECAKM_01599	CDS	537				hypothetical protein
+INAECAKM_01600	gene	777				
+INAECAKM_01600	CDS	777				hypothetical protein
+INAECAKM_01601	gene	1632	ggt			
+INAECAKM_01601	CDS	1632	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+INAECAKM_01602	gene	804				
+INAECAKM_01602	CDS	804				hypothetical protein
+INAECAKM_01603	gene	1647	zntB			
+INAECAKM_01603	CDS	1647	zntB			Zinc transport protein ZntB
+INAECAKM_01604	gene	2163	ddl			
+INAECAKM_01604	CDS	2163	ddl	6.3.2.4		D-alanine--D-alanine ligase
+INAECAKM_01605	gene	477				
+INAECAKM_01605	CDS	477				hypothetical protein
+INAECAKM_01606	gene	867				
+INAECAKM_01606	CDS	867				hypothetical protein
+INAECAKM_01607	gene	1197				
+INAECAKM_01607	CDS	1197				hypothetical protein
+INAECAKM_01608	gene	819				
+INAECAKM_01608	CDS	819				hypothetical protein
+INAECAKM_01609	gene	171				
+INAECAKM_01609	CDS	171				hypothetical protein
+INAECAKM_01610	gene	162				
+INAECAKM_01610	CDS	162				hypothetical protein
+INAECAKM_01611	gene	87				
+INAECAKM_01611	tRNA	87				tRNA-Ser(gct)
+INAECAKM_01612	gene	759	cpdA			
+INAECAKM_01612	CDS	759	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+INAECAKM_01613	gene	1032	icd			
+INAECAKM_01613	CDS	1032	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+INAECAKM_01614	gene	534				
+INAECAKM_01614	CDS	534				hypothetical protein
+INAECAKM_01615	gene	702	rsmA			
+INAECAKM_01615	CDS	702	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+INAECAKM_01616	gene	567				
+INAECAKM_01616	CDS	567				hypothetical protein
+INAECAKM_01617	gene	327				
+INAECAKM_01617	CDS	327				hypothetical protein
+INAECAKM_01618	gene	174				
+INAECAKM_01618	CDS	174				hypothetical protein
+INAECAKM_01619	gene	183				
+INAECAKM_01619	CDS	183				hypothetical protein
+INAECAKM_01620	gene	1725				
+INAECAKM_01620	CDS	1725				hypothetical protein
+INAECAKM_01621	gene	813	pyrK			
+INAECAKM_01621	CDS	813	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+INAECAKM_01622	gene	912	pyrD			
+INAECAKM_01622	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+INAECAKM_01623	gene	1278				
+INAECAKM_01623	CDS	1278				hypothetical protein
+INAECAKM_01624	gene	462				
+INAECAKM_01624	CDS	462				hypothetical protein
+INAECAKM_01625	gene	2094				
+INAECAKM_01625	CDS	2094				hypothetical protein
+INAECAKM_01626	gene	2160				
+INAECAKM_01626	CDS	2160				hypothetical protein
+INAECAKM_01627	gene	513	apt			
+INAECAKM_01627	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+INAECAKM_01628	gene	792	mtnP			
+INAECAKM_01628	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+INAECAKM_01629	gene	285				
+INAECAKM_01629	CDS	285				hypothetical protein
+INAECAKM_01630	gene	399				
+INAECAKM_01630	CDS	399				hypothetical protein
+INAECAKM_01631	gene	351				
+INAECAKM_01631	CDS	351				hypothetical protein
+INAECAKM_01632	gene	660				
+INAECAKM_01632	CDS	660				hypothetical protein
+INAECAKM_01633	gene	1113	TOP6A			
+INAECAKM_01633	CDS	1113	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+INAECAKM_01634	gene	1884	TOP6B			
+INAECAKM_01634	CDS	1884	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+INAECAKM_01635	gene	573				
+INAECAKM_01635	CDS	573				hypothetical protein
+INAECAKM_01636	gene	780				
+INAECAKM_01636	CDS	780				hypothetical protein
+INAECAKM_01637	gene	297				
+INAECAKM_01637	CDS	297				hypothetical protein
+INAECAKM_01638	gene	423				
+INAECAKM_01638	CDS	423				hypothetical protein
+INAECAKM_01639	gene	147				
+INAECAKM_01639	CDS	147				hypothetical protein
+INAECAKM_01640	gene	501				
+INAECAKM_01640	CDS	501				hypothetical protein
+INAECAKM_01641	gene	1146				
+INAECAKM_01641	CDS	1146				hypothetical protein
+INAECAKM_01642	gene	552	uppS			
+INAECAKM_01642	CDS	552	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+INAECAKM_01643	gene	420	rppH			
+INAECAKM_01643	CDS	420	rppH	3.6.1.-		RNA pyrophosphohydrolase
+INAECAKM_01644	gene	741	pyrF			
+INAECAKM_01644	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+INAECAKM_01645	gene	681				
+INAECAKM_01645	CDS	681				hypothetical protein
+INAECAKM_01646	gene	1002	purA			
+INAECAKM_01646	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+INAECAKM_01647	gene	462				
+INAECAKM_01647	CDS	462				hypothetical protein
+INAECAKM_01648	gene	294	yggX			
+INAECAKM_01648	CDS	294	yggX			Fe(2+)-trafficking protein
+INAECAKM_01649	gene	186				
+INAECAKM_01649	CDS	186				hypothetical protein
+INAECAKM_01650	gene	210				
+INAECAKM_01650	CDS	210				hypothetical protein
+INAECAKM_01651	gene	642				
+INAECAKM_01651	CDS	642				hypothetical protein
+INAECAKM_01652	gene	288				
+INAECAKM_01652	CDS	288				hypothetical protein
+INAECAKM_01653	gene	630	ywlC			
+INAECAKM_01653	CDS	630	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+INAECAKM_01654	gene	522				
+INAECAKM_01654	CDS	522				hypothetical protein
+INAECAKM_01655	gene	774				
+INAECAKM_01655	CDS	774				hypothetical protein
+INAECAKM_01656	gene	378				
+INAECAKM_01656	CDS	378				hypothetical protein
+INAECAKM_01657	gene	756	dtd3			
+INAECAKM_01657	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+INAECAKM_01658	gene	222				
+INAECAKM_01658	CDS	222				hypothetical protein
+INAECAKM_01659	gene	72				
+INAECAKM_01659	tRNA	72				tRNA-Cys(gca)
+INAECAKM_01660	gene	465				
+INAECAKM_01660	CDS	465				hypothetical protein
+INAECAKM_01661	gene	1752				
+INAECAKM_01661	CDS	1752				hypothetical protein
+INAECAKM_01662	gene	204				
+INAECAKM_01662	CDS	204				hypothetical protein
+INAECAKM_01663	gene	585				
+INAECAKM_01663	CDS	585				hypothetical protein
+INAECAKM_01664	gene	282				
+INAECAKM_01664	CDS	282				hypothetical protein
+INAECAKM_01665	gene	348				
+INAECAKM_01665	CDS	348				hypothetical protein
+INAECAKM_01666	gene	141				
+INAECAKM_01666	CDS	141				hypothetical protein
+INAECAKM_01667	gene	74				
+INAECAKM_01667	tRNA	74				tRNA-Thr(cgt)
+INAECAKM_01668	gene	1299	glmM			
+INAECAKM_01668	CDS	1299	glmM	5.4.2.10		Phosphoglucosamine mutase
+INAECAKM_01669	gene	951	thiL			
+INAECAKM_01669	CDS	951	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+INAECAKM_01670	gene	321				
+INAECAKM_01670	CDS	321				hypothetical protein
+INAECAKM_01671	gene	504				
+INAECAKM_01671	CDS	504				hypothetical protein
+INAECAKM_01672	gene	312				
+INAECAKM_01672	CDS	312				hypothetical protein
+INAECAKM_01673	gene	408				
+INAECAKM_01673	CDS	408				hypothetical protein
+INAECAKM_01674	gene	1449	rtcB			
+INAECAKM_01674	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+INAECAKM_01675	gene	285				
+INAECAKM_01675	CDS	285				hypothetical protein
+INAECAKM_01676	gene	1230	purB			
+INAECAKM_01676	CDS	1230	purB	4.3.2.2		Adenylosuccinate lyase
+INAECAKM_01677	gene	756				
+INAECAKM_01677	CDS	756				hypothetical protein
+INAECAKM_01678	gene	276	phhB			
+INAECAKM_01678	CDS	276	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+INAECAKM_01679	gene	816				
+INAECAKM_01679	CDS	816				hypothetical protein
+INAECAKM_01680	gene	2316	valS_2			
+INAECAKM_01680	CDS	2316	valS_2	6.1.1.9		Valine--tRNA ligase
+INAECAKM_01681	gene	492				
+INAECAKM_01681	CDS	492				hypothetical protein
+INAECAKM_01682	gene	597				
+INAECAKM_01682	CDS	597				hypothetical protein
+INAECAKM_01683	gene	681				
+INAECAKM_01683	CDS	681				hypothetical protein
+INAECAKM_01684	gene	618	pdxT			
+INAECAKM_01684	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+INAECAKM_01685	gene	969	pdxS			
+INAECAKM_01685	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+INAECAKM_01686	gene	534				
+INAECAKM_01686	CDS	534				hypothetical protein
+INAECAKM_01687	gene	429				
+INAECAKM_01687	CDS	429				hypothetical protein
+INAECAKM_01688	gene	693				
+INAECAKM_01688	CDS	693				hypothetical protein
+INAECAKM_01689	gene	759				
+INAECAKM_01689	CDS	759				hypothetical protein
+INAECAKM_01690	gene	192				
+INAECAKM_01690	CDS	192				hypothetical protein
+INAECAKM_01691	gene	2328				
+INAECAKM_01691	CDS	2328				hypothetical protein
+INAECAKM_01692	gene	2328	acnA			
+INAECAKM_01692	CDS	2328	acnA	4.2.1.3		Aconitate hydratase A
+INAECAKM_01693	gene	633				
+INAECAKM_01693	CDS	633				hypothetical protein
+INAECAKM_01694	gene	567				
+INAECAKM_01694	CDS	567				hypothetical protein
+INAECAKM_01695	gene	240				
+INAECAKM_01695	CDS	240				hypothetical protein
+INAECAKM_01696	gene	342				
+INAECAKM_01696	CDS	342				hypothetical protein
+INAECAKM_01697	gene	225				
+INAECAKM_01697	CDS	225				hypothetical protein
+INAECAKM_01698	gene	261				
+INAECAKM_01698	CDS	261				hypothetical protein
+INAECAKM_01699	gene	1644				
+INAECAKM_01699	CDS	1644				hypothetical protein
+INAECAKM_01700	gene	1164				
+INAECAKM_01700	CDS	1164				hypothetical protein
+INAECAKM_01701	gene	1113				
+INAECAKM_01701	CDS	1113				hypothetical protein
+INAECAKM_01702	gene	282				
+INAECAKM_01702	CDS	282				hypothetical protein
+INAECAKM_01703	gene	372				
+INAECAKM_01703	CDS	372				hypothetical protein
+INAECAKM_01704	gene	327				
+INAECAKM_01704	CDS	327				hypothetical protein
+INAECAKM_01705	gene	102				
+INAECAKM_01705	CDS	102				hypothetical protein
+INAECAKM_01706	gene	75				
+INAECAKM_01706	tRNA	75				tRNA-Ala(tgc)
+INAECAKM_01707	gene	555	resA			
+INAECAKM_01707	CDS	555	resA			Thiol-disulfide oxidoreductase ResA
+INAECAKM_01708	gene	77				
+INAECAKM_01708	tRNA	77				tRNA-Ile(gat)
+INAECAKM_01709	gene	420				
+INAECAKM_01709	CDS	420				hypothetical protein
+INAECAKM_01710	gene	74				
+INAECAKM_01710	tRNA	74				tRNA-Thr(ggt)
+INAECAKM_01711	gene	864	dpnM			
+INAECAKM_01711	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+INAECAKM_01712	gene	513				
+INAECAKM_01712	CDS	513				hypothetical protein
+INAECAKM_01713	gene	477				
+INAECAKM_01713	CDS	477				hypothetical protein
+INAECAKM_01714	gene	321				
+INAECAKM_01714	CDS	321				hypothetical protein
+INAECAKM_01715	gene	1851	sasA_6			
+INAECAKM_01715	CDS	1851	sasA_6	2.7.-.-		Adaptive-response sensory-kinase SasA
+INAECAKM_01716	gene	366				
+INAECAKM_01716	CDS	366				Response regulator receiver protein
+INAECAKM_01717	gene	915				
+INAECAKM_01717	CDS	915				hypothetical protein
+INAECAKM_01718	gene	279				
+INAECAKM_01718	CDS	279				hypothetical protein
+INAECAKM_01719	gene	1014				
+INAECAKM_01719	CDS	1014				hypothetical protein
+INAECAKM_01720	gene	651				
+INAECAKM_01720	CDS	651				hypothetical protein
+INAECAKM_01721	gene	363				
+INAECAKM_01721	CDS	363				hypothetical protein
+INAECAKM_01722	gene	273				
+INAECAKM_01722	CDS	273				hypothetical protein
+INAECAKM_01723	gene	570				
+INAECAKM_01723	CDS	570				hypothetical protein
+INAECAKM_01724	gene	315				
+INAECAKM_01724	CDS	315				hypothetical protein
+INAECAKM_01725	gene	525				
+INAECAKM_01725	CDS	525				hypothetical protein
+INAECAKM_01726	gene	270				
+INAECAKM_01726	CDS	270				hypothetical protein
+INAECAKM_01727	gene	333				
+INAECAKM_01727	CDS	333				hypothetical protein
+INAECAKM_01728	gene	450				
+INAECAKM_01728	CDS	450				hypothetical protein
+INAECAKM_01729	gene	1422				
+INAECAKM_01729	CDS	1422				hypothetical protein
+INAECAKM_01730	gene	243				
+INAECAKM_01730	CDS	243				hypothetical protein
+INAECAKM_01731	gene	216				
+INAECAKM_01731	CDS	216				hypothetical protein
+INAECAKM_01732	gene	1107	serS			
+INAECAKM_01732	CDS	1107	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+INAECAKM_01733	gene	612				
+INAECAKM_01733	CDS	612				hypothetical protein
+INAECAKM_01734	gene	426				
+INAECAKM_01734	CDS	426				hypothetical protein
+INAECAKM_01735	gene	1458				
+INAECAKM_01735	CDS	1458				hypothetical protein
+INAECAKM_01736	gene	795	nirQ			
+INAECAKM_01736	CDS	795	nirQ		COG0714	Denitrification regulatory protein NirQ
+INAECAKM_01737	gene	1563				
+INAECAKM_01737	CDS	1563				hypothetical protein
+INAECAKM_01738	gene	1542				
+INAECAKM_01738	CDS	1542				hypothetical protein
+INAECAKM_01739	gene	456				
+INAECAKM_01739	CDS	456				hypothetical protein
+INAECAKM_01740	gene	564				
+INAECAKM_01740	CDS	564				hypothetical protein
+INAECAKM_01741	gene	222				
+INAECAKM_01741	CDS	222				hypothetical protein
+INAECAKM_01742	gene	585				
+INAECAKM_01742	CDS	585				hypothetical protein
+INAECAKM_01743	gene	684				
+INAECAKM_01743	CDS	684				hypothetical protein
+INAECAKM_01744	gene	342	glnB_3			
+INAECAKM_01744	CDS	342	glnB_3		COG0347	Nitrogen regulatory protein P-II
+INAECAKM_01745	gene	240				
+INAECAKM_01745	CDS	240				hypothetical protein
+INAECAKM_01746	gene	963	dusB			
+INAECAKM_01746	CDS	963	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+INAECAKM_01747	gene	2169				
+INAECAKM_01747	CDS	2169				hypothetical protein
+INAECAKM_01748	gene	2169				
+INAECAKM_01748	CDS	2169				hypothetical protein
+INAECAKM_01749	gene	2382				
+INAECAKM_01749	CDS	2382				hypothetical protein
+INAECAKM_01750	gene	1029				
+INAECAKM_01750	CDS	1029				hypothetical protein
+INAECAKM_01751	gene	567				
+INAECAKM_01751	CDS	567		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+INAECAKM_01752	gene	621				
+INAECAKM_01752	CDS	621				hypothetical protein
+INAECAKM_01753	gene	324				
+INAECAKM_01753	CDS	324				hypothetical protein
+INAECAKM_01754	gene	984	tsaD			
+INAECAKM_01754	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+INAECAKM_01755	gene	1188	ychF			
+INAECAKM_01755	CDS	1188	ychF		COG0012	Ribosome-binding ATPase YchF
+INAECAKM_01756	gene	549				
+INAECAKM_01756	CDS	549				hypothetical protein
+INAECAKM_01757	gene	1518	QTRT1			
+INAECAKM_01757	CDS	1518	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+INAECAKM_01758	gene	303	ndhI_1			
+INAECAKM_01758	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+INAECAKM_01759	gene	93				
+INAECAKM_01759	CDS	93				hypothetical protein
+INAECAKM_01760	gene	1266				
+INAECAKM_01760	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+INAECAKM_01761	gene	864				
+INAECAKM_01761	CDS	864				hypothetical protein
+INAECAKM_01762	gene	76				
+INAECAKM_01762	tRNA	76				tRNA-Arg(tct)
+INAECAKM_01763	gene	351				
+INAECAKM_01763	CDS	351				hypothetical protein
+INAECAKM_01764	gene	462				
+INAECAKM_01764	CDS	462				hypothetical protein
+INAECAKM_01765	gene	1590	petB			
+INAECAKM_01765	CDS	1590	petB			Cytochrome b6
+INAECAKM_01766	gene	606				
+INAECAKM_01766	CDS	606				hypothetical protein
+INAECAKM_01767	gene	3807				
+INAECAKM_01767	CDS	3807				hypothetical protein
+INAECAKM_01768	gene	927				
+INAECAKM_01768	CDS	927				hypothetical protein
+INAECAKM_01769	gene	5142				
+INAECAKM_01769	CDS	5142				hypothetical protein
+INAECAKM_01770	gene	792				
+INAECAKM_01770	CDS	792				hypothetical protein
+INAECAKM_01771	gene	576				
+INAECAKM_01771	CDS	576				hypothetical protein
+INAECAKM_01772	gene	1215	thrC			
+INAECAKM_01772	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+INAECAKM_01773	gene	573				
+INAECAKM_01773	CDS	573				hypothetical protein
+INAECAKM_01774	gene	330	hisI			
+INAECAKM_01774	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+INAECAKM_01775	gene	798	hisF			
+INAECAKM_01775	CDS	798	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+INAECAKM_01776	gene	711	hisA			
+INAECAKM_01776	CDS	711	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+INAECAKM_01777	gene	603	hisH			
+INAECAKM_01777	CDS	603	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+INAECAKM_01778	gene	588	hisB			
+INAECAKM_01778	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+INAECAKM_01779	gene	921	gph			
+INAECAKM_01779	CDS	921	gph	3.1.3.18		Phosphoglycolate phosphatase
+INAECAKM_01780	gene	1071	hisC_2			
+INAECAKM_01780	CDS	1071	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+INAECAKM_01781	gene	1263	hisD			
+INAECAKM_01781	CDS	1263	hisD	1.1.1.23		Histidinol dehydrogenase
+INAECAKM_01782	gene	978	hisG			
+INAECAKM_01782	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+INAECAKM_01783	gene	876				
+INAECAKM_01783	CDS	876				hypothetical protein
+INAECAKM_01784	gene	1260	mvaA			
+INAECAKM_01784	CDS	1260	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+INAECAKM_01785	gene	1092	yliI			
+INAECAKM_01785	CDS	1092	yliI	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+INAECAKM_01786	gene	1353				
+INAECAKM_01786	CDS	1353				hypothetical protein
+INAECAKM_01787	gene	996				
+INAECAKM_01787	CDS	996				hypothetical protein
+INAECAKM_01788	gene	600				
+INAECAKM_01788	CDS	600				hypothetical protein
+INAECAKM_01789	gene	1143	ccr_1			
+INAECAKM_01789	CDS	1143	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+INAECAKM_01790	gene	552				
+INAECAKM_01790	CDS	552				hypothetical protein
+INAECAKM_01791	gene	816	pheA			
+INAECAKM_01791	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+INAECAKM_01792	gene	468				
+INAECAKM_01792	CDS	468				hypothetical protein
+INAECAKM_01793	gene	1431	guaB			
+INAECAKM_01793	CDS	1431	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+INAECAKM_01794	gene	852	folP			
+INAECAKM_01794	CDS	852	folP	2.5.1.15		Dihydropteroate synthase
+INAECAKM_01795	gene	732				
+INAECAKM_01795	CDS	732				hypothetical protein
+INAECAKM_01796	gene	573				
+INAECAKM_01796	CDS	573				hypothetical protein
+INAECAKM_01797	gene	1524	guaA_2			
+INAECAKM_01797	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+INAECAKM_01798	gene	363				
+INAECAKM_01798	CDS	363				hypothetical protein
+INAECAKM_01799	gene	261				
+INAECAKM_01799	CDS	261				hypothetical protein
+INAECAKM_01800	gene	936	mak			
+INAECAKM_01800	CDS	936	mak	2.7.1.4	COG1940	Fructokinase
+INAECAKM_01801	gene	1626	groL_1			
+INAECAKM_01801	CDS	1626	groL_1		COG0459	60 kDa chaperonin
+INAECAKM_01802	gene	1764	ade			
+INAECAKM_01802	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+INAECAKM_01803	gene	282				
+INAECAKM_01803	CDS	282				hypothetical protein
+INAECAKM_01804	gene	198				
+INAECAKM_01804	CDS	198				hypothetical protein
+INAECAKM_01805	gene	585	mobA			
+INAECAKM_01805	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+INAECAKM_01806	gene	726	cobV			
+INAECAKM_01806	CDS	726	cobV	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+INAECAKM_01807	gene	762	cbiB			
+INAECAKM_01807	CDS	762	cbiB			Cobalamin biosynthesis protein CbiB
+INAECAKM_01808	gene	174				
+INAECAKM_01808	CDS	174				hypothetical protein
+INAECAKM_01809	gene	840	cobQ			
+INAECAKM_01809	CDS	840	cobQ			Cobyric acid synthase
+INAECAKM_01810	gene	1080	cobD			
+INAECAKM_01810	CDS	1080	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+INAECAKM_01811	gene	1077	asd2			
+INAECAKM_01811	CDS	1077	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+INAECAKM_01812	gene	195				
+INAECAKM_01812	CDS	195				hypothetical protein
+INAECAKM_01813	gene	186				
+INAECAKM_01813	CDS	186				hypothetical protein
+INAECAKM_01814	gene	930	ctaB_2			
+INAECAKM_01814	CDS	930	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+INAECAKM_01815	gene	210				
+INAECAKM_01815	CDS	210				hypothetical protein
+INAECAKM_01816	gene	501				
+INAECAKM_01816	CDS	501				hypothetical protein
+INAECAKM_01817	gene	498				
+INAECAKM_01817	CDS	498				hypothetical protein
+INAECAKM_01818	gene	384				
+INAECAKM_01818	CDS	384				hypothetical protein
+INAECAKM_01819	gene	684				
+INAECAKM_01819	CDS	684				hypothetical protein
+INAECAKM_01820	gene	666				
+INAECAKM_01820	CDS	666				hypothetical protein
+INAECAKM_01821	gene	414				
+INAECAKM_01821	CDS	414				hypothetical protein
+INAECAKM_01822	gene	486				
+INAECAKM_01822	CDS	486		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+INAECAKM_01823	gene	1332	ubiD_2			
+INAECAKM_01823	CDS	1332	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+INAECAKM_01824	gene	342				
+INAECAKM_01824	CDS	342				hypothetical protein
+INAECAKM_01825	gene	444				
+INAECAKM_01825	CDS	444				hypothetical protein
+INAECAKM_01826	gene	663				
+INAECAKM_01826	CDS	663				hypothetical protein
+INAECAKM_01827	gene	327				
+INAECAKM_01827	CDS	327				hypothetical protein
+INAECAKM_01828	gene	342				
+INAECAKM_01828	CDS	342				hypothetical protein
+INAECAKM_01829	gene	474				
+INAECAKM_01829	CDS	474				hypothetical protein
+INAECAKM_01830	gene	1047				
+INAECAKM_01830	CDS	1047				hypothetical protein
+INAECAKM_01831	gene	1113	hflX			
+INAECAKM_01831	CDS	1113	hflX		COG2262	GTPase HflX
+INAECAKM_01832	gene	576				
+INAECAKM_01832	CDS	576				hypothetical protein
+INAECAKM_01833	gene	318				
+INAECAKM_01833	CDS	318				hypothetical protein
+INAECAKM_01834	gene	405				
+INAECAKM_01834	CDS	405				hypothetical protein
+INAECAKM_01835	gene	1392	sad			
+INAECAKM_01835	CDS	1392	sad	1.2.1.16	COG1012	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+INAECAKM_01836	gene	288				
+INAECAKM_01836	CDS	288				hypothetical protein
+INAECAKM_01837	gene	558				
+INAECAKM_01837	CDS	558				hypothetical protein
+INAECAKM_01838	gene	312				
+INAECAKM_01838	CDS	312				hypothetical protein
+INAECAKM_01839	gene	657	ribD2			
+INAECAKM_01839	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+INAECAKM_01840	gene	1191	atzA			
+INAECAKM_01840	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+INAECAKM_01841	gene	753				
+INAECAKM_01841	CDS	753				hypothetical protein
+INAECAKM_01842	gene	417	ribH			
+INAECAKM_01842	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+INAECAKM_01843	gene	666	ribBA			
+INAECAKM_01843	CDS	666	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+INAECAKM_01844	gene	585	ribE			
+INAECAKM_01844	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+INAECAKM_01845	gene	705				
+INAECAKM_01845	CDS	705				hypothetical protein
+INAECAKM_01846	gene	144				
+INAECAKM_01846	CDS	144				hypothetical protein
+INAECAKM_01847	gene	351	cheY_3			
+INAECAKM_01847	CDS	351	cheY_3		COG0784	Chemotaxis protein CheY
+INAECAKM_01848	gene	612				
+INAECAKM_01848	CDS	612				hypothetical protein
+INAECAKM_01849	gene	855	citE			
+INAECAKM_01849	CDS	855	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+INAECAKM_01850	gene	1080	ccr_2			
+INAECAKM_01850	CDS	1080	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+INAECAKM_01851	gene	282				
+INAECAKM_01851	CDS	282				hypothetical protein
+INAECAKM_01852	gene	453				
+INAECAKM_01852	CDS	453				hypothetical protein
+INAECAKM_01853	gene	303				
+INAECAKM_01853	CDS	303				hypothetical protein
+INAECAKM_01854	gene	77				
+INAECAKM_01854	tRNA	77				tRNA-Gly(tcc)
+INAECAKM_01855	gene	669				
+INAECAKM_01855	CDS	669				hypothetical protein
+INAECAKM_01856	gene	1128				
+INAECAKM_01856	CDS	1128				hypothetical protein
+INAECAKM_01857	gene	2652				
+INAECAKM_01857	CDS	2652				hypothetical protein
+INAECAKM_01858	gene	2160				
+INAECAKM_01858	CDS	2160				hypothetical protein
+INAECAKM_01859	gene	174				
+INAECAKM_01859	CDS	174				hypothetical protein
+INAECAKM_01860	gene	366				
+INAECAKM_01860	CDS	366				hypothetical protein
+INAECAKM_01861	gene	1164	fadA			
+INAECAKM_01861	CDS	1164	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+INAECAKM_01862	gene	459				
+INAECAKM_01862	CDS	459				hypothetical protein
+INAECAKM_01863	gene	807	ybeM			
+INAECAKM_01863	CDS	807	ybeM	3.5.1.128		Deaminated glutathione amidase
+INAECAKM_01864	gene	177				
+INAECAKM_01864	CDS	177				hypothetical protein
+INAECAKM_01865	gene	759				
+INAECAKM_01865	CDS	759				hypothetical protein
+INAECAKM_01866	gene	1266				
+INAECAKM_01866	CDS	1266				hypothetical protein
+INAECAKM_01867	gene	1602				
+INAECAKM_01867	CDS	1602				hypothetical protein
+INAECAKM_01868	gene	207				
+INAECAKM_01868	CDS	207				hypothetical protein
+INAECAKM_01869	gene	1704				
+INAECAKM_01869	CDS	1704				hypothetical protein
+INAECAKM_01870	gene	825				
+INAECAKM_01870	CDS	825				hypothetical protein
+INAECAKM_01871	gene	864				
+INAECAKM_01871	CDS	864				hypothetical protein
+INAECAKM_01872	gene	630				
+INAECAKM_01872	CDS	630				hypothetical protein
+INAECAKM_01873	gene	2784	vgb_2			
+INAECAKM_01873	CDS	2784	vgb_2	4.2.99.-		Virginiamycin B lyase
+INAECAKM_01874	gene	819	znuB			
+INAECAKM_01874	CDS	819	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+INAECAKM_01875	gene	723	mntB			
+INAECAKM_01875	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+INAECAKM_01876	gene	909	znuA			
+INAECAKM_01876	CDS	909	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+INAECAKM_01877	gene	384	nikR			
+INAECAKM_01877	CDS	384	nikR			Nickel-responsive regulator
+INAECAKM_01878	gene	1368				
+INAECAKM_01878	CDS	1368				hypothetical protein
+INAECAKM_01879	gene	711				
+INAECAKM_01879	CDS	711				hypothetical protein
+INAECAKM_01880	gene	930	pyrB			
+INAECAKM_01880	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+INAECAKM_01881	gene	462	pyrI			
+INAECAKM_01881	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+INAECAKM_01882	gene	306	atpH			
+INAECAKM_01882	CDS	306	atpH			ATP synthase subunit c
+INAECAKM_01883	gene	132				
+INAECAKM_01883	CDS	132				hypothetical protein
+INAECAKM_01884	gene	630	ntpD			
+INAECAKM_01884	CDS	630	ntpD			V-type sodium ATPase subunit D
+INAECAKM_01885	gene	1386	ntpB			
+INAECAKM_01885	CDS	1386	ntpB			V-type sodium ATPase subunit B
+INAECAKM_01886	gene	1779	atpA			
+INAECAKM_01886	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+INAECAKM_01887	gene	615	atpE			
+INAECAKM_01887	CDS	615	atpE			V-type proton ATPase subunit E
+INAECAKM_01888	gene	2100				
+INAECAKM_01888	CDS	2100				hypothetical protein
+INAECAKM_01889	gene	165				
+INAECAKM_01889	CDS	165				hypothetical protein
+INAECAKM_01890	gene	777	rhdA			
+INAECAKM_01890	CDS	777	rhdA	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+INAECAKM_01891	gene	1563	amt			
+INAECAKM_01891	CDS	1563	amt			Ammonia channel
+INAECAKM_01892	gene	666				
+INAECAKM_01892	CDS	666				hypothetical protein
+INAECAKM_01893	gene	1038	atpC			
+INAECAKM_01893	CDS	1038	atpC			V-type ATP synthase subunit C
+INAECAKM_01894	gene	237				
+INAECAKM_01894	CDS	237				hypothetical protein
+INAECAKM_01895	gene	645				
+INAECAKM_01895	CDS	645				hypothetical protein
+INAECAKM_01896	gene	111				
+INAECAKM_01896	CDS	111				hypothetical protein
+INAECAKM_01897	gene	555				
+INAECAKM_01897	CDS	555				hypothetical protein
+INAECAKM_01898	gene	351				
+INAECAKM_01898	CDS	351				hypothetical protein
+INAECAKM_01899	gene	684	pyrH			
+INAECAKM_01899	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+INAECAKM_01900	gene	1053				
+INAECAKM_01900	CDS	1053				hypothetical protein
+INAECAKM_01901	gene	582	tmk			
+INAECAKM_01901	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+INAECAKM_01902	gene	123				
+INAECAKM_01902	CDS	123				hypothetical protein
+INAECAKM_01903	gene	381				
+INAECAKM_01903	CDS	381				hypothetical protein
+INAECAKM_01904	gene	1545	ubiB			
+INAECAKM_01904	CDS	1545	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+INAECAKM_01905	gene	384				
+INAECAKM_01905	CDS	384				hypothetical protein
+INAECAKM_01906	gene	198				
+INAECAKM_01906	CDS	198				hypothetical protein
+INAECAKM_01907	gene	333				
+INAECAKM_01907	CDS	333				hypothetical protein
+INAECAKM_01908	gene	1308				
+INAECAKM_01908	CDS	1308				hypothetical protein
+INAECAKM_01909	gene	678	lolD			
+INAECAKM_01909	CDS	678	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+INAECAKM_01910	gene	1188				
+INAECAKM_01910	CDS	1188				hypothetical protein
+INAECAKM_01911	gene	903				
+INAECAKM_01911	CDS	903				hypothetical protein
+INAECAKM_01912	gene	516	nudF			
+INAECAKM_01912	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+INAECAKM_01913	gene	981				
+INAECAKM_01913	CDS	981				hypothetical protein
+INAECAKM_01914	gene	912	thrB_3			
+INAECAKM_01914	CDS	912	thrB_3	2.7.1.39		Homoserine kinase
+INAECAKM_01915	gene	765				
+INAECAKM_01915	CDS	765				hypothetical protein
+INAECAKM_01916	gene	840	panB			
+INAECAKM_01916	CDS	840	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+INAECAKM_01917	gene	1254	coaBC			
+INAECAKM_01917	CDS	1254	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+INAECAKM_01918	gene	180				
+INAECAKM_01918	CDS	180				hypothetical protein
+INAECAKM_01919	gene	843	COQ5_2			
+INAECAKM_01919	CDS	843	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+INAECAKM_01920	gene	483				
+INAECAKM_01920	CDS	483				hypothetical protein
+INAECAKM_01921	gene	1065	pepE			
+INAECAKM_01921	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+INAECAKM_01922	gene	1014	thiI_1			
+INAECAKM_01922	CDS	1014	thiI_1	2.8.1.4		tRNA sulfurtransferase
+INAECAKM_01923	gene	279				
+INAECAKM_01923	CDS	279				hypothetical protein
+INAECAKM_01924	gene	1941	rnj			
+INAECAKM_01924	CDS	1941	rnj	3.1.-.-		Ribonuclease J
+INAECAKM_01925	gene	642	prcB_2			
+INAECAKM_01925	CDS	642	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+INAECAKM_01926	gene	225				
+INAECAKM_01926	CDS	225				hypothetical protein
+INAECAKM_01927	gene	207				
+INAECAKM_01927	CDS	207				hypothetical protein
+INAECAKM_01928	gene	561	egsA			
+INAECAKM_01928	CDS	561	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+INAECAKM_01929	gene	747				
+INAECAKM_01929	CDS	747				hypothetical protein
+INAECAKM_01930	gene	1131				
+INAECAKM_01930	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+INAECAKM_01931	gene	495				
+INAECAKM_01931	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+INAECAKM_01932	gene	1023	rtcA			
+INAECAKM_01932	CDS	1023	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+INAECAKM_01933	gene	498				
+INAECAKM_01933	CDS	498				hypothetical protein
+INAECAKM_01934	gene	495				
+INAECAKM_01934	CDS	495				hypothetical protein
+INAECAKM_01935	gene	75				
+INAECAKM_01935	tRNA	75				tRNA-Val(gac)
+INAECAKM_01936	gene	711	bluB			
+INAECAKM_01936	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+INAECAKM_01937	gene	528				
+INAECAKM_01937	CDS	528		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+INAECAKM_01938	gene	462				
+INAECAKM_01938	CDS	462				hypothetical protein
+INAECAKM_01939	gene	231				
+INAECAKM_01939	CDS	231				hypothetical protein
+INAECAKM_01940	gene	477	ppiB			
+INAECAKM_01940	CDS	477	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+INAECAKM_01941	gene	894				
+INAECAKM_01941	CDS	894				hypothetical protein
+INAECAKM_01942	gene	156				
+INAECAKM_01942	CDS	156				hypothetical protein
+INAECAKM_01943	gene	477				
+INAECAKM_01943	CDS	477				hypothetical protein
+INAECAKM_01944	gene	450				
+INAECAKM_01944	CDS	450				hypothetical protein
+INAECAKM_01945	gene	894	RBKS_2			
+INAECAKM_01945	CDS	894	RBKS_2	2.7.1.15		Ribokinase
+INAECAKM_01946	gene	348				
+INAECAKM_01946	CDS	348				hypothetical protein
+INAECAKM_01947	gene	477				
+INAECAKM_01947	CDS	477				hypothetical protein
+INAECAKM_01948	gene	1134	desV			
+INAECAKM_01948	CDS	1134	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+INAECAKM_01949	gene	573				
+INAECAKM_01949	CDS	573				hypothetical protein
+INAECAKM_01950	gene	189				
+INAECAKM_01950	CDS	189				hypothetical protein
+INAECAKM_01951	gene	291				
+INAECAKM_01951	CDS	291				hypothetical protein
+INAECAKM_01952	gene	1047				
+INAECAKM_01952	CDS	1047				hypothetical protein
+INAECAKM_01953	gene	798				
+INAECAKM_01953	CDS	798		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+INAECAKM_01954	gene	1464				
+INAECAKM_01954	CDS	1464				hypothetical protein
+INAECAKM_01955	gene	1404	thrA			
+INAECAKM_01955	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+INAECAKM_01956	gene	747				
+INAECAKM_01956	CDS	747				hypothetical protein
+INAECAKM_01957	gene	315				
+INAECAKM_01957	CDS	315				hypothetical protein
+INAECAKM_01958	gene	279				
+INAECAKM_01958	CDS	279				hypothetical protein
+INAECAKM_01959	gene	537				
+INAECAKM_01959	CDS	537				hypothetical protein
+INAECAKM_01960	gene	153				
+INAECAKM_01960	CDS	153				hypothetical protein
+INAECAKM_01961	gene	147				
+INAECAKM_01961	CDS	147				hypothetical protein
+INAECAKM_01962	gene	495				
+INAECAKM_01962	CDS	495				hypothetical protein
+INAECAKM_01963	gene	642	kynB			
+INAECAKM_01963	CDS	642	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+INAECAKM_01964	gene	258				
+INAECAKM_01964	CDS	258				hypothetical protein
+INAECAKM_01965	gene	1149	sufS			
+INAECAKM_01965	CDS	1149	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+INAECAKM_01966	gene	597				
+INAECAKM_01966	CDS	597				hypothetical protein
+INAECAKM_01967	gene	300	ndhI_2			
+INAECAKM_01967	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+INAECAKM_01968	gene	996				
+INAECAKM_01968	CDS	996				hypothetical protein
+INAECAKM_01969	gene	1776				
+INAECAKM_01969	CDS	1776				hypothetical protein
+INAECAKM_01970	gene	1155	dnaJ_4			
+INAECAKM_01970	CDS	1155	dnaJ_4			Chaperone protein DnaJ
+INAECAKM_01971	gene	432	teaD			
+INAECAKM_01971	CDS	432	teaD		COG0589	TRAP-T-associated universal stress protein TeaD
+INAECAKM_01972	gene	825	IMPDH_4			
+INAECAKM_01972	CDS	825	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+INAECAKM_01973	gene	684				
+INAECAKM_01973	CDS	684				hypothetical protein
+INAECAKM_01974	gene	1302	yhdG			
+INAECAKM_01974	CDS	1302	yhdG		COG0531	putative amino acid permease YhdG
+INAECAKM_01975	gene	657				
+INAECAKM_01975	CDS	657				hypothetical protein
+INAECAKM_01976	gene	1431	glnA_1			
+INAECAKM_01976	CDS	1431	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+INAECAKM_01977	gene	1347				
+INAECAKM_01977	CDS	1347				hypothetical protein
+INAECAKM_01978	gene	1740				
+INAECAKM_01978	CDS	1740				hypothetical protein
+INAECAKM_01979	gene	876	prs			
+INAECAKM_01979	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+INAECAKM_01980	gene	948				
+INAECAKM_01980	CDS	948				hypothetical protein
+INAECAKM_01981	gene	900	rnz			
+INAECAKM_01981	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+INAECAKM_01982	gene	723	cobB			
+INAECAKM_01982	CDS	723	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+INAECAKM_01983	gene	723				
+INAECAKM_01983	CDS	723				hypothetical protein
+INAECAKM_01984	gene	399				
+INAECAKM_01984	CDS	399				hypothetical protein
+INAECAKM_01985	gene	549				
+INAECAKM_01985	CDS	549				hypothetical protein
+INAECAKM_01986	gene	543				
+INAECAKM_01986	CDS	543		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+INAECAKM_01987	gene	1332				
+INAECAKM_01987	CDS	1332				hypothetical protein
+INAECAKM_01988	gene	762				
+INAECAKM_01988	CDS	762				hypothetical protein
+INAECAKM_01989	gene	74				
+INAECAKM_01989	tRNA	74				tRNA-Pro(ggg)
+INAECAKM_01990	gene	210				
+INAECAKM_01990	CDS	210				hypothetical protein
+INAECAKM_01991	gene	1149				
+INAECAKM_01991	CDS	1149		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+INAECAKM_01992	gene	741				
+INAECAKM_01992	CDS	741		1.-.-.-		putative oxidoreductase
+INAECAKM_01993	gene	222				
+INAECAKM_01993	CDS	222				hypothetical protein
+INAECAKM_01994	gene	285				
+INAECAKM_01994	CDS	285				hypothetical protein
+INAECAKM_01995	gene	558				
+INAECAKM_01995	CDS	558				hypothetical protein
+INAECAKM_01996	gene	1461	glnA_2			
+INAECAKM_01996	CDS	1461	glnA_2	6.3.1.2		Glutamine synthetase
+INAECAKM_01997	gene	270				
+INAECAKM_01997	CDS	270				hypothetical protein
+INAECAKM_01998	gene	1803	groL_2			
+INAECAKM_01998	CDS	1803	groL_2		COG0459	60 kDa chaperonin
+INAECAKM_01999	gene	1323	glyA			
+INAECAKM_01999	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+INAECAKM_02000	gene	3378				
+INAECAKM_02000	CDS	3378				hypothetical protein
+INAECAKM_02001	gene	753				
+INAECAKM_02001	CDS	753		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+INAECAKM_02002	gene	363				
+INAECAKM_02002	CDS	363				hypothetical protein
+INAECAKM_02003	gene	603				
+INAECAKM_02003	CDS	603				hypothetical protein
+INAECAKM_02004	gene	162				
+INAECAKM_02004	CDS	162				hypothetical protein
+INAECAKM_02005	gene	387				
+INAECAKM_02005	CDS	387				hypothetical protein
+INAECAKM_02006	gene	1182				
+INAECAKM_02006	CDS	1182				hypothetical protein
+INAECAKM_02007	gene	1446				
+INAECAKM_02007	CDS	1446				hypothetical protein
+INAECAKM_02008	gene	507				
+INAECAKM_02008	CDS	507				hypothetical protein
+INAECAKM_02009	gene	894				
+INAECAKM_02009	CDS	894				hypothetical protein
+INAECAKM_02010	gene	717				
+INAECAKM_02010	CDS	717				hypothetical protein
+INAECAKM_02011	gene	492				
+INAECAKM_02011	CDS	492				hypothetical protein
+INAECAKM_02012	gene	1536				
+INAECAKM_02012	CDS	1536				hypothetical protein
+INAECAKM_02013	gene	345				
+INAECAKM_02013	CDS	345				hypothetical protein
+INAECAKM_02014	gene	1065				
+INAECAKM_02014	CDS	1065		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+INAECAKM_02015	gene	651				
+INAECAKM_02015	CDS	651				hypothetical protein
+INAECAKM_02016	gene	498				
+INAECAKM_02016	CDS	498				hypothetical protein
+INAECAKM_02017	gene	2142	ftsH_5			
+INAECAKM_02017	CDS	2142	ftsH_5	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+INAECAKM_02018	gene	219				
+INAECAKM_02018	CDS	219				hypothetical protein
+INAECAKM_02019	gene	444				
+INAECAKM_02019	CDS	444				hypothetical protein
+INAECAKM_02020	gene	921				
+INAECAKM_02020	CDS	921				hypothetical protein
+INAECAKM_02021	gene	192				
+INAECAKM_02021	CDS	192				hypothetical protein
+INAECAKM_02022	gene	381	crcB			
+INAECAKM_02022	CDS	381	crcB			Putative fluoride ion transporter CrcB
+INAECAKM_02023	gene	228				
+INAECAKM_02023	CDS	228				hypothetical protein
+INAECAKM_02024	gene	273				
+INAECAKM_02024	CDS	273				hypothetical protein
+INAECAKM_02025	gene	480				
+INAECAKM_02025	CDS	480				hypothetical protein
+INAECAKM_02026	gene	228				
+INAECAKM_02026	CDS	228				hypothetical protein
+INAECAKM_02027	gene	300				
+INAECAKM_02027	CDS	300				hypothetical protein
+INAECAKM_02028	gene	945				
+INAECAKM_02028	CDS	945				hypothetical protein
+INAECAKM_02029	gene	768				
+INAECAKM_02029	CDS	768				hypothetical protein
+INAECAKM_02030	gene	195				
+INAECAKM_02030	CDS	195				hypothetical protein
+INAECAKM_02031	gene	1476	nhaP2			
+INAECAKM_02031	CDS	1476	nhaP2			K(+)/H(+) antiporter NhaP2
+INAECAKM_02032	gene	543				
+INAECAKM_02032	CDS	543				hypothetical protein
+INAECAKM_02033	gene	516	cysC			
+INAECAKM_02033	CDS	516	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+INAECAKM_02034	gene	816	cysQ_2			
+INAECAKM_02034	CDS	816	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+INAECAKM_02035	gene	207				
+INAECAKM_02035	CDS	207				hypothetical protein
+INAECAKM_02036	gene	753	bacC			
+INAECAKM_02036	CDS	753	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+INAECAKM_02037	gene	432				
+INAECAKM_02037	CDS	432				hypothetical protein
+INAECAKM_02038	gene	552				
+INAECAKM_02038	CDS	552				hypothetical protein
+INAECAKM_02039	gene	681				
+INAECAKM_02039	CDS	681				hypothetical protein
+INAECAKM_02040	gene	462				
+INAECAKM_02040	CDS	462				hypothetical protein
+INAECAKM_02041	gene	642				
+INAECAKM_02041	CDS	642				hypothetical protein
+INAECAKM_02042	gene	261				
+INAECAKM_02042	CDS	261				hypothetical protein
+INAECAKM_02043	gene	1005				
+INAECAKM_02043	CDS	1005				hypothetical protein
+INAECAKM_02044	gene	351				
+INAECAKM_02044	CDS	351				hypothetical protein
+INAECAKM_02045	gene	195				
+INAECAKM_02045	CDS	195				hypothetical protein
+INAECAKM_02046	gene	714	queE			
+INAECAKM_02046	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+INAECAKM_02047	gene	558	folE			
+INAECAKM_02047	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+INAECAKM_02048	gene	255				
+INAECAKM_02048	CDS	255				hypothetical protein
+INAECAKM_02049	gene	675	queC			
+INAECAKM_02049	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+INAECAKM_02050	gene	924	thrB_4			
+INAECAKM_02050	CDS	924	thrB_4	2.7.1.39	COG0083	Homoserine kinase
+INAECAKM_02051	gene	843				
+INAECAKM_02051	CDS	843				hypothetical protein
+INAECAKM_02052	gene	156				
+INAECAKM_02052	CDS	156				hypothetical protein
+INAECAKM_02053	gene	1017				
+INAECAKM_02053	CDS	1017				hypothetical protein
+INAECAKM_02054	gene	795				
+INAECAKM_02054	CDS	795		1.-.-.-		putative oxidoreductase
+INAECAKM_02055	gene	405				
+INAECAKM_02055	CDS	405				hypothetical protein
+INAECAKM_02056	gene	312				
+INAECAKM_02056	CDS	312				hypothetical protein
+INAECAKM_02057	gene	1236				
+INAECAKM_02057	CDS	1236				hypothetical protein
+INAECAKM_02058	gene	1116	thiI_2			
+INAECAKM_02058	CDS	1116	thiI_2	2.8.1.4		tRNA sulfurtransferase
+INAECAKM_02059	gene	726	cysH			
+INAECAKM_02059	CDS	726	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+INAECAKM_02060	gene	1143	sat			
+INAECAKM_02060	CDS	1143	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+INAECAKM_02061	gene	666				
+INAECAKM_02061	CDS	666				hypothetical protein
+INAECAKM_02062	gene	582				
+INAECAKM_02062	CDS	582				hypothetical protein
+INAECAKM_02063	gene	192				
+INAECAKM_02063	CDS	192				hypothetical protein
+INAECAKM_02064	gene	783				
+INAECAKM_02064	CDS	783				hypothetical protein
+INAECAKM_02065	gene	1167	arnC_5			
+INAECAKM_02065	CDS	1167	arnC_5	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase

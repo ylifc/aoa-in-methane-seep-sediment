@@ -1,0 +1,3927 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GBJJFIKL_00001	gene	2529				
+GBJJFIKL_00001	CDS	2529				hypothetical protein
+GBJJFIKL_00002	gene	1458	glyQS			
+GBJJFIKL_00002	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+GBJJFIKL_00003	gene	882	nfo			
+GBJJFIKL_00003	CDS	882	nfo	3.1.21.2	COG0648	putative endonuclease 4
+GBJJFIKL_00004	gene	1029				
+GBJJFIKL_00004	CDS	1029				hypothetical protein
+GBJJFIKL_00005	gene	1122				
+GBJJFIKL_00005	CDS	1122				hypothetical protein
+GBJJFIKL_00006	gene	2850				
+GBJJFIKL_00006	CDS	2850				hypothetical protein
+GBJJFIKL_00007	gene	543	guaA_1			
+GBJJFIKL_00007	CDS	543	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+GBJJFIKL_00008	gene	960				
+GBJJFIKL_00008	CDS	960				hypothetical protein
+GBJJFIKL_00009	gene	74				
+GBJJFIKL_00009	tRNA	74				tRNA-Gly(ccc)
+GBJJFIKL_00010	gene	174				
+GBJJFIKL_00010	CDS	174				hypothetical protein
+GBJJFIKL_00011	gene	393				
+GBJJFIKL_00011	CDS	393				hypothetical protein
+GBJJFIKL_00012	gene	1263	tuf_1			
+GBJJFIKL_00012	CDS	1263	tuf_1			Elongation factor Tu
+GBJJFIKL_00013	gene	381				
+GBJJFIKL_00013	CDS	381				hypothetical protein
+GBJJFIKL_00014	gene	462				
+GBJJFIKL_00014	CDS	462				hypothetical protein
+GBJJFIKL_00015	gene	2139				
+GBJJFIKL_00015	CDS	2139				hypothetical protein
+GBJJFIKL_00016	gene	156				
+GBJJFIKL_00016	CDS	156				hypothetical protein
+GBJJFIKL_00017	gene	798	pnp			
+GBJJFIKL_00017	CDS	798	pnp	2.7.7.8		Polyribonucleotide nucleotidyltransferase
+GBJJFIKL_00018	gene	534	btuR			
+GBJJFIKL_00018	CDS	534	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase
+GBJJFIKL_00019	gene	1353	cbiA			
+GBJJFIKL_00019	CDS	1353	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+GBJJFIKL_00020	gene	642	cbiC			
+GBJJFIKL_00020	CDS	642	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+GBJJFIKL_00021	gene	753	sirB			
+GBJJFIKL_00021	CDS	753	sirB	4.99.1.4	COG2138	Sirohydrochlorin ferrochelatase
+GBJJFIKL_00022	gene	1053	cbiG			
+GBJJFIKL_00022	CDS	1053	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+GBJJFIKL_00023	gene	1095	cbiD			
+GBJJFIKL_00023	CDS	1095	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+GBJJFIKL_00024	gene	858				
+GBJJFIKL_00024	CDS	858				hypothetical protein
+GBJJFIKL_00025	gene	1167	metK			
+GBJJFIKL_00025	CDS	1167	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+GBJJFIKL_00026	gene	246				
+GBJJFIKL_00026	CDS	246				hypothetical protein
+GBJJFIKL_00027	gene	657	recA_1			
+GBJJFIKL_00027	CDS	657	recA_1			Protein RecA
+GBJJFIKL_00028	gene	120				
+GBJJFIKL_00028	CDS	120				hypothetical protein
+GBJJFIKL_00029	gene	2754	dbpA_1			
+GBJJFIKL_00029	CDS	2754	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+GBJJFIKL_00030	gene	1398				
+GBJJFIKL_00030	CDS	1398				hypothetical protein
+GBJJFIKL_00031	gene	939	lnrL			
+GBJJFIKL_00031	CDS	939	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+GBJJFIKL_00032	gene	762				
+GBJJFIKL_00032	CDS	762				hypothetical protein
+GBJJFIKL_00033	gene	756				
+GBJJFIKL_00033	CDS	756				hypothetical protein
+GBJJFIKL_00034	gene	76				
+GBJJFIKL_00034	tRNA	76				tRNA-Gln(ttg)
+GBJJFIKL_00035	gene	1026				
+GBJJFIKL_00035	CDS	1026				hypothetical protein
+GBJJFIKL_00036	gene	1140				
+GBJJFIKL_00036	CDS	1140				hypothetical protein
+GBJJFIKL_00037	gene	588	grpE			
+GBJJFIKL_00037	CDS	588	grpE			Protein GrpE
+GBJJFIKL_00038	gene	1857	dnaK			
+GBJJFIKL_00038	CDS	1857	dnaK		COG0443	Chaperone protein DnaK
+GBJJFIKL_00039	gene	1080	dnaJ_1			
+GBJJFIKL_00039	CDS	1080	dnaJ_1		COG0484	Chaperone protein DnaJ
+GBJJFIKL_00040	gene	537				
+GBJJFIKL_00040	CDS	537				hypothetical protein
+GBJJFIKL_00041	gene	174				
+GBJJFIKL_00041	CDS	174				hypothetical protein
+GBJJFIKL_00042	gene	87				
+GBJJFIKL_00042	tRNA	87				tRNA-Leu(cag)
+GBJJFIKL_00043	gene	1905	GATB			
+GBJJFIKL_00043	CDS	1905	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+GBJJFIKL_00044	gene	1290				
+GBJJFIKL_00044	CDS	1290				hypothetical protein
+GBJJFIKL_00045	gene	2541	ftsH_1			
+GBJJFIKL_00045	CDS	2541	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GBJJFIKL_00046	gene	735				
+GBJJFIKL_00046	CDS	735				hypothetical protein
+GBJJFIKL_00047	gene	279	yccX			
+GBJJFIKL_00047	CDS	279	yccX	3.6.1.7	COG1254	Acylphosphatase
+GBJJFIKL_00048	gene	333				
+GBJJFIKL_00048	CDS	333				hypothetical protein
+GBJJFIKL_00049	gene	312				
+GBJJFIKL_00049	misc_RNA	312				Archaea_SRP
+GBJJFIKL_00050	gene	915	ttuA			
+GBJJFIKL_00050	CDS	915	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+GBJJFIKL_00051	gene	1203				
+GBJJFIKL_00051	CDS	1203				hypothetical protein
+GBJJFIKL_00052	gene	312	cutA			
+GBJJFIKL_00052	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+GBJJFIKL_00053	gene	1053				
+GBJJFIKL_00053	CDS	1053				hypothetical protein
+GBJJFIKL_00054	gene	417				
+GBJJFIKL_00054	CDS	417				hypothetical protein
+GBJJFIKL_00055	gene	420				
+GBJJFIKL_00055	CDS	420				hypothetical protein
+GBJJFIKL_00056	gene	165				
+GBJJFIKL_00056	CDS	165				hypothetical protein
+GBJJFIKL_00057	gene	459	mntR_1			
+GBJJFIKL_00057	CDS	459	mntR_1			HTH-type transcriptional regulator MntR
+GBJJFIKL_00058	gene	768				
+GBJJFIKL_00058	CDS	768				hypothetical protein
+GBJJFIKL_00059	gene	1665	moaA			
+GBJJFIKL_00059	CDS	1665	moaA			GTP 3',8-cyclase
+GBJJFIKL_00060	gene	945	mshA_1			
+GBJJFIKL_00060	CDS	945	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GBJJFIKL_00061	gene	894	galE_1			
+GBJJFIKL_00061	CDS	894	galE_1	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+GBJJFIKL_00062	gene	1377	wbpA			
+GBJJFIKL_00062	CDS	1377	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+GBJJFIKL_00063	gene	1221				
+GBJJFIKL_00063	CDS	1221				hypothetical protein
+GBJJFIKL_00064	gene	1059	mshA_2			
+GBJJFIKL_00064	CDS	1059	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GBJJFIKL_00065	gene	951	cmoM			
+GBJJFIKL_00065	CDS	951	cmoM	2.1.1.-		tRNA 5-carboxymethoxyuridine methyltransferase
+GBJJFIKL_00066	gene	759				
+GBJJFIKL_00066	CDS	759				hypothetical protein
+GBJJFIKL_00067	gene	873				
+GBJJFIKL_00067	CDS	873				hypothetical protein
+GBJJFIKL_00068	gene	498				
+GBJJFIKL_00068	CDS	498				hypothetical protein
+GBJJFIKL_00069	gene	1230				
+GBJJFIKL_00069	CDS	1230				hypothetical protein
+GBJJFIKL_00070	gene	582				
+GBJJFIKL_00070	CDS	582		2.3.1.-		Putative acetyltransferase
+GBJJFIKL_00071	gene	1020				
+GBJJFIKL_00071	CDS	1020				hypothetical protein
+GBJJFIKL_00072	gene	1206				
+GBJJFIKL_00072	CDS	1206				hypothetical protein
+GBJJFIKL_00073	gene	1140	per			
+GBJJFIKL_00073	CDS	1140	per	2.6.1.102	COG0399	GDP-perosamine synthase
+GBJJFIKL_00074	gene	882	galE_2			
+GBJJFIKL_00074	CDS	882	galE_2	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+GBJJFIKL_00075	gene	1332	wecC_1			
+GBJJFIKL_00075	CDS	1332	wecC_1	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+GBJJFIKL_00076	gene	1563				
+GBJJFIKL_00076	CDS	1563				hypothetical protein
+GBJJFIKL_00077	gene	1443	bchE			
+GBJJFIKL_00077	CDS	1443	bchE	1.21.98.3		Anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+GBJJFIKL_00078	gene	897				
+GBJJFIKL_00078	CDS	897				hypothetical protein
+GBJJFIKL_00079	gene	933	galE1			
+GBJJFIKL_00079	CDS	933	galE1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+GBJJFIKL_00080	gene	642				
+GBJJFIKL_00080	CDS	642				hypothetical protein
+GBJJFIKL_00081	gene	792	lpxD			
+GBJJFIKL_00081	CDS	792	lpxD	2.3.1.191		UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+GBJJFIKL_00082	gene	1176	mshA_3			
+GBJJFIKL_00082	CDS	1176	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GBJJFIKL_00083	gene	1074	wbpI			
+GBJJFIKL_00083	CDS	1074	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+GBJJFIKL_00084	gene	723	rmlD_1			
+GBJJFIKL_00084	CDS	723	rmlD_1	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+GBJJFIKL_00085	gene	861				
+GBJJFIKL_00085	CDS	861				hypothetical protein
+GBJJFIKL_00086	gene	939	wbgU			
+GBJJFIKL_00086	CDS	939	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+GBJJFIKL_00087	gene	1299	wecC_2			
+GBJJFIKL_00087	CDS	1299	wecC_2	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase
+GBJJFIKL_00088	gene	1155	mshA_4			
+GBJJFIKL_00088	CDS	1155	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GBJJFIKL_00089	gene	1167				
+GBJJFIKL_00089	CDS	1167				hypothetical protein
+GBJJFIKL_00090	gene	909				
+GBJJFIKL_00090	CDS	909				hypothetical protein
+GBJJFIKL_00091	gene	891	rmlD_2			
+GBJJFIKL_00091	CDS	891	rmlD_2	1.1.1.133	COG1091	dTDP-4-dehydrorhamnose reductase
+GBJJFIKL_00092	gene	528	rfbC			
+GBJJFIKL_00092	CDS	528	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+GBJJFIKL_00093	gene	1236				
+GBJJFIKL_00093	CDS	1236				hypothetical protein
+GBJJFIKL_00094	gene	1068	rfbG			
+GBJJFIKL_00094	CDS	1068	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+GBJJFIKL_00095	gene	771	rfbF			
+GBJJFIKL_00095	CDS	771	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+GBJJFIKL_00096	gene	1857				
+GBJJFIKL_00096	CDS	1857				hypothetical protein
+GBJJFIKL_00097	gene	1311	yliI_1			
+GBJJFIKL_00097	CDS	1311	yliI_1	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+GBJJFIKL_00098	gene	570				
+GBJJFIKL_00098	CDS	570				hypothetical protein
+GBJJFIKL_00099	gene	1068				
+GBJJFIKL_00099	CDS	1068				hypothetical protein
+GBJJFIKL_00100	gene	696				
+GBJJFIKL_00100	CDS	696				hypothetical protein
+GBJJFIKL_00101	gene	885	gerKI			
+GBJJFIKL_00101	CDS	885	gerKI	1.1.1.364		dTDP-4-oxo-6-deoxy-D-allose reductase
+GBJJFIKL_00102	gene	735	neuB			
+GBJJFIKL_00102	CDS	735	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+GBJJFIKL_00103	gene	1083	arnB			
+GBJJFIKL_00103	CDS	1083	arnB	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+GBJJFIKL_00104	gene	780	kdsB			
+GBJJFIKL_00104	CDS	780	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+GBJJFIKL_00105	gene	1002	pseB			
+GBJJFIKL_00105	CDS	1002	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+GBJJFIKL_00106	gene	150				
+GBJJFIKL_00106	CDS	150				hypothetical protein
+GBJJFIKL_00107	gene	840	frlC_1			
+GBJJFIKL_00107	CDS	840	frlC_1	5.1.3.41	COG1082	Fructoselysine 3-epimerase
+GBJJFIKL_00108	gene	795				
+GBJJFIKL_00108	CDS	795				hypothetical protein
+GBJJFIKL_00109	gene	825	frlC_2			
+GBJJFIKL_00109	CDS	825	frlC_2	5.1.3.41	COG1082	Fructoselysine 3-epimerase
+GBJJFIKL_00110	gene	855	COQ2			
+GBJJFIKL_00110	CDS	855	COQ2	2.5.1.39		4-hydroxybenzoate polyprenyltransferase, mitochondrial
+GBJJFIKL_00111	gene	1350				
+GBJJFIKL_00111	CDS	1350				hypothetical protein
+GBJJFIKL_00112	gene	1026	tdh			
+GBJJFIKL_00112	CDS	1026	tdh	1.1.1.103	COG1063	L-threonine 3-dehydrogenase
+GBJJFIKL_00113	gene	1590				
+GBJJFIKL_00113	CDS	1590				hypothetical protein
+GBJJFIKL_00114	gene	372				
+GBJJFIKL_00114	CDS	372				hypothetical protein
+GBJJFIKL_00115	gene	1026				
+GBJJFIKL_00115	CDS	1026				hypothetical protein
+GBJJFIKL_00116	gene	1056	mtnA			
+GBJJFIKL_00116	CDS	1056	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+GBJJFIKL_00117	gene	639				
+GBJJFIKL_00117	CDS	639				hypothetical protein
+GBJJFIKL_00118	gene	684	fabG_1			
+GBJJFIKL_00118	CDS	684	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GBJJFIKL_00119	gene	990				
+GBJJFIKL_00119	CDS	990				hypothetical protein
+GBJJFIKL_00120	gene	240				
+GBJJFIKL_00120	CDS	240				hypothetical protein
+GBJJFIKL_00121	gene	594				
+GBJJFIKL_00121	CDS	594				hypothetical protein
+GBJJFIKL_00122	gene	76				
+GBJJFIKL_00122	tRNA	76				tRNA-Arg(tcg)
+GBJJFIKL_00123	gene	1173	alaA			
+GBJJFIKL_00123	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+GBJJFIKL_00124	gene	399				
+GBJJFIKL_00124	CDS	399				hypothetical protein
+GBJJFIKL_00125	gene	234				
+GBJJFIKL_00125	CDS	234				hypothetical protein
+GBJJFIKL_00126	gene	672				
+GBJJFIKL_00126	CDS	672				hypothetical protein
+GBJJFIKL_00127	gene	624	pspA			
+GBJJFIKL_00127	CDS	624	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+GBJJFIKL_00128	gene	264				
+GBJJFIKL_00128	CDS	264				hypothetical protein
+GBJJFIKL_00129	gene	432	coxM			
+GBJJFIKL_00129	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+GBJJFIKL_00130	gene	1530	ctaD			
+GBJJFIKL_00130	CDS	1530	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+GBJJFIKL_00131	gene	966				
+GBJJFIKL_00131	CDS	966				hypothetical protein
+GBJJFIKL_00132	gene	393	ctaA			
+GBJJFIKL_00132	CDS	393	ctaA	1.3.-.-	COG1612	Heme A synthase
+GBJJFIKL_00133	gene	525				
+GBJJFIKL_00133	CDS	525				hypothetical protein
+GBJJFIKL_00134	gene	606				
+GBJJFIKL_00134	CDS	606				hypothetical protein
+GBJJFIKL_00135	gene	75				
+GBJJFIKL_00135	tRNA	75				tRNA-Lys(ctt)
+GBJJFIKL_00136	gene	414	cheB_1			
+GBJJFIKL_00136	CDS	414	cheB_1	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+GBJJFIKL_00137	gene	1794	sasA_1			
+GBJJFIKL_00137	CDS	1794	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+GBJJFIKL_00138	gene	555				
+GBJJFIKL_00138	CDS	555				hypothetical protein
+GBJJFIKL_00139	gene	915	ilvE_1			
+GBJJFIKL_00139	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GBJJFIKL_00140	gene	204				
+GBJJFIKL_00140	CDS	204				hypothetical protein
+GBJJFIKL_00141	gene	1416				
+GBJJFIKL_00141	CDS	1416				hypothetical protein
+GBJJFIKL_00142	gene	1023	murG			
+GBJJFIKL_00142	CDS	1023	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GBJJFIKL_00143	gene	75				
+GBJJFIKL_00143	tRNA	75				tRNA-Val(tac)
+GBJJFIKL_00144	gene	357				
+GBJJFIKL_00144	CDS	357				hypothetical protein
+GBJJFIKL_00145	gene	330				
+GBJJFIKL_00145	CDS	330				hypothetical protein
+GBJJFIKL_00146	gene	429				
+GBJJFIKL_00146	CDS	429				hypothetical protein
+GBJJFIKL_00147	gene	987	dsbD			
+GBJJFIKL_00147	CDS	987	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+GBJJFIKL_00148	gene	138				
+GBJJFIKL_00148	CDS	138				hypothetical protein
+GBJJFIKL_00149	gene	222				
+GBJJFIKL_00149	CDS	222				hypothetical protein
+GBJJFIKL_00150	gene	252				
+GBJJFIKL_00150	CDS	252				hypothetical protein
+GBJJFIKL_00151	gene	750				
+GBJJFIKL_00151	CDS	750				hypothetical protein
+GBJJFIKL_00152	gene	879				
+GBJJFIKL_00152	CDS	879				hypothetical protein
+GBJJFIKL_00153	gene	303				
+GBJJFIKL_00153	CDS	303				hypothetical protein
+GBJJFIKL_00154	gene	285				
+GBJJFIKL_00154	CDS	285				hypothetical protein
+GBJJFIKL_00155	gene	453				
+GBJJFIKL_00155	CDS	453				hypothetical protein
+GBJJFIKL_00156	gene	357				
+GBJJFIKL_00156	CDS	357				hypothetical protein
+GBJJFIKL_00157	gene	2097	FCS1			
+GBJJFIKL_00157	CDS	2097	FCS1	6.2.1.34		Trans-feruloyl-CoA synthase FCS1
+GBJJFIKL_00158	gene	1527	abfD			
+GBJJFIKL_00158	CDS	1527	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+GBJJFIKL_00159	gene	675				
+GBJJFIKL_00159	CDS	675				hypothetical protein
+GBJJFIKL_00160	gene	753				
+GBJJFIKL_00160	CDS	753				hypothetical protein
+GBJJFIKL_00161	gene	330	trxA			
+GBJJFIKL_00161	CDS	330	trxA			Thioredoxin 1
+GBJJFIKL_00162	gene	522				
+GBJJFIKL_00162	CDS	522				hypothetical protein
+GBJJFIKL_00163	gene	360				
+GBJJFIKL_00163	CDS	360				hypothetical protein
+GBJJFIKL_00164	gene	72				
+GBJJFIKL_00164	tRNA	72				tRNA-Ala(cgc)
+GBJJFIKL_00165	gene	354				
+GBJJFIKL_00165	CDS	354				hypothetical protein
+GBJJFIKL_00166	gene	744				
+GBJJFIKL_00166	CDS	744				hypothetical protein
+GBJJFIKL_00167	gene	1392				
+GBJJFIKL_00167	CDS	1392		3.5.2.-		D-hydantoinase
+GBJJFIKL_00168	gene	675	rpiA			
+GBJJFIKL_00168	CDS	675	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+GBJJFIKL_00169	gene	933				
+GBJJFIKL_00169	CDS	933				hypothetical protein
+GBJJFIKL_00170	gene	237				
+GBJJFIKL_00170	CDS	237				hypothetical protein
+GBJJFIKL_00171	gene	735	mftE			
+GBJJFIKL_00171	CDS	735	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+GBJJFIKL_00172	gene	849	purU			
+GBJJFIKL_00172	CDS	849	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+GBJJFIKL_00173	gene	87				
+GBJJFIKL_00173	tRNA	87				tRNA-Leu(tag)
+GBJJFIKL_00174	gene	1371	algC_1			
+GBJJFIKL_00174	CDS	1371	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+GBJJFIKL_00175	gene	387				
+GBJJFIKL_00175	CDS	387				hypothetical protein
+GBJJFIKL_00176	gene	213				
+GBJJFIKL_00176	CDS	213				hypothetical protein
+GBJJFIKL_00177	gene	204				
+GBJJFIKL_00177	CDS	204				hypothetical protein
+GBJJFIKL_00178	gene	402	ndk			
+GBJJFIKL_00178	CDS	402	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GBJJFIKL_00179	gene	1761	infB			
+GBJJFIKL_00179	CDS	1761	infB			Translation initiation factor IF-2
+GBJJFIKL_00180	gene	402				
+GBJJFIKL_00180	CDS	402				hypothetical protein
+GBJJFIKL_00181	gene	147				
+GBJJFIKL_00181	CDS	147				hypothetical protein
+GBJJFIKL_00182	gene	1653				
+GBJJFIKL_00182	CDS	1653				hypothetical protein
+GBJJFIKL_00183	gene	417				
+GBJJFIKL_00183	CDS	417				Protein archease
+GBJJFIKL_00184	gene	1263	hisS			
+GBJJFIKL_00184	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GBJJFIKL_00185	gene	666				
+GBJJFIKL_00185	CDS	666				hypothetical protein
+GBJJFIKL_00186	gene	555	napF_1			
+GBJJFIKL_00186	CDS	555	napF_1			Ferredoxin-type protein NapF
+GBJJFIKL_00187	gene	543	napF_2			
+GBJJFIKL_00187	CDS	543	napF_2			Ferredoxin-type protein NapF
+GBJJFIKL_00188	gene	86				
+GBJJFIKL_00188	tRNA	86				tRNA-Ser(tga)
+GBJJFIKL_00189	gene	975				
+GBJJFIKL_00189	CDS	975				hypothetical protein
+GBJJFIKL_00190	gene	531				
+GBJJFIKL_00190	CDS	531				hypothetical protein
+GBJJFIKL_00191	gene	2088				
+GBJJFIKL_00191	CDS	2088				hypothetical protein
+GBJJFIKL_00192	gene	2127				
+GBJJFIKL_00192	CDS	2127				hypothetical protein
+GBJJFIKL_00193	gene	993	mraY			
+GBJJFIKL_00193	CDS	993	mraY	2.7.8.13		Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GBJJFIKL_00194	gene	231				
+GBJJFIKL_00194	CDS	231				hypothetical protein
+GBJJFIKL_00195	gene	477	fdtC			
+GBJJFIKL_00195	CDS	477	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+GBJJFIKL_00196	gene	270				
+GBJJFIKL_00196	CDS	270				hypothetical protein
+GBJJFIKL_00197	gene	936	iolG			
+GBJJFIKL_00197	CDS	936	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+GBJJFIKL_00198	gene	918	ilvE_2			
+GBJJFIKL_00198	CDS	918	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+GBJJFIKL_00199	gene	147				
+GBJJFIKL_00199	CDS	147				hypothetical protein
+GBJJFIKL_00200	gene	603				
+GBJJFIKL_00200	CDS	603				hypothetical protein
+GBJJFIKL_00201	gene	74				
+GBJJFIKL_00201	tRNA	74				tRNA-Pro(cgg)
+GBJJFIKL_00202	gene	846	mimB_1			
+GBJJFIKL_00202	CDS	846	mimB_1	1.18.1.-		Propane 2-monooxygenase, reductase component
+GBJJFIKL_00203	gene	75				
+GBJJFIKL_00203	tRNA	75				tRNA-Ala(ggc)
+GBJJFIKL_00204	gene	285				
+GBJJFIKL_00204	CDS	285				hypothetical protein
+GBJJFIKL_00205	gene	867	Dml			
+GBJJFIKL_00205	CDS	867	Dml	4.1.3.32		2,3-dimethylmalate lyase
+GBJJFIKL_00206	gene	510				
+GBJJFIKL_00206	CDS	510				hypothetical protein
+GBJJFIKL_00207	gene	1773	frdA			
+GBJJFIKL_00207	CDS	1773	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+GBJJFIKL_00208	gene	435				
+GBJJFIKL_00208	CDS	435				hypothetical protein
+GBJJFIKL_00209	gene	345				
+GBJJFIKL_00209	CDS	345				hypothetical protein
+GBJJFIKL_00210	gene	750	frdB			
+GBJJFIKL_00210	CDS	750	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+GBJJFIKL_00211	gene	324				
+GBJJFIKL_00211	CDS	324				hypothetical protein
+GBJJFIKL_00212	gene	1461	argH			
+GBJJFIKL_00212	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+GBJJFIKL_00213	gene	75				
+GBJJFIKL_00213	tRNA	75				tRNA-Lys(ttt)
+GBJJFIKL_00214	gene	78				
+GBJJFIKL_00214	tRNA	78				tRNA-Asp(gtc)
+GBJJFIKL_00215	gene	750				
+GBJJFIKL_00215	CDS	750				hypothetical protein
+GBJJFIKL_00216	gene	1077	hemA_1			
+GBJJFIKL_00216	CDS	1077	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GBJJFIKL_00217	gene	162				
+GBJJFIKL_00217	CDS	162				hypothetical protein
+GBJJFIKL_00218	gene	840	mimB_2			
+GBJJFIKL_00218	CDS	840	mimB_2	1.18.1.-		Propane 2-monooxygenase, reductase component
+GBJJFIKL_00219	gene	801	cysQ_1			
+GBJJFIKL_00219	CDS	801	cysQ_1	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+GBJJFIKL_00220	gene	1116				
+GBJJFIKL_00220	CDS	1116				hypothetical protein
+GBJJFIKL_00221	gene	1158				
+GBJJFIKL_00221	CDS	1158				hypothetical protein
+GBJJFIKL_00222	gene	318				
+GBJJFIKL_00222	CDS	318				hypothetical protein
+GBJJFIKL_00223	gene	1548	pccB			
+GBJJFIKL_00223	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+GBJJFIKL_00224	gene	1488	cfiB			
+GBJJFIKL_00224	CDS	1488	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+GBJJFIKL_00225	gene	513				
+GBJJFIKL_00225	CDS	513				hypothetical protein
+GBJJFIKL_00226	gene	465	bcp_1			
+GBJJFIKL_00226	CDS	465	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+GBJJFIKL_00227	gene	375	ndhC			
+GBJJFIKL_00227	CDS	375	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3, chloroplastic
+GBJJFIKL_00228	gene	525	ndhK_1			
+GBJJFIKL_00228	CDS	525	ndhK_1	7.1.1.-	COG0377	NAD(P)H-quinone oxidoreductase subunit K
+GBJJFIKL_00229	gene	582	nuoC			
+GBJJFIKL_00229	CDS	582	nuoC	7.1.1.-	COG0852	NADH-quinone oxidoreductase subunit C
+GBJJFIKL_00230	gene	1137	nqo4			
+GBJJFIKL_00230	CDS	1137	nqo4	7.1.1.-	COG0649	NADH-quinone oxidoreductase subunit 4
+GBJJFIKL_00231	gene	1299	ndhA			
+GBJJFIKL_00231	CDS	1299	ndhA	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 1, chloroplastic
+GBJJFIKL_00232	gene	498	nuoI			
+GBJJFIKL_00232	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+GBJJFIKL_00233	gene	513				
+GBJJFIKL_00233	CDS	513				hypothetical protein
+GBJJFIKL_00234	gene	306	nuoK			
+GBJJFIKL_00234	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+GBJJFIKL_00235	gene	1557	mrpA			
+GBJJFIKL_00235	CDS	1557	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+GBJJFIKL_00236	gene	2079	ndhB_1			
+GBJJFIKL_00236	CDS	2079	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GBJJFIKL_00237	gene	1485	ndhB_2			
+GBJJFIKL_00237	CDS	1485	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GBJJFIKL_00238	gene	852				
+GBJJFIKL_00238	CDS	852				hypothetical protein
+GBJJFIKL_00239	gene	642				
+GBJJFIKL_00239	CDS	642		1.-.-.-	COG5424	putative oxidoreductase CT_610
+GBJJFIKL_00240	gene	74				
+GBJJFIKL_00240	tRNA	74				tRNA-Met(cat)
+GBJJFIKL_00241	gene	606	pyrE			
+GBJJFIKL_00241	CDS	606	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+GBJJFIKL_00242	gene	1083				
+GBJJFIKL_00242	CDS	1083				hypothetical protein
+GBJJFIKL_00243	gene	1107				
+GBJJFIKL_00243	CDS	1107				hypothetical protein
+GBJJFIKL_00244	gene	498				
+GBJJFIKL_00244	CDS	498				hypothetical protein
+GBJJFIKL_00245	gene	219				
+GBJJFIKL_00245	CDS	219				hypothetical protein
+GBJJFIKL_00246	gene	828				
+GBJJFIKL_00246	CDS	828				hypothetical protein
+GBJJFIKL_00247	gene	1788	btuD			
+GBJJFIKL_00247	CDS	1788	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+GBJJFIKL_00248	gene	113				
+GBJJFIKL_00248	rRNA	113				5S ribosomal RNA
+GBJJFIKL_00249	gene	1473	pepA			
+GBJJFIKL_00249	CDS	1473	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+GBJJFIKL_00250	gene	384				
+GBJJFIKL_00250	CDS	384				hypothetical protein
+GBJJFIKL_00251	gene	1668	dxs			
+GBJJFIKL_00251	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+GBJJFIKL_00252	gene	975	aptB			
+GBJJFIKL_00252	CDS	975	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+GBJJFIKL_00253	gene	672	tal			
+GBJJFIKL_00253	CDS	672	tal	2.2.1.2	COG0176	Transaldolase
+GBJJFIKL_00254	gene	273				
+GBJJFIKL_00254	CDS	273				hypothetical protein
+GBJJFIKL_00255	gene	1017	corA			
+GBJJFIKL_00255	CDS	1017	corA		COG0598	Cobalt/magnesium transport protein CorA
+GBJJFIKL_00256	gene	74				
+GBJJFIKL_00256	tRNA	74				tRNA-His(gtg)
+GBJJFIKL_00257	gene	345				
+GBJJFIKL_00257	CDS	345				hypothetical protein
+GBJJFIKL_00258	gene	759				
+GBJJFIKL_00258	CDS	759				hypothetical protein
+GBJJFIKL_00259	gene	270				
+GBJJFIKL_00259	CDS	270				hypothetical protein
+GBJJFIKL_00260	gene	309	nagAb			
+GBJJFIKL_00260	CDS	309	nagAb			Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin component
+GBJJFIKL_00261	gene	777				
+GBJJFIKL_00261	CDS	777				hypothetical protein
+GBJJFIKL_00262	gene	870	yisK			
+GBJJFIKL_00262	CDS	870	yisK		COG0179	putative protein YisK
+GBJJFIKL_00263	gene	1707	glnS			
+GBJJFIKL_00263	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+GBJJFIKL_00264	gene	192				
+GBJJFIKL_00264	CDS	192				hypothetical protein
+GBJJFIKL_00265	gene	108				
+GBJJFIKL_00265	CDS	108				hypothetical protein
+GBJJFIKL_00266	gene	801				
+GBJJFIKL_00266	CDS	801				hypothetical protein
+GBJJFIKL_00267	gene	174				
+GBJJFIKL_00267	CDS	174				hypothetical protein
+GBJJFIKL_00268	gene	981				
+GBJJFIKL_00268	CDS	981				hypothetical protein
+GBJJFIKL_00269	gene	642	idi			
+GBJJFIKL_00269	CDS	642	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+GBJJFIKL_00270	gene	753	argB			
+GBJJFIKL_00270	CDS	753	argB	2.7.2.8		Acetylglutamate kinase
+GBJJFIKL_00271	gene	948	galK			
+GBJJFIKL_00271	CDS	948	galK	2.7.1.6		Galactokinase
+GBJJFIKL_00272	gene	834				
+GBJJFIKL_00272	CDS	834				hypothetical protein
+GBJJFIKL_00273	gene	624				
+GBJJFIKL_00273	CDS	624				hypothetical protein
+GBJJFIKL_00274	gene	1239	eno			
+GBJJFIKL_00274	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+GBJJFIKL_00275	gene	237				
+GBJJFIKL_00275	CDS	237				hypothetical protein
+GBJJFIKL_00276	gene	87				
+GBJJFIKL_00276	tRNA	87				tRNA-Leu(gag)
+GBJJFIKL_00277	gene	615				
+GBJJFIKL_00277	CDS	615				hypothetical protein
+GBJJFIKL_00278	gene	645	nnr_1			
+GBJJFIKL_00278	CDS	645	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GBJJFIKL_00279	gene	612	pksB			
+GBJJFIKL_00279	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+GBJJFIKL_00280	gene	1074	cobT			
+GBJJFIKL_00280	CDS	1074	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+GBJJFIKL_00281	gene	1761	glmS			
+GBJJFIKL_00281	CDS	1761	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GBJJFIKL_00282	gene	591				
+GBJJFIKL_00282	CDS	591				hypothetical protein
+GBJJFIKL_00283	gene	594				
+GBJJFIKL_00283	CDS	594				hypothetical protein
+GBJJFIKL_00284	gene	153				
+GBJJFIKL_00284	CDS	153				hypothetical protein
+GBJJFIKL_00285	gene	312				
+GBJJFIKL_00285	CDS	312				hypothetical protein
+GBJJFIKL_00286	gene	498				
+GBJJFIKL_00286	CDS	498				hypothetical protein
+GBJJFIKL_00287	gene	1032				
+GBJJFIKL_00287	CDS	1032				hypothetical protein
+GBJJFIKL_00288	gene	1179	zupT			
+GBJJFIKL_00288	CDS	1179	zupT			Zinc transporter ZupT
+GBJJFIKL_00289	gene	1353	fieF			
+GBJJFIKL_00289	CDS	1353	fieF			Ferrous-iron efflux pump FieF
+GBJJFIKL_00290	gene	3189				
+GBJJFIKL_00290	CDS	3189				hypothetical protein
+GBJJFIKL_00291	gene	1176				
+GBJJFIKL_00291	CDS	1176				hypothetical protein
+GBJJFIKL_00292	gene	1281				
+GBJJFIKL_00292	CDS	1281				hypothetical protein
+GBJJFIKL_00293	gene	183				
+GBJJFIKL_00293	CDS	183				hypothetical protein
+GBJJFIKL_00294	gene	324				
+GBJJFIKL_00294	CDS	324				hypothetical protein
+GBJJFIKL_00295	gene	1587				
+GBJJFIKL_00295	CDS	1587				hypothetical protein
+GBJJFIKL_00296	gene	783	larB			
+GBJJFIKL_00296	CDS	783	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+GBJJFIKL_00297	gene	915	mdh_1			
+GBJJFIKL_00297	CDS	915	mdh_1	1.1.1.37		Malate dehydrogenase
+GBJJFIKL_00298	gene	1233	larC			
+GBJJFIKL_00298	CDS	1233	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+GBJJFIKL_00299	gene	807	larE			
+GBJJFIKL_00299	CDS	807	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+GBJJFIKL_00300	gene	1158	iscS			
+GBJJFIKL_00300	CDS	1158	iscS	2.8.1.7		Cysteine desulfurase IscS
+GBJJFIKL_00301	gene	798				
+GBJJFIKL_00301	CDS	798				hypothetical protein
+GBJJFIKL_00302	gene	852				
+GBJJFIKL_00302	CDS	852				hypothetical protein
+GBJJFIKL_00303	gene	843				
+GBJJFIKL_00303	CDS	843				hypothetical protein
+GBJJFIKL_00304	gene	816				
+GBJJFIKL_00304	CDS	816				hypothetical protein
+GBJJFIKL_00305	gene	252				
+GBJJFIKL_00305	CDS	252				hypothetical protein
+GBJJFIKL_00306	gene	3348	rpoB			
+GBJJFIKL_00306	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+GBJJFIKL_00307	gene	3792	rpoC			
+GBJJFIKL_00307	CDS	3792	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+GBJJFIKL_00308	gene	231				
+GBJJFIKL_00308	CDS	231				hypothetical protein
+GBJJFIKL_00309	gene	1173				
+GBJJFIKL_00309	CDS	1173				hypothetical protein
+GBJJFIKL_00310	gene	1467				
+GBJJFIKL_00310	CDS	1467				hypothetical protein
+GBJJFIKL_00311	gene	324				
+GBJJFIKL_00311	CDS	324				hypothetical protein
+GBJJFIKL_00312	gene	465	nusA			
+GBJJFIKL_00312	CDS	465	nusA			Transcription termination/antitermination protein NusA
+GBJJFIKL_00313	gene	438				
+GBJJFIKL_00313	CDS	438				hypothetical protein
+GBJJFIKL_00314	gene	600				
+GBJJFIKL_00314	CDS	600				hypothetical protein
+GBJJFIKL_00315	gene	321				
+GBJJFIKL_00315	CDS	321				hypothetical protein
+GBJJFIKL_00316	gene	705				
+GBJJFIKL_00316	CDS	705				hypothetical protein
+GBJJFIKL_00317	gene	1014				
+GBJJFIKL_00317	CDS	1014				hypothetical protein
+GBJJFIKL_00318	gene	210				
+GBJJFIKL_00318	CDS	210				hypothetical protein
+GBJJFIKL_00319	gene	600	drgA			
+GBJJFIKL_00319	CDS	600	drgA			Protein DrgA
+GBJJFIKL_00320	gene	204				
+GBJJFIKL_00320	CDS	204				hypothetical protein
+GBJJFIKL_00321	gene	414				
+GBJJFIKL_00321	CDS	414				hypothetical protein
+GBJJFIKL_00322	gene	276				
+GBJJFIKL_00322	CDS	276				hypothetical protein
+GBJJFIKL_00323	gene	501				
+GBJJFIKL_00323	CDS	501				hypothetical protein
+GBJJFIKL_00324	gene	291				
+GBJJFIKL_00324	CDS	291				hypothetical protein
+GBJJFIKL_00325	gene	531				
+GBJJFIKL_00325	CDS	531				hypothetical protein
+GBJJFIKL_00326	gene	423	catD			
+GBJJFIKL_00326	CDS	423	catD	1.-.-.-	COG2259	Putative oxidoreductase CatD
+GBJJFIKL_00327	gene	2880	mshC			
+GBJJFIKL_00327	CDS	2880	mshC	6.3.1.13		L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+GBJJFIKL_00328	gene	2691	alaS			
+GBJJFIKL_00328	CDS	2691	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GBJJFIKL_00329	gene	510				
+GBJJFIKL_00329	CDS	510				hypothetical protein
+GBJJFIKL_00330	gene	384				
+GBJJFIKL_00330	CDS	384				hypothetical protein
+GBJJFIKL_00331	gene	297				
+GBJJFIKL_00331	CDS	297				hypothetical protein
+GBJJFIKL_00332	gene	633				
+GBJJFIKL_00332	CDS	633				hypothetical protein
+GBJJFIKL_00333	gene	867				
+GBJJFIKL_00333	CDS	867				hypothetical protein
+GBJJFIKL_00334	gene	663	rplA			
+GBJJFIKL_00334	CDS	663	rplA		COG0081	50S ribosomal protein L1
+GBJJFIKL_00335	gene	501	lrp_1			
+GBJJFIKL_00335	CDS	501	lrp_1		COG1522	Leucine-responsive regulatory protein
+GBJJFIKL_00336	gene	483	rplK			
+GBJJFIKL_00336	CDS	483	rplK		COG0080	50S ribosomal protein L11
+GBJJFIKL_00337	gene	459				
+GBJJFIKL_00337	CDS	459				hypothetical protein
+GBJJFIKL_00338	gene	174				
+GBJJFIKL_00338	CDS	174				hypothetical protein
+GBJJFIKL_00339	gene	777				
+GBJJFIKL_00339	CDS	777				hypothetical protein
+GBJJFIKL_00340	gene	300	ogt			
+GBJJFIKL_00340	CDS	300	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+GBJJFIKL_00341	gene	453				
+GBJJFIKL_00341	CDS	453				hypothetical protein
+GBJJFIKL_00342	gene	408				
+GBJJFIKL_00342	CDS	408				hypothetical protein
+GBJJFIKL_00343	gene	1617	pckA			
+GBJJFIKL_00343	CDS	1617	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+GBJJFIKL_00344	gene	2049				
+GBJJFIKL_00344	CDS	2049				hypothetical protein
+GBJJFIKL_00345	gene	621	sodA_1			
+GBJJFIKL_00345	CDS	621	sodA_1	1.15.1.1		Superoxide dismutase [Mn]
+GBJJFIKL_00346	gene	426	pfdA			
+GBJJFIKL_00346	CDS	426	pfdA			Prefoldin subunit alpha
+GBJJFIKL_00347	gene	1383	ftsY			
+GBJJFIKL_00347	CDS	1383	ftsY			Signal recognition particle receptor FtsY
+GBJJFIKL_00348	gene	912	argF			
+GBJJFIKL_00348	CDS	912	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+GBJJFIKL_00349	gene	483				
+GBJJFIKL_00349	CDS	483				hypothetical protein
+GBJJFIKL_00350	gene	753				
+GBJJFIKL_00350	CDS	753				hypothetical protein
+GBJJFIKL_00351	gene	468				
+GBJJFIKL_00351	CDS	468				hypothetical protein
+GBJJFIKL_00352	gene	426				
+GBJJFIKL_00352	CDS	426				hypothetical protein
+GBJJFIKL_00353	gene	1431	secY			
+GBJJFIKL_00353	CDS	1431	secY			Protein translocase subunit SecY
+GBJJFIKL_00354	gene	579				
+GBJJFIKL_00354	CDS	579				hypothetical protein
+GBJJFIKL_00355	gene	633				
+GBJJFIKL_00355	CDS	633				hypothetical protein
+GBJJFIKL_00356	gene	561	cmk			
+GBJJFIKL_00356	CDS	561	cmk	2.7.4.25		Cytidylate kinase
+GBJJFIKL_00357	gene	999	truB			
+GBJJFIKL_00357	CDS	999	truB	5.4.99.25		tRNA pseudouridine synthase B
+GBJJFIKL_00358	gene	447				
+GBJJFIKL_00358	CDS	447				hypothetical protein
+GBJJFIKL_00359	gene	141				
+GBJJFIKL_00359	CDS	141				hypothetical protein
+GBJJFIKL_00360	gene	540				
+GBJJFIKL_00360	CDS	540				hypothetical protein
+GBJJFIKL_00361	gene	444				
+GBJJFIKL_00361	CDS	444				hypothetical protein
+GBJJFIKL_00362	gene	543				
+GBJJFIKL_00362	CDS	543				hypothetical protein
+GBJJFIKL_00363	gene	1311	lhgD			
+GBJJFIKL_00363	CDS	1311	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+GBJJFIKL_00364	gene	288				
+GBJJFIKL_00364	CDS	288				hypothetical protein
+GBJJFIKL_00365	gene	375				
+GBJJFIKL_00365	CDS	375				hypothetical protein
+GBJJFIKL_00366	gene	993				
+GBJJFIKL_00366	CDS	993		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+GBJJFIKL_00367	gene	141				
+GBJJFIKL_00367	CDS	141				hypothetical protein
+GBJJFIKL_00368	gene	1911	korA			
+GBJJFIKL_00368	CDS	1911	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+GBJJFIKL_00369	gene	963				
+GBJJFIKL_00369	CDS	963				hypothetical protein
+GBJJFIKL_00370	gene	435				
+GBJJFIKL_00370	CDS	435				hypothetical protein
+GBJJFIKL_00371	gene	528				
+GBJJFIKL_00371	CDS	528				hypothetical protein
+GBJJFIKL_00372	gene	330				
+GBJJFIKL_00372	CDS	330				hypothetical protein
+GBJJFIKL_00373	gene	549				
+GBJJFIKL_00373	CDS	549				hypothetical protein
+GBJJFIKL_00374	gene	777	fbiB_1			
+GBJJFIKL_00374	CDS	777	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+GBJJFIKL_00375	gene	1272	dmdA			
+GBJJFIKL_00375	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+GBJJFIKL_00376	gene	486	DmdB			
+GBJJFIKL_00376	CDS	486	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+GBJJFIKL_00377	gene	1416	leuC			
+GBJJFIKL_00377	CDS	1416	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+GBJJFIKL_00378	gene	585	leuD1			
+GBJJFIKL_00378	CDS	585	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+GBJJFIKL_00379	gene	726	cugP_1			
+GBJJFIKL_00379	CDS	726	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GBJJFIKL_00380	gene	450	rpsI			
+GBJJFIKL_00380	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+GBJJFIKL_00381	gene	462				
+GBJJFIKL_00381	CDS	462				hypothetical protein
+GBJJFIKL_00382	gene	348				
+GBJJFIKL_00382	CDS	348				hypothetical protein
+GBJJFIKL_00383	gene	639				
+GBJJFIKL_00383	CDS	639				hypothetical protein
+GBJJFIKL_00384	gene	219				
+GBJJFIKL_00384	CDS	219				hypothetical protein
+GBJJFIKL_00385	gene	183				
+GBJJFIKL_00385	CDS	183				hypothetical protein
+GBJJFIKL_00386	gene	396				
+GBJJFIKL_00386	CDS	396				hypothetical protein
+GBJJFIKL_00387	gene	219				
+GBJJFIKL_00387	CDS	219				hypothetical protein
+GBJJFIKL_00388	gene	285				
+GBJJFIKL_00388	CDS	285				hypothetical protein
+GBJJFIKL_00389	gene	687				
+GBJJFIKL_00389	CDS	687				hypothetical protein
+GBJJFIKL_00390	gene	681				
+GBJJFIKL_00390	CDS	681				hypothetical protein
+GBJJFIKL_00391	gene	735	rph_1			
+GBJJFIKL_00391	CDS	735	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+GBJJFIKL_00392	gene	819	rph_2			
+GBJJFIKL_00392	CDS	819	rph_2	2.7.7.56		Ribonuclease PH
+GBJJFIKL_00393	gene	210				
+GBJJFIKL_00393	CDS	210				hypothetical protein
+GBJJFIKL_00394	gene	243				
+GBJJFIKL_00394	CDS	243				hypothetical protein
+GBJJFIKL_00395	gene	432				
+GBJJFIKL_00395	CDS	432				hypothetical protein
+GBJJFIKL_00396	gene	687				
+GBJJFIKL_00396	CDS	687				hypothetical protein
+GBJJFIKL_00397	gene	759	ttuD_1			
+GBJJFIKL_00397	CDS	759	ttuD_1		COG2897	Sulfur carrier protein TtuD
+GBJJFIKL_00398	gene	507				
+GBJJFIKL_00398	CDS	507				hypothetical protein
+GBJJFIKL_00399	gene	816	nadK_1			
+GBJJFIKL_00399	CDS	816	nadK_1	2.7.1.23		NAD kinase
+GBJJFIKL_00400	gene	846	ttuD_2			
+GBJJFIKL_00400	CDS	846	ttuD_2		COG2897	Sulfur carrier protein TtuD
+GBJJFIKL_00401	gene	312				
+GBJJFIKL_00401	CDS	312				hypothetical protein
+GBJJFIKL_00402	gene	951				
+GBJJFIKL_00402	CDS	951				hypothetical protein
+GBJJFIKL_00403	gene	2043				
+GBJJFIKL_00403	CDS	2043				hypothetical protein
+GBJJFIKL_00404	gene	1530				
+GBJJFIKL_00404	CDS	1530				hypothetical protein
+GBJJFIKL_00405	gene	1314	magA			
+GBJJFIKL_00405	CDS	1314	magA		COG0475	Iron transporter MagA
+GBJJFIKL_00406	gene	432				
+GBJJFIKL_00406	CDS	432				hypothetical protein
+GBJJFIKL_00407	gene	77				
+GBJJFIKL_00407	tRNA	77				tRNA-Gly(gcc)
+GBJJFIKL_00408	gene	249				
+GBJJFIKL_00408	CDS	249				hypothetical protein
+GBJJFIKL_00409	gene	510				
+GBJJFIKL_00409	CDS	510				hypothetical protein
+GBJJFIKL_00410	gene	564				
+GBJJFIKL_00410	CDS	564				hypothetical protein
+GBJJFIKL_00411	gene	654				
+GBJJFIKL_00411	CDS	654				hypothetical protein
+GBJJFIKL_00412	gene	1434	mdtD			
+GBJJFIKL_00412	CDS	1434	mdtD			Putative multidrug resistance protein MdtD
+GBJJFIKL_00413	gene	76				
+GBJJFIKL_00413	tRNA	76				tRNA-Glu(ctc)
+GBJJFIKL_00414	gene	885				
+GBJJFIKL_00414	CDS	885				hypothetical protein
+GBJJFIKL_00415	gene	144				
+GBJJFIKL_00415	CDS	144				hypothetical protein
+GBJJFIKL_00416	gene	165				
+GBJJFIKL_00416	CDS	165				hypothetical protein
+GBJJFIKL_00417	gene	1515				
+GBJJFIKL_00417	CDS	1515				hypothetical protein
+GBJJFIKL_00418	gene	360				
+GBJJFIKL_00418	CDS	360				hypothetical protein
+GBJJFIKL_00419	gene	477				
+GBJJFIKL_00419	CDS	477				hypothetical protein
+GBJJFIKL_00420	gene	645				
+GBJJFIKL_00420	CDS	645				hypothetical protein
+GBJJFIKL_00421	gene	318				
+GBJJFIKL_00421	CDS	318				hypothetical protein
+GBJJFIKL_00422	gene	453				
+GBJJFIKL_00422	CDS	453				hypothetical protein
+GBJJFIKL_00423	gene	996	drrA			
+GBJJFIKL_00423	CDS	996	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+GBJJFIKL_00424	gene	786	drrB			
+GBJJFIKL_00424	CDS	786	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+GBJJFIKL_00425	gene	1248				
+GBJJFIKL_00425	CDS	1248				hypothetical protein
+GBJJFIKL_00426	gene	687				
+GBJJFIKL_00426	CDS	687				hypothetical protein
+GBJJFIKL_00427	gene	1044				
+GBJJFIKL_00427	CDS	1044				hypothetical protein
+GBJJFIKL_00428	gene	972	pstC			
+GBJJFIKL_00428	CDS	972	pstC		COG0573	Phosphate transport system permease protein PstC
+GBJJFIKL_00429	gene	927	pstA			
+GBJJFIKL_00429	CDS	927	pstA		COG0581	Phosphate transport system permease protein PstA
+GBJJFIKL_00430	gene	834	pstB3			
+GBJJFIKL_00430	CDS	834	pstB3	7.3.2.1	COG1117	Phosphate import ATP-binding protein PstB 3
+GBJJFIKL_00431	gene	684				
+GBJJFIKL_00431	CDS	684				hypothetical protein
+GBJJFIKL_00432	gene	630				
+GBJJFIKL_00432	CDS	630				hypothetical protein
+GBJJFIKL_00433	gene	987				
+GBJJFIKL_00433	CDS	987				hypothetical protein
+GBJJFIKL_00434	gene	375				
+GBJJFIKL_00434	CDS	375				hypothetical protein
+GBJJFIKL_00435	gene	759	arsM			
+GBJJFIKL_00435	CDS	759	arsM	2.1.1.137		Arsenite methyltransferase
+GBJJFIKL_00436	gene	402	arsC2			
+GBJJFIKL_00436	CDS	402	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+GBJJFIKL_00437	gene	666	aqpZ			
+GBJJFIKL_00437	CDS	666	aqpZ		COG0580	Aquaporin Z
+GBJJFIKL_00438	gene	1278	hemL			
+GBJJFIKL_00438	CDS	1278	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+GBJJFIKL_00439	gene	936	hemC			
+GBJJFIKL_00439	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+GBJJFIKL_00440	gene	783	sumT			
+GBJJFIKL_00440	CDS	783	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+GBJJFIKL_00441	gene	801				
+GBJJFIKL_00441	CDS	801				hypothetical protein
+GBJJFIKL_00442	gene	2121				
+GBJJFIKL_00442	CDS	2121				hypothetical protein
+GBJJFIKL_00443	gene	1185				
+GBJJFIKL_00443	CDS	1185				hypothetical protein
+GBJJFIKL_00444	gene	1401				
+GBJJFIKL_00444	CDS	1401				hypothetical protein
+GBJJFIKL_00445	gene	1398				
+GBJJFIKL_00445	CDS	1398				hypothetical protein
+GBJJFIKL_00446	gene	318	bphA3			
+GBJJFIKL_00446	CDS	318	bphA3			Biphenyl 2,3-dioxygenase, ferredoxin component
+GBJJFIKL_00447	gene	1245	csd			
+GBJJFIKL_00447	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+GBJJFIKL_00448	gene	444	sufU			
+GBJJFIKL_00448	CDS	444	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+GBJJFIKL_00449	gene	348				
+GBJJFIKL_00449	CDS	348				hypothetical protein
+GBJJFIKL_00450	gene	1212	pgk			
+GBJJFIKL_00450	CDS	1212	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GBJJFIKL_00451	gene	669				
+GBJJFIKL_00451	CDS	669				hypothetical protein
+GBJJFIKL_00452	gene	312				
+GBJJFIKL_00452	CDS	312				hypothetical protein
+GBJJFIKL_00453	gene	999				
+GBJJFIKL_00453	CDS	999				hypothetical protein
+GBJJFIKL_00454	gene	606				
+GBJJFIKL_00454	CDS	606				hypothetical protein
+GBJJFIKL_00455	gene	306				
+GBJJFIKL_00455	CDS	306				hypothetical protein
+GBJJFIKL_00456	gene	429				
+GBJJFIKL_00456	CDS	429				hypothetical protein
+GBJJFIKL_00457	gene	183				
+GBJJFIKL_00457	CDS	183				hypothetical protein
+GBJJFIKL_00458	gene	618				
+GBJJFIKL_00458	CDS	618				hypothetical protein
+GBJJFIKL_00459	gene	624	yedJ			
+GBJJFIKL_00459	CDS	624	yedJ		COG1418	putative protein YedJ
+GBJJFIKL_00460	gene	843				
+GBJJFIKL_00460	CDS	843				hypothetical protein
+GBJJFIKL_00461	gene	1380				
+GBJJFIKL_00461	CDS	1380				hypothetical protein
+GBJJFIKL_00462	gene	141				
+GBJJFIKL_00462	CDS	141				hypothetical protein
+GBJJFIKL_00463	gene	546				
+GBJJFIKL_00463	CDS	546				hypothetical protein
+GBJJFIKL_00464	gene	921				
+GBJJFIKL_00464	CDS	921				hypothetical protein
+GBJJFIKL_00465	gene	312				
+GBJJFIKL_00465	CDS	312				hypothetical protein
+GBJJFIKL_00466	gene	981	hemB			
+GBJJFIKL_00466	CDS	981	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+GBJJFIKL_00467	gene	1266	hemA_2			
+GBJJFIKL_00467	CDS	1266	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+GBJJFIKL_00468	gene	654	cysG			
+GBJJFIKL_00468	CDS	654	cysG		COG0007	Siroheme synthase
+GBJJFIKL_00469	gene	1053				
+GBJJFIKL_00469	CDS	1053				hypothetical protein
+GBJJFIKL_00470	gene	339				
+GBJJFIKL_00470	CDS	339				hypothetical protein
+GBJJFIKL_00471	gene	996	iolS_1			
+GBJJFIKL_00471	CDS	996	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+GBJJFIKL_00472	gene	546				
+GBJJFIKL_00472	CDS	546				hypothetical protein
+GBJJFIKL_00473	gene	678				
+GBJJFIKL_00473	CDS	678			COG3253	putative protein/MSMEI_2713
+GBJJFIKL_00474	gene	225				
+GBJJFIKL_00474	CDS	225				hypothetical protein
+GBJJFIKL_00475	gene	771	sufC			
+GBJJFIKL_00475	CDS	771	sufC		COG0396	Vegetative protein 296
+GBJJFIKL_00476	gene	957				
+GBJJFIKL_00476	CDS	957				hypothetical protein
+GBJJFIKL_00477	gene	246				
+GBJJFIKL_00477	CDS	246				hypothetical protein
+GBJJFIKL_00478	gene	300				
+GBJJFIKL_00478	CDS	300				hypothetical protein
+GBJJFIKL_00479	gene	381				
+GBJJFIKL_00479	CDS	381				hypothetical protein
+GBJJFIKL_00480	gene	579	scpB			
+GBJJFIKL_00480	CDS	579	scpB			Segregation and condensation protein B
+GBJJFIKL_00481	gene	675				
+GBJJFIKL_00481	CDS	675				hypothetical protein
+GBJJFIKL_00482	gene	1053	adh			
+GBJJFIKL_00482	CDS	1053	adh	1.1.1.1		Alcohol dehydrogenase
+GBJJFIKL_00483	gene	753	rcsC_1			
+GBJJFIKL_00483	CDS	753	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+GBJJFIKL_00484	gene	489				
+GBJJFIKL_00484	CDS	489				hypothetical protein
+GBJJFIKL_00485	gene	564				
+GBJJFIKL_00485	CDS	564				hypothetical protein
+GBJJFIKL_00486	gene	336				
+GBJJFIKL_00486	CDS	336				hypothetical protein
+GBJJFIKL_00487	gene	192	cspLA			
+GBJJFIKL_00487	CDS	192	cspLA		COG1278	Cold shock-like protein CspLA
+GBJJFIKL_00488	gene	1215				
+GBJJFIKL_00488	CDS	1215				hypothetical protein
+GBJJFIKL_00489	gene	900				
+GBJJFIKL_00489	CDS	900				hypothetical protein
+GBJJFIKL_00490	gene	255				
+GBJJFIKL_00490	CDS	255				hypothetical protein
+GBJJFIKL_00491	gene	819				
+GBJJFIKL_00491	CDS	819				hypothetical protein
+GBJJFIKL_00492	gene	1785				
+GBJJFIKL_00492	CDS	1785				hypothetical protein
+GBJJFIKL_00493	gene	1206				
+GBJJFIKL_00493	CDS	1206				hypothetical protein
+GBJJFIKL_00494	gene	1161				
+GBJJFIKL_00494	CDS	1161				hypothetical protein
+GBJJFIKL_00495	gene	378				
+GBJJFIKL_00495	CDS	378				hypothetical protein
+GBJJFIKL_00496	gene	255				
+GBJJFIKL_00496	CDS	255				hypothetical protein
+GBJJFIKL_00497	gene	165				
+GBJJFIKL_00497	CDS	165				hypothetical protein
+GBJJFIKL_00498	gene	1002				
+GBJJFIKL_00498	CDS	1002				hypothetical protein
+GBJJFIKL_00499	gene	513				
+GBJJFIKL_00499	CDS	513				hypothetical protein
+GBJJFIKL_00500	gene	612				
+GBJJFIKL_00500	CDS	612				hypothetical protein
+GBJJFIKL_00501	gene	411				
+GBJJFIKL_00501	CDS	411				hypothetical protein
+GBJJFIKL_00502	gene	378				
+GBJJFIKL_00502	CDS	378				hypothetical protein
+GBJJFIKL_00503	gene	303				
+GBJJFIKL_00503	CDS	303				hypothetical protein
+GBJJFIKL_00504	gene	714				
+GBJJFIKL_00504	CDS	714				hypothetical protein
+GBJJFIKL_00505	gene	690				
+GBJJFIKL_00505	CDS	690				hypothetical protein
+GBJJFIKL_00506	gene	1326	ffh			
+GBJJFIKL_00506	CDS	1326	ffh		COG0541	Signal recognition particle protein
+GBJJFIKL_00507	gene	1161				
+GBJJFIKL_00507	CDS	1161				hypothetical protein
+GBJJFIKL_00508	gene	102				
+GBJJFIKL_00508	CDS	102				hypothetical protein
+GBJJFIKL_00509	gene	708				
+GBJJFIKL_00509	CDS	708				hypothetical protein
+GBJJFIKL_00510	gene	357				
+GBJJFIKL_00510	CDS	357				hypothetical protein
+GBJJFIKL_00511	gene	192				
+GBJJFIKL_00511	CDS	192				hypothetical protein
+GBJJFIKL_00512	gene	369				
+GBJJFIKL_00512	CDS	369				hypothetical protein
+GBJJFIKL_00513	gene	549				
+GBJJFIKL_00513	CDS	549				hypothetical protein
+GBJJFIKL_00514	gene	1266	apgM			
+GBJJFIKL_00514	CDS	1266	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GBJJFIKL_00515	gene	1017				
+GBJJFIKL_00515	CDS	1017				hypothetical protein
+GBJJFIKL_00516	gene	441				
+GBJJFIKL_00516	CDS	441				hypothetical protein
+GBJJFIKL_00517	gene	438				
+GBJJFIKL_00517	CDS	438				hypothetical protein
+GBJJFIKL_00518	gene	702	cugP_2			
+GBJJFIKL_00518	CDS	702	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GBJJFIKL_00519	gene	1305	pdxK			
+GBJJFIKL_00519	CDS	1305	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+GBJJFIKL_00520	gene	120				
+GBJJFIKL_00520	CDS	120				hypothetical protein
+GBJJFIKL_00521	gene	1320	bzaF			
+GBJJFIKL_00521	CDS	1320	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+GBJJFIKL_00522	gene	405				
+GBJJFIKL_00522	CDS	405				hypothetical protein
+GBJJFIKL_00523	gene	855				
+GBJJFIKL_00523	CDS	855				hypothetical protein
+GBJJFIKL_00524	gene	1371	dapL			
+GBJJFIKL_00524	CDS	1371	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+GBJJFIKL_00525	gene	1098	aroC			
+GBJJFIKL_00525	CDS	1098	aroC	4.2.3.5		Chorismate synthase
+GBJJFIKL_00526	gene	1269	aroA			
+GBJJFIKL_00526	CDS	1269	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+GBJJFIKL_00527	gene	855	thrB_1			
+GBJJFIKL_00527	CDS	855	thrB_1	2.7.1.39		Homoserine kinase
+GBJJFIKL_00528	gene	822	aroE			
+GBJJFIKL_00528	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+GBJJFIKL_00529	gene	675	aroD			
+GBJJFIKL_00529	CDS	675	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+GBJJFIKL_00530	gene	1062	griH			
+GBJJFIKL_00530	CDS	1062	griH	4.1.99.20	COG1465	3-amino-4-hydroxybenzoic acid synthase
+GBJJFIKL_00531	gene	789	griI			
+GBJJFIKL_00531	CDS	789	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+GBJJFIKL_00532	gene	1119	mqnC			
+GBJJFIKL_00532	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+GBJJFIKL_00533	gene	1443	ubiD_1			
+GBJJFIKL_00533	CDS	1443	ubiD_1	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GBJJFIKL_00534	gene	231				
+GBJJFIKL_00534	CDS	231				hypothetical protein
+GBJJFIKL_00535	gene	375				
+GBJJFIKL_00535	CDS	375				hypothetical protein
+GBJJFIKL_00536	gene	636				
+GBJJFIKL_00536	CDS	636				hypothetical protein
+GBJJFIKL_00537	gene	903				
+GBJJFIKL_00537	CDS	903				hypothetical protein
+GBJJFIKL_00538	gene	465	bcp_2			
+GBJJFIKL_00538	CDS	465	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin
+GBJJFIKL_00539	gene	705	aqpZ2			
+GBJJFIKL_00539	CDS	705	aqpZ2			Aquaporin Z 2
+GBJJFIKL_00540	gene	76				
+GBJJFIKL_00540	tRNA	76				tRNA-Arg(gcg)
+GBJJFIKL_00541	gene	426				
+GBJJFIKL_00541	CDS	426				hypothetical protein
+GBJJFIKL_00542	gene	561	tag			
+GBJJFIKL_00542	CDS	561	tag	3.2.2.20	COG2818	DNA-3-methyladenine glycosylase 1
+GBJJFIKL_00543	gene	309				
+GBJJFIKL_00543	CDS	309				hypothetical protein
+GBJJFIKL_00544	gene	519	ftnA			
+GBJJFIKL_00544	CDS	519	ftnA	1.16.3.2	COG1528	putative bacterial non-heme ferritin
+GBJJFIKL_00545	gene	150				
+GBJJFIKL_00545	CDS	150				hypothetical protein
+GBJJFIKL_00546	gene	300				
+GBJJFIKL_00546	CDS	300				hypothetical protein
+GBJJFIKL_00547	gene	174				
+GBJJFIKL_00547	CDS	174				hypothetical protein
+GBJJFIKL_00548	gene	795	smc_1			
+GBJJFIKL_00548	CDS	795	smc_1			Chromosome partition protein Smc
+GBJJFIKL_00549	gene	198				
+GBJJFIKL_00549	CDS	198				hypothetical protein
+GBJJFIKL_00550	gene	1587	lysS			
+GBJJFIKL_00550	CDS	1587	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GBJJFIKL_00551	gene	1605				
+GBJJFIKL_00551	CDS	1605		2.3.1.-		tRNA uridine(34) acetyltransferase
+GBJJFIKL_00552	gene	1245	gerN			
+GBJJFIKL_00552	CDS	1245	gerN		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+GBJJFIKL_00553	gene	1023	purM			
+GBJJFIKL_00553	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GBJJFIKL_00554	gene	726				
+GBJJFIKL_00554	CDS	726				hypothetical protein
+GBJJFIKL_00555	gene	348				
+GBJJFIKL_00555	CDS	348				hypothetical protein
+GBJJFIKL_00556	gene	1266	fbiC_1			
+GBJJFIKL_00556	CDS	1266	fbiC_1		COG1060	FO synthase
+GBJJFIKL_00557	gene	1170	fbiC_2			
+GBJJFIKL_00557	CDS	1170	fbiC_2		COG1060	FO synthase
+GBJJFIKL_00558	gene	1143				
+GBJJFIKL_00558	CDS	1143				hypothetical protein
+GBJJFIKL_00559	gene	1206	arnC_1			
+GBJJFIKL_00559	CDS	1206	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GBJJFIKL_00560	gene	429				
+GBJJFIKL_00560	CDS	429				hypothetical protein
+GBJJFIKL_00561	gene	198				
+GBJJFIKL_00561	CDS	198				hypothetical protein
+GBJJFIKL_00562	gene	327	metG_1			
+GBJJFIKL_00562	CDS	327	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+GBJJFIKL_00563	gene	561				
+GBJJFIKL_00563	CDS	561				hypothetical protein
+GBJJFIKL_00564	gene	1122				
+GBJJFIKL_00564	CDS	1122				hypothetical protein
+GBJJFIKL_00565	gene	183				
+GBJJFIKL_00565	CDS	183				hypothetical protein
+GBJJFIKL_00566	gene	741				
+GBJJFIKL_00566	CDS	741				putative protein
+GBJJFIKL_00567	gene	897				
+GBJJFIKL_00567	CDS	897		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+GBJJFIKL_00568	gene	1179				
+GBJJFIKL_00568	CDS	1179				hypothetical protein
+GBJJFIKL_00569	gene	159				
+GBJJFIKL_00569	CDS	159				hypothetical protein
+GBJJFIKL_00570	gene	336				
+GBJJFIKL_00570	CDS	336				hypothetical protein
+GBJJFIKL_00571	gene	183				
+GBJJFIKL_00571	CDS	183				hypothetical protein
+GBJJFIKL_00572	gene	618	zitB			
+GBJJFIKL_00572	CDS	618	zitB			Zinc transporter ZitB
+GBJJFIKL_00573	gene	474				
+GBJJFIKL_00573	CDS	474				hypothetical protein
+GBJJFIKL_00574	gene	1731				
+GBJJFIKL_00574	CDS	1731				hypothetical protein
+GBJJFIKL_00575	gene	678				
+GBJJFIKL_00575	CDS	678				hypothetical protein
+GBJJFIKL_00576	gene	1029				
+GBJJFIKL_00576	CDS	1029				hypothetical protein
+GBJJFIKL_00577	gene	285				
+GBJJFIKL_00577	CDS	285				hypothetical protein
+GBJJFIKL_00578	gene	507				
+GBJJFIKL_00578	CDS	507				hypothetical protein
+GBJJFIKL_00579	gene	384				
+GBJJFIKL_00579	CDS	384				hypothetical protein
+GBJJFIKL_00580	gene	1542	vgb_1			
+GBJJFIKL_00580	CDS	1542	vgb_1	4.2.99.-		Virginiamycin B lyase
+GBJJFIKL_00581	gene	531				
+GBJJFIKL_00581	CDS	531				hypothetical protein
+GBJJFIKL_00582	gene	366				
+GBJJFIKL_00582	CDS	366				hypothetical protein
+GBJJFIKL_00583	gene	333				
+GBJJFIKL_00583	CDS	333				hypothetical protein
+GBJJFIKL_00584	gene	1185				
+GBJJFIKL_00584	CDS	1185				hypothetical protein
+GBJJFIKL_00585	gene	705				
+GBJJFIKL_00585	CDS	705				hypothetical protein
+GBJJFIKL_00586	gene	1416				
+GBJJFIKL_00586	CDS	1416				hypothetical protein
+GBJJFIKL_00587	gene	1479				
+GBJJFIKL_00587	CDS	1479				hypothetical protein
+GBJJFIKL_00588	gene	240				
+GBJJFIKL_00588	CDS	240				hypothetical protein
+GBJJFIKL_00589	gene	135				
+GBJJFIKL_00589	CDS	135				hypothetical protein
+GBJJFIKL_00590	gene	1671				
+GBJJFIKL_00590	CDS	1671				hypothetical protein
+GBJJFIKL_00591	gene	77				
+GBJJFIKL_00591	tRNA	77				tRNA-Pro(tgg)
+GBJJFIKL_00592	gene	246				
+GBJJFIKL_00592	CDS	246				hypothetical protein
+GBJJFIKL_00593	gene	3300				
+GBJJFIKL_00593	CDS	3300				hypothetical protein
+GBJJFIKL_00594	gene	477				
+GBJJFIKL_00594	CDS	477				hypothetical protein
+GBJJFIKL_00595	gene	2457				
+GBJJFIKL_00595	CDS	2457				hypothetical protein
+GBJJFIKL_00596	gene	615				
+GBJJFIKL_00596	CDS	615				hypothetical protein
+GBJJFIKL_00597	gene	1740				
+GBJJFIKL_00597	CDS	1740				hypothetical protein
+GBJJFIKL_00598	gene	171				
+GBJJFIKL_00598	CDS	171				hypothetical protein
+GBJJFIKL_00599	gene	351				
+GBJJFIKL_00599	CDS	351				hypothetical protein
+GBJJFIKL_00600	gene	309				
+GBJJFIKL_00600	CDS	309				hypothetical protein
+GBJJFIKL_00601	gene	966				
+GBJJFIKL_00601	CDS	966				hypothetical protein
+GBJJFIKL_00602	gene	909				
+GBJJFIKL_00602	CDS	909				hypothetical protein
+GBJJFIKL_00603	gene	639	fbiD			
+GBJJFIKL_00603	CDS	639	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+GBJJFIKL_00604	gene	960	fbiA			
+GBJJFIKL_00604	CDS	960	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+GBJJFIKL_00605	gene	1341				
+GBJJFIKL_00605	CDS	1341				hypothetical protein
+GBJJFIKL_00606	gene	423	teaD_1			
+GBJJFIKL_00606	CDS	423	teaD_1		COG0589	TRAP-T-associated universal stress protein TeaD
+GBJJFIKL_00607	gene	279				
+GBJJFIKL_00607	misc_RNA	279				RNaseP_arch
+GBJJFIKL_00608	gene	642	COQ3			
+GBJJFIKL_00608	CDS	642	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+GBJJFIKL_00609	gene	204				
+GBJJFIKL_00609	CDS	204				hypothetical protein
+GBJJFIKL_00610	gene	1233				
+GBJJFIKL_00610	CDS	1233				hypothetical protein
+GBJJFIKL_00611	gene	210				
+GBJJFIKL_00611	CDS	210				hypothetical protein
+GBJJFIKL_00612	gene	762	baiA			
+GBJJFIKL_00612	CDS	762	baiA	1.1.1.392		3-alpha-hydroxycholanate dehydrogenase (NADP(+))
+GBJJFIKL_00613	gene	918	garR			
+GBJJFIKL_00613	CDS	918	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+GBJJFIKL_00614	gene	387				
+GBJJFIKL_00614	CDS	387				hypothetical protein
+GBJJFIKL_00615	gene	441				
+GBJJFIKL_00615	CDS	441				hypothetical protein
+GBJJFIKL_00616	gene	663				
+GBJJFIKL_00616	CDS	663				hypothetical protein
+GBJJFIKL_00617	gene	477				
+GBJJFIKL_00617	CDS	477				hypothetical protein
+GBJJFIKL_00618	gene	117				
+GBJJFIKL_00618	CDS	117				hypothetical protein
+GBJJFIKL_00619	gene	924	btuF			
+GBJJFIKL_00619	CDS	924	btuF			Vitamin B12-binding protein
+GBJJFIKL_00620	gene	1158				
+GBJJFIKL_00620	CDS	1158				hypothetical protein
+GBJJFIKL_00621	gene	150				
+GBJJFIKL_00621	CDS	150				hypothetical protein
+GBJJFIKL_00622	gene	945				
+GBJJFIKL_00622	CDS	945				hypothetical protein
+GBJJFIKL_00623	gene	1095	dinB			
+GBJJFIKL_00623	CDS	1095	dinB	2.7.7.7		DNA polymerase IV
+GBJJFIKL_00624	gene	252				
+GBJJFIKL_00624	CDS	252				hypothetical protein
+GBJJFIKL_00625	gene	489				
+GBJJFIKL_00625	CDS	489				hypothetical protein
+GBJJFIKL_00626	gene	276				
+GBJJFIKL_00626	CDS	276				hypothetical protein
+GBJJFIKL_00627	gene	618				
+GBJJFIKL_00627	CDS	618				hypothetical protein
+GBJJFIKL_00628	gene	714				
+GBJJFIKL_00628	CDS	714				hypothetical protein
+GBJJFIKL_00629	gene	942				
+GBJJFIKL_00629	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+GBJJFIKL_00630	gene	498				
+GBJJFIKL_00630	CDS	498				hypothetical protein
+GBJJFIKL_00631	gene	207				
+GBJJFIKL_00631	CDS	207				hypothetical protein
+GBJJFIKL_00632	gene	381				
+GBJJFIKL_00632	CDS	381				hypothetical protein
+GBJJFIKL_00633	gene	933				
+GBJJFIKL_00633	CDS	933				Epimerase family protein
+GBJJFIKL_00634	gene	1095	ino1			
+GBJJFIKL_00634	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+GBJJFIKL_00635	gene	3525	smc_2			
+GBJJFIKL_00635	CDS	3525	smc_2		COG1196	Chromosome partition protein Smc
+GBJJFIKL_00636	gene	966	oppF			
+GBJJFIKL_00636	CDS	966	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+GBJJFIKL_00637	gene	1026	egtD			
+GBJJFIKL_00637	CDS	1026	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+GBJJFIKL_00638	gene	1311	egtB			
+GBJJFIKL_00638	CDS	1311	egtB	1.14.99.50		Hercynine oxygenase
+GBJJFIKL_00639	gene	1443	proS			
+GBJJFIKL_00639	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GBJJFIKL_00640	gene	288				
+GBJJFIKL_00640	CDS	288				hypothetical protein
+GBJJFIKL_00641	gene	141				
+GBJJFIKL_00641	CDS	141				hypothetical protein
+GBJJFIKL_00642	gene	651	serB			
+GBJJFIKL_00642	CDS	651	serB	3.1.3.3		Phosphoserine phosphatase
+GBJJFIKL_00643	gene	726	fbiB_2			
+GBJJFIKL_00643	CDS	726	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+GBJJFIKL_00644	gene	915				
+GBJJFIKL_00644	CDS	915				hypothetical protein
+GBJJFIKL_00645	gene	1227				
+GBJJFIKL_00645	CDS	1227				hypothetical protein
+GBJJFIKL_00646	gene	249	tusA			
+GBJJFIKL_00646	CDS	249	tusA		COG0425	Sulfur carrier protein TusA
+GBJJFIKL_00647	gene	993	cysM			
+GBJJFIKL_00647	CDS	993	cysM	2.5.1.47	COG0031	Cysteine synthase B
+GBJJFIKL_00648	gene	492				
+GBJJFIKL_00648	CDS	492				hypothetical protein
+GBJJFIKL_00649	gene	219				
+GBJJFIKL_00649	CDS	219				hypothetical protein
+GBJJFIKL_00650	gene	993	trxB			
+GBJJFIKL_00650	CDS	993	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+GBJJFIKL_00651	gene	354				
+GBJJFIKL_00651	CDS	354				hypothetical protein
+GBJJFIKL_00652	gene	786				
+GBJJFIKL_00652	CDS	786				hypothetical protein
+GBJJFIKL_00653	gene	819	thi4			
+GBJJFIKL_00653	CDS	819	thi4	2.4.2.59		Thiamine thiazole synthase
+GBJJFIKL_00654	gene	1809	sir			
+GBJJFIKL_00654	CDS	1809	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+GBJJFIKL_00655	gene	813	rhdA_1			
+GBJJFIKL_00655	CDS	813	rhdA_1	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+GBJJFIKL_00656	gene	1119				
+GBJJFIKL_00656	CDS	1119				hypothetical protein
+GBJJFIKL_00657	gene	1608				
+GBJJFIKL_00657	CDS	1608				hypothetical protein
+GBJJFIKL_00658	gene	285				
+GBJJFIKL_00658	CDS	285				hypothetical protein
+GBJJFIKL_00659	gene	849				
+GBJJFIKL_00659	CDS	849				hypothetical protein
+GBJJFIKL_00660	gene	744				
+GBJJFIKL_00660	CDS	744				hypothetical protein
+GBJJFIKL_00661	gene	777				
+GBJJFIKL_00661	CDS	777				hypothetical protein
+GBJJFIKL_00662	gene	186				
+GBJJFIKL_00662	CDS	186				hypothetical protein
+GBJJFIKL_00663	gene	192				
+GBJJFIKL_00663	CDS	192				hypothetical protein
+GBJJFIKL_00664	gene	1110	obg			
+GBJJFIKL_00664	CDS	1110	obg	3.6.5.-		GTPase Obg
+GBJJFIKL_00665	gene	228				
+GBJJFIKL_00665	CDS	228				hypothetical protein
+GBJJFIKL_00666	gene	138				
+GBJJFIKL_00666	CDS	138				hypothetical protein
+GBJJFIKL_00667	gene	156				
+GBJJFIKL_00667	CDS	156				hypothetical protein
+GBJJFIKL_00668	gene	294				
+GBJJFIKL_00668	CDS	294				hypothetical protein
+GBJJFIKL_00669	gene	837				
+GBJJFIKL_00669	CDS	837				hypothetical protein
+GBJJFIKL_00670	gene	426				
+GBJJFIKL_00670	CDS	426				hypothetical protein
+GBJJFIKL_00671	gene	696	ycsE			
+GBJJFIKL_00671	CDS	696	ycsE	3.1.3.104		5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+GBJJFIKL_00672	gene	1887	argS			
+GBJJFIKL_00672	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+GBJJFIKL_00673	gene	138				
+GBJJFIKL_00673	CDS	138				hypothetical protein
+GBJJFIKL_00674	gene	1137				
+GBJJFIKL_00674	CDS	1137				hypothetical protein
+GBJJFIKL_00675	gene	855	trmI			
+GBJJFIKL_00675	CDS	855	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+GBJJFIKL_00676	gene	864	nnr_2			
+GBJJFIKL_00676	CDS	864	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GBJJFIKL_00677	gene	1320	dapE			
+GBJJFIKL_00677	CDS	1320	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+GBJJFIKL_00678	gene	420				
+GBJJFIKL_00678	CDS	420				hypothetical protein
+GBJJFIKL_00679	gene	594	prcB_1			
+GBJJFIKL_00679	CDS	594	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+GBJJFIKL_00680	gene	477				
+GBJJFIKL_00680	CDS	477				hypothetical protein
+GBJJFIKL_00681	gene	1011	hom			
+GBJJFIKL_00681	CDS	1011	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+GBJJFIKL_00682	gene	402	msrB			
+GBJJFIKL_00682	CDS	402	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+GBJJFIKL_00683	gene	1629	thyX			
+GBJJFIKL_00683	CDS	1629	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+GBJJFIKL_00684	gene	285				
+GBJJFIKL_00684	CDS	285				hypothetical protein
+GBJJFIKL_00685	gene	981	alx			
+GBJJFIKL_00685	CDS	981	alx		COG0861	Putative membrane-bound redox modulator Alx
+GBJJFIKL_00686	gene	2829				
+GBJJFIKL_00686	CDS	2829				hypothetical protein
+GBJJFIKL_00687	gene	183				
+GBJJFIKL_00687	CDS	183				hypothetical protein
+GBJJFIKL_00688	gene	309				
+GBJJFIKL_00688	CDS	309				hypothetical protein
+GBJJFIKL_00689	gene	1086				
+GBJJFIKL_00689	CDS	1086				hypothetical protein
+GBJJFIKL_00690	gene	1812	rcsC_2			
+GBJJFIKL_00690	CDS	1812	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+GBJJFIKL_00691	gene	369	saeR			
+GBJJFIKL_00691	CDS	369	saeR		COG0745	Response regulator SaeR
+GBJJFIKL_00692	gene	1386				
+GBJJFIKL_00692	CDS	1386				hypothetical protein
+GBJJFIKL_00693	gene	531				
+GBJJFIKL_00693	CDS	531				hypothetical protein
+GBJJFIKL_00694	gene	273				
+GBJJFIKL_00694	CDS	273				hypothetical protein
+GBJJFIKL_00695	gene	924				
+GBJJFIKL_00695	CDS	924				hypothetical protein
+GBJJFIKL_00696	gene	2046	hyfB			
+GBJJFIKL_00696	CDS	2046	hyfB	1.-.-.-	COG0651	Hydrogenase-4 component B
+GBJJFIKL_00697	gene	948	hycD			
+GBJJFIKL_00697	CDS	948	hycD		COG0650	Formate hydrogenlyase subunit 4
+GBJJFIKL_00698	gene	678	hyfE			
+GBJJFIKL_00698	CDS	678	hyfE	1.-.-.-	COG4237	Hydrogenase-4 component E
+GBJJFIKL_00699	gene	1518	ndhB_3			
+GBJJFIKL_00699	CDS	1518	ndhB_3	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+GBJJFIKL_00700	gene	1677	hyfG			
+GBJJFIKL_00700	CDS	1677	hyfG	1.-.-.-	COG3261	Hydrogenase-4 component G
+GBJJFIKL_00701	gene	816	ndhK_2			
+GBJJFIKL_00701	CDS	816	ndhK_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+GBJJFIKL_00702	gene	933				
+GBJJFIKL_00702	CDS	933				hypothetical protein
+GBJJFIKL_00703	gene	1917	acsA_1			
+GBJJFIKL_00703	CDS	1917	acsA_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GBJJFIKL_00704	gene	531				
+GBJJFIKL_00704	CDS	531				hypothetical protein
+GBJJFIKL_00705	gene	195				
+GBJJFIKL_00705	CDS	195				hypothetical protein
+GBJJFIKL_00706	gene	1026				
+GBJJFIKL_00706	CDS	1026				hypothetical protein
+GBJJFIKL_00707	gene	258				
+GBJJFIKL_00707	CDS	258				hypothetical protein
+GBJJFIKL_00708	gene	84				
+GBJJFIKL_00708	tRNA	84				tRNA-Ser(cga)
+GBJJFIKL_00709	gene	603				
+GBJJFIKL_00709	CDS	603				hypothetical protein
+GBJJFIKL_00710	gene	300				
+GBJJFIKL_00710	CDS	300				hypothetical protein
+GBJJFIKL_00711	gene	759				
+GBJJFIKL_00711	CDS	759				hypothetical protein
+GBJJFIKL_00712	gene	144				
+GBJJFIKL_00712	CDS	144				hypothetical protein
+GBJJFIKL_00713	gene	147				
+GBJJFIKL_00713	CDS	147				hypothetical protein
+GBJJFIKL_00714	gene	114				
+GBJJFIKL_00714	CDS	114				hypothetical protein
+GBJJFIKL_00715	gene	189				
+GBJJFIKL_00715	CDS	189				hypothetical protein
+GBJJFIKL_00716	gene	528				
+GBJJFIKL_00716	CDS	528				hypothetical protein
+GBJJFIKL_00717	gene	273				
+GBJJFIKL_00717	CDS	273				hypothetical protein
+GBJJFIKL_00718	gene	450				
+GBJJFIKL_00718	CDS	450				hypothetical protein
+GBJJFIKL_00719	gene	816				
+GBJJFIKL_00719	CDS	816				hypothetical protein
+GBJJFIKL_00720	gene	414				
+GBJJFIKL_00720	CDS	414				hypothetical protein
+GBJJFIKL_00721	gene	441				
+GBJJFIKL_00721	CDS	441				hypothetical protein
+GBJJFIKL_00722	gene	1398	gloB			
+GBJJFIKL_00722	CDS	1398	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+GBJJFIKL_00723	gene	789				
+GBJJFIKL_00723	CDS	789				hypothetical protein
+GBJJFIKL_00724	gene	867				
+GBJJFIKL_00724	CDS	867				hypothetical protein
+GBJJFIKL_00725	gene	810				
+GBJJFIKL_00725	CDS	810				hypothetical protein
+GBJJFIKL_00726	gene	186				
+GBJJFIKL_00726	CDS	186				hypothetical protein
+GBJJFIKL_00727	gene	417				
+GBJJFIKL_00727	CDS	417				hypothetical protein
+GBJJFIKL_00728	gene	198				
+GBJJFIKL_00728	CDS	198				hypothetical protein
+GBJJFIKL_00729	gene	1074	ywlC			
+GBJJFIKL_00729	CDS	1074	ywlC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+GBJJFIKL_00730	gene	93				
+GBJJFIKL_00730	CDS	93				hypothetical protein
+GBJJFIKL_00731	gene	156				
+GBJJFIKL_00731	CDS	156				hypothetical protein
+GBJJFIKL_00732	gene	1026				
+GBJJFIKL_00732	CDS	1026				hypothetical protein
+GBJJFIKL_00733	gene	1590				
+GBJJFIKL_00733	CDS	1590				hypothetical protein
+GBJJFIKL_00734	gene	156				
+GBJJFIKL_00734	CDS	156				hypothetical protein
+GBJJFIKL_00735	gene	357	mscL			
+GBJJFIKL_00735	CDS	357	mscL		COG1970	Large-conductance mechanosensitive channel
+GBJJFIKL_00736	gene	228				
+GBJJFIKL_00736	CDS	228				hypothetical protein
+GBJJFIKL_00737	gene	177				
+GBJJFIKL_00737	CDS	177				hypothetical protein
+GBJJFIKL_00738	gene	375				
+GBJJFIKL_00738	CDS	375				hypothetical protein
+GBJJFIKL_00739	gene	330				
+GBJJFIKL_00739	CDS	330				hypothetical protein
+GBJJFIKL_00740	gene	462				
+GBJJFIKL_00740	CDS	462				hypothetical protein
+GBJJFIKL_00741	gene	1272				
+GBJJFIKL_00741	CDS	1272				hypothetical protein
+GBJJFIKL_00742	gene	186				
+GBJJFIKL_00742	CDS	186				hypothetical protein
+GBJJFIKL_00743	gene	399				
+GBJJFIKL_00743	CDS	399				hypothetical protein
+GBJJFIKL_00744	gene	249				
+GBJJFIKL_00744	CDS	249				hypothetical protein
+GBJJFIKL_00745	gene	318				
+GBJJFIKL_00745	CDS	318				hypothetical protein
+GBJJFIKL_00746	gene	1368				
+GBJJFIKL_00746	CDS	1368				hypothetical protein
+GBJJFIKL_00747	gene	1053				
+GBJJFIKL_00747	CDS	1053				hypothetical protein
+GBJJFIKL_00748	gene	303				
+GBJJFIKL_00748	CDS	303				hypothetical protein
+GBJJFIKL_00749	gene	240				
+GBJJFIKL_00749	CDS	240				hypothetical protein
+GBJJFIKL_00750	gene	1086				
+GBJJFIKL_00750	CDS	1086				hypothetical protein
+GBJJFIKL_00751	gene	1461				
+GBJJFIKL_00751	CDS	1461				hypothetical protein
+GBJJFIKL_00752	gene	447				
+GBJJFIKL_00752	CDS	447				hypothetical protein
+GBJJFIKL_00753	gene	693				
+GBJJFIKL_00753	CDS	693				hypothetical protein
+GBJJFIKL_00754	gene	957				
+GBJJFIKL_00754	CDS	957				hypothetical protein
+GBJJFIKL_00755	gene	660				
+GBJJFIKL_00755	CDS	660				hypothetical protein
+GBJJFIKL_00756	gene	1713				
+GBJJFIKL_00756	CDS	1713				hypothetical protein
+GBJJFIKL_00757	gene	612				
+GBJJFIKL_00757	CDS	612				hypothetical protein
+GBJJFIKL_00758	gene	564				
+GBJJFIKL_00758	CDS	564				hypothetical protein
+GBJJFIKL_00759	gene	624	sodA_2			
+GBJJFIKL_00759	CDS	624	sodA_2	1.15.1.1		Superoxide dismutase [Mn]
+GBJJFIKL_00760	gene	369				
+GBJJFIKL_00760	CDS	369				hypothetical protein
+GBJJFIKL_00761	gene	270				
+GBJJFIKL_00761	CDS	270				hypothetical protein
+GBJJFIKL_00762	gene	393				
+GBJJFIKL_00762	CDS	393				hypothetical protein
+GBJJFIKL_00763	gene	279				
+GBJJFIKL_00763	CDS	279				hypothetical protein
+GBJJFIKL_00764	gene	450				
+GBJJFIKL_00764	CDS	450				hypothetical protein
+GBJJFIKL_00765	gene	1323				
+GBJJFIKL_00765	CDS	1323				hypothetical protein
+GBJJFIKL_00766	gene	405				
+GBJJFIKL_00766	CDS	405				hypothetical protein
+GBJJFIKL_00767	gene	570	dnaJ_2			
+GBJJFIKL_00767	CDS	570	dnaJ_2			Chaperone protein DnaJ
+GBJJFIKL_00768	gene	444	lrpC			
+GBJJFIKL_00768	CDS	444	lrpC		COG1522	HTH-type transcriptional regulator LrpC
+GBJJFIKL_00769	gene	225				
+GBJJFIKL_00769	CDS	225				hypothetical protein
+GBJJFIKL_00770	gene	918				
+GBJJFIKL_00770	CDS	918				hypothetical protein
+GBJJFIKL_00771	gene	123				
+GBJJFIKL_00771	CDS	123				hypothetical protein
+GBJJFIKL_00772	gene	183				
+GBJJFIKL_00772	CDS	183				hypothetical protein
+GBJJFIKL_00773	gene	498				
+GBJJFIKL_00773	CDS	498				hypothetical protein
+GBJJFIKL_00774	gene	174				
+GBJJFIKL_00774	CDS	174				hypothetical protein
+GBJJFIKL_00775	gene	1098	mqnE			
+GBJJFIKL_00775	CDS	1098	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+GBJJFIKL_00776	gene	306				
+GBJJFIKL_00776	CDS	306				hypothetical protein
+GBJJFIKL_00777	gene	279				
+GBJJFIKL_00777	CDS	279				hypothetical protein
+GBJJFIKL_00778	gene	1815	IMPDH_1			
+GBJJFIKL_00778	CDS	1815	IMPDH_1	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GBJJFIKL_00779	gene	144				
+GBJJFIKL_00779	CDS	144				hypothetical protein
+GBJJFIKL_00780	gene	105				
+GBJJFIKL_00780	CDS	105				hypothetical protein
+GBJJFIKL_00781	gene	276				
+GBJJFIKL_00781	CDS	276				hypothetical protein
+GBJJFIKL_00782	gene	321				
+GBJJFIKL_00782	CDS	321				hypothetical protein
+GBJJFIKL_00783	gene	243				
+GBJJFIKL_00783	CDS	243				hypothetical protein
+GBJJFIKL_00784	gene	1356	hisC_1			
+GBJJFIKL_00784	CDS	1356	hisC_1	2.6.1.9		Histidinol-phosphate aminotransferase
+GBJJFIKL_00785	gene	291				
+GBJJFIKL_00785	CDS	291				hypothetical protein
+GBJJFIKL_00786	gene	828	mqnD			
+GBJJFIKL_00786	CDS	828	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+GBJJFIKL_00787	gene	909				
+GBJJFIKL_00787	CDS	909				hypothetical protein
+GBJJFIKL_00788	gene	2193	fusA			
+GBJJFIKL_00788	CDS	2193	fusA		COG0480	Elongation factor G
+GBJJFIKL_00789	gene	822				
+GBJJFIKL_00789	CDS	822				hypothetical protein
+GBJJFIKL_00790	gene	279				
+GBJJFIKL_00790	CDS	279				hypothetical protein
+GBJJFIKL_00791	gene	108				
+GBJJFIKL_00791	CDS	108				hypothetical protein
+GBJJFIKL_00792	gene	192				
+GBJJFIKL_00792	CDS	192				hypothetical protein
+GBJJFIKL_00793	gene	204				
+GBJJFIKL_00793	CDS	204				hypothetical protein
+GBJJFIKL_00794	gene	210				
+GBJJFIKL_00794	CDS	210				hypothetical protein
+GBJJFIKL_00795	gene	231				
+GBJJFIKL_00795	CDS	231				hypothetical protein
+GBJJFIKL_00796	gene	384				
+GBJJFIKL_00796	CDS	384				hypothetical protein
+GBJJFIKL_00797	gene	585				
+GBJJFIKL_00797	CDS	585				hypothetical protein
+GBJJFIKL_00798	gene	243				
+GBJJFIKL_00798	CDS	243				hypothetical protein
+GBJJFIKL_00799	gene	234				
+GBJJFIKL_00799	CDS	234				hypothetical protein
+GBJJFIKL_00800	gene	426				
+GBJJFIKL_00800	CDS	426				hypothetical protein
+GBJJFIKL_00801	gene	192				
+GBJJFIKL_00801	CDS	192				hypothetical protein
+GBJJFIKL_00802	gene	258				
+GBJJFIKL_00802	CDS	258				hypothetical protein
+GBJJFIKL_00803	gene	804				
+GBJJFIKL_00803	CDS	804				hypothetical protein
+GBJJFIKL_00804	gene	1431				
+GBJJFIKL_00804	CDS	1431				hypothetical protein
+GBJJFIKL_00805	gene	1230				
+GBJJFIKL_00805	CDS	1230				hypothetical protein
+GBJJFIKL_00806	gene	378				
+GBJJFIKL_00806	CDS	378				hypothetical protein
+GBJJFIKL_00807	gene	285				
+GBJJFIKL_00807	CDS	285				hypothetical protein
+GBJJFIKL_00808	gene	561				
+GBJJFIKL_00808	CDS	561				hypothetical protein
+GBJJFIKL_00809	gene	318				
+GBJJFIKL_00809	CDS	318				hypothetical protein
+GBJJFIKL_00810	gene	153				
+GBJJFIKL_00810	CDS	153				hypothetical protein
+GBJJFIKL_00811	gene	255				
+GBJJFIKL_00811	CDS	255				hypothetical protein
+GBJJFIKL_00812	gene	822				
+GBJJFIKL_00812	CDS	822				hypothetical protein
+GBJJFIKL_00813	gene	426				
+GBJJFIKL_00813	CDS	426				hypothetical protein
+GBJJFIKL_00814	gene	207				
+GBJJFIKL_00814	CDS	207				hypothetical protein
+GBJJFIKL_00815	gene	1071				
+GBJJFIKL_00815	CDS	1071				hypothetical protein
+GBJJFIKL_00816	gene	213				
+GBJJFIKL_00816	CDS	213				hypothetical protein
+GBJJFIKL_00817	gene	183				
+GBJJFIKL_00817	CDS	183				hypothetical protein
+GBJJFIKL_00818	gene	369				
+GBJJFIKL_00818	CDS	369				hypothetical protein
+GBJJFIKL_00819	gene	564	relA			
+GBJJFIKL_00819	CDS	564	relA	2.7.6.5		GTP pyrophosphokinase
+GBJJFIKL_00820	gene	669				
+GBJJFIKL_00820	CDS	669				hypothetical protein
+GBJJFIKL_00821	gene	237				
+GBJJFIKL_00821	CDS	237				hypothetical protein
+GBJJFIKL_00822	gene	264				
+GBJJFIKL_00822	CDS	264				hypothetical protein
+GBJJFIKL_00823	gene	1092				
+GBJJFIKL_00823	CDS	1092				hypothetical protein
+GBJJFIKL_00824	gene	285				
+GBJJFIKL_00824	CDS	285				hypothetical protein
+GBJJFIKL_00825	gene	1440				
+GBJJFIKL_00825	CDS	1440				hypothetical protein
+GBJJFIKL_00826	gene	138				
+GBJJFIKL_00826	CDS	138				hypothetical protein
+GBJJFIKL_00827	gene	564	ecdB			
+GBJJFIKL_00827	CDS	564	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase
+GBJJFIKL_00828	gene	423				
+GBJJFIKL_00828	CDS	423				hypothetical protein
+GBJJFIKL_00829	gene	186	tatA_1			
+GBJJFIKL_00829	CDS	186	tatA_1			Sec-independent protein translocase protein TatA
+GBJJFIKL_00830	gene	801	tatC			
+GBJJFIKL_00830	CDS	801	tatC		COG0805	Sec-independent protein translocase protein TatC
+GBJJFIKL_00831	gene	465				
+GBJJFIKL_00831	CDS	465				hypothetical protein
+GBJJFIKL_00832	gene	792				
+GBJJFIKL_00832	CDS	792				hypothetical protein
+GBJJFIKL_00833	gene	786				
+GBJJFIKL_00833	CDS	786			COG2968	26 kDa periplasmic immunogenic protein
+GBJJFIKL_00834	gene	159				
+GBJJFIKL_00834	CDS	159				hypothetical protein
+GBJJFIKL_00835	gene	204				
+GBJJFIKL_00835	CDS	204				hypothetical protein
+GBJJFIKL_00836	gene	267	purS			
+GBJJFIKL_00836	CDS	267	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+GBJJFIKL_00837	gene	681	purQ			
+GBJJFIKL_00837	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+GBJJFIKL_00838	gene	2166	purL			
+GBJJFIKL_00838	CDS	2166	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+GBJJFIKL_00839	gene	1434	purF			
+GBJJFIKL_00839	CDS	1434	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+GBJJFIKL_00840	gene	246				
+GBJJFIKL_00840	CDS	246				hypothetical protein
+GBJJFIKL_00841	gene	279				
+GBJJFIKL_00841	CDS	279				hypothetical protein
+GBJJFIKL_00842	gene	387				
+GBJJFIKL_00842	CDS	387				hypothetical protein
+GBJJFIKL_00843	gene	825	purC			
+GBJJFIKL_00843	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GBJJFIKL_00844	gene	519				
+GBJJFIKL_00844	CDS	519				hypothetical protein
+GBJJFIKL_00845	gene	414				
+GBJJFIKL_00845	CDS	414				hypothetical protein
+GBJJFIKL_00846	gene	387				
+GBJJFIKL_00846	CDS	387				hypothetical protein
+GBJJFIKL_00847	gene	486				
+GBJJFIKL_00847	CDS	486				hypothetical protein
+GBJJFIKL_00848	gene	492				
+GBJJFIKL_00848	CDS	492				hypothetical protein
+GBJJFIKL_00849	gene	225				
+GBJJFIKL_00849	CDS	225				hypothetical protein
+GBJJFIKL_00850	gene	240				
+GBJJFIKL_00850	CDS	240				hypothetical protein
+GBJJFIKL_00851	gene	75				
+GBJJFIKL_00851	tRNA	75				tRNA-Asn(gtt)
+GBJJFIKL_00852	gene	288				
+GBJJFIKL_00852	CDS	288				hypothetical protein
+GBJJFIKL_00853	gene	558				
+GBJJFIKL_00853	CDS	558				hypothetical protein
+GBJJFIKL_00854	gene	393				
+GBJJFIKL_00854	CDS	393				hypothetical protein
+GBJJFIKL_00855	gene	180				
+GBJJFIKL_00855	CDS	180				hypothetical protein
+GBJJFIKL_00856	gene	522				
+GBJJFIKL_00856	CDS	522				hypothetical protein
+GBJJFIKL_00857	gene	717				
+GBJJFIKL_00857	CDS	717				hypothetical protein
+GBJJFIKL_00858	gene	447				
+GBJJFIKL_00858	CDS	447				hypothetical protein
+GBJJFIKL_00859	gene	423	rplN			
+GBJJFIKL_00859	CDS	423	rplN		COG0093	50S ribosomal protein L14
+GBJJFIKL_00860	gene	324				
+GBJJFIKL_00860	CDS	324				hypothetical protein
+GBJJFIKL_00861	gene	267				
+GBJJFIKL_00861	CDS	267				hypothetical protein
+GBJJFIKL_00862	gene	204				
+GBJJFIKL_00862	CDS	204				hypothetical protein
+GBJJFIKL_00863	gene	756				
+GBJJFIKL_00863	CDS	756				hypothetical protein
+GBJJFIKL_00864	gene	459				
+GBJJFIKL_00864	CDS	459				hypothetical protein
+GBJJFIKL_00865	gene	396				
+GBJJFIKL_00865	CDS	396				hypothetical protein
+GBJJFIKL_00866	gene	267				
+GBJJFIKL_00866	CDS	267				hypothetical protein
+GBJJFIKL_00867	gene	813				
+GBJJFIKL_00867	CDS	813				hypothetical protein
+GBJJFIKL_00868	gene	993				
+GBJJFIKL_00868	CDS	993				hypothetical protein
+GBJJFIKL_00869	gene	111				
+GBJJFIKL_00869	CDS	111				hypothetical protein
+GBJJFIKL_00870	gene	813				
+GBJJFIKL_00870	CDS	813				hypothetical protein
+GBJJFIKL_00871	gene	738	prcA_1			
+GBJJFIKL_00871	CDS	738	prcA_1			Proteasome subunit alpha
+GBJJFIKL_00872	gene	417				
+GBJJFIKL_00872	CDS	417				hypothetical protein
+GBJJFIKL_00873	gene	123				
+GBJJFIKL_00873	CDS	123				hypothetical protein
+GBJJFIKL_00874	gene	342				
+GBJJFIKL_00874	CDS	342				hypothetical protein
+GBJJFIKL_00875	gene	657				
+GBJJFIKL_00875	CDS	657				hypothetical protein
+GBJJFIKL_00876	gene	1110	dipZ			
+GBJJFIKL_00876	CDS	1110	dipZ		COG0785	Protein DipZ
+GBJJFIKL_00877	gene	735				
+GBJJFIKL_00877	CDS	735				hypothetical protein
+GBJJFIKL_00878	gene	105				
+GBJJFIKL_00878	CDS	105				hypothetical protein
+GBJJFIKL_00879	gene	363	cheY_1			
+GBJJFIKL_00879	CDS	363	cheY_1		COG0784	Chemotaxis protein CheY
+GBJJFIKL_00880	gene	1713	sasA_2			
+GBJJFIKL_00880	CDS	1713	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+GBJJFIKL_00881	gene	1149	bioF			
+GBJJFIKL_00881	CDS	1149	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+GBJJFIKL_00882	gene	231				
+GBJJFIKL_00882	CDS	231				hypothetical protein
+GBJJFIKL_00883	gene	171				
+GBJJFIKL_00883	CDS	171				hypothetical protein
+GBJJFIKL_00884	gene	240				
+GBJJFIKL_00884	CDS	240				hypothetical protein
+GBJJFIKL_00885	gene	849				
+GBJJFIKL_00885	CDS	849				hypothetical protein
+GBJJFIKL_00886	gene	981	bioB			
+GBJJFIKL_00886	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+GBJJFIKL_00887	gene	1323	bioK			
+GBJJFIKL_00887	CDS	1323	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+GBJJFIKL_00888	gene	102				
+GBJJFIKL_00888	CDS	102				hypothetical protein
+GBJJFIKL_00889	gene	1539	sasA_3			
+GBJJFIKL_00889	CDS	1539	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+GBJJFIKL_00890	gene	384	cheY_2			
+GBJJFIKL_00890	CDS	384	cheY_2		COG0784	Chemotaxis protein CheY
+GBJJFIKL_00891	gene	432	teaD_2			
+GBJJFIKL_00891	CDS	432	teaD_2		COG0589	TRAP-T-associated universal stress protein TeaD
+GBJJFIKL_00892	gene	3048				
+GBJJFIKL_00892	CDS	3048				hypothetical protein
+GBJJFIKL_00893	gene	918				
+GBJJFIKL_00893	CDS	918				hypothetical protein
+GBJJFIKL_00894	gene	561				
+GBJJFIKL_00894	CDS	561				hypothetical protein
+GBJJFIKL_00895	gene	702	bioD1			
+GBJJFIKL_00895	CDS	702	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+GBJJFIKL_00896	gene	606				
+GBJJFIKL_00896	CDS	606				hypothetical protein
+GBJJFIKL_00897	gene	1395	mvaS			
+GBJJFIKL_00897	CDS	1395	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+GBJJFIKL_00898	gene	705				
+GBJJFIKL_00898	CDS	705				hypothetical protein
+GBJJFIKL_00899	gene	957	rssB_1			
+GBJJFIKL_00899	CDS	957	rssB_1			Regulator of RpoS
+GBJJFIKL_00900	gene	2517				
+GBJJFIKL_00900	CDS	2517				hypothetical protein
+GBJJFIKL_00901	gene	1848	arnC_2			
+GBJJFIKL_00901	CDS	1848	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GBJJFIKL_00902	gene	747				
+GBJJFIKL_00902	CDS	747				hypothetical protein
+GBJJFIKL_00903	gene	147				
+GBJJFIKL_00903	CDS	147				hypothetical protein
+GBJJFIKL_00904	gene	1053				
+GBJJFIKL_00904	CDS	1053				hypothetical protein
+GBJJFIKL_00905	gene	1254				
+GBJJFIKL_00905	CDS	1254				hypothetical protein
+GBJJFIKL_00906	gene	1338				
+GBJJFIKL_00906	CDS	1338				hypothetical protein
+GBJJFIKL_00907	gene	375				
+GBJJFIKL_00907	CDS	375				hypothetical protein
+GBJJFIKL_00908	gene	324				
+GBJJFIKL_00908	CDS	324				hypothetical protein
+GBJJFIKL_00909	gene	462				
+GBJJFIKL_00909	CDS	462				hypothetical protein
+GBJJFIKL_00910	gene	555				
+GBJJFIKL_00910	CDS	555				hypothetical protein
+GBJJFIKL_00911	gene	555				
+GBJJFIKL_00911	CDS	555				hypothetical protein
+GBJJFIKL_00912	gene	825				
+GBJJFIKL_00912	CDS	825				hypothetical protein
+GBJJFIKL_00913	gene	318				
+GBJJFIKL_00913	CDS	318				hypothetical protein
+GBJJFIKL_00914	gene	1110	fadA_1			
+GBJJFIKL_00914	CDS	1110	fadA_1	2.3.1.16		3-ketoacyl-CoA thiolase
+GBJJFIKL_00915	gene	969				
+GBJJFIKL_00915	CDS	969		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+GBJJFIKL_00916	gene	150				
+GBJJFIKL_00916	CDS	150				hypothetical protein
+GBJJFIKL_00917	gene	672	cugP_3			
+GBJJFIKL_00917	CDS	672	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GBJJFIKL_00918	gene	528	dedA			
+GBJJFIKL_00918	CDS	528	dedA		COG0586	Protein DedA
+GBJJFIKL_00919	gene	126				
+GBJJFIKL_00919	CDS	126				hypothetical protein
+GBJJFIKL_00920	gene	372				
+GBJJFIKL_00920	CDS	372				hypothetical protein
+GBJJFIKL_00921	gene	1143	purK			
+GBJJFIKL_00921	CDS	1143	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+GBJJFIKL_00922	gene	576	purE			
+GBJJFIKL_00922	CDS	576	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+GBJJFIKL_00923	gene	1251	tdcB			
+GBJJFIKL_00923	CDS	1251	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+GBJJFIKL_00924	gene	840				
+GBJJFIKL_00924	CDS	840				hypothetical protein
+GBJJFIKL_00925	gene	822				
+GBJJFIKL_00925	CDS	822				hypothetical protein
+GBJJFIKL_00926	gene	387				
+GBJJFIKL_00926	CDS	387				hypothetical protein
+GBJJFIKL_00927	gene	387				
+GBJJFIKL_00927	CDS	387				hypothetical protein
+GBJJFIKL_00928	gene	414				
+GBJJFIKL_00928	CDS	414				hypothetical protein
+GBJJFIKL_00929	gene	219				
+GBJJFIKL_00929	CDS	219				hypothetical protein
+GBJJFIKL_00930	gene	240				
+GBJJFIKL_00930	CDS	240				hypothetical protein
+GBJJFIKL_00931	gene	258				
+GBJJFIKL_00931	CDS	258				hypothetical protein
+GBJJFIKL_00932	gene	1323	kaiC_1			
+GBJJFIKL_00932	CDS	1323	kaiC_1	2.7.11.1		Circadian clock protein kinase KaiC
+GBJJFIKL_00933	gene	615				
+GBJJFIKL_00933	CDS	615				hypothetical protein
+GBJJFIKL_00934	gene	603	cheB_2			
+GBJJFIKL_00934	CDS	603	cheB_2	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+GBJJFIKL_00935	gene	144				
+GBJJFIKL_00935	CDS	144				hypothetical protein
+GBJJFIKL_00936	gene	76				
+GBJJFIKL_00936	tRNA	76				tRNA-Phe(gaa)
+GBJJFIKL_00937	gene	120				
+GBJJFIKL_00937	CDS	120				hypothetical protein
+GBJJFIKL_00938	gene	537	yvqK			
+GBJJFIKL_00938	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+GBJJFIKL_00939	gene	552				
+GBJJFIKL_00939	CDS	552				hypothetical protein
+GBJJFIKL_00940	gene	228				
+GBJJFIKL_00940	CDS	228				hypothetical protein
+GBJJFIKL_00941	gene	282				
+GBJJFIKL_00941	CDS	282				hypothetical protein
+GBJJFIKL_00942	gene	348				
+GBJJFIKL_00942	CDS	348				hypothetical protein
+GBJJFIKL_00943	gene	1230				
+GBJJFIKL_00943	CDS	1230				hypothetical protein
+GBJJFIKL_00944	gene	738	kaiC_2			
+GBJJFIKL_00944	CDS	738	kaiC_2	2.7.11.1	COG0467	Circadian clock protein kinase KaiC
+GBJJFIKL_00945	gene	849				
+GBJJFIKL_00945	CDS	849				hypothetical protein
+GBJJFIKL_00946	gene	618				
+GBJJFIKL_00946	CDS	618				hypothetical protein
+GBJJFIKL_00947	gene	540				
+GBJJFIKL_00947	CDS	540				hypothetical protein
+GBJJFIKL_00948	gene	2631				
+GBJJFIKL_00948	CDS	2631				hypothetical protein
+GBJJFIKL_00949	gene	537				
+GBJJFIKL_00949	CDS	537				hypothetical protein
+GBJJFIKL_00950	gene	456				
+GBJJFIKL_00950	CDS	456				hypothetical protein
+GBJJFIKL_00951	gene	1023				
+GBJJFIKL_00951	CDS	1023				hypothetical protein
+GBJJFIKL_00952	gene	1566				
+GBJJFIKL_00952	CDS	1566				hypothetical protein
+GBJJFIKL_00953	gene	645				
+GBJJFIKL_00953	CDS	645				hypothetical protein
+GBJJFIKL_00954	gene	645				
+GBJJFIKL_00954	CDS	645				hypothetical protein
+GBJJFIKL_00955	gene	1536				
+GBJJFIKL_00955	CDS	1536				hypothetical protein
+GBJJFIKL_00956	gene	1452				
+GBJJFIKL_00956	CDS	1452				hypothetical protein
+GBJJFIKL_00957	gene	2550				
+GBJJFIKL_00957	CDS	2550				hypothetical protein
+GBJJFIKL_00958	gene	690				
+GBJJFIKL_00958	CDS	690				hypothetical protein
+GBJJFIKL_00959	gene	960				
+GBJJFIKL_00959	CDS	960				hypothetical protein
+GBJJFIKL_00960	gene	411	tcrA			
+GBJJFIKL_00960	CDS	411	tcrA		COG0745	Transcriptional regulatory protein TcrA
+GBJJFIKL_00961	gene	1089	rcsC_3			
+GBJJFIKL_00961	CDS	1089	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+GBJJFIKL_00962	gene	1923	acsA_2			
+GBJJFIKL_00962	CDS	1923	acsA_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+GBJJFIKL_00963	gene	264				
+GBJJFIKL_00963	CDS	264				hypothetical protein
+GBJJFIKL_00964	gene	1401	gatB			
+GBJJFIKL_00964	CDS	1401	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GBJJFIKL_00965	gene	1446	gatA			
+GBJJFIKL_00965	CDS	1446	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GBJJFIKL_00966	gene	264				
+GBJJFIKL_00966	CDS	264				hypothetical protein
+GBJJFIKL_00967	gene	1311	aspS2_1			
+GBJJFIKL_00967	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+GBJJFIKL_00968	gene	186				
+GBJJFIKL_00968	CDS	186				hypothetical protein
+GBJJFIKL_00969	gene	210				
+GBJJFIKL_00969	CDS	210				hypothetical protein
+GBJJFIKL_00970	gene	1026				
+GBJJFIKL_00970	CDS	1026				hypothetical protein
+GBJJFIKL_00971	gene	498				
+GBJJFIKL_00971	CDS	498				hypothetical protein
+GBJJFIKL_00972	gene	2118				
+GBJJFIKL_00972	CDS	2118				hypothetical protein
+GBJJFIKL_00973	gene	2208				
+GBJJFIKL_00973	CDS	2208				hypothetical protein
+GBJJFIKL_00974	gene	363				
+GBJJFIKL_00974	CDS	363				hypothetical protein
+GBJJFIKL_00975	gene	330				
+GBJJFIKL_00975	CDS	330				hypothetical protein
+GBJJFIKL_00976	gene	729				
+GBJJFIKL_00976	CDS	729				hypothetical protein
+GBJJFIKL_00977	gene	216				
+GBJJFIKL_00977	CDS	216				hypothetical protein
+GBJJFIKL_00978	gene	285				
+GBJJFIKL_00978	CDS	285				hypothetical protein
+GBJJFIKL_00979	gene	441				
+GBJJFIKL_00979	CDS	441				hypothetical protein
+GBJJFIKL_00980	gene	708				
+GBJJFIKL_00980	CDS	708				hypothetical protein
+GBJJFIKL_00981	gene	1293				
+GBJJFIKL_00981	CDS	1293				hypothetical protein
+GBJJFIKL_00982	gene	408	hit_1			
+GBJJFIKL_00982	CDS	408	hit_1		COG0537	Protein hit
+GBJJFIKL_00983	gene	468				
+GBJJFIKL_00983	CDS	468				hypothetical protein
+GBJJFIKL_00984	gene	162				
+GBJJFIKL_00984	CDS	162				hypothetical protein
+GBJJFIKL_00985	gene	336				
+GBJJFIKL_00985	CDS	336				hypothetical protein
+GBJJFIKL_00986	gene	372				
+GBJJFIKL_00986	CDS	372				hypothetical protein
+GBJJFIKL_00987	gene	222				
+GBJJFIKL_00987	CDS	222				hypothetical protein
+GBJJFIKL_00988	gene	105				
+GBJJFIKL_00988	CDS	105				hypothetical protein
+GBJJFIKL_00989	gene	228				
+GBJJFIKL_00989	CDS	228				hypothetical protein
+GBJJFIKL_00990	gene	525				
+GBJJFIKL_00990	CDS	525				hypothetical protein
+GBJJFIKL_00991	gene	600				
+GBJJFIKL_00991	CDS	600				hypothetical protein
+GBJJFIKL_00992	gene	204				
+GBJJFIKL_00992	CDS	204				hypothetical protein
+GBJJFIKL_00993	gene	1674	ilvD			
+GBJJFIKL_00993	CDS	1674	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+GBJJFIKL_00994	gene	213				
+GBJJFIKL_00994	CDS	213				hypothetical protein
+GBJJFIKL_00995	gene	303				
+GBJJFIKL_00995	CDS	303				hypothetical protein
+GBJJFIKL_00996	gene	1572	dinG			
+GBJJFIKL_00996	CDS	1572	dinG	3.1.-.-		3'-5' exonuclease DinG
+GBJJFIKL_00997	gene	318				
+GBJJFIKL_00997	CDS	318				hypothetical protein
+GBJJFIKL_00998	gene	132				
+GBJJFIKL_00998	CDS	132				hypothetical protein
+GBJJFIKL_00999	gene	264				
+GBJJFIKL_00999	CDS	264				hypothetical protein
+GBJJFIKL_01000	gene	537				
+GBJJFIKL_01000	CDS	537				hypothetical protein
+GBJJFIKL_01001	gene	897				
+GBJJFIKL_01001	CDS	897				hypothetical protein
+GBJJFIKL_01002	gene	156				
+GBJJFIKL_01002	CDS	156				hypothetical protein
+GBJJFIKL_01003	gene	252				
+GBJJFIKL_01003	CDS	252				hypothetical protein
+GBJJFIKL_01004	gene	207				
+GBJJFIKL_01004	CDS	207				hypothetical protein
+GBJJFIKL_01005	gene	597				
+GBJJFIKL_01005	CDS	597				hypothetical protein
+GBJJFIKL_01006	gene	369				
+GBJJFIKL_01006	CDS	369				hypothetical protein
+GBJJFIKL_01007	gene	351				
+GBJJFIKL_01007	CDS	351				hypothetical protein
+GBJJFIKL_01008	gene	147				
+GBJJFIKL_01008	CDS	147				hypothetical protein
+GBJJFIKL_01009	gene	339				
+GBJJFIKL_01009	CDS	339				hypothetical protein
+GBJJFIKL_01010	gene	231				
+GBJJFIKL_01010	CDS	231				hypothetical protein
+GBJJFIKL_01011	gene	528				
+GBJJFIKL_01011	CDS	528				hypothetical protein
+GBJJFIKL_01012	gene	207				
+GBJJFIKL_01012	CDS	207				hypothetical protein
+GBJJFIKL_01013	gene	351				
+GBJJFIKL_01013	CDS	351				hypothetical protein
+GBJJFIKL_01014	gene	228				
+GBJJFIKL_01014	CDS	228				hypothetical protein
+GBJJFIKL_01015	gene	648	rutE_1			
+GBJJFIKL_01015	CDS	648	rutE_1	1.1.1.298		malonic semialdehyde reductase RutE
+GBJJFIKL_01016	gene	198				
+GBJJFIKL_01016	CDS	198				hypothetical protein
+GBJJFIKL_01017	gene	681				
+GBJJFIKL_01017	CDS	681				hypothetical protein
+GBJJFIKL_01018	gene	645				
+GBJJFIKL_01018	CDS	645				hypothetical protein
+GBJJFIKL_01019	gene	351				
+GBJJFIKL_01019	CDS	351				hypothetical protein
+GBJJFIKL_01020	gene	216				
+GBJJFIKL_01020	CDS	216				hypothetical protein
+GBJJFIKL_01021	gene	996	iolS_2			
+GBJJFIKL_01021	CDS	996	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+GBJJFIKL_01022	gene	249				
+GBJJFIKL_01022	CDS	249				hypothetical protein
+GBJJFIKL_01023	gene	1143	arnC_3			
+GBJJFIKL_01023	CDS	1143	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+GBJJFIKL_01024	gene	186				
+GBJJFIKL_01024	CDS	186				hypothetical protein
+GBJJFIKL_01025	gene	1350	pabB			
+GBJJFIKL_01025	CDS	1350	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+GBJJFIKL_01026	gene	594	trpG			
+GBJJFIKL_01026	CDS	594	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+GBJJFIKL_01027	gene	1047	trpD			
+GBJJFIKL_01027	CDS	1047	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+GBJJFIKL_01028	gene	777	trpC			
+GBJJFIKL_01028	CDS	777	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+GBJJFIKL_01029	gene	1191	trpB			
+GBJJFIKL_01029	CDS	1191	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+GBJJFIKL_01030	gene	804	trpA			
+GBJJFIKL_01030	CDS	804	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+GBJJFIKL_01031	gene	1602	pyrG			
+GBJJFIKL_01031	CDS	1602	pyrG	6.3.4.2		CTP synthase
+GBJJFIKL_01032	gene	1002	nadK_2			
+GBJJFIKL_01032	CDS	1002	nadK_2	2.7.1.23		NAD kinase
+GBJJFIKL_01033	gene	870				
+GBJJFIKL_01033	CDS	870				hypothetical protein
+GBJJFIKL_01034	gene	342				
+GBJJFIKL_01034	CDS	342				hypothetical protein
+GBJJFIKL_01035	gene	582	pgsA2			
+GBJJFIKL_01035	CDS	582	pgsA2	2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+GBJJFIKL_01036	gene	882	speB			
+GBJJFIKL_01036	CDS	882	speB	3.5.3.11	COG0010	Agmatinase
+GBJJFIKL_01037	gene	1875				
+GBJJFIKL_01037	CDS	1875				hypothetical protein
+GBJJFIKL_01038	gene	402				
+GBJJFIKL_01038	CDS	402				hypothetical protein
+GBJJFIKL_01039	gene	345				
+GBJJFIKL_01039	CDS	345				hypothetical protein
+GBJJFIKL_01040	gene	339				
+GBJJFIKL_01040	CDS	339				hypothetical protein
+GBJJFIKL_01041	gene	1731				
+GBJJFIKL_01041	CDS	1731				hypothetical protein
+GBJJFIKL_01042	gene	1104				
+GBJJFIKL_01042	CDS	1104		2.5.-.-		Deoxyhypusine synthase-like protein
+GBJJFIKL_01043	gene	213				
+GBJJFIKL_01043	CDS	213				hypothetical protein
+GBJJFIKL_01044	gene	441				
+GBJJFIKL_01044	CDS	441				hypothetical protein
+GBJJFIKL_01045	gene	276				
+GBJJFIKL_01045	CDS	276				hypothetical protein
+GBJJFIKL_01046	gene	516				
+GBJJFIKL_01046	CDS	516				hypothetical protein
+GBJJFIKL_01047	gene	309				
+GBJJFIKL_01047	CDS	309				hypothetical protein
+GBJJFIKL_01048	gene	417				
+GBJJFIKL_01048	CDS	417				hypothetical protein
+GBJJFIKL_01049	gene	945	asnB			
+GBJJFIKL_01049	CDS	945	asnB	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+GBJJFIKL_01050	gene	159				
+GBJJFIKL_01050	CDS	159				hypothetical protein
+GBJJFIKL_01051	gene	366				
+GBJJFIKL_01051	CDS	366				hypothetical protein
+GBJJFIKL_01052	gene	1101				
+GBJJFIKL_01052	CDS	1101				hypothetical protein
+GBJJFIKL_01053	gene	897	menA			
+GBJJFIKL_01053	CDS	897	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+GBJJFIKL_01054	gene	624				
+GBJJFIKL_01054	CDS	624				hypothetical protein
+GBJJFIKL_01055	gene	2607				
+GBJJFIKL_01055	CDS	2607				hypothetical protein
+GBJJFIKL_01056	gene	591				
+GBJJFIKL_01056	CDS	591				hypothetical protein
+GBJJFIKL_01057	gene	1776				
+GBJJFIKL_01057	CDS	1776				hypothetical protein
+GBJJFIKL_01058	gene	699				
+GBJJFIKL_01058	CDS	699				hypothetical protein
+GBJJFIKL_01059	gene	510				
+GBJJFIKL_01059	CDS	510				hypothetical protein
+GBJJFIKL_01060	gene	1122				
+GBJJFIKL_01060	CDS	1122				hypothetical protein
+GBJJFIKL_01061	gene	1617				
+GBJJFIKL_01061	CDS	1617				hypothetical protein
+GBJJFIKL_01062	gene	918				
+GBJJFIKL_01062	CDS	918				hypothetical protein
+GBJJFIKL_01063	gene	915				
+GBJJFIKL_01063	CDS	915				hypothetical protein
+GBJJFIKL_01064	gene	846				
+GBJJFIKL_01064	CDS	846				hypothetical protein
+GBJJFIKL_01065	gene	501				
+GBJJFIKL_01065	CDS	501				hypothetical protein
+GBJJFIKL_01066	gene	849				
+GBJJFIKL_01066	CDS	849				hypothetical protein
+GBJJFIKL_01067	gene	615				
+GBJJFIKL_01067	CDS	615				hypothetical protein
+GBJJFIKL_01068	gene	555				
+GBJJFIKL_01068	CDS	555				hypothetical protein
+GBJJFIKL_01069	gene	1071				
+GBJJFIKL_01069	CDS	1071				hypothetical protein
+GBJJFIKL_01070	gene	843				
+GBJJFIKL_01070	CDS	843				hypothetical protein
+GBJJFIKL_01071	gene	402				
+GBJJFIKL_01071	CDS	402				hypothetical protein
+GBJJFIKL_01072	gene	279				
+GBJJFIKL_01072	CDS	279				hypothetical protein
+GBJJFIKL_01073	gene	405				
+GBJJFIKL_01073	CDS	405				hypothetical protein
+GBJJFIKL_01074	gene	366	rssB_2			
+GBJJFIKL_01074	CDS	366	rssB_2			Regulator of RpoS
+GBJJFIKL_01075	gene	231				
+GBJJFIKL_01075	CDS	231				hypothetical protein
+GBJJFIKL_01076	gene	375	cheY_3			
+GBJJFIKL_01076	CDS	375	cheY_3		COG0784	Chemotaxis protein CheY
+GBJJFIKL_01077	gene	216				
+GBJJFIKL_01077	CDS	216				hypothetical protein
+GBJJFIKL_01078	gene	609				
+GBJJFIKL_01078	CDS	609				hypothetical protein
+GBJJFIKL_01079	gene	369	cheY_4			
+GBJJFIKL_01079	CDS	369	cheY_4		COG0784	Chemotaxis protein CheY
+GBJJFIKL_01080	gene	279	prsA			
+GBJJFIKL_01080	CDS	279	prsA	5.2.1.8	COG0760	Foldase protein PrsA
+GBJJFIKL_01081	gene	168				
+GBJJFIKL_01081	CDS	168				hypothetical protein
+GBJJFIKL_01082	gene	1512	dbpA_2			
+GBJJFIKL_01082	CDS	1512	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+GBJJFIKL_01083	gene	1272				
+GBJJFIKL_01083	CDS	1272				hypothetical protein
+GBJJFIKL_01084	gene	807				
+GBJJFIKL_01084	CDS	807				hypothetical protein
+GBJJFIKL_01085	gene	372				
+GBJJFIKL_01085	CDS	372				hypothetical protein
+GBJJFIKL_01086	gene	924				
+GBJJFIKL_01086	CDS	924				hypothetical protein
+GBJJFIKL_01087	gene	135				
+GBJJFIKL_01087	CDS	135				hypothetical protein
+GBJJFIKL_01088	gene	546				
+GBJJFIKL_01088	CDS	546				hypothetical protein
+GBJJFIKL_01089	gene	1440				
+GBJJFIKL_01089	CDS	1440				hypothetical protein
+GBJJFIKL_01090	gene	621				
+GBJJFIKL_01090	CDS	621				hypothetical protein
+GBJJFIKL_01091	gene	564				
+GBJJFIKL_01091	CDS	564				hypothetical protein
+GBJJFIKL_01092	gene	2559				
+GBJJFIKL_01092	CDS	2559				hypothetical protein
+GBJJFIKL_01093	gene	285				
+GBJJFIKL_01093	CDS	285			COG4095	Sugar transporter SemiSWEET
+GBJJFIKL_01094	gene	660	tpiA			
+GBJJFIKL_01094	CDS	660	tpiA			Triosephosphate isomerase
+GBJJFIKL_01095	gene	462				
+GBJJFIKL_01095	CDS	462				hypothetical protein
+GBJJFIKL_01096	gene	444	lrp_2			
+GBJJFIKL_01096	CDS	444	lrp_2		COG1522	Leucine-responsive regulatory protein
+GBJJFIKL_01097	gene	159				
+GBJJFIKL_01097	CDS	159				hypothetical protein
+GBJJFIKL_01098	gene	531				
+GBJJFIKL_01098	CDS	531				hypothetical protein
+GBJJFIKL_01099	gene	258				
+GBJJFIKL_01099	CDS	258				hypothetical protein
+GBJJFIKL_01100	gene	471				
+GBJJFIKL_01100	CDS	471			COG2764	putative protein
+GBJJFIKL_01101	gene	2856	ppdK			
+GBJJFIKL_01101	CDS	2856	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+GBJJFIKL_01102	gene	528				
+GBJJFIKL_01102	CDS	528				hypothetical protein
+GBJJFIKL_01103	gene	858				
+GBJJFIKL_01103	CDS	858				hypothetical protein
+GBJJFIKL_01104	gene	396	epi			
+GBJJFIKL_01104	CDS	396	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+GBJJFIKL_01105	gene	1602	bhbA			
+GBJJFIKL_01105	CDS	1602	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+GBJJFIKL_01106	gene	915				
+GBJJFIKL_01106	CDS	915		3.6.-.-	COG1703	putative GTPase
+GBJJFIKL_01107	gene	405				
+GBJJFIKL_01107	CDS	405				hypothetical protein
+GBJJFIKL_01108	gene	2496	pepN			
+GBJJFIKL_01108	CDS	2496	pepN	3.4.11.2	COG0308	Aminopeptidase N
+GBJJFIKL_01109	gene	423	scpA			
+GBJJFIKL_01109	CDS	423	scpA	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+GBJJFIKL_01110	gene	999	ilvC			
+GBJJFIKL_01110	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+GBJJFIKL_01111	gene	516				
+GBJJFIKL_01111	CDS	516		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+GBJJFIKL_01112	gene	921	tuf_2			
+GBJJFIKL_01112	CDS	921	tuf_2			Elongation factor Tu
+GBJJFIKL_01113	gene	756				
+GBJJFIKL_01113	CDS	756				hypothetical protein
+GBJJFIKL_01114	gene	1656	metG_2			
+GBJJFIKL_01114	CDS	1656	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+GBJJFIKL_01115	gene	1242	ahcY			
+GBJJFIKL_01115	CDS	1242	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+GBJJFIKL_01116	gene	303	todB			
+GBJJFIKL_01116	CDS	303	todB		COG2146	Toluene 1,2-dioxygenase system ferredoxin subunit
+GBJJFIKL_01117	gene	795	nadE			
+GBJJFIKL_01117	CDS	795	nadE	6.3.1.5		NH(3)-dependent NAD(+) synthetase
+GBJJFIKL_01118	gene	1392	cysS			
+GBJJFIKL_01118	CDS	1392	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+GBJJFIKL_01119	gene	285				
+GBJJFIKL_01119	CDS	285				hypothetical protein
+GBJJFIKL_01120	gene	1212	OLA1			
+GBJJFIKL_01120	CDS	1212	OLA1			Obg-like ATPase 1
+GBJJFIKL_01121	gene	402				
+GBJJFIKL_01121	CDS	402				hypothetical protein
+GBJJFIKL_01122	gene	411	yccU			
+GBJJFIKL_01122	CDS	411	yccU		COG1832	putative protein YccU
+GBJJFIKL_01123	gene	525				
+GBJJFIKL_01123	CDS	525				hypothetical protein
+GBJJFIKL_01124	gene	1005	birA			
+GBJJFIKL_01124	CDS	1005	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+GBJJFIKL_01125	gene	342				
+GBJJFIKL_01125	CDS	342				hypothetical protein
+GBJJFIKL_01126	gene	1416				
+GBJJFIKL_01126	CDS	1416				hypothetical protein
+GBJJFIKL_01127	gene	912				
+GBJJFIKL_01127	CDS	912				hypothetical protein
+GBJJFIKL_01128	gene	300				
+GBJJFIKL_01128	CDS	300				hypothetical protein
+GBJJFIKL_01129	gene	423	gpt			
+GBJJFIKL_01129	CDS	423	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+GBJJFIKL_01130	gene	393				
+GBJJFIKL_01130	CDS	393				hypothetical protein
+GBJJFIKL_01131	gene	594				
+GBJJFIKL_01131	CDS	594				hypothetical protein
+GBJJFIKL_01132	gene	1065	phaC			
+GBJJFIKL_01132	CDS	1065	phaC	2.3.1.-	COG3243	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+GBJJFIKL_01133	gene	426				
+GBJJFIKL_01133	CDS	426				hypothetical protein
+GBJJFIKL_01134	gene	426				
+GBJJFIKL_01134	CDS	426				hypothetical protein
+GBJJFIKL_01135	gene	786	carC			
+GBJJFIKL_01135	CDS	786	carC	3.7.1.13		2-hydroxy-6-oxo-6-(2'-aminophenyl)hexa-2,4-dienoic acid hydrolase
+GBJJFIKL_01136	gene	435				
+GBJJFIKL_01136	CDS	435				hypothetical protein
+GBJJFIKL_01137	gene	456	msrA			
+GBJJFIKL_01137	CDS	456	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+GBJJFIKL_01138	gene	387				
+GBJJFIKL_01138	CDS	387				hypothetical protein
+GBJJFIKL_01139	gene	846	eryG			
+GBJJFIKL_01139	CDS	846	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+GBJJFIKL_01140	gene	489				
+GBJJFIKL_01140	CDS	489				hypothetical protein
+GBJJFIKL_01141	gene	444				
+GBJJFIKL_01141	CDS	444				hypothetical protein
+GBJJFIKL_01142	gene	2966				
+GBJJFIKL_01142	rRNA	2966				23S ribosomal RNA
+GBJJFIKL_01143	gene	1465				
+GBJJFIKL_01143	rRNA	1465				16S ribosomal RNA
+GBJJFIKL_01144	gene	1299	hemL1			
+GBJJFIKL_01144	CDS	1299	hemL1	5.4.3.8		Glutamate-1-semialdehyde 2,1-aminomutase 1
+GBJJFIKL_01145	gene	822	cpoB			
+GBJJFIKL_01145	CDS	822	cpoB			Cell division coordinator CpoB
+GBJJFIKL_01146	gene	708				
+GBJJFIKL_01146	CDS	708				hypothetical protein
+GBJJFIKL_01147	gene	366				
+GBJJFIKL_01147	CDS	366				hypothetical protein
+GBJJFIKL_01148	gene	453				
+GBJJFIKL_01148	CDS	453				hypothetical protein
+GBJJFIKL_01149	gene	363				
+GBJJFIKL_01149	CDS	363				hypothetical protein
+GBJJFIKL_01150	gene	675	dnaJ_3			
+GBJJFIKL_01150	CDS	675	dnaJ_3			Chaperone protein DnaJ
+GBJJFIKL_01151	gene	402	hit_2			
+GBJJFIKL_01151	CDS	402	hit_2		COG0537	Protein hit
+GBJJFIKL_01152	gene	255				
+GBJJFIKL_01152	CDS	255				hypothetical protein
+GBJJFIKL_01153	gene	168				
+GBJJFIKL_01153	CDS	168				hypothetical protein
+GBJJFIKL_01154	gene	375				
+GBJJFIKL_01154	CDS	375				hypothetical protein
+GBJJFIKL_01155	gene	633	trmR			
+GBJJFIKL_01155	CDS	633	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+GBJJFIKL_01156	gene	1287				
+GBJJFIKL_01156	CDS	1287				hypothetical protein
+GBJJFIKL_01157	gene	1743				
+GBJJFIKL_01157	CDS	1743				hypothetical protein
+GBJJFIKL_01158	gene	261				
+GBJJFIKL_01158	CDS	261				hypothetical protein
+GBJJFIKL_01159	gene	396				
+GBJJFIKL_01159	CDS	396				hypothetical protein
+GBJJFIKL_01160	gene	684				
+GBJJFIKL_01160	CDS	684				hypothetical protein
+GBJJFIKL_01161	gene	684	COQ5_1			
+GBJJFIKL_01161	CDS	684	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GBJJFIKL_01162	gene	477				
+GBJJFIKL_01162	CDS	477				hypothetical protein
+GBJJFIKL_01163	gene	456				
+GBJJFIKL_01163	CDS	456				hypothetical protein
+GBJJFIKL_01164	gene	267				
+GBJJFIKL_01164	CDS	267				hypothetical protein
+GBJJFIKL_01165	gene	339				
+GBJJFIKL_01165	CDS	339				hypothetical protein
+GBJJFIKL_01166	gene	1140	fadB			
+GBJJFIKL_01166	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+GBJJFIKL_01167	gene	513				
+GBJJFIKL_01167	CDS	513				hypothetical protein
+GBJJFIKL_01168	gene	108				
+GBJJFIKL_01168	CDS	108				hypothetical protein
+GBJJFIKL_01169	gene	411				
+GBJJFIKL_01169	CDS	411				hypothetical protein
+GBJJFIKL_01170	gene	195				
+GBJJFIKL_01170	CDS	195				hypothetical protein
+GBJJFIKL_01171	gene	309	rpsJ			
+GBJJFIKL_01171	CDS	309	rpsJ		COG0051	30S ribosomal protein S10
+GBJJFIKL_01172	gene	1299	cysNC			
+GBJJFIKL_01172	CDS	1299	cysNC		COG0529	Bifunctional enzyme CysN/CysC
+GBJJFIKL_01173	gene	1137	fbp			
+GBJJFIKL_01173	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+GBJJFIKL_01174	gene	408				
+GBJJFIKL_01174	CDS	408				hypothetical protein
+GBJJFIKL_01175	gene	1773	lig			
+GBJJFIKL_01175	CDS	1773	lig	6.5.1.1		DNA ligase
+GBJJFIKL_01176	gene	675				
+GBJJFIKL_01176	CDS	675				hypothetical protein
+GBJJFIKL_01177	gene	537				
+GBJJFIKL_01177	CDS	537				hypothetical protein
+GBJJFIKL_01178	gene	378				
+GBJJFIKL_01178	CDS	378				hypothetical protein
+GBJJFIKL_01179	gene	237				
+GBJJFIKL_01179	CDS	237				hypothetical protein
+GBJJFIKL_01180	gene	1785				
+GBJJFIKL_01180	CDS	1785				hypothetical protein
+GBJJFIKL_01181	gene	450				
+GBJJFIKL_01181	CDS	450				hypothetical protein
+GBJJFIKL_01182	gene	786				
+GBJJFIKL_01182	CDS	786				hypothetical protein
+GBJJFIKL_01183	gene	648				
+GBJJFIKL_01183	CDS	648				hypothetical protein
+GBJJFIKL_01184	gene	492				
+GBJJFIKL_01184	CDS	492				hypothetical protein
+GBJJFIKL_01185	gene	186				
+GBJJFIKL_01185	CDS	186				hypothetical protein
+GBJJFIKL_01186	gene	249				
+GBJJFIKL_01186	CDS	249				hypothetical protein
+GBJJFIKL_01187	gene	540				
+GBJJFIKL_01187	CDS	540				hypothetical protein
+GBJJFIKL_01188	gene	309				
+GBJJFIKL_01188	CDS	309				hypothetical protein
+GBJJFIKL_01189	gene	300				
+GBJJFIKL_01189	CDS	300				hypothetical protein
+GBJJFIKL_01190	gene	114				
+GBJJFIKL_01190	CDS	114				hypothetical protein
+GBJJFIKL_01191	gene	723				
+GBJJFIKL_01191	CDS	723				hypothetical protein
+GBJJFIKL_01192	gene	99				
+GBJJFIKL_01192	CDS	99				hypothetical protein
+GBJJFIKL_01193	gene	1278	proP			
+GBJJFIKL_01193	CDS	1278	proP			Proline/betaine transporter
+GBJJFIKL_01194	gene	390				
+GBJJFIKL_01194	CDS	390				hypothetical protein
+GBJJFIKL_01195	gene	354				
+GBJJFIKL_01195	CDS	354				hypothetical protein
+GBJJFIKL_01196	gene	465	mntR_2			
+GBJJFIKL_01196	CDS	465	mntR_2			HTH-type transcriptional regulator MntR
+GBJJFIKL_01197	gene	1836				
+GBJJFIKL_01197	CDS	1836				hypothetical protein
+GBJJFIKL_01198	gene	351	cheY_5			
+GBJJFIKL_01198	CDS	351	cheY_5		COG0784	Chemotaxis protein CheY
+GBJJFIKL_01199	gene	360				
+GBJJFIKL_01199	CDS	360				hypothetical protein
+GBJJFIKL_01200	gene	1884	rcsC_4			
+GBJJFIKL_01200	CDS	1884	rcsC_4	2.7.13.3		Sensor histidine kinase RcsC
+GBJJFIKL_01201	gene	174				
+GBJJFIKL_01201	CDS	174				hypothetical protein
+GBJJFIKL_01202	gene	612	tmung			
+GBJJFIKL_01202	CDS	612	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+GBJJFIKL_01203	gene	564				
+GBJJFIKL_01203	CDS	564		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+GBJJFIKL_01204	gene	633				
+GBJJFIKL_01204	CDS	633				hypothetical protein
+GBJJFIKL_01205	gene	381				
+GBJJFIKL_01205	CDS	381				hypothetical protein
+GBJJFIKL_01206	gene	288				
+GBJJFIKL_01206	CDS	288				hypothetical protein
+GBJJFIKL_01207	gene	933	oppD			
+GBJJFIKL_01207	CDS	933	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+GBJJFIKL_01208	gene	498	pipB2			
+GBJJFIKL_01208	CDS	498	pipB2		COG1357	Secreted effector protein PipB2
+GBJJFIKL_01209	gene	516				
+GBJJFIKL_01209	CDS	516				hypothetical protein
+GBJJFIKL_01210	gene	1296	aspS2_2			
+GBJJFIKL_01210	CDS	1296	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+GBJJFIKL_01211	gene	249				
+GBJJFIKL_01211	CDS	249				hypothetical protein
+GBJJFIKL_01212	gene	135				
+GBJJFIKL_01212	CDS	135				hypothetical protein
+GBJJFIKL_01213	gene	93				
+GBJJFIKL_01213	CDS	93				hypothetical protein
+GBJJFIKL_01214	gene	1014	hicd			
+GBJJFIKL_01214	CDS	1014	hicd	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+GBJJFIKL_01215	gene	1515	leuA			
+GBJJFIKL_01215	CDS	1515	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+GBJJFIKL_01216	gene	483	ilvH			
+GBJJFIKL_01216	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+GBJJFIKL_01217	gene	1698	ilvB			
+GBJJFIKL_01217	CDS	1698	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+GBJJFIKL_01218	gene	408				
+GBJJFIKL_01218	CDS	408				hypothetical protein
+GBJJFIKL_01219	gene	1167	lsrF			
+GBJJFIKL_01219	CDS	1167	lsrF	2.3.1.245		3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+GBJJFIKL_01220	gene	1029	gutB			
+GBJJFIKL_01220	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+GBJJFIKL_01221	gene	294	atpF			
+GBJJFIKL_01221	CDS	294	atpF			V-type ATP synthase subunit F
+GBJJFIKL_01222	gene	300				
+GBJJFIKL_01222	CDS	300				hypothetical protein
+GBJJFIKL_01223	gene	252				
+GBJJFIKL_01223	CDS	252				hypothetical protein
+GBJJFIKL_01224	gene	303				
+GBJJFIKL_01224	CDS	303				hypothetical protein
+GBJJFIKL_01225	gene	750				
+GBJJFIKL_01225	CDS	750				hypothetical protein
+GBJJFIKL_01226	gene	3054	carB			
+GBJJFIKL_01226	CDS	3054	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+GBJJFIKL_01227	gene	1029	carA			
+GBJJFIKL_01227	CDS	1029	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+GBJJFIKL_01228	gene	1194	ftsH_2			
+GBJJFIKL_01228	CDS	1194	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GBJJFIKL_01229	gene	495				
+GBJJFIKL_01229	CDS	495				hypothetical protein
+GBJJFIKL_01230	gene	558				
+GBJJFIKL_01230	CDS	558				hypothetical protein
+GBJJFIKL_01231	gene	1161				
+GBJJFIKL_01231	CDS	1161				hypothetical protein
+GBJJFIKL_01232	gene	453				
+GBJJFIKL_01232	CDS	453				hypothetical protein
+GBJJFIKL_01233	gene	1053				
+GBJJFIKL_01233	CDS	1053				hypothetical protein
+GBJJFIKL_01234	gene	195				
+GBJJFIKL_01234	CDS	195				hypothetical protein
+GBJJFIKL_01235	gene	1164	citZ			
+GBJJFIKL_01235	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+GBJJFIKL_01236	gene	207				
+GBJJFIKL_01236	CDS	207				hypothetical protein
+GBJJFIKL_01237	gene	381				
+GBJJFIKL_01237	CDS	381				hypothetical protein
+GBJJFIKL_01238	gene	600	petE_1			
+GBJJFIKL_01238	CDS	600	petE_1			Plastocyanin
+GBJJFIKL_01239	gene	1602	uvrC			
+GBJJFIKL_01239	CDS	1602	uvrC		COG0322	UvrABC system protein C
+GBJJFIKL_01240	gene	2817	uvrA			
+GBJJFIKL_01240	CDS	2817	uvrA			UvrABC system protein A
+GBJJFIKL_01241	gene	1953	uvrB			
+GBJJFIKL_01241	CDS	1953	uvrB			UvrABC system protein B
+GBJJFIKL_01242	gene	633				
+GBJJFIKL_01242	CDS	633				hypothetical protein
+GBJJFIKL_01243	gene	426				
+GBJJFIKL_01243	CDS	426				hypothetical protein
+GBJJFIKL_01244	gene	237				
+GBJJFIKL_01244	CDS	237				hypothetical protein
+GBJJFIKL_01245	gene	1104				
+GBJJFIKL_01245	CDS	1104		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+GBJJFIKL_01246	gene	945				
+GBJJFIKL_01246	CDS	945				hypothetical protein
+GBJJFIKL_01247	gene	1278				
+GBJJFIKL_01247	CDS	1278		2.7.1.165	COG2379	D-glycerate 2-kinase
+GBJJFIKL_01248	gene	105				
+GBJJFIKL_01248	CDS	105				hypothetical protein
+GBJJFIKL_01249	gene	420	teaD_3			
+GBJJFIKL_01249	CDS	420	teaD_3		COG0589	TRAP-T-associated universal stress protein TeaD
+GBJJFIKL_01250	gene	246				
+GBJJFIKL_01250	CDS	246				hypothetical protein
+GBJJFIKL_01251	gene	240				
+GBJJFIKL_01251	CDS	240				hypothetical protein
+GBJJFIKL_01252	gene	963				
+GBJJFIKL_01252	CDS	963				hypothetical protein
+GBJJFIKL_01253	gene	342				
+GBJJFIKL_01253	CDS	342				hypothetical protein
+GBJJFIKL_01254	gene	2271				
+GBJJFIKL_01254	CDS	2271				hypothetical protein
+GBJJFIKL_01255	gene	966				
+GBJJFIKL_01255	CDS	966				hypothetical protein
+GBJJFIKL_01256	gene	723				
+GBJJFIKL_01256	CDS	723				hypothetical protein
+GBJJFIKL_01257	gene	282				
+GBJJFIKL_01257	CDS	282				hypothetical protein
+GBJJFIKL_01258	gene	705				
+GBJJFIKL_01258	CDS	705				hypothetical protein
+GBJJFIKL_01259	gene	1029				
+GBJJFIKL_01259	CDS	1029				hypothetical protein
+GBJJFIKL_01260	gene	885				
+GBJJFIKL_01260	CDS	885				hypothetical protein
+GBJJFIKL_01261	gene	606				
+GBJJFIKL_01261	CDS	606				hypothetical protein
+GBJJFIKL_01262	gene	231				
+GBJJFIKL_01262	CDS	231				hypothetical protein
+GBJJFIKL_01263	gene	183				
+GBJJFIKL_01263	CDS	183				hypothetical protein
+GBJJFIKL_01264	gene	1227				
+GBJJFIKL_01264	CDS	1227				hypothetical protein
+GBJJFIKL_01265	gene	3054				
+GBJJFIKL_01265	CDS	3054				hypothetical protein
+GBJJFIKL_01266	gene	1134				
+GBJJFIKL_01266	CDS	1134				hypothetical protein
+GBJJFIKL_01267	gene	1680				
+GBJJFIKL_01267	CDS	1680				hypothetical protein
+GBJJFIKL_01268	gene	1407	rnj_1			
+GBJJFIKL_01268	CDS	1407	rnj_1	3.1.-.-	COG0595	Ribonuclease J
+GBJJFIKL_01269	gene	3624				
+GBJJFIKL_01269	CDS	3624				hypothetical protein
+GBJJFIKL_01270	gene	1434				
+GBJJFIKL_01270	CDS	1434				hypothetical protein
+GBJJFIKL_01271	gene	2217				
+GBJJFIKL_01271	CDS	2217				hypothetical protein
+GBJJFIKL_01272	gene	378				
+GBJJFIKL_01272	CDS	378				hypothetical protein
+GBJJFIKL_01273	gene	333				
+GBJJFIKL_01273	CDS	333				hypothetical protein
+GBJJFIKL_01274	gene	786				
+GBJJFIKL_01274	CDS	786				hypothetical protein
+GBJJFIKL_01275	gene	504				
+GBJJFIKL_01275	CDS	504				hypothetical protein
+GBJJFIKL_01276	gene	552				
+GBJJFIKL_01276	CDS	552				hypothetical protein
+GBJJFIKL_01277	gene	159				
+GBJJFIKL_01277	CDS	159				hypothetical protein
+GBJJFIKL_01278	gene	939	xerC_1			
+GBJJFIKL_01278	CDS	939	xerC_1			Tyrosine recombinase XerC
+GBJJFIKL_01279	gene	618	purN			
+GBJJFIKL_01279	CDS	618	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+GBJJFIKL_01280	gene	321				
+GBJJFIKL_01280	CDS	321				hypothetical protein
+GBJJFIKL_01281	gene	285				
+GBJJFIKL_01281	CDS	285				hypothetical protein
+GBJJFIKL_01282	gene	864	folD			
+GBJJFIKL_01282	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+GBJJFIKL_01283	gene	570	yqgN			
+GBJJFIKL_01283	CDS	570	yqgN		COG0212	putative protein YqgN
+GBJJFIKL_01284	gene	1263	purD			
+GBJJFIKL_01284	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GBJJFIKL_01285	gene	3198	ileS			
+GBJJFIKL_01285	CDS	3198	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GBJJFIKL_01286	gene	585				
+GBJJFIKL_01286	CDS	585				hypothetical protein
+GBJJFIKL_01287	gene	330				
+GBJJFIKL_01287	CDS	330				hypothetical protein
+GBJJFIKL_01288	gene	1107	sucC			
+GBJJFIKL_01288	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+GBJJFIKL_01289	gene	918	sucD			
+GBJJFIKL_01289	CDS	918	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+GBJJFIKL_01290	gene	249				
+GBJJFIKL_01290	CDS	249				hypothetical protein
+GBJJFIKL_01291	gene	93				
+GBJJFIKL_01291	tRNA	93				tRNA-Val(cac)
+GBJJFIKL_01292	gene	201				
+GBJJFIKL_01292	CDS	201				hypothetical protein
+GBJJFIKL_01293	gene	144				
+GBJJFIKL_01293	CDS	144				hypothetical protein
+GBJJFIKL_01294	gene	165				
+GBJJFIKL_01294	CDS	165				hypothetical protein
+GBJJFIKL_01295	gene	93				
+GBJJFIKL_01295	CDS	93				hypothetical protein
+GBJJFIKL_01296	gene	186				
+GBJJFIKL_01296	CDS	186				hypothetical protein
+GBJJFIKL_01297	gene	105				
+GBJJFIKL_01297	CDS	105				hypothetical protein
+GBJJFIKL_01298	gene	423				
+GBJJFIKL_01298	CDS	423				hypothetical protein
+GBJJFIKL_01299	gene	540	ppa			
+GBJJFIKL_01299	CDS	540	ppa	3.6.1.1		Inorganic pyrophosphatase
+GBJJFIKL_01300	gene	1809	pepF1			
+GBJJFIKL_01300	CDS	1809	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+GBJJFIKL_01301	gene	576				
+GBJJFIKL_01301	CDS	576				hypothetical protein
+GBJJFIKL_01302	gene	1155				
+GBJJFIKL_01302	CDS	1155				hypothetical protein
+GBJJFIKL_01303	gene	552	pdaD			
+GBJJFIKL_01303	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+GBJJFIKL_01304	gene	549				
+GBJJFIKL_01304	CDS	549				hypothetical protein
+GBJJFIKL_01305	gene	228				
+GBJJFIKL_01305	CDS	228				hypothetical protein
+GBJJFIKL_01306	gene	75				
+GBJJFIKL_01306	tRNA	75				tRNA-Thr(tgt)
+GBJJFIKL_01307	gene	159				
+GBJJFIKL_01307	CDS	159				hypothetical protein
+GBJJFIKL_01308	gene	792				
+GBJJFIKL_01308	CDS	792				hypothetical protein
+GBJJFIKL_01309	gene	1347	deaD			
+GBJJFIKL_01309	CDS	1347	deaD	3.6.4.13		ATP-dependent RNA helicase DeaD
+GBJJFIKL_01310	gene	228				
+GBJJFIKL_01310	CDS	228				hypothetical protein
+GBJJFIKL_01311	gene	201				
+GBJJFIKL_01311	CDS	201				hypothetical protein
+GBJJFIKL_01312	gene	801				
+GBJJFIKL_01312	CDS	801				hypothetical protein
+GBJJFIKL_01313	gene	651				
+GBJJFIKL_01313	CDS	651				hypothetical protein
+GBJJFIKL_01314	gene	846				
+GBJJFIKL_01314	CDS	846				hypothetical protein
+GBJJFIKL_01315	gene	1764				
+GBJJFIKL_01315	CDS	1764				hypothetical protein
+GBJJFIKL_01316	gene	1368				
+GBJJFIKL_01316	CDS	1368				hypothetical protein
+GBJJFIKL_01317	gene	1446	glnA_1			
+GBJJFIKL_01317	CDS	1446	glnA_1	6.3.1.2	COG0174	Glutamine synthetase
+GBJJFIKL_01318	gene	1656	kefB			
+GBJJFIKL_01318	CDS	1656	kefB			Glutathione-regulated potassium-efflux system protein KefB
+GBJJFIKL_01319	gene	288				
+GBJJFIKL_01319	CDS	288				hypothetical protein
+GBJJFIKL_01320	gene	492				
+GBJJFIKL_01320	CDS	492				hypothetical protein
+GBJJFIKL_01321	gene	456				
+GBJJFIKL_01321	CDS	456				hypothetical protein
+GBJJFIKL_01322	gene	285				
+GBJJFIKL_01322	CDS	285				hypothetical protein
+GBJJFIKL_01323	gene	93				
+GBJJFIKL_01323	CDS	93				hypothetical protein
+GBJJFIKL_01324	gene	321				
+GBJJFIKL_01324	CDS	321				hypothetical protein
+GBJJFIKL_01325	gene	2028				
+GBJJFIKL_01325	CDS	2028				hypothetical protein
+GBJJFIKL_01326	gene	237				
+GBJJFIKL_01326	CDS	237				hypothetical protein
+GBJJFIKL_01327	gene	1539				
+GBJJFIKL_01327	CDS	1539				hypothetical protein
+GBJJFIKL_01328	gene	354				
+GBJJFIKL_01328	CDS	354				hypothetical protein
+GBJJFIKL_01329	gene	1494	sasA_4			
+GBJJFIKL_01329	CDS	1494	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+GBJJFIKL_01330	gene	1581				
+GBJJFIKL_01330	CDS	1581				hypothetical protein
+GBJJFIKL_01331	gene	360				
+GBJJFIKL_01331	CDS	360				hypothetical protein
+GBJJFIKL_01332	gene	732				
+GBJJFIKL_01332	CDS	732				hypothetical protein
+GBJJFIKL_01333	gene	216				
+GBJJFIKL_01333	CDS	216				hypothetical protein
+GBJJFIKL_01334	gene	150				
+GBJJFIKL_01334	CDS	150				hypothetical protein
+GBJJFIKL_01335	gene	1113				
+GBJJFIKL_01335	CDS	1113				hypothetical protein
+GBJJFIKL_01336	gene	300				
+GBJJFIKL_01336	CDS	300				hypothetical protein
+GBJJFIKL_01337	gene	1137				
+GBJJFIKL_01337	CDS	1137				hypothetical protein
+GBJJFIKL_01338	gene	576				
+GBJJFIKL_01338	CDS	576		1.-.-.-	COG0431	NAD(P)H-dependent FMN reductase
+GBJJFIKL_01339	gene	459				
+GBJJFIKL_01339	CDS	459				hypothetical protein
+GBJJFIKL_01340	gene	357				
+GBJJFIKL_01340	CDS	357				hypothetical protein
+GBJJFIKL_01341	gene	915				
+GBJJFIKL_01341	CDS	915				hypothetical protein
+GBJJFIKL_01342	gene	987	rutE_2			
+GBJJFIKL_01342	CDS	987	rutE_2	1.1.1.298		malonic semialdehyde reductase RutE
+GBJJFIKL_01343	gene	1032	adhT			
+GBJJFIKL_01343	CDS	1032	adhT	1.1.1.1		Alcohol dehydrogenase
+GBJJFIKL_01344	gene	90				
+GBJJFIKL_01344	CDS	90				hypothetical protein
+GBJJFIKL_01345	gene	189				
+GBJJFIKL_01345	CDS	189				hypothetical protein
+GBJJFIKL_01346	gene	483				
+GBJJFIKL_01346	CDS	483				hypothetical protein
+GBJJFIKL_01347	gene	369				
+GBJJFIKL_01347	CDS	369				hypothetical protein
+GBJJFIKL_01348	gene	198				
+GBJJFIKL_01348	CDS	198				hypothetical protein
+GBJJFIKL_01349	gene	234				
+GBJJFIKL_01349	CDS	234				hypothetical protein
+GBJJFIKL_01350	gene	483				
+GBJJFIKL_01350	CDS	483				hypothetical protein
+GBJJFIKL_01351	gene	249				
+GBJJFIKL_01351	CDS	249				hypothetical protein
+GBJJFIKL_01352	gene	213				
+GBJJFIKL_01352	CDS	213				hypothetical protein
+GBJJFIKL_01353	gene	690				
+GBJJFIKL_01353	CDS	690				hypothetical protein
+GBJJFIKL_01354	gene	207				
+GBJJFIKL_01354	CDS	207				hypothetical protein
+GBJJFIKL_01355	gene	252				
+GBJJFIKL_01355	CDS	252				hypothetical protein
+GBJJFIKL_01356	gene	1197	truD			
+GBJJFIKL_01356	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+GBJJFIKL_01357	gene	1572	vgb_2			
+GBJJFIKL_01357	CDS	1572	vgb_2	4.2.99.-		Virginiamycin B lyase
+GBJJFIKL_01358	gene	354				
+GBJJFIKL_01358	CDS	354				hypothetical protein
+GBJJFIKL_01359	gene	1137				
+GBJJFIKL_01359	CDS	1137				hypothetical protein
+GBJJFIKL_01360	gene	282				
+GBJJFIKL_01360	CDS	282				hypothetical protein
+GBJJFIKL_01361	gene	2142	ftsH_3			
+GBJJFIKL_01361	CDS	2142	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GBJJFIKL_01362	gene	297				
+GBJJFIKL_01362	CDS	297				hypothetical protein
+GBJJFIKL_01363	gene	909	ctaB_1			
+GBJJFIKL_01363	CDS	909	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+GBJJFIKL_01364	gene	1092	petE_2			
+GBJJFIKL_01364	CDS	1092	petE_2			Plastocyanin
+GBJJFIKL_01365	gene	450	mec			
+GBJJFIKL_01365	CDS	450	mec	3.13.1.6	COG1310	CysO-cysteine peptidase
+GBJJFIKL_01366	gene	198				
+GBJJFIKL_01366	CDS	198				hypothetical protein
+GBJJFIKL_01367	gene	432				
+GBJJFIKL_01367	CDS	432				hypothetical protein
+GBJJFIKL_01368	gene	471	dps2			
+GBJJFIKL_01368	CDS	471	dps2	1.16.-.-	COG0783	DNA protection during starvation protein 2
+GBJJFIKL_01369	gene	258				
+GBJJFIKL_01369	CDS	258				hypothetical protein
+GBJJFIKL_01370	gene	180				
+GBJJFIKL_01370	CDS	180				hypothetical protein
+GBJJFIKL_01371	gene	2040	hppA			
+GBJJFIKL_01371	CDS	2040	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+GBJJFIKL_01372	gene	363				
+GBJJFIKL_01372	CDS	363				hypothetical protein
+GBJJFIKL_01373	gene	96				
+GBJJFIKL_01373	CDS	96				hypothetical protein
+GBJJFIKL_01374	gene	498				
+GBJJFIKL_01374	CDS	498				hypothetical protein
+GBJJFIKL_01375	gene	1104	apbC			
+GBJJFIKL_01375	CDS	1104	apbC		COG0489	Iron-sulfur cluster carrier protein
+GBJJFIKL_01376	gene	699	rnr			
+GBJJFIKL_01376	CDS	699	rnr	3.1.13.1		Ribonuclease R
+GBJJFIKL_01377	gene	189				
+GBJJFIKL_01377	CDS	189				hypothetical protein
+GBJJFIKL_01378	gene	819	nadC			
+GBJJFIKL_01378	CDS	819	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GBJJFIKL_01379	gene	381				
+GBJJFIKL_01379	CDS	381				hypothetical protein
+GBJJFIKL_01380	gene	447				
+GBJJFIKL_01380	CDS	447				hypothetical protein
+GBJJFIKL_01381	gene	957	nadA			
+GBJJFIKL_01381	CDS	957	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+GBJJFIKL_01382	gene	819	nadX			
+GBJJFIKL_01382	CDS	819	nadX	1.4.1.21		L-aspartate dehydrogenase
+GBJJFIKL_01383	gene	585				
+GBJJFIKL_01383	CDS	585				hypothetical protein
+GBJJFIKL_01384	gene	1044				
+GBJJFIKL_01384	CDS	1044				hypothetical protein
+GBJJFIKL_01385	gene	792				
+GBJJFIKL_01385	CDS	792				hypothetical protein
+GBJJFIKL_01386	gene	1533				
+GBJJFIKL_01386	CDS	1533				hypothetical protein
+GBJJFIKL_01387	gene	1155				
+GBJJFIKL_01387	CDS	1155				hypothetical protein
+GBJJFIKL_01388	gene	2079	smc_3			
+GBJJFIKL_01388	CDS	2079	smc_3			Chromosome partition protein Smc
+GBJJFIKL_01389	gene	1710	petE_3			
+GBJJFIKL_01389	CDS	1710	petE_3			Plastocyanin
+GBJJFIKL_01390	gene	489				
+GBJJFIKL_01390	CDS	489				hypothetical protein
+GBJJFIKL_01391	gene	663				
+GBJJFIKL_01391	CDS	663				hypothetical protein
+GBJJFIKL_01392	gene	237				
+GBJJFIKL_01392	CDS	237				hypothetical protein
+GBJJFIKL_01393	gene	102				
+GBJJFIKL_01393	CDS	102				hypothetical protein
+GBJJFIKL_01394	gene	144				
+GBJJFIKL_01394	CDS	144				hypothetical protein
+GBJJFIKL_01395	gene	828				
+GBJJFIKL_01395	CDS	828				hypothetical protein
+GBJJFIKL_01396	gene	567				
+GBJJFIKL_01396	CDS	567				hypothetical protein
+GBJJFIKL_01397	gene	603				
+GBJJFIKL_01397	CDS	603				hypothetical protein
+GBJJFIKL_01398	gene	510				
+GBJJFIKL_01398	CDS	510				hypothetical protein
+GBJJFIKL_01399	gene	846				
+GBJJFIKL_01399	CDS	846				hypothetical protein
+GBJJFIKL_01400	gene	933				
+GBJJFIKL_01400	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+GBJJFIKL_01401	gene	1413				
+GBJJFIKL_01401	CDS	1413				hypothetical protein
+GBJJFIKL_01402	gene	1362	aspA			
+GBJJFIKL_01402	CDS	1362	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+GBJJFIKL_01403	gene	1269	miaB			
+GBJJFIKL_01403	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GBJJFIKL_01404	gene	951	ftsZ			
+GBJJFIKL_01404	CDS	951	ftsZ			Cell division protein FtsZ
+GBJJFIKL_01405	gene	489				
+GBJJFIKL_01405	CDS	489				hypothetical protein
+GBJJFIKL_01406	gene	159				
+GBJJFIKL_01406	CDS	159				hypothetical protein
+GBJJFIKL_01407	gene	549	nudL			
+GBJJFIKL_01407	CDS	549	nudL	3.6.1.-		putative Nudix hydrolase NudL
+GBJJFIKL_01408	gene	750				
+GBJJFIKL_01408	CDS	750				hypothetical protein
+GBJJFIKL_01409	gene	2502	metH_1			
+GBJJFIKL_01409	CDS	2502	metH_1	2.1.1.13	COG0646	Methionine synthase
+GBJJFIKL_01410	gene	963	metH_2			
+GBJJFIKL_01410	CDS	963	metH_2	2.1.1.13	COG0646	Methionine synthase
+GBJJFIKL_01411	gene	1125				
+GBJJFIKL_01411	CDS	1125				hypothetical protein
+GBJJFIKL_01412	gene	759	ssuC			
+GBJJFIKL_01412	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+GBJJFIKL_01413	gene	759	nrtD			
+GBJJFIKL_01413	CDS	759	nrtD	7.3.2.4	COG1116	Nitrate import ATP-binding protein NrtD
+GBJJFIKL_01414	gene	1041				
+GBJJFIKL_01414	CDS	1041				hypothetical protein
+GBJJFIKL_01415	gene	1200	argG			
+GBJJFIKL_01415	CDS	1200	argG	6.3.4.5		Argininosuccinate synthase
+GBJJFIKL_01416	gene	168				
+GBJJFIKL_01416	CDS	168				hypothetical protein
+GBJJFIKL_01417	gene	858	lysX_1			
+GBJJFIKL_01417	CDS	858	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+GBJJFIKL_01418	gene	1050	argC			
+GBJJFIKL_01418	CDS	1050	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+GBJJFIKL_01419	gene	804	lysZ			
+GBJJFIKL_01419	CDS	804	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+GBJJFIKL_01420	gene	1176	lysJ			
+GBJJFIKL_01420	CDS	1176	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+GBJJFIKL_01421	gene	420	lrp_3			
+GBJJFIKL_01421	CDS	420	lrp_3		COG1522	Leucine-responsive regulatory protein
+GBJJFIKL_01422	gene	1167	frbC			
+GBJJFIKL_01422	CDS	1167	frbC	2.3.3.19		2-phosphonomethylmalate synthase
+GBJJFIKL_01423	gene	201				
+GBJJFIKL_01423	CDS	201				hypothetical protein
+GBJJFIKL_01424	gene	849	lysX_2			
+GBJJFIKL_01424	CDS	849	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+GBJJFIKL_01425	gene	1128	lysK			
+GBJJFIKL_01425	CDS	1128	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+GBJJFIKL_01426	gene	1038				
+GBJJFIKL_01426	CDS	1038				hypothetical protein
+GBJJFIKL_01427	gene	618	hldE			
+GBJJFIKL_01427	CDS	618	hldE	2.7.7.70		Bifunctional protein HldE
+GBJJFIKL_01428	gene	684				
+GBJJFIKL_01428	CDS	684				hypothetical protein
+GBJJFIKL_01429	gene	1146				
+GBJJFIKL_01429	CDS	1146				hypothetical protein
+GBJJFIKL_01430	gene	351	erpA			
+GBJJFIKL_01430	CDS	351	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+GBJJFIKL_01431	gene	762	crt			
+GBJJFIKL_01431	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+GBJJFIKL_01432	gene	2118				
+GBJJFIKL_01432	CDS	2118				hypothetical protein
+GBJJFIKL_01433	gene	684				
+GBJJFIKL_01433	CDS	684				hypothetical protein
+GBJJFIKL_01434	gene	378				
+GBJJFIKL_01434	CDS	378				hypothetical protein
+GBJJFIKL_01435	gene	1275	gluD			
+GBJJFIKL_01435	CDS	1275	gluD	1.4.1.2		NAD-specific glutamate dehydrogenase
+GBJJFIKL_01436	gene	387				
+GBJJFIKL_01436	CDS	387				hypothetical protein
+GBJJFIKL_01437	gene	726	prcA_2			
+GBJJFIKL_01437	CDS	726	prcA_2			Proteasome subunit alpha
+GBJJFIKL_01438	gene	690	COQ5_2			
+GBJJFIKL_01438	CDS	690	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GBJJFIKL_01439	gene	1158	ycaD			
+GBJJFIKL_01439	CDS	1158	ycaD			putative MFS-type transporter YcaD
+GBJJFIKL_01440	gene	315	glnB_1			
+GBJJFIKL_01440	CDS	315	glnB_1		COG0347	Nitrogen regulatory protein P-II
+GBJJFIKL_01441	gene	348	tatA_2			
+GBJJFIKL_01441	CDS	348	tatA_2			Sec-independent protein translocase protein TatA
+GBJJFIKL_01442	gene	786	dpnA			
+GBJJFIKL_01442	CDS	786	dpnA	2.1.1.72		Modification methylase DpnIIB
+GBJJFIKL_01443	gene	2511	dbpA_3			
+GBJJFIKL_01443	CDS	2511	dbpA_3	3.6.4.13		ATP-dependent RNA helicase DbpA
+GBJJFIKL_01444	gene	831	fabG_2			
+GBJJFIKL_01444	CDS	831	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GBJJFIKL_01445	gene	1668				
+GBJJFIKL_01445	CDS	1668				hypothetical protein
+GBJJFIKL_01446	gene	1119	xerC_2			
+GBJJFIKL_01446	CDS	1119	xerC_2			Tyrosine recombinase XerC
+GBJJFIKL_01447	gene	1260	ybaL_1			
+GBJJFIKL_01447	CDS	1260	ybaL_1		COG1226	Putative cation/proton antiporter YbaL
+GBJJFIKL_01448	gene	1167	ybaL_2			
+GBJJFIKL_01448	CDS	1167	ybaL_2		COG1226	Putative cation/proton antiporter YbaL
+GBJJFIKL_01449	gene	1101				
+GBJJFIKL_01449	CDS	1101				hypothetical protein
+GBJJFIKL_01450	gene	171				
+GBJJFIKL_01450	CDS	171				hypothetical protein
+GBJJFIKL_01451	gene	858	catE			
+GBJJFIKL_01451	CDS	858	catE	1.13.11.2	COG2514	Catechol-2,3-dioxygenase
+GBJJFIKL_01452	gene	147				
+GBJJFIKL_01452	CDS	147				hypothetical protein
+GBJJFIKL_01453	gene	411				
+GBJJFIKL_01453	CDS	411				hypothetical protein
+GBJJFIKL_01454	gene	807				
+GBJJFIKL_01454	CDS	807				hypothetical protein
+GBJJFIKL_01455	gene	165				
+GBJJFIKL_01455	CDS	165				hypothetical protein
+GBJJFIKL_01456	gene	150				
+GBJJFIKL_01456	CDS	150				hypothetical protein
+GBJJFIKL_01457	gene	387				
+GBJJFIKL_01457	CDS	387				hypothetical protein
+GBJJFIKL_01458	gene	534				
+GBJJFIKL_01458	CDS	534				hypothetical protein
+GBJJFIKL_01459	gene	1347	petE_4			
+GBJJFIKL_01459	CDS	1347	petE_4			Plastocyanin
+GBJJFIKL_01460	gene	1296				
+GBJJFIKL_01460	CDS	1296			COG1055	putative transporter
+GBJJFIKL_01461	gene	423				
+GBJJFIKL_01461	CDS	423				hypothetical protein
+GBJJFIKL_01462	gene	255				
+GBJJFIKL_01462	CDS	255				hypothetical protein
+GBJJFIKL_01463	gene	348				
+GBJJFIKL_01463	CDS	348				hypothetical protein
+GBJJFIKL_01464	gene	150				
+GBJJFIKL_01464	CDS	150				hypothetical protein
+GBJJFIKL_01465	gene	645				
+GBJJFIKL_01465	CDS	645				hypothetical protein
+GBJJFIKL_01466	gene	180				
+GBJJFIKL_01466	CDS	180				hypothetical protein
+GBJJFIKL_01467	gene	900				
+GBJJFIKL_01467	CDS	900				hypothetical protein
+GBJJFIKL_01468	gene	1215				
+GBJJFIKL_01468	CDS	1215				hypothetical protein
+GBJJFIKL_01469	gene	819				
+GBJJFIKL_01469	CDS	819				hypothetical protein
+GBJJFIKL_01470	gene	171				
+GBJJFIKL_01470	CDS	171				hypothetical protein
+GBJJFIKL_01471	gene	162				
+GBJJFIKL_01471	CDS	162				hypothetical protein
+GBJJFIKL_01472	gene	477				
+GBJJFIKL_01472	CDS	477				hypothetical protein
+GBJJFIKL_01473	gene	330				
+GBJJFIKL_01473	CDS	330				hypothetical protein
+GBJJFIKL_01474	gene	1863	sasA_5			
+GBJJFIKL_01474	CDS	1863	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+GBJJFIKL_01475	gene	366	cheY_6			
+GBJJFIKL_01475	CDS	366	cheY_6		COG0784	Chemotaxis protein CheY
+GBJJFIKL_01476	gene	846				
+GBJJFIKL_01476	CDS	846				hypothetical protein
+GBJJFIKL_01477	gene	210				
+GBJJFIKL_01477	CDS	210				hypothetical protein
+GBJJFIKL_01478	gene	1008				
+GBJJFIKL_01478	CDS	1008				hypothetical protein
+GBJJFIKL_01479	gene	1278				
+GBJJFIKL_01479	CDS	1278				hypothetical protein
+GBJJFIKL_01480	gene	582				
+GBJJFIKL_01480	CDS	582				hypothetical protein
+GBJJFIKL_01481	gene	87				
+GBJJFIKL_01481	tRNA	87				tRNA-Ser(gct)
+GBJJFIKL_01482	gene	747	cpdA			
+GBJJFIKL_01482	CDS	747	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GBJJFIKL_01483	gene	1032	icd			
+GBJJFIKL_01483	CDS	1032	icd	1.1.1.42	COG0473	Isocitrate dehydrogenase [NADP]
+GBJJFIKL_01484	gene	546				
+GBJJFIKL_01484	CDS	546				hypothetical protein
+GBJJFIKL_01485	gene	708	rsmA			
+GBJJFIKL_01485	CDS	708	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+GBJJFIKL_01486	gene	567				
+GBJJFIKL_01486	CDS	567				hypothetical protein
+GBJJFIKL_01487	gene	324				
+GBJJFIKL_01487	CDS	324				hypothetical protein
+GBJJFIKL_01488	gene	300				
+GBJJFIKL_01488	CDS	300				hypothetical protein
+GBJJFIKL_01489	gene	1062	rlmN			
+GBJJFIKL_01489	CDS	1062	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+GBJJFIKL_01490	gene	1164	recA_2			
+GBJJFIKL_01490	CDS	1164	recA_2			Protein RecA
+GBJJFIKL_01491	gene	873				
+GBJJFIKL_01491	CDS	873				hypothetical protein
+GBJJFIKL_01492	gene	183				
+GBJJFIKL_01492	CDS	183				hypothetical protein
+GBJJFIKL_01493	gene	1725				
+GBJJFIKL_01493	CDS	1725				hypothetical protein
+GBJJFIKL_01494	gene	813	pyrK			
+GBJJFIKL_01494	CDS	813	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+GBJJFIKL_01495	gene	912	pyrD			
+GBJJFIKL_01495	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GBJJFIKL_01496	gene	1722				
+GBJJFIKL_01496	CDS	1722				hypothetical protein
+GBJJFIKL_01497	gene	675				
+GBJJFIKL_01497	CDS	675				hypothetical protein
+GBJJFIKL_01498	gene	648	rnhB			
+GBJJFIKL_01498	CDS	648	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+GBJJFIKL_01499	gene	1167	trm1			
+GBJJFIKL_01499	CDS	1167	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+GBJJFIKL_01500	gene	594	rlmE			
+GBJJFIKL_01500	CDS	594	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+GBJJFIKL_01501	gene	654				
+GBJJFIKL_01501	CDS	654				hypothetical protein
+GBJJFIKL_01502	gene	459				
+GBJJFIKL_01502	CDS	459				hypothetical protein
+GBJJFIKL_01503	gene	2094				
+GBJJFIKL_01503	CDS	2094				hypothetical protein
+GBJJFIKL_01504	gene	2181				
+GBJJFIKL_01504	CDS	2181				hypothetical protein
+GBJJFIKL_01505	gene	513	apt			
+GBJJFIKL_01505	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+GBJJFIKL_01506	gene	792	mtnP			
+GBJJFIKL_01506	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+GBJJFIKL_01507	gene	285				
+GBJJFIKL_01507	CDS	285				hypothetical protein
+GBJJFIKL_01508	gene	399				
+GBJJFIKL_01508	CDS	399				hypothetical protein
+GBJJFIKL_01509	gene	357				
+GBJJFIKL_01509	CDS	357				hypothetical protein
+GBJJFIKL_01510	gene	231				
+GBJJFIKL_01510	CDS	231				hypothetical protein
+GBJJFIKL_01511	gene	510				
+GBJJFIKL_01511	CDS	510				hypothetical protein
+GBJJFIKL_01512	gene	1107	TOP6A			
+GBJJFIKL_01512	CDS	1107	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+GBJJFIKL_01513	gene	1839	TOP6B			
+GBJJFIKL_01513	CDS	1839	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+GBJJFIKL_01514	gene	573				
+GBJJFIKL_01514	CDS	573				hypothetical protein
+GBJJFIKL_01515	gene	795				
+GBJJFIKL_01515	CDS	795				hypothetical protein
+GBJJFIKL_01516	gene	297				
+GBJJFIKL_01516	CDS	297				hypothetical protein
+GBJJFIKL_01517	gene	423				
+GBJJFIKL_01517	CDS	423				hypothetical protein
+GBJJFIKL_01518	gene	144				
+GBJJFIKL_01518	CDS	144				hypothetical protein
+GBJJFIKL_01519	gene	489				
+GBJJFIKL_01519	CDS	489				hypothetical protein
+GBJJFIKL_01520	gene	1146				
+GBJJFIKL_01520	CDS	1146				hypothetical protein
+GBJJFIKL_01521	gene	798				
+GBJJFIKL_01521	CDS	798		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+GBJJFIKL_01522	gene	426	rppH			
+GBJJFIKL_01522	CDS	426	rppH	3.6.1.-		RNA pyrophosphohydrolase
+GBJJFIKL_01523	gene	741	pyrF			
+GBJJFIKL_01523	CDS	741	pyrF			Orotidine 5'-phosphate decarboxylase
+GBJJFIKL_01524	gene	663				
+GBJJFIKL_01524	CDS	663				hypothetical protein
+GBJJFIKL_01525	gene	1002	purA			
+GBJJFIKL_01525	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+GBJJFIKL_01526	gene	462				
+GBJJFIKL_01526	CDS	462				hypothetical protein
+GBJJFIKL_01527	gene	294				
+GBJJFIKL_01527	CDS	294				hypothetical protein
+GBJJFIKL_01528	gene	210				
+GBJJFIKL_01528	CDS	210				hypothetical protein
+GBJJFIKL_01529	gene	639				
+GBJJFIKL_01529	CDS	639				hypothetical protein
+GBJJFIKL_01530	gene	315				
+GBJJFIKL_01530	CDS	315				hypothetical protein
+GBJJFIKL_01531	gene	90				
+GBJJFIKL_01531	CDS	90				hypothetical protein
+GBJJFIKL_01532	gene	522				
+GBJJFIKL_01532	CDS	522				hypothetical protein
+GBJJFIKL_01533	gene	774				
+GBJJFIKL_01533	CDS	774				hypothetical protein
+GBJJFIKL_01534	gene	318				
+GBJJFIKL_01534	CDS	318				hypothetical protein
+GBJJFIKL_01535	gene	756	dtd3			
+GBJJFIKL_01535	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+GBJJFIKL_01536	gene	216				
+GBJJFIKL_01536	CDS	216				hypothetical protein
+GBJJFIKL_01537	gene	72				
+GBJJFIKL_01537	tRNA	72				tRNA-Cys(gca)
+GBJJFIKL_01538	gene	381				
+GBJJFIKL_01538	CDS	381				hypothetical protein
+GBJJFIKL_01539	gene	1752				
+GBJJFIKL_01539	CDS	1752				hypothetical protein
+GBJJFIKL_01540	gene	108				
+GBJJFIKL_01540	CDS	108				hypothetical protein
+GBJJFIKL_01541	gene	579				
+GBJJFIKL_01541	CDS	579				hypothetical protein
+GBJJFIKL_01542	gene	261				
+GBJJFIKL_01542	CDS	261				hypothetical protein
+GBJJFIKL_01543	gene	213				
+GBJJFIKL_01543	CDS	213				hypothetical protein
+GBJJFIKL_01544	gene	177				
+GBJJFIKL_01544	CDS	177				hypothetical protein
+GBJJFIKL_01545	gene	74				
+GBJJFIKL_01545	tRNA	74				tRNA-Thr(cgt)
+GBJJFIKL_01546	gene	1299	algC_2			
+GBJJFIKL_01546	CDS	1299	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+GBJJFIKL_01547	gene	954	thiL			
+GBJJFIKL_01547	CDS	954	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+GBJJFIKL_01548	gene	321				
+GBJJFIKL_01548	CDS	321				hypothetical protein
+GBJJFIKL_01549	gene	480				
+GBJJFIKL_01549	CDS	480				hypothetical protein
+GBJJFIKL_01550	gene	312				
+GBJJFIKL_01550	CDS	312				hypothetical protein
+GBJJFIKL_01551	gene	414				
+GBJJFIKL_01551	CDS	414				hypothetical protein
+GBJJFIKL_01552	gene	1449	rtcB			
+GBJJFIKL_01552	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+GBJJFIKL_01553	gene	1362	purB			
+GBJJFIKL_01553	CDS	1362	purB	4.3.2.2		Adenylosuccinate lyase
+GBJJFIKL_01554	gene	756				
+GBJJFIKL_01554	CDS	756				hypothetical protein
+GBJJFIKL_01555	gene	279	phhB			
+GBJJFIKL_01555	CDS	279	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+GBJJFIKL_01556	gene	816				
+GBJJFIKL_01556	CDS	816				hypothetical protein
+GBJJFIKL_01557	gene	2322	valS			
+GBJJFIKL_01557	CDS	2322	valS	6.1.1.9		Valine--tRNA ligase
+GBJJFIKL_01558	gene	699				
+GBJJFIKL_01558	CDS	699				hypothetical protein
+GBJJFIKL_01559	gene	1161				
+GBJJFIKL_01559	CDS	1161				hypothetical protein
+GBJJFIKL_01560	gene	618	pdxT			
+GBJJFIKL_01560	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+GBJJFIKL_01561	gene	969	pdxS			
+GBJJFIKL_01561	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+GBJJFIKL_01562	gene	534				
+GBJJFIKL_01562	CDS	534				hypothetical protein
+GBJJFIKL_01563	gene	2265	acnA			
+GBJJFIKL_01563	CDS	2265	acnA	4.2.1.3		Aconitate hydratase A
+GBJJFIKL_01564	gene	633				
+GBJJFIKL_01564	CDS	633				hypothetical protein
+GBJJFIKL_01565	gene	576				
+GBJJFIKL_01565	CDS	576				hypothetical protein
+GBJJFIKL_01566	gene	240				
+GBJJFIKL_01566	CDS	240				hypothetical protein
+GBJJFIKL_01567	gene	417				
+GBJJFIKL_01567	CDS	417				hypothetical protein
+GBJJFIKL_01568	gene	1638				
+GBJJFIKL_01568	CDS	1638				hypothetical protein
+GBJJFIKL_01569	gene	1392				
+GBJJFIKL_01569	CDS	1392				hypothetical protein
+GBJJFIKL_01570	gene	1110				
+GBJJFIKL_01570	CDS	1110				hypothetical protein
+GBJJFIKL_01571	gene	282				
+GBJJFIKL_01571	CDS	282				hypothetical protein
+GBJJFIKL_01572	gene	105				
+GBJJFIKL_01572	CDS	105				hypothetical protein
+GBJJFIKL_01573	gene	852				
+GBJJFIKL_01573	CDS	852				hypothetical protein
+GBJJFIKL_01574	gene	330				
+GBJJFIKL_01574	CDS	330				hypothetical protein
+GBJJFIKL_01575	gene	474				
+GBJJFIKL_01575	CDS	474				hypothetical protein
+GBJJFIKL_01576	gene	1062				
+GBJJFIKL_01576	CDS	1062				hypothetical protein
+GBJJFIKL_01577	gene	108				
+GBJJFIKL_01577	CDS	108				hypothetical protein
+GBJJFIKL_01578	gene	75				
+GBJJFIKL_01578	tRNA	75				tRNA-Ala(tgc)
+GBJJFIKL_01579	gene	555	resA			
+GBJJFIKL_01579	CDS	555	resA			Thiol-disulfide oxidoreductase ResA
+GBJJFIKL_01580	gene	76				
+GBJJFIKL_01580	tRNA	76				tRNA-Ile(gat)
+GBJJFIKL_01581	gene	894				
+GBJJFIKL_01581	CDS	894				hypothetical protein
+GBJJFIKL_01582	gene	219				
+GBJJFIKL_01582	CDS	219				hypothetical protein
+GBJJFIKL_01583	gene	387				
+GBJJFIKL_01583	CDS	387				hypothetical protein
+GBJJFIKL_01584	gene	74				
+GBJJFIKL_01584	tRNA	74				tRNA-Thr(ggt)
+GBJJFIKL_01585	gene	861	dpnM			
+GBJJFIKL_01585	CDS	861	dpnM	2.1.1.72		Modification methylase DpnIIA
+GBJJFIKL_01586	gene	651				
+GBJJFIKL_01586	CDS	651				hypothetical protein
+GBJJFIKL_01587	gene	363				
+GBJJFIKL_01587	CDS	363				hypothetical protein
+GBJJFIKL_01588	gene	564				
+GBJJFIKL_01588	CDS	564				hypothetical protein
+GBJJFIKL_01589	gene	669				
+GBJJFIKL_01589	CDS	669				hypothetical protein
+GBJJFIKL_01590	gene	315				
+GBJJFIKL_01590	CDS	315				hypothetical protein
+GBJJFIKL_01591	gene	525				
+GBJJFIKL_01591	CDS	525				hypothetical protein
+GBJJFIKL_01592	gene	342				
+GBJJFIKL_01592	CDS	342				hypothetical protein
+GBJJFIKL_01593	gene	333				
+GBJJFIKL_01593	CDS	333				hypothetical protein
+GBJJFIKL_01594	gene	450				
+GBJJFIKL_01594	CDS	450				hypothetical protein
+GBJJFIKL_01595	gene	1422				
+GBJJFIKL_01595	CDS	1422				hypothetical protein
+GBJJFIKL_01596	gene	243				
+GBJJFIKL_01596	CDS	243				hypothetical protein
+GBJJFIKL_01597	gene	1263	serS			
+GBJJFIKL_01597	CDS	1263	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GBJJFIKL_01598	gene	612				
+GBJJFIKL_01598	CDS	612				hypothetical protein
+GBJJFIKL_01599	gene	426				
+GBJJFIKL_01599	CDS	426				hypothetical protein
+GBJJFIKL_01600	gene	1458				
+GBJJFIKL_01600	CDS	1458				hypothetical protein
+GBJJFIKL_01601	gene	798	nirQ			
+GBJJFIKL_01601	CDS	798	nirQ		COG0714	Denitrification regulatory protein NirQ
+GBJJFIKL_01602	gene	1563				
+GBJJFIKL_01602	CDS	1563				hypothetical protein
+GBJJFIKL_01603	gene	1551				
+GBJJFIKL_01603	CDS	1551				hypothetical protein
+GBJJFIKL_01604	gene	450				
+GBJJFIKL_01604	CDS	450				hypothetical protein
+GBJJFIKL_01605	gene	564				
+GBJJFIKL_01605	CDS	564				hypothetical protein
+GBJJFIKL_01606	gene	222				
+GBJJFIKL_01606	CDS	222				hypothetical protein
+GBJJFIKL_01607	gene	585				
+GBJJFIKL_01607	CDS	585				hypothetical protein
+GBJJFIKL_01608	gene	696				
+GBJJFIKL_01608	CDS	696				hypothetical protein
+GBJJFIKL_01609	gene	177				
+GBJJFIKL_01609	CDS	177				hypothetical protein
+GBJJFIKL_01610	gene	342	glnB_2			
+GBJJFIKL_01610	CDS	342	glnB_2		COG0347	Nitrogen regulatory protein P-II
+GBJJFIKL_01611	gene	255				
+GBJJFIKL_01611	CDS	255				hypothetical protein
+GBJJFIKL_01612	gene	357				
+GBJJFIKL_01612	CDS	357				hypothetical protein
+GBJJFIKL_01613	gene	222				
+GBJJFIKL_01613	CDS	222				hypothetical protein
+GBJJFIKL_01614	gene	528				
+GBJJFIKL_01614	CDS	528				hypothetical protein
+GBJJFIKL_01615	gene	957	dusB			
+GBJJFIKL_01615	CDS	957	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+GBJJFIKL_01616	gene	2142				
+GBJJFIKL_01616	CDS	2142				hypothetical protein
+GBJJFIKL_01617	gene	2142				
+GBJJFIKL_01617	CDS	2142				hypothetical protein
+GBJJFIKL_01618	gene	2415				
+GBJJFIKL_01618	CDS	2415				hypothetical protein
+GBJJFIKL_01619	gene	1026				
+GBJJFIKL_01619	CDS	1026				hypothetical protein
+GBJJFIKL_01620	gene	564				
+GBJJFIKL_01620	CDS	564		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+GBJJFIKL_01621	gene	621				
+GBJJFIKL_01621	CDS	621				hypothetical protein
+GBJJFIKL_01622	gene	327				
+GBJJFIKL_01622	CDS	327				hypothetical protein
+GBJJFIKL_01623	gene	984	tsaD			
+GBJJFIKL_01623	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+GBJJFIKL_01624	gene	1191	ychF			
+GBJJFIKL_01624	CDS	1191	ychF		COG0012	Ribosome-binding ATPase YchF
+GBJJFIKL_01625	gene	549				
+GBJJFIKL_01625	CDS	549				hypothetical protein
+GBJJFIKL_01626	gene	1527	QTRT1			
+GBJJFIKL_01626	CDS	1527	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+GBJJFIKL_01627	gene	303	ndhI_1			
+GBJJFIKL_01627	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GBJJFIKL_01628	gene	213				
+GBJJFIKL_01628	CDS	213				hypothetical protein
+GBJJFIKL_01629	gene	1266				
+GBJJFIKL_01629	CDS	1266		3.1.-.-	COG1236	Ribonuclease
+GBJJFIKL_01630	gene	843				
+GBJJFIKL_01630	CDS	843				hypothetical protein
+GBJJFIKL_01631	gene	77				
+GBJJFIKL_01631	tRNA	77				tRNA-Arg(tct)
+GBJJFIKL_01632	gene	351				
+GBJJFIKL_01632	CDS	351				hypothetical protein
+GBJJFIKL_01633	gene	462				
+GBJJFIKL_01633	CDS	462				hypothetical protein
+GBJJFIKL_01634	gene	1584	petB			
+GBJJFIKL_01634	CDS	1584	petB			Cytochrome b6
+GBJJFIKL_01635	gene	609	petC			
+GBJJFIKL_01635	CDS	609	petC	7.1.1.6		Cytochrome b6-f complex iron-sulfur subunit
+GBJJFIKL_01636	gene	3879				
+GBJJFIKL_01636	CDS	3879				hypothetical protein
+GBJJFIKL_01637	gene	948				
+GBJJFIKL_01637	CDS	948				hypothetical protein
+GBJJFIKL_01638	gene	5100				
+GBJJFIKL_01638	CDS	5100				hypothetical protein
+GBJJFIKL_01639	gene	1344				
+GBJJFIKL_01639	CDS	1344				hypothetical protein
+GBJJFIKL_01640	gene	1239	thrC			
+GBJJFIKL_01640	CDS	1239	thrC	4.2.3.1	COG0498	Threonine synthase
+GBJJFIKL_01641	gene	573				
+GBJJFIKL_01641	CDS	573				hypothetical protein
+GBJJFIKL_01642	gene	330	hisI			
+GBJJFIKL_01642	CDS	330	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+GBJJFIKL_01643	gene	804	hisF			
+GBJJFIKL_01643	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+GBJJFIKL_01644	gene	708	priA			
+GBJJFIKL_01644	CDS	708	priA	5.3.1.16	COG0106	Phosphoribosyl isomerase A
+GBJJFIKL_01645	gene	606	hisH			
+GBJJFIKL_01645	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+GBJJFIKL_01646	gene	588	hisB			
+GBJJFIKL_01646	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+GBJJFIKL_01647	gene	975				
+GBJJFIKL_01647	CDS	975				hypothetical protein
+GBJJFIKL_01648	gene	1071	hisC_2			
+GBJJFIKL_01648	CDS	1071	hisC_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+GBJJFIKL_01649	gene	1272	hisD			
+GBJJFIKL_01649	CDS	1272	hisD	1.1.1.23		Histidinol dehydrogenase
+GBJJFIKL_01650	gene	978	hisG			
+GBJJFIKL_01650	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+GBJJFIKL_01651	gene	873				
+GBJJFIKL_01651	CDS	873				hypothetical protein
+GBJJFIKL_01652	gene	1260	mvaA			
+GBJJFIKL_01652	CDS	1260	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+GBJJFIKL_01653	gene	1095	yliI_2			
+GBJJFIKL_01653	CDS	1095	yliI_2	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+GBJJFIKL_01654	gene	1329				
+GBJJFIKL_01654	CDS	1329				hypothetical protein
+GBJJFIKL_01655	gene	996				
+GBJJFIKL_01655	CDS	996				hypothetical protein
+GBJJFIKL_01656	gene	603				
+GBJJFIKL_01656	CDS	603				hypothetical protein
+GBJJFIKL_01657	gene	1071	ccr_1			
+GBJJFIKL_01657	CDS	1071	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+GBJJFIKL_01658	gene	552				
+GBJJFIKL_01658	CDS	552				hypothetical protein
+GBJJFIKL_01659	gene	816	pheA			
+GBJJFIKL_01659	CDS	816	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+GBJJFIKL_01660	gene	468				
+GBJJFIKL_01660	CDS	468				hypothetical protein
+GBJJFIKL_01661	gene	1434	guaB			
+GBJJFIKL_01661	CDS	1434	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+GBJJFIKL_01662	gene	861	folP			
+GBJJFIKL_01662	CDS	861	folP	2.5.1.15		Dihydropteroate synthase
+GBJJFIKL_01663	gene	738				
+GBJJFIKL_01663	CDS	738				hypothetical protein
+GBJJFIKL_01664	gene	582				
+GBJJFIKL_01664	CDS	582				hypothetical protein
+GBJJFIKL_01665	gene	1524	guaA_2			
+GBJJFIKL_01665	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+GBJJFIKL_01666	gene	471				
+GBJJFIKL_01666	CDS	471				hypothetical protein
+GBJJFIKL_01667	gene	261				
+GBJJFIKL_01667	CDS	261				hypothetical protein
+GBJJFIKL_01668	gene	507				
+GBJJFIKL_01668	CDS	507				hypothetical protein
+GBJJFIKL_01669	gene	858	mak			
+GBJJFIKL_01669	CDS	858	mak	2.7.1.4	COG1940	Fructokinase
+GBJJFIKL_01670	gene	1596	groL_1			
+GBJJFIKL_01670	CDS	1596	groL_1		COG0459	60 kDa chaperonin
+GBJJFIKL_01671	gene	1764	ade			
+GBJJFIKL_01671	CDS	1764	ade	3.5.4.2	COG1001	Adenine deaminase
+GBJJFIKL_01672	gene	282				
+GBJJFIKL_01672	CDS	282				hypothetical protein
+GBJJFIKL_01673	gene	198				
+GBJJFIKL_01673	CDS	198				hypothetical protein
+GBJJFIKL_01674	gene	585	mobA			
+GBJJFIKL_01674	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+GBJJFIKL_01675	gene	726	cobS			
+GBJJFIKL_01675	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+GBJJFIKL_01676	gene	972	cobD_1			
+GBJJFIKL_01676	CDS	972	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+GBJJFIKL_01677	gene	840	cobQ			
+GBJJFIKL_01677	CDS	840	cobQ			Cobyric acid synthase
+GBJJFIKL_01678	gene	1074	cobD_2			
+GBJJFIKL_01678	CDS	1074	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+GBJJFIKL_01679	gene	1083	asd2			
+GBJJFIKL_01679	CDS	1083	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+GBJJFIKL_01680	gene	468	asnC			
+GBJJFIKL_01680	CDS	468	asnC		COG1522	Regulatory protein AsnC
+GBJJFIKL_01681	gene	930	ctaB_2			
+GBJJFIKL_01681	CDS	930	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+GBJJFIKL_01682	gene	210				
+GBJJFIKL_01682	CDS	210				hypothetical protein
+GBJJFIKL_01683	gene	474				
+GBJJFIKL_01683	CDS	474				hypothetical protein
+GBJJFIKL_01684	gene	375	cheY_7			
+GBJJFIKL_01684	CDS	375	cheY_7		COG0784	Chemotaxis protein CheY
+GBJJFIKL_01685	gene	378				
+GBJJFIKL_01685	CDS	378				hypothetical protein
+GBJJFIKL_01686	gene	681				
+GBJJFIKL_01686	CDS	681				hypothetical protein
+GBJJFIKL_01687	gene	414				
+GBJJFIKL_01687	CDS	414				hypothetical protein
+GBJJFIKL_01688	gene	504				
+GBJJFIKL_01688	CDS	504				hypothetical protein
+GBJJFIKL_01689	gene	1332	ubiD_2			
+GBJJFIKL_01689	CDS	1332	ubiD_2	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GBJJFIKL_01690	gene	339				
+GBJJFIKL_01690	CDS	339				hypothetical protein
+GBJJFIKL_01691	gene	492				
+GBJJFIKL_01691	CDS	492				hypothetical protein
+GBJJFIKL_01692	gene	666				
+GBJJFIKL_01692	CDS	666				hypothetical protein
+GBJJFIKL_01693	gene	336				
+GBJJFIKL_01693	CDS	336				hypothetical protein
+GBJJFIKL_01694	gene	342				
+GBJJFIKL_01694	CDS	342				hypothetical protein
+GBJJFIKL_01695	gene	474				
+GBJJFIKL_01695	CDS	474				hypothetical protein
+GBJJFIKL_01696	gene	1044				
+GBJJFIKL_01696	CDS	1044				hypothetical protein
+GBJJFIKL_01697	gene	1122	hflX			
+GBJJFIKL_01697	CDS	1122	hflX		COG2262	GTPase HflX
+GBJJFIKL_01698	gene	531				
+GBJJFIKL_01698	CDS	531				hypothetical protein
+GBJJFIKL_01699	gene	516				
+GBJJFIKL_01699	CDS	516				hypothetical protein
+GBJJFIKL_01700	gene	1404	gabD1			
+GBJJFIKL_01700	CDS	1404	gabD1	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+GBJJFIKL_01701	gene	267				
+GBJJFIKL_01701	CDS	267				hypothetical protein
+GBJJFIKL_01702	gene	558				
+GBJJFIKL_01702	CDS	558				hypothetical protein
+GBJJFIKL_01703	gene	243				
+GBJJFIKL_01703	CDS	243				hypothetical protein
+GBJJFIKL_01704	gene	657	ribD2			
+GBJJFIKL_01704	CDS	657	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+GBJJFIKL_01705	gene	1191	atzA			
+GBJJFIKL_01705	CDS	1191	atzA	3.8.1.8		Atrazine chlorohydrolase
+GBJJFIKL_01706	gene	753				
+GBJJFIKL_01706	CDS	753				hypothetical protein
+GBJJFIKL_01707	gene	417	ribH			
+GBJJFIKL_01707	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+GBJJFIKL_01708	gene	666	ribBA			
+GBJJFIKL_01708	CDS	666	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+GBJJFIKL_01709	gene	588	ribE			
+GBJJFIKL_01709	CDS	588	ribE	2.5.1.9	COG0307	Riboflavin synthase
+GBJJFIKL_01710	gene	717				
+GBJJFIKL_01710	CDS	717				hypothetical protein
+GBJJFIKL_01711	gene	144				
+GBJJFIKL_01711	CDS	144				hypothetical protein
+GBJJFIKL_01712	gene	357	cheY_8			
+GBJJFIKL_01712	CDS	357	cheY_8		COG0784	Chemotaxis protein CheY
+GBJJFIKL_01713	gene	594				
+GBJJFIKL_01713	CDS	594				hypothetical protein
+GBJJFIKL_01714	gene	867	mcl2			
+GBJJFIKL_01714	CDS	867	mcl2	3.1.2.30	COG2301	(3S)-malyl-CoA thioesterase
+GBJJFIKL_01715	gene	1077	ccr_2			
+GBJJFIKL_01715	CDS	1077	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+GBJJFIKL_01716	gene	276				
+GBJJFIKL_01716	CDS	276				hypothetical protein
+GBJJFIKL_01717	gene	453				
+GBJJFIKL_01717	CDS	453				hypothetical protein
+GBJJFIKL_01718	gene	303				
+GBJJFIKL_01718	CDS	303				hypothetical protein
+GBJJFIKL_01719	gene	75				
+GBJJFIKL_01719	tRNA	75				tRNA-Gly(tcc)
+GBJJFIKL_01720	gene	669				
+GBJJFIKL_01720	CDS	669				hypothetical protein
+GBJJFIKL_01721	gene	1122				
+GBJJFIKL_01721	CDS	1122				hypothetical protein
+GBJJFIKL_01722	gene	2649				
+GBJJFIKL_01722	CDS	2649				hypothetical protein
+GBJJFIKL_01723	gene	2094				
+GBJJFIKL_01723	CDS	2094				hypothetical protein
+GBJJFIKL_01724	gene	162				
+GBJJFIKL_01724	CDS	162				hypothetical protein
+GBJJFIKL_01725	gene	369				
+GBJJFIKL_01725	CDS	369				hypothetical protein
+GBJJFIKL_01726	gene	1164	fadA_2			
+GBJJFIKL_01726	CDS	1164	fadA_2	2.3.1.16		3-ketoacyl-CoA thiolase
+GBJJFIKL_01727	gene	468				
+GBJJFIKL_01727	CDS	468				hypothetical protein
+GBJJFIKL_01728	gene	807	ybeM			
+GBJJFIKL_01728	CDS	807	ybeM	3.5.1.128		Deaminated glutathione amidase
+GBJJFIKL_01729	gene	177				
+GBJJFIKL_01729	CDS	177				hypothetical protein
+GBJJFIKL_01730	gene	771				
+GBJJFIKL_01730	CDS	771				hypothetical protein
+GBJJFIKL_01731	gene	1272				
+GBJJFIKL_01731	CDS	1272				hypothetical protein
+GBJJFIKL_01732	gene	501				
+GBJJFIKL_01732	CDS	501				hypothetical protein
+GBJJFIKL_01733	gene	393				
+GBJJFIKL_01733	CDS	393				hypothetical protein
+GBJJFIKL_01734	gene	1680				
+GBJJFIKL_01734	CDS	1680				hypothetical protein
+GBJJFIKL_01735	gene	207				
+GBJJFIKL_01735	CDS	207				hypothetical protein
+GBJJFIKL_01736	gene	1644				
+GBJJFIKL_01736	CDS	1644				hypothetical protein
+GBJJFIKL_01737	gene	825				
+GBJJFIKL_01737	CDS	825				hypothetical protein
+GBJJFIKL_01738	gene	807				
+GBJJFIKL_01738	CDS	807				hypothetical protein
+GBJJFIKL_01739	gene	876				
+GBJJFIKL_01739	CDS	876				hypothetical protein
+GBJJFIKL_01740	gene	621				
+GBJJFIKL_01740	CDS	621				hypothetical protein
+GBJJFIKL_01741	gene	2787	vgb_3			
+GBJJFIKL_01741	CDS	2787	vgb_3	4.2.99.-		Virginiamycin B lyase
+GBJJFIKL_01742	gene	822	znuB			
+GBJJFIKL_01742	CDS	822	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+GBJJFIKL_01743	gene	723	mntB			
+GBJJFIKL_01743	CDS	723	mntB		COG1121	Manganese transport system ATP-binding protein MntB
+GBJJFIKL_01744	gene	915	znuA			
+GBJJFIKL_01744	CDS	915	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+GBJJFIKL_01745	gene	384	nikR			
+GBJJFIKL_01745	CDS	384	nikR			Nickel-responsive regulator
+GBJJFIKL_01746	gene	1386				
+GBJJFIKL_01746	CDS	1386				hypothetical protein
+GBJJFIKL_01747	gene	711				
+GBJJFIKL_01747	CDS	711				hypothetical protein
+GBJJFIKL_01748	gene	930	pyrB			
+GBJJFIKL_01748	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+GBJJFIKL_01749	gene	462	pyrI			
+GBJJFIKL_01749	CDS	462	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+GBJJFIKL_01750	gene	309	atpH			
+GBJJFIKL_01750	CDS	309	atpH			ATP synthase subunit c
+GBJJFIKL_01751	gene	132				
+GBJJFIKL_01751	CDS	132				hypothetical protein
+GBJJFIKL_01752	gene	633	ntpD			
+GBJJFIKL_01752	CDS	633	ntpD			V-type sodium ATPase subunit D
+GBJJFIKL_01753	gene	1386	ntpB			
+GBJJFIKL_01753	CDS	1386	ntpB			V-type sodium ATPase subunit B
+GBJJFIKL_01754	gene	1779	atpA			
+GBJJFIKL_01754	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+GBJJFIKL_01755	gene	600	atpE			
+GBJJFIKL_01755	CDS	600	atpE			V-type proton ATPase subunit E
+GBJJFIKL_01756	gene	2100				
+GBJJFIKL_01756	CDS	2100				hypothetical protein
+GBJJFIKL_01757	gene	768				
+GBJJFIKL_01757	CDS	768				hypothetical protein
+GBJJFIKL_01758	gene	276				
+GBJJFIKL_01758	CDS	276				hypothetical protein
+GBJJFIKL_01759	gene	777	rhdA_2			
+GBJJFIKL_01759	CDS	777	rhdA_2	2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+GBJJFIKL_01760	gene	1563	amt			
+GBJJFIKL_01760	CDS	1563	amt			Ammonia channel
+GBJJFIKL_01761	gene	666				
+GBJJFIKL_01761	CDS	666				hypothetical protein
+GBJJFIKL_01762	gene	1038	atpC			
+GBJJFIKL_01762	CDS	1038	atpC			V-type ATP synthase subunit C
+GBJJFIKL_01763	gene	237				
+GBJJFIKL_01763	CDS	237				hypothetical protein
+GBJJFIKL_01764	gene	645				
+GBJJFIKL_01764	CDS	645				hypothetical protein
+GBJJFIKL_01765	gene	111				
+GBJJFIKL_01765	CDS	111				hypothetical protein
+GBJJFIKL_01766	gene	579				
+GBJJFIKL_01766	CDS	579				hypothetical protein
+GBJJFIKL_01767	gene	357				
+GBJJFIKL_01767	CDS	357				hypothetical protein
+GBJJFIKL_01768	gene	684	pyrH			
+GBJJFIKL_01768	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+GBJJFIKL_01769	gene	1236				
+GBJJFIKL_01769	CDS	1236				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+GBJJFIKL_01770	gene	582	tmk			
+GBJJFIKL_01770	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+GBJJFIKL_01771	gene	393				
+GBJJFIKL_01771	CDS	393				hypothetical protein
+GBJJFIKL_01772	gene	1548	ubiB			
+GBJJFIKL_01772	CDS	1548	ubiB	2.7.-.-		protein kinase UbiB
+GBJJFIKL_01773	gene	387				
+GBJJFIKL_01773	CDS	387				hypothetical protein
+GBJJFIKL_01774	gene	201				
+GBJJFIKL_01774	CDS	201				hypothetical protein
+GBJJFIKL_01775	gene	333				
+GBJJFIKL_01775	CDS	333				hypothetical protein
+GBJJFIKL_01776	gene	1302				
+GBJJFIKL_01776	CDS	1302				hypothetical protein
+GBJJFIKL_01777	gene	648	lolD			
+GBJJFIKL_01777	CDS	648	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+GBJJFIKL_01778	gene	1188				
+GBJJFIKL_01778	CDS	1188				hypothetical protein
+GBJJFIKL_01779	gene	903				
+GBJJFIKL_01779	CDS	903				hypothetical protein
+GBJJFIKL_01780	gene	513	act			
+GBJJFIKL_01780	CDS	513	act	3.-.-.-		Methanol dehydrogenase activator
+GBJJFIKL_01781	gene	981				
+GBJJFIKL_01781	CDS	981				hypothetical protein
+GBJJFIKL_01782	gene	915	thrB_2			
+GBJJFIKL_01782	CDS	915	thrB_2	2.7.1.39		Homoserine kinase
+GBJJFIKL_01783	gene	765				
+GBJJFIKL_01783	CDS	765				hypothetical protein
+GBJJFIKL_01784	gene	840	panB			
+GBJJFIKL_01784	CDS	840	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+GBJJFIKL_01785	gene	1287	coaBC			
+GBJJFIKL_01785	CDS	1287	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+GBJJFIKL_01786	gene	162				
+GBJJFIKL_01786	CDS	162				hypothetical protein
+GBJJFIKL_01787	gene	843	COQ5_3			
+GBJJFIKL_01787	CDS	843	COQ5_3	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+GBJJFIKL_01788	gene	489				
+GBJJFIKL_01788	CDS	489				hypothetical protein
+GBJJFIKL_01789	gene	1065	pepE			
+GBJJFIKL_01789	CDS	1065	pepE	3.4.13.-	COG0006	putative dipeptidase PepE
+GBJJFIKL_01790	gene	1008	thiI_1			
+GBJJFIKL_01790	CDS	1008	thiI_1	2.8.1.4		tRNA sulfurtransferase
+GBJJFIKL_01791	gene	279				
+GBJJFIKL_01791	CDS	279				hypothetical protein
+GBJJFIKL_01792	gene	1938	rnj_2			
+GBJJFIKL_01792	CDS	1938	rnj_2	3.1.-.-		Ribonuclease J
+GBJJFIKL_01793	gene	633	prcB_2			
+GBJJFIKL_01793	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+GBJJFIKL_01794	gene	1029				
+GBJJFIKL_01794	CDS	1029				hypothetical protein
+GBJJFIKL_01795	gene	750				
+GBJJFIKL_01795	CDS	750				hypothetical protein
+GBJJFIKL_01796	gene	1131				
+GBJJFIKL_01796	CDS	1131		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+GBJJFIKL_01797	gene	495				
+GBJJFIKL_01797	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+GBJJFIKL_01798	gene	1023	rtcA			
+GBJJFIKL_01798	CDS	1023	rtcA	6.5.1.4	COG0430	RNA 3'-terminal phosphate cyclase
+GBJJFIKL_01799	gene	498				
+GBJJFIKL_01799	CDS	498				hypothetical protein
+GBJJFIKL_01800	gene	477				
+GBJJFIKL_01800	CDS	477				hypothetical protein
+GBJJFIKL_01801	gene	75				
+GBJJFIKL_01801	tRNA	75				tRNA-Val(gac)
+GBJJFIKL_01802	gene	711	bluB			
+GBJJFIKL_01802	CDS	711	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+GBJJFIKL_01803	gene	543				
+GBJJFIKL_01803	CDS	543		1.5.1.45	COG0431	NAD(P)H-dependent FAD/FMN reductase
+GBJJFIKL_01804	gene	495				
+GBJJFIKL_01804	CDS	495				hypothetical protein
+GBJJFIKL_01805	gene	486				
+GBJJFIKL_01805	CDS	486				hypothetical protein
+GBJJFIKL_01806	gene	222				
+GBJJFIKL_01806	CDS	222				hypothetical protein
+GBJJFIKL_01807	gene	477	ppiB			
+GBJJFIKL_01807	CDS	477	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+GBJJFIKL_01808	gene	996				
+GBJJFIKL_01808	CDS	996				hypothetical protein
+GBJJFIKL_01809	gene	192				
+GBJJFIKL_01809	CDS	192				hypothetical protein
+GBJJFIKL_01810	gene	492				
+GBJJFIKL_01810	CDS	492				hypothetical protein
+GBJJFIKL_01811	gene	453				
+GBJJFIKL_01811	CDS	453				hypothetical protein
+GBJJFIKL_01812	gene	894	RBKS			
+GBJJFIKL_01812	CDS	894	RBKS	2.7.1.15		Ribokinase
+GBJJFIKL_01813	gene	345				
+GBJJFIKL_01813	CDS	345				hypothetical protein
+GBJJFIKL_01814	gene	471				
+GBJJFIKL_01814	CDS	471				hypothetical protein
+GBJJFIKL_01815	gene	1089	wbpE			
+GBJJFIKL_01815	CDS	1089	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+GBJJFIKL_01816	gene	561				
+GBJJFIKL_01816	CDS	561				hypothetical protein
+GBJJFIKL_01817	gene	390				
+GBJJFIKL_01817	CDS	390				hypothetical protein
+GBJJFIKL_01818	gene	186				
+GBJJFIKL_01818	CDS	186				hypothetical protein
+GBJJFIKL_01819	gene	351				
+GBJJFIKL_01819	CDS	351				hypothetical protein
+GBJJFIKL_01820	gene	195				
+GBJJFIKL_01820	CDS	195				hypothetical protein
+GBJJFIKL_01821	gene	1041				
+GBJJFIKL_01821	CDS	1041				hypothetical protein
+GBJJFIKL_01822	gene	798				
+GBJJFIKL_01822	CDS	798		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+GBJJFIKL_01823	gene	1470				
+GBJJFIKL_01823	CDS	1470				hypothetical protein
+GBJJFIKL_01824	gene	1404	thrA			
+GBJJFIKL_01824	CDS	1404	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+GBJJFIKL_01825	gene	747				
+GBJJFIKL_01825	CDS	747				hypothetical protein
+GBJJFIKL_01826	gene	312				
+GBJJFIKL_01826	CDS	312				hypothetical protein
+GBJJFIKL_01827	gene	279				
+GBJJFIKL_01827	CDS	279				hypothetical protein
+GBJJFIKL_01828	gene	537				
+GBJJFIKL_01828	CDS	537				hypothetical protein
+GBJJFIKL_01829	gene	153				
+GBJJFIKL_01829	CDS	153				hypothetical protein
+GBJJFIKL_01830	gene	147				
+GBJJFIKL_01830	CDS	147				hypothetical protein
+GBJJFIKL_01831	gene	498				
+GBJJFIKL_01831	CDS	498				hypothetical protein
+GBJJFIKL_01832	gene	1059				
+GBJJFIKL_01832	CDS	1059				hypothetical protein
+GBJJFIKL_01833	gene	645	kynB			
+GBJJFIKL_01833	CDS	645	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+GBJJFIKL_01834	gene	273				
+GBJJFIKL_01834	CDS	273				hypothetical protein
+GBJJFIKL_01835	gene	1152	sufS			
+GBJJFIKL_01835	CDS	1152	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+GBJJFIKL_01836	gene	621				
+GBJJFIKL_01836	CDS	621				hypothetical protein
+GBJJFIKL_01837	gene	300	ndhI_2			
+GBJJFIKL_01837	CDS	300	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+GBJJFIKL_01838	gene	993				
+GBJJFIKL_01838	CDS	993				hypothetical protein
+GBJJFIKL_01839	gene	327	glnB_3			
+GBJJFIKL_01839	CDS	327	glnB_3		COG0347	Nitrogen regulatory protein P-II
+GBJJFIKL_01840	gene	1749				
+GBJJFIKL_01840	CDS	1749				hypothetical protein
+GBJJFIKL_01841	gene	1155	dnaJ_4			
+GBJJFIKL_01841	CDS	1155	dnaJ_4			Chaperone protein DnaJ
+GBJJFIKL_01842	gene	258				
+GBJJFIKL_01842	CDS	258				hypothetical protein
+GBJJFIKL_01843	gene	135				
+GBJJFIKL_01843	CDS	135				hypothetical protein
+GBJJFIKL_01844	gene	684				
+GBJJFIKL_01844	CDS	684				hypothetical protein
+GBJJFIKL_01845	gene	903	mdh_2			
+GBJJFIKL_01845	CDS	903	mdh_2	1.1.1.37		Malate dehydrogenase
+GBJJFIKL_01846	gene	333				
+GBJJFIKL_01846	CDS	333				hypothetical protein
+GBJJFIKL_01847	gene	873	IMPDH_2			
+GBJJFIKL_01847	CDS	873	IMPDH_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GBJJFIKL_01848	gene	1299	yhdG			
+GBJJFIKL_01848	CDS	1299	yhdG		COG0531	putative amino acid permease YhdG
+GBJJFIKL_01849	gene	636				
+GBJJFIKL_01849	CDS	636				hypothetical protein
+GBJJFIKL_01850	gene	879	prs			
+GBJJFIKL_01850	CDS	879	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GBJJFIKL_01851	gene	948				
+GBJJFIKL_01851	CDS	948				hypothetical protein
+GBJJFIKL_01852	gene	900	rnz			
+GBJJFIKL_01852	CDS	900	rnz	3.1.26.11	COG1234	Ribonuclease Z
+GBJJFIKL_01853	gene	717	cobB			
+GBJJFIKL_01853	CDS	717	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+GBJJFIKL_01854	gene	393				
+GBJJFIKL_01854	CDS	393				hypothetical protein
+GBJJFIKL_01855	gene	549				
+GBJJFIKL_01855	CDS	549				hypothetical protein
+GBJJFIKL_01856	gene	540	thpR			
+GBJJFIKL_01856	CDS	540	thpR	3.1.4.58		RNA 2',3'-cyclic phosphodiesterase
+GBJJFIKL_01857	gene	1332				
+GBJJFIKL_01857	CDS	1332				hypothetical protein
+GBJJFIKL_01858	gene	762				
+GBJJFIKL_01858	CDS	762				hypothetical protein
+GBJJFIKL_01859	gene	74				
+GBJJFIKL_01859	tRNA	74				tRNA-Pro(ggg)
+GBJJFIKL_01860	gene	210				
+GBJJFIKL_01860	CDS	210				hypothetical protein
+GBJJFIKL_01861	gene	1152				
+GBJJFIKL_01861	CDS	1152		1.8.5.4	COG0446	Sulfide-quinone reductase
+GBJJFIKL_01862	gene	741				
+GBJJFIKL_01862	CDS	741		1.-.-.-		putative oxidoreductase
+GBJJFIKL_01863	gene	234				
+GBJJFIKL_01863	CDS	234				hypothetical protein
+GBJJFIKL_01864	gene	285				
+GBJJFIKL_01864	CDS	285				hypothetical protein
+GBJJFIKL_01865	gene	558				
+GBJJFIKL_01865	CDS	558				hypothetical protein
+GBJJFIKL_01866	gene	1461	glnA_2			
+GBJJFIKL_01866	CDS	1461	glnA_2	6.3.1.2	COG0174	Glutamine synthetase
+GBJJFIKL_01867	gene	279				
+GBJJFIKL_01867	CDS	279				hypothetical protein
+GBJJFIKL_01868	gene	1704	groL_2			
+GBJJFIKL_01868	CDS	1704	groL_2		COG0459	60 kDa chaperonin
+GBJJFIKL_01869	gene	1323	glyA			
+GBJJFIKL_01869	CDS	1323	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+GBJJFIKL_01870	gene	3378				
+GBJJFIKL_01870	CDS	3378				hypothetical protein
+GBJJFIKL_01871	gene	753				
+GBJJFIKL_01871	CDS	753		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+GBJJFIKL_01872	gene	363				
+GBJJFIKL_01872	CDS	363				hypothetical protein
+GBJJFIKL_01873	gene	606				
+GBJJFIKL_01873	CDS	606				hypothetical protein
+GBJJFIKL_01874	gene	162				
+GBJJFIKL_01874	CDS	162				hypothetical protein
+GBJJFIKL_01875	gene	390				
+GBJJFIKL_01875	CDS	390				hypothetical protein
+GBJJFIKL_01876	gene	1203				
+GBJJFIKL_01876	CDS	1203				hypothetical protein
+GBJJFIKL_01877	gene	1449				
+GBJJFIKL_01877	CDS	1449				hypothetical protein
+GBJJFIKL_01878	gene	606				
+GBJJFIKL_01878	CDS	606				hypothetical protein
+GBJJFIKL_01879	gene	927				
+GBJJFIKL_01879	CDS	927				hypothetical protein
+GBJJFIKL_01880	gene	717				
+GBJJFIKL_01880	CDS	717				hypothetical protein
+GBJJFIKL_01881	gene	492				
+GBJJFIKL_01881	CDS	492				hypothetical protein
+GBJJFIKL_01882	gene	1539				
+GBJJFIKL_01882	CDS	1539				hypothetical protein
+GBJJFIKL_01883	gene	1359				
+GBJJFIKL_01883	CDS	1359		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+GBJJFIKL_01884	gene	654				
+GBJJFIKL_01884	CDS	654				hypothetical protein
+GBJJFIKL_01885	gene	498				
+GBJJFIKL_01885	CDS	498				hypothetical protein
+GBJJFIKL_01886	gene	2145	ftsH_4			
+GBJJFIKL_01886	CDS	2145	ftsH_4	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+GBJJFIKL_01887	gene	219				
+GBJJFIKL_01887	CDS	219				hypothetical protein
+GBJJFIKL_01888	gene	1002				
+GBJJFIKL_01888	CDS	1002				hypothetical protein
+GBJJFIKL_01889	gene	195				
+GBJJFIKL_01889	CDS	195				hypothetical protein
+GBJJFIKL_01890	gene	381	crcB			
+GBJJFIKL_01890	CDS	381	crcB			Putative fluoride ion transporter CrcB
+GBJJFIKL_01891	gene	462				
+GBJJFIKL_01891	CDS	462				hypothetical protein
+GBJJFIKL_01892	gene	423	teaD_4			
+GBJJFIKL_01892	CDS	423	teaD_4		COG0589	TRAP-T-associated universal stress protein TeaD
+GBJJFIKL_01893	gene	495	IMPDH_3			
+GBJJFIKL_01893	CDS	495	IMPDH_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GBJJFIKL_01894	gene	231				
+GBJJFIKL_01894	CDS	231				hypothetical protein
+GBJJFIKL_01895	gene	468	teaD_5			
+GBJJFIKL_01895	CDS	468	teaD_5		COG0589	TRAP-T-associated universal stress protein TeaD
+GBJJFIKL_01896	gene	423	teaD_6			
+GBJJFIKL_01896	CDS	423	teaD_6		COG0589	TRAP-T-associated universal stress protein TeaD
+GBJJFIKL_01897	gene	858	IMPDH_4			
+GBJJFIKL_01897	CDS	858	IMPDH_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+GBJJFIKL_01898	gene	1167				
+GBJJFIKL_01898	CDS	1167				hypothetical protein
+GBJJFIKL_01899	gene	354				
+GBJJFIKL_01899	CDS	354				hypothetical protein
+GBJJFIKL_01900	gene	579				
+GBJJFIKL_01900	CDS	579				hypothetical protein
+GBJJFIKL_01901	gene	330				
+GBJJFIKL_01901	CDS	330				hypothetical protein
+GBJJFIKL_01902	gene	1314	nrgA			
+GBJJFIKL_01902	CDS	1314	nrgA			Ammonium transporter
+GBJJFIKL_01903	gene	588				
+GBJJFIKL_01903	CDS	588				hypothetical protein
+GBJJFIKL_01904	gene	297				
+GBJJFIKL_01904	CDS	297				hypothetical protein
+GBJJFIKL_01905	gene	957				
+GBJJFIKL_01905	CDS	957				hypothetical protein
+GBJJFIKL_01906	gene	516	cysC			
+GBJJFIKL_01906	CDS	516	cysC	2.7.1.25	COG0529	putative adenylyl-sulfate kinase
+GBJJFIKL_01907	gene	816	cysQ_2			
+GBJJFIKL_01907	CDS	816	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+GBJJFIKL_01908	gene	207				
+GBJJFIKL_01908	CDS	207				hypothetical protein
+GBJJFIKL_01909	gene	744	bacC			
+GBJJFIKL_01909	CDS	744	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+GBJJFIKL_01910	gene	429				
+GBJJFIKL_01910	CDS	429				hypothetical protein
+GBJJFIKL_01911	gene	912				
+GBJJFIKL_01911	CDS	912				hypothetical protein
+GBJJFIKL_01912	gene	639				
+GBJJFIKL_01912	CDS	639				hypothetical protein
+GBJJFIKL_01913	gene	474				
+GBJJFIKL_01913	CDS	474				hypothetical protein
+GBJJFIKL_01914	gene	261				
+GBJJFIKL_01914	CDS	261				hypothetical protein
+GBJJFIKL_01915	gene	1029				
+GBJJFIKL_01915	CDS	1029				hypothetical protein
+GBJJFIKL_01916	gene	999				
+GBJJFIKL_01916	CDS	999				hypothetical protein
+GBJJFIKL_01917	gene	195				
+GBJJFIKL_01917	CDS	195				hypothetical protein
+GBJJFIKL_01918	gene	714	queE			
+GBJJFIKL_01918	CDS	714	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+GBJJFIKL_01919	gene	558	folE			
+GBJJFIKL_01919	CDS	558	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+GBJJFIKL_01920	gene	252				
+GBJJFIKL_01920	CDS	252				hypothetical protein
+GBJJFIKL_01921	gene	675	queC			
+GBJJFIKL_01921	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+GBJJFIKL_01922	gene	924	thrB_3			
+GBJJFIKL_01922	CDS	924	thrB_3	2.7.1.39	COG0083	Homoserine kinase
+GBJJFIKL_01923	gene	759				
+GBJJFIKL_01923	CDS	759				hypothetical protein
+GBJJFIKL_01924	gene	156				
+GBJJFIKL_01924	CDS	156				hypothetical protein
+GBJJFIKL_01925	gene	1065				
+GBJJFIKL_01925	CDS	1065				hypothetical protein
+GBJJFIKL_01926	gene	798				
+GBJJFIKL_01926	CDS	798		1.-.-.-		putative oxidoreductase
+GBJJFIKL_01927	gene	444				
+GBJJFIKL_01927	CDS	444				hypothetical protein
+GBJJFIKL_01928	gene	309				
+GBJJFIKL_01928	CDS	309				hypothetical protein
+GBJJFIKL_01929	gene	1236				
+GBJJFIKL_01929	CDS	1236				hypothetical protein
+GBJJFIKL_01930	gene	1113	thiI_2			
+GBJJFIKL_01930	CDS	1113	thiI_2	2.8.1.4		tRNA sulfurtransferase
+GBJJFIKL_01931	gene	717	cysH			
+GBJJFIKL_01931	CDS	717	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+GBJJFIKL_01932	gene	1137	sat			
+GBJJFIKL_01932	CDS	1137	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+GBJJFIKL_01933	gene	669				
+GBJJFIKL_01933	CDS	669				hypothetical protein
+GBJJFIKL_01934	gene	3993				
+GBJJFIKL_01934	CDS	3993				hypothetical protein
+GBJJFIKL_01935	gene	390				
+GBJJFIKL_01935	CDS	390				hypothetical protein
+GBJJFIKL_01936	gene	1155				
+GBJJFIKL_01936	CDS	1155				hypothetical protein
+GBJJFIKL_01937	gene	648	nth			
+GBJJFIKL_01937	CDS	648	nth	4.2.99.18	COG0177	Endonuclease III
+GBJJFIKL_01938	gene	699				
+GBJJFIKL_01938	CDS	699				hypothetical protein
+GBJJFIKL_01939	gene	198				
+GBJJFIKL_01939	CDS	198				hypothetical protein
+GBJJFIKL_01940	gene	750				
+GBJJFIKL_01940	CDS	750				hypothetical protein
+GBJJFIKL_01941	gene	648				
+GBJJFIKL_01941	CDS	648				hypothetical protein
+GBJJFIKL_01942	gene	762	murI			
+GBJJFIKL_01942	CDS	762	murI	5.1.1.3		Glutamate racemase
+GBJJFIKL_01943	gene	765	cbiF			
+GBJJFIKL_01943	CDS	765	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+GBJJFIKL_01944	gene	723	cbiL			
+GBJJFIKL_01944	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+GBJJFIKL_01945	gene	588	cbiT			
+GBJJFIKL_01945	CDS	588	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+GBJJFIKL_01946	gene	474				
+GBJJFIKL_01946	CDS	474				hypothetical protein
+GBJJFIKL_01947	gene	1917				
+GBJJFIKL_01947	CDS	1917				hypothetical protein
+GBJJFIKL_01948	gene	498				
+GBJJFIKL_01948	CDS	498				hypothetical protein
+GBJJFIKL_01949	gene	576				
+GBJJFIKL_01949	CDS	576				hypothetical protein
+GBJJFIKL_01950	gene	1056				
+GBJJFIKL_01950	CDS	1056				hypothetical protein
+GBJJFIKL_01951	gene	393				
+GBJJFIKL_01951	CDS	393				hypothetical protein
+GBJJFIKL_01952	gene	5172				
+GBJJFIKL_01952	CDS	5172				hypothetical protein
+GBJJFIKL_01953	gene	1605				
+GBJJFIKL_01953	CDS	1605				hypothetical protein
+GBJJFIKL_01954	gene	183				
+GBJJFIKL_01954	CDS	183				hypothetical protein
+GBJJFIKL_01955	gene	315				
+GBJJFIKL_01955	CDS	315				hypothetical protein
+GBJJFIKL_01956	gene	147				
+GBJJFIKL_01956	CDS	147				hypothetical protein
+GBJJFIKL_01957	gene	273				
+GBJJFIKL_01957	CDS	273				hypothetical protein
+GBJJFIKL_01958	gene	366				
+GBJJFIKL_01958	CDS	366				hypothetical protein
+GBJJFIKL_01959	gene	405				
+GBJJFIKL_01959	CDS	405				hypothetical protein
+GBJJFIKL_01960	gene	423				
+GBJJFIKL_01960	CDS	423				hypothetical protein
+GBJJFIKL_01961	gene	324				
+GBJJFIKL_01961	CDS	324				hypothetical protein
+GBJJFIKL_01962	gene	312				
+GBJJFIKL_01962	CDS	312				hypothetical protein
+GBJJFIKL_01963	gene	225				
+GBJJFIKL_01963	CDS	225				hypothetical protein

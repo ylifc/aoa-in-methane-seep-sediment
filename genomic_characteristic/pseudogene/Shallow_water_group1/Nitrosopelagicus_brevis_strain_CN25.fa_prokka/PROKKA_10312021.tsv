@@ -1,0 +1,3021 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FPCHIDEK_00001	gene	1356				
+FPCHIDEK_00001	CDS	1356				hypothetical protein
+FPCHIDEK_00002	gene	1476				
+FPCHIDEK_00002	CDS	1476				hypothetical protein
+FPCHIDEK_00003	gene	528				
+FPCHIDEK_00003	CDS	528				hypothetical protein
+FPCHIDEK_00004	gene	741				
+FPCHIDEK_00004	CDS	741		1.-.-.-		putative oxidoreductase
+FPCHIDEK_00005	gene	231				
+FPCHIDEK_00005	CDS	231				hypothetical protein
+FPCHIDEK_00006	gene	1368				
+FPCHIDEK_00006	CDS	1368				hypothetical protein
+FPCHIDEK_00007	gene	1341				
+FPCHIDEK_00007	CDS	1341				hypothetical protein
+FPCHIDEK_00008	gene	540				
+FPCHIDEK_00008	CDS	540		3.1.4.58	COG1514	RNA 2',3'-cyclic phosphodiesterase
+FPCHIDEK_00009	gene	549				
+FPCHIDEK_00009	CDS	549				hypothetical protein
+FPCHIDEK_00010	gene	384				
+FPCHIDEK_00010	CDS	384				hypothetical protein
+FPCHIDEK_00011	gene	288				
+FPCHIDEK_00011	CDS	288				hypothetical protein
+FPCHIDEK_00012	gene	897	rnz			
+FPCHIDEK_00012	CDS	897	rnz	3.1.26.11	COG1234	Ribonuclease Z
+FPCHIDEK_00013	gene	876	prs			
+FPCHIDEK_00013	CDS	876	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FPCHIDEK_00014	gene	615				
+FPCHIDEK_00014	CDS	615				hypothetical protein
+FPCHIDEK_00015	gene	1812				
+FPCHIDEK_00015	CDS	1812				hypothetical protein
+FPCHIDEK_00016	gene	1377				
+FPCHIDEK_00016	CDS	1377				hypothetical protein
+FPCHIDEK_00017	gene	327				
+FPCHIDEK_00017	CDS	327				hypothetical protein
+FPCHIDEK_00018	gene	540				
+FPCHIDEK_00018	CDS	540				hypothetical protein
+FPCHIDEK_00019	gene	513	cysC			
+FPCHIDEK_00019	CDS	513	cysC	2.7.1.25		putative adenylyl-sulfate kinase
+FPCHIDEK_00020	gene	819	cysQ_1			
+FPCHIDEK_00020	CDS	819	cysQ_1	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+FPCHIDEK_00021	gene	228				
+FPCHIDEK_00021	CDS	228				hypothetical protein
+FPCHIDEK_00022	gene	435				
+FPCHIDEK_00022	CDS	435				hypothetical protein
+FPCHIDEK_00023	gene	522				
+FPCHIDEK_00023	CDS	522				hypothetical protein
+FPCHIDEK_00024	gene	660				
+FPCHIDEK_00024	CDS	660				hypothetical protein
+FPCHIDEK_00025	gene	174				
+FPCHIDEK_00025	CDS	174				hypothetical protein
+FPCHIDEK_00026	gene	1152				
+FPCHIDEK_00026	CDS	1152				hypothetical protein
+FPCHIDEK_00027	gene	1524				
+FPCHIDEK_00027	CDS	1524				hypothetical protein
+FPCHIDEK_00028	gene	480				
+FPCHIDEK_00028	CDS	480				hypothetical protein
+FPCHIDEK_00029	gene	288				
+FPCHIDEK_00029	CDS	288				hypothetical protein
+FPCHIDEK_00030	gene	1029				
+FPCHIDEK_00030	CDS	1029				hypothetical protein
+FPCHIDEK_00031	gene	1083				
+FPCHIDEK_00031	CDS	1083				hypothetical protein
+FPCHIDEK_00032	gene	198				
+FPCHIDEK_00032	CDS	198				hypothetical protein
+FPCHIDEK_00033	gene	540	folE			
+FPCHIDEK_00033	CDS	540	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+FPCHIDEK_00034	gene	315				
+FPCHIDEK_00034	CDS	315				hypothetical protein
+FPCHIDEK_00035	gene	675	queC			
+FPCHIDEK_00035	CDS	675	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+FPCHIDEK_00036	gene	921	thrB_1			
+FPCHIDEK_00036	CDS	921	thrB_1	2.7.1.39	COG0083	Homoserine kinase
+FPCHIDEK_00037	gene	759				
+FPCHIDEK_00037	CDS	759				hypothetical protein
+FPCHIDEK_00038	gene	1017				
+FPCHIDEK_00038	CDS	1017				hypothetical protein
+FPCHIDEK_00039	gene	801	hcaB			
+FPCHIDEK_00039	CDS	801	hcaB	1.3.1.87		3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase
+FPCHIDEK_00040	gene	366				
+FPCHIDEK_00040	CDS	366				hypothetical protein
+FPCHIDEK_00041	gene	342				
+FPCHIDEK_00041	CDS	342				hypothetical protein
+FPCHIDEK_00042	gene	1230				
+FPCHIDEK_00042	CDS	1230				hypothetical protein
+FPCHIDEK_00043	gene	1119				
+FPCHIDEK_00043	CDS	1119				hypothetical protein
+FPCHIDEK_00044	gene	720	cysH			
+FPCHIDEK_00044	CDS	720	cysH	1.8.4.10		Thioredoxin-dependent 5'-adenylylsulfate reductase
+FPCHIDEK_00045	gene	1128	sat			
+FPCHIDEK_00045	CDS	1128	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+FPCHIDEK_00046	gene	672				
+FPCHIDEK_00046	CDS	672				hypothetical protein
+FPCHIDEK_00047	gene	699	nth			
+FPCHIDEK_00047	CDS	699	nth	4.2.99.18		Endonuclease III
+FPCHIDEK_00048	gene	1164				
+FPCHIDEK_00048	CDS	1164				hypothetical protein
+FPCHIDEK_00049	gene	384				
+FPCHIDEK_00049	CDS	384				hypothetical protein
+FPCHIDEK_00050	gene	1905				
+FPCHIDEK_00050	CDS	1905				hypothetical protein
+FPCHIDEK_00051	gene	540				
+FPCHIDEK_00051	CDS	540				hypothetical protein
+FPCHIDEK_00052	gene	591	cbiT			
+FPCHIDEK_00052	CDS	591	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+FPCHIDEK_00053	gene	723	cbiL			
+FPCHIDEK_00053	CDS	723	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+FPCHIDEK_00054	gene	777	cbiF			
+FPCHIDEK_00054	CDS	777	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+FPCHIDEK_00055	gene	744	murI			
+FPCHIDEK_00055	CDS	744	murI	5.1.1.3		Glutamate racemase
+FPCHIDEK_00056	gene	666				
+FPCHIDEK_00056	CDS	666				hypothetical protein
+FPCHIDEK_00057	gene	714				
+FPCHIDEK_00057	CDS	714		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+FPCHIDEK_00058	gene	1458	glyQS			
+FPCHIDEK_00058	CDS	1458	glyQS	6.1.1.14		Glycine--tRNA ligase
+FPCHIDEK_00059	gene	840	nfo			
+FPCHIDEK_00059	CDS	840	nfo	3.1.21.2	COG0648	putative endonuclease 4
+FPCHIDEK_00060	gene	1011				
+FPCHIDEK_00060	CDS	1011				hypothetical protein
+FPCHIDEK_00061	gene	1122				
+FPCHIDEK_00061	CDS	1122				hypothetical protein
+FPCHIDEK_00062	gene	2853				
+FPCHIDEK_00062	CDS	2853				hypothetical protein
+FPCHIDEK_00063	gene	537	guaA_1			
+FPCHIDEK_00063	CDS	537	guaA_1	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+FPCHIDEK_00064	gene	969				
+FPCHIDEK_00064	CDS	969				hypothetical protein
+FPCHIDEK_00065	gene	174				
+FPCHIDEK_00065	CDS	174				hypothetical protein
+FPCHIDEK_00066	gene	186				
+FPCHIDEK_00066	CDS	186				hypothetical protein
+FPCHIDEK_00067	gene	435				
+FPCHIDEK_00067	CDS	435				hypothetical protein
+FPCHIDEK_00068	gene	1365	phr			
+FPCHIDEK_00068	CDS	1365	phr	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+FPCHIDEK_00069	gene	561				
+FPCHIDEK_00069	CDS	561				hypothetical protein
+FPCHIDEK_00070	gene	1056				
+FPCHIDEK_00070	CDS	1056				hypothetical protein
+FPCHIDEK_00071	gene	162				
+FPCHIDEK_00071	CDS	162				hypothetical protein
+FPCHIDEK_00072	gene	687				
+FPCHIDEK_00072	CDS	687				hypothetical protein
+FPCHIDEK_00073	gene	420				
+FPCHIDEK_00073	CDS	420				hypothetical protein
+FPCHIDEK_00074	gene	600				
+FPCHIDEK_00074	CDS	600				hypothetical protein
+FPCHIDEK_00075	gene	492				
+FPCHIDEK_00075	CDS	492				hypothetical protein
+FPCHIDEK_00076	gene	279				
+FPCHIDEK_00076	CDS	279				hypothetical protein
+FPCHIDEK_00077	gene	1524	phrB			
+FPCHIDEK_00077	CDS	1524	phrB	4.1.99.13	COG3046	(6-4) photolyase
+FPCHIDEK_00078	gene	423				
+FPCHIDEK_00078	CDS	423				hypothetical protein
+FPCHIDEK_00079	gene	804				
+FPCHIDEK_00079	CDS	804				hypothetical protein
+FPCHIDEK_00080	gene	111				
+FPCHIDEK_00080	CDS	111				hypothetical protein
+FPCHIDEK_00081	gene	528	relA			
+FPCHIDEK_00081	CDS	528	relA			Bifunctional (p)ppGpp synthase/hydrolase RelA
+FPCHIDEK_00082	gene	480				
+FPCHIDEK_00082	CDS	480				hypothetical protein
+FPCHIDEK_00083	gene	1695	yoaA			
+FPCHIDEK_00083	CDS	1695	yoaA	3.6.4.12	COG1199	putative ATP-dependent DNA helicase YoaA
+FPCHIDEK_00084	gene	300				
+FPCHIDEK_00084	CDS	300				hypothetical protein
+FPCHIDEK_00085	gene	1011	iolS_1			
+FPCHIDEK_00085	CDS	1011	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+FPCHIDEK_00086	gene	153				
+FPCHIDEK_00086	CDS	153				hypothetical protein
+FPCHIDEK_00087	gene	801				
+FPCHIDEK_00087	CDS	801				hypothetical protein
+FPCHIDEK_00088	gene	534	cobO			
+FPCHIDEK_00088	CDS	534	cobO	2.5.1.17		Corrinoid adenosyltransferase
+FPCHIDEK_00089	gene	1344	cbiA			
+FPCHIDEK_00089	CDS	1344	cbiA	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+FPCHIDEK_00090	gene	636	cbiC			
+FPCHIDEK_00090	CDS	636	cbiC	5.4.99.60	COG2082	Cobalt-precorrin-8 methylmutase
+FPCHIDEK_00091	gene	753	cbiX			
+FPCHIDEK_00091	CDS	753	cbiX	4.99.1.3	COG2138	Sirohydrochlorin cobaltochelatase
+FPCHIDEK_00092	gene	1059	cbiG			
+FPCHIDEK_00092	CDS	1059	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+FPCHIDEK_00093	gene	1110	cbiD			
+FPCHIDEK_00093	CDS	1110	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+FPCHIDEK_00094	gene	474	dnaJ_1			
+FPCHIDEK_00094	CDS	474	dnaJ_1			Chaperone protein DnaJ
+FPCHIDEK_00095	gene	816				
+FPCHIDEK_00095	CDS	816				hypothetical protein
+FPCHIDEK_00096	gene	1158	metK			
+FPCHIDEK_00096	CDS	1158	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+FPCHIDEK_00097	gene	246				
+FPCHIDEK_00097	CDS	246				hypothetical protein
+FPCHIDEK_00098	gene	660	radA			
+FPCHIDEK_00098	CDS	660	radA			DNA repair protein RadA
+FPCHIDEK_00099	gene	120				
+FPCHIDEK_00099	CDS	120				hypothetical protein
+FPCHIDEK_00100	gene	2769	dbpA_1			
+FPCHIDEK_00100	CDS	2769	dbpA_1	3.6.4.13		ATP-dependent RNA helicase DbpA
+FPCHIDEK_00101	gene	1395				
+FPCHIDEK_00101	CDS	1395				hypothetical protein
+FPCHIDEK_00102	gene	945	lnrL			
+FPCHIDEK_00102	CDS	945	lnrL	3.6.3.-	COG1131	Linearmycin resistance ATP-binding protein LnrL
+FPCHIDEK_00103	gene	762				
+FPCHIDEK_00103	CDS	762				hypothetical protein
+FPCHIDEK_00104	gene	72				
+FPCHIDEK_00104	tRNA	72				tRNA-Gln(ttg)
+FPCHIDEK_00105	gene	1029				
+FPCHIDEK_00105	CDS	1029				hypothetical protein
+FPCHIDEK_00106	gene	1137				
+FPCHIDEK_00106	CDS	1137				hypothetical protein
+FPCHIDEK_00107	gene	510	grpE			
+FPCHIDEK_00107	CDS	510	grpE		COG0576	Protein GrpE
+FPCHIDEK_00108	gene	1896	dnaK			
+FPCHIDEK_00108	CDS	1896	dnaK		COG0443	Chaperone protein DnaK
+FPCHIDEK_00109	gene	1095	dnaJ_2			
+FPCHIDEK_00109	CDS	1095	dnaJ_2		COG0484	Chaperone protein DnaJ
+FPCHIDEK_00110	gene	165				
+FPCHIDEK_00110	CDS	165				hypothetical protein
+FPCHIDEK_00111	gene	87				
+FPCHIDEK_00111	tRNA	87				tRNA-Leu(cag)
+FPCHIDEK_00112	gene	261				
+FPCHIDEK_00112	CDS	261				hypothetical protein
+FPCHIDEK_00113	gene	1899	GATB			
+FPCHIDEK_00113	CDS	1899	GATB	6.3.5.-		Glutamyl-tRNA(Gln) amidotransferase subunit B, chloroplastic/mitochondrial
+FPCHIDEK_00114	gene	1293				
+FPCHIDEK_00114	CDS	1293				hypothetical protein
+FPCHIDEK_00115	gene	2235	ftsH_1			
+FPCHIDEK_00115	CDS	2235	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPCHIDEK_00116	gene	744				
+FPCHIDEK_00116	CDS	744				hypothetical protein
+FPCHIDEK_00117	gene	279	acyP			
+FPCHIDEK_00117	CDS	279	acyP	3.6.1.7	COG1254	Acylphosphatase
+FPCHIDEK_00118	gene	327				
+FPCHIDEK_00118	CDS	327				hypothetical protein
+FPCHIDEK_00119	gene	312				
+FPCHIDEK_00119	misc_RNA	312				Archaea_SRP
+FPCHIDEK_00120	gene	981	ttuA			
+FPCHIDEK_00120	CDS	981	ttuA	2.8.1.-	COG0037	tRNA-5-methyluridine(54) 2-sulfurtransferase
+FPCHIDEK_00121	gene	1239				
+FPCHIDEK_00121	CDS	1239				hypothetical protein
+FPCHIDEK_00122	gene	312	cutA			
+FPCHIDEK_00122	CDS	312	cutA		COG1324	Divalent-cation tolerance protein CutA
+FPCHIDEK_00123	gene	1053				
+FPCHIDEK_00123	CDS	1053				hypothetical protein
+FPCHIDEK_00124	gene	399				
+FPCHIDEK_00124	CDS	399				hypothetical protein
+FPCHIDEK_00125	gene	420				
+FPCHIDEK_00125	CDS	420				hypothetical protein
+FPCHIDEK_00126	gene	165				
+FPCHIDEK_00126	CDS	165				hypothetical protein
+FPCHIDEK_00127	gene	462	dtxR			
+FPCHIDEK_00127	CDS	462	dtxR			Diphtheria toxin repressor
+FPCHIDEK_00128	gene	768				
+FPCHIDEK_00128	CDS	768				hypothetical protein
+FPCHIDEK_00129	gene	1674	moaA			
+FPCHIDEK_00129	CDS	1674	moaA			GTP 3',8-cyclase
+FPCHIDEK_00130	gene	1350				
+FPCHIDEK_00130	CDS	1350				hypothetical protein
+FPCHIDEK_00131	gene	951	mshA_1			
+FPCHIDEK_00131	CDS	951	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPCHIDEK_00132	gene	1059	desV			
+FPCHIDEK_00132	CDS	1059	desV	2.6.1.106		dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+FPCHIDEK_00133	gene	1065	mshA_2			
+FPCHIDEK_00133	CDS	1065	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPCHIDEK_00134	gene	897	wbgU			
+FPCHIDEK_00134	CDS	897	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+FPCHIDEK_00135	gene	1308	tuaD			
+FPCHIDEK_00135	CDS	1308	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+FPCHIDEK_00136	gene	840	gtaB			
+FPCHIDEK_00136	CDS	840	gtaB	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FPCHIDEK_00137	gene	1368	wbpA			
+FPCHIDEK_00137	CDS	1368	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+FPCHIDEK_00138	gene	1221	asnB_1			
+FPCHIDEK_00138	CDS	1221	asnB_1	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+FPCHIDEK_00139	gene	798				
+FPCHIDEK_00139	CDS	798				hypothetical protein
+FPCHIDEK_00140	gene	1083	mshA_3			
+FPCHIDEK_00140	CDS	1083	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPCHIDEK_00141	gene	1110				
+FPCHIDEK_00141	CDS	1110				hypothetical protein
+FPCHIDEK_00142	gene	852				
+FPCHIDEK_00142	CDS	852				hypothetical protein
+FPCHIDEK_00143	gene	573				
+FPCHIDEK_00143	CDS	573				hypothetical protein
+FPCHIDEK_00144	gene	534				
+FPCHIDEK_00144	CDS	534				hypothetical protein
+FPCHIDEK_00145	gene	546				
+FPCHIDEK_00145	CDS	546				hypothetical protein
+FPCHIDEK_00146	gene	513				
+FPCHIDEK_00146	CDS	513				hypothetical protein
+FPCHIDEK_00147	gene	1350				
+FPCHIDEK_00147	CDS	1350				hypothetical protein
+FPCHIDEK_00148	gene	1035				
+FPCHIDEK_00148	CDS	1035		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+FPCHIDEK_00149	gene	837				
+FPCHIDEK_00149	CDS	837				hypothetical protein
+FPCHIDEK_00150	gene	942	rfbB_1			
+FPCHIDEK_00150	CDS	942	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FPCHIDEK_00151	gene	1017	per			
+FPCHIDEK_00151	CDS	1017	per	2.6.1.102	COG0399	GDP-perosamine synthase
+FPCHIDEK_00152	gene	1185				
+FPCHIDEK_00152	CDS	1185				hypothetical protein
+FPCHIDEK_00153	gene	876				
+FPCHIDEK_00153	CDS	876				hypothetical protein
+FPCHIDEK_00154	gene	984				
+FPCHIDEK_00154	CDS	984				hypothetical protein
+FPCHIDEK_00155	gene	1608				
+FPCHIDEK_00155	CDS	1608				hypothetical protein
+FPCHIDEK_00156	gene	1149				
+FPCHIDEK_00156	CDS	1149				hypothetical protein
+FPCHIDEK_00157	gene	456				
+FPCHIDEK_00157	CDS	456				hypothetical protein
+FPCHIDEK_00158	gene	993	rfbB_2			
+FPCHIDEK_00158	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FPCHIDEK_00159	gene	1068	cugP_1			
+FPCHIDEK_00159	CDS	1068	cugP_1	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FPCHIDEK_00160	gene	702				
+FPCHIDEK_00160	CDS	702				hypothetical protein
+FPCHIDEK_00161	gene	1047				
+FPCHIDEK_00161	CDS	1047				hypothetical protein
+FPCHIDEK_00162	gene	375				
+FPCHIDEK_00162	CDS	375				hypothetical protein
+FPCHIDEK_00163	gene	399	epi_1			
+FPCHIDEK_00163	CDS	399	epi_1	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+FPCHIDEK_00164	gene	237				
+FPCHIDEK_00164	CDS	237				hypothetical protein
+FPCHIDEK_00165	gene	1755				
+FPCHIDEK_00165	CDS	1755				hypothetical protein
+FPCHIDEK_00166	gene	546	dapH			
+FPCHIDEK_00166	CDS	546	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FPCHIDEK_00167	gene	828				
+FPCHIDEK_00167	CDS	828				hypothetical protein
+FPCHIDEK_00168	gene	1194	mshA_4			
+FPCHIDEK_00168	CDS	1194	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+FPCHIDEK_00169	gene	1158	arnB_1			
+FPCHIDEK_00169	CDS	1158	arnB_1	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+FPCHIDEK_00170	gene	1032				
+FPCHIDEK_00170	CDS	1032		1.1.1.384		dTDP-3,4-didehydro-2,6-dideoxy-alpha-D-glucose 3-reductase
+FPCHIDEK_00171	gene	750	evaA			
+FPCHIDEK_00171	CDS	750	evaA	4.2.1.159		dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+FPCHIDEK_00172	gene	885	arnC_1			
+FPCHIDEK_00172	CDS	885	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FPCHIDEK_00173	gene	1812				
+FPCHIDEK_00173	CDS	1812				hypothetical protein
+FPCHIDEK_00174	gene	153				
+FPCHIDEK_00174	CDS	153				hypothetical protein
+FPCHIDEK_00175	gene	351				
+FPCHIDEK_00175	CDS	351				hypothetical protein
+FPCHIDEK_00176	gene	1704	novN			
+FPCHIDEK_00176	CDS	1704	novN	2.1.3.12		Decarbamoylnovobiocin carbamoyltransferase
+FPCHIDEK_00177	gene	1080				
+FPCHIDEK_00177	CDS	1080				hypothetical protein
+FPCHIDEK_00178	gene	981	rfbB_3			
+FPCHIDEK_00178	CDS	981	rfbB_3	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FPCHIDEK_00179	gene	1011	hddA			
+FPCHIDEK_00179	CDS	1011	hddA	2.7.1.168		D-glycero-alpha-D-manno-heptose 7-phosphate kinase
+FPCHIDEK_00180	gene	591	gmhA1_1			
+FPCHIDEK_00180	CDS	591	gmhA1_1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+FPCHIDEK_00181	gene	504	gmhB			
+FPCHIDEK_00181	CDS	504	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+FPCHIDEK_00182	gene	1002				
+FPCHIDEK_00182	CDS	1002				hypothetical protein
+FPCHIDEK_00183	gene	939	rfbB_4			
+FPCHIDEK_00183	CDS	939	rfbB_4	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FPCHIDEK_00184	gene	1983				
+FPCHIDEK_00184	CDS	1983				hypothetical protein
+FPCHIDEK_00185	gene	711	arnC_2			
+FPCHIDEK_00185	CDS	711	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FPCHIDEK_00186	gene	1761				
+FPCHIDEK_00186	CDS	1761				hypothetical protein
+FPCHIDEK_00187	gene	963				
+FPCHIDEK_00187	CDS	963				hypothetical protein
+FPCHIDEK_00188	gene	1005	pseB			
+FPCHIDEK_00188	CDS	1005	pseB	4.2.1.115	COG1086	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+FPCHIDEK_00189	gene	714	bshB1			
+FPCHIDEK_00189	CDS	714	bshB1	3.5.1.-	COG2120	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+FPCHIDEK_00190	gene	660	fmt			
+FPCHIDEK_00190	CDS	660	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+FPCHIDEK_00191	gene	522	speG_1			
+FPCHIDEK_00191	CDS	522	speG_1	2.3.1.57		Spermidine N(1)-acetyltransferase
+FPCHIDEK_00192	gene	510	speG_2			
+FPCHIDEK_00192	CDS	510	speG_2	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+FPCHIDEK_00193	gene	1059	spsE			
+FPCHIDEK_00193	CDS	1059	spsE		COG2089	Spore coat polysaccharide biosynthesis protein SpsE
+FPCHIDEK_00194	gene	1086	arnB_2			
+FPCHIDEK_00194	CDS	1086	arnB_2	2.6.1.87	COG0399	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+FPCHIDEK_00195	gene	780	kdsB			
+FPCHIDEK_00195	CDS	780	kdsB	2.7.7.38		8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+FPCHIDEK_00196	gene	1512				
+FPCHIDEK_00196	CDS	1512				hypothetical protein
+FPCHIDEK_00197	gene	768	COQ3			
+FPCHIDEK_00197	CDS	768	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+FPCHIDEK_00198	gene	2130				
+FPCHIDEK_00198	CDS	2130				hypothetical protein
+FPCHIDEK_00199	gene	516				
+FPCHIDEK_00199	CDS	516		3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+FPCHIDEK_00200	gene	834	legI			
+FPCHIDEK_00200	CDS	834	legI	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+FPCHIDEK_00201	gene	561	gmhA1_2			
+FPCHIDEK_00201	CDS	561	gmhA1_2	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+FPCHIDEK_00202	gene	1008				
+FPCHIDEK_00202	CDS	1008				hypothetical protein
+FPCHIDEK_00203	gene	1035	mtnA			
+FPCHIDEK_00203	CDS	1035	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+FPCHIDEK_00204	gene	642				
+FPCHIDEK_00204	CDS	642				hypothetical protein
+FPCHIDEK_00205	gene	240				
+FPCHIDEK_00205	CDS	240				hypothetical protein
+FPCHIDEK_00206	gene	75				
+FPCHIDEK_00206	tRNA	75				tRNA-Arg(tcg)
+FPCHIDEK_00207	gene	1173	alaA			
+FPCHIDEK_00207	CDS	1173	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA
+FPCHIDEK_00208	gene	402				
+FPCHIDEK_00208	CDS	402				hypothetical protein
+FPCHIDEK_00209	gene	237				
+FPCHIDEK_00209	CDS	237				hypothetical protein
+FPCHIDEK_00210	gene	672				
+FPCHIDEK_00210	CDS	672				hypothetical protein
+FPCHIDEK_00211	gene	618	pspA			
+FPCHIDEK_00211	CDS	618	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+FPCHIDEK_00212	gene	264				
+FPCHIDEK_00212	CDS	264				hypothetical protein
+FPCHIDEK_00213	gene	432	coxM			
+FPCHIDEK_00213	CDS	432	coxM	1.9.3.1	COG1622	Alternative cytochrome c oxidase subunit 2
+FPCHIDEK_00214	gene	1527	ctaD			
+FPCHIDEK_00214	CDS	1527	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+FPCHIDEK_00215	gene	984	petE_1			
+FPCHIDEK_00215	CDS	984	petE_1			Plastocyanin
+FPCHIDEK_00216	gene	444	ctaA			
+FPCHIDEK_00216	CDS	444	ctaA	1.3.-.-	COG1612	Heme A synthase
+FPCHIDEK_00217	gene	525				
+FPCHIDEK_00217	CDS	525				hypothetical protein
+FPCHIDEK_00218	gene	603				
+FPCHIDEK_00218	CDS	603				hypothetical protein
+FPCHIDEK_00219	gene	75				
+FPCHIDEK_00219	tRNA	75				tRNA-Lys(ctt)
+FPCHIDEK_00220	gene	171				
+FPCHIDEK_00220	CDS	171				hypothetical protein
+FPCHIDEK_00221	gene	915	ilvE_1			
+FPCHIDEK_00221	CDS	915	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+FPCHIDEK_00222	gene	1416				
+FPCHIDEK_00222	CDS	1416				hypothetical protein
+FPCHIDEK_00223	gene	1035	murG			
+FPCHIDEK_00223	CDS	1035	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FPCHIDEK_00224	gene	76				
+FPCHIDEK_00224	tRNA	76				tRNA-Val(tac)
+FPCHIDEK_00225	gene	252				
+FPCHIDEK_00225	CDS	252				hypothetical protein
+FPCHIDEK_00226	gene	882				
+FPCHIDEK_00226	CDS	882				hypothetical protein
+FPCHIDEK_00227	gene	621				
+FPCHIDEK_00227	CDS	621				hypothetical protein
+FPCHIDEK_00228	gene	561				
+FPCHIDEK_00228	CDS	561		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+FPCHIDEK_00229	gene	1020				
+FPCHIDEK_00229	CDS	1020				hypothetical protein
+FPCHIDEK_00230	gene	942				
+FPCHIDEK_00230	CDS	942				hypothetical protein
+FPCHIDEK_00231	gene	1074				
+FPCHIDEK_00231	CDS	1074				hypothetical protein
+FPCHIDEK_00232	gene	75				
+FPCHIDEK_00232	tRNA	75				tRNA-His(gtg)
+FPCHIDEK_00233	gene	348				
+FPCHIDEK_00233	CDS	348				hypothetical protein
+FPCHIDEK_00234	gene	762	cmoA_1			
+FPCHIDEK_00234	CDS	762	cmoA_1	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+FPCHIDEK_00235	gene	264				
+FPCHIDEK_00235	CDS	264				hypothetical protein
+FPCHIDEK_00236	gene	309	bphA3_1			
+FPCHIDEK_00236	CDS	309	bphA3_1			Biphenyl 2,3-dioxygenase, ferredoxin component
+FPCHIDEK_00237	gene	810				
+FPCHIDEK_00237	CDS	810				hypothetical protein
+FPCHIDEK_00238	gene	864				
+FPCHIDEK_00238	CDS	864				hypothetical protein
+FPCHIDEK_00239	gene	1719	glnS			
+FPCHIDEK_00239	CDS	1719	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+FPCHIDEK_00240	gene	408	nikR			
+FPCHIDEK_00240	CDS	408	nikR			Nickel-responsive regulator
+FPCHIDEK_00241	gene	1086	znuA			
+FPCHIDEK_00241	CDS	1086	znuA		COG0803	High-affinity zinc uptake system binding-protein ZnuA
+FPCHIDEK_00242	gene	219				
+FPCHIDEK_00242	CDS	219				hypothetical protein
+FPCHIDEK_00243	gene	816	scaC			
+FPCHIDEK_00243	CDS	816	scaC	7.2.2.5	COG1121	Manganese import ATP-binding protein ScaC
+FPCHIDEK_00244	gene	855	mntB			
+FPCHIDEK_00244	CDS	855	mntB			Manganese transport system membrane protein MntB
+FPCHIDEK_00245	gene	1062	bepA			
+FPCHIDEK_00245	CDS	1062	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+FPCHIDEK_00246	gene	234				
+FPCHIDEK_00246	CDS	234				hypothetical protein
+FPCHIDEK_00247	gene	984	hexs-b			
+FPCHIDEK_00247	CDS	984	hexs-b	2.5.1.83		Hexaprenyl-diphosphate synthase large subunit ((2E,6E)-farnesyl-diphosphate specific)
+FPCHIDEK_00248	gene	639	idi			
+FPCHIDEK_00248	CDS	639	idi	5.3.3.2		Isopentenyl-diphosphate Delta-isomerase
+FPCHIDEK_00249	gene	741	argB			
+FPCHIDEK_00249	CDS	741	argB	2.7.2.8		Acetylglutamate kinase
+FPCHIDEK_00250	gene	948	galK			
+FPCHIDEK_00250	CDS	948	galK	2.7.1.6		Galactokinase
+FPCHIDEK_00251	gene	618				
+FPCHIDEK_00251	CDS	618				hypothetical protein
+FPCHIDEK_00252	gene	1239	eno			
+FPCHIDEK_00252	CDS	1239	eno	4.2.1.11	COG0148	Enolase
+FPCHIDEK_00253	gene	237				
+FPCHIDEK_00253	CDS	237				hypothetical protein
+FPCHIDEK_00254	gene	87				
+FPCHIDEK_00254	tRNA	87				tRNA-Leu(gag)
+FPCHIDEK_00255	gene	618				
+FPCHIDEK_00255	CDS	618				hypothetical protein
+FPCHIDEK_00256	gene	648	nnr_1			
+FPCHIDEK_00256	CDS	648	nnr_1		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FPCHIDEK_00257	gene	612	pksB			
+FPCHIDEK_00257	CDS	612	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+FPCHIDEK_00258	gene	1056	cobT			
+FPCHIDEK_00258	CDS	1056	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+FPCHIDEK_00259	gene	1758	glmS			
+FPCHIDEK_00259	CDS	1758	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FPCHIDEK_00260	gene	624				
+FPCHIDEK_00260	CDS	624				hypothetical protein
+FPCHIDEK_00261	gene	606				
+FPCHIDEK_00261	CDS	606				hypothetical protein
+FPCHIDEK_00262	gene	315				
+FPCHIDEK_00262	CDS	315				hypothetical protein
+FPCHIDEK_00263	gene	507				
+FPCHIDEK_00263	CDS	507				hypothetical protein
+FPCHIDEK_00264	gene	1068				
+FPCHIDEK_00264	CDS	1068				hypothetical protein
+FPCHIDEK_00265	gene	1167	zupT			
+FPCHIDEK_00265	CDS	1167	zupT			Zinc transporter ZupT
+FPCHIDEK_00266	gene	972				
+FPCHIDEK_00266	CDS	972				hypothetical protein
+FPCHIDEK_00267	gene	324				
+FPCHIDEK_00267	CDS	324				hypothetical protein
+FPCHIDEK_00268	gene	198				
+FPCHIDEK_00268	CDS	198				hypothetical protein
+FPCHIDEK_00269	gene	1587				
+FPCHIDEK_00269	CDS	1587				hypothetical protein
+FPCHIDEK_00270	gene	771	larB			
+FPCHIDEK_00270	CDS	771	larB	2.5.1.143	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+FPCHIDEK_00271	gene	915	mdh			
+FPCHIDEK_00271	CDS	915	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+FPCHIDEK_00272	gene	1215	larC			
+FPCHIDEK_00272	CDS	1215	larC	4.99.1.12		Pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel insertion protein
+FPCHIDEK_00273	gene	804	larE			
+FPCHIDEK_00273	CDS	804	larE	4.4.1.37	COG1606	Pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+FPCHIDEK_00274	gene	819				
+FPCHIDEK_00274	CDS	819				hypothetical protein
+FPCHIDEK_00275	gene	837				
+FPCHIDEK_00275	CDS	837				hypothetical protein
+FPCHIDEK_00276	gene	252				
+FPCHIDEK_00276	CDS	252				hypothetical protein
+FPCHIDEK_00277	gene	3348	rpoB			
+FPCHIDEK_00277	CDS	3348	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+FPCHIDEK_00278	gene	3807	rpoC			
+FPCHIDEK_00278	CDS	3807	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+FPCHIDEK_00279	gene	345				
+FPCHIDEK_00279	CDS	345				hypothetical protein
+FPCHIDEK_00280	gene	510				
+FPCHIDEK_00280	CDS	510				hypothetical protein
+FPCHIDEK_00281	gene	357	queD			
+FPCHIDEK_00281	CDS	357	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+FPCHIDEK_00282	gene	1182				
+FPCHIDEK_00282	CDS	1182				hypothetical protein
+FPCHIDEK_00283	gene	144				
+FPCHIDEK_00283	CDS	144				hypothetical protein
+FPCHIDEK_00284	gene	183				
+FPCHIDEK_00284	CDS	183				hypothetical protein
+FPCHIDEK_00285	gene	123				
+FPCHIDEK_00285	CDS	123				hypothetical protein
+FPCHIDEK_00286	gene	702				
+FPCHIDEK_00286	CDS	702				hypothetical protein
+FPCHIDEK_00287	gene	168				
+FPCHIDEK_00287	CDS	168				hypothetical protein
+FPCHIDEK_00288	gene	1569				
+FPCHIDEK_00288	CDS	1569				hypothetical protein
+FPCHIDEK_00289	gene	801	nirQ			
+FPCHIDEK_00289	CDS	801	nirQ		COG0714	Denitrification regulatory protein NirQ
+FPCHIDEK_00290	gene	1464				
+FPCHIDEK_00290	CDS	1464				hypothetical protein
+FPCHIDEK_00291	gene	417				
+FPCHIDEK_00291	CDS	417				hypothetical protein
+FPCHIDEK_00292	gene	636				
+FPCHIDEK_00292	CDS	636				hypothetical protein
+FPCHIDEK_00293	gene	1263	serS			
+FPCHIDEK_00293	CDS	1263	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+FPCHIDEK_00294	gene	243				
+FPCHIDEK_00294	CDS	243				hypothetical protein
+FPCHIDEK_00295	gene	1422				
+FPCHIDEK_00295	CDS	1422				hypothetical protein
+FPCHIDEK_00296	gene	450				
+FPCHIDEK_00296	CDS	450				hypothetical protein
+FPCHIDEK_00297	gene	339				
+FPCHIDEK_00297	CDS	339				hypothetical protein
+FPCHIDEK_00298	gene	270				
+FPCHIDEK_00298	CDS	270				hypothetical protein
+FPCHIDEK_00299	gene	522				
+FPCHIDEK_00299	CDS	522				hypothetical protein
+FPCHIDEK_00300	gene	327				
+FPCHIDEK_00300	CDS	327				hypothetical protein
+FPCHIDEK_00301	gene	567				
+FPCHIDEK_00301	CDS	567				hypothetical protein
+FPCHIDEK_00302	gene	564				
+FPCHIDEK_00302	CDS	564				hypothetical protein
+FPCHIDEK_00303	gene	363				
+FPCHIDEK_00303	CDS	363				hypothetical protein
+FPCHIDEK_00304	gene	651				
+FPCHIDEK_00304	CDS	651				hypothetical protein
+FPCHIDEK_00305	gene	864	dpnM			
+FPCHIDEK_00305	CDS	864	dpnM	2.1.1.72		Modification methylase DpnIIA
+FPCHIDEK_00306	gene	74				
+FPCHIDEK_00306	tRNA	74				tRNA-Thr(ggt)
+FPCHIDEK_00307	gene	420				
+FPCHIDEK_00307	CDS	420				hypothetical protein
+FPCHIDEK_00308	gene	891				
+FPCHIDEK_00308	CDS	891				hypothetical protein
+FPCHIDEK_00309	gene	75				
+FPCHIDEK_00309	tRNA	75				tRNA-Ile(gat)
+FPCHIDEK_00310	gene	558	resA_1			
+FPCHIDEK_00310	CDS	558	resA_1			Thiol-disulfide oxidoreductase ResA
+FPCHIDEK_00311	gene	77				
+FPCHIDEK_00311	tRNA	77				tRNA-Ala(tgc)
+FPCHIDEK_00312	gene	108				
+FPCHIDEK_00312	CDS	108				hypothetical protein
+FPCHIDEK_00313	gene	465	tagD			
+FPCHIDEK_00313	CDS	465	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+FPCHIDEK_00314	gene	330				
+FPCHIDEK_00314	CDS	330				hypothetical protein
+FPCHIDEK_00315	gene	294				
+FPCHIDEK_00315	CDS	294				hypothetical protein
+FPCHIDEK_00316	gene	1113				
+FPCHIDEK_00316	CDS	1113				hypothetical protein
+FPCHIDEK_00317	gene	1398				
+FPCHIDEK_00317	CDS	1398				hypothetical protein
+FPCHIDEK_00318	gene	1644				
+FPCHIDEK_00318	CDS	1644				hypothetical protein
+FPCHIDEK_00319	gene	420				
+FPCHIDEK_00319	CDS	420				hypothetical protein
+FPCHIDEK_00320	gene	240				
+FPCHIDEK_00320	CDS	240				hypothetical protein
+FPCHIDEK_00321	gene	567				
+FPCHIDEK_00321	CDS	567				hypothetical protein
+FPCHIDEK_00322	gene	633				
+FPCHIDEK_00322	CDS	633				hypothetical protein
+FPCHIDEK_00323	gene	2283	acnA			
+FPCHIDEK_00323	CDS	2283	acnA	4.2.1.3	COG1048	Aconitate hydratase A
+FPCHIDEK_00324	gene	75				
+FPCHIDEK_00324	tRNA	75				tRNA-Trp(cca)
+FPCHIDEK_00325	gene	534				
+FPCHIDEK_00325	CDS	534				hypothetical protein
+FPCHIDEK_00326	gene	969	pdxS			
+FPCHIDEK_00326	CDS	969	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+FPCHIDEK_00327	gene	618	pdxT			
+FPCHIDEK_00327	CDS	618	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+FPCHIDEK_00328	gene	2322	valS_1			
+FPCHIDEK_00328	CDS	2322	valS_1	6.1.1.9		Valine--tRNA ligase
+FPCHIDEK_00329	gene	300	phhB			
+FPCHIDEK_00329	CDS	300	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+FPCHIDEK_00330	gene	744	asnB_2			
+FPCHIDEK_00330	CDS	744	asnB_2	6.3.5.4	COG0367	Asparagine synthetase B [glutamine-hydrolyzing]
+FPCHIDEK_00331	gene	1362	purB			
+FPCHIDEK_00331	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+FPCHIDEK_00332	gene	648	bacG			
+FPCHIDEK_00332	CDS	648	bacG	1.3.1.-	COG1028	NADPH-dependent reductase BacG
+FPCHIDEK_00333	gene	1449	rtcB			
+FPCHIDEK_00333	CDS	1449	rtcB	6.5.1.-	COG1690	RNA-splicing ligase RtcB
+FPCHIDEK_00334	gene	414				
+FPCHIDEK_00334	CDS	414				hypothetical protein
+FPCHIDEK_00335	gene	318				
+FPCHIDEK_00335	CDS	318				hypothetical protein
+FPCHIDEK_00336	gene	501				
+FPCHIDEK_00336	CDS	501				hypothetical protein
+FPCHIDEK_00337	gene	939	thiL			
+FPCHIDEK_00337	CDS	939	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+FPCHIDEK_00338	gene	1290	glmM_1			
+FPCHIDEK_00338	CDS	1290	glmM_1	5.4.2.10	COG1109	Phosphoglucosamine mutase
+FPCHIDEK_00339	gene	74				
+FPCHIDEK_00339	tRNA	74				tRNA-Thr(cgt)
+FPCHIDEK_00340	gene	1806				
+FPCHIDEK_00340	CDS	1806				hypothetical protein
+FPCHIDEK_00341	gene	192				
+FPCHIDEK_00341	CDS	192				hypothetical protein
+FPCHIDEK_00342	gene	219				
+FPCHIDEK_00342	CDS	219				hypothetical protein
+FPCHIDEK_00343	gene	279				
+FPCHIDEK_00343	CDS	279				hypothetical protein
+FPCHIDEK_00344	gene	591				
+FPCHIDEK_00344	CDS	591				hypothetical protein
+FPCHIDEK_00345	gene	186				
+FPCHIDEK_00345	CDS	186				hypothetical protein
+FPCHIDEK_00346	gene	1827				
+FPCHIDEK_00346	CDS	1827				hypothetical protein
+FPCHIDEK_00347	gene	72				
+FPCHIDEK_00347	tRNA	72				tRNA-Cys(gca)
+FPCHIDEK_00348	gene	222				
+FPCHIDEK_00348	CDS	222				hypothetical protein
+FPCHIDEK_00349	gene	756	dtd3			
+FPCHIDEK_00349	CDS	756	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+FPCHIDEK_00350	gene	423				
+FPCHIDEK_00350	CDS	423				hypothetical protein
+FPCHIDEK_00351	gene	777				
+FPCHIDEK_00351	CDS	777				hypothetical protein
+FPCHIDEK_00352	gene	522				
+FPCHIDEK_00352	CDS	522				hypothetical protein
+FPCHIDEK_00353	gene	600				
+FPCHIDEK_00353	CDS	600		2.7.7.87	COG0009	Putative threonylcarbamoyl-AMP synthase
+FPCHIDEK_00354	gene	288				
+FPCHIDEK_00354	CDS	288				hypothetical protein
+FPCHIDEK_00355	gene	693				
+FPCHIDEK_00355	CDS	693				hypothetical protein
+FPCHIDEK_00356	gene	213				
+FPCHIDEK_00356	CDS	213				hypothetical protein
+FPCHIDEK_00357	gene	279				
+FPCHIDEK_00357	CDS	279				hypothetical protein
+FPCHIDEK_00358	gene	462				
+FPCHIDEK_00358	CDS	462				hypothetical protein
+FPCHIDEK_00359	gene	1002	purA			
+FPCHIDEK_00359	CDS	1002	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+FPCHIDEK_00360	gene	663				
+FPCHIDEK_00360	CDS	663				hypothetical protein
+FPCHIDEK_00361	gene	738	pyrF			
+FPCHIDEK_00361	CDS	738	pyrF			Orotidine 5'-phosphate decarboxylase
+FPCHIDEK_00362	gene	411				
+FPCHIDEK_00362	CDS	411				hypothetical protein
+FPCHIDEK_00363	gene	702				
+FPCHIDEK_00363	CDS	702		2.5.1.68	COG0020	(2Z,6E)-farnesyl diphosphate synthase
+FPCHIDEK_00364	gene	1140				
+FPCHIDEK_00364	CDS	1140				hypothetical protein
+FPCHIDEK_00365	gene	501				
+FPCHIDEK_00365	CDS	501				hypothetical protein
+FPCHIDEK_00366	gene	144				
+FPCHIDEK_00366	CDS	144				hypothetical protein
+FPCHIDEK_00367	gene	420				
+FPCHIDEK_00367	CDS	420				hypothetical protein
+FPCHIDEK_00368	gene	297				
+FPCHIDEK_00368	CDS	297				hypothetical protein
+FPCHIDEK_00369	gene	312				
+FPCHIDEK_00369	CDS	312				hypothetical protein
+FPCHIDEK_00370	gene	780				
+FPCHIDEK_00370	CDS	780				hypothetical protein
+FPCHIDEK_00371	gene	570				
+FPCHIDEK_00371	CDS	570				hypothetical protein
+FPCHIDEK_00372	gene	1869	TOP6B			
+FPCHIDEK_00372	CDS	1869	TOP6B	5.6.2.2		DNA topoisomerase 6 subunit B
+FPCHIDEK_00373	gene	1122	TOP6A			
+FPCHIDEK_00373	CDS	1122	TOP6A	5.6.2.2		DNA topoisomerase 6 subunit A
+FPCHIDEK_00374	gene	474				
+FPCHIDEK_00374	CDS	474				hypothetical protein
+FPCHIDEK_00375	gene	240				
+FPCHIDEK_00375	CDS	240				hypothetical protein
+FPCHIDEK_00376	gene	363				
+FPCHIDEK_00376	CDS	363				hypothetical protein
+FPCHIDEK_00377	gene	483				
+FPCHIDEK_00377	CDS	483				hypothetical protein
+FPCHIDEK_00378	gene	243				
+FPCHIDEK_00378	CDS	243				hypothetical protein
+FPCHIDEK_00379	gene	792	mtnP			
+FPCHIDEK_00379	CDS	792	mtnP	2.4.2.28	COG0005	S-methyl-5'-thioadenosine phosphorylase
+FPCHIDEK_00380	gene	513	apt			
+FPCHIDEK_00380	CDS	513	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+FPCHIDEK_00381	gene	2121				
+FPCHIDEK_00381	CDS	2121				hypothetical protein
+FPCHIDEK_00382	gene	1005	iolS_2			
+FPCHIDEK_00382	CDS	1005	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+FPCHIDEK_00383	gene	573				
+FPCHIDEK_00383	CDS	573				hypothetical protein
+FPCHIDEK_00384	gene	675				
+FPCHIDEK_00384	CDS	675			COG3253	putative protein/MSMEI_2713
+FPCHIDEK_00385	gene	774				
+FPCHIDEK_00385	CDS	774				putative ABC transporter ATP-binding protein
+FPCHIDEK_00386	gene	963				
+FPCHIDEK_00386	CDS	963				hypothetical protein
+FPCHIDEK_00387	gene	243				
+FPCHIDEK_00387	CDS	243				hypothetical protein
+FPCHIDEK_00388	gene	303				
+FPCHIDEK_00388	CDS	303				hypothetical protein
+FPCHIDEK_00389	gene	384				
+FPCHIDEK_00389	CDS	384				hypothetical protein
+FPCHIDEK_00390	gene	561	scpB			
+FPCHIDEK_00390	CDS	561	scpB			Segregation and condensation protein B
+FPCHIDEK_00391	gene	732				
+FPCHIDEK_00391	CDS	732				hypothetical protein
+FPCHIDEK_00392	gene	1065	adhT_1			
+FPCHIDEK_00392	CDS	1065	adhT_1	1.1.1.1		Alcohol dehydrogenase
+FPCHIDEK_00393	gene	612				
+FPCHIDEK_00393	CDS	612				hypothetical protein
+FPCHIDEK_00394	gene	414				
+FPCHIDEK_00394	CDS	414				hypothetical protein
+FPCHIDEK_00395	gene	690				
+FPCHIDEK_00395	CDS	690				hypothetical protein
+FPCHIDEK_00396	gene	1326	ffh			
+FPCHIDEK_00396	CDS	1326	ffh		COG0541	Signal recognition particle protein
+FPCHIDEK_00397	gene	765	fbiB_1			
+FPCHIDEK_00397	CDS	765	fbiB_1	6.3.2.34		Bifunctional F420 biosynthesis protein FbiB
+FPCHIDEK_00398	gene	1272	dmdA			
+FPCHIDEK_00398	CDS	1272	dmdA	4.2.1.85		2,3-dimethylmalate dehydratase large subunit
+FPCHIDEK_00399	gene	483	DmdB			
+FPCHIDEK_00399	CDS	483	DmdB	4.2.1.85		2,3-dimethylmalate dehydratase small subunit
+FPCHIDEK_00400	gene	1410	leuC			
+FPCHIDEK_00400	CDS	1410	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+FPCHIDEK_00401	gene	588	leuD1			
+FPCHIDEK_00401	CDS	588	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+FPCHIDEK_00402	gene	450	rpsI			
+FPCHIDEK_00402	CDS	450	rpsI		COG0103	30S ribosomal protein S9
+FPCHIDEK_00403	gene	495				
+FPCHIDEK_00403	CDS	495				hypothetical protein
+FPCHIDEK_00404	gene	348				
+FPCHIDEK_00404	CDS	348				hypothetical protein
+FPCHIDEK_00405	gene	603				
+FPCHIDEK_00405	CDS	603				hypothetical protein
+FPCHIDEK_00406	gene	687				
+FPCHIDEK_00406	CDS	687				hypothetical protein
+FPCHIDEK_00407	gene	681				
+FPCHIDEK_00407	CDS	681				hypothetical protein
+FPCHIDEK_00408	gene	738	rph_1			
+FPCHIDEK_00408	CDS	738	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+FPCHIDEK_00409	gene	807	rph_2			
+FPCHIDEK_00409	CDS	807	rph_2	2.7.7.56		Ribonuclease PH
+FPCHIDEK_00410	gene	210				
+FPCHIDEK_00410	CDS	210				hypothetical protein
+FPCHIDEK_00411	gene	246				
+FPCHIDEK_00411	CDS	246				hypothetical protein
+FPCHIDEK_00412	gene	384				
+FPCHIDEK_00412	CDS	384				hypothetical protein
+FPCHIDEK_00413	gene	687				
+FPCHIDEK_00413	CDS	687				hypothetical protein
+FPCHIDEK_00414	gene	486				
+FPCHIDEK_00414	CDS	486				hypothetical protein
+FPCHIDEK_00415	gene	816	nadK_1			
+FPCHIDEK_00415	CDS	816	nadK_1	2.7.1.23		NAD kinase
+FPCHIDEK_00416	gene	954				
+FPCHIDEK_00416	CDS	954				hypothetical protein
+FPCHIDEK_00417	gene	1881				
+FPCHIDEK_00417	CDS	1881				hypothetical protein
+FPCHIDEK_00418	gene	1212				
+FPCHIDEK_00418	CDS	1212				hypothetical protein
+FPCHIDEK_00419	gene	47				
+FPCHIDEK_00419	misc_RNA	47				Histone3
+FPCHIDEK_00420	gene	1323	gerN_1			
+FPCHIDEK_00420	CDS	1323	gerN_1		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+FPCHIDEK_00421	gene	444				
+FPCHIDEK_00421	CDS	444				hypothetical protein
+FPCHIDEK_00422	gene	747	cpdA_1			
+FPCHIDEK_00422	CDS	747	cpdA_1	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FPCHIDEK_00423	gene	87				
+FPCHIDEK_00423	tRNA	87				tRNA-Ser(gct)
+FPCHIDEK_00424	gene	162				
+FPCHIDEK_00424	CDS	162				hypothetical protein
+FPCHIDEK_00425	gene	174				
+FPCHIDEK_00425	CDS	174				hypothetical protein
+FPCHIDEK_00426	gene	825				
+FPCHIDEK_00426	CDS	825				hypothetical protein
+FPCHIDEK_00427	gene	1215				
+FPCHIDEK_00427	CDS	1215				hypothetical protein
+FPCHIDEK_00428	gene	74				
+FPCHIDEK_00428	tRNA	74				tRNA-Gly(gcc)
+FPCHIDEK_00429	gene	243				
+FPCHIDEK_00429	CDS	243				hypothetical protein
+FPCHIDEK_00430	gene	495				
+FPCHIDEK_00430	CDS	495				hypothetical protein
+FPCHIDEK_00431	gene	576				
+FPCHIDEK_00431	CDS	576				hypothetical protein
+FPCHIDEK_00432	gene	663				
+FPCHIDEK_00432	CDS	663				hypothetical protein
+FPCHIDEK_00433	gene	78				
+FPCHIDEK_00433	tRNA	78				tRNA-Glu(ctc)
+FPCHIDEK_00434	gene	906				
+FPCHIDEK_00434	CDS	906				hypothetical protein
+FPCHIDEK_00435	gene	150				
+FPCHIDEK_00435	CDS	150				hypothetical protein
+FPCHIDEK_00436	gene	1506				
+FPCHIDEK_00436	CDS	1506				hypothetical protein
+FPCHIDEK_00437	gene	396				
+FPCHIDEK_00437	CDS	396				hypothetical protein
+FPCHIDEK_00438	gene	489				
+FPCHIDEK_00438	CDS	489				hypothetical protein
+FPCHIDEK_00439	gene	660				
+FPCHIDEK_00439	CDS	660				hypothetical protein
+FPCHIDEK_00440	gene	330				
+FPCHIDEK_00440	CDS	330				hypothetical protein
+FPCHIDEK_00441	gene	1005	drrA			
+FPCHIDEK_00441	CDS	1005	drrA	3.6.3.-		Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+FPCHIDEK_00442	gene	777	drrB			
+FPCHIDEK_00442	CDS	777	drrB			Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+FPCHIDEK_00443	gene	4173				
+FPCHIDEK_00443	CDS	4173				hypothetical protein
+FPCHIDEK_00444	gene	915				
+FPCHIDEK_00444	CDS	915				hypothetical protein
+FPCHIDEK_00445	gene	1278	hemL_1			
+FPCHIDEK_00445	CDS	1278	hemL_1	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+FPCHIDEK_00446	gene	936	hemC			
+FPCHIDEK_00446	CDS	936	hemC	2.5.1.61		Porphobilinogen deaminase
+FPCHIDEK_00447	gene	744	sumT			
+FPCHIDEK_00447	CDS	744	sumT	2.1.1.107	COG0007	Uroporphyrinogen-III C-methyltransferase
+FPCHIDEK_00448	gene	801				
+FPCHIDEK_00448	CDS	801				hypothetical protein
+FPCHIDEK_00449	gene	1401				
+FPCHIDEK_00449	CDS	1401				hypothetical protein
+FPCHIDEK_00450	gene	1398				
+FPCHIDEK_00450	CDS	1398				hypothetical protein
+FPCHIDEK_00451	gene	309	bphA3_2			
+FPCHIDEK_00451	CDS	309	bphA3_2			Biphenyl 2,3-dioxygenase, ferredoxin component
+FPCHIDEK_00452	gene	1245	csd			
+FPCHIDEK_00452	CDS	1245	csd	2.8.1.7		putative cysteine desulfurase
+FPCHIDEK_00453	gene	450	sufU			
+FPCHIDEK_00453	CDS	450	sufU	2.-.-.-	COG0822	Zinc-dependent sulfurtransferase SufU
+FPCHIDEK_00454	gene	333				
+FPCHIDEK_00454	CDS	333				hypothetical protein
+FPCHIDEK_00455	gene	1209	pgk			
+FPCHIDEK_00455	CDS	1209	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+FPCHIDEK_00456	gene	591				
+FPCHIDEK_00456	CDS	591				hypothetical protein
+FPCHIDEK_00457	gene	321				
+FPCHIDEK_00457	CDS	321				hypothetical protein
+FPCHIDEK_00458	gene	753				
+FPCHIDEK_00458	CDS	753				hypothetical protein
+FPCHIDEK_00459	gene	291				
+FPCHIDEK_00459	CDS	291				hypothetical protein
+FPCHIDEK_00460	gene	621				
+FPCHIDEK_00460	CDS	621				hypothetical protein
+FPCHIDEK_00461	gene	621	yedJ			
+FPCHIDEK_00461	CDS	621	yedJ		COG1418	putative protein YedJ
+FPCHIDEK_00462	gene	312				
+FPCHIDEK_00462	CDS	312				hypothetical protein
+FPCHIDEK_00463	gene	975	hemB			
+FPCHIDEK_00463	CDS	975	hemB	4.2.1.24		Delta-aminolevulinic acid dehydratase
+FPCHIDEK_00464	gene	1023				
+FPCHIDEK_00464	CDS	1023				hypothetical protein
+FPCHIDEK_00465	gene	654	cysG			
+FPCHIDEK_00465	CDS	654	cysG		COG0007	Siroheme synthase
+FPCHIDEK_00466	gene	1260	hemA_1			
+FPCHIDEK_00466	CDS	1260	hemA_1	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+FPCHIDEK_00467	gene	435				
+FPCHIDEK_00467	CDS	435				hypothetical protein
+FPCHIDEK_00468	gene	690	cugP_2			
+FPCHIDEK_00468	CDS	690	cugP_2	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FPCHIDEK_00469	gene	1278	pdxK			
+FPCHIDEK_00469	CDS	1278	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+FPCHIDEK_00470	gene	1329	bzaF			
+FPCHIDEK_00470	CDS	1329	bzaF	4.1.99.23	COG0422	5-hydroxybenzimidazole synthase
+FPCHIDEK_00471	gene	405				
+FPCHIDEK_00471	CDS	405				hypothetical protein
+FPCHIDEK_00472	gene	852	tyrA			
+FPCHIDEK_00472	CDS	852	tyrA		COG0287	T-protein
+FPCHIDEK_00473	gene	1356	dapL			
+FPCHIDEK_00473	CDS	1356	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+FPCHIDEK_00474	gene	1095	aroC			
+FPCHIDEK_00474	CDS	1095	aroC	4.2.3.5		Chorismate synthase
+FPCHIDEK_00475	gene	885	nadX			
+FPCHIDEK_00475	CDS	885	nadX	1.4.1.21		L-aspartate dehydrogenase
+FPCHIDEK_00476	gene	1263	aroA			
+FPCHIDEK_00476	CDS	1263	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+FPCHIDEK_00477	gene	855	thrB_2			
+FPCHIDEK_00477	CDS	855	thrB_2	2.7.1.39		Homoserine kinase
+FPCHIDEK_00478	gene	822	aroE			
+FPCHIDEK_00478	CDS	822	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+FPCHIDEK_00479	gene	786				
+FPCHIDEK_00479	CDS	786				hypothetical protein
+FPCHIDEK_00480	gene	663	aroD			
+FPCHIDEK_00480	CDS	663	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FPCHIDEK_00481	gene	1059	aroB'			
+FPCHIDEK_00481	CDS	1059	aroB'	1.4.1.24		3-dehydroquinate synthase
+FPCHIDEK_00482	gene	786	griI			
+FPCHIDEK_00482	CDS	786	griI	4.1.2.56	COG1830	2-amino-4,5-dihydroxy-6-oxo-7-(phosphonooxy)heptanoate synthase
+FPCHIDEK_00483	gene	1119	mqnC			
+FPCHIDEK_00483	CDS	1119	mqnC	1.21.98.1	COG1060	Cyclic dehypoxanthine futalosine synthase
+FPCHIDEK_00484	gene	1437	ubiD			
+FPCHIDEK_00484	CDS	1437	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+FPCHIDEK_00485	gene	237				
+FPCHIDEK_00485	CDS	237				hypothetical protein
+FPCHIDEK_00486	gene	378				
+FPCHIDEK_00486	CDS	378				hypothetical protein
+FPCHIDEK_00487	gene	804				
+FPCHIDEK_00487	CDS	804				hypothetical protein
+FPCHIDEK_00488	gene	231				
+FPCHIDEK_00488	CDS	231				hypothetical protein
+FPCHIDEK_00489	gene	159				
+FPCHIDEK_00489	CDS	159				hypothetical protein
+FPCHIDEK_00490	gene	555	isiB			
+FPCHIDEK_00490	CDS	555	isiB			Flavodoxin
+FPCHIDEK_00491	gene	879				
+FPCHIDEK_00491	CDS	879				hypothetical protein
+FPCHIDEK_00492	gene	459	bcp_1			
+FPCHIDEK_00492	CDS	459	bcp_1	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FPCHIDEK_00493	gene	714	aqpZ_1			
+FPCHIDEK_00493	CDS	714	aqpZ_1		COG0580	Aquaporin Z
+FPCHIDEK_00494	gene	77				
+FPCHIDEK_00494	tRNA	77				tRNA-Arg(gcg)
+FPCHIDEK_00495	gene	936	nadA			
+FPCHIDEK_00495	CDS	936	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+FPCHIDEK_00496	gene	828	nadC			
+FPCHIDEK_00496	CDS	828	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FPCHIDEK_00497	gene	189				
+FPCHIDEK_00497	CDS	189				hypothetical protein
+FPCHIDEK_00498	gene	678				
+FPCHIDEK_00498	CDS	678				hypothetical protein
+FPCHIDEK_00499	gene	1086	apbC			
+FPCHIDEK_00499	CDS	1086	apbC		COG0489	Iron-sulfur cluster carrier protein
+FPCHIDEK_00500	gene	498				
+FPCHIDEK_00500	CDS	498				hypothetical protein
+FPCHIDEK_00501	gene	381				
+FPCHIDEK_00501	CDS	381				hypothetical protein
+FPCHIDEK_00502	gene	2061	hppA			
+FPCHIDEK_00502	CDS	2061	hppA	7.1.3.1	COG3808	K(+)-stimulated pyrophosphate-energized proton pump
+FPCHIDEK_00503	gene	186				
+FPCHIDEK_00503	CDS	186				hypothetical protein
+FPCHIDEK_00504	gene	1434	petE_2			
+FPCHIDEK_00504	CDS	1434	petE_2			Plastocyanin
+FPCHIDEK_00505	gene	261				
+FPCHIDEK_00505	CDS	261				hypothetical protein
+FPCHIDEK_00506	gene	453				
+FPCHIDEK_00506	CDS	453				hypothetical protein
+FPCHIDEK_00507	gene	786				
+FPCHIDEK_00507	CDS	786				hypothetical protein
+FPCHIDEK_00508	gene	882	ctaB_1			
+FPCHIDEK_00508	CDS	882	ctaB_1	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+FPCHIDEK_00509	gene	291				
+FPCHIDEK_00509	CDS	291				hypothetical protein
+FPCHIDEK_00510	gene	2175	ftsH_2			
+FPCHIDEK_00510	CDS	2175	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPCHIDEK_00511	gene	282				
+FPCHIDEK_00511	CDS	282				hypothetical protein
+FPCHIDEK_00512	gene	213				
+FPCHIDEK_00512	CDS	213				hypothetical protein
+FPCHIDEK_00513	gene	1143				
+FPCHIDEK_00513	CDS	1143				hypothetical protein
+FPCHIDEK_00514	gene	354				
+FPCHIDEK_00514	CDS	354				hypothetical protein
+FPCHIDEK_00515	gene	1602	vgb_1			
+FPCHIDEK_00515	CDS	1602	vgb_1	4.2.99.-		Virginiamycin B lyase
+FPCHIDEK_00516	gene	1197	truD			
+FPCHIDEK_00516	CDS	1197	truD	5.4.99.27		tRNA pseudouridine synthase D
+FPCHIDEK_00517	gene	459	msrA			
+FPCHIDEK_00517	CDS	459	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+FPCHIDEK_00518	gene	207				
+FPCHIDEK_00518	CDS	207				hypothetical protein
+FPCHIDEK_00519	gene	756				
+FPCHIDEK_00519	CDS	756				hypothetical protein
+FPCHIDEK_00520	gene	609				
+FPCHIDEK_00520	CDS	609				hypothetical protein
+FPCHIDEK_00521	gene	324				
+FPCHIDEK_00521	CDS	324				hypothetical protein
+FPCHIDEK_00522	gene	237				
+FPCHIDEK_00522	CDS	237				hypothetical protein
+FPCHIDEK_00523	gene	1038	adhT_2			
+FPCHIDEK_00523	CDS	1038	adhT_2	1.1.1.1		Alcohol dehydrogenase
+FPCHIDEK_00524	gene	234				
+FPCHIDEK_00524	CDS	234				hypothetical protein
+FPCHIDEK_00525	gene	2025				
+FPCHIDEK_00525	CDS	2025				hypothetical protein
+FPCHIDEK_00526	gene	321				
+FPCHIDEK_00526	CDS	321				hypothetical protein
+FPCHIDEK_00527	gene	285				
+FPCHIDEK_00527	CDS	285				hypothetical protein
+FPCHIDEK_00528	gene	765				
+FPCHIDEK_00528	CDS	765				hypothetical protein
+FPCHIDEK_00529	gene	507				
+FPCHIDEK_00529	CDS	507				hypothetical protein
+FPCHIDEK_00530	gene	291				
+FPCHIDEK_00530	CDS	291				hypothetical protein
+FPCHIDEK_00531	gene	237				
+FPCHIDEK_00531	CDS	237				hypothetical protein
+FPCHIDEK_00532	gene	1356	rhpA			
+FPCHIDEK_00532	CDS	1356	rhpA	3.6.4.13	COG0513	DEAD-box ATP-dependent RNA helicase RhpA
+FPCHIDEK_00533	gene	678				
+FPCHIDEK_00533	CDS	678				hypothetical protein
+FPCHIDEK_00534	gene	477				
+FPCHIDEK_00534	CDS	477				hypothetical protein
+FPCHIDEK_00535	gene	921	btuF			
+FPCHIDEK_00535	CDS	921	btuF			Vitamin B12-binding protein
+FPCHIDEK_00536	gene	1158				
+FPCHIDEK_00536	CDS	1158				hypothetical protein
+FPCHIDEK_00537	gene	939				
+FPCHIDEK_00537	CDS	939				hypothetical protein
+FPCHIDEK_00538	gene	1092	dinB			
+FPCHIDEK_00538	CDS	1092	dinB	2.7.7.7		DNA polymerase IV
+FPCHIDEK_00539	gene	249				
+FPCHIDEK_00539	CDS	249				hypothetical protein
+FPCHIDEK_00540	gene	483				
+FPCHIDEK_00540	CDS	483				hypothetical protein
+FPCHIDEK_00541	gene	615				
+FPCHIDEK_00541	CDS	615				hypothetical protein
+FPCHIDEK_00542	gene	711				
+FPCHIDEK_00542	CDS	711				hypothetical protein
+FPCHIDEK_00543	gene	1095	ino1			
+FPCHIDEK_00543	CDS	1095	ino1	5.5.1.4	COG1260	Inositol-3-phosphate synthase
+FPCHIDEK_00544	gene	3531	smc			
+FPCHIDEK_00544	CDS	3531	smc		COG1196	Chromosome partition protein Smc
+FPCHIDEK_00545	gene	876	garR			
+FPCHIDEK_00545	CDS	876	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+FPCHIDEK_00546	gene	387				
+FPCHIDEK_00546	CDS	387				hypothetical protein
+FPCHIDEK_00547	gene	213				
+FPCHIDEK_00547	CDS	213				hypothetical protein
+FPCHIDEK_00548	gene	1443	proS			
+FPCHIDEK_00548	CDS	1443	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FPCHIDEK_00549	gene	372				
+FPCHIDEK_00549	CDS	372				hypothetical protein
+FPCHIDEK_00550	gene	294				
+FPCHIDEK_00550	CDS	294				hypothetical protein
+FPCHIDEK_00551	gene	651	serB2			
+FPCHIDEK_00551	CDS	651	serB2	3.1.3.3	COG0560	Phosphoserine phosphatase SerB2
+FPCHIDEK_00552	gene	738	fbiB_2			
+FPCHIDEK_00552	CDS	738	fbiB_2		COG0778	Bifunctional F420 biosynthesis protein FbiB
+FPCHIDEK_00553	gene	921				
+FPCHIDEK_00553	CDS	921				hypothetical protein
+FPCHIDEK_00554	gene	234	tusA			
+FPCHIDEK_00554	CDS	234	tusA		COG0425	Sulfur carrier protein TusA
+FPCHIDEK_00555	gene	1008	trxB			
+FPCHIDEK_00555	CDS	1008	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+FPCHIDEK_00556	gene	795				
+FPCHIDEK_00556	CDS	795				hypothetical protein
+FPCHIDEK_00557	gene	843	thi4_1			
+FPCHIDEK_00557	CDS	843	thi4_1	2.4.2.59		Thiamine thiazole synthase
+FPCHIDEK_00558	gene	1803	sir			
+FPCHIDEK_00558	CDS	1803	sir	1.8.7.1	COG0155	Sulfite reductase [ferredoxin]
+FPCHIDEK_00559	gene	798	ttuD_1			
+FPCHIDEK_00559	CDS	798	ttuD_1		COG2897	Sulfur carrier protein TtuD
+FPCHIDEK_00560	gene	207				
+FPCHIDEK_00560	CDS	207				hypothetical protein
+FPCHIDEK_00561	gene	1107				
+FPCHIDEK_00561	CDS	1107				hypothetical protein
+FPCHIDEK_00562	gene	1272				
+FPCHIDEK_00562	CDS	1272				hypothetical protein
+FPCHIDEK_00563	gene	726				
+FPCHIDEK_00563	CDS	726				hypothetical protein
+FPCHIDEK_00564	gene	297				
+FPCHIDEK_00564	CDS	297				hypothetical protein
+FPCHIDEK_00565	gene	150				
+FPCHIDEK_00565	CDS	150				hypothetical protein
+FPCHIDEK_00566	gene	1473				
+FPCHIDEK_00566	CDS	1473				hypothetical protein
+FPCHIDEK_00567	gene	105				
+FPCHIDEK_00567	CDS	105				hypothetical protein
+FPCHIDEK_00568	gene	468	mntR			
+FPCHIDEK_00568	CDS	468	mntR			HTH-type transcriptional regulator MntR
+FPCHIDEK_00569	gene	348				
+FPCHIDEK_00569	CDS	348				hypothetical protein
+FPCHIDEK_00570	gene	504				
+FPCHIDEK_00570	CDS	504				hypothetical protein
+FPCHIDEK_00571	gene	207				
+FPCHIDEK_00571	CDS	207				hypothetical protein
+FPCHIDEK_00572	gene	168				
+FPCHIDEK_00572	CDS	168				hypothetical protein
+FPCHIDEK_00573	gene	1626				
+FPCHIDEK_00573	CDS	1626				hypothetical protein
+FPCHIDEK_00574	gene	309				
+FPCHIDEK_00574	CDS	309				hypothetical protein
+FPCHIDEK_00575	gene	2235				
+FPCHIDEK_00575	CDS	2235				hypothetical protein
+FPCHIDEK_00576	gene	2121				
+FPCHIDEK_00576	CDS	2121				hypothetical protein
+FPCHIDEK_00577	gene	1944				
+FPCHIDEK_00577	CDS	1944				hypothetical protein
+FPCHIDEK_00578	gene	225				
+FPCHIDEK_00578	CDS	225				hypothetical protein
+FPCHIDEK_00579	gene	372				
+FPCHIDEK_00579	CDS	372				hypothetical protein
+FPCHIDEK_00580	gene	117				
+FPCHIDEK_00580	CDS	117				hypothetical protein
+FPCHIDEK_00581	gene	402				
+FPCHIDEK_00581	CDS	402				hypothetical protein
+FPCHIDEK_00582	gene	654	rutE			
+FPCHIDEK_00582	CDS	654	rutE	1.1.1.298		malonic semialdehyde reductase RutE
+FPCHIDEK_00583	gene	1314	hemL_2			
+FPCHIDEK_00583	CDS	1314	hemL_2	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+FPCHIDEK_00584	gene	1404				
+FPCHIDEK_00584	rRNA	1404				16S ribosomal RNA
+FPCHIDEK_00585	gene	2977				
+FPCHIDEK_00585	rRNA	2977				23S ribosomal RNA
+FPCHIDEK_00586	gene	195	cspA			
+FPCHIDEK_00586	CDS	195	cspA		COG1278	putative cold shock protein A
+FPCHIDEK_00587	gene	315				
+FPCHIDEK_00587	CDS	315				hypothetical protein
+FPCHIDEK_00588	gene	558				
+FPCHIDEK_00588	CDS	558				hypothetical protein
+FPCHIDEK_00589	gene	903				
+FPCHIDEK_00589	CDS	903				hypothetical protein
+FPCHIDEK_00590	gene	600				
+FPCHIDEK_00590	CDS	600				hypothetical protein
+FPCHIDEK_00591	gene	1518				
+FPCHIDEK_00591	CDS	1518				hypothetical protein
+FPCHIDEK_00592	gene	1002	birA			
+FPCHIDEK_00592	CDS	1002	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+FPCHIDEK_00593	gene	516				
+FPCHIDEK_00593	CDS	516				hypothetical protein
+FPCHIDEK_00594	gene	723				
+FPCHIDEK_00594	CDS	723				hypothetical protein
+FPCHIDEK_00595	gene	1713				
+FPCHIDEK_00595	CDS	1713				hypothetical protein
+FPCHIDEK_00596	gene	255				
+FPCHIDEK_00596	CDS	255				hypothetical protein
+FPCHIDEK_00597	gene	144				
+FPCHIDEK_00597	CDS	144				hypothetical protein
+FPCHIDEK_00598	gene	834	dnaJ_3			
+FPCHIDEK_00598	CDS	834	dnaJ_3			Chaperone protein DnaJ
+FPCHIDEK_00599	gene	387				
+FPCHIDEK_00599	CDS	387				hypothetical protein
+FPCHIDEK_00600	gene	294				
+FPCHIDEK_00600	CDS	294		2.8.1.-	COG0607	Sulfurtransferase
+FPCHIDEK_00601	gene	270				
+FPCHIDEK_00601	CDS	270				hypothetical protein
+FPCHIDEK_00602	gene	483				
+FPCHIDEK_00602	CDS	483				hypothetical protein
+FPCHIDEK_00603	gene	660				
+FPCHIDEK_00603	CDS	660				hypothetical protein
+FPCHIDEK_00604	gene	2196	fusA			
+FPCHIDEK_00604	CDS	2196	fusA		COG0480	Elongation factor G
+FPCHIDEK_00605	gene	198				
+FPCHIDEK_00605	CDS	198				hypothetical protein
+FPCHIDEK_00606	gene	999				
+FPCHIDEK_00606	CDS	999				hypothetical protein
+FPCHIDEK_00607	gene	144				
+FPCHIDEK_00607	CDS	144				hypothetical protein
+FPCHIDEK_00608	gene	240				
+FPCHIDEK_00608	CDS	240				hypothetical protein
+FPCHIDEK_00609	gene	846	eryG			
+FPCHIDEK_00609	CDS	846	eryG	2.1.1.254		Erythromycin 3''-O-methyltransferase
+FPCHIDEK_00610	gene	228				
+FPCHIDEK_00610	CDS	228				hypothetical protein
+FPCHIDEK_00611	gene	1377				
+FPCHIDEK_00611	CDS	1377				hypothetical protein
+FPCHIDEK_00612	gene	438				
+FPCHIDEK_00612	CDS	438				hypothetical protein
+FPCHIDEK_00613	gene	969				
+FPCHIDEK_00613	CDS	969				hypothetical protein
+FPCHIDEK_00614	gene	288				
+FPCHIDEK_00614	CDS	288				hypothetical protein
+FPCHIDEK_00615	gene	747				
+FPCHIDEK_00615	CDS	747				hypothetical protein
+FPCHIDEK_00616	gene	333				
+FPCHIDEK_00616	CDS	333				hypothetical protein
+FPCHIDEK_00617	gene	714				
+FPCHIDEK_00617	CDS	714				hypothetical protein
+FPCHIDEK_00618	gene	465				
+FPCHIDEK_00618	CDS	465				hypothetical protein
+FPCHIDEK_00619	gene	168				
+FPCHIDEK_00619	CDS	168				hypothetical protein
+FPCHIDEK_00620	gene	1101	mqnE			
+FPCHIDEK_00620	CDS	1101	mqnE	2.5.1.120	COG1060	Aminodeoxyfutalosine synthase
+FPCHIDEK_00621	gene	282				
+FPCHIDEK_00621	CDS	282				hypothetical protein
+FPCHIDEK_00622	gene	966	dusB			
+FPCHIDEK_00622	CDS	966	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+FPCHIDEK_00623	gene	219				
+FPCHIDEK_00623	CDS	219				hypothetical protein
+FPCHIDEK_00624	gene	294				
+FPCHIDEK_00624	CDS	294				hypothetical protein
+FPCHIDEK_00625	gene	831	mqnD			
+FPCHIDEK_00625	CDS	831	mqnD	4.1.-.-	COG2107	1,4-dihydroxy-6-naphtoate synthase
+FPCHIDEK_00626	gene	411	yccU			
+FPCHIDEK_00626	CDS	411	yccU		COG1832	putative protein YccU
+FPCHIDEK_00627	gene	366				
+FPCHIDEK_00627	CDS	366				hypothetical protein
+FPCHIDEK_00628	gene	1221	ychF			
+FPCHIDEK_00628	CDS	1221	ychF		COG0012	Ribosome-binding ATPase YchF
+FPCHIDEK_00629	gene	918	tuf_1			
+FPCHIDEK_00629	CDS	918	tuf_1			Elongation factor Tu
+FPCHIDEK_00630	gene	120				
+FPCHIDEK_00630	CDS	120				hypothetical protein
+FPCHIDEK_00631	gene	240				
+FPCHIDEK_00631	CDS	240				hypothetical protein
+FPCHIDEK_00632	gene	999	ilvC			
+FPCHIDEK_00632	CDS	999	ilvC	1.1.1.382		Ketol-acid reductoisomerase (NAD(+))
+FPCHIDEK_00633	gene	423	mcm			
+FPCHIDEK_00633	CDS	423	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+FPCHIDEK_00634	gene	918	argK			
+FPCHIDEK_00634	CDS	918	argK	3.6.5.-	COG1703	GTPase ArgK
+FPCHIDEK_00635	gene	1599	bhbA			
+FPCHIDEK_00635	CDS	1599	bhbA	5.4.99.2		Methylmalonyl-CoA mutase
+FPCHIDEK_00636	gene	396	epi_2			
+FPCHIDEK_00636	CDS	396	epi_2	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+FPCHIDEK_00637	gene	720	ureH			
+FPCHIDEK_00637	CDS	720	ureH		COG0829	Urease accessory protein UreH
+FPCHIDEK_00638	gene	549				
+FPCHIDEK_00638	CDS	549				hypothetical protein
+FPCHIDEK_00639	gene	942				
+FPCHIDEK_00639	CDS	942		2.5.-.-		Deoxyhypusine synthase-like protein
+FPCHIDEK_00640	gene	1377				
+FPCHIDEK_00640	CDS	1377		1.6.99.-	COG1252	NADH dehydrogenase-like protein
+FPCHIDEK_00641	gene	207				
+FPCHIDEK_00641	CDS	207				hypothetical protein
+FPCHIDEK_00642	gene	1134				
+FPCHIDEK_00642	CDS	1134				hypothetical protein
+FPCHIDEK_00643	gene	2661	ppdK			
+FPCHIDEK_00643	CDS	2661	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+FPCHIDEK_00644	gene	696	tpiA			
+FPCHIDEK_00644	CDS	696	tpiA			Triosephosphate isomerase
+FPCHIDEK_00645	gene	288				
+FPCHIDEK_00645	CDS	288			COG4095	Sugar transporter SemiSWEET
+FPCHIDEK_00646	gene	2562				
+FPCHIDEK_00646	CDS	2562				hypothetical protein
+FPCHIDEK_00647	gene	519				
+FPCHIDEK_00647	CDS	519				hypothetical protein
+FPCHIDEK_00648	gene	1503	dbpA_2			
+FPCHIDEK_00648	CDS	1503	dbpA_2	3.6.4.13		ATP-dependent RNA helicase DbpA
+FPCHIDEK_00649	gene	348				
+FPCHIDEK_00649	CDS	348				hypothetical protein
+FPCHIDEK_00650	gene	2520				
+FPCHIDEK_00650	CDS	2520				hypothetical protein
+FPCHIDEK_00651	gene	312				
+FPCHIDEK_00651	CDS	312				hypothetical protein
+FPCHIDEK_00652	gene	2496	pepN			
+FPCHIDEK_00652	CDS	2496	pepN	3.4.11.2	COG0308	Aminopeptidase N
+FPCHIDEK_00653	gene	411				
+FPCHIDEK_00653	CDS	411				hypothetical protein
+FPCHIDEK_00654	gene	942				
+FPCHIDEK_00654	CDS	942				hypothetical protein
+FPCHIDEK_00655	gene	426				
+FPCHIDEK_00655	CDS	426				hypothetical protein
+FPCHIDEK_00656	gene	1299				
+FPCHIDEK_00656	CDS	1299				hypothetical protein
+FPCHIDEK_00657	gene	399				
+FPCHIDEK_00657	CDS	399				hypothetical protein
+FPCHIDEK_00658	gene	333				
+FPCHIDEK_00658	CDS	333				hypothetical protein
+FPCHIDEK_00659	gene	336				
+FPCHIDEK_00659	CDS	336				hypothetical protein
+FPCHIDEK_00660	gene	1362				
+FPCHIDEK_00660	CDS	1362				hypothetical protein
+FPCHIDEK_00661	gene	1056	dppB			
+FPCHIDEK_00661	CDS	1056	dppB		COG0601	Dipeptide transport system permease protein DppB
+FPCHIDEK_00662	gene	1317				
+FPCHIDEK_00662	CDS	1317				hypothetical protein
+FPCHIDEK_00663	gene	228				
+FPCHIDEK_00663	CDS	228				hypothetical protein
+FPCHIDEK_00664	gene	234				
+FPCHIDEK_00664	CDS	234				hypothetical protein
+FPCHIDEK_00665	gene	600				
+FPCHIDEK_00665	CDS	600				hypothetical protein
+FPCHIDEK_00666	gene	852				
+FPCHIDEK_00666	CDS	852				hypothetical protein
+FPCHIDEK_00667	gene	273				
+FPCHIDEK_00667	CDS	273				hypothetical protein
+FPCHIDEK_00668	gene	549				
+FPCHIDEK_00668	CDS	549				hypothetical protein
+FPCHIDEK_00669	gene	1470				
+FPCHIDEK_00669	CDS	1470				hypothetical protein
+FPCHIDEK_00670	gene	360				
+FPCHIDEK_00670	CDS	360				hypothetical protein
+FPCHIDEK_00671	gene	189				
+FPCHIDEK_00671	CDS	189				hypothetical protein
+FPCHIDEK_00672	gene	582				
+FPCHIDEK_00672	CDS	582				hypothetical protein
+FPCHIDEK_00673	gene	372				
+FPCHIDEK_00673	CDS	372				hypothetical protein
+FPCHIDEK_00674	gene	378				
+FPCHIDEK_00674	CDS	378				hypothetical protein
+FPCHIDEK_00675	gene	273				
+FPCHIDEK_00675	CDS	273				hypothetical protein
+FPCHIDEK_00676	gene	813				
+FPCHIDEK_00676	CDS	813				hypothetical protein
+FPCHIDEK_00677	gene	432				
+FPCHIDEK_00677	CDS	432				hypothetical protein
+FPCHIDEK_00678	gene	1092				
+FPCHIDEK_00678	CDS	1092				hypothetical protein
+FPCHIDEK_00679	gene	108				
+FPCHIDEK_00679	CDS	108				hypothetical protein
+FPCHIDEK_00680	gene	558	vdcB			
+FPCHIDEK_00680	CDS	558	vdcB	2.5.1.129		putative UbiX-like flavin prenyltransferase
+FPCHIDEK_00681	gene	420				
+FPCHIDEK_00681	CDS	420				hypothetical protein
+FPCHIDEK_00682	gene	198	tatA_1			
+FPCHIDEK_00682	CDS	198	tatA_1			Sec-independent protein translocase protein TatA
+FPCHIDEK_00683	gene	792	tatC			
+FPCHIDEK_00683	CDS	792	tatC		COG0805	Sec-independent protein translocase protein TatC
+FPCHIDEK_00684	gene	483				
+FPCHIDEK_00684	CDS	483				hypothetical protein
+FPCHIDEK_00685	gene	471				
+FPCHIDEK_00685	CDS	471				hypothetical protein
+FPCHIDEK_00686	gene	2160				
+FPCHIDEK_00686	CDS	2160				hypothetical protein
+FPCHIDEK_00687	gene	1416				
+FPCHIDEK_00687	CDS	1416				hypothetical protein
+FPCHIDEK_00688	gene	2460				
+FPCHIDEK_00688	CDS	2460				hypothetical protein
+FPCHIDEK_00689	gene	1767				
+FPCHIDEK_00689	CDS	1767				hypothetical protein
+FPCHIDEK_00690	gene	1404	resA_2			
+FPCHIDEK_00690	CDS	1404	resA_2			Thiol-disulfide oxidoreductase ResA
+FPCHIDEK_00691	gene	627				
+FPCHIDEK_00691	CDS	627				hypothetical protein
+FPCHIDEK_00692	gene	261	purS			
+FPCHIDEK_00692	CDS	261	purS	6.3.5.3		Phosphoribosylformylglycinamidine synthase subunit PurS
+FPCHIDEK_00693	gene	417	hrp1			
+FPCHIDEK_00693	CDS	417	hrp1		COG0517	Hypoxic response protein 1
+FPCHIDEK_00694	gene	681	purQ			
+FPCHIDEK_00694	CDS	681	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+FPCHIDEK_00695	gene	2154	purL			
+FPCHIDEK_00695	CDS	2154	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+FPCHIDEK_00696	gene	1437	purF			
+FPCHIDEK_00696	CDS	1437	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+FPCHIDEK_00697	gene	249				
+FPCHIDEK_00697	CDS	249				hypothetical protein
+FPCHIDEK_00698	gene	141				
+FPCHIDEK_00698	CDS	141				hypothetical protein
+FPCHIDEK_00699	gene	381				
+FPCHIDEK_00699	CDS	381				hypothetical protein
+FPCHIDEK_00700	gene	825	purC			
+FPCHIDEK_00700	CDS	825	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+FPCHIDEK_00701	gene	501				
+FPCHIDEK_00701	CDS	501				hypothetical protein
+FPCHIDEK_00702	gene	417				
+FPCHIDEK_00702	CDS	417				hypothetical protein
+FPCHIDEK_00703	gene	408				
+FPCHIDEK_00703	CDS	408				hypothetical protein
+FPCHIDEK_00704	gene	444				
+FPCHIDEK_00704	CDS	444				hypothetical protein
+FPCHIDEK_00705	gene	222				
+FPCHIDEK_00705	CDS	222				hypothetical protein
+FPCHIDEK_00706	gene	249				
+FPCHIDEK_00706	CDS	249				hypothetical protein
+FPCHIDEK_00707	gene	76				
+FPCHIDEK_00707	tRNA	76				tRNA-Asn(gtt)
+FPCHIDEK_00708	gene	294				
+FPCHIDEK_00708	CDS	294				hypothetical protein
+FPCHIDEK_00709	gene	558				
+FPCHIDEK_00709	CDS	558				hypothetical protein
+FPCHIDEK_00710	gene	393	rpsH			
+FPCHIDEK_00710	CDS	393	rpsH			30S ribosomal protein S8
+FPCHIDEK_00711	gene	216				
+FPCHIDEK_00711	CDS	216				hypothetical protein
+FPCHIDEK_00712	gene	522				
+FPCHIDEK_00712	CDS	522				hypothetical protein
+FPCHIDEK_00713	gene	717				
+FPCHIDEK_00713	CDS	717				hypothetical protein
+FPCHIDEK_00714	gene	486				
+FPCHIDEK_00714	CDS	486				hypothetical protein
+FPCHIDEK_00715	gene	432				
+FPCHIDEK_00715	CDS	432				hypothetical protein
+FPCHIDEK_00716	gene	330				
+FPCHIDEK_00716	CDS	330				hypothetical protein
+FPCHIDEK_00717	gene	258				
+FPCHIDEK_00717	CDS	258				hypothetical protein
+FPCHIDEK_00718	gene	204				
+FPCHIDEK_00718	CDS	204				hypothetical protein
+FPCHIDEK_00719	gene	747				
+FPCHIDEK_00719	CDS	747				hypothetical protein
+FPCHIDEK_00720	gene	459				
+FPCHIDEK_00720	CDS	459				hypothetical protein
+FPCHIDEK_00721	gene	399				
+FPCHIDEK_00721	CDS	399				hypothetical protein
+FPCHIDEK_00722	gene	267				
+FPCHIDEK_00722	CDS	267				hypothetical protein
+FPCHIDEK_00723	gene	813				
+FPCHIDEK_00723	CDS	813				hypothetical protein
+FPCHIDEK_00724	gene	996				
+FPCHIDEK_00724	CDS	996				hypothetical protein
+FPCHIDEK_00725	gene	111				
+FPCHIDEK_00725	CDS	111				hypothetical protein
+FPCHIDEK_00726	gene	819				
+FPCHIDEK_00726	CDS	819				hypothetical protein
+FPCHIDEK_00727	gene	867	prcA_1			
+FPCHIDEK_00727	CDS	867	prcA_1			Proteasome subunit alpha
+FPCHIDEK_00728	gene	333				
+FPCHIDEK_00728	CDS	333				hypothetical protein
+FPCHIDEK_00729	gene	684				
+FPCHIDEK_00729	CDS	684				hypothetical protein
+FPCHIDEK_00730	gene	1089	dipZ			
+FPCHIDEK_00730	CDS	1089	dipZ		COG0785	Protein DipZ
+FPCHIDEK_00731	gene	729	dsbD			
+FPCHIDEK_00731	CDS	729	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+FPCHIDEK_00732	gene	105				
+FPCHIDEK_00732	CDS	105				hypothetical protein
+FPCHIDEK_00733	gene	1131	bioF			
+FPCHIDEK_00733	CDS	1131	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase 2
+FPCHIDEK_00734	gene	981	bioB			
+FPCHIDEK_00734	CDS	981	bioB	2.8.1.6	COG0502	Biotin synthase
+FPCHIDEK_00735	gene	1326	bioK			
+FPCHIDEK_00735	CDS	1326	bioK	2.6.1.105	COG0161	L-Lysine--8-amino-7-oxononanoate transaminase
+FPCHIDEK_00736	gene	699	bioD1			
+FPCHIDEK_00736	CDS	699	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+FPCHIDEK_00737	gene	543				
+FPCHIDEK_00737	CDS	543				hypothetical protein
+FPCHIDEK_00738	gene	1398	mvaS			
+FPCHIDEK_00738	CDS	1398	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+FPCHIDEK_00739	gene	810				
+FPCHIDEK_00739	CDS	810				hypothetical protein
+FPCHIDEK_00740	gene	1050				
+FPCHIDEK_00740	CDS	1050				hypothetical protein
+FPCHIDEK_00741	gene	1245				
+FPCHIDEK_00741	CDS	1245				hypothetical protein
+FPCHIDEK_00742	gene	1356				
+FPCHIDEK_00742	CDS	1356				hypothetical protein
+FPCHIDEK_00743	gene	378				
+FPCHIDEK_00743	CDS	378				hypothetical protein
+FPCHIDEK_00744	gene	312				
+FPCHIDEK_00744	CDS	312				hypothetical protein
+FPCHIDEK_00745	gene	360				
+FPCHIDEK_00745	CDS	360				hypothetical protein
+FPCHIDEK_00746	gene	552				
+FPCHIDEK_00746	CDS	552				hypothetical protein
+FPCHIDEK_00747	gene	324				
+FPCHIDEK_00747	CDS	324				hypothetical protein
+FPCHIDEK_00748	gene	1107	fadA			
+FPCHIDEK_00748	CDS	1107	fadA	2.3.1.16		3-ketoacyl-CoA thiolase
+FPCHIDEK_00749	gene	978				
+FPCHIDEK_00749	CDS	978		1.-.-.-		Putative coenzyme F420-dependent oxidoreductase
+FPCHIDEK_00750	gene	687	cugP_3			
+FPCHIDEK_00750	CDS	687	cugP_3	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+FPCHIDEK_00751	gene	531	dedA			
+FPCHIDEK_00751	CDS	531	dedA		COG0586	Protein DedA
+FPCHIDEK_00752	gene	135				
+FPCHIDEK_00752	CDS	135				hypothetical protein
+FPCHIDEK_00753	gene	396				
+FPCHIDEK_00753	CDS	396				hypothetical protein
+FPCHIDEK_00754	gene	1146	purK			
+FPCHIDEK_00754	CDS	1146	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+FPCHIDEK_00755	gene	573	purE			
+FPCHIDEK_00755	CDS	573	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+FPCHIDEK_00756	gene	1209	tdcB			
+FPCHIDEK_00756	CDS	1209	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+FPCHIDEK_00757	gene	837				
+FPCHIDEK_00757	CDS	837				hypothetical protein
+FPCHIDEK_00758	gene	819				
+FPCHIDEK_00758	CDS	819				hypothetical protein
+FPCHIDEK_00759	gene	810				
+FPCHIDEK_00759	CDS	810				hypothetical protein
+FPCHIDEK_00760	gene	150				
+FPCHIDEK_00760	CDS	150				hypothetical protein
+FPCHIDEK_00761	gene	417				
+FPCHIDEK_00761	CDS	417				hypothetical protein
+FPCHIDEK_00762	gene	180				
+FPCHIDEK_00762	CDS	180				hypothetical protein
+FPCHIDEK_00763	gene	387				
+FPCHIDEK_00763	CDS	387				hypothetical protein
+FPCHIDEK_00764	gene	420				
+FPCHIDEK_00764	CDS	420				hypothetical protein
+FPCHIDEK_00765	gene	222				
+FPCHIDEK_00765	CDS	222				hypothetical protein
+FPCHIDEK_00766	gene	240				
+FPCHIDEK_00766	CDS	240				hypothetical protein
+FPCHIDEK_00767	gene	237				
+FPCHIDEK_00767	CDS	237				hypothetical protein
+FPCHIDEK_00768	gene	75				
+FPCHIDEK_00768	tRNA	75				tRNA-Phe(gaa)
+FPCHIDEK_00769	gene	537	yvqK			
+FPCHIDEK_00769	CDS	537	yvqK	2.5.1.17	COG2096	Corrinoid adenosyltransferase
+FPCHIDEK_00770	gene	606				
+FPCHIDEK_00770	CDS	606				hypothetical protein
+FPCHIDEK_00771	gene	525				
+FPCHIDEK_00771	CDS	525				hypothetical protein
+FPCHIDEK_00772	gene	234				
+FPCHIDEK_00772	CDS	234				hypothetical protein
+FPCHIDEK_00773	gene	315				
+FPCHIDEK_00773	CDS	315				hypothetical protein
+FPCHIDEK_00774	gene	348				
+FPCHIDEK_00774	CDS	348				hypothetical protein
+FPCHIDEK_00775	gene	1224				
+FPCHIDEK_00775	CDS	1224				hypothetical protein
+FPCHIDEK_00776	gene	333	hisI			
+FPCHIDEK_00776	CDS	333	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+FPCHIDEK_00777	gene	888				
+FPCHIDEK_00777	CDS	888				hypothetical protein
+FPCHIDEK_00778	gene	1407	gatB			
+FPCHIDEK_00778	CDS	1407	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+FPCHIDEK_00779	gene	1449	gatA			
+FPCHIDEK_00779	CDS	1449	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FPCHIDEK_00780	gene	267				
+FPCHIDEK_00780	CDS	267				hypothetical protein
+FPCHIDEK_00781	gene	1560				
+FPCHIDEK_00781	CDS	1560				hypothetical protein
+FPCHIDEK_00782	gene	2514				
+FPCHIDEK_00782	CDS	2514				hypothetical protein
+FPCHIDEK_00783	gene	1311	aspS2_1			
+FPCHIDEK_00783	CDS	1311	aspS2_1	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+FPCHIDEK_00784	gene	207				
+FPCHIDEK_00784	CDS	207				hypothetical protein
+FPCHIDEK_00785	gene	981				
+FPCHIDEK_00785	CDS	981				hypothetical protein
+FPCHIDEK_00786	gene	417	mhqP			
+FPCHIDEK_00786	CDS	417	mhqP	1.-.-.-	COG2259	Putative oxidoreductase MhqP
+FPCHIDEK_00787	gene	435				
+FPCHIDEK_00787	CDS	435		2.3.1.-		Acetyltransferase
+FPCHIDEK_00788	gene	381				
+FPCHIDEK_00788	CDS	381				hypothetical protein
+FPCHIDEK_00789	gene	339				
+FPCHIDEK_00789	CDS	339				hypothetical protein
+FPCHIDEK_00790	gene	213				
+FPCHIDEK_00790	CDS	213				hypothetical protein
+FPCHIDEK_00791	gene	651				
+FPCHIDEK_00791	CDS	651				hypothetical protein
+FPCHIDEK_00792	gene	1278				
+FPCHIDEK_00792	CDS	1278				hypothetical protein
+FPCHIDEK_00793	gene	402				
+FPCHIDEK_00793	CDS	402				hypothetical protein
+FPCHIDEK_00794	gene	600				
+FPCHIDEK_00794	CDS	600				hypothetical protein
+FPCHIDEK_00795	gene	1680	ilvD			
+FPCHIDEK_00795	CDS	1680	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+FPCHIDEK_00796	gene	198				
+FPCHIDEK_00796	CDS	198				hypothetical protein
+FPCHIDEK_00797	gene	1458	pabB			
+FPCHIDEK_00797	CDS	1458	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+FPCHIDEK_00798	gene	600	trpG			
+FPCHIDEK_00798	CDS	600	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+FPCHIDEK_00799	gene	1020	trpD			
+FPCHIDEK_00799	CDS	1020	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+FPCHIDEK_00800	gene	774	trpC			
+FPCHIDEK_00800	CDS	774	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+FPCHIDEK_00801	gene	1197	trpB			
+FPCHIDEK_00801	CDS	1197	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+FPCHIDEK_00802	gene	801	trpA			
+FPCHIDEK_00802	CDS	801	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+FPCHIDEK_00803	gene	1602	pyrG			
+FPCHIDEK_00803	CDS	1602	pyrG	6.3.4.2		CTP synthase
+FPCHIDEK_00804	gene	1020	nadK_2			
+FPCHIDEK_00804	CDS	1020	nadK_2	2.7.1.23		NAD kinase
+FPCHIDEK_00805	gene	873				
+FPCHIDEK_00805	CDS	873				hypothetical protein
+FPCHIDEK_00806	gene	120				
+FPCHIDEK_00806	CDS	120				hypothetical protein
+FPCHIDEK_00807	gene	291				
+FPCHIDEK_00807	CDS	291				hypothetical protein
+FPCHIDEK_00808	gene	567				
+FPCHIDEK_00808	CDS	567		2.7.8.-	COG0558	Phosphatidylinositol phosphate synthase
+FPCHIDEK_00809	gene	867	speB			
+FPCHIDEK_00809	CDS	867	speB	3.5.3.11	COG0010	Agmatinase
+FPCHIDEK_00810	gene	1851				
+FPCHIDEK_00810	CDS	1851				hypothetical protein
+FPCHIDEK_00811	gene	189				
+FPCHIDEK_00811	CDS	189				hypothetical protein
+FPCHIDEK_00812	gene	249				
+FPCHIDEK_00812	CDS	249				hypothetical protein
+FPCHIDEK_00813	gene	348				
+FPCHIDEK_00813	CDS	348				hypothetical protein
+FPCHIDEK_00814	gene	402				
+FPCHIDEK_00814	CDS	402				hypothetical protein
+FPCHIDEK_00815	gene	1107				
+FPCHIDEK_00815	CDS	1107		2.5.-.-		Deoxyhypusine synthase-like protein
+FPCHIDEK_00816	gene	315				
+FPCHIDEK_00816	CDS	315				hypothetical protein
+FPCHIDEK_00817	gene	213				
+FPCHIDEK_00817	CDS	213				hypothetical protein
+FPCHIDEK_00818	gene	300				
+FPCHIDEK_00818	CDS	300				hypothetical protein
+FPCHIDEK_00819	gene	387				
+FPCHIDEK_00819	CDS	387				hypothetical protein
+FPCHIDEK_00820	gene	546				
+FPCHIDEK_00820	CDS	546				hypothetical protein
+FPCHIDEK_00821	gene	300				
+FPCHIDEK_00821	CDS	300				hypothetical protein
+FPCHIDEK_00822	gene	417				
+FPCHIDEK_00822	CDS	417				hypothetical protein
+FPCHIDEK_00823	gene	948				
+FPCHIDEK_00823	CDS	948				hypothetical protein
+FPCHIDEK_00824	gene	168				
+FPCHIDEK_00824	CDS	168				hypothetical protein
+FPCHIDEK_00825	gene	1095				
+FPCHIDEK_00825	CDS	1095				hypothetical protein
+FPCHIDEK_00826	gene	885	menA			
+FPCHIDEK_00826	CDS	885	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+FPCHIDEK_00827	gene	402				
+FPCHIDEK_00827	CDS	402				hypothetical protein
+FPCHIDEK_00828	gene	285				
+FPCHIDEK_00828	CDS	285				hypothetical protein
+FPCHIDEK_00829	gene	276	ppiC			
+FPCHIDEK_00829	CDS	276	ppiC	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase C
+FPCHIDEK_00830	gene	159				
+FPCHIDEK_00830	CDS	159				hypothetical protein
+FPCHIDEK_00831	gene	759				
+FPCHIDEK_00831	CDS	759				hypothetical protein
+FPCHIDEK_00832	gene	1650	metG_1			
+FPCHIDEK_00832	CDS	1650	metG_1	6.1.1.10	COG0073	Methionine--tRNA ligase
+FPCHIDEK_00833	gene	1239	ahcY			
+FPCHIDEK_00833	CDS	1239	ahcY	3.3.1.1	COG0499	Adenosylhomocysteinase
+FPCHIDEK_00834	gene	306	bphF			
+FPCHIDEK_00834	CDS	306	bphF		COG2146	Biphenyl dioxygenase system ferredoxin subunit
+FPCHIDEK_00835	gene	783	nadE			
+FPCHIDEK_00835	CDS	783	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FPCHIDEK_00836	gene	1395	cysS			
+FPCHIDEK_00836	CDS	1395	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+FPCHIDEK_00837	gene	432				
+FPCHIDEK_00837	CDS	432				hypothetical protein
+FPCHIDEK_00838	gene	282				
+FPCHIDEK_00838	CDS	282				hypothetical protein
+FPCHIDEK_00839	gene	1023				
+FPCHIDEK_00839	CDS	1023				hypothetical protein
+FPCHIDEK_00840	gene	240				
+FPCHIDEK_00840	CDS	240				hypothetical protein
+FPCHIDEK_00841	gene	177				
+FPCHIDEK_00841	CDS	177				hypothetical protein
+FPCHIDEK_00842	gene	1923	acsA			
+FPCHIDEK_00842	CDS	1923	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+FPCHIDEK_00843	gene	807				
+FPCHIDEK_00843	CDS	807				hypothetical protein
+FPCHIDEK_00844	gene	312				
+FPCHIDEK_00844	CDS	312				hypothetical protein
+FPCHIDEK_00845	gene	1611	thyX			
+FPCHIDEK_00845	CDS	1611	thyX	2.1.1.148		Flavin-dependent thymidylate synthase
+FPCHIDEK_00846	gene	399	msrB			
+FPCHIDEK_00846	CDS	399	msrB	1.8.4.12		Peptide methionine sulfoxide reductase MsrB
+FPCHIDEK_00847	gene	1011				
+FPCHIDEK_00847	CDS	1011				hypothetical protein
+FPCHIDEK_00848	gene	471				
+FPCHIDEK_00848	CDS	471				hypothetical protein
+FPCHIDEK_00849	gene	594	prcB_1			
+FPCHIDEK_00849	CDS	594	prcB_1	3.4.25.1	COG0638	Proteasome subunit beta
+FPCHIDEK_00850	gene	432				
+FPCHIDEK_00850	CDS	432				hypothetical protein
+FPCHIDEK_00851	gene	1362	dapE			
+FPCHIDEK_00851	CDS	1362	dapE	3.5.1.18		Succinyl-diaminopimelate desuccinylase
+FPCHIDEK_00852	gene	858	nnr_2			
+FPCHIDEK_00852	CDS	858	nnr_2		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FPCHIDEK_00853	gene	801	trmI			
+FPCHIDEK_00853	CDS	801	trmI	2.1.1.220	COG2519	tRNA (adenine(58)-N(1))-methyltransferase TrmI
+FPCHIDEK_00854	gene	681	queE			
+FPCHIDEK_00854	CDS	681	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+FPCHIDEK_00855	gene	369				
+FPCHIDEK_00855	CDS	369				hypothetical protein
+FPCHIDEK_00856	gene	282				
+FPCHIDEK_00856	CDS	282				hypothetical protein
+FPCHIDEK_00857	gene	183				
+FPCHIDEK_00857	CDS	183				hypothetical protein
+FPCHIDEK_00858	gene	816	cpoB			
+FPCHIDEK_00858	CDS	816	cpoB			Cell division coordinator CpoB
+FPCHIDEK_00859	gene	705				
+FPCHIDEK_00859	CDS	705				hypothetical protein
+FPCHIDEK_00860	gene	465				
+FPCHIDEK_00860	CDS	465				hypothetical protein
+FPCHIDEK_00861	gene	360				
+FPCHIDEK_00861	CDS	360				hypothetical protein
+FPCHIDEK_00862	gene	687	dnaJ_4			
+FPCHIDEK_00862	CDS	687	dnaJ_4			Chaperone protein DnaJ
+FPCHIDEK_00863	gene	411	hit			
+FPCHIDEK_00863	CDS	411	hit		COG0537	Protein hit
+FPCHIDEK_00864	gene	285				
+FPCHIDEK_00864	CDS	285				hypothetical protein
+FPCHIDEK_00865	gene	186				
+FPCHIDEK_00865	CDS	186				hypothetical protein
+FPCHIDEK_00866	gene	1140	fadB			
+FPCHIDEK_00866	CDS	1140	fadB	5.3.3.8		Fatty acid oxidation complex subunit alpha
+FPCHIDEK_00867	gene	510				
+FPCHIDEK_00867	CDS	510				hypothetical protein
+FPCHIDEK_00868	gene	132				
+FPCHIDEK_00868	CDS	132				hypothetical protein
+FPCHIDEK_00869	gene	294				
+FPCHIDEK_00869	CDS	294				hypothetical protein
+FPCHIDEK_00870	gene	189				
+FPCHIDEK_00870	CDS	189				hypothetical protein
+FPCHIDEK_00871	gene	309	rpsJ			
+FPCHIDEK_00871	CDS	309	rpsJ			30S ribosomal protein S10
+FPCHIDEK_00872	gene	1299	tuf_2			
+FPCHIDEK_00872	CDS	1299	tuf_2		COG0050	Elongation factor Tu
+FPCHIDEK_00873	gene	1137	fbp			
+FPCHIDEK_00873	CDS	1137	fbp	3.1.3.11	COG1980	Fructose-1,6-bisphosphate aldolase/phosphatase
+FPCHIDEK_00874	gene	429				
+FPCHIDEK_00874	CDS	429				hypothetical protein
+FPCHIDEK_00875	gene	1758	lig			
+FPCHIDEK_00875	CDS	1758	lig	6.5.1.1		DNA ligase
+FPCHIDEK_00876	gene	651				
+FPCHIDEK_00876	CDS	651				hypothetical protein
+FPCHIDEK_00877	gene	588				
+FPCHIDEK_00877	CDS	588				hypothetical protein
+FPCHIDEK_00878	gene	372				
+FPCHIDEK_00878	CDS	372				hypothetical protein
+FPCHIDEK_00879	gene	237				
+FPCHIDEK_00879	CDS	237				hypothetical protein
+FPCHIDEK_00880	gene	1749				
+FPCHIDEK_00880	CDS	1749				hypothetical protein
+FPCHIDEK_00881	gene	462				
+FPCHIDEK_00881	CDS	462				hypothetical protein
+FPCHIDEK_00882	gene	759	yfcA			
+FPCHIDEK_00882	CDS	759	yfcA		COG0730	putative membrane transporter protein YfcA
+FPCHIDEK_00883	gene	243				
+FPCHIDEK_00883	CDS	243				hypothetical protein
+FPCHIDEK_00884	gene	813				
+FPCHIDEK_00884	CDS	813			COG2968	26 kDa periplasmic immunogenic protein
+FPCHIDEK_00885	gene	714				
+FPCHIDEK_00885	CDS	714				hypothetical protein
+FPCHIDEK_00886	gene	1887	argS			
+FPCHIDEK_00886	CDS	1887	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+FPCHIDEK_00887	gene	696				
+FPCHIDEK_00887	CDS	696				hypothetical protein
+FPCHIDEK_00888	gene	1104	obg			
+FPCHIDEK_00888	CDS	1104	obg	3.6.5.-		GTPase Obg
+FPCHIDEK_00889	gene	567				
+FPCHIDEK_00889	CDS	567		3.2.2.-	COG2094	Putative 3-methyladenine DNA glycosylase
+FPCHIDEK_00890	gene	666				
+FPCHIDEK_00890	CDS	666				hypothetical protein
+FPCHIDEK_00891	gene	375				
+FPCHIDEK_00891	CDS	375				hypothetical protein
+FPCHIDEK_00892	gene	153				
+FPCHIDEK_00892	CDS	153				hypothetical protein
+FPCHIDEK_00893	gene	750	cmoA_2			
+FPCHIDEK_00893	CDS	750	cmoA_2	2.1.3.-		Carboxy-S-adenosyl-L-methionine synthase
+FPCHIDEK_00894	gene	189				
+FPCHIDEK_00894	CDS	189				hypothetical protein
+FPCHIDEK_00895	gene	936	oppD			
+FPCHIDEK_00895	CDS	936	oppD		COG0444	Oligopeptide transport ATP-binding protein OppD
+FPCHIDEK_00896	gene	1287	aspS2_2			
+FPCHIDEK_00896	CDS	1287	aspS2_2	6.1.1.23	COG0017	Aspartate--tRNA(Asp/Asn) ligase
+FPCHIDEK_00897	gene	120				
+FPCHIDEK_00897	CDS	120				hypothetical protein
+FPCHIDEK_00898	gene	1014	hicd_1			
+FPCHIDEK_00898	CDS	1014	hicd_1	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+FPCHIDEK_00899	gene	1515	leuA_1			
+FPCHIDEK_00899	CDS	1515	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+FPCHIDEK_00900	gene	492	ilvH			
+FPCHIDEK_00900	CDS	492	ilvH	2.2.1.6	COG0440	Acetolactate synthase small subunit
+FPCHIDEK_00901	gene	1692	ilvB			
+FPCHIDEK_00901	CDS	1692	ilvB	2.2.1.6	COG0028	Acetolactate synthase large subunit
+FPCHIDEK_00902	gene	405				
+FPCHIDEK_00902	CDS	405				hypothetical protein
+FPCHIDEK_00903	gene	924	lsrF			
+FPCHIDEK_00903	CDS	924	lsrF	2.3.1.245	COG1830	3-hydroxy-5-phosphonooxypentane-2,4-dione thiolase
+FPCHIDEK_00904	gene	1029	gutB			
+FPCHIDEK_00904	CDS	1029	gutB	1.1.1.-	COG1063	Sorbitol dehydrogenase
+FPCHIDEK_00905	gene	297	atpF			
+FPCHIDEK_00905	CDS	297	atpF			V-type ATP synthase subunit F
+FPCHIDEK_00906	gene	195				
+FPCHIDEK_00906	CDS	195				hypothetical protein
+FPCHIDEK_00907	gene	561				
+FPCHIDEK_00907	CDS	561				hypothetical protein
+FPCHIDEK_00908	gene	1029				
+FPCHIDEK_00908	CDS	1029				hypothetical protein
+FPCHIDEK_00909	gene	303				
+FPCHIDEK_00909	CDS	303				hypothetical protein
+FPCHIDEK_00910	gene	303				
+FPCHIDEK_00910	CDS	303				hypothetical protein
+FPCHIDEK_00911	gene	750				
+FPCHIDEK_00911	CDS	750				hypothetical protein
+FPCHIDEK_00912	gene	3243	carB			
+FPCHIDEK_00912	CDS	3243	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+FPCHIDEK_00913	gene	1065	carA			
+FPCHIDEK_00913	CDS	1065	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+FPCHIDEK_00914	gene	1206	ftsH_3			
+FPCHIDEK_00914	CDS	1206	ftsH_3	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+FPCHIDEK_00915	gene	459				
+FPCHIDEK_00915	CDS	459				hypothetical protein
+FPCHIDEK_00916	gene	555				
+FPCHIDEK_00916	CDS	555				hypothetical protein
+FPCHIDEK_00917	gene	996				
+FPCHIDEK_00917	CDS	996				hypothetical protein
+FPCHIDEK_00918	gene	291				
+FPCHIDEK_00918	CDS	291				hypothetical protein
+FPCHIDEK_00919	gene	1164	citZ			
+FPCHIDEK_00919	CDS	1164	citZ	2.3.3.16	COG0372	Citrate synthase 2
+FPCHIDEK_00920	gene	177				
+FPCHIDEK_00920	CDS	177				hypothetical protein
+FPCHIDEK_00921	gene	441				
+FPCHIDEK_00921	CDS	441				hypothetical protein
+FPCHIDEK_00922	gene	1284				
+FPCHIDEK_00922	CDS	1284		2.7.1.165	COG2379	D-glycerate 2-kinase
+FPCHIDEK_00923	gene	945				
+FPCHIDEK_00923	CDS	945				hypothetical protein
+FPCHIDEK_00924	gene	1086				
+FPCHIDEK_00924	CDS	1086		1.2.-.-		Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+FPCHIDEK_00925	gene	633				
+FPCHIDEK_00925	CDS	633				hypothetical protein
+FPCHIDEK_00926	gene	894				
+FPCHIDEK_00926	CDS	894				hypothetical protein
+FPCHIDEK_00927	gene	1941	uvrB			
+FPCHIDEK_00927	CDS	1941	uvrB			UvrABC system protein B
+FPCHIDEK_00928	gene	2817	uvrA			
+FPCHIDEK_00928	CDS	2817	uvrA			UvrABC system protein A
+FPCHIDEK_00929	gene	1581	uvrC			
+FPCHIDEK_00929	CDS	1581	uvrC		COG0322	UvrABC system protein C
+FPCHIDEK_00930	gene	978				
+FPCHIDEK_00930	CDS	978				hypothetical protein
+FPCHIDEK_00931	gene	579	purN			
+FPCHIDEK_00931	CDS	579	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+FPCHIDEK_00932	gene	321				
+FPCHIDEK_00932	CDS	321				hypothetical protein
+FPCHIDEK_00933	gene	285				
+FPCHIDEK_00933	CDS	285				hypothetical protein
+FPCHIDEK_00934	gene	864	folD			
+FPCHIDEK_00934	CDS	864	folD		COG0190	Bifunctional protein FolD protein
+FPCHIDEK_00935	gene	561				
+FPCHIDEK_00935	CDS	561				hypothetical protein
+FPCHIDEK_00936	gene	1263	purD			
+FPCHIDEK_00936	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FPCHIDEK_00937	gene	3201	ileS			
+FPCHIDEK_00937	CDS	3201	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FPCHIDEK_00938	gene	330				
+FPCHIDEK_00938	CDS	330				hypothetical protein
+FPCHIDEK_00939	gene	1107	sucC			
+FPCHIDEK_00939	CDS	1107	sucC	6.2.1.4	COG0045	Succinate--CoA ligase [GDP-forming] subunit beta
+FPCHIDEK_00940	gene	915	sucD			
+FPCHIDEK_00940	CDS	915	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+FPCHIDEK_00941	gene	168				
+FPCHIDEK_00941	CDS	168				hypothetical protein
+FPCHIDEK_00942	gene	1107				
+FPCHIDEK_00942	CDS	1107				hypothetical protein
+FPCHIDEK_00943	gene	1251				
+FPCHIDEK_00943	CDS	1251				hypothetical protein
+FPCHIDEK_00944	gene	465				
+FPCHIDEK_00944	CDS	465		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+FPCHIDEK_00945	gene	174				
+FPCHIDEK_00945	CDS	174				hypothetical protein
+FPCHIDEK_00946	gene	279				
+FPCHIDEK_00946	CDS	279				hypothetical protein
+FPCHIDEK_00947	gene	318				
+FPCHIDEK_00947	CDS	318				hypothetical protein
+FPCHIDEK_00948	gene	762				
+FPCHIDEK_00948	CDS	762				hypothetical protein
+FPCHIDEK_00949	gene	77				
+FPCHIDEK_00949	tRNA	77				tRNA-Val(cac)
+FPCHIDEK_00950	gene	1770	pepF1			
+FPCHIDEK_00950	CDS	1770	pepF1	3.4.24.-		Oligoendopeptidase F, plasmid
+FPCHIDEK_00951	gene	1308				
+FPCHIDEK_00951	CDS	1308				hypothetical protein
+FPCHIDEK_00952	gene	552	pdaD			
+FPCHIDEK_00952	CDS	552	pdaD	4.1.1.19		Pyruvoyl-dependent arginine decarboxylase
+FPCHIDEK_00953	gene	468	bcp_2			
+FPCHIDEK_00953	CDS	468	bcp_2	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FPCHIDEK_00954	gene	549				
+FPCHIDEK_00954	CDS	549				hypothetical protein
+FPCHIDEK_00955	gene	249				
+FPCHIDEK_00955	CDS	249				hypothetical protein
+FPCHIDEK_00956	gene	375				
+FPCHIDEK_00956	CDS	375				hypothetical protein
+FPCHIDEK_00957	gene	75				
+FPCHIDEK_00957	tRNA	75				tRNA-Thr(tgt)
+FPCHIDEK_00958	gene	372				
+FPCHIDEK_00958	CDS	372				hypothetical protein
+FPCHIDEK_00959	gene	1062	rlmN			
+FPCHIDEK_00959	CDS	1062	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+FPCHIDEK_00960	gene	462				
+FPCHIDEK_00960	CDS	462				hypothetical protein
+FPCHIDEK_00961	gene	390				
+FPCHIDEK_00961	CDS	390				hypothetical protein
+FPCHIDEK_00962	gene	501				
+FPCHIDEK_00962	CDS	501				hypothetical protein
+FPCHIDEK_00963	gene	1038				
+FPCHIDEK_00963	CDS	1038				hypothetical protein
+FPCHIDEK_00964	gene	987				
+FPCHIDEK_00964	CDS	987				hypothetical protein
+FPCHIDEK_00965	gene	630				
+FPCHIDEK_00965	CDS	630				hypothetical protein
+FPCHIDEK_00966	gene	165				
+FPCHIDEK_00966	CDS	165				hypothetical protein
+FPCHIDEK_00967	gene	246				
+FPCHIDEK_00967	CDS	246				hypothetical protein
+FPCHIDEK_00968	gene	483				
+FPCHIDEK_00968	CDS	483				hypothetical protein
+FPCHIDEK_00969	gene	213				
+FPCHIDEK_00969	CDS	213				hypothetical protein
+FPCHIDEK_00970	gene	1077				
+FPCHIDEK_00970	CDS	1077				hypothetical protein
+FPCHIDEK_00971	gene	303				
+FPCHIDEK_00971	CDS	303				hypothetical protein
+FPCHIDEK_00972	gene	408	arsC2			
+FPCHIDEK_00972	CDS	408	arsC2	2.8.4.2	COG0394	Arsenate-mycothiol transferase ArsC2
+FPCHIDEK_00973	gene	687	aqpZ_2			
+FPCHIDEK_00973	CDS	687	aqpZ_2		COG0580	Aquaporin Z
+FPCHIDEK_00974	gene	180				
+FPCHIDEK_00974	CDS	180				hypothetical protein
+FPCHIDEK_00975	gene	1092				
+FPCHIDEK_00975	CDS	1092		1.-.-.-	COG0492	Putative flavoprotein monooxygenase
+FPCHIDEK_00976	gene	804				
+FPCHIDEK_00976	CDS	804				hypothetical protein
+FPCHIDEK_00977	gene	1635	der			
+FPCHIDEK_00977	CDS	1635	der			GTPase Der
+FPCHIDEK_00978	gene	243				
+FPCHIDEK_00978	CDS	243				hypothetical protein
+FPCHIDEK_00979	gene	177				
+FPCHIDEK_00979	CDS	177				hypothetical protein
+FPCHIDEK_00980	gene	1485				
+FPCHIDEK_00980	CDS	1485				hypothetical protein
+FPCHIDEK_00981	gene	951				
+FPCHIDEK_00981	CDS	951				hypothetical protein
+FPCHIDEK_00982	gene	873				
+FPCHIDEK_00982	CDS	873				hypothetical protein
+FPCHIDEK_00983	gene	1014				
+FPCHIDEK_00983	CDS	1014				hypothetical protein
+FPCHIDEK_00984	gene	489				
+FPCHIDEK_00984	CDS	489				hypothetical protein
+FPCHIDEK_00985	gene	1302	egtB			
+FPCHIDEK_00985	CDS	1302	egtB	1.14.99.50		Hercynine oxygenase
+FPCHIDEK_00986	gene	1026	egtD			
+FPCHIDEK_00986	CDS	1026	egtD	2.1.1.44	COG4301	Histidine N-alpha-methyltransferase
+FPCHIDEK_00987	gene	831	oppF			
+FPCHIDEK_00987	CDS	831	oppF		COG4608	Oligopeptide transport ATP-binding protein OppF
+FPCHIDEK_00988	gene	144				
+FPCHIDEK_00988	CDS	144				hypothetical protein
+FPCHIDEK_00989	gene	1209	thi4_2			
+FPCHIDEK_00989	CDS	1209	thi4_2	2.4.2.59		Thiamine thiazole synthase
+FPCHIDEK_00990	gene	2346	potE			
+FPCHIDEK_00990	CDS	2346	potE			Putrescine transporter PotE
+FPCHIDEK_00991	gene	280				
+FPCHIDEK_00991	misc_RNA	280				RNaseP_arch
+FPCHIDEK_00992	gene	1374				
+FPCHIDEK_00992	CDS	1374				hypothetical protein
+FPCHIDEK_00993	gene	921	fbiA			
+FPCHIDEK_00993	CDS	921	fbiA	2.7.8.28	COG0391	Phosphoenolpyruvate transferase
+FPCHIDEK_00994	gene	633	fbiD			
+FPCHIDEK_00994	CDS	633	fbiD	2.7.7.68		Phosphoenolpyruvate guanylyltransferase
+FPCHIDEK_00995	gene	993				
+FPCHIDEK_00995	CDS	993				hypothetical protein
+FPCHIDEK_00996	gene	309				
+FPCHIDEK_00996	CDS	309				hypothetical protein
+FPCHIDEK_00997	gene	321				
+FPCHIDEK_00997	CDS	321				hypothetical protein
+FPCHIDEK_00998	gene	168				
+FPCHIDEK_00998	CDS	168				hypothetical protein
+FPCHIDEK_00999	gene	1743				
+FPCHIDEK_00999	CDS	1743				hypothetical protein
+FPCHIDEK_01000	gene	630				
+FPCHIDEK_01000	CDS	630				hypothetical protein
+FPCHIDEK_01001	gene	2460				
+FPCHIDEK_01001	CDS	2460				hypothetical protein
+FPCHIDEK_01002	gene	624	tam			
+FPCHIDEK_01002	CDS	624	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+FPCHIDEK_01003	gene	495				
+FPCHIDEK_01003	CDS	495				hypothetical protein
+FPCHIDEK_01004	gene	3489				
+FPCHIDEK_01004	CDS	3489				hypothetical protein
+FPCHIDEK_01005	gene	300				
+FPCHIDEK_01005	CDS	300				hypothetical protein
+FPCHIDEK_01006	gene	76				
+FPCHIDEK_01006	tRNA	76				tRNA-Pro(tgg)
+FPCHIDEK_01007	gene	894				
+FPCHIDEK_01007	CDS	894		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+FPCHIDEK_01008	gene	180				
+FPCHIDEK_01008	CDS	180				hypothetical protein
+FPCHIDEK_01009	gene	1125				
+FPCHIDEK_01009	CDS	1125				hypothetical protein
+FPCHIDEK_01010	gene	561				
+FPCHIDEK_01010	CDS	561				hypothetical protein
+FPCHIDEK_01011	gene	327	metG_2			
+FPCHIDEK_01011	CDS	327	metG_2	6.1.1.10	COG0073	Methionine--tRNA ligase
+FPCHIDEK_01012	gene	417				
+FPCHIDEK_01012	CDS	417				hypothetical protein
+FPCHIDEK_01013	gene	1212	arnC_3			
+FPCHIDEK_01013	CDS	1212	arnC_3	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+FPCHIDEK_01014	gene	1131				
+FPCHIDEK_01014	CDS	1131				hypothetical protein
+FPCHIDEK_01015	gene	1164	fbiC_1			
+FPCHIDEK_01015	CDS	1164	fbiC_1		COG1060	FO synthase
+FPCHIDEK_01016	gene	1269	fbiC_2			
+FPCHIDEK_01016	CDS	1269	fbiC_2		COG1060	FO synthase
+FPCHIDEK_01017	gene	963	yrbG			
+FPCHIDEK_01017	CDS	963	yrbG		COG0530	Inner membrane protein YrbG
+FPCHIDEK_01018	gene	348				
+FPCHIDEK_01018	CDS	348				hypothetical protein
+FPCHIDEK_01019	gene	729				
+FPCHIDEK_01019	CDS	729				hypothetical protein
+FPCHIDEK_01020	gene	1023	purM			
+FPCHIDEK_01020	CDS	1023	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+FPCHIDEK_01021	gene	1218	gerN_2			
+FPCHIDEK_01021	CDS	1218	gerN_2		COG0475	Na(+)/H(+)-K(+) antiporter GerN
+FPCHIDEK_01022	gene	450				
+FPCHIDEK_01022	CDS	450				hypothetical protein
+FPCHIDEK_01023	gene	1581				
+FPCHIDEK_01023	CDS	1581		2.3.1.-		tRNA uridine(34) acetyltransferase
+FPCHIDEK_01024	gene	1590	lysS			
+FPCHIDEK_01024	CDS	1590	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+FPCHIDEK_01025	gene	198				
+FPCHIDEK_01025	CDS	198				hypothetical protein
+FPCHIDEK_01026	gene	684				
+FPCHIDEK_01026	CDS	684				hypothetical protein
+FPCHIDEK_01027	gene	441				
+FPCHIDEK_01027	CDS	441				hypothetical protein
+FPCHIDEK_01028	gene	99				
+FPCHIDEK_01028	CDS	99				hypothetical protein
+FPCHIDEK_01029	gene	144				
+FPCHIDEK_01029	CDS	144				hypothetical protein
+FPCHIDEK_01030	gene	837				
+FPCHIDEK_01030	CDS	837				hypothetical protein
+FPCHIDEK_01031	gene	1527				
+FPCHIDEK_01031	CDS	1527				hypothetical protein
+FPCHIDEK_01032	gene	1137	cpdA_2			
+FPCHIDEK_01032	CDS	1137	cpdA_2	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FPCHIDEK_01033	gene	2082	recF			
+FPCHIDEK_01033	CDS	2082	recF			DNA replication and repair protein RecF
+FPCHIDEK_01034	gene	489				
+FPCHIDEK_01034	CDS	489				hypothetical protein
+FPCHIDEK_01035	gene	657				
+FPCHIDEK_01035	CDS	657				hypothetical protein
+FPCHIDEK_01036	gene	780				
+FPCHIDEK_01036	CDS	780				hypothetical protein
+FPCHIDEK_01037	gene	468				
+FPCHIDEK_01037	CDS	468				hypothetical protein
+FPCHIDEK_01038	gene	666				
+FPCHIDEK_01038	CDS	666				hypothetical protein
+FPCHIDEK_01039	gene	798				
+FPCHIDEK_01039	CDS	798				hypothetical protein
+FPCHIDEK_01040	gene	933				
+FPCHIDEK_01040	CDS	933		1.1.1.81	COG0111	Hydroxypyruvate reductase
+FPCHIDEK_01041	gene	1422				
+FPCHIDEK_01041	CDS	1422				hypothetical protein
+FPCHIDEK_01042	gene	1407	aspA			
+FPCHIDEK_01042	CDS	1407	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+FPCHIDEK_01043	gene	1269	miaB			
+FPCHIDEK_01043	CDS	1269	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FPCHIDEK_01044	gene	945	ftsZ			
+FPCHIDEK_01044	CDS	945	ftsZ			Cell division protein FtsZ
+FPCHIDEK_01045	gene	588				
+FPCHIDEK_01045	CDS	588				hypothetical protein
+FPCHIDEK_01046	gene	159				
+FPCHIDEK_01046	CDS	159				hypothetical protein
+FPCHIDEK_01047	gene	2502	metH_1			
+FPCHIDEK_01047	CDS	2502	metH_1	2.1.1.13	COG0646	Methionine synthase
+FPCHIDEK_01048	gene	951	metH_2			
+FPCHIDEK_01048	CDS	951	metH_2	2.1.1.13	COG0646	Methionine synthase
+FPCHIDEK_01049	gene	735				
+FPCHIDEK_01049	CDS	735				hypothetical protein
+FPCHIDEK_01050	gene	1461				
+FPCHIDEK_01050	CDS	1461				hypothetical protein
+FPCHIDEK_01051	gene	546	nudL			
+FPCHIDEK_01051	CDS	546	nudL	3.6.1.-		putative Nudix hydrolase NudL
+FPCHIDEK_01052	gene	1128				
+FPCHIDEK_01052	CDS	1128				hypothetical protein
+FPCHIDEK_01053	gene	759	ssuC			
+FPCHIDEK_01053	CDS	759	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+FPCHIDEK_01054	gene	756	cmpD			
+FPCHIDEK_01054	CDS	756	cmpD	3.6.3.-	COG1116	Bicarbonate transport ATP-binding protein CmpD
+FPCHIDEK_01055	gene	1032				
+FPCHIDEK_01055	CDS	1032				hypothetical protein
+FPCHIDEK_01056	gene	1176	argG			
+FPCHIDEK_01056	CDS	1176	argG	6.3.4.5		Argininosuccinate synthase
+FPCHIDEK_01057	gene	168				
+FPCHIDEK_01057	CDS	168				hypothetical protein
+FPCHIDEK_01058	gene	855	lysX_1			
+FPCHIDEK_01058	CDS	855	lysX_1	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+FPCHIDEK_01059	gene	1047	lysY			
+FPCHIDEK_01059	CDS	1047	lysY	1.2.1.-	COG0002	[LysW]-L-2-aminoadipate 6-phosphate reductase
+FPCHIDEK_01060	gene	801	lysZ			
+FPCHIDEK_01060	CDS	801	lysZ	2.7.2.-	COG0548	[LysW]-aminoadipate kinase
+FPCHIDEK_01061	gene	1182	lysJ			
+FPCHIDEK_01061	CDS	1182	lysJ	2.6.1.-	COG4992	[LysW]-aminoadipate semialdehyde transaminase
+FPCHIDEK_01062	gene	420				
+FPCHIDEK_01062	CDS	420				hypothetical protein
+FPCHIDEK_01063	gene	1182	leuA_2			
+FPCHIDEK_01063	CDS	1182	leuA_2	2.3.3.13		2-isopropylmalate synthase
+FPCHIDEK_01064	gene	168				
+FPCHIDEK_01064	CDS	168				hypothetical protein
+FPCHIDEK_01065	gene	846	lysX_2			
+FPCHIDEK_01065	CDS	846	lysX_2	6.3.2.43	COG0189	Alpha-aminoadipate--LysW ligase LysX
+FPCHIDEK_01066	gene	1122	lysK			
+FPCHIDEK_01066	CDS	1122	lysK	3.5.1.-	COG0624	[LysW]-lysine hydrolase
+FPCHIDEK_01067	gene	1038				
+FPCHIDEK_01067	CDS	1038				hypothetical protein
+FPCHIDEK_01068	gene	474	tarD			
+FPCHIDEK_01068	CDS	474	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+FPCHIDEK_01069	gene	693				
+FPCHIDEK_01069	CDS	693				hypothetical protein
+FPCHIDEK_01070	gene	1149				
+FPCHIDEK_01070	CDS	1149				hypothetical protein
+FPCHIDEK_01071	gene	510	erpA			
+FPCHIDEK_01071	CDS	510	erpA			Iron-sulfur cluster insertion protein ErpA
+FPCHIDEK_01072	gene	762	crt			
+FPCHIDEK_01072	CDS	762	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+FPCHIDEK_01073	gene	2121				
+FPCHIDEK_01073	CDS	2121				hypothetical protein
+FPCHIDEK_01074	gene	1275	gdhA			
+FPCHIDEK_01074	CDS	1275	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+FPCHIDEK_01075	gene	879	hldD			
+FPCHIDEK_01075	CDS	879	hldD	5.1.3.20		ADP-L-glycero-D-manno-heptose-6-epimerase
+FPCHIDEK_01076	gene	726	prcA_2			
+FPCHIDEK_01076	CDS	726	prcA_2			Proteasome subunit alpha
+FPCHIDEK_01077	gene	690	COQ5_1			
+FPCHIDEK_01077	CDS	690	COQ5_1	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FPCHIDEK_01078	gene	1158				
+FPCHIDEK_01078	CDS	1158				hypothetical protein
+FPCHIDEK_01079	gene	357	tatA_2			
+FPCHIDEK_01079	CDS	357	tatA_2			Sec-independent protein translocase protein TatA
+FPCHIDEK_01080	gene	783	dpnA			
+FPCHIDEK_01080	CDS	783	dpnA	2.1.1.72		Modification methylase DpnIIB
+FPCHIDEK_01081	gene	195				
+FPCHIDEK_01081	CDS	195				hypothetical protein
+FPCHIDEK_01082	gene	834	cpnA			
+FPCHIDEK_01082	CDS	834	cpnA	1.1.1.163		Cyclopentanol dehydrogenase
+FPCHIDEK_01083	gene	1671				
+FPCHIDEK_01083	CDS	1671				hypothetical protein
+FPCHIDEK_01084	gene	822				
+FPCHIDEK_01084	CDS	822				hypothetical protein
+FPCHIDEK_01085	gene	444				
+FPCHIDEK_01085	CDS	444				hypothetical protein
+FPCHIDEK_01086	gene	1035	hicd_2			
+FPCHIDEK_01086	CDS	1035	hicd_2	1.1.1.87	COG0473	Homoisocitrate dehydrogenase
+FPCHIDEK_01087	gene	558	prmC			
+FPCHIDEK_01087	CDS	558	prmC	2.1.1.297		Release factor glutamine methyltransferase
+FPCHIDEK_01088	gene	705	rsmA			
+FPCHIDEK_01088	CDS	705	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+FPCHIDEK_01089	gene	567				
+FPCHIDEK_01089	CDS	567				hypothetical protein
+FPCHIDEK_01090	gene	327				
+FPCHIDEK_01090	CDS	327				hypothetical protein
+FPCHIDEK_01091	gene	300				
+FPCHIDEK_01091	CDS	300				hypothetical protein
+FPCHIDEK_01092	gene	1125	recA			
+FPCHIDEK_01092	CDS	1125	recA			Protein RecA
+FPCHIDEK_01093	gene	204				
+FPCHIDEK_01093	CDS	204				hypothetical protein
+FPCHIDEK_01094	gene	1737				
+FPCHIDEK_01094	CDS	1737				hypothetical protein
+FPCHIDEK_01095	gene	819	pyrK			
+FPCHIDEK_01095	CDS	819	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+FPCHIDEK_01096	gene	912	pyrD			
+FPCHIDEK_01096	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+FPCHIDEK_01097	gene	1236				
+FPCHIDEK_01097	CDS	1236				hypothetical protein
+FPCHIDEK_01098	gene	672				
+FPCHIDEK_01098	CDS	672				hypothetical protein
+FPCHIDEK_01099	gene	621	rnhB			
+FPCHIDEK_01099	CDS	621	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+FPCHIDEK_01100	gene	1137	trm1			
+FPCHIDEK_01100	CDS	1137	trm1	2.1.1.215	COG1867	tRNA (guanine(26)-N(2)/guanine(27)-N(2))-dimethyltransferase
+FPCHIDEK_01101	gene	609	rlmE			
+FPCHIDEK_01101	CDS	609	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+FPCHIDEK_01102	gene	801				
+FPCHIDEK_01102	CDS	801				hypothetical protein
+FPCHIDEK_01103	gene	474				
+FPCHIDEK_01103	CDS	474				hypothetical protein
+FPCHIDEK_01104	gene	117				
+FPCHIDEK_01104	CDS	117				hypothetical protein
+FPCHIDEK_01105	gene	2085				
+FPCHIDEK_01105	CDS	2085				hypothetical protein
+FPCHIDEK_01106	gene	453				
+FPCHIDEK_01106	CDS	453				hypothetical protein
+FPCHIDEK_01107	gene	1017				
+FPCHIDEK_01107	CDS	1017				hypothetical protein
+FPCHIDEK_01108	gene	1311	apgM			
+FPCHIDEK_01108	CDS	1311	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FPCHIDEK_01109	gene	552				
+FPCHIDEK_01109	CDS	552				hypothetical protein
+FPCHIDEK_01110	gene	438				
+FPCHIDEK_01110	CDS	438				hypothetical protein
+FPCHIDEK_01111	gene	186				
+FPCHIDEK_01111	CDS	186				hypothetical protein
+FPCHIDEK_01112	gene	705				
+FPCHIDEK_01112	CDS	705				hypothetical protein
+FPCHIDEK_01113	gene	1143				
+FPCHIDEK_01113	CDS	1143				hypothetical protein
+FPCHIDEK_01114	gene	576				
+FPCHIDEK_01114	CDS	576				hypothetical protein
+FPCHIDEK_01115	gene	540				
+FPCHIDEK_01115	CDS	540				hypothetical protein
+FPCHIDEK_01116	gene	435				
+FPCHIDEK_01116	CDS	435				hypothetical protein
+FPCHIDEK_01117	gene	966				
+FPCHIDEK_01117	CDS	966				hypothetical protein
+FPCHIDEK_01118	gene	1911	korA			
+FPCHIDEK_01118	CDS	1911	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+FPCHIDEK_01119	gene	1005				
+FPCHIDEK_01119	CDS	1005		1.1.1.-		Putative 2-hydroxyacid dehydrogenase
+FPCHIDEK_01120	gene	267				
+FPCHIDEK_01120	CDS	267				hypothetical protein
+FPCHIDEK_01121	gene	1299	lhgD			
+FPCHIDEK_01121	CDS	1299	lhgD	1.1.5.-	COG0579	L-2-hydroxyglutarate dehydrogenase
+FPCHIDEK_01122	gene	447				
+FPCHIDEK_01122	CDS	447				hypothetical protein
+FPCHIDEK_01123	gene	996	truB			
+FPCHIDEK_01123	CDS	996	truB	5.4.99.25		tRNA pseudouridine synthase B
+FPCHIDEK_01124	gene	543	cmk			
+FPCHIDEK_01124	CDS	543	cmk	2.7.4.25		Cytidylate kinase
+FPCHIDEK_01125	gene	621				
+FPCHIDEK_01125	CDS	621				hypothetical protein
+FPCHIDEK_01126	gene	585				
+FPCHIDEK_01126	CDS	585				hypothetical protein
+FPCHIDEK_01127	gene	1431	secY			
+FPCHIDEK_01127	CDS	1431	secY			Protein translocase subunit SecY
+FPCHIDEK_01128	gene	480				
+FPCHIDEK_01128	CDS	480				hypothetical protein
+FPCHIDEK_01129	gene	468				
+FPCHIDEK_01129	CDS	468				hypothetical protein
+FPCHIDEK_01130	gene	756				
+FPCHIDEK_01130	CDS	756				hypothetical protein
+FPCHIDEK_01131	gene	486				
+FPCHIDEK_01131	CDS	486				hypothetical protein
+FPCHIDEK_01132	gene	921	argF			
+FPCHIDEK_01132	CDS	921	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase
+FPCHIDEK_01133	gene	1377	ftsY			
+FPCHIDEK_01133	CDS	1377	ftsY			Signal recognition particle receptor FtsY
+FPCHIDEK_01134	gene	420	pfdA			
+FPCHIDEK_01134	CDS	420	pfdA			Prefoldin subunit alpha
+FPCHIDEK_01135	gene	621	sodA			
+FPCHIDEK_01135	CDS	621	sodA	1.15.1.1		Superoxide dismutase [Mn]
+FPCHIDEK_01136	gene	2037				
+FPCHIDEK_01136	CDS	2037				hypothetical protein
+FPCHIDEK_01137	gene	1593	pckA			
+FPCHIDEK_01137	CDS	1593	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)
+FPCHIDEK_01138	gene	399				
+FPCHIDEK_01138	CDS	399				hypothetical protein
+FPCHIDEK_01139	gene	456				
+FPCHIDEK_01139	CDS	456				hypothetical protein
+FPCHIDEK_01140	gene	300	ogt			
+FPCHIDEK_01140	CDS	300	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+FPCHIDEK_01141	gene	777				
+FPCHIDEK_01141	CDS	777				hypothetical protein
+FPCHIDEK_01142	gene	456				
+FPCHIDEK_01142	CDS	456				hypothetical protein
+FPCHIDEK_01143	gene	486	rplK			
+FPCHIDEK_01143	CDS	486	rplK		COG0080	50S ribosomal protein L11
+FPCHIDEK_01144	gene	456	asnC_1			
+FPCHIDEK_01144	CDS	456	asnC_1		COG1522	Regulatory protein AsnC
+FPCHIDEK_01145	gene	657	rplA			
+FPCHIDEK_01145	CDS	657	rplA		COG0081	50S ribosomal protein L1
+FPCHIDEK_01146	gene	867				
+FPCHIDEK_01146	CDS	867				hypothetical protein
+FPCHIDEK_01147	gene	636				
+FPCHIDEK_01147	CDS	636				hypothetical protein
+FPCHIDEK_01148	gene	312				
+FPCHIDEK_01148	CDS	312				hypothetical protein
+FPCHIDEK_01149	gene	516				
+FPCHIDEK_01149	CDS	516				hypothetical protein
+FPCHIDEK_01150	gene	2694	alaS			
+FPCHIDEK_01150	CDS	2694	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+FPCHIDEK_01151	gene	2871	valS_2			
+FPCHIDEK_01151	CDS	2871	valS_2	6.1.1.9		Valine--tRNA ligase
+FPCHIDEK_01152	gene	1014				
+FPCHIDEK_01152	CDS	1014				hypothetical protein
+FPCHIDEK_01153	gene	705				
+FPCHIDEK_01153	CDS	705				hypothetical protein
+FPCHIDEK_01154	gene	321				
+FPCHIDEK_01154	CDS	321				hypothetical protein
+FPCHIDEK_01155	gene	73				
+FPCHIDEK_01155	tRNA	73				tRNA-Gln(ctg)
+FPCHIDEK_01156	gene	624				
+FPCHIDEK_01156	CDS	624				hypothetical protein
+FPCHIDEK_01157	gene	438				
+FPCHIDEK_01157	CDS	438				hypothetical protein
+FPCHIDEK_01158	gene	468	nusA			
+FPCHIDEK_01158	CDS	468	nusA			Transcription termination/antitermination protein NusA
+FPCHIDEK_01159	gene	315				
+FPCHIDEK_01159	CDS	315				hypothetical protein
+FPCHIDEK_01160	gene	113				
+FPCHIDEK_01160	rRNA	113				5S ribosomal RNA
+FPCHIDEK_01161	gene	1785	btuD			
+FPCHIDEK_01161	CDS	1785	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+FPCHIDEK_01162	gene	840				
+FPCHIDEK_01162	CDS	840				hypothetical protein
+FPCHIDEK_01163	gene	219				
+FPCHIDEK_01163	CDS	219				hypothetical protein
+FPCHIDEK_01164	gene	498				
+FPCHIDEK_01164	CDS	498				hypothetical protein
+FPCHIDEK_01165	gene	1098				
+FPCHIDEK_01165	CDS	1098				hypothetical protein
+FPCHIDEK_01166	gene	1089				
+FPCHIDEK_01166	CDS	1089				hypothetical protein
+FPCHIDEK_01167	gene	2223				
+FPCHIDEK_01167	CDS	2223				hypothetical protein
+FPCHIDEK_01168	gene	603	pyrE			
+FPCHIDEK_01168	CDS	603	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+FPCHIDEK_01169	gene	75				
+FPCHIDEK_01169	tRNA	75				tRNA-Met(cat)
+FPCHIDEK_01170	gene	636				
+FPCHIDEK_01170	CDS	636		1.-.-.-	COG5424	putative oxidoreductase CT_610
+FPCHIDEK_01171	gene	75				
+FPCHIDEK_01171	tRNA	75				tRNA-Glu(ttc)
+FPCHIDEK_01172	gene	852				
+FPCHIDEK_01172	CDS	852				hypothetical protein
+FPCHIDEK_01173	gene	1485	ndhB_1			
+FPCHIDEK_01173	CDS	1485	ndhB_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+FPCHIDEK_01174	gene	2073	ndhB_2			
+FPCHIDEK_01174	CDS	2073	ndhB_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 2, chloroplastic
+FPCHIDEK_01175	gene	1557	mrpA			
+FPCHIDEK_01175	CDS	1557	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+FPCHIDEK_01176	gene	306	nuoK			
+FPCHIDEK_01176	CDS	306	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+FPCHIDEK_01177	gene	507				
+FPCHIDEK_01177	CDS	507				hypothetical protein
+FPCHIDEK_01178	gene	498	nuoI			
+FPCHIDEK_01178	CDS	498	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+FPCHIDEK_01179	gene	1377	nuoH			
+FPCHIDEK_01179	CDS	1377	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+FPCHIDEK_01180	gene	1149	ndhH			
+FPCHIDEK_01180	CDS	1149	ndhH	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit H
+FPCHIDEK_01181	gene	570	ndhJ			
+FPCHIDEK_01181	CDS	570	ndhJ	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
+FPCHIDEK_01182	gene	516	nuoB			
+FPCHIDEK_01182	CDS	516	nuoB	7.1.1.-	COG0377	NADH-quinone oxidoreductase subunit B
+FPCHIDEK_01183	gene	381	ndhC			
+FPCHIDEK_01183	CDS	381	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+FPCHIDEK_01184	gene	465	bcp_3			
+FPCHIDEK_01184	CDS	465	bcp_3	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+FPCHIDEK_01185	gene	540				
+FPCHIDEK_01185	CDS	540				hypothetical protein
+FPCHIDEK_01186	gene	1503	cfiB			
+FPCHIDEK_01186	CDS	1503	cfiB	6.4.1.7	COG0439	2-oxoglutarate carboxylase small subunit
+FPCHIDEK_01187	gene	1575	pccB			
+FPCHIDEK_01187	CDS	1575	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+FPCHIDEK_01188	gene	297				
+FPCHIDEK_01188	CDS	297				hypothetical protein
+FPCHIDEK_01189	gene	1161	ruvB_1			
+FPCHIDEK_01189	CDS	1161	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+FPCHIDEK_01190	gene	1122				
+FPCHIDEK_01190	CDS	1122				hypothetical protein
+FPCHIDEK_01191	gene	456				
+FPCHIDEK_01191	CDS	456				hypothetical protein
+FPCHIDEK_01192	gene	321				
+FPCHIDEK_01192	CDS	321				hypothetical protein
+FPCHIDEK_01193	gene	798	cysQ_2			
+FPCHIDEK_01193	CDS	798	cysQ_2	3.1.3.7		3'(2'),5'-bisphosphate nucleotidase CysQ
+FPCHIDEK_01194	gene	837	mimB_1			
+FPCHIDEK_01194	CDS	837	mimB_1	1.18.1.-		Propane 2-monooxygenase, reductase component
+FPCHIDEK_01195	gene	165				
+FPCHIDEK_01195	CDS	165				hypothetical protein
+FPCHIDEK_01196	gene	1071	hemA_2			
+FPCHIDEK_01196	CDS	1071	hemA_2	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+FPCHIDEK_01197	gene	663				
+FPCHIDEK_01197	CDS	663				hypothetical protein
+FPCHIDEK_01198	gene	78				
+FPCHIDEK_01198	tRNA	78				tRNA-Asp(gtc)
+FPCHIDEK_01199	gene	75				
+FPCHIDEK_01199	tRNA	75				tRNA-Lys(ttt)
+FPCHIDEK_01200	gene	1461	argH			
+FPCHIDEK_01200	CDS	1461	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FPCHIDEK_01201	gene	387				
+FPCHIDEK_01201	CDS	387				hypothetical protein
+FPCHIDEK_01202	gene	777	frdB			
+FPCHIDEK_01202	CDS	777	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+FPCHIDEK_01203	gene	354				
+FPCHIDEK_01203	CDS	354				hypothetical protein
+FPCHIDEK_01204	gene	441				
+FPCHIDEK_01204	CDS	441				hypothetical protein
+FPCHIDEK_01205	gene	1713	frdA			
+FPCHIDEK_01205	CDS	1713	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+FPCHIDEK_01206	gene	486				
+FPCHIDEK_01206	CDS	486				hypothetical protein
+FPCHIDEK_01207	gene	858	Dml			
+FPCHIDEK_01207	CDS	858	Dml	4.1.3.32		2,3-dimethylmalate lyase
+FPCHIDEK_01208	gene	828				
+FPCHIDEK_01208	CDS	828				hypothetical protein
+FPCHIDEK_01209	gene	77				
+FPCHIDEK_01209	tRNA	77				tRNA-Ala(ggc)
+FPCHIDEK_01210	gene	843	fpr			
+FPCHIDEK_01210	CDS	843	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase
+FPCHIDEK_01211	gene	597				
+FPCHIDEK_01211	CDS	597				hypothetical protein
+FPCHIDEK_01212	gene	915	ilvE_2			
+FPCHIDEK_01212	CDS	915	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+FPCHIDEK_01213	gene	960	iolG			
+FPCHIDEK_01213	CDS	960	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase
+FPCHIDEK_01214	gene	270				
+FPCHIDEK_01214	CDS	270				hypothetical protein
+FPCHIDEK_01215	gene	480	fdtC			
+FPCHIDEK_01215	CDS	480	fdtC	2.3.1.197		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose 3-N-acetyltransferase
+FPCHIDEK_01216	gene	519	ftnA			
+FPCHIDEK_01216	CDS	519	ftnA	1.16.3.2	COG1528	Bacterial non-heme ferritin
+FPCHIDEK_01217	gene	1542				
+FPCHIDEK_01217	CDS	1542				hypothetical protein
+FPCHIDEK_01218	gene	453				
+FPCHIDEK_01218	CDS	453				hypothetical protein
+FPCHIDEK_01219	gene	564				
+FPCHIDEK_01219	CDS	564				hypothetical protein
+FPCHIDEK_01220	gene	360				
+FPCHIDEK_01220	CDS	360				hypothetical protein
+FPCHIDEK_01221	gene	663	tal			
+FPCHIDEK_01221	CDS	663	tal	2.2.1.2	COG0176	Transaldolase
+FPCHIDEK_01222	gene	969	aptB			
+FPCHIDEK_01222	CDS	969	aptB	2.2.1.-	COG3958	Apulose-4-phosphate transketolase subunit B
+FPCHIDEK_01223	gene	1668	dxs			
+FPCHIDEK_01223	CDS	1668	dxs	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+FPCHIDEK_01224	gene	387				
+FPCHIDEK_01224	CDS	387				hypothetical protein
+FPCHIDEK_01225	gene	1482	pepA			
+FPCHIDEK_01225	CDS	1482	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+FPCHIDEK_01226	gene	231				
+FPCHIDEK_01226	CDS	231				hypothetical protein
+FPCHIDEK_01227	gene	990	tagO			
+FPCHIDEK_01227	CDS	990	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+FPCHIDEK_01228	gene	2220				
+FPCHIDEK_01228	CDS	2220				hypothetical protein
+FPCHIDEK_01229	gene	2079				
+FPCHIDEK_01229	CDS	2079				hypothetical protein
+FPCHIDEK_01230	gene	516				
+FPCHIDEK_01230	CDS	516				hypothetical protein
+FPCHIDEK_01231	gene	957	ruvB_2			
+FPCHIDEK_01231	CDS	957	ruvB_2	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+FPCHIDEK_01232	gene	291				
+FPCHIDEK_01232	CDS	291				hypothetical protein
+FPCHIDEK_01233	gene	86				
+FPCHIDEK_01233	tRNA	86				tRNA-Ser(tga)
+FPCHIDEK_01234	gene	558				
+FPCHIDEK_01234	CDS	558				hypothetical protein
+FPCHIDEK_01235	gene	666				
+FPCHIDEK_01235	CDS	666				hypothetical protein
+FPCHIDEK_01236	gene	1272	hisS			
+FPCHIDEK_01236	CDS	1272	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+FPCHIDEK_01237	gene	417				
+FPCHIDEK_01237	CDS	417				Protein archease
+FPCHIDEK_01238	gene	411	resA_3			
+FPCHIDEK_01238	CDS	411	resA_3			Thiol-disulfide oxidoreductase ResA
+FPCHIDEK_01239	gene	1761	infB			
+FPCHIDEK_01239	CDS	1761	infB			Translation initiation factor IF-2
+FPCHIDEK_01240	gene	402	ndkA			
+FPCHIDEK_01240	CDS	402	ndkA	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+FPCHIDEK_01241	gene	204				
+FPCHIDEK_01241	CDS	204				hypothetical protein
+FPCHIDEK_01242	gene	225				
+FPCHIDEK_01242	CDS	225				hypothetical protein
+FPCHIDEK_01243	gene	387				
+FPCHIDEK_01243	CDS	387				hypothetical protein
+FPCHIDEK_01244	gene	1344	glmM_2			
+FPCHIDEK_01244	CDS	1344	glmM_2	5.4.2.10	COG1109	Phosphoglucosamine mutase
+FPCHIDEK_01245	gene	87				
+FPCHIDEK_01245	tRNA	87				tRNA-Leu(tag)
+FPCHIDEK_01246	gene	843	purU			
+FPCHIDEK_01246	CDS	843	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+FPCHIDEK_01247	gene	693	mftE			
+FPCHIDEK_01247	CDS	693	mftE	3.5.-.-	COG1402	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+FPCHIDEK_01248	gene	231				
+FPCHIDEK_01248	CDS	231				hypothetical protein
+FPCHIDEK_01249	gene	849				
+FPCHIDEK_01249	CDS	849				hypothetical protein
+FPCHIDEK_01250	gene	678	rpiA			
+FPCHIDEK_01250	CDS	678	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+FPCHIDEK_01251	gene	1389				
+FPCHIDEK_01251	CDS	1389		3.5.2.-		D-hydantoinase
+FPCHIDEK_01252	gene	72				
+FPCHIDEK_01252	tRNA	72				tRNA-Ala(cgc)
+FPCHIDEK_01253	gene	363				
+FPCHIDEK_01253	CDS	363				hypothetical protein
+FPCHIDEK_01254	gene	549				
+FPCHIDEK_01254	CDS	549				hypothetical protein
+FPCHIDEK_01255	gene	333				
+FPCHIDEK_01255	CDS	333				Thioredoxin C-2
+FPCHIDEK_01256	gene	768				
+FPCHIDEK_01256	CDS	768				hypothetical protein
+FPCHIDEK_01257	gene	714				
+FPCHIDEK_01257	CDS	714				hypothetical protein
+FPCHIDEK_01258	gene	1521	abfD			
+FPCHIDEK_01258	CDS	1521	abfD	4.2.1.120		4-hydroxybutyryl-CoA dehydratase/vinylacetyl-CoA-Delta-isomerase
+FPCHIDEK_01259	gene	2097	pat			
+FPCHIDEK_01259	CDS	2097	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+FPCHIDEK_01260	gene	357				
+FPCHIDEK_01260	CDS	357				hypothetical protein
+FPCHIDEK_01261	gene	453				
+FPCHIDEK_01261	CDS	453				hypothetical protein
+FPCHIDEK_01262	gene	324				
+FPCHIDEK_01262	CDS	324				hypothetical protein
+FPCHIDEK_01263	gene	984	tsaD			
+FPCHIDEK_01263	CDS	984	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+FPCHIDEK_01264	gene	1194	OLA1			
+FPCHIDEK_01264	CDS	1194	OLA1			Obg-like ATPase 1
+FPCHIDEK_01265	gene	564				
+FPCHIDEK_01265	CDS	564				hypothetical protein
+FPCHIDEK_01266	gene	1515	QTRT1			
+FPCHIDEK_01266	CDS	1515	QTRT1	2.4.2.29		Queuine tRNA-ribosyltransferase catalytic subunit 1
+FPCHIDEK_01267	gene	807				
+FPCHIDEK_01267	CDS	807				hypothetical protein
+FPCHIDEK_01268	gene	1203				
+FPCHIDEK_01268	CDS	1203				hypothetical protein
+FPCHIDEK_01269	gene	303	ndhI_1			
+FPCHIDEK_01269	CDS	303	ndhI_1	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+FPCHIDEK_01270	gene	213				
+FPCHIDEK_01270	CDS	213				hypothetical protein
+FPCHIDEK_01271	gene	1278				
+FPCHIDEK_01271	CDS	1278		3.1.-.-	COG1236	Ribonuclease
+FPCHIDEK_01272	gene	840				
+FPCHIDEK_01272	CDS	840				hypothetical protein
+FPCHIDEK_01273	gene	76				
+FPCHIDEK_01273	tRNA	76				tRNA-Arg(tct)
+FPCHIDEK_01274	gene	351				
+FPCHIDEK_01274	CDS	351				hypothetical protein
+FPCHIDEK_01275	gene	498				
+FPCHIDEK_01275	CDS	498				hypothetical protein
+FPCHIDEK_01276	gene	1635	petB			
+FPCHIDEK_01276	CDS	1635	petB			Cytochrome b6
+FPCHIDEK_01277	gene	549				
+FPCHIDEK_01277	CDS	549				hypothetical protein
+FPCHIDEK_01278	gene	4245				
+FPCHIDEK_01278	CDS	4245				hypothetical protein
+FPCHIDEK_01279	gene	945				
+FPCHIDEK_01279	CDS	945				hypothetical protein
+FPCHIDEK_01280	gene	1110				
+FPCHIDEK_01280	CDS	1110				hypothetical protein
+FPCHIDEK_01281	gene	1110				
+FPCHIDEK_01281	CDS	1110				hypothetical protein
+FPCHIDEK_01282	gene	870	mak			
+FPCHIDEK_01282	CDS	870	mak	2.7.1.4	COG1940	Fructokinase
+FPCHIDEK_01283	gene	1524	guaA_2			
+FPCHIDEK_01283	CDS	1524	guaA_2	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+FPCHIDEK_01284	gene	585				
+FPCHIDEK_01284	CDS	585				hypothetical protein
+FPCHIDEK_01285	gene	738				
+FPCHIDEK_01285	CDS	738				hypothetical protein
+FPCHIDEK_01286	gene	912	folP			
+FPCHIDEK_01286	CDS	912	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+FPCHIDEK_01287	gene	1437	guaB			
+FPCHIDEK_01287	CDS	1437	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+FPCHIDEK_01288	gene	471				
+FPCHIDEK_01288	CDS	471				hypothetical protein
+FPCHIDEK_01289	gene	825	pheA			
+FPCHIDEK_01289	CDS	825	pheA			Bifunctional chorismate mutase/prephenate dehydratase
+FPCHIDEK_01290	gene	543				
+FPCHIDEK_01290	CDS	543				hypothetical protein
+FPCHIDEK_01291	gene	1221				
+FPCHIDEK_01291	CDS	1221				hypothetical protein
+FPCHIDEK_01292	gene	516				
+FPCHIDEK_01292	CDS	516				hypothetical protein
+FPCHIDEK_01293	gene	1005				
+FPCHIDEK_01293	CDS	1005				hypothetical protein
+FPCHIDEK_01294	gene	1320				
+FPCHIDEK_01294	CDS	1320				hypothetical protein
+FPCHIDEK_01295	gene	75				
+FPCHIDEK_01295	tRNA	75				tRNA-Met(cat)
+FPCHIDEK_01296	gene	1113	yliI_1			
+FPCHIDEK_01296	CDS	1113	yliI_1	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+FPCHIDEK_01297	gene	1161	mvaA			
+FPCHIDEK_01297	CDS	1161	mvaA	1.1.1.88		3-hydroxy-3-methylglutaryl-coenzyme A reductase
+FPCHIDEK_01298	gene	978	hisG			
+FPCHIDEK_01298	CDS	978	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+FPCHIDEK_01299	gene	1254	hisD			
+FPCHIDEK_01299	CDS	1254	hisD	1.1.1.23		Histidinol dehydrogenase
+FPCHIDEK_01300	gene	1068	hisC			
+FPCHIDEK_01300	CDS	1068	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+FPCHIDEK_01301	gene	963				
+FPCHIDEK_01301	CDS	963				hypothetical protein
+FPCHIDEK_01302	gene	588	hisB			
+FPCHIDEK_01302	CDS	588	hisB	4.2.1.19	COG0131	Imidazoleglycerol-phosphate dehydratase
+FPCHIDEK_01303	gene	609	hisH			
+FPCHIDEK_01303	CDS	609	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+FPCHIDEK_01304	gene	729	hisA			
+FPCHIDEK_01304	CDS	729	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+FPCHIDEK_01305	gene	804	hisF			
+FPCHIDEK_01305	CDS	804	hisF	4.3.2.10	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+FPCHIDEK_01306	gene	591				
+FPCHIDEK_01306	CDS	591				hypothetical protein
+FPCHIDEK_01307	gene	1215	thrC			
+FPCHIDEK_01307	CDS	1215	thrC	4.2.3.1	COG0498	Threonine synthase
+FPCHIDEK_01308	gene	1332				
+FPCHIDEK_01308	CDS	1332				hypothetical protein
+FPCHIDEK_01309	gene	936				
+FPCHIDEK_01309	CDS	936				hypothetical protein
+FPCHIDEK_01310	gene	936				
+FPCHIDEK_01310	CDS	936				hypothetical protein
+FPCHIDEK_01311	gene	1632	groL_1			
+FPCHIDEK_01311	CDS	1632	groL_1			60 kDa chaperonin
+FPCHIDEK_01312	gene	1773	ade			
+FPCHIDEK_01312	CDS	1773	ade	3.5.4.2	COG1001	Adenine deaminase
+FPCHIDEK_01313	gene	282				
+FPCHIDEK_01313	CDS	282				hypothetical protein
+FPCHIDEK_01314	gene	198				
+FPCHIDEK_01314	CDS	198				hypothetical protein
+FPCHIDEK_01315	gene	585	mobA			
+FPCHIDEK_01315	CDS	585	mobA	2.7.7.77		Molybdenum cofactor guanylyltransferase
+FPCHIDEK_01316	gene	726	cobS			
+FPCHIDEK_01316	CDS	726	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+FPCHIDEK_01317	gene	972	cobD_1			
+FPCHIDEK_01317	CDS	972	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+FPCHIDEK_01318	gene	843	cobQ			
+FPCHIDEK_01318	CDS	843	cobQ		COG1492	Cobyric acid synthase
+FPCHIDEK_01319	gene	1098	cobD_2			
+FPCHIDEK_01319	CDS	1098	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+FPCHIDEK_01320	gene	1074	asd2			
+FPCHIDEK_01320	CDS	1074	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+FPCHIDEK_01321	gene	456	asnC_2			
+FPCHIDEK_01321	CDS	456	asnC_2		COG1522	Regulatory protein AsnC
+FPCHIDEK_01322	gene	930	ctaB_2			
+FPCHIDEK_01322	CDS	930	ctaB_2	2.5.1.141	COG0109	Protoheme IX farnesyltransferase
+FPCHIDEK_01323	gene	177				
+FPCHIDEK_01323	CDS	177				hypothetical protein
+FPCHIDEK_01324	gene	1074	ccr_1			
+FPCHIDEK_01324	CDS	1074	ccr_1	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+FPCHIDEK_01325	gene	1329	bsdC			
+FPCHIDEK_01325	CDS	1329	bsdC	4.1.1.61	COG0043	Phenolic acid decarboxylase
+FPCHIDEK_01326	gene	273				
+FPCHIDEK_01326	CDS	273				hypothetical protein
+FPCHIDEK_01327	gene	453				
+FPCHIDEK_01327	CDS	453				hypothetical protein
+FPCHIDEK_01328	gene	546				
+FPCHIDEK_01328	CDS	546				hypothetical protein
+FPCHIDEK_01329	gene	324				
+FPCHIDEK_01329	CDS	324				hypothetical protein
+FPCHIDEK_01330	gene	354				
+FPCHIDEK_01330	CDS	354				hypothetical protein
+FPCHIDEK_01331	gene	477				
+FPCHIDEK_01331	CDS	477				hypothetical protein
+FPCHIDEK_01332	gene	1044				
+FPCHIDEK_01332	CDS	1044				hypothetical protein
+FPCHIDEK_01333	gene	1044	hflX			
+FPCHIDEK_01333	CDS	1044	hflX		COG2262	GTPase HflX
+FPCHIDEK_01334	gene	537				
+FPCHIDEK_01334	CDS	537				hypothetical protein
+FPCHIDEK_01335	gene	525				
+FPCHIDEK_01335	CDS	525				hypothetical protein
+FPCHIDEK_01336	gene	654	ribD2			
+FPCHIDEK_01336	CDS	654	ribD2	1.1.1.302	COG1985	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+FPCHIDEK_01337	gene	1185	dadD			
+FPCHIDEK_01337	CDS	1185	dadD	3.5.4.31		5'-deoxyadenosine deaminase
+FPCHIDEK_01338	gene	753				
+FPCHIDEK_01338	CDS	753				hypothetical protein
+FPCHIDEK_01339	gene	417	ribH			
+FPCHIDEK_01339	CDS	417	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+FPCHIDEK_01340	gene	675	ribBA			
+FPCHIDEK_01340	CDS	675	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+FPCHIDEK_01341	gene	585	ribE			
+FPCHIDEK_01341	CDS	585	ribE	2.5.1.9	COG0307	Riboflavin synthase
+FPCHIDEK_01342	gene	855	citE			
+FPCHIDEK_01342	CDS	855	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+FPCHIDEK_01343	gene	1077	ccr_2			
+FPCHIDEK_01343	CDS	1077	ccr_2	1.3.1.85	COG0604	Crotonyl-CoA carboxylase/reductase
+FPCHIDEK_01344	gene	279				
+FPCHIDEK_01344	CDS	279				hypothetical protein
+FPCHIDEK_01345	gene	456				
+FPCHIDEK_01345	CDS	456				hypothetical protein
+FPCHIDEK_01346	gene	1053				
+FPCHIDEK_01346	CDS	1053				hypothetical protein
+FPCHIDEK_01347	gene	303				
+FPCHIDEK_01347	CDS	303				hypothetical protein
+FPCHIDEK_01348	gene	77				
+FPCHIDEK_01348	tRNA	77				tRNA-Gly(tcc)
+FPCHIDEK_01349	gene	669				
+FPCHIDEK_01349	CDS	669				hypothetical protein
+FPCHIDEK_01350	gene	1125				
+FPCHIDEK_01350	CDS	1125				hypothetical protein
+FPCHIDEK_01351	gene	2655				
+FPCHIDEK_01351	CDS	2655				hypothetical protein
+FPCHIDEK_01352	gene	2079				
+FPCHIDEK_01352	CDS	2079				hypothetical protein
+FPCHIDEK_01353	gene	162				
+FPCHIDEK_01353	CDS	162				hypothetical protein
+FPCHIDEK_01354	gene	396				
+FPCHIDEK_01354	CDS	396				hypothetical protein
+FPCHIDEK_01355	gene	1161				
+FPCHIDEK_01355	CDS	1161				hypothetical protein
+FPCHIDEK_01356	gene	441				
+FPCHIDEK_01356	CDS	441				hypothetical protein
+FPCHIDEK_01357	gene	810	ybeM			
+FPCHIDEK_01357	CDS	810	ybeM	3.5.1.128		Deaminated glutathione amidase
+FPCHIDEK_01358	gene	831	mimB_2			
+FPCHIDEK_01358	CDS	831	mimB_2	1.18.1.-		Propane 2-monooxygenase, reductase component
+FPCHIDEK_01359	gene	441				
+FPCHIDEK_01359	CDS	441				hypothetical protein
+FPCHIDEK_01360	gene	1275	nrgA			
+FPCHIDEK_01360	CDS	1275	nrgA			Ammonium transporter
+FPCHIDEK_01361	gene	330				
+FPCHIDEK_01361	CDS	330				hypothetical protein
+FPCHIDEK_01362	gene	132				
+FPCHIDEK_01362	CDS	132				hypothetical protein
+FPCHIDEK_01363	gene	264				
+FPCHIDEK_01363	CDS	264				hypothetical protein
+FPCHIDEK_01364	gene	120				
+FPCHIDEK_01364	CDS	120				hypothetical protein
+FPCHIDEK_01365	gene	570				
+FPCHIDEK_01365	CDS	570				hypothetical protein
+FPCHIDEK_01366	gene	108				
+FPCHIDEK_01366	CDS	108				hypothetical protein
+FPCHIDEK_01367	gene	177				
+FPCHIDEK_01367	CDS	177				hypothetical protein
+FPCHIDEK_01368	gene	771				
+FPCHIDEK_01368	CDS	771				hypothetical protein
+FPCHIDEK_01369	gene	1656				
+FPCHIDEK_01369	CDS	1656				hypothetical protein
+FPCHIDEK_01370	gene	804				
+FPCHIDEK_01370	CDS	804				hypothetical protein
+FPCHIDEK_01371	gene	654				
+FPCHIDEK_01371	CDS	654				hypothetical protein
+FPCHIDEK_01372	gene	879				
+FPCHIDEK_01372	CDS	879				hypothetical protein
+FPCHIDEK_01373	gene	648				
+FPCHIDEK_01373	CDS	648				hypothetical protein
+FPCHIDEK_01374	gene	2748	vgb_2			
+FPCHIDEK_01374	CDS	2748	vgb_2	4.2.99.-		Virginiamycin B lyase
+FPCHIDEK_01375	gene	1557				
+FPCHIDEK_01375	CDS	1557				hypothetical protein
+FPCHIDEK_01376	gene	930	pyrB			
+FPCHIDEK_01376	CDS	930	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+FPCHIDEK_01377	gene	471	pyrI			
+FPCHIDEK_01377	CDS	471	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+FPCHIDEK_01378	gene	339	atpH			
+FPCHIDEK_01378	CDS	339	atpH			ATP synthase subunit c
+FPCHIDEK_01379	gene	132				
+FPCHIDEK_01379	CDS	132				hypothetical protein
+FPCHIDEK_01380	gene	633	ntpD			
+FPCHIDEK_01380	CDS	633	ntpD			V-type sodium ATPase subunit D
+FPCHIDEK_01381	gene	1383	ntpB			
+FPCHIDEK_01381	CDS	1383	ntpB			V-type sodium ATPase subunit B
+FPCHIDEK_01382	gene	1779	atpA			
+FPCHIDEK_01382	CDS	1779	atpA	7.1.2.2	COG1155	V-type ATP synthase alpha chain
+FPCHIDEK_01383	gene	600	atpE			
+FPCHIDEK_01383	CDS	600	atpE			V-type proton ATPase subunit E
+FPCHIDEK_01384	gene	2094				
+FPCHIDEK_01384	CDS	2094				hypothetical protein
+FPCHIDEK_01385	gene	282				
+FPCHIDEK_01385	CDS	282				hypothetical protein
+FPCHIDEK_01386	gene	210				
+FPCHIDEK_01386	CDS	210				hypothetical protein
+FPCHIDEK_01387	gene	777	ttuD_2			
+FPCHIDEK_01387	CDS	777	ttuD_2		COG2897	Sulfur carrier protein TtuD
+FPCHIDEK_01388	gene	1581	amt			
+FPCHIDEK_01388	CDS	1581	amt			Ammonia channel
+FPCHIDEK_01389	gene	693				
+FPCHIDEK_01389	CDS	693				hypothetical protein
+FPCHIDEK_01390	gene	1050	atpC			
+FPCHIDEK_01390	CDS	1050	atpC			V-type ATP synthase subunit C
+FPCHIDEK_01391	gene	504				
+FPCHIDEK_01391	CDS	504				hypothetical protein
+FPCHIDEK_01392	gene	657				
+FPCHIDEK_01392	CDS	657				hypothetical protein
+FPCHIDEK_01393	gene	114				
+FPCHIDEK_01393	CDS	114				hypothetical protein
+FPCHIDEK_01394	gene	549				
+FPCHIDEK_01394	CDS	549				hypothetical protein
+FPCHIDEK_01395	gene	354				
+FPCHIDEK_01395	CDS	354				hypothetical protein
+FPCHIDEK_01396	gene	492				
+FPCHIDEK_01396	CDS	492				hypothetical protein
+FPCHIDEK_01397	gene	684	pyrH			
+FPCHIDEK_01397	CDS	684	pyrH	2.7.4.22		Uridylate kinase
+FPCHIDEK_01398	gene	1239				
+FPCHIDEK_01398	CDS	1239				hypothetical protein
+FPCHIDEK_01399	gene	582	tmk			
+FPCHIDEK_01399	CDS	582	tmk	2.7.4.9	COG0125	Thymidylate kinase
+FPCHIDEK_01400	gene	129				
+FPCHIDEK_01400	CDS	129				hypothetical protein
+FPCHIDEK_01401	gene	1551	ubiB			
+FPCHIDEK_01401	CDS	1551	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+FPCHIDEK_01402	gene	135				
+FPCHIDEK_01402	CDS	135				hypothetical protein
+FPCHIDEK_01403	gene	396				
+FPCHIDEK_01403	CDS	396				hypothetical protein
+FPCHIDEK_01404	gene	201				
+FPCHIDEK_01404	CDS	201				hypothetical protein
+FPCHIDEK_01405	gene	378				
+FPCHIDEK_01405	CDS	378				hypothetical protein
+FPCHIDEK_01406	gene	789				
+FPCHIDEK_01406	CDS	789				hypothetical protein
+FPCHIDEK_01407	gene	750				
+FPCHIDEK_01407	CDS	750				hypothetical protein
+FPCHIDEK_01408	gene	1575				
+FPCHIDEK_01408	CDS	1575				hypothetical protein
+FPCHIDEK_01409	gene	3129				
+FPCHIDEK_01409	CDS	3129				hypothetical protein
+FPCHIDEK_01410	gene	1398				
+FPCHIDEK_01410	CDS	1398				hypothetical protein
+FPCHIDEK_01411	gene	579				
+FPCHIDEK_01411	CDS	579				hypothetical protein
+FPCHIDEK_01412	gene	282				
+FPCHIDEK_01412	CDS	282				hypothetical protein
+FPCHIDEK_01413	gene	396				
+FPCHIDEK_01413	CDS	396				hypothetical protein
+FPCHIDEK_01414	gene	141				
+FPCHIDEK_01414	CDS	141				hypothetical protein
+FPCHIDEK_01415	gene	702				
+FPCHIDEK_01415	CDS	702				hypothetical protein
+FPCHIDEK_01416	gene	423				
+FPCHIDEK_01416	CDS	423				hypothetical protein
+FPCHIDEK_01417	gene	1317				
+FPCHIDEK_01417	CDS	1317				hypothetical protein
+FPCHIDEK_01418	gene	957				
+FPCHIDEK_01418	CDS	957				hypothetical protein
+FPCHIDEK_01419	gene	1083	bspRIM			
+FPCHIDEK_01419	CDS	1083	bspRIM	2.1.1.37		Modification methylase BspRI
+FPCHIDEK_01420	gene	207				
+FPCHIDEK_01420	CDS	207				hypothetical protein
+FPCHIDEK_01421	gene	171				
+FPCHIDEK_01421	CDS	171				hypothetical protein
+FPCHIDEK_01422	gene	393				
+FPCHIDEK_01422	CDS	393				hypothetical protein
+FPCHIDEK_01423	gene	105				
+FPCHIDEK_01423	CDS	105				hypothetical protein
+FPCHIDEK_01424	gene	540				
+FPCHIDEK_01424	CDS	540				hypothetical protein
+FPCHIDEK_01425	gene	873				
+FPCHIDEK_01425	CDS	873				hypothetical protein
+FPCHIDEK_01426	gene	294				
+FPCHIDEK_01426	CDS	294				hypothetical protein
+FPCHIDEK_01427	gene	1173	yliI_2			
+FPCHIDEK_01427	CDS	1173	yliI_2	1.1.5.-	COG2133	Aldose sugar dehydrogenase YliI
+FPCHIDEK_01428	gene	426	ycf3			
+FPCHIDEK_01428	CDS	426	ycf3			Photosystem I assembly protein Ycf3
+FPCHIDEK_01429	gene	255				
+FPCHIDEK_01429	CDS	255				hypothetical protein
+FPCHIDEK_01430	gene	2274				
+FPCHIDEK_01430	CDS	2274				hypothetical protein
+FPCHIDEK_01431	gene	426				
+FPCHIDEK_01431	CDS	426				hypothetical protein
+FPCHIDEK_01432	gene	369				
+FPCHIDEK_01432	CDS	369				hypothetical protein
+FPCHIDEK_01433	gene	1263	tuf_3			
+FPCHIDEK_01433	CDS	1263	tuf_3			Elongation factor Tu
+FPCHIDEK_01434	gene	1314				
+FPCHIDEK_01434	CDS	1314				hypothetical protein
+FPCHIDEK_01435	gene	705	lolD			
+FPCHIDEK_01435	CDS	705	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+FPCHIDEK_01436	gene	1197				
+FPCHIDEK_01436	CDS	1197				hypothetical protein
+FPCHIDEK_01437	gene	972				
+FPCHIDEK_01437	CDS	972				hypothetical protein
+FPCHIDEK_01438	gene	516	nudF			
+FPCHIDEK_01438	CDS	516	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+FPCHIDEK_01439	gene	933				
+FPCHIDEK_01439	CDS	933				hypothetical protein
+FPCHIDEK_01440	gene	891				
+FPCHIDEK_01440	CDS	891				hypothetical protein
+FPCHIDEK_01441	gene	735				
+FPCHIDEK_01441	CDS	735				hypothetical protein
+FPCHIDEK_01442	gene	816	panB			
+FPCHIDEK_01442	CDS	816	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+FPCHIDEK_01443	gene	1233	coaBC			
+FPCHIDEK_01443	CDS	1233	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+FPCHIDEK_01444	gene	843	COQ5_2			
+FPCHIDEK_01444	CDS	843	COQ5_2	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+FPCHIDEK_01445	gene	1068				
+FPCHIDEK_01445	CDS	1068		3.4.11.18		Methionine aminopeptidase 1, mitochondrial
+FPCHIDEK_01446	gene	279				
+FPCHIDEK_01446	CDS	279				hypothetical protein
+FPCHIDEK_01447	gene	1890	rnj			
+FPCHIDEK_01447	CDS	1890	rnj	3.1.-.-		Ribonuclease J
+FPCHIDEK_01448	gene	633	prcB_2			
+FPCHIDEK_01448	CDS	633	prcB_2	3.4.25.1	COG0638	Proteasome subunit beta
+FPCHIDEK_01449	gene	1029	egsA			
+FPCHIDEK_01449	CDS	1029	egsA	1.1.1.261	COG0371	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+FPCHIDEK_01450	gene	735				
+FPCHIDEK_01450	CDS	735				hypothetical protein
+FPCHIDEK_01451	gene	1140				
+FPCHIDEK_01451	CDS	1140		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+FPCHIDEK_01452	gene	495				
+FPCHIDEK_01452	CDS	495		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+FPCHIDEK_01453	gene	501				
+FPCHIDEK_01453	CDS	501				hypothetical protein
+FPCHIDEK_01454	gene	495				
+FPCHIDEK_01454	CDS	495				hypothetical protein
+FPCHIDEK_01455	gene	76				
+FPCHIDEK_01455	tRNA	76				tRNA-Val(gac)
+FPCHIDEK_01456	gene	705	bluB			
+FPCHIDEK_01456	CDS	705	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+FPCHIDEK_01457	gene	76				
+FPCHIDEK_01457	tRNA	76				tRNA-Arg(cct)
+FPCHIDEK_01458	gene	528	msuE			
+FPCHIDEK_01458	CDS	528	msuE	1.5.1.38	COG0431	FMN reductase (NADPH)
+FPCHIDEK_01459	gene	408				
+FPCHIDEK_01459	CDS	408				hypothetical protein
+FPCHIDEK_01460	gene	414				
+FPCHIDEK_01460	CDS	414				hypothetical protein
+FPCHIDEK_01461	gene	237				
+FPCHIDEK_01461	CDS	237				hypothetical protein
+FPCHIDEK_01462	gene	483	ppiB			
+FPCHIDEK_01462	CDS	483	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+FPCHIDEK_01463	gene	1197				
+FPCHIDEK_01463	CDS	1197				hypothetical protein
+FPCHIDEK_01464	gene	156				
+FPCHIDEK_01464	CDS	156				hypothetical protein
+FPCHIDEK_01465	gene	429				
+FPCHIDEK_01465	CDS	429				hypothetical protein
+FPCHIDEK_01466	gene	894	RBKS			
+FPCHIDEK_01466	CDS	894	RBKS	2.7.1.15		Ribokinase
+FPCHIDEK_01467	gene	333				
+FPCHIDEK_01467	CDS	333				hypothetical protein
+FPCHIDEK_01468	gene	576				
+FPCHIDEK_01468	CDS	576				hypothetical protein
+FPCHIDEK_01469	gene	387				
+FPCHIDEK_01469	CDS	387				hypothetical protein
+FPCHIDEK_01470	gene	495				
+FPCHIDEK_01470	CDS	495				hypothetical protein
+FPCHIDEK_01471	gene	1047				
+FPCHIDEK_01471	CDS	1047				hypothetical protein
+FPCHIDEK_01472	gene	786				
+FPCHIDEK_01472	CDS	786		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+FPCHIDEK_01473	gene	1401	thrA			
+FPCHIDEK_01473	CDS	1401	thrA		COG0460	Bifunctional aspartokinase/homoserine dehydrogenase 1
+FPCHIDEK_01474	gene	747				
+FPCHIDEK_01474	CDS	747				hypothetical protein
+FPCHIDEK_01475	gene	324				
+FPCHIDEK_01475	CDS	324				hypothetical protein
+FPCHIDEK_01476	gene	273				
+FPCHIDEK_01476	CDS	273				hypothetical protein
+FPCHIDEK_01477	gene	546				
+FPCHIDEK_01477	CDS	546				hypothetical protein
+FPCHIDEK_01478	gene	153				
+FPCHIDEK_01478	CDS	153				hypothetical protein
+FPCHIDEK_01479	gene	153				
+FPCHIDEK_01479	CDS	153				hypothetical protein
+FPCHIDEK_01480	gene	495				
+FPCHIDEK_01480	CDS	495				hypothetical protein
+FPCHIDEK_01481	gene	306	ndhI_2			
+FPCHIDEK_01481	CDS	306	ndhI_2	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+FPCHIDEK_01482	gene	549				
+FPCHIDEK_01482	CDS	549				hypothetical protein
+FPCHIDEK_01483	gene	1146	sufS			
+FPCHIDEK_01483	CDS	1146	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+FPCHIDEK_01484	gene	261				
+FPCHIDEK_01484	CDS	261				hypothetical protein
+FPCHIDEK_01485	gene	648	kynB			
+FPCHIDEK_01485	CDS	648	kynB	3.5.1.9	COG1878	Kynurenine formamidase
+FPCHIDEK_01486	gene	276				
+FPCHIDEK_01486	CDS	276				hypothetical protein
+FPCHIDEK_01487	gene	162				
+FPCHIDEK_01487	CDS	162				hypothetical protein
+FPCHIDEK_01488	gene	294				
+FPCHIDEK_01488	CDS	294				hypothetical protein
+FPCHIDEK_01489	gene	450				
+FPCHIDEK_01489	CDS	450				hypothetical protein
+FPCHIDEK_01490	gene	534				
+FPCHIDEK_01490	CDS	534				hypothetical protein
+FPCHIDEK_01491	gene	657				
+FPCHIDEK_01491	CDS	657				hypothetical protein
+FPCHIDEK_01492	gene	1464	nhaP2			
+FPCHIDEK_01492	CDS	1464	nhaP2			K(+)/H(+) antiporter NhaP2
+FPCHIDEK_01493	gene	912				
+FPCHIDEK_01493	CDS	912				hypothetical protein
+FPCHIDEK_01494	gene	1596				
+FPCHIDEK_01494	CDS	1596				hypothetical protein
+FPCHIDEK_01495	gene	1614				
+FPCHIDEK_01495	CDS	1614				hypothetical protein
+FPCHIDEK_01496	gene	504				
+FPCHIDEK_01496	CDS	504				hypothetical protein
+FPCHIDEK_01497	gene	699				
+FPCHIDEK_01497	CDS	699				hypothetical protein
+FPCHIDEK_01498	gene	429				
+FPCHIDEK_01498	CDS	429				hypothetical protein
+FPCHIDEK_01499	gene	222				
+FPCHIDEK_01499	CDS	222				hypothetical protein
+FPCHIDEK_01500	gene	315				
+FPCHIDEK_01500	CDS	315				hypothetical protein
+FPCHIDEK_01501	gene	558				
+FPCHIDEK_01501	CDS	558				hypothetical protein
+FPCHIDEK_01502	gene	1461	glnA			
+FPCHIDEK_01502	CDS	1461	glnA	6.3.1.2	COG0174	Glutamine synthetase
+FPCHIDEK_01503	gene	381				
+FPCHIDEK_01503	CDS	381				hypothetical protein
+FPCHIDEK_01504	gene	1695	groL_2			
+FPCHIDEK_01504	CDS	1695	groL_2		COG0459	60 kDa chaperonin
+FPCHIDEK_01505	gene	1320	glyA			
+FPCHIDEK_01505	CDS	1320	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+FPCHIDEK_01506	gene	3378				
+FPCHIDEK_01506	CDS	3378				hypothetical protein
+FPCHIDEK_01507	gene	741				
+FPCHIDEK_01507	CDS	741		2.5.1.41	COG1646	Geranylgeranylglyceryl phosphate synthase
+FPCHIDEK_01508	gene	363				
+FPCHIDEK_01508	CDS	363				hypothetical protein
+FPCHIDEK_01509	gene	594				
+FPCHIDEK_01509	CDS	594				hypothetical protein
+FPCHIDEK_01510	gene	402				
+FPCHIDEK_01510	CDS	402				hypothetical protein
