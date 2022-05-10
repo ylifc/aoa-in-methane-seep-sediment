@@ -1,18 +1,18 @@
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q EGM_Bin2_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o EGM_Bin2_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q SB_01_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o SB_01_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM45_Bin2_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM45_Bin2_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM82_Bin1_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM82_Bin1_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q XS83_01_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o XS83_01_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q XS87_02_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o XS87_02_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM58_Bin_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM58_Bin_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q XS87_01_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o XS87_01_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q SB_02_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o SB_02_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q EGM_Bin1_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o EGM_Bin1_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q XS83_02_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o XS83_02_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM79_Bin_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM79_Bin_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM81_Bin2_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM81_Bin2_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM81_Bin1_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM81_Bin1_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM82_Bin2_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM82_Bin2_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q HM45_Bin1_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o HM45_Bin1_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q F_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o F_renamed.fa.fasta.kegg.m8 --query-cover 75
-diamond blastx -d  /home/liulab/Documents/ylifc/kegg/kegg -q SMM_01_renamed.fa.fasta -k 1 -e 0.000001 --threads 64 -o SMM_01_renamed.fa.fasta.kegg.m8 --query-cover 75
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt EGM_Bin1_renamed.fa.fasta.kegg.m8_keggano > EGM_Bin1_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt EGM_Bin2_renamed.fa.fasta.kegg.m8_keggano > EGM_Bin2_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt F_renamed.fa.fasta.kegg.m8_keggano > F_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM45_Bin1_renamed.fa.fasta.kegg.m8_keggano > HM45_Bin1_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM45_Bin2_renamed.fa.fasta.kegg.m8_keggano > HM45_Bin2_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM58_Bin_renamed.fa.fasta.kegg.m8_keggano > HM58_Bin_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM79_Bin_renamed.fa.fasta.kegg.m8_keggano > HM79_Bin_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM81_Bin1_renamed.fa.fasta.kegg.m8_keggano > HM81_Bin1_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM81_Bin2_renamed.fa.fasta.kegg.m8_keggano > HM81_Bin2_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM82_Bin1_renamed.fa.fasta.kegg.m8_keggano > HM82_Bin1_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt HM82_Bin2_renamed.fa.fasta.kegg.m8_keggano > HM82_Bin2_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt SB_01_renamed.fa.fasta.kegg.m8_keggano > SB_01_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt SB_02_renamed.fa.fasta.kegg.m8_keggano > SB_02_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt SMM_01_renamed.fa.fasta.kegg.m8_keggano > SMM_01_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt XS83_01_renamed.fa.fasta.kegg.m8_keggano > XS83_01_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt XS83_02_renamed.fa.fasta.kegg.m8_keggano > XS83_02_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt XS87_01_renamed.fa.fasta.kegg.m8_keggano > XS87_01_renamed.fa.fasta.kegg.m8_keggano_extraced
+perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt XS87_02_renamed.fa.fasta.kegg.m8_keggano > XS87_02_renamed.fa.fasta.kegg.m8_keggano_extraced
