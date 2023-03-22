@@ -1,0 +1,758 @@
+1.A.11.1.1	ammonium|ammonia
+1.A.11.1.4	ammonia
+1.A.11.1.5	ammonia
+1.A.11.1.9	ammonium
+1.A.112.2.10	magnesium(2+)
+1.A.112.2.4	magnesium(2+)|cobalt(2+)
+1.A.112.2.7	magnesium(2+)|cobalt(2+)
+1.A.11.2.5	ammonium|tetramethylammonium
+1.A.11.2.7	ammonium|tetramethylammonium
+1.A.11.2.9	ammonium
+1.A.1.13.10	potassium(1+)|rubidium(1+)
+1.A.11.3.3	ammonia|methylamine
+1.A.1.13.3	calcium(2+)|magnesium(2+)|manganese(2+)|nickel(2+)
+1.A.1.13.7	potassium(1+)
+1.A.1.13.8	potassium(1+)
+1.A.115.1.1	ion
+1.A.1.17.1	potassium(1+)
+1.A.1.17.2	potassium(1+)
+1.A.1.20.7	potassium(1+)
+1.A.1.20.8	ion
+1.A.1.22.1	potassium(1+)
+1.A.1.24.1	potassium(1+)
+1.A.1.28.2	potassium(1+)
+1.A.13.2.3	chloride
+1.A.14.2.2	acetate
+1.A.1.4.5	potassium(1+)
+1.A.1.5.15	potassium(1+)
+1.A.1.5.17	potassium(1+)
+1.A.1.5.20	cation
+1.A.1.5.31	potassium(1+)|inorganic cation
+1.A.1.5.35	potassium(1+)
+1.A.1.5.3	cation|inorganic cation
+1.A.1.5.4	calcium(2+)|sodium(1+)
+1.A.16.1.3	formate
+1.A.16.2.1	formate
+1.A.16.2.3	formate
+1.A.16.3.3	hydrosulfide
+1.A.23.1.1	ion|chloride|potassium(1+)|water
+1.A.23.1.5	ion
+1.A.23.3.4	L-glutamate(1-)
+1.A.23.4.10	ion
+1.A.23.4.12	ion
+1.A.23.4.1	ion
+1.A.23.4.2	ion
+1.A.26.1.1	magnesium(2+)|cobalt(2+)
+1.A.26.1.2	calcium(2+)|magnesium(2+)|manganese(2+)
+1.A.26.1.6	magnesium(2+)
+1.A.30.1.2	sodium(1+)
+1.A.30.1.3	hydron
+1.A.30.1.4	sodium(1+)
+1.A.30.1.5	hydron
+1.A.30.2.11	proton
+1.A.30.2.1	sodium(1+)|hydron
+1.A.30.2.3	hydron
+1.A.30.2.7	hydron
+1.A.30.2.9	hydron
+1.A.30.3.1	hydron
+1.A.33.1.2	ion
+1.A.33.1.3	ion
+1.A.35.3.5	magnesium(2+)|cobalt(2+)
+1.A.43.1.7	fluoride
+1.A.54.4.1	ion
+1.A.54.4.2	cation
+1.A.54.4.5	cation
+1.A.54.5.1	cation
+1.A.54.5.4	phospholipid
+1.A.62.2.1	ion|cation|metabolite
+1.A.62.2.4	calcium(2+)
+1.A.6.2.2	calcium(2+)|sodium(1+)|cation
+1.A.62.3.1	sodium(1+)|potassium(1+)
+1.A.77.2.11	cation
+1.A.79.2.1	double-stranded RNA
+1.A.8.10.10	water
+1.A.8.10.1	hydrogen peroxide|water|ammonia|urea|glycerol
+1.A.8.10.2	water|ammonia|urea|glycerol|carbon dioxide
+1.A.8.12.1	water|ammonia|glycerol
+1.A.8.12.6	arsenite(3-)|borate
+1.A.8.13.2	water|glycerol|carbon dioxide
+1.A.8.2.1	glycerol
+1.A.8.3.1	water
+1.A.8.8.18	water
+1.A.8.8.19	water
+1.A.8.8.21	water
+1.A.8.8.25	water
+1.A.8.8.28	water
+1.A.9.8.3	ion
+1.A.9.9.3	ion|monoatomic monocation
+1.B.12.9.1	water|molecule
+1.B.14.10.2	molecule
+1.B.14.10.3	molecule
+1.B.14.10.5	long-chain alkane
+1.B.14.1.23	molecule
+1.B.14.1.25	nickel(2+)
+1.B.14.14.1	thiamine(1+)
+1.B.14.3.1	cyanocob(III)alamin
+1.B.14.4.1	copper(2+)
+1.B.14.6.12	molecule
+1.B.14.6.1	maltooligosaccharide
+1.B.14.6.5	molecule
+1.B.16.2.3	molecule
+1.B.17.2.2	cadmium(2+)|cobalt(2+)|zinc(2+)
+1.B.18.3.3	glycosyl group
+1.B.18.3.5	polysaccharide
+1.B.18.3.7	exopolysaccharide
+1.B.22.1.3	protein polypeptide chain
+1.B.3.1.11	molecule
+1.B.3.1.7	molecule
+1.B.33.1.1	protein polypeptide chain
+1.B.33.2.3	protein polypeptide chain
+1.B.33.3.4	protein polypeptide chain
+1.B.33.4.1	protein polypeptide chain
+1.B.42.1.13	lipopolysaccharide
+1.B.42.1.2	lipopolysaccharide
+1.B.5.1.13	anion
+1.B.5.1.3	molecule
+1.B.60.1.6	molecule
+1.B.6.1.2	molecule
+1.B.6.2.12	molecule
+1.B.67.1.6	molecule
+1.B.76.1.4	copper(2+)
+1.B.80.2.5	molecule
+1.B.9.4.5	arene
+1.C.109.1.5	molecule
+1.C.113.1.2	molecule
+1.C.126.1.4	magnesium(2+)
+1.C.82.1.1	molecule
+1.F.1.1.2	neurotransmitter
+1.I.1.1.5	protein|(ribonucleotide)n+m
+1.I.3.1.1	molecule|macromolecule
+1.R.1.1.1	lipid
+1.W.2.1.8	deoxyribonucleic acid
+2.A.103.1.2	alpha-D-FucNAc4-(1->4)-beta-D-ManNAcA-(1->4)-D-GlcNAc-undecaprenyl diphosphate(3-)
+2.A.103.1.3	alpha-D-FucNAc4-(1->4)-beta-D-ManNAcA-(1->4)-D-GlcNAc-undecaprenyl diphosphate(3-)
+2.A.107.1.2	manganese(2+)
+2.A.108.2.3	iron(2+)
+2.A.109.1.1	tellurium atom
+2.A.118.1.3	dicarboxylic acid dianion
+2.A.119.1.6	cadmium(2+)|copper(2+)|zinc(2+)
+2.A.1.2.10	hydron|diterpene|quinolone
+2.A.12.1.5	GDP|GTP
+2.A.1.2.24	chloramphenicol|fluoroquinolone antibiotic
+2.A.123.2.13	UDP-sugar
+2.A.123.2.6	glucose
+2.A.123.2.8	UDP-sugar
+2.A.1.2.41	tetracycline|tetracycline
+2.A.1.25.5	beta-lactam antibiotic
+2.A.1.25.6	peptide
+2.A.1.26.3	ethidium bromide|sodium dodecyl sulfate|silver(1+) nitrate
+2.A.127.1.1	cardiolipin
+2.A.130.1.1	protein
+2.A.130.1.2	protein
+2.A.1.3.16	hydron|tetracycline
+2.A.1.3.33	actinomycin D|novobiocin|streptomycin
+2.A.1.3.46	chloramphenicol|florfenicol
+2.A.1.3.72	riboflavin|riboflavin
+2.A.1.3.81	rhodamine 6G|3,6-diamino-10-methylacridinium chloride|ethidium bromide|ampicillin|tetracycline|kanamycin
+2.A.1.42.2	monoacylglycerol phosphate
+2.A.1.53.2	valine
+2.A.1.6.11	acetate|glycolate|pyruvate|lactate|(S)-2-halocarboxylic acid
+2.A.1.6.12	thiazole
+2.A.16.2.2	malate(2-)
+2.A.16.4.5	anion
+2.A.17.1.5	peptide
+2.A.17.1.7	peptide
+2.A.17.1.8	peptide
+2.A.1.7.3	proton|xylose|glucose|mannose
+2.A.19.5.1	calcium(2+)
+2.A.19.5.2	calcium(2+)|sodium(1+)|hydron
+2.A.19.5.3	calcium(2+)|sodium(1+)
+2.A.19.5.4	calcium(2+)|sodium(1+)
+2.A.20.1.3	phosphate(3-)
+2.A.20.1.4	phosphate(3-)
+2.A.20.1.5	phosphate(3-)
+2.A.20.1.6	phosphate(3-)
+2.A.20.2.4	phosphate(3-)
+2.A.20.2.7	sodium(1+)|phosphate(3-)
+2.A.20.2.9	phosphate(3-)
+2.A.20.3.1	sodium(1+)|phosphate(3-)
+2.A.21.3.2	sodium(1+)|glucose|galactose
+2.A.21.5.3	sodium(1+)|acetate|pyruvate|propionate|lactate|butyrate
+2.A.21.5.5	sodium(1+)|pyruvate|lactate|butyrate|nicotinate
+2.A.21.7.5	acetate|tellurite
+2.A.21.9.2	proline
+2.A.22.2.6	sodium(1+)|glycine
+2.A.22.4.1	sodium(1+)|tryptophan
+2.A.22.5.1	sodium(1+)
+2.A.22.5.3	sodium(1+)|neurotransmitter
+2.A.23.1.1	glutamate(2-)|aspartate(2-)
+2.A.23.1.2	sodium(1+)|hydron|glutamate(2-)|aspartate(2-)
+2.A.2.3.12	UDP-sugar
+2.A.23.1.5	anion|glutamate(2-)|aspartate(2-)
+2.A.23.2.3	lithium(1+)|sodium(1+)|potassium(1+)|glutamate(2-)|aspartate(2-)|cysteine
+2.A.2.4.1	sucrose
+2.A.25.1.1	sodium(1+)|glycine|alanine
+2.A.25.1.3	sodium(1+)|alanine
+2.A.28.2.4	sodium(1+)|bile acid
+2.A.29.23.4	adenosine 5'-monophosphate|ADP|ATP
+2.A.30.1.3	potassium(1+)
+2.A.33.1.2	sodium(1+)|potassium(1+)|hydron
+2.A.3.3.13	alpha-amino acid
+2.A.3.3.16	alpha-amino acid
+2.A.3.3.22	alpha-amino acid
+2.A.3.3.2	lysine|ornithine|arginine
+2.A.34.1.3	lithium(1+)|sodium(1+)|hydron
+2.A.35.2.2	lysine
+2.A.3.6.1	alpha-amino acid
+2.A.36.6.3	potassium(1+)
+2.A.36.6.4	potassium(1+)|hydron|ammonium
+2.A.36.6.5	sodium(1+)|potassium(1+)|hydron
+2.A.36.6.8	sodium(1+)|hydron
+2.A.36.6.9	sodium(1+)|hydron
+2.A.36.7.1	calcium(2+)|sodium(1+)|hydron
+2.A.37.1.1	potassium(1+)
+2.A.37.1.2	potassium(1+)
+2.A.37.1.3	potassium(1+)
+2.A.37.1.4	potassium(1+)|hydron
+2.A.37.1.8	potassium(1+)
+2.A.37.1.9	potassium(1+)
+2.A.37.2.1	sodium(1+)|hydron
+2.A.37.2.2	sodium(1+)|potassium(1+)|hydron
+2.A.37.2.4	lithium(1+)|sodium(1+)|hydron
+2.A.37.2.7	sodium(1+)|hydron
+2.A.37.3.3	sodium(1+)|hydron
+2.A.37.4.8	potassium(1+)|hydron
+2.A.37.5.1	potassium(1+)|ammonium
+2.A.38.1.1	potassium(1+)
+2.A.38.1.2	potassium(1+)
+2.A.38.1.5	lithium(1+)|sodium(1+)|potassium(1+)|rubidium(1+)
+2.A.3.8.28	L-threonine|serine
+2.A.3.8.3	lysine|alanine|arginine|glutamine|histidine|leucine|phenylalanine|tryptophan
+2.A.38.4.2	sodium(1+)|potassium(1+)
+2.A.38.4.3	potassium(1+)
+2.A.38.4.4	potassium(1+)
+2.A.38.4.5	potassium(1+)
+2.A.38.4.6	potassium(1+)
+2.A.3.8.5	glutamate(2-)|cystine
+2.A.4.1.1	cadmium(2+)|cobalt(2+)|copper(2+)|nickel(2+)|zinc(2+)
+2.A.4.2.8	cadmium(2+)|cobalt(2+)|zinc(2+)
+2.A.4.4.7	lead(2+)
+2.A.45.1.2	arsenate(3-)|arsenite(3-)
+2.A.45.2.1	anion|tyrosine
+2.A.47.1.12	dicarboxylic acid dianion|malate(2-)|succinate(2-)|fumarate(2-)
+2.A.47.1.13	sodium(1+)|dicarboxylic acid dianion|oxaloacetate(2-)|2-oxoglutarate(2-)|malate(2-)|succinate(2-)|fumarate(2-)
+2.A.47.1.15	sodium(1+)|dicarboxylic acid dianion
+2.A.47.1.1	anion
+2.A.47.1.5	sodium(1+)|dicarboxylic acid dianion|tricarboxylic acid trianion
+2.A.4.7.2	metal cation
+2.A.47.4.6	sulfate|vanadium oxoanion|molybdate|tungstate
+2.A.4.7.4	iron(2+)
+2.A.47.5.2	lithium(1+)|sodium(1+)|citrate salt|glutamate(2-)|malate(2-)|succinate(2-)|fumarate(2-)
+2.A.4.7.6	manganese(2+)
+2.A.4.7.8	cadmium(2+)|zinc(2+)
+2.A.49.6.1	chloride
+2.A.49.6.2	chloride
+2.A.49.6.4	chloride|hydron
+2.A.5.1.5	zinc(2+)
+2.A.5.2.1	manganese(2+)
+2.A.53.1.4	hydron|sulfate
+2.A.53.3.13	fumarate(2-)
+2.A.53.3.4	sulfate|cyanide
+2.A.53.3.8	hydrogencarbonate|sulfate
+2.A.5.4.11	cadmium(2+)|zinc(2+)
+2.A.5.4.17	zinc(2+)
+2.A.55.2.9	iron(2+)
+2.A.5.5.5	zinc(2+)
+2.A.5.5.6	cadmium(2+)|magnesium(2+)|cobalt(2+)|copper(2+)|iron(2+)|nickel(2+)|zinc(2+)
+2.A.56.1.12	2-oxoglutaric acid
+2.A.56.1.2	2,3-diketogulonate
+2.A.56.1.3	sodium(1+)|N-glycoloyl-beta-neuraminic acid|N-acetyl-beta-neuraminic acid
+2.A.56.1.6	sodium(1+)|N-acetyl-beta-neuraminic acid
+2.A.56.3.4	3-methyl-2-oxobutanoate|pyruvate|2-oxobutanoate|3-methyl-2-oxovalerate|4-methyl-2-oxopentanoic acid
+2.A.58.1.8	sodium(1+)|phosphate(3-)
+2.A.59.1.2	arsenite(3-)|antimonite
+2.A.59.1.4	arsenite(3-)
+2.A.59.1.5	arsenite(3-)
+2.A.59.1.6	arsenite(3-)
+2.A.6.1.10	copper(2+)
+2.A.6.1.15	cadmium(2+)|cobalt(2+)|zinc(2+)
+2.A.6.1.1	cobalt(2+)|nickel(2+)
+2.A.6.1.2	cadmium(2+)|cobalt(2+)|zinc(2+)
+2.A.6.1.5	cadmium(2+)|lead(2+)|zinc(2+)
+2.A.6.1.7	zinc(2+)
+2.A.6.1.8	copper(2+)
+2.A.6.2.10	styrene|toluene
+2.A.6.2.14	chloramphenicol|tetracycline|amino cyclitol glycoside|diterpene
+2.A.6.2.16	chloramphenicol|acrolein|fluoroquinolone antibiotic
+2.A.6.2.30	ethidium|drug
+2.A.6.2.31	fluoroquinolone antibiotic
+2.A.6.2.32	fluoroquinolone antibiotic
+2.A.6.2.37	detergent
+2.A.6.2.38	detergent
+2.A.6.2.47	drug
+2.A.6.2.9	acetate|styrene|m-xylene|toluene|propylbenzene|alpha-pinene
+2.A.6.3.12	drug
+2.A.6.3.13	thiophosphate(2-)
+2.A.6.3.14	ethidium bromide|sodium dodecyl sulfate|ciprofloxacin|ampicillin|cefoperazone|cefoxitin|imipenem|metronidazole
+2.A.64.1.3	protein polypeptide chain
+2.A.6.4.1	hydron|protein polypeptide chain
+2.A.64.2.1	protein polypeptide chain
+2.A.6.4.2	protein polypeptide chain
+2.A.64.3.2	protein polypeptide chain
+2.A.6.4.3	proton|protein polypeptide chain
+2.A.64.4.1	protein polypeptide chain
+2.A.64.5.1	protein polypeptide chain
+2.A.66.1.12	benzalkonium chloride|3,6-diamino-10-methylacridinium chloride|ethidium bromide|hydron|fluoroquinolone antibiotic
+2.A.66.1.16	hydron|organic cation
+2.A.6.6.11	electron
+2.A.66.1.28	drug
+2.A.66.1.32	hydron|drug
+2.A.66.1.35	citrate salt
+2.A.66.1.45	drug
+2.A.66.1.54	citrate salt|salicylate
+2.A.66.1.55	norfloxacin|xenobiotic
+2.A.66.1.57	anthocyanin cation|flavonoid
+2.A.66.2.5	[3)-beta-D-galactopyranuronosyl-(1->3)-2-acetamido-4-amino-2,4,6-trideoxy-alpha-D-glucopyranosyl-(1->4)-beta-D-galactopyranurosyl-(1->]n
+2.A.66.4.5	keto-D-fructose 6-phosphate
+2.A.66.4.7	lipid-linked peptidoglycan
+2.A.67.4.2	oligopeptide
+2.A.6.7.6	lipid
+2.A.6.7.7	lipid
+2.A.68.1.2	drug
+2.A.69.3.2	malate(2-)
+2.A.7.17.1	phenylalanine|tryptophan|tyrosine
+2.A.7.2.4	electron
+2.A.7.3.2	cysteine|asparagine|glutamine
+2.A.7.3.39	thiamine(1+) diphosphate
+2.A.7.3.49	peptide
+2.A.7.3.58	glutamate(2-)|aspartate(2-)|glutamine
+2.A.7.3.7	S-adenosyl-L-homocysteine|S-adenosyl-L-methionine
+2.A.7.3.80	cobalt(2+)|nickel(2+)
+2.A.76.1.1	homoserine|homoserine lactone
+2.A.76.1.4	azaserine|cysteine
+2.A.80.1.1	tricarboxylic acid trianion
+2.A.80.2.1	tricarboxylic acid trianion
+2.A.83.1.1	sodium(1+)|hydrogencarbonate
+2.A.86.1.4	autoinducer-2
+2.A.89.1.5	iron(2+)
+2.A.89.3.1	iron(2+)
+2.A.9.2.1	protein polypeptide chain|protein
+2.A.9.3.1	protein polypeptide chain
+2.A.9.3.7	protein polypeptide chain
+2.C.1.2.1	phospholipid
+3.A.10.1.13	sodium(1+)|hydron
+3.A.10.1.14	sodium(1+)
+3.A.10.1.15	hydron
+3.A.10.1.3	sodium(1+)
+3.A.10.1.5	sodium(1+)
+3.A.10.1.6	sodium(1+)
+3.A.10.1.7	hydron
+3.A.10.2.4	sodium(1+)
+3.A.10.3.1	hydron
+3.A.1.103.1	lipopolysaccharide
+3.A.1.103.4	lipopolysaccharide
+3.A.1.103.5	ethanol|carbohydrate
+3.A.1.104.1	teichoic acid
+3.A.1.104.2	teichoic acid
+3.A.1.105.12	phosphonate(2-)
+3.A.1.105.15	drug
+3.A.1.105.2	oleandomycin
+3.A.1.105.8	triterpene|hop-22(29)-ene
+3.A.1.106.14	lipid As
+3.A.1.106.15	lipid
+3.A.1.106.18	2'-(4-ethoxyphenyl)-5-(4-methylpiperazin-1-yl)-2,5'-bibenzimidazole
+3.A.1.106.20	phospholipid|lipid As|lipopolysaccharide|drug
+3.A.1.106.2	tetraphenylphosphonium|verapamil|2'-(4-ethoxyphenyl)-5-(4-methylpiperazin-1-yl)-2,5'-bibenzimidazole|vincaleukoblastine|doxorubicin|ethidium
+3.A.1.106.9	actinorhodin
+3.A.1.1.11	oligogalacturonide
+3.A.11.1.1	single-stranded DNA polynucleotide
+3.A.1.112.10	bacteriocin
+3.A.11.1.3	single-stranded DNA polynucleotide
+3.A.11.1.4	single-stranded DNA polynucleotide
+3.A.1.11.6	gamma-aminobutyric acid
+3.A.1.1.16	maltooligosaccharide
+3.A.1.11.8	spermidine|spermine
+3.A.1.120.1	macrolide
+3.A.1.120.5	acetate
+3.A.1.121.2	pristinamycin
+3.A.1.121.3	lincomycin
+3.A.11.2.1	deoxyribonucleic acid
+3.A.1.122.12	Arthrofactin
+3.A.1.122.18	peptide|macrolide antibiotic|virulence factor
+3.A.1.122.20	antimicrobial agent
+3.A.1.122.35	antimicrobial agent
+3.A.1.122.4	ferroheme b
+3.A.1.1.22	alpha,alpha-trehalose|maltose|alpha-maltotriose|maltotetraose
+3.A.11.2.2	single-stranded DNA polynucleotide
+3.A.1.123.2	bacteriocin
+3.A.1.12.3	choline
+3.A.1.12.4	(E)-4-(trimethylammonio)but-2-enoate|4-(trimethylammonio)butanoate|L-proline betaine|choline|carnitinium|glycine betaine|ectoine|S,S-dimethyl-beta-propiothetin|(carboxymethyl)(dimethyl)sulfonium
+3.A.1.125.1	lipoprotein
+3.A.1.1.25	alpha,alpha-trehalose|maltose|sucrose|6-O-alpha-D-glucopyranosyl-D-fructofuranose
+3.A.1.12.8	glycine betaine|proline
+3.A.1.1.2	galactooligosaccharide
+3.A.1.131.1	bacitracin
+3.A.11.3.1	single-stranded DNA polynucleotide
+3.A.1.132.1	exopolysaccharide|macromolecule
+3.A.1.132.2	copper(2+)
+3.A.1.134.12	bacitracin|beta-lactam antibiotic|alphaprodine
+3.A.1.135.13	antimicrobial agent
+3.A.1.135.5	daunorubicin
+3.A.1.135.6	2'-(4-ethoxyphenyl)-5-(4-methylpiperazin-1-yl)-2,5'-bibenzimidazole|tetracycline|erythromycin A
+3.A.1.135.7	3,6-diamino-10-methylacridinium chloride|ciprofloxacin|norfloxacin|doxorubicin|daunorubicin|doxycycline
+3.A.1.1.35	glycerol
+3.A.1.1.3	glycerol 1-phosphate
+3.A.1.141.1	paraquat dichloride|Benzyl viologen
+3.A.1.14.15	corynebactin
+3.A.1.1.41	alpha,alpha-trehalose
+3.A.1.14.25	ferroheme b
+3.A.1.14.26	cyanocob(III)alamin
+3.A.1.14.5	ferroheme b
+3.A.1.1.46	glucoside
+3.A.1.14.9	corrinoid
+3.A.1.1.4	alpha-lactose
+3.A.1.1.50	choline alfoscerate
+3.A.1.15.10	manganese(2+)|zinc(2+)
+3.A.1.15.11	zinc(2+)
+3.A.1.15.12	iron(2+)
+3.A.1.15.13	zinc(2+)
+3.A.1.15.14	manganese(2+)
+3.A.1.15.20	iron(2+)|manganese(2+)
+3.A.1.152.1	lipopolysaccharide
+3.A.1.1.52	esculin|maltose|sucrose|beta-glucoside|glucose|fructose
+3.A.1.15.2	manganese(2+)|zinc(2+)
+3.A.1.15.3	zinc(2+)
+3.A.1.15.4	iron(2+)|manganese(2+)
+3.A.1.15.6	copper(2+)|iron(2+)|zinc(2+)
+3.A.1.16.2	nitrite|cyanate
+3.A.1.16.3	hydrogencarbonate
+3.A.1.1.6	cyclodextrin
+3.A.1.17.10	sulfonate
+3.A.1.17.12	sulfonate|sulfonate ester
+3.A.1.17.1	taurine
+3.A.1.17.2	sulfonate
+3.A.1.17.3	pyrimidine
+3.A.1.17.4	taurine
+3.A.1.17.5	phthalate(2-)
+3.A.1.17.6	pyrimidine
+3.A.1.1.7	alpha,alpha-trehalose|maltose
+3.A.1.201.23	3',5'-cyclic AMP
+3.A.1.201.28	alkaloid
+3.A.1.201.3	bile salt|1,2-diacyl-sn-glycero-3-phosphocholine(1+)|vincaleukoblastine|paclitaxel|short-chain fatty acid|digoxin
+3.A.1.20.1	iron(3+)
+3.A.1.204.9	biological pigment|drug
+3.A.1.209.2	peptide|paclitaxel|docetaxel anhydrous|taxane|anthracycline
+3.A.1.211.2	phosphatidylethanolamine|all-trans-retinal|retinoid
+3.A.12.1.1	deoxyribonucleic acid
+3.A.1.2.11	erythritol
+3.A.1.2.12	deoxyribonucleoside
+3.A.1.2.13	autoinducer-2
+3.A.12.1.5	deoxyribonucleic acid
+3.A.1.2.16	erythritol
+3.A.1.2.17	nucleoside
+3.A.1.2.18	xylose
+3.A.1.2.19	beta-D-ribopyranose
+3.A.1.2.1	beta-D-ribopyranose
+3.A.1.2.20	xylose|glucose
+3.A.1.2.21	myo-inositol
+3.A.1.2.29	keto-D-fructose
+3.A.1.2.2	arabinose
+3.A.1.23.2	cobalt(2+)
+3.A.1.23.3	cobalt(2+)
+3.A.1.2.3	glucose|galactose
+3.A.1.24.2	L-methionine (R)-S-oxide residue|methionine
+3.A.1.24.4	L-methionine
+3.A.1.24.6	peptide
+3.A.1.25.5	biotin|riboflavin
+3.A.1.25.6	riboflavin
+3.A.1.25.8	roseoflavin(1-)|FMN|FAD|riboflavin
+3.A.1.2.5	fucose|xylose|arabinose|glucose|galactose
+3.A.1.26.10	folic acid
+3.A.1.2.6	allose
+3.A.1.27.1	gamma-hexachlorocyclohexane
+3.A.1.27.3	phospholipid
+3.A.1.27.5	steroid
+3.A.1.2.9	alpha-L-rhamnopyranose
+3.A.1.3.10	7,8-diaminononanoic acid|cystine
+3.A.1.3.13	L-djenkolic acid|S-methylcysteine|cystathionine
+3.A.1.3.14	cystine
+3.A.1.3.17	lysine|arginine|histidine
+3.A.1.3.1	lysine|ornithine|arginine|histidine
+3.A.1.32.1	cobalamin
+3.A.1.32.3	cobalamin
+3.A.1.3.23	lysine|alanine|arginine|histidine|valine
+3.A.1.3.25	glutamate(2-)|asparagine|glutamine
+3.A.1.3.27	lysine|arginine|histidine
+3.A.1.33.1	5'-S-methyl-5'-thioadenosine
+3.A.1.3.7	glutamate(2-)|aspartate(2-)|asparagine|glutamine
+3.A.1.3.8	alpha-amino acid
+3.A.1.4.10	L-threonine|L-isoleucine|alanine|serine|leucine|valine
+3.A.1.4.14	methionine|leucine|valine|isoleucine|branched-chain amino acid
+3.A.1.4.2	glycine|alanine|proline|serine|histidine|leucine
+3.A.1.4.3	gamma-aminobutyric acid|alpha-amino acid
+3.A.1.4.4	urea
+3.A.1.4.5	urea|hydroxyurea|thiourea
+3.A.1.4.6	alpha-amino acid zwitterion
+3.A.1.4.8	L-threonine|L-isoleucine|alanine|serine|leucine|valine
+3.A.15.1.1	protein
+3.A.1.5.12	rhamnose
+3.A.1.5.13	xylan
+3.A.1.5.14	cellobiose
+3.A.1.5.15	mannoside|mannose
+3.A.1.5.17	L-proline betaine
+3.A.1.5.18	oligopeptide
+3.A.1.5.19	oligopeptide
+3.A.1.5.20	oligopeptide
+3.A.1.5.21	microcin c
+3.A.1.5.22	peptide
+3.A.1.5.24	peptide
+3.A.1.5.27	glutathione
+3.A.1.5.2	dipeptide|5-aminolevulinic acid|ferroheme b
+3.A.1.5.35	peptide
+3.A.1.5.38	L-alanyl-L-alanine
+3.A.1.5.39	tripeptide|dipeptide
+3.A.1.5.40	nickel(2+)
+3.A.15.4.1	protein polypeptide chain
+3.A.1.5.45	peptide
+3.A.1.5.47	peptide
+3.A.1.5.6	beta-glucoside
+3.A.16.1.1	protein
+3.A.16.1.2	protein
+3.A.16.1.3	protein
+3.A.16.1.4	protein polypeptide chain
+3.A.16.1.5	protein
+3.A.1.6.2	tungstate
+3.A.1.6.5	molybdate|tungstate
+3.A.1.6.7	sulfate
+3.A.1.6.9	selenite(2-)|molybdate|tungstate
+3.A.17.1.1	deoxyribonucleic acid
+3.A.18.1.1	messenger RNA
+3.A.1.8.2	molybdate
+3.A.1.8.4	sodium tungstate|molybdate
+3.A.19.1.3	protein polypeptide chain
+3.A.19.1.4	protein
+3.A.1.9.1	iron(3+)
+3.A.1.9.2	phosphonate(2-)|phosphate(3-)|phosphite(3-)
+3.A.1.9.3	phosphite(3-)
+3.A.1.9.4	phosphinate|phosphonate(2-)|phosphite(3-)
+3.A.20.1.1	protein polypeptide chain
+3.A.20.1.5	protein polypeptide chain
+3.A.2.1.12	sodium(1+)
+3.A.2.1.1	hydron
+3.A.2.1.2	sodium(1+)
+3.A.2.1.5	sodium(1+)
+3.A.2.1.6	sodium(1+)|hydron
+3.A.22.1.1	(ribonucleotide)n+m
+3.A.2.2.1	hydron
+3.A.2.2.2	sodium(1+)
+3.A.2.2.5	hydron
+3.A.2.2.6	hydron
+3.A.2.2.8	hydron
+3.A.23.1.1	protein polypeptide chain|deoxyribonucleic acid
+3.A.2.3.1	hydron
+3.A.23.2.1	protein polypeptide chain|deoxyribonucleic acid
+3.A.2.3.2	sodium(1+)|hydron
+3.A.2.3.3	hydron
+3.A.23.4.1	protein polypeptide chain|deoxyribonucleic acid
+3.A.24.5.1	protein polypeptide chain
+3.A.25.1.1	peptide
+3.A.25.2.1	peptide
+3.A.26.1.1	protein polypeptide chain
+3.A.29.1.2	protein
+3.A.30.1.1	protein
+3.A.31.1.1	protein
+3.A.3.2.21	calcium(2+)
+3.A.3.2.29	calcium(2+)
+3.A.3.2.46	calcium ion
+3.A.3.2.4	calcium(2+)
+3.A.3.27.1	cation
+3.A.3.27.3	cation
+3.A.3.27.7	cation
+3.A.3.5.10	copper(1+)|silver(1+)
+3.A.3.5.18	copper(1+)
+3.A.3.5.19	lead(2+)|copper(2+)|iron(2+)
+3.A.3.5.26	copper(1+)
+3.A.3.5.27	copper(1+)
+3.A.3.5.34	copper(1+)
+3.A.3.5.39	cadmium(2+)|copper(1+)|zinc ion
+3.A.3.5.7	copper(1+)|silver(1+)
+3.A.3.6.1	cadmium(2+)|lead(2+)|zinc(2+)|hydron
+3.A.3.6.8	cadmium(2+)
+3.A.5.1.1	protein polypeptide chain
+3.A.5.1.3	protein polypeptide chain
+3.A.5.2.2	protein polypeptide chain
+3.A.5.4.1	protein polypeptide chain
+3.A.5.7.2	protein polypeptide chain
+3.A.5.8.1	protein
+3.A.5.9.1	protein polypeptide chain
+3.A.6.1.1	protein polypeptide chain
+3.A.6.1.3	protein polypeptide chain
+3.A.6.2.1	protein
+3.A.6.3.1	protein polypeptide chain
+3.A.7.11.1	deoxyribonucleic acid
+3.A.7.13.2	protein polypeptide chain
+3.A.7.14.2	deoxyribonucleic acid
+3.A.7.15.1	protein polypeptide chain
+3.A.7.16.1	protein|deoxyribonucleic acid
+3.A.7.18.1	toxin
+3.A.7.19.1	deoxyribonucleic acid
+3.A.7.2.1	protein polypeptide chain
+3.A.7.4.2	protein polypeptide chain
+3.A.7.7.1	deoxyribonucleic acid
+3.A.8.1.1	protein polypeptide chain
+3.A.9.1.1	protein polypeptide chain
+3.A.9.1.2	protein polypeptide chain
+3.B.1.1.1	sodium(1+)
+3.B.1.1.2	sodium(1+)
+3.B.1.1.5	sodium(1+)
+3.B.1.1.6	sodium(1+)
+3.B.1.1.7	sodium(1+)
+3.C.1.1.1	sodium(1+)
+3.D.10.1.1	succinate(2-)|fumarate(2-)|menaquinone
+3.D.10.1.4	succinate(2-)|1,4-benzoquinone
+3.D.10.1.5	fumarate(2-)|menaquinone
+3.D.10.1.6	hydron
+3.D.10.1.8	hydron|fumarate(2-)|hydroquinone|electron
+3.D.1.2.1	hydron
+3.D.1.3.1	hydron
+3.D.1.4.1	hydron
+3.D.1.5.1	hydron
+3.D.1.6.1	hydron
+3.D.1.6.2	hydron
+3.D.1.6.4	hydron
+3.D.1.8.1	hydron
+3.D.1.8.2	proton
+3.D.1.9.2	hydron
+3.D.2.1.1	hydron
+3.D.2.2.1	hydron
+3.D.2.2.2	hydron
+3.D.2.3.1	hydron
+3.D.3.3.1	hydron
+3.D.3.4.1	hydron
+3.D.3.5.1	hydron
+3.D.3.5.3	hydron
+3.D.3.5.6	hydron|electron
+3.D.4.10.1	hydron
+3.D.4.10.2	hydron
+3.D.4.10.3	hydron
+3.D.4.11.1	hydron
+3.D.4.2.1	hydron|dioxygen
+3.D.4.3.1	hydron
+3.D.4.3.3	hydron|proton
+3.D.4.4.2	hydron
+3.D.4.4.3	hydron
+3.D.4.4.4	hydron
+3.D.4.6.1	hydron
+3.D.5.1.1	sodium(1+)
+3.D.6.1.2	hydron
+3.D.6.1.3	hydron
+3.D.7.1.1	hydron
+3.D.7.1.3	electron
+3.D.7.2.2	hydron
+3.D.8.1.1	hydron
+3.D.8.1.2	hydron
+3.D.9.1.1	hydron
+3.D.9.1.2	proton
+3.E.1.5.1	hydron
+4.A.1.1.1	D-glucopyranose
+4.A.1.1.2	N-acetyl-beta-D-glucosamine
+4.A.2.1.17	fructose
+4.A.2.1.26	fructose
+4.A.2.1.27	D-mannitol
+4.A.2.1.4	fructose
+4.A.2.1.7	xylitol|fructose
+4.A.6.1.29	glucosamine|N-acetyl-beta-D-glucosamine|N-acetyl-D-mannosamine|glucose|D-mannopyranose|fructose
+4.B.1.1.1	N-glycosylnicotinamide
+4.B.1.1.4	thiamine(1+)
+4.C.1.1.10	fatty acid
+4.C.1.1.14	fatty acid
+4.C.1.1.16	fatty acid
+4.C.1.1.17	fatty acid
+4.C.1.1.1	fatty acid
+4.C.1.1.4	fatty acid
+4.C.1.1.5	fatty acid
+4.C.1.1.6	(E)-4-(trimethylammonio)but-2-enoate|carnitinium
+4.C.1.1.7	fatty acid
+4.D.1.1.1	lipopolysaccharide
+4.D.1.1.2	glycosyl group
+4.D.1.1.3	UDP-N-acetyl-alpha-D-glucosamine|N-acetyl-beta-D-glucosamine
+4.D.1.3.1	glycosyl group
+4.D.1.3.2	glycosyl group
+4.D.1.3.3	glycosyl group
+4.D.1.3.4	glycosyl group
+4.D.1.4.3	D-glucosyl group
+4.D.2.1.6	glycosyl group
+4.D.3.1.10	glycosyl group
+4.D.3.1.5	(1->4)-beta-D-glucan
+4.D.3.1.6	(1->4)-beta-D-glucan
+4.F.1.1.7	phosphate(3-)
+4.F.1.3.1	phosphate(3-)
+4.F.1.3.2	phosphate(3-)
+4.F.1.3.4	phosphate(3-)
+5.A.1.2.1	electron
+5.A.1.2.3	electron
+5.A.1.2.4	electron
+5.A.1.2.7	electron
+5.A.1.2.9	carbohydrate|electron
+5.A.3.10.1	electron
+5.A.3.11.2	electron
+5.A.3.2.1	electron
+5.A.3.3.1	electron
+5.A.3.3.2	electron
+5.A.3.4.2	electron
+5.A.3.5.1	electron
+5.A.3.5.2	electron
+5.A.3.8.1	electron
+5.A.3.8.2	electron
+5.B.11.1.1	electron
+5.B.1.1.7	electron
+5.B.12.1.1	electron
+5.B.13.1.1	electron
+5.B.1.3.1	electron
+5.B.1.3.2	electron
+5.B.14.1.1	electron
+5.B.3.1.1	electron
+5.B.8.1.1	electron
+5.B.8.1.3	electron
+8.A.51.1.3	dipeptide
+9.A.24.1.7	cholesterol|porphyrin
+9.A.47.2.1	protein polypeptide chain
+9.A.50.1.1	transfer RNA
+9.A.63.1.1	protein polypeptide chain
+9.A.8.1.11	iron(2+)
+9.A.8.1.13	iron(2+)
+9.A.8.1.14	iron(2+)
+9.A.8.1.17	iron(2+)
+9.A.8.1.1	iron(2+)
+9.A.8.1.2	iron(2+)
+9.A.8.1.3	iron(2+)
+9.A.8.1.4	iron(2+)
+9.A.8.1.8	iron(2+)
+9.A.8.1.9	iron(2+)
+9.B.10.1.1	zinc(2+)
+9.B.104.1.4	serine
+9.B.109.1.1	molecule
+9.B.109.1.3	molecule
+9.B.1.1.2	dimethylallyl-UTP
+9.B.1.1.3	dimethylallyl-UTP
+9.B.114.1.1	vancomycin
+9.B.1.1.6	protein polypeptide chain
+9.B.142.2.8	lipopolysaccharide|4-amino-4-deoxy-L-arabinose
+9.B.14.2.5	ferroheme b
+9.B.14.3.6	magnesium(2+)
+9.B.14.3.7	ferroheme b
+9.B.14.3.8	ferroheme b
+9.B.157.1.1	folic acid
+9.B.20.1.4	magnesium(2+)
+9.B.27.1.2	selenite(2-)
+9.B.27.2.11	hydron
+9.B.27.2.3	selenite(2-)
+9.B.280.1.1	methane
+9.B.31.1.1	sn-glycerol 3-phosphate
+9.B.355.1.1	protein
+9.B.42.1.1	protein polypeptide chain
+9.B.43.1.1	electron
+9.B.62.1.2	copper(2+)
+9.B.62.1.5	copper(2+)
+9.B.62.2.1	copper(2+)
+9.B.70.1.1	protein

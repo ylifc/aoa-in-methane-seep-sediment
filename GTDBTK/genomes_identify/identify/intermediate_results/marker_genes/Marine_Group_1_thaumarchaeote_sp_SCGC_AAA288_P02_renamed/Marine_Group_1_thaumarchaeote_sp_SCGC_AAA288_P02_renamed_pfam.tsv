@@ -1,0 +1,55 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-03-21 20:45:47.672212
+# Query sequence file:      genomes_identify/identify/intermediate_results/marker_genes/Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02_renamed/Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /media/ylifc/新加卷19/gtdbtk_db/release95/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig12_10     25    132     22    133 PF07541.7   EIF_2_alpha       Family     3   113   114     79.3   1.2e-23   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig12_15      5    109      4    117 PF01092.14  Ribosomal_S6e     Family     2   112   127     71.2   4.2e-21   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig12_24      8     98      1    119 PF04104.9   DNA_primase_lrg   Family   101   204   260     85.2     3e-25   1 CL0242   
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig13_4      46    164     46    165 PF04019.7   DUF359            Family     1   118   121    119.7   3.1e-36   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig19_13      6     83      5     94 PF00410.14  Ribosomal_S8      Domain     2    88   129     43.0   2.6e-12   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig19_14      2     30      1     30 PF00410.14  Ribosomal_S8      Domain   101   129   129     29.9   2.8e-08   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig1_59       3     76      2     78 PF01198.14  Ribosomal_L31e    Family     2    75    83     81.2   2.2e-24   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig1_70      20    144      5    148 PF00827.12  Ribosomal_L15e    Family    22   148   192    150.9   2.1e-45   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig21_12      6    130      5    130 PF00410.14  Ribosomal_S8      Domain     2   129   129     79.4   1.4e-23   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig21_7      98    137     96    139 PF00900.15  Ribosomal_S4e     Family     4    43    77     35.4   4.5e-10   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig25_4       6    130      5    130 PF00410.14  Ribosomal_S8      Domain     2   129   129     79.4   1.4e-23   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig28_3     324    385    324    387 PF02978.14  SRP_SPB           Domain     1    66   104     49.2   3.6e-14   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig28_4       5     40      2     41 PF02978.14  SRP_SPB           Domain    67   102   104     35.9   4.7e-10   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig2_28       3     70      1     74 PF13685.1   Fe-ADH_2          Family    57   124   250     74.2   6.8e-22   1 CL0224   
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig2_29       3    130      1    130 PF13685.1   Fe-ADH_2          Family   134   250   250    116.2     1e-34   1 CL0224   
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig2_52      11     82     11     83 PF13656.1   RNA_pol_L_2       Domain     1    75    77     53.6   7.8e-16   1 CL0509   
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig3_40      12     81      8     81 PF01191.14  RNA_pol_Rpb5_C    Domain     5    74    74     91.7   1.1e-27   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig4_64       1    118      1    118 PF00368.13  HMG-CoA_red       Family   263   373   373     99.8     9e-30   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig4_66       4    172      1    178 PF00368.13  HMG-CoA_red       Family     4   164   373     92.6   1.3e-27   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig4_7        1     59      1     60 PF01194.12  RNA_pol_N         Domain     1    59    60     95.7   8.5e-29   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig5_2       98    137     96    139 PF00900.15  Ribosomal_S4e     Family     4    43    77     35.4   4.5e-10   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig7_53       3    138      2    140 PF01090.14  Ribosomal_S19e    Family     2   138   140    159.9   1.7e-48   1 No_clan  
+Marine_Group_1_thaumarchaeote_sp_SCGC_AAA288_P02-contig8_19      41    189     10    189 PF01025.14  GrpE              Family    11   166   166     98.8   1.7e-29   1 No_clan  

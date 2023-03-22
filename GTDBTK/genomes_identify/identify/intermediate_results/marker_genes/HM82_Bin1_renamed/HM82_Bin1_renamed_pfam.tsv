@@ -1,0 +1,74 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-03-21 20:45:50.018290
+# Query sequence file:      genomes_identify/identify/intermediate_results/marker_genes/HM82_Bin1_renamed/HM82_Bin1_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /media/ylifc/新加卷19/gtdbtk_db/release95/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+HM82_Bin1-contig109_3      69    209     69    210 PF02006.11  DUF137            Family     1   141   178    208.8     1e-62   1 No_clan  
+HM82_Bin1-contig137_10      2     70      1     70 PF01200.13  Ribosomal_S28e    Family     2    69    69    104.0   7.2e-31   1 No_clan  
+HM82_Bin1-contig150_3     140    314    139    337 PF04104.9   DNA_primase_lrg   Family     2   195   260     92.8   5.8e-27   1 CL0242   
+HM82_Bin1-contig16_14      46    165     46    165 PF04019.7   DUF359            Family     1   119   121    121.1   4.6e-36   1 No_clan  
+HM82_Bin1-contig238_6      12    187     11    187 PF04919.7   DUF655            Family     2   181   181    170.7   6.9e-51   1 CL0198   
+HM82_Bin1-contig238_7      10    106      9    107 PF03874.11  RNA_pol_Rpb4      Family     2   115   117     49.2   1.2e-13   1 CL0426   
+HM82_Bin1-contig238_8       9     96      8     98 PF01157.13  Ribosomal_L21e    Family     2    97    99     52.9   6.6e-15   1 CL0107   
+HM82_Bin1-contig268_3       8    264      8    264 PF13685.1   Fe-ADH_2          Family     1   250   250    227.9   3.2e-68   1 CL0224   
+HM82_Bin1-contig277_1       5    109      4    124 PF01092.14  Ribosomal_S6e     Family     2   112   127     69.9     4e-20   1 No_clan  
+HM82_Bin1-contig289_4      36    226     33    227 PF01015.13  Ribosomal_S3Ae    Family     5   194   195    205.9     1e-61   1 No_clan  
+HM82_Bin1-contig2_2       324    423    324    423 PF02978.14  SRP_SPB           Domain     1   104   104    105.2   5.1e-31   1 No_clan  
+HM82_Bin1-contig342_3      53    381     39    382 PF01496.14  V_ATPase_I        Family    37   388   759    113.0   2.8e-33   1 No_clan  
+HM82_Bin1-contig358_2       1     59      1     60 PF01194.12  RNA_pol_N         Domain     1    59    60     99.4   2.3e-29   1 No_clan  
+HM82_Bin1-contig3_1         3    203      1    203 PF13685.1   Fe-ADH_2          Family    58   250   250    193.0   1.5e-57   1 CL0224   
+HM82_Bin1-contig418_5      49    194      7    196 PF13685.1   Fe-ADH_2          Family    49   194   250     61.4   2.2e-17   1 CL0224   
+HM82_Bin1-contig493_1       1     57      1     57 PF01655.13  Ribosomal_L32e    Family    52   110   110     51.5   2.4e-14   1 No_clan  
+HM82_Bin1-contig493_2       3    148      3    149 PF01280.15  Ribosomal_L19e    Family     1   147   148    153.4   9.7e-46   1 No_clan  
+HM82_Bin1-contig495_3      48    194     14    208 PF13685.1   Fe-ADH_2          Family    48   194   250     64.1   3.3e-18   1 CL0224   
+HM82_Bin1-contig515_5       3     92      3     93 PF01990.12  ATP-synt_F        Family     1    94    95     54.1   4.3e-15   1 No_clan  
+HM82_Bin1-contig539_3     122    228    119    229 PF07541.7   EIF_2_alpha       Family     4   113   114     86.9   2.1e-25   1 No_clan  
+HM82_Bin1-contig543_2       6    130      5    130 PF00410.14  Ribosomal_S8      Domain     2   129   129     75.0   1.2e-21   1 No_clan  
+HM82_Bin1-contig543_5      99    170     96    170 PF00900.15  Ribosomal_S4e     Family     5    77    77     71.1   1.3e-20   1 No_clan  
+HM82_Bin1-contig543_9       1     85      1     87 PF01868.11  UPF0086           Family     1    87    89     75.8   4.1e-22   1 No_clan  
+HM82_Bin1-contig573_3       9    264      8    264 PF13685.1   Fe-ADH_2          Family     2   250   250    228.1   2.8e-68   1 CL0224   
+HM82_Bin1-contig57_3       11     82      9     82 PF01191.14  RNA_pol_Rpb5_C    Domain     3    74    74     93.7   1.1e-27   1 No_clan  
+HM82_Bin1-contig62_4        3    138      2    140 PF01090.14  Ribosomal_S19e    Family     2   138   140    161.0     3e-48   1 No_clan  
+HM82_Bin1-contig62_5        5     91      1     91 PF01984.15  dsDNA_bind        Family    18   107   107     88.1   9.2e-26   1 No_clan  
+HM82_Bin1-contig640_3      13    269     13    269 PF13685.1   Fe-ADH_2          Family     1   250   250    226.6   7.9e-68   1 CL0224   
+HM82_Bin1-contig654_2      12     85     11     86 PF13656.1   RNA_pol_L_2       Domain     2    76    77     56.5   3.7e-16   1 CL0509   
+HM82_Bin1-contig662_2      45    157     45    157 PF01000.21  RNA_pol_A_bac     Domain     1   112   112     82.7   5.4e-24   1 No_clan  
+HM82_Bin1-contig662_5      12    149     11    149 PF00380.14  Ribosomal_S9      Family     2   121   121    118.7   4.6e-35   1 No_clan  
+HM82_Bin1-contig6_6        20    144      5    153 PF00827.12  Ribosomal_L15e    Family    22   148   192    154.6     6e-46   1 No_clan  
+HM82_Bin1-contig700_3       6    130      5    130 PF00410.14  Ribosomal_S8      Domain     2   129   129     77.0   3.1e-22   1 No_clan  
+HM82_Bin1-contig700_6      97    170     95    170 PF00900.15  Ribosomal_S4e     Family     3    77    77     83.6   1.6e-24   1 No_clan  
+HM82_Bin1-contig717_14      5     76      2     78 PF01198.14  Ribosomal_L31e    Family     4    75    83     84.4   8.9e-25   1 No_clan  
+HM82_Bin1-contig729_2      28    185     15    185 PF01025.14  GrpE              Family     6   166   166    134.6   6.6e-40   1 No_clan  
+HM82_Bin1-contig742_1     108    249    107    253 PF01798.13  Nop               Family     2   148   150    173.4   4.9e-52   1 No_clan  
+HM82_Bin1-contig742_2       4    222      1    224 PF01269.12  Fibrillarin       Domain     6   227   229    299.3     3e-90   1 CL0063   
+HM82_Bin1-contig757_4       5    198      1    199 PF00687.16  Ribosomal_L1      Domain     8   219   220    147.4     1e-43   1 CL0480   
+HM82_Bin1-contig757_5       8    104      6    113 PF00466.15  Ribosomal_L10     Family     3    98   100     63.8   3.1e-18   1 No_clan  
+HM82_Bin1-contig96_3       26    317     25    323 PF01866.12  Diphthamide_syn   Family     2   298   307    272.5   1.2e-81   1 No_clan  
+HM82_Bin1-contig97_4        2     98      1    100 PF00368.13  HMG-CoA_red       Family   282   372   373     74.4   1.8e-21   1 No_clan  

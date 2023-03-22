@@ -1,0 +1,146 @@
+[2023-03-21 20:46:36] INFO: GTDB-Tk v1.0.2
+[2023-03-21 20:46:36] INFO: gtdbtk align --identify_dir genomes_identify --out_dir genomes_identify_align --cpus 64 --skip_gtdb_refs --custom_msa_filters
+[2023-03-21 20:46:36] INFO: Using GTDB-Tk reference data version r95: /media/ylifc/新加卷19/gtdbtk_db/release95/
+[2023-03-21 20:46:38] INFO: Aligning markers in 80 genomes with 64 threads.
+[2023-03-21 20:46:38] INFO: Processing 80 genomes identified as archaeal.
+[2023-03-21 20:46:53] INFO: Performing custom filtering and selection of columns.
+[2023-03-21 20:46:53] INFO: Reading marker info.
+[2023-03-21 20:46:53] INFO: Length of MSA and length of marker genes both equal 32675 columns
+[2023-03-21 20:46:53] INFO: Randomly sampling 42 columns passing filtering criteria from each marker gene.
+[2023-03-21 20:46:53] INFO: UPF0086: Domain of unknown function UPF0086: S:0, E:89, LEN:89, COLS:57, PERC:64.0
+[2023-03-21 20:46:53] INFO: Ribosomal_S24e: Ribosomal protein S24e: S:89, E:173, LEN:84, COLS:60, PERC:71.4
+[2023-03-21 20:46:53] INFO: Ribosomal_L32e: Ribosomal protein L32: S:173, E:283, LEN:110, COLS:63, PERC:57.3
+[2023-03-21 20:46:53] INFO: Ribosomal_S6e: Ribosomal protein S6e: S:283, E:410, LEN:127, COLS:82, PERC:64.6
+[2023-03-21 20:46:53] INFO: RNA_pol_A_bac: RNA polymerase Rpb3/RpoA insert domain: S:410, E:522, LEN:112, COLS:87, PERC:77.7
+[2023-03-21 20:46:53] INFO: HMG-CoA_red: Hydroxymethylglutaryl-coenzyme A reductase: S:522, E:895, LEN:373, COLS:269, PERC:72.1
+[2023-03-21 20:46:53] INFO: Ribosomal_L15e: Ribosomal L15: S:895, E:1087, LEN:192, COLS:105, PERC:54.7
+[2023-03-21 20:46:53] INFO: Fibrillarin: Fibrillarin: S:1087, E:1316, LEN:229, COLS:175, PERC:76.4
+[2023-03-21 20:46:53] INFO: Ribosomal_L10: Ribosomal protein L10: S:1316, E:1416, LEN:100, COLS:85, PERC:85.0
+[2023-03-21 20:46:53] INFO: Ribosomal_S3Ae: Ribosomal S3Ae family: S:1416, E:1611, LEN:195, COLS:133, PERC:68.2
+[2023-03-21 20:46:53] INFO: Fe-ADH_2: Iron-containing alcohol dehydrogenase: S:1611, E:1861, LEN:250, COLS:169, PERC:67.6
+[2023-03-21 20:46:53] INFO: SRP_SPB: Signal peptide binding domain: S:1861, E:1965, LEN:104, COLS:85, PERC:81.7
+[2023-03-21 20:46:53] INFO: DUF655: Protein of unknown function (DUF655): S:1965, E:2146, LEN:181, COLS:104, PERC:57.5
+[2023-03-21 20:46:53] INFO: dsDNA_bind: Double-stranded DNA-binding domain: S:2146, E:2253, LEN:107, COLS:74, PERC:69.2
+[2023-03-21 20:46:53] INFO: DNA_primase_lrg: Eukaryotic and archaeal DNA primase, large subunit: S:2253, E:2513, LEN:260, COLS:135, PERC:51.9
+[2023-03-21 20:46:53] INFO: Ribosomal_S8: Ribosomal protein S8: S:2513, E:2642, LEN:129, COLS:51, PERC:39.5
+[2023-03-21 20:46:53] INFO: Nop: Putative snoRNA binding domain: S:2642, E:2792, LEN:150, COLS:122, PERC:81.3
+[2023-03-21 20:46:53] INFO: DUF46: Putative integral membrane protein DUF46: S:2792, E:2967, LEN:175, COLS:130, PERC:74.3
+[2023-03-21 20:46:53] INFO: ATP-synt_F: ATP synthase (F/14-kDa) subunit: S:2967, E:3062, LEN:95, COLS:63, PERC:66.3
+[2023-03-21 20:46:53] INFO: EIF_2_alpha: Eukaryotic translation initiation factor 2 alpha subunit: S:3062, E:3176, LEN:114, COLS:54, PERC:47.4
+[2023-03-21 20:46:53] INFO: DUF359: Protein of unknown function (DUF359): S:3176, E:3297, LEN:121, COLS:76, PERC:62.8
+[2023-03-21 20:46:53] INFO: Ribosomal_S4e: Ribosomal family S4e: S:3297, E:3374, LEN:77, COLS:56, PERC:72.7
+[2023-03-21 20:46:53] INFO: Ribosomal_S19e: Ribosomal protein S19e: S:3374, E:3514, LEN:140, COLS:94, PERC:67.1
+[2023-03-21 20:46:53] INFO: DUF137: Protein of unknown function DUF137: S:3514, E:3692, LEN:178, COLS:9, PERC:5.1
+[2023-03-21 20:46:53] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:53] INFO: Ribosomal_L21e: Ribosomal protein L21e: S:3692, E:3791, LEN:99, COLS:75, PERC:75.8
+[2023-03-21 20:46:53] INFO: RNA_pol_Rpb5_C: RNA polymerase Rpb5, C-terminal domain: S:3791, E:3865, LEN:74, COLS:60, PERC:81.1
+[2023-03-21 20:46:53] INFO: Diphthamide_syn: Putative diphthamide synthesis protein: S:3865, E:4172, LEN:307, COLS:210, PERC:68.4
+[2023-03-21 20:46:53] INFO: Ribosomal_L31e: Ribosomal protein L31e: S:4172, E:4255, LEN:83, COLS:69, PERC:83.1
+[2023-03-21 20:46:53] INFO: V_ATPase_I: V-type ATPase 116kDa subunit family: S:4255, E:5014, LEN:759, COLS:521, PERC:68.6
+[2023-03-21 20:46:53] INFO: Ribosomal_L1: Ribosomal protein L1p/L10e family: S:5014, E:5234, LEN:220, COLS:108, PERC:49.1
+[2023-03-21 20:46:53] INFO: RNA_pol_Rpb4: RNA polymerase Rpb4: S:5234, E:5351, LEN:117, COLS:100, PERC:85.5
+[2023-03-21 20:46:53] INFO: RNA_pol_N: RNA polymerases N / 8 kDa subunit: S:5351, E:5411, LEN:60, COLS:53, PERC:88.3
+[2023-03-21 20:46:53] INFO: Ribosomal_S28e: Ribosomal protein S28e: S:5411, E:5480, LEN:69, COLS:38, PERC:55.1
+[2023-03-21 20:46:53] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:53] INFO: RNA_pol_L_2: RNA polymerase Rpb3/Rpb11 dimerisation domain: S:5480, E:5557, LEN:77, COLS:51, PERC:66.2
+[2023-03-21 20:46:53] INFO: Ribosomal_L19e: Ribosomal protein L19e: S:5557, E:5705, LEN:148, COLS:87, PERC:58.8
+[2023-03-21 20:46:53] INFO: TIGR00468: pheS: phenylalanine--tRNA ligase, alpha subunit: S:5705, E:6029, LEN:324, COLS:237, PERC:73.1
+[2023-03-21 20:46:53] INFO: TIGR01060: eno: phosphopyruvate hydratase: S:6029, E:6454, LEN:425, COLS:307, PERC:72.2
+[2023-03-21 20:46:53] INFO: TIGR03627: uS9_arch: ribosomal protein uS9: S:6454, E:6584, LEN:130, COLS:92, PERC:70.8
+[2023-03-21 20:46:53] INFO: TIGR01020: uS5_euk_arch: ribosomal protein uS5: S:6584, E:6796, LEN:212, COLS:185, PERC:87.3
+[2023-03-21 20:46:53] INFO: TIGR02258: 2_5_ligase: 2'-5' RNA ligase: S:6796, E:6976, LEN:180, COLS:129, PERC:71.7
+[2023-03-21 20:46:53] INFO: TIGR00293: TIGR00293: prefoldin, alpha subunit: S:6976, E:7105, LEN:129, COLS:85, PERC:65.9
+[2023-03-21 20:46:53] INFO: TIGR00389: glyS_dimeric: glycine--tRNA ligase: S:7105, E:7670, LEN:565, COLS:417, PERC:73.8
+[2023-03-21 20:46:53] INFO: TIGR01012: uS2_euk_arch: ribosomal protein uS2: S:7670, E:7866, LEN:196, COLS:61, PERC:31.1
+[2023-03-21 20:46:53] INFO: TIGR00490: aEF-2: translation elongation factor aEF-2: S:7866, E:8586, LEN:720, COLS:519, PERC:72.1
+[2023-03-21 20:46:53] INFO: TIGR03677: eL8_ribo: ribosomal protein eL8: S:8586, E:8703, LEN:117, COLS:88, PERC:75.2
+[2023-03-21 20:46:53] INFO: TIGR03636: uL23_arch: ribosomal protein uL23: S:8703, E:8780, LEN:77, COLS:59, PERC:76.6
+[2023-03-21 20:46:53] INFO: TIGR03722: arch_KAE1: universal archaeal protein Kae1: S:8780, E:9103, LEN:323, COLS:254, PERC:78.6
+[2023-03-21 20:46:53] INFO: TIGR00458: aspS_nondisc: aspartate--tRNA(Asn) ligase: S:9103, E:9531, LEN:428, COLS:321, PERC:75.0
+[2023-03-21 20:46:53] INFO: TIGR00291: RNA_SBDS: rRNA metabolism protein, SBDS family: S:9531, E:9762, LEN:231, COLS:158, PERC:68.4
+[2023-03-21 20:46:53] INFO: TIGR00670: asp_carb_tr: aspartate carbamoyltransferase: S:9762, E:10066, LEN:304, COLS:184, PERC:60.5
+[2023-03-21 20:46:53] INFO: TIGR00064: ftsY: signal recognition particle-docking protein FtsY: S:10066, E:10345, LEN:279, COLS:169, PERC:60.6
+[2023-03-21 20:46:53] INFO: TIGR03629: uS13_arch: ribosomal protein uS13: S:10345, E:10489, LEN:144, COLS:95, PERC:66.0
+[2023-03-21 20:46:53] INFO: TIGR00021: rpiA: ribose 5-phosphate isomerase A: S:10489, E:10707, LEN:218, COLS:139, PERC:63.8
+[2023-03-21 20:46:53] INFO: TIGR03672: rpl4p_arch: 50S ribosomal protein uL4: S:10707, E:10958, LEN:251, COLS:173, PERC:68.9
+[2023-03-21 20:46:53] INFO: TIGR00111: pelota: mRNA surveillance protein pelota: S:10958, E:11309, LEN:351, COLS:182, PERC:51.9
+[2023-03-21 20:46:53] INFO: TIGR03684: arCOG00985: arCOG04150 universal archaeal PUA-domain protein: S:11309, E:11463, LEN:154, COLS:91, PERC:59.1
+[2023-03-21 20:46:53] INFO: TIGR01077: L13_A_E: ribosomal protein uL13: S:11463, E:11604, LEN:141, COLS:99, PERC:70.2
+[2023-03-21 20:46:53] INFO: TIGR01213: pseudo_Pus10arc: tRNA pseudouridine(54/55) synthase: S:11604, E:11991, LEN:387, COLS:250, PERC:64.6
+[2023-03-21 20:46:53] INFO: TIGR01080: rplX_A_E: ribosomal protein uL24: S:11991, E:12107, LEN:116, COLS:86, PERC:74.1
+[2023-03-21 20:46:53] INFO: TIGR00501: met_pdase_II: methionine aminopeptidase, type II: S:12107, E:12402, LEN:295, COLS:223, PERC:75.6
+[2023-03-21 20:46:53] INFO: TIGR00729: TIGR00729: ribonuclease HII: S:12402, E:12609, LEN:207, COLS:175, PERC:84.5
+[2023-03-21 20:46:53] INFO: TIGR01038: uL22_arch_euk: ribosomal protein uL22: S:12609, E:12757, LEN:148, COLS:107, PERC:72.3
+[2023-03-21 20:46:53] INFO: TIGR00270: TIGR00270: TIGR00270 family protein: S:12757, E:12911, LEN:154, COLS:112, PERC:72.7
+[2023-03-21 20:46:53] INFO: TIGR03628: arch_S11P: ribosomal protein uS11: S:12911, E:13028, LEN:117, COLS:87, PERC:74.4
+[2023-03-21 20:46:53] INFO: TIGR01028: uS7_euk_arch: ribosomal protein uS7: S:13028, E:13214, LEN:186, COLS:155, PERC:83.3
+[2023-03-21 20:46:53] INFO: TIGR00521: coaBC_dfp: phosphopantothenoylcysteine decarboxylase / phosphopantothenate--cysteine ligase: S:13214, E:13606, LEN:392, COLS:280, PERC:71.4
+[2023-03-21 20:46:53] INFO: TIGR03671: cca_archaeal: CCA-adding enzyme: S:13606, E:14016, LEN:410, COLS:254, PERC:62.0
+[2023-03-21 20:46:53] INFO: TIGR00240: ATCase_reg: aspartate carbamoyltransferase, regulatory subunit: S:14016, E:14166, LEN:150, COLS:60, PERC:40.0
+[2023-03-21 20:46:53] INFO: TIGR02390: RNA_pol_rpoA1: DNA-directed RNA polymerase subunit A': S:14166, E:15033, LEN:867, COLS:478, PERC:55.1
+[2023-03-21 20:46:53] INFO: TIGR02338: gimC_beta: prefoldin, beta subunit: S:15033, E:15143, LEN:110, COLS:77, PERC:70.0
+[2023-03-21 20:46:53] INFO: TIGR00037: eIF_5A: translation elongation factor IF5A: S:15143, E:15273, LEN:130, COLS:107, PERC:82.3
+[2023-03-21 20:46:53] INFO: TIGR02076: pyrH_arch: putative uridylate kinase: S:15273, E:15495, LEN:222, COLS:166, PERC:74.8
+[2023-03-21 20:46:53] INFO: TIGR00335: primase_sml: putative DNA primase, eukaryotic-type, small subunit: S:15495, E:15819, LEN:324, COLS:224, PERC:69.1
+[2023-03-21 20:46:53] INFO: TIGR01025: uS19_arch: ribosomal protein uS19: S:15819, E:15954, LEN:135, COLS:114, PERC:84.4
+[2023-03-21 20:46:53] INFO: TIGR00471: pheT_arch: phenylalanine--tRNA ligase, beta subunit: S:15954, E:16505, LEN:551, COLS:429, PERC:77.9
+[2023-03-21 20:46:53] INFO: TIGR00336: pyrE: orotate phosphoribosyltransferase: S:16505, E:16678, LEN:173, COLS:132, PERC:76.3
+[2023-03-21 20:46:53] INFO: TIGR00522: dph5: diphthine synthase: S:16678, E:16936, LEN:258, COLS:209, PERC:81.0
+[2023-03-21 20:46:53] INFO: TIGR02153: gatD_arch: glutamyl-tRNA(Gln) amidotransferase, subunit D: S:16936, E:17341, LEN:405, COLS:290, PERC:71.6
+[2023-03-21 20:46:53] INFO: TIGR02651: RNase_Z: ribonuclease Z: S:17341, E:17643, LEN:302, COLS:204, PERC:67.5
+[2023-03-21 20:46:53] INFO: TIGR03674: fen_arch: flap structure-specific endonuclease: S:17643, E:17981, LEN:338, COLS:278, PERC:82.2
+[2023-03-21 20:46:53] INFO: TIGR00323: eIF-6: putative translation initiation factor eIF-6: S:17981, E:18196, LEN:215, COLS:124, PERC:57.7
+[2023-03-21 20:46:53] INFO: TIGR00134: gatE_arch: glutamyl-tRNA(Gln) amidotransferase, subunit E: S:18196, E:18818, LEN:622, COLS:380, PERC:61.1
+[2023-03-21 20:46:53] INFO: TIGR02236: recomb_radA: DNA repair and recombination protein RadA: S:18818, E:19129, LEN:311, COLS:208, PERC:66.9
+[2023-03-21 20:46:53] INFO: TIGR03683: A-tRNA_syn_arch: alanine--tRNA ligase: S:19129, E:20031, LEN:902, COLS:689, PERC:76.4
+[2023-03-21 20:46:53] INFO: TIGR00491: aIF-2: translation initiation factor aIF-2: S:20031, E:20625, LEN:594, COLS:448, PERC:75.4
+[2023-03-21 20:46:53] INFO: TIGR00658: orni_carb_tr: ornithine carbamoyltransferase: S:20625, E:20929, LEN:304, COLS:228, PERC:75.0
+[2023-03-21 20:46:53] INFO: TIGR03680: eif2g_arch: translation initiation factor 2, gamma subunit: S:20929, E:21336, LEN:407, COLS:275, PERC:67.6
+[2023-03-21 20:46:53] INFO: TIGR00392: ileS: isoleucine--tRNA ligase: S:21336, E:22197, LEN:861, COLS:585, PERC:67.9
+[2023-03-21 20:46:53] INFO: TIGR00422: valS: valine--tRNA ligase: S:22197, E:23060, LEN:863, COLS:582, PERC:67.4
+[2023-03-21 20:46:53] INFO: TIGR00279: uL16_euk_arch: ribosomal protein uL16: S:23060, E:23232, LEN:172, COLS:123, PERC:71.5
+[2023-03-21 20:46:53] INFO: TIGR01052: top6b: DNA topoisomerase VI, B subunit: S:23232, E:23720, LEN:488, COLS:361, PERC:74.0
+[2023-03-21 20:46:53] INFO: TIGR00442: hisS: histidine--tRNA ligase: S:23720, E:24126, LEN:406, COLS:330, PERC:81.3
+[2023-03-21 20:46:53] INFO: TIGR00308: TRM1: N2,N2-dimethylguanosine tRNA methyltransferase: S:24126, E:24501, LEN:375, COLS:264, PERC:70.4
+[2023-03-21 20:46:53] INFO: TIGR00398: metG: methionine--tRNA ligase: S:24501, E:25031, LEN:530, COLS:411, PERC:77.5
+[2023-03-21 20:46:53] INFO: TIGR00456: argS: arginine--tRNA ligase: S:25031, E:25600, LEN:569, COLS:395, PERC:69.4
+[2023-03-21 20:46:53] INFO: TIGR00549: mevalon_kin: mevalonate kinase: S:25600, E:25876, LEN:276, COLS:203, PERC:73.6
+[2023-03-21 20:46:53] INFO: TIGR00408: proS_fam_I: proline--tRNA ligase: S:25876, E:26351, LEN:475, COLS:344, PERC:72.4
+[2023-03-21 20:46:53] INFO: TIGR00432: arcsn_tRNA_tgt: tRNA-guanine(15) transglycosylase: S:26351, E:26988, LEN:637, COLS:136, PERC:21.4
+[2023-03-21 20:46:54] INFO: TIGR00264: TIGR00264: alpha-NAC homolog: S:26988, E:27104, LEN:116, COLS:33, PERC:28.4
+[2023-03-21 20:46:54] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:54] INFO: TIGR00982: uS12_E_A: ribosomal protein uS12: S:27104, E:27243, LEN:139, COLS:53, PERC:38.1
+[2023-03-21 20:46:54] INFO: TIGR00324: endA: tRNA-intron lyase: S:27243, E:27420, LEN:177, COLS:117, PERC:66.1
+[2023-03-21 20:46:54] INFO: TIGR01952: nusA_arch: NusA family KH domain protein, archaeal: S:27420, E:27561, LEN:141, COLS:65, PERC:46.1
+[2023-03-21 20:46:54] INFO: TIGR03626: L3_arch: ribosomal protein uL3: S:27561, E:27892, LEN:331, COLS:252, PERC:76.1
+[2023-03-21 20:46:54] INFO: TIGR03670: rpoB_arch: DNA-directed RNA polymerase subunit B: S:27892, E:28491, LEN:599, COLS:299, PERC:49.9
+[2023-03-21 20:46:54] INFO: TIGR00337: PyrG: CTP synthase: S:28491, E:29017, LEN:526, COLS:242, PERC:46.0
+[2023-03-21 20:46:54] INFO: TIGR01046: uS10_euk_arch: ribosomal protein uS10: S:29017, E:29116, LEN:99, COLS:73, PERC:73.7
+[2023-03-21 20:46:54] INFO: TIGR01018: uS4_arch: ribosomal protein uS4: S:29116, E:29278, LEN:162, COLS:82, PERC:50.6
+[2023-03-21 20:46:54] INFO: TIGR00936: ahcY: adenosylhomocysteinase: S:29278, E:29694, LEN:416, COLS:195, PERC:46.9
+[2023-03-21 20:46:54] INFO: TIGR00463: gltX_arch: glutamate--tRNA ligase: S:29694, E:30254, LEN:560, COLS:428, PERC:76.4
+[2023-03-21 20:46:54] INFO: TIGR01309: uL30_arch: ribosomal protein uL30: S:30254, E:30405, LEN:151, COLS:36, PERC:23.8
+[2023-03-21 20:46:54] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:54] INFO: TIGR03653: uL6_arch: ribosomal protein uL6: S:30405, E:30575, LEN:170, COLS:100, PERC:58.8
+[2023-03-21 20:46:54] INFO: TIGR00042: TIGR00042: non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family: S:30575, E:30759, LEN:184, COLS:135, PERC:73.4
+[2023-03-21 20:46:54] INFO: TIGR02389: RNA_pol_rpoA2: DNA-directed RNA polymerase, subunit A'': S:30759, E:31126, LEN:367, COLS:203, PERC:55.3
+[2023-03-21 20:46:54] INFO: TIGR00307: eS8: ribosomal protein eS8: S:31126, E:31253, LEN:127, COLS:90, PERC:70.9
+[2023-03-21 20:46:54] INFO: TIGR03673: uL14_arch: 50S ribosomal protein uL14: S:31253, E:31384, LEN:131, COLS:86, PERC:65.6
+[2023-03-21 20:46:54] INFO: TIGR00373: TIGR00373: transcription factor E: S:31384, E:31546, LEN:162, COLS:80, PERC:49.4
+[2023-03-21 20:46:54] INFO: TIGR01008: uS3_euk_arch: ribosomal protein uS3: S:31546, E:31741, LEN:195, COLS:151, PERC:77.4
+[2023-03-21 20:46:54] INFO: TIGR00283: arch_pth2: peptidyl-tRNA hydrolase: S:31741, E:31856, LEN:115, COLS:76, PERC:66.1
+[2023-03-21 20:46:54] INFO: TIGR00425: CBF5: putative rRNA pseudouridine synthase: S:31856, E:32178, LEN:322, COLS:234, PERC:72.7
+[2023-03-21 20:46:54] INFO: TIGR00405: KOW_elon_Spt5: transcription elongation factor Spt5: S:32178, E:32323, LEN:145, COLS:14, PERC:9.7
+[2023-03-21 20:46:54] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:54] INFO: TIGR03665: arCOG04150: arCOG04150 universal archaeal KH domain protein: S:32323, E:32496, LEN:173, COLS:0, PERC:0.0
+[2023-03-21 20:46:54] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:54] INFO: TIGR00448: rpoE: DNA-directed RNA polymerase: S:32496, E:32675, LEN:179, COLS:0, PERC:0.0
+[2023-03-21 20:46:54] WARNING: Marker has <42 columns after filtering.
+[2023-03-21 20:46:56] INFO: Identified 7 of 122 marker genes with <42 columns for sampling:
+[2023-03-21 20:46:56] INFO: PF02006.11, PF01200.13, TIGR00264, TIGR01309, TIGR00405, TIGR03665, TIGR00448
+[2023-03-21 20:46:56] INFO: Marker genes had 65.0+/-17.1% of columns available for selection on average.
+[2023-03-21 20:46:56] INFO: Final MSA contains 4960 columns.
+[2023-03-21 20:46:57] INFO: Filtered MSA from 32675 to 4960 AAs.
+[2023-03-21 20:46:57] INFO: Filtered 0 genomes with amino acids in <10.0% of columns in filtered MSA.
+[2023-03-21 20:46:57] INFO: Creating concatenated alignment for 80 user genomes.
+[2023-03-21 20:46:57] INFO: Done.

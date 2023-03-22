@@ -7,7 +7,7 @@ foreach $file (@filelist) {
                 print "$file\n";
                # $name=$file;
               #  $name=~s/keggan//;
-                print OU "perl /home5/ylifc/specific_gene_selection/specific_gene_summary_kegg.pl /home5/ylifc/specific_gene_selection/KO_specific_genes.txt $file > $file\_extraced\n";
+                print OU "perl /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/specific_gene_summary_kegg.pl /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/KO_specific_genes.txt $file > $file\_extraced\n";
 }
 }
 system('sh sh.sh');

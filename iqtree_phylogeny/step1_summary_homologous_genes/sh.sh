@@ -1,1 +1,1 @@
-perl scgs_to_cfg.pl homologous_genes_47
+perl scgs_to_cfg.pl reformate

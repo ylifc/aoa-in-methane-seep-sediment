@@ -1,0 +1,31 @@
+[2023-03-21 20:43:51] INFO: GTDB-Tk v1.0.2
+[2023-03-21 20:43:51] INFO: gtdbtk identify --extension fa --genome_dir genomes_130 --out_dir genomes_identify --cpus 64
+[2023-03-21 20:43:51] INFO: Using GTDB-Tk reference data version r95: /media/ylifc/新加卷19/gtdbtk_db/release95/
+[2023-03-21 20:43:51] ERROR: Input directory does not exist: genomes_130
+[2023-03-21 20:43:51] ERROR: Controlled exit resulting from an unrecoverable error or warning.
+
+================================================================================
+EXCEPTION: BioLibDirNotFound
+  MESSAGE: Input directory does not exist: genomes_130
+________________________________________________________________________________
+
+Traceback (most recent call last):
+  File "/home/ylifc/miniconda2/envs/gtdbtk/bin/gtdbtk", line 449, in <module>
+    gt_parser.parse_options(args)
+  File "/home/ylifc/miniconda2/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/main.py", line 627, in parse_options
+    self.identify(options)
+  File "/home/ylifc/miniconda2/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/main.py", line 229, in identify
+    check_dir_exists(options.genome_dir)
+  File "/home/ylifc/miniconda2/envs/gtdbtk/lib/python3.8/site-packages/gtdbtk/biolib_lite/common.py", line 99, in check_dir_exists
+    raise BioLibDirNotFound('Input directory does not exist: ' + input_dir)
+gtdbtk.biolib_lite.exceptions.BioLibDirNotFound: Input directory does not exist: genomes_130
+================================================================================
+[2023-03-21 20:44:14] INFO: GTDB-Tk v1.0.2
+[2023-03-21 20:44:14] INFO: gtdbtk identify --extension fa --genome_dir Thaumarchaeota_genomes/ --out_dir genomes_identify --cpus 64
+[2023-03-21 20:44:14] INFO: Using GTDB-Tk reference data version r95: /media/ylifc/新加卷19/gtdbtk_db/release95/
+[2023-03-21 20:44:14] INFO: Identifying markers in 80 genomes with 64 threads.
+[2023-03-21 20:44:14] INFO: Running Prodigal V2.6.3 to identify genes.
+[2023-03-21 20:45:15] INFO: Identifying TIGRFAM protein families.
+[2023-03-21 20:45:46] INFO: Identifying Pfam protein families.
+[2023-03-21 20:45:50] INFO: Annotations done using HMMER 3.3.2 (Nov 2020)
+[2023-03-21 20:45:52] INFO: Done.

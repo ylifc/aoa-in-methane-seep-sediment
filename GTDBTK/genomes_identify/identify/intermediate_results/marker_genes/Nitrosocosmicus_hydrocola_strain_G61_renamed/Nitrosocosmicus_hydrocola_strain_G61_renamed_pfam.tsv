@@ -1,0 +1,69 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-03-21 20:45:49.514685
+# Query sequence file:      genomes_identify/identify/intermediate_results/marker_genes/Nitrosocosmicus_hydrocola_strain_G61_renamed/Nitrosocosmicus_hydrocola_strain_G61_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /media/ylifc/新加卷19/gtdbtk_db/release95/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1101     11     83     11     86 PF13656.1   RNA_pol_L_2       Domain     1    74    77     42.2     8e-12   1 CL0509   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1274     18    123     17    124 PF01655.13  Ribosomal_L32e    Family     2   109   110    145.7     1e-43   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1275      4    146      3    148 PF01280.15  Ribosomal_L19e    Family     2   145   148    139.4   1.5e-41   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1680     12    102     12    104 PF01990.12  ATP-synt_F        Family     1    93    95     54.7   2.1e-15   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1686     20    513     17    557 PF01496.14  V_ATPase_I        Family     4   546   759    147.7   6.7e-44   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1686    559    650    539    651 PF01496.14  V_ATPase_I        Family   663   758   759     75.6   4.1e-22   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1985     17    219     15    219 PF00687.16  Ribosomal_L1      Domain     4   220   220    139.8   1.6e-41   1 CL0480   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_1986     16    114     14    115 PF00466.15  Ribosomal_L10     Family     3    98   100     69.2   4.7e-20   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2036    338    436    338    436 PF02978.14  SRP_SPB           Domain     1   104   104     90.9   1.1e-26   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2075      6    130      5    130 PF00410.14  Ribosomal_S8      Domain     2   129   129     83.1     3e-24   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2078     97    168     95    169 PF00900.15  Ribosomal_S4e     Family     3    76    77     59.7   3.3e-17   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2082     19     88     11     93 PF01868.11  UPF0086           Family    16    84    89     29.1   1.2e-07   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2117      6     80      5     83 PF01198.14  Ribosomal_L31e    Family     2    76    83     81.4   5.6e-24   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2125     17    231      8    233 PF01269.12  Fibrillarin       Domain    11   227   229    276.0     3e-83   1 CL0063   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2126    237    382    236    384 PF01798.13  Nop               Family     2   150   150    163.1   5.7e-49   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2225      1     59      1     60 PF01194.12  RNA_pol_N         Domain     1    59    60     92.2   3.1e-27   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2351    146    324    146    344 PF04104.9   DNA_primase_lrg   Family     1   195   260     99.7   3.3e-29   1 CL0242   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2380      8     81      8     81 PF01191.14  RNA_pol_Rpb5_C    Domain     1    74    74     91.1   4.9e-27   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2390      6    197      3    198 PF01015.13  Ribosomal_S3Ae    Family     4   194   195    178.2   2.3e-53   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2394     17    278     16    278 PF13685.1   Fe-ADH_2          Family     2   250   250    208.5     2e-62   1 CL0224   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2422    122    229    120    230 PF07541.7   EIF_2_alpha       Family     3   113   114     77.4   1.4e-22   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2438     69    245     69    248 PF02006.11  DUF137            Family     1   175   178    205.7   7.3e-62   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2635     32    194     10    239 PF13685.1   Fe-ADH_2          Family    30   194   250     62.7   6.5e-18   1 CL0224   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2641     46    166     46    168 PF04019.7   DUF359            Family     1   117   121     99.7   1.5e-29   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2649      1    144      1    148 PF00827.12  Ribosomal_L15e    Family     2   148   192    169.4   1.3e-50   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2754     25    199     24    200 PF04919.7   DUF655            Family     2   180   181    179.7   9.1e-54   1 CL0198   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2755     29    103     12    109 PF03874.11  RNA_pol_Rpb4      Family    35   109   117     36.3   9.4e-10   1 CL0426   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_2756      5     94      5     96 PF01157.13  Ribosomal_L21e    Family     1    97    99     55.4   8.7e-16   1 CL0107   
+Nitrosocosmicus_hydrocola_strain_G61-contig1_3099      1     70      1     70 PF01200.13  Ribosomal_S28e    Family     1    69    69    107.3   5.1e-32   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_3115     38    331     37    338 PF01866.12  Diphthamide_syn   Family     2   298   307    253.7   4.9e-76   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_447      47    208     24    208 PF01025.14  GrpE              Family     6   166   166    110.1   1.7e-32   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_51        4    368      1    369 PF00368.13  HMG-CoA_red       Family     5   372   373    308.6   9.3e-93   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_536       5    113      4    123 PF01092.14  Ribosomal_S6e     Family     2   115   127     74.9   8.9e-22   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_66       47    159     47    159 PF01000.21  RNA_pol_A_bac     Domain     1   112   112     92.5   3.6e-27   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_69        9    147      9    147 PF00380.14  Ribosomal_S9      Family     1   121   121    109.4   2.6e-32   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_991      11     96      3     96 PF01984.15  dsDNA_bind        Family    19   107   107     86.2   2.7e-25   1 No_clan  
+Nitrosocosmicus_hydrocola_strain_G61-contig1_992       3    139      2    140 PF01090.14  Ribosomal_S19e    Family     2   139   140    179.3   4.9e-54   1 No_clan  

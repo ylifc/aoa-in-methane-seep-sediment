@@ -1,0 +1,13 @@
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosarchaeum_koreense_MY1_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosarchaeum_limnium_BG20_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosarchaeum_limnium_SFB1_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosoarchaeum-Baikal-G1-C1_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosoarchaeum_sp_BD3_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosomarinus_catalina_strain_SPOT01_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_adriaticus_strain_NF5_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_koreensis_AR1_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_maritimus_SCM1_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_salaria_BD31_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_sp_D3C_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_sp_DDS1_renamed.fa.fasta.TCDB.m8 ./
+mv /media/ylifc/hdd1/aoa-in-methane-seep-sediment-calculation_steps/Enivronmental_adaptation_gene_detection/orf/cds/TCDB/Nitrosopumilus_sp_Nsub_renamed.fa.fasta.TCDB.m8 ./

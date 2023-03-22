@@ -1,0 +1,79 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-03-21 20:45:49.486537
+# Query sequence file:      genomes_identify/identify/intermediate_results/marker_genes/HM58_Bin_renamed/HM58_Bin_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /media/ylifc/新加卷19/gtdbtk_db/release95/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+HM58_Bin-contig1039_2       7     94      1     95 PF01984.15  dsDNA_bind        Family    16   106   107     85.0   1.1e-24   1 No_clan  
+HM58_Bin-contig1039_3       3    138      2    139 PF01090.14  Ribosomal_S19e    Family     2   139   140    157.2   5.7e-47   1 No_clan  
+HM58_Bin-contig1044_4       1     85      1     87 PF01868.11  UPF0086           Family     1    87    89     92.7     3e-27   1 No_clan  
+HM58_Bin-contig1078_3      12    187     11    187 PF04919.7   DUF655            Family     2   181   181    177.8   5.9e-53   1 CL0198   
+HM58_Bin-contig1078_4      19    107      2    108 PF03874.11  RNA_pol_Rpb4      Family    28   116   117     54.6   3.4e-15   1 CL0426   
+HM58_Bin-contig1078_5       9     96      8     98 PF01157.13  Ribosomal_L21e    Family     2    97    99     50.4   5.1e-14   1 CL0107   
+HM58_Bin-contig1214_3      11    129     11    133 PF02576.12  DUF150            Family     1   120   141    102.7   4.2e-30   1 No_clan  
+HM58_Bin-contig1220_1       8    264      8    264 PF13685.1   Fe-ADH_2          Family     1   250   250    228.8   2.2e-68   1 CL0224   
+HM58_Bin-contig1228_2      11     86     11     86 PF13656.1   RNA_pol_L_2       Domain     1    77    77     63.3   3.8e-18   1 CL0509   
+HM58_Bin-contig1277_7      16    208      8    208 PF00687.16  Ribosomal_L1      Domain     7   217   220    144.3   1.2e-42   1 CL0480   
+HM58_Bin-contig1324_1      66    243     66    243 PF02006.11  DUF137            Family     1   178   178    243.2   3.7e-73   1 No_clan  
+HM58_Bin-contig1353_2      12    380     11    380 PF00368.13  HMG-CoA_red       Family     2   373   373    277.8   3.6e-83   1 No_clan  
+HM58_Bin-contig135_3        5    109      4    115 PF01092.14  Ribosomal_S6e     Family     2   112   127     70.8   2.7e-20   1 No_clan  
+HM58_Bin-contig1432_3       3     92      3     93 PF01990.12  ATP-synt_F        Family     1    94    95     53.6   7.9e-15   1 No_clan  
+HM58_Bin-contig1495_2       3     85      3     93 PF01990.12  ATP-synt_F        Family     1    87    95     53.3   9.7e-15   1 No_clan  
+HM58_Bin-contig1560_5      20    276     20    276 PF13685.1   Fe-ADH_2          Family     1   250   250    228.0   3.9e-68   1 CL0224   
+HM58_Bin-contig1573_5      20    276     20    276 PF13685.1   Fe-ADH_2          Family     1   250   250    228.3   3.2e-68   1 CL0224   
+HM58_Bin-contig1770_2      18    205     16    270 PF13685.1   Fe-ADH_2          Family     3   182   250     49.0   1.7e-13   1 CL0224   
+HM58_Bin-contig182_2       66    243     66    243 PF02006.11  DUF137            Family     1   178   178    243.7   2.7e-73   1 No_clan  
+HM58_Bin-contig20_2       224    363    223    372 PF01798.13  Nop               Family     2   146   150    168.9   1.6e-50   1 No_clan  
+HM58_Bin-contig241_3        8    144      2    161 PF04104.9   DNA_primase_lrg   Family    71   200   260     89.4     8e-26   1 CL0242   
+HM58_Bin-contig254_2       20    276     20    276 PF13685.1   Fe-ADH_2          Family     1   250   250    223.2   1.2e-66   1 CL0224   
+HM58_Bin-contig274_2        6    130      5    130 PF00410.14  Ribosomal_S8      Domain     2   129   129     75.5   1.1e-21   1 No_clan  
+HM58_Bin-contig312_3        2    112      1    112 PF01025.14  GrpE              Family    53   166   166     99.1   6.7e-29   1 No_clan  
+HM58_Bin-contig378_1        1     35      1     35 PF00687.16  Ribosomal_L1      Domain   185   220   220     31.4     4e-08   1 CL0480   
+HM58_Bin-contig378_2        9    105      8    111 PF00466.15  Ribosomal_L10     Family     3    98   100     62.1   1.3e-17   1 No_clan  
+HM58_Bin-contig382_2       97    170     95    170 PF00900.15  Ribosomal_S4e     Family     3    77    77     77.8   1.3e-22   1 No_clan  
+HM58_Bin-contig382_5        6     87      5     90 PF00410.14  Ribosomal_S8      Domain     2    92   129     39.3   1.9e-10   1 No_clan  
+HM58_Bin-contig430_1       54    683     44    688 PF01496.14  V_ATPase_I        Family    38   754   759    185.7   3.6e-55   1 No_clan  
+HM58_Bin-contig455_2        4    194      1    195 PF01015.13  Ribosomal_S3Ae    Family     3   194   195    220.1   5.6e-66   1 No_clan  
+HM58_Bin-contig507_4        1    241      1    247 PF01866.12  Diphthamide_syn   Family    52   298   307    218.6   4.1e-65   1 No_clan  
+HM58_Bin-contig508_3        1     60      1     60 PF01194.12  RNA_pol_N         Domain     1    60    60    100.4   1.5e-29   1 No_clan  
+HM58_Bin-contig604_1        3    188      1    188 PF13685.1   Fe-ADH_2          Family    73   250   250    188.5   4.4e-56   1 CL0224   
+HM58_Bin-contig687_2      324    423    324    423 PF02978.14  SRP_SPB           Domain     1   104   104    105.1     7e-31   1 No_clan  
+HM58_Bin-contig692_3        5     76      2     78 PF01198.14  Ribosomal_L31e    Family     4    75    83     83.1     3e-24   1 No_clan  
+HM58_Bin-contig707_2       48    196      5    238 PF13685.1   Fe-ADH_2          Family    48   196   250     59.6   9.7e-17   1 CL0224   
+HM58_Bin-contig731_4       12    149     11    149 PF00380.14  Ribosomal_S9      Family     2   121   121    121.7   6.9e-36   1 No_clan  
+HM58_Bin-contig741_2       15    150     10    151 PF02576.12  DUF150            Family     6   140   141     63.9   4.1e-18   1 No_clan  
+HM58_Bin-contig758_2       46    164     46    165 PF04019.7   DUF359            Family     1   118   121    124.8   4.2e-37   1 No_clan  
+HM58_Bin-contig760_2        3    145      3    149 PF01280.15  Ribosomal_L19e    Family     1   144   148    151.0   6.8e-45   1 No_clan  
+HM58_Bin-contig760_3       17    125     17    125 PF01655.13  Ribosomal_L32e    Family     1   110   110    117.6     9e-35   1 No_clan  
+HM58_Bin-contig776_2      121    226    119    227 PF07541.7   EIF_2_alpha       Family     3   113   114     78.7   9.4e-23   1 No_clan  
+HM58_Bin-contig894_5        1     73      1     75 PF01868.11  UPF0086           Family    13    87    89     66.6   4.2e-19   1 No_clan  
+HM58_Bin-contig914_3       40    132     40    132 PF01000.21  RNA_pol_A_bac     Domain     1   112   112     68.9   1.4e-19   1 No_clan  
+HM58_Bin-contig920_2       20    144      8    148 PF00827.12  Ribosomal_L15e    Family    22   148   192    148.9   4.3e-44   1 No_clan  
+HM58_Bin-contig93_1        20    276     20    276 PF13685.1   Fe-ADH_2          Family     1   250   250    228.6   2.6e-68   1 CL0224   
+HM58_Bin-contig971_4       69    242     69    242 PF02006.11  DUF137            Family     1   178   178    223.7   3.6e-67   1 No_clan  

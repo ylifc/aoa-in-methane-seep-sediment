@@ -1,0 +1,58 @@
+####################################################################################
+#               '||'''|,          '||'''|,  .|';                                   #
+#                ||   ||           ||   ||  ||                                     #
+#                ||...|' '||  ||`  ||...|' '||'   '''|.  '||),,(|,                 #
+#                ||       `|..||   ||       ||   .|''||   || || ||                 #
+#               .||           ||  .||      .||.  `|..||. .||    ||.                #
+#                          ,  |'                                                   #
+#                           ''                                                     #
+#                                                                                  #
+#       This program is free software: you can redistribute it and/or modify       #
+#       it under the terms of the GNU General Public License as published by       #
+#        the Free Software Foundation, either version 3 of the License, or         #
+#                       (at your option) any later version.                        #
+#         This program is distributed in the hope that it will be useful,          #
+#          but WITHOUT ANY WARRANTY; without even the implied warranty of          #
+#          MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the           #
+#                   GNU General Public License for more details.                   #
+#        You should have received a copy of the GNU General Public License         #
+#       along with this program. If not, see <http://www.gnu.org/licenses/>.       #
+#                                                                                  #
+#    PyPfam is a Python (lite) port of the PfamSearch scripts written in Perl.     #
+#  Perl authors: Jaina Mistry (jm14@sanger.ac.uk), John Tate (jt6@sanger.ac.uk),   #
+#                           Rob Finn (rdf@sanger.ac.uk)                            #
+#                Python authors: Aaron Mussig (a.mussig@uq.edu.au)                 #
+# ================================================================================ #
+# Execution time:           2023-03-21 20:45:48.083043
+# Query sequence file:      genomes_identify/identify/intermediate_results/marker_genes/Candidatus_Nitrosopelagicus_sp_Isolate_GoM_renamed/Candidatus_Nitrosopelagicus_sp_Isolate_GoM_renamed_protein.faa
+# CPU threads:              1
+# Searching against:        /media/ylifc/新加卷19/gtdbtk_db/release95/markers/pfam/Pfam-A.hmm
+# Resolve clan overlaps:    on
+# ================================================================================ #
+# <seq id> <alignment start> <alignment end> <envelope start> <envelope end> <hmm acc> <hmm name> <type> <hmm start> <hmm end> <hmm length> <bit score> <E-value> <significance> <clan> 
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig100_3     13    380     11    380 PF00368.13  HMG-CoA_red       Family     3   373   373    272.9   2.7e-82   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig109_3     67    230     65    239 PF02006.11  DUF137            Family     3   175   178    209.3   2.4e-63   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig113_3    121    227    119    228 PF07541.7   EIF_2_alpha       Family     3   113   114     72.3   2.2e-21   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig116_3     46    165     46    165 PF04019.7   DUF359            Family     1   119   121    115.6   6.9e-35   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig135_2      5    109      4    119 PF01092.14  Ribosomal_S6e     Family     2   112   127     71.0   6.1e-21   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig148_3     51    195     16    237 PF13685.1   Fe-ADH_2          Family    51   195   250     67.2   1.1e-19   1 CL0224   
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig176_1      5     76      2     77 PF01198.14  Ribosomal_L31e    Family     4    75    83     83.3   6.2e-25   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig191_2      4    194      1    195 PF01015.13  Ribosomal_S3Ae    Family     5   194   195    207.7   8.5e-63   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig217_3     17    146      6    152 PF00827.12  Ribosomal_L15e    Family    17   148   192    151.4   1.7e-45   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_5     224    366    223    371 PF01798.13  Nop               Family     2   149   150    165.6   3.9e-50   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig23_6       8    220      2    223 PF01269.12  Fibrillarin       Domain    11   226   229    278.1   2.9e-84   1 CL0063   
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig36_6     324    423    324    423 PF02978.14  SRP_SPB           Domain     1   104   104    104.2   3.2e-31   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_2      38    156      4    169 PF01269.12  Fibrillarin       Domain    60   180   229     26.7     2e-07   1 CL0063   
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig38_7       8     99      8     99 PF13685.1   Fe-ADH_2          Family     1    93   250     59.4   2.7e-17   1 CL0224   
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_11     11    134     10    134 PF00380.14  Ribosomal_S9      Family     2   105   121     87.5   6.8e-26   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig40_8      44    146     44    146 PF01000.21  RNA_pol_A_bac     Domain     1   112   112     83.6   8.7e-25   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig44_4      10     81      8     81 PF01191.14  RNA_pol_Rpb5_C    Domain     3    74    74     94.5   1.8e-28   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig49_8      11     83     11     85 PF13656.1   RNA_pol_L_2       Domain     1    75    77     53.9   7.5e-16   1 CL0509   
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig4_7       13    170      4    170 PF01025.14  GrpE              Family     6   166   166    134.3   2.5e-40   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig58_4       7     71      1     72 PF01200.13  Ribosomal_S28e    Family     5    68    69     92.4   9.1e-28   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig5_4        4     60      1     63 PF01868.11  UPF0086           Family     5    62    89     59.1   2.1e-17   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_10     11    199      6    199 PF00687.16  Ribosomal_L1      Domain     5   210   220    131.0   3.5e-39   1 CL0480   
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_2      18    125     17    125 PF01655.13  Ribosomal_L32e    Family     2   110   110    123.7   2.9e-37   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig70_3       3    145      3    149 PF01280.15  Ribosomal_L19e    Family     1   144   148    137.8   1.9e-41   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig75_4      84    683     31    684 PF01496.14  V_ATPase_I        Family    76   754   759    201.6   1.4e-60   1 No_clan  
+Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig7_8        1     59      1     60 PF01194.12  RNA_pol_N         Domain     1    59    60    103.0   5.4e-31   1 No_clan  

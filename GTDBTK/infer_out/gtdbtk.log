@@ -1,6 +1,7 @@
-[2022-04-06 15:46:55] INFO: GTDB-Tk v1.4.0
-[2022-04-06 15:46:55] INFO: gtdbtk infer --msa_file genomes_identify_align/gtdbtk.ar122.user_msa.fasta --out_dir infer_out --cpus 64 --prot_model WAG
-[2022-04-06 15:46:55] INFO: Using GTDB-Tk reference data version r95: /media/ylifc/新加卷16/gtdbtk_db/release95/
-[2022-04-06 15:46:55] INFO: Inferring FastTree (WAG, SH support values) using a maximum of 64 CPUs.
-[2022-04-06 15:54:40] INFO: FastTree version: 2.1.10
-[2022-04-06 15:54:40] INFO: Done.
+[2023-03-21 20:47:13] INFO: GTDB-Tk v1.0.2
+[2023-03-21 20:47:13] INFO: gtdbtk infer --msa genomes_identify_align/gtdbtk.ar122.user_msa.fasta --out infer_out --cpus 64 --prot_model WAG
+[2023-03-21 20:47:13] INFO: Using GTDB-Tk reference data version r95: /media/ylifc/新加卷19/gtdbtk_db/release95/
+[2023-03-21 20:47:13] INFO: Inferring FastTree (WAG, +gamma, support) using a maximum of 64 CPUs.
+[2023-03-21 20:47:13] INFO: FastTree version: 2.1.11
+[2023-03-21 20:48:27] INFO: FastTree version: 2.1.11
+[2023-03-21 20:48:27] INFO: Done.

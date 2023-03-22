@@ -1,0 +1,1592 @@
+IQ-TREE multicore version 2.1.4-beta COVID-edition for Linux 64-bit built Jun 24 2021
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    ylifc (AVX, FMA3, 566 GB RAM)
+Command: iqtree2 -s All_AOA_gene_mafft_no_trimal.fa -m MFP+MERGE -B 1000 -T AUTO
+Seed:    425944 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Mar 13 11:53:06 2023
+Kernel:  AVX+FMA - auto-detect threads (64 CPU cores detected)
+
+Reading alignment file All_AOA_gene_mafft_no_trimal.fa ... Fasta format detected
+Alignment most likely contains DNA/RNA sequences
+Alignment has 1222 sequences with 712 columns, 601 distinct patterns
+461 parsimony-informative, 96 singleton sites, 155 constant sites
+                                                    Gap/Ambiguity  Composition  p-value
+   1  AACY095819NP-Gamma-2.1.3.1_OTU3                      16.99%    passed     27.87%
+   2  AACY747844NP-Delta-2.1.1_OTU3                        16.99%    passed     34.96%
+   3  AB305370NP-Alpha-2.2.2.1.1.3.1_OTU1                  16.99%    passed     35.41%
+   4  AB353463NS-Delta-1.1.3_OTU3                          16.99%    passed     55.81%
+   5  AB353465NS-Alpha-3.1.1.1_OTU3                        16.99%    passed     15.77%
+   6  AB353479NS-Delta-2.1_OTU1                            16.99%    passed     90.18%
+   7  AB353484NS-Delta-2.1_OTU7                            16.99%    passed     82.05%
+   8  AB353494NS-Beta-1_OTU9                               16.99%    passed     83.90%
+   9  AB373240NP-Gamma-2.1.3.2.3.1_OTU2                    16.99%    passed     78.59%
+  10  AB373243NP-Gamma-1.Incertae_sedis_OTU1               16.99%    passed     80.44%
+  11  AB373251NP-Gamma-1.Incertae_sedis_OTU2               16.99%    passed     47.64%
+  12  AB373287NP-Gamma-2.1.3.2_OTU1                        16.99%    passed     22.13%
+  13  AB373341NP-Delta-1.Incertae_sedis.2_OTU1             16.99%    passed     71.87%
+  14  AB373358NP-Gamma-2.1.3.2.3.1_OTU5                    16.99%    passed     54.47%
+  15  AB427052NT-Alpha-1.1.2.1_OTU4                        16.99%    passed     43.40%
+  16  AB427054NT-Alpha-1.1.2.1_OTU1                        16.99%    passed     65.54%
+  17  AB458226NS-Beta-2.Incertae_sedis_OTU1                16.99%    passed     92.72%
+  18  AB458227NS-Beta-2.Incertae_sedis_OTU2                16.99%    passed     96.61%
+  19  AB458229NS-Beta-2.2_OTU1                             16.99%    passed     97.76%
+  20  AB465037NS-Alpha-3.2.3.1.6.2_OTU1                    16.99%    failed      2.40%
+  21  AB542169NS-Zeta-2_OTU1                               16.99%    passed     28.22%
+  22  AB545961NS-Gamma-2.3.2.1_OTU3                        16.99%    passed     32.10%
+  23  AB583389NP-Gamma-2.1.2_OTU3                          16.99%    passed     71.32%
+  24  AB583394NP-Gamma-2.1.2_OTU4                          16.99%    passed     56.83%
+  25  AB583399NP-Gamma-2.1.2_OTU2                          16.99%    passed     45.12%
+  26  AB583410NP-Delta-1.1.2_OTU4                          16.99%    passed     73.12%
+  27  AB591998NP-Alpha-2.2.2.1.2.1_OTU2                    16.99%    passed     20.07%
+  28  AB592000NP-Gamma-2.1.3.1_OTU1                        16.99%    passed     33.96%
+  29  AB592040NP-Alpha-2.2.2.1.2_OTU1                      16.99%    passed     20.49%
+  30  AB592100NP-Gamma-2.1.3.1_OTU6                        16.99%    passed     47.40%
+  31  AB592126NP-Epsilon-2.1_OTU1                          16.99%    passed     88.10%
+  32  AB592180NP-Alpha-2.2.2.1.1.3.3_OTU1                  16.99%    passed     24.80%
+  33  AB622259NS-Gamma-2.3.2.2_OTU6                        16.99%    passed     64.52%
+  34  AB625919NT-Alpha-1.1.1.2_OTU3                        16.99%    passed     43.98%
+  35  AB625946NS-Alpha-3.2.1.1.2_OTU1                      16.99%    failed      0.03%
+  36  AB645413NS-Beta-2_OTU1                               16.99%    passed     93.15%
+  37  AB645422NS_OTU1                                      16.99%    passed     84.37%
+  38  AB645427NS-Gamma-1.1_OTU1                            16.99%    passed     73.81%
+  39  AB645445NP-Gamma-2.1.3.2.3.Incertae_sedis.2_OTU1     16.99%    passed     48.11%
+  40  AB646542NS-Incertae_sedis-2_OTU1                     16.99%    passed     37.32%
+  41  AB649214NC-Alpha_OTU1                                16.57%    passed     13.98%
+  42  AB649217NP-Eta-1.2.2.1_OTU3                          16.99%    passed     81.49%
+  43  AB649219NS-Alpha-3.2.1.1.1.1.2_OTU1                  16.99%    failed      0.05%
+  44  AB688020NS-Delta-1.1.2.1_OTU12                       16.99%    passed     63.72%
+  45  AB703989NP-Alpha-2.2.2.1.2_OTU2                      16.99%    passed     16.29%
+  46  AB703990NP-Alpha-2.2.2.1.2_OTU3                      16.99%    failed      4.83%
+  47  AB703998NP-Alpha-2.2.2.1.2.3_OTU1                    16.99%    passed     12.18%
+  48  AB704000NP-Gamma-2.1.2_OTU1                          16.99%    passed     38.28%
+  49  AB827247NP-Delta-1.1.1_OTU3                          16.99%    passed     69.57%
+  50  AB827250NP-Theta-2.1.2_OTU3                          16.99%    passed     57.50%
+  51  AB827257NP-Theta-2.2_OTU1                            16.99%    passed     80.76%
+  52  AB828780NP-Epsilon-2.2_OTU4                          16.99%    passed     68.69%
+  53  AB828929NS-Epsilon-1_OTU2                            16.99%    passed     21.11%
+  54  AB828950NP-Gamma-2.1.3.2.3.1_OTU3                    16.99%    passed     75.65%
+  55  AB910280NP-Eta-1.1.1.1_OTU1                          16.99%    passed     71.23%
+  56  AB918811NS-Alpha-3.2.3.1.1_OTU6                      16.99%    failed      0.59%
+  57  AB918819NS-Beta-2.1_OTU2                             16.99%    passed     97.68%
+  58  AB918892NP-Eta-1.2.1_OTU9                            16.99%    passed     98.94%
+  59  AB918898NP-Eta-1.2.1_OTU6                            16.99%    passed     63.98%
+  60  AB918914NS-Delta-1.1.2.1_OTU4                        16.99%    passed     81.74%
+  61  AB936823NP-Theta-2.2.2.1_OTU3                        16.99%    passed     70.63%
+  62  AFPU000001NP-Gamma-2.2.5.1_OTU3                      16.99%    passed     16.82%
+  63  CM001158NP-Gamma-2.2.5.1_OTU7                        16.99%    passed      6.54%
+  64  CP002408NS-Alpha-3.2.4_OTU3                          16.99%    failed      0.30%
+  65  DP000238NP-Gamma-1.1_OTU1                            16.99%    failed      0.06%
+  66  DQ148527NP-Beta_OTU1                                 16.99%    passed     81.62%
+  67  DQ148530NP-Delta-1.2_OTU13                           16.99%    passed     77.96%
+  68  DQ148535NP-Beta_OTU2                                 16.99%    passed     56.41%
+  69  DQ148539NP-Beta_OTU3                                 16.99%    passed     78.40%
+  70  DQ148547NP-Delta-2.3.1.2_OTU1                        16.99%    passed     87.53%
+  71  DQ148548NP-Beta_OTU4                                 16.99%    passed     83.75%
+  72  DQ148575NP-Gamma-2.2.1.Incertae_sedis_OTU2           16.99%    passed     29.02%
+  73  DQ148578NP-Gamma-2.2.Incertae_sedis.2_OTU1           16.99%    passed     41.90%
+  74  DQ148612NP-Alpha-2.2.4_OTU1                          16.99%    passed     84.66%
+  75  DQ148614NP-Gamma-2.2_OTU3                            16.99%    passed     65.98%
+  76  DQ148616NP-Gamma-2.2.4.1_OTU10                       16.99%    passed     43.62%
+  77  DQ148623NP-Alpha-2.2.3.2_OTU1                        16.99%    passed     98.61%
+  78  DQ148653NP-Gamma-2.2.5.Incertae_sedis.1_OTU1         16.99%    passed     17.52%
+  79  DQ148655NP-Gamma-2.2.5.1_OTU9                        16.99%    passed     16.33%
+  80  DQ148702NP-Zeta-1_OTU1                               16.99%    passed     31.98%
+  81  DQ148748NP-Alpha-2.2.2.1.1.3.2_OTU2                  16.99%    passed      9.17%
+  82  DQ148759NP-Epsilon-2.2_OTU10                         16.99%    passed     78.78%
+  83  DQ148761NP-Alpha-2.2.2.1.1_OTU1                      16.99%    passed     15.41%
+  84  DQ148771NP-Gamma-2.1.3.2.2.1_OTU5                    16.99%    passed     31.94%
+  85  DQ148773NP-Delta-1_OTU2                              16.99%    passed     55.88%
+  86  DQ148778NT-Alpha-1.1.1.1.2_OTU3                      16.99%    passed     51.50%
+  87  DQ148780NT-Alpha-1.1.1.1.1_OTU2                      16.99%    passed     61.61%
+  88  DQ148796NP-Gamma-2.2.Incertae_sedis.2_OTU2           16.99%    passed     36.12%
+  89  DQ148802NP-Delta-2.3.1.1_OTU19                       16.99%    passed     53.75%
+  90  DQ148805NP-Theta-2.3_OTU11                           16.99%    passed     79.14%
+  91  DQ148810NP-Delta-1_OTU3                              16.99%    passed     68.44%
+  92  DQ148813NP-Delta-1.2_OTU14                           16.99%    passed     89.09%
+  93  DQ148816NS-Beta-1.1_OTU1                             16.99%    passed     61.90%
+  94  DQ148840NP-Epsilon-2_OTU1                            16.99%    passed     90.51%
+  95  DQ148869NS-Alpha-3.2.3.1.2_OTU1                      16.99%    failed      1.41%
+  96  DQ148874NS-Alpha-3.2_OTU4                            16.99%    failed      1.08%
+  97  DQ148875NS-Alpha-3.2.3.1.7_OTU7                      16.99%    failed      1.09%
+  98  DQ148902NS-Beta-1.2_OTU3                             16.99%    passed     90.14%
+  99  DQ278502NS-Epsilon-2.1_OTU3                          16.99%    passed     26.15%
+ 100  DQ278570NP-Gamma-2.2.2.1_OTU2                        16.99%    passed     10.71%
+ 101  DQ304880NS-Zeta-Incertae_sedis.2_OTU1                16.99%    passed      5.50%
+ 102  DQ312283NS-Gamma-2.2.1_OTU1                          16.99%    passed     55.84%
+ 103  DQ312287NS-Beta-2.2_OTU3                             16.99%    passed     79.08%
+ 104  DQ312291NS-Beta-2.2_OTU4                             16.99%    passed     96.08%
+ 105  DQ500964NS-Gamma-2.2.1.Incertae_sedis.1_OTU1         16.99%    passed     74.91%
+ 106  DQ500981NS-Alpha-3.2_OTU1                            16.99%    failed      1.02%
+ 107  DQ500996NS-Beta-1.Incertae_sedis_OTU1                16.99%    passed     93.67%
+ 108  DQ501002NP-Alpha-1_OTU1                              16.99%    passed     28.74%
+ 109  DQ501004NS-Alpha-3.2.3.1.6.2_OTU2                    16.99%    failed      3.96%
+ 110  DQ501018NP-Delta-2.3.2.2_OTU3                        16.99%    passed     90.15%
+ 111  DQ501025NP-Gamma-1.2_OTU1                            16.99%    passed     78.19%
+ 112  DQ501044NS-Alpha-3.1.1.3_OTU4                        16.99%    passed     43.51%
+ 113  DQ501046NS-Alpha-3.2.3.Incertae_sedis.1_OTU1         16.99%    failed      0.18%
+ 114  DQ501058NS-Gamma-2.2.1.Incertae_sedis.2_OTU1         16.99%    passed     48.91%
+ 115  DQ501061NP-Gamma-2.2.1.Incertae_sedis_OTU1           16.99%    passed     54.38%
+ 116  DQ501069NP-Delta-2.2.Incertae_sedis_OTU2             16.99%    passed     83.76%
+ 117  DQ501070NP-Alpha-2.2.3.2_OTU2                        16.99%    passed     99.52%
+ 118  DQ501094NS-Alpha-3.1.1.3_OTU1                        16.99%    passed     86.12%
+ 119  DQ501146NP-Delta-2.3.1.2_OTU2                        16.99%    passed     92.94%
+ 120  DQ501167NP-Alpha-1_OTU11                             16.99%    passed     81.06%
+ 121  DQ534701NS-Gamma-2.2.3_OTU3                          16.99%    passed     63.93%
+ 122  DQ534856NS-Alpha-3.2.3.1_OTU1                        16.99%    failed      0.21%
+ 123  DQ672639NS-Alpha-3.2.3.2_OTU1                        16.99%    failed      0.05%
+ 124  DQ672640NP-Eta-1.2.2.1_OTU4                          16.99%    passed     39.10%
+ 125  DQ672661NS-Alpha-3.2.3.2_OTU6                        16.99%    failed      0.15%
+ 126  DQ672687NS-Alpha-3.2.3_OTU3                          16.99%    failed      0.01%
+ 127  EF207211NS-Alpha-3.2.3.1.Incertae_sedis_OTU1         16.99%    failed      1.77%
+ 128  EF207217NS-Alpha-3.2.1.1.1_OTU1                      16.99%    failed      0.02%
+ 129  EU025140NP-Alpha-1_OTU7                              16.99%    passed      6.70%
+ 130  EU025141NP-Epsilon-2.1_OTU2                          16.99%    passed     81.51%
+ 131  EU025142NP-Alpha-2.2.4_OTU2                          16.99%    passed     66.49%
+ 132  EU025146NP-Alpha-2.2.4_OTU3                          16.99%    passed     60.27%
+ 133  EU025180NP-Delta-1_OTU12                             16.99%    passed     69.13%
+ 134  EU025186NP-Delta-2.3.2.3_OTU1                        16.99%    passed     99.79%
+ 135  EU049826NP-Epsilon-1_OTU1                            16.99%    failed      0.47%
+ 136  EU049828NP-Theta-4.2_OTU6                            16.99%    passed      6.47%
+ 137  EU049833NP-Theta-4.2_OTU2                            16.99%    passed     15.88%
+ 138  EU049835NP-Epsilon-1_OTU3                            16.99%    failed      0.95%
+ 139  EU049836NP-Gamma-1.1_OTU3                            16.99%    passed     43.79%
+ 140  EU049837NP-Gamma-2.1_OTU1                            16.99%    passed     22.73%
+ 141  EU049838NP-Theta-4.2_OTU7                            16.99%    passed      8.42%
+ 142  EU049840NP-Gamma-1.1_OTU2                            16.99%    failed      0.53%
+ 143  EU099945NP-Delta-1.2_OTU9                            16.99%    passed     65.51%
+ 144  EU099948NP-Delta-2.1.2_OTU4                          16.99%    passed     49.67%
+ 145  EU099957NS-Alpha-3.2.3.1.1_OTU8                      16.99%    failed      1.23%
+ 146  EU099963NT-Gamma_OTU3                                16.99%    passed     83.01%
+ 147  EU125510NP-Gamma-1_OTU7                              16.99%    passed     90.34%
+ 148  EU125512NP-Gamma-1.2_OTU2                            16.99%    passed     91.99%
+ 149  EU125516NP-Gamma-1.2_OTU3                            16.99%    passed     82.89%
+ 150  EU125519NP-Delta-2.3.1.1_OTU20                       16.99%    passed     72.49%
+ 151  EU137861NT-Beta_OTU7                                 16.99%    passed     99.08%
+ 152  EU137864NS-Alpha-3.2.3.1.7_OTU3                      16.99%    failed      2.49%
+ 153  EU197137NP-Gamma-2.2.4.1_OTU2                        16.99%    passed     65.58%
+ 154  EU197139NP-Theta-4.2_OTU9                            16.99%    passed     59.72%
+ 155  EU197140NP-Eta-1.2.2.1_OTU1                          16.99%    passed     61.41%
+ 156  EU239043NP-Epsilon-2.2_OTU8                          16.99%    passed     93.88%
+ 157  EU239983NC-Alpha_OTU3                                16.57%    passed      8.08%
+ 158  EU309873NT-Alpha-1.1.1.1.3.2.1_OTU1                  16.99%    passed     47.30%
+ 159  EU309881NP-Gamma-2.2.5_OTU1                          16.99%    passed     20.06%
+ 160  EU309893NP-Eta-1.2.1_OTU10                           16.99%    passed     92.87%
+ 161  EU315719NS-Alpha-3.2.1.1.1.1.1.2_OTU1                16.99%    passed     14.62%
+ 162  EU315722NS-Gamma-2.2.2_OTU6                          16.99%    passed     81.81%
+ 163  EU340498NP-Alpha-2.2.2.1.2.2_OTU7                    16.99%    passed     31.82%
+ 164  EU414207NP-Eta-1.2.2.2_OTU2                          16.99%    passed     33.91%
+ 165  EU427937NP-Gamma-2.1.2_OTU5                          16.99%    passed     86.08%
+ 166  EU490367NP-Alpha-2.2.2.1.2.2_OTU1                    16.99%    failed      1.19%
+ 167  EU553410NP-Eta-1.2.2.2_OTU1                          16.99%    passed     43.13%
+ 168  EU553412NP-Eta-1.2.2.2_OTU3                          16.99%    passed     63.88%
+ 169  EU553413NS-Gamma-2.3.2.1_OTU4                        16.99%    passed     94.48%
+ 170  EU553420NP-Eta-1.2.2.1_OTU5                          16.99%    passed     70.10%
+ 171  EU553430NS-Alpha-3.2.3.2_OTU7                        16.99%    failed      0.15%
+ 172  EU553476NP-Eta-1.2.2.Incertae_sedis.2_OTU1           16.99%    passed      5.18%
+ 173  EU590133NS-Delta-1.2.1_OTU6                          16.99%    passed     75.93%
+ 174  EU590135NS-Delta-1.Incertae_sedis.3_OTU1             16.99%    passed     66.42%
+ 175  EU590163NS-Alpha-3.2.3.1.6.1_OTU1                    16.99%    failed      1.54%
+ 176  EU590212NS-Alpha-3.2.1.1.2_OTU3                      16.99%    failed      0.00%
+ 177  EU590224NS-Alpha-3.2.3.1.4.1_OTU1                    16.99%    failed      1.62%
+ 178  EU590225NS-Alpha-3.2.1.1.1.1.1.2_OTU3                16.99%    failed      0.03%
+ 179  EU590277NS-Delta-1.2.1_OTU3                          16.99%    passed     84.68%
+ 180  EU590279NS-Delta-1.2.1_OTU7                          16.99%    passed     92.56%
+ 181  EU590455NS-Gamma-1.2_OTU4                            16.99%    passed     97.01%
+ 182  EU590521NS-Delta-1.1.2.1_OTU1                        16.99%    passed     58.98%
+ 183  EU590637NS-Delta-1.1.2.1_OTU2                        16.99%    passed     22.41%
+ 184  EU590645NP-Gamma-2.2.5.2_OTU1                        16.99%    passed     41.30%
+ 185  EU650806NP-Gamma-2.1.3.2_OTU2                        16.99%    passed     18.70%
+ 186  EU650913NP-Gamma-2.2.2.2_OTU1                        16.99%    passed     30.03%
+ 187  EU650938NP-Gamma-2.2.2.2.2_OTU4                      16.99%    passed     25.54%
+ 188  EU650948NP-Gamma-2.1.3.2.3.Incertae_sedis.1_OTU1     16.99%    passed      6.20%
+ 189  EU650954NS-Epsilon-2.2_OTU4                          16.99%    failed      4.96%
+ 190  EU650968NP-Gamma-2.2.5.1_OTU10                       16.99%    passed     31.93%
+ 191  EU650974NP-Gamma-2.2.5.Incertae_sedis.2_OTU2         16.99%    passed     22.44%
+ 192  EU651043NP-Gamma-2.1.3.2_OTU3                        16.99%    passed     75.56%
+ 193  EU651053NP-Gamma-2.1.3.2.3.Incertae_sedis.1_OTU2     16.99%    passed     35.62%
+ 194  EU651083NS-Gamma-2.1.2.1_OTU1                        16.99%    passed     99.02%
+ 195  EU651089NS-Gamma-1.Incertae_sedis_OTU1               16.99%    passed     81.49%
+ 196  EU651096NP-Gamma-2.2.2.1_OTU5                        16.99%    passed     31.68%
+ 197  EU651126NP-Gamma-2.2.2.1_OTU6                        16.99%    passed     35.80%
+ 198  EU651165NP-Gamma-2.2.5.1_OTU8                        16.99%    passed     10.89%
+ 199  EU651197NP-Gamma-2.2.5_OTU12                         16.99%    passed     24.58%
+ 200  EU651215NP-Gamma-2.1.3.2.2.1_OTU2                    16.99%    passed     41.80%
+ 201  EU651229NS-Gamma-2.1.2.1_OTU7                        16.99%    passed     95.35%
+ 202  EU651245NS-Zeta-1.2_OTU3                             16.99%    failed      1.74%
+ 203  EU651249NS-Gamma-2.1.2.1_OTU2                        16.99%    passed     89.82%
+ 204  EU667812NT-Alpha-1.1.1.1.3.3_OTU4                    16.99%    passed     65.84%
+ 205  EU667863NS-Gamma-2.3.2.3_OTU1                        16.99%    passed     54.51%
+ 206  EU667925NP-Eta-1.2.1_OTU1                            16.99%    passed     86.42%
+ 207  EU671116NS-Delta-2.2.1_OTU4                          16.99%    passed     92.34%
+ 208  EU671146NS-Gamma-1.2_OTU1                            16.99%    passed     83.19%
+ 209  EU671160NS-Gamma-1.Incertae_sedis_OTU2               16.99%    passed     84.08%
+ 210  EU671170NS-Delta-1.2.2_OTU2                          16.99%    passed     71.38%
+ 211  EU671173NS-Gamma-2.1.2.2_OTU1                        16.99%    passed     73.55%
+ 212  EU671247NS-Alpha-3.1.1.2_OTU1                        16.99%    passed     31.34%
+ 213  EU671286NS-Delta-1.1.2.1_OTU13                       16.99%    passed     40.17%
+ 214  EU671395NS-Beta-1_OTU10                              16.99%    passed     87.61%
+ 215  EU671633NS-Gamma-1.1_OTU2                            16.99%    passed     65.12%
+ 216  EU671637NS-Gamma-2.1.1_OTU4                          16.99%    passed     82.85%
+ 217  EU671813NS-Alpha-3.1.1.1_OTU1                        16.99%    passed     32.89%
+ 218  EU672033NS-Delta-1.Incertae_sedis.3_OTU2             16.99%    passed     79.06%
+ 219  EU672062NS-Gamma-2.1.1_OTU5                          16.99%    passed     93.05%
+ 220  EU672087NS-Gamma-2.1.2.2_OTU6                        16.99%    passed     49.57%
+ 221  EU672114NS-Alpha-3.1.1_OTU1                          16.99%    passed     47.25%
+ 222  EU672146NS-Alpha-3.1.1.2_OTU2                        16.99%    passed     41.22%
+ 223  EU672149NS-Delta-2.2.1_OTU2                          16.99%    passed     95.66%
+ 224  EU672273NS-Gamma-2.1.1_OTU1                          16.99%    passed     64.01%
+ 225  EU770872NS-Gamma-2.3.2.2_OTU8                        16.99%    passed     43.14%
+ 226  EU810214NP-Alpha-2.2.2.1.2_OTU4                      16.99%    passed     14.04%
+ 227  EU810220NP-Alpha-2.2.2.1.2_OTU5                      16.99%    passed     12.97%
+ 228  EU810221NP-Alpha-2.2.2.1.2.3_OTU4                    16.99%    failed      1.59%
+ 229  EU852678NT-Alpha_OTU2                                16.99%    passed     97.71%
+ 230  EU852682NT-Alpha_OTU12                               16.99%    passed     98.98%
+ 231  EU860262NP-Gamma-2.2.3_OTU2                          16.99%    passed     61.86%
+ 232  EU860279NS-Zeta-Incertae_sedis.2_OTU2                16.99%    failed      2.02%
+ 233  EU860282NP-Gamma-2.2.1.2_OTU3                        16.99%    passed     63.22%
+ 234  EU864300NP-Gamma-2.1.3.2.2.1_OTU6                    16.99%    passed     47.97%
+ 235  EU885554NS-Beta-1.3_OTU1                             16.99%    passed     77.74%
+ 236  EU885557NS-Delta-1_OTU1                              16.99%    passed     82.63%
+ 237  EU885561NS-Delta-1.Incertae_sedis.2_OTU1             16.99%    passed     90.08%
+ 238  EU885563NS-Delta-1.Incertae_sedis.4_OTU1             16.99%    passed     76.88%
+ 239  EU885566NS-Alpha-3.2.3.1.7_OTU4                      16.99%    failed      4.58%
+ 240  EU885570NS-Gamma-2.3.2.2_OTU4                        16.99%    passed     85.77%
+ 241  EU885573NS-Gamma-2.2.2_OTU1                          16.99%    passed     98.94%
+ 242  EU885575NS-Beta-1.3_OTU2                             16.99%    passed     99.57%
+ 243  EU885577NS-Delta-1_OTU2                              16.99%    passed     96.47%
+ 244  EU885582NT_NP-Incertae_sedis-1_OTU1                  16.99%    passed     32.19%
+ 245  EU885593NP-Delta-2.3.1.1_OTU21                       16.99%    passed     60.96%
+ 246  EU885596NP-Theta-1.1_OTU1                            16.99%    passed     44.84%
+ 247  EU885603NP-Delta-2.2.1_OTU4                          16.99%    passed     60.89%
+ 248  EU885612NP-Delta-2.2.2_OTU1                          16.99%    passed     82.38%
+ 249  EU885617NP-Theta-1.1_OTU2                            16.99%    passed     55.33%
+ 250  EU885618NT_NP-Incertae_sedis-2_OTU1                  16.99%    passed     62.87%
+ 251  EU885624NP-Delta-2.2.2_OTU2                          16.99%    passed     85.08%
+ 252  EU885632NS-Delta-1.Incertae_sedis.2_OTU2             16.99%    passed     81.33%
+ 253  EU885633NS-Gamma-2.1.2_OTU1                          16.99%    passed     76.55%
+ 254  EU885634NS-Beta-1.3_OTU3                             16.99%    passed     53.81%
+ 255  EU885638NS-Gamma-2.2.2_OTU2                          16.99%    passed     98.13%
+ 256  EU885641NP-Delta-2.2.2_OTU3                          16.99%    passed     92.27%
+ 257  EU885642NS-Gamma-2.2.2_OTU3                          16.99%    passed     96.62%
+ 258  EU885644NP-Delta-2.3.1.1_OTU13                       16.99%    passed     60.24%
+ 259  EU885650NP-Delta-2.3.1.1_OTU1                        16.99%    passed     41.74%
+ 260  EU885652NP-Delta-1.1.2_OTU3                          16.99%    passed     93.13%
+ 261  EU885653NS-Delta-2_OTU1                              16.99%    passed     95.47%
+ 262  EU885660NS-Alpha-3.2.3.Incertae_sedis.1_OTU2         16.99%    failed      0.21%
+ 263  EU885671NP-Delta-2.3.1.1_OTU14                       16.99%    passed     65.63%
+ 264  EU885679NS-Beta-1.3_OTU4                             16.99%    passed     76.68%
+ 265  EU885680NS-Alpha-3.2.2_OTU1                          16.99%    passed     79.78%
+ 266  EU885681NS-Alpha-3.2.3.1.2_OTU2                      16.99%    failed      2.25%
+ 267  EU885684NS-Alpha-3.2.3.1.2_OTU3                      16.99%    failed      2.63%
+ 268  EU885698NS-Alpha-3.2.3.1.5_OTU1                      16.99%    failed      0.24%
+ 269  EU885709NS-Alpha-3.2.3_OTU5                          16.99%    failed      0.21%
+ 270  EU885711NS-Gamma-2.2.1_OTU4                          16.99%    passed     68.09%
+ 271  EU886009NP-Epsilon-2_OTU2                            16.99%    passed     98.14%
+ 272  EU886033NP-Alpha-2.2.2.1.1.2_OTU3                    16.99%    passed      6.07%
+ 273  EU886039NP-Alpha-2.2.2.1.2.2_OTU2                    16.99%    passed      6.05%
+ 274  EU886054NP-Alpha-2.2.2.1.2.2_OTU3                    16.99%    passed      6.73%
+ 275  EU886088NP-Alpha-2.2.2.1.2_OTU6                      16.99%    passed      5.82%
+ 276  EU886109NP-Alpha-2.2.2.1.2.3_OTU2                    16.99%    failed      1.62%
+ 277  EU886125NP-Alpha-2.2.2.1.2.3_OTU3                    16.99%    passed     10.71%
+ 278  EU886137NP-Epsilon-2_OTU3                            16.99%    passed     90.04%
+ 279  EU886183NP-Alpha-2.2.2.1.2.4_OTU1                    16.99%    passed      6.25%
+ 280  EU925258NS-Zeta-1.2_OTU8                             16.99%    passed     17.47%
+ 281  EU925261NP-Gamma-2.1.3.2.3.2_OTU1                    16.99%    passed     33.42%
+ 282  EU925286NS-Beta-1_OTU1                               16.99%    passed     90.79%
+ 283  EU925345NP-Gamma-2.2.5_OTU9                          16.99%    passed     47.97%
+ 284  EU925354NP-Delta-1.2_OTU11                           16.99%    passed     78.18%
+ 285  EU925362NP-Gamma-2.2.5_OTU8                          16.99%    passed     70.09%
+ 286  FJ227153NP-Delta-1_OTU4                              16.99%    passed     71.82%
+ 287  FJ227155NP-Gamma-2.2.4.1_OTU5                        16.99%    passed     51.28%
+ 288  FJ227156NS-Zeta_OTU1                                 16.99%    passed     43.95%
+ 289  FJ227711NT-Alpha-1.1.2.Incertae_sedis_OTU1           16.99%    passed     92.58%
+ 290  FJ227726NT-Alpha-1.1.1.1.1_OTU4                      16.99%    passed     55.86%
+ 291  FJ227731NT-Alpha-1.1.1.2_OTU2                        16.99%    passed     55.27%
+ 292  FJ227756NT-Alpha-1.1.1.1_OTU1                        16.99%    passed     32.42%
+ 293  FJ227759NS-Epsilon-2.1_OTU1                          16.99%    passed     72.93%
+ 294  FJ227777NP-Delta-2.1.2_OTU7                          16.99%    passed     33.91%
+ 295  FJ227782NP-Alpha-2.2.4_OTU4                          16.99%    passed     93.82%
+ 296  FJ227786NP-Gamma-2.2.4.2_OTU1                        16.99%    passed     98.28%
+ 297  FJ227787NP-Gamma-2.1.3.2_OTU4                        16.99%    passed     89.22%
+ 298  FJ227796NP-Gamma-2.2_OTU1                            16.99%    passed     78.19%
+ 299  FJ227809NP-Gamma-2.1.3.2_OTU5                        16.99%    passed     39.97%
+ 300  FJ227832NP-Gamma-2.2.3_OTU3                          16.99%    passed     59.32%
+ 301  FJ227839NP-Gamma-2.2_OTU2                            16.99%    passed     50.49%
+ 302  FJ227845NP-Gamma-2.2.2.1_OTU7                        16.99%    passed     44.75%
+ 303  FJ227851NP-Gamma-2.2.5_OTU10                         16.99%    passed     52.73%
+ 304  FJ227869NP-Gamma-2.1.3.2_OTU6                        16.99%    passed     47.83%
+ 305  FJ227872NP-Epsilon-2_OTU4                            16.99%    passed     60.44%
+ 306  FJ230207NP-Theta-4.1_OTU2                            16.99%    passed     15.66%
+ 307  FJ517347NT-Alpha-1.1.1.1.3.2.Incertae_sedis_OTU1     16.99%    passed     62.70%
+ 308  FJ517360NT-Alpha-1.1.2.1_OTU3                        16.99%    passed     63.16%
+ 309  FJ601548NP-Alpha-2.2.4_OTU5                          16.99%    passed     79.73%
+ 310  FJ601551NP-Gamma-2.2.4.1_OTU6                        16.99%    passed     42.01%
+ 311  FJ601556NP-Alpha-2.2.4_OTU6                          16.99%    passed     98.89%
+ 312  FJ601561NP-Delta-1_OTU8                              16.99%    passed     62.89%
+ 313  FJ601571NS-Beta-1_OTU11                              16.99%    passed     85.20%
+ 314  FJ601575NS-Alpha-3.2.2_OTU2                          16.99%    passed     30.46%
+ 315  FJ601579NS-Alpha-3.2.2_OTU4                          16.99%    passed     18.05%
+ 316  FJ601584NS-Epsilon-1_OTU3                            16.99%    passed     29.20%
+ 317  FJ601588NP-Gamma-2.2.4.1_OTU8                        16.99%    passed     32.43%
+ 318  FJ601605NS-Beta-2.1_OTU1                             16.99%    passed     93.18%
+ 319  FJ615319NP-Alpha-2.2.2.1.1.3.3_OTU4                  16.99%    passed     23.62%
+ 320  FJ615328NP-Epsilon-3_OTU1                            16.99%    passed     58.75%
+ 321  FJ615357NP-Epsilon-2.Incertae_sedis_OTU1             16.99%    passed     89.92%
+ 322  FJ615369NP-Alpha-2.2.2.1.2.2_OTU9                    16.99%    failed      3.72%
+ 323  FJ615371NP-Epsilon-2.2_OTU2                          16.99%    passed     83.67%
+ 324  FJ615376NP-Alpha-2.2.2.1.2.1_OTU1                    16.99%    passed     43.96%
+ 325  FJ615389NP-Alpha-2.2.2.1.1.1_OTU3                    16.99%    passed     39.21%
+ 326  FJ656580NP-Gamma-2.1.3.2_OTU7                        16.99%    passed     60.22%
+ 327  FJ755699NP-Eta-1.2.1_OTU13                           16.99%    passed     85.05%
+ 328  FJ799203NP-Epsilon-2.2_OTU6                          16.99%    passed     93.44%
+ 329  FJ799225NP-Alpha-2.2.2.1.1.2_OTU1                    16.99%    passed     15.99%
+ 330  FJ799226NP-Alpha-2.2.2.1.2.1_OTU5                    16.99%    passed      8.75%
+ 331  FJ853253NS-Beta-1_OTU12                              16.99%    passed     85.47%
+ 332  FJ853254NS-Alpha-3.3.1_OTU1                          16.99%    failed      0.91%
+ 333  FJ888610NP-Alpha-2.2.2.1.2.4_OTU2                    16.99%    passed      6.30%
+ 334  FJ888623NT_NP-Incertae_sedis-2_OTU2                  16.99%    passed     35.01%
+ 335  FJ940174NS-Alpha-3.2.3.1.3_OTU1                      16.99%    failed      0.56%
+ 336  FJ951677NS-Alpha-3.2.1.2_OTU1                        16.99%    failed      4.89%
+ 337  FJ951688NS-Delta-1.1.2_OTU3                          16.99%    passed     34.77%
+ 338  FM867834NS-Beta-2_OTU2                               16.99%    passed     87.93%
+ 339  FN423456NS-Alpha-3.2.3.1.7_OTU1                      16.99%    failed      2.02%
+ 340  FN691341NS-Gamma_OTU1                                16.99%    passed     73.50%
+ 341  FN773415NT-Alpha_OTU10                               16.99%    passed     78.27%
+ 342  FN773440NT-Gamma_OTU4                                16.99%    passed     85.70%
+ 343  FN773445NT-Gamma_OTU5                                16.99%    passed     83.42%
+ 344  FN773450NT-Beta_OTU6                                 16.99%    passed     41.75%
+ 345  FN773464NT-Alpha-1.1.1.1.3.2.1_OTU2                  16.99%    passed     57.55%
+ 346  FN869059NT-Alpha-1.1.3_OTU8                          16.99%    passed     95.92%
+ 347  FN869062NT-Alpha-1.2.2_OTU2                          16.99%    passed     85.77%
+ 348  FN869066NS-Gamma-2.3.2.1_OTU2                        16.99%    passed     33.84%
+ 349  FR773159NS-Alpha-3.2.1.1.1.1.1.1_OTU3                16.99%    failed      0.06%
+ 350  GQ142304NS-Zeta-1.1_OTU1                             16.99%    passed     21.47%
+ 351  GQ142536NT-Alpha-1.1.1.1.3.1_OTU1                    16.99%    passed     56.23%
+ 352  GQ142606NS-Gamma-2.3.Incertae_sedis_OTU1             16.99%    passed     57.78%
+ 353  GQ142642NP-Eta-1.1.1.3_OTU1                          16.99%    passed     91.30%
+ 354  GQ142649NT-Alpha-1.1.1.1.3.1_OTU2                    16.99%    passed     79.05%
+ 355  GQ142739NS-Gamma-2.2.2_OTU4                          16.99%    passed     90.69%
+ 356  GQ142840NS-Alpha-3.2.1.1.2_OTU4                      16.99%    failed      0.84%
+ 357  GQ226058NS-Alpha-3.2.3.1.6.3_OTU1                    16.99%    failed      0.09%
+ 358  GQ226073NS-Alpha-3.2.1.2_OTU3                        16.99%    failed      0.74%
+ 359  GQ226104NS-Alpha-3.2.1.1.1.1.2_OTU5                  16.99%    failed      0.00%
+ 360  GQ226120NS-Alpha-3.2.3.2_OTU2                        16.99%    failed      0.19%
+ 361  GQ226125NS-Alpha-3.2.3.1_OTU7                        16.99%    failed      2.31%
+ 362  GQ226128NS-Alpha-3.2.3.2_OTU4                        16.99%    failed      0.94%
+ 363  GQ231450NS-Alpha-3.2.3.1_OTU2                        16.99%    failed      1.15%
+ 364  GQ250723NP-Alpha-2.2.2.1.1.3.2_OTU3                  16.99%    passed      6.19%
+ 365  GQ250745NP-Delta-1.2_OTU2                            16.99%    passed     83.55%
+ 366  GQ250752NP-Delta-2.3.1.1_OTU2                        16.99%    passed     25.84%
+ 367  GQ250790NP-Alpha-2.2.2.1.1.1_OTU4                    16.99%    passed     40.76%
+ 368  GQ266609NP-Delta-1_OTU1                              16.99%    passed     70.33%
+ 369  GQ266652NS-Delta-1.1.2_OTU4                          16.99%    passed     39.43%
+ 370  GQ266661NS-Gamma-2.3.2.2_OTU5                        16.99%    passed     71.30%
+ 371  GQ331394NP-Gamma-2.2.1.1_OTU1                        16.99%    passed     68.90%
+ 372  GQ331413NS-Incertae_sedis-1_OTU1                     16.99%    passed     34.27%
+ 373  GQ331465NP-Eta-1.1.2_OTU3                            16.99%    passed     63.97%
+ 374  GQ331490NP-Gamma-2.2.5.Incertae_sedis.4_OTU1         16.99%    passed     55.90%
+ 375  GQ331527NP-Gamma-2.2.1.2_OTU4                        16.99%    passed     61.93%
+ 376  GQ331528NP-Gamma-2.2.1.1_OTU3                        16.99%    passed     95.05%
+ 377  GQ331560NP-Gamma-2.2.1.1_OTU4                        16.99%    passed     62.19%
+ 378  GQ331563NP-Gamma-2.2.5.Incertae_sedis.4_OTU2         16.99%    passed     42.13%
+ 379  GQ331564NP-Gamma-2.2.5_OTU11                         16.99%    passed     24.39%
+ 380  GQ331600NP-Gamma-2.2.1.1_OTU2                        16.99%    passed     62.23%
+ 381  GQ414591NP-Eta-1.1.2_OTU4                            16.99%    passed     75.16%
+ 382  GQ481040NS-Delta-1.Incertae_sedis.1_OTU1             16.99%    passed     71.60%
+ 383  GQ481042NS-Alpha-3.2.1.1.1.1.1.2_OTU4                16.99%    failed      0.15%
+ 384  GQ481090NS-Beta-2.1_OTU3                             16.99%    passed     99.21%
+ 385  GQ485687NP-Theta-4.2_OTU4                            16.99%    failed      0.02%
+ 386  GQ485735NP-Theta-3_OTU1                              16.99%    passed     80.25%
+ 387  GQ485752NP-Epsilon-1_OTU5                            16.99%    failed      2.64%
+ 388  GQ485788NP-Theta-4.1_OTU1                            16.99%    failed      2.44%
+ 389  GQ485791NP-Theta-4.2_OTU8                            16.99%    passed     34.53%
+ 390  GQ499440NP-Gamma-2.1.3.2.3_OTU1                      16.99%    passed     30.41%
+ 391  GQ499453NP-Gamma-2.2.5.Incertae_sedis.3_OTU1         16.99%    passed     36.51%
+ 392  GQ499459NP-Delta-2.1.2_OTU3                          16.99%    passed     63.74%
+ 393  GQ499470NP-Delta-2.1.2_OTU2                          16.99%    passed     86.51%
+ 394  GQ499473NP-Gamma-2.1.3.2.3.2_OTU2                    16.99%    passed     46.40%
+ 395  GQ499537NP-Gamma-2.1.3.2.3.Incertae_sedis.2_OTU2     16.99%    passed     31.68%
+ 396  GQ499553NS-Delta-2.1_OTU3                            16.99%    passed     79.06%
+ 397  GQ499672NP-Gamma-2.1.3.1_OTU8                        16.99%    passed     52.70%
+ 398  GQ499687NP-Gamma-2.1.3.2.1_OTU3                      16.99%    passed     62.42%
+ 399  GQ499694NP-Gamma-2.2.5.Incertae_sedis.3_OTU2         16.99%    passed     29.13%
+ 400  GQ499725NP-Gamma-2.1.3.2_OTU8                        16.99%    passed     60.66%
+ 401  GQ499747NP-Gamma-2.1.3.2.3.2_OTU3                    16.99%    passed     26.80%
+ 402  GQ499763NP-Gamma-2.2.2.2.1_OTU1                      16.99%    passed     82.82%
+ 403  GQ499801NP-Gamma-2.1.3.2_OTU9                        16.99%    passed     22.39%
+ 404  GQ500237NP-Alpha-2.2.2.1.2_OTU7                      16.99%    failed      4.98%
+ 405  GQ500423NP-Alpha-2.2.2.1.1.3.2_OTU1                  16.99%    passed      9.24%
+ 406  GQ500492NP-Epsilon-2.Incertae_sedis_OTU2             16.99%    passed     89.85%
+ 407  GQ500502NP-Alpha-2.2.2.1.2.2_OTU4                    16.99%    failed      4.14%
+ 408  GQ863087NS-Alpha-3.1.1_OTU2                          16.99%    passed     57.43%
+ 409  GQ863091NS-Gamma-2.1.2.1_OTU3                        16.99%    passed     93.06%
+ 410  GQ863098NS-Gamma-2.2.1.3_OTU1                        16.99%    passed     61.45%
+ 411  GQ863102NS-Alpha-3.2.1.1.1.1.Incertae_sedis.2_OTU1   16.99%    failed      0.01%
+ 412  GQ863119NS-Delta-1.1.1_OTU1                          16.99%    passed     81.87%
+ 413  GQ863134NP-Gamma-2.2.4.1_OTU3                        16.99%    passed     70.10%
+ 414  GQ863164NS-Beta-1.1_OTU2                             16.99%    passed     80.82%
+ 415  GQ863165NS-Beta-1_OTU13                              16.99%    passed     95.53%
+ 416  GQ863176NS-Delta-1.Incertae_sedis.4_OTU2             16.99%    passed     92.54%
+ 417  GQ863199NP-Alpha-2.1_OTU1                            16.99%    passed     70.35%
+ 418  GQ863202NP-Alpha-1_OTU3                              16.99%    passed     51.89%
+ 419  GQ906644NS-Delta-2.2.1_OTU1                          16.99%    passed     80.50%
+ 420  GQ911230NS-Delta-2.2.2_OTU1                          16.99%    passed     84.84%
+ 421  GQ911252NS-Delta-2.2.2_OTU3                          16.99%    passed     88.31%
+ 422  GU181582NP-Epsilon-2.1_OTU3                          16.99%    passed     92.10%
+ 423  GU181783NP-Alpha-2.2.2.1.1.3.2_OTU4                  16.99%    passed     13.59%
+ 424  GU208164NS-Alpha-3.1.1.2_OTU3                        16.99%    passed     20.80%
+ 425  GU208184NP-Delta-2.1.2_OTU5                          16.99%    passed     79.39%
+ 426  GU216236NP-Theta-4.2_OTU3                            16.99%    passed      8.15%
+ 427  GU216237NP-Theta-4.2_OTU1                            16.99%    passed     27.75%
+ 428  GU225881NS-Incertae_sedis-1_OTU2                     16.99%    failed      3.24%
+ 429  GU270222NP-Delta-2.3.1.1_OTU15                       16.99%    passed     89.72%
+ 430  GU270242NP-Gamma-3_OTU3                              16.99%    passed     92.13%
+ 431  GU270258NP-Gamma-2.1.2_OTU6                          16.99%    passed     71.38%
+ 432  GU270273NP-Delta-2.3.2.3_OTU3                        16.99%    passed     90.06%
+ 433  GU270277NS-Gamma-2.2.1.1_OTU1                        16.99%    passed     41.53%
+ 434  GU360764NP-Alpha-2.2.2.1.1.1_OTU5                    16.99%    passed     12.66%
+ 435  GU360767NP-Alpha-2.2.2.1.1.3.3_OTU2                  16.99%    passed     25.96%
+ 436  GU360812NP-Epsilon-2.2_OTU3                          16.99%    passed     83.67%
+ 437  GU360827NP-Epsilon-2_OTU5                            16.99%    passed     80.09%
+ 438  GU360832NP-Alpha-2.2.2.1.2.2_OTU6                    16.99%    failed      2.43%
+ 439  GU363960NP-Epsilon-2.2_OTU1                          16.99%    passed     76.77%
+ 440  GU364101NP-Alpha-2.2.2.1.1.3_OTU1                    16.99%    passed     13.12%
+ 441  GU364124NP-Alpha-2.2.2.1.1.3.3_OTU5                  16.99%    passed     17.42%
+ 442  GU364164NP-Epsilon-2.2_OTU5                          16.99%    passed     88.55%
+ 443  GU386336NP-Gamma-2.1.3.1_OTU7                        16.99%    passed     40.28%
+ 444  GU811265NP-Gamma-1_OTU1                              16.99%    passed     71.79%
+ 445  GU811274NP-Gamma-2.1.3_OTU2                          16.99%    passed     61.67%
+ 446  GU811277NP-Gamma-2.1.3.2.3.1_OTU6                    16.99%    passed     57.35%
+ 447  GU811279NP-Gamma-2.2.2.2.2_OTU5                      16.99%    passed     41.81%
+ 448  GU811281NP-Gamma_OTU1                                16.99%    passed     78.71%
+ 449  GU811287NS-Gamma-2.1.2.2_OTU5                        16.99%    passed     84.26%
+ 450  GU811301NP-Theta-2.Incertae_sedis_OTU1               16.99%    passed     73.62%
+ 451  GU811313NP-Delta-1_OTU9                              16.99%    passed     62.93%
+ 452  GU811338NP-Gamma-2.1.3.2.3.1_OTU4                    16.99%    passed     38.03%
+ 453  GU811346NP-Epsilon-Incertae_sedis_OTU1               16.99%    passed     79.49%
+ 454  GU811360NP-Epsilon-Incertae_sedis_OTU2               16.99%    passed     76.66%
+ 455  GU811441NP-Theta-3_OTU2                              16.99%    passed     56.91%
+ 456  GU811607NP-Gamma-2.1.3.2_OTU10                       16.99%    passed     72.24%
+ 457  GU931374NS-Beta-1.Incertae_sedis_OTU2                16.99%    passed     97.78%
+ 458  GU988769NP-Gamma-2.1.3.2.2.1_OTU3                    16.99%    passed     69.42%
+ 459  GU988789NP-Gamma-2.1.3.2_OTU11                       16.99%    passed     61.37%
+ 460  GU988801NS-Alpha-3.2.3.3_OTU1                        16.99%    failed      0.32%
+ 461  GU988820NP-Gamma-2.1.3.2.2.1_OTU4                    16.99%    passed     34.56%
+ 462  GU988821NP-Gamma-2.1.3.2_OTU12                       16.99%    passed     56.22%
+ 463  GU988841NP-Alpha-1_OTU4                              16.99%    passed     81.75%
+ 464  GU988844NP-Gamma-2.2.2_OTU1                          16.99%    passed     71.07%
+ 465  HE598573NT-Alpha_OTU3                                16.99%    passed     99.73%
+ 466  HE598576NT-Alpha-1.1.1.1.3.3_OTU1                    16.99%    passed     79.95%
+ 467  HE598612NT-Alpha_OTU9                                16.99%    passed     91.81%
+ 468  HM055560NS-Delta-1.1.2.2_OTU2                        16.99%    passed     65.01%
+ 469  HM113517NS-Gamma-2.3_OTU1                            16.99%    passed     87.89%
+ 470  HM131566NT-Alpha-1.2.1_OTU1                          16.99%    passed     84.23%
+ 471  HM131573NS-Alpha-2_OTU5                              16.99%    failed      1.67%
+ 472  HM131587NT-Alpha_OTU4                                16.99%    passed     98.75%
+ 473  HM131590NT-Alpha-1.2.1_OTU2                          16.99%    passed     45.59%
+ 474  HM131597NT-Alpha-1.1.3_OTU9                          16.99%    passed     89.76%
+ 475  HM345609NP-Theta-Incertae_sedis_OTU1                 16.99%    passed     64.07%
+ 476  HM346001NS-Gamma-2.1.2.2_OTU2                        16.99%    passed     65.84%
+ 477  HM346030NS-Delta-1_OTU3                              16.99%    passed     34.54%
+ 478  HM346033NS-Delta-1.1.2.2_OTU1                        16.99%    passed     70.35%
+ 479  HM346048NS-Delta-1_OTU4                              16.99%    passed     62.59%
+ 480  HM346065NS-Delta-1_OTU5                              16.99%    passed     81.57%
+ 481  HM346166NS-Delta-1_OTU6                              16.99%    passed     96.15%
+ 482  HM346180NS-Delta-1.2.2_OTU3                          16.99%    passed     90.84%
+ 483  HM443629NP-Eta-1.1.1.2_OTU4                          16.99%    passed     56.89%
+ 484  HM589775NP-Eta-1.1.1.2_OTU1                          16.99%    passed     73.97%
+ 485  HM589795NP-Gamma-2.2.3_OTU1                          16.99%    passed     76.29%
+ 486  HM589837NP-Gamma-2.2.4.1_OTU7                        16.99%    passed     76.76%
+ 487  HM589849NS-Alpha-3.2.1.1.1.1.Incertae_sedis.2_OTU2   16.99%    failed      0.00%
+ 488  HM589852NP-Alpha-2.2.2_OTU1                          16.99%    passed     28.63%
+ 489  HM637851NT-Gamma_OTU1                                16.99%    passed     80.98%
+ 490  HM637854NP-Eta-1.2.1_OTU11                           16.99%    passed     95.41%
+ 491  HM754656NS-Beta-1.1_OTU3                             16.99%    passed     91.09%
+ 492  HM754688NS-Delta-1.1.1_OTU3                          16.99%    passed     70.71%
+ 493  HM754752NS-Delta-1_OTU7                              16.99%    passed     68.88%
+ 494  HM803692NS-Delta-1.1.2.1_OTU6                        16.99%    passed     48.03%
+ 495  HM803694NS-Gamma-1.1_OTU3                            16.99%    passed     32.23%
+ 496  HQ007666NS-Delta-1.2.1_OTU4                          16.99%    passed     96.42%
+ 497  HQ007740NS-Gamma-2.1.2.2_OTU3                        16.99%    passed     76.42%
+ 498  HQ007756NS-Delta-1.2.1_OTU2                          16.99%    passed     82.71%
+ 499  HQ007857NS-Delta-1.1.3_OTU1                          16.99%    passed     98.04%
+ 500  HQ007886NS-Delta-1.2.1_OTU1                          16.99%    passed     98.18%
+ 501  HQ168103NP-Gamma-2.2.5_OTU2                          16.99%    passed     33.30%
+ 502  HQ202369NS-Alpha-3.2.3.1.5_OTU2                      16.99%    failed      0.09%
+ 503  HQ202385NS-Alpha-3.2.3.1.7_OTU5                      16.99%    failed      1.63%
+ 504  HQ202397NS-Epsilon-2.1_OTU5                          16.99%    passed     52.47%
+ 505  HQ202403NS-Beta-1_OTU3                               16.99%    passed     43.21%
+ 506  HQ202413NS-Alpha-3.2.1.1.1.1.Incertae_sedis.1_OTU1   16.99%    failed      0.04%
+ 507  HQ202428NS-Alpha-3.2.3.1.4.2_OTU3                    16.99%    failed      0.31%
+ 508  HQ215919NT-Alpha-1.1.1_OTU4                          16.99%    passed     50.01%
+ 509  HQ215923NT-Alpha-1.1.2.Incertae_sedis_OTU2           16.99%    passed     86.81%
+ 510  HQ215926NS-Alpha-1_OTU1                              16.99%    passed     13.02%
+ 511  HQ221890NS-Delta-1.2.1_OTU5                          16.99%    passed     93.64%
+ 512  HQ233248NS-Gamma-2.3.2.2_OTU7                        16.99%    passed     37.45%
+ 513  HQ316986NS-Epsilon-2.2_OTU6                          16.99%    passed     34.95%
+ 514  HQ317670NS-Alpha-3.1.1.1_OTU2                        16.99%    passed     25.77%
+ 515  HQ340356NT-Alpha-1.1.1.1.3.2.2_OTU1                  16.99%    passed     71.03%
+ 516  HQ340364NS-Gamma-2.3.2.3_OTU3                        16.99%    passed     61.21%
+ 517  HQ340417NS-Gamma-2.3.2_OTU1                          16.99%    passed     79.75%
+ 518  HQ401411NS-Alpha-3.2.3_OTU1                          16.99%    failed      0.45%
+ 519  HQ455773NP-Gamma-2.1_OTU2                            16.99%    passed     43.59%
+ 520  HQ538544NS-Alpha-3.2.3.1.7_OTU2                      16.99%    failed      2.80%
+ 521  HQ538545NS-Delta-1.1.2.1_OTU8                        16.99%    passed     73.30%
+ 522  HQ538557NS-Alpha-3.2.1.1.1.1.2_OTU3                  16.99%    failed      0.18%
+ 523  HQ538558NS-Beta-1_OTU2                               16.99%    passed     93.69%
+ 524  HQ645846NP-Eta-1.1.1.2_OTU5                          16.99%    passed     32.06%
+ 525  HQ678190NS-Gamma-2.1.1_OTU3                          16.99%    passed     58.68%
+ 526  HQ875188NS-Alpha-3.1.1.Incertae_sedis_OTU1           16.99%    passed     34.53%
+ 527  HQ877763NP-Theta-4.1.Incertae_sedis_OTU2             16.99%    failed      0.00%
+ 528  HQ888802NS-Delta-1.1.2.1_OTU14                       16.99%    passed     52.30%
+ 529  HQ888875NP-Delta-1.Incertae_sedis.1_OTU1             16.99%    passed     67.92%
+ 530  HQ888892NT-Beta_OTU3                                 16.99%    passed     92.63%
+ 531  HQ888920NP-Delta-2.2.1_OTU2                          16.99%    passed     77.74%
+ 532  HQ896041NT-Alpha-1.1.2.2_OTU1                        16.99%    passed     85.81%
+ 533  HQ896052NT-Alpha-1.1.2.2_OTU2                        16.99%    passed     89.65%
+ 534  HQ896058NT-Alpha-1.1.2.2_OTU4                        16.99%    passed     86.49%
+ 535  NcavSCU2NC-Alpha_OTU2                                16.57%    passed     20.05%
+ 536  JF271980NP-Eta-1.2.1_OTU14                           16.99%    passed     96.05%
+ 537  JF272692NP-Gamma-2.1.3.1_OTU4                        16.99%    passed     46.75%
+ 538  JF430502NP-Gamma-2.2.4.2_OTU3                        16.99%    passed     85.65%
+ 539  JF430534NS-Alpha-3.2.3.1.1_OTU1                      16.99%    failed      3.07%
+ 540  JF430539NS-Gamma-2.3.2.1_OTU1                        16.99%    passed     27.04%
+ 541  JF430554NS-Epsilon-2.1_OTU2                          16.99%    passed     45.57%
+ 542  JF430559NS-Beta-1_OTU14                              16.99%    passed     66.21%
+ 543  JF430562NP-Gamma-2.1_OTU3                            16.99%    passed     66.72%
+ 544  JF430566NP-Gamma-2.2.4.2_OTU4                        16.99%    passed     85.47%
+ 545  JF439033NS-Alpha-3.2.3.1.1_OTU7                      16.99%    failed      0.26%
+ 546  JF520853NS-Gamma-2.3.2.2_OTU1                        16.99%    passed     60.71%
+ 547  JF520876NT-Alpha-1.1.3_OTU4                          16.99%    passed     57.75%
+ 548  JF520877NT-Alpha-1_OTU1                              16.99%    passed     85.77%
+ 549  JF520885NS-Gamma-2.3.2.Incertae_sedis_OTU1           16.99%    passed     52.68%
+ 550  JF520896NT-Alpha-1.2.1_OTU3                          16.99%    passed     81.44%
+ 551  JF520904NS-Alpha-3.2.3.1.4.1_OTU4                    16.99%    passed      5.02%
+ 552  JF520914NT-Alpha_OTU1                                16.99%    passed     99.40%
+ 553  JF520915NS-Alpha-3.2.3.1.1_OTU2                      16.99%    passed      9.82%
+ 554  JF520965NS-Gamma-2.3.2.Incertae_sedis_OTU2           16.99%    passed     63.20%
+ 555  JF520968NS-Alpha-2_OTU1                              16.99%    passed      7.34%
+ 556  JF520973NS-Alpha-1_OTU5                              16.99%    failed      2.38%
+ 557  JF520976NS-Alpha-1_OTU4                              16.99%    passed     12.54%
+ 558  JF520980NS-Alpha-1_OTU6                              16.99%    failed      0.32%
+ 559  JF681783NT-Alpha-1.1.2.2_OTU5                        16.99%    passed     84.60%
+ 560  JF715674NP-Theta-4_OTU1                              16.99%    passed     34.21%
+ 561  JF715683NP-Delta-1.2_OTU7                            16.99%    passed     83.55%
+ 562  JF715697NP-Delta-2.3.1.1_OTU16                       16.99%    passed     74.46%
+ 563  JF715715NP-Zeta-2_OTU1                               16.99%    passed     88.10%
+ 564  JF715718NP-Delta-2.3.2.3_OTU6                        16.99%    passed     95.83%
+ 565  JF715723NP-Delta-2.1.1_OTU4                          16.99%    passed     63.83%
+ 566  JF715733NP-Delta-2.3.2.1_OTU3                        16.99%    passed     77.87%
+ 567  JF715746NP-Gamma-2.2.2.2.1_OTU2                      16.99%    passed     70.07%
+ 568  JF715754NP-Gamma-2.1.3.2.2.1_OTU7                    16.99%    passed     50.61%
+ 569  JF715755NP-Zeta-2_OTU2                               16.99%    passed     99.66%
+ 570  JF715772NP-Epsilon-1_OTU4                            16.99%    failed      3.10%
+ 571  JF715773NP-Gamma-2.1.3.2.2.2_OTU8                    16.99%    passed     63.91%
+ 572  JF715784NP-Zeta-2_OTU3                               16.99%    passed     98.21%
+ 573  JF715822NP-Zeta-2_OTU5                               16.99%    passed     99.40%
+ 574  JF715882NP-Gamma-2.1_OTU4                            16.99%    passed     79.95%
+ 575  JF715887NP-Gamma-2.1.3.2_OTU13                       16.99%    passed     70.50%
+ 576  JF715892NP-Gamma-2.1.3.2_OTU14                       16.99%    passed     47.14%
+ 577  JF715904NP-Theta-4.1.Incertae_sedis_OTU1             16.99%    passed     48.52%
+ 578  JF715908NP-Zeta-2_OTU4                               16.99%    passed     97.58%
+ 579  JF715911NP-Gamma-2.1.3.2.3.1_OTU7                    16.99%    passed     56.22%
+ 580  JF715912NP-Gamma-2.1.3.2_OTU15                       16.99%    passed     52.16%
+ 581  JF715913NP-Gamma-2.1_OTU5                            16.99%    passed     67.04%
+ 582  JF719146NP-Alpha-2.2.2.1.2_OTU8                      16.99%    failed      1.98%
+ 583  JF719178NP-Alpha-2.2.2.1.1.2_OTU2                    16.99%    passed      8.41%
+ 584  JF719182NP-Alpha-2.2.2.1.2.1_OTU6                    16.99%    passed     18.22%
+ 585  JF719185NP-Alpha-2.2.2.1.2_OTU9                      16.99%    passed     11.23%
+ 586  JF735056NS-Delta-1.1.3_OTU2                          16.99%    passed     93.09%
+ 587  JF743000NT-Alpha-1.1.1.1.3.2.2_OTU3                  16.99%    passed     43.94%
+ 588  JF743004NP-Gamma-2.2.1.1_OTU5                        16.99%    passed     68.90%
+ 589  JF748179NS-Zeta-1.2_OTU6                             16.99%    failed      4.07%
+ 590  JF748324NS-Alpha-3.2.3.1.2_OTU4                      16.99%    failed      4.38%
+ 591  JF748326NS-Delta-2.2.1_OTU5                          16.99%    passed     99.02%
+ 592  JF748338NS-Delta-1.1.2.1_OTU10                       16.99%    passed     64.20%
+ 593  JF748348NS-Alpha-3.2.3.1.7_OTU6                      16.99%    failed      2.57%
+ 594  JF748369NS-Delta-1.1.2.2_OTU3                        16.99%    passed     76.07%
+ 595  JF756012NP-Eta-1.2.2.1_OTU2                          16.99%    passed     57.39%
+ 596  JF756021NS-Alpha-3.2.1.1.1.1.2_OTU6                  16.99%    failed      0.02%
+ 597  JF796147NP-Alpha-2.2.2.1.1.1_OTU1                    16.99%    passed     27.22%
+ 598  JF802775NP-Epsilon-2.2_OTU9                          16.99%    passed     77.28%
+ 599  JF802776NP-Gamma-2.1.3.1_OTU9                        16.99%    passed     93.54%
+ 600  JF802777NP-Gamma-2.1.3.1_OTU5                        16.99%    passed     44.97%
+ 601  JF905634NS-Zeta-1.2_OTU5                             16.99%    passed      5.25%
+ 602  JF905757NP-Eta-1.1.1.3_OTU3                          16.99%    passed     88.10%
+ 603  JF923948NP-Zeta-1_OTU6                               16.99%    passed     38.11%
+ 604  JF923970NP-Delta-2.3.1.1_OTU4                        16.99%    passed     55.46%
+ 605  JF924000NP-Alpha-2.2.2.Incertae_sedis_OTU1           16.99%    passed     15.99%
+ 606  JF924002NP-Delta-1.1.1_OTU4                          16.99%    passed     73.37%
+ 607  JF924013NP-Delta-2.3.1.1_OTU11                       16.99%    passed     75.34%
+ 608  JF924014NP-Theta-2.1.1_OTU3                          16.99%    passed     54.67%
+ 609  JF924018NP-Delta-2.3.1.1_OTU17                       16.99%    passed     62.52%
+ 610  JF924025NP-Delta-1.Incertae_sedis.1_OTU2             16.99%    passed     72.55%
+ 611  JF924027NP-Delta-2.2.2_OTU4                          16.99%    passed     96.93%
+ 612  JF924029NP-Delta-1_OTU13                             16.99%    passed     69.07%
+ 613  JF924031NP-Delta-2.2.Incertae_sedis_OTU1             16.99%    passed     89.09%
+ 614  JF924032NP-Alpha-2.2.1_OTU1                          16.99%    passed     83.69%
+ 615  JF924038NP-Alpha-2.2.1_OTU2                          16.99%    passed     74.70%
+ 616  JF924040NP-Gamma_OTU2                                16.99%    passed     60.57%
+ 617  JF924043NP-Theta-2.3_OTU4                            16.99%    passed     84.26%
+ 618  JF924048NP-Theta-2.3_OTU2                            16.99%    passed     88.63%
+ 619  JF924049NP-Gamma-1_OTU2                              16.99%    passed     63.83%
+ 620  JF924050NP-Delta-2.3.2.3_OTU4                        16.99%    passed     94.49%
+ 621  JF924061NP-Theta-2.3_OTU1                            16.99%    passed     84.26%
+ 622  JF924067NP-Alpha-1_OTU9                              16.99%    passed     61.96%
+ 623  JF924084NP-Alpha-2.1_OTU5                            16.99%    passed     74.32%
+ 624  JF924119NP-Delta-2.2.1_OTU3                          16.99%    passed     92.31%
+ 625  JF924131NP-Delta-1_OTU10                             16.99%    passed     90.35%
+ 626  JF924135NP-Alpha-2.1_OTU7                            16.99%    passed     78.35%
+ 627  JF924139NP-Alpha-2.1_OTU3                            16.99%    passed     68.50%
+ 628  JF924153NP-Delta-2.3.1.1_OTU12                       16.99%    passed     87.93%
+ 629  JF924156NP_OTU2                                      16.99%    passed     93.06%
+ 630  JF924163NP-Epsilon-1_OTU6                            16.99%    failed      1.81%
+ 631  JF924176NP-Theta-2.3_OTU8                            16.99%    passed     92.95%
+ 632  JF924187NP-Alpha-2.1_OTU2                            16.99%    passed     58.25%
+ 633  JF924195NP-Theta-2.1.1_OTU2                          16.99%    passed     70.60%
+ 634  JF924216NP-Alpha-2.2.3.1_OTU1                        16.99%    passed     75.34%
+ 635  JF924217NP-Theta-2.3_OTU9                            16.99%    passed     88.72%
+ 636  JF924226NP-Alpha-1_OTU10                             16.99%    passed     35.61%
+ 637  JF924230NP-Delta-2.1.1_OTU5                          16.99%    passed     53.08%
+ 638  JF924241NP-Delta-2.1.2_OTU6                          16.99%    passed     97.64%
+ 639  JF924242NP-Gamma-1_OTU3                              16.99%    passed     74.32%
+ 640  JF924250NP-Delta-2.1.1_OTU2                          16.99%    passed     74.01%
+ 641  JF924252NP-Gamma-2.2.4.1_OTU4                        16.99%    passed     98.97%
+ 642  JF924261NP-Delta-2.1_OTU1                            16.99%    passed     71.66%
+ 643  JF924262NP-Alpha-1_OTU12                             16.99%    passed     46.81%
+ 644  JF924264NP-Gamma-3_OTU2                              16.99%    passed     84.01%
+ 645  JF924270NP-Delta-1_OTU5                              16.99%    passed     94.38%
+ 646  JF924274NP-Gamma-2.2.4.2_OTU2                        16.99%    passed     84.97%
+ 647  JF924277NP-Alpha-2.1_OTU6                            16.99%    passed     47.45%
+ 648  JF924281NP-Delta-1_OTU6                              16.99%    passed     69.46%
+ 649  JF924292NP-Zeta-Incertae_sedis.2_OTU1                16.99%    passed     52.18%
+ 650  JF924532NP-Alpha-2.2.4_OTU7                          16.99%    passed     83.47%
+ 651  JF924537NP-Alpha-2.1_OTU8                            16.99%    passed     80.92%
+ 652  JF924543NP-Alpha-2.1_OTU4                            16.99%    passed     72.26%
+ 653  JF924550NP-Alpha-1_OTU2                              16.99%    passed     57.50%
+ 654  JF924554NP-Alpha-1_OTU5                              16.99%    passed     90.79%
+ 655  JF924560NP-Gamma-2.2.4.1_OTU11                       16.99%    passed     51.05%
+ 656  JF924571NP-Delta-2.3.1.1_OTU6                        16.99%    passed     72.10%
+ 657  JF924583NP-Delta-1.2_OTU3                            16.99%    passed     67.61%
+ 658  JF924585NP-Theta-2.3_OTU5                            16.99%    passed     91.32%
+ 659  JF924586NP-Delta-1.2_OTU4                            16.99%    passed     79.69%
+ 660  JF924595NP-Theta-2.1.1_OTU4                          16.99%    passed     82.13%
+ 661  JF924607NP-Theta-2.2.1_OTU1                          16.99%    passed     42.05%
+ 662  JF924612NP-Zeta-1_OTU5                               16.99%    passed     20.82%
+ 663  JF924616NP-Zeta-1_OTU3                               16.99%    passed     45.57%
+ 664  JF924628NP-Theta-2.1_OTU1                            16.99%    passed     54.24%
+ 665  JF924629NP-Theta-2.2.2.2_OTU2                        16.99%    passed     16.24%
+ 666  JF924641NP-Theta-2.1.2_OTU4                          16.99%    passed     66.00%
+ 667  JF924645NP-Delta-2.3.1.1_OTU3                        16.99%    passed     59.24%
+ 668  JF924650NP-Theta-2.1.2_OTU5                          16.99%    passed     66.66%
+ 669  JF924670NP-Theta-2.2.2.2_OTU3                        16.99%    passed     60.27%
+ 670  JF924673NP-Alpha-2.2.3.2_OTU3                        16.99%    passed     96.99%
+ 671  JF924696NP-Beta_OTU9                                 16.99%    passed     54.97%
+ 672  JF924714NP-Zeta-Incertae_sedis.2_OTU2                16.99%    passed     19.01%
+ 673  JF924717NP-Theta-2.1.1_OTU1                          16.99%    passed     40.55%
+ 674  JF924720NP-Zeta-Incertae_sedis.1_OTU1                16.99%    passed     65.05%
+ 675  JF924743NP-Delta-1.2_OTU5                            16.99%    passed     72.55%
+ 676  JF924745NP-Theta-2.3_OTU6                            16.99%    passed     80.10%
+ 677  JF924746NP-Delta-2.3.1.1_OTU8                        16.99%    passed     70.98%
+ 678  JF924747NP-Delta-2.3.1.1_OTU9                        16.99%    passed     89.70%
+ 679  JF924754NP-Delta-1.1_OTU1                            16.99%    passed     62.94%
+ 680  JF924771NP-Delta-2.3.1.1_OTU10                       16.99%    passed     66.63%
+ 681  JF924780NP-Gamma-3_OTU1                              16.99%    passed     71.71%
+ 682  JF924786NP-Theta-1.2_OTU1                            16.99%    passed     56.41%
+ 683  JF924798NP-Alpha-2.2.2.Incertae_sedis_OTU2           16.99%    passed     49.42%
+ 684  JF924801NP-Theta-2.3_OTU7                            16.99%    passed     64.69%
+ 685  JF924809NP-Theta-2.2.2.2_OTU1                        16.99%    passed      8.41%
+ 686  JF924813NP-Delta-2.2.2_OTU5                          16.99%    passed      7.73%
+ 687  JF924855NS-Delta-1.1.2_OTU1                          16.99%    passed     86.20%
+ 688  JF935454NS-Gamma-2.2.3_OTU4                          16.99%    passed     79.11%
+ 689  JF935461NS-Gamma-2.3.2.1_OTU5                        16.99%    passed     21.73%
+ 690  JF935464NS-Alpha-3.2.1.1.1.1.1.1_OTU1                16.99%    failed      0.12%
+ 691  JF935498NP-Delta-2.1.1_OTU6                          16.99%    passed     72.76%
+ 692  JF935600NS-Gamma-2.3.2.2_OTU9                        16.99%    passed     70.14%
+ 693  JF935612NP-Delta-2.3.2.2_OTU2                        16.99%    passed     92.86%
+ 694  JF935733NS-Zeta-1.2_OTU7                             16.99%    passed     24.85%
+ 695  JN177518NP-Zeta-2_OTU6                               16.99%    passed     92.84%
+ 696  JN177520NP-Gamma-2.1.3_OTU3                          16.99%    passed     75.91%
+ 697  JN177522NP-Epsilon-1_OTU2                            16.99%    failed      1.07%
+ 698  JN177532NP-Gamma-2.1_OTU6                            16.99%    passed     91.55%
+ 699  JN179438NP-Eta-1.2.1_OTU5                            16.99%    passed     96.86%
+ 700  JN179445NP-Eta-1.1.2_OTU8                            16.99%    passed     67.61%
+ 701  JN179460NP-Eta-1.1.1.3_OTU2                          16.99%    passed     96.57%
+ 702  JN179492NP-Gamma-2.2.5_OTU3                          16.99%    passed     23.12%
+ 703  JN179506NT-Alpha-1.2.2_OTU3                          16.99%    passed     74.27%
+ 704  JN179507NT-Alpha_OTU11                               16.99%    passed     96.98%
+ 705  JN179508NT-Alpha_OTU5                                16.99%    passed     76.09%
+ 706  JN179514NT-Alpha-1_OTU2                              16.99%    passed     94.34%
+ 707  JN179519NT-Alpha-1.2.1_OTU4                          16.99%    passed     45.07%
+ 708  JN179527NT-Alpha-1.1.3_OTU6                          16.99%    passed     64.72%
+ 709  JN179528NT-Alpha-1.1.3_OTU10                         16.99%    passed     48.43%
+ 710  JN179529NT-Alpha-1.1.3_OTU11                         16.99%    passed     88.39%
+ 711  JN179533NT-Alpha-1.1.2.2_OTU6                        16.99%    passed     94.78%
+ 712  JN179537NT-Alpha-1.1.3_OTU1                          16.99%    passed     70.57%
+ 713  JN179559NT-Alpha-1.1.3_OTU3                          16.99%    passed     72.81%
+ 714  JN179602NT-Alpha-1.1.1.1.3.2.1_OTU3                  16.99%    passed     54.47%
+ 715  JN179633NT-Alpha-1.1.1.1_OTU2                        16.99%    passed     63.61%
+ 716  JN179700NT-Alpha-1.1.1.1.2_OTU4                      16.99%    passed     43.14%
+ 717  JN179736NT-Alpha-1.1.1.2_OTU1                        16.99%    passed     72.56%
+ 718  JN179741NT-Alpha-1.1.1.1.Incertae_sedis_OTU1         16.99%    passed     70.69%
+ 719  JN179760NT-Alpha-1.1.1.1.Incertae_sedis_OTU2         16.99%    passed     78.05%
+ 720  JN179773NT-Alpha-1.1.1.1.1_OTU5                      16.99%    passed     76.05%
+ 721  JN179805NT-Alpha-1.1.1.1.3.2.Incertae_sedis_OTU2     16.99%    passed     71.95%
+ 722  JN179852NT-Alpha-1.1.1.1.3.3_OTU6                    16.99%    passed     81.45%
+ 723  JN179865NT-Alpha-1.1.1.1.3.3_OTU7                    16.99%    passed     65.91%
+ 724  JN179866NT-Alpha-1.1.1.1.3.3_OTU2                    16.99%    passed     45.15%
+ 725  JN179872NT-Alpha-1.1.1.1_OTU3                        16.99%    passed     36.63%
+ 726  JN179910NT-Alpha-1.1.1.1.3.3_OTU5                    16.99%    passed     65.25%
+ 727  JN179914NT-Alpha-1.1.1.1.3.1_OTU4                    16.99%    passed     71.07%
+ 728  JN179929NS-Alpha-3.2.1.1.1.1.1.2_OTU5                16.99%    failed      0.14%
+ 729  JN179940NS-Alpha-3.2.3.1.1_OTU9                      16.99%    failed      0.76%
+ 730  JN179941NS-Alpha-3.2.3.1.1_OTU3                      16.99%    failed      3.14%
+ 731  JN179944NS-Alpha-2_OTU2                              16.99%    failed      2.09%
+ 732  JN179945NS-Alpha-2_OTU3                              16.99%    failed      1.80%
+ 733  JN179951NS-Alpha-1_OTU7                              16.99%    failed      0.86%
+ 734  JN179952NS-Alpha-3.1.2_OTU1                          16.99%    passed     31.68%
+ 735  JN180027NS-Gamma-2.3.2.3_OTU2                        16.99%    passed     67.46%
+ 736  JN180057NS-Gamma-2.2.3_OTU5                          16.99%    passed     32.64%
+ 737  JN180069NS-Gamma-2.3.1_OTU1                          16.99%    passed     96.48%
+ 738  JN180072NS-Incertae_sedis-2_OTU2                     16.99%    passed     50.41%
+ 739  JN180076NS-Delta-1_OTU9                              16.99%    passed     74.85%
+ 740  JN183462NP-Eta-1.1.1.2_OTU6                          16.99%    passed     76.41%
+ 741  JN183476NP-Theta-3_OTU3                              16.99%    passed     84.25%
+ 742  JN183521NP-Eta-1.1.1.2_OTU2                          16.99%    passed     93.05%
+ 743  JN183522NP_OTU1                                      16.99%    passed     78.41%
+ 744  JN183537NS-Zeta-2_OTU6                               16.99%    passed     14.97%
+ 745  JN183540NP-Eta-1.1.1_OTU1                            16.99%    passed     84.26%
+ 746  JN183542NP-Eta-1.1.1.2_OTU3                          16.99%    passed     71.76%
+ 747  JN183738NP-Epsilon-1_OTU7                            16.99%    failed      0.36%
+ 748  JN183739NS-Epsilon-1_OTU4                            16.99%    passed     23.22%
+ 749  JN183740NP-Gamma-2.1_OTU7                            16.99%    passed     70.31%
+ 750  JN183774NS-Epsilon-1_OTU5                            16.99%    passed     45.07%
+ 751  JN183790NP-Gamma-2.1.3.2.Incertae_sedis_OTU1         16.99%    passed     45.08%
+ 752  JN190644NP-Delta-1.2_OTU1                            16.99%    passed     79.59%
+ 753  JN190707NS-Epsilon-1_OTU1                            16.99%    passed     60.22%
+ 754  JN190758NP-Alpha-2.2.4_OTU8                          16.99%    passed     87.06%
+ 755  JN190773NP-Gamma-2.2.Incertae_sedis.1_OTU1           16.99%    passed     37.06%
+ 756  JN190774NP-Gamma-2.2.Incertae_sedis.1_OTU2           16.99%    passed     42.80%
+ 757  JN190788NP-Delta-1_OTU11                             16.99%    passed     74.72%
+ 758  JN190815NP-Gamma-2.2.4.1_OTU1                        16.99%    passed     54.46%
+ 759  JN190828NS-Beta-2_OTU3                               16.99%    passed     92.50%
+ 760  JN190852NS-Gamma-2.2.3_OTU2                          16.99%    passed     43.45%
+ 761  JN375915NP-Alpha-2.2.2.1.2.1_OTU3                    16.99%    passed     11.80%
+ 762  JN375946NP-Gamma-2.1.3.2.3.1_OTU8                    16.99%    passed     75.45%
+ 763  JN375970NP-Gamma-2.2.5.1_OTU6                        16.99%    passed     42.56%
+ 764  JN418173NT-Alpha_OTU6                                16.99%    passed     98.14%
+ 765  JN418180NT-Alpha_OTU7                                16.99%    passed     94.92%
+ 766  JN662453NP-Gamma-2.1.3.1_OTU10                       16.99%    passed     86.08%
+ 767  JN662457NP-Theta-1.Incertae_sedis_OTU1               16.99%    passed     28.43%
+ 768  JN671945NT-Alpha-1.1.3_OTU13                         16.99%    passed     87.40%
+ 769  JN671950NT-Alpha-1.1.3_OTU5                          16.99%    passed     79.49%
+ 770  JN688223NS-Alpha-3.1.1.3_OTU5                        16.99%    passed     75.34%
+ 771  JN787000NS-Alpha-3.2.3.1.1_OTU10                     16.99%    failed      3.07%
+ 772  JN787014NS-Alpha-3.2.3.1.1_OTU4                      16.99%    failed      2.83%
+ 773  JN787021NT-Alpha-1.1.1.1.3.1_OTU3                    16.99%    passed     60.31%
+ 774  JN787033NP-Eta-1.1.1.1_OTU3                          16.99%    passed     79.99%
+ 775  JN934399NP-Delta-2.1.1_OTU7                          16.99%    passed     77.75%
+ 776  JN934405NP-Theta-1.2_OTU2                            16.99%    passed     34.44%
+ 777  JN934411NP-Theta-1.1_OTU3                            16.99%    passed     46.81%
+ 778  JN934415NP-Delta-2.3.1.2_OTU3                        16.99%    passed     70.19%
+ 779  JN934416NP-Delta-1.2_OTU6                            16.99%    passed     75.50%
+ 780  JN934422NP-Zeta-1_OTU4                               16.99%    passed     12.71%
+ 781  JQ014639NS-Alpha-1_OTU2                              16.99%    failed      3.09%
+ 782  JQ014653NP-Gamma-2.2.1.2_OTU2                        16.99%    passed     63.01%
+ 783  JQ082876NT-Alpha-Incertae_sedis_OTU1                 16.99%    passed     94.92%
+ 784  JQ082878NT-Alpha-1.1.2.2_OTU3                        16.99%    passed     86.08%
+ 785  JQ082881NS-Zeta-1.2_OTU1                             16.99%    failed      4.67%
+ 786  JQ260604NP-Gamma-2.2.5.1_OTU2                        16.99%    passed     27.38%
+ 787  JQ277487NS-Beta-1_OTU4                               16.99%    passed     72.00%
+ 788  JQ312217NP-Eta-1.1_OTU1                              16.99%    passed     80.11%
+ 789  JQ312221NT-Alpha-1.2.2_OTU1                          16.99%    passed     73.39%
+ 790  JQ312227NT-Alpha-1.1.1.1.2_OTU1                      16.99%    passed     68.67%
+ 791  JQ312229NP-Eta-1.1.2_OTU7                            16.99%    passed     29.71%
+ 792  JQ312231NP-Eta-2_OTU4                                16.99%    passed     91.91%
+ 793  JQ312240NP-Eta-1.2.2_OTU1                            16.99%    passed     75.83%
+ 794  JQ312244NP-Gamma-2.2.1.2_OTU1                        16.99%    passed     76.44%
+ 795  JQ312246NT-Alpha-1.1.3_OTU12                         16.99%    passed     69.65%
+ 796  JQ319435NS-Alpha-3.2.3.1_OTU3                        16.99%    failed      0.52%
+ 797  JQ319445NP-Delta-2.1.2_OTU8                          16.99%    passed     50.38%
+ 798  JQ319447NS-Alpha-3.2.3.1.4_OTU1                      16.99%    passed      7.72%
+ 799  JQ319451NS-Alpha-3.2.1.1.1.2_OTU4                    16.99%    failed      0.00%
+ 800  JQ319456NS-Alpha-3_OTU1                              16.99%    failed      0.00%
+ 801  JQ319461NT-Incertae_sedis_OTU1                       16.99%    passed     81.09%
+ 802  JQ319463NS-Alpha-3.2.3.3_OTU2                        16.99%    failed      0.21%
+ 803  JQ320505NT-Gamma_OTU10                               16.99%    passed     83.75%
+ 804  JQ320510NS-Alpha-3.2.3.1.5_OTU3                      16.99%    failed      1.21%
+ 805  JQ320511NS-Alpha-3.2.1.2_OTU2                        16.99%    failed      0.72%
+ 806  JQ320512NT-Beta_OTU4                                 16.99%    passed     98.96%
+ 807  JQ320522NT-Alpha-1.1_OTU1                            16.99%    passed     77.68%
+ 808  JQ345747NP-Alpha-2.2.4_OTU9                          16.99%    passed     97.76%
+ 809  JQ345774NP-Delta-2.1.1_OTU8                          16.99%    passed     88.24%
+ 810  JQ345800NS-Alpha-3.2.3.1.6.3_OTU3                    16.99%    passed      5.47%
+ 811  JQ345836NP-Beta_OTU10                                16.99%    passed     75.62%
+ 812  JQ345848NT-Beta_OTU1                                 16.99%    passed     97.01%
+ 813  JQ345860NS-Gamma-2.1.2.1_OTU5                        16.99%    passed     99.57%
+ 814  JQ345875NP-Gamma-2.2.1.2_OTU5                        16.99%    passed     41.30%
+ 815  JQ345901NS-Zeta-2_OTU4                               16.99%    passed      8.85%
+ 816  JQ345903NS-Delta-1_OTU8                              16.99%    passed     78.14%
+ 817  JQ358988NP-Delta-2.3.2.2_OTU1                        16.99%    passed     92.95%
+ 818  JQ359001NP-Gamma-2.1.3_OTU1                          16.99%    passed     67.70%
+ 819  JQ365758NT-Alpha-1.1.1.1.1_OTU3                      16.99%    passed     40.73%
+ 820  JQ365759NT-Alpha-1.1.1.1.3.3_OTU3                    16.99%    passed     70.23%
+ 821  JQ365800NT-Alpha-1.1.3_OTU7                          16.99%    passed     74.25%
+ 822  JQ396294NP-Alpha-2.2.2.1.1.3.3_OTU3                  16.99%    passed     22.96%
+ 823  JQ403665NS-Alpha-3.2.3.Incertae_sedis.2_OTU1         16.99%    failed      0.41%
+ 824  JQ403764NP-Eta-1.2.1_OTU12                           16.99%    passed     95.98%
+ 825  JQ403806NP-Eta-1.2.1_OTU8                            16.99%    passed     79.36%
+ 826  JQ403838NP-Eta-2_OTU1                                16.99%    passed     94.27%
+ 827  JQ403855NS-Alpha-3.2.1.1_OTU2                        16.99%    failed      0.00%
+ 828  JQ403856NP-Eta-1.1_OTU2                              16.99%    passed     92.48%
+ 829  JQ403954NP-Eta-1.2_OTU1                              16.99%    passed     40.91%
+ 830  JQ403977NP-Eta-1.2.1_OTU2                            16.99%    passed     94.94%
+ 831  JQ404017NS-Alpha-3.2.1.1.1.1.1.1_OTU4                16.99%    failed      0.98%
+ 832  JQ404240NP-Gamma-2.2.5_OTU4                          16.99%    passed     16.57%
+ 833  JQ406891NS-Zeta-1.2_OTU4                             16.99%    failed      2.83%
+ 834  JQ638715NS-Alpha-3.1.1.3_OTU2                        16.99%    passed     80.22%
+ 835  JQ638722NS-Gamma-2.1.2.1_OTU4                        16.99%    passed     97.05%
+ 836  JQ638724NS-Gamma-2.1.1_OTU2                          16.99%    passed     52.23%
+ 837  JQ638738NS-Alpha-3.1.2_OTU3                          16.99%    passed     41.20%
+ 838  JQ638747NS-Gamma-2.2.1.1_OTU2                        16.99%    passed     87.00%
+ 839  JQ638802NS-Alpha-3.2.1.1.1.1.1.1_OTU2                16.99%    failed      0.09%
+ 840  JQ669393NP-Eta-1.2.2.2_OTU4                          16.99%    passed     64.22%
+ 841  JQ735263NS-Alpha-3.2.4_OTU4                          16.99%    failed      0.48%
+ 842  JQ750576NP-Gamma-2.2.1_OTU1                          16.99%    passed     68.39%
+ 843  JQ750582NP-Delta-1.1_OTU2                            16.99%    passed     56.54%
+ 844  JQ768062NS-Alpha-3.2.1.1_OTU1                        16.99%    failed      0.00%
+ 845  JQ768068NS-Alpha-3.2.3.2_OTU5                        16.99%    failed      1.31%
+ 846  JQ768077NP-Eta-1.2.2.Incertae_sedis.2_OTU2           16.99%    passed      8.65%
+ 847  JQ768089NS-Alpha-3.2.3.1.6.3_OTU2                    16.99%    failed      0.09%
+ 848  JQ768091NS-Alpha-3.2.3.3_OTU3                        16.99%    failed      0.07%
+ 849  JQ864783NP-Delta-2.3.1_OTU1                          16.99%    passed     60.07%
+ 850  JQ864787NP-Delta-2.1.1_OTU1                          16.99%    passed     93.14%
+ 851  JQ864794NP-Beta_OTU5                                 16.99%    passed     84.52%
+ 852  JQ864798NP-Delta-2.3.2.3_OTU7                        16.99%    passed     93.92%
+ 853  JQ864806NP-Beta_OTU6                                 16.99%    passed     83.37%
+ 854  JQ864809NP-Theta-Incertae_sedis_OTU2                 16.99%    passed     91.93%
+ 855  JQ864851NS-Delta-1.1.2.1_OTU5                        16.99%    passed     79.10%
+ 856  JQ886278NP-Delta-1_OTU7                              16.99%    passed     88.33%
+ 857  JQ886279NP-Theta-2.1.2_OTU1                          16.99%    passed     44.85%
+ 858  JQ886283NT-Alpha-1.1.2.1_OTU2                        16.99%    passed     64.87%
+ 859  JQ944698NS-Gamma-2.2.1_OTU2                          16.99%    passed     80.52%
+ 860  JX010789NS-Gamma-2.1_OTU1                            16.99%    passed     78.66%
+ 861  JX015230NP-Epsilon-2.2_OTU7                          16.99%    passed     71.37%
+ 862  JX023512NS-Gamma-1.2_OTU2                            16.99%    passed     77.09%
+ 863  JX023521NS-Gamma-2.3.2_OTU2                          16.99%    passed     79.80%
+ 864  JX140475NS-Alpha-3.2.3.1_OTU4                        16.99%    failed      1.48%
+ 865  JX283754NP-Delta-1.Incertae_sedis.2_OTU2             16.99%    passed     70.35%
+ 866  JX283909NP-Delta-2.1.2_OTU1                          16.99%    passed     78.14%
+ 867  JX305890NS-Alpha-3.3.2_OTU1                          16.99%    failed      1.47%
+ 868  JX305901NP-Gamma-2.2.5_OTU5                          16.99%    passed     17.20%
+ 869  JX305902NP-Gamma-2.2.5.2_OTU3                        16.99%    passed     36.17%
+ 870  JX305913NP-Gamma-2.1.3_OTU4                          16.99%    passed     73.77%
+ 871  JX305914NP-Delta-1.2_OTU10                           16.99%    passed     41.64%
+ 872  JX305919NP-Gamma-2.2.5.1_OTU1                        16.99%    passed     15.41%
+ 873  JX305920NP-Gamma-2.2.5.Incertae_sedis.2_OTU1         16.99%    passed      9.24%
+ 874  JX311741NP-Eta-1.2.2.Incertae_sedis.1_OTU1           16.99%    passed     99.39%
+ 875  JX311744NP-Eta-2_OTU2                                16.99%    passed     83.38%
+ 876  JX311756NP-Eta-2_OTU3                                16.99%    passed     89.75%
+ 877  JX311792NC_OTU1                                      16.99%    passed     58.14%
+ 878  JX311802NP-Theta-2_OTU1                              16.99%    passed     85.34%
+ 879  JX311805NP_OTU3                                      16.99%    passed     72.85%
+ 880  JX311808NT-Gamma_OTU2                                16.99%    passed     92.44%
+ 881  JX416592NS-Gamma-2.2.1.2_OTU1                        16.99%    passed     55.06%
+ 882  JX416596NS-Gamma-2.2.1.3_OTU2                        16.99%    passed     92.72%
+ 883  JX416598NS-Gamma-2.2.1.Incertae_sedis.2_OTU2         16.99%    passed     72.24%
+ 884  JX416645NS-Gamma-2.2.1.2_OTU2                        16.99%    passed     90.14%
+ 885  JX426303NS-Delta-2.1_OTU6                            16.99%    passed     89.46%
+ 886  JX426485NS-Zeta_OTU2                                 16.99%    passed     26.51%
+ 887  JX427126NS-Gamma-2.2.1.Incertae_sedis.1_OTU2         16.99%    passed     75.18%
+ 888  JX427156NS-Gamma-2.2.1_OTU5                          16.99%    passed     67.85%
+ 889  JX427183NS-Gamma-2.2.1.1_OTU3                        16.99%    passed     72.45%
+ 890  JX427187NS-Alpha-3.2.3_OTU4                          16.99%    failed      0.50%
+ 891  JX427362NS-Gamma-2.2.1_OTU6                          16.99%    passed     78.54%
+ 892  JX427399NS-Gamma-2.2.1.3_OTU3                        16.99%    passed     76.44%
+ 893  JX427548NT-Alpha-1.1.1.1.2_OTU2                      16.99%    passed     51.59%
+ 894  JX465201NS-Alpha-3.2.3.1.Incertae_sedis_OTU2         16.99%    failed      4.83%
+ 895  JX488403NS-Alpha-3.1.1.Incertae_sedis_OTU2           16.99%    passed     29.32%
+ 896  JX488411NP-Gamma-2.2.5.1_OTU4                        16.99%    passed     34.09%
+ 897  JX488424NP-Gamma-2.2.5.1_OTU5                        16.99%    passed     24.17%
+ 898  JX488431NS-Alpha-3.2.1.1.1.1.2_OTU4                  16.99%    failed      0.05%
+ 899  JX509648NS-Alpha-3.2.2_OTU3                          16.99%    passed     24.97%
+ 900  JX509650NS-Alpha-3.2.2_OTU6                          16.99%    passed     36.53%
+ 901  JX524536NP-Gamma-2.2.4.1_OTU9                        16.99%    passed     42.71%
+ 902  JX537498NP-Zeta_OTU1                                 16.99%    passed     26.72%
+ 903  JX537517NP-Gamma-2.2.2.1_OTU4                        16.99%    passed     46.84%
+ 904  JX537520NP-Alpha-2.2.3.1_OTU2                        16.99%    passed     82.18%
+ 905  JX537521NP-Gamma-1_OTU4                              16.99%    passed     74.24%
+ 906  JX537531NP-Delta-2.3.2.3_OTU2                        16.99%    passed     93.05%
+ 907  JX537534NP-Delta-2.3.2.1_OTU4                        16.99%    passed     84.52%
+ 908  JX537555NP-Gamma-2.2.2.2.2_OTU3                      16.99%    passed     29.94%
+ 909  JX537560NP-Delta-2.3.1.1_OTU18                       16.99%    passed     73.10%
+ 910  JX537591NP-Delta-2.3.2.3_OTU5                        16.99%    passed     76.00%
+ 911  JX537592NP-Zeta-Incertae_sedis.1_OTU2                16.99%    passed     62.21%
+ 912  JX537593NP-Alpha-2.2.1_OTU3                          16.99%    passed     43.41%
+ 913  JX537594NP-Theta-1.Incertae_sedis_OTU2               16.99%    passed     29.73%
+ 914  JX537596NP-Delta-2.3.1.1_OTU7                        16.99%    passed     73.85%
+ 915  JX537606NP-Delta-2.3.1.1_OTU5                        16.99%    passed     35.65%
+ 916  JX537611NP-Delta-2.2.1_OTU1                          16.99%    passed     73.37%
+ 917  JX537619NT_NP-Incertae_sedis-1_OTU2                  16.99%    passed     57.72%
+ 918  JX537646NP-Theta-2.3_OTU3                            16.99%    passed     91.31%
+ 919  JX537649NS-Delta-2.2.1_OTU3                          16.99%    passed     97.76%
+ 920  JX537656NP-Theta-1.2_OTU3                            16.99%    passed     35.50%
+ 921  JX537659NP-Theta_OTU1                                16.99%    passed     39.53%
+ 922  JX537677NP-Theta-1.2_OTU4                            16.99%    passed     39.33%
+ 923  JX537681NP-Gamma-2.2.2.1_OTU8                        16.99%    passed     41.04%
+ 924  JX537690NP-Gamma-2.1.Incertae_sedis_OTU1             16.99%    passed     81.48%
+ 925  JX537706NP-Alpha-1_OTU8                              16.99%    passed     24.19%
+ 926  JX537725NP-Theta-1_OTU1                              16.99%    passed     52.90%
+ 927  JX537748NP-Delta-1.1.2_OTU6                          16.99%    passed     76.79%
+ 928  JX537757NP-Zeta-1_OTU2                               16.99%    passed     24.27%
+ 929  JX570739NS-Epsilon-2.2_OTU8                          16.99%    passed      8.01%
+ 930  JX570743NS-Gamma-2_OTU1                              16.99%    passed     46.65%
+ 931  JX570746NS-Gamma-2.2.1.2_OTU3                        16.99%    passed     41.59%
+ 932  JX643991NS-Zeta-2_OTU2                               16.99%    passed     36.61%
+ 933  JX678946NS-Alpha-3.1.1_OTU3                          16.99%    passed     25.97%
+ 934  JX678958NS-Alpha-3.1.1.3_OTU3                        16.99%    passed     86.82%
+ 935  JX678960NS-Alpha-3.1.1_OTU4                          16.99%    passed     27.46%
+ 936  JX879927NS-Alpha-3.2.3_OTU8                          16.99%    failed      0.66%
+ 937  JX885370NS-Gamma-2.3.2.2_OTU10                       16.99%    passed     49.22%
+ 938  JX885389NS-Alpha-2_OTU4                              16.99%    failed      2.61%
+ 939  JX885402NT-Alpha-1.1.3_OTU2                          16.99%    passed     83.54%
+ 940  JX885427NS-Gamma-2.3.2.2_OTU2                        16.99%    passed     68.59%
+ 941  JX885429NS-Gamma-2.3.2.2_OTU3                        16.99%    passed     78.96%
+ 942  JX885454NS-Gamma-2.3.2.2_OTU11                       16.99%    passed     58.66%
+ 943  KC010605NS-Gamma-2.3.2_OTU3                          16.99%    passed     29.85%
+ 944  KC108800NT-Beta_OTU8                                 16.99%    passed     97.06%
+ 945  KC112505NP-Gamma-2.2.2.2.2_OTU6                      16.99%    passed     45.78%
+ 946  KC137409NS-Gamma-1.2_OTU3                            16.99%    passed     83.88%
+ 947  KC137506NS-Alpha-3.1.2_OTU2                          16.99%    passed     21.65%
+ 948  KC148566NP-Theta-4.2_OTU5                            16.99%    failed      0.13%
+ 949  KC157986NS-Alpha-3.2.1.1.1.1.3_OTU1                  16.99%    failed      0.01%
+ 950  KC157988NP-Gamma-2.2.5.Incertae_sedis.1_OTU2         16.99%    passed     42.33%
+ 951  KC158006NS-Delta-1.1.1_OTU2                          16.99%    passed     83.80%
+ 952  KC293197NP-Gamma-2.1.3.2.1_OTU1                      16.99%    passed     20.35%
+ 953  KC293208NP-Gamma-2.1.3.2.1_OTU2                      16.99%    passed     35.62%
+ 954  KC293216NT-Alpha-1.1.1.1_OTU4                        16.99%    passed     39.43%
+ 955  KC349198NP-Epsilon-3_OTU2                            16.99%    passed     91.89%
+ 956  KC349226NP-Epsilon-2_OTU6                            16.99%    passed     97.42%
+ 957  KC349249NP-Alpha-2.2.2.1.2.2_OTU5                    16.99%    passed      6.00%
+ 958  KC349268NP-Alpha-2.2.2.1.2.1_OTU7                    16.99%    passed      7.00%
+ 959  KC444773NS-Gamma-1.1_OTU4                            16.99%    passed     57.75%
+ 960  KC469623NS-Gamma-2.3.Incertae_sedis_OTU2             16.99%    passed     49.91%
+ 961  KC469627NS-Gamma-2.2.1.1_OTU4                        16.99%    passed     69.70%
+ 962  KC469632NS-Gamma-2.3.1_OTU2                          16.99%    passed     87.98%
+ 963  KC503186NP-Epsilon-2_OTU7                            16.99%    passed     84.68%
+ 964  KC537388NT-Gamma_OTU6                                16.99%    passed     77.67%
+ 965  KC537398NP-Eta-1.1.1.1_OTU2                          16.99%    passed     66.95%
+ 966  KC537401NS-Alpha-3.2.4_OTU1                          16.99%    failed      0.05%
+ 967  KC537402NS-Alpha-3.2.3.1.1_OTU5                      16.99%    failed      1.86%
+ 968  KC559234NS-Delta-2.1_OTU5                            16.99%    passed     82.02%
+ 969  KC596395NP-Alpha-2.2.2.1.1.1_OTU2                    16.99%    passed     35.43%
+ 970  KC596396NP-Alpha-2.2.2.1.2.2_OTU11                   16.99%    passed      5.11%
+ 971  KC735190NP-Gamma-2.2.2.1_OTU1                        16.99%    passed     15.44%
+ 972  KC735266NP-Alpha-2.2.3.2_OTU4                        16.99%    passed     90.95%
+ 973  KC735357NP-Eta-1.2.1_OTU3                            16.99%    passed     96.41%
+ 974  KC735407NS-Beta-2.2_OTU5                             16.99%    passed     98.19%
+ 975  KC735430NS-Alpha-3.2.3.1.6_OTU1                      16.99%    failed      0.98%
+ 976  KC735478NP-Alpha-2.2.4_OTU10                         16.99%    passed     48.72%
+ 977  KC735507NS-Delta-1.1.2_OTU2                          16.99%    passed     27.98%
+ 978  KC735586NP-Beta_OTU7                                 16.99%    passed     73.62%
+ 979  KC735589NP-Gamma-2.1.Incertae_sedis_OTU2             16.99%    passed     68.06%
+ 980  KC735591NP-Alpha-2.2.3.1_OTU3                        16.99%    passed     61.16%
+ 981  KC756646NS-Epsilon-2.2_OTU5                          16.99%    passed     28.56%
+ 982  KC758318NP-Eta-1.1.2_OTU9                            16.99%    passed     93.87%
+ 983  KC758327NP-Eta-1.1.1.2_OTU7                          16.99%    passed     82.23%
+ 984  KC758352NP-Eta-1.1.2_OTU2                            16.99%    passed     65.61%
+ 985  KC758356NP-Eta-1.1.2_OTU1                            16.99%    passed     45.60%
+ 986  KC758359NP-Eta-1.1.2_OTU5                            16.99%    passed     30.55%
+ 987  KC758371NP-Eta-1.1.2_OTU6                            16.99%    passed     45.51%
+ 988  KC758384NP-Gamma-1_OTU5                              16.99%    passed     95.90%
+ 989  KC758416NP-Gamma-1_OTU6                              16.99%    passed     88.40%
+ 990  KC758445NS-Zeta-2_OTU7                               16.99%    passed     27.03%
+ 991  KC773888NS-Alpha-3.3.2_OTU3                          16.99%    failed      2.11%
+ 992  KC773897NS-Gamma-2.2.1_OTU7                          16.99%    passed     42.35%
+ 993  KC773909NS-Gamma-2.1.2.1_OTU6                        16.99%    passed     98.10%
+ 994  KC773913NS-Alpha-1_OTU3                              16.99%    failed      1.81%
+ 995  KC801463NS-Alpha-3.2.1.1.1.2_OTU1                    16.99%    failed      0.01%
+ 996  KC801686NS-Zeta-1.1_OTU2                             16.99%    passed     49.57%
+ 997  KC857521NP-Alpha-2.2.2.1.2.Incertae_sedis_OTU1       16.99%    passed     21.89%
+ 998  KC857523NP-Alpha-2.2.2.1.2.1_OTU8                    16.99%    passed     14.23%
+ 999  KC857535NP-Alpha-2.2.2.1.1.3.2_OTU5                  16.99%    passed     10.77%
+1000  KC857537NP-Alpha-2.2.2.1.1.3_OTU2                    16.99%    passed     24.07%
+1001  KC857541NP-Alpha-2.2.2.1.2.Incertae_sedis_OTU2       16.99%    passed     18.14%
+1002  KC857542NP-Alpha-2.2.2.1.1.3.1_OTU2                  16.99%    passed     25.56%
+1003  KC962894NS-Gamma-2.3_OTU2                            16.99%    passed     80.47%
+1004  KC967697NS-Beta-1_OTU5                               16.99%    passed     73.84%
+1005  KC967726NS-Alpha-3.2.1.1_OTU3                        16.99%    failed      0.00%
+1006  KF003872NT-Alpha-1.1.1.1.3.3_OTU8                    16.99%    passed     43.62%
+1007  KF003948NS-Beta-2_OTU4                               16.99%    passed     95.20%
+1008  KF004224NS-Delta-2.1_OTU2                            16.99%    passed     92.87%
+1009  KF004245NS-Delta-1.2.2_OTU1                          16.99%    passed     50.49%
+1010  KF018489NS-Alpha-3.2.1.1.1.2_OTU3                    16.99%    failed      0.00%
+1011  KF018518NS-Alpha-3.2.4_OTU2                          16.99%    failed      0.34%
+1012  KF018519NS-Alpha-3.2.3.1_OTU8                        16.99%    failed      0.05%
+1013  KF041507NP-Eta-1.2.1_OTU15                           16.99%    passed     92.06%
+1014  KF041530NS-Alpha-3.2.1.1.1.1.Incertae_sedis.1_OTU2   16.99%    failed      0.06%
+1015  KF041570NS-Alpha-3.2.3.1.3_OTU2                      16.99%    failed      0.12%
+1016  KF053684NS-Alpha-3.2.1.1.1.2_OTU2                    16.99%    failed      0.00%
+1017  KF053694NS-Alpha-3.2.3.1_OTU5                        16.99%    failed      1.26%
+1018  KF053704NS-Alpha-3.2.3_OTU2                          16.99%    failed      0.92%
+1019  KF053727NS-Alpha-3.2.1.1.1.1.3_OTU2                  16.99%    failed      0.02%
+1020  KF053730NT-Gamma_OTU11                               16.99%    passed     50.90%
+1021  KF053736NS-Alpha-3.2.3_OTU6                          16.99%    failed      0.08%
+1022  KF053742NS-Alpha-3.3.1_OTU2                          16.99%    failed      4.25%
+1023  KF178050NP-Theta-2.2.2.1_OTU10                       16.99%    passed     59.61%
+1024  KF178057NP-Delta-1.1.1_OTU5                          16.99%    passed     64.44%
+1025  KF178061NP-Delta-2.2.1_OTU5                          16.99%    passed     57.00%
+1026  KF178070NP-Theta-2.2.2.1_OTU9                        16.99%    passed     79.58%
+1027  KF178078NP-Theta-2.2.2.1_OTU4                        16.99%    passed     74.84%
+1028  KF178084NP-Theta-2.2.2.1_OTU8                        16.99%    passed     78.18%
+1029  KF178108NP-Theta-2.2.1_OTU2                          16.99%    passed     40.55%
+1030  KF178128NP-Theta-2.2.2.1_OTU5                        16.99%    passed     53.28%
+1031  KF178153NP-Theta-2.2.2.1_OTU1                        16.99%    passed     50.63%
+1032  KF178164NP-Theta-2.1.2_OTU2                          16.99%    passed     49.49%
+1033  KF178188NP-Theta-2.2.2.1_OTU6                        16.99%    passed     51.09%
+1034  KF178200NP-Theta-2.2.2.1_OTU7                        16.99%    passed     52.61%
+1035  KF178207NP-Theta-2.2.1_OTU3                          16.99%    passed     39.07%
+1036  KF178231NP-Theta-2.2.2.1_OTU2                        16.99%    passed     77.06%
+1037  KF179388NS-Epsilon-2.2_OTU1                          16.99%    passed     36.09%
+1038  KF179393NS-Epsilon-2.1_OTU4                          16.99%    passed     14.52%
+1039  KF179395NS-Alpha-3.2.3.1.6.1_OTU2                    16.99%    failed      2.78%
+1040  KF179397NS-Epsilon-2.2_OTU2                          16.99%    passed     13.60%
+1041  KF179403NS-Zeta-2_OTU3                               16.99%    passed     19.98%
+1042  KF179412NS-Zeta_OTU3                                 16.99%    passed     27.53%
+1043  KF179420NS-Zeta_OTU4                                 16.99%    passed     43.76%
+1044  KF179421NS-Alpha-3.3.1_OTU3                          16.99%    failed      3.96%
+1045  KF179444NS-Zeta-2_OTU5                               16.99%    passed     12.59%
+1046  KF362927NP-Gamma-2.1.3.1_OTU2                        16.99%    passed     29.88%
+1047  KF438251NP-Beta_OTU8                                 16.99%    passed     83.71%
+1048  KF438253NP-Delta-1.1.2_OTU2                          16.99%    passed     59.64%
+1049  KF438297NP-Delta-2.3.2.1_OTU2                        16.99%    passed     79.99%
+1050  KF438319NP-Gamma-2.1.3.2.Incertae_sedis_OTU2         16.99%    passed     70.09%
+1051  KF438585NP-Delta-1.2_OTU12                           16.99%    passed     85.08%
+1052  KF438599NP-Delta-2.3.2.1_OTU1                        16.99%    passed     63.83%
+1053  KF438628NP-Alpha-1_OTU6                              16.99%    passed     53.77%
+1054  KF498376NP-Delta-1.1.1_OTU1                          16.99%    passed     64.72%
+1055  KF498409NP-Delta-1.1.2_OTU5                          16.99%    passed     60.56%
+1056  KF512327NP-Epsilon-3_OTU3                            16.99%    passed     78.60%
+1057  KF512361NP-Gamma-2.1.3.2.2.1_OTU1                    16.99%    passed     69.35%
+1058  KF512364NP-Alpha-2.2.2.1.2.2_OTU8                    16.99%    passed      7.71%
+1059  KF512375NP-Alpha-2.2.2.1.1.3.2_OTU6                  16.99%    passed     18.55%
+1060  KF574113NS-Delta-2.1_OTU4                            16.99%    passed     97.67%
+1061  KF574128NS-Zeta-Incertae_sedis.1_OTU1                16.99%    passed     38.85%
+1062  KF606908NS-Zeta-Incertae_sedis.1_OTU2                16.99%    passed     51.58%
+1063  KF606921NS-Alpha-3.2.1.1.1.1.3_OTU4                  16.99%    failed      0.02%
+1064  KF606923NS-Alpha-3.2.1.1.1.1.2_OTU2                  16.99%    failed      0.06%
+1065  KF618632NP-Eta-1.2.2_OTU2                            16.99%    passed     88.71%
+1066  KF618679NS-Beta-1_OTU6                               16.99%    passed     94.92%
+1067  KF618761NP-Gamma-2.2.5.2_OTU4                        16.99%    passed     62.48%
+1068  KF618762NP-Gamma-2.2.5.2_OTU2                        16.99%    passed     50.49%
+1069  KF667008NS-Delta-1.1.2.2_OTU4                        16.99%    passed     43.19%
+1070  KF667015NS-Zeta-2_OTU8                               16.99%    passed     58.46%
+1071  KF668683NS-Alpha-3.2.3.1.4.1_OTU2                    16.99%    failed      3.15%
+1072  KF668684NS-Alpha-3.2.3.1.4_OTU2                      16.99%    failed      0.17%
+1073  KF668700NS-Alpha-3.2.1.1.1.1.3_OTU3                  16.99%    failed      0.00%
+1074  KF668716NS-Delta-1.1.2.1_OTU11                       16.99%    passed     60.76%
+1075  KF668718NS-Alpha-3.2.3.1.3_OTU3                      16.99%    failed      0.73%
+1076  KF668721NS-Alpha-3.2.3.1_OTU6                        16.99%    failed      1.79%
+1077  KF668731NS-Alpha-3.2.3.1.4.2_OTU1                    16.99%    failed      0.95%
+1078  KF668746NS-Beta-1.2_OTU1                             16.99%    passed     63.72%
+1079  KF668750NS-Alpha-3.2.3.Incertae_sedis.2_OTU2         16.99%    failed      0.37%
+1080  KF668755NS-Alpha-3.2.3.1.4.2_OTU2                    16.99%    failed      1.86%
+1081  KF668757NS-Alpha-3.2.3.1.6.1_OTU3                    16.99%    failed      1.68%
+1082  KF668760NS-Alpha-3.2.3.1.4.1_OTU3                    16.99%    failed      0.92%
+1083  KF668774NS-Beta-1.2_OTU2                             16.99%    passed     90.31%
+1084  KF668795NS-Alpha-3.2.3_OTU7                          16.99%    failed      1.15%
+1085  KF668799NS-Delta-1.1.2.1_OTU9                        16.99%    passed     46.89%
+1086  KF709701NS-Gamma-2.2.1_OTU8                          16.99%    passed     60.82%
+1087  KF709783NS-Gamma-2.2.2_OTU5                          16.99%    passed     89.60%
+1088  KF709810NS-Beta-2.2_OTU6                             16.99%    passed     99.75%
+1089  KF754141NS-Alpha-3.2.3.1.4_OTU3                      16.99%    failed      2.48%
+1090  KF803043NS-Alpha-3.2.1.1.1.2_OTU5                    16.99%    failed      0.01%
+1091  KF803133NP-Theta-2.Incertae_sedis_OTU2               16.99%    passed     65.91%
+1092  KF803148NP-Gamma-2.2.5_OTU6                          16.99%    failed      1.24%
+1093  KF803168NS-Alpha-3.2.3.1.2_OTU5                      16.99%    failed      3.78%
+1094  KF853588NS-Alpha-3.2.2_OTU5                          16.99%    passed     31.29%
+1095  KF853589NS-Zeta-1.2_OTU2                             16.99%    passed      7.13%
+1096  KF856996NP-Gamma-2.2.5_OTU7                          16.99%    passed     17.25%
+1097  KF857040NS-Alpha-3.2.3.1.6.2_OTU3                    16.99%    failed      0.67%
+1098  KF857089NS-Alpha-3.2.3.1.5_OTU4                      16.99%    failed      1.33%
+1099  KF874467NS-Gamma-1.1_OTU5                            16.99%    passed     43.57%
+1100  KF877801NS-Alpha-3.2.2_OTU7                          16.99%    passed      7.18%
+1101  KF898528NT-Gamma_OTU7                                16.99%    passed     62.70%
+1102  KF898559NT-Beta_OTU2                                 16.99%    passed     97.22%
+1103  KF898785NS-Alpha-3.2.1.1.1.2_OTU6                    16.99%    failed      0.00%
+1104  KF898834NS-Alpha-3.3.2_OTU2                          16.99%    failed      0.27%
+1105  KF901071NP-Alpha-2.2.2.1.1.3.1_OTU3                  16.99%    passed     18.94%
+1106  KF954320NP-Theta-4.1.1_OTU1                          16.99%    failed      0.00%
+1107  KF954379NP-Theta-4.1.1_OTU3                          16.99%    failed      0.00%
+1108  KF954403NP-Theta-4.1.1_OTU2                          16.99%    failed      0.00%
+1109  KF970660NS-Alpha-3.2.3.2_OTU3                        16.99%    failed      0.07%
+1110  KF970687NP-Alpha-2.2.2.1.2.4_OTU3                    16.99%    failed      4.65%
+1111  KF970688NP-Alpha-2.2.2.1.2.2_OTU10                   16.99%    passed      8.93%
+1112  KF975951NS-Gamma-2.3.2_OTU4                          16.99%    passed     43.28%
+1113  KF975978NS-Delta-1.1.2.2_OTU5                        16.99%    passed     74.27%
+1114  KJ081253NS-Epsilon-2.2_OTU7                          16.99%    passed     18.77%
+1115  KJ081259NT-Alpha-1.1.1.1.2_OTU5                      16.99%    passed     22.68%
+1116  KJ081267NS-Gamma-2.3.1_OTU4                          16.99%    passed     79.48%
+1117  KJ152845NT-Gamma_OTU8                                16.99%    passed     79.59%
+1118  KJ152872NP-Eta-1.2.2.Incertae_sedis.1_OTU2           16.99%    passed     79.26%
+1119  KJ152880NP-Gamma-2.2.5.2_OTU5                        16.99%    passed     57.82%
+1120  KJ152899NT-Gamma_OTU9                                16.99%    passed     76.01%
+1121  KJ158485NS-Beta-2_OTU5                               16.99%    passed     98.19%
+1122  KJ158577NS-Delta-1_OTU11                             16.99%    passed     29.91%
+1123  KJ433494NT-Alpha-Incertae_sedis_OTU2                 16.99%    passed     97.71%
+1124  KJ433500NS-Gamma-2.2.3_OTU1                          16.99%    passed     30.13%
+1125  KJ433501NS-Alpha-3.2.1.1.2_OTU2                      16.99%    failed      0.22%
+1126  KJ433515NS-Alpha-3.1.1.3_OTU6                        16.99%    passed     55.81%
+1127  KJ438400NS-Alpha-3.1.1_OTU5                          16.99%    passed     21.33%
+1128  KJ438455NS-Gamma-2.1.2.2_OTU4                        16.99%    passed     85.21%
+1129  KJ496307NS-Gamma-2.2.1_OTU3                          16.99%    passed     53.53%
+1130  KJ496832NS-Gamma-2.3.1_OTU3                          16.99%    passed     80.19%
+1131  KJ496887NS-Gamma-2.3.1_OTU5                          16.99%    passed     67.88%
+1132  KJ496888NS-Delta-2.2.2_OTU2                          16.99%    passed     88.62%
+1133  KJ496982NS-Beta-1_OTU8                               16.99%    passed     76.54%
+1134  KJ497054NS-Delta-1.Incertae_sedis.1_OTU2             16.99%    passed     71.07%
+1135  KJ509723NP-Gamma-2.1_OTU8                            16.99%    passed     84.72%
+1136  KJ509737NP-Gamma-2.2.2.2.2_OTU1                      16.99%    passed     30.17%
+1137  KJ509741NP-Gamma-2.1.3.2.2.2_OTU9                    16.99%    passed     71.31%
+1138  KJ509742NP-Gamma-2.1.3.2.2.2_OTU3                    16.99%    passed     67.86%
+1139  KJ509744NP-Gamma-2.1.3.2.2.2_OTU12                   16.99%    passed     39.48%
+1140  KJ509747NP-Gamma-2.1.3.2.2.2_OTU4                    16.99%    passed     73.71%
+1141  KJ509748NP-Gamma-2.1.3.2.2.2_OTU5                    16.99%    passed     70.09%
+1142  KJ509749NP-Gamma-2.1.3.2.3.1_OTU1                    16.99%    passed     88.15%
+1143  KJ509750NP-Gamma-2.2.2.2.1_OTU3                      16.99%    passed     34.21%
+1144  KJ509751NP-Gamma-2.1.3.2.2.2_OTU10                   16.99%    passed     69.28%
+1145  KJ509753NP-Gamma-2.1.3.2.2.2_OTU2                    16.99%    passed     88.05%
+1146  KJ509754NP-Gamma-2.1.3.2.2.2_OTU6                    16.99%    passed     66.99%
+1147  KJ509755NP-Gamma-2.1.3.2.2.2_OTU11                   16.99%    passed     31.78%
+1148  KJ509757NP-Gamma-2.1.3.2.2.2_OTU1                    16.99%    passed     76.84%
+1149  KJ509760NP-Gamma-2.1.3.2.2.2_OTU7                    16.99%    passed     74.27%
+1150  KJ509783NP-Gamma-2.1.2_OTU7                          16.99%    passed     61.83%
+1151  KJ509789NP-Gamma-2.2.2.Incertae_sedis_OTU1           16.99%    passed     55.46%
+1152  KJ509790NP-Gamma-2.2.2.Incertae_sedis_OTU2           16.99%    passed     72.42%
+1153  KJ526753NP-Zeta-2_OTU7                               16.99%    passed     95.37%
+1154  KJ526757NP-Gamma-2.1.1_OTU1                          16.99%    failed      0.12%
+1155  KJ526759NP-Gamma-2.1.1_OTU2                          16.99%    failed      0.53%
+1156  KJ526762NP-Gamma-2.1.1_OTU3                          16.99%    passed      6.02%
+1157  KJ526768NP-Gamma-2.1.1_OTU4                          16.99%    passed     40.77%
+1158  KJ542830NT-Alpha-1.1.1.1.3.2.2_OTU4                  16.99%    passed     52.70%
+1159  KJ542832NT-Alpha-1.1.1.1.2_OTU6                      16.99%    passed     39.43%
+1160  KJ549584NP-Alpha-2.2.2.1.2.1_OTU4                    16.99%    failed      3.34%
+1161  KJ660896NS-Zeta-1.1_OTU3                             16.99%    passed     60.41%
+1162  KJ699397NS-Epsilon-2.2_OTU3                          16.99%    passed      7.54%
+1163  KJ699412NS-Gamma-1.1_OTU6                            16.99%    passed     40.96%
+1164  KJ699416NS-Alpha-3.1.1.3_OTU7                        16.99%    passed     16.84%
+1165  KJ729441NS-Delta-1.1.2.1_OTU7                        16.99%    passed     47.63%
+1166  KJ729461NS-Delta-1.1.2.1_OTU3                        16.99%    passed     65.01%
+1167  KJ778392NS-Beta-1.1_OTU4                             16.99%    passed     78.36%
+1168  KJ778396NP-Theta-2.3_OTU10                           16.99%    passed     88.96%
+1169  KJ778452NP-Gamma-2.2.4.2_OTU5                        16.99%    passed     65.25%
+1170  KJ778506NP-Gamma-2.2.2.1_OTU3                        16.99%    passed     43.37%
+1171  KJ807530NP-Gamma-2.1.3.2_OTU16                       16.99%    passed     46.31%
+1172  KJ859235NS-Gamma-2.1.1_OTU6                          16.99%    passed     75.15%
+1173  KJ859315NS-Alpha-3.2_OTU2                            16.99%    failed      4.43%
+1174  KJ859352NS-Alpha-3.2_OTU3                            16.99%    failed      0.09%
+1175  KJ863823NT-Alpha-1.1.1_OTU3                          16.99%    passed     52.12%
+1176  KJ863842NS-Gamma-2.3.2.2_OTU12                       16.99%    passed     44.26%
+1177  KJ863874NT-Alpha-1.1.1.1.3.3_OTU9                    16.99%    passed     70.62%
+1178  KJ863955NT-Alpha-1.1.1_OTU1                          16.99%    passed     48.33%
+1179  KJ864008NT-Beta_OTU5                                 16.99%    passed     84.50%
+1180  KJ864127NT-Alpha-1.1.1.1.3_OTU1                      16.99%    passed     36.97%
+1181  KJ864183NS-Alpha-3.2.1.1.1.1_OTU1                    16.99%    failed      0.00%
+1182  KJ864188NT-Alpha-1.1.1.1.1_OTU1                      16.99%    passed     70.09%
+1183  KJ864239NS-Beta-1_OTU7                               16.99%    passed     56.09%
+1184  KJ864304NT-Alpha-1.1.1_OTU2                          16.99%    passed     58.85%
+1185  KM000564NP-Eta-1.2.1_OTU4                            16.99%    passed     97.02%
+1186  KM000675NP-Eta-1.2.1_OTU7                            16.99%    passed     88.65%
+1187  KM030724NS-Alpha-3.2.1.1_OTU4                        16.99%    failed      0.00%
+1188  KM110745NS-Zeta_OTU5                                 16.99%    passed     77.96%
+1189  KM116901NS-Gamma-2.3.2_OTU5                          16.99%    passed     32.63%
+1190  KM116912NS-Beta-2.2_OTU2                             16.99%    passed     99.69%
+1191  KM116929NS-Delta-2.2_OTU1                            16.99%    passed     90.11%
+1192  KM116963NP-Eta-1.2.2_OTU3                            16.99%    passed     28.59%
+1193  KM116976NT-Beta_OTU9                                 16.99%    passed     95.71%
+1194  KM117042NT-Alpha-1.1.1.1.3.2.2_OTU2                  16.99%    passed     75.21%
+1195  KM117076NS-Delta-1_OTU10                             16.99%    passed     42.37%
+1196  KM117093NT-Alpha_OTU8                                16.99%    passed     92.54%
+1197  KM117133NT-Alpha-1.1_OTU2                            16.99%    passed     73.10%
+1198  LK055904NS-Alpha-3.2.1.1.1.1.1.2_OTU2                16.99%    passed      8.23%
+1199  LK055937NP-Delta-1.2_OTU8                            16.99%    passed     85.26%
+1200  LK055949NP-Gamma-2.2.2.2.2_OTU7                      16.99%    passed     37.15%
+1201  LK055986NP-Delta-1.1.2_OTU1                          16.99%    passed     93.24%
+1202  LK055990NP-Delta-2.1.1_OTU9                          16.99%    passed     91.19%
+1203  LK055991NP-Gamma-2.2.2.2.2_OTU2                      16.99%    passed     26.67%
+1204  LK055997NP-Delta-1.1.1_OTU2                          16.99%    passed     82.99%
+1205  LK056081NP-Zeta_OTU2                                 16.99%    passed     33.45%
+1206  LK392648NP-Theta-1.1_OTU4                            16.99%    passed     43.54%
+1207  EGM_Bin2                                              8.57%    passed     49.98%
+1208  F_Bin1                                               36.80%    passed     69.13%
+1209  HM45_Bin2                                            61.66%    passed     15.09%
+1210  HM58_Bin1                                            67.13%    passed     18.53%
+1211  HM79_Bin1                                            49.86%    passed     40.33%
+1212  HM81_Bin2                                             8.57%    passed     70.26%
+1213  HM82_Bin1                                            49.44%    passed      9.59%
+1214  HM82_Bin2                                            32.16%    passed     55.56%
+1215  SB_Bin1                                              44.38%    passed     58.32%
+1216  SB_Bin2                                               8.57%    passed     74.88%
+1217  SMM_Bin1                                             41.85%    passed     21.62%
+1218  XS83_Bin1                                            55.34%    passed     20.07%
+1219  XS83_Bin2                                            55.34%    passed     20.07%
+1220  XS87_Bin1                                            62.08%    passed     11.26%
+1221  XS87_Bin2                                             0.56%    passed     78.03%
+1222  Candidatus_Nitrosoarchaeum_koreensis_MY1              8.57%    passed     22.81%
+WARNING: 5 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                                17.25%  178 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: XS83_Bin2 is identical to XS83_Bin1 but kept for subsequent analysis
+
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 1.432 seconds
+Measuring multi-threading efficiency up to 64 CPU cores
+Increase to 10 rounds for branch lengths
+7 trees examined
+Threads: 1 / Time: 72.138 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -366250
+Threads: 2 / Time: 46.568 sec / Speedup: 1.549 / Efficiency: 77% / LogL: -366250
+Threads: 3 / Time: 41.547 sec / Speedup: 1.736 / Efficiency: 58% / LogL: -366250
+Threads: 4 / Time: 37.016 sec / Speedup: 1.949 / Efficiency: 49% / LogL: -366250
+BEST NUMBER OF THREADS: 3
+
+Perform fast likelihood tree search using GTR+I+G model...
+Estimate model parameters (epsilon = 5.000)
+Perform nearest neighbor interchange...
+Estimate model parameters (epsilon = 1.000)
+1. Initial log-likelihood: -146989.698
+2. Current log-likelihood: -146985.650
+Optimal log-likelihood: -146984.997
+Rate parameters:  A-C: 1.10448  A-G: 4.12782  A-T: 1.78281  C-G: 0.74330  C-T: 5.39468  G-T: 1.00000
+Base frequencies:  A: 0.267  C: 0.223  G: 0.224  T: 0.286
+Proportion of invariable sites: 0.082
+Gamma shape alpha: 0.615
+Parameters optimization took 2 rounds (5.529 sec)
+Time for fast ML tree search: 30.716 seconds
+
+NOTE: ModelFinder requires 243 MB RAM!
+ModelFinder will test up to 286 DNA models (sample size: 712) ...
+ No. Model         -LnL         df  AIC          AICc         BIC
+  1  GTR+F         172269.044   2449 349436.089   12349536.089 360623.311
+  2  GTR+F+I       169664.928   2450 344229.857   12354129.857 355421.648
+  3  GTR+F+G4      147074.669   2450 299049.337   12308949.337 310241.128
+  4  GTR+F+I+G4    146984.949   2451 298871.899   12318575.899 310068.258
+  5  GTR+F+R2      150785.651   2451 306473.302   12326177.302 317669.661
+  6  GTR+F+R3      147662.851   2453 300231.701   12339555.701 311437.196
+  7  GTR+F+R4      146550.289   2455 298010.577   12356970.577 309225.208
+  8  GTR+F+R5      146178.464   2457 297270.927   12375882.927 308494.695
+  9  GTR+F+R6      145977.006   2459 296872.013   12395152.013 308104.916
+ 10  GTR+F+R7      145885.450   2461 296692.900   12414656.900 307934.940
+ 11  GTR+F+R8      145845.126   2463 296616.251   12434280.251 307867.427
+ 12  GTR+F+R9      145825.317   2465 296580.633   12453960.633 307840.945
+ 13  GTR+F+R10     145818.096   2467 296570.192   12473682.192 307839.640
+ 25  SYM+R9        146056.389   2462 297036.778   12424848.778 308283.386
+ 26  SYM+R10       146049.729   2464 297027.459   12444547.459 308283.203
+ 38  TVM+F+R9      145971.359   2464 296870.718   12444390.718 308126.462
+ 39  TVM+F+R10     145965.769   2466 296863.538   12464107.538 308128.418
+ 51  TVMe+R9       146226.822   2461 297375.644   12415339.644 308617.684
+ 52  TVMe+R10      146218.962   2463 297363.924   12435027.924 308615.100
+ 64  TIM3+F+R9     146096.514   2463 297119.028   12434783.028 308370.204
+ 65  TIM3+F+R10    146088.636   2465 297107.273   12454487.273 308367.585
+ 77  TIM3e+R9      146497.331   2460 297914.662   12406034.662 309152.134
+ 78  TIM3e+R10     146489.540   2462 297903.080   12425715.080 309149.688
+ 90  TIM2+F+R9     145997.041   2463 296920.081   12434584.081 308171.257
+ 91  TIM2+F+R10    145989.959   2465 296909.919   12454289.919 308170.231
+103  TIM2e+R9      146455.349   2460 297830.698   12405950.698 309068.170
+104  TIM2e+R10     146448.388   2462 297820.776   12425632.776 309067.384
+116  TIM+F+R9      146182.483   2463 297290.966   12434954.966 308542.142
+117  TIM+F+R10     146175.059   2465 297280.117   12454660.117 308540.429
+129  TIMe+R9       146748.256   2460 298416.513   12406536.513 309653.984
+130  TIMe+R10      146740.456   2462 298404.911   12426216.911 309651.519
+142  TPM3u+F+R9    146231.031   2462 297386.063   12425198.063 308632.670
+143  TPM3u+F+R10   146218.951   2464 297365.901   12444885.901 308621.645
+155  TPM3+F+R9     146231.041   2462 297386.083   12425198.083 308632.690
+156  TPM3+F+R10    146218.952   2464 297365.904   12444885.904 308621.648
+168  TPM2u+F+R9    146155.784   2462 297235.568   12425047.568 308482.176
+169  TPM2u+F+R10   146149.654   2464 297227.308   12444747.308 308483.052
+181  TPM2+F+R9     146155.787   2462 297235.573   12425047.573 308482.181
+182  TPM2+F+R10    146149.654   2464 297227.308   12444747.308 308483.052
+194  K3Pu+F+R9     146342.994   2462 297609.988   12425421.988 308856.596
+195  K3Pu+F+R10    146336.252   2464 297600.504   12445120.504 308856.248
+207  K3P+R9        146947.897   2459 298813.793   12397093.793 310046.697
+208  K3P+R10       146942.365   2461 298806.730   12416770.730 310048.770
+220  TN+F+R9       146258.662   2462 297441.325   12425253.325 308687.933
+221  TN+F+R10      146251.124   2464 297430.248   12444950.248 308685.992
+233  TNe+R9        146868.325   2459 298654.649   12396934.649 309887.553
+234  TNe+R10       146860.517   2461 298643.034   12416607.034 309885.074
+246  HKY+F+R9      146420.331   2461 297762.661   12415726.661 309004.701
+247  HKY+F+R10     146413.503   2463 297753.006   12435417.006 309004.182
+259  K2P+R9        147068.261   2458 299052.523   12387496.523 310280.858
+260  K2P+R10       147062.638   2460 299045.276   12407165.276 310282.748
+272  F81+F+R9      152487.757   2460 309895.514   12418015.514 321132.986
+273  F81+F+R10     152481.498   2462 309886.996   12437698.996 321133.604
+285  JC+R9         152871.003   2457 310656.005   12389268.005 321879.773
+286  JC+R10        152865.225   2459 310648.451   12408928.451 321881.354
+Akaike Information Criterion:           GTR+F+R10
+Corrected Akaike Information Criterion: GTR+F+G4
+Bayesian Information Criterion:         GTR+F+R10
+Best-fit model: GTR+F+R10 chosen according to BIC
+
+All model information printed to All_AOA_gene_mafft_no_trimal.fa.model.gz
+CPU time for ModelFinder: 24150.076 seconds (6h:42m:30s)
+Wall-clock time for ModelFinder: 10316.502 seconds (2h:51m:56s)
+Generating 1000 samples for ultrafast bootstrap (seed: 425944)...
+
+NOTE: 243 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -145818.096
+2. Current log-likelihood: -145817.982
+Optimal log-likelihood: -145817.839
+Rate parameters:  A-C: 1.13221  A-G: 4.13314  A-T: 1.82642  C-G: 0.75321  C-T: 5.64886  G-T: 1.00000
+Base frequencies:  A: 0.267  C: 0.223  G: 0.224  T: 0.286
+Site proportion and rates:  (0.472,0.034) (0.068,0.145) (0.038,0.257) (0.038,0.500) (0.052,0.823) (0.056,1.307) (0.077,1.867) (0.088,2.629) (0.069,3.533) (0.043,4.940)
+Parameters optimization took 2 rounds (31.103 sec)
+Computing ML distances based on estimated model parameters...
+Computing ML distances took 73.803918 sec (of wall-clock time) 180.208560 sec(of CPU time)
+Computing RapidNJ tree took 0.818759 sec (of wall-clock time) 1.759129 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -149442.691
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 129.096 second
+Computing log-likelihood of 98 initial trees ... 113.880 seconds
+Current best score: -145817.839
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -145803.932
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -145554.856
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -145502.164
+Iteration 10 / LogL: -145544.762 / Time: 0h:18m:51s
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 11: -145497.723
+Iteration 20 / LogL: -145631.793 / Time: 0h:26m:49s
+Finish initializing candidate tree set (20)
+Current best tree score: -145497.723 / CPU time: 1492.668
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 21: -145449.454
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -145418.028
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 27: -145351.533
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 30: -145294.315
+Iteration 30 / LogL: -145294.315 / Time: 0h:34m:48s (2h:0m:2s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 34: -145268.582
+Iteration 40 / LogL: -145340.698 / Time: 0h:41m:3s (1h:38m:57s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 45: -145254.937
+Iteration 50 / LogL: -145321.977 / Time: 0h:48m:21s (1h:33m:46s left)
+Log-likelihood cutoff on original alignment: -145637.992
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 54: -145247.533
+Iteration 60 / LogL: -145295.988 / Time: 0h:54m:50s (1h:27m:21s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 66: -145231.523
+Iteration 70 / LogL: -145339.576 / Time: 1h:1m:22s (1h:25m:23s left)
+Iteration 80 / LogL: -145448.207 / Time: 1h:6m:54s (1h:12m:50s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 89: -145225.899
+Iteration 90 / LogL: -145314.089 / Time: 1h:13m:2s (1h:21m:15s left)
+Iteration 100 / LogL: -145305.852 / Time: 1h:18m:50s (1h:10m:52s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.972
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 105: -145224.552
+Iteration 110 / LogL: -145320.545 / Time: 1h:26m:20s (1h:15m:14s left)
+Iteration 120 / LogL: -145343.236 / Time: 1h:32m:6s (1h:5m:47s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 127: -145220.506
+Iteration 130 / LogL: -145328.685 / Time: 1h:38m:25s (1h:14m:0s left)
+Iteration 140 / LogL: -145430.404 / Time: 1h:44m:18s (1h:5m:17s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 144: -145205.556
+Iteration 150 / LogL: -145280.222 / Time: 1h:50m:53s (1h:9m:57s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 156: -145202.939
+Iteration 160 / LogL: -145290.828 / Time: 1h:57m:30s (1h:10m:56s left)
+Iteration 170 / LogL: -145251.052 / Time: 2h:3m:14s (1h:2m:42s left)
+Iteration 180 / LogL: -145235.036 / Time: 2h:9m:6s (0h:54m:48s left)
+Iteration 190 / LogL: -145423.641 / Time: 2h:14m:53s (0h:47m:6s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 193: -145197.153
+Iteration 200 / LogL: -145291.013 / Time: 2h:21m:20s (1h:6m:3s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.985
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 210 / LogL: -145325.810 / Time: 2h:27m:19s (1h:3m:26s left)
+Iteration 220 / LogL: -145269.301 / Time: 2h:33m:32s (0h:56m:5s left)
+Iteration 230 / LogL: -145291.270 / Time: 2h:39m:27s (0h:48m:44s left)
+Iteration 240 / LogL: -145206.018 / Time: 2h:45m:29s (0h:41m:32s left)
+Iteration 250 / LogL: -145229.681 / Time: 2h:51m:3s (0h:34m:20s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 251: -145168.726
+Iteration 260 / LogL: -145307.494 / Time: 2h:57m:41s (1h:2m:25s left)
+Iteration 270 / LogL: -145170.968 / Time: 3h:3m:39s (0h:55m:18s left)
+Iteration 280 / LogL: -145392.999 / Time: 3h:9m:27s (0h:48m:12s left)
+Iteration 290 / LogL: -145205.857 / Time: 3h:15m:29s (0h:41m:15s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 292: -145164.563
+Iteration 300 / LogL: -145211.052 / Time: 3h:22m:4s (1h:2m:10s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.979
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 310 / LogL: -145300.340 / Time: 3h:28m:12s (1h:0m:38s left)
+Iteration 320 / LogL: -145184.630 / Time: 3h:34m:27s (0h:53m:46s left)
+Iteration 330 / LogL: -145201.290 / Time: 3h:40m:30s (0h:46m:55s left)
+Iteration 340 / LogL: -145236.098 / Time: 3h:46m:27s (0h:40m:4s left)
+Iteration 350 / LogL: -145205.776 / Time: 3h:52m:27s (0h:33m:18s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 360 / LogL: -145356.777 / Time: 3h:58m:54s (0h:26m:37s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 367: -145158.268
+Iteration 370 / LogL: -145258.181 / Time: 4h:5m:31s (1h:4m:32s left)
+Iteration 380 / LogL: -145231.582 / Time: 4h:11m:40s (0h:57m:46s left)
+Iteration 390 / LogL: -145251.496 / Time: 4h:17m:44s (0h:51m:1s left)
+Iteration 400 / LogL: -145256.139 / Time: 4h:23m:56s (0h:44m:19s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.974
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 410 / LogL: -145379.259 / Time: 4h:30m:33s (0h:59m:32s left)
+Iteration 420 / LogL: -145267.724 / Time: 4h:36m:46s (0h:52m:50s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 424: -145155.400
+Iteration 430 / LogL: -145238.306 / Time: 4h:43m:27s (1h:2m:6s left)
+Iteration 440 / LogL: -145200.975 / Time: 4h:49m:43s (0h:55m:26s left)
+Iteration 450 / LogL: -145333.060 / Time: 4h:55m:49s (0h:48m:45s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 460 / LogL: -145188.227 / Time: 5h:2m:11s (0h:42m:8s left)
+Iteration 470 / LogL: -145221.974 / Time: 5h:8m:27s (0h:35m:30s left)
+Iteration 480 / LogL: -145325.199 / Time: 5h:14m:29s (0h:28m:53s left)
+Iteration 490 / LogL: -145257.559 / Time: 5h:20m:28s (0h:22m:16s left)
+Iteration 500 / LogL: -145248.386 / Time: 5h:26m:45s (0h:15m:42s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.968
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 510 / LogL: -145261.126 / Time: 5h:33m:15s (0h:58m:55s left)
+Iteration 520 / LogL: -145297.748 / Time: 5h:39m:28s (0h:52m:19s left)
+Iteration 530 / LogL: -145201.003 / Time: 5h:45m:29s (0h:45m:43s left)
+Iteration 540 / LogL: -145223.520 / Time: 5h:51m:47s (0h:39m:9s left)
+Iteration 550 / LogL: -145221.274 / Time: 5h:57m:54s (0h:32m:35s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 560 / LogL: -145269.572 / Time: 6h:4m:29s (0h:26m:4s left)
+Iteration 570 / LogL: -145221.404 / Time: 6h:10m:54s (0h:19m:33s left)
+Iteration 580 / LogL: -145241.175 / Time: 6h:17m:6s (0h:13m:1s left)
+Iteration 590 / LogL: -145221.854 / Time: 6h:23m:16s (0h:6m:30s left)
+Iteration 600 / LogL: -145297.564 / Time: 6h:29m:33s (0h:0m:0s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.984
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 610 / LogL: -145190.144 / Time: 6h:35m:54s (0h:58m:30s left)
+Iteration 620 / LogL: -145182.019 / Time: 6h:42m:16s (0h:51m:59s left)
+Iteration 630 / LogL: -145160.859 / Time: 6h:48m:57s (0h:45m:30s left)
+Iteration 640 / LogL: -145162.288 / Time: 6h:55m:14s (0h:38m:59s left)
+Iteration 650 / LogL: -145255.702 / Time: 7h:1m:27s (0h:32m:28s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 660 / LogL: -145224.143 / Time: 7h:7m:51s (0h:25m:58s left)
+Iteration 670 / LogL: -145394.255 / Time: 7h:13m:45s (0h:19m:27s left)
+Iteration 680 / LogL: -145288.793 / Time: 7h:19m:58s (0h:12m:57s left)
+Iteration 690 / LogL: -145273.208 / Time: 7h:26m:28s (0h:6m:28s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 697: -145151.450
+Iteration 700 / LogL: -145259.443 / Time: 7h:33m:19s (1h:2m:54s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.982
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 710 / LogL: -145248.902 / Time: 7h:39m:57s (0h:58m:23s left)
+Iteration 720 / LogL: -145241.126 / Time: 7h:46m:7s (0h:51m:51s left)
+Iteration 730 / LogL: -145215.660 / Time: 7h:52m:45s (0h:45m:23s left)
+Iteration 740 / LogL: -145195.450 / Time: 7h:59m:6s (0h:38m:53s left)
+Iteration 750 / LogL: -145234.215 / Time: 8h:5m:12s (0h:32m:23s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 760 / LogL: -145247.352 / Time: 8h:11m:37s (0h:25m:54s left)
+Iteration 770 / LogL: -145205.606 / Time: 8h:17m:52s (0h:19m:25s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 776: -145148.654
+Iteration 780 / LogL: -145217.682 / Time: 8h:26m:9s (1h:2m:22s left)
+Iteration 790 / LogL: -145193.248 / Time: 8h:32m:24s (0h:55m:51s left)
+Iteration 800 / LogL: -145226.313 / Time: 8h:39m:0s (0h:49m:22s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.986
+NOTE: UFBoot does not converge, continue at least 100 more iterations
+Iteration 810 / LogL: -145213.856 / Time: 8h:45m:35s (0h:58m:28s left)
+Iteration 820 / LogL: -145227.408 / Time: 8h:52m:0s (0h:51m:58s left)
+Iteration 830 / LogL: -145349.711 / Time: 8h:58m:23s (0h:45m:27s left)
+Iteration 840 / LogL: -145178.682 / Time: 9h:4m:45s (0h:38m:57s left)
+Iteration 850 / LogL: -145241.821 / Time: 9h:10m:44s (0h:32m:26s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 860 / LogL: -145268.283 / Time: 9h:17m:17s (0h:25m:57s left)
+Iteration 870 / LogL: -145190.789 / Time: 9h:23m:50s (0h:19m:27s left)
+Iteration 880 / LogL: -145234.251 / Time: 9h:30m:10s (0h:12m:58s left)
+Iteration 890 / LogL: -145408.278 / Time: 9h:36m:15s (0h:6m:28s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 898: -145143.286
+Iteration 900 / LogL: -145224.746 / Time: 9h:43m:43s (1h:3m:37s left)
+Log-likelihood cutoff on original alignment: -145637.073
+NOTE: Bootstrap correlation coefficient of split occurrence frequencies: 0.991
+Iteration 910 / LogL: -145255.656 / Time: 9h:50m:28s (0h:58m:27s left)
+Iteration 920 / LogL: -145211.269 / Time: 9h:57m:5s (0h:51m:58s left)
+Iteration 930 / LogL: -145228.827 / Time: 10h:3m:32s (0h:45m:28s left)
+Iteration 940 / LogL: -145242.858 / Time: 10h:9m:55s (0h:38m:58s left)
+Iteration 950 / LogL: -145237.999 / Time: 10h:16m:22s (0h:32m:28s left)
+Log-likelihood cutoff on original alignment: -145637.073
+Iteration 960 / LogL: -145238.510 / Time: 10h:22m:36s (0h:25m:58s left)
+Iteration 970 / LogL: -145205.563 / Time: 10h:28m:32s (0h:19m:27s left)
+Iteration 980 / LogL: -145255.557 / Time: 10h:34m:36s (0h:12m:57s left)
+Iteration 990 / LogL: -145171.805 / Time: 10h:40m:35s (0h:6m:28s left)
+TREE SEARCH COMPLETED AFTER 999 ITERATIONS / Time: 10h:46m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -145143.286
+2. Current log-likelihood: -145143.236
+3. Current log-likelihood: -145143.201
+4. Current log-likelihood: -145143.176
+5. Current log-likelihood: -145143.165
+Optimal log-likelihood: -145143.154
+Rate parameters:  A-C: 1.11848  A-G: 4.21552  A-T: 1.84557  C-G: 0.75673  C-T: 5.74724  G-T: 1.00000
+Base frequencies:  A: 0.267  C: 0.223  G: 0.224  T: 0.286
+Site proportion and rates:  (0.457,0.031) (0.074,0.125) (0.044,0.253) (0.037,0.485) (0.054,0.793) (0.052,1.277) (0.084,1.871) (0.088,2.631) (0.068,3.556) (0.041,4.998)
+Parameters optimization took 5 rounds (44.319 sec)
+BEST SCORE FOUND : -145143.154
+Creating bootstrap support values...
+Split supports printed to NEXUS file All_AOA_gene_mafft_no_trimal.fa.splits.nex
+Total tree length: 62.487
+
+Total number of iterations: 999
+CPU time used for tree search: 100876.639 sec (28h:1m:16s)
+Wall-clock time used for tree search: 38650.978 sec (10h:44m:10s)
+Total CPU time used: 101278.009 sec (28h:7m:58s)
+Total wall-clock time used: 38825.317 sec (10h:47m:5s)
+
+Computing bootstrap consensus tree...
+Reading input file All_AOA_gene_mafft_no_trimal.fa.splits.nex...
+1222 taxa and 7461 splits.
+Consensus tree written to All_AOA_gene_mafft_no_trimal.fa.contree
+Reading input trees file All_AOA_gene_mafft_no_trimal.fa.contree
+Log-likelihood of consensus tree: -145120.785
+
+Analysis results written to: 
+  IQ-TREE report:                All_AOA_gene_mafft_no_trimal.fa.iqtree
+  Maximum-likelihood tree:       All_AOA_gene_mafft_no_trimal.fa.treefile
+  Likelihood distances:          All_AOA_gene_mafft_no_trimal.fa.mldist
+
+Ultrafast bootstrap approximation results written to:
+  Split support values:          All_AOA_gene_mafft_no_trimal.fa.splits.nex
+  Consensus tree:                All_AOA_gene_mafft_no_trimal.fa.contree
+  Screen log file:               All_AOA_gene_mafft_no_trimal.fa.log
+
+Date and Time: Tue Mar 14 01:32:22 2023
