@@ -1,0 +1,824 @@
+IQ-TREE 2.2.2.7 COVID-edition built Jun  7 2023
+
+Input file name: 1.A.11_all_AA_trimal.faa
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 843505
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 136 sequences with 646 amino-acid sites
+Number of constant sites: 24 (= 3.71517% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 24 (= 3.71517% of all sites)
+Number of parsimony informative sites: 577
+Number of distinct site patterns: 644
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: LG+F+R5
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+LG+F+R5          -36142.220   72876.440 +     0.82   73380.234 +    0.981   74199.797 +    0.977
+LG+F+I+R5        -36142.736   72879.472 +     0.18   73388.127 -   0.0189   74207.300 -   0.0229
+Q.pfam+F+R5      -36208.779   73009.558 - 1.02e-29   73513.351 - 1.22e-29   74332.914 - 1.21e-29
+Q.pfam+F+I+R5    -36209.421   73012.842 - 1.97e-30   73521.497 - 2.07e-31   74340.670 - 2.51e-31
+Q.yeast+F+R5     -36240.658   73073.317 - 1.45e-43   73577.111 - 1.74e-43   74396.674 - 1.73e-43
+Q.yeast+F+I+R5   -36241.029   73076.058 - 3.69e-44   73584.714 - 3.89e-45   74403.886 -  4.7e-45
+rtREV+F+R5       -36283.402   73158.803 - 3.98e-62   73662.597 - 4.76e-62   74482.160 - 4.74e-62
+rtREV+F+I+R5     -36284.087   73162.175 - 7.37e-63   73670.830 - 7.75e-64   74490.002 - 9.39e-64
+Q.insect+F+R5    -36368.083   73328.167 - 6.65e-99   73831.960 - 7.95e-99   74651.523 - 7.92e-99
+Q.insect+F+I+R5  -36368.266   73330.533 - 2.04e-99   73839.188 - 2.14e-100   74658.360 - 2.59e-100
+cpREV+F+R5       -36381.058   73354.115 - 1.54e-104   73857.909 - 1.84e-104   74677.472 - 1.84e-104
+cpREV+F+I+R5     -36380.248   73354.495 - 1.27e-104   73863.151 - 1.34e-105   74682.323 - 1.62e-105
+mtZOA+F+R5       -36430.976   73453.951 - 3.23e-126   73957.745 - 3.86e-126   74777.308 - 3.85e-126
+mtZOA+F+I+R5     -36431.945   73457.890 - 4.5e-127   73966.545 - 4.74e-128   74785.718 - 5.74e-128
+WAG+F+R5         -36439.370   73470.739 - 7.3e-130   73974.533 - 8.73e-130   74794.096 - 8.7e-130
+WAG+F+I+R5       -36439.387   73472.775 - 2.64e-130   73981.430 - 2.78e-131   74800.602 - 3.36e-131
+mtZOA+R5         -36551.140   73656.280 - 3.75e-170   74074.791 - 1.48e-151   74894.691 - 1.25e-151
+mtZOA+I+R5       -36551.873   73659.746 - 6.62e-171   74082.427 - 3.25e-153   74902.628 - 2.35e-153
+mtInv+F+R5       -36559.357   73710.713 - 5.67e-182   74214.507 - 6.78e-182   75034.070 - 6.76e-182
+mtInv+F+I+R5     -36560.131   73714.261 - 9.62e-183   74222.916 - 1.01e-183   75042.089 - 1.23e-183
+VT+F+R5          -36565.689   73723.378 - 1.01e-184   74227.172 - 1.21e-184   75046.735 - 1.2e-184
+VT+F+I+R5        -36565.907   73725.814 - 2.98e-185   74234.469 - 3.14e-186   75053.641 - 3.8e-186
+Blosum62+F+R5    -36599.154   73790.308 - 2.95e-199   74294.102 - 3.53e-199   75113.665 - 3.52e-199
+Blosum62+F+I+R5  -36599.370   73792.741 - 8.74e-200   74301.396 - 9.2e-201   75120.568 - 1.11e-200
+LG+R5            -36672.855   73899.711 - 5.17e-223   74318.222 - 2.04e-204   75138.122 - 1.72e-204
+LG+I+R5          -36672.247   73900.493 - 3.5e-223   74323.174 - 1.72e-205   75143.375 - 1.24e-205
+LG+R6            -36672.777   73903.553 - 7.57e-224   74330.439 - 4.54e-207   75150.907 - 2.88e-207
+LG+I+R6          -36672.341   73904.683 - 4.3e-224   74335.806 - 3.1e-208   75156.506 - 1.75e-208
+LG+R4            -36688.578   73927.157 - 5.67e-229   74337.427 - 1.38e-208   75156.627 - 1.65e-208
+LG+I+R4          -36687.280   73926.560 - 7.64e-229   74340.934 - 2.39e-209   75160.501 - 2.38e-209
+Q.pfam+R5        -36695.030   73944.060 - 1.21e-232   74362.571 - 4.79e-214   75182.471 - 4.03e-214
+Q.pfam+I+R5      -36694.782   73945.564 - 5.71e-233   74368.245 - 2.8e-215   75188.446 - 2.03e-215
+LG+I+G4          -36724.800   73991.600 - 5.75e-243   74385.782 - 4.36e-219   75203.187 - 1.28e-218
+LG+G4            -36729.908   73999.816 - 9.46e-245   74390.056 - 5.15e-220   75206.932 - 1.96e-219
+LG+I+R3          -36740.574   74029.148 - 4.04e-251   74435.348 - 7.53e-230   75254.147 - 1.1e-229
+mtART+F+R5       -36669.668   73931.336 - 7.01e-230   74435.130 - 8.39e-230   75254.693 - 8.36e-230
+LG+R3            -36746.277   74038.554 - 3.66e-253   74440.715 - 5.14e-231   75259.082 - 9.31e-231
+mtART+F+I+R5     -36669.739   73933.479 - 2.4e-230   74442.134 - 2.53e-231   75261.306 - 3.06e-231
+PMB+F+R5         -36692.311   73976.623 - 1.03e-239   74480.417 - 1.23e-239   75299.980 - 1.23e-239
+PMB+F+I+R5       -36692.623   73979.245 - 2.77e-240   74487.901 - 2.92e-241   75307.073 - 3.53e-241
+Q.plant+F+R5     -36699.557   73991.113 - 7.34e-243   74494.907 - 8.78e-243   75314.470 - 8.74e-243
+Q.plant+F+I+R5   -36699.853   73993.705 - 2.01e-243   74502.360 - 2.11e-244   75321.533 - 2.56e-244
+LG+I+R2          -36864.613   74273.226 - 4.03e-304   74671.381 - 4.19e-281   75489.283 - 9.58e-281
+JTTDCMut+F+R5    -36790.844   74173.688 - 1.66e-282   74677.482 - 1.99e-282   75497.045 - 1.98e-282
+JTTDCMut+F+I+R5  -36790.995   74175.991 - 5.25e-283   74684.646 - 5.52e-284   75503.818 - 6.69e-284
+LG+R2            -36881.647   74305.294 - 4.39e-311   74699.476 - 3.33e-287   75516.880 - 9.75e-287
+JTT+F+R5         -36806.689   74205.378 - 2.18e-289   74709.171 - 2.61e-289   75528.734 - 2.6e-289
+JTT+F+I+R5       -36806.892   74207.785 - 6.55e-290   74716.440 - 6.89e-291   75535.612 - 8.34e-291
+Q.yeast+R5       -36903.448   74360.896 - 3.46e-323   74779.407 - 1.46e-304   75599.307 - 1.23e-304
+Q.yeast+I+R5     -36902.826   74361.652 - 2.47e-323   74784.333 - 1.25e-305   75604.534 - 9.02e-306
+Q.insect+R5      -36909.761   74373.522 -        0   74792.033 - 2.65e-307   75611.933 - 2.23e-307
+Q.insect+I+R5    -36908.922   74373.844 -        0   74796.525 - 2.8e-308   75616.727 - 2.03e-308
+Dayhoff+F+R5     -36879.122   74350.244 - 7.61e-321   74854.037 - 9.11e-321   75673.600 - 9.07e-321
+Dayhoff+F+I+R5   -36878.061   74350.122 - 8.09e-321   74858.777 - 8.55e-322   75677.949 - 1.03e-321
+DCMut+F+R5       -36883.900   74359.800 - 6.42e-323   74863.593 - 7.91e-323   75683.156 - 7.91e-323
+DCMut+F+I+R5     -36882.850   74359.701 - 6.92e-323   74868.356 - 4.94e-324   75687.528 - 9.88e-324
+mtREV+F+R5       -36889.282   74370.564 -        0   74874.357 -        0   75693.920 -        0
+mtREV+F+I+R5     -36889.033   74372.065 -        0   74880.720 -        0   75699.893 -        0
+cpREV+R5         -36996.634   74547.268 -        0   74965.779 -        0   75785.679 -        0
+mtMet+F+R5       -36935.326   74462.652 -        0   74966.446 -        0   75786.009 -        0
+cpREV+I+R5       -36994.361   74544.723 -        0   74967.404 -        0   75787.605 -        0
+mtMet+F+I+R5     -36936.442   74466.885 -        0   74975.540 -        0   75794.712 -        0
+Q.plant+R5       -37060.739   74675.478 -        0   75093.989 -        0   75913.889 -        0
+Q.plant+I+R5     -37059.163   74674.327 -        0   75097.008 -        0   75917.209 -        0
+Blosum62+R5      -37157.038   74868.077 -        0   75286.588 -        0   76106.488 -        0
+Blosum62+I+R5    -37157.235   74870.471 -        0   75293.152 -        0   76113.353 -        0
+PMB+R5           -37191.226   74936.452 -        0   75354.963 -        0   76174.863 -        0
+PMB+I+R5         -37191.127   74938.255 -        0   75360.936 -        0   76181.137 -        0
+WAG+R5           -37195.462   74944.924 -        0   75363.435 -        0   76183.336 -        0
+WAG+I+R5         -37194.019   74944.038 -        0   75366.719 -        0   76186.920 -        0
+mtART+R5         -37213.102   74980.205 -        0   75398.716 -        0   76218.616 -        0
+mtART+I+R5       -37213.314   74982.629 -        0   75405.310 -        0   76225.511 -        0
+rtREV+R5         -37221.523   74997.047 -        0   75415.557 -        0   76235.458 -        0
+rtREV+I+R5       -37221.669   74999.338 -        0   75422.019 -        0   76242.220 -        0
+VT+R5            -37249.262   75052.524 -        0   75471.035 -        0   76290.936 -        0
+VT+I+R5          -37248.926   75053.853 -        0   75476.534 -        0   76296.735 -        0
+JTT+R5           -37351.427   75256.855 -        0   75675.365 -        0   76495.266 -        0
+JTTDCMut+R5      -37352.098   75258.196 -        0   75676.707 -        0   76496.608 -        0
+JTT+I+R5         -37350.438   75256.875 -        0   75679.557 -        0   76499.758 -        0
+JTTDCMut+I+R5    -37351.018   75258.037 -        0   75680.718 -        0   76500.919 -        0
+Q.mammal+F+R5    -37316.545   75225.089 -        0   75728.883 -        0   76548.446 -        0
+Q.mammal+F+I+R5  -37316.997   75227.994 -        0   75736.650 -        0   76555.822 -        0
+FLU+F+R5         -37340.155   75272.309 -        0   75776.103 -        0   76595.666 -        0
+FLU+F+I+R5       -37340.481   75274.963 -        0   75783.618 -        0   76602.790 -        0
+mtInv+R5         -37455.490   75464.980 -        0   75883.491 -        0   76703.392 -        0
+mtInv+I+R5       -37455.924   75467.849 -        0   75890.530 -        0   76710.731 -        0
+mtMet+R5         -37537.122   75628.244 -        0   76046.755 -        0   76866.655 -        0
+mtMet+I+R5       -37537.707   75631.413 -        0   76054.094 -        0   76874.295 -        0
+mtVer+F+R5       -37489.019   75570.038 -        0   76073.832 -        0   76893.395 -        0
+mtVer+F+I+R5     -37489.323   75572.647 -        0   76081.302 -        0   76900.474 -        0
+LG+I             -37598.593   75737.186 -        0   76127.426 -        0   76944.302 -        0
+LG               -37670.640   75879.280 -        0   76265.610 -        0   77081.925 -        0
+Q.bird+F+R5      -37658.613   75909.226 -        0   76413.020 -        0   77232.583 -        0
+Q.bird+F+I+R5    -37659.152   75912.305 -        0   76420.960 -        0   77240.132 -        0
+Dayhoff+I+R5     -37723.105   76002.209 -        0   76424.891 -        0   77245.092 -        0
+Dayhoff+R5       -37726.389   76006.778 -        0   76425.288 -        0   77245.189 -        0
+DCMut+I+R5       -37727.609   76011.217 -        0   76433.898 -        0   77254.099 -        0
+DCMut+R5         -37730.867   76015.735 -        0   76434.245 -        0   77254.146 -        0
+Q.mammal+R5      -37774.112   76102.224 -        0   76520.735 -        0   77340.636 -        0
+Q.mammal+I+R5    -37773.439   76102.878 -        0   76525.559 -        0   77345.760 -        0
+HIVb+F+R5        -37735.619   76063.237 -        0   76567.031 -        0   77386.594 -        0
+HIVb+F+I+R5      -37734.990   76063.979 -        0   76572.634 -        0   77391.807 -        0
+mtREV+R5         -37833.520   76221.041 -        0   76639.552 -        0   77459.452 -        0
+mtREV+I+R5       -37833.479   76222.959 -        0   76645.640 -        0   77465.841 -        0
+mtMAM+F+R5       -37894.284   76380.568 -        0   76884.362 -        0   77703.925 -        0
+mtMAM+F+I+R5     -37892.062   76378.125 -        0   76886.780 -        0   77705.952 -        0
+Q.bird+R5        -37980.713   76515.427 -        0   76933.938 -        0   77753.838 -        0
+Q.bird+I+R5      -37980.048   76516.095 -        0   76938.776 -        0   77758.978 -        0
+FLU+R5           -38104.624   76763.248 -        0   77181.759 -        0   78001.660 -        0
+FLU+I+R5         -38103.203   76762.406 -        0   77185.087 -        0   78005.289 -        0
+mtVer+R5         -38234.845   77023.689 -        0   77442.200 -        0   78262.101 -        0
+mtVer+I+R5       -38235.372   77026.743 -        0   77449.424 -        0   78269.625 -        0
+HIVb+R5          -38444.571   77443.143 -        0   77861.654 -        0   78681.554 -        0
+HIVb+I+R5        -38442.324   77440.648 -        0   77863.329 -        0   78683.530 -        0
+FLAVI+F+R5       -38439.539   77471.078 -        0   77974.871 -        0   78794.434 -        0
+FLAVI+F+I+R5     -38439.607   77473.214 -        0   77981.869 -        0   78801.042 -        0
+FLAVI+R5         -38658.460   77870.921 -        0   78289.432 -        0   79109.332 -        0
+FLAVI+I+R5       -38657.325   77870.650 -        0   78293.331 -        0   79113.532 -        0
+mtMAM+R5         -38693.667   77941.334 -        0   78359.845 -        0   79179.746 -        0
+mtMAM+I+R5       -38693.619   77943.239 -        0   78365.920 -        0   79186.121 -        0
+HIVw+F+R5        -39076.298   78744.596 -        0   79248.389 -        0   80067.952 -        0
+HIVw+F+I+R5      -39075.990   78745.980 -        0   79254.635 -        0   80073.808 -        0
+HIVw+R5          -40274.204   81102.407 -        0   81520.918 -        0   82340.819 -        0
+HIVw+I+R5        -40271.490   81098.979 -        0   81521.661 -        0   82341.862 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: LG+F+R5
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.1293
+  pi(R) = 0.0228
+  pi(N) = 0.0192
+  pi(D) = 0.0298
+  pi(C) = 0.0062
+  pi(Q) = 0.0122
+  pi(E) = 0.0213
+  pi(G) = 0.1260
+  pi(H) = 0.0211
+  pi(I) = 0.0973
+  pi(L) = 0.1014
+  pi(K) = 0.0230
+  pi(M) = 0.0356
+  pi(F) = 0.0590
+  pi(P) = 0.0282
+  pi(S) = 0.0624
+  pi(T) = 0.0588
+  pi(W) = 0.0344
+  pi(Y) = 0.0176
+  pi(V) = 0.0945
+
+Model of rate heterogeneity: FreeRate with 5 categories
+Site proportion and rates:  (0.1119,0.1225) (0.2600,0.4459) (0.2923,0.8663) (0.2855,1.5362) (0.0504,3.5460)
+
+ Category  Relative_rate  Proportion
+  1         0.1225         0.1119
+  2         0.4459         0.2600
+  3         0.8663         0.2923
+  4         1.5362         0.2855
+  5         3.5460         0.0504
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -36083.5994 (s.e. 902.2667)
+Unconstrained log-likelihood (without tree): -4177.3639
+Number of free parameters (#branches + #model parameters): 296
+Akaike information criterion (AIC) score: 72759.1988
+Corrected Akaike information criterion (AICc) score: 73262.9925
+Bayesian information criterion (BIC) score: 74082.5555
+
+Total tree length (sum of branch lengths): 34.9194
+Sum of internal branch lengths: 14.4843 (41.4792% of tree length)
+
+WARNING: 5 near-zero internal branches (<0.0015) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'EGM_Bin1_000000001706_1' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--EGM_Bin1_000000001706_1
+|
+|                          +--EGM_Bin2_000000000652_2
+|                       +--| (56)
+|                       |  +--Candidatus_Nitrosopumilus_sp_MTA1-contig3_20
+|                    +--| (98)
+|                    |  +--HM81_Bin2_000000000762_1
+|                 +--| (50)
+|                 |  |           +--SB_Bin2_000000000206_4
+|                 |  |        +--| (93)
+|                 |  |        |  |        +--Nitrosomarinus_catalina_strain_SPOT01-contig1_1575
+|                 |  |        |  |     +--| (100)
+|                 |  |        |  |     |  +**Nitrosopumilus_sp_Nsub-contig21_15
+|                 |  |        |  |  +--| (100)
+|                 |  |        |  |  |  +--Nitrosopumilus_maritimus_SCM1-contig1_1840
+|                 |  |        |  +--| (95)
+|                 |  |        |     |        +**Nitrosopumilus_adriaticus_strain_NF5-contig1_180
+|                 |  |        |     |     +--| (97)
+|                 |  |        |     |     |  +--Nitrosopumilus_sp_DDS1-contig1095_1
+|                 |  |        |     |  +**| (88)
+|                 |  |        |     |  |  |  +**Nitrosopumilus_koreensis_AR1-contig1_1859
+|                 |  |        |     |  |  +**| (64)
+|                 |  |        |     |  |     +**Nitrosopumilus_sp_DDS1-contig1096_1
+|                 |  |        |     +--| (96)
+|                 |  |        |        +--Nitrosopumilus_sp_D3C-contig1_83
+|                 |  |     +--| (94)
+|                 |  |     |  |     +--Nitrosarchaeum_koreense_MY1-contig1_1724
+|                 |  |     |  |  +--| (98)
+|                 |  |     |  |  |  |  +**Nitrosarchaeum_limnium_BG20-contig10_38
+|                 |  |     |  |  |  +--| (98)
+|                 |  |     |  |  |     +**Nitrosarchaeum_limnium_SFB1-contig50_23
+|                 |  |     |  +--| (96)
+|                 |  |     |     +--Nitrosopumilus_salaria_BD31-contig75_57
+|                 |  |  +--| (93)
+|                 |  |  |  |  +--Nitrosoarchaeum-Baikal-G1-C1-contig8_85
+|                 |  |  |  +--| (100)
+|                 |  |  |     +--Nitrosoarchaeum_sp_BD3-contig3_137
+|                 |  +--| (95)
+|                 |     |        +--Nitrosotenuis_aquarius_strain_AQ6F-contig1_1578
+|                 |     |     +--| (100)
+|                 |     |     |  +--Nitrosotenuis_cloacae_strain_SAT1-contig1_1760
+|                 |     |  +--| (96)
+|                 |     |  |  +--Nitrosotenuis_chungbukensis_MY2-contig9_151
+|                 |     +--| (100)
+|                 |        +--Thaumarchaeota_archaeon_N4-contig11_254
+|              +--| (87)
+|              |  |                                                     +--F_Bin1_000000001998_1
+|              |  |                                               +-----| (100)
+|              |  |                                               |     +--Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723171
+|              |  |                                            +--| (42)
+|              |  |                                            |  |                           +---------Macaca_mulatta_gi2500177
+|              |  |                                            |  |  +------------------------| (100)
+|              |  |                                            |  |  |                        +-----Homo_sapiens_gi218511807
+|              |  |                                            |  +--| (49)
+|              |  |                                            |     |   +--------Methanocaldococcus_jannaschii_DSM_2661_gi2492880
+|              |  |                                            |     +---| (100)
+|              |  |                                            |         +---Methanocaldococcus_jannaschii_DSM_2661_gi2492881
+|              |  |                                         +--| (41)
+|              |  |                                         |  |  +-------F_Bin1_000000000877_1
+|              |  |                                         |  +--| (97)
+|              |  |                                         |     +--Archaeoglobus_fulgidus_DSM_4304_gi74512113
+|              |  |                                      +--| (32)
+|              |  |                                      |  |  +----Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723099
+|              |  |                                      |  +--| (81)
+|              |  |                                      |     |         +------Caenorhabditis_elegans_gi387912916
+|              |  |                                      |     +---------| (100)
+|              |  |                                      |               +---Caenorhabditis_elegans_gi29840851
+|              |  |                                   +--| (93)
+|              |  |                                   |  |             +--Arabidopsis_thaliana_gi1703292
+|              |  |                                   |  |     +-------| (100)
+|              |  |                                   |  |     |       +--Oryza_sativa_Japonica_Group_gi75143828
+|              |  |                                   |  |  +--| (97)
+|              |  |                                   |  |  |  +-----------Caenorhabditis_elegans_gi1703293
+|              |  |                                   |  +--| (88)
+|              |  |                                   |     +-----Synechocystis_sp._PCC_6803_substr._Kazusa_gi3024960
+|              |  |                                +--| (99)
+|              |  |                                |  +-----Thaumarchaeota_archaeon_RBG_16_49_8-contig81_1
+|              |  |                             +--| (98)
+|              |  |                             |  +------------------Thaumarchaeota_archaeon_strain_DS1-contig21_7
+|              |  |                          +--| (99)
+|              |  |                          |  |    +**Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1628
+|              |  |                          |  +----| (100)
+|              |  |                          |       +**Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_241
+|              |  |                       +--| (100)
+|              |  |                       |  |                                +--HM79_Bin1_000000000035_1
+|              |  |                       |  |                             +--| (96)
+|              |  |                       |  |                             |  +--XS87_Bin1_000000000258_1
+|              |  |                       |  |                          +--| (95)
+|              |  |                       |  |                          |  +**Nitrosopumilus_adriaticus_strain_NF5-contig1_1561
+|              |  |                       |  |                       +--| (96)
+|              |  |                       |  |                       |  +**Nitrosopumilus_sp_DDS1-contig651_6
+|              |  |                       |  |                    +--| (88)
+|              |  |                       |  |                    |  +--Nitrosopumilus_salaria_BD31-contig166_1
+|              |  |                       |  |                 +--| (92)
+|              |  |                       |  |                 |  |     +--Nitrosopumilus_koreensis_AR1-contig1_636
+|              |  |                       |  |                 |  |  +--| (85)
+|              |  |                       |  |                 |  |  |  +--Nitrosopumilus_maritimus_SCM1-contig1_627
+|              |  |                       |  |                 |  +--| (96)
+|              |  |                       |  |                 |     +--Nitrosopumilus_sp_D3C-contig1_1389
+|              |  |                       |  |              +--| (100)
+|              |  |                       |  |              |  |     +--Nitrosomarinus_catalina_strain_SPOT01-contig1_1183
+|              |  |                       |  |              |  |  +--| (100)
+|              |  |                       |  |              |  |  |  +--Nitrosopumilus_sp_Nsub-contig8_97
+|              |  |                       |  |              |  +--| (100)
+|              |  |                       |  |              |     |  +**Nitrosopelagicus_brevis_strain_CN25-contig1_1322
+|              |  |                       |  |              |     +--| (100)
+|              |  |                       |  |              |        +--Nitrosopelagicus_brevis_U25-contig33_1
+|              |  |                       |  |           +--| (97)
+|              |  |                       |  |           |  |     +--Nitrosarchaeum_koreense_MY1-contig1_1864
+|              |  |                       |  |           |  |  +--| (99)
+|              |  |                       |  |           |  |  |  +--Nitrosoarchaeum_sp_BD3-contig6_21
+|              |  |                       |  |           |  +--| (100)
+|              |  |                       |  |           |     |  +**Nitrosarchaeum_limnium_BG20-contig169_29
+|              |  |                       |  |           |     +--| (100)
+|              |  |                       |  |           |        +**Nitrosarchaeum_limnium_SFB1-contig51_25
+|              |  |                       |  |        +--| (93)
+|              |  |                       |  |        |  |        +--Nitrosotenuis_aquarius_strain_AQ6F-contig1_1743
+|              |  |                       |  |        |  |     +--| (100)
+|              |  |                       |  |        |  |     |  +--Nitrosotenuis_cloacae_strain_SAT1-contig1_1591
+|              |  |                       |  |        |  |  +--| (100)
+|              |  |                       |  |        |  |  |  +--Nitrosotenuis_chungbukensis_MY2-contig12_116
+|              |  |                       |  |        |  +--| (100)
+|              |  |                       |  |        |     +--Thaumarchaeota_archaeon_N4-contig9_506
+|              |  |                       |  |     +--| (84)
+|              |  |                       |  |     |  |        +--Nitrosotalea_devanaterra_Nd1-contig1_1096
+|              |  |                       |  |     |  |     +--| (100)
+|              |  |                       |  |     |  |     |  +--Nitrosotalea_koreensis_CS-contig1_488
+|              |  |                       |  |     |  |  +--| (100)
+|              |  |                       |  |     |  |  |  +--Nitrosotalea_sinensis_Nd2-contig4_138
+|              |  |                       |  |     |  +--| (96)
+|              |  |                       |  |     |     |     +--Nitrosotalea_devanaterra_Nd1-contig1_1328
+|              |  |                       |  |     |     |  +--| (100)
+|              |  |                       |  |     |     |  |  +--Nitrosotalea_koreensis_CS-contig1_282
+|              |  |                       |  |     |     +--| (100)
+|              |  |                       |  |     |        +--Nitrosotalea_sinensis_Nd2-contig3_795
+|              |  |                       |  |  +--| (100)
+|              |  |                       |  |  |  |  +--HM82_Bin1_000000000591_2
+|              |  |                       |  |  |  +--| (100)
+|              |  |                       |  |  |     +--SB_Bin1_000000000751_1
+|              |  |                       |  +--| (100)
+|              |  |                       |     |        +--Candidatus_Nitrosocosmicus_franklandus_C13-contig1_1310
+|              |  |                       |     |     +--| (100)
+|              |  |                       |     |     |  +--Nitrosocosmicus_hydrocola_strain_G61-contig1_504
+|              |  |                       |     |  +--| (100)
+|              |  |                       |     |  |  +--Nitrosocosmicus_oleophilus_strain_MY3-contig1_434
+|              |  |                       |     +--| (100)
+|              |  |                       |        |     +--Nitrososphaera_evergladensis_SR1-contig1_3137
+|              |  |                       |        |  +--| (100)
+|              |  |                       |        |  |  +--Nitrososphaera_viennensis_EN76-contig1_2378
+|              |  |                       |        +--| (100)
+|              |  |                       |           +--Nitrososphaera_gargensis_Ga9-contig1_3176
+|              |  |                    +--| (52)
+|              |  |                    |  +--Thaumarchaeota_archaeon_UBA141-contig2_6
+|              |  |                 +--| (25)
+|              |  |                 |  |     +--Thaumarchaeota_archaeon_UBA183-contig57_13
+|              |  |                 |  |  +--| (100)
+|              |  |                 |  |  |  +--Thaumarchaeota_bin_Fn1-contig2_110
+|              |  |                 |  +--| (93)
+|              |  |                 |     |      +----Saccharomyces_cerevisiae_gi974994519
+|              |  |                 |     +------| (100)
+|              |  |                 |            +-------Saccharomyces_cerevisiae_S288C_gi730015
+|              |  |              +--| (96)
+|              |  |              |  |     +--F_Bin1_000000000675_1
+|              |  |              |  |  +--| (100)
+|              |  |              |  |  |  +--XS87_Bin1_000000001988_2
+|              |  |              |  +--| (87)
+|              |  |              |     |        +-----F_Bin1_000000001013_3
+|              |  |              |     |     +--| (99)
+|              |  |              |     |     |  +--Bacillus_subtilis_subsp._subtilis_str._168_gi585576
+|              |  |              |     |  +--| (87)
+|              |  |              |     |  |  +-------Escherichia_coli_gi119390552
+|              |  |              |     +--| (54)
+|              |  |              |        |        +-------Corynebacterium_glutamicum_ATCC_13032_gi1703295
+|              |  |              |        |     +--| (98)
+|              |  |              |        |     |  +---Mycobacterium_tuberculosis_H37Rv_gi613779825
+|              |  |              |        |  +--| (89)
+|              |  |              |        |  |  |  +--Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334419
+|              |  |              |        |  |  +--| (100)
+|              |  |              |        |  |     +--Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334420
+|              |  |              |        +--| (48)
+|              |  |              |           |  +--Archaeoglobus_fulgidus_gi82407980
+|              |  |              |           +--| (100)
+|              |  |              |              +--Archaeoglobus_fulgidus_DSM_4304_gi74512110
+|              |  |           +--| (94)
+|              |  |           |  +---------Acidianus_hospitalis_W1-contig1_1522
+|              |  |        +--| (84)
+|              |  |        |  |     +-----F_Bin1_000000000783_3
+|              |  |        |  |  +--| (77)
+|              |  |        |  |  |  |              +--Nitrososphaera_evergladensis_SR1-contig1_1550
+|              |  |        |  |  |  |           +--| (98)
+|              |  |        |  |  |  |           |  +--Nitrososphaera_evergladensis_SR1-contig1_3318
+|              |  |        |  |  |  |        +--| (100)
+|              |  |        |  |  |  |        |  +--Nitrososphaera_viennensis_EN76-contig1_2208
+|              |  |        |  |  |  |     +--| (100)
+|              |  |        |  |  |  |     |  +--Nitrososphaera_viennensis_EN76-contig1_241
+|              |  |        |  |  |  |  +--| (83)
+|              |  |        |  |  |  |  |  +--Nitrososphaera_gargensis_Ga9-contig1_1474
+|              |  |        |  |  |  +--| (81)
+|              |  |        |  |  |     +--Nitrososphaera_gargensis_Ga9-contig1_3508
+|              |  |        |  +--| (69)
+|              |  |        |     |     +**Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_657
+|              |  |        |     |  +--| (100)
+|              |  |        |     |  |  +**Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_1209
+|              |  |        |     +--| (100)
+|              |  |        |        |  +--Nitrosotalea_bavarica_SbT1-contig8_45
+|              |  |        |        +--| (100)
+|              |  |        |           |     +--Nitrosotalea_devanaterra_Nd1-contig1_1756
+|              |  |        |           |  +--| (100)
+|              |  |        |           |  |  +**Nitrosotalea_koreensis_CS-contig1_1454
+|              |  |        |           +--| (100)
+|              |  |        |              +--Nitrosotalea_sinensis_Nd2-contig3_399
+|              |  |     +--| (72)
+|              |  |     |  |  +**Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1665
+|              |  |     |  +--| (100)
+|              |  |     |     +**Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_204
+|              |  |  +--| (92)
+|              |  |  |  +--Thaumarchaeota_archaeon_isolate_MTA5-contig31_10
+|              |  +--| (43)
+|              |     |        +--AAA007-N19-contig8_21
+|              |     |     +--| (100)
+|              |     |     |  +**Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig16_20
+|              |     |  +--| (100)
+|              |     |  |  +**Marine_Group_1_crenarchaeote_sp_SCGC-contig2_84
+|              |     +--| (52)
+|              |        |        +--Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_5
+|              |        |     +--| (100)
+|              |        |     |  +**Nitrosopelagicus_sp_REDSEA-S31_B2-contig60_2
+|              |        |  +**| (99)
+|              |        |  |  +--Nitrosopelagicus_brevis_strain_CN25-contig1_1350
+|              |        +--| (100)
+|              |           +--Nitrosopelagicus_brevis_U25-contig8_2
+|           +--| (58)
+|           |  +--Thaumarchaeota_archaeon_CSP1-1_contig7_18
+|        +--| (78)
+|        |  |        +--HM45_Bin1_000000000750_1
+|        |  |     +--| (96)
+|        |  |     |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig66_1
+|        |  |  +--| (86)
+|        |  |  |  |     +**Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig43_6
+|        |  |  |  |  +--| (100)
+|        |  |  |  |  |  +**Thaumarchaeota_YK1309_1N_NP_iota-contig174_12
+|        |  |  |  +--| (76)
+|        |  |  |     |     +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig12_10
+|        |  |  |     |  +--| (100)
+|        |  |  |     |  |  +**Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5-contig90_3
+|        |  |  |     +--| (100)
+|        |  |  |        +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig131_2
+|        |  +--| (51)
+|        |     |     +**XS83_Bin1_000000000441_4
+|        |     |  +**| (61)
+|        |     |  |  +**XS83_Bin2_000000000424_4
+|        |     +--| (84)
+|        |        |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig83_2
+|        |        +--| (100)
+|        |           +**YK1312_12N_NP_theta-contig204_2
+|     +--| (71)
+|     |  |     +**XS83_Bin2_000000000078_1
+|     |  |  +--| (75)
+|     |  |  |  |  +**Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig4_1
+|     |  |  |  +--| (98)
+|     |  |  |     +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig62_2
+|     |  +--| (98)
+|     |     +--XS87_Bin2_000000000050_3
+|  +--| (87)
+|  |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2-contig62_2
++**| (69)
+|  |  +--HM81_Bin1_000000000109_11
+|  +--| (84)
+|     +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig76_1
+|
++**EGM_Bin2_000000001153_1
+
+Tree in newick format:
+
+(EGM_Bin1_000000001706_1:0.0035227297,(((((((((EGM_Bin2_000000000652_2:0.0195608298,Candidatus_Nitrosopumilus_sp_MTA1-contig3_20:0.0361150292)56:0.0088826243,HM81_Bin2_000000000762_1:0.0268805729)98:0.0450935968,((((SB_Bin2_000000000206_4:0.0455185273,(((Nitrosomarinus_catalina_strain_SPOT01-contig1_1575:0.0093546039,Nitrosopumilus_sp_Nsub-contig21_15:0.0000021217)100:0.0159991725,Nitrosopumilus_maritimus_SCM1-contig1_1840:0.0220672705)100:0.0169799850,(((Nitrosopumilus_adriaticus_strain_NF5-contig1_180:0.0000027932,Nitrosopumilus_sp_DDS1-contig1095_1:0.0186652335)97:0.0108033410,(Nitrosopumilus_koreensis_AR1-contig1_1859:0.0014995463,Nitrosopumilus_sp_DDS1-contig1096_1:0.0000010129)64:0.0000480217)88:0.0005084077,Nitrosopumilus_sp_D3C-contig1_83:0.0308086640)96:0.0048518237)95:0.0111048085)93:0.0150420421,((Nitrosarchaeum_koreense_MY1-contig1_1724:0.0190588279,(Nitrosarchaeum_limnium_BG20-contig10_38:0.0000010129,Nitrosarchaeum_limnium_SFB1-contig50_23:0.0015209638)98:0.0101395702)98:0.0137752390,Nitrosopumilus_salaria_BD31-contig75_57:0.0229295173)96:0.0089422173)94:0.0202446809,(Nitrosoarchaeum-Baikal-G1-C1-contig8_85:0.0229973309,Nitrosoarchaeum_sp_BD3-contig3_137:0.0111797345)100:0.0350595385)93:0.0082724765,(((Nitrosotenuis_aquarius_strain_AQ6F-contig1_1578:0.0182760573,Nitrosotenuis_cloacae_strain_SAT1-contig1_1760:0.0168942096)100:0.0238861704,Nitrosotenuis_chungbukensis_MY2-contig9_151:0.0321244968)96:0.0145081766,Thaumarchaeota_archaeon_N4-contig11_254:0.0487199966)100:0.0434556105)95:0.0180606722)50:0.0201646492,(((((((((((((((((F_Bin1_000000001998_1:0.3221286601,Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723171:0.3510584614)100:0.5851500210,((Macaca_mulatta_gi2500177:0.9968448382,Homo_sapiens_gi218511807:0.5814099037)100:2.3611939480,(Methanocaldococcus_jannaschii_DSM_2661_gi2492880:0.8356334282,Methanocaldococcus_jannaschii_DSM_2661_gi2492881:0.4498073742)100:0.4480498985)49:0.1513706558)42:0.0489318103,(F_Bin1_000000000877_1:0.7456487153,Archaeoglobus_fulgidus_DSM_4304_gi74512113:0.3104655744)97:0.1693149817)41:0.1164529038,(Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723099:0.4830519947,(Caenorhabditis_elegans_gi387912916:0.7265491398,Caenorhabditis_elegans_gi29840851:0.4369046529)100:0.9325035915)81:0.1665822561)32:0.0440499345,(((Arabidopsis_thaliana_gi1703292:0.1156967782,Oryza_sativa_Japonica_Group_gi75143828:0.1058745441)100:0.7413218404,Caenorhabditis_elegans_gi1703293:1.1325708083)97:0.2844576150,Synechocystis_sp._PCC_6803_substr._Kazusa_gi3024960:0.6339356038)88:0.1148191597)93:0.2013177984,Thaumarchaeota_archaeon_RBG_16_49_8-contig81_1:0.5834657177)99:0.3602054844,Thaumarchaeota_archaeon_strain_DS1-contig21_7:1.7880029443)98:0.2658481411,(Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1628:0.0000010129,Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_241:0.0000010129)100:0.5097367103)99:0.1916975353,(((((((((((HM79_Bin1_000000000035_1:0.0051187376,XS87_Bin1_000000000258_1:0.0476150411)96:0.0158486179,Nitrosopumilus_adriaticus_strain_NF5-contig1_1561:0.0000026537)95:0.0045239983,Nitrosopumilus_sp_DDS1-contig651_6:0.0000025111)96:0.0148277610,Nitrosopumilus_salaria_BD31-contig166_1:0.0065818922)88:0.0090842053,((Nitrosopumilus_koreensis_AR1-contig1_636:0.0091647831,Nitrosopumilus_maritimus_SCM1-contig1_627:0.0243145581)85:0.0060063084,Nitrosopumilus_sp_D3C-contig1_1389:0.0018339407)96:0.0181750305)92:0.0214956243,((Nitrosomarinus_catalina_strain_SPOT01-contig1_1183:0.0176046972,Nitrosopumilus_sp_Nsub-contig8_97:0.0079533309)100:0.0490370753,(Nitrosopelagicus_brevis_strain_CN25-contig1_1322:0.0000024962,Nitrosopelagicus_brevis_U25-contig33_1:0.0069367256)100:0.1247493061)100:0.0642328886)100:0.0568803448,((Nitrosarchaeum_koreense_MY1-contig1_1864:0.0058161569,Nitrosoarchaeum_sp_BD3-contig6_21:0.0433657201)99:0.0129010428,(Nitrosarchaeum_limnium_BG20-contig169_29:0.0000010129,Nitrosarchaeum_limnium_SFB1-contig51_25:0.0000010129)100:0.0061848977)100:0.0581136069)97:0.0339218229,(((Nitrosotenuis_aquarius_strain_AQ6F-contig1_1743:0.0070025297,Nitrosotenuis_cloacae_strain_SAT1-contig1_1591:0.0067496824)100:0.0194746421,Nitrosotenuis_chungbukensis_MY2-contig12_116:0.0301211290)100:0.0367309269,Thaumarchaeota_archaeon_N4-contig9_506:0.0207178274)100:0.0690727912)93:0.0401615936,(((Nitrosotalea_devanaterra_Nd1-contig1_1096:0.0062692008,Nitrosotalea_koreensis_CS-contig1_488:0.0061007841)100:0.0118928014,Nitrosotalea_sinensis_Nd2-contig4_138:0.0163874585)100:0.0583664989,((Nitrosotalea_devanaterra_Nd1-contig1_1328:0.0031271973,Nitrosotalea_koreensis_CS-contig1_282:0.0282252264)100:0.0063279897,Nitrosotalea_sinensis_Nd2-contig3_795:0.0309143923)100:0.2470830178)96:0.0431479633)84:0.0511618235,(HM82_Bin1_000000000591_2:0.0481474552,SB_Bin1_000000000751_1:0.0288647296)100:0.2649724375)100:0.1344305903,(((Candidatus_Nitrosocosmicus_franklandus_C13-contig1_1310:0.0429677267,Nitrosocosmicus_hydrocola_strain_G61-contig1_504:0.0399062082)100:0.0931396638,Nitrosocosmicus_oleophilus_strain_MY3-contig1_434:0.0385378512)100:0.1542850096,((Nitrososphaera_evergladensis_SR1-contig1_3137:0.0026334448,Nitrososphaera_viennensis_EN76-contig1_2378:0.0098850499)100:0.0305727276,Nitrososphaera_gargensis_Ga9-contig1_3176:0.0619960356)100:0.0511062114)100:0.1472956924)100:0.2690909088)100:0.1632019856,Thaumarchaeota_archaeon_UBA141-contig2_6:0.3626859021)52:0.0437675576,((Thaumarchaeota_archaeon_UBA183-contig57_13:0.1272621782,Thaumarchaeota_bin_Fn1-contig2_110:0.1256869540)100:0.2930690117,(Saccharomyces_cerevisiae_gi974994519:0.5327070844,Saccharomyces_cerevisiae_S288C_gi730015:0.7589417135)100:0.7101570573)93:0.1202124731)25:0.0061300090,((F_Bin1_000000000675_1:0.1755425184,XS87_Bin1_000000001988_2:0.1027660517)100:0.2206023627,(((F_Bin1_000000001013_3:0.6088346954,Bacillus_subtilis_subsp._subtilis_str._168_gi585576:0.1928100617)99:0.1929429221,Escherichia_coli_gi119390552:0.7403773775)87:0.0983016518,(((Corynebacterium_glutamicum_ATCC_13032_gi1703295:0.8034887592,Mycobacterium_tuberculosis_H37Rv_gi613779825:0.4509486612)98:0.2474811245,(Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334419:0.2891381476,Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334420:0.1669735291)100:0.2087861707)89:0.0513677771,(Archaeoglobus_fulgidus_gi82407980:0.3524711624,Archaeoglobus_fulgidus_DSM_4304_gi74512110:0.1874272094)100:0.2980010419)48:0.0511756506)54:0.0705573951)87:0.1551437494)96:0.1136033108,Acidianus_hospitalis_W1-contig1_1522:0.9770088582)94:0.1273531031,((F_Bin1_000000000783_3:0.6186218130,(((((Nitrososphaera_evergladensis_SR1-contig1_1550:0.0327452327,Nitrososphaera_evergladensis_SR1-contig1_3318:0.0162324115)98:0.0072867779,Nitrososphaera_viennensis_EN76-contig1_2208:0.0451241202)100:0.0192921822,Nitrososphaera_viennensis_EN76-contig1_241:0.0203234186)100:0.0453274231,Nitrososphaera_gargensis_Ga9-contig1_1474:0.0146644000)83:0.0334427366,Nitrososphaera_gargensis_Ga9-contig1_3508:0.0444337938)81:0.0962509180)77:0.1008452994,((Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_657:0.0000023080,Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_1209:0.0000022968)100:0.0628912562,(Nitrosotalea_bavarica_SbT1-contig8_45:0.0098829389,((Nitrosotalea_devanaterra_Nd1-contig1_1756:0.0046239655,Nitrosotalea_koreensis_CS-contig1_1454:0.0000010129)100:0.0030110386,Nitrosotalea_sinensis_Nd2-contig3_399:0.0078164740)100:0.0202937235)100:0.1721124585)100:0.3120174430)69:0.0529315659)84:0.0791443715,(Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1665:0.0000010129,Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_204:0.0000010129)100:0.1139353073)72:0.0327300348,Thaumarchaeota_archaeon_isolate_MTA5-contig31_10:0.1043736199)92:0.0896559004,(((AAA007-N19-contig8_21:0.0015635194,Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig16_20:0.0000023611)100:0.0037150159,Marine_Group_1_crenarchaeote_sp_SCGC-contig2_84:0.0009906859)100:0.0673286302,(((Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_5:0.0023033589,Nitrosopelagicus_sp_REDSEA-S31_B2-contig60_2:0.0000028597)100:0.0140412694,Nitrosopelagicus_brevis_strain_CN25-contig1_1350:0.0031302428)99:0.0012141261,Nitrosopelagicus_brevis_U25-contig8_2:0.0049011529)100:0.0563817496)52:0.0163622095)43:0.0103778346)87:0.0271098332,Thaumarchaeota_archaeon_CSP1-1_contig7_18:0.0488454914)58:0.0172866187,(((HM45_Bin1_000000000750_1:0.0102850963,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig66_1:0.0045168832)96:0.0194553264,((Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig43_6:0.0000021422,Thaumarchaeota_YK1309_1N_NP_iota-contig174_12:0.0000010129)100:0.0462194934,((Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig12_10:0.0142985984,Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5-contig90_3:0.0014207372)100:0.0174790906,Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig131_2:0.0303809655)100:0.0269838696)76:0.0138624475)86:0.0193189030,((XS83_Bin1_000000000441_4:0.0000010129,XS83_Bin2_000000000424_4:0.0000010129)61:0.0000022592,(Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig83_2:0.0078523490,YK1312_12N_NP_theta-contig204_2:0.0000028248)100:0.0617884355)84:0.0424285360)51:0.0106485257)78:0.0137274390,((XS83_Bin2_000000000078_1:0.0000029815,(Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig4_1:0.0000022614,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig62_2:0.0128446009)98:0.0193040505)75:0.0080274754,XS87_Bin2_000000000050_3:0.0097292182)98:0.0227891346)71:0.0081449621,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2-contig62_2:0.0260044341)87:0.0104121893,(HM81_Bin1_000000000109_11:0.0073459218,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig76_1:0.0139461565)84:0.0027936479)69:0.0000916780,EGM_Bin2_000000001153_1:0.0000010129);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -36083.605987
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--EGM_Bin1_000000001706_1
+|
+|                          +--EGM_Bin2_000000000652_2
+|                       +--| (56)
+|                       |  +--Candidatus_Nitrosopumilus_sp_MTA1-contig3_20
+|                    +--| (98)
+|                    |  +--HM81_Bin2_000000000762_1
+|                 +--| (50)
+|                 |  |           +--SB_Bin2_000000000206_4
+|                 |  |        +--| (93)
+|                 |  |        |  |        +--Nitrosomarinus_catalina_strain_SPOT01-contig1_1575
+|                 |  |        |  |     +--| (100)
+|                 |  |        |  |     |  +--Nitrosopumilus_sp_Nsub-contig21_15
+|                 |  |        |  |  +--| (100)
+|                 |  |        |  |  |  +--Nitrosopumilus_maritimus_SCM1-contig1_1840
+|                 |  |        |  +--| (95)
+|                 |  |        |     |        +--Nitrosopumilus_adriaticus_strain_NF5-contig1_180
+|                 |  |        |     |     +--| (97)
+|                 |  |        |     |     |  +--Nitrosopumilus_sp_DDS1-contig1095_1
+|                 |  |        |     |  +--| (88)
+|                 |  |        |     |  |  |  +--Nitrosopumilus_koreensis_AR1-contig1_1859
+|                 |  |        |     |  |  +--| (64)
+|                 |  |        |     |  |     +--Nitrosopumilus_sp_DDS1-contig1096_1
+|                 |  |        |     +--| (96)
+|                 |  |        |        +--Nitrosopumilus_sp_D3C-contig1_83
+|                 |  |     +--| (94)
+|                 |  |     |  |     +--Nitrosarchaeum_koreense_MY1-contig1_1724
+|                 |  |     |  |  +--| (98)
+|                 |  |     |  |  |  |  +--Nitrosarchaeum_limnium_BG20-contig10_38
+|                 |  |     |  |  |  +--| (98)
+|                 |  |     |  |  |     +--Nitrosarchaeum_limnium_SFB1-contig50_23
+|                 |  |     |  +--| (96)
+|                 |  |     |     +--Nitrosopumilus_salaria_BD31-contig75_57
+|                 |  |  +--| (93)
+|                 |  |  |  |  +--Nitrosoarchaeum-Baikal-G1-C1-contig8_85
+|                 |  |  |  +--| (100)
+|                 |  |  |     +--Nitrosoarchaeum_sp_BD3-contig3_137
+|                 |  +--| (95)
+|                 |     |        +--Nitrosotenuis_aquarius_strain_AQ6F-contig1_1578
+|                 |     |     +--| (100)
+|                 |     |     |  +--Nitrosotenuis_cloacae_strain_SAT1-contig1_1760
+|                 |     |  +--| (96)
+|                 |     |  |  +--Nitrosotenuis_chungbukensis_MY2-contig9_151
+|                 |     +--| (100)
+|                 |        +--Thaumarchaeota_archaeon_N4-contig11_254
+|              +--| (87)
+|              |  |                                                     +--F_Bin1_000000001998_1
+|              |  |                                               +-----| (100)
+|              |  |                                               |     +--Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723171
+|              |  |                                            +--| (42)
+|              |  |                                            |  |                           +---------Macaca_mulatta_gi2500177
+|              |  |                                            |  |  +------------------------| (100)
+|              |  |                                            |  |  |                        +-----Homo_sapiens_gi218511807
+|              |  |                                            |  +--| (49)
+|              |  |                                            |     |   +--------Methanocaldococcus_jannaschii_DSM_2661_gi2492880
+|              |  |                                            |     +---| (100)
+|              |  |                                            |         +---Methanocaldococcus_jannaschii_DSM_2661_gi2492881
+|              |  |                                         +--| (41)
+|              |  |                                         |  |  +-------F_Bin1_000000000877_1
+|              |  |                                         |  +--| (97)
+|              |  |                                         |     +--Archaeoglobus_fulgidus_DSM_4304_gi74512113
+|              |  |                                      +--| (32)
+|              |  |                                      |  |  +----Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723099
+|              |  |                                      |  +--| (81)
+|              |  |                                      |     |         +------Caenorhabditis_elegans_gi387912916
+|              |  |                                      |     +---------| (100)
+|              |  |                                      |               +---Caenorhabditis_elegans_gi29840851
+|              |  |                                   +--| (93)
+|              |  |                                   |  |             +--Arabidopsis_thaliana_gi1703292
+|              |  |                                   |  |     +-------| (100)
+|              |  |                                   |  |     |       +--Oryza_sativa_Japonica_Group_gi75143828
+|              |  |                                   |  |  +--| (97)
+|              |  |                                   |  |  |  +-----------Caenorhabditis_elegans_gi1703293
+|              |  |                                   |  +--| (88)
+|              |  |                                   |     +-----Synechocystis_sp._PCC_6803_substr._Kazusa_gi3024960
+|              |  |                                +--| (99)
+|              |  |                                |  +-----Thaumarchaeota_archaeon_RBG_16_49_8-contig81_1
+|              |  |                             +--| (98)
+|              |  |                             |  +------------------Thaumarchaeota_archaeon_strain_DS1-contig21_7
+|              |  |                          +--| (99)
+|              |  |                          |  |    +--Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1628
+|              |  |                          |  +----| (100)
+|              |  |                          |       +--Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_241
+|              |  |                       +--| (100)
+|              |  |                       |  |                                +--HM79_Bin1_000000000035_1
+|              |  |                       |  |                             +--| (96)
+|              |  |                       |  |                             |  +--XS87_Bin1_000000000258_1
+|              |  |                       |  |                          +--| (95)
+|              |  |                       |  |                          |  +--Nitrosopumilus_adriaticus_strain_NF5-contig1_1561
+|              |  |                       |  |                       +--| (96)
+|              |  |                       |  |                       |  +--Nitrosopumilus_sp_DDS1-contig651_6
+|              |  |                       |  |                    +--| (88)
+|              |  |                       |  |                    |  +--Nitrosopumilus_salaria_BD31-contig166_1
+|              |  |                       |  |                 +--| (92)
+|              |  |                       |  |                 |  |     +--Nitrosopumilus_koreensis_AR1-contig1_636
+|              |  |                       |  |                 |  |  +--| (85)
+|              |  |                       |  |                 |  |  |  +--Nitrosopumilus_maritimus_SCM1-contig1_627
+|              |  |                       |  |                 |  +--| (96)
+|              |  |                       |  |                 |     +--Nitrosopumilus_sp_D3C-contig1_1389
+|              |  |                       |  |              +--| (100)
+|              |  |                       |  |              |  |     +--Nitrosomarinus_catalina_strain_SPOT01-contig1_1183
+|              |  |                       |  |              |  |  +--| (100)
+|              |  |                       |  |              |  |  |  +--Nitrosopumilus_sp_Nsub-contig8_97
+|              |  |                       |  |              |  +--| (100)
+|              |  |                       |  |              |     |  +--Nitrosopelagicus_brevis_strain_CN25-contig1_1322
+|              |  |                       |  |              |     +--| (100)
+|              |  |                       |  |              |        +--Nitrosopelagicus_brevis_U25-contig33_1
+|              |  |                       |  |           +--| (97)
+|              |  |                       |  |           |  |     +--Nitrosarchaeum_koreense_MY1-contig1_1864
+|              |  |                       |  |           |  |  +--| (99)
+|              |  |                       |  |           |  |  |  +--Nitrosoarchaeum_sp_BD3-contig6_21
+|              |  |                       |  |           |  +--| (100)
+|              |  |                       |  |           |     |  +--Nitrosarchaeum_limnium_BG20-contig169_29
+|              |  |                       |  |           |     +--| (100)
+|              |  |                       |  |           |        +--Nitrosarchaeum_limnium_SFB1-contig51_25
+|              |  |                       |  |        +--| (93)
+|              |  |                       |  |        |  |        +--Nitrosotenuis_aquarius_strain_AQ6F-contig1_1743
+|              |  |                       |  |        |  |     +--| (100)
+|              |  |                       |  |        |  |     |  +--Nitrosotenuis_cloacae_strain_SAT1-contig1_1591
+|              |  |                       |  |        |  |  +--| (100)
+|              |  |                       |  |        |  |  |  +--Nitrosotenuis_chungbukensis_MY2-contig12_116
+|              |  |                       |  |        |  +--| (100)
+|              |  |                       |  |        |     +--Thaumarchaeota_archaeon_N4-contig9_506
+|              |  |                       |  |     +--| (84)
+|              |  |                       |  |     |  |        +--Nitrosotalea_devanaterra_Nd1-contig1_1096
+|              |  |                       |  |     |  |     +--| (100)
+|              |  |                       |  |     |  |     |  +--Nitrosotalea_koreensis_CS-contig1_488
+|              |  |                       |  |     |  |  +--| (100)
+|              |  |                       |  |     |  |  |  +--Nitrosotalea_sinensis_Nd2-contig4_138
+|              |  |                       |  |     |  +--| (96)
+|              |  |                       |  |     |     |     +--Nitrosotalea_devanaterra_Nd1-contig1_1328
+|              |  |                       |  |     |     |  +--| (100)
+|              |  |                       |  |     |     |  |  +--Nitrosotalea_koreensis_CS-contig1_282
+|              |  |                       |  |     |     +--| (100)
+|              |  |                       |  |     |        +--Nitrosotalea_sinensis_Nd2-contig3_795
+|              |  |                       |  |  +--| (100)
+|              |  |                       |  |  |  |  +--HM82_Bin1_000000000591_2
+|              |  |                       |  |  |  +--| (100)
+|              |  |                       |  |  |     +--SB_Bin1_000000000751_1
+|              |  |                       |  +--| (100)
+|              |  |                       |     |        +--Candidatus_Nitrosocosmicus_franklandus_C13-contig1_1310
+|              |  |                       |     |     +--| (100)
+|              |  |                       |     |     |  +--Nitrosocosmicus_hydrocola_strain_G61-contig1_504
+|              |  |                       |     |  +--| (100)
+|              |  |                       |     |  |  +--Nitrosocosmicus_oleophilus_strain_MY3-contig1_434
+|              |  |                       |     +--| (100)
+|              |  |                       |        |     +--Nitrososphaera_evergladensis_SR1-contig1_3137
+|              |  |                       |        |  +--| (100)
+|              |  |                       |        |  |  +--Nitrososphaera_viennensis_EN76-contig1_2378
+|              |  |                       |        +--| (100)
+|              |  |                       |           +--Nitrososphaera_gargensis_Ga9-contig1_3176
+|              |  |                    +--| (52)
+|              |  |                    |  +--Thaumarchaeota_archaeon_UBA141-contig2_6
+|              |  |                 +--| (25)
+|              |  |                 |  |     +--Thaumarchaeota_archaeon_UBA183-contig57_13
+|              |  |                 |  |  +--| (100)
+|              |  |                 |  |  |  +--Thaumarchaeota_bin_Fn1-contig2_110
+|              |  |                 |  +--| (93)
+|              |  |                 |     |      +----Saccharomyces_cerevisiae_gi974994519
+|              |  |                 |     +------| (100)
+|              |  |                 |            +-------Saccharomyces_cerevisiae_S288C_gi730015
+|              |  |              +--| (96)
+|              |  |              |  |     +--F_Bin1_000000000675_1
+|              |  |              |  |  +--| (100)
+|              |  |              |  |  |  +--XS87_Bin1_000000001988_2
+|              |  |              |  +--| (87)
+|              |  |              |     |        +-----F_Bin1_000000001013_3
+|              |  |              |     |     +--| (99)
+|              |  |              |     |     |  +--Bacillus_subtilis_subsp._subtilis_str._168_gi585576
+|              |  |              |     |  +--| (87)
+|              |  |              |     |  |  +-------Escherichia_coli_gi119390552
+|              |  |              |     +--| (54)
+|              |  |              |        |        +-------Corynebacterium_glutamicum_ATCC_13032_gi1703295
+|              |  |              |        |     +--| (98)
+|              |  |              |        |     |  +---Mycobacterium_tuberculosis_H37Rv_gi613779825
+|              |  |              |        |  +--| (89)
+|              |  |              |        |  |  |  +--Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334419
+|              |  |              |        |  |  +--| (100)
+|              |  |              |        |  |     +--Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334420
+|              |  |              |        +--| (48)
+|              |  |              |           |  +--Archaeoglobus_fulgidus_gi82407980
+|              |  |              |           +--| (100)
+|              |  |              |              +--Archaeoglobus_fulgidus_DSM_4304_gi74512110
+|              |  |           +--| (94)
+|              |  |           |  +---------Acidianus_hospitalis_W1-contig1_1522
+|              |  |        +--| (84)
+|              |  |        |  |     +-----F_Bin1_000000000783_3
+|              |  |        |  |  +--| (77)
+|              |  |        |  |  |  |              +--Nitrososphaera_evergladensis_SR1-contig1_1550
+|              |  |        |  |  |  |           +--| (98)
+|              |  |        |  |  |  |           |  +--Nitrososphaera_evergladensis_SR1-contig1_3318
+|              |  |        |  |  |  |        +--| (100)
+|              |  |        |  |  |  |        |  +--Nitrososphaera_viennensis_EN76-contig1_2208
+|              |  |        |  |  |  |     +--| (100)
+|              |  |        |  |  |  |     |  +--Nitrososphaera_viennensis_EN76-contig1_241
+|              |  |        |  |  |  |  +--| (83)
+|              |  |        |  |  |  |  |  +--Nitrososphaera_gargensis_Ga9-contig1_1474
+|              |  |        |  |  |  +--| (81)
+|              |  |        |  |  |     +--Nitrososphaera_gargensis_Ga9-contig1_3508
+|              |  |        |  +--| (69)
+|              |  |        |     |     +--Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_657
+|              |  |        |     |  +--| (100)
+|              |  |        |     |  |  +--Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_1209
+|              |  |        |     +--| (100)
+|              |  |        |        |  +--Nitrosotalea_bavarica_SbT1-contig8_45
+|              |  |        |        +--| (100)
+|              |  |        |           |     +--Nitrosotalea_devanaterra_Nd1-contig1_1756
+|              |  |        |           |  +--| (100)
+|              |  |        |           |  |  +--Nitrosotalea_koreensis_CS-contig1_1454
+|              |  |        |           +--| (100)
+|              |  |        |              +--Nitrosotalea_sinensis_Nd2-contig3_399
+|              |  |     +--| (72)
+|              |  |     |  |  +--Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1665
+|              |  |     |  +--| (100)
+|              |  |     |     +--Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_204
+|              |  |  +--| (92)
+|              |  |  |  +--Thaumarchaeota_archaeon_isolate_MTA5-contig31_10
+|              |  +--| (43)
+|              |     |        +--AAA007-N19-contig8_21
+|              |     |     +--| (100)
+|              |     |     |  +--Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig16_20
+|              |     |  +--| (100)
+|              |     |  |  +--Marine_Group_1_crenarchaeote_sp_SCGC-contig2_84
+|              |     +--| (52)
+|              |        |        +--Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_5
+|              |        |     +--| (100)
+|              |        |     |  +--Nitrosopelagicus_sp_REDSEA-S31_B2-contig60_2
+|              |        |  +--| (99)
+|              |        |  |  +--Nitrosopelagicus_brevis_strain_CN25-contig1_1350
+|              |        +--| (100)
+|              |           +--Nitrosopelagicus_brevis_U25-contig8_2
+|           +--| (58)
+|           |  +--Thaumarchaeota_archaeon_CSP1-1_contig7_18
+|        +--| (78)
+|        |  |        +--HM45_Bin1_000000000750_1
+|        |  |     +--| (96)
+|        |  |     |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig66_1
+|        |  |  +--| (86)
+|        |  |  |  |     +--Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig43_6
+|        |  |  |  |  +--| (100)
+|        |  |  |  |  |  +--Thaumarchaeota_YK1309_1N_NP_iota-contig174_12
+|        |  |  |  +--| (76)
+|        |  |  |     |     +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig12_10
+|        |  |  |     |  +--| (100)
+|        |  |  |     |  |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5-contig90_3
+|        |  |  |     +--| (100)
+|        |  |  |        +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig131_2
+|        |  +--| (51)
+|        |     |     +--XS83_Bin1_000000000441_4
+|        |     |  +--| (61)
+|        |     |  |  +--XS83_Bin2_000000000424_4
+|        |     +--| (84)
+|        |        |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig83_2
+|        |        +--| (100)
+|        |           +--YK1312_12N_NP_theta-contig204_2
+|     +--| (71)
+|     |  |     +--XS83_Bin2_000000000078_1
+|     |  |  +--| (75)
+|     |  |  |  |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig4_1
+|     |  |  |  +--| (98)
+|     |  |  |     +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig62_2
+|     |  +--| (98)
+|     |     +--XS87_Bin2_000000000050_3
+|  +--| (87)
+|  |  +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2-contig62_2
++--| (69)
+|  |  +--HM81_Bin1_000000000109_11
+|  +--| (84)
+|     +--Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig76_1
+|
++--EGM_Bin2_000000001153_1
+
+
+Consensus tree in newick format: 
+
+(EGM_Bin1_000000001706_1:0.0012144008,(((((((((EGM_Bin2_000000000652_2:0.0195421098,Candidatus_Nitrosopumilus_sp_MTA1-contig3_20:0.0360860646)56:0.0088754476,HM81_Bin2_000000000762_1:0.0268585348)98:0.0450598716,((((SB_Bin2_000000000206_4:0.0454781679,(((Nitrosomarinus_catalina_strain_SPOT01-contig1_1575:0.0093465860,Nitrosopumilus_sp_Nsub-contig21_15:0.0000025217)100:0.0159866560,Nitrosopumilus_maritimus_SCM1-contig1_1840:0.0220500366)100:0.0169685227,(((Nitrosopumilus_adriaticus_strain_NF5-contig1_180:0.0000025163,Nitrosopumilus_sp_DDS1-contig1095_1:0.0186490566)97:0.0107955769,(Nitrosopumilus_koreensis_AR1-contig1_1859:0.0014051062,Nitrosopumilus_sp_DDS1-contig1096_1:0.0000025133)64:0.0001411935)88:0.0005099063,Nitrosopumilus_sp_D3C-contig1_83:0.0307843614)96:0.0048468602)95:0.0110933254)93:0.0150370224,((Nitrosarchaeum_koreense_MY1-contig1_1724:0.0190453648,(Nitrosarchaeum_limnium_BG20-contig10_38:0.0000025133,Nitrosarchaeum_limnium_SFB1-contig50_23:0.0015196840)98:0.0101304261)98:0.0137669278,Nitrosopumilus_salaria_BD31-contig75_57:0.0229117011)96:0.0089365940)94:0.0202263643,(Nitrosoarchaeum-Baikal-G1-C1-contig8_85:0.0229772979,Nitrosoarchaeum_sp_BD3-contig3_137:0.0111704814)100:0.0350291527)93:0.0082730215,(((Nitrosotenuis_aquarius_strain_AQ6F-contig1_1578:0.0182628206,Nitrosotenuis_cloacae_strain_SAT1-contig1_1760:0.0168806628)100:0.0238660945,Nitrosotenuis_chungbukensis_MY2-contig9_151:0.0321000959)96:0.0144991606,Thaumarchaeota_archaeon_N4-contig11_254:0.0486820023)100:0.0434262397)95:0.0180425760)50:0.0201576317,(((((((((((((((((F_Bin1_000000001998_1:0.3219640862,Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723171:0.3503097660)100:0.5849241462,((Macaca_mulatta_gi2500177:0.9959349599,Homo_sapiens_gi218511807:0.5806350503)100:2.3590620120,(Methanocaldococcus_jannaschii_DSM_2661_gi2492880:0.8347211313,Methanocaldococcus_jannaschii_DSM_2661_gi2492881:0.4491861810)100:0.4472637309)49:0.1515968806)42:0.0489023641,(F_Bin1_000000000877_1:0.7448444826,Archaeoglobus_fulgidus_DSM_4304_gi74512113:0.3099878322)97:0.1692739646)41:0.1163112656,(Synechocystis_sp._PCC_6803_substr._Kazusa_gi1723099:0.4824091638,(Caenorhabditis_elegans_gi387912916:0.7258033596,Caenorhabditis_elegans_gi29840851:0.4363109475)100:0.9314832890)81:0.1665499007)32:0.0440241382,(((Arabidopsis_thaliana_gi1703292:0.1156504351,Oryza_sativa_Japonica_Group_gi75143828:0.1056686171)100:0.7403054404,Caenorhabditis_elegans_gi1703293:1.1311561429)97:0.2841963131,Synechocystis_sp._PCC_6803_substr._Kazusa_gi3024960:0.6330974076)88:0.1148062928)93:0.2010641083,Thaumarchaeota_archaeon_RBG_16_49_8-contig81_1:0.5828250165)99:0.3598455360,Thaumarchaeota_archaeon_strain_DS1-contig21_7:1.7856581402)98:0.2656972627,(Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1628:0.0000025133,Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_241:0.0000025133)100:0.5090317180)99:0.1916123378,(((((((((((HM79_Bin1_000000000035_1:0.0051108559,XS87_Bin1_000000000258_1:0.0475429910)96:0.0158227246,Nitrosopumilus_adriaticus_strain_NF5-contig1_1561:0.0000025163)95:0.0045178600,Nitrosopumilus_sp_DDS1-contig651_6:0.0000022821)96:0.0148098771,Nitrosopumilus_salaria_BD31-contig166_1:0.0065727592)88:0.0090720219,((Nitrosopumilus_koreensis_AR1-contig1_636:0.0091518770,Nitrosopumilus_maritimus_SCM1-contig1_627:0.0242802438)85:0.0059978788,Nitrosopumilus_sp_D3C-contig1_1389:0.0018314878)96:0.0181509272)92:0.0214720492,((Nitrosomarinus_catalina_strain_SPOT01-contig1_1183:0.0175823700,Nitrosopumilus_sp_Nsub-contig8_97:0.0079416553)100:0.0489763946,(Nitrosopelagicus_brevis_strain_CN25-contig1_1322:0.0000027483,Nitrosopelagicus_brevis_U25-contig33_1:0.0069273976)100:0.1245758224)100:0.0641475863)100:0.0568144890,((Nitrosarchaeum_koreense_MY1-contig1_1864:0.0058091138,Nitrosoarchaeum_sp_BD3-contig6_21:0.0433061746)99:0.0128841619,(Nitrosarchaeum_limnium_BG20-contig169_29:0.0000025133,Nitrosarchaeum_limnium_SFB1-contig51_25:0.0000025133)100:0.0061769653)100:0.0580368610)97:0.0338972360,(((Nitrosotenuis_aquarius_strain_AQ6F-contig1_1743:0.0069937238,Nitrosotenuis_cloacae_strain_SAT1-contig1_1591:0.0067404186)100:0.0194481640,Nitrosotenuis_chungbukensis_MY2-contig12_116:0.0300828464)100:0.0366805523,Thaumarchaeota_archaeon_N4-contig9_506:0.0206976024)100:0.0689696265)93:0.0401111898,(((Nitrosotalea_devanaterra_Nd1-contig1_1096:0.0062606512,Nitrosotalea_koreensis_CS-contig1_488:0.0060925626)100:0.0118790116,Nitrosotalea_sinensis_Nd2-contig4_138:0.0163654733)100:0.0582936373,((Nitrosotalea_devanaterra_Nd1-contig1_1328:0.0031236893,Nitrosotalea_koreensis_CS-contig1_282:0.0281880413)100:0.0063161543,Nitrosotalea_sinensis_Nd2-contig3_795:0.0308800566)100:0.2467629470)96:0.0431018587)84:0.0511817358,(HM82_Bin1_000000000591_2:0.0480874839,SB_Bin1_000000000751_1:0.0288117392)100:0.2645871217)100:0.1342569611,(((Candidatus_Nitrosocosmicus_franklandus_C13-contig1_1310:0.0429199016,Nitrosocosmicus_hydrocola_strain_G61-contig1_504:0.0398563132)100:0.0930198076,Nitrosocosmicus_oleophilus_strain_MY3-contig1_434:0.0385012788)100:0.1541030756,((Nitrososphaera_evergladensis_SR1-contig1_3137:0.0026298586,Nitrososphaera_viennensis_EN76-contig1_2378:0.0098724680)100:0.0305315884,Nitrososphaera_gargensis_Ga9-contig1_3176:0.0619288139)100:0.0510451934)100:0.1470912834)100:0.2687973082)100:0.1630218107,Thaumarchaeota_archaeon_UBA141-contig2_6:0.3623221116)52:0.0437481623,((Thaumarchaeota_archaeon_UBA183-contig57_13:0.1271749531,Thaumarchaeota_bin_Fn1-contig2_110:0.1255296343)100:0.2924625923,(Saccharomyces_cerevisiae_gi974994519:0.5321298836,Saccharomyces_cerevisiae_S288C_gi730015:0.7581343509)100:0.7094212849)93:0.1204423403)25:0.0061907093,((F_Bin1_000000000675_1:0.1753306734,XS87_Bin1_000000001988_2:0.1026590923)100:0.2204308380,(((F_Bin1_000000001013_3:0.6081020683,Bacillus_subtilis_subsp._subtilis_str._168_gi585576:0.1924798459)99:0.1928420707,Escherichia_coli_gi119390552:0.7395531681)87:0.0983095755,(((Corynebacterium_glutamicum_ATCC_13032_gi1703295:0.8027014607,Mycobacterium_tuberculosis_H37Rv_gi613779825:0.4504550808)98:0.2473304816,(Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334419:0.2888867967,Methanothermobacter_thermautotrophicus_str._Delta_H_gi3334420:0.1668136001)100:0.2085962917)89:0.0513223197,(Archaeoglobus_fulgidus_gi82407980:0.3521482546,Archaeoglobus_fulgidus_DSM_4304_gi74512110:0.1872644090)100:0.2977166049)48:0.0511183259)54:0.0704977273)87:0.1550227175)96:0.1134434258,Acidianus_hospitalis_W1-contig1_1522:0.9761061112)94:0.1271522432,((F_Bin1_000000000783_3:0.6167616210,(((((Nitrososphaera_evergladensis_SR1-contig1_1550:0.0327149427,Nitrososphaera_evergladensis_SR1-contig1_3318:0.0162172571)98:0.0072798635,Nitrososphaera_viennensis_EN76-contig1_2208:0.0450835758)100:0.0192734440,Nitrososphaera_viennensis_EN76-contig1_241:0.0203069938)100:0.0452817287,Nitrososphaera_gargensis_Ga9-contig1_1474:0.0146577542)83:0.0334367927,Nitrososphaera_gargensis_Ga9-contig1_3508:0.0443732206)81:0.1005734444)77:0.0958656605,((Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_657:0.0000025133,Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_1209:0.0000025133)100:0.0628584948,(Nitrosotalea_bavarica_SbT1-contig8_45:0.0098754151,((Nitrosotalea_devanaterra_Nd1-contig1_1756:0.0046194189,Nitrosotalea_koreensis_CS-contig1_1454:0.0000025133)100:0.0030074932,Nitrosotalea_sinensis_Nd2-contig3_399:0.0078091890)100:0.0202743877)100:0.1719394777)100:0.3118756403)69:0.0529528096)84:0.0791459931,(Candidatus_Nitrosocaldus_cavascurensis_strain-contig1_1665:0.0000025133,Candidatus_Nitrosocaldus_islandicus_isolate_3F-contig1_204:0.0000025133)100:0.1138413180)72:0.0327290311,Thaumarchaeota_archaeon_isolate_MTA5-contig31_10:0.1043061344)92:0.0895572454,(((AAA007-N19-contig8_21:0.0015620478,Thaumarchaeota_archaeon_SCGC_AAA007-O23-contig16_20:0.0000025133)100:0.0037137215,Marine_Group_1_crenarchaeote_sp_SCGC-contig2_84:0.0009882120)100:0.0672695368,(((Candidatus_Nitrosopelagicus_sp_Isolate_GoM-contig69_5:0.0023017863,Nitrosopelagicus_sp_REDSEA-S31_B2-contig60_2:0.0000029054)100:0.0140280200,Nitrosopelagicus_brevis_strain_CN25-contig1_1350:0.0031269690)99:0.0012129057,Nitrosopelagicus_brevis_U25-contig8_2:0.0048967850)100:0.0563286338)52:0.0163549808)43:0.0103714191)87:0.0270902984,Thaumarchaeota_archaeon_CSP1-1_contig7_18:0.0488045301)58:0.0172737058,(((HM45_Bin1_000000000750_1:0.0102750433,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig66_1:0.0045129779)96:0.0194416927,((Nitrosopumilales_archaeon_isolate_NPMR_NP_iota_1-contig43_6:0.0000021452,Thaumarchaeota_YK1309_1N_NP_iota-contig174_12:0.0000025133)100:0.0461845166,((Nitrosopumilales_archaeon_strain_NPMR_NP_theta_1-contig12_10:0.0142857385,Nitrosopumilales_archaeon_strain_NPMR_NP_theta_5-contig90_3:0.0014205153)100:0.0174679720,Nitrosopumilales_archaeon_strain_NPMR_NP_theta_2-contig131_2:0.0303563633)100:0.0269466634)76:0.0138720781)86:0.0193047459,((XS83_Bin1_000000000441_4:0.0000025133,XS83_Bin2_000000000424_4:0.0000025133)61:0.0000025019,(Nitrosopumilales_archaeon_strain_NPMR_NP_theta_3-contig83_2:0.0078450918,YK1312_12N_NP_theta-contig204_2:0.0000025133)100:0.0616821115)84:0.0424638017)51:0.0106402172)78:0.0137173441,((XS83_Bin2_000000000078_1:0.0000025133,(Nitrosopumilales_archaeon_strain_NPMR_NP_delta_1-contig4_1:0.0000025133,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig62_2:0.0128333134)98:0.0192864171)75:0.0080232774,XS87_Bin2_000000000050_3:0.0097205802)98:0.0227803051)71:0.0081389734,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_2-contig62_2:0.0259833527)87:0.0103957692,(HM81_Bin1_000000000109_11:0.0073466979,Nitrosopumilales_archaeon_strain_NPMR_NP_delta_3-contig76_1:0.0139351061)84:0.0027952345)69:0.0023938396,EGM_Bin2_000000001153_1:0.0000025133);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t 1.A.11_all_AA_trimal.faa.treefile -m "LG+F+R5{0.111879,0.122544,0.259969,0.445936,0.292308,0.866296,0.285486,1.53622,0.0503571,3.54596}" --length 646
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s 1.A.11_all_AA_trimal.faa --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s 1.A.11_all_AA_trimal.faa --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Aug 22 01:08:18 2023
+Total CPU time used: 2234.998816 seconds (0h:37m:14s)
+Total wall-clock time used: 2241.264709 seconds (0h:37m:21s)
+
